@@ -1,0 +1,22 @@
+{
+  "ticket_id": "2025-12-12-Category_City_Targeting-1",
+  "date": "2025-12-12",
+  "feature_bucket": "Category-City Targeting",
+  "priority": 6,
+  "title": "[Category-City Targeting] Incorrect category-city targeting leading to irrelevant leads. (1 reports)",
+  "description": "Auto-generated ticket for Category-City Targeting feature.\n\nProblem: Incorrect category-city targeting leading to irrelevant leads.\nReports: 1\nAffected Sellers: 1\nDate: 2025-12-12\n\nThis issue was identified from 1 total reports in the Category-City Targeting category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Incorrect category-city targeting leading to irrelevant leads.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "Review and optimize the category-city targeting algorithm to improve lead relevance. Ensure accurate mapping of product categories to geographic locations."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T11:10:31.085658862+05:30"
+}

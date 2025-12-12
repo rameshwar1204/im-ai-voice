@@ -16,7 +16,6 @@ import (
 const (
 	GeminiBaseURL = "https://generativelanguage.googleapis.com/v1beta/models"
 	GeminiModel   = "gemini-2.0-flash"
-	GeminiAPIKey  = "AIzaSyAZfF_xXm3NKECr8ZMfWg1ZsuUBzLQStd8" // Hardcoded for team convenience
 )
 
 type AIClient struct {
@@ -65,7 +64,7 @@ type geminiError struct {
 func NewAIClientFromEnv() (*AIClient, error) {
 	apiKey := os.Getenv("GEMINI_API_KEY")
 	if apiKey == "" {
-		apiKey = GeminiAPIKey // Use hardcoded key if env var not set
+		return nil, fmt.Errorf("GEMINI_API_KEY environment variable is required. Get one at https://aistudio.google.com/app/apikey")
 	}
 	return &AIClient{
 		httpClient: &http.Client{Timeout: 120 * time.Second},

@@ -1,0 +1,22 @@
+{
+  "ticket_id": "2025-12-12-Lead_Management-1",
+  "date": "2025-12-12",
+  "feature_bucket": "Lead Management",
+  "priority": 3,
+  "title": "[Lead Management] Customer feels buylead notifications are delayed. (1 reports)",
+  "description": "Auto-generated ticket for Lead Management feature.\n\nProblem: Customer feels buylead notifications are delayed.\nReports: 1\nAffected Sellers: 1\nDate: 2025-12-12\n\nThis issue was identified from 1 total reports in the Lead Management category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Customer feels buylead notifications are delayed.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "Investigate the notification delivery system to ensure timely delivery of buylead alerts. Explore options for providing real-time or near real-time notifications."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T11:10:31.085643933+05:30"
+}

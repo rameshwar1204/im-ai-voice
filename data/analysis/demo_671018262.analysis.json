@@ -1,0 +1,53 @@
+{
+  "call_id": "demo_671018262",
+  "seller_id": "100263215",
+  "timestamp": "2025-12-12T11:04:56.026905185+05:30",
+  "transcript_en": "Caller: Hello, I'm calling regarding the leads I'm receiving. They are not relevant to my business at all. I sell industrial equipment, and I'm getting inquiries about clothing and household items. This is a waste of my time and money.\n\nAgent: I understand your concern. Can you provide me with your IndiaMART ID so I can look into your account?\n\nCaller: It's [IndiaMART ID].\n\nAgent: Thank you. Please allow me a moment to review your account details. Okay, I see here that your primary product category is indeed industrial equipment. I apologize for the irrelevant leads you've been receiving. It seems there might be an issue with the category-city targeting settings. I will escalate this to our technical team to investigate and rectify the problem. In the meantime, I will manually filter your leads for the next week to ensure you only receive relevant inquiries. Is that acceptable?\n\nCaller: That sounds good, but how long will it take for the technical team to fix the underlying issue?\n\nAgent: I will follow up with them and provide you with an update within 48 hours. I will also add a note to your account so that any agent who handles your case in the future is aware of the situation. Is there anything else I can assist you with today?\n\nCaller: No, that's all for now. Thank you.\n\nAgent: You're welcome. Have a good day.",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Receiving irrelevant leads (clothing, household items) despite selling industrial equipment.",
+      "bucket": "Lead Quality",
+      "severity": "high",
+      "actionable_summary": "Investigate and correct category-city targeting settings to ensure relevant leads are delivered. Implement stricter lead filtering mechanisms."
+    },
+    {
+      "problem": "Incorrect category-city targeting leading to irrelevant leads.",
+      "bucket": "Category-City Targeting",
+      "severity": "high",
+      "actionable_summary": "Review and optimize the category-city targeting algorithm to improve lead relevance. Ensure accurate mapping of product categories to geographic locations."
+    }
+  ],
+  "intent": {
+    "sentiment": "Negative",
+    "satisfaction_score": 4,
+    "prompt_resolution": false,
+    "overall_experience": "Poor"
+  },
+  "churn": {
+    "is_likely_to_churn": "medium",
+    "renewal_at_risk": true,
+    "dissatisfaction_level": "high",
+    "churn_reason": "Receiving irrelevant leads wastes time and money, leading to dissatisfaction with the service.",
+    "renewal_probability": 0.4
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "Customer is currently focused on resolving the lead quality issue and is unlikely to be receptive to upsell offers."
+  },
+  "call_summary": "The seller is calling to complain about receiving irrelevant leads that are not related to their industrial equipment business. The agent acknowledges the issue, promises to escalate it to the technical team, and offers a temporary solution of manually filtering leads.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": true,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Lead quality issues are a significant source of customer dissatisfaction.",
+      "Category-city targeting needs improvement to ensure lead relevance."
+    ],
+    "parsed": true
+  },
+  "analyzed_at": "2025-12-12T11:05:03.598993309+05:30"
+}

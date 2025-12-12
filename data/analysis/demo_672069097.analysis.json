@@ -1,0 +1,51 @@
+{
+  "call_id": "demo_672069097",
+  "seller_id": "100237497",
+  "timestamp": "2025-12-12T11:04:51.21736784+05:30",
+  "transcript_en": "Caller Prashant from IndiaMART head office, senior manager, calling Mr. Raj regarding TrustSEAL services previously discussed with Anju. Raj states he's postponing TrustSEAL due to recent machinery investments, considering it next year (Feb/March) if business improves. Prashant mentions a morning call from Raj's side (Nivedita in Mysore) and asks about issues. Raj will check with Nivedita and call back.",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Customer called IndiaMART in the morning, reason unknown.",
+      "bucket": "Other",
+      "severity": "low",
+      "actionable_summary": "Await customer's callback to understand and resolve the issue."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 6,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "None apparent yet.",
+    "renewal_probability": 0.7
+  },
+  "upsell": {
+    "has_opportunity": true,
+    "score": 6,
+    "willingness_to_invest": "medium",
+    "is_growth_oriented": true,
+    "interested_features": [
+      "TrustSEAL",
+      "Increased Leads"
+    ],
+    "upsell_reason": "Customer expressed prior interest in TrustSEAL and lead generation."
+  },
+  "call_summary": "IndiaMART representative Prashant called Mr. Raj to follow up on TrustSEAL interest. Raj declined for now due to other investments but is open to it later. A separate issue was raised regarding a call made to IndiaMART from Raj's company, which he will investigate and follow up on.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer is postponing TrustSEAL due to financial constraints.",
+      "Customer will investigate the reason for the morning call to IndiaMART."
+    ],
+    "parsed": true
+  },
+  "analyzed_at": "2025-12-12T11:04:56.023101276+05:30"
+}

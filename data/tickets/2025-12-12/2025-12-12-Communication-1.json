@@ -1,0 +1,22 @@
+{
+  "ticket_id": "2025-12-12-Communication-1",
+  "date": "2025-12-12",
+  "feature_bucket": "Communication",
+  "priority": 8,
+  "title": "[Communication] Customer mistakenly marked previous interaction as 'not satisfied'. (1 reports)",
+  "description": "Auto-generated ticket for Communication feature.\n\nProblem: Customer mistakenly marked previous interaction as 'not satisfied'.\nReports: 1\nAffected Sellers: 1\nDate: 2025-12-12\n\nThis issue was identified from 1 total reports in the Communication category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Customer mistakenly marked previous interaction as 'not satisfied'.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "Ensure the customer updates the feedback to 'satisfied' as requested by the agent."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T11:10:31.0856636+05:30"
+}

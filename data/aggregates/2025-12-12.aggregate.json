@@ -1,0 +1,151 @@
+{
+  "date": "2025-12-12",
+  "total_calls": 4,
+  "total_issues": 8,
+  "feature_buckets": {
+    "Buyer Interaction": {
+      "bucket": "Buyer Interaction",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Buyers are not ready to pay and have trust issues.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "medium": 1
+      },
+      "examples": [
+        "Suggest TrustSEAL to the customer to build trust with buyers."
+      ]
+    },
+    "Catalog / Storefront Setup": {
+      "bucket": "Catalog / Storefront Setup",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Customer needs help updating product images.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "low": 1
+      },
+      "examples": [
+        "Ensure the customer receives prompt assistance with updating their product images as promised by the agent."
+      ]
+    },
+    "Category-City Targeting": {
+      "bucket": "Category-City Targeting",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Incorrect category-city targeting leading to irrelevant leads.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "high": 1
+      },
+      "examples": [
+        "Review and optimize the category-city targeting algorithm to improve lead relevance. Ensure accurate mapping of product categories to geographic locations."
+      ]
+    },
+    "Communication": {
+      "bucket": "Communication",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Customer mistakenly marked previous interaction as 'not satisfied'.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "low": 1
+      },
+      "examples": [
+        "Ensure the customer updates the feedback to 'satisfied' as requested by the agent."
+      ]
+    },
+    "Lead Management": {
+      "bucket": "Lead Management",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Customer feels buylead notifications are delayed.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "medium": 1
+      },
+      "examples": [
+        "Investigate the notification delivery system to ensure timely delivery of buylead alerts. Explore options for providing real-time or near real-time notifications."
+      ]
+    },
+    "Lead Quality": {
+      "bucket": "Lead Quality",
+      "total_count": 2,
+      "affected_sellers": 2,
+      "top_problems": [
+        {
+          "problem": "Customer is not fully satisfied with the conversion rate of buyleads.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Receiving irrelevant leads (clothing, household items) despite selling industrial equipment.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "high": 1,
+        "medium": 1
+      },
+      "examples": [
+        "Investigate the quality of leads being provided to the customer and explore options for improving lead targeting or filtering.",
+        "Investigate and correct category-city targeting settings to ensure relevant leads are delivered. Implement stricter lead filtering mechanisms."
+      ]
+    },
+    "Other": {
+      "bucket": "Other",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Customer called IndiaMART in the morning, reason unknown.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "low": 1
+      },
+      "examples": [
+        "Await customer's callback to understand and resolve the issue."
+      ]
+    }
+  },
+  "sentiment_breakdown": {
+    "Negative": 1,
+    "Neutral": 3
+  },
+  "churn_risk_breakdown": {
+    "low": 2,
+    "medium": 2
+  },
+  "upsell_opportunities": 2,
+  "avg_satisfaction_score": 5.5,
+  "generated_at": "2025-12-12T11:10:31.08528226+05:30"
+}
