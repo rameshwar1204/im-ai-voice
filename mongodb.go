@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"sort"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
@@ -259,54 +260,351 @@ func SyncAggregate(aggregate *DailyAggregate) {
 	}()
 }
 
-// ==================== BULK SYNC (for initial load) ====================
+// ==================== READ FUNCTIONS (MongoDB-first) ====================
 
-// SyncAllProfilesToMongo syncs all existing profiles to MongoDB
-func SyncAllProfilesToMongo() error {
+// GetSellerProfileFromMongo loads a seller profile from MongoDB
+func GetSellerProfileFromMongo(gluserID string) (*SellerProfile, error) {
 	if MongoDB == nil || !MongoDB.enabled {
-		return fmt.Errorf("MongoDB not enabled")
+		return nil, fmt.Errorf("MongoDB not enabled")
 	}
 
-	ids, err := ListSellerProfiles()
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_PROFILES)
+	filter := bson.M{"gluser_id": gluserID}
+
+	var doc bson.M
+	err := collection.FindOne(ctx, filter).Decode(&doc)
 	if err != nil {
-		return err
-	}
-
-	log.Printf("📤 Syncing %d seller profiles to MongoDB...", len(ids))
-
-	for _, id := range ids {
-		profile, err := LoadSellerProfile(id)
-		if err != nil || profile == nil {
-			continue
+		if err == mongo.ErrNoDocuments {
+			return nil, nil // Not found
 		}
-		SyncSellerProfile(profile)
+		return nil, err
 	}
 
-	return nil
+	// Convert bson.M to SellerProfile via JSON
+	jsonBytes, err := json.Marshal(doc)
+	if err != nil {
+		return nil, err
+	}
+
+	var profile SellerProfile
+	if err := json.Unmarshal(jsonBytes, &profile); err != nil {
+		return nil, err
+	}
+
+	return &profile, nil
 }
 
-// SyncAllTicketsToMongo syncs all existing tickets to MongoDB
-func SyncAllTicketsToMongo() error {
+// GetAllAnalysesForDateFromMongo loads all analyses for a date from MongoDB
+func GetAllAnalysesForDateFromMongo(date string) ([]AnalysisResult, error) {
 	if MongoDB == nil || !MongoDB.enabled {
-		return fmt.Errorf("MongoDB not enabled")
+		return nil, fmt.Errorf("MongoDB not enabled")
 	}
 
-	dates, err := ListTicketDates()
+	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_ANALYSES)
+
+	// Parse date to create time range
+	startTime, _ := time.Parse("2006-01-02", date)
+	endTime := startTime.Add(24 * time.Hour)
+
+	filter := bson.M{
+		"timestamp": bson.M{
+			"$gte": startTime.Format(time.RFC3339),
+			"$lt":  endTime.Format(time.RFC3339),
+		},
+	}
+
+	cursor, err := collection.Find(ctx, filter)
 	if err != nil {
-		return err
+		return nil, err
 	}
+	defer cursor.Close(ctx)
 
-	log.Printf("📤 Syncing tickets for %d dates to MongoDB...", len(dates))
+	var results []AnalysisResult
+	for cursor.Next(ctx) {
+		var doc bson.M
+		if err := cursor.Decode(&doc); err != nil {
+			continue
+		}
 
-	for _, date := range dates {
-		tickets, err := LoadTicketsForDate(date)
+		// Convert to AnalysisResult via JSON
+		jsonBytes, err := json.Marshal(doc)
 		if err != nil {
 			continue
 		}
-		for _, ticket := range tickets {
-			SyncTicket(&ticket)
+
+		var ar AnalysisResult
+		if err := json.Unmarshal(jsonBytes, &ar); err != nil {
+			continue
+		}
+		results = append(results, ar)
+	}
+
+	return results, nil
+}
+
+// GetAllAnalysesFromMongo loads all analyses from MongoDB (for aggregation)
+func GetAllAnalysesFromMongo() ([]AnalysisResult, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 60*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_ANALYSES)
+
+	cursor, err := collection.Find(ctx, bson.M{})
+	if err != nil {
+		return nil, err
+	}
+	defer cursor.Close(ctx)
+
+	var results []AnalysisResult
+	for cursor.Next(ctx) {
+		var doc bson.M
+		if err := cursor.Decode(&doc); err != nil {
+			continue
+		}
+
+		jsonBytes, err := json.Marshal(doc)
+		if err != nil {
+			continue
+		}
+
+		var ar AnalysisResult
+		if err := json.Unmarshal(jsonBytes, &ar); err != nil {
+			continue
+		}
+		results = append(results, ar)
+	}
+
+	return results, nil
+}
+
+// CountAnalysesFromMongo returns count of all analyses in MongoDB
+func CountAnalysesFromMongo() (int64, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return 0, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_ANALYSES)
+	return collection.CountDocuments(ctx, bson.M{})
+}
+
+// GetAnalysisFromMongo loads a single analysis by call_id
+func GetAnalysisFromMongo(callID string) (*AnalysisResult, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_ANALYSES)
+	filter := bson.M{"call_id": callID}
+
+	var doc bson.M
+	err := collection.FindOne(ctx, filter).Decode(&doc)
+	if err != nil {
+		if err == mongo.ErrNoDocuments {
+			return nil, nil
+		}
+		return nil, err
+	}
+
+	jsonBytes, err := json.Marshal(doc)
+	if err != nil {
+		return nil, err
+	}
+
+	var ar AnalysisResult
+	if err := json.Unmarshal(jsonBytes, &ar); err != nil {
+		return nil, err
+	}
+
+	return &ar, nil
+}
+
+// AnalysisExistsInMongo checks if an analysis exists in MongoDB
+func AnalysisExistsInMongo(callID string) bool {
+	if MongoDB == nil || !MongoDB.enabled {
+		return false
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_ANALYSES)
+	count, err := collection.CountDocuments(ctx, bson.M{"call_id": callID})
+	return err == nil && count > 0
+}
+
+// GetAggregateFromMongo loads a daily aggregate from MongoDB
+func GetAggregateFromMongo(date string) (*DailyAggregate, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_AGGREGATES)
+	filter := bson.M{"date": date}
+
+	var doc bson.M
+	err := collection.FindOne(ctx, filter).Decode(&doc)
+	if err != nil {
+		if err == mongo.ErrNoDocuments {
+			return nil, nil
+		}
+		return nil, err
+	}
+
+	jsonBytes, err := json.Marshal(doc)
+	if err != nil {
+		return nil, err
+	}
+
+	var agg DailyAggregate
+	if err := json.Unmarshal(jsonBytes, &agg); err != nil {
+		return nil, err
+	}
+
+	return &agg, nil
+}
+
+// GetTicketsForDateFromMongo loads all tickets for a date from MongoDB
+func GetTicketsForDateFromMongo(date string) ([]Ticket, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_TICKETS)
+	filter := bson.M{"date": date}
+
+	cursor, err := collection.Find(ctx, filter)
+	if err != nil {
+		return nil, err
+	}
+	defer cursor.Close(ctx)
+
+	var tickets []Ticket
+	for cursor.Next(ctx) {
+		var doc bson.M
+		if err := cursor.Decode(&doc); err != nil {
+			continue
+		}
+
+		jsonBytes, err := json.Marshal(doc)
+		if err != nil {
+			continue
+		}
+
+		var ticket Ticket
+		if err := json.Unmarshal(jsonBytes, &ticket); err != nil {
+			continue
+		}
+		tickets = append(tickets, ticket)
+	}
+
+	return tickets, nil
+}
+
+// ListAllSellerIDsFromMongo returns all seller IDs from MongoDB
+func ListAllSellerIDsFromMongo() ([]string, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_PROFILES)
+
+	// Use distinct to get unique gluser_ids
+	ids, err := collection.Distinct(ctx, "gluser_id", bson.M{})
+	if err != nil {
+		return nil, err
+	}
+
+	var result []string
+	for _, id := range ids {
+		if s, ok := id.(string); ok {
+			result = append(result, s)
 		}
 	}
 
-	return nil
+	return result, nil
+}
+
+// ListAggregateDatesFromMongo returns all aggregate dates from MongoDB
+func ListAggregateDatesFromMongo() ([]string, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_AGGREGATES)
+
+	dates, err := collection.Distinct(ctx, "date", bson.M{})
+	if err != nil {
+		return nil, err
+	}
+
+	var result []string
+	for _, d := range dates {
+		if s, ok := d.(string); ok {
+			result = append(result, s)
+		}
+	}
+
+	// Sort descending
+	sort.Sort(sort.Reverse(sort.StringSlice(result)))
+	return result, nil
+}
+
+// ListTicketDatesFromMongo returns all unique ticket dates from MongoDB
+func ListTicketDatesFromMongo() ([]string, error) {
+	if MongoDB == nil || !MongoDB.enabled {
+		return nil, fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_TICKETS)
+
+	dates, err := collection.Distinct(ctx, "date", bson.M{})
+	if err != nil {
+		return nil, err
+	}
+
+	var result []string
+	for _, d := range dates {
+		if s, ok := d.(string); ok {
+			result = append(result, s)
+		}
+	}
+
+	sort.Sort(sort.Reverse(sort.StringSlice(result)))
+	return result, nil
+}
+
+// IsMongoEnabled returns true if MongoDB is connected and enabled
+func IsMongoEnabled() bool {
+	return MongoDB != nil && MongoDB.enabled
 }

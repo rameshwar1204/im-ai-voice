@@ -1,13 +1,18 @@
 package main
 
 import (
+	"context"
 	"encoding/json"
 	"fmt"
+	"log"
 	"os"
 	"path/filepath"
 	"sort"
 	"strings"
 	"time"
+
+	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
 // ==================== SELLER PROFILE MODELS ====================
@@ -148,27 +153,79 @@ func init() {
 	os.MkdirAll(PROFILES_DIR, 0755)
 }
 
-// SaveSellerProfile saves/updates a seller profile
+// SaveSellerProfile saves a seller profile to MongoDB (primary)
 func SaveSellerProfile(profile *SellerProfile) error {
 	profile.UpdatedAt = time.Now()
 
+	// MongoDB is primary storage
+	if IsMongoEnabled() {
+		return SaveSellerProfileToMongo(profile)
+	}
+
+	// Fallback to local file if MongoDB not available
+	return saveSellerProfileToFile(profile)
+}
+
+// SaveSellerProfileToMongo saves profile directly to MongoDB (synchronous)
+func SaveSellerProfileToMongo(profile *SellerProfile) error {
+	if MongoDB == nil || !MongoDB.enabled {
+		return fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_PROFILES)
+
+	// Convert to bson.M using JSON tags
+	doc, err := toBsonM(profile)
+	if err != nil {
+		return fmt.Errorf("failed to marshal profile: %w", err)
+	}
+
+	// Upsert
+	filter := bson.M{"gluser_id": profile.GluserID}
+	opts := options.Replace().SetUpsert(true)
+
+	_, err = collection.ReplaceOne(ctx, filter, doc, opts)
+	if err != nil {
+		return fmt.Errorf("failed to save profile to MongoDB: %w", err)
+	}
+
+	log.Printf("   📤 Saved profile to MongoDB: %s", profile.GluserID)
+	return nil
+}
+
+// saveSellerProfileToFile saves profile to local file (fallback)
+func saveSellerProfileToFile(profile *SellerProfile) error {
 	b, err := json.MarshalIndent(profile, "", "  ")
 	if err != nil {
 		return fmt.Errorf("failed to marshal profile: %w", err)
 	}
 
 	path := filepath.Join(PROFILES_DIR, fmt.Sprintf("seller_%s.json", profile.GluserID))
-	if err := os.WriteFile(path, b, 0644); err != nil {
-		return err
-	}
-
-	// Sync to MongoDB (async)
-	SyncSellerProfile(profile)
-	return nil
+	return os.WriteFile(path, b, 0644)
 }
 
-// LoadSellerProfile loads a seller profile by gluser_id
+// LoadSellerProfile loads a seller profile - MongoDB first, fallback to file
 func LoadSellerProfile(gluserID string) (*SellerProfile, error) {
+	// Try MongoDB first
+	if IsMongoEnabled() {
+		profile, err := GetSellerProfileFromMongo(gluserID)
+		if err != nil {
+			log.Printf("⚠️ MongoDB load failed for %s: %v", gluserID, err)
+		}
+		if profile != nil {
+			return profile, nil
+		}
+	}
+
+	// Fallback to local file
+	return loadSellerProfileFromFile(gluserID)
+}
+
+// loadSellerProfileFromFile loads profile from local file (fallback)
+func loadSellerProfileFromFile(gluserID string) (*SellerProfile, error) {
 	path := filepath.Join(PROFILES_DIR, fmt.Sprintf("seller_%s.json", gluserID))
 	b, err := os.ReadFile(path)
 	if err != nil {

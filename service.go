@@ -7,6 +7,9 @@ import (
 	"sort"
 	"strings"
 	"time"
+
+	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
 type Service struct {
@@ -106,10 +109,23 @@ func (s *Service) ProcessAllUnprocessed(ctx context.Context) (int, []error) {
 
 // RunAggregation generates daily aggregates and tickets for a date
 func (s *Service) RunAggregation(ctx context.Context, date string) (*DailyAggregate, error) {
-	// Load all analysis for the date
-	analyses, err := LoadAllAnalysisForDate(date)
-	if err != nil {
-		return nil, fmt.Errorf("failed to load analyses: %w", err)
+	// Load all analyses for the date - MongoDB first
+	var analyses []AnalysisResult
+	var err error
+
+	if IsMongoEnabled() {
+		analyses, err = GetAllAnalysesForDateFromMongo(date)
+		if err != nil {
+			log.Printf("⚠️ MongoDB load failed, falling back to local: %v", err)
+		}
+	}
+
+	// Fallback to local files if MongoDB failed or not enabled
+	if len(analyses) == 0 {
+		analyses, err = LoadAllAnalysisForDate(date)
+		if err != nil {
+			return nil, fmt.Errorf("failed to load analyses: %w", err)
+		}
 	}
 
 	if len(analyses) == 0 {
@@ -119,21 +135,32 @@ func (s *Service) RunAggregation(ctx context.Context, date string) (*DailyAggreg
 	// Build aggregate
 	agg := s.buildAggregate(date, analyses)
 
-	// Save aggregate
-	if err := SaveAggregate(*agg); err != nil {
-		return nil, fmt.Errorf("failed to save aggregate: %w", err)
+	// Save aggregate to MongoDB directly
+	if IsMongoEnabled() {
+		if err := SaveAggregateToMongo(agg); err != nil {
+			log.Printf("⚠️ Failed to save aggregate to MongoDB: %v", err)
+		}
+	} else {
+		// Fallback to local file
+		if err := SaveAggregate(*agg); err != nil {
+			return nil, fmt.Errorf("failed to save aggregate: %w", err)
+		}
 	}
-	// Sync aggregate to MongoDB
-	SyncAggregate(agg)
 
-	// Generate tickets
+	// Generate and save tickets directly to MongoDB
 	tickets := s.generateTickets(date, agg)
 	for _, ticket := range tickets {
-		if err := SaveTicket(ticket); err != nil {
-			log.Printf("Failed to save ticket %s: %v", ticket.TicketID, err)
+		if IsMongoEnabled() {
+			if err := SaveTicketToMongo(&ticket); err != nil {
+				log.Printf("⚠️ Failed to save ticket %s to MongoDB: %v", ticket.TicketID, err)
+			} else {
+				log.Printf("   📤 Saved ticket to MongoDB: %s", ticket.TicketID)
+			}
 		} else {
-			// Sync ticket to MongoDB
-			SyncTicket(&ticket)
+			// Fallback to local file
+			if err := SaveTicket(ticket); err != nil {
+				log.Printf("Failed to save ticket %s: %v", ticket.TicketID, err)
+			}
 		}
 	}
 
@@ -141,6 +168,61 @@ func (s *Service) RunAggregation(ctx context.Context, date string) (*DailyAggreg
 		date, agg.TotalCalls, agg.TotalIssues, len(tickets))
 
 	return agg, nil
+}
+
+// SaveAggregateToMongo saves aggregate directly to MongoDB (synchronous)
+func SaveAggregateToMongo(agg *DailyAggregate) error {
+	if MongoDB == nil || !MongoDB.enabled {
+		return fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_AGGREGATES)
+
+	doc, err := toBsonM(agg)
+	if err != nil {
+		return fmt.Errorf("failed to marshal aggregate: %w", err)
+	}
+
+	filter := bson.M{"date": agg.Date}
+	opts := options.Replace().SetUpsert(true)
+
+	_, err = collection.ReplaceOne(ctx, filter, doc, opts)
+	if err != nil {
+		return fmt.Errorf("failed to save aggregate to MongoDB: %w", err)
+	}
+
+	log.Printf("   📤 Saved aggregate to MongoDB: %s", agg.Date)
+	return nil
+}
+
+// SaveTicketToMongo saves ticket directly to MongoDB (synchronous)
+func SaveTicketToMongo(ticket *Ticket) error {
+	if MongoDB == nil || !MongoDB.enabled {
+		return fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_TICKETS)
+
+	doc, err := toBsonM(ticket)
+	if err != nil {
+		return fmt.Errorf("failed to marshal ticket: %w", err)
+	}
+
+	filter := bson.M{"ticket_id": ticket.TicketID}
+	opts := options.Replace().SetUpsert(true)
+
+	_, err = collection.ReplaceOne(ctx, filter, doc, opts)
+	if err != nil {
+		return fmt.Errorf("failed to save ticket to MongoDB: %w", err)
+	}
+
+	return nil
 }
 
 // buildAggregate creates a DailyAggregate from analysis results
@@ -410,31 +492,65 @@ func (s *Service) StartAggregationTicker(ctx context.Context) {
 
 // ==================== QUERY METHODS ====================
 
-// GetCallAnalysis returns the analysis for a specific call
+// GetCallAnalysis returns the analysis for a specific call - MongoDB first
 func (s *Service) GetCallAnalysis(callID string) (*AnalysisResult, error) {
+	if IsMongoEnabled() {
+		ar, err := GetAnalysisFromMongo(callID)
+		if err == nil && ar != nil {
+			return ar, nil
+		}
+	}
+	// Fallback to local
 	return LoadAnalysis(callID)
 }
 
-// GetDailyAggregate returns the aggregate for a specific date
+// GetDailyAggregate returns the aggregate for a specific date - MongoDB first
 func (s *Service) GetDailyAggregate(date string) (*DailyAggregate, error) {
+	if IsMongoEnabled() {
+		agg, err := GetAggregateFromMongo(date)
+		if err == nil && agg != nil {
+			return agg, nil
+		}
+	}
+	// Fallback to local
 	return LoadAggregate(date)
 }
 
-// GetTicketsForDate returns all tickets for a specific date
+// GetTicketsForDate returns all tickets for a specific date - MongoDB first
 func (s *Service) GetTicketsForDate(date string) ([]Ticket, error) {
+	if IsMongoEnabled() {
+		tickets, err := GetTicketsForDateFromMongo(date)
+		if err == nil && len(tickets) > 0 {
+			return tickets, nil
+		}
+	}
+	// Fallback to local
 	return LoadTicketsForDate(date)
 }
 
-// GetDashboard returns the complete dashboard for a date
+// GetDashboard returns the complete dashboard for a date - MongoDB first
 func (s *Service) GetDashboard(date string) (*DashboardResponse, error) {
-	agg, err := LoadAggregate(date)
-	if err != nil {
-		return nil, err
+	var agg *DailyAggregate
+	var tickets []Ticket
+	var err error
+
+	if IsMongoEnabled() {
+		agg, err = GetAggregateFromMongo(date)
+		if err != nil {
+			agg = nil
+		}
+		tickets, _ = GetTicketsForDateFromMongo(date)
 	}
 
-	tickets, err := LoadTicketsForDate(date)
-	if err != nil {
-		tickets = []Ticket{} // Return empty if no tickets
+	// Fallback to local if MongoDB didn't return data
+	if agg == nil {
+		agg, err = LoadAggregate(date)
+		if err != nil {
+			return nil, err
+		}
+	}
+	if len(tickets) == 0 {
+		tickets, _ = LoadTicketsForDate(date)
 	}
 
 	return &DashboardResponse{

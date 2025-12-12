@@ -75,11 +75,13 @@ func main() {
 
 	// MongoDB status
 	if MongoDB != nil && MongoDB.enabled {
-		fmt.Println("💾 MongoDB: ✅ CONNECTED")
+		fmt.Println("💾 MongoDB: ✅ PRIMARY STORAGE")
 		fmt.Printf("   Database: %s\n", DB_NAME)
 		fmt.Println("   Collections: seller_profiles, call_analyses, tickets, daily_aggregates")
+		fmt.Println("   Mode: MongoDB-first (no local files)")
 	} else {
 		fmt.Println("💾 MongoDB: ❌ DISABLED (set MONGODB_URI to enable)")
+		fmt.Println("   Mode: Local JSON files only")
 	}
 	fmt.Println()
 

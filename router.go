@@ -188,10 +188,24 @@ func (r *Router) handleListSellers(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	ids, err := ListSellerProfiles()
-	if err != nil {
-		jsonError(w, err.Error(), http.StatusInternalServerError)
-		return
+	// Get seller IDs - MongoDB first
+	var ids []string
+	var err error
+
+	if IsMongoEnabled() {
+		ids, err = ListAllSellerIDsFromMongo()
+		if err != nil {
+			log.Printf("⚠️ MongoDB list failed, falling back to local: %v", err)
+		}
+	}
+
+	// Fallback to local files
+	if len(ids) == 0 {
+		ids, err = ListSellerProfiles()
+		if err != nil {
+			jsonError(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
 	}
 
 	// Load summaries for each seller
@@ -284,10 +298,24 @@ func (r *Router) handleAggregates(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	dates, err := ListAggregates()
-	if err != nil {
-		jsonError(w, err.Error(), http.StatusInternalServerError)
-		return
+	// MongoDB first
+	var dates []string
+	var err error
+
+	if IsMongoEnabled() {
+		dates, err = ListAggregateDatesFromMongo()
+		if err != nil {
+			log.Printf("⚠️ MongoDB list failed, falling back to local: %v", err)
+		}
+	}
+
+	// Fallback to local
+	if len(dates) == 0 {
+		dates, err = ListAggregates()
+		if err != nil {
+			jsonError(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
 	}
 
 	jsonResponse(w, map[string]any{
@@ -357,10 +385,24 @@ func (r *Router) handleTickets(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	dates, err := ListTicketDates()
-	if err != nil {
-		jsonError(w, err.Error(), http.StatusInternalServerError)
-		return
+	// MongoDB first
+	var dates []string
+	var err error
+
+	if IsMongoEnabled() {
+		dates, err = ListTicketDatesFromMongo()
+		if err != nil {
+			log.Printf("⚠️ MongoDB list failed, falling back to local: %v", err)
+		}
+	}
+
+	// Fallback to local
+	if len(dates) == 0 {
+		dates, err = ListTicketDates()
+		if err != nil {
+			jsonError(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
 	}
 
 	jsonResponse(w, map[string]any{

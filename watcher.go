@@ -10,6 +10,9 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
 // TranscriptWatcher watches for new transcripts and triggers analysis
@@ -60,23 +63,41 @@ func (w *TranscriptWatcher) Stop() {
 
 // loadExistingAnalyses marks already analyzed files as processed
 func (w *TranscriptWatcher) loadExistingAnalyses() {
+	w.mu.Lock()
+	defer w.mu.Unlock()
+
+	// Try MongoDB first
+	if IsMongoEnabled() {
+		count, err := CountAnalysesFromMongo()
+		if err == nil {
+			// Load all call_ids from MongoDB to track processed files
+			analyses, err := GetAllAnalysesFromMongo()
+			if err == nil {
+				for _, a := range analyses {
+					// Mark by seller_call format
+					fileKey := fmt.Sprintf("gluser_%s_call_%s", a.SellerID, a.CallID)
+					w.processedFiles[fileKey] = true
+				}
+				log.Printf("   - Already processed: %d transcripts (from MongoDB)", count)
+				return
+			}
+		}
+	}
+
+	// Fallback: load from local files
 	files, err := filepath.Glob(filepath.Join(ANALYSIS_DIR, "*.analysis.json"))
 	if err != nil {
 		log.Printf("Warning: could not load existing analyses: %v", err)
 		return
 	}
 
-	w.mu.Lock()
-	defer w.mu.Unlock()
-
 	for _, f := range files {
-		// Extract gluser_id from filename (e.g., "gluser_100195284.analysis.json" -> mark the transcript as processed)
 		base := filepath.Base(f)
 		gluserID := strings.TrimSuffix(base, ".analysis.json")
 		w.processedFiles[gluserID] = true
 	}
 
-	log.Printf("   - Already processed: %d transcripts", len(w.processedFiles))
+	log.Printf("   - Already processed: %d transcripts (from local files)", len(w.processedFiles))
 }
 
 // watchLoop continuously checks for new transcripts
@@ -307,8 +328,8 @@ func (w *TranscriptWatcher) triggerAggregation() {
 		agg.TotalCalls, agg.TotalIssues, agg.UpsellOpportunities)
 }
 
-// SaveAnalysisWithGluserID saves analysis with gluser_id and call_id as filename
-// Format: gluser_{gluser_id}_call_{call_id}.analysis.json
+// SaveAnalysisWithGluserID saves analysis directly to MongoDB (primary)
+// Format: gluser_{gluser_id}_call_{call_id}
 func SaveAnalysisWithGluserID(ar AnalysisResult, gluserID string, callID string) error {
 	if gluserID == "" {
 		gluserID = ar.SellerID
@@ -323,22 +344,58 @@ func SaveAnalysisWithGluserID(ar AnalysisResult, gluserID string, callID string)
 		callID = "unknown"
 	}
 
+	// Ensure seller_id and call_id are set in the analysis
+	ar.SellerID = gluserID
+	ar.CallID = callID
+
+	// MongoDB is primary storage
+	if IsMongoEnabled() {
+		return SaveAnalysisToMongo(&ar)
+	}
+
+	// Fallback to local file
+	return saveAnalysisToFile(ar, gluserID, callID)
+}
+
+// SaveAnalysisToMongo saves analysis directly to MongoDB (synchronous)
+func SaveAnalysisToMongo(ar *AnalysisResult) error {
+	if MongoDB == nil || !MongoDB.enabled {
+		return fmt.Errorf("MongoDB not enabled")
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	collection := MongoDB.database.Collection(COLLECTION_ANALYSES)
+
+	// Convert to bson.M using JSON tags
+	doc, err := toBsonM(ar)
+	if err != nil {
+		return fmt.Errorf("failed to marshal analysis: %w", err)
+	}
+
+	// Upsert by call_id
+	filter := bson.M{"call_id": ar.CallID}
+	opts := options.Replace().SetUpsert(true)
+
+	_, err = collection.ReplaceOne(ctx, filter, doc, opts)
+	if err != nil {
+		return fmt.Errorf("failed to save analysis to MongoDB: %w", err)
+	}
+
+	return nil
+}
+
+// saveAnalysisToFile saves analysis to local file (fallback)
+func saveAnalysisToFile(ar AnalysisResult, gluserID string, callID string) error {
 	b, err := json.MarshalIndent(ar, "", "  ")
 	if err != nil {
 		return err
 	}
 
-	// Use gluser_id and call_id as filename for preserving all call analyses
 	filename := fmt.Sprintf("gluser_%s_call_%s.analysis.json", gluserID, callID)
 	path := filepath.Join(ANALYSIS_DIR, filename)
-
-	if err := os.WriteFile(path, b, 0644); err != nil {
-		return err
-	}
-
-	// Sync to MongoDB (async)
-	SyncAnalysis(&ar)
-	return nil
+	return os.WriteFile(path, b, 0644)
 }
 
 // LoadAnalysesForGluser loads all previous analyses for a specific gluser ID
