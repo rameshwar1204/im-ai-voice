@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674701807",
+  "gluser_id": "68896557",
+  "vintage_months": 18,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Contai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667729",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello. \\nExecutive: Ji sir very good afternoon. Kaise hain? Sorry very good evening.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji sir kaise hain?\\nExecutive: Actually main senior manager baat kar rahi thi sir India Mart team se. Aapka Bharat se discussion ho gaya sir?\\nCustomer: Madam main jis jagah mein hoon us jagah se baat karna mushkil hai aap bhi sun sakte hain piche baat. \\nExecutive: Kitni kitne time call back karu aapko?\\nCustomer: Aaj aaj nahi hoga kal sham ko.\\nExecutive: Achcha kal kar lu. Chaliye theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Difficulty in having a conversation due to background noise.\\n\n\\n\nResolution:\\n\n- Call to be rescheduled.\\n\n\\n\nNext Steps: \\n\n- Call to be rescheduled for tomorrow evening.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nreschedule, callback\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=441e3df1-5323-4057-9838-7ded16e9c250",
+  "ucid": "441e3df1-5323-4057-9838-7ded16e9c250",
+  "seller_categories": [
+    {
+      "mcat_id": "181498",
+      "mcat_name": "Kyocera Multifunction Printer"
+    },
+    {
+      "mcat_id": "41536",
+      "mcat_name": "Xerox Machines"
+    },
+    {
+      "mcat_id": "178728",
+      "mcat_name": "Kyocera Photocopy Machine"
+    },
+    {
+      "mcat_id": "178726",
+      "mcat_name": "Canon Photocopy Machine"
+    },
+    {
+      "mcat_id": "178733",
+      "mcat_name": "Konica Minolta Photocopy Machine"
+    }
+  ]
+}

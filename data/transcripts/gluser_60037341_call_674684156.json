@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674684156",
+  "gluser_id": "60037341",
+  "vintage_months": 60,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mysuru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9716203",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Yes, good evening. Main Kartik baat kar raha hun IndiaMART se.\\nCustomer: Yes, sir, tell me.\\nExecutive: Yes, ma'am, you have some issue related to IndiaMART login. Yes, sir, it was there but it was actually the connection problem, sir. It was resolved now.\\nExecutive: That is resolved?\\nCustomer: Yes, sir, yes, sir.\\nExecutive: Okay, so can I just close your request regarding your Yes, please you can. Yeah, you can.\\nExecutive: So ma'am, I'm just going to close but the feedback will come to your registered number, the primary number. You can give the feedback also. Apart from there, ma'am, one more thing. Ma'am, in your profile total 90 products is there.\\nCustomer: Okay.\\nExecutive: Sorry, 9094.\\nCustomer: Ha, 90 products is there in your profile. Okay. But out of 90 products there is seven products there is no price update.\\nCustomer: Yes, sir, we have to do it, sir. We were just busy with other things, sir, so we are not concentrating on that. But we'll do by this week, sir. We'll complete it.\\nExecutive: Okay, ma'am. And one more thing, ma'am, actually your product quality score, if I'm talking about the average quality score, that is also coming around 72. So that is need to work on that. So if you will possible you can give the some time now, we can discuss online on video meeting. I will guide you how to improve your quality score of the product.\\nCustomer: Uh, sure, sir, sure. Yeah.\\nExecutive: Okay. So next time just I will connect with you. Okay, once you get the free now, you can update me. We will discuss and connect with you. Okay. Now we are going to close your request. Okay.\\nCustomer: Okay, sir. Okay, yeah. Thank you.\\nExecutive: Okay, thank you. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue with IndiaMART login.\\n\n- 7 products have no price update.\\n\n- Product quality score is 72.\\n\n\\n\nResolution:\\n\n- Login issue was resolved.\\n\n- Executive offered a video meeting to improve quality score.\\n\n- Executive closed the request.\\n\n\\n\nNext Steps: \\n\n- Executive will connect next time.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- login issue, product quality, price update\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc8e11a6-7e4d-44b9-9dc0-50a83e3e0434",
+  "ucid": "cc8e11a6-7e4d-44b9-9dc0-50a83e3e0434",
+  "seller_categories": [
+    {
+      "mcat_id": "182705",
+      "mcat_name": "Technical Grade Urea"
+    },
+    {
+      "mcat_id": "4462",
+      "mcat_name": "Bleaching Powder"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    },
+    {
+      "mcat_id": "32176",
+      "mcat_name": "Lime Powder"
+    }
+  ]
+}

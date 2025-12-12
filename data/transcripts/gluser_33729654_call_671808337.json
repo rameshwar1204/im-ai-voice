@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671808337",
+  "gluser_id": "33729654",
+  "vintage_months": 49,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Madam, kaunsi mail ID pe bhejna hai?\\nCustomer: Bata rahi hu sir.\\nCustomer: Sir akshaykumarwale.com pe dot pe dot@gmail pe.\\nCustomer: Kya naam se bheja hai?\\nCustomer: Video meet with IndiaMART team ke naam se.\\nCustomer: Nahi dikhai de raha hai na?\\nCustomer: Sir whatsapp karu aapko is number pe?\\nCustomer: Ek second. Ek second. Main whatsapp kar rahi hu sir.\\nCustomer: Nahi whatsapp mat kijiye.\\nCustomer: Ispe laiye aap.\\nCustomer: Okay sir.\\nCustomer: Fir se mail bhejiye. Kisi ko mail bhejiye.\\nCustomer: Akshay Kumar wale se Akshay Construction Home pe bhejiye na.\\nCustomer: Uske baad link kar dijiye sir. Direct customer portal se ya usse.\\nCustomer: Sir dekhiye aapko whatsapp kiya hai.\\nCustomer: Whatsapp mein kyun bheja hai? Clear hai. Theek hai. Rukiye.\\nCustomer: Iske bagal mein se yaha pe aayenge. Aap log kijiye na mail se mail se bhejiye. Theek hai.\\nCustomer: Sir mail toh maine kiya hua hai already aapko video meet pe.\\nCustomer: Apni email ID ek aur bataiye sir whatsapp pe bhejiye. Jaise ki ye domain. Kya hua?\\nCustomer: Apni dusri email ID bataiye sir.\\nCustomer: Bheja aapko? Agar aapka first product hai, aapko three page hamare paas hai sir yaha pe.\\nCustomer: Direct send kar sakte hai product available hai. Thanks for joining.\\nCustomer: Sir bhejiye.\\nCustomer: Three page aap send kar sakte hai. Three page se bhi aapko dikhai dega.\\nCustomer: Sir dekhiye aapke paas aaya hoga video meet with IndiaMART team ke naam se.\\nCustomer: Rating ka aapke paas yaha pe. You know you will be karega aur aapko yaha pe student call isko aapko improve karne ke liye aur ye bahut necessary hai rating. Inko help karega rating banane mein.\\nCustomer: Theek hai. Aaya sir?\\nCustomer: Aaya aapko?\\nCustomer: Haan sir join ho gaya.\\nCustomer: Theek hai sir.\\nCustomer: Aur yaha pe saara detail aapko dikhega jo bhi isme rate consume kiya hai jo bhi customer call kiya uske baad.\\nCustomer: Theek hai phone cut kar de rahi hu sir.\\nExecutive: Haan sir. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to find email from executive.\\n\n- Customer asks executive to send email again.\\n\n\\n\nResolution:\\n\n- Executive sent the video meet link on WhatsApp.\\n\n- Executive explained the rating system.\\n\n- Executive resent the email.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, whatsapp, video meet, rating\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 204,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=17bd8f15-f547-4f12-98f2-aa604914800f",
+  "ucid": "17bd8f15-f547-4f12-98f2-aa604914800f",
+  "seller_categories": [
+    {
+      "mcat_id": "2903",
+      "mcat_name": "Earth Rammer"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "157442",
+      "mcat_name": "Mini Cranes"
+    },
+    {
+      "mcat_id": "42647",
+      "mcat_name": "Earth Compactor"
+    }
+  ]
+}

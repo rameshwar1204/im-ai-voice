@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670017971",
+  "gluser_id": "44026442",
+  "vintage_months": 90,
+  "bl_dau_oct": 10,
+  "customer_type": "LEADER",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello.\\n[unintelligible]\\nHello. Hello.\\nHaa sir, good evening.\\nGood evening ji. Aap sir Modi bol rahe the, Mr. Pradeep sir baat kar rahe hai?\\nSir wo ghar chale gaye hai.\\nAap office me hai?\\nMai ghar bol raha hu sir. Accha thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked to speak with Mr. Pradeep.\\n\n\\n\nResolution:\\n\n- Customer informed that Mr. Pradeep left for home.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, home, office\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=41e9a99f-e145-40bd-9c03-9a78ea322432",
+  "ucid": "41e9a99f-e145-40bd-9c03-9a78ea322432",
+  "seller_categories": [
+    {
+      "mcat_id": "158492",
+      "mcat_name": "Herbal Uterine Tonic"
+    },
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "184514",
+      "mcat_name": "Ayurvedic Stone Syrup"
+    },
+    {
+      "mcat_id": "5681",
+      "mcat_name": "Ayurvedic Pain Relief Oil"
+    },
+    {
+      "mcat_id": "159802",
+      "mcat_name": "Pre & Probiotic Capsule"
+    }
+  ]
+}

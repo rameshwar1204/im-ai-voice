@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674660232",
+  "gluser_id": "236584514",
+  "vintage_months": 5,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: baat kar rahe hain. Haan hello.\\nExecutive: sir ji hello.\\nCustomer: Hello namaste.\\nExecutive: Shubham baat kar raha hun India Mart se. Ji ji ji good evening. Wahi sir subah aapka video call ho gaya tha sari cheeze clear thi abhi usme bhi koi doubt hai kisi cheez me maine baat ki thi aapne video call pe. Haan haan nahi theek hai na koi issue nahi hai. Ha wahi puch raha tha kyunki matlab hame na feedback lena padta hai aapne na customer care pe call kiye rehte hain. Baki sir aap mera number rakhiye number uska R N ne bhi aapko number de diya hoga nahi to aap mera bhi personal number rakhiye aapko koi bhi issue aata hai aap hamare number pe call kariye okay na. Kuch bhi dikkat aata hai taki hum turant aapko on the spot solution de aapko wait na karna pade aap customer care pe call karoge fir wo hamare pass redirect hoga hai na. To isse aap direct aap hame call karoge to hum turant aapka resolution sari cheeze karega. To number hai na aapke pass R N ka R N ka. Haan hai. Theek hai sir theek hai. Baki maine close kar ha bataiye. Haan nahi theek hai na koi dikkat nahi.\\nCustomer: theek hai na. Baki mai close kar raha hu to feedback aayega to usme satisfied de dijiyega yes hai na. Okay okay theek hai thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if customer has any doubts.\\n\n\\n\nResolution:\\n\n- Executive offered direct contact for immediate assistance.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video call, feedback, customer care, resolution\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6230445e-0331-4acb-b0eb-7db55cabe80f",
+  "ucid": "6230445e-0331-4acb-b0eb-7db55cabe80f",
+  "seller_categories": [
+    {
+      "mcat_id": "193165",
+      "mcat_name": "Mantra Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "193164",
+      "mcat_name": "SecuGen Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "189719",
+      "mcat_name": "Morpho Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "4421",
+      "mcat_name": "Biometric Fingerprint Scanners"
+    }
+  ]
+}

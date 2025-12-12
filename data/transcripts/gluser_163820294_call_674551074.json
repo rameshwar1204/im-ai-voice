@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "674551074",
+  "gluser_id": "163820294",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haanji mam. Haanji sir, Preeti baat kar rahi thi mam aapse baat hua tha aapne aapse morning mein na.\\nCustomer: Haanji mam bataiye aap kya hua.\\nExecutive: Haan, toh main actually wahi aapse discussion karna chah rahi thi aapke side se na hume mail aaya tha sir woh aapka TDS ke liye.\\nCustomer: Kis cheez ke liye?\\nExecutive: Sir TDS ke liye.\\nCustomer: Haanji.\\nExecutive: Ki aap logo ko TDS return chahiye karke. Toh usi cheez se related maine aapko call kiya hai ki sir uske liye na aap aap logo ne chalan bhara hoga woh mujhe chahiye hoga. Uske baad hi hum aapka yeh TDS return kara payenge.\\nCustomer: Mam aap ek number note kijiye.\\nExecutive: Sorry?\\nCustomer: Ek number note kar lijiye mam.\\nExecutive: Haan bataiye number bataiye aap mujhe.\\nCustomer: 99\\nCustomer: 282\\nCustomer: 31\\nCustomer: 594. 594 right?\\nExecutive: Ji mam.\\nExecutive: Ek baar main aapko repeat kar lu sir 9928231594.\\nCustomer: Yes mam.\\nExecutive: Yeh kaun hai sir?\\nCustomer: Yeh Rajendra ji hai. Yani inhone woh GST wagere ke liye mail dali thi aapko. Toh aap ek baar baat kar lijiye.\\nExecutive: Okay.\\nCustomer: Toh yeh aapko jo bhi cheez hai woh provide kar denge ek sath.\\nExecutive: Theek hai, theek hai. Ek minute rukiye. Ek baar inse baat kar leti hu. Thank you so much sir.\\nCustomer: Ji mam.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs TDS-related documents from customer.\\n\n\\n\nResolution:\\n\n- Customer provided Rajendra's number for TDS details.\\n\n\\n\nNext Steps: \\n\n- Executive will contact Rajendra for TDS documents.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tds, return, documents, challan\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a9e80f91-be34-41a1-b882-4a26417f991a",
+  "ucid": "a9e80f91-be34-41a1-b882-4a26417f991a",
+  "seller_categories": [
+    {
+      "mcat_id": "167399",
+      "mcat_name": "Chapati Tawa"
+    },
+    {
+      "mcat_id": "183986",
+      "mcat_name": "Iron Tawa"
+    },
+    {
+      "mcat_id": "11901",
+      "mcat_name": "Garden Spades"
+    }
+  ]
+}

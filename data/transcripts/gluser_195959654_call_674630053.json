@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674630053",
+  "gluser_id": "195959654",
+  "vintage_months": 19,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Deoband",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Raghunandan Raghav Ram\\nCustomer: Hello\\nExecutive: Sudhiman ji baat kar rahe hain Mahadev Enterprises se?\\nCustomer: Haan ji.\\nExecutive: Hello. Ji, sir very good afternoon. Praveen Sharma baat kar raha tha IndiaMART ke office Noida se.\\nExecutive: Abhi baat hui thi na aapse meri?\\nCustomer: Nahi nahi, meri team mein sir Dharmendra se baat hui thi jo aapke account manager hai. To main puchna chah raha tha sir ki aapka issue resolve hua sir? Unhone solution diya aapko?\\nCustomer: Haan ho gaya, ho gaya.\\nExecutive: Ho gaya?\\nExecutive: Ek request sir main aapse karunga. Hum aapka na abhi catalog check kar rahe the sir.\\nExecutive: To rubber roller ho gaya, conveyor roller ye aapki main category jinse aap sabse jyada lead uthate hain. Right sir?\\nCustomer: Hmm.\\nExecutive: Dusra nylon rods, roller stand aur nylon roller karke bhi aapke keyword hai. Pehle aap inka na achcha khasa lead uthate the, abhi aap thoda kam utha rahe hain.\\nExecutive: Right sir? Hello.\\nExecutive: To main request karunga sir aapse abhi IndiaMART se sir kya hota hai jo aapke main hot product hai aapko naam pata hoga sir jaise nylon rod ek maine aapko bataya. Uske alawa conveyor idle frames ho gaya. To sir agar aapko kabhi lead\\nExecutive: Haan to sir main aapko inko manually search karke aap inko manually search karke inka ek lead jarur uthaye sir. Agar aap last 15 din mein kisi keyword ka ek lead nahi uthayenge to frequency kam ho jayega aapko lead dikhne ka. Hum aapko usko jyada dikhayenge jiska aap utha rahe hain. Theek hai sir? Baaki kuch issue rahe to mujhe call back kijiyega isi number pe.\\nCustomer: Theek hai, theek hai, okay okay.\\nExecutive: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if the customer's issue was resolved.\\n\n- Executive requested the customer to search hot products.\\n\n\\n\nResolution:\\n\n- Customer confirmed the issue was resolved.\\n\n- Executive suggested manually searching for hot products.\\n\n\\n\nNext Steps: \\n\n- Customer can call back if any issue arises.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, buyleads, hot products\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7984a910-79df-4387-baf0-12e1e1d67a40",
+  "ucid": "7984a910-79df-4387-baf0-12e1e1d67a40",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "32949",
+      "mcat_name": "Nylon Rods"
+    },
+    {
+      "mcat_id": "95082",
+      "mcat_name": "Nylon Roller"
+    },
+    {
+      "mcat_id": "146543",
+      "mcat_name": "Conveyor Belt Joints"
+    },
+    {
+      "mcat_id": "150766",
+      "mcat_name": "Drum Pulley"
+    }
+  ]
+}

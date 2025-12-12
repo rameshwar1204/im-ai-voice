@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671340142",
+  "gluser_id": "22121233",
+  "vintage_months": 37,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rewari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669225",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Sir, namaskar.\\nCustomer: Hello.\\nExecutive: Hello, sir, namaskar.\\nExecutive: Ji, Mohit baat kar raha hu IndiaMART se. Aapki service ke regarding connect kiya tha sir, aap service use nahi kar rahe the to uske regarding.\\nCustomer: Aapko abhi service abhi abhi nahi chahiye, wo jo hai wahi chalne do. Abhi filhaal.\\nExecutive: Nahi nahi, mai service de nahi raha hu, jo aapki service already chal rahi hai uski baat kar raha hu sir mai. Metal scrap ki valid thi sir aapke paas.\\nExecutive: Solder ingot ki thi. Aap dekhiye 5 ton ki lead hai sir aapke paas Rohtak Haryana se.\\nCustomer: Sir, ye jitna bhi hai na 10 ton, 20 ton, ye sare frodi baithe hue hai.\\nExecutive: Kyu sir?\\nCustomer: Jitne bhi aate hai na, ye jo bhi likhte honge 10 ton, 5 ton, 6 ton, ye sare fraud hai, fraud. Ye hum bahut check kar baithe hai. Ye itna maal koi leta nahi hai, na kisi ko chalta. Sabko ek ton, dedh ton itna hi chalta hai. Jo jyada likhega na, wo samajh lo bada frodi hai.\\nExecutive: Achcha.\\nCustomer: Abhi piche aise hi Koyambatur mein aise hi ek aaya tha. Wo bhi sala frodi.\\nExecutive: Achcha.\\nCustomer: Aur ye 150 kg ki agar requirement hai metal scrap ki to?\\nCustomer: Ye mai ek minute dekh leta hu abhi zara mai maal mal.\\nExecutive: Haan, ye dekhna zara Gurgaon se hai Haryana se.\\nCustomer: Haan, abhi dekhte hai. Ek do ton ki bhi hai MS scrap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states that listings are fraudulent.\\n\nResolution:\\n\n- Executive listened to the customer's concerns.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, fraud, metal scrap\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=94bb907f-daaf-471b-b58a-809fc6432ecc",
+  "ucid": "94bb907f-daaf-471b-b58a-809fc6432ecc",
+  "seller_categories": [
+    {
+      "mcat_id": "21039",
+      "mcat_name": "Tin Ingots"
+    },
+    {
+      "mcat_id": "148316",
+      "mcat_name": "Metal Dross"
+    },
+    {
+      "mcat_id": "126816",
+      "mcat_name": "Lead Free Solder Wire"
+    },
+    {
+      "mcat_id": "7644",
+      "mcat_name": "Soldering Pastes"
+    },
+    {
+      "mcat_id": "126853",
+      "mcat_name": "Solder Ingot"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670002803",
+  "gluser_id": "2679334",
+  "vintage_months": 83,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Varanasi",
+  "iil_vertical_name": "KCD",
+  "customer_ticket_id": "9663565",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ji sir, Ankur Ansari Varanasi.\\nCustomer: Hello\\nExecutive: Hello, am I audible to you?\\nCustomer: Yeah yeah, you are audible.\\nExecutive: Okay, my name is Rakho Baig Ansari.\\nCustomer: Accha, bhai Sudarshan sir, aapne kya customer care se call kiya hai sir?\\nExecutive: Haan. Main Anand, main Anand baat kar raha hu, Anand baat kar raha hu. Sir, main aaj customer care se call karenge na, woh mere paas hi land hogi. Main nahi hu sir customer care uss samay.\\nExecutive: Okay, Anand. Sir, Anand baat kar raha hu. Main haan, main Anand hi baat kar raha hu. Mujhe thoda samay dijiye. Actually sir, main thoda sa notification hai woh office mein. Main aapko 5 minute mein call back kar deta hu.\\nCustomer: Kya bol rahe?\\nExecutive: Main aapko 5 minute mein call back kar deta hu sir.\\nCustomer: Main, main ek office\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know if call from customer care.\\n\n- Executive needs time due to office notification.\\n\n\\n\nResolution:\\n\n- Executive confirmed he is Anand.\\n\n- Executive will call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive to call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, customer care, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d55d0cfa-8eea-41bc-9c78-68999ab41a7b",
+  "ucid": "d55d0cfa-8eea-41bc-9c78-68999ab41a7b",
+  "seller_categories": [
+    {
+      "mcat_id": "187580",
+      "mcat_name": "Organza Saree"
+    },
+    {
+      "mcat_id": "4227",
+      "mcat_name": "Banarasi Sarees"
+    },
+    {
+      "mcat_id": "34858",
+      "mcat_name": "Pure Silk Sarees"
+    },
+    {
+      "mcat_id": "148725",
+      "mcat_name": "Digital Printed Sarees"
+    },
+    {
+      "mcat_id": "183779",
+      "mcat_name": "Tissue Saree"
+    }
+  ]
+}

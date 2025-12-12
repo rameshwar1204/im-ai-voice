@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "670519902",
+  "gluser_id": "107557088",
+  "vintage_months": 12,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Gummidipoondi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667065",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hi, if you record your name and reason for calling, I'll see if this person is available.\\n\\nI'm sorry, this person is not available. If you would like to leave an additional message, please reply after the tone.\\n\\n[unintelligible]\\n[unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer tried to call someone.\\n\n\\n\nResolution:\\n\n- The person was not available.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- unavailable, call\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4f2c604-3e73-4806-9704-33dbf6a6e0fc",
+  "ucid": "c4f2c604-3e73-4806-9704-33dbf6a6e0fc",
+  "seller_categories": [
+    {
+      "mcat_id": "40939",
+      "mcat_name": "Waste Oils"
+    },
+    {
+      "mcat_id": "1454",
+      "mcat_name": "Bitumen"
+    }
+  ]
+}

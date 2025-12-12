@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676082999",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji mam Aryan bol raha tha India Mart se account manager aapki mam complaint aayi thi just abhi.\\nCustomer: Just abhi to nahi aayi thi sir usi time se.\\nExecutive: Haan haan aapne mam 27 tarikh ko complaint kari hai mam ji ki aapko concern regarding benefits and lack of inquiries kya mam apna jaise us din bhi mam aapne apni baat hui thi tab maine aapko ye bataya tha ki abhi mam jitni inquiry market mein generate ho rahi hai wo sari mam aapko India Mart pe show ho rahi hai theek hai agar aapko direct jaise by lead jo suppose kijiye kisi bade us bande ko bhi dikh rahi hogi na jisne bahut bada package le rakha hai wahi mam by leads aapko bhi show hoti hai.\\nHmm.\\nExecutive: Hai na aur abhi kya hai na main honestly agar main batau to ye jo sardiyon ke months hote hain na ye good months mein aate hain jisme ki log matlab kam bimar padte hain aur jab hum log kam bimar padenge to jo matlab health equipments hai unki bhi requirement thodi low chali jati hai.\\nHmm.\\nExecutive: Ye mam is baat se aap agree karte hain ya nahi?\\nHmm.\\nExecutive: Aisa hi hai mam.\\nCustomer: Aapke mam jitne haan ji mam do minute mein call kar do minute to call back karte hain.\\nExecutive: Theek hai mam call back kariye aap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint regarding benefits and lack of inquiries.\\n\n\\n\nResolution:\\n\n- Explained that all inquiries are shown on IndiaMART.\\n- Explained winter months affect health equipment demand.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in two minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, inquiries, buyleads, health equipment\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=44c2a272-611c-492d-8ba2-30e6fd6a6d76",
+  "ucid": "44c2a272-611c-492d-8ba2-30e6fd6a6d76",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

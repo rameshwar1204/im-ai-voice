@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670358215",
+  "gluser_id": "9341122",
+  "vintage_months": 4,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663023",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nExecutive: Main aapko WhatsApp call kar raha hun. Isse aawaz nahi ja raha na?\\nCustomer: Haan.\\nExecutive: Main aapko WhatsApp call kar raha hun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- The executive is calling via WhatsApp and checking if the voice is not going through.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp call, voice\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf2f5752-1ef5-4970-9f2f-0c144940c26b",
+  "ucid": "cf2f5752-1ef5-4970-9f2f-0c144940c26b",
+  "seller_categories": [
+    {
+      "mcat_id": "30643",
+      "mcat_name": "Indian Gum"
+    },
+    {
+      "mcat_id": "29907",
+      "mcat_name": "Gum Arabic"
+    },
+    {
+      "mcat_id": "138764",
+      "mcat_name": "Natural Gum"
+    },
+    {
+      "mcat_id": "40128",
+      "mcat_name": "Tragacanth Gum"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672972153",
+  "gluser_id": "128063437",
+  "vintage_months": 21,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bareilly",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650927",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Sir, I am in a meeting, I will call back later.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmeeting, call back\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a65b6ccf-0f69-4d31-8b2c-cae2c356b4f8",
+  "ucid": "a65b6ccf-0f69-4d31-8b2c-cae2c356b4f8",
+  "seller_categories": [
+    {
+      "mcat_id": "28377",
+      "mcat_name": "Folding Bed"
+    },
+    {
+      "mcat_id": "216322",
+      "mcat_name": "Plywood Folding Bed"
+    },
+    {
+      "mcat_id": "190058",
+      "mcat_name": "Charpai"
+    },
+    {
+      "mcat_id": "445391",
+      "mcat_name": "Niwar Folding Bed"
+    },
+    {
+      "mcat_id": "147582",
+      "mcat_name": "Hostel & Dormitory Bed"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673446131",
+  "gluser_id": "115106654",
+  "vintage_months": 1,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Balasore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718358",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, Abhijit ji?\\nCustomer: Haan, kaun?\\nExecutive: Aap aap Facebook se bol raha hun. Abhijit bol rahe hain kya? Facebook se bol raha hun Odisha se.\\nCustomer: Kahan se?\\nExecutive: Odisha se Facebook bol raha hun.\\nCustomer: Haan haan sir, boliye.\\nExecutive: Haan, to abhi jo dashboard open karke kuch mil sakta hai kya jo jaise ho sakta hai.\\nCustomer: Aapne call kiya tha na abhi?\\nExecutive: Haan, sir, ek minute. Aapne kaun se number se call kiya hai aapne?\\nExecutive: Haan, main ye to 2233 number se.\\nCustomer: 2233 ek minute rukiye main aapko call back karti hun.\\nExecutive: Koi baat nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to open the dashboard to see what is possible.\\n\n\\n\nResolution:\\n\n- Executive asked the customer which number he called from.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfacebook call, dashboard\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5a1d7d3b-3cb3-462a-93bc-b0ed958cd242",
+  "ucid": "5a1d7d3b-3cb3-462a-93bc-b0ed958cd242",
+  "seller_categories": [
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "177610",
+      "mcat_name": "Potli Bags"
+    },
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "42112",
+      "mcat_name": "Floral Incense Sticks"
+    },
+    {
+      "mcat_id": "141759",
+      "mcat_name": "Bamboo Incense Stick"
+    }
+  ]
+}

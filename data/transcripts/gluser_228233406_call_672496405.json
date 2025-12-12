@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672496405",
+  "gluser_id": "228233406",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Haveri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ya hi sir, Raman this side from IndiaMART.\\nCustomer: Ha sir, boliye.\\nExecutive: Sir, mai call kiya aapko, abhi aap phone cut kar diye aur customer care me call laga diya sir aapne.\\nCustomer: Sir, manager ko send kiya, contact kar do, cancel ko manager se baat karta.\\nExecutive: Manager se?\\nExecutive: Kya bolte sir manager se?\\nExecutive: Hello.\\nCustomer: Sir, paanch minute sir, Raman sir.\\nExecutive: Ha ha.\\nCustomer: Paanch minute call back karta hu.\\nExecutive: Oh, okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to cancel the subscription.\\n\n\\n\nResolution:\\n\n- Executive asked the customer what to say to manager.\\n\n- Customer will call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, cancellation, callback\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f428085-049e-4aed-af09-98612981597e",
+  "ucid": "2f428085-049e-4aed-af09-98612981597e",
+  "seller_categories": [
+    {
+      "mcat_id": "162792",
+      "mcat_name": "Refurbished Laptops"
+    },
+    {
+      "mcat_id": "105926",
+      "mcat_name": "Second Hand Laptop"
+    },
+    {
+      "mcat_id": "181435",
+      "mcat_name": "Dell Laptops"
+    },
+    {
+      "mcat_id": "181436",
+      "mcat_name": "HP Laptop"
+    },
+    {
+      "mcat_id": "11352",
+      "mcat_name": "Laptops"
+    }
+  ]
+}

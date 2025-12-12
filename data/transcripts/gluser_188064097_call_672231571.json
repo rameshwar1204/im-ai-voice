@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672231571",
+  "gluser_id": "188064097",
+  "vintage_months": 30,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669354",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Hello. Good morning sir. haji.\\nExecutive: Good morning boliye.\\nCustomer: Komal baat kar Komal Prasad Pandey baat kar raha hun. 11 baje ke aas pass karo. 11 baje ke aas pass karo na aap.\\nExecutive: Achcha achcha ek ek minute lunga jyada nahi lunga. Ye dekhiye apna jo review rating hai kuch hata hai nahi hata hai.\\nCustomer: Nahi hata sir nahi hata.\\nExecutive: matlab ek bhi nahi hata.\\nCustomer: Nahi nahi nahi nahi.\\nExecutive: Chaliye. Theek hai sir. haji sir.\\nExecutive: Theek. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Review rating has not been removed.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n\\n\n@@@Key Topics:\\n\nreview, rating, remove\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d9329bfb-5859-4ca4-a459-eac4ecb00e90",
+  "ucid": "d9329bfb-5859-4ca4-a459-eac4ecb00e90",
+  "seller_categories": [
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "215208",
+      "mcat_name": "Western Deep Freezer"
+    },
+    {
+      "mcat_id": "179089",
+      "mcat_name": "Four Door Vertical Refrigerator"
+    },
+    {
+      "mcat_id": "221228",
+      "mcat_name": "Western Visi Cooler"
+    },
+    {
+      "mcat_id": "89573",
+      "mcat_name": "Under Counter Refrigerator"
+    }
+  ]
+}

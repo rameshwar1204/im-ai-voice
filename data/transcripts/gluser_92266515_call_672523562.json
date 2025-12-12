@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672523562",
+  "gluser_id": "92266515",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kurnool",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653022",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello, this is [inaudible] very good afternoon.\\nGood afternoon.\\nSumit baat kar raha hu sir main, din mein baat hui thi na jab shaam bhi.\\nSumit ab baat nahi ho payega yaar 5 baje ke baad still work kam pe hu yaar.\\nThik hai koi dikkat nahi main 5:15 baje karunga.\\nYa ya ya.\\nSure, surely sir, surely.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer cannot talk right now, is at work, and will be available after 5 PM.\\n\n\\n\nResolution:\\n\n- The caller will call back at 5:15 PM.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Caller to call back at 5:15 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, time\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a6a1618-5bce-43b0-b4e0-f110166e8cca",
+  "ucid": "4a6a1618-5bce-43b0-b4e0-f110166e8cca",
+  "seller_categories": [
+    {
+      "mcat_id": "181717",
+      "mcat_name": "UltraTech Cement"
+    }
+  ]
+}

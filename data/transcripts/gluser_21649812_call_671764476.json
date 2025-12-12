@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671764476",
+  "gluser_id": "21649812",
+  "vintage_months": 23,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679670",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello Vijay sir good morning.\\nCustomer: Good morning kaun bolte hai?\\nExecutive: Sir Ranjeet bol raha hun IndiaMART se sir.\\nCustomer: Are wo mera email ka check kar dijiye na mera bahut problem ho gaya sab chori ho jayega mera.\\nExecutive: Kya ho gaya sir aapne mujhe unka number aapka naam bhi naam bhi nahi aaya naam bhi nahi aaya hai aapka.\\nCustomer: Naam bhi nahi aaya matlab?\\nCustomer: Matlab abhi tumhara aapka number feed hai abhi naam kyun nahi aa raha hai aapka kya alag number hai ye?\\nExecutive: Nahi nahi ye company ka number hai ye maine company ke number se call kiya hai sir. Suniye na main udhar PC pe ja ke baithta hun abhi aap mujhe number to do aap mujhe unka number to whatsapp kar do sir.\\nCustomer: Kiska?\\nExecutive: Aapke staff ka jo aapne bola tha na madam ka call aaya na abhi main udhar ja ke baithta hun na udhar ja ke mujhe abhi ke abhi hai na kitne samay mein problem to aap bol dijiye kitne samay mein line pe leta hun main udhar video meeting ke liye baithta hun aap kitne baje tak office mein pahunch jayenge?\\nCustomer: Abhi main office mein hi baitha hun abhi.\\nExecutive: Achcha aap abhi office mein hi baithe hain to kitne din mein aap batao kitne baje aap free ho main usi ke according aapko main mujhe wo zaruri hai sir mujhe wo hai na. Ha to wahi cheez main bol raha hun main isiliye puch raha hun kitne baje aap madam ke sath jo bhi hai aap kitne baje abhi main abhi turant 5 minute mein ja sakta hun unke paas.\\nExecutive: Nahi 10 minute mein lagi to theek hai main abhi aapko video meeting ka link share kar raha hun theek hai aap arrange kare arrange kijiye mam ko bulaiye theek hai sath mein baithiye aur main bhi idhar se join kar raha hun theek hai.\\nCustomer: Chalega chalega sir chalega thank you sir.\\nExecutive: Theek hai okay. Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's name not showing up.\\n\n- Wants executive to check email urgently.\\n\n- Wants to connect with staff member.\\n\n\\n\nResolution:\\n\n- Executive shared video meeting link.\\n\n- Asked customer to arrange a meeting with staff.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- email, video meeting, staff, name\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=709ec03c-45e4-43ea-92da-b269ea8fed53",
+  "ucid": "709ec03c-45e4-43ea-92da-b269ea8fed53",
+  "seller_categories": [
+    {
+      "mcat_id": "156193",
+      "mcat_name": "Colour Coated Roofing Sheet"
+    },
+    {
+      "mcat_id": "193975",
+      "mcat_name": "TATA Metal Roofing Sheet"
+    },
+    {
+      "mcat_id": "2273",
+      "mcat_name": "Roofing Sheets"
+    },
+    {
+      "mcat_id": "194062",
+      "mcat_name": "Jindal Roofing Sheet"
+    },
+    {
+      "mcat_id": "194028",
+      "mcat_name": "JSW Metal Roofing Sheet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668050068",
+  "gluser_id": "36052873",
+  "vintage_months": 6,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir aapka call cut gaya tha. Awaz nahi aa rahi thi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call was disconnected.\\n\n\\n\nResolution:\\n\n- Executive informed the customer about call disconnection.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, disconnected, voice\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f636589-00ae-43c6-b030-fa54d085bc49",
+  "ucid": "1f636589-00ae-43c6-b030-fa54d085bc49",
+  "seller_categories": [
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "223258",
+      "mcat_name": "Tissue Culture Pomegranate Plants"
+    }
+  ]
+}

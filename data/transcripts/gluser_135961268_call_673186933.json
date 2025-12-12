@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673186933",
+  "gluser_id": "135961268",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9678205",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan, Mohsin ji, good morning.\\nCustomer: Ji sir, good morning Mohsin ji.\\nExecutive: Haan ji, bol raha hoon na main, aapki company ka IndiaMART account manager.\\nCustomer: Haan ji.\\nExecutive: Sir, wo catalog update pending thi, kaafi sara matlab matlab photos vagera dalne ki need IndiaMART ne batai hai aur mujhe bhi karni hai. To matlab sir kaafi aapne basin are uska to bhej diya tha kya kehte hain temples ka hai na but temple ke alava bhi kaafi sare products pade hue hain sir. Okay.\\nCustomer: Haan fountain vagera jo bhi.\\nExecutive: Haan, yes. To mujhe basically sir matlab kul mila jula ke ek tarah se 19 product ki photos chahiye. Okay.\\nCustomer: Achcha.\\nExecutive: Isme fountains hai mostly counter top basins hai, theek hai. Pedestal wash basins hai. Marble stone vagera hai. Marble Tulsi stand hai. To inki mujhe teen teen chhe chhe photos chahiye sir. Fountain waterfall mostly yahi marble wash basin Tulsi pot, Tulsi stand.\\nCustomer: Achcha.\\nExecutive: Okay. Haan matlab iska sir thoda sa requirement thi.\\nCustomer: [inaudible]\\nExecutive: To ek baar provide kar de sir isiliye main thoda sa call kar raha hoon aapko. WhatsApp kar dijiye.\\nCustomer: Bilkul bilkul. Aapko naam likh ke bhej deta hoon sir WhatsApp pe please isko bhej dijiyega aaj.\\nExecutive: Haan, theek hai. Okay. Okay.\\nCustomer: [inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Catalog update pending, needs to upload product photos.\\n\n- Needs 3-6 photos of 19 products.\\n\n\\n\nResolution:\\n\n- Executive agreed to provide the photos.\\n\n\\n\nNext Steps: \\n\n- Customer will send the name on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, photos, products, whatsapp\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97ec336c-b258-4ef3-87c3-4cdbc87692cc",
+  "ucid": "97ec336c-b258-4ef3-87c3-4cdbc87692cc",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "68239",
+      "mcat_name": "Fountain Waterfall"
+    }
+  ]
+}

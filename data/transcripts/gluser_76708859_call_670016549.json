@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670016549",
+  "gluser_id": "76708859",
+  "vintage_months": 77,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715538",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Haan kar raha hu, kar raha hu.\\nCustomer: Haan sir mail pe mail aaya hoga abhi aapko.\\nExecutive: Haan haan kar raha hu, kar raha hu.\\nCustomer: Haan, usse satisfy karna sir, galti se bhi not satisfy mat dena nahi toh ek aur open ho jayega.\\nExecutive: Theek hai.\\nCustomer: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to satisfy the mail received.\\n\n- Do not mark as not satisfied.\\n\n\\n\nResolution:\\n\n- Agreed to satisfy the mail.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail, satisfy\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6afd1740-8ad4-4b20-a835-dd8364747817",
+  "ucid": "6afd1740-8ad4-4b20-a835-dd8364747817",
+  "seller_categories": [
+    {
+      "mcat_id": "168765",
+      "mcat_name": "Auto Rickshaw Advertising Services"
+    },
+    {
+      "mcat_id": "184321",
+      "mcat_name": "Digital Wall Paintings"
+    },
+    {
+      "mcat_id": "187889",
+      "mcat_name": "Wall Painting Advertising"
+    },
+    {
+      "mcat_id": "34110",
+      "mcat_name": "Outdoor Advertising"
+    },
+    {
+      "mcat_id": "165134",
+      "mcat_name": "Foam Banner"
+    }
+  ]
+}

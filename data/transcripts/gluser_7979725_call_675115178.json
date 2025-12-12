@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675115178",
+  "gluser_id": "7979725",
+  "vintage_months": 5,
+  "bl_dau_oct": 2,
+  "customer_type": "Default Cust Type",
+  "city_name": "Bharatpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710732",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [inaudible] pata hua waha pe baad me jab aapko maine\\nExecutive: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Sir main Rukhsar baat kar rahi hu IndiaMART se. Thode pehle bhi maine call kiya tha na aapko?\\nCustomer: Hmm.\\nExecutive: Okay actually Pushkar ji se meri baat hui thi to unhone mujhe bataya ki unse galti se call lag gaya hai hamare customer care pe. Thik hai?\\nCustomer: Hmm.\\nExecutive: But fir bhi mujhe service feedback ka discussion to karna tha but wo shayad kisi customer ke sath busy the. To aap mujhe bata sakte hain aapki services kaisi chal rahi hai IndiaMART ke sath mein?\\nCustomer: Thik chal rahi hai ab humne ek do din se line up kiya hai isko regular basis pe.\\nExecutive: Aapne kisi ko assign matlab kisi executive ko rakha hai jo IndiaMART dekhenge aap?\\nCustomer: Haan haan haan. Okay. To kitne din ho gaye is baat ko?\\nCustomer: Abhi do din hue.\\nExecutive: Okay. Do din hue. So agar aap mujhe wo executive ka number de dete hain to main ek meeting fix kara deti hu account manager ke sath aapke aapke executive ki wo unko training session jo hoga ek tarike se IndiaMART use kaise karna hai.\\nCustomer: Ek baar hai na aap mujhe kal ek baar aap mujhe kal morning me call kar lena aap.\\nExecutive: Sure ek baar kal aap kal haan ek baar morning me kal main kar leti hu. Dusri cheez main keh rahi thi ye jo concern open hua hai na customer care pe dial karke main isko close kar deti hu. Aapke paas ek feedback aayega aap feedback please hamare sath share kar sakte hain apna ye aapke email pe aayega.\\nCustomer: Thik hai.\\nExecutive: Thik hai? Okay sir thik hai. Thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to provide feedback on services.\\n\nResolution:\\n\n- Executive offered a training session for executive.\\n- Executive will close the concern.\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow morning.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, training, services\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bebdc829-1871-4ae1-8586-2c0362b61c9b",
+  "ucid": "bebdc829-1871-4ae1-8586-2c0362b61c9b",
+  "seller_categories": [
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    },
+    {
+      "mcat_id": "185266",
+      "mcat_name": "Mahindra Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    },
+    {
+      "mcat_id": "181087",
+      "mcat_name": "Castrol Engine Oil"
+    }
+  ]
+}

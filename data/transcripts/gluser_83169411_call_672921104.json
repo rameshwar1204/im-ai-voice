@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672921104",
+  "gluser_id": "83169411",
+  "vintage_months": 5,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Palwal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello? Haan ji.\\nCustomer: Haan namaskar sir.\\nExecutive: Namaskar ji.\\nCustomer: Sir Ashok baat kar raha hun main na aap India Mart se baat kar rahe ho sir?\\nExecutive: Ji bataiye.\\nCustomer: Sir main ye keh raha hun ki sir na India Mart ki application hoti hai.\\nExecutive: Hmm hmm.\\nCustomer: Hello? Ji ji bataiye.\\nCustomer: To aap meri baat sun pa rahe ho na?\\nExecutive: Haan main sun pa raha hun bataiye.\\nCustomer: Main keh raha hun sir India Mart ki app hoti hai mere do phone me chal rahi hai sir ek phone me band kara dijiye sir.\\nExecutive: Ek band karani hai?\\nCustomer: Haan matlab meri app na do phone me chal rahi hai sir ek ladke ne jaise na jaise note bhi deta hun na.\\nExecutive: Ji ji ji.\\nCustomer: Ek sal ke ladke me khulwa rakhi thi wo band karani hai sir kaise band hogi?\\nExecutive: Uh aap apni company ka naam ek bar bataiye mujhe.\\nCustomer: Niraj Class India GRC.\\nExecutive: Apna registered number bataiye pehle aap.\\nCustomer: Registered number ye wala hai sir?\\nExecutive: Bataiye ek bar.\\nCustomer: 98 98 13 13 87 87 86 86 83 83\\nExecutive: Theek hai. Bas aap mujhe panch saat minute ka time dijiye main aapko call back karke isko karwa deta hun.\\nCustomer: Haan dusre number chal rahi hai wo band kara dena double one hai piche usme theek hai.\\nExecutive: Haan main abhi call kar raha hun aapko panch saat minute baad theek hai.\\nCustomer: Theek hai sir theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to close IndiaMART app on one phone.\\n\n\\n\nResolution:\\n\n- Executive asked for company name and registered number.\\n\n- Executive assured a callback in 5-7 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5-7 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- app, registered number, company name, callback\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 148,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=75877b42-74e9-43aa-9aa2-4869fe3f5a05",
+  "ucid": "75877b42-74e9-43aa-9aa2-4869fe3f5a05",
+  "seller_categories": [
+    {
+      "mcat_id": "151431",
+      "mcat_name": "GRC Jali"
+    },
+    {
+      "mcat_id": "178208",
+      "mcat_name": "GRC Columns"
+    },
+    {
+      "mcat_id": "186673",
+      "mcat_name": "GRC Cornices"
+    },
+    {
+      "mcat_id": "151480",
+      "mcat_name": "GFRC Baluster"
+    },
+    {
+      "mcat_id": "183602",
+      "mcat_name": "GRC Cladding"
+    }
+  ]
+}

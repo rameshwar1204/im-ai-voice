@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666961752",
+  "gluser_id": "1893446",
+  "vintage_months": 142,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630832",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan sir bolo.\\nCustomer: Haan Rakesh ji?\\nExecutive: Ji ji ji, baat ho gayi thi na aapki, meeting me the us time isliye maine dobara phone nahi kiya.\\nCustomer: Haan nahi nahi, chal hi raha hai kuch na kuch. Bataiye.\\nExecutive: Theek hai theek hai, to maine aapko jo dekha bheja hai na WhatsApp pe maine kar diya hai.\\nCustomer: Haan woh WhatsApp aa gaya tha, woh dekh liya maine. Concern mera ekdum genuine hai.\\nExecutive: Haan haan, maine isliye jo jo aapne bola hai na...\\nCustomer: ...aur baitha hai, woh Ambala kaise dikha sakta hai?\\nExecutive: Bilkul bilkul, pura wahi cheez maine daala hai.\\nCustomer: ...commercial usne le rakha ho to baat samajh me aati.\\nExecutive: Haan haan haan haan, isliye maine jo jo aapne bola hai pura wahi wahi daala hai, taaki wahi resolution mile aapko. To waise hi karke maine daal diya hai. To koi dikkat nahi hai.\\nCustomer: Aise kai customer hain. Ek aur, ek aur aaya tha mere paas, without IndiaMART hi tha, aur uska dikha raha tha yahan pe...\\nExecutive: Achha.\\nCustomer: ...Panchkula.\\nExecutive: Achha achha. To yeh cheezein dekhiye sir ab ab aapke level pe hi milti hain, to aap log jab bhejenge tabhi to hum log correct kara payenge.\\nCustomer: ...[inaudible]",
+  "summary": "\\n\\nConcerns:\\n\\n- Other sellers are displaying incorrect business locations.\\n- A seller is showing Ambala as their location incorrectly.\\n- Another seller was showing Panchkula as their location.\\n\\nResolution:\\n\\n- Confirmed that the complaint has been filed with all details provided.\\n- Sent a confirmation of the filed complaint to the customer via WhatsApp.\\n- Assured the customer that the exact points mentioned have been documented.\\n- Explained that customer reports help in correcting such discrepancies.\\n\\nNext Steps: \\n- Issue not resolved. The complaint has been filed for further action.\\n\\nAlert (If Any):\\n- None\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- seller profile, incorrect location, complaint filing, competitor listing, ambala, panchkula\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12995aae-3aff-4669-aeae-1674cb07fea6",
+  "ucid": "12995aae-3aff-4669-aeae-1674cb07fea6",
+  "seller_categories": [
+    {
+      "mcat_id": "83980",
+      "mcat_name": "Micropipette"
+    },
+    {
+      "mcat_id": "183216",
+      "mcat_name": "Bottle Top Dispenser"
+    },
+    {
+      "mcat_id": "121344",
+      "mcat_name": "Pipette"
+    },
+    {
+      "mcat_id": "19041",
+      "mcat_name": "Single Channel Pipette"
+    },
+    {
+      "mcat_id": "17712",
+      "mcat_name": "Multichannel Pipette"
+    }
+  ]
+}

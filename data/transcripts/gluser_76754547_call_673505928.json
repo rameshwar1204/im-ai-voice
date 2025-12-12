@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673505928",
+  "gluser_id": "76754547",
+  "vintage_months": 2,
+  "bl_dau_oct": 5,
+  "customer_type": "FREELIST",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694698",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji sir, main Bajar Khan ji se baat ho rahi hai, senior manager baat kar raha tha IndiaMART se.\\nCustomer: Haan ji.\\nExecutive: Bataye sir aap. Concern aaya tha aapka na, jaise aapne call not satisfied raise kiya tha, bataya bhi ki.\\nCustomer: Sir, hame buyleads achi nahi mil rahi.\\nExecutive: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting good buyleads.\\n\n\\n\nResolution:\\n\n- Not addressed.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c209ffd5-b35f-49a6-8ef7-6a52f7accd7b",
+  "ucid": "c209ffd5-b35f-49a6-8ef7-6a52f7accd7b",
+  "seller_categories": [
+    {
+      "mcat_id": "10618",
+      "mcat_name": "Ladies Jacket"
+    },
+    {
+      "mcat_id": "136167",
+      "mcat_name": "Round Neck Men T-Shirt"
+    },
+    {
+      "mcat_id": "39301",
+      "mcat_name": "Sweatshirts"
+    },
+    {
+      "mcat_id": "158308",
+      "mcat_name": "Men Plain T Shirt"
+    },
+    {
+      "mcat_id": "10704",
+      "mcat_name": "Hooded Sweatshirts"
+    }
+  ]
+}

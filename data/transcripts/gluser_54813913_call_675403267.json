@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675403267",
+  "gluser_id": "54813913",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangrur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u093e\u0902 \u091c\u0940 \u092e\u0948\u092e \u091c\u0940 \u0906\u0930 \u092c\u094b\u0932\u093f\u090f \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0938\u0930\\nCustomer: \u0928\u092e\u0938\u094d\u0915\u093e\u0930 \u0938\u0930\\nCustomer: \u0915\u094d\u092f\u093e \u092c\u094b\u0932 \u0930\u0939\u0947 \u0939\u0948\u0902?\\nExecutive: \u091c\u0940 \u0906\u0930 \u092c\u094b\u0932\u093f\u090f \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902\\nCustomer: \u092c\u0924\u093e\u0907\u090f\\nExecutive: \u0939\u093e\u0902 \u091c\u0940 \u0935\u094b \u0930\u093f\u092b\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u0906\u092a\u0928\u0947 \u0921\u093e\u0932\u093e \u0925\u093e \u0928\u093e \u0915\u094d\u092f\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u0939\u0948 \u0909\u0938\u0915\u093e \u0935\u094b \u092a\u0942\u091b\u0928\u093e \u0925\u093e\\nCustomer: \u092e\u0948\u0902 \u090f\u0915 \u092c\u093e\u0930 \u092c\u0924\u093e \u0926\u0947\u0924\u0940 \u0939\u0942\u0902 \u0938\u0930 \u0906\u092a\u0915\u094b \u0938\u0930 \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u090f\u0915 \u092c\u093e\u0930 \u090f\u0915 12:00 12:30 \u0924\u0915 \u0915\u0949\u0932 \u092c\u0948\u0915 \u0915\u0930 \u0932\u0942\u0902 \u090f\u0915 \u092c\u093e\u0930?\\nExecutive: \u0939\u093e\u0902 \u0915\u0930 \u0932\u0940\u091c\u093f\u090f \u0920\u0940\u0915 \u0939\u0948\\nCustomer: \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092c\u0924\u093e \u0920\u0940\u0915\\n",
+  "summary": "\\n\nConcerns:\\n\n- Refund status.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back at 12:00-12:30.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nrefund, status, callback\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5a926119-6183-40d2-aa9d-68b517b8c481",
+  "ucid": "5a926119-6183-40d2-aa9d-68b517b8c481",
+  "seller_categories": [
+    {
+      "mcat_id": "34915",
+      "mcat_name": "PVC Solvent Cement"
+    },
+    {
+      "mcat_id": "138334",
+      "mcat_name": "CPVC Cement"
+    },
+    {
+      "mcat_id": "11332",
+      "mcat_name": "Lamination Adhesive"
+    },
+    {
+      "mcat_id": "37381",
+      "mcat_name": "Solvent Cements"
+    },
+    {
+      "mcat_id": "446247",
+      "mcat_name": "Solvent Cement Tin Can"
+    }
+  ]
+}

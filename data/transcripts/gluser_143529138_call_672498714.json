@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672498714",
+  "gluser_id": "143529138",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Chengamanad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686191",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha mam. Ha mam.\\nExecutive: Yeah, who is this?\\nCustomer: Uh mam this is Deepika we interacted now.\\nExecutive: Okay.\\nCustomer: Ha so as you informed your seniors like we won't be providing field visit.\\nExecutive: What?\\nCustomer: Uh we won't be providing field visit. Hello.\\nCustomer: Your senior manager is like, yes yes.\\nExecutive: Yes yes.\\nCustomer: Ha so we cannot provide that.\\nCustomer: Why you have a field visit right then why can't you provide that?\\nExecutive: Because it happens with the pin code right? Pin code is not serviceable. That is the reason.\\nCustomer: That's what I'm saying you have nearby locations you have the field visit then why can't you come for our field visit us you have a field visit option right? If we want if a person wants that then why can't you do that?\\nExecutive: Because according to pin code we follow your pin code does not falls in serviceable area that is the reason.\\nCustomer: So we are not providing your pin code is not serviceable area.\\nCustomer: No no no it can you ask for some of the persons to contact higher authority or some of the persons from Cochin department to contact us.\\nExecutive: Mam I am seeing I am only looking after this and I know.\\nCustomer: No no where where are you calling from?\\nExecutive: Indiamart head office Noida.\\nCustomer: Indiamart head office. No I want a person from Cochin to contact me. That's it.\\nExecutive: No that is not possible because according to the\\nCustomer: Why?\\nExecutive: Because your company is calling to us right? So it has been assigned to tele servicing which belongs to Noida head office. So that is why I'm coordinating with you.\\nCustomer: Okay. Okay. Yes. This is the reason.\\nExecutive: I hope you understand mam.\\nCustomer: I will just check with my owner and I will give you a call back if anything required. Thank you.\\nExecutive: Ha please please convey the message mam right mam. So after how much time I\\nCustomer: I will just check and I will give you a call back give me a call back after five.\\nExecutive: After 5 o'clock?\\nCustomer: Yes. You may I'm or by 4:30 you can give me a call back.\\nExecutive: I will just check I will be connect.\\nCustomer: Ha 4:30.\\nExecutive: Okay okay sure. Thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a field visit for their company.\\n\n- Wants someone from Cochin department to contact.\\n\n\\n\nResolution:\\n\n- Informed field visits depend on pin code serviceability.\\n\n- Explained tele-servicing assigned to Noida head office.\\n\n\\n\nNext Steps: \\n\n- Customer will check with owner and call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- field visit, pin code, serviceability\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 159,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bfebd84-480d-43f0-9aea-1085e82a7f6b",
+  "ucid": "0bfebd84-480d-43f0-9aea-1085e82a7f6b",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "44612",
+      "mcat_name": "LED TV"
+    },
+    {
+      "mcat_id": "178011",
+      "mcat_name": "4K TV"
+    },
+    {
+      "mcat_id": "95323",
+      "mcat_name": "Semi Automatic Washing Machine"
+    },
+    {
+      "mcat_id": "179884",
+      "mcat_name": "Android Television"
+    }
+  ]
+}

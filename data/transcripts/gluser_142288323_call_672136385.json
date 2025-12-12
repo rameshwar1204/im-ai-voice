@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672136385",
+  "gluser_id": "142288323",
+  "vintage_months": 18,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679545",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan boliye.\\nExecutive: Kedar Nath ji se baat ho rahi hai?\\nCustomer: Haan bol raha hu boliye.\\nExecutive: Yeah hi sir very good evening kaise hai aap?\\nCustomer: Haan yes.\\nExecutive: Main thoda travelling kar raha hu.\\nCustomer: Main baad mein main thoda call karta hu aapko.\\nExecutive: Sir main aapka sirf ek minute lungi agar aap abhi de paye to sorry to disturb you.\\nCustomer: Kya?\\nExecutive: Main aapka sirf ek minute lungi agar aap possible hai de paye to sorry to disturb you. Actually aapka jo catalog with Promet technology uske regarding hi mujhe baat karni thi.\\nCustomer: Main thoda baad mein call karta hu mujhe aawaz hi nahi aa raha achhe se aapka.\\nExecutive: Kab tak call kar kab tak call kar please.\\nCustomer: Maximum ek ghante mein call karta hu.\\nExecutive: Aap nahi to text karo mujhe kya aapka issue hai na kya hai.\\nCustomer: Sir mujhe actually baat karni hai call par hi baat karni hai isiliye main aapse call kar rahi hu. Actually Preeti ji ke saath aapka discussion hua tha aapke catalog se related tender ka kuch information chahiye tha aapko right?\\nExecutive: Kaun sa tender ke bare mein bol rahe ho kya?\\nCustomer: Haan haan wo tender ka.\\nCustomer: Haan wo tender ka issue to resolve ho gaya wo link bhejta hu.\\nExecutive: Theek hai to yaha se ye jo aapka concern hai ye main close kar du na?\\nCustomer: Haan close kar do unko bhi bola tha maine Preeti mam ko ki close kar do.\\nExecutive: Sir ki aapka jo secondly number pe jo aapke employee hai na services use kar rahe hai unhone mana kiya tha ki aap use mat karna.\\nCustomer: Uske baad mera uske baad mera baat hua maine close kar do bola tha.\\nExecutive: Chaliye theek hai main close kar deti hu aapke baat na mail pe to close karunga na main.\\nCustomer: Haan theek hai mail par aapko aapke paas ek feedback ke liye mail jayega waha pe bas aap positive feedback de dijiyega sir please theek hai.\\nCustomer: Theek hai.\\nExecutive: Okay okay done sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close tender related issue.\\n\n- Customer was facing voice issues.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the concern.\\n\n- Customer agreed to provide positive feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tender, catalog, feedback, close\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cdad5e8f-7dbb-4b15-9349-d75a244ff431",
+  "ucid": "cdad5e8f-7dbb-4b15-9349-d75a244ff431",
+  "seller_categories": [
+    {
+      "mcat_id": "8762",
+      "mcat_name": "Drill Bits"
+    },
+    {
+      "mcat_id": "8213",
+      "mcat_name": "Roll Crusher"
+    },
+    {
+      "mcat_id": "154010",
+      "mcat_name": "Single Acting Hydraulic Cylinders"
+    },
+    {
+      "mcat_id": "38710",
+      "mcat_name": "Steel Fabrication"
+    },
+    {
+      "mcat_id": "3889",
+      "mcat_name": "Coal Crusher"
+    }
+  ]
+}

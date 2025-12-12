@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675922296",
+  "gluser_id": "4513654",
+  "vintage_months": 54,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9711075",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha Tejas ji aaya mai abhi seller.india.com me hu dekhiye open kiya mai.\\nCustomer: Kya? Open karke rakha hai?\\nExecutive: Open karke rakha hu aap boliye kya karne ka hai isme.\\nCustomer: Thik hai.\\nEk minute len padega mai bhi open kar leta hu.\\nCustomer: Aap comfortable hai aap khana wana to nahi kha rahe hai na?\\nExecutive: Na na na sir aapke liye to hamesha.\\nExecutive: Thik hai.\\nExecutive: To abhi jaise hamara jo hai.\\nCustomer: Voice clear nahi break ho raha hai.\\nExecutive: Mai apne end se laga raha hu sir ek minute rukiyega mai apne end se laga raha hu.\\nCustomer: Ji aap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is breaking.\\n\n\\n\nResolution:\\n\n- Executive is trying to fix the audio issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- seller.indiart.com, voice issue\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4c9d96e5-b16b-4092-b442-5e53bbf17ecb",
+  "ucid": "4c9d96e5-b16b-4092-b442-5e53bbf17ecb",
+  "seller_categories": [
+    {
+      "mcat_id": "69474",
+      "mcat_name": "Rotary Limit Switches"
+    },
+    {
+      "mcat_id": "181640",
+      "mcat_name": "Air Filter Regulator"
+    },
+    {
+      "mcat_id": "31229",
+      "mcat_name": "Junction Boxes"
+    },
+    {
+      "mcat_id": "150506",
+      "mcat_name": "Aluminium Junction Boxes"
+    },
+    {
+      "mcat_id": "32359",
+      "mcat_name": "Limit Switches"
+    }
+  ]
+}

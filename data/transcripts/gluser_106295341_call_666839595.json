@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666839595",
+  "gluser_id": "106295341",
+  "vintage_months": 54,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Namaskar, IndiaMART mein aapka swagat hai. Main Shweta, aapki kya sahayata kar sakti hoon?\\nCustomer: Haan ji, namaste madam. Maine na aapse service li thi, to mujhe na refund chahiye uska.\\nExecutive: Okay. Sir, main aapka mobile number confirm kar sakti hoon?\\nCustomer: Haan ji, 98151, aage hai 23456.\\nExecutive: Okay. 9815123456. Sir, company ka naam confirm kar dijiye.\\nCustomer: Company ka naam hai ji, S K Industries.\\nExecutive: S K Industries. Okay. Sir, line pe bane rahiye, main aapki details check kar rahi hoon. (silence) Sir, jaisa ki main check kar paa rahi hoon, aapka jo package hai, woh 20th of August ko activate hua hai. Sahi hai sir?\\nCustomer: Haan ji, haan ji. Bilkul sahi hai. Par mujhe koi fayda nahi ho raha hai iska. Mujhe refund chahiye.\\nExecutive: Sir, main samajh sakti hoon aapki chinta. Par sir, hamari company ki policy ke according, payment non-refundable hoti hai.\\nCustomer: Dekho ji, policy-volicy mujhe nahi pata. Mujhe bola gaya tha ki aapko Ludhiana se business milega. Mujhe poore India se call aa rahi hai, jiska mere liye koi matlab nahi hai. Mera paisa wapis karo.\\nExecutive: Sir, main aapki baat samajh rahi hoon. Hum aapke account mein buylead preferences set kar sakte hain taaki aapko relevant leads hi milein. Hum aapki city preference set kar denge.\\nCustomer: Nahi, nahi, nahi. Mujhe ab kuch nahi karwana. Maine ek mahina dekh liya. Koi fayda nahi hai. Mera paisa wapis karo bas.\\nExecutive: Sir, dekhiye, payment to non-refundable hai. Main aapki service behtar karne mein help kar sakti hoon. Aapke catalog ko optimize kar sakte hain, aapko relevant buyleads dilwa sakte hain.\\nCustomer: Madam, aap samajh nahi rahi ho. Mujhe service nahi chahiye. Mujhe mera paisa wapis chahiye. Mere saath dhokha hua hai.\\nExecutive: Sir, aisi baat nahi hai. Hum aapko behtar service dene ke liye hi hain. Main aapki baat apne senior se karwati hoon. Kya aap unse baat karna chahenge?\\nCustomer: Haan, karwao. Jisse bhi karwani hai karwao. Mujhe mera refund chahiye bas.\\nExecutive: Okay sir. Main aapki call apne senior ko transfer kar rahi hoon. Kripya line pe bane rahiye.\\nCustomer: Theek hai.\\nExecutive: Sir, abhi mere senior dusri call pe busy hain. Main unse request karti hoon ki woh aapko call back kar lein. Aapko 24 se 48 ghante mein call aa jayega.\\nCustomer: Call aa jayega na pakka? Aise hi to nahi bol rahe ho?\\nExecutive: Ji sir, bilkul. Aapko call aa jayega. Main aapki request daal deti hoon for a callback from the senior manager.\\nCustomer: Theek hai. Kar do. Par mujhe refund hi chahiye, yeh bata dena unko.\\nExecutive: Ji sir, main aapka feedback unko de dungi. IndiaMART mein call karne ke liye dhanyavaad.\\nCustomer: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants a refund for the paid service.\\n- Not getting any benefit or business from the subscription.\\n- Receiving irrelevant buyleads from all over India.\\n- Feels he was cheated and misled by the sales team.\\n\\n\\nResolution:\\n\\n- Informed the customer that the payment is non-refundable.\\n- Offered to set city preferences for buyleads.\\n- Offered to optimize the catalog to improve service.\\n- Arranged a callback from a senior manager.\\n\\n\\nNext Steps: \\nIssue not resolved. A senior manager will call the customer back within 24-48 hours.\\n\\nAlert (If Any):\\nrefund, cheated\\n\\n@@@Sentiment:\\n- Angry -> Annoyed | Risk of churn\\n\\n@@@Key Topics:\\n- refund, subscription, buyleads, service dissatisfaction, complaint, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33f41b9a-94be-405b-8a57-30a15c857854",
+  "ucid": "33f41b9a-94be-405b-8a57-30a15c857854",
+  "seller_categories": [
+    {
+      "mcat_id": "148833",
+      "mcat_name": "Compressed Air Pipe Fittings"
+    },
+    {
+      "mcat_id": "182471",
+      "mcat_name": "Atlas Copco Air Compressors"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    },
+    {
+      "mcat_id": "53588",
+      "mcat_name": "PPR Pipe Fittings"
+    },
+    {
+      "mcat_id": "111257",
+      "mcat_name": "Pneumatic FRL Unit"
+    }
+  ]
+}

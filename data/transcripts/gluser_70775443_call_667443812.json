@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667443812",
+  "gluser_id": "70775443",
+  "vintage_months": 50,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Very good afternoon sir, Chaitanya baat kar rahi hu sir IndiaMART se. Sir aapne jo morning me mujhe aapke account ke regarding.\\nCustomer: Haan babu ji.\\nExecutive: Nahi nahi nahi quotation ke liye maine nahi call kiya hai sir. Actually jo hai na jo dusri wali aapki GST hai dono ke beech me meri manager kuch baat karna chah rahe hai usi ke regarding. Abhi mai meeting me hu aap ek ghante baad call karna. Hello. Mai meeting me hu aap ek ghante baad call karna.\\nExecutive: Theek hai, theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss about customer's GST.\\n\n- Customer is in a meeting.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after one hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, account, meeting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a692e71-115c-4d43-83a7-c532624d50de",
+  "ucid": "2a692e71-115c-4d43-83a7-c532624d50de",
+  "seller_categories": [
+    {
+      "mcat_id": "445546",
+      "mcat_name": "Matcha Tea"
+    },
+    {
+      "mcat_id": "651249",
+      "mcat_name": "Ramen Noodle"
+    },
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "139050",
+      "mcat_name": "Green Tea Leaves Powder"
+    },
+    {
+      "mcat_id": "74504",
+      "mcat_name": "Paper Coffee Bag"
+    }
+  ]
+}

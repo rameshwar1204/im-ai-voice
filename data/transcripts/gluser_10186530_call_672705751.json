@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672705751",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Good morning sir.\\nExecutive: Vishal baat kar raha hu sir India Mart se toh kaise hain?\\nCustomer: Vishal ji main on the way hu, gaadi chala raha hu. Abhi aadha ghanta lagega mujhe pahunchne mein. Main aapko call back karta hu.\\nExecutive: Theek hai sir, please mujhe inform karega sir. Theek hai?\\nCustomer: Haan. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is driving and will call back in half an hour.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to inform him when he is available.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, availability\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a977f1e6-88c1-432e-8a68-12310d95300d",
+  "ucid": "a977f1e6-88c1-432e-8a68-12310d95300d",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "671757392",
+  "gluser_id": "27692601",
+  "vintage_months": 1,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681464",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Sir, mujhe ek naya bataya hai.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Sir, aap mujhe aadhe ghante ka time denge main aapko office se call karti hu.\\nCustomer: Okay. Thanks ji main se bol rahi hu.\\nExecutive: Main main se dekh raha hai. Haan, theek hai theek hai. Fir aadhe ghante mein main call karti hu.\\nCustomer: Theek hai mam okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to know something new.\\n\n\\n\nResolution:\\n\n- Executive will call back from the office in half an hour.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive to call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\ncall back, time\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2cf27c4d-9841-4426-8139-e2044ab2b646",
+  "ucid": "2cf27c4d-9841-4426-8139-e2044ab2b646",
+  "seller_categories": [
+    {
+      "mcat_id": "161395",
+      "mcat_name": "Flame Spray Guns"
+    },
+    {
+      "mcat_id": "84372",
+      "mcat_name": "Aluminium Bottle Cap"
+    },
+    {
+      "mcat_id": "42640",
+      "mcat_name": "Thermal Spray Coating Services"
+    },
+    {
+      "mcat_id": "33403",
+      "mcat_name": "Metal Spray Coating"
+    }
+  ]
+}

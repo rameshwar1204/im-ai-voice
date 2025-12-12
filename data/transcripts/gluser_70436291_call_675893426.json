@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675893426",
+  "gluser_id": "70436291",
+  "vintage_months": 33,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Una",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718522",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji.\\nCustomer: Namaskar sir.\\nExecutive: Haan ji. Haan ji sir namaskar. Akhilesh bol rahe hain sir IndiaMART se.\\nCustomer: Haan sir mere ko ek call kar rahe the.\\nExecutive: Ji ji.\\nCustomer: Sir ek tender tha unna ka bagana block ka.\\nExecutive: Haan.\\nCustomer: Unna bagana block se mere ko uski detail jo hai wo kal ko mere ko detail mil rahi thi aur usme mere ko dikha hua aa raha hai ki aapne usko purchase bhi kar liya hai.\\nExecutive: Haan.\\nCustomer: To abhi mere ko uski detail nahi hai mere paas aa rahi hai koi bhi to main uski detail kaise nikalun mere ko kya aap detail whatsapp kar sakte hain?\\nExecutive: Haan. Haan.\\nExecutive: Theek hai ek second sir main check kar raha hun.\\nCustomer: Theek hai sir theek hai. Aapne consume consume kar liya hai na usko matlab utha liya hai. Haan haan maine dekha tha ki mere naam se consume ho gaya hai. Main aaj morning mein dekh raha tha ki consume ho gaya hai wo.\\nExecutive: Hmm. To uska detail sab aapko chahiye.\\nCustomer: Ji ji ji.\\nExecutive: Aapne kaise Jain portal pe ja ke kiya tha na wo sari cheeze.\\nCustomer: Maine wo isse dekha tha portal se to nahi tha ye mail ke upar aaya tha mere ko.\\nExecutive: Haan haan. Mail pe aaya tha. Haan mail pe IndiaMART se mail ke upar aaya tha.\\nCustomer: Achcha to aap iska details mein aap aise kariye IndiaMART ka app open kariye.\\nExecutive: IndiaMART just hold one minute.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs details of a tender.\\n\n- Wants to know how to get the details.\\n\n\\n\nResolution:\\n\n- Executive is checking the details.\\n\n- Asked customer to open IndiaMART app.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tender, details, app\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8797cd80-a774-4dbe-9a2d-20409d5d4a8a",
+  "ucid": "8797cd80-a774-4dbe-9a2d-20409d5d4a8a",
+  "seller_categories": [
+    {
+      "mcat_id": "188738",
+      "mcat_name": "Apple Plant"
+    },
+    {
+      "mcat_id": "145991",
+      "mcat_name": "Lemon Tree"
+    },
+    {
+      "mcat_id": "118494",
+      "mcat_name": "Dragon Fruit Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "107897",
+      "mcat_name": "Fruit Plants"
+    }
+  ]
+}

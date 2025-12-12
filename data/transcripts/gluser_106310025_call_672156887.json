@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672156887",
+  "gluser_id": "106310025",
+  "vintage_months": 3,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683992",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan bolo.\\nExecutive: Haan Divanshi mam Manisha bol rahi thi India Mart se. Maine na aapko Sagar ji ka number de diya hai. Theek hai mam? Aur aapne hame address share kiya hai. Maine sir ko bhi share kar diya hai. To hum log sir ne abhi baat bhi kari hai. To hum log koshish karenge first half mein kal aapke paas kisi executive ko bhej de. Theek hai discussion ke liye.\\nAur agar koi GST update karana hai, koi product change karana hai, kuch bhi aapko India Mart se related koi bhi discussion karna hai. To main aapka contact mam matlab main hi aapki contact person hun. And main hi account dekh rahi hun aapka. To aap mujhse directly mere number pe connect kar sakte hain. Maine apna contact details aapko share kiya hai mam.\\nCustomer: Okay. Okay mam.\\nExecutive: Agar kuch ji kuch issue bhi aata hai, kuch baat bhi karni hai, kuch puchna hai, anytime aap mere number pe connect kar sakte hain. Aapko koi matlab aapko customer care pe ya kahin pe bhi connect karne ki zarurat nahi hai. I'll be the account manager mere se hi aapka account linked hai to main hi aapka account dekh rahi hun. Theek hai mam? Iske baad achcha ek concern aapka raise hua tha jaise maine bataya tha. Theek hai? To wo main close kar rahi hun aapke paas se CLM ka mail aayega aap us par yes de dijiyega mam.\\nCustomer: Okay main kar dungi. Aur mere ko kal person bhej rahe ho na?\\nExecutive: Haan kal kis time aapka comfortable time hai?\\nCustomer: Afternoon.\\nExecutive: Afternoon mein 2 se leke 6 baje tak kabhi bhi.\\nCustomer: Achcha theek hai. To hum kal 2 baje se leke 6 baje tak ke beech mein kisi bhi time pe hum matlab main aapko na subah ek bar inform kar dungi. To us time kis time wo aayenge. Bataiyega kaun aane wala hai. Theek hai theek hai.\\nExecutive: Haan main naam bhi aur number bhi share kar dungi aapko jo aane wale hain. Theek hai jinse aapka baith ke baat hoga. Theek hai mam?\\nCustomer: Okay. Okay okay. Achcha okay okay. Theek hai. Thank you so much for your time mam. Have a good day.\\nExecutive: Thank you. Have a good day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about executive visit.\\n\n- Customer had a concern raised earlier.\\n\n\\n\nResolution:\\n\n- Executive confirmed executive visit next day.\\n\n- Executive will share the executive's contact details.\\n\n- Executive is closing the raised concern.\\n\n\\n\nNext Steps: \\n\n- Customer to provide consent on CLM mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- executive visit, gst, clm mail, concern\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f00f1343-ce5f-4f24-b5bd-08f443845973",
+  "ucid": "f00f1343-ce5f-4f24-b5bd-08f443845973",
+  "seller_categories": [
+    {
+      "mcat_id": "162605",
+      "mcat_name": "C Type Power Press Machine"
+    },
+    {
+      "mcat_id": "7262",
+      "mcat_name": "Power Press"
+    },
+    {
+      "mcat_id": "445326",
+      "mcat_name": "Used Power Press"
+    },
+    {
+      "mcat_id": "9933",
+      "mcat_name": "Mechanical Power Presses"
+    },
+    {
+      "mcat_id": "9934",
+      "mcat_name": "Mechanical Press"
+    }
+  ]
+}

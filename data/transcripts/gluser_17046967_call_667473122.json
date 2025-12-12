@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667473122",
+  "gluser_id": "17046967",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Lalganj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711117",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Good evening, sir.\\nCustomer: Good evening.\\nExecutive: Mam.\\nExecutive: Sir, main Anju baat kar rahi hu IndiaMART se.\\nCustomer: Ji bataye mam.\\nExecutive: Haanji sir. Sir actually service ke regarding aap se discussion karna tha. Main abhi check kar rahi thi aapne leads vagera consume nahi kar rahe.\\nCustomer: Madam koi hamare isme aaye bhi to matlab dekhe ki isme kya matlab wo kahi dur dur ke rehti hai usme hum kya karenge isme.\\nExecutive: Sir maine aapke paas fact se pehle leads share ki thi. Aapka 13 number hai na? Sabka primary number hai.\\nExecutive: To maine leads share ki thi.\\nCustomer: dekh lete hai thoda bhi me dekha tha humne. Dekh lete hai jab koi paas ki ho matlab to hum usko dekhe bhi usme. Dur dur rehti hai usme.\\nExecutive: Dekhiye sir leads aapke paas aa rahi hai uske liye aapko thoda sa active rehna padega.\\nExecutive: Sir.\\nExecutive: Leads hai but aap usko dekhiye agar main abhi baat karu.\\nExecutive: Ek second main aapko dikha deti hu.\\nExecutive: Jaise aapko Lalganj ki thi right? Lalganj iske near by isme.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Ji aawaz aa rahi hai.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Yaar printer ki dene ko na.\\nCustomer: Ek to phone bhi.\\nExecutive: Aa rahi hai sir aawaz?\\nExecutive: Hello.\\nCustomer: [inaudible]\\nCustomer: [inaudible] wala nahi chala aage se.\\nCustomer: Hello.\\nExecutive: Hello, sir aawaz aa rahi hai aapko meri?\\nExecutive: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not consuming the leads.\\n\nResolution:\\n\n- Executive shared leads with the customer.\\n- Executive asked the customer to be active.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, service, active\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 196,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fcdf5bff-a70a-4781-b784-dad0083547bc",
+  "ucid": "fcdf5bff-a70a-4781-b784-dad0083547bc",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "185610",
+      "mcat_name": "Off Grid Solar Inverter"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "172695",
+      "mcat_name": "Solar Panel Installation"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

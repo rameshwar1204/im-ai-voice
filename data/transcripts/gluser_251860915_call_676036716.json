@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676036716",
+  "gluser_id": "251860915",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Jaunpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9721206",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Ji good afternoon, good evening sir. Navzar baat kar raha hu sir India Mart se, kaise hain sir aap?\\nExecutive: Mai theek hu batao.\\nCustomer: Ji ji mai sir wahi kal jo aapko bataya tha to aapne call back karne ke liye bola tha. Ek to cheez ye hai sir ki.\\nExecutive: Ji.\\nExecutive: Mai travel kar raha hu mai kal pahuchunga office to kal phone karna.\\nExecutive: Achcha to kal kitne baje karu?\\nCustomer: Kal karo tum dopahar me 2 baje, kam se kam meri meeting rahegi 2 baje.\\nExecutive: 2 se 3 to sir hamara wo rehta hai lunch to usse pehle kar le 1 baje.\\nCustomer: 3 baje kar lena.\\nExecutive: 3 baje okay, theek hai 3 baje.\\nExecutive: Theek hai okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call back regarding a previous issue.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call back at 3 PM tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, scheduling\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c86cb66e-3150-4b70-9a2c-67c82ece3b5e",
+  "ucid": "c86cb66e-3150-4b70-9a2c-67c82ece3b5e",
+  "seller_categories": [
+    {
+      "mcat_id": "3719",
+      "mcat_name": "Chana Dal"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "186119",
+      "mcat_name": "Jeera Biscuit"
+    }
+  ]
+}

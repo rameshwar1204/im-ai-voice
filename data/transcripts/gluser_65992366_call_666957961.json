@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666957961",
+  "gluser_id": "65992366",
+  "vintage_months": 8,
+  "bl_dau_oct": 9,
+  "customer_type": "STAR",
+  "city_name": "Chanasma",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan Bhavesh ji.\\nExecutive: Haan sir maine aapko message kiya tha, theek hai? Aadhaar card, PAN card.\\nCustomer: Haan maine dekha.\\nExecutive: Haan.\\nCustomer: Are maine dekh liya, dekh liya woh.\\nExecutive: Aur uska payment jab ho jaaye, uska, haan uska payment jab ho jayega, uska transaction detail aap mujhe doge tab main woh buyer supplier team ko dunga, to woh case band hoga. Dusra aapka KYC ke liye itna item lagega, Aadhaar, PAN, GST ka PDF, bank cancel cheque, GST certificate aur photo video lagegi office ki. Yeh saara item main dunga buyer supplier team ko tab woh document attach karegi. Aur in case kabhi bhi buyer supplier, in case kabhi future mein buyer supplier ka koi bhi concern hota hai to company aapki band ho jayegi, yeh bhi bola gaya hai saath mein.\\nCustomer: Yeah?\\nExecutive: Jaise agar in case future mein aap kabhi bhi kisi customer se deal kar rahe ho, payment delay ho raha hai ya product deliver nahi ho paa raha hai, date usme badh raha hai, usme company koi bhi action ya kuch bhi laga sakti hai. Company ke end pe hoga, woh aapko mail pe de diya jayega return mein. Matlab woh mera nahi hoga, yeh company ki internal team jo bhi karti hai. Toh yeh chaaron item jab aap de doge, main main upload kar dunga, transaction detail main unko de dunga, tab aapki company hogi, working mein aayegi aur tab aap use kar paoge services.\\nCustomer: Okay okay.\\nExecutive: Theek hai?\\nCustomer: Ji.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Needs to make a payment to close a case.\\n- Needs to submit documents for KYC verification.\\n\\n\\nResolution:\\n\\n- Listed the required KYC documents for submission.\\n- Explained the process for case closure and account reactivation.\\n- Warned about potential company suspension for future issues.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer to make the payment and submit the required documents.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- kyc, payment, document submission, account reactivation, company policy\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9c0e7054-1d04-4834-be88-22270b210ede",
+  "ucid": "9c0e7054-1d04-4834-be88-22270b210ede",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "139057",
+      "mcat_name": "Hydraulic Paper Plate Machine"
+    }
+  ]
+}

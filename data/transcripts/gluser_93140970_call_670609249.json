@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670609249",
+  "gluser_id": "93140970",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Kalol",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663093",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ek baat.\\nExecutive: [Unintelligible]\\nCustomer: Bhai ya disturb mat karo bar bar mujhe aapka nahi chahiye service theek hai main abhi dobara aapka service nahi chahiye dekho meri baat sun lo.\\nExecutive: Bolye aap pehle aap bol lijiye bolye.\\nCustomer: Mujhe kuch nahi bolna mujhe aapki service nahi le abhi le liya koi issue nahi mera 35 36 waste ho gaya abhi third time main aapke yaha pe nahi aaunga aap ye dekho ya Gujarat mein kon sa lead dikha raha hai aap dekho na chalo mujhe nahi maine wohi time bola tha main Gujarat mein hi deal karunga.\\nExecutive: Chaliye main sir main bol raha hu Gujarat ka abhi aap dekho use concrete packaging box ki 200 piece ki quantity ki padi hui hai 50 minute pehle Ahmedabad Gujarat ki hai ye sir.\\nCustomer: Aap Gujarat ka ek bar filter lagao sir ek bar recent pe ek bar click karo.\\nExecutive: Are laga bhai.\\nCustomer: Ek minute main aapko abhi ek screenshot bhejta hu ya fir aap agar kitna hai bhai nahi suno uska value kitna hai.\\nExecutive: Sir inka quantity 200 pieces ka dala hua hai inhone.\\nCustomer: Ha are field quantity dekho bhai.\\nExecutive: Order value 10000 ka hai sir business use ke liye dala hua hai 10000 ka order value hai GST verified lead hai.\\nCustomer: Nahi hota suno dekho main aapko ek sahi bol du na aapko ye nahi to wo natak ye nahi to wo natak chalu rehta hai aap mujhe bar bar phone karke mat pareshan karo agar mujhe acha nahi lagega main list purchase karunga otherwise main third time aapke yaha pe nahi aaunga theek hai aap rakh do.\\nExecutive: Dekho ab aap baat karo dekho aap aapne hi feedback diya service nahi hai ab aap ab aap main to dekho main abhi social media pe bhi dalunga ki ye India mart wale chutiya bana rahe hain aisa likhunga likhunga samajh lo aap batao na aap baat karne ke liye agree nahi kar rahe ho.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Does not want the service.\\n\n- Wants leads only from Gujarat.\\n\n- States leads are waste.\\n\n- Does not want to be disturbed.\\n\n\\n\nResolution:\\n\n- Executive tried to explain about Gujarat lead.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, location\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b4d4b8d0-1044-4817-8bcd-98bd51af88c5",
+  "ucid": "b4d4b8d0-1044-4817-8bcd-98bd51af88c5",
+  "seller_categories": [
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "150841",
+      "mcat_name": "EPE Foam Roll"
+    },
+    {
+      "mcat_id": "38778",
+      "mcat_name": "Stretch Film"
+    },
+    {
+      "mcat_id": "32930",
+      "mcat_name": "Nylon Cable Tie"
+    },
+    {
+      "mcat_id": "85843",
+      "mcat_name": "Air Bubble Roll"
+    }
+  ]
+}

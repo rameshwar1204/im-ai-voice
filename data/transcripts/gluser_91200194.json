@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673439824",
+  "gluser_id": "91200194",
+  "vintage_months": 33,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9695546",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hanji\\nExecutive: Hello ha good afternoon sir Himanshu bol raha India Mart se.\\nCustomer: Hanji\\nExecutive: Ha sir sir aapka ek mere pass feedback aaya tha regarding ki aap video meet ke video meet karna chah rahe the.\\nCustomer: To\\nExecutive: Baki bataiye sir\\nCustomer: Lead vagera kuch aa nahi rahi hai isko dekho kya ho raha hai isko.\\nExecutive: Lead vagera nahi aa rahi hai.\\nCustomer: Hanji ha okay ek second sir main check kar leta hu aapko link share karu sir aap video meet pe aaoge.\\nCustomer: Ha kar dijiye.\\nExecutive: Ha main aapko abhi link share karta hu lead aapko problem matlab aapko abhi se aaj hi nahi aa raha hai na kitne dino se nahi aa raha tha vaise.\\nCustomer: Kafi din se aa raha hai hum isko dekh nahi rahe the kafi din se to abhi isko 10-15 din se hum continue isko dekh rahe hai to isko kuch aa hi nahi raha hai.\\nExecutive: Ha sir basically bahut dino se disengage thi na aapki service to aap bahut dino se matlab use nahi kar rahe the is vajah se.\\nCustomer: Aur ek isme aapne catalog view ka ye function band kar diya usme wo show hi nahi hota ispe.\\nExecutive: Catalog view catalog view hai to sahi hai.\\nCustomer: Catalog view nahi kar raha hai.\\nExecutive: Nahi dikh raha hai abhi main dekh raha tha.\\nExecutive: Accha ye metal plas\\nExecutive: Cutting machine hai aap isme deal karte ho na.\\nCustomer: Ha karte hai.\\nExecutive: Second pehle ek second ek bar India Mart kholenge apna.\\nCustomer: Ha khol lunga main aap link share kar dijiye main aapko khol leta hu.\\nExecutive: Hmm thik hai main link share karta hu sir hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving leads.\\n\n- Catalog view function is not working.\\n\n\\n\nResolution:\\n\n- Executive offered to share a video meet link.\\n\n- Executive will check the lead issue.\\n\n\\n\nNext Steps: \\n\n- Executive will share the video meet link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog view, video meet\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0933171c-b719-4ca9-81b0-33252334b5e8",
+  "ucid": "0933171c-b719-4ca9-81b0-33252334b5e8",
+  "seller_categories": [
+    {
+      "mcat_id": "25052",
+      "mcat_name": "CNC Drilling Machine"
+    },
+    {
+      "mcat_id": "182452",
+      "mcat_name": "H Beam Welding Machine"
+    },
+    {
+      "mcat_id": "133131",
+      "mcat_name": "Hypertherm Plasma Consumables"
+    },
+    {
+      "mcat_id": "144570",
+      "mcat_name": "Roofing Sheet Making Machine"
+    },
+    {
+      "mcat_id": "80137",
+      "mcat_name": "CNC Punching Machine"
+    }
+  ]
+}

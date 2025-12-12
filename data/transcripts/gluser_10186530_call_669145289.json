@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669145289",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Aaj payment ke baat karni hai.\\n\\nExecutive: Hello.\\nCustomer: Hello, good morning, Shrivastav, Elma baat kar rahi hu. Good morning.\\nExecutive: Ha, good morning. Elma ji aap 10:30 ko baat kar sakte hai ke mai abhi abhi on the way hu, mera aadha ghanta phone. Achcha.\\nCustomer: Actually mujhe baat nahi karni thi sir.\\nExecutive: Nahi nahi koi baat nahi, mujhe aap 10:30 ko call kijiye, mai aap. Chalo ji.\\nExecutive: Mera aadha ghanta to mere ko traffic lagne me lag jayega, to mai baat bhi nahi kar paunga theek tarah se aapse.\\nCustomer: Achcha. Nahi mujhe aapka time nahi chahiye tha sir, bas mujhe ye kehna tha wo aapne na feedback me no kar diya tha na to fir se ticket open ho gayi.\\nExecutive: To aap isliye mai, maine aapko kya bataya, aap 10:30 ko mere ko call kar dijiyega, mujhe malum hai. Isliye to mai aapko isliye bol raha hu, kyuki abhi kya hai ki ek to traffic bhi hai, mera dhyan udhar udhar lagega to yaha pe lag jayegi mere ko bhi.\\nCustomer: Alright sir, theek hai mai 10:30 pe call karti hu. Okay, okay.\\nExecutive: Ha 10:30 ko kijiyega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss payment.\\n\n- Customer says ticket reopened due to feedback.\\n\n\\n\nResolution:\\n\n- Executive asked to call back at 10:30.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 10:30.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, feedback, ticket\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4f88ecb0-9235-488a-8bf6-7043be426da6",
+  "ucid": "4f88ecb0-9235-488a-8bf6-7043be426da6",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

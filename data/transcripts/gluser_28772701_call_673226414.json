@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673226414",
+  "gluser_id": "28772701",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\u0939\u0947\u0932\u094b\\n\u0939\u0947\u0932\u094b\\n\u0939\u0947\u0932\u094b\\n\u0939\u093e\u0902 \u0938\u0930 \u0905\u092d\u0940 \u0915\u0949\u0932 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u0906\u0935\u093e\u091c \u0906 \u0930\u0939\u0940 \u0939\u0948 \u0939\u093e\u0902 \u0906\u0935\u093e\u091c \u0906 \u0930\u0939\u0940 \u0939\u0948 \u0905\u092d\u0940 \u0915\u0949\u0932 \u092c\u0948\u0915 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u0938\u0930 \u0906\u092a\u0915\u094b 10 \u092e\u093f\u0928\u091f \u092e\u0947\u0902\\n",
+  "summary": "\\n\nConcerns:\\n\n- Caller is calling back in 10 minutes.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4802fd08-e36d-4c73-938b-001d69147da2",
+  "ucid": "4802fd08-e36d-4c73-938b-001d69147da2",
+  "seller_categories": [
+    {
+      "mcat_id": "167696",
+      "mcat_name": "Pagoda Tent"
+    },
+    {
+      "mcat_id": "41970",
+      "mcat_name": "Resort Tents"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "100516",
+      "mcat_name": "Swiss Cottage Tent"
+    }
+  ]
+}

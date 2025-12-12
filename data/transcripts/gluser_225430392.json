@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670522267",
+  "gluser_id": "225430392",
+  "vintage_months": 15,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667550",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. \\nCustomer: Ha boliye sir.\\nExecutive: Ye meri Vishal ji se baat ho rahi hai?\\nCustomer: Ha.\\nExecutive: Hello.\\nCustomer: Ha boliye boliye.\\nExecutive: Ha sir main Vishal baat kar raha hun IndiaMART se. Actually mein aapka account hai na Pritesh food products ke naam se. Uske liye maine call kiya hai. Hame na aapki side se bas ek incoming call receive hui thi hamare customer care number pe. Wo madam ko kuch bylead ke liye puchna tha ki kitni bylead aapko receive hoti hai.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello ha boliye.\\nExecutive: Ha. To aap aapki hi query thi ye sir?\\nCustomer: Aapka aawaz nahi aa raha hello.\\nExecutive: Main puch raha tha aap hi janna chahte the sir?\\nCustomer: Ha ha main hi janna chahta tha.\\nExecutive: Kya concern hai bataiye.\\nCustomer: Ye concern hai. Ki bylead ka account kya hai? Bylead.\\nExecutive: Bylead ka account main aapko inform kar deta hun. Sir jo aapka package hai na IndiaMART se ye MDC wala package hai sir. Is package ke andar aapko do tarike se bylead milti hai. Ek aapko weekly assign hoti hai. Weekly bylead ke points rehte hain aapke 10. Aapko 10 bylead weekly milti hai sir. Thik hai?\\nCustomer: Thik hai.\\nExecutive: Uske alawa daily basis pe aapke account mein ek bylead point har roz credit hota hai sir.\\nCustomer: Ek hi hota hai kya?\\nExecutive: Ha daily ka ek hota hai week ke 10 hote hain sir. To total count karoge ek hafte mein 17 aapko milti hai sir.\\nCustomer: 17?\\nExecutive: Ha okay.\\nCustomer: Thik hai? Weekly jo hota hai wo kab hota hai?\\nExecutive: Sir weekly jo aapke account mein credit hota hai ye hota hai Sunday morning ko sir.\\nCustomer: Okay.\\nExecutive: Thik hai?\\nCustomer: Koi aur doubt?\\nExecutive: Nahi bas itna hi.\\nCustomer: Clear hai sir. To jo concern tha ye main close kar sakta hun aapka fir?\\nExecutive: Ha ha close kar dijiye.\\nCustomer: Thik hai sir aapke pass feedback mail aati hai please aap usme feedback bhi share kar sakte hain in case agar aap satisfied hai mere solution se sir. Thik hai and second cheez sir aapke catalog mein na main just ek keyword check kar raha tha. A ek second bas. Ek product aap shayad consume kar rahe the imli seed powder ke naam se.\\nCustomer: Konse konse?\\nExecutive: Imli imli seed powder.\\nCustomer: Nahi wo nahi hai.\\nExecutive: Nahi karte aap isme deal?\\nCustomer: Nahi.\\nExecutive: Actually mein iski aapne na shayad kuch lead consume kari hogi to isliye mujhe dikha raha tha to maine puchna sahi samjha ki agar aap karte hain to isko please aap catalog mein add kar sakte hain.\\nCustomer: Nahi nahi ye deal nahi karte sir.\\nExecutive: Nahi karte hain thik hai iski koi bhi requirement agar aapke pass aati hai na sir aap usko not relevant mark kar dijiyega sir. Thik hai?\\nCustomer: Thik hai.\\nExecutive: Thik hai sir main concern yahan par close karta hun thank you for giving the time sir.\\nCustomer: Okay.",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know the count of buyleads.\\n\n- When weekly buyleads are credited.\\n\n\\n\nResolution:\\n\n- Informed about weekly and daily buyleads.\\n\n- Informed weekly buyleads credited on Sunday morning.\\n\n- Asked to mark imli seed powder as not relevant.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, catalog, mdc\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 211,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=93fbbc4d-d7e2-4b89-9c13-474bc6471c8b",
+  "ucid": "93fbbc4d-d7e2-4b89-9c13-474bc6471c8b",
+  "seller_categories": [
+    {
+      "mcat_id": "7518",
+      "mcat_name": "Onion Powder"
+    },
+    {
+      "mcat_id": "26446",
+      "mcat_name": "Dehydrated Onion"
+    },
+    {
+      "mcat_id": "148444",
+      "mcat_name": "Banana Powder"
+    },
+    {
+      "mcat_id": "20462",
+      "mcat_name": "Moringa Leaves Powder"
+    },
+    {
+      "mcat_id": "69834",
+      "mcat_name": "Fried Onions"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669276479",
+  "gluser_id": "144197430",
+  "vintage_months": 1,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691936",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Hello. Good morning sir, Kidzee Automation and Technologies se baat ho rahi hai meri?\\nCustomer: Haan ji.\\nExecutive: Sir, main India Mart se baat kar rahi hoon. Aapke account manager kaise hain aap?\\nCustomer: Badhiya, bataiye.\\nExecutive: Sir, actually aapke site se na India Mart ki services bilkul bhi use nahi ho rahi hai. Kahan par issue aa raha hai?\\nCustomer: Mam, ek baar main toh bahar tha, kahin sir hi batayenge.\\nExecutive: Actually woh call hi nahi pick kar rahe hain. Maine kaafi baar try kara.\\nCustomer: Mam, main bol deta hoon ek baar jaise hi pick karenge main bata dunga.\\nExecutive: Haan ji, please.\\nExecutive: Okay, thank you so much. Have a good day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- India Mart services not being used.\\n\n- Executive unable to reach decision-maker.\\n\n\\n\nResolution:\\n\n- Customer will inform decision-maker to answer calls.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. None.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, services, account manager, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c28921f6-95cb-41e2-9c41-8c0e72ca9e9f",
+  "ucid": "c28921f6-95cb-41e2-9c41-8c0e72ca9e9f",
+  "seller_categories": [
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    },
+    {
+      "mcat_id": "5945",
+      "mcat_name": "Pillow Block Bearing"
+    },
+    {
+      "mcat_id": "650094",
+      "mcat_name": "WECON PLC"
+    },
+    {
+      "mcat_id": "43491",
+      "mcat_name": "Switch Mode Power Supply"
+    },
+    {
+      "mcat_id": "145441",
+      "mcat_name": "Biofuel Briquettes"
+    }
+  ]
+}

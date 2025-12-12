@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675838552",
+  "gluser_id": "10293098",
+  "vintage_months": 87,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan woh kar lo bathroom ka kaam.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Sir woh status se baat karni hai, mera mann nahi aa raha hai.\\nExecutive: Haan ji madam, haan ji, good morning, kaise ho aap?\\nCustomer: Badhiya. Sir woh profile ka kuch kar dete aap jo keh rahe the product vagerah ka, kyunki koi bhi inquiry nahi aa rahi. Madam khud baith ke do din se dekh rahi hai.\\nExecutive: Ek minute ruko, line pe ruko aap.\\nCustomer: Hmm.\\nExecutive: Madam last video mein aap hi saath hui thi meri?\\nCustomer: Last haan mere saath hui thi.\\nExecutive: Theek hai madam. To I hope madam aapko usme yaad hoga ki maine bataya tha ki usme products vagerah add karwa de.\\nCustomer: Haan maine aapko uske liye kai baar call bhi kiya but aapka call connect hi nahi ho raha tha pata nahi.\\nExecutive: Theek hai. Ek baar madam apna number boliyega to main aapko WhatsApp pe pin karta hu.\\nCustomer: Haan ji, haan ji. 966\\nExecutive: 966\\nCustomer: 72\\n\\nCustomer: Hello.\\nExecutive: Hello, haan ji madam.\\nCustomer: 9667286\\nExecutive: Haan ji madam, maine aapko pin kar diya, theek hai? WhatsApp pe aapki. Achha aapne ye jo product madam mujhe bheje hue the.\\nCustomer: Hmm.\\nExecutive: Haan ye jaise concrete paver aur KERB stones ke bare mein chaar-chaar likhe hue the. To aapne bheje hue the mujhe, theek hai?\\nCustomer: Hmm.\\nExecutive: Hello.\\nCustomer: Haan ji madam.\\nExecutive: Haan ji madam, ek minute line pe aap raho.\\n\\nExecutive: Isko na madam aaj hi aapka mapping wala pura kaam khatam kar deta hu.\\nCustomer: Haan.",
+  "summary": "\\n\nConcerns:\\n\n- No inquiries are being received.\\n\n- Wants profile and product details updated.\\n\n- Unable to connect with executive via call.\\n\n\\n\nResolution:\\n\n- Executive pinned customer on WhatsApp.\\n\n- Executive confirmed products sent by customer.\\n\n- Executive assured to complete mapping work today.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, product, inquiry, whatsapp\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=175085a8-ebfc-4a7a-989c-7df63fbe7945",
+  "ucid": "175085a8-ebfc-4a7a-989c-7df63fbe7945",
+  "seller_categories": [
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    }
+  ]
+}

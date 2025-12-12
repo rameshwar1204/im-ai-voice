@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670836128",
+  "gluser_id": "30728128",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711415",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u093e\u0902 \u091c\u0940 \u092c\u094b\u0932\u093f\u090f\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u092c\u094b\u0932\u093f\u090f\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0939\u093e\u0902 \u091c\u0940 \u092d\u0930\u0924 \u091c\u0940 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak with Bharat Ji.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nspeaking with bharat ji\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6bf0dfb1-3bb0-433a-9a0e-ae0cd6f488a4",
+  "ucid": "6bf0dfb1-3bb0-433a-9a0e-ae0cd6f488a4",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "114352",
+      "mcat_name": "Italian Marble"
+    },
+    {
+      "mcat_id": "73701",
+      "mcat_name": "Polished Granite Slab"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "186745",
+      "mcat_name": "Toronto Marble"
+    }
+  ]
+}

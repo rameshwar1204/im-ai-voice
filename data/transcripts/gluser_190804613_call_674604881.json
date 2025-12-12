@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674604881",
+  "gluser_id": "190804613",
+  "vintage_months": 26,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679594",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji good afternoon sir.\\nExecutive: Ji good afternoon sir, main ye bol raha tha main Alpha International se baat kar raha hun.\\nCustomer: Haan haan sir Alpha International yaad aa gaya sir Ashraf baat kar raha hun bahut call kiya tha maine aapko renewal ke time.\\nExecutive: Ji sir bataiye.\\nCustomer: Achcha achcha haan main ye keh raha tha ye jo hai mera ye chal nahi raha hai.\\nExecutive: Band kar diya sir IndiaMART ne aapke.\\nCustomer: Haan wahi to.\\nExecutive: Services hi band kar diya hai wo bole ki abhi onboard ab nahi karenge hum aur aapka paisa bhi tab refund karega jab ek mahine tak aapke koi aisa koi complaint IndiaMART pe nahi aayegi.\\nCustomer: Achcha.\\nExecutive: Aapke shayad do teen jo hai complaint IndiaMART pe ek sath register hue the.\\nCustomer: Sir main haan wo maine bataya tha ki pata nahi kaun banda hai na mera buyer hai na kuch hai wo complaint register kare chale ja raha hai.\\nExecutive: Achcha.\\nCustomer: Maine apne account manager ko bhi bataya tha shayad kya kuch naam unke hai naam dhyan nahi hai.\\nExecutive: Hmm hmm hmm hmm.\\nCustomer: To wo unhone ye bola ki agar koi complaint nahi aati bhai ab complaint koi banda bewajah kar raha hai aap ye bhi to dekho.\\nExecutive: Hmm theek hai ek bar main ek bar karta hun cross check karwa ke Bhumika sir ko call back karwa ek call pe hai to jaise hi free ho jati hai aapko call back karti hai abhi.\\nCustomer: Okay okay.\\nExecutive: Theek hai check bhi kar lenge na ki kaun kaun se complaint race aur usme kya kya baki ek to ek banda complaint kar raha hai wo buyer tha mera matlab buyer hi hai usne jo hai maine material bhej diya hai aur main mere pass matlab proof hai uska usko receive bhi ho gaya hai.\\nCustomer: Haan.\\nCustomer: Lekin usne usne complaint ye dali hai ki mujhe material nahi mila.\\nExecutive: Achcha.\\nCustomer: Ji.\\nExecutive: Theek hai main check karwata hun ek bar Bhumika ji aapko call back karegi abhi 5-10 minute mein theek hai sir.\\nCustomer: Okay sir.\\nExecutive: Theek hai okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART services are not working.\\n\n- Wants refund of subscription amount.\\n\n- Complains about a buyer raising false complaints.\\n\n\\n\nResolution:\\n\n- Executive confirmed services are stopped due to complaints.\\n\n- Executive assured to cross-check and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will have Bhumika call back in 5-10 minutes.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, complaints, services, buyer\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b0e9a2d5-f532-4ccb-9ddc-9c86144e8662",
+  "ucid": "b0e9a2d5-f532-4ccb-9ddc-9c86144e8662",
+  "seller_categories": [
+    {
+      "mcat_id": "24669",
+      "mcat_name": "Ceramic Coffee Mug"
+    },
+    {
+      "mcat_id": "3671",
+      "mcat_name": "Ceramic Bowls"
+    },
+    {
+      "mcat_id": "3689",
+      "mcat_name": "Ceramic Plates"
+    },
+    {
+      "mcat_id": "90434",
+      "mcat_name": "Ceramic Tea Cup"
+    },
+    {
+      "mcat_id": "3910",
+      "mcat_name": "Coffee Mugs"
+    }
+  ]
+}

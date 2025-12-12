@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669629148",
+  "gluser_id": "100674270",
+  "vintage_months": 68,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9659518",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji. Hello. Yes sir.\\nCustomer: Haan.\\nExecutive: Sir main Rujesh baat kar raha hun IndiaMART head office se.\\nCustomer: Haan.\\nExecutive: Kal phone kiya tha maine aapko.\\nCustomer: Haan sir actually kal main office nahi tha main koi kahin matlab mere sath kuch fraud ho gaya tha uski vajah se main thoda sa busy tha isliye call nahi ka utha paya. To mujhe bataiye sir kya.\\nExecutive: Office office pahunch ke karta hun abhi ek ghante mein main call karta hun. Ek ghante mein aapko call karte hain. Sir aapke kya issues the mujhe thoda bataiye sir.\\nCustomer: Mujhe profile pata nahi kya lead vagera kuch pata hi nahi hai.\\nExecutive: Lead nahi aa rahi hai.\\nCustomer: Kya sir? Koi relevancy nahi hai sir pata nahi kya ho raha hai koi lead issue nahi pata nahi kis type se lead. Lead nahi aa rahi hai. Lead nahi aa rahi hai. Aa rahi hai sir lekin wahi hai 10 type chahiye 20 type chahiye isko kam hota hai sir. Chalo main ek ghante baad call karta hun aapko. Aap check karo. Sir main ek kam kijiye aap office aaiye.\\nExecutive: Main ek video meeting aapse wo kar leta hun. Video meeting mein ek bar discuss kar lete hain. Okay?\\nCustomer: \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says fraud happened with him.\\n\n- Doesn't know about profile, leads etc.\\n\n- States leads are not relevant.\\n\n\\n\nResolution:\\n\n- Executive offered a video meeting to discuss.\\n\n\\n\nNext Steps: \\n\n- Executive will schedule a video meeting.\\n\n\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, profile, video meeting, fraud\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78451910-3a5f-4b53-ad0a-1005b7a921e9",
+  "ucid": "78451910-3a5f-4b53-ad0a-1005b7a921e9",
+  "seller_categories": [
+    {
+      "mcat_id": "88308",
+      "mcat_name": "Tea Cup Set"
+    },
+    {
+      "mcat_id": "29411",
+      "mcat_name": "Gift Sets"
+    },
+    {
+      "mcat_id": "28707",
+      "mcat_name": "Glass Bowls"
+    },
+    {
+      "mcat_id": "88098",
+      "mcat_name": "Pudding Set"
+    },
+    {
+      "mcat_id": "442827",
+      "mcat_name": "Glass Pudding Set"
+    }
+  ]
+}

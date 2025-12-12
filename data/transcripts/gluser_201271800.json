@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676667583",
+  "gluser_id": "201271800",
+  "vintage_months": 1,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724124",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Aapne jis vyakti ko call kiya hai, woh abhi dusre ho.\\nExecutive: Hello.\\nExecutive: Good morning sir, Rahul baat kar raha hu mai IndiaMART se.\\nCustomer: Ha ji sir boliye.\\nExecutive: Aapne kal call kiya tha kya 96 wale number pe?\\nCustomer: Maine ha, kiya tha maine.\\nExecutive: Kya ho gaya sir bataiye?\\nCustomer: Nahi nahi woh aise hi kiya maine.\\nExecutive: Are sir, aap mera number hai na aapke paas save kar lijiye usko, usi pe kiya kariye, thik hai?\\nCustomer: Nahi nahi woh galti se lag gaya aise.\\nExecutive: Woh mai number save kar raha tha IndiaMART ka toh woh call lag gaya.\\nExecutive: Nahi dekhiye, jo IndiaMART buyer ka number hota hai woh alag hota hai, thik hai.\\nExecutive: Aur 96 wale ki jagah pe agar koi bhi kuch bhi zarurat hoti toh mujhe call kiya kariye, thik hai?\\nExecutive: Mera number save kiya hai ki nahi aap?\\nCustomer: Number yaar abhi filhaal toh pata nahi mere ko, mera call aa raha hai, mai baad me karta hu aapko call.\\nExecutive: Achha achha, thik hai.\\nCustomer: Ji ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called on the wrong number.\\n\n- Customer does not have executive's number saved.\\n\n\\n\nResolution:\\n\n- Executive informed the customer about correct number.\\n\n- Executive asked customer to save his number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number, save number\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7e7478ce-f936-4b4c-9205-e58c0be09b24",
+  "ucid": "7e7478ce-f936-4b4c-9205-e58c0be09b24",
+  "seller_categories": [
+    {
+      "mcat_id": "190588",
+      "mcat_name": "Sirohi Goats"
+    },
+    {
+      "mcat_id": "163224",
+      "mcat_name": "Goat"
+    },
+    {
+      "mcat_id": "182624",
+      "mcat_name": "Boer Goat"
+    },
+    {
+      "mcat_id": "11270",
+      "mcat_name": "Cumin Seeds"
+    },
+    {
+      "mcat_id": "192308",
+      "mcat_name": "Barbari Goat"
+    }
+  ]
+}

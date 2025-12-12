@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670341674",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u0947\u0932\u094b \u0939\u0947\u0932\u094b \u092e\u0948\u0921\u092e \u092e\u0948\u0921\u092e \u090f\u0915 \u092e\u093f\u0928\u091f \u090f\u0915 \u092e\u093f\u0928\u091f \u0935\u0940\u0921\u093f\u092f\u094b \u0935\u0940\u0921\u093f\u092f\u094b \u0932\u093f\u0902\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0932\u093f\u0902\u0915 \u0913\u0915\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u0932\u093f\u0902\u0915 \u0935\u0940\u0921\u093f\u092f\u094b \u0932\u093f\u0902\u0915\\nExecutive: \u0939\u093e\u0902 \u0924\u094b \u0938\u0930 \u0905\u092d\u0940 \u0906\u092a \u092e\u0941\u091d\u0947 \u090f\u0915 \u091f\u093e\u0907\u092e \u092c\u0924\u093e \u0926\u0940\u091c\u093f\u090f \u0906\u092a \u0909\u0938 \u0909\u0938 \u091f\u093e\u0907\u092e\\nCustomer: \u0915\u094d\u092f\u093e \u092c\u094b\u0932 \u0930\u0939\u0947 \u0939\u0948\u0902?\\nExecutive: \u0905\u092d\u0940 \u091f\u093e\u0907\u092e \u0915\u094d\u092f\u093e \u0939\u0948 \u0928\u093e\\nExecutive: \u0938\u0930 \u0905\u092d\u0940 3:18 \u0939\u094b \u0930\u0939\u093e \u0939\u0948 \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e\u0907\u090f \u092e\u0948\u0902 \u0915\u092c \u0906\u092a\u0915\u094b \u0915\u0928\u0947\u0915\u094d\u091f \u0915\u0930 \u0932\u0942\u0902 \u0938\u0930 \u092e\u0941\u091d\u0947 \u092f\u0947 \u0915\u0902\u0938\u0930\u094d\u0928 \u092d\u0940 \u0915\u094d\u0932\u094b\u091c \u0915\u0930\u0928\u093e \u0939\u0948 \u0928\u093e \u0938\u0930\\nCustomer: 10 \u092e\u093f\u0928\u091f\\nExecutive: 10 \u092e\u093f\u0928\u091f \u0938\u0930 \u092e\u0947\u0902 \u0938\u0930 3:30 \u092a\u0947 \u0906\u092a \u092a\u0915\u094d\u0915\u093e \u0905\u0935\u0947\u0932\u0947\u092c\u0932 \u0930\u0939\u0947\u0902\u0917\u0947 \u0928\u093e\\nCustomer: \u0939\u093e\u0902 \u0939\u093e\u0902 \u0905\u0935\u0947\u0932\u0947\u092c\u0932 \u0905\u0935\u0947\u0932\u0947\u092c\u0932\\nExecutive: \u0913\u0915\u0947\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks what the executive is saying.\\n\n- Executive needs to close a concern.\\n\n\\n\nResolution:\\n\n- Executive asks the customer to provide a time to connect.\\n\n- Executive confirms availability at 3:30.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will connect with the customer at 3:30.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\navailability, time, connect\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=39b8ace7-bcb3-4ddf-8d12-103654db2c1e",
+  "ucid": "39b8ace7-bcb3-4ddf-8d12-103654db2c1e",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

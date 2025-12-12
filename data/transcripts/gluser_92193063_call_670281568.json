@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670281568",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello madam ji namaskar.\\nHello.\\nMadam ji just give me only madam please only 10 minutes I will come back to you soon okay.\\nOkay okay only 10 minutes.\\nPlease call me 10 minutes after 10 minutes.\\nPower ho raha hai.\\nOkay please 10 minutes.\\nHaa koi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call back after 10 minutes.\\n\n\\n\nResolution:\\n\n- Agreed to call back after 10 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback request\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1007f6b8-fa85-46b9-b5c5-2a3699e2692b",
+  "ucid": "1007f6b8-fa85-46b9-b5c5-2a3699e2692b",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

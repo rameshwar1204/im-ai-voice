@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672997541",
+  "gluser_id": "238139292",
+  "vintage_months": 10,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Neyyattinkara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687126",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan Rajan ji good evening.\\nExecutive: Gaurav baat kar raha hu sir IndiaMART se.\\nCustomer: Achcha bhaiya aap maine na aapko mail ji.\\nExecutive: Aapko na uske baad mai call karta hu.\\nCustomer: Thik hai sir thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he has sent a mail.\\n\n\\n\nResolution:\\n\n- Executive will call after checking the mail.\\n\n\\n\nNext Steps: \\n\n- Executive will call after checking the mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail, follow up, call\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=43411a47-fd32-4dac-84ad-5e18b4cb4d4c",
+  "ucid": "43411a47-fd32-4dac-84ad-5e18b4cb4d4c",
+  "seller_categories": [
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    },
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "24750",
+      "mcat_name": "Chaff Cutter"
+    },
+    {
+      "mcat_id": "139284",
+      "mcat_name": "Electric Chaff Cutter"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667906447",
+  "gluser_id": "45158565",
+  "vintage_months": 11,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Nalgonda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, kaun bol rahe ho?\\nCustomer: Yes. Hello.\\nExecutive: Se kaun si baat kar rahe hain, IndiaMART office se senior account manager. Kya boliye?\\nCustomer: Hmm. Aapka catalog hai na, Himashi wholesale wholesale and construction house.\\nCustomer: Yeah, yeah, yesterday only I renewed the subscription.\\nExecutive: Haan, haan. Hmm. In kal sir aapka miss call aaya tha.\\nCustomer: But from your side there is no response from clients.\\nExecutive: Client is no response?\\nCustomer: Haan, client response is there but you should also help na for for dealings.\\nExecutive: Yes. So ek baar main usme abhi aapka kuch category waga issue aa raha hai ya fir sare call inquiry aapke sahi nahi aa rahe hain?\\nCustomer: Kya kya?\\nExecutive: Main keh raha hun sari category ke aapke paas relevant aa rahe hain ya fir kuch category ke zone?\\nCustomer: Mere ko samajh nahi aa raha.\\nExecutive: Main keh raha hun jo category apne paas available hai, TMT bars, TMT steel bars.\\nCustomer: TMT bars available, paints available hai, cement available hai.\\nExecutive: Haan. To in sab ki requirement abhi sahi nahi aa rahe hain?\\nCustomer: Cement cement aur steel aa raha hun. Paints nahi aa raha.\\nExecutive: Ek baar main isko check kar le raha hun. Check karne mein abhi sir aap ek video meeting schedule kar sakte ho aap? Main aapko ek baar guide kar deta hun dobara se refresh kar deta hun sara cheez.\\nCustomer: Abhi main meeting pe ja raha hun. Call me in evening or afternoon.\\nExecutive: Afternoon. Or evening call me call me in the evening.\\nCustomer: Okay.\\nExecutive: Okay. What time? What time?\\nCustomer: Evening eight.\\nExecutive: Okay. So main aapka ye concern sir abhi ke liye close kar du fir main aapke liye ek reminder laga ke meeting schedule kar leta hun.\\nCustomer: Haan.\\nExecutive: To aapke paas sir ek feedback jayega feedback. Koi Telugu person nahi hai ye baat karne wala?\\nCustomer: Telugu person. Only Hindi wala.\\nExecutive: Telugu person to abhi available nahi hai.\\nCustomer: Hao ka connect to Telugu person in the evening. Okay?\\nExecutive: Okay. Ek baar meeting laga ke dekhte hain. Ek baar connect karte hain fir dekhte hain sir. Abhi to abhi to Telugu person available nahi hai.\\nCustomer: Haan, theek hai connect karo baad mein. Theek hai.\\nExecutive: Hmm hmm. Theek hai main aapka concern close karta hun sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No response from clients.\\n\n- Wants a Telugu-speaking executive.\\n\n- Paints leads are not coming.\\n\n\\n\nResolution:\\n\n- Executive offered to schedule a video meeting.\\n\n- Agreed to connect with Telugu executive later.\\n\n\\n\nNext Steps: \\n\n- Executive will schedule a meeting.\\n\n- Connect with Telugu executive later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, language, meeting\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 144,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=384071ee-22a9-4176-a019-986d708dc661",
+  "ucid": "384071ee-22a9-4176-a019-986d708dc661",
+  "seller_categories": [
+    {
+      "mcat_id": "181717",
+      "mcat_name": "UltraTech Cement"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "653085",
+      "mcat_name": "Vizag Steel TMT Bar"
+    },
+    {
+      "mcat_id": "184861",
+      "mcat_name": "TATA TMT Bars"
+    },
+    {
+      "mcat_id": "182501",
+      "mcat_name": "Kamdhenu TMT Bars"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673399714",
+  "gluser_id": "56332801",
+  "vintage_months": 3,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694737",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes, please.\\nExecutive: Yes, Mr. Shetty.\\nCustomer: Yes.\\nExecutive: Hi sir, this side Pallavi from IndiaMART Noida head office.\\nCustomer: Okay.\\nExecutive: Sir regarding your company Sri Pani Enterprises I called you. So you had a discussion with your account manager Kaushik.\\nCustomer: Correct.\\nExecutive: Right sir. So I hope everything is clear now. Video meeting the concern was regarding video meeting.\\nCustomer: So you told him that it was I mean by mistake you have clicked that tab.\\nExecutive: Correct.\\nCustomer: See I thought that see I have read see when I went to your website you you mentioned that two people are interested with you if you are interested we can have a we can arrange video call.\\nExecutive: Yes.\\nCustomer: So I said that I don't know who are interested okay so let us have a video call karke I have pressed that one.\\nExecutive: By mistake you have clicked that.\\nCustomer: So after that Kaushik has clarified sir sir if any problem with the other person then we can have a we can arrange a video call meeting that is why we have kept that sir.\\nExecutive: So actually\\nCustomer: No issue sir. I mean everything is clear.\\nExecutive: No no no nothing nothing.\\nExecutive: Okay.\\nExecutive: So regarding the services if you are facing any issue you can discuss with me.\\nCustomer: Sure sure madam.\\nExecutive: Okay. So sir as of now I am closing the concern and you will be receiving one feedback mail. So if you are satisfied with our services then please do share the feedback. Okay.\\nCustomer: Ha sure madam.\\nExecutive: Okay. Thank you sir. Thank you have a nice day. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer accidentally clicked on video call tab.\\n\n\\n\nResolution:\\n\n- Executive clarified the video call feature.\\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- video call, feedback, services\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=268fd35c-516b-4ab7-b031-9519790f5aab",
+  "ucid": "268fd35c-516b-4ab7-b031-9519790f5aab",
+  "seller_categories": [
+    {
+      "mcat_id": "152499",
+      "mcat_name": "Palm Kernel Cake"
+    },
+    {
+      "mcat_id": "150898",
+      "mcat_name": "Palm Kernel Shell"
+    },
+    {
+      "mcat_id": "107869",
+      "mcat_name": "Foam Bed Mattress"
+    },
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "216455",
+      "mcat_name": "Polyester Carpet"
+    }
+  ]
+}

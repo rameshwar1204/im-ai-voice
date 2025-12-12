@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668694693",
+  "gluser_id": "155665638",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tankara",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636111",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ji namaste sir, IndiaMART se [inaudible] baat kar raha hu, kaise hai aap?\\nCustomer: Bas thik hai.\\nExecutive: Sir, aapka IndiaMART par listing hai, aapko pata hai?\\nCustomer: Haan pata hai.\\nExecutive: To sir, aapko buyleads mil rahe hai?\\nCustomer: Nahi mil raha hai.\\nExecutive: Nahi mil raha hai? Aapko kitne din ho gaye IndiaMART par?\\nCustomer: Humko ho gaya kareeb ek saal ho gaya.\\nExecutive: Ek saal ho gaya? Achcha, aapka company ka naam kya hai?\\nCustomer: [inaudible].\\nExecutive: [inaudible] aapka naam kya hai?\\nCustomer: [inaudible].\\nExecutive: Theek hai sir, main aapko call karta hu, theek hai?\\nCustomer: Theek hai.\\nExecutive: Dhanyavaad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n- Customer has been on IndiaMART for a year.\\n\n\\n\nResolution:\\n\n- Executive said he will call the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, listing, subscription\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9646f4d2-807e-46e8-ace2-72fe3e4ca842",
+  "ucid": "9646f4d2-807e-46e8-ace2-72fe3e4ca842",
+  "seller_categories": [
+    {
+      "mcat_id": "138357",
+      "mcat_name": "PP Woven Roll"
+    },
+    {
+      "mcat_id": "7106",
+      "mcat_name": "Polypropylene Woven Fabric"
+    },
+    {
+      "mcat_id": "7283",
+      "mcat_name": "PP Woven Bags"
+    },
+    {
+      "mcat_id": "7167",
+      "mcat_name": "Polypropylene Woven Sacks"
+    },
+    {
+      "mcat_id": "246708",
+      "mcat_name": "BOPP Rice Bag"
+    }
+  ]
+}

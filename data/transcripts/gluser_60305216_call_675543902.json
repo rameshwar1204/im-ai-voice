@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675543902",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Hello.\\nExecutive: Haan ji. Namaste sir.\\nCustomer: Namaste sir.\\nCustomer: Sir aap kaun bol rahe hain?\\nExecutive: Sir main Shorya baat kar raha hun.\\nCustomer: Aap se baat kar rahe hain na?\\nExecutive: Haan haan. Bataiye sir.\\nCustomer: Aap verify lead karke kuch bhejoge mujhe?\\nExecutive: Haan maine sir aapse bola tha. Main associate karunga abhi thodi der se aapko bhej dunga.\\nCustomer: Theek hai. Abhi aapke pass\\nExecutive: Ki list agar mere pass aati to main turant hi aapko bhej deta sir.\\nCustomer: Theek hai.\\nExecutive: Main dekh raha hun sir abhi thodi der se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Verification lead to be sent.\\n\n\\n\nResolution:\\n\n- Executive will send the verification lead shortly.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will send the verification lead shortly.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nverification lead\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c6958b62-19f0-4f48-8bcc-0d3fb106036b",
+  "ucid": "c6958b62-19f0-4f48-8bcc-0d3fb106036b",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668136120",
+  "gluser_id": "45740840",
+  "vintage_months": 24,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638480",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Haan Suraj ji kaise hain aap?\\nCustomer: Boliye kaun bol raha hai?\\nExecutive: Ji IndiaMART se baat kar rahe hain sir wo leads vagaira ka discussion karni thi. Unhone time diya but utha nahi rahe hain ek baar baat kar lete to.\\nCustomer: Ek minute, ek minute, ek minute.\\nExecutive: Haan sir dhyan mein rakhiye sir aapka number hai. Main aapko city water ek baar kar deta hu.\\nCustomer: Ghevun aala?\\nExecutive: Theek hai.\\nCustomer: Hello?\\nExecutive: Haan sir.\\nCustomer: Haan bola ki.\\nExecutive: Ji sir wo video meeting kar lete hain aapne kuch leads ka jo share kiya tha.\\nCustomer: Video meeting ki thi.\\nExecutive: Ji haan haan to wahi kuch correction karne the product slide mein aapke. TV mein bahut sare product mein price nahi hai almost jo aapke product updated hai yaha pe 51 mein se 30 product pe price nahi hai. Kuch pe specification nahi hai, kuch pe photo nahi hai to wo sara kuch edit karna tha. To wo sari cheeze jisse ki quality dekho aap ek buyer samjho ek aap buyer ho aur us pe agar koi detail na ho to aapko thodi koi call karega fir inquiry karega nahi karega na sir. To wo mandate hai ki at least photo to dalo sir price to daliye.\\nCustomer: Sure sure sir aaj hum karne hi wale hain zara factory ke gadbad mein the hum naya factory setup ke. To abhi aaj kal mein sir kar denge sab pura photo price.\\nExecutive: Achcha theek hai. Kar dijiyega aur koi concern aaye to call kar lijiyega account manager ko mujhe bhi. Theek hai aap feedback de dena sir mere call ka to.\\nCustomer: Theek hai. Okay sir okay. Thank you sir thank you good day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- To discuss about leads.\\n\n- Many products do not have price.\\n\n- Some products do not have specifications.\\n\n- Some products do not have photos.\\n\n\\n\nResolution:\\n\n- Executive discussed about product details.\\n\n- Customer assured to update product details.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, product details, price, specifications\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4db203e8-7541-474f-8498-749671dc572d",
+  "ucid": "4db203e8-7541-474f-8498-749671dc572d",
+  "seller_categories": [
+    {
+      "mcat_id": "158839",
+      "mcat_name": "Mild Steel Door"
+    },
+    {
+      "mcat_id": "4673",
+      "mcat_name": "Aluminum Composite Panels"
+    },
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "28962",
+      "mcat_name": "French Doors"
+    },
+    {
+      "mcat_id": "38707",
+      "mcat_name": "Steel Doors"
+    }
+  ]
+}

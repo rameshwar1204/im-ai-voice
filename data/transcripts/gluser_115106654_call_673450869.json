@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673450869",
+  "gluser_id": "115106654",
+  "vintage_months": 1,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Balasore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718358",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nCustomer: Haan, hello.\\n\\nExecutive: Haan ji sir, bataiye aap.\\n\\nCustomer: Haan, toh yeh jo byleads vagera consume karna tha mujhe aaj.\\n\\nExecutive: Ji ji ji.\\n\\nCustomer: Haan, toh aap bol rahe the usko kaise kya karna hai abhi? Form vagera karna hai na?\\n\\nExecutive: Ek minute rukiye bata rahi hu. Please hold kariyega.\\n\\nCustomer: Haan ji.\\n\\nExecutive: Aapka verification to ho gaya tha, theek hai?\\n\\nCustomer: Ji?\\n\\nExecutive: Aap apna IndiaMART application open kijiye.\\n\\nCustomer: Application yani mobile pe na? Desktop pe?\\n\\nExecutive: Haan, IndiaMART ka app.\\n\\nCustomer: App.\\n\\nHaan.\\n\\nExecutive: Ek second, ek second.\\n\\nCustomer: Open kar liya.\\n\\nCustomer: Hello?\\n\\nCustomer: Haan sir.\\n\\nCustomer: Verification to ho gaya.\\n\\nCustomer: Uske baad dikha raha hai mujhe kahan par? Sandalwood screen.\\n\\nExecutive: Latest buyleads pe jaiye.\\n\\nCustomer: Kahan par?\\n\\nExecutive: Latest buyleads.\\n\\nCustomer: Recent buyleads. Recent par jata hu. Haan, recent par gaya.\\n\\nExecutive: Theek hai, vahan niche India select kijiye.\\n\\nCustomer: India.\\n\\nExecutive: Ji.\\n\\nCustomer: Hmm. India phir kar diya.\\n\\nExecutive: Ji, ab aapko us leads dikh rahe honge. Usme niche aaiye, ek to yeh potli bag ka hai lekin bahut chota order hai so Assam ka Guwahati Assam ka. Niche aaiye.\\n\\nCustomer: Yeh sahi hai aapko potli bag ka lead message aaj 25 ka?\\n\\nCustomer: Potli bag. Cotton cloth potli bag 100 piece ka hai. Pune Maharashtra dikha raha hai mujhe. Yeh toh nahi lenge kyunki main jitni bari Maharashtra ke kisi kisi ko call kar raha hu yeh sab mana kar rahe hain.\\n\\nExecutive: Theek hai, niche aaiye. Hyderabad Telangana se bhi aaiye.\\n\\nCustomer: Yeh sab potli potli pouch ka hi sab aa raha hai aur kuch nahi aa raha hai.\\n\\nExecutive: Ji, raw incense stick Jammu and Kashmir. 20 kg Tamil Nadu. Potli bags 100 piece. Yeh toh yeh nahi woh nahi chahenge. 50 piece. Ab potli potli bag ka hi bahut zyada sabse zyada aa raha hai.\\n\\nExecutive: Theek hai, uske niche likhiye incense stick.\\n\\nCustomer: Yahan par hum Uttar Nagar sakte hain aur yeh toh dikha raha tha ki around Baleshwar. Agar around Baleshwar ho. Achha, Odisha. Odisha mein 20 kg, 1 kg. Aapke paas hai na?\\n\\nExecutive: Theek hai, upar dikhaiye.\\n\\nCustomer: Wahi dena hoga toh aapko ek message kar sakte hain.\\n\\nCustomer: Sabhi ka pura stock.\\n\\nCustomer: Yeh chalte rahega.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to consume buyleads.\\n\n- Unable to find relevant buyleads.\\n\n\\n\nResolution:\\n\n- Executive guided to check latest buyleads.\\n\n- Asked to select India to filter leads.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, application, indiaMART\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 324,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef6b7341-d3a3-4a07-b4fe-0bb15a82b380",
+  "ucid": "ef6b7341-d3a3-4a07-b4fe-0bb15a82b380",
+  "seller_categories": [
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "177610",
+      "mcat_name": "Potli Bags"
+    },
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "42112",
+      "mcat_name": "Floral Incense Sticks"
+    },
+    {
+      "mcat_id": "141759",
+      "mcat_name": "Bamboo Incense Stick"
+    }
+  ]
+}

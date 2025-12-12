@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666775767",
+  "gluser_id": "21807851",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan Yogesh ji.\\nExecutive: Ji.\\nCustomer: Are kal maine isliye phone kiya tha do current mein bylead aayi hui thi aur actual mein kya hua ki mujhe wo dikhai nahi aap logon ne aur matlab maine dekha ki wo 48 minute pehle thi aur ek ek ghante pehle thi. To usme aap meri kuch help kar sakte ho ki wo agar aap aise mere ko number number provide kar do to.\\nExecutive: Sir aisa nahi hota hai aisa hota to kya hota.\\nCustomer: Aisa nahi aisa hota. Kal aapne call kiya tha haan to kal main market mein tha. Usme kyuki Saturday Sunday pura market kya chal raha hai meri batting hai is month. To uske chakkar mein phone hi nahi uthaya aapka ek second ko bhi ki main booth pe bhi rakhu haan khushi market mein hu.\\nExecutive: Chaliye koi baat nahi lekin sab ho jata hai sir ji aisa nahi hai ki nahi hota sab ho jata hai. Agar aap number number dekho mujhe bylead ki information na deke aap number number bhi provide kar do na to bhi ho jayega kam.\\nExecutive: Sir mere hath mein hu main to sab kuch de du sir aisa nahi hai policy pe nahi chalta hai.\\nCustomer: Are policy pe chalta hai aap logon ke hath mein hai policy. Bhai mujhe main aapko hamari team ki taraf se do teen bar call aayega aapne kisi ki koi call nahi aaya.\\nCustomer: Koi bhi call nahi aaya mere paas. Main aapko batata ek Umang Umang ji ki taraf se call kiya gaya tha aapko. Maine hi khud ko phone kiya tha.\\nCustomer: Mere paas koi nahi. Actually kya hai wo DID number se aata hai. Har ek aapke phone mein dekho aaya hoga aapka 80699 12701 se.\\nCustomer: Ab ulte seedhe number se karoge mujhe bata bhi nahi ki matlab call aati to main uthata bhi ab ulte seedhe ab man lo unka blacklist number hoga black matlab ye jo red colour ka show banata hai uska hoga to main uthaunga. Haan wo ho sakta hai ho sakta hai ki DID waise to dekho DID number har ek ka individual hota hai jaise main bhi apne jo baat kar raha hu main apna recorded.\\nExecutive: Individual individual individual hota hai lekin wo black red mark nahi hoga na.\\nCustomer: Hmm.\\nExecutive: Red mark to nahi hoga na wo. To red mark\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive buyleads.\\n\n- Wants the executive to provide contact numbers.\\n\n\\n\nResolution:\\n\n- Executive explained DID number calling process.\\n\n- Executive provided the DID number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, did number, policy\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf44f963-9549-413b-a59e-c721a73da086",
+  "ucid": "cf44f963-9549-413b-a59e-c721a73da086",
+  "seller_categories": [
+    {
+      "mcat_id": "1394",
+      "mcat_name": "Oxygen Plant and Generator"
+    },
+    {
+      "mcat_id": "32741",
+      "mcat_name": "Nitrogen Generators"
+    },
+    {
+      "mcat_id": "42148",
+      "mcat_name": "PSA Oxygen Plants"
+    },
+    {
+      "mcat_id": "42147",
+      "mcat_name": "PSA Nitrogen Gas Plants"
+    },
+    {
+      "mcat_id": "191158",
+      "mcat_name": "Medical Oxygen Plant"
+    }
+  ]
+}

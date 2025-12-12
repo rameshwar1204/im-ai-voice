@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674047412",
+  "gluser_id": "136341845",
+  "vintage_months": 2,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699764",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u091c\u0940 \u0917\u0941\u0921 \u092e\u0949\u0930\u094d\u0928\u093f\u0902\u0917 \u0938\u0930\\nExecutive: \u0917\u0941\u0921 \u092e\u0949\u0930\u094d\u0928\u093f\u0902\u0917 \u092c\u094b\u0932\u093f\u090f\\nCustomer: \u091c\u0940 \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u092e\u0947\u0930\u0940 \u092c\u093e\u0924 \u0939\u094b \u091a\u0941\u0915\u0940 \u0939\u0948 \u0915\u0948\u0938\u0947 \u0939\u094b \u092e\u0948\u0902 12:00 \u092c\u091c\u0947 \u0915\u0947 \u0906\u0938\u092a\u093e\u0938 \u0915\u0949\u0932 \u0915\u0930\u093f\u090f \u0928\u093e \u0938\u0930 \u092b\u093f\u0930 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0906\u092a\u0938\u0947\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, time\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a4ae813f-46d6-4a21-af0d-d272651327d1",
+  "ucid": "a4ae813f-46d6-4a21-af0d-d272651327d1",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "315617",
+      "mcat_name": "Mild Steel Portable House"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

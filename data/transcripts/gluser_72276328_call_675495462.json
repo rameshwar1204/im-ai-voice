@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675495462",
+  "gluser_id": "72276328",
+  "vintage_months": 33,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635685",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Yes, good afternoon. Sir, speaking from IndiaMART, am I speaking to Mr. Gopal School Private Limited?\\nCustomer: Baat kar raha hu, bataye.\\nExecutive: Hanisha baat kar rahi hu sir, IndiaMART se aapke account manager. \\nCustomer: Namaste.\\nExecutive: Ji.\\nExecutive: Boliyena. Actually, hamari services ko jo renewal hai, wo 6th Feb ko hai, right?\\nCustomer: Hmm hmm.\\nExecutive: Abhi kya hai na sir, ha, to abhi kya hai na, abhi next month se jo aapki buyleads jo mil rahi hai, theek hai? To buyleads kam ho jayenge sir. Theek hai? Agar aap is month pe apna renewal, sir wo company ke rules hai, abhi humne sare services ki jo buyleads hai wo thodi si kam kar di hai.\\nCustomer: Actually ye baat ye hai na mam ke nahi meri baat suniye, is regarding to khair baat aapko Rohit se hi karna padega renewal ke regarding. Baaki buyleads ke regarding main baat puchunga. Ki services jab February ke liye jab payment kiya gaya hai, fir buyleads aap December se hi kam kyun kar rahe hain?\\nExecutive: Are nahi sir, jaise ki maan lo aapka renewal hai January se. Theek hai? To agar aap baad mein karaoge renewal, to is service pe buyleads kam ho jayegi. Jaise ki for example jo I am star wali service thi hamari, to I am star wali jo service hoti hai, usme jo current time mein hum aapko offer karte hai wo 74 buyleads offer karte hai, right?\\nCustomer: Hmm.\\nExecutive: Usme kya hai abhi usme hum aapko 48 buyleads hi next month se offer karenge.\\nCustomer: Theek hai.\\nExecutive: Haan ji. To isiliye main bol rahi hu agar aap kara lete ho na apna renewal idhar, to aapki jo service start hogi, wo to sir se hi start hogi, 6th Feb se.\\nCustomer: Aapne Rohit ko connect kiya mam, main last time mein maine bataya tha na kya ki isko Rohit handle karta hai to.\\nExecutive: Sir mujhe uska number dena to, maine unko call kiya tha, I think wo receive nahi karte hai sir.\\nCustomer: 7484 wala number?\\nExecutive: Ye 095 wale number ki to baat nahi aap kar rahe ho, 095?\\nCustomer: Haan. Last mein 095 hai sir.\\nExecutive: Nahi sir, unse meri discussion hi nahi ho payi thi. Maine unko call kiya tha renewal ke regarding bhi.\\nCustomer: Ek baar mam aap na WhatsApp usko WhatsApp pe message dal dijiye, theek hai? Main main call karke ya message karke main unse bata deta hu aap aap se ek baar connect kare is regarding, theek hai?\\nExecutive: Theek hai, koi issue nahi. Thank you so much.\\nCustomer: Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer concerned about buyleads decreasing.\\n\n- Wants to connect with Rohit for renewal.\\n\n\\n\nResolution:\\n\n- Executive explained company rules regarding buyleads.\\n\n- Executive asked customer to message Rohit on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will inform Rohit to connect with customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, renewal, rohit, whatsapp\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 175,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2c9a2cc2-54c9-4fa1-8183-d7d314f3afa6",
+  "ucid": "2c9a2cc2-54c9-4fa1-8183-d7d314f3afa6",
+  "seller_categories": [
+    {
+      "mcat_id": "158095",
+      "mcat_name": "Electric Bike Batteries"
+    },
+    {
+      "mcat_id": "122229",
+      "mcat_name": "Electric Bicycle Kit"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "118962",
+      "mcat_name": "EV Hub Motor and Kits"
+    }
+  ]
+}

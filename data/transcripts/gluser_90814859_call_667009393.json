@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667009393",
+  "gluser_id": "90814859",
+  "vintage_months": 5,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Durg",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631594",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Sir call disconnect ho gayi thi Ankita baat kar rahi hu.\\nCustomer: Ji ji.\\nExecutive: Uh sir aapne ye number save kar liya hai?\\nCustomer: Haan kyu kar liya hu.\\nExecutive: Theek hai. Sir main ye keh rahi hu jaise mera jo discussion hua na, maine aapko jo bhi cheezein guide ki hai, meri call ke regarding, meri jo aapse baat hui uske regarding aapke paas ek feedback aayega. Please mere call ko matlab short... agar satisfied hai to aap satisfied mark kijiyega. Aur kal ka main video meeting schedule kar de rahi hu. Kal hum video meeting se connect honge, theek hai?\\nCustomer: Okay ma'am, okay.\\nExecutive: Theek hai sir, thank you sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Previous call was disconnected.\\n- Asked to provide positive feedback for the call.\\n- Wanted to schedule a video meeting.\\n\\n\\nResolution:\\n\\n- Confirmed the customer saved the executive's number.\\n- Informed about the upcoming feedback request.\\n- Scheduled a video meeting for the next day.\\n\\n\\nNext Steps: \\n- A video meeting is scheduled for the next day.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call disconnection, feedback, video meeting, scheduling\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=938689b7-82ff-4193-9714-b2dae791548e",
+  "ucid": "938689b7-82ff-4193-9714-b2dae791548e",
+  "seller_categories": [
+    {
+      "mcat_id": "131728",
+      "mcat_name": "Potassium Humate"
+    },
+    {
+      "mcat_id": "6222",
+      "mcat_name": "Face Wash"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    },
+    {
+      "mcat_id": "34465",
+      "mcat_name": "Plant Growth Promoters"
+    },
+    {
+      "mcat_id": "10805",
+      "mcat_name": "Humic Acid"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675908791",
+  "gluser_id": "18173455",
+  "vintage_months": 9,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Sakti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687715",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ha good morning mam Himanshu baat kar raha hun India Mart se. \\nExecutive: Sir se baat karni thi sir ne bola tha aaj call karne ke liye sir se ko apne renewal ki baat hui thi India Mart ko.\\nCustomer: Ji ji ji.\\nExecutive: Ji last Thursday ko baat hui thi 19 tarikh ko.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello. \\nExecutive: Mam aawaz aa rahi hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs to speak to the sir regarding renewal with India Mart.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nrenewal, india mart\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aff9645e-3504-46f5-9d75-3fdb8b593828",
+  "ucid": "aff9645e-3504-46f5-9d75-3fdb8b593828",
+  "seller_categories": [
+    {
+      "mcat_id": "42531",
+      "mcat_name": "Tipper Trucks"
+    },
+    {
+      "mcat_id": "74876",
+      "mcat_name": "Tractor Tipping Trailer"
+    },
+    {
+      "mcat_id": "185976",
+      "mcat_name": "Side Wall Trailer"
+    },
+    {
+      "mcat_id": "68944",
+      "mcat_name": "Truck Trailer"
+    },
+    {
+      "mcat_id": "28568",
+      "mcat_name": "Flatbed Trailers"
+    }
+  ]
+}

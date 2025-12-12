@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676013625",
+  "gluser_id": "36792321",
+  "vintage_months": 54,
+  "bl_dau_oct": 7,
+  "customer_type": "STAR",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan boliye.\\nExecutive: Haanji Sharma ji aap bol rahe ho Indiamart head office se aapne abhi call kiya tha na aapko kuch information chahiye thi video meeting ke regarding.\\nCustomer: Haan boliye.\\nExecutive: Main aapko meeting ka link share kar du aapke system pe.\\nCustomer: Whatsapp pe.\\nExecutive: Ji ji dekhiye maine ek second whatsapp kar do main aapko ek second.\\nCustomer: Aapki waise bhi wali mail id pe gaya hoga.\\nExecutive: Srichakrapani.eng@gmail.com.\\nCustomer: Thik hai main aapko na whatsapp kar deti hu aap ek second on call aap ek second sir main aapke whatsapp kar deti hu.\\nCustomer: Haanji boliye.\\nExecutive: Haan haan sir ek second main aapko message kar rahi hu aap dekho aapko ye aapke isi 764 wale number pe karna hai na.\\nCustomer: Haan dekhiye maine aapko whatsapp pe hi kiya hua hai aur abhi main aapko wo bhi share kar rahi hu meeting ka link.\\nCustomer: Hamare account me se paise wagera.\\nExecutive: Haan dekhiye maine aapko meeting ka link bhi share kar diya hai.\\nCustomer: Haan haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needed information regarding video meeting.\\n\n\\n\nResolution:\\n\n- Executive shared the meeting link on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting link, whatsapp, video meeting\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0d9ac454-6b29-4db4-bc55-5d82b268653c",
+  "ucid": "0d9ac454-6b29-4db4-bc55-5d82b268653c",
+  "seller_categories": [
+    {
+      "mcat_id": "136164",
+      "mcat_name": "Soil Testing Services"
+    },
+    {
+      "mcat_id": "110037",
+      "mcat_name": "Environmental Clearance Service"
+    },
+    {
+      "mcat_id": "102126",
+      "mcat_name": "Water Treatment Services"
+    },
+    {
+      "mcat_id": "78482",
+      "mcat_name": "Laboratory Testing Services"
+    },
+    {
+      "mcat_id": "135964",
+      "mcat_name": "Drinking Water Analysis"
+    }
+  ]
+}

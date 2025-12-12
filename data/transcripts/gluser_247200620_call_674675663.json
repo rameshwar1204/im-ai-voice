@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674675663",
+  "gluser_id": "247200620",
+  "vintage_months": 0,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702446",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji, Pranjali ji bol rahi hu sir India Mart se.\\nCustomer: Ha ha boliye.\\nExecutive: Ji sir abhi aapne mujhe incoming call kiya tha na to ye wali jo call hai wo record nahi ho payi thi. Thik hai? To isliye sir maine aapko apni side se call kiya hai. Main aapko yahi bata rahi thi ki main jo buyleads hai na sir wo aapko whatsapp pe bhej deti hu. Thik hai? Aur ye jo ticket hai sir isko main close kar deti hu. Aapke pass ek feedback jo hai whatsapp pe message aayega mere liye ya ho sakta hai mail aayega. To us pe aap satisfied pe click karke feedback de sakte hai.\\nCustomer: Thik hai sir?\\nExecutive: Thik hai.\\nCustomer: Thik hai. Thik hai sir. Thik hai. Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's previous incoming call could not be recorded.\\n\n\\n\nResolution:\\n\n- Executive called back to address the issue.\\n\n- Executive will send buyleads on WhatsApp.\\n\n- Executive will close the ticket.\\n\n- Customer can provide feedback via WhatsApp or mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp, feedback, call recording\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=74165a73-6c6f-4115-b3c3-5ad85007c1a1",
+  "ucid": "74165a73-6c6f-4115-b3c3-5ad85007c1a1",
+  "seller_categories": [
+    {
+      "mcat_id": "144493",
+      "mcat_name": "Gas Cutting Torch"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "6388",
+      "mcat_name": "Fire Suit"
+    },
+    {
+      "mcat_id": "29276",
+      "mcat_name": "Gas Masks"
+    }
+  ]
+}

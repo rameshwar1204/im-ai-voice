@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669524551",
+  "gluser_id": "20473405",
+  "vintage_months": 6,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sujangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656943",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Madam voice aa rahi hai kya?\\n\\nCustomer: Hello\\nExecutive: Namaste.\\nCustomer: Namaste sir.\\n\\nExecutive: Ji sir kahan se baat kar rahe hain aap?\\nCustomer: Main Rajasthan se baat kar raha hun ek jo mera IndiaMART ka jo ID bana hua hai na wahan pe ek number jodne hai.\\nExecutive: Ha sir actually aaj na main aaj jo hai na leave par hun to fir main aap se na kal baat kar leti hun aap log apni company ka naam bata dijiye.\\nExecutive: Ki kahan se baat kar rahe hain main kal baat kar aap mujhe apni company ka naam baat company ka naam bata dijiye ki kahan se baat kar rahe hain aap.\\nCustomer: Main Subharam Industries se baat kar raha hun.\\nExecutive: Ji?\\nCustomer: Subharam Industries se.\\nExecutive: Subharam Industries.\\nCustomer: Haan Rajasthan Sujanpur se baat kar raha hun Suru jile se.\\nExecutive: Okay. Sorry sir actually aaj main leave par hun to aaj to matlab baat nahi ho payegi. Ab main kal aapko jo hai 10 11 baje tak call karun?\\nCustomer: Sorry.\\nCustomer: Haan haan koi dikkat nahi hai.\\nExecutive: Okay sir. Okay. Thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add number to IndiaMART ID.\\n\n\\n\nResolution:\\n\n- Executive informed she is on leave today.\\n\n\\n\nNext Steps: \\n\n- Executive will call customer tomorrow by 10-11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number, id, leave, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=114c9062-c6c4-47ac-a50a-26e06542a1b2",
+  "ucid": "114c9062-c6c4-47ac-a50a-26e06542a1b2",
+  "seller_categories": [
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "173258",
+      "mcat_name": "Shades Fabrication Services"
+    },
+    {
+      "mcat_id": "56268",
+      "mcat_name": "False Ceiling Services"
+    },
+    {
+      "mcat_id": "28191",
+      "mcat_name": "Fabrication Works"
+    },
+    {
+      "mcat_id": "220929",
+      "mcat_name": "Tin Shed"
+    }
+  ]
+}

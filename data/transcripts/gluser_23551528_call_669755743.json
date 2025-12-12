@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669755743",
+  "gluser_id": "23551528",
+  "vintage_months": 36,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661457",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nCustomer: Hello Ramesh sir?\\nExecutive: Ha boliye.\\nExecutive: Ji sir main Rahul baat kar raha hun India Mart se.\\nCustomer: Boliye.\\nExecutive: Sir aapne 969 pe call karke apna concern raise kiya tha sir main jaan sakta hun sir?\\nCustomer: Last mein 65 laga hai ye number pe.\\nExecutive: Isi number pe sir?\\nCustomer: Ha 65 last mein.\\nExecutive: Sir ek number aur de rakha hai sir aapke client ne kuch karke 9130616967 ye kiska hai sir?\\nCustomer: 69 67\\nCustomer: Ye dusra hai ye ek dusra hai ye mera number hai na iske piche 65 laga.\\nExecutive: Jis number pe main abhi baat kar raha hun uske piche 65 lagana hai na?\\nCustomer: Haan.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive is calling regarding a raised concern.\\n\n\\n\nResolution:\\n\n- Executive verified the contact number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, contact number, concern\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=22c3ac88-d29e-4f9e-b8b2-4ee80144e9e3",
+  "ucid": "22c3ac88-d29e-4f9e-b8b2-4ee80144e9e3",
+  "seller_categories": [
+    {
+      "mcat_id": "36883",
+      "mcat_name": "Rotary Encoders"
+    },
+    {
+      "mcat_id": "33643",
+      "mcat_name": "MS Connector"
+    },
+    {
+      "mcat_id": "69007",
+      "mcat_name": "DC Cooling Fan"
+    },
+    {
+      "mcat_id": "108101",
+      "mcat_name": "Lithium Primary Battery"
+    },
+    {
+      "mcat_id": "20911",
+      "mcat_name": "CNC Controllers"
+    }
+  ]
+}

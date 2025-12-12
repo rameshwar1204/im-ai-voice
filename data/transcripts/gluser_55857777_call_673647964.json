@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673647964",
+  "gluser_id": "55857777",
+  "vintage_months": 0,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Chiraiya",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670364",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Teri mitti mein mil jaava gul ban ke main khil jaava itni si hai dil ki aarzoo\\n\\nHello\\nHello: Hello, haan ji bataiye.\\nExecutive: haan ji sir good afternoon good morning\\nCustomer: Meri baat kanhaiya industries se ho rahi hai sir?\\nExecutive: haan ji bataiye.\\nExecutive: sir actually kya hai ki aapka ek concern yahan pe raise hua tha like aapne kuch photos hamare 9696 pe share kiya tha to maine aap se bataya tha na ki aap mujhe share kar diya kariye.\\nCustomer: aapka number hum save nahi kar paye hain iske karan.\\nExecutive: sir number to us din liya tha aap number ek bar note down kijiye.\\nCustomer: one minute.\\nExecutive: 93\\nCustomer: one minute one minute.\\nCustomer: 93\\nExecutive: 36\\nCustomer: 36\\nExecutive: 79\\nCustomer: 79\\nExecutive: 94\\nCustomer: 94\\nExecutive: 41\\nCustomer: 41\\nExecutive: theek hai ye mera number hai baki isme share kariye aur sir ek cheez ye bataiye jo photos maine aapko bheji thi\\nCustomer: hello\\nExecutive: matlab jo photos aapne 9696 pe bheji thi wo sari add ho chuki hai na.\\nCustomer: ji ji ji hum jo detail aapko bheje the na India mart me jo share kiye the.\\nExecutive: haan haan.\\nCustomer: wo company ka humko thoda detail chahiye tha kahan ki company hai uska number\\nCustomer: chahiye tha humko.\\nExecutive: theek hai theek hai ek bar main dekh leta hun baki photos aapki sir ho gayi hai na.\\nCustomer: ji ji ji koi dikkat nahi hai.\\nExecutive: theek hai sir theek hai theek hai done.\\nCustomer: thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants details of a company.\\n\n- Customer couldn't save executive's number.\\n\n\\n\nResolution:\\n\n- Executive provided his number to the customer.\\n\n- Executive confirmed photos were added.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photos, company details, number\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5487858a-6bca-4691-bab4-beafc0c78fec",
+  "ucid": "5487858a-6bca-4691-bab4-beafc0c78fec",
+  "seller_categories": [
+    {
+      "mcat_id": "30613",
+      "mcat_name": "LED Bulb"
+    },
+    {
+      "mcat_id": "179028",
+      "mcat_name": "Blue Star Water Cooler"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "3346",
+      "mcat_name": "Water Cooler"
+    },
+    {
+      "mcat_id": "179622",
+      "mcat_name": "LED Bulb Raw Material"
+    }
+  ]
+}

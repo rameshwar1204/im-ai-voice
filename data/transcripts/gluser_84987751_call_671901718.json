@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671901718",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Madam wo nahi hai madam abhi matlab check kar raha tha iske baad.\\nCustomer: Achcha wo se baat ki aapne. Sir actually me jo aapne mujhse pucha tha na ki aapko inquiries wagera kyu kam matlab kam milti hai conversion kyu kam hota hai. Sir aapki jo chota sa area aapka hai na paudi le.\\nHaa ji.\\nExecutive: Sir usme competition bahut high hai. Hmm hmm. Aur jo competition me aapke log hai unhone bade bade packages le rakhe hai is vajah se shayad aapki deal jo hai wo convert nahi ho paati hai. Aap khud sochiye jis jagah pe aapke upar kai aur log honge unhe jyada packages mil rahe hai unhe jyada inquiries aa rahi hai buyer bhi unhi ko contact jinka package higher hai wo upar dikh raha hai aapko. Ab aap batao agar aap panchve number pe dikh rahe ho aur jo pehle number pe dikh raha hai to buyer jo aayega wo aapko contact baad me karega pehle pehle wale ko karega. Fir dusre ko fir teesre ko fir chauthe ko fir fifth number pe aapka number aayega. To aap soch lo abhi se sab chizo ke bare me mai aapko prices share kar de rahi hu maine reason aapko bata diya ki yahi reason hai. Samajh pa rahe hai sir? Tabhi aapki buyleads achchi dikh rahi hai buyleads hai aapke paas buyleads achchi dikh rahi hai isiliye convert nahi ho rahi yahi reason hai aur ye jo bahane banate hai na ki nahi nahi mai to maine to check karne ke liye dala tha mai to baad me karwaunga ye sab chize bahane hote hai sir unki deal ho chuki hoti hai pehle. Ya to wo aapka phone nahi uthayenge unki deal ho jayegi ya fir wo bahane banayenge.\\nHmm.\\nExecutive: To mai aapko prices share kar de rahi hu aur jaisa aapko thik lage aap mujhe bata dijiyega. Thik hai sir? Thik hai madam. Okay sir. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting less inquiries and conversions.\\n\n\\n\nResolution:\\n\n- Executive explained the reason for low conversion.\\n\n- Executive offered to share the price list.\\n\n\\n\nNext Steps: \\n\n- Customer will inform the executive later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, competition, conversion\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5c864f3b-2113-49c1-a51f-befd1b76433f",
+  "ucid": "5c864f3b-2113-49c1-a51f-befd1b76433f",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

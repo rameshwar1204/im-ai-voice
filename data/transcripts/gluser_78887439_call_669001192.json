@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669001192",
+  "gluser_id": "78887439",
+  "vintage_months": 1,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Garra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722858",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, PL Industries se bol rahe the?\\nCustomer: PL Industries?\\nExecutive: Haan. Ji bataiye.\\nCustomer: Wo madam ji ne boli thi ki wo call karke mujhe number update karana hai.\\nExecutive: Ek second.\\nExecutive: Actually aaj off hai sir, agar possible hai to aap Monday call kar lijiye. Madam bole ki call team ko call kare to aaj off hai sir, Saturday.\\nCustomer: Saturday is India off rehta hai India Mart ka sir.\\nCustomer: Theek hai, madam se baat. Haan ek bar aap call kar lijiyega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to update his number.\\n\nResolution:\\n\n- Executive informed it is a holiday.\\n\n\\n\nNext Steps: \\n\n- Customer will call on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number update, holiday, call back\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=08f59110-2d48-4763-9d4b-79ad162191f1",
+  "ucid": "08f59110-2d48-4763-9d4b-79ad162191f1",
+  "seller_categories": [
+    {
+      "mcat_id": "1997",
+      "mcat_name": "Self Adhesive Tapes"
+    },
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "35735",
+      "mcat_name": "Printed Tapes"
+    },
+    {
+      "mcat_id": "181100",
+      "mcat_name": "ABRO Masking Tapes"
+    },
+    {
+      "mcat_id": "182627",
+      "mcat_name": "Wonder Tape"
+    }
+  ]
+}

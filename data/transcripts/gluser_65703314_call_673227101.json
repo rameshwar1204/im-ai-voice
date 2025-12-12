@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673227101",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Haan ji Naveed ji se baat ho rahi hai from [inaudible].\\nCustomer: Haan ji bataiye.\\nExecutive: Naveed ji actually main business manager baat kar raha hu sir Vivek Mishra from IndiaMART.\\nCustomer: Hello?\\nExecutive: Haan ji sir aawaz aa rahi hai aapko?\\nCustomer: Meri to aap se baat ho chuki hai mujhe paisa return karwa dijiye aap.\\nExecutive: Sir but aapko maine bataya to tha ki aapko batane se thodi ho jayega na sir aapke batane se thodi ho jayega.\\nCustomer: Hmm?\\nExecutive: Aapke batane se thodi ho jayega ki main continue karu jab mere sath fraud ho raha hai to paisa wapas kijiye jab mere paas ek rupya ka kaam nahi aa raha aapki taraf se to main kya karunga usko?\\nExecutive: Sir to kaam to jab aayega na jab aap maine aapko bola hi tha.\\nCustomer: Aap se hamara review kijiye.\\nCustomer: Samjhe ki nahi hamare application ko hamare demand ko baki aap kuch mat samjhaiye mujhe.\\nCustomer: Aapke samjhane se mere kuch samajh mein nahi aane wala.\\nExecutive: Sir aap services jab tak use nahi karenge sir kaise hoga mujhe ek baat bataiye.\\nCustomer: Maine aapki service teen char mahina use kar liye bhaiya ab mujhe nahi chahiye aapki koi service.\\nExecutive: Sir aur aisa to hai nahi sir ki buyleads nahi hai IndiaMART pe ya.\\nCustomer: Kuch bhi nahi sab fraud hai aapke yaha sab fraud hai bilkul fraud.\\nExecutive: Sir main ek cheez batau aapko agar aap services nahi use karenge.\\nCustomer: Aap kuch mat bataiye mujhe mera paisa wapas karwaiye mujhe kuch nahi bataiye ab aap.\\nExecutive: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund.\\n\n- States that he is not getting any work.\\n\n- Alleges fraud.\\n\n\\n\nResolution:\\n\n- Executive stated that work will come when services are used.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund, fraud\\n\n@@@Sentiment:\\n\n- Angry -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, services\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e5a7156e-5702-479e-b9b5-8c9973024c00",
+  "ucid": "e5a7156e-5702-479e-b9b5-8c9973024c00",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

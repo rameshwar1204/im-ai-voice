@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672088383",
+  "gluser_id": "185510354",
+  "vintage_months": 11,
+  "bl_dau_oct": 6,
+  "customer_type": "TSCATALOG",
+  "city_name": "Agra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674676",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]\\nHello\\nHello.\\nHello.\\nBolo.\\nHanji Mudita Medicare se baat ho rahi hai?\\nHello.\\nHello Mudita Medicare se baat ho rahi hai?\\nMene aapne us din bola tha na purane wale package me renewal karaunga 45 45000 rupaye me idhar train India pe book ho raha hu.\\nAchcha theek hai theek hai do minute time dijiye sir do minute time dijiye.\\nAbhi mai drive kar raha hu to aap mujhe kal phone kijiye.\\nTo sir aapne chuki feedback me not success.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to renew the old package for 45000 rupees.\\n\n\\n\nResolution:\\n\n- Asked for two minutes to check.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer asked to call tomorrow as he is driving.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to slightly annoyed.\\n\n\\n\n@@@Key Topics:\\n\npackage renewal\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8555dbc6-6db4-4fa1-bae7-145d7414c991",
+  "ucid": "8555dbc6-6db4-4fa1-bae7-145d7414c991",
+  "seller_categories": [
+    {
+      "mcat_id": "41842",
+      "mcat_name": "Semi Fowler Beds"
+    },
+    {
+      "mcat_id": "10889",
+      "mcat_name": "ICU Beds"
+    },
+    {
+      "mcat_id": "6169",
+      "mcat_name": "Examination Table and Bed"
+    },
+    {
+      "mcat_id": "10760",
+      "mcat_name": "Hospital Fowler Bed"
+    },
+    {
+      "mcat_id": "187691",
+      "mcat_name": "Baby Warmer"
+    }
+  ]
+}

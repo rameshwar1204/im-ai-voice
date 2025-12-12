@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673081080",
+  "gluser_id": "78268478",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Jabalpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691620",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan.\\n\\nExecutive: Good evening. Nikhil ji baat kar rahe hain?\\n\\nCustomer: Hello.\\n\\nExecutive: Good evening. Nikhil ji baat kar rahe hain sir?\\n\\nCustomer: Haan ji.\\n\\nExecutive: Ji Amit baat kar raha hu sir IndiaMART se aapka account manager.\\n\\nExecutive: Aapne sir ek request kiya tha like video meet ke regarding aapko kuch cheeze just samajhni hain.\\n\\nCustomer: Main to sir kab se koshish kar raha hu manager sahab se baat karne ko baat hi nahi ho pa rahi kya karu.\\n\\nExecutive: Achcha achcha. Abhi abhi aapke paas samay hai sir?\\n\\nExecutive: Mujhe bataiye agar abhi aapke paas samay hai to main abhi aapke saath video meet kar leta hu aur cheeze aapko samjhne mein ban sake.\\n\\nCustomer: Pehle ki baat kar raha hai yaar.\\n\\nExecutive: Haan ji Amit baat kar raha hu main.\\n\\nCustomer: Achcha pehle kya tha isliye theek hai na aap mera connect kijiye na mere ko kya hai bahut cheeze samajhni hai bahut dikkat ja rahi hai.\\n\\nExecutive: Achcha. To abhi aapke paas laptop hai sir available?\\n\\nCustomer: Haan main laptop pe connected hu.\\n\\nExecutive: Laptop se connected hai. Theek hai na abhi sir aapko video link bhejta hu na theek then aap connect ho jayiye hai na.\\n\\nCustomer: Bhejiye bhejiye.\\n\\nExecutive: Call pe rahiye main bhejta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to connect with manager.\\n\n- Needs help understanding several things.\\n\n\\n\nResolution:\\n\n- Executive offered a video meet to assist.\\n\n- Agreed to send a video link for connection.\\n\n\\n\nNext Steps: \\n\n- Executive will send video link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, account, manager, connection\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c34695ce-48ad-4f16-9938-bf584d087d3c",
+  "ucid": "c34695ce-48ad-4f16-9938-bf584d087d3c",
+  "seller_categories": [
+    {
+      "mcat_id": "8072",
+      "mcat_name": "Red Sandstone"
+    },
+    {
+      "mcat_id": "315655",
+      "mcat_name": "Sandstone Door Frame"
+    },
+    {
+      "mcat_id": "111229",
+      "mcat_name": "Dholpur Sandstone"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "183602",
+      "mcat_name": "GRC Cladding"
+    }
+  ]
+}

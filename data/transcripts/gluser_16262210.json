@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669743134",
+  "gluser_id": "16262210",
+  "vintage_months": 6,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661756",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Hello.\\nCustomer: Haan ji. Hello.\\nCustomer: Badhiya hu sir.\\nExecutive: Mai ye kehna tha.\\nCustomer: Mai ye kehna tha isme product mere bahut se reject kyu ho rahe hai. Abhi maine do product add karna chahe the dono product reject kyu ho gaye isme.\\nExecutive: Sir ek second.\\nExecutive: Product reject ho rahe hai. Let me check wait sir.\\nExecutive: Okay.\\n\\nExecutive: Catalog khol rahi hu.\\n\\nExecutive: Just a second sir.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir ek second mai aapko call karti hu. Ek second mai aapko call karti hu sir.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know why products are rejected.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold to check.\\n- Executive said she will call back in a second.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product rejection, catalog, call back\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d1b21d5-e528-40d9-a2a8-c39df73256a2",
+  "ucid": "7d1b21d5-e528-40d9-a2a8-c39df73256a2",
+  "seller_categories": [
+    {
+      "mcat_id": "153395",
+      "mcat_name": "Triamcinolone Acetonide Injections"
+    },
+    {
+      "mcat_id": "177879",
+      "mcat_name": "Cyproheptadine Syrup"
+    },
+    {
+      "mcat_id": "159107",
+      "mcat_name": "Vitamin B Complex Syrup"
+    },
+    {
+      "mcat_id": "162186",
+      "mcat_name": "Appetite Stimulant Syrup"
+    },
+    {
+      "mcat_id": "442060",
+      "mcat_name": "Aceclofenac Paracetamol Serratiopeptidase Tablet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673788734",
+  "gluser_id": "11217954",
+  "vintage_months": 1,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhuj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687140",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ca6b856-2273-4909-a7f9-9493639ada41",
+  "ucid": "2ca6b856-2273-4909-a7f9-9493639ada41",
+  "seller_categories": [
+    {
+      "mcat_id": "4230",
+      "mcat_name": "Bandhani Saree"
+    },
+    {
+      "mcat_id": "4227",
+      "mcat_name": "Banarasi Sarees"
+    },
+    {
+      "mcat_id": "178043",
+      "mcat_name": "Bandhani Dupatta"
+    },
+    {
+      "mcat_id": "12972",
+      "mcat_name": "Designer Sarees"
+    },
+    {
+      "mcat_id": "12002",
+      "mcat_name": "Georgette Sarees"
+    }
+  ]
+}

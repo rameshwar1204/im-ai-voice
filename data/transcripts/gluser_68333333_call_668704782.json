@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668704782",
+  "gluser_id": "68333333",
+  "vintage_months": 4,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Arakkonam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648329",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello sollunga.\\nExecutive: Mam back call panniruken mam India martla irunthu service teamla irunthu.\\nCustomer: Aa sollunga madam.\\nExecutive: Aa namma India mart lead kaaga create irunthingana back end teamla.\\nCustomer: Hmm sollunga.\\nExecutive: Call pannirupingala mam enna doubt mam namakku sollunga mam naan explain pandren.\\nCustomer: Call naan pannaleengale.\\nExecutive: Unga side la iruntha call vandhuchunnu sollirundhaanga. Intha number yaroda number mam ore nimisham.\\nCustomer: Illa ippo Indian mart follow pandra inno staff irukkaanga pannittu irukkaanga. Athula avanga vandhu call pannirukkaanga poirukku. Last la 991 varumla avangala number.\\nExecutive: Aama aama 991 aama. Antha number matta konjam solreengala mam.\\nCustomer: Hmm solren 63 ore nimisham ore nimisham.\\n\\nExecutive: Sollunga mam 63\\nCustomer: 82 0 51 51 991\\nExecutive: 991 Inga name mam?\\nCustomer: Deepika.\\nExecutive: Deepika. Okay mam okay. Naan unga connect pannikkaren.\\nCustomer: Okay thank you.\\nExecutive: Saringa mam thank you mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding IndiaMART lead creation.\\n\n- Customer states she did not make the call.\\n\n\\n\nResolution:\\n\n- Customer provided the contact number of Deepika.\\n\n- Executive assured to connect with Deepika.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, call verification, executive connect\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 113,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f6ce4ad-e7f8-4780-af0e-438ed464ed21",
+  "ucid": "1f6ce4ad-e7f8-4780-af0e-438ed464ed21",
+  "seller_categories": [
+    {
+      "mcat_id": "56263",
+      "mcat_name": "Rice Transplanter"
+    },
+    {
+      "mcat_id": "121379",
+      "mcat_name": "Round Straw Baler"
+    },
+    {
+      "mcat_id": "43202",
+      "mcat_name": "Rotavator"
+    },
+    {
+      "mcat_id": "443975",
+      "mcat_name": "Mahindra Rice Transplanter"
+    },
+    {
+      "mcat_id": "143420",
+      "mcat_name": "Planter Machine"
+    }
+  ]
+}

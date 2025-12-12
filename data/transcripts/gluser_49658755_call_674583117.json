@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674583117",
+  "gluser_id": "49658755",
+  "vintage_months": 34,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701713",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5469f50b-3c76-464c-8706-2fa3df4c3226",
+  "ucid": "5469f50b-3c76-464c-8706-2fa3df4c3226",
+  "seller_categories": [
+    {
+      "mcat_id": "141775",
+      "mcat_name": "Carton Box Top Plastic Handles"
+    },
+    {
+      "mcat_id": "178133",
+      "mcat_name": "Polypropylene Corrugated Box"
+    },
+    {
+      "mcat_id": "160071",
+      "mcat_name": "Sunpack Sheet"
+    },
+    {
+      "mcat_id": "168665",
+      "mcat_name": "Sunpack Sheet Printing Services"
+    },
+    {
+      "mcat_id": "26079",
+      "mcat_name": "Corrugated Plastic Box"
+    }
+  ]
+}

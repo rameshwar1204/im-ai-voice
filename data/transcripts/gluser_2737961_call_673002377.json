@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673002377",
+  "gluser_id": "2737961",
+  "vintage_months": 6,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684207",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello WhatsApp.\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2847fd9a-f749-45ea-bff5-c2d7ab377917",
+  "ucid": "2847fd9a-f749-45ea-bff5-c2d7ab377917",
+  "seller_categories": [
+    {
+      "mcat_id": "10548",
+      "mcat_name": "Kota Stone"
+    },
+    {
+      "mcat_id": "8012",
+      "mcat_name": "Stone Slabs"
+    },
+    {
+      "mcat_id": "173906",
+      "mcat_name": "Kadappa Stone"
+    },
+    {
+      "mcat_id": "10547",
+      "mcat_name": "Kota Brown Limestone"
+    },
+    {
+      "mcat_id": "207928",
+      "mcat_name": "Kota Marble"
+    }
+  ]
+}

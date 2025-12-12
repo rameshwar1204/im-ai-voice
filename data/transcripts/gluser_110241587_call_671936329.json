@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671936329",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji sir.\\nExecutive: Call kiya tha sir aap kabhi?\\nCustomer: Ji ji, abhi free ho gaya.\\nExecutive: Achcha abhi aap free ho gaye hain?\\nCustomer: Hmm.\\nExecutive: Hello.\\nCustomer: Ji ji bataiye.\\nExecutive: Haan, main bol raha tha aur kisi ki call aayi aapko abhi? Kyunki maine abhi ek jo aapka buyer wala woh chal raha hai na, unse maine baat ki thi us team se. Unhone bola main call karta hu unko.\\nCustomer: Nahi, koi call nahi aaya.\\nExecutive: Aap ek kaam kijiye, uh\\n\\n(silence)\\nExecutive: Toh abhi kya kehte hain abhi ispe kaam kar le ya thodi der mein kare?\\nCustomer: Bas haan karo, kaam toh karna hi hai.\\nExecutive: 496.\\n\\nExecutive: Maine aapko number diya hai ek WhatsApp pe, theek hai?\\nCustomer: Hmm.\\nExecutive: Aur yeh hai aapke jo kya kehte hain aapka jo woh hai na. Aap apna keval yehi bata dena metal expo India wala aur bata dena ki Dipesh ne aapka number diya hai.\\nCustomer: Kya naam?\\nExecutive: Main bol raha hu mera naam bata dena. Aur yeh upar wala number upar wale number pe aap call kar lena. Neeche wala number bata dena ki yeh mere company ki deal hai ki, theek hai?\\nCustomer: Hmm.\\nExecutive: Haan, pehle aap inse baat kar lijiye. Fir hum log woh catalog pe jo kaam karna hai na.\\nCustomer: Hmm.\\nExecutive: Uske liye bhi abhi time hoga na aapke paas toh?\\nCustomer: Nahi, main pehle baat hi kar leta hu, karta hu. Pehle isme haan, yeh wali baat.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer confirms he is now free.\\n\n- Enquires if customer received call from buyer team.\\n\n- Executive asks if they should work now or later.\\n\n\\n\nResolution:\\n\n- Executive shared a number on WhatsApp.\\n\n- Asked customer to mention Dipesh gave the number.\\n\n- Asked customer to call on the top number.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to the contact first.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp, catalog, follow up\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f5c051d-4244-46f9-928e-befa8ecec18c",
+  "ucid": "9f5c051d-4244-46f9-928e-befa8ecec18c",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

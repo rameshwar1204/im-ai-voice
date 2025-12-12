@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672571281",
+  "gluser_id": "136596709",
+  "vintage_months": 4,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Old Goa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hi ma'am, hi ma'am, good evening.\\nCustomer: Hi, good evening.\\nExecutive: Ma'am, main aapse baat kar rahi hu IndiaMART head office se.\\nCustomer: IndiaMART, haan boliye.\\nExecutive: Ma'am, aapse meri discussion hui thi na first time video meeting mein.\\nCustomer: Aapka aawaz nahi aa raha hai.\\nExecutive: Abhi aa rahi hai ma'am meri aawaz aapko?\\nCustomer: Haan boliye.\\nExecutive: Ma'am, main yehi keh rahi hu meri aapse month starting mein baat hui thi regarding IndiaMART services video meeting pe.\\nCustomer: I think aap bhool gaye.\\nExecutive: Aapne madam se baat kiya hoga first time.\\nExecutive: Ma'am, meri na isi number pe bhi baat hui thi, actually Swizzle ma'am ne mujhe ye number share kiya tha ki ye jo number hai aap hi handle kar rahe ho I think IndiaMART services right?\\nCustomer: Haan, hum sab log handle karte hai, aisa hai ki nahi hum hi karte hai.\\nExecutive: Okay, to ma'am isi number pe aapne mujhe WhatsApp pe bhi product share kiye the na wo kisne kiye the, kya main jaan sakti hu?\\nCustomer: Sorry.\\nExecutive: Ma'am, aapke isi number se na WhatsApp pe bhi aapka aawaz break ho raha hai.\\nExecutive: Abhi clear hai ma'am voice?\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, am I audible?\\nExecutive: Hello.\\nCustomer: Aawaz aa rahi hai ma'am?\\nCustomer: Breakdown ho raha hai aawaz.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Aa rahi hai ma'am aawaz?\\nCustomer: Voice break ho raha hai, voice break ho raha hai.\\nExecutive: Okay okay, calling you back, calling you back.\\nCustomer: Yeah.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer voice breaking.\\n\n\\n\nResolution:\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiaMART services, video meeting, product share\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7aed4e87-3d49-4ace-aea2-76f2efbf49b5",
+  "ucid": "7aed4e87-3d49-4ace-aea2-76f2efbf49b5",
+  "seller_categories": [
+    {
+      "mcat_id": "4167",
+      "mcat_name": "Baby Diapers"
+    },
+    {
+      "mcat_id": "27855",
+      "mcat_name": "Electric Wheelchair"
+    },
+    {
+      "mcat_id": "36725",
+      "mcat_name": "Sodium Chloride Saline Solution"
+    },
+    {
+      "mcat_id": "21601",
+      "mcat_name": "Adult Diapers"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    }
+  ]
+}

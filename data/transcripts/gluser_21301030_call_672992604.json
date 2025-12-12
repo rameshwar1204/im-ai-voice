@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672992604",
+  "gluser_id": "21301030",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bikaner",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690576",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Haan sir batao.\\nExecutive: Shyam ji, haan. Kya karna hai batao. Ek minute rukiye. Bata deta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked what to do.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to wait a minute to tell him.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb3778a8-00a2-48f8-91f1-7588236debb9",
+  "ucid": "bb3778a8-00a2-48f8-91f1-7588236debb9",
+  "seller_categories": [
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "188933",
+      "mcat_name": "Steel Security Safe"
+    },
+    {
+      "mcat_id": "22828",
+      "mcat_name": "Bank Vaults"
+    },
+    {
+      "mcat_id": "149798",
+      "mcat_name": "Electronic Locker Safe"
+    }
+  ]
+}

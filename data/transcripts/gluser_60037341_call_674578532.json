@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674578532",
+  "gluser_id": "60037341",
+  "vintage_months": 60,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mysuru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9716203",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hi, good morning, this is [unintelligible].\\nCustomer: Hello, sir.\\nExecutive: Hi sir, this is [unintelligible] from IndiaMART.\\nCustomer: Uh, hello.\\nExecutive: One second, one second, please be online.\\nCustomer: Okay, okay, okay.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello sir.\\nCustomer: Yes sir.\\nExecutive: Ma'am, please go to the from on mute app.\\nCustomer: Uh sir, can I call you back within few minutes sir? Actually I'm little busy right now with our doing bills.\\nExecutive: Okay ma'am, okay. Okay, no issue. Please call me back. Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy with billing.\\n\n- Customer wants to call back later.\\n\n\\n\nResolution:\\n\n- Executive agreed to customer's request.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, busy, billing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e1807792-2dcc-4d0b-b079-a974322adffc",
+  "ucid": "e1807792-2dcc-4d0b-b079-a974322adffc",
+  "seller_categories": [
+    {
+      "mcat_id": "182705",
+      "mcat_name": "Technical Grade Urea"
+    },
+    {
+      "mcat_id": "4462",
+      "mcat_name": "Bleaching Powder"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    },
+    {
+      "mcat_id": "32176",
+      "mcat_name": "Lime Powder"
+    }
+  ]
+}

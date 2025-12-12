@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669365911",
+  "gluser_id": "79120587",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655831",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Ha mam, digital certificate kon\u0924\u0930\u0940 \u092a\u093e\u0920\u0935\u093e \u092a\u093e\u0920\u0935\u093e\u0932 \u0915\u093e?\\n\\nExecutive: Ek minute mam, line pe rahiye, mai aapki jo file khulwa kar leti hu mam, ek minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requests for digital certificate.\\n\n\\n\nResolution:\\n\n- Executive asked customer to hold while opening file.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- digital certificate, file opening\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bdc2826-3ac7-4e2e-869a-a533b964583a",
+  "ucid": "0bdc2826-3ac7-4e2e-869a-a533b964583a",
+  "seller_categories": [
+    {
+      "mcat_id": "138928",
+      "mcat_name": "Commercial Wet Grinder"
+    },
+    {
+      "mcat_id": "151552",
+      "mcat_name": "Electric Idli Steamer"
+    },
+    {
+      "mcat_id": "119307",
+      "mcat_name": "Vegetable Cutting Machine"
+    },
+    {
+      "mcat_id": "133916",
+      "mcat_name": "Shawarma Machine"
+    },
+    {
+      "mcat_id": "181326",
+      "mcat_name": "Atta Maker"
+    }
+  ]
+}

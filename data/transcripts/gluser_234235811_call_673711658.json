@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673711658",
+  "gluser_id": "234235811",
+  "vintage_months": 1,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655829",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=240e2c53-0bee-4d83-a853-f30150438267",
+  "ucid": "240e2c53-0bee-4d83-a853-f30150438267",
+  "seller_categories": [
+    {
+      "mcat_id": "11599",
+      "mcat_name": "Linen Fabrics"
+    },
+    {
+      "mcat_id": "650573",
+      "mcat_name": "Women Co-Ord Set"
+    },
+    {
+      "mcat_id": "105933",
+      "mcat_name": "Women Clothes"
+    },
+    {
+      "mcat_id": "190420",
+      "mcat_name": "Ladies Cotton Pyjama"
+    },
+    {
+      "mcat_id": "68086",
+      "mcat_name": "Embroidered Cotton Dress"
+    }
+  ]
+}

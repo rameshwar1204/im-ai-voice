@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676078478",
+  "gluser_id": "256008422",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Warangal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659537",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Are ye nahi chahiye. Doctor chahiye, mai chod diya.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes sir. Ya good evening sir, mai Srishti baat kar rahi hu IndiaMART se.\\nCustomer: Ha bolo na.\\nExecutive: Ha, sir meri jo team hai, woh aap se connect hona chahti hai, thik hai?\\nCustomer: Hmm, hmm.\\nExecutive: Toh sir mai abhi connect kar du through video call, video meeting?\\nCustomer: Toh fir laptop on karna.\\nExecutive: Uh sir if you want then you can join as a phone, in phone also.\\nCustomer: In phone also, okay. WhatsApp pe link bhejiye.\\nExecutive: Ha yes sir, mai WhatsApp pe link send kar deti hu, thik hai? WhatsApp do. Meri senior, ya meri senior abhi aap connect kar loge na?\\nCustomer: Ha connect karo.\\nExecutive: Okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect via phone.\\n\n\\n\nResolution:\\n\n- Executive agreed to send a WhatsApp link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video call, whatsapp link, connection\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=60889c4c-abc7-41aa-9791-32f9f5bcc0e4",
+  "ucid": "60889c4c-abc7-41aa-9791-32f9f5bcc0e4",
+  "seller_categories": [
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "190906",
+      "mcat_name": "W180 Cashew Nuts"
+    },
+    {
+      "mcat_id": "183067",
+      "mcat_name": "Brown Basmati Rice"
+    },
+    {
+      "mcat_id": "26940",
+      "mcat_name": "Dry Figs"
+    }
+  ]
+}

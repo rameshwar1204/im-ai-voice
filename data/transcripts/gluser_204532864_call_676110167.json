@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676110167",
+  "gluser_id": "204532864",
+  "vintage_months": 16,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nExecutive: Hello.\\nCustomer: Hello haji Madhav sir.\\nExecutive: Ha boliye sir.\\nCustomer: Mai keh raha hu sir ye company already mai ticket raise kar raha hu, ticket raise nahi ho pa raha hai, already company hamare yaha se cancel ho gayi hai, thik hai, aapke paas dusra number iska alternate number, number par mai screen shot aapko dal raha hu, mai abhi ticket raise kar raha tha, mai aapko whatsapp pe bhi dal raha hu, thik hai.\\nExecutive: Ji complete.\\nCustomer: Meri aawaz aa rahi hai sir aapko?\\nExecutive: Ha boliye na.\\nCustomer: Ha ek minute sir ye dekho sir maine aapke whatsapp pe 916 wale pe ek screenshot dala hai, isko dekhiye ek baar.\\nExecutive: Are sir bolo na mera internet chalu nahi hoga phone chal raha hai.\\nCustomer: Accha accha accha mai ye keh raha hu sir aapko unka alternate number hai, alternate number.\\nExecutive: Nahi nahi nahi nahi nahi.\\nCustomer: Nahi hai ya to ye sir is wale pe jo aapne mujhe number diya hai isse concern matlab raise nahi ho sakta sir ye already hamare paas se company band ho chuki hai, matlab inhone band kar diya to hum concern raise nahi kar sakte ispe.\\nCustomer: Ha to sir challu hai to dekh rahe ho ek baar aap.\\nExecutive: Nahi bilkul dekho sir maine is nahi dekho maine already iska aap sabhi mera call katega na to aapko to ek proof bhi chala jayega maine aapko screenshot bhi dala hai ki hum concern raise nahi kar pa rahe mai wahi concern nahi aapka raise kar sakte maine aapko bola na sir do minute ka time lagega concern raise karke aapko call karta hu, to concern raise nahi ho raha sir already hamare yaha se free listing cancel register company hai ye, isliye concern raise nahi ho pa raha maine try kiya hai sir.\\nCustomer: Haji sir aawaz nahi aa rahi kya keh rahe hai?\\nExecutive: Chalo sir abhi dekhte hai fir kya kar sakte hai, nahi hai aapke paas.\\nCustomer: Thik hai, ha ek baar aap unko unka GST wagera pe aap FIR to kar sakte ho na sir aisa.\\nExecutive: Sir aap log nahi kar sakte to kya FIR karenge sir.\\nExecutive: Sir dekho dekho sir aisa nahi hai hamara kaam dekho aapko bhi pata hai sir hum\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to raise a ticket.\\n\n- Company already canceled from IndiaMART.\\n\n- Wants alternate number for the company.\\n\n\\n\nResolution:\\n\n- Executive checked and confirmed concern cannot be raised.\\n\n- Company is closed and free listing is canceled.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, company, alternate number, gst, fir\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03f8c69d-0eaf-4b4e-a410-d9bf84719e41",
+  "ucid": "03f8c69d-0eaf-4b4e-a410-d9bf84719e41",
+  "seller_categories": [
+    {
+      "mcat_id": "11144",
+      "mcat_name": "Grey Fabric"
+    },
+    {
+      "mcat_id": "84565",
+      "mcat_name": "Cotton Grey Fabric"
+    },
+    {
+      "mcat_id": "1318",
+      "mcat_name": "Cotton Fabric"
+    },
+    {
+      "mcat_id": "84571",
+      "mcat_name": "Cotton Twill Fabric"
+    },
+    {
+      "mcat_id": "6716",
+      "mcat_name": "Drill Fabric"
+    }
+  ]
+}

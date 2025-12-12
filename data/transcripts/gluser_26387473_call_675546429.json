@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675546429",
+  "gluser_id": "26387473",
+  "vintage_months": 79,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Sir, main kahin abhi busy hoon, main kar lunga sir woh jaise aap samjha rahe hain.\\nCustomer: I know Sandeep sir aap kar lijiyega par itna bolna tha woh feedback aaya tha woh close kar raha hoon sir isiliye bas call kiya. \\nExecutive: Feedback kuch nahi aaya sir mere paas. Aayega toh main apne aap. \\nCustomer: Nahi nahi aapke paas nahi hai. Aapke paas nahi sir mere paas jo feedback aaya tha aapka woh aap khud se connect kar lenge. \\nExecutive: Jab mera kaam hi nahi hua toh close karke kya fayda hoga?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback received needs to be closed.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nfeedback, close\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e4d55634-64ca-47b5-b450-6f4dc28cfd25",
+  "ucid": "e4d55634-64ca-47b5-b450-6f4dc28cfd25",
+  "seller_categories": [
+    {
+      "mcat_id": "177486",
+      "mcat_name": "Industrial Water Storage Tank"
+    },
+    {
+      "mcat_id": "3367",
+      "mcat_name": "Water Storage Tanks"
+    },
+    {
+      "mcat_id": "100288",
+      "mcat_name": "Biogas Balloon"
+    },
+    {
+      "mcat_id": "23685",
+      "mcat_name": "Biogas Plant"
+    },
+    {
+      "mcat_id": "148621",
+      "mcat_name": "Portable Biogas Plant"
+    }
+  ]
+}

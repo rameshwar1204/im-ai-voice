@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668070991",
+  "gluser_id": "48895522",
+  "vintage_months": 88,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638683",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hanji sir, good afternoon.\\nCustomer: Good afternoon. Madam, mera setting mein ja raha hun to wo setting bhi open nahi ho rahi hai.\\nExecutive: Aise kaise open nahi ho rahi hai?\\nCustomer: Ab log out kaise karenge jab setting bhi open nahi ho rahi hai?\\nExecutive: Sir, main aapko screen meeting ka link share karu aap join kar ban jao.\\nCustomer: Madam is waqt client hai mere yaha pe to main unko saffron mein deal abhi dikha raha hun. To aap mere ko 10-20 minute ke baad call kar sakte ho please.\\nExecutive: Aap mujhe kar mila lena ek bari. Jaise hi aap free hote ho na aap mujhe mera jo number hai na usi pe kar lena aap. Wo 009 wala hai na ke naam se aapne save kiya hua hai.\\nCustomer: Aap mere ko ek bar miss call us number se miss call kijiye.\\nExecutive: Main aapko whatsapp kar deti hun.\\nCustomer: Okay, theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's setting is not opening.\\n\n- Customer unable to log out.\\n\n\\n\nResolution:\\n\n- Executive offered to share a screen meeting link.\\n\n- Executive asked to call back when free.\\n\n\\n\nNext Steps: \\n\n- Executive will send a WhatsApp message.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- settings, log out, screen meeting, whatsapp\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9cdf6d8f-f70e-42ec-9c59-f8d270940399",
+  "ucid": "9cdf6d8f-f70e-42ec-9c59-f8d270940399",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "157608",
+      "mcat_name": "Dried Blueberries"
+    }
+  ]
+}

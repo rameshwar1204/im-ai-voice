@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669041367",
+  "gluser_id": "252275277",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Tamluk",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ho gaya to income me rasta hi gaya.\\n\\nHello.\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Hello.\\nExecutive: Haan ji, main Rishabh bol raha hu IndiaMART se baat kar rahe hain.\\nCustomer: Nahi boliye phone me kyun nahi utha raha hai.\\nExecutive: Haan ji.\\nCustomer: KGN construction se bol raha hu, phone kyun nahi utha raha hai.\\nExecutive: Kaun se KGN construction se?\\nCustomer: KGN construction.\\nExecutive: KGN? Ji bataiye sir.\\nCustomer: Hmm.\\nCustomer: Aapka naam?\\nExecutive: Rishabh baat kar raha hu sir, bataiye.\\nCustomer: Oh mera woh ye service ko national India Indian level mein woh sare jitna leke jana chahta hu, uske liye kya hai?\\nExecutive: Ah, sir samjha dijiye, kahan pe leke jana chahte hain sir?\\nCustomer: Ek baar dobara uthayenge.\\nCustomer: Ek ek disturb rehta hai na jo unlimited city.\\nExecutive: Thik hai, bilkul.\\nCustomer: Usme karna chahta hu.\\nExecutive: Achha, ho jayega sir, kaun si category pe karna hai?\\nCustomer: Labour contractor mein.\\nCustomer: Aap mera number mein call kare.\\nExecutive: In number pe call karta hu sir, okay.\\nCustomer: Jaldi abhi call karo, nahi to main jayega.\\nExecutive: Thik. Karta hu sir aapke number pe karta hu.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to promote service nationally.\\n\n- Customer wants to know about unlimited city category.\\n\n\\n\nResolution:\\n\n- Executive asked where customer wants to promote.\\n\n- Executive confirmed the service can be done.\\n\n- Executive agreed to call back on customer's number.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, national promotion, unlimited city\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8163576c-fcf6-4444-b75d-be3ad3afc922",
+  "ucid": "8163576c-fcf6-4444-b75d-be3ad3afc922",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

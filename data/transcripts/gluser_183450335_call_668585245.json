@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668585245",
+  "gluser_id": "183450335",
+  "vintage_months": 32,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\nCustomer: Ha Ravi heli.\\n\\nCustomer: Ha aste aste.\\nCustomer: Ha irilla illa.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is talking to someone named Ravi.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- general conversation\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d3e04cad-e0f3-46d4-b947-479bfdba0e04",
+  "ucid": "d3e04cad-e0f3-46d4-b947-479bfdba0e04",
+  "seller_categories": [
+    {
+      "mcat_id": "129909",
+      "mcat_name": "USB Smart Token"
+    },
+    {
+      "mcat_id": "445844",
+      "mcat_name": "Tally Prime Software"
+    },
+    {
+      "mcat_id": "140808",
+      "mcat_name": "Tally Software"
+    },
+    {
+      "mcat_id": "173934",
+      "mcat_name": "Digital Signature Certification"
+    },
+    {
+      "mcat_id": "185210",
+      "mcat_name": "Tally ERP 9 Software"
+    }
+  ]
+}

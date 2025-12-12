@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676046972",
+  "gluser_id": "125361491",
+  "vintage_months": 0,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Mainpuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714891",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nCustomer: Hello Umang Shah Saada bolna.\\nExecutive: Ji bataiye bhai.\\nCustomer: Namaste. Sir wo mai bol raha tha ki ye jo aapne refund ke liye deactivation ke liye aapne wo dala tha na?\\nCustomer: Hello?\\nExecutive: Ha ji bataiye.\\nCustomer: Ha to sir mai ek kaam kar raha hu aapki na ek meeting schedule kar raha hu senior department branch manager ke sath me. To aap mujhe time bata dijiye kis time tak wo connect kare aapko.\\nExecutive: Sir, 5:30, 5:30 exact.\\nCustomer: 5:30 baje.\\nExecutive: 5:30.\\nCustomer: Thik hai sir aap free rahiyega mai unse connect karwa deta hu aapko, thik hai? Jo bhi ho discussion kar lijiyega unse.\\nCustomer: Ji.\\nCustomer: Thik hai sir.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund and deactivation.\\n\n\\n\nResolution:\\n\n- Executive scheduled a meeting with branch manager.\\n\n\\n\nNext Steps: \\n\n- Customer to stay free for the meeting.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, deactivation, meeting schedule\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b7c50b8e-aa0f-4ed6-a391-e43652e87748",
+  "ucid": "b7c50b8e-aa0f-4ed6-a391-e43652e87748",
+  "seller_categories": [
+    {
+      "mcat_id": "5679",
+      "mcat_name": "Paddy Seeds"
+    },
+    {
+      "mcat_id": "101803",
+      "mcat_name": "Peanut"
+    },
+    {
+      "mcat_id": "142372",
+      "mcat_name": "Groundnut Shells"
+    },
+    {
+      "mcat_id": "184693",
+      "mcat_name": "Organic Wheat"
+    },
+    {
+      "mcat_id": "146875",
+      "mcat_name": "Organic Grains"
+    }
+  ]
+}

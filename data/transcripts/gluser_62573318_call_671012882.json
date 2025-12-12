@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671012882",
+  "gluser_id": "62573318",
+  "vintage_months": 81,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670934",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Yes.\\nCustomer: Haan ji, Mr. Kiran baat kar rahe hain?\\nExecutive: Yes, yes, actually I am in the factory presently. You are calling from India Mart.\\nCustomer: Hi sir, good morning sir, yeah hi sir, good morning. Myself is Reshu. I'm from India Mart Noida office.\\nExecutive: Wait, wait. I am actually I am at the factory presently.\\nCustomer: Okay. I will I will call you back. I will call you back.\\nCustomer: Sir, I will wait for your call. Please call me back. Okay, okay, thanks.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak with Mr. Kiran.\\n\n- Customer is calling from India Mart Noida office.\\n\n\\n\nResolution:\\n\n- Executive stated they are currently at the factory.\\n\n- Customer offered to call back later.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, india mart, factory\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=20736e3a-0f49-4661-8213-8b05156ccb0b",
+  "ucid": "20736e3a-0f49-4661-8213-8b05156ccb0b",
+  "seller_categories": [
+    {
+      "mcat_id": "43664",
+      "mcat_name": "Motor Boats"
+    },
+    {
+      "mcat_id": "114243",
+      "mcat_name": "Jet Ski"
+    },
+    {
+      "mcat_id": "145136",
+      "mcat_name": "FRP Portable Toilet"
+    },
+    {
+      "mcat_id": "53738",
+      "mcat_name": "Paddle Boat"
+    },
+    {
+      "mcat_id": "43667",
+      "mcat_name": "FRP Boats"
+    }
+  ]
+}

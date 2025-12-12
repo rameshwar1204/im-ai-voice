@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670988435",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Sir, main Nancy baat kar rahi thi IndiaMART se aapke account manager.\\nCustomer: Haan haan boliye.\\nExecutive: Sir, woh app ka issue resolve hua?\\nCustomer: Nahi hua madam.\\nExecutive: Nahi hua? Toh maine sir aapko mail bhi kar diya hai, hamari team jo technical team hoti hai, unko mail kar diya tha. Abhi dekho jo bhi woh waha se kaam kar rahe hain, theek hai? Toh aaj aap thoda dekh lo 12:00-1:00 baje tak ho jayega.\\nCustomer: Yeh matlab phone kharab hai jo kisi ke bhi mera sirf aur mera hi ho raha hai, baki kisi ka nahi ho raha hai.\\nExecutive: Matlab aapke phone mein ho raha hai aur baki kisi aur phone mein nahi ho raha hai?\\nCustomer: Na, only mera hi phone mein ho raha hai, baki kisi ka nahi ho raha hai.\\nExecutive: Okay.\\nCustomer: Kisi ka nahi ho raha hai.\\nExecutive: Haan, maine woh cheez mention kar di hai waha pe. Abhi, abhi woh team kaam kar rahi hai toh aapko 12:00-1:00 baje tak main update de dungi mere paas jaisa bhi aata hai.\\nCustomer: 12:00-1:00 baje tak uske baad mujhe uske result barabar chahiye, sir ke sath number hai jo usko phone karke.\\nExecutive: Haan haan, maine mail kar diya hai aapko.\\nCustomer: Haan karo.\\nExecutive: Theek hai? Jo bhi update aata hai main aapko update karti hu.\\nCustomer: Best sir se mail dal diya hai main.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's app issue not resolved.\\n\n- Issue occurring only on customer's phone.\\n\n\\n\nResolution:\\n\n- Executive has mailed the technical team.\\n\n- Assured update by 12:00-1:00 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will provide an update by 1:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- app issue, technical team, update\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=db5c67e1-4552-4491-8ebc-b356c2f49adb",
+  "ucid": "db5c67e1-4552-4491-8ebc-b356c2f49adb",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

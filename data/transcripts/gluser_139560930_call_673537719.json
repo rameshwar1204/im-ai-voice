@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673537719",
+  "gluser_id": "139560930",
+  "vintage_months": 49,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadohi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5e885e74-3048-4947-bcde-33c70abf9f57",
+  "ucid": "5e885e74-3048-4947-bcde-33c70abf9f57",
+  "seller_categories": [
+    {
+      "mcat_id": "6453",
+      "mcat_name": "Room Carpet"
+    },
+    {
+      "mcat_id": "132774",
+      "mcat_name": "Designer Carpet"
+    },
+    {
+      "mcat_id": "102",
+      "mcat_name": "Hand Tufted Carpets"
+    },
+    {
+      "mcat_id": "19525",
+      "mcat_name": "Hand Tufted Wool Carpet"
+    },
+    {
+      "mcat_id": "3327",
+      "mcat_name": "Wall To Wall Carpets"
+    }
+  ]
+}

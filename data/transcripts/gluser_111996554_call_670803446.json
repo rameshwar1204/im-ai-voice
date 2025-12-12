@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670803446",
+  "gluser_id": "111996554",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670478",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hello. Haan ji sir, call cut gayi thi aapki.\\nCustomer: Haan. Aapko commitment kya kiya gaya tha sir? Aapko kya commitment kiya gaya tha?\\nCustomer: Mujhe sari cheeze batai gayi jo jo aap bata rahe hain, theek hai? Uske baad mujhe bataya gaya ki aaj sir jo aap kar rahe hain invest paisa, wo aapka ek mahine ke andar jyada se jyada ROI aa jayega aur aapka kafi business grow karega.\\nHmm. Potential clients aayenge, aapke jo business byleads aate hain, aapko extra ek bhi milengi week ki. Maine nau byleads consume ki. Aadhe se jyada log to usme interested hi nahi hai. Aur jo baki byleads hai wo kahin UP mein pata lage mere se 200 kilometer door ya kahin 400 kilometer door ki hai. Kya mere liye useful rahega wo?\\nExecutive: Aapka local mein hi deal karte hain?\\nCustomer: Ji?\\nExecutive: Deal aap sirf local mein hi karte hain?\\nCustomer: Haan, main local mein. Gorakhpur se company hai na? To Gorakhpur ke alava matlab kis-kis location mein kaam kar payenge aap?\\nCustomer: Main Gorakhpur mein hi kar paunga. Maine ye sari cheeze only\\nExecutive: Thank you.\\nCustomer: Only Gorakhpur mein kaam karenge aap? Ji.\\nExecutive: Theek hai. To Gorakhpur ka lead to aati hongi na sir?\\nCustomer: Jo jo Gorakhpur ke ya maine in fact aas pass ki bhi leads consume ki.\\nHmm. Unhone ye cheez bataya nahi ki unko product ki need hai ya phir interested hain. Do teen logon ne to mana kar diya ki nahi maine aise bylead hi nahi dali hai. Aur jinhone baki ne kaha theek hai aa ho gaya hai. Hum batate hain kar ke chhod diya.\\nExecutive: But abhi to aapne start karna use kiya hai na sir? Ek hi mahina to hua hai. Aapne services 12 mahine ka liya hai.\\nCustomer: Main ek hi mahina ke andar, ek mahina ke 15 din ke andar dusra wo use kar raha hun. Usme mujhe usse jyada useful lag raha hai. Log call kar rahe hain, aa rahe hain, visit kar rahe hain. Log purchase bhi kar rahe hain. Wo worth lagega ki mujhe ye worth lagega. Jo promise hua hai wo sari cheeze hui bhi nahi hai usme se ek bhi.\\nExecutive: Aisa aapne return mein kisi ne aapko mail kiya ki aapko ek mahine ke andar aapko sara ka sara ROI generate ho jayega?\\nCustomer: Nahi, aisa to kuch nahi tha.\\nExecutive: Nahi hai na sir? To abhi aap use kijiye kam se kam do teen char mahina use to kijiye sir.\\nCustomer: [inaudible] nahi lag raha hai. Mujhe aap kya chahte hain wahi bataiye. Refund chahte hain aap?\\nCustomer: Refund chahta hun. Haan.\\nExecutive: Theek hai sir, main apne senior se connect karke discuss karke aapko call back karta hun.\\nCustomer: Chaliye theek hai. Haan bataiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- ROI not generated within a month.\\n\n- Most buyleads are not interested.\\n\n- Byleads are from distant locations.\\n\n- Dissatisfied with the service.\\n\n\\n\nResolution:\\n\n- Executive will discuss refund with senior.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after discussion.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, refund, roi, location\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 155,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=960c3f88-2bf2-41e2-8b49-7b5b26df3778",
+  "ucid": "960c3f88-2bf2-41e2-8b49-7b5b26df3778",
+  "seller_categories": [
+    {
+      "mcat_id": "180434",
+      "mcat_name": "Stainless Steel Glass Railing"
+    },
+    {
+      "mcat_id": "183973",
+      "mcat_name": "Modular Sofa"
+    },
+    {
+      "mcat_id": "183839",
+      "mcat_name": "L Shape Sofa Set"
+    },
+    {
+      "mcat_id": "20236",
+      "mcat_name": "Wooden Table"
+    },
+    {
+      "mcat_id": "37022",
+      "mcat_name": "Sofa Bed"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669961695",
+  "gluser_id": "7375263",
+  "vintage_months": 16,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Visnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650712",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, ye bandhan se baat kar raha hu.\\nCustomer: Haan.\\nExecutive: Haan, chandan ji shiv baat kar raha tha senior business manager india mart office se.\\nCustomer: Kahan se?\\nExecutive: Sir shiv baat kar raha tha senior manager india mart office se.\\nCustomer: Bolo.\\nExecutive: Haan ji haan ji kaise hain sir?\\nCustomer: Badhiya puchho.\\nExecutive: Sir ye aapka ek concern chala tha hamare pass kuch aapko turnover apna change karana tha right update karana tha turnover.\\nCustomer: Haan haan haan.\\nExecutive: Haan to from last more than a week aap ek hafte se jyada sari kuch problem chal rahi hai apni turnover update nahi ho pa raha hai kyuki annual aggregate turnover ka document nahi mil pa raha.\\nCustomer: Sahi baat hai.\\nExecutive: Haan ji haan ji to usme sir aapko team ne already guide kar diya hoga kajal ne aur unke jo aapke jo account manager hai aap bandhan se baat kijiye usko sab pata hai kya hai kya nahi hai theek hai.\\nExecutive: Kisse baat karni hai sir? Bandhan se baat kar lijiye aap bandhan se baat kar lijiye.\\nExecutive: Bandhan?\\nCustomer: Haan bandhan sir kis se baat ho payegi unse?\\nExecutive: Aapki team ko bolo na aapke pass mera number hai to uska number bhi hoga.\\nExecutive: Okay aap mujhe number share kar paye possible hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to update turnover.\\n\n- Turnover update is not happening.\\n\n- Customer wants to talk to Bandhan.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to share number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- turnover, update, bandhan, number\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a5782e3c-f1a6-4c49-84b7-fcd70163a627",
+  "ucid": "a5782e3c-f1a6-4c49-84b7-fcd70163a627",
+  "seller_categories": [
+    {
+      "mcat_id": "165352",
+      "mcat_name": "Contrast Media"
+    },
+    {
+      "mcat_id": "41758",
+      "mcat_name": "X Ray Films"
+    },
+    {
+      "mcat_id": "258547",
+      "mcat_name": "Iohexol Injections"
+    },
+    {
+      "mcat_id": "160809",
+      "mcat_name": "Microbar Enema"
+    },
+    {
+      "mcat_id": "192486",
+      "mcat_name": "Omnipaque Injection"
+    }
+  ]
+}

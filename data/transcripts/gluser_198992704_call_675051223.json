@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675051223",
+  "gluser_id": "198992704",
+  "vintage_months": 1,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710706",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello sir, aawaz aa rahi hai?\\nCustomer: Haan sir aa rahi hai.\\nExecutive: Sir main Manish bol raha hun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive Manish is speaking.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nintroduction\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=52112cef-f44e-4a8e-a5c3-79a70032df95",
+  "ucid": "52112cef-f44e-4a8e-a5c3-79a70032df95",
+  "seller_categories": [
+    {
+      "mcat_id": "141382",
+      "mcat_name": "Solar Panel Mounting Structure"
+    },
+    {
+      "mcat_id": "39004",
+      "mcat_name": "Transmission Towers"
+    },
+    {
+      "mcat_id": "120910",
+      "mcat_name": "Module Mounting Structure"
+    },
+    {
+      "mcat_id": "43430",
+      "mcat_name": "Telecom Tower"
+    },
+    {
+      "mcat_id": "159533",
+      "mcat_name": "Solar Panel Stand"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667318276",
+  "gluser_id": "102453027",
+  "vintage_months": 3,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baramati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637140",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer said hello twice.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=69604529-99c1-4158-bb05-2dd1398ad166",
+  "ucid": "69604529-99c1-4158-bb05-2dd1398ad166",
+  "seller_categories": [
+    {
+      "mcat_id": "95440",
+      "mcat_name": "Outdoor LED Video Display"
+    },
+    {
+      "mcat_id": "95438",
+      "mcat_name": "Outdoor LED Display"
+    },
+    {
+      "mcat_id": "118945",
+      "mcat_name": "LED Video Wall"
+    },
+    {
+      "mcat_id": "99248",
+      "mcat_name": "Advertising LED Display Screen"
+    },
+    {
+      "mcat_id": "31588",
+      "mcat_name": "LED Screen"
+    }
+  ]
+}

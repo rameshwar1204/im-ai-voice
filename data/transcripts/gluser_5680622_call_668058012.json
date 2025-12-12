@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668058012",
+  "gluser_id": "5680622",
+  "vintage_months": 19,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hi, good afternoon. Meri baat Saima ji se ho rahi hai kya?\\nCustomer: Yes.\\nExecutive: Ah, mam, main Pratiksha baat kar rahi hu IndiaMART se. Ah, IndiaMART wala account aap hold karte ho kya?\\nCustomer: Nahi nahi, actually dusra staff use karta hai. Woh after lunch aayega toh 3:00 baje ke baad call kar sakte hai aap?\\nExecutive: Ah, 3:00 baje ke baad. Aap unka number mujhe de sakte ho kya? Isme aapka number actually mentioned tha. Mujhe laga aap hold karte ho yeh account.\\nCustomer: Mam, yahi phone number hai. Ah, woh aate hai toh yeh office pe hi number hai, wohi use karte hai.\\nExecutive: Accha accha, aapka timing alag alag hoga.\\nCustomer: Hmm hmm hmm hmm.\\nExecutive: Okay. Ah, aap bilkul bhi isko dekhte nahi ho kya? Matlab yeh IndiaMART wala jo account hai?\\nCustomer: Nahi nahi, mam.\\nExecutive: Okay. Unka naam kya hai?\\nCustomer: Ah, Shahbaz.\\nExecutive: Shahbaz. Okay. Ah, and the same number is?\\nCustomer: Haan, same number pe na mujhe 3:00 baje around call kar lijiyega, main baat kara dungi. Jab tak woh khud hi aa jayenge, woh khud hi attend kar lenge, theek hai?\\nExecutive: Accha accha. Theek hai, theek hai, main baat kar lungi. Okay. Thank you. Bye.\\nCustomer: Bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know who handles IndiaMART account.\\n\n\\n\nResolution:\\n\n- Customer informed another staff handles the account.\\n\n- Customer will have the staff available by 3:00 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 3:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, timing, call back\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f3ed5c1c-df9d-4585-ac6b-56c9595ce2f5",
+  "ucid": "f3ed5c1c-df9d-4585-ac6b-56c9595ce2f5",
+  "seller_categories": [
+    {
+      "mcat_id": "190844",
+      "mcat_name": "Hospital Curtain Track"
+    },
+    {
+      "mcat_id": "45922",
+      "mcat_name": "Hospital Curtain"
+    },
+    {
+      "mcat_id": "149881",
+      "mcat_name": "Curtain Tracks"
+    },
+    {
+      "mcat_id": "10760",
+      "mcat_name": "Hospital Fowler Bed"
+    },
+    {
+      "mcat_id": "43928",
+      "mcat_name": "Folding Wheelchair"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673574297",
+  "gluser_id": "251604792",
+  "vintage_months": 3,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir\\nExecutive: Uh idhar na uh miss call aayi thi zara\\nCustomer: Uh miss call aayi thi actually India Mart team se baat kar rahi thi\\nExecutive: Haan\\nCustomer: Uh may be aapke jo account manager hai unhone aapko call kiya hoga kisi kaam ke liye but abhi to hamara office close ho chuka hai to kal morning hum connect kar sakte hai aapko\\nExecutive: What what what\\nCustomer: Okay sir thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Missed call received.\\n\n\\n\nResolution:\\n\n- Executive called back after receiving a missed call.\\n\n- Customer mentioned the call might be from their IndiaMART account manager.\\n\n- Customer suggested connecting the next morning as the office was closed.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer suggested connecting the next morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\nmissed call, india mart, account manager, office hours\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=324c81d2-2a03-40e6-9689-e8e12f88d1f5",
+  "ucid": "324c81d2-2a03-40e6-9689-e8e12f88d1f5",
+  "seller_categories": [
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    },
+    {
+      "mcat_id": "36737",
+      "mcat_name": "Sambar Powder"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "36845",
+      "mcat_name": "Rasam Powder"
+    },
+    {
+      "mcat_id": "8066",
+      "mcat_name": "Red Chilli"
+    }
+  ]
+}

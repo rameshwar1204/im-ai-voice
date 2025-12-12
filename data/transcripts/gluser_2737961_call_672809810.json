@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672809810",
+  "gluser_id": "2737961",
+  "vintage_months": 6,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684207",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Meri baat Pandit Stone and Marbles mein ho rahi hai Gopal ji se?\\nCustomer: Haan boliye.\\nExecutive: Hi sir, very good morning. Main Udita baat kar rahi hu IndiaMART se.\\nCustomer: Haan boliye.\\nExecutive: Sir actually yaha pe na aapne ek apna concern yaha pe raise kiya hua hai. Uske regarding maine yaha pe aapko connect kiya. Aapki meri team se baat bhi chal rahi hai. Even main jaan sakti hu ki sir kis wajah se ye\\nCustomer: Aap ek kaam kijiye main to mine ka kaam mein busy hu aap Sharma ji ko laga lijiye call.\\nExecutive: Aap kaun baat kar rahe ho?\\nCustomer: Gopal ji baat kar raha hu main Sharma ji ko laga lijiye aap wo office mein wo unko 100 prakar IndiaMART ka kaam vagaira sab main mine mein busy hu abhi number hai unke aapke paas?\\nExecutive: Haan ji mere paas number to hai but wo response nahi kar rahe the.\\nCustomer: Haan to aap unse hi kar lijiye baat kar denge thodi der mein response hai na.\\nExecutive: Theek hai sir. Laga lo aap laga lo phone.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised a concern.\\n\n- Sharma ji is not responding.\\n\n\\n\nResolution:\\n\n- Executive connected regarding the concern.\\n\n- Customer asked to connect with Sharma ji.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, sharma ji, response\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b9d5bd4-7349-441c-affa-f043eea62a3e",
+  "ucid": "6b9d5bd4-7349-441c-affa-f043eea62a3e",
+  "seller_categories": [
+    {
+      "mcat_id": "10548",
+      "mcat_name": "Kota Stone"
+    },
+    {
+      "mcat_id": "8012",
+      "mcat_name": "Stone Slabs"
+    },
+    {
+      "mcat_id": "173906",
+      "mcat_name": "Kadappa Stone"
+    },
+    {
+      "mcat_id": "10547",
+      "mcat_name": "Kota Brown Limestone"
+    },
+    {
+      "mcat_id": "207928",
+      "mcat_name": "Kota Marble"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673858126",
+  "gluser_id": "8239070",
+  "vintage_months": 22,
+  "bl_dau_oct": 22,
+  "customer_type": "STAR",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698056",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: nahi bhaiyya aapko apne kaam apne [inaudible] karna hai aapka hum kya kar sakte hai us kaam kar rahe hai aap support nahi kar sakte.\\n(silence)\\nHello?\\nExecutive: haan good evening sir Kadir bol raha tha IndiaMART se.\\nCustomer: haan boliye.\\nExecutive: kal aapki bande se baat hua tha hamari video meeting bhi hua tha.\\nCustomer: theek hai na.\\nExecutive: hmm aur humne discuss bhi kiya tha unhone jo diya tha na kuch ke sath matlab buylead inquiry diya tha.\\nCustomer: hmm.\\nExecutive: jisme unki baat nahi ho pa rahi thi theek hai na usme se char pe humne try kiya isme se ek pe baat hui theek hai na inquiry recording pe hi maine humne baat kiya aur phir wo client bola ki theek hai hame bhi requirement hai aap unko bol dijiye mujhe connect karne ke liye theek hai na to maine aapke jo bande hai na unko bola ki dekho aap ek kaam karo sir jo bhi buylead inquiry ya direct inquiry hai na aap wo humko to bola kisi ka kisi hum suna hai kisi ka nahi hai hum dekho aisa to time waste karke fayda nahi hai theek hai na.\\nExecutive: aapke.\\nCustomer: jo phone karta hai 99% 99% aadmi logo ka requirement hai hi nahi.\\nExecutive: sir ye cheeze sir agar aap zyada achcha rehte to aapko bhi to bola tha humne ki sir aap video meeting ke dauran reh jate to zyada achcha rehta.\\nCustomer: haan bahut dekh liya hum khud bhi phone kiya hum khud bhi phone kiya hum ek din do din ek hafta dekh ke hum aapko complain nahi kar raha hu aapko bhi pata hai.\\nExecutive: sir aapne do saal se problem mein problem mein fasa fasa hua hai mera service band kar dijiye paisa refund kar dijiye hum kitna dino se bol raha hu.\\nExecutive: sir paisa refund ki baat nahi aapke hamari kya baat hui thi ki Kadir ji hame agar video meeting mein mera kaam to nahi ho raha hai na aap paisa aap paisa refund chah raha hu to kitna baar mail mail mail kar lunga hum aapko mail karne se sir agar mail karne se agar refund ho jata tha tab tak ho gaya rehta na aapka.\\nCustomer: to kya chahiye aapko abhi.\\nExecutive: hum uske solution bata rahe hai aapko business point of view se jude the business ke liye aapko sir ke liye refund chahiye refund chahiye aapki team ke sath humne discuss kiya hai.\\nCustomer: nahi ho raha hai to kya kaise kya karega nahi ho raha hai.\\nExecutive: sir India IndiaMART sir aapko business ki guarantee nahi deta hai inquiry ki guarantee deta hai.\\nCustomer: inquiry ka bhi inquiry ka bhi koi guarantee nahi aa raha hai aapka aapka taraf se.\\nExecutive: sir sir main pura aap aap apne person ko phone call pe le sakte ho abhi.\\nCustomer: aap suno.\\nExecutive: aap usko phone call pe le lo kar do aur humko kabhi phone mat karna.\\nExecutive: sir aap aap aap agar suniye dusra baar dusra baar hoyega na haan dusra baar hoga na dusra baar aisa phone karega na hum legal issue banayenge isko and high court mein hum aap logo ke khilaf sue file karenge yaad rakhna.\\nCustomer: kis cheez ke liye kis cheez ke liye sir ji yaad rahega na na jab high court mein bulaunga na tab yaad rahenge kis cheez ke liye.\\nExecutive: sir hum kis baat ke liye hum kar rahe hai.",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting any business.\\n\n- Wants a refund for the subscription.\\n\n- Claims 99% of buyleads are not genuine.\\n\n\\n\nResolution:\\n\n- Executive stated IndiaMART guarantees inquiries, not business.\\n\n- Executive offered solutions from a business point of view.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Angry | Risk of churn -> Risk of churn\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, subscription, legal issue\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 178,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b064c8c3-1708-4258-b948-e0c13afb17fc",
+  "ucid": "b064c8c3-1708-4258-b948-e0c13afb17fc",
+  "seller_categories": [
+    {
+      "mcat_id": "168359",
+      "mcat_name": "Game Development Service"
+    },
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "171638",
+      "mcat_name": "Mobile Game Development"
+    },
+    {
+      "mcat_id": "181037",
+      "mcat_name": "Youtube Ads"
+    },
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675222166",
+  "gluser_id": "35300972",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710940",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji Vikram sir Saloni bol rahi India Mart se good evening Rishabh ke manager.\\nCustomer: Good evening.\\nExecutive: Haan aap se mera discussion hua tha Diwali ke time pe jab aap call kar rahe the to answer nahi kar raha tha koi bhi then fir aap se maine baat ki thi aapki company UAE traders ke regarding.\\nCustomer: Ji ji bataiye.\\nExecutive: Haan sir to isme abhi aapka ek concern ye video meet ka discussion ke liye aapne raise kiya tha abhi Rishabh ji ne baat bhi kari aap se to doubt aapke clear ho gaye?\\nCustomer: Haan ji ho gaye hai.\\nExecutive: Haan to koi koi aisa issue to nahi hai jo abhi pending reh gaya ho.\\nCustomer: Nahi nahi koi issue nahi hai.\\nExecutive: Theek hai aur filhal ke liye suniye group bhi bana diya hai to agar aapke yahan koi bhi staff ya koi aapka aur person bhi dekh raha hai ye services aapke India Mart ki to waha pe unse bol dijiyega ki yaha pe raise kar sakte hain jo bhi cheeze unko doubt hai kuch bhi bata sakte hain to hum accordingly connect kar lenge aur even aap unko add bhi kar lijiyega.\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai main aapka ye concern bhi close kar de rahi video meeting wala jo aapne raise kiya tha.\\nCustomer: Ji kar dijiye kar dijiye close kar dijiye aap.\\nExecutive: Haan just isme aap ek bar group me bata dena kuch bhi aage further agar aapko problem rehti hai to theek hai.\\nCustomer: Hello.\\nExecutive: Theek hai sir.\\nCustomer: Haan ji.\\nExecutive: Theek hai okay thank you.\\nCustomer: Theek hai.\\nExecutive: Okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised concern for video meet discussion.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's doubts were cleared.\\n\n- Executive informed about the group created for support.\\n\n- Executive closed the video meeting concern.\\n\n\\n\nNext Steps: \\n\n- Customer to inform in group if any further issues.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, discussion, group, support\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0362af21-97c9-4d7c-a46d-b8f81ba67eba",
+  "ucid": "0362af21-97c9-4d7c-a46d-b8f81ba67eba",
+  "seller_categories": [
+    {
+      "mcat_id": "126639",
+      "mcat_name": "Wedding Palki"
+    },
+    {
+      "mcat_id": "126640",
+      "mcat_name": "Wedding Stage"
+    },
+    {
+      "mcat_id": "126638",
+      "mcat_name": "Wedding Gate"
+    },
+    {
+      "mcat_id": "133074",
+      "mcat_name": "FRP Pillar"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    }
+  ]
+}

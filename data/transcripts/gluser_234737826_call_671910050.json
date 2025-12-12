@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671910050",
+  "gluser_id": "234737826",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Hisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\nNone\\n\n\\n\nResolution:\\n\nNone\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef7b4a93-dac7-4333-96d7-683217e9aea8",
+  "ucid": "ef7b4a93-dac7-4333-96d7-683217e9aea8",
+  "seller_categories": [
+    {
+      "mcat_id": "7229",
+      "mcat_name": "Potato Chips"
+    },
+    {
+      "mcat_id": "193741",
+      "mcat_name": "Lays Chips"
+    },
+    {
+      "mcat_id": "177908",
+      "mcat_name": "Raw Kurkure"
+    },
+    {
+      "mcat_id": "138250",
+      "mcat_name": "Fryums"
+    },
+    {
+      "mcat_id": "85357",
+      "mcat_name": "Fried Snack"
+    }
+  ]
+}

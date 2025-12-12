@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667463834",
+  "gluser_id": "3123342",
+  "vintage_months": 5,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Kasganj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634431",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan ji.\\nCustomer: Haan ji madam aap boliye.\\nExecutive: Haan sir. Hello. Boliye. Haan sir. Ho gayi free aap? Hum chai pee rahe the isliye free nahi the bataiye aap.\\nExecutive: Ji sir. To pee lijiye chai sir fir. Nahi chai pee li pee li madam pee li aapse baat karne ke liye hum tayar ho ke baithe hue hain boliye aap.\\nCustomer: Achcha. Pehle to sir wo to maine unko subah samjha diya tha jo aapke office ki thi hai na. To ab kuch rahega to. Baiti hui hai aur phone speaker pe wo bhi sun rahi hai.\\nExecutive: Haan. Haan to matlab ab kuch rahega to wo direct mujhe phone kar liya karegi. Bahut khush hai tumne jo samjhaya bahut khush hui hai. Maine ab teri himmat pe badi meri himmat badh rahi hai.\\nCustomer: Achcha. Nahi theek hai kisi dekho. Maine kaha bulbul aisi dose deti hai meri himmat badh jati hai teri himmat kyun nahi badegi.\\nExecutive: Achcha. Sahi hai aisa koi baat nahi hai. Baki mere se baat kar liya karengi matlab to main unko guide kar dungi. Theek hai aur ek baar sir mail open kar lo aap ek baar. Maine maine aaj se daanta tha is baat ke liye ki jyada lambi baat mat kiya karo wo bhi busy hai aur subah mere paas bhi bahut kaam hai. To bola aage dhyan rakhunga short mein baat kar liya karegi. To mail kholu kya mail khol sakti is badi. Haan haan sir mail ek baar open kar lijiye. Lo lo main mail isse khulwata hu khol mail khol fatafat. Abhi sandeep bhai se juda hua hai ya nahi juda hua hai.\\nExecutive: Ek second.\\nExecutive: Sir aap busy ho to ek do minute baad call kar lo ya fir phone continue rakho?\\nCustomer: Nahi nahi koi nahi aap hold kar lijiye. Main line pe hu.\\nExecutive: Ek second.\\nExecutive: Bol 1947.\\nExecutive: Thodi der lagegi bulbul main kaat deta hu fir dobara milata hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the executive to open the mail.\\n\nResolution:\\n\n- Executive agreed to open the mail.\\n\n- Executive put the call on hold.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail, follow up, discussion\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f9bf8fd0-7db6-4bf7-8278-0b13d2e5c593",
+  "ucid": "f9bf8fd0-7db6-4bf7-8278-0b13d2e5c593",
+  "seller_categories": [
+    {
+      "mcat_id": "111978",
+      "mcat_name": "Bike Headlight Bulb"
+    },
+    {
+      "mcat_id": "68163",
+      "mcat_name": "Truck Headlight Bulb"
+    },
+    {
+      "mcat_id": "220569",
+      "mcat_name": "Car Headlight Bulb"
+    },
+    {
+      "mcat_id": "32311",
+      "mcat_name": "Car LED Headlight"
+    },
+    {
+      "mcat_id": "11760",
+      "mcat_name": "Halogen Bulbs"
+    }
+  ]
+}

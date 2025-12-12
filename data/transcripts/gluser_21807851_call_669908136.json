@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669908136",
+  "gluser_id": "21807851",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Very good afternoon Yogi ji.\\nCustomer: Are kaise hai sir ji?\\nExecutive: Badhiya sir badhiya aap batao aap kaise hai?\\nCustomer: Kripa hai aapki.\\nExecutive: Dua nahi dua nahi hoti hai na yaar isliye pareshan rehte hain. Kripa to rakhte ho kya?\\nExecutive: Bataiye bataiye aage.\\nCustomer: Sir sir kripa bhi rakhte hain dua bhi rakhte hain hum aise nahi bol sakte hum aise apni taraf se pura dhyan rakhte hain.\\nExecutive: Ji yaar.\\nExecutive: Ek update aaya tha ek team ko aap se discussion karna tha hai na shayad video meeting karni hogi. To usi ke regarding wo schedule hi puchne ke liye maine call kiya hai ki kis time aap free rahenge to main uske liye update kar do fir wo aapko connect kar le.\\nCustomer: Aaj hi kar lenge kya?\\nExecutive: Main aap batao agar aaj possible hai to.\\nCustomer: 5 baje kar lete hain yaar.\\nExecutive: Aaj 5 baje?\\nExecutive: Hmm.\\nExecutive: Theek hai main dal deta hu fir 5 baje wo aapko connect kar lenge free rahiyega aap hai na.\\nCustomer: Bilkul kaun hai kaun si team kya bol rahi hai waise kuch to aaya hoga.\\nExecutive: Social media team hai sir aap par team hai hamari.\\nCustomer: Achcha wo jo Umang Umang Pandey ji jo the wo bhi social media se hi the kya?\\nExecutive: Wo bhi social team se hi the.\\nCustomer: Achcha.\\nCustomer: Chalo karo connect karo.\\nExecutive: Main bhai ko lagata hu wo connect karayenge hai na 5 baje aap free rahiyega. Theek hai?\\nCustomer: Theek hai sir theek hai.\\nExecutive: Ji thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to schedule a meeting with customer.\\n\n\\n\nResolution:\\n\n- Meeting scheduled for 5 PM with social media team.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- schedule, meeting, social media team\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f42f4cdb-4835-4a2f-b36a-8c58641d4b16",
+  "ucid": "f42f4cdb-4835-4a2f-b36a-8c58641d4b16",
+  "seller_categories": [
+    {
+      "mcat_id": "1394",
+      "mcat_name": "Oxygen Plant and Generator"
+    },
+    {
+      "mcat_id": "32741",
+      "mcat_name": "Nitrogen Generators"
+    },
+    {
+      "mcat_id": "42148",
+      "mcat_name": "PSA Oxygen Plants"
+    },
+    {
+      "mcat_id": "42147",
+      "mcat_name": "PSA Nitrogen Gas Plants"
+    },
+    {
+      "mcat_id": "191158",
+      "mcat_name": "Medical Oxygen Plant"
+    }
+  ]
+}

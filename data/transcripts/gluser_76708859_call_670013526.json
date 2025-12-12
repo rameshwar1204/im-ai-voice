@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670013526",
+  "gluser_id": "76708859",
+  "vintage_months": 77,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715538",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello?\\nExecutive: Haan sir Abhishek baat kar raha hu IndiaMART se.\\nCustomer: Boliye Abhishek ji.\\nExecutive: Haan main keh raha hu sir aapke ispe maine na wo bheja hai sir ek closer mail aaya hoga aapki mail id pe wo jo aapka concern tha jo aapne open kiya tha.\\nCustomer: Haan.\\nExecutive: Haan to ek baar mail id open karke sir us pe satisfy mark kar dijiye.\\nCustomer: Theek hai.\\nExecutive: Lekin aapne concern kuch ye hua nahi hai.\\nCustomer: Hoga.\\nExecutive: Sir maine open kiya maine open kiya hua hai aapko screenshot bhej du aap kaho to.\\nCustomer: Nahi nahi koi vishay nahi.\\nExecutive: Haan maine kiya hua hai wo ek haan same ke do open ho rahe hai is wajah se maine bol raha hu aapse. Theek hai aapki mail id pe share kar raha hu sir to waha se aap satisfy de sakte hai theek.\\nCustomer: Theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to mark the concern as satisfied.\\n\nResolution:\\n\n- Executive asked to open mail and satisfy.\\n\n- Executive offered to send a screenshot.\\n\n- Executive shared the mail ID to satisfy.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- closer mail, concern, satisfaction\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c3486200-c2c4-48b2-ac85-cd4265f3accd",
+  "ucid": "c3486200-c2c4-48b2-ac85-cd4265f3accd",
+  "seller_categories": [
+    {
+      "mcat_id": "168765",
+      "mcat_name": "Auto Rickshaw Advertising Services"
+    },
+    {
+      "mcat_id": "184321",
+      "mcat_name": "Digital Wall Paintings"
+    },
+    {
+      "mcat_id": "187889",
+      "mcat_name": "Wall Painting Advertising"
+    },
+    {
+      "mcat_id": "34110",
+      "mcat_name": "Outdoor Advertising"
+    },
+    {
+      "mcat_id": "165134",
+      "mcat_name": "Foam Banner"
+    }
+  ]
+}

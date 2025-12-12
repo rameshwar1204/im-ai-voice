@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669754435",
+  "gluser_id": "54560245",
+  "vintage_months": 7,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661546",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nCustomer: Hello.\\nExecutive: Haan ji boliye.\\nCustomer: Haan ji Mr. Singh baat kar rahe hain Manish Singh Anika Traders se.\\nExecutive: Ji.\\nCustomer: Ji sir good morning main Rishu baat kar rahi hun India Mart se your relationship manager actually sir aapka morning mein Anurag Gupta se ek discussion hua tha jo aapka account manage karte hain na aur unhi ki call pe sir aapne ek no feedback share kiya ki you are not satisfied with the call of your account manager.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not satisfied with account manager's call.\\n\n\\n\nResolution:\\n\n- Executive identified self and purpose of call.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, feedback, call\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7fdd08e3-97cf-4120-8e11-3b382d68143e",
+  "ucid": "7fdd08e3-97cf-4120-8e11-3b382d68143e",
+  "seller_categories": [
+    {
+      "mcat_id": "126348",
+      "mcat_name": "Crompton Greaves Motor"
+    },
+    {
+      "mcat_id": "52930",
+      "mcat_name": "Three Phase Electric Motor"
+    },
+    {
+      "mcat_id": "52927",
+      "mcat_name": "Single Phase Electric Motor"
+    },
+    {
+      "mcat_id": "9484",
+      "mcat_name": "Single Phase Motors"
+    },
+    {
+      "mcat_id": "7529",
+      "mcat_name": "Open Well Submersible Pump"
+    }
+  ]
+}

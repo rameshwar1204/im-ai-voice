@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670841384",
+  "gluser_id": "24045641",
+  "vintage_months": 4,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690204",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Uh sir, wo video mein ek cheez mere ko aapko puchna tha, abhi aap free hai na?\\nCustomer: Okay.\\nExecutive: Theek hai, toh mein abhi aapke saath link share kar dungi, theek hai?\\nCustomer: Theek hai.\\nExecutive: WhatsApp pe bhej du aapke?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to ask something about a video.\\n\n\\n\nResolution:\\n\n- Executive will share a link.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. The executive will share the link on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo, link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=286c4bf1-8b12-42f2-84f3-b0b14d9933a0",
+  "ucid": "286c4bf1-8b12-42f2-84f3-b0b14d9933a0",
+  "seller_categories": [
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    },
+    {
+      "mcat_id": "27201",
+      "mcat_name": "Ecommerce Solutions"
+    },
+    {
+      "mcat_id": "132717",
+      "mcat_name": "Multi Level Marketing Software"
+    },
+    {
+      "mcat_id": "170240",
+      "mcat_name": "Job Portal Service"
+    },
+    {
+      "mcat_id": "126826",
+      "mcat_name": "Mobile Application Development"
+    }
+  ]
+}

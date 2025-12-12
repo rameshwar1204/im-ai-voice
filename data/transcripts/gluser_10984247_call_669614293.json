@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669614293",
+  "gluser_id": "10984247",
+  "vintage_months": 132,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sirmaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646264",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Haanji, good morning, ma'am.\\nCustomer: Good morning, sir. Uh, sir, basically aapne feedback diya tha call ka.\\nCustomer: Right?\\nExecutive: So, uh\\nCustomer: Nahi, woh toh close ho gaya tha matter sara bhi.\\nExecutive: Nahi, aapne ek aur ticket raise kari thi na 7 tarikh ko ki service quality jo hai woh poor hai. And everything is AI generated.\\nCustomer: So, basically\\nExecutive: Pata nahi, ho sakta hai koi issue nahi hai. But chalo, isko chhod do, aap close kar do, abhi koi issue nahi hai. Koi usme solution hone wala nahi hai. Isliye chhod do isko, koi dikkat nahi hai.\\nExecutive: Toh is wale ticket ko phir hum close kar de?\\nCustomer: Thik hai, thik hai, close kar do ji bilkul.\\nExecutive: Abhi koi issue aap face kar rahe hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired about feedback on service quality.\\n\nResolution:\\n\n- Customer asked to close the ticket.\\n\n\\n\nNext Steps: \\n\n- Ticket will be closed.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, service quality, ticket closure\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e61df86e-b391-4f5d-9c79-5fc52e28bd08",
+  "ucid": "e61df86e-b391-4f5d-9c79-5fc52e28bd08",
+  "seller_categories": [
+    {
+      "mcat_id": "127494",
+      "mcat_name": "Facial Kit"
+    },
+    {
+      "mcat_id": "11137",
+      "mcat_name": "Green Herbal Tea"
+    },
+    {
+      "mcat_id": "2820",
+      "mcat_name": "Sunscreen Gel"
+    },
+    {
+      "mcat_id": "39114",
+      "mcat_name": "Sunscreen"
+    },
+    {
+      "mcat_id": "2822",
+      "mcat_name": "Sunscreen Lotion"
+    }
+  ]
+}

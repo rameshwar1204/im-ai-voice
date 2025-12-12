@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675840140",
+  "gluser_id": "10293098",
+  "vintage_months": 87,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan mam, maine aapko video meet ka link bheja hai WhatsApp pe.\\nCustomer: Haan, main usko connect kar rahi hoon.\\nExecutive: Laptop ke through aawaz aayegi na meri?\\nCustomer: Ek baar aap connect kar lo.\\nExecutive: Aajaegi.\\nCustomer: Aajaegi.\\nExecutive: Theek hai, theek hai, theek hai, done hai, done hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Connecting to a video meet link sent on WhatsApp.\\n\n- Ensuring audio will work through the laptop.\\n\n\\n\nResolution:\\n\n- Executive confirmed audio should work.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer is in the process of connecting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\nvideo meet, whatsapp link, audio connection\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e0b058f-db1f-426f-b42e-a1fd0f11a976",
+  "ucid": "6e0b058f-db1f-426f-b42e-a1fd0f11a976",
+  "seller_categories": [
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    }
+  ]
+}

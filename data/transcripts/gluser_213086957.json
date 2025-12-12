@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675823830",
+  "gluser_id": "213086957",
+  "vintage_months": 0,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718198",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello, mai IndiaMART se bol raha hu Aditya.\\n\\nCustomer: Ji ji.\\n\\nExecutive: Sir ji mai ye keh raha hu ki aapne abhi video meeting ke liye ek concern open kiya hai.\\n\\nCustomer: Are wo yaar usko ab cousin ko sikha raha hu na to usne usme dal diya tha aisa kuch nahi hai.\\n\\nExecutive: Accha cousin ko sikha rahe the usne chala gaya.\\n\\nCustomer: Ha ha ha usi se wo keh raha tha bhaiya ise message aa raha hai jab tak ruku tab tak usne kar diya tha aisa koi issue nahi hai.\\n\\nExecutive: Ha to mai wahi to dekh raha tha abhi just hamari baat hui itni der me call. Na na na na aisa kuch nahi hai jab aayega to mai samne se call kar lunga aapko personal number hai samne se call kar lunga.\\n\\nExecutive: To ek kaam kar raha hu sir suniye hello.\\n\\nCustomer: Hmm hmm.\\n\\nExecutive: Hello. Mai ye concern close kar raha hu sir koi requirement to nahi hai. Ye concern close kar raha hu. Ha close kar raha hu. Close kar raha hu. To iske related ek mail jo feedback aayega to feedback aap satisfied kar.\\n\\nCustomer: Ha thik hai thik hai thik hai thik hai ok ok ok ok ok.\\n\\nExecutive: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer opened a concern for video meeting.\\n\n\\n\nResolution:\\n\n- Executive closed the concern.\\n\n- Executive asked to provide feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, concern, feedback\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d1db933e-0251-4fcc-a233-f4111e4c714f",
+  "ucid": "d1db933e-0251-4fcc-a233-f4111e4c714f",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "4812",
+      "mcat_name": "Diabetes Powder"
+    },
+    {
+      "mcat_id": "163602",
+      "mcat_name": "Ayurvedic Joint Pain Relief Oil"
+    },
+    {
+      "mcat_id": "158205",
+      "mcat_name": "Ayurvedic Cough Syrup"
+    },
+    {
+      "mcat_id": "183631",
+      "mcat_name": "Herbal Piles Capsules and Tablets"
+    }
+  ]
+}

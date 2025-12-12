@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668030644",
+  "gluser_id": "36052873",
+  "vintage_months": 6,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Sir, good morning.\\nCustomer: Good morning. Kaise hain aap?\\nExecutive: Hello?\\nCustomer: Haan sir, aawaaz...\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is trying to communicate.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, communication\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5bf792f0-3ebf-43b2-ac27-468c54768b4a",
+  "ucid": "5bf792f0-3ebf-43b2-ac27-468c54768b4a",
+  "seller_categories": [
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "223258",
+      "mcat_name": "Tissue Culture Pomegranate Plants"
+    }
+  ]
+}

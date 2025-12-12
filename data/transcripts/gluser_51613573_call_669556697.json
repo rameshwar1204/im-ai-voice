@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669556697",
+  "gluser_id": "51613573",
+  "vintage_months": 9,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644596",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message.\\nHello?\\nHello?\\n[inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call forwarded to voicemail.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voicemail, unavailable\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ac65aba-7170-41a8-bd6e-a2a514dca5ac",
+  "ucid": "4ac65aba-7170-41a8-bd6e-a2a514dca5ac",
+  "seller_categories": [
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "28191",
+      "mcat_name": "Fabrication Works"
+    },
+    {
+      "mcat_id": "38164",
+      "mcat_name": "Stainless Steel Tanks"
+    },
+    {
+      "mcat_id": "146893",
+      "mcat_name": "Pipeline Installation Services"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    }
+  ]
+}

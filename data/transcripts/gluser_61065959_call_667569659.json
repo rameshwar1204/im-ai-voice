@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667569659",
+  "gluser_id": "61065959",
+  "vintage_months": 12,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji namaste Ravindra Kurai se bol rahe hain.\\nCustomer: Kahan se baat kar rahe ho sir?\\nExecutive: Hello Kolkata se baat kar rahe hain permanent Kurai se.\\nExecutive: Ji ji bataiye Ravi sir.\\nCustomer: Hello\\nExecutive: Ji ji sir.\\nCustomer: Mera kya?\\nExecutive: Sir mere client base mein to nahi samjhaunga pehchan paunga kya?\\nCustomer: Achcha\\nExecutive: Kaise ho? Kaise ho?\\nCustomer: Bas theek hai.\\nExecutive: Kya hua sir koi actually mein sir main call kar raha tha dopahar mein do time aapka call nahi lag paya tha busy aa rahe the kafi jagah.\\nCustomer: Haan haan.\\nExecutive: Teen bar try kara sir maine teeno bar aap busy aa rahe the mujhe kuch services se related aapko batana tha.\\nCustomer: Theek hai bataiyega.\\nExecutive: Sir abhi to actually mein office\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was busy when the executive called.\\n\nResolution:\\n\n- Executive tried to reach customer multiple times.\\n\n\\n\nNext Steps: \\n\n- Executive will inform about services.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, call, busy\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c515040e-9dc4-44ac-a65f-a46273bf5ce0",
+  "ucid": "c515040e-9dc4-44ac-a65f-a46273bf5ce0",
+  "seller_categories": [
+    {
+      "mcat_id": "184336",
+      "mcat_name": "Tipper Truck Rental Services"
+    },
+    {
+      "mcat_id": "181819",
+      "mcat_name": "JCB Backhoe Loader"
+    },
+    {
+      "mcat_id": "215426",
+      "mcat_name": "JCB Excavator Rental"
+    },
+    {
+      "mcat_id": "42923",
+      "mcat_name": "River Sand"
+    },
+    {
+      "mcat_id": "169391",
+      "mcat_name": "Hydra Crane Rental Service"
+    }
+  ]
+}

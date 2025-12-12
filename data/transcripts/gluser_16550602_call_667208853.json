@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667208853",
+  "gluser_id": "16550602",
+  "vintage_months": 25,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706167",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nExecutive: Haanji good morning sir India Mart se bol rahi hu.\\nCustomer: Good morning mam kaun hai aapka?\\nExecutive: Haanji Himani baat kar rahi hu sir main India Mart se. Actually sir main ek baar na niche aayi thi shayad main aapko thodi der mein call back karu please?\\nCustomer: Thik hai mam.\\nExecutive: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive will call back in a while.\\n\n\\n\nResolution:\\n\n- Customer agreed to receive a call later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, introduction\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=502ad8f9-f55b-49ba-91cd-d80ff257fbde",
+  "ucid": "502ad8f9-f55b-49ba-91cd-d80ff257fbde",
+  "seller_categories": [
+    {
+      "mcat_id": "166927",
+      "mcat_name": "Trailer King Pins"
+    },
+    {
+      "mcat_id": "64732",
+      "mcat_name": "Trailer Spare Parts"
+    },
+    {
+      "mcat_id": "80169",
+      "mcat_name": "Container Lock"
+    },
+    {
+      "mcat_id": "68944",
+      "mcat_name": "Truck Trailer"
+    },
+    {
+      "mcat_id": "53706",
+      "mcat_name": "Container Twist Lock"
+    }
+  ]
+}

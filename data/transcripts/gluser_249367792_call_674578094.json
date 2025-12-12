@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674578094",
+  "gluser_id": "249367792",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700379",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello good afternoon Ahmed sir, Indro call kar rahi hu IndiaMART se.\\nCustomer: Ji mam.\\nExecutive: Hanji kaise ho sir?\\nCustomer: Mai badhiya.\\nExecutive: Great. Ahmed sir wo thoda catalog ko lekar mujhe aapse baat karni thi usi cheez par wo apna discussion chal raha tha I hope aapke pitaji se aapki baat hui hogi.\\nCustomer: Mam father ji father ne mana kar diya mam wo.\\nExecutive: Mana kar rahe hain?\\nCustomer: Ji.\\nExecutive: Ah matlab maximizer service ke liye abhi fir mana hi kar rahe hain wo proper.\\nCustomer: Ji ji ji.\\nExecutive: Wahi wala concern jo aap bata rahe the ke wahi kuch trust vagera ki issues ya ye sab?\\nCustomer: Nahi nahi mam bas wo mana hi kar rahe hain wo keh rahe hain koi fayda nahi hai abhi.\\nExecutive: Isiliye.\\nCustomer: To iske liye matlab planning agar hogi to fir almost kab tak ho sakti hai kuch idea?\\nCustomer: Kuch nahi pata mam abhi.\\nExecutive: Kuch keh nahi sakte.\\nExecutive: Aise kuch kuch matlab khas koi reason bhi nahi find out ho pa raha hai sir hai na jiski wajah se matlab pata lage ke ye reason hai jo ki mana ho rahi hai.\\nCustomer: Ji.\\nExecutive: Sir sir matlab at least ya to fir sir agar aisa possible ho sake aap ek bar father ji aap se baat kara do hamari taki jo bhi mam mujhe mana kar rahe hain wo aapko bhi mana hi karenge.\\nCustomer: Han?\\nCustomer: Jab wo mujhe hi mana kar rahe hain to wo aapko bhi zahir si baat hai mana hi karenge aap kitna bhi samjha lena unhe wo mana hi karenge.\\nExecutive: Nahi sir at least jo cheeze hum ek bar explain karna chahte hain kaise benefit milenge kaise ek bar mai try karna chah rahi thi baki sir ka jo decision tha agar aapko koi dikkat nahi hai.\\nCustomer: Chaliye aap thodi der me kar lijiyega phone jab mai jaunga mai baat kara dunga aapki.\\nExecutive: Ah kab tak mai contact karu sir iske liye?\\nCustomer: Lagbhag 3:00 baje.\\nExecutive: 3:00 baje tak na? To ek bar aap meri baat kara hi dena sir hai na 3:00 baje tak jaisa bhi rahega end time matlab last end discussion ek bar kar lete hain. Aur ek cheez aur hai Ahmed sir aapka shayad parso call aaya hoga na mere paas to wo mistake se matlab mere paas se call receive nahi ho paya wo miss ho gayi call. Jiski wajah se mere paas ek concern khul gaya hai to filhal mai usko close kar deti hu. To aapke paas ek feedback aayega mail par mere behavior and resolution se related to aap usko yes ya satisfied ka option aa raha hoga wo kar dijiyega.\\nCustomer: Thik hai mam mai kar dunga abhi jab laptop abhi gaya hua hai office me hi hai mai waha jaake kar deta hu.\\nExecutive: Laptop se mobile se jaise bhi aapko thik lage aap kar dena.\\nCustomer: Mam laptop se hi hoga meri mail laptop me hi khuli hui hai.\\nExecutive: Achha achha.\\nExecutive: Thik hai thik hai koi nahi mai concern close kar deti hu hai na.\\nCustomer: Okay okay.\\nExecutive: Aur 3:00 baje fir contact kar lete hain ek bar please baat.\\nCustomer: Thik hai okay.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's father refused maximizer service.\\n\n- Wants to know the reason for refusal.\\n\n- Executive wants to explain benefits of service.\\n\n- Customer missed a call, concern opened.\\n\n\\n\nResolution:\\n\n- Executive will close the concern.\\n\n- Customer agreed to provide feedback on mail.\\n\n- Executive will call at 3:00 PM to discuss.\\n\n\\n\nNext Steps: \\n\n- Executive will call at 3:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, catalog, feedback, follow up\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 160,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=781768b0-929c-4808-91e7-5c01d66a05d9",
+  "ucid": "781768b0-929c-4808-91e7-5c01d66a05d9",
+  "seller_categories": [
+    {
+      "mcat_id": "161369",
+      "mcat_name": "Men Cotton Vest"
+    },
+    {
+      "mcat_id": "142328",
+      "mcat_name": "Men Thermal Wear"
+    },
+    {
+      "mcat_id": "141613",
+      "mcat_name": "Kids Thermal"
+    },
+    {
+      "mcat_id": "39766",
+      "mcat_name": "Thermal Wear"
+    },
+    {
+      "mcat_id": "1947",
+      "mcat_name": "Hosiery Knitwear"
+    }
+  ]
+}

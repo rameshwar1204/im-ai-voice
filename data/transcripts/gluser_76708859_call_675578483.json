@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675578483",
+  "gluser_id": "76708859",
+  "vintage_months": 77,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715538",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji Yogesh sir namaskar Abhishek baat kar raha hu sir aapke account manager.\\nCustomer: Haan Abhishek ji.\\nExecutive: Main wo ye kiya tha abhi kya hua ek thodi der pehle ek Delhi ka lead aaya tha auto uska wo just now tha maine click kiya wo click hone ke baad me sorry this lead has gone turant 30 second ke andar main to phone nahi dekh raha tha.\\nCustomer: 30 30 second me uska sare iska screenshot liya maine wo do teen do teen minute tak ke visible tha sabhi sirf mere ko nahi mil raha tha.\\nExecutive: Achcha.\\nCustomer: Matlab ek lead aaya Delhi ka aur 30 second me wo expire ho gaya right?\\nExecutive: Haan expire ho gaya lekin wo display kar raha hai matlab wo display ho raha tha fir bhi expire hone ke baad me bhi lekin wo bol raha hai ki main aapko nahi matlab ki aapko nahi milega ye.\\nExecutive: Kyun?\\nCustomer: Wahi to main bol raha hu usi ka to hame pata karna hai na ki kyun nahi.\\nExecutive: Aapko kyun nahi milega matlab?\\nCustomer: Are main wahi bol raha hu maine sabke screenshot leke rakhe hue hai.\\nCustomer: Ek whatsapp pe bej dijiye.\\nExecutive: Aap mujhe hi kar dijiye hi kar dijiye whatsapp pe mera number save nahi hai kya aapke pass?\\nCustomer: Nahi shayad.\\nExecutive: Achcha achcha ek bar sir number save kar lo isi bahane se.\\nExecutive: Thik hai aap hi kar do ek bar.\\nCustomer: Main number bol deta hu ek bar hai na.\\nExecutive: Aap number bol doge wo dhyan me nahi rahega na mere aap hi kar do na sirf.\\nCustomer: Ab main hi kar raha hu chalo aapke number pe.\\nExecutive: Haan.\\nExecutive: Thik hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Lead from Delhi expired in 30 seconds.\\n\n- Lead was visible but not accessible.\\n\n\\n\nResolution:\\n\n- Executive asked customer to send screenshot on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, expire, whatsapp, display\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7078543c-ee5e-4bca-8872-9936fdcc4f34",
+  "ucid": "7078543c-ee5e-4bca-8872-9936fdcc4f34",
+  "seller_categories": [
+    {
+      "mcat_id": "168765",
+      "mcat_name": "Auto Rickshaw Advertising Services"
+    },
+    {
+      "mcat_id": "184321",
+      "mcat_name": "Digital Wall Paintings"
+    },
+    {
+      "mcat_id": "187889",
+      "mcat_name": "Wall Painting Advertising"
+    },
+    {
+      "mcat_id": "34110",
+      "mcat_name": "Outdoor Advertising"
+    },
+    {
+      "mcat_id": "165134",
+      "mcat_name": "Foam Banner"
+    }
+  ]
+}

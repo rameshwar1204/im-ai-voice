@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668932376",
+  "gluser_id": "238457440",
+  "vintage_months": 3,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Areekode",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Yeah, am I speaking to Energetics?\\nCustomer: Haan.\\nExecutive: From Soumya, right?\\nCustomer: Soumya.\\nExecutive: Haan.\\nExecutive: Yeah, hi ma'am, this side Vivek Mishra working as a business manager calling you from IndiaMART.\\nCustomer: Hmm.\\nExecutive: So, I can see ma'am, you have raised a concern regarding that I have called you.\\nCustomer: Okay.\\nExecutive: Yeah. So tell me ma'am, what is the issue?\\nCustomer: Issue?\\nExecutive: Yes. Language issue.\\nCustomer: Language issue? Ade.\\nExecutive: Okay. So, if we provide you a account manager who speaks Malayalam.\\nCustomer: Yeah, no, no, any vendam.\\nExecutive: What ma'am?\\nCustomer: No, no.\\nExecutive: Then what do you want ma'am?\\nCustomer: Malayalam parayu.\\nExecutive: What ma'am?\\nCustomer: Are you Malayalam?\\nExecutive: Yes, I understand only Malayalam. Malayalam.\\nExecutive: Can you give the call to somebody who can speak Hindi or English?\\nCustomer: No, no, Malayalam, only Malayalam.\\nExecutive: Then ma'am, how I will understand your language, ma'am?\\nCustomer: Malayalam.\\nExecutive: Is there anybody nearby you, other person, some other person, Hindi, English?\\nCustomer: No, no, Malayalam, only Malayalam.\\nExecutive: Aap jis vyakti se baat kar rahe hain.\\nCustomer: Oru vediya parayan aavatte.\\nExecutive: Ma'am, if there is anybody, anybody who can speak Hindi or English so that\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to communicate only in Malayalam.\\n\n- Executive unable to understand Malayalam.\\n\n\\n\nResolution:\\n\n- Executive offered a Malayalam-speaking account manager.\\n\n- Customer declined the offer.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- language, support, communication\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d25efb53-9ae4-4a66-963d-e6a7cc78915a",
+  "ucid": "d25efb53-9ae4-4a66-963d-e6a7cc78915a",
+  "seller_categories": [
+    {
+      "mcat_id": "11601",
+      "mcat_name": "Lip Balm"
+    },
+    {
+      "mcat_id": "7339",
+      "mcat_name": "Neem Soap"
+    },
+    {
+      "mcat_id": "9182",
+      "mcat_name": "Herbal Face Wash"
+    },
+    {
+      "mcat_id": "216653",
+      "mcat_name": "Multi Purpose Cleaner"
+    },
+    {
+      "mcat_id": "9215",
+      "mcat_name": "Herbal Soaps"
+    }
+  ]
+}

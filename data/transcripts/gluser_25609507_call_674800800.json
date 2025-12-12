@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674800800",
+  "gluser_id": "25609507",
+  "vintage_months": 11,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Badlapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708167",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan India Mart\\nCustomer: Hello\\nExecutive: Haan ji India Mart hai\\nCustomer: Ji ji India Mart se baat kar rahe hain ji ji sir bataiye\\nCustomer: Madam mujhe na main char panch din se na search kar raha hu India Mart se Sadaf M330 carbon ke liye lekin koi bhi hai na prompt supplier nahi mil raha hai sab hai na sab fake mil raha hai jo bhi mil raha hai na main unko bata raha hu\\nExecutive: Company bataenge ek bar\\nCustomer: nahi mil raha hai\\nExecutive: Ji ji company bataenge ek bar company kaun si hai aapki\\nCustomer: Ganpati Exim\\nExecutive: Ganpati Exim\\nCustomer: Ji Sadaf M330 ki requirement hai to koi hai aapke isme pechan wala jo Iran se mangane wala hai\\nExecutive: Sir ek bar mujhe company ka naam Ganpati hai na aapki company Ganpati Ganpati Exim\\nCustomer: Haan Ganpati yes\\nExecutive: Ji ji to Anil ji baat kar rahe hain kya\\nCustomer: Haan main Anil ji baat kar raha hu\\nExecutive: Ji sir kafi bar connect kiya maine aaj aapko bhi kal bhi kiya tha video meeting wohi cheez discuss karne ke liye kar rahi thi sir dekho phone se main discuss karungi aapke liye bhi useful nahi rahega aur mere liye bhi\\nExecutive: Kal main video meeting rakhungi sir mujhe bataiye abhi mera off hai 6 baje company band ho jati hai matlab main aa gayi thi to kal connect karte abhi main raste mein ghar ja rahi hu\\nCustomer: Chalo theek hai theek hai\\nExecutive: To kal kitne",
+  "summary": "\\n\nConcerns:\\n\n- Customer is searching for Sadaf M330 carbon.\\n\n- Customer is not getting prompt suppliers.\\n\n- Customer says suppliers are fake.\\n\\n\nResolution:\\n\n- Executive offered a video meeting to discuss.\\n\n- Executive said she is on her way home.\\n\\n\nNext Steps: \\n\n- Video meeting to be scheduled for the next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, supplier, video meeting\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b7784be-8be3-4a20-972e-642de4bd7630",
+  "ucid": "6b7784be-8be3-4a20-972e-642de4bd7630",
+  "seller_categories": [
+    {
+      "mcat_id": "36613",
+      "mcat_name": "Rubber Processing Oil"
+    },
+    {
+      "mcat_id": "9354",
+      "mcat_name": "Silicone Emulsion"
+    },
+    {
+      "mcat_id": "179652",
+      "mcat_name": "EPDM Reclaim Rubber"
+    },
+    {
+      "mcat_id": "148417",
+      "mcat_name": "Tyre Black Carbon Powder"
+    },
+    {
+      "mcat_id": "27549",
+      "mcat_name": "Fire Clay"
+    }
+  ]
+}

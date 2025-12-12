@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673755479",
+  "gluser_id": "24442902",
+  "vintage_months": 109,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9659508",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji sir kaise hain?\\nCustomer: Badhiya sir.\\nExecutive: Parvesh bol raha hu IndiaMART ke office se. Aapse meri baat hui thi last time. Aap kuch mujhe bata rahe the services ko lekar last time. Aur deal ke baare mein baat hui thi aapki. Mere last time aur bhi kuch kaha tha aap wo to bol nahi rahe hain. Maine kya kaha tha?\\nExecutive: Ji?\\nCustomer: Last time maine kya kaha tha?\\nExecutive: Sir aapne lead ko lekar bataya tha mujhe to maine aapse baat kiya tha na. Hai na? Maine kya kaha tha? Wo aadmi maine pichli baar mere se deal kiya tha us aadmi se meri baat karo. Priyanshu se baat kar. Bilkul bola tha aap Priyanshu Pal. Priyanshu ji Priyanshu se aapne bola tha baat karane ke liye. Hai na?\\nCustomer: Hmm. Hmm.\\nExecutive: Haan to isliye main unhi se aapko baat karane ke liye call kiya abhi. Ke ek baar aap baat kar lijiye aur unko bhi taake thoda availability hai.\\nCustomer: Abhi to is time nahi ho paunga phone karne phone karne ka ye to aap 3:00 baje baat kijiye mere se.\\nExecutive: Ji? Kab baat hogi aapki? 3:00 baje 3:00 baje baad me baat karna fir.\\nExecutive: Main kara doonga. Theek hai. Theek hai. Hmm. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to the executive Priyanshu Pal.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 3:00 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 3:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, executive, time, deal\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e705b44b-50b8-4288-85f9-311811aabf60",
+  "ucid": "e705b44b-50b8-4288-85f9-311811aabf60",
+  "seller_categories": [
+    {
+      "mcat_id": "4378",
+      "mcat_name": "Bentonite Powder"
+    },
+    {
+      "mcat_id": "186820",
+      "mcat_name": "Bentonite Clay"
+    },
+    {
+      "mcat_id": "4376",
+      "mcat_name": "Bentonite"
+    },
+    {
+      "mcat_id": "9585",
+      "mcat_name": "Sodium Bentonite"
+    },
+    {
+      "mcat_id": "160980",
+      "mcat_name": "Bentonite Lump"
+    }
+  ]
+}

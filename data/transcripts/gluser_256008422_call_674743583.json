@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674743583",
+  "gluser_id": "256008422",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Warangal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659537",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello madam.\\nCustomer: Hello sir, am I audible?\\nExecutive: Yes you are audible madam.\\nCustomer: Yes yes sir yes.\\nExecutive: Sir actually see the calls are coming just for enquiries but they are not visiting my shop and they are not purchasing they are not giving advance.\\nCustomer: So what is the main issue coming sir? Is it about location or the advance? What is the main issue sir?\\nExecutive: Issue about advance advance they are just calling for time pass but they are not coming and they are not purchasing the products.\\nSo actually we want the total refund amount. Later we will see in future but right now I'm not satisfied since 15 days.\\nCustomer: I understand. So humble request to kindly refund.\\nCustomer: I understand your feeling sir and we as an IndiaMART want you to continue with us sir. Nobody wants their customer to leave their platform. So in case if we are you know\\nEven to provide the refund.\\nSorry if in case we are able to provide the service then you will also be looking for the service only sir.\\nExecutive: No but actually you want the refund later we will see actually. So I'm not satisfied the customers are not coming. Later we will see that one but right now you want the advance only.\\nCustomer: But you are going through the catalog. request please because humble request.\\nCustomer: I cannot I don't want to continue with you in future okay.\\nExecutive: Sir I am not denying you for refund. We will be refunding your unused amount if we conclude to that part. But firstly I'm just discussing on the product line and the opportunities that are available to us because the product line is not niche it's not rare. We have multiple buyers for this. You're dealing into nuts and we have\\nCustomer: I'm getting the same calls repeatedly but no I'm asking no one is coming and visiting and no one is interested they are not they are not asking about sample and they are also making the advance. So kindly make the refund.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Calls are only for inquiries, no purchases.\\n\n- Wants a refund of the total amount.\\n\n\\n\nResolution:\\n\n- Executive discussed product line and opportunities.\\n\n- Executive said refund will be processed for unused amount.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, subscription\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 165,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c7c3066-b508-4672-9272-82e07bc5a5df",
+  "ucid": "8c7c3066-b508-4672-9272-82e07bc5a5df",
+  "seller_categories": [
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "190906",
+      "mcat_name": "W180 Cashew Nuts"
+    },
+    {
+      "mcat_id": "183067",
+      "mcat_name": "Brown Basmati Rice"
+    },
+    {
+      "mcat_id": "26940",
+      "mcat_name": "Dry Figs"
+    }
+  ]
+}

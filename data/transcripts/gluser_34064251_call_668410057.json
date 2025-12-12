@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668410057",
+  "gluser_id": "34064251",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Ratnagiri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646495",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello, good morning.\\n\\nCustomer: Hello.\\nGood morning sir.\\nExecutive: Good morning.\\nCustomer: A.C. Print se, Digvijay mere baat kar raha hu.\\nExecutive: Kaha se sir?\\nCustomer: A.C. Print Ratnagiri, Maharashtra.\\n\\nExecutive: Maharashtra, company ka naam bataiye sir?\\nCustomer: A.C. Print.\\n\\nExecutive: Meenakshi.\\n\\nCustomer: A for apple, P for A for apple.\\n\\nExecutive: Hello.\\nHanji.\\nCustomer: P for pineapple.\\nP R I N T.\\n\\nExecutive: Okay, registered mobile number batayenge aap sir?\\n\\nCustomer: 8484044880.\\nExecutive: 8481.\\nCustomer: 8484.\\nHan.\\nCustomer: 044.\\nExecutive: Han.\\nCustomer: 880.\\nExecutive: 880.\\nOkay.\\nCustomer: Han.\\nExecutive: Good morning sir, bataiye.\\nCustomer: A.C. Print.\\nExecutive: Han.\\nCustomer: Mera last kal aawa din hai aaj ka.\\nDo din pehle profile jhagda karke live kiya hai.\\nLive karne ke baad turant mujhe mail aaya ki live hua hai.\\nHanji hanji.\\nCustomer: Aapne jo mere account manager ka number diya hai.\\nExecutive: Hanji nahi hota, mera naam Nikki Sharma hai.\\nCustomer: Wo lag nahi raha hai. Mere paas jo aapke account manager ka number hai.\\nExecutive: Han.\\nCustomer: Wo utha nahi rahe hai. Unhone jo kalitment buylead ka diya hai, wo live hue profile pe dikh nahi raha hai. Wo kab tak release ho jayega?\\nExecutive: Accha.\\nSir, good morning. Main Nikki Sharma hu, aapki hi account manager hu sir.\\nCustomer: To fir Neetu Dubey ka naam kyu diya hai mujhe account manager karke?\\nExecutive: Nahi, Neetu Dubey ji se ki aapka account map hua hai na, to abhi tak ka process wo dekh rahi thi. To abhi jo aapki account handle karne wale hai wo main hu. To abhi isse pehle aapne 9696 pe call lagaya tha sir? Neetu Dubey ka naam kyu bheja account manager ka?\\nCustomer: Nahi nahi nahi sir, to abhi waha se na actually update nahi hua hoga but abhi tak ka jo aapka account hai na.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Profile was made live two days ago.\\n\n- Buyleads commitment not visible on live profile.\\n\n- Account manager number not connecting.\\n\n- Wants to know why Neetu Dubey's name was given.\\n\n\\n\nResolution:\\n\n- Executive confirmed she is the account manager.\\n\n- Explained Neetu Dubey was handling process till now.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, profile, live\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 158,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4400916a-5556-4112-8083-e9890af605ec",
+  "ucid": "4400916a-5556-4112-8083-e9890af605ec",
+  "seller_categories": [
+    {
+      "mcat_id": "181669",
+      "mcat_name": "Hotel Soap"
+    },
+    {
+      "mcat_id": "143667",
+      "mcat_name": "Hotel Guest Toiletries"
+    },
+    {
+      "mcat_id": "189954",
+      "mcat_name": "Hotel Dental Kit"
+    },
+    {
+      "mcat_id": "189931",
+      "mcat_name": "Hotel Amenity Kit"
+    },
+    {
+      "mcat_id": "105335",
+      "mcat_name": "Guest Amenities"
+    }
+  ]
+}

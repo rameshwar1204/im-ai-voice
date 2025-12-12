@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671163806",
+  "gluser_id": "707871",
+  "vintage_months": 12,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Valsad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673245",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Kon?\\nExecutive: Sir Rahul baat kar raha hu main India Mart se aapka account manager.\\nCustomer: Hmm.\\nExecutive: Sir ye jo aapne whatsapp pe aur not satisfied mark kara tha sir wo aapke aur mere conversation hua tha beech mein wo uske regarding feedback hai aapka sir.\\nCustomer: Hmm.\\nExecutive: Jo whatsapp pe aapne not satisfied mark kara na sir abhi 11:30 baje.\\nCustomer: Hmm.\\nExecutive: Sir wo aapke aur meri conversation ke beech ke feedback ka tha sir.\\nCustomer: Hmm hmm. Jo aapke aur meri\\nExecutive: Sir uske regarding ticket open ho gayi hai sir ye jo baki main sir aapki leads aur in sab ko to check kar hi raha hu sir.\\nCustomer: Aapne to abhi tak bheja bhi nahi.\\nExecutive: Kya cheez sir?\\nCustomer: Wo meter ka wo\\nExecutive: Sir wo main lead check kar raha hu uski lead abhi show nahi ho rahi sir iske regarding maine aapko share nahi kari. Teen ghanta ho gaya teen ghante mein aapko abhi bhi dhoondh nahi pa rahe.\\nExecutive: Main wahi keh raha tha uske regarding lead show nahi ho rahi isliye maine aapko bhej nahi paya. Maine aapko share ki thi char se panch lead show hui thi aapke product line mein to.\\nCustomer: Wo to aapki wo maine aapko whatsapp pe to diya ki bhai wo galat thi.\\nExecutive: Aapki aawaz kat rahi hai. Wo kuch hai hi nahi to.\\nCustomer: Haan.\\nCustomer: Wo kuch kaam ka hi nahi tha.\\nExecutive: Ji sir bataiye.\\nCustomer: Main kuch abhi kya batau wo lead hi aapki kaam ki nahi thi. Ek hi ek hi wo char bar message bheje the aapko.\\nExecutive: Wo to sir theek hai jo aapne not satisfied mark kara na sir wo aapke mere conversation ke regarding tha aapki like jo main aapko service provide kar raha hu. Haan abhi ho gaya aapko kya cheez sir? Abhi kya hai?\\nCustomer: Main to India Mart se naraz hu isko maine to reply kar diya.\\nExecutive: Aapki aawaz kat rahi hai sir.\\nCustomer: Hmm?\\nExecutive: Aapki aawaz kat rahi hai sir.\\nCustomer: Main to India Mart se naraz hu to maine kar diya not satisfied.\\nExecutive: Achcha. Wo galti se ho gayi fir sir aapko aapke wo India Mart ke regarding hai.\\nCustomer: Hmm.\\nExecutive: Okay sir. Main isko main close kar sakta hu sir ye ticket ko fir?\\nCustomer: Kya?\\nExecutive: Ye ticket ko main close kar sakta hu sir ye aapke mere regarding jo baat hui thi na uske regarding tha ye jo ticket open hui hai iske regarding main ise close kar sakta hu sir?\\nCustomer: Close kya karna hai?\\nExecutive: Close matlab ye ticket open hui hai jo matlab jo aapki aur meri baat hui thi na like usme client satisfied nahi hote uske regarding thi ye. To wo agar galti se ho gayi hai to main ticket close kar sakta hu fir sir?\\nCustomer: Jo karna hai wo karo wo kaam ka nahi hai sir baki sab. meter ka wo lead to bheja nahi teen ghanta ho gaya.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is upset with IndiaMART services.\\n\n- Customer hasn't received leads for meter.\\n\n- Customer says the leads shared were not useful.\\n\n\\n\nResolution:\\n\n- Executive explained the 'not satisfied' feedback.\\n\n- Executive offered to close the ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will close the ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, not satisfied, ticket closure\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 207,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9094fdf7-e0f2-42c3-b93a-35329a92252a",
+  "ucid": "9094fdf7-e0f2-42c3-b93a-35329a92252a",
+  "seller_categories": [
+    {
+      "mcat_id": "208566",
+      "mcat_name": "Remi Centrifuge Machine"
+    },
+    {
+      "mcat_id": "183216",
+      "mcat_name": "Bottle Top Dispenser"
+    },
+    {
+      "mcat_id": "208567",
+      "mcat_name": "Remi Laboratory Stirrer"
+    },
+    {
+      "mcat_id": "167124",
+      "mcat_name": "Kjeldahl Distillation Assembly"
+    },
+    {
+      "mcat_id": "216790",
+      "mcat_name": "Laboratory Vacuum Pump"
+    }
+  ]
+}

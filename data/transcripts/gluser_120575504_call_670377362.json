@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "670377362",
+  "gluser_id": "120575504",
+  "vintage_months": 18,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655009",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a6d6443-9401-4b0f-b3b9-33bc91595ad7",
+  "ucid": "7a6d6443-9401-4b0f-b3b9-33bc91595ad7",
+  "seller_categories": [
+    {
+      "mcat_id": "4395",
+      "mcat_name": "Cycle Frame"
+    },
+    {
+      "mcat_id": "4401",
+      "mcat_name": "Bicycles Parts"
+    }
+  ]
+}

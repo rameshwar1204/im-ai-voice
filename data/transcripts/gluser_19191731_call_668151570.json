@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668151570",
+  "gluser_id": "19191731",
+  "vintage_months": 20,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643560",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haanji sir, ye.\\nExecutive: Madam Amit baat kar raha hu, Sri Radhe sales se.\\nCustomer: Haanji.\\nExecutive: Sri Radhe sales Amit baat kar raha hu.\\nCustomer: Haanji.\\nExecutive: Hello?\\nCustomer: Haanji, sir, hello.\\nExecutive: Madam aapka aawaz bahut piche se aa raha hai, bahut daba daba aawaz aa raha hai.\\nCustomer: Sir, toh aapko ye keh rahi hu, mai aapko half an hour mein call karu, kyuki abhi lunch timing hai aur mai bahar aayi hu just.\\nExecutive: Chalega chalega chalega chalega chalega.\\nCustomer: Chalega. Okay sir, okay, thank you, thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to call back in half an hour.\\n\n- Executive mentioned customer's voice was muffled.\\n\n\\n\nResolution:\\n\n- Executive agreed to receive a call later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, voice quality, lunch time\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ec2ef35f-5a40-46e1-add6-7e85d1011464",
+  "ucid": "ec2ef35f-5a40-46e1-add6-7e85d1011464",
+  "seller_categories": [
+    {
+      "mcat_id": "214323",
+      "mcat_name": "MANN Oil Filters"
+    },
+    {
+      "mcat_id": "8277",
+      "mcat_name": "RPM Meter"
+    },
+    {
+      "mcat_id": "204535",
+      "mcat_name": "Shell Compressor Oil"
+    },
+    {
+      "mcat_id": "184758",
+      "mcat_name": "Screw Compressor Spare"
+    },
+    {
+      "mcat_id": "3196",
+      "mcat_name": "Air Compressor Spares"
+    }
+  ]
+}

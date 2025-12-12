@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669346153",
+  "gluser_id": "181470779",
+  "vintage_months": 1,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Wai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710751",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello Avinash ji namaskar.\\nCustomer: Namaskar.\\nExecutive: Ha ji mai baat kar raha hu IndiaMART se sir us din hamari baat chit hui thi to waha pe ek concern tha ki aapko bulk wali lead show nahi ho rahi thi right. Fir humne bulk ki lead aapko aapke product ki show nahi ho rahi thi IndiaMART pe.\\nCustomer: Ha ha ha ha.\\nExecutive: Thik hai to humne past lead me aapko kuch chije waha pe matlab show karke dikha rahe the lekin aapka ye account open karne pe mujhe dusri lead show ho rahi thi aur aap apna jab account open kiye the past lead me gaye the to waha pe dusra show ho raha tha thik hai.\\nCustomer: Ha.\\nExecutive: Jis chij ke liye maine sir ek sales tester pe mail bhi kiya tha to waha pe kya hai ki sir wo kuch chije bata rahe hai but hame proof ke liye unko ek screenshot dena hai thik hai ki ek bahut disturbance ho raha hai kuch network ka aapka aawaz nahi aa raha hai.\\nCustomer: Ek minute ruk jaiye mai network me aa ja raha hu ek minute.\\nExecutive: Ha.\\nCustomer: Ek minute call pe hi rahiye sir.\\nExecutive: Ha ha ha.\\nExecutive: Ha sir Avinash ji aawaz aa rahi hai.\\nCustomer: Abhi bhi waise hi hai.\\nExecutive: Aawaz aa rahi hai lekin to ha to ye aa raha hai disturbance aa raha hai usme aawaz.\\nCustomer: Ha kuch to ho raha hai actually sir na aapko meeting me join hona hai aur wahi screen share kar dena hai mujhe screenshot lena hai taki mai mail me usko attach kar pau kyuki maine aapka case bheja hai na tester ke liye.\\nExecutive: Na na na na ek 10 minute me call karta hu mai aapko.\\nExecutive: Thik hai thik hai thik hai sir 10 minute baad.\\nCustomer: Ha thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving bulk leads.\\n\nResolution:\\n\n- Executive asked customer to join meeting.\\n\n- Customer needs to share screen for screenshot.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, screenshot, meeting, network\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c10038a2-e424-48bd-a690-be44ba14c91a",
+  "ucid": "c10038a2-e424-48bd-a690-be44ba14c91a",
+  "seller_categories": [
+    {
+      "mcat_id": "113922",
+      "mcat_name": "Spirulina Powder"
+    },
+    {
+      "mcat_id": "650502",
+      "mcat_name": "Organic Spirulina Powder"
+    },
+    {
+      "mcat_id": "7727",
+      "mcat_name": "Spirulina Tablet"
+    },
+    {
+      "mcat_id": "7725",
+      "mcat_name": "Spirulina Capsule"
+    },
+    {
+      "mcat_id": "9206",
+      "mcat_name": "Herbal Powder"
+    }
+  ]
+}

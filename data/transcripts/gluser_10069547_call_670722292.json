@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670722292",
+  "gluser_id": "10069547",
+  "vintage_months": 123,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656226",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Ji sir, good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Ji, kya issue aa raha hai sir?\\nCustomer: Nahi mam, abhi\\nExecutive: Abhi to service live hui hai, kal hi sham mein live hui hai sir, thoda sa time to do. Aur aap jo mujhe data dikha rahe ho na, wo to kal ka data hai na sir.\\nCustomer: Hmm.\\nExecutive: Kal aapke paas sirf ek inquiry aayi thi, aaj abhi tak 12 baje hai aur teen inquiry already aa chuki hai.\\nCustomer: Hmm. Chaliye wo jo 20 naam hai usko cut karenge hum.\\nExecutive: Kya sir? Wo jo 20 na, wo jo 20 naam hai na.\\nCustomer: Samjhi nahi.\\nCustomer: Sorry, jo\\nExecutive: Haan, theek hai, kis time pe, kis time pe, kis time pe karenge sir?\\nCustomer: 3 baje ya raat mein.\\nExecutive: Nahi, 3 se 4 to nahi possible ho payega, meri ek training hai.\\nCustomer: 4 se 5?\\nExecutive: 4 se 5. Abhi possible nahi hai kya sir, abhi kar sakte hai?\\nCustomer: Nahi mam, abhi possible nahi hai.\\nExecutive: Achha, okay, theek hai, 4 se 5 kar lete hai. Main 4 baje call karti hu aapko, theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to cut 20 names.\\n\n- Wants to schedule a call at 3 PM.\\n\n\\n\nResolution:\\n\n- Executive informed that 3 PM is not possible.\\n\n- Call scheduled between 4 to 5 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, timing, call schedule\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a9873bc0-f469-4311-830a-6d1b3f1257df",
+  "ucid": "a9873bc0-f469-4311-830a-6d1b3f1257df",
+  "seller_categories": [
+    {
+      "mcat_id": "28702",
+      "mcat_name": "Food Dehydrators"
+    },
+    {
+      "mcat_id": "28697",
+      "mcat_name": "Foil Sealing Machine"
+    },
+    {
+      "mcat_id": "140826",
+      "mcat_name": "Vegetable Dehydration Machine"
+    },
+    {
+      "mcat_id": "142048",
+      "mcat_name": "Tray Sealer Machine"
+    },
+    {
+      "mcat_id": "122552",
+      "mcat_name": "Roasting Machine"
+    }
+  ]
+}

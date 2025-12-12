@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "667471044",
+  "gluser_id": "16692281",
+  "vintage_months": 9,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631040",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHaa hello.\\nSiddhi mam se shuruwat kariye IndiaMART se mam kaha dijiye meeting pending tha isliye se main aapko baar baar call kar rahi thi.\\nHello meri aawaz aa rahi hai?\\nHa ji ha ji mam meeting pending tha sir ko maine message bhi drop kara to unhone bola tha ki aap 4:30 ke aas pass free ho jaoge right?\\nHello.\\nSir aage nahi.\\nKya mam aapki aawaz clear nahi aa rahi hai sir ji ji bataiye.\\n[inaudible]\\nHaa ek minute ruko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Meeting was pending.\\n\n- Customer's voice was not clear.\\n\n\\n\nResolution:\\n\n- Executive tried to connect with the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, follow up, call\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=698923c5-83cb-4bd8-afb2-e1fc54d2e9ba",
+  "ucid": "698923c5-83cb-4bd8-afb2-e1fc54d2e9ba",
+  "seller_categories": [
+    {
+      "mcat_id": "162721",
+      "mcat_name": "Prostate Care Capsules"
+    },
+    {
+      "mcat_id": "226816",
+      "mcat_name": "Ayurvedic Thyroid Capsules Tablets"
+    },
+    {
+      "mcat_id": "245803",
+      "mcat_name": "Ayurvedic Fever Tablet"
+    },
+    {
+      "mcat_id": "172045",
+      "mcat_name": "Varicose Veins Treatment"
+    }
+  ]
+}

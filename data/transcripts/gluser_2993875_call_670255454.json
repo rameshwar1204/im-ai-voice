@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670255454",
+  "gluser_id": "2993875",
+  "vintage_months": 46,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruvalla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682688",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Yes?\\nCustomer: Hello? Yeah very good. Hello.\\nExecutive: Hello, tell me. Yeah very good afternoon sir. Main Gopal Krishna India Mart head office se sir.\\nCustomer: Okay, se baat kar raha hu sir. I find marketing. Kal meri baat hui thi sir aapse.\\nExecutive: To aaj morning bhi I expect that you connected my team sir.\\nCustomer: To hello, sun pa rahe hain?\\nExecutive: Aap sir mujhe baat karne ka jarurat nahi hai bhai.\\nCustomer: Main kal aapko main kya bola tha subah ek phone karne ke liye bola tha, hai na?\\nExecutive: Ji sir.\\nCustomer: Aapne kiya hai kya? Nahi hai na?\\nExecutive: Sorry sir.\\nCustomer: Aapko main subah phone karne ke liye bola tha 10 baje. Hai na? Yes yes sir. Yes sir.\\nExecutive: kya kya time hai?\\nCustomer: Sir actually main morning meeting pe hamari early morning hamari meeting hoti hai sir team. Sir aapka time.\\nExecutive: Sir aapne aap mujhe time isliye kyun bataya? Mujhe abhi kaam pe aa gaya. Maafi bolne ka to jarurat nahi. Har ek time aap aap log aise hi karte hain. Aapka man mein aata hai tabhi phone karte hain. Baki log ko samajhta nahi. Abhi main kaam pe aa gaya abhi.\\nCustomer: Sir abhi main kaam pe hu. Theek hai isliye baat mat karo.\\nExecutive: Main main ek cheez batata hu aapko jab aap mere ko bolenge tabhi main call karunga sir. But actually sir dekho mere level pe main minimum yaha pe 2 2500 customer ko handle kar raha hu. To sabke liye alag alag account manager hote hain sir. To overall jo meri team hai main sabko handle kar raha hu right. To maine aapko explanation isliye connect kiya tha.\\nCustomer: Sir aap sir aap logo ko bhi alag alag kaam hai sir. Khali aapka aap kaam sambhal rahe to mat mat bolo. Hum logo ko bhi kaam hai. Appointment diye hai customer ko.\\nExecutive: Theek hai. Sir I agreed sir. Main aapki baat bilkul aapki baat ko sehmat kar raha hu sir. Main mana nahi karunga. Jab aap mere ko particular batao main uski time pe connect karta hu.\\nCustomer: Kal phone kar lo. Kal subah 10 baje.\\nExecutive: Sir kya aaj nahi baat ho payegi kya sir?\\nCustomer: Nahi hai theek hai.\\nExecutive: Sir main matra sir aapka jo relevant time de main aapko hardly do se paanch minute time lena chahunga kyunki thoda sa iska aapka. Sir aap kya hai aawaz sun rahe hain na aap aawaz sun rahe hain na kaam pe hu.\\nCustomer: Hello?\\nExecutive: Sun pa rahe ho sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer upset about call timing.\\n\n- Customer stated he is at work.\\n\n\\n\nResolution:\\n\n- Executive apologized for the inconvenience.\\n\n- Agreed to call back at customer's preferred time.\\n\n\\n\nNext Steps: \\n\n- Executive will call back next day at 10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- call timing, appointment, inconvenience\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 154,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7cd5c930-4798-484c-a776-61fd802ee330",
+  "ucid": "7cd5c930-4798-484c-a776-61fd802ee330",
+  "seller_categories": [
+    {
+      "mcat_id": "445494",
+      "mcat_name": "DTF Printer"
+    },
+    {
+      "mcat_id": "132951",
+      "mcat_name": "T-Shirt Printing Machine"
+    },
+    {
+      "mcat_id": "85329",
+      "mcat_name": "UV Flatbed Printer"
+    },
+    {
+      "mcat_id": "118788",
+      "mcat_name": "ECO Solvent Machine"
+    },
+    {
+      "mcat_id": "86362",
+      "mcat_name": "Flex Printing Machine"
+    }
+  ]
+}

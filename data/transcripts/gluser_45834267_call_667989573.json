@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667989573",
+  "gluser_id": "45834267",
+  "vintage_months": 24,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637042",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan ji, Gaurav ji baat kar rahe hain?\\nCustomer: Haan kar raha hun sir.\\nExecutive: Gaurav ji namaskar, Adarsh baat kar raha hun.\\nCustomer: Main sir thodi der mein call karun, main drive kar raha hun.\\nExecutive: Okay, kitni der mein free ho jayenge?\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is driving and requests a callback.\\n\n\\n\nResolution:\\n\n- Executive asked when the customer will be free.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, driving\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2c7b5dc5-b178-4ed0-948f-ade47226dbb3",
+  "ucid": "2c7b5dc5-b178-4ed0-948f-ade47226dbb3",
+  "seller_categories": [
+    {
+      "mcat_id": "28763",
+      "mcat_name": "Glass Wool"
+    },
+    {
+      "mcat_id": "43756",
+      "mcat_name": "Insulated Rock Wool"
+    },
+    {
+      "mcat_id": "149102",
+      "mcat_name": "Roof Heat Insulation Materials"
+    },
+    {
+      "mcat_id": "135639",
+      "mcat_name": "LRB Rockwool Mattress"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    }
+  ]
+}

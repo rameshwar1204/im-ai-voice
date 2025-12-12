@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672180411",
+  "gluser_id": "138562464",
+  "vintage_months": 49,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bharuch",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9683122",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Yes, good evening sir. Main Ikadir baat kar raha hu IndiaMART se. Anand se.\\nCustomer: Boliye.\\nExecutive: Aapki ek mail aayi thi regarding sir inquiry ko leke issues.\\nCustomer: Hmm.\\nExecutive: Ki poor work likha hai aapne jo feedback aaya hai.\\nCustomer: Koi bhi inquiry nahi aa rahi hai mere product ki.\\nExecutive: Koi bhi inquiry nahi aa rahi hai aapko. Koi call bhi nahi aa raha hai pure din mein. Aur aata hai to wo 10 gram 5 gram wala aata hai.\\nCustomer: Aapko nahi dena hai to mana kar do main band karwa deta hu. Main 10 saal se hu aapke waha sath pe.\\nExecutive: Hmm hmm hmm.\\nCustomer: Band kar deta hu account IndiaMART ke sath. Aisa karta hu.\\nExecutive: Achcha aapke alawa aur bhi koi dekhta hai sir aap hi dekhte ho?\\nCustomer: Main hi dekhta hu.\\nExecutive: Aap hi dekhte ho. To kal main ek kaam karta hu na sir ek baar main aapko call karta hu. Kis time mein call karu main thoda sa ek baar aapki profile ko na keyword wagera maine dekha hai kuch update bhi karna hai wo sari cheeze ek baar update kar deta hu. Kitni baar update karoge aap log ye sab.\\nExecutive: Ji sir aapke paas jo bhi maine keyword added kiye hai na total jo keyword hamare paas jo dikha raha hai wo 41 hai. Usme 41 keyword mein se jo hamara active keyword hai wo keval do teen hi keyword active hai jisse hum inquiry utha paate hain. To wo sari cheeze jab tak hum aapse discuss nahi karenge na tab tak hum us cheez pe. 11 baje call kijiye sir jaldi.\\nExecutive: Haan sir 11 baje call karte hain ya fir online aake na sari cheeze update karte hain chaliye. Theek hai na.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting any inquiries.\\n\n- Customer wants to close the account.\\n\n\\n\nResolution:\\n\n- Executive offered to call and update keywords.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, keywords, profile update\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=721bf2ea-9212-48fc-8dde-e521cab5b999",
+  "ucid": "721bf2ea-9212-48fc-8dde-e521cab5b999",
+  "seller_categories": [
+    {
+      "mcat_id": "2663",
+      "mcat_name": "Urea"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    },
+    {
+      "mcat_id": "105996",
+      "mcat_name": "Chloroform"
+    },
+    {
+      "mcat_id": "138305",
+      "mcat_name": "4 Amino 1 2 4-Triazole"
+    },
+    {
+      "mcat_id": "3736",
+      "mcat_name": "Chemical Intermediates"
+    }
+  ]
+}

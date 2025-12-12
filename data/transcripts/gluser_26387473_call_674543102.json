@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674543102",
+  "gluser_id": "26387473",
+  "vintage_months": 79,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji sir, main Diya bol rahi hu IndiaMART office se.\\nCustomer: Haan ji madam boliye.\\nExecutive: Haan aapne bola tha na wo numbers vagaira to sir aise numbers to hum nahi provide kar sakte hain kisi bhi suppliers ke aap directly jo unka wo number PNS number show karta hai jab aap search karenge IndiaMART ke page pe jayenge to aap vaise hi unhe call karke order de sakte hain.\\nCustomer: Theek hai madam aap unke wo theek hai pehle to madam aap number message kar diya karte the na.\\nExecutive: Uh sir mujhe iska idea nahi hai aapka account abhi.\\nCustomer: Ab system change ho gaya to mujhe malum nahi warna pehle to humne kabhi bhi IndiaMART pe kuch bhi search kiya to hamare paas us samay calls aani shuru ho jati thi aur hamare paas number bhi aa jate the ki wo call karte theek hai na aap bhi call kar sakte hain.\\nExecutive: Uh sir mujhe nahi idea main mere paas aapka account abhi last dedh do mahine se hi hai.\\nCustomer: Hmm.\\nExecutive: Haan to nahi na aap jaise jo aapko product chahiye aap Google pe wo search kariye unka manufacturer daliye fir aap jo IndiaMART ka page open hoga aap us pe land kar jayenge aur fir vahan se aapko jo bhi numbers milenge aap unko call jab aap ek baar unhe baat kar lenge to aapke paas unka number wo wala bhi aa jayega agar aap unhe WhatsApp kar denge to theek hai aap unko boliye ki wo aapko apne number se call kare.\\nCustomer: Theek hai.\\nExecutive: And sir ek aur cheez yahan pe jaise aapka jo ye concern aapne open kiya isko close kar sakte hain kya jo aapne customer care pe call kar diya tha?\\nCustomer: Isko close kaise kar sakte hain?\\nExecutive: Uh sir jaise aapne isko 9696 pe call kiya kyunki aapko ye lights vagaira chahiye thi to aapko number chahiye but I've maine aapko bataya ki hum aise numbers nahi provide kar sakte.\\nCustomer: Haan.\\nExecutive: Aapko directly unka PNS number hi milega to jo aapka issue tha maine aapko uska revert kiya to agar aapka.\\nCustomer: Abhi wo aapke sir ka phone aaya tha wo keh rahe the main ek number de raha hu Gujarat ke uska manufacturer ka.\\nExecutive: Gujarat ke manufacturer ka number de rahe the wo?\\nCustomer: Haan.\\nExecutive: De diya aapko abhi call kar lenge call nahi aaya kya?\\nCustomer: To aapko unko call nahi aaya kya?\\nCustomer: Koi call nahi aaya.\\nExecutive: Nahi sir main ek kaam karti hu main check karti hu kyunki numbers to aise provide nahi ho sakte hain kisi bhi supplier ke aapko usi accordingly hi check karke vahan pe directly jo PNS number hota hai usi ke through hi aap unhe connect kar sakte hain jab aap unhe connect karenge na sir to aapko unka baki ka detail bhi show karega vahan pe mobile number unka GST unki jo bhi required details unki profile pe mention hongi aap unko fir directly bhi connect kar sakte hain other than IndiaMART ke bhi.\\nCustomer: Theek hai madam aap nahi de sakte to main dhoond lunga okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants supplier contact numbers.\\n\n- Customer did not receive a call back.\\n\n\\n\nResolution:\\n\n- Explained that direct numbers cannot be provided.\\n\n- Advised to search on Google for manufacturers.\\n\n- Executive will check why callback was not received.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pns number, supplier, contact, google search\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 180,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=32df671d-713b-4f6a-a3f6-166b38a8037b",
+  "ucid": "32df671d-713b-4f6a-a3f6-166b38a8037b",
+  "seller_categories": [
+    {
+      "mcat_id": "177486",
+      "mcat_name": "Industrial Water Storage Tank"
+    },
+    {
+      "mcat_id": "3367",
+      "mcat_name": "Water Storage Tanks"
+    },
+    {
+      "mcat_id": "100288",
+      "mcat_name": "Biogas Balloon"
+    },
+    {
+      "mcat_id": "23685",
+      "mcat_name": "Biogas Plant"
+    },
+    {
+      "mcat_id": "148621",
+      "mcat_name": "Portable Biogas Plant"
+    }
+  ]
+}

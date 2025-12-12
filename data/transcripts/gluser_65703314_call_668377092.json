@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668377092",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello? Haan ji, Swarnim International mein baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Okay sir, good morning. Main Pallavi baat kar rahi hoon IndiaMART se.\\nCustomer: Hmm.\\nExecutive: Sir, kal aap se baat hui thi na? Aap bata rahe the ki aap satisfied nahi hai, dikkat aa rahi hai aapko IndiaMART se.\\nCustomer: Hmm.\\nExecutive: Toh sir, main chah rahi thi ek baar aap na online aaiye. Main aapko kuch shortcuts batati hoon IndiaMART ke buyers se.\\nCustomer: Mujhe koi bhi shortcut aapka nahi jaanna hai.\\nExecutive: Sir, sir bahut hi, sir easy hai bahut IndiaMART ka panel.\\nCustomer: Mujhe kuch bhi nahi, mujhe sab dekh liya, sab shortcut dekh liya hai. Mujhe sirf paisa return chahiye. Woh aapne kal kaha tha ki possible nahi hai.\\nExecutive: Nahi, nahi woh possible hai. Hum, hum jo koshish kar rahe the ki paisa return.\\nCustomer: Karwao aap paisa return. Main le lunga na. Aap kyun pareshan ho rahi hai? Nahi ho payega toh aap phone rakh do.\\nExecutive: Paisa return nahi ho payega. Aapka jo paisa laga hua hai, uska utilization.\\nCustomer: Hmm.\\nExecutive: Sir, aapka jo paisa laga hua hai, uska utilization hum bata sakte hain. Aapki service chal rahi hai.\\nCustomer: Woh main le lunga. Aap Pallavi ji, aap pareshan na ho. Woh main le lunga. Aapka concern nahi hai yeh.\\nExecutive: Haan.\\nCustomer: Theek hai? Hmm. Woh main le lunga paisa.\\nExecutive: Theek hai sir. Toh aap kaise lenge aap sir paise?\\nCustomer: Main le lunga.\\nExecutive: Achha.\\nCustomer: Mere paas raste hain lene ke paise.\\nExecutive: Theek hai sir. Jab tak aap paise nahi le payenge, tab tak toh aap service use kariye na.\\nCustomer: Nahi, bilkul nahi lunga service. Ek din ki service nahi lunga.\\nExecutive: Kyun sir?\\nCustomer: Aap phone rakhiye. Aap mujhe phone rakhiye. Aap mujhe disturb na karein. Paisa lene ki baat hai, main paisa le lunga. Theek hai.\\nExecutive: Achha. Chaliye, theek hai. Okay sir.\\nCustomer: Chaliye, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a refund for the subscription.\\n\n- Does not want to use the service.\\n\n\\n\nResolution:\\n\n- Executive explained about service utilization.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, service, utilization\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45fba511-a426-4656-939a-f82fe4e76430",
+  "ucid": "45fba511-a426-4656-939a-f82fe4e76430",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

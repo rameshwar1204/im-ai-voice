@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675057286",
+  "gluser_id": "64324548",
+  "vintage_months": 6,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Tirupati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710772",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello. Sir, good afternoon sir.\\nCustomer: Haan, bataiye. Hello.\\nExecutive: [unintelligible] IndiaMART lo oka enquiry vachindandi. Enquiry [unintelligible] requirement undani cheppi. Sir, uh, just a second, can you please hold? You are not audible, just give me a second, okay?\\nCustomer: Yeah, yeah.\\nExecutive: Yes sir, from which company are you calling?\\nCustomer: CRI sir, CRI authorized dealer.\\nExecutive: Yes sir. You have branches Hyderabad and Tirupati.\\nExecutive: So which model you want sir? 4x16 or uh\\nCustomer: Hello.\\nExecutive: Yes sir. Yes sir. You want 4x16 PRMX?\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call regarding IndiaMART enquiry.\\n\n- Customer wants to know about 4x16 PRMX model.\\n\n\\n\nResolution:\\n\n- Executive asked about the company name.\\n\n- Executive asked about the model the customer wants.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- enquiry, model, product\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5af87d94-8f8c-4b09-b389-dd996b8d2e35",
+  "ucid": "5af87d94-8f8c-4b09-b389-dd996b8d2e35",
+  "seller_categories": [
+    {
+      "mcat_id": "39233",
+      "mcat_name": "Submersible Sewage Pumps"
+    },
+    {
+      "mcat_id": "204197",
+      "mcat_name": "CRI High Pressure Pumps"
+    },
+    {
+      "mcat_id": "126348",
+      "mcat_name": "Crompton Greaves Motor"
+    },
+    {
+      "mcat_id": "182655",
+      "mcat_name": "Grundfos Pumps"
+    },
+    {
+      "mcat_id": "20842",
+      "mcat_name": "Pressure Booster Pumps"
+    }
+  ]
+}

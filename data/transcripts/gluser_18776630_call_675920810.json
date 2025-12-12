@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675920810",
+  "gluser_id": "18776630",
+  "vintage_months": 110,
+  "bl_dau_oct": 27,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Jagadhri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698708",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello ha ji.\\nCustomer: Ji main ji baat kar raha tha.\\nExecutive: Baat kar rahe the?\\nCustomer: Ji Naveen baat kar raha tha branch manager India Mart se.\\nExecutive: Are sir maine aapko kaha bhi hai unke pass Shubham ji hai unka dimag sahi nahi hai kya main meri tai ji expire ho gaye waha pe jaa rahe abhi Vikas Nagar raste mein hai.\\nExecutive: Achcha aaj?\\nCustomer: Haan Vikas Nagar hai meri tai ji expire ho gayi hai.\\nExecutive: Unhone maine keh WhatsApp pe bhi keh diya waise bhi keh diya batao ji baat sahi hai kya?\\nCustomer: Achcha.\\nExecutive: Haan to aap koi aaj tak aaj to bilkul bhi phone mat karna ji abhi to raste mein phone utha liya waha pe pahunchne to bilkul bhi phone mat karna.\\nExecutive: Main nahi kar raha sir main wahi aap free ho to mujhe phone karna to baat karenge sir.\\nCustomer: Ek minute hold rakhna ek minute hold rakhna puchta hu wapas se ha ek minute dekh lo sir.\\nExecutive: Hum free kab honge sir?\\nCustomer: Ye IM walon ka phone aa raha.\\nExecutive: 8 baje tak.\\nCustomer: 8 baje tak staff ka time hai staff ka time hai na 8 baje tak free ho jayenge ji.\\nExecutive: Theek hai aap 8 baje free ho jayenge fir baat karte hai.\\nExecutive: Haan ji.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's aunt expired, attending funeral.\\n\n- Requested no calls due to personal emergency.\\n\n\\n\nResolution:\\n\n- Executive agreed to call later.\\n\n- Agreed to connect after 8 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after 8 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- personal emergency, call schedule, funeral\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=800f0b8e-80bd-481a-99ea-b9b12be92654",
+  "ucid": "800f0b8e-80bd-481a-99ea-b9b12be92654",
+  "seller_categories": [
+    {
+      "mcat_id": "39397",
+      "mcat_name": "Waffle Maker"
+    },
+    {
+      "mcat_id": "315646",
+      "mcat_name": "Egg Roll Making Machine"
+    },
+    {
+      "mcat_id": "20520",
+      "mcat_name": "Aluminium Milk Cans"
+    },
+    {
+      "mcat_id": "147114",
+      "mcat_name": "Softy Making Machine"
+    },
+    {
+      "mcat_id": "154773",
+      "mcat_name": "Chicken Cutting Machine"
+    }
+  ]
+}

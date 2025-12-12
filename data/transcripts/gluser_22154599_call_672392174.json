@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672392174",
+  "gluser_id": "22154599",
+  "vintage_months": 105,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Indore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9686057",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Uh yes, good afternoon sir. \\nExecutive: Maine kaha jo aapne complaint raise kiya tha usko main close kar du sir? Issue aapka resolve ho gaya?\\nCustomer: Haan ho gaya sir.\\nExecutive: Baki hamara discussion ho gaya project ko leke, right?\\nCustomer: Wo aap add kar dijiyega. Theek hai?\\nExecutive: Okay sir, thank you so much sir. Have a nice day sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint resolution confirmation.\\n\n- Project discussion follow-up.\\n\n\\n\nResolution:\\n\n- Complaint resolved.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncomplaint, project\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=50d136aa-fa44-4803-818b-07bb5aa7ea40",
+  "ucid": "50d136aa-fa44-4803-818b-07bb5aa7ea40",
+  "seller_categories": [
+    {
+      "mcat_id": "43849",
+      "mcat_name": "NPK Fertilizer"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "39094",
+      "mcat_name": "Sulfur Fertilizers"
+    },
+    {
+      "mcat_id": "39444",
+      "mcat_name": "Water Soluble Fertilizers"
+    },
+    {
+      "mcat_id": "651654",
+      "mcat_name": "Mycorrhizal Bio Fertilizer"
+    }
+  ]
+}

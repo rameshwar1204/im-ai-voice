@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673468652",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=31a505fd-6a07-4bf9-a0b6-10650ca81633",
+  "ucid": "31a505fd-6a07-4bf9-a0b6-10650ca81633",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

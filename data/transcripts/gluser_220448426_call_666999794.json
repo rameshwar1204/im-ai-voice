@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666999794",
+  "gluser_id": "220448426",
+  "vintage_months": 5,
+  "bl_dau_oct": 13,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Hansi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630741",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nExecutive: Ji Deepak ji se baat ho rahi hai?\\nCustomer: Ha ji.\\nExecutive: Deepak ji Saransh baat kar raha hu IndiaMART se, kaise hai aap?\\nCustomer: Thik hai sir.\\nExecutive: Ji actually aapko main call isliye kar raha hu mere paas aaya hai jahan par aap show kar rahe the aap log not satisfied hai.\\nCustomer: Ha ji.\\nExecutive: Ji ji actually maine call isliye kiya tha sir mere paas feedback aaya tha ki sir aap log not satisfied hai. To janne chahta tha ki sir koi issue face kar rahe ho online jo mai sort out kar saku sir. Actually executive ke liye aaya tha ki aapne not satisfied kiya hai.\\nCustomer: Kaha WhatsApp pe?\\nExecutive: WhatsApp pe feedback aaya tha impression ke regarding to sir employee ki taraf se koi issue aaya to bataiye sir mai sort out kar deta hu.\\nCustomer: Nahi sir koi issue nahi hai.\\nExecutive: Ho gayi thi mam se mam se baat uske baad.\\nCustomer: Accha mam se baat ho gayi actually aapka email id bounce ho raha tha isliye unhone aapko call kiya tha sir.\\nExecutive: Ha ji.\\nExecutive: To aapka email id bounce ho raha tha isliye unhone shayad aapko call kiya tha.\\nCustomer: Ha email id ke liye call kiya tha sir.\\nExecutive: Thik thik thik. Chaliye mai aapko please kar deta hu thik hai sir. Thank you. Thik hai.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked as 'not satisfied'.\\n\n- Email ID bouncing.\\n\n\\n\nResolution:\\n\n- Executive inquired about the reason for dissatisfaction.\\n\n- Customer confirmed no issue, email issue resolved.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- satisfaction, email id, feedback\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bc4b4270-088f-4bbc-86fa-f919c2567f61",
+  "ucid": "bc4b4270-088f-4bbc-86fa-f919c2567f61",
+  "seller_categories": [
+    {
+      "mcat_id": "83935",
+      "mcat_name": "Tyre Repair Patches"
+    },
+    {
+      "mcat_id": "149783",
+      "mcat_name": "Tube Repair Patches"
+    },
+    {
+      "mcat_id": "68209",
+      "mcat_name": "Two Post Lift"
+    },
+    {
+      "mcat_id": "16115",
+      "mcat_name": "Gear Lube"
+    },
+    {
+      "mcat_id": "5323",
+      "mcat_name": "Tyre Tools"
+    }
+  ]
+}

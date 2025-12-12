@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674419625",
+  "gluser_id": "150791394",
+  "vintage_months": 42,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Parbatsar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695444",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji.\\nExecutive: Keshav ji Ashraya baat kar rahi hu India Mart se.\\nCustomer: Madam abhi office aake baat karte hai aap se. Ab aise bol do office aane ke baad me call karta hu aapko.\\nExecutive: Theek hai sir actually na apne WhatsApp\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will talk after coming to the office.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\noffice, call\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c54dcc34-a0a1-40d9-a5a1-d8316008dc95",
+  "ucid": "c54dcc34-a0a1-40d9-a5a1-d8316008dc95",
+  "seller_categories": [
+    {
+      "mcat_id": "23078",
+      "mcat_name": "Calcium Carbonate Powder"
+    },
+    {
+      "mcat_id": "5461",
+      "mcat_name": "Calcite Powder"
+    },
+    {
+      "mcat_id": "6663",
+      "mcat_name": "Natural Calcium Carbonate"
+    },
+    {
+      "mcat_id": "23106",
+      "mcat_name": "Calcium Powder"
+    },
+    {
+      "mcat_id": "113792",
+      "mcat_name": "Dolomite"
+    }
+  ]
+}

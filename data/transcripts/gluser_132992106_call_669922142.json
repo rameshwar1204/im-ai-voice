@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669922142",
+  "gluser_id": "132992106",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Sirhind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651368",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nYes.\\nYes ma'am, ye aapko phone aaya tha IndiaMART se.\\nHan ji sir, kaun si company se bol rahe hain sir?\\nYes Fabricators se.\\nYes Fabricators se? Yes, Yes Fabricators, J A double S.\\nJ A double S.\\nAchha, sir inse baat kar rahe hain na sir aap? Mr. Afreen se.\\nAchha achha. Sorry, sir ji, aap mujhe thoda sa time dijiye, main aapko call back karati hun. Aapko Om ne call kiya tha, main aapko call back karati hun.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a call back.\\n\n\\n\nResolution:\\n\n- Executive assured a call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, company verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3302c1dc-1d3f-4994-ae81-7f5c9076d710",
+  "ucid": "3302c1dc-1d3f-4994-ae81-7f5c9076d710",
+  "seller_categories": [
+    {
+      "mcat_id": "83929",
+      "mcat_name": "Truck Body"
+    },
+    {
+      "mcat_id": "40012",
+      "mcat_name": "Tractor Trolleys"
+    },
+    {
+      "mcat_id": "185976",
+      "mcat_name": "Side Wall Trailer"
+    },
+    {
+      "mcat_id": "138553",
+      "mcat_name": "Trucks Container"
+    },
+    {
+      "mcat_id": "36293",
+      "mcat_name": "Refrigerated Containers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672986726",
+  "gluser_id": "39540018",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685983",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello Kapil ji very good afternoon.\\nCustomer: Haan very good afternoon ji.\\nExecutive: Ji Rajeev main sir baat kar raha hun kal IndiaMART se kal baat hui thi aap se.\\nCustomer: Haan ji haan ji baat hua tha aap se. \\nExecutive: Wo baat jo sir aap se to main thoda busy hun suniye suniye ji aaj to main thoda busy hun kal baat karein iske liye kyunki abhi main ek meeting mein hi hun.\\nCustomer: Accha Kritiman kahan pe? \\nExecutive: Kritiman to par.\\nCustomer: Haan Kritiman bhi Kritiman bhi abhi meeting mein hain.\\nExecutive: Accha.\\nExecutive: Haan matlab hum movie dekhna hai ki bhai humne kitna kiya usko bhi discuss karna hai. Jab bhi aap free honge main aapko 5:30 haan theek hai. Nahi nahi aaj main koshish karunga ki agar main free hua to main aapko khud se call kar lunga otherwise aap kal morning mein call kar lijiyega morning mein 11 ya 12 pm ke aas pass jo hai. Aur aur Sumit sir kahan pe hai? Sumit sir bhi meeting mein hai. Haan Sumit sir bhi meeting mein hai haan ji wo meeting mein hai sir bhi.\\nCustomer: Accha.\\nCustomer: Theek hai kal main aapko 10:30 baje call karta hun sir.\\nExecutive: Theek hai sir.\\nCustomer: Okay. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk about pending discussion.\\n\n- Wants to know the availability of Kritiman and Sumit.\\n\n\\n\nResolution:\\n\n- Executive informed he is in a meeting.\\n\n- Asked to call back next day.\\n\n\\n\nNext Steps: \\n\n- Customer will call back next day at 10:30 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, follow up, call back\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=08da4f7b-18e0-478f-b043-235f203bca38",
+  "ucid": "08da4f7b-18e0-478f-b043-235f203bca38",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "185474",
+      "mcat_name": "RFID Lock"
+    },
+    {
+      "mcat_id": "86057",
+      "mcat_name": "Fingerprint Door Lock"
+    },
+    {
+      "mcat_id": "105867",
+      "mcat_name": "Hotel Lock"
+    }
+  ]
+}

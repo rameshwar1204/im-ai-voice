@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668012734",
+  "gluser_id": "129854156",
+  "vintage_months": 49,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Budgam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Yes ma'am. Ma'am, I'm so sorry, it's not joining. There's some technical glitch. You tell me what issue you are facing, so we'll solve it on call.\\nCustomer: No, nothing. Just when we turn on IndiaMART, go to lead manager, when someone is messaging there, it's not opening. That's the only problem.\\nExecutive: So, when someone is messaging, it's not showing on lead manager?\\nCustomer: Lead manager is opening, but when we click on any message,\\nExecutive: Yeah.\\nCustomer: It's not opening. That's it.\\nExecutive: Can you send a screenshot on WhatsApp?\\nCustomer: Yeah, I'll send it in a second.\\nExecutive: Hanji ma'am, stay on the line, send me a screenshot.\\n\\n(silence)\\nExecutive: Hello?\\n\\nCustomer: Ma'am, did you send it?\\nCustomer: Ha, abhi check kariye whatsapp.\\n\\nExecutive: Accha ye, ma'am, aapke side pe ye network issue ho sakta hai. Isiliye ye open nahi ho raha hai.\\nCustomer: Maine update bhi kiya hai IndiaMART, upar se hamara yaha pe 5G chal raha hai, aisa kuch bhi nahi hai. Hum to chal rahe the.\\nExecutive: Accha wo dikha raha hai waisa hi show kar raha hai?\\nCustomer: Ha, teen din mujhe continuously ho raha hai, teen char dinon se. Ye ye aapka lead manager hai?\\nCustomer: Ha, lead manager. Ya whatsapp hai?\\nCustomer: Nahi, ye IndiaMART.\\nExecutive: IndiaMART pe lead manager hai ye?\\nCustomer: Ha.\\n\\nCustomer: Ye dekho, last mein kya aa raha hai phir.\\nExecutive: Ma'am, ID to aapki dusri hai koi. Kisi aur kitne login kara hai aapne? Kisi aur ID se login kara hai kya?\\nCustomer: Nahi, main isi pe chal raha hai na.\\nExecutive: Ejaz Kesar Kashmiri se hi baat kar rahe ho na aap?\\nCustomer: Ha ha, yes sir. Ha. To aapke jo ID aap kitne kaun se, accha ye bataiye mujhe profile mein kaun kaun sa number aapka hai?\\nExecutive: Kis number se login kar rahe hai aap apni profile?\\nCustomer: 705190078 yahi hai.\\nExecutive: 007 profile ka ek screenshot bhejiye mujhe.\\nCustomer: Abhi ek kaam kar lijiye ma'am, aap na ispe jo email ID hai na, wo change kar dijiye waha pe. Ejaz jo hai na Ejaz 59. Wo bhi aap hi kar sakte ho. Desktop hai aapke paas, laptop, desktop kuch bhi?\\nCustomer: Ha, laptop hai.\\nExecutive: Laptop hai? Theek hai, main ek link share karti hu. Aap usko join karke ye wala aap turant join ho jayega. Waha se meeting cancel karni padegi.\\nExecutive: Ya phir mujhe main bhej de rahi hu main.\\nCustomer: Abhi thodo ma'am, ek ghanta de dijiye, theek hai? Main thoda busy hu. Bas jaise main on ho jaungi na, main aapko isi number pe call back karti hu.\\nExecutive: Chaliye, theek hai. Ma'am, aap na mujhe WhatsApp wala jo number hai, aap us pe call kariega, theek hai? Tab tak yaha pe jo glitch aa raha hai, ye join nahi ho pa raha hai, main usko dekh leti hu. And ma'am, aapne customer care se call kiya tha kya?\\nCustomer: Aapke paas number nahi hai aapke account manager ka? Kal kal maine kiya tha, ma'am, bas yahi problem thi na, isiliye thoda.\\nExecutive: Koi baat nahi. Customer care pe call karte hai ma'am to ek aapke account manager ke liye ek concern open ho jata hai. To main usko close kar du? Aap jab bhi call karna ho to aap mere pe kar lena, theek hai? Aapke paas ek mail jayegi satisfy ka ki wo humne aap se connect kiya ya nahi kiya, baat kiya ya nahi kiya. To wo uske liye hota hai to aap us pe yes kar dena ki ha aapne hamari baat ho gayi hai. Aur aap to jab bhi free ho jana to mujhe message kar dena WhatsApp pe aur WhatsApp wale number pe call kar lijiyega aap, theek hai?\\nCustomer: Okay okay.\\nExecutive: Okay phir main isko sahi karwati hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's lead manager is not opening.\\n\n\\n\nResolution:\\n\n- Executive suggested network issue or different ID login.\\n\n- Executive suggested changing the email ID.\\n\n- Executive offered to send a meeting link.\\n\n\\n\nNext Steps: \\n\n- Customer will call back on WhatsApp number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- lead manager, technical issue, email id\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 270,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4dbb39ef-d0f2-426c-b594-f1db1c6b11bd",
+  "ucid": "4dbb39ef-d0f2-426c-b594-f1db1c6b11bd",
+  "seller_categories": [
+    {
+      "mcat_id": "214916",
+      "mcat_name": "Saffron Bulbs"
+    },
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "651896",
+      "mcat_name": "Kashmiri Walnut Kernels"
+    },
+    {
+      "mcat_id": "215552",
+      "mcat_name": "Kashmiri Garlic"
+    }
+  ]
+}

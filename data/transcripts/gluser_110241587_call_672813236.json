@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672813236",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Maine aapko bheja hua hai dekhiye.\\nCustomer: Are yaar us number pe na whatsapp band ho gaya. Ek cheez batayein.\\nCustomer: Oh yaar whatsapp mein kuch ungli kar raha tha main, us par laal colour ka tick lag kar aa gaya, bole is number pe whatsapp nahi kar sakta.\\nExecutive: Achcha.\\nExecutive: Support pe, support support pe ja ke usko sahi karwaiye, upar se ho jayega.\\nCustomer: Wo kaise karna padega?\\nExecutive: Aap whatsapp ka business ka whatsapp ya normal whatsapp tha?\\nCustomer: Normal tha.\\nExecutive: Normal tha to abhi aap whatsapp pe dusre number se aap phir khol ke kisi aur number mein khula hua ho waha pe ja ke niche setting mein ja wo niche uska aata hai support ka option.\\nCustomer: Haan wo hi nahi raha ek baar kaise karu yaar badi samajh mein baat nahi aa rahi.\\nExecutive: Koi nahi aap mere ko dusra number bata dijiye main us pe link bhej deta hu.\\nCustomer: Achcha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's WhatsApp is blocked on his number.\\n\n\\n\nResolution:\\n\n- Executive suggested to fix it from support option.\\n- Executive offered to send a link to another number.\\n\n\\n\nNext Steps: \\n\n- Executive will send a link to another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, support, number\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=da4a7312-d161-4e93-9201-3d17bb90d2c1",
+  "ucid": "da4a7312-d161-4e93-9201-3d17bb90d2c1",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

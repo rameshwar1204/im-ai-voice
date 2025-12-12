@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674816898",
+  "gluser_id": "35671869",
+  "vintage_months": 20,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tindivanam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9709506",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji.\\n\\nExecutive: Sir I am calling from Tamil Nadu, Krishna Section Roofing. Uh yeah sir, I have called you. Good morning sir.\\n\\nCustomer: Good morning sir.\\n\\nCustomer: Sir my phone not leads coming sir.\\n\\nExecutive: Okay. Uh actually very worst sir.\\n\\nCustomer: Sir very worst sir. I am paid 180,000 last sir. One month after not converted sir. Very very worst sir. India Mart is not supported sir. Not I am not happy sir.\\n\\nCustomer: Daily our leads false leads checking na.\\n\\nCustomer: Hmm hmm. False leads checking. Coming leads na not my account not listed sir. Very worst sir. Delivery maximum package very very worst sir.\\n\\nExecutive: Actually sir I am missing office. When I will be available on system I will call you back and discuss regarding the issue in a brief.\\n\\nCustomer: Okay sir. I will also talk to my senior because you have complaint regarding the same I think two to two times. Sir okay sir Tamil person calling me sir. India India Tamil person calling sir I am speaking sir.\\n\\nExecutive: Okay okay I will arrange your call with Tamil. Okay sir okay. Okay sir okay sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving leads on phone.\\n\n- Dissatisfied with IndiaMART's support.\\n\n- Feels the leads are false and not converting.\\n\n- Dissatisfied with the package.\\n\n\\n\nResolution:\\n\n- Executive will call back to discuss the issue.\\n\n- Executive will talk to his senior.\\n\n- Executive will arrange a call with a Tamil speaker.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, customer support, language\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a3e38d67-639f-4a17-b8f6-073be4c1e1f6",
+  "ucid": "a3e38d67-639f-4a17-b8f6-073be4c1e1f6",
+  "seller_categories": [
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "135895",
+      "mcat_name": "Car Parking Tensile Structure"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "140396",
+      "mcat_name": "Retractable Roof"
+    },
+    {
+      "mcat_id": "42328",
+      "mcat_name": "Modular Tensile Structure"
+    }
+  ]
+}

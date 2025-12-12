@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672931333",
+  "gluser_id": "29595404",
+  "vintage_months": 84,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mhow",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690261",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Rahul sir main Tanu bol rahi thi.\\nExecutive: Main abhi na main busy hoon, main baat nahi kar paunga abhi.\\nCustomer: Sir mujhe\\n",
+  "summary": "\\n\nConcerns:\\n\n- Tanu wants to speak with Rahul.\\n\n\\n\nResolution:\\n\n- Rahul states he is busy and cannot talk.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to negative.\\n\n\\n\n@@@Key Topics:\\n\nphone call, availability\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3967cd37-82dd-4243-9ca5-ffa4076d7dc9",
+  "ucid": "3967cd37-82dd-4243-9ca5-ffa4076d7dc9",
+  "seller_categories": [
+    {
+      "mcat_id": "162861",
+      "mcat_name": "Polyurethane Foam Spray"
+    },
+    {
+      "mcat_id": "204978",
+      "mcat_name": "Waterproof Tapes"
+    },
+    {
+      "mcat_id": "35735",
+      "mcat_name": "Printed Tapes"
+    },
+    {
+      "mcat_id": "443434",
+      "mcat_name": "PU Foam Sealant"
+    },
+    {
+      "mcat_id": "35210",
+      "mcat_name": "Polyurethane Sealants"
+    }
+  ]
+}

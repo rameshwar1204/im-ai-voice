@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666727781",
+  "gluser_id": "61290057",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647664",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hanji.\\nExecutive: Hello\\nCustomer: Hanji.\\nExecutive: Han, namaskar sir.\\nCustomer: Namaste.\\nExecutive: Han sir, main bhai Gajender se baat kar raha hun, madhya se.\\nCustomer: Han han.\\nExecutive: Hello.\\nCustomer: Hanji bolo bolo.\\nExecutive: Han sir ye keh raha tha, hamare kuch photos hai na Google pe uploaded hai IndiaMART ke through wo hatwa de.\\nCustomer: Sir aapko pura uploaded\\nExecutive: Iski complaint maine pehle bhi raise kari hai, kuch hua nahi hai.\\nCustomer: Yaar mere paas phone lagta hai bhai, abhi se baat kar raha hun.\\nExecutive: Han bhaiya batao, kya karna hai isme?\\nCustomer: Wo Google IndiaMART usko IndiaMART total thodi show kar rahe hain tumhare.\\nExecutive: Han bhi sab ho rahe hain. Main beech mein madam se baat hui thi madam madam ne kahi thi ke thread mein ek mein dal do Google mein aur wo remove ho jayenge wo bhi us tarike se nahi remove hue.\\nCustomer: Usme thoda process mein time lagta hai bhai.\\nExecutive: Aur tumne pehle kaha tha ke wo time lagega wo apne aap remove ho jayenge 15-20 din hua hai us baat ko abhi tak remove nahi hue.\\nCustomer: Are 15-20 din nahi hue bhai ab meri baat hui thi tumhari Diwali ke baad hi.\\nExecutive: Han Diwali se pehle ki baat hai.\\nCustomer: To time lagega na 15-20 din abhi 15 din kahan ho gaye.\\nExecutive: Han to lagbhag utne ho gaye. Kitna time aur lag jayega ye hone mein?\\nCustomer: Chalo ek baar main office pahunch ke dekhta hun tumhara concern jo bhi hai.\\nExecutive: Han?\\nCustomer: Abhi main office pahunch ke dekhta hun tumhara concern.\\nExecutive: Concern kya?\\nCustomer: Han main office pahunch ke dekhta hun tumhara ye photo wala. Han han photo IndiaMART portal pe to hai nahi bas wo Google pe show karta hai.\\nExecutive: Han han han.\\nCustomer: To main pahunchta hun office phir 11 baje tak baat karta hun aapse.\\nExecutive: Thik hai, thik hai.\\n\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants photos removed from Google.\\n\n- Complaint raised earlier, but no action taken.\\n\n\\n\nResolution:\\n\n- Executive will check the concern after reaching office.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer by 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google, photos, removal, complaint\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 147,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e3d478b3-15f6-4f73-b280-3ce301799f0c",
+  "ucid": "e3d478b3-15f6-4f73-b280-3ce301799f0c",
+  "seller_categories": [
+    {
+      "mcat_id": "7544",
+      "mcat_name": "Optical Brighteners"
+    },
+    {
+      "mcat_id": "37783",
+      "mcat_name": "Silicone Softener"
+    },
+    {
+      "mcat_id": "27107",
+      "mcat_name": "Dye Fixing Agent"
+    },
+    {
+      "mcat_id": "2361",
+      "mcat_name": "Textile Chemical"
+    },
+    {
+      "mcat_id": "9357",
+      "mcat_name": "Silicone Textile Softeners"
+    }
+  ]
+}

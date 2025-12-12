@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669938548",
+  "gluser_id": "204426014",
+  "vintage_months": 23,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663739",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ha ji.\\nCustomer: Ji sir agar bataiye.\\nExecutive: Ji sir. Ye sir abhi phone nahi aaya.\\nCustomer: Hai to kaun? Ji. Is samay to baat nahi hui. Ji. Achcha. Kaise dete nahi. Achcha. Abhi karaun call? Ha karwa do kya issue hai. \\nExecutive: Theek hai, theek hai, theek hai, okay, okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received a call yet.\\n\n\\n\nResolution:\\n\n- Executive agreed to arrange a call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, follow-up\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=836a4688-92dc-475f-84de-3928c24c22ab",
+  "ucid": "836a4688-92dc-475f-84de-3928c24c22ab",
+  "seller_categories": [
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "9859",
+      "mcat_name": "Marble Inlay Flooring"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    }
+  ]
+}

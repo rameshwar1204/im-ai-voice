@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670405824",
+  "gluser_id": "21281016",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669315",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Namaskar sir.\\nCustomer: Ha sir bol rahe the?\\nExecutive: Lakshman baat kar raha tha sir, IndiaMART se sir.\\nCustomer: Ha sir, hello.\\nExecutive: Ji sir, aapse sir pehle baat hui thi sir. Hello. Aapne video ko video meet ke liye bola tha mujhe.\\nCustomer: Hello.\\nExecutive: Hello, ha sir.\\nCustomer: Ha boliye Lakshman ji.\\nExecutive: Sir aapse pehle baat hui thi sir, to aapse pucha tha video meet pe connect hone ke liye bol rahe the.\\nCustomer: Barabar hai, barabar hai, par kya hai mera idhar election duty chal raha hai.\\nExecutive: Achcha.\\nCustomer: To uske vajah se abhi thoda busy chal raha hai mera, bahut busy chal raha hai.\\nExecutive: Nahi, wo to thik hai sir, lekin na aapki aapki taraf se na ek hello hai, meri company ka timing se 8 ghanta hai, usko bhi to 24 24 ghanta kar diya hai isliye ho nahi raha hai.\\nCustomer: Ha.\\nExecutive: Nahi, nahi wo to thik hai sir, lekin na mujhe aapse ek concern tha.\\nCustomer: Aap sir aap aap ek do lead consume kar lijiye sir jiski vajah se aap aapka jo ticket hai na sir wo raise ho gaya hai.\\nCustomer: Sir ek minute, wo ticket mein kal mein kal hai na mein kal travel mein hu mein. Sir aapka mein dekh sakta hu, aapka message dekha maine.\\nExecutive: Achcha sir.\\nCustomer: To sir, at least sir ek do ek do leads use kar lijiye to sir aap aapko kuch kuch message karte ho, kuch call karte ho.\\nExecutive: Sir thik hai sir, koi dikkat nahi hai sir, lekin kal kab connect ho payega sir?\\nCustomer: Ha ho payega, ho payega, kal to udhar hi hu mein, Mumbai mein hu, kal call kar dunga mein.\\nExecutive: Chalo thik hai sir, kal connect karte hai fir.\\nCustomer: Thik hai.\\nExecutive: Thik hai sir.\\nCustomer: Thik hai.\\nExecutive: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to connect due to election duty.\\n\n- Ticket raised due to not consuming leads.\\n\n\\n\nResolution:\\n\n- Executive asked to consume one or two leads.\\n\n- Customer will connect tomorrow from Mumbai.\\n\n\\n\nNext Steps: \\n\n- Connect tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meet, ticket, connect\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76878070-0ade-4356-8bae-647816440946",
+  "ucid": "76878070-0ade-4356-8bae-647816440946",
+  "seller_categories": [
+    {
+      "mcat_id": "43936",
+      "mcat_name": "Calendar Printing"
+    },
+    {
+      "mcat_id": "152649",
+      "mcat_name": "Pamphlet Printing Service"
+    },
+    {
+      "mcat_id": "42029",
+      "mcat_name": "Book Printing"
+    },
+    {
+      "mcat_id": "41737",
+      "mcat_name": "Flyers Printing"
+    },
+    {
+      "mcat_id": "138425",
+      "mcat_name": "Certificate Printing Services"
+    }
+  ]
+}

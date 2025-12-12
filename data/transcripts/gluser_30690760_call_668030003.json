@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668030003",
+  "gluser_id": "30690760",
+  "vintage_months": 16,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalitpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636897",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHa sir, mai do minute mein sir meeting mein join ho raha hu actually thoda sa login mein error aa raha hai. To mai trying to get in show kar raha hai sir mere mein bhi hai. \\nHa ha, wo mai karke aap batata hu inform karta hu aapko, thik hai.\\nAap mere ko ha dobara kar dijiyega. Okay. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing login error.\\n\n\\n\nResolution:\\n\n- Executive will resolve the login issue.\\n\n\\n\nNext Steps: \\n\n- Executive will inform the customer after resolution.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, meeting, error\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=acb36c76-fbf6-4ec1-8334-1e8ee723f5b7",
+  "ucid": "acb36c76-fbf6-4ec1-8334-1e8ee723f5b7",
+  "seller_categories": [
+    {
+      "mcat_id": "182871",
+      "mcat_name": "Brother Multifunction Printer"
+    },
+    {
+      "mcat_id": "184886",
+      "mcat_name": "HP Laserjet Printer"
+    },
+    {
+      "mcat_id": "180965",
+      "mcat_name": "Brother Laser Printer"
+    },
+    {
+      "mcat_id": "182129",
+      "mcat_name": "Epson Photo Printer"
+    },
+    {
+      "mcat_id": "182397",
+      "mcat_name": "HP Multifunction Printer"
+    }
+  ]
+}

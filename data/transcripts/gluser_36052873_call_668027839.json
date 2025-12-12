@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668027839",
+  "gluser_id": "36052873",
+  "vintage_months": 6,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Sarthak Trader mein baat ho rahi hai.\\nExecutive: Sir very good morning mein Aasim Khan baat kar raha tha Indiamart.com se business manager aapki company register hai Indiamart ke sath mein.\\nCustomer: Ha sir hai na.\\nExecutive: Hello\\nCustomer: Aapki sir company register hai sir Indiamart par Sarthak Enterprise ke naam se.\\nCustomer: Ha hai na sir register hai na.\\nExecutive: Ha to aapka jo account dekhte hai na mein unka business manager baat kar raha tha jo aapka account dekhte hai Swati ji.\\nCustomer: Achcha.\\nExecutive: To isi ki service ke regarding mein aapse baat karna chah raha tha kaisi kar rahi hai service vagaira Indiamart ki koi dikkat vagaira to nahi aa rahi hai sir.\\nCustomer: Nahi dikkat to nahi hai mere ko thoda wo naam aur wo change kar sakte hai aapun business aur wo hamare partnership list tha pehle.\\nExecutive: Kis cheez ka naam change karna hai sir aapko.\\nCustomer: Ye CNM CNM aur matlab sabhi change karna tha.\\nExecutive: Company ka naam change karne ki bol rahe hai company ka naam change.\\nCustomer: Nahi nahi isme matlab khali address address aur ye CNM.\\nExecutive: Achcha jo jo concern jo person ka naam likha hua hai wo aur address ki aap baat kar rahe hai.\\nCustomer: Ha ha ha.\\nExecutive: Isme jo naam likha hua hai na sir Lakshmi Narayan likha hua hai Lakshmi Narayan Nursery ke naam se.\\nCustomer: Ha.\\nCustomer: Ye nahi CNM change karna hai sir CNM jo tha na sir ab isme jo aapun jo link bhejte hai na usme Sarthak Trader aata hai usme Sarthak naam aata hai.\\nExecutive: Sarthak Trader ke naam se aapka naam aata hai Sarthak Trader ke naam se aapka naam aata hai sir.\\nCustomer: Hello koi nahi call kar lijiye thode time mein ghar pe aaunga tab.\\nExecutive: Achcha aap na aap na aisa karo aap free aap free hoke call karo jo bhi aapki problem hai wo bhi solve karta hu koi dikkat wali baat nahi hai.\\nCustomer: Thik hai.\\nCustomer: Isi number pe\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change name and address details.\\n\n\\n\nResolution:\\n\n- Asked to call back when free.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile update, name change, address change\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 145,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e416cb58-47e2-4f68-afc0-fa4baa9e68bf",
+  "ucid": "e416cb58-47e2-4f68-afc0-fa4baa9e68bf",
+  "seller_categories": [
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "223258",
+      "mcat_name": "Tissue Culture Pomegranate Plants"
+    }
+  ]
+}

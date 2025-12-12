@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668226186",
+  "gluser_id": "200657351",
+  "vintage_months": 18,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Srinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637149",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, hello, good evening sir. Dilal ji se baat ho rahi hai sir?\\nCustomer: Ha boliye.\\nExecutive: Ji, main Anshika baat kar rahi hu sir IndiaMART se sir.\\nCustomer: Hmm hmm.\\nExecutive: Sir actually services ke feedback ke regarding sir aapko ye call ki hai. Five minutes ki call hai sir only.\\nCustomer: Achha.\\nExecutive: Ji ji, bar bar connect nahi ho pa raha hai sir aapse to is vajah se aapko sir is calls aa rahi hai. To thoda sa aapko fir disturbance hoga. Aap five minute ki call le lijiye bas uske baad se koi bhi aapko call nahi aayegi is month. Thoda sa hame product pe bhi discussion karna hai thoda by lead ke section mein aapka sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs feedback on IndiaMART services.\\n\n- Customer is receiving repeated calls.\\n\n\\n\nResolution:\\n\n- Executive confirmed it is a 5-minute call.\\n\n- Assured no more calls this month after this one.\\n\n- Executive wants to discuss product and buyleads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, buyleads, product\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2fb88640-fcf6-4b72-a425-8f0c60d888ff",
+  "ucid": "2fb88640-fcf6-4b72-a425-8f0c60d888ff",
+  "seller_categories": [
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "50160",
+      "mcat_name": "Aluminium Extension Ladder"
+    },
+    {
+      "mcat_id": "166875",
+      "mcat_name": "Hot Dipped Galvanized Iron Wire"
+    },
+    {
+      "mcat_id": "53341",
+      "mcat_name": "Insulation Piercing Connector"
+    },
+    {
+      "mcat_id": "4696",
+      "mcat_name": "Aluminium Ladders"
+    }
+  ]
+}

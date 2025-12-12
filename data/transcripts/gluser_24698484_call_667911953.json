@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "667911953",
+  "gluser_id": "24698484",
+  "vintage_months": 30,
+  "bl_dau_oct": 0,
+  "customer_type": "qgFCP with PNS",
+  "city_name": "Baddi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691925",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji sir, good morning.\\nCustomer: Good morning, mam. Shivam baat kar raha hu main.\\nExecutive: Okay sir.\\nCustomer: Haan, mam phir aapne kuch iske bare mein inquiry ki thi jo aapke service chal rahi hai IndiaMART ke regarding kuch.\\nExecutive: Uh, kaunsi sir?\\nCustomer: Mam jo aapki service chal rahi hai IndiaMART, Neutra Flex company ki, mam uske regarding baat kar raha hu main.\\nExecutive: Sir, main aapki na thodi der baad sir se baat kara deti hu.\\nCustomer: Haanji karaiye mam.\\nExecutive: Haanji, main abhi thode time, uh, 30 minutes tak aapki sir ke sath baat kara deti hu. Mere ko is bare mein knowledge nahi hai, aap sir se baat kar lijiye.\\nCustomer: Theek hai mam, tab tak main aapko contact karenge aap?\\nExecutive: Yes sir, yes sir.\\nCustomer: Okay, okay, sure mam.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about IndiaMART Neutra Flex service.\\n\n\\n\nResolution:\\n\n- Executive will connect customer to her senior.\\n\n\\n\nNext Steps: \\n\n- Executive will connect in 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, service, neutra flex\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12bc9385-61c2-4d18-9f7d-0314b68408e1",
+  "ucid": "12bc9385-61c2-4d18-9f7d-0314b68408e1"
+}

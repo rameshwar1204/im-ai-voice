@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669150853",
+  "gluser_id": "1459080",
+  "vintage_months": 201,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650511",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer said hello.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0a0472a1-203b-4d25-8a5d-78420589f3ff",
+  "ucid": "0a0472a1-203b-4d25-8a5d-78420589f3ff",
+  "seller_categories": [
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    },
+    {
+      "mcat_id": "183999",
+      "mcat_name": "Self Loading Concrete Mixer"
+    },
+    {
+      "mcat_id": "5184",
+      "mcat_name": "Mobile Concrete Mixers"
+    },
+    {
+      "mcat_id": "157434",
+      "mcat_name": "Hydraulic Concrete Mixer"
+    }
+  ]
+}

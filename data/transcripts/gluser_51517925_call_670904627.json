@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670904627",
+  "gluser_id": "51517925",
+  "vintage_months": 95,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651003",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc75476c-60c1-4dd2-83dc-02c0d7255b9e",
+  "ucid": "cc75476c-60c1-4dd2-83dc-02c0d7255b9e",
+  "seller_categories": [
+    {
+      "mcat_id": "202022",
+      "mcat_name": "Gym Setup"
+    },
+    {
+      "mcat_id": "126829",
+      "mcat_name": "Multi Gym"
+    },
+    {
+      "mcat_id": "181826",
+      "mcat_name": "Functional Trainer Machine"
+    },
+    {
+      "mcat_id": "23912",
+      "mcat_name": "Bus Stop Shelters"
+    },
+    {
+      "mcat_id": "168444",
+      "mcat_name": "MS Laser Cutting Services"
+    }
+  ]
+}

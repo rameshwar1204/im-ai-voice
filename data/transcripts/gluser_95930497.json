@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667504118",
+  "gluser_id": "95930497",
+  "vintage_months": 33,
+  "bl_dau_oct": 9,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Etawah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626827",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan madam boliye.\\nExecutive: Haan ji sir. Sir main ye keh rahi thi jaise aapki jo service hai wo jo band hogi wo February mein hi band hogi. Aap bhale use mat karo. So abhi matlab deactivate to koi matlab hi nahi hai ek do mahine bache hain. To main fir ye ticket close kar doon?\\nCustomer: Haan ji close kar dijiye.\\nExecutive: Theek hai wo auto matlab aap renew mat kara nahi karaoge to wo February mein automatically hi band ho jayegi.\\nCustomer: Theek hai madam koi baat nahi main jab tak usme lead aayegi to main check karta rahunga usko achha.\\nExecutive: Haan matlab aap wo aapki marzi hai sir but jaise aap wo kar sakte ho. Baki jaise jo deactivation hai wo hum as such wo nahi hai. To February mein aap renew nahi karaoge to fir wo tab bhi ho jayega.\\nCustomer: Theek hai.\\nExecutive: Ha okay sir thank you so much main ye ticket close kar rahi hoon. Aapke paas ek feedback jayega sir to feedback de dena aap.\\nCustomer: Kya aayega feedback mein kya dena hai?\\nExecutive: Feedback ke liye mera hi feedback aayega ki jo bhi resolution mila wo satisfactory tha wahi cheez hai.\\nCustomer: Haan theek hai madam.\\nExecutive: Haan okay thank you.\\nCustomer: Thanks.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's service will end in February.\\n\n- Executive asked to close the ticket.\\n\n\\n\nResolution:\\n\n- Executive closed the ticket.\\n\n- Informed about feedback after ticket closure.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, deactivation, feedback, ticket\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=facfc295-51f6-4633-8292-270f1e1828a7",
+  "ucid": "facfc295-51f6-4633-8292-270f1e1828a7",
+  "seller_categories": [
+    {
+      "mcat_id": "143608",
+      "mcat_name": "Rectified Spirit"
+    },
+    {
+      "mcat_id": "14213",
+      "mcat_name": "Ethanol"
+    },
+    {
+      "mcat_id": "192079",
+      "mcat_name": "Denatured Ethanol"
+    },
+    {
+      "mcat_id": "9603",
+      "mcat_name": "Liquid Malt Extract"
+    },
+    {
+      "mcat_id": "28263",
+      "mcat_name": "Fatty Alcohols"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667244004",
+  "gluser_id": "33088358",
+  "vintage_months": 96,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Gandhinagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9644893",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Bolo.\\nCustomer: Sir, Namaste, kaise hain aap?\\nExecutive: Bas badhiya badhiya. Aagaye wapas?\\nCustomer: Aagaye aagaye. Hmm, ab bataye kya hai aaj?\\nCustomer: Aap hi ka intezaar kar rahe hain.\\nExecutive: Hmm?\\nCustomer: Aap hi ka intezaar kar raha hun.\\nExecutive: Ek minute karwa dete hain, kisko bolun? Mere aur ye kaisa chal raha hai pura wo hmm ha boliye boliye.\\nCustomer: Ah puch raha hun kaisa chal raha hai, kuch thoda bahut dekh rahe hain, nahi dekh rahe ho aap?\\nCustomer: Services vagaira ka main puch raha hun.\\nExecutive: Main nahi dekh raha hun actually wo main jo dekh rahe hain na unse baat kar leta hun. 252 bhai dekh rahe hain na. Are ek cheez bataiye ye jo flat light fixture karke aata hai, hai na? Hmm. Ki ye aap dete ho kya? Matlab aapke paas mein ye available rehta hai?\\nExecutive: Ha rehta hai. Wo to alag alag hote hain sir.\\nCustomer: Achcha, kyunki IndiaMART na kuch product aapko recommend kar raha tha, theek hai? Jo aapke product line ke hain, usme ho sakta hai ki kuch product aise ho jispe aap kaam kar hi rahe ho. Jaise ek flat light mixer fixture tha, theek hai? Ek aapka sports lighting jo ground mein lagti hain wo wali ho gayi, theek hai? Uske alawa aapka solar street light jo chalti hain, solar LED street light chalti hai, LED panel light chalti hai, solar lighting hai apne paas mein, LED cob light karke aati hai koi. Wo wo ek wo pura wo pura aap ek baar ye Pawan bhai se discuss karo na wo aap please. Achcha. Wo check kar wo hi pura dekhenge to main to kholta hi nahi hun generally sir. To wo wo pura wo upgrade karne karenge, theek hai? Hmm hmm. Wo total IndiaMART unko handle kiya hua hai. Achcha, theek hai? Theek hai, main unse baat kar leta hun. Unse baat kar lo. Main to ha unse baat kar leta hun. Theek hai aur\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the performance of services.\\n\n- Customer asked about flat light fixture availability.\\n\n- Customer asked about sports lighting availability.\\n\n- Customer asked about solar street light availability.\\n\n\\n\nResolution:\\n\n- Executive said he doesn't handle the account.\\n\n- Executive asked customer to contact Pawan.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, product availability, indiamart, lighting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 154,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5dda0ce0-fd90-4cf0-a368-5fc35fa2a85d",
+  "ucid": "5dda0ce0-fd90-4cf0-a368-5fc35fa2a85d",
+  "seller_categories": [
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "95589",
+      "mcat_name": "LED Street Light"
+    },
+    {
+      "mcat_id": "191943",
+      "mcat_name": "Day Night Switch"
+    },
+    {
+      "mcat_id": "32459",
+      "mcat_name": "Light Sensors"
+    },
+    {
+      "mcat_id": "32318",
+      "mcat_name": "LED Lights"
+    }
+  ]
+}

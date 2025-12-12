@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674362980",
+  "gluser_id": "185753781",
+  "vintage_months": 32,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9705617",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello? Haan ji.\\nExecutive: Haan ji. India Mart.\\nCustomer: Haan ji, kahan se baat kar rahe hain?\\nExecutive: Shashaank baat kar raha hun Stylus Baba Ajmer se.\\nCustomer: Haan bataiye.\\nExecutive: Isse mere ko sale karni hai India Mart pe.\\nCustomer: Kya karni hai?\\nExecutive: Maine buy lead consume kiya hai.\\nCustomer: Sir, main abhi aapko na office nahi pahunchi hun. Thoda late ja rahi hun. Main mujhe office mein 10-11 baje office pahunch ke aapko call back karungi, theek hai?\\n\\nExecutive: Haan, theek hai.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Sale on India Mart.\\n\n- Buy lead consume.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will call back at 10-11 AM after reaching the office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia mart, sale, buy lead, callback\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bd48936d-d2a0-4ed0-bf46-e5196b3a507e",
+  "ucid": "bd48936d-d2a0-4ed0-bf46-e5196b3a507e",
+  "seller_categories": [
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    }
+  ]
+}

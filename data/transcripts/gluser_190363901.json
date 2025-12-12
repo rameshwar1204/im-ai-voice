@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669345391",
+  "gluser_id": "190363901",
+  "vintage_months": 26,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baddi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655646",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [inaudible] \\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haanji. Hello, very good afternoon ma'am, mai Smriti baat kar rahi hu IndiaMART se. Bataiye.\\nCustomer: [inaudible]\\nExecutive: Ma'am basically aapne interest toh kiya hai ma'am video meeting ke liye ma'am, right? Bataiye ma'am kya concern hai aapka ma'am? Aapne ma'am aap se do din baad karti hu ma'am, mai meeting me rehti hu.\\nExecutive: Ji ma'am toh aap video meeting me time schedule karke bata sakti hai kitne baje?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently in a meeting.\\n\n\\n\nResolution:\\n\n- Executive asked to schedule a time for video meeting.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, interest\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4cd1881a-9fe7-48cd-9c19-77f6927a285b",
+  "ucid": "4cd1881a-9fe7-48cd-9c19-77f6927a285b",
+  "seller_categories": [
+    {
+      "mcat_id": "181805",
+      "mcat_name": "Pharmaceutical Third Party Manufacturing"
+    },
+    {
+      "mcat_id": "180203",
+      "mcat_name": "Glutathione Tablet"
+    },
+    {
+      "mcat_id": "446048",
+      "mcat_name": "Vanilla Protein Powder"
+    },
+    {
+      "mcat_id": "137388",
+      "mcat_name": "Whey Protein"
+    },
+    {
+      "mcat_id": "143364",
+      "mcat_name": "Ayurvedic Digestive Syrups"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668131019",
+  "gluser_id": "15974601",
+  "vintage_months": 11,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643325",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\nCustomer: Haan ji. Bol raha hu meri buyleads hai kyun zero dikha rahi hai?\\nExecutive: Hello. Haan ji sir kaunsi?\\nCustomer: Hello.\\n\\nExecutive: Hello.\\nCustomer: Haan ji sir aawaz aa rahi hai.\\nExecutive: Haan bol raha hu meri buyleads zero kyun dikha rahi hai?\\nCustomer: Achha kaunsi company se baat kar rahe hain sir ek bari company batayenge mere ko?\\nCustomer: Murli Manohar Trading Company.\\nExecutive: Achha Murli Manohar Trading okay okay.\\nExecutive: Advani ji se baat ho raha hai kya?\\nCustomer: Ji.\\nExecutive: Ji okay sir thik hai main ek baar dekh leta hu. Achha kal baat hua tha mera aapse.\\nCustomer: Hmm.\\nExecutive: To abhi aapne jaise abhi consume kara tha isme jaise is week mein?\\nCustomer: Kya?\\nExecutive: Jaise is week mein 17 buyleads milta hai to usme se kitna consume hua sir apna?\\nCustomer: Kya aapke paas gin ki thodi na rakhte hai.\\nExecutive: Ek minute aap ek bari batayenge primary number lag raha hai 864 wo wale se call kar rahe hai ya 0075 do person hai aapki aawaz break ho rahi hai.\\nExecutive: Ek minute main karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks why buyleads are showing zero.\\n\n\\n\nResolution:\\n\n- Executive asked for company name for verification.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, company verification, consumption\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b6cb76e1-1008-4613-9b99-56550bec61f7",
+  "ucid": "b6cb76e1-1008-4613-9b99-56550bec61f7",
+  "seller_categories": [
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "34432",
+      "mcat_name": "Pistachio"
+    },
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "185514",
+      "mcat_name": "Split Cashew Nut"
+    },
+    {
+      "mcat_id": "68036",
+      "mcat_name": "Organic Almond"
+    }
+  ]
+}

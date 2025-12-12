@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667947643",
+  "gluser_id": "104294585",
+  "vintage_months": 0,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639486",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haanji.\\nExecutive: Good morning sir, main Ritika baat kar rahi hoon IndiaMART se aapke account manager.\\nCustomer: Haanji.\\nExecutive: Kaise hain sir?\\nCustomer: Theek hoon madam, aap mein.\\nExecutive: Okay. Sir, aapne ek toh kal customer care pe call kiya tha, woh main jaanna chahti hoon.\\nCustomer: Haanji.\\nExecutive: Sir, kis liye kiya tha?\\nCustomer: Madam, maine toh woh transport ke liye kiya tha.\\nExecutive: Transport?\\nCustomer: Haanji, woh transport hota hai na isme facility hai na shipping.\\nExecutive: Haanji, ji sir hai, hai, hai.\\nCustomer: Uske liye.\\nExecutive: Theek hai. Dusra sir, aapke saath hai na aaj mujhe ek video meeting karna hai waise bhi, toh main us par hi aapko woh bhi samjha dungi, toh hum kab kar sakte hain?\\nCustomer: Madam, main kitne baje free, 10:30, aap kitne baje free hain?\\nExecutive: Sir, main toh abhi bhi free hoon. Jab aapke paas.\\nCustomer: Abhi main free nahi hoon thoda sa. Toh woh apan rakhte hain main 12:00 baje ke approx rakhna chahta hoon.\\nExecutive: Koi dikkat nahi hai, 12:00 baje hum video meeting karte hain, usi par hi main aapko yeh bhi samjha dungi. Jo bhi aapke doubts hain aur basically is video meeting ka jo purpose hai sir, woh yahi hai kyunki abhi aap IndiaMART pe new ho, toh saari hi cheezein main aapko isme guide karungi. Kaise services ko use karna hai, kya benefits hai, theek hai, saari hi cheezein A to Z.\\nCustomer: Okay.\\nExecutive: Okay. Okay sir, main 12:00 baje connect karti hoon aapko. Thank you.\\nCustomer: Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called customer care for transport.\\n\n- Executive wants to schedule a video meeting.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meeting for 12:00 PM.\\n\n- Executive will explain IndiaMART services in the meeting.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with customer at 12:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- transport, video meeting, services\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa13282e-0094-41bc-a909-bb9296b0c98f",
+  "ucid": "fa13282e-0094-41bc-a909-bb9296b0c98f",
+  "seller_categories": [
+    {
+      "mcat_id": "69245",
+      "mcat_name": "Fresh Garlic"
+    },
+    {
+      "mcat_id": "42518",
+      "mcat_name": "Garlic"
+    },
+    {
+      "mcat_id": "187693",
+      "mcat_name": "Organic Garlic"
+    },
+    {
+      "mcat_id": "179852",
+      "mcat_name": "Peeled Garlic"
+    },
+    {
+      "mcat_id": "216871",
+      "mcat_name": "Black Garlic"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "670957395",
+  "gluser_id": "252465991",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671146",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ya.\\nExecutive: Pratik ji baat kar rahe hain?\\nCustomer: Kaun?\\nExecutive: Pratik ji baat kar rahe hain?\\nCustomer: Ji.\\nExecutive: Pratik ji main Suresh baat kar raha hu relationship manager India Mart office se.\\nCustomer: Boliye.\\nExecutive: Aapki services ke regarding P3 Oswal Industries Private Limited se linked hai aap hamare yaha se, right?\\nCustomer: Barabar.\\nExecutive: Aapki side se handling kaun kar raha hai sir? Koi staff aapka ya khud hi dekhte hain aap?\\nCustomer: Ji, aapki aawaz kat rahi hai. Main keh raha hu aapka ye jo services India Mart pe running mein chal raha hai sir, iska account handling aapke side se koi aapka staff karta hai ya aap khud karte hain?\\nExecutive: Nahi main khud karta hu.\\nExecutive: Aap khud karte hain sir. Abhi aapka aaj one ke sath ek discussion hua hoga services ke regarding. Aapse hi baat hui thi.\\nExecutive: Vansh Tomar ji aapke account manager jo hai India Mart se.\\nCustomer: Sir aap thoda jor se baat kijiye main travelling mein hu mujhe aawaz nahi aa rahi hai.\\nExecutive: Okay.\\nExecutive: To main thodi der baad aapko. Aur aap jor se baat karenge to samjhega sir. Thodi der baad mera capacity nahi rahega sir. Abhi baat kar lijiye aap.\\nExecutive: Aap sir ek discussion hua hoga na Vansh Tomar ke sath aapko dhyan hoga.\\nCustomer: Sir discussion kya karu bar bar kar raha aap se. Aapka aapke end se aapke end se jo bhi leads mujhe generate ho rahi hai us wohi lead ka koi single output nahi hai.\\nCustomer: Hmm hmm.\\nCustomer: To main woh aapka application handle karu kyu?\\nCustomer: Ab aapko to funds mil gaye humne 36000 something aapko paid kar diya. Aur 10 bar bolne ke baad bhi agar aapki taraf se mere ko lead jo\\nCustomer: Voice kat rahi hai sir aapki.\\nExecutive: Hmm hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting proper leads.\\n\n- Wants to know why to handle application.\\n\n\\n\nResolution:\\n\n- Executive tried to confirm previous discussion.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, application, services\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3af516af-04af-4d3e-a9c2-3e9b6503ad52",
+  "ucid": "3af516af-04af-4d3e-a9c2-3e9b6503ad52",
+  "seller_categories": [
+    {
+      "mcat_id": "164615",
+      "mcat_name": "Desert Air Cooler"
+    },
+    {
+      "mcat_id": "138121",
+      "mcat_name": "Plastic Air Cooler"
+    },
+    {
+      "mcat_id": "21384",
+      "mcat_name": "Air Coolers"
+    }
+  ]
+}

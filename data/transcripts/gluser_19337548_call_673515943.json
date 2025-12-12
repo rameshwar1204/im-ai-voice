@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673515943",
+  "gluser_id": "19337548",
+  "vintage_months": 21,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Amroha",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694952",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir aapka phone cut gaya tha. \\nCustomer: Nahi subah baat karenge, subah baat karenge, humpe nahi hai subah baat karenge.\\nExecutive: 10-11 baje ke aas paas mein call kar lunga aapko.\\nCustomer: Subah baat kar lenge lekin jo flow hai na woh aage se hi down hai thoda. Toh mujhe iske baare mein kya keh sakta hu batao.\\nExecutive: Down hai toh main iske baare mein kya keh sakta hu batao.\\nCustomer: Main toh kuch iske baare mein bol nahi sakta. Main toh jo samasya hai woh aapko bata sakta hu.\\nExecutive: Nahi samasya main samajh gaya. Kyunki pehle dekho pehle 4-500 lead aati thi mere paas. Ab woh ratio lagbhag 200-250 toh chala gaya hai.\\nAur abhi November mein 107 aayi hai usme 11 aapne consume kiya hai. Ab socho na itne saare supplier hai 1000 plus supplier. Aapne 11 consume bhi kar diye baaki ko woh bhi nahi mila.\\nExecutive: 1000 plus supplier hai 1000 mein 1100 lead aa rahi hai. Hain toh kya padi.\\nCustomer: Haan nahi nahi hai. Bahut saari lead sold out bhi hui hai.\\nSamajhiye baat ko. Haan toh saari hi aayengi dikhengi. Aap jis time active rahenge aap consume kar payenge jis time nahi rahenge woh nahi kar payenge.\\nAur main yeh keh raha tha ke agar dekho agar is particular product ko aapko highlight karna hai toh aap isko unlimited city mein promote kar dijiye. Aur direct buyer le lijiye waha se. Behtar toh yahi hoga baaki log aise hi kar rahe hai.\\nExecutive: Iske liye main kal baat karunga phir aapse.\\nCustomer: Theek hai kal baat karte hai iske liye. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says lead flow is down.\\n\n- Customer received 107 leads in November, consumed 11.\\n\n\\n\nResolution:\\n\n- Executive suggested promoting product in unlimited cities.\\n\n- Executive will call the customer tomorrow to discuss.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, promotion\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9d7ee3fd-bb1c-4dbc-afb8-8244007414a9",
+  "ucid": "9d7ee3fd-bb1c-4dbc-afb8-8244007414a9",
+  "seller_categories": [
+    {
+      "mcat_id": "650576",
+      "mcat_name": "New Ortho Power Tablets"
+    },
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "215317",
+      "mcat_name": "Ortho Nil Powder"
+    },
+    {
+      "mcat_id": "280413",
+      "mcat_name": "Gopal Herbal Joint Pain Relief Powder"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669351396",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Sorry sir, abhi abhi aapse baat hua tha. Hello? Haan sir.\\nCustomer: Hmm.\\nExecutive: Sir ye bol rahe hain ki jo rejected wala option to pata chal gaya hoga aapko kaise check kar sakte ho na? Inactive wala product aur deactive wala?\\nCustomer: Haan.\\nExecutive: Haan, check kar sakte ho. Aur dusra aapko ye bolna tha sir kuch ek option ye bhi rehta hai ki aap not relevant bhi mark kar sakte ho. Koi lead agar aapke not uh not fit hai to usko aap not relevant bhi mention kar sakte ho jis tarah ki us lead ka aage se na aaye, hai na? Waise to aap PAN India deal karoge na sir?\\nCustomer: Haan, nahi mostly hamara east nahi hai. Theek hai.\\nExecutive: Haan, achha apna apne nahi achha achha. Aur sir dekhiye kuch bhi rehta hai to aap ye bata dena baki.\\nCustomer: Okay.\\nExecutive: Baki aapke paas Nancy ka number hai sir WhatsApp wala?\\nCustomer: Hmm, ek baar mujhe ye kar dijiye pehle se tha wo.\\nExecutive: Haan, wo I think kar deti hai aapko, theek hai? To aap usko bhi save kar lijiyega. Fine sir. Done. Theek hai. Thank you so much.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants Nancy's WhatsApp number.\\n\n\\n\nResolution:\\n\n- Executive informed Nancy will share the number.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- rejected option, inactive product, not relevant, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c9a6975c-93df-4f4b-880f-629db4697994",
+  "ucid": "c9a6975c-93df-4f4b-880f-629db4697994",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

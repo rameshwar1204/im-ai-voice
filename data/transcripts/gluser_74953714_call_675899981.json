@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675899981",
+  "gluser_id": "74953714",
+  "vintage_months": 20,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Thana Bhawan",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9718029",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan ji, Rajesh ji, good afternoon. Colony bol rahi hu IndiaMART se, Rishabh ji ke manager.\\nCustomer: Hmm.\\nExecutive: Aapka discussion abhi Rishabh ji se hua tha na, kuch aap social media mein platform aapne last time mujhe bhi bataya tha, to wo aapko add karne the.\\nCustomer: Haan.\\nExecutive: To usi ke liye aapne abhi call kiya hai kya customer care pe?\\nCustomer: Haan.\\nExecutive: Achcha, to aap agar ho abhi to main uske liye guide kar deti hu. Pichli baar aapke paas available nahi tha to add nahi hua tha, aapne karwaya nahi tha.\\nCustomer: Main sham ko call karta hu, sham ko.\\nExecutive: Achcha, to ye aapka to aapka ye jo concern hai, abhi isme customer care pe ye main close kar du? Aap baki jab se free ho to aap mujhe call kar lena, maine aapko WhatsApp bhi kar diya.\\nCustomer: Haan, kar do.\\nExecutive: Aur suniye, ek cheez aur aap aap na number save already aapke I think Rishabh ji ka hai, aapke paas mera bhi hai. To aap usse hume directly call kar sakte ho, guidance hum hi dete hain.\\nCustomer: Haan.\\nExecutive: Haan ji, theek hai, main close kar rahi hu baki concern. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add social media platforms.\\n\nResolution:\\n\n- Executive offered to guide the customer.\\n- Customer wants to call in the evening.\\n\n\\n\nNext Steps: \\n\n- Executive will close the customer care request.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- social media, platform, customer care\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bc8da1d1-2293-4684-afa1-a8204783a74b",
+  "ucid": "bc8da1d1-2293-4684-afa1-a8204783a74b",
+  "seller_categories": [
+    {
+      "mcat_id": "186011",
+      "mcat_name": "Muskmelon Seed"
+    },
+    {
+      "mcat_id": "208734",
+      "mcat_name": "Syngenta Insecticide"
+    },
+    {
+      "mcat_id": "41063",
+      "mcat_name": "Hybrid Watermelon Seeds"
+    },
+    {
+      "mcat_id": "226825",
+      "mcat_name": "UPL Herbicides"
+    },
+    {
+      "mcat_id": "217721",
+      "mcat_name": "UPL Insecticides"
+    }
+  ]
+}

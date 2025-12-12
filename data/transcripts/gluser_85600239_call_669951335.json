@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669951335",
+  "gluser_id": "85600239",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan mam, mai Patel Timber se bol raha hu.\\nCustomer: Kaunsi company se sir?\\nExecutive: Patel Timber.\\nCustomer: Kal aapne kal call kiya tha aapne mai kal thoda busy tha to laga nahi paya tha. Mam mai mai bol raha tha ki mai jaise ki mere mere isme ke bahut din se wo lead nahi aa rahi hai koi si bhi matlab MP Madhya Pradesh mein.\\nCustomer: Haan.\\nExecutive: Pure MP mein koi si bhi lead nahi aa rahi hai. Abhi ek hi dekhi thi mai usko kaise open karta hu na.\\nCustomer: To wo kuch bhi dikhta nahi usme. Aap ek minute wo line wo kariye na kya bolte hai.\\nExecutive: Mai check kar rahi hu. Screen ha screen manage kariye.\\nCustomer: Kaunsi lead bata rahe the product name bataiye.\\nExecutive: A ye wooden runner plates wagera inka kuch bhi matlab.\\nCustomer: Wooden runner plates.\\nCustomer: Nahi nahi wooden plates wagera runner wagera jo bhi matlab mera account me se mai open karta hu na usme Madhya Pradesh mein jata hu to mujhe fir kuch dikhta nahi usme matlab koi koi si bhi lead nahi dikhti.\\nExecutive: Haan.\\nCustomer: Wo shayad kuch ho gaya tha mere se ek din ab uske baad se mai free nahi ho paya free mai aaj hua hu to maine kaha phone lagau aapko.\\nExecutive: Accha mai check kar leti hu. Accha ha MP ki lead milegi ho sakta hai aapne yaha wo settings mein ek option hota hai waha pe aap wo city agar restrict kar dete ho to lead nahi dikhti hai.\\nCustomer: Haan mujhe wo sir aapka na aapke aap hi kar paoge matlab mai yaha se hata nahi sakti to mai aapko ek link bhej rahi hu Google meeting ki aap wo join kar lo. Aap check kariye sir aapke mail pe gaya hoga link mai aapko guide kar dungi to aap waha se wo setting hata dijiyega to aapki wapas se aane lag jayenge lead.\\nExecutive: Haan.\\nCustomer: Bataiye.\\nExecutive: Ji sir aapko ek link mai share kar rahi hu. Ye sir whatsapp number available hai aapka isi pe.\\nCustomer: Haan ye aap link dal dijiye lead aapke haan. Soniya Soniya Bharti.\\nExecutive: Haan haan haan isi pe join kar lijiye.\\nCustomer: Join kar liya.\\nExecutive: Ye join ho gaya.\\nExecutive: Join kar liya aapne. Aap jis vyakti se baat kar rahe hai unhone aapke call",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads in Madhya Pradesh.\\n\n\\n\nResolution:\\n\n- Executive sent a Google Meet link to guide customer.\\n\n\\n\nNext Steps: \\n\n- Customer to join Google Meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, settings\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 152,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=815e4b54-00c3-47cd-b37c-315eb372996c",
+  "ucid": "815e4b54-00c3-47cd-b37c-315eb372996c",
+  "seller_categories": [
+    {
+      "mcat_id": "178220",
+      "mcat_name": "Industrial Wooden Pallets"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "3531",
+      "mcat_name": "Wooden Crates"
+    },
+    {
+      "mcat_id": "148704",
+      "mcat_name": "Pine Wood Runners"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    }
+  ]
+}

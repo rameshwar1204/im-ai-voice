@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669752941",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji mam boliye ji Vanshika bol rahi hu mam connect actually meeting me thi isliye baat nahi kar payi aapse mam\\nCustomer: Okay okay theek hai theek hai mam link send kar di mam aapko\\nExecutive: Link send karoge kya aap\\nCustomer: Ha ji mam link send karna padega uske through aap google meet me connect karegi mam\\nExecutive: Achcha aapko\\nExecutive: Ji\\nCustomer: Kitna samay lagega meeting me\\nExecutive: Mam 15 minute to lag hi jayega na har cheez guide karni hai aapko mam\\nCustomer: Achcha 15 minute lagega 10 15 minute theek hai mai aapko ek number number deti hu us pe send kijiyega aapka number yahi hai kya\\nExecutive: Ha number hai mam aapke number pe send kar do ye number aapka hi hai na 860\\nCustomer: Nahi is pe nahi karna hai dusra dusra number hai\\nExecutive: Achcha mam mera is number pe send hi likh kar ke bhej dijiye mam ko\\nCustomer: Theek hai madam okay\\nExecutive: Ji mai bhejti hu aapko\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect on Google Meet.\\n\n- Customer asks how long the meeting will take.\\n\n- Customer wants to share a different number.\\n\n\\n\nResolution:\\n\n- Executive agreed to send the meeting link.\\n\n- Executive asked the customer to send 'Hi' on a number.\\n\n\\n\nNext Steps: \\n\n- Executive will send the meeting link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, meeting link, number\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8ede703a-e960-4716-9841-53900006abe6",
+  "ucid": "8ede703a-e960-4716-9841-53900006abe6",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

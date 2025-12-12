@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668358205",
+  "gluser_id": "249642876",
+  "vintage_months": 4,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dumri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Ji namaste, IndiaMART se [inaudible] baat kar raha hu.\\nCustomer: Haan ji.\\nExecutive: Sir, aapka IndiaMART pe jo refund request aaya hua hai, uske regarding mein aapko call kiya gaya hai. Sir, aapka naam confirm kar sakte hai?\\nCustomer: [Inaudible]\\nExecutive: Sir, aapka company name?\\nCustomer: [Inaudible]\\nExecutive: Sir, aapka jo refund request aaya hua hai, toh aapko refund kyu chahiye, sir?\\nCustomer: Maine toh koi refund request nahi kiya hai.\\nExecutive: Nahi sir, aapke taraf se aaya hua hai, toh aapko refund kyu chahiye?\\nCustomer: Maine nahi kiya hai, toh kaise aa gaya?\\nExecutive: Sir, aapko refund chahiye ya nahi chahiye?\\nCustomer: Nahi chahiye.\\nExecutive: Nahi chahiye, sir?\\nCustomer: Nahi.\\nExecutive: Theek hai sir, main isko cancel kar deta hu. Dhanyavaad.\\nCustomer: Haan, cancel kar do.\\nExecutive: Haan ji, dhanyavaad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states they did not request a refund.\\n\n\\n\nResolution:\\n\n- Executive cancelled the refund request.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, request, cancellation\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=55fa3d79-4ad4-466e-b122-352237fbbc37",
+  "ucid": "55fa3d79-4ad4-466e-b122-352237fbbc37",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    }
+  ]
+}

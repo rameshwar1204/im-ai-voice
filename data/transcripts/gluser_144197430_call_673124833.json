@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673124833",
+  "gluser_id": "144197430",
+  "vintage_months": 1,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691936",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello sir, sir subah baat hui thi na, ye bol rahe hai ki abhi aapka miss ho gaya tha na call pe concern open ho gaya to wo mai close kar rahi hu, thik hai sir?\\nCustomer: Kya?\\nExecutive: Abhi jo aapne call kiya tha na, aapka usse concern open ho jata hai to wo mai close kar rahi hu, thik hai? Aur bhi koi problem ho to aap bata dena, thik hai? Matlab kyuki aap bol rahe ho na December me use karoge aap, to mai pehli tarikh ko aapko call karungi, thik hai?\\nCustomer: Hmm.\\nCustomer: Thik hai ji.\\nExecutive: India Mart ka profile ke regarding, thik hai?\\nCustomer: Thik hai ji.\\nExecutive: Mai close kar rahi hu, thik hai sir? Concern.\\nCustomer: Okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Concern open due to a missed call.\\n\n\\n\nResolution:\\n\n- Closing the concern.\\n\n- Executive will call on the first of December regarding the IndiaMART profile.\\n\n\\n\nNext Steps: \\n\nIssue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart profile, concern closure\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=17b6d095-bd7d-4c22-b619-3b559826e630",
+  "ucid": "17b6d095-bd7d-4c22-b619-3b559826e630",
+  "seller_categories": [
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    },
+    {
+      "mcat_id": "5945",
+      "mcat_name": "Pillow Block Bearing"
+    },
+    {
+      "mcat_id": "650094",
+      "mcat_name": "WECON PLC"
+    },
+    {
+      "mcat_id": "43491",
+      "mcat_name": "Switch Mode Power Supply"
+    },
+    {
+      "mcat_id": "145441",
+      "mcat_name": "Biofuel Briquettes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673886939",
+  "gluser_id": "163174637",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baidyabati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9700375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji hello.\\nExecutive: Ji mam good afternoon.\\nCustomer: Very good afternoon.\\nExecutive: Aap free hai abhi?\\nExecutive: Yes yes bataiye.\\nCustomer: Thik hai main aapko na video meet ka link share kar rahi hu mail pe.\\nExecutive: Thik hai kar dijiye. Okay.\\nCustomer: Aapko karna hai SG\\nCustomer: Mam maine na\\nExecutive: Mail aapke paas kaunsa hai?\\nCustomer: Main check kar rahi hu mere mail pe hai ya mail singh wale pe dala hai.\\nCustomer: Abhi to mam mere pe to nahi aaya.\\nCustomer: Main aapko apna mail id share kar rahi hu please.\\nExecutive: Okay to jo mail id yaha dala hua hai usse nahi join kar rahe aap?\\nCustomer: Hmm wo Rama ka dala hai na.\\nCustomer: Haan.\\nCustomer: No no Rama pe nahi jayega. Ye jayega\\nCustomer: Priyansh 091019\\nExecutive: Mam wahi email id hai. Mam aapke na whatsapp pe maine message drop kiya tha aap check kiya. Email id abhi.\\nCustomer: Haan aap mujhe na email id waha drop kariye please.\\nExecutive: Okay main kar rahi hu. Ye number isi number pe whatsapp hai na 7758548\\nExecutive: Yes.\\nCustomer: Achha mujhe mail waha pe drop kariye thik hai.\\n\\nCustomer: Priyansh 091019 thik hai.\\nCustomer: Mam ye mail ye join kar lijiye na.\\nExecutive: Ji ji.\\nCustomer: Okay.\\nCustomer: Haan mam main aapka wait kar rahi hu na video meet pe.\\n\\nCustomer: Haan mam aawaz aati aayegi na phone mein?\\nExecutive: Yes aayegi.\\nCustomer: Okay main fir call disconnect karti hu thik hai.\\nExecutive: Ji.\\nExecutive: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help joining video meet.\\n\n- Customer wants the executive to share email ID.\\n\n\\n\nResolution:\\n\n- Executive agreed to share email ID on WhatsApp.\\n\n- Executive confirmed the WhatsApp number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- video meet, email id, whatsapp\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=155e6a11-3b18-4e25-8b75-41dafacfa474",
+  "ucid": "155e6a11-3b18-4e25-8b75-41dafacfa474",
+  "seller_categories": [
+    {
+      "mcat_id": "187435",
+      "mcat_name": "GI Pole"
+    },
+    {
+      "mcat_id": "20565",
+      "mcat_name": "Solar Street Lights"
+    },
+    {
+      "mcat_id": "137974",
+      "mcat_name": "Octagonal Pole"
+    },
+    {
+      "mcat_id": "153868",
+      "mcat_name": "High Mast Lighting Pole"
+    },
+    {
+      "mcat_id": "226874",
+      "mcat_name": "GI Octagonal Pole"
+    }
+  ]
+}

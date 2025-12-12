@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666922243",
+  "gluser_id": "143826101",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626275",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, namaskar Reddy sir.\\nExecutive: Namaste, namaste sir. Main phone karta hu aapko. Actually main meeting client aaya tha, meeting mein tha abhi tak. Abhi abhi abhi lunch pe ja raha hu main.\\nCustomer: Achha achha. Chaliye theek hai. Toh do se teen hamara lunch.\\nExecutive: Main aapko call karta hu aapko, theek hai?\\nCustomer: Theek hai. Teen baje ke baad call kar lijiyega, theek hai Reddy sir?\\nExecutive: Chalega. Theek hai. Wahi problem toh wahi hai. Relevant to buylead not available. Ye wahi sirf wahi message aata hai.\\nCustomer: Bilkul. Isme kuch haan, isme kuch updation main karwa deta hu. Kuch correction bhi mere paas update hai.\\nExecutive: Kuch toh karwa dijiye. Aapka taraf se kuch toh karwa dijiye, theek hai?\\nCustomer: Bilkul sir, bilkul. Aap tension na lijiye. Ek baar free ho ke sir na, teen baje ke baad mujhe call kijiye. Theek hai sir?\\nExecutive: Chalega. Theek hai, theek hai. Okay. Main karta hu aapko, theek hai?\\nCustomer: Okay, okay sir. Okay sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Receiving a \\\"Relevant to buylead not available\\\" message.\\n\\n\\nResolution:\\n\\n- Agreed to get some updates and corrections done on the account.\\n- Scheduled a callback for after 3 PM.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive to call the customer back after 3 PM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, account update, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bed8774a-c96f-4db9-bbb5-8c85163a02b0",
+  "ucid": "bed8774a-c96f-4db9-bbb5-8c85163a02b0",
+  "seller_categories": [
+    {
+      "mcat_id": "39173",
+      "mcat_name": "Swimming Pool Construction"
+    },
+    {
+      "mcat_id": "88527",
+      "mcat_name": "Readymade Swimming Pools"
+    },
+    {
+      "mcat_id": "175152",
+      "mcat_name": "Swimming Pool Repair Service"
+    },
+    {
+      "mcat_id": "39180",
+      "mcat_name": "Swimming Pool Pumps"
+    },
+    {
+      "mcat_id": "8381",
+      "mcat_name": "Sand Filters"
+    }
+  ]
+}

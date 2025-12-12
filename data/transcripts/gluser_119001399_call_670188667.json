@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670188667",
+  "gluser_id": "119001399",
+  "vintage_months": 59,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Varanasi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626851",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Good morning sir, Vineet baat kar raha hoon.\\nCustomer: Good morning bhai, main aayi thi.\\nExecutive: Are sir main ye keh raha hoon ki mere ko na wo Nivesh ka call aaya tha wo keh rahe the ki aapke paas credit manager aayega aaj.\\nCustomer: Theek hai.\\nExecutive: To wo Nivesh aapko call karega ki kya kya usme matlab wo kya kya cheeze hoti hai kya kya hota hai usme verification mein ya kya kya bolna chahiye.\\nExecutive: Wo keh raha tha ki usi ke basis pe hota hai ab mujhe to sir isme knowledge nahi hai ek baar aap unse baat kar lijiye wo aapko call karega Nivesh.\\nCustomer: Main main baat kar lunga theek hai main baat kar lunga.\\nExecutive: Bas theek hai sir iske upar to isliye bada bhag daud rahi hai bada aapne bhi kafi time diya hai is cheez ke liye to usko kar lete hain.\\nCustomer: Haan.\\nExecutive: Theek hai sir theek hai.\\nCustomer: Theek hai bhai ji theek hai.\\nExecutive: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call regarding credit manager visit.\\n\n\\n\nResolution:\\n\n- Executive informed customer about Nivesh's call regarding verification.\\n\n- Executive advised customer to speak with Nivesh for details.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Nivesh will call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- credit manager, verification, nivesh call\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ff0036a0-156d-49d0-910f-7470a21c2f53",
+  "ucid": "ff0036a0-156d-49d0-910f-7470a21c2f53",
+  "seller_categories": [
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "951",
+      "mcat_name": "Wall Clocks"
+    },
+    {
+      "mcat_id": "25569",
+      "mcat_name": "Decorative Wall Clock"
+    },
+    {
+      "mcat_id": "235626",
+      "mcat_name": "Metal Mobile Stands"
+    },
+    {
+      "mcat_id": "193074",
+      "mcat_name": "Ajanta Quartz Wall Clock"
+    }
+  ]
+}

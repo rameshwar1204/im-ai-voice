@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672991739",
+  "gluser_id": "153865220",
+  "vintage_months": 37,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramtek",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643893",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha boliye mam.\\nExecutive: Ji very good afternoon sir main Pooja Sharma baat kar rahi hu India Mart head office se aapke account manager bol rahi hu.\\nCustomer: Ji ji.\\nExecutive: Ji sir aapka discussion hua tha apna catalog aur update karwane ke liye aap bol rahe the sir shifting ke baad main karunga to free ho gaye sir aap.\\nCustomer: Ha mam actually nahi mam factory ka hi kam chalu hai.\\nExecutive: Factory ka hi kam chalu hai actually sir ji.\\nCustomer: Ji ji maine do teen isme kiya tha school shoes aur track track to uske isme update kiya hai maine jaise jaise time milta hai usme se jaldi jaldi update karte ja raha hu do iska ho gaya hai baki aur jo item hai usme bas photos nikalna hai aur description niche editing karna pura proper to kar lunga mam samajh gaya abhi kaise karte ho.\\nExecutive: Sir maine aapko last time bataya tha aap sir ji ji jo catalog wala jo option hai na product jab aap apna seller panel login karte hain to usme product option aata hai na waha pe sir right side aapko har ek product ka score dikhta hai 100 me se.\\nCustomer: Ha ha mam wo a gaya tha ek isme to 36 tha to maine 80 tak leke gaya tha wo photos update karna padta hai description me add karna padta hai aur material kon sa use kar rahe hain apan us type ke option aate hain wo bol rahe hain na mam.\\nExecutive: Bilkul bilkul to usme sir abhi jo hai na matlab aapka jo catalog score hai overall wo 55% hai sir isko increase karke kam se kam sir hame 80% pe leke jana hai.\\nCustomer: Ha theek hai.\\nExecutive: To aap bataye sir kab tak ye complete kar denge aap.\\nCustomer: Ha mam do teen me ho jayega shayad se aaj to pura din idhar hi jayega ha do teen din me kar denge ji fir raat me aapko call kar dunga koi problem aayi to.\\nExecutive: Theek hai sir.\\nExecutive: Okay okay sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to update catalog score to 80%.\\n\n- Factory work is ongoing.\\n\n\\n\nResolution:\\n\n- Executive explained catalog score update process.\\n\n- Customer agreed to update catalog score.\\n\n\\n\nNext Steps: \\n\n- Customer will call if any problem arises.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, update, score, product\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eecb9833-6fcb-4a35-a19e-b3d0fd602ef5",
+  "ucid": "eecb9833-6fcb-4a35-a19e-b3d0fd602ef5",
+  "seller_categories": [
+    {
+      "mcat_id": "20954",
+      "mcat_name": "Men Bicycle"
+    },
+    {
+      "mcat_id": "186514",
+      "mcat_name": "Leather Cricket Ball"
+    },
+    {
+      "mcat_id": "88462",
+      "mcat_name": "School Shoes"
+    },
+    {
+      "mcat_id": "105828",
+      "mcat_name": "Bicycle"
+    },
+    {
+      "mcat_id": "78535",
+      "mcat_name": "Men Tracksuit"
+    }
+  ]
+}

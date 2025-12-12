@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669817917",
+  "gluser_id": "10815847",
+  "vintage_months": 32,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kuchaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662163",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Sir, mujhe aapse ek concern tha, aapne abhi call kiya tha na thodi der pehle 9696 wale number pe?\\nCustomer: Haanji haanji haanji.\\nExecutive: To uske uski wajah se na complaint raise ho gayi hai to main close kar du kyunki agar next time se aapko call karna hai na to is number pe kijiyega main aapka account manage karungi, us number pe nahi karna hai.\\nExecutive: To uski wajah se na ye complaint raise ho gayi hai to kya main isko close kar du?\\nCustomer: Mam close to tab kariyega na jab mera problem sort out hoga.\\nExecutive: Nahi nahi, wo problem ki complaint nahi hai. Wo is cheez ki hai ki aapka main account manager hu to mujhe call karna tha but ki aapne waha pe call kar diya to wo mere against raise ho gayi hai. Aapne call nahi kiya na aapne is wajah se, wo problem ki nahi hai.\\nCustomer: Thik hai thik hai.\\nExecutive: To main close kar lu?\\nCustomer: Haanji haanji.\\nExecutive: Is number pe call kijiyega, thik hai?\\nCustomer: Okay. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint raised because customer called wrong number.\\n\n- Customer wants problem to be resolved first.\\n\n\\n\nResolution:\\n\n- Executive clarified the complaint was not problem-related.\\n\n- Executive requested customer to call on her number.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, account manager, call\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d64140c7-1fed-491d-a90c-8ffe2a866371",
+  "ucid": "d64140c7-1fed-491d-a90c-8ffe2a866371",
+  "seller_categories": [
+    {
+      "mcat_id": "151290",
+      "mcat_name": "Underwater Inspection Services"
+    },
+    {
+      "mcat_id": "142869",
+      "mcat_name": "Underwater Welding Service"
+    },
+    {
+      "mcat_id": "113784",
+      "mcat_name": "Ship Repairing Services"
+    },
+    {
+      "mcat_id": "151283",
+      "mcat_name": "Underwater Engineering Works"
+    },
+    {
+      "mcat_id": "177660",
+      "mcat_name": "Desilting Service"
+    }
+  ]
+}

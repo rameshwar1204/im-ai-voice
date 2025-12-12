@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672941974",
+  "gluser_id": "138006566",
+  "vintage_months": 49,
+  "bl_dau_oct": 10,
+  "customer_type": "ExportTS",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9722889",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji sir bataiye.\\nExecutive: Mam maine jo photo bheji hai yahi company hai?\\nCustomer: Ek minute sir main WhatsApp pe check karu. Haan aap line par hi rahiye main dekhti hu.\\nCustomer: Hmm.\\nCustomer: Download hi nahi ho raha hai.\\nCustomer: Ek minute ek minute. Haan ji sir yahi hai Hamcon Industry.\\nCustomer: Maine phone kiya mam phone to uthaya nahi unhone. Main na complaint khol raha hu inke khilaf aapke account pe. Already ek Sayyad ki na already khuli hui hai inke paas. Aapki bhi khulegi na inki already ek khuli hui hai inke account pe. Abhi dusri khulegi na automatically inka account ban ke liye aa jayega. Hai na?\\nCustomer: Oh ho.\\nExecutive: Isme. Ek aur khulwa du.\\nCustomer: Ji?\\nCustomer: Matlab jin.\\nExecutive: Aisa nahi hota. Ye dekho aapko aapne order kiya. To aap khulwaoge aisa thodi hai ki jitne bhi call karoge khulega aisa nahi hai mam. Unki already ek open hai delay ki ek aapki open hoti hai. To unpe basically pressure banega. Kyunki unhone pehle wali bhi abhi resolve nahi kari hai dusri aapki ja rahi hai. Alright. Unpe pressure banega uska. Maine aapki taraf se aapke bolne pe dekho call kara tha. Hai na? Kyunki wo bhi hamare top most supplier hai Ayar sab use use karte hai.\\nCustomer: Top most supplier hai wo par malum hai mujhe. Matlab do teen baar unse baat hui hai.\\nExecutive: Unhone estimate date kya diya tha aapko? Kyunki main dekh raha hu transaction hui hai.\\nCustomer: Kya batau sir unke paas ye ready hai teen stock mein. Aur unhone mujhe bola bhi ki hum madam stock mein hai. Maine unko.\\nExecutive: Acha stock mein hai bas payment karo aur main aapka dispatch kar raha hu.\\nCustomer: Yahi yahi bola unhone. Yaha pe koi chakkar hi nahi tha. Aur mere to unse bahut acche terms the main unke paas do teen baar personal bhi ho kar aa chuki hu.\\nExecutive: Material me to aapko fayda hi nahi kar rahe. Fir aisa hi hoga.\\nCustomer: Main bhi main bhi majbur hu na mere upar dusre ka pressure hai.\\nExecutive: To main kya contact karke pehle resolve karne ki koshish karu ya main complaint open kar du aapke sath aapke liye aapki taraf se?\\nCustomer: Sir aap please complaint ko open kar dijiye ab main sach mein bahut pareshan ho chuki. Maine unke ladke ko phone kar liya maine unhe phone kar liya aur kya kar sakti hu.\\nExecutive: Thik hai mam main aapke consent pe na main unke us pe complaint open kar raha hu. Haan sir complaint aap open kar dijiye. Ye hamare customer hai ye transaction mein dal deta hu ye aapne payment kari hai customer ko. Aur customer ne on the base immediate basis pe kaha tha but still wo aapko reply nahi kar rahe hai aur customer ko ye product aage dena hai. Thik hai mam. Thik hai main open karke abhi aapko wapis aapko open karta hu confirm karne ke liye. To maine apni side pe call kiya unke number pe pehle wala to aapne bhi bataya tha inactive hai wo band hai. Switch off hi ja raha hai. Hai na? Dusra wale pe kiya maine do baar kiya hai na par unhone response nahi kiya.\\nCustomer: Haan wo utha nahi rahe phone.\\nExecutive: Haan to main ek karunga aapke account ke through unke us pe complaint open kar deta hu ki hamara concern aaya hai please aap ise resolve kara dijiye. Thik hai?\\nCustomer: Haan sir please.\\nExecutive: Main karke aapko open karke hai na information pass on karke aapko wapis call karta hu.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive the ordered product.\\n\n- Supplier not responding to calls.\\n\n\\n\nResolution:\\n\n- Executive opened a complaint against the supplier.\\n\n- Executive will call back after opening the complaint.\\n\n\\n\nNext Steps: \\n\n- Executive will call back to confirm.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- complaint, order, supplier, resolution, follow up\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 200,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c6e7b0b0-5744-4f9c-8d8a-b76fd85d1891",
+  "ucid": "c6e7b0b0-5744-4f9c-8d8a-b76fd85d1891",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "190058",
+      "mcat_name": "Charpai"
+    },
+    {
+      "mcat_id": "146573",
+      "mcat_name": "Wedding Sofa"
+    },
+    {
+      "mcat_id": "122834",
+      "mcat_name": "Wedding Decoration Items"
+    },
+    {
+      "mcat_id": "12576",
+      "mcat_name": "Wooden Swings"
+    }
+  ]
+}

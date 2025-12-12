@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669231001",
+  "gluser_id": "248229255",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647834",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? ha ke bolchen? kon bolchen? ji namaste sir, aapni baat kar rahi hu, good morning.\\nCustomer: Ha good morning boliye.\\nExecutive: Mai IndiaMART se baat kar rahi hu sir.\\nCustomer: Ha boliye.\\nExecutive: Actually sir aapka feedback aaya hua tha buyleads or enquiries ke regarding isliye connect kiya hai maine.\\nCustomer: Abhi to mai filhal mai department me hu, aap ek kam kijiye 4 baje ke baad phone kijiye mere ko, thik hai mai baat kar leta hu.\\nExecutive: But aapko koi problem aa rahi hai na?\\nCustomer: Ha thoda problem dikkat aa raha hai mai aapko baat kar leta hu 4 baje ke baad, thik hai?\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues with buyleads/enquiries.\\n\n\\n\nResolution:\\n\n- Executive called regarding feedback on buyleads/enquiries.\\n\n- Customer asked to call after 4 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer after 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, enquiries, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bd70599a-0c17-4c1c-97c1-d8c5eeb291f3",
+  "ucid": "bd70599a-0c17-4c1c-97c1-d8c5eeb291f3",
+  "seller_categories": [
+    {
+      "mcat_id": "191138",
+      "mcat_name": "Aadhaar Card Making Services"
+    },
+    {
+      "mcat_id": "42044",
+      "mcat_name": "Licensing Services"
+    },
+    {
+      "mcat_id": "49652",
+      "mcat_name": "Business Consultant"
+    },
+    {
+      "mcat_id": "214836",
+      "mcat_name": "Rera Registration Service"
+    },
+    {
+      "mcat_id": "107233",
+      "mcat_name": "PAN Card Services"
+    }
+  ]
+}

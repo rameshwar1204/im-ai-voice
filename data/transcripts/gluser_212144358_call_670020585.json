@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670020585",
+  "gluser_id": "212144358",
+  "vintage_months": 18,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662394",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Haan.\\nExecutive: Lift ke pass aana hai.\\nCustomer: Hello.\\nExecutive: Lift ke pass aana hai.\\nCustomer: Kahan pe aana hai?\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asked where to come.\\n\n\\n\nResolution:\\n\n- Informed to come near the lift.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- lift, location\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6fe6c2ff-52b9-4ee2-aa12-1ed52bdd7ef4",
+  "ucid": "6fe6c2ff-52b9-4ee2-aa12-1ed52bdd7ef4",
+  "seller_categories": [
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    },
+    {
+      "mcat_id": "150642",
+      "mcat_name": "Aluminum Sliding Door"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    }
+  ]
+}

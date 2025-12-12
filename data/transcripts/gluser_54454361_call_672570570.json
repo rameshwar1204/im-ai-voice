@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672570570",
+  "gluser_id": "54454361",
+  "vintage_months": 10,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686729",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello. Good evening, sir.\\nCustomer: Hello, good evening.\\nExecutive: Sir, Cine man jab baat kar raha tha IndiaMART se, Sri Vaji Sri packaging ke liye aapne abhi call ka not satisfied diya tha, kya reason hai sir?\\nRetail ki vajah se hi diya ya chota sa order quantity aa raha hai sir?\\nCustomer: Chota order quantity aa raha hai sir.\\nExecutive: Okay. Chota order quantity aa raha hai is reason ki vajah se diya tha aapko?\\nCustomer: Haan sir.\\nExecutive: Baki aur koi issue sir iske alava?\\nCustomer: Nahi nahi abhi to aur koi issue nahi hai sir.\\nExecutive: To ye to sir ye to main resolve kara dunga aap agar abhi time de agar abhi aap video call pe aa jaye to main isko resolve kara dunga ye to.\\nCustomer: Aapka jo small order quantity ka. Morning mein morning mein phone karta hu. Chalo main kitne baje aati. Haan 10 baje 10 baje aa jata hu main.\\nExecutive: Theek hai. Theek hai to 10 kal 10 baje call karta hu main aapko theek hai?\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave a not satisfied rating.\\n\n- Small order quantity is the reason.\\n\n\\n\nResolution:\\n\n- Executive offered to resolve the issue.\\n\n- Executive asked customer to join video call.\\n\n\\n\nNext Steps: \\n\n- Customer will call back next day at 10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- not satisfied, order quantity, video call\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c6352711-b9dc-4e0e-956b-a909290ad7a9",
+  "ucid": "c6352711-b9dc-4e0e-956b-a909290ad7a9",
+  "seller_categories": [
+    {
+      "mcat_id": "39305",
+      "mcat_name": "Sweet Boxes"
+    },
+    {
+      "mcat_id": "158639",
+      "mcat_name": "Agarbatti Paper Box"
+    },
+    {
+      "mcat_id": "215345",
+      "mcat_name": "Plastic Ice Cream Cups"
+    },
+    {
+      "mcat_id": "185124",
+      "mcat_name": "Plastic Sweet Box"
+    },
+    {
+      "mcat_id": "30768",
+      "mcat_name": "Ice Cream Cup"
+    }
+  ]
+}

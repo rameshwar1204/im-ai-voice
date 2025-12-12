@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669247280",
+  "gluser_id": "27355611",
+  "vintage_months": 38,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Antalia",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651741",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan baat ki mai keh raha tha aapko iske baad ya toh mail pe na whatsapp pe message aayega sir ji sir ne woh aapko jo bhi rahega usse satisfy kar dena sir.\\nCustomer: Theek hai.\\nExecutive: Taki mai ispe kaam karu sir, theek hai unse puch lena aap.\\nCustomer: Theek hai aapka woh drop kar do na pehle whatsapp number drop kar do taki mai direct aapko contact kar saku.\\nExecutive: Theek hai mai aapko hi likh dunga.\\nCustomer: Haan haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the executive's WhatsApp number.\\n\n\\n\nResolution:\\n\n- Executive agreed to send a 'Hi' on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp number, contact, follow up\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7320ce64-899f-48e9-b595-3cd1f6b3a8ee",
+  "ucid": "7320ce64-899f-48e9-b595-3cd1f6b3a8ee",
+  "seller_categories": [
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    },
+    {
+      "mcat_id": "42861",
+      "mcat_name": "Labsa"
+    },
+    {
+      "mcat_id": "132794",
+      "mcat_name": "Linear Alkyl Benzene"
+    },
+    {
+      "mcat_id": "26353",
+      "mcat_name": "Detergent Chemicals"
+    },
+    {
+      "mcat_id": "175385",
+      "mcat_name": "Detergent Formulation Consulting"
+    }
+  ]
+}

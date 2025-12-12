@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667388325",
+  "gluser_id": "546752",
+  "vintage_months": 2,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Virudhunagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635644",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer said hello.\\n\n\\n\nResolution:\\n\n- No resolution.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5c110b3a-1faa-4857-b5dc-573800b7aa44",
+  "ucid": "5c110b3a-1faa-4857-b5dc-573800b7aa44",
+  "seller_categories": [
+    {
+      "mcat_id": "5558",
+      "mcat_name": "Cardamom Oil"
+    },
+    {
+      "mcat_id": "11542",
+      "mcat_name": "Lemongrass Oil"
+    },
+    {
+      "mcat_id": "29232",
+      "mcat_name": "Garlic Oil"
+    },
+    {
+      "mcat_id": "20517",
+      "mcat_name": "Palmarosa Oil"
+    },
+    {
+      "mcat_id": "4248",
+      "mcat_name": "Basil Oil"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669309996",
+  "gluser_id": "225138603",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Satna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning sir.\\nCustomer: Good morning ma'am.\\nExecutive: Haan sir, bataiye.\\nCustomer: Ma'am wohi main call kar raha tha ki woh target process hua kya?\\nExecutive: Sir maine na abhi matlab sir ko rewind karaya tha aapke uske liye to sir ne wapas se mail send kiya hua hai aur remind bhi dal diya unko jinka matlab jo log ye active karte hain basically unko but abhi unki taraf se koi response hi nahi aa raha hai.\\nCustomer: Main bata raha hu ma'am ek ek mahina humari profile band hai sir complaint resolve hone ke baad bhi matlab ma'am main kya hi karu aap batao na.\\nExecutive: Sir main bhi wohi hai ki hamare end se bhi manager mail send kar rahe hain but udhar se same response nahi aa pa raha ek bari main fir se puchti hu sir ko but abhi kyuki agar koi response aata to woh mere mail pe bhi reflect karta same cheez but reminder ka aaya hai mail but same uske alava aur koi mail aaya nahi humne to sara kuch aapka attach karke bhej bhi diya hai aapke jitne bhi documents the sab kuch.\\nCustomer: To most probably aaj chalu hona chahiye na?\\nExecutive: Haan haan bilkul aaj main ekdum try karwa rahi hu sir se bhi bol diya hai subah hi aake morning mein hi maine bol diya tha to sir ne 10:30 baje hi mail unko wapas se revert back karke ek baar remind kar diya tha but abhi response aaya nahi hai hamare paas.\\nCustomer: Theek hai ma'am ek baar IndiaMART customer care pe call karu main?\\nExecutive: Sir customer care pe call karenge fir woh again ek matlab mail kya hoga ki woh end mein hamare paas hi aayega ki aap humse hi connect kariye to aapko humse response to mil hi raha hai agar aap ab jo bhi hoga woh hum hi aapko uske baad feedback de payenge ki kya chal raha hai ya fir kya sara bata payenge woh to aapko kya hi batayenge.\\nCustomer: Theek hai ma'am to main ek kaam karta hu do minute tak call karu phir aapko.\\nExecutive: Haan matlab ya to aap call kar lijiye nahi to warna agar jaise hi active hota hai mujhe kuch bhi response milta hai main aapko turant immediately call karke bata bhi dungi agar usse pehle aa jata hai to mere paas should be response to.\\nCustomer: Theek hai.\\nExecutive: Theek hai sir.\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's profile is closed for a month.\\n\n- Target process not yet activated.\\n\n\\n\nResolution:\\n\n- Executive has sent a reminder mail.\\n\n- Executive will check with the manager again.\\n\n- Executive will call back once profile is activated.\\n\n\\n\nNext Steps: \\n\n- Executive will provide feedback after resolution.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile activation, target process, reminder\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 129,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=669a3455-0799-4b6f-a7e9-708824b0abb2",
+  "ucid": "669a3455-0799-4b6f-a7e9-708824b0abb2",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    }
+  ]
+}

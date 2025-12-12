@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666825432",
+  "gluser_id": "37642107",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji sir, good morning.\\nCustomer: Good morning. Hum hum kuch bataye.\\nExecutive: Haan sir, maine aapko bola tha na main 12 baje se pehle aapko call karaungi.\\nCustomer: Okay.\\nExecutive: Toh aap thoda sa bas wait kariye, main call karati hu aapko. Aadhe ghante ke andar.\\nCustomer: Saade gyarah tak aa jayegi?\\nExecutive: Hello?\\nCustomer: Ji.\\nExecutive: Ji ji, aap aap mujhe thoda... Aapki voice clear nahi aa rahi sir, ek baar aap network wale area me aaiye.\\nCustomer: Madam main ye [unintelligible] koi farak nahi padta.\\nExecutive: Haan haan sir, main wahi cheez main aapko bol rahi hu na, wo main humne maine saara aapka case jo hai wo senior ko bata rakha hai. Ek baar aap mujhe aadhe ghante ka time dijiye, jaise maine aapko Friday bhi bola tha ki ek baar aap jaise hi matlab free ho jaate hai na, 12 baje se pehle aapko call karati hu.\\nCustomer: Hmm.\\nExecutive: Theek hai? Okay sir.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a previously discussed issue.\\n- Wants to know when the promised callback will happen.\\n\\n\\nResolution:\\n\\n- Reassured that the case has been explained to a senior.\\n- Promised a callback from the senior team within 30 minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will arrange a callback from a senior within 30 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- follow-up call, case update, senior team callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=854d5545-fb79-4059-8db9-2d8f4f0aa3dd",
+  "ucid": "854d5545-fb79-4059-8db9-2d8f4f0aa3dd",
+  "seller_categories": [
+    {
+      "mcat_id": "43386",
+      "mcat_name": "Road Construction"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "175580",
+      "mcat_name": "Boundary Walls Construction Services"
+    },
+    {
+      "mcat_id": "167404",
+      "mcat_name": "Hydraulic Floor Spring"
+    },
+    {
+      "mcat_id": "110077",
+      "mcat_name": "Fiber Cement Tile"
+    }
+  ]
+}

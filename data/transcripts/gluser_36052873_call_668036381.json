@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668036381",
+  "gluser_id": "36052873",
+  "vintage_months": 6,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Sir, good morning.\\nCustomer: Good morning, good morning madam.\\nExecutive: Kaise hain?\\nCustomer: Bas badhiya.\\nExecutive: Call kiya tha sir aapne?\\nCustomer: Hello.\\nExecutive: Haan, main keh rahi hu call kiya tha aapne?\\nCustomer: Hello.\\nExecutive: Awaaz aa rahi hai aapko?\\nCustomer: Haan, aa rahi hai na. Awaaz.\\nExecutive: Main keh rahi hu sir aapka call aaya tha.\\nCustomer: Kab?\\nExecutive: Sir, kal ki date mein call lagi hui hai aapki.\\nCustomer: Pata nahi woh aapne kiye honge toh shayad main kuch call ho gaya hounga.\\nExecutive: Hmm. Ho sakta hai call back lagaya ho aapne.\\nExecutive: Nahi sir.\\nCustomer: Haan boliye.\\nExecutive: Pata nahi call lag gaya hoga matlab woh kabhi kabhi naye naye number hote hain na mere ko laga kisi party ka hoga is hisab se main laga diya hounga.\\nExecutive: Achcha. Toh yaha pe ticket raise hui hai toh main yaha pe abhi ticket close kar du aapki?\\nCustomer: Kya bole?\\nExecutive: Ticket close kar de rahe kyuki aisa aisa hota hai na sir call lagate hain aur agar jaise aapne call lagaya suppose main nahi utha payi, theek hai? Toh woh ticket open ho jati hai toh woh main close kar du?\\nCustomer: Haan chaliye, haan chaliye.\\nExecutive: Theek hai. Matlab jo aapke paas haan nahi nahi aapke paas ek feedback ke liye link aayega. Satisfied, dissatisfied, CLM pe yes dena hoga toh woh aap yes kar dijiyega, theek hai?\\nCustomer: Theek hai.\\nExecutive: Mail pe haan ek aata hai na link CLM pe yes karna hoga customer feedback hota hai. Toh usse yes kar dijiyega. Theek hai? Aur ek aur main ye dekh rahi thi aapke paas ek buylead aayi hui hai aapke portal pe. Daily consume karte hain na sir aap toh buylead wagera?\\nCustomer: Haan haan. Daily karta hu main.\\nExecutive: Aur haan aap ye bataye ki jo secondary number aapne add kar rakha hai woh kin ka hai?\\nCustomer: Mera hi na. Abhi jo naya number add kiya hai maine woh na woh mera hi number hai.\\nExecutive: Ek second main bata rahi hu kin ka hai. Hello. Ye jo hai na aapka last mein 315 hai.\\nCustomer: Haan mera hi hai, mera hi hai madam. Aapka hai. Toh abhi hamare IndiaMART se sir ne call kiya tha Asim sir ne. Toh aapne nahi uthaya?\\nCustomer: Haan main receive kiya tha. Haan receive maine uthaya tha abhi. Main actually thoda thoda haan main travelling mein tha main. Travelling mein tha isliye phir woh theek se baat nahi ho payi.\\nCustomer: Aaram se boliye.\\nExecutive: Awaaz aa rahi hai aapko?\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Sir voice aa rahi hai?\\nExecutive: Thoda sa hat ke baat kijiye.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call from IndiaMART.\\n\nResolution:\\n\n- Executive confirmed the secondary number with customer.\\n\n- Executive closed the ticket raised for the call.\\n\n- Executive asked to provide feedback on CLM link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, secondary number, ticket\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 310,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b855496d-7f96-48b2-8e19-5392b5568415",
+  "ucid": "b855496d-7f96-48b2-8e19-5392b5568415",
+  "seller_categories": [
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "223258",
+      "mcat_name": "Tissue Culture Pomegranate Plants"
+    }
+  ]
+}

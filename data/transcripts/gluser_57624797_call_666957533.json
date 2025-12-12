@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666957533",
+  "gluser_id": "57624797",
+  "vintage_months": 72,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626680",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ajay Singh ji, Alok baat kar raha hu sir, good afternoon. IndiaMART se relationship manager. Khushi ji ke saath baat ho gayi hai na abhi aapki meeting?\\nCustomer: Haan haan good afternoon. Boliye.\\nHaan Khushi ji ke saath meeting bhi ho gayi, baat bhi ho gayi.\\nExecutive: Ji. Theek hai. Theek hai. Okay. Toh abhi abhi woh regular touch mein rahegi sir aapke, theek hai? Service wagera saara kuch take care karegi, theek hai?\\nCustomer: Achcha haan.\\nExecutive: Aur baaki main jo hai abhi aapko WhatsApp pe aapko details bhi bhej deta hu aur baaki kabhi kuch in future mein kuch lagega toh aap zaroor contact kar sakte hain sir.\\nCustomer: Okay okay.\\nExecutive: Theek hai? Okay.\\nCustomer: Okay.\\nExecutive: Theek hai. Baaki main case sir close kar deta hu. Aapke paas feedback aayega usko okay kar dijiyega. Theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek theek hai sir. Thank you. Thank you so much sir.\\nCustomer: Thank you.\\nExecutive: Okay.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on a meeting with another executive.\\n\\n\\nResolution:\\n\\n- Confirmed that the meeting with executive Khushi had taken place.\\n- Informed that Khushi will be the regular point of contact for service.\\n- Offered to send details via WhatsApp.\\n- Stated the case would be closed and a feedback link sent.\\n\\n\\nNext Steps: \\nIssue resolved. Customer to receive a feedback link.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- follow-up call, relationship manager, service, feedback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b75b46dd-7222-4297-9269-86c89fb2cd6a",
+  "ucid": "b75b46dd-7222-4297-9269-86c89fb2cd6a",
+  "seller_categories": [
+    {
+      "mcat_id": "182091",
+      "mcat_name": "Delta VFD"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "190222",
+      "mcat_name": "Delta PLC"
+    },
+    {
+      "mcat_id": "14970",
+      "mcat_name": "AC Servo Motor"
+    },
+    {
+      "mcat_id": "43491",
+      "mcat_name": "Switch Mode Power Supply"
+    }
+  ]
+}

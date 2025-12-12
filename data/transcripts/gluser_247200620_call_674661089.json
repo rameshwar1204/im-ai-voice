@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674661089",
+  "gluser_id": "247200620",
+  "vintage_months": 0,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702446",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji very good afternoon, Sarani ji.\\nCustomer: Good afternoon.\\nExecutive: Sir main Pooja Sharma baat kar rahi hu IndiaMART head office se. Kaise ho sir aap?\\nCustomer: Haan.\\nExecutive: Ji sir aapka ek\\nCustomer: Wo number save nahi kiya aapne wo save kiya tha wo number?\\nExecutive: Sorry?\\nCustomer: Wo number maine aapka save kar rakha hai na dusra number hai aapka?\\nExecutive: Sir aapne 22 tarikh ko ek call kiya tha na IndiaMART ke customer care number pe aapne bataya kuch by leads kuch product ke bare mein aap jankari chahte the.\\nCustomer: Haan lead nahi aa rahi hai mere ko jo main main product hai na uski lead chahiye wo nahi aa rahi hai.\\nExecutive: By leads nahi aa rahi hai sir aapko?\\nCustomer: Nahi.\\nExecutive: Abhi jaise sir aapke jo main product hai aapne mujhe us din bataye the.\\nCustomer: Haan.\\nExecutive: Aap all India mein deal karte hain. Abhi sir aap online hai mobile pe ya laptop pe?\\nCustomer: Nahi abhi to online nahi hu main.\\nExecutive: Online nahi ho. Sir dekhiye main yaha pe aapka jo account\\nCustomer: Kitne baje? Haan haan boliye sun raha hu sun raha hu boliye.\\nExecutive: Ji main bol rahi thi sir aapke account pe main check kar rahi hu by leads to sir kafi achi aa rakhi hai.\\nExecutive: Aur main aapko bata bhi deti hu by leads.\\nExecutive: Jaise aap bata rahe the ki main pan India mein deal karta hu.\\nExecutive: To yaha pe dekhiye sabse pehli jo by lead aa rahi hai sir aapke liye.\\nExecutive: Gas cutting torch. Thik hai ye by lead aayi hui hai sir aapke liye.\\nExecutive: Mau Uttar Pradesh se. Thik hai. Quantity hai 1000 pieces. Fuel gas type LPG hai. Aur sir yaha pe order value hai 16 se 18 lakh.\\nExecutive: Buyer bhi jo hai sir char saal purana hai to ye wali by lead aapki bilkul kaam ki hai.\\nExecutive: Thik hai.\\nCustomer: Konsi?\\nExecutive: Uske alawa sir\\nCustomer: 16 se 18 lakh rupees?\\nExecutive: Ji. Hello.\\nCustomer: Order value kitna hai?\\nCustomer: Order value sir yaha to 16 se 18 lakh rupees dikha raha hai.\\nCustomer: Kaha par?\\nExecutive: Sir aapke seller panel mein.\\nCustomer: Main IndiaMART khol raha hu aap bataye aap kaha pe kholu main?\\nExecutive: Sir IndiaMART ka application open kariye. Haan main bata deti hu. Ek do minute mein aapko karta hu call karta hu ek do minute. Thik hai.\\nExecutive: Thik hai. Thik hai sir. Okay. Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads for main products.\\n\nResolution:\\n\n- Executive checked the customer's account.\\n\n- Executive informed about a buylead for gas cutting torch.\\n\n- Executive provided details of the buylead.\\n\n\\n\nNext Steps: \\n\n- Customer will check the seller panel.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product, order value\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 167,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6c59f0a4-3144-476a-bf88-1b08778d97a0",
+  "ucid": "6c59f0a4-3144-476a-bf88-1b08778d97a0",
+  "seller_categories": [
+    {
+      "mcat_id": "144493",
+      "mcat_name": "Gas Cutting Torch"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "6388",
+      "mcat_name": "Fire Suit"
+    },
+    {
+      "mcat_id": "29276",
+      "mcat_name": "Gas Masks"
+    }
+  ]
+}

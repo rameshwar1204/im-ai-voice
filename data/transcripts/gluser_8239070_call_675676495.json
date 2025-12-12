@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675676495",
+  "gluser_id": "8239070",
+  "vintage_months": 22,
+  "bl_dau_oct": 22,
+  "customer_type": "STAR",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698056",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ha, good evening sir. Kathir bol raha tha IndiaMART se.\\nCustomer: Hmm, boliye.\\nExecutive: Aapne check kiya tha account mein? Toh aapka paisa refund ho gaya hai.\\nCustomer: Kitna?\\nExecutive: Ek baar check kar lijiye.\\nCustomer: Nahi, kitna kiya tha? Udhar mein toh chaar invoice aapne release kiya hai.\\nExecutive: Ha, toh 30136, 30136.\\nCustomer: 30136 means that ek minute. Hum check kar lenge baad mein. Account ha, account mein check kar lijiye na.\\nExecutive: Baad mein humko account wala team ko dena hai. Uh, theek hai. 30136.\\nCustomer: Sir, 30136.\\nExecutive: Plus 30136.\\nCustomer: And 3000 kuch tha? 3 3 6000?\\nExecutive: Nahi nahi.\\nCustomer: Yahi jo bacha hua amount hai wohi.\\nExecutive: Nahi, usme dekhiye na aapne 70000 ke aas pass hona chahiye tha humko bola tha. Chaar invoice hai.\\nExecutive: Ek ek ek kaam acha ek kaam kijiye na sir ji aapke paas woh account hai kya jisse aapka paisa refund hua hai?\\nCustomer: Ek baar dekhiye na ispe kitna aaya amount. Are, nahi humko dekhne ke liye abhi woh tamjham hai usme ek approval hai.\\nExecutive: Company hai na. Usme aap dekho na IndiaMART mein chaar invoices hai.\\nCustomer: Credit note mein chaar ek minute credit note mein chaar invoice hai.\\nExecutive: Raha hum check kar liya. Mera team ne dikhaya tha.\\nCustomer: Ruk jaiye ek minute.\\nCustomer: Ek hai 35700, 3576. Note karte jaiye sir ji aise pata chal jayega.\\nCustomer: 3576.\\nExecutive: Yeh dono ko dedo.\\nCustomer: 3576.\\nExecutive: Aur dusra hai 30136.\\nCustomer: Ha.\\nExecutive: Aur 30136 phir.\\nCustomer: Hmm.\\nExecutive: Aur aur ek 3576. Ha, yahi sir amount hai exact sahi hai.\\nCustomer: Means total chaar na?\\nExecutive: Ha, chaar hai sir ji.\\nCustomer: Toh hona chahiye tha 67424. Theek hai?\\nExecutive: Add kar liya jod liya na sab total. Hmm hmm hmm.\\nCustomer: Chaar invoice bhai hai na. Chaar credit note hum dekha tha isliye hum puch rahe the.\\nExecutive: Ha ha nahi sahi hai sir. Woh main bhi dekh liya yaha pe chaar credit note dikhaya. Woh isi ko main bhi open karunga. Hum hum saamne hum saamne check karunga saamne check karne ke baad hum aapko kal bataunga kitna refund hua hai. Theek hai na? Shayad ek baar mein chaaro toh credit note nahi hoga toh hum kal bataunga.\\nCustomer: Aap check kar lijiye. Aap kya kar rahe hai jo aapka request hai toh close kar do?\\nExecutive: Ek din toh intezar kijiye na. Theek hai na?\\nExecutive: Sir close kar dete hai paisa refund ho chuka hai sir ji usme aisa kuch dikkat nahi hai. Ek din mein kya dikkat ho jayega hum aapko mail mein reply kar denge.\\nCustomer: Theek hai sir ji. Mera team se reply kar denge. Okay?\\nExecutive: Theek hai sir ji ab baat karte hai sir baad mein sir. Theek hai thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquiring about the refund amount.\\n\n\\n\nResolution:\\n\n- Executive confirmed the refund amount.\\n\n- Executive provided details of the four invoices.\\n\n\\n\nNext Steps: \\n\n- Customer will check and confirm refund amount.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, invoices, credit note, account\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 197,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=39961baa-3e5e-45a4-9285-f47d59d66ab7",
+  "ucid": "39961baa-3e5e-45a4-9285-f47d59d66ab7",
+  "seller_categories": [
+    {
+      "mcat_id": "168359",
+      "mcat_name": "Game Development Service"
+    },
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "171638",
+      "mcat_name": "Mobile Game Development"
+    },
+    {
+      "mcat_id": "181037",
+      "mcat_name": "Youtube Ads"
+    },
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    }
+  ]
+}

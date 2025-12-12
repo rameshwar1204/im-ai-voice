@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673356060",
+  "gluser_id": "59596442",
+  "vintage_months": 15,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695643",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nHello?\\nExecutive: Hello. Ji Yogesh ji.\\nCustomer: Haan.\\nExecutive: Yogesh ji baat kar rahe hain na?\\nCustomer: Hello. Haan bol do bol do.\\nExecutive: Hello. Ji ji boliye. Haan haan bol do. Mere ko complaint karna tha mere sath thoda India mart ne ye thoda ye kiya hai to mera paisa hai na. Ji. Wo mere ko jyada liya hai mere se. Ji. Ji. To main abhi aapke uske pehle unse bhi baat kiya. Ji. To mere ko paisa refund chahiye aur mere ko plan cancel karwana hai mere se.\\nMera baki ka refund chahiye.\\nExecutive: Theek hai to abhi to na main lunch pe hoon to 2 se 3 phir main ek bar check karke aapko call back karta hoon, theek hai?\\nOkay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint regarding IndiaMART.\\n\n- Wants refund of money.\\n\n- Wants plan cancellation.\\n\n- Wants remaining refund.\\n\n\\n\nResolution:\\n\n- Executive will check and call back between 2 to 3 after lunch.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back between 2 to 3 after checking.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to demanding.\\n\n\\n\n@@@Key Topics:\\n\nrefund, plan cancellation, complaint\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=736c5952-a53f-4469-8753-a2317380308e",
+  "ucid": "736c5952-a53f-4469-8753-a2317380308e",
+  "seller_categories": [
+    {
+      "mcat_id": "184019",
+      "mcat_name": "Street Light Control Panel"
+    },
+    {
+      "mcat_id": "187435",
+      "mcat_name": "GI Pole"
+    },
+    {
+      "mcat_id": "193737",
+      "mcat_name": "Bajaj Lighting Poles"
+    },
+    {
+      "mcat_id": "94562",
+      "mcat_name": "Street Light Pole"
+    },
+    {
+      "mcat_id": "182764",
+      "mcat_name": "MS Street Light Pole"
+    }
+  ]
+}

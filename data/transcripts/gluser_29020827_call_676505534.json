@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676505534",
+  "gluser_id": "29020827",
+  "vintage_months": 86,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710600",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan\\nExecutive: Hello good evening sir Mayank baat kar raha hu Mayank baat kar raha hu sir aapka naya account manager\\nCustomer: Haan sir mai kya driving kar raha hu\\nExecutive: Haan haan ji ji\\nCustomer: To mai na kya aapko ab Monday ko call karta hu direct\\nExecutive: Okay sir haan haan ji ji sir Monday ko kar lijiyega aap mai actually isliye call kiya tha maine aapko ki ye jo aapka Chandak Enterprises ka ye jo abhi mai account manager naya mere ko assign kiya gaya hai na to isme aapki jo aapne aapka concern raise kiya tha to wo concern aapka na close karna tha mujhe theek hai to wo aapke submission ke liye hi call kiya tha ki mai concern close kar de raha hu abhi aur aapke paas feedback ke liye bhi jayega aur fir jab aap Monday ko honge to mai aapko Monday ko sari cheeze usme guide kar dunga aapki\\nCustomer: Theek hai sir\\nExecutive: Theek hai sir haan to mai ab concern close kar de raha hu aapke paas feedback ke liye aayega to aap check kar lijiyega usme fir negative feedback mat dijiyega usme baki mai Monday ko baat karunga\\nCustomer: Haan theek hai ji\\nExecutive: Theek hai sir\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy driving.\\n\n- Customer had raised a concern.\\n\n\\n\nResolution:\\n\n- Executive will close the raised concern.\\n\n- Executive will guide on Monday.\\n\n\\n\nNext Steps: \\n\n- Customer to check feedback and avoid negative feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5079058a-65d2-41f5-aa68-fff27c0dedaa",
+  "ucid": "5079058a-65d2-41f5-aa68-fff27c0dedaa",
+  "seller_categories": [
+    {
+      "mcat_id": "186256",
+      "mcat_name": "Agricultural Power Sprayer"
+    },
+    {
+      "mcat_id": "188855",
+      "mcat_name": "Petrol Brush Cutter"
+    },
+    {
+      "mcat_id": "164099",
+      "mcat_name": "Battery Spray Pump"
+    },
+    {
+      "mcat_id": "155463",
+      "mcat_name": "Agricultural Sprayer Pump"
+    },
+    {
+      "mcat_id": "35529",
+      "mcat_name": "Power Sprayer"
+    }
+  ]
+}

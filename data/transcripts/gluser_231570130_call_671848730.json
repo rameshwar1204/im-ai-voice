@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671848730",
+  "gluser_id": "231570130",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661794",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nNamaskar, Abhishek baat kar raha hu.\\n05 01 56 26 6\\n",
+  "summary": "\\n\nConcerns:\\n\n- Abhishek calling.\\n\n- Phone number 05 01 56 26 6\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone number\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=63c9a268-9250-45d2-9aab-4851bab48bf5",
+  "ucid": "63c9a268-9250-45d2-9aab-4851bab48bf5",
+  "seller_categories": [
+    {
+      "mcat_id": "95490",
+      "mcat_name": "Flameproof Light Fittings"
+    },
+    {
+      "mcat_id": "166294",
+      "mcat_name": "Flame Proof Light"
+    },
+    {
+      "mcat_id": "159416",
+      "mcat_name": "Flameproof Junction Boxes"
+    },
+    {
+      "mcat_id": "163707",
+      "mcat_name": "Flameproof Exhaust Fan"
+    },
+    {
+      "mcat_id": "164371",
+      "mcat_name": "Flame Proof Torches"
+    }
+  ]
+}

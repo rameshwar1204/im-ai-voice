@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675143346",
+  "gluser_id": "152986674",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Deulgaon Raja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello, good afternoon sir.\\nExecutive: Haan, good afternoon.\\nExecutive: I am Anamika speaking from IndiaMART.\\nCustomer: Haan, boliye na call kiya tha na aapne abhi.\\nExecutive: Uh, sir actually your GST expired ho gaya uske regarding maine aapko connect kiya tha.\\nCustomer: Kya ho gaya?\\nExecutive: Kya expire ho gaya?\\nExecutive: GST sir.\\nCustomer: GST kya expire ho gaya matlab?\\nExecutive: Sir, jo aapka IndiaMART se GST verified tha, aapka wo GST expire ho chuka hai. Agar aapne usko renew nahi karwaya within 15 days or one month, to aapki jo services chal rahi hai wo discontinue ho jayengi.\\nCustomer: Matlab ye samajh mein aaya mujhe.\\nExecutive: Sorry sir, kya keh rahe hai aap?\\nCustomer: GST matlab expire matlab kya ho gaya GST expire?\\nExecutive: GST, uh, GST jo aapne apne firm ke naam pe le rakha hoga, mai GST ki baat kar rahi hu.\\nCustomer: Haan, wo kya ho gaya expire ho gaya?\\nExecutive: Haanji sir. To aap usko renew karwaiye aur again fir se aap apna verification karwaiye tab aap services continue kar payenge.\\nCustomer: Abhi services available nahi hai kya meri?\\nExecutive: Oh. Sorry sir.\\nCustomer: Abhi services available nahi hai meri?\\nExecutive: Haan, abhi to available hai but agar aapne jaldi renew nahi karwaya to fir ye discontinue ho jayengi.\\nCustomer: Kitne din me discontinue karna padega? Renew matlab kya karu mai renew karne ke liye? GST number to hai na mere pass.\\nExecutive: Sir, jaise aapne ek GST number verify karwaya hoga IndiaMART se, uh, Thakral Jewellers ke naam par.\\nCustomer: Konsa?\\nExecutive: Thakral Jewellers.\\nCustomer: Thakral Jewellers mera nahi hai, mera Happiness Industry hai.\\nExecutive: Aapka Happiness Industry hai?\\nCustomer: Aap kahan se, kisko call kar rahe hai ek baar dekhiye na.\\nExecutive: Maine Thakral Jewellers ko connect kiya hai.\\nCustomer: Thakral Jewellers se Happiness Industry se baat kar rahe hai madam.\\nExecutive: Okay sir, I am sorry.\\nCustomer: Haan, wahi dekh lijiye aur mera kuch nahi isliye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's GST expired.\\n\n- Customer states services are not available.\\n\n- Executive called the wrong company.\\n\n\\n\nResolution:\\n\n- Executive informed about GST renewal.\\n\n- Executive apologized for calling the wrong company.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- gst, renewal, verification, services\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b7cba39-e61a-4ad0-8057-3680f3348fe0",
+  "ucid": "7b7cba39-e61a-4ad0-8057-3680f3348fe0",
+  "seller_categories": [
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "149032",
+      "mcat_name": "Cello Tape"
+    },
+    {
+      "mcat_id": "1997",
+      "mcat_name": "Self Adhesive Tapes"
+    },
+    {
+      "mcat_id": "182328",
+      "mcat_name": "Brown Tape"
+    },
+    {
+      "mcat_id": "35735",
+      "mcat_name": "Printed Tapes"
+    }
+  ]
+}

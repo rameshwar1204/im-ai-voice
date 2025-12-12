@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668288034",
+  "gluser_id": "65619897",
+  "vintage_months": 18,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9641643",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Himalaya Construction se baat ho rahi hai Mr. Vipul Gavind se?\\nCustomer: Haan bataiye.\\nExecutive: Vipul ji very good afternoon, Satyajit Tiwari bol raha tha main IndiaMART ke Noida head office se.\\nCustomer: Ji.\\nExecutive: Sir ji aapki ek hamare yaha customer care pe call aayi thi. Uske regarding maine aapko call kiya tha ki kya feedback hai sir kya kya kuch issues face kar pa rahe hain?\\nCustomer: Nahi sir abhi main aapko thodi der mein kar lunga on the way hun.\\nExecutive: Please sir kyunki aapki morning mein call aayi thi to kahin na kahin sir hume isko acknowledge karke resolve close kar do sir. Nahi nahi aise kuch discuss kar nahi karna tha sir.\\nCustomer: Sir abhi to nahi kar paunga main aaj nahi kar paunga please sir.\\nExecutive: Achha theek hai to main matlab koi problem hai to main isko koi problem to nahi hai na baat service ke regarding discussion hai to main aapko connect kar lunga theek hai?\\nCustomer: Theek hai sir, theek hai.\\nExecutive: Theek hai to main ise close kar do. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer care call feedback.\\n\n- Customer is currently unavailable to talk.\\n\n\\n\nResolution:\\n\n- Executive offered to connect later for discussion.\\n\n- Customer agreed to be contacted later.\\n\n\\n\nNext Steps: \\n\n- Executive will connect later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, customer care, call, service\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cfbae34c-264e-4446-973e-5f25f72d6a35",
+  "ucid": "cfbae34c-264e-4446-973e-5f25f72d6a35",
+  "seller_categories": [
+    {
+      "mcat_id": "192750",
+      "mcat_name": "Ajax Concrete Mixer"
+    },
+    {
+      "mcat_id": "222816",
+      "mcat_name": "Self Loading Concrete Mixer Rental"
+    },
+    {
+      "mcat_id": "183999",
+      "mcat_name": "Self Loading Concrete Mixer"
+    },
+    {
+      "mcat_id": "113965",
+      "mcat_name": "Concrete Mixer Rental"
+    },
+    {
+      "mcat_id": "170082",
+      "mcat_name": "Compactors Rental Service"
+    }
+  ]
+}

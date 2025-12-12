@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674936440",
+  "gluser_id": "244836282",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello.\\nHello.\\nGood morning, Bajrang.\\nGood morning, ma'am. Haan ji, bataiye.\\nGood morning. Uh, main keh rahi thi aapke jo aap system mein work karte hain usme water refresh download hai aapne ye phone mein matlab sorry.\\nVoice. Aapki voice bahut cut-cut ke aa rahi hai.\\nAbhi meri aawaz aa rahi hai?\\nHmm, maybe there is\\nUh, just one minute. Main aapko call back karti hu. Ek minute rukiye.\\nOkay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- System work, water refresh download in phone.\\n\n- Voice cutting.\\n\n\\n\nResolution:\\n\n- Callback to resolve voice issue.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Callback to resolve voice issue.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nvoice quality, callback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=29269344-7606-4338-bf91-a3e709a6ca52",
+  "ucid": "29269344-7606-4338-bf91-a3e709a6ca52",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "192697",
+      "mcat_name": "Honeywell Bullet Camera"
+    },
+    {
+      "mcat_id": "85186",
+      "mcat_name": "Bottle Labelling Machine"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670809401",
+  "gluser_id": "85600239",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f4634c15-c899-4e29-bd57-b3515cc66a08",
+  "ucid": "f4634c15-c899-4e29-bd57-b3515cc66a08",
+  "seller_categories": [
+    {
+      "mcat_id": "178220",
+      "mcat_name": "Industrial Wooden Pallets"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "3531",
+      "mcat_name": "Wooden Crates"
+    },
+    {
+      "mcat_id": "148704",
+      "mcat_name": "Pine Wood Runners"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    }
+  ]
+}

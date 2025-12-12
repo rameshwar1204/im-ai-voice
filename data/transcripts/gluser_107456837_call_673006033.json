@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673006033",
+  "gluser_id": "107456837",
+  "vintage_months": 24,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jaspur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689584",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Kese ho aap?\\nCustomer: India Mart se baat kar rahi thi.\\nExecutive: Haan ji.\\nCustomer: India Mart se baat kar rahi thi.\\nCustomer: Haan madam bol raha hu.\\nExecutive: Sir ye concern jo aapne raise kiya tha uske regarding maine yaha pe aapko connect kiya hai.\\nCustomer: Madam aap se 10 minute ke liye bola tha fir aapki koi call nahi aayi aapne lunch me call kiya.\\nCustomer: Fir uske baad ab aapki call aayi us time busy the ab hum log nikal gaye office se.\\nExecutive: Madam main concern kya hai ye hai madam by lead nahi mil pa rahe hum to kaise working kare hum log aur Udita madam aap se baat nahi kar rahe the hamare account manager the wo assign hat gaye kya waha se?\\nExecutive: Ji?\\nCustomer: Udita madam hamare account manager assign hue the.\\nExecutive: Haan haan.\\nCustomer: To wo nahi hai kya ab?\\nExecutive: Nahi sir wo to nahi hai abhi.\\nCustomer: To update to waha pe Udita madam hi dikha raha hai.\\nExecutive: Kaha pe dikha raha hai? Abhi aaj tool leave par hai.\\nCustomer: Haan ji?\\nExecutive: Aap kya aap puch kya rahe ho abhi to matlab aap abhi baat kar rahe hain.\\nCustomer: Hamare jo account manager the wo Udita madam the right?\\nExecutive: Haan haan haan wahi hai.\\nCustomer: Koi call nahi aati unhe follow up karte hain to unka koi call hi nahi uthta ya koi response nahi milta unse.\\nExecutive: Nahi nahi wo actually abhi wo matlab kuch time se na unko kuch medical issue chal raha hai to unka yahi rehta hai kabhi aate kabhi nahi aate bas aapke pass call aati hogi India Mart se koi aur karta hoga aisa nahi ho sakta ki aapko mahine me ek bhi call na aaye.\\nCustomer: Hamen account manager assign kar dijiye na taki hum usi se follow up kar liya kare direct.\\nExecutive: Thik hai sir yaha pe aapki\\nExecutive: Thik hai aap complaint aapki ek note kar deti hu main yaha pe aapko naya account manager allocate kar deti hu thik hai.\\nCustomer: Naya account manager assign kar dijiye aur dusre ki jo hamari samasya hai by lead nahi aa rahe hain aap hume kal subah ek bar 11 baje please call kar lijiyega hum video call pe aapko sari cheeze dikha denge hamare pass by lead bilkul nahi hai madam kam karne ke liye.\\nExecutive: Thik hai main aapko bhi naya account manager yaha pe allocate karungi wo aapko sab cheezo ka solution aapko denge thik hai aur koi issue sir?\\nCustomer: No.\\nExecutive: Thik hai main kal",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads.\\n\n- Previous account manager Udita not reachable.\\n\n\\n\nResolution:\\n\n- Executive will assign a new account manager.\\n\n- Customer will receive a call tomorrow at 11 AM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, follow up\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c2e91d1e-27a9-4920-9a38-c0beb284ce97",
+  "ucid": "c2e91d1e-27a9-4920-9a38-c0beb284ce97",
+  "seller_categories": [
+    {
+      "mcat_id": "41727",
+      "mcat_name": "Sugar Sachets"
+    },
+    {
+      "mcat_id": "121169",
+      "mcat_name": "Invert Sugar Syrup"
+    },
+    {
+      "mcat_id": "28818",
+      "mcat_name": "Golden Syrup"
+    },
+    {
+      "mcat_id": "179184",
+      "mcat_name": "Pharma Grade Invert Sugar Syrup"
+    },
+    {
+      "mcat_id": "121076",
+      "mcat_name": "Bakery Grade Invert Syrup"
+    }
+  ]
+}

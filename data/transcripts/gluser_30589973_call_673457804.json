@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673457804",
+  "gluser_id": "30589973",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Coimbatore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello. Ah sir, namaskaram, IndiaMART-le irunthu call pannirukken sir.\\nCustomer: Sollunga sir.\\nExecutive: Ah sir, morning-e idha connect pannikalaam one hour-kulla apdintra maari solliruntheenga. Sir, enna sir pending-le irukkunga sir?\\nCustomer: Madam, aama madam.\\n\\nExecutive: Hello?\\nCustomer: Madam, sir, slight issue madam, hospital-le irukken madam.\\nExecutive: Sir, unga voice break aagudhu. Total-a enakku clear-a kekkalainga sir. Enna solreenga apdinnu sonnute.\\nCustomer: Madam, slight issue madam. Hospital-le vandhurukken madam. Poi kupten madam.\\nExecutive: Ah, seri ok sir ok. Paathuttu next text mattum share panna mudiyumaa? Enna madam?\\nCustomer: Illa, seri, text mattum panna mudiyumaa? Sir, neenga solradhu total-a enakku clear-a kekkala. Hospital-le irukkeenga-ndradhu mattum thaan kekkudhu.\\nCustomer: Madam, aama madam. Madam, innaikku mudiyaadhu madam. Naalaikku vandhu, veetukku poi ready pannikondraen madam.\\nExecutive: Ah, seri ok. Neenga enna-ndradha paathuttu call pannunga sir.\\nCustomer: Ok ok. Seri sir.\\nExecutive:\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has pending work with IndiaMART.\\n\n- Customer is currently at the hospital.\\n\n\\n\nResolution:\\n\n- Customer will complete the work tomorrow.\\n\n\\n\nNext Steps: \\n\n- Customer will call after checking the issue.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pending work, hospital, follow up\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dfeeb50c-36fd-49a8-bff9-f48c860aa4c0",
+  "ucid": "dfeeb50c-36fd-49a8-bff9-f48c860aa4c0",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "179153",
+      "mcat_name": "M Sand"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    }
+  ]
+}

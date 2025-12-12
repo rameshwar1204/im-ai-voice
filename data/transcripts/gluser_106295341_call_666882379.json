@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666882379",
+  "gluser_id": "106295341",
+  "vintage_months": 54,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, haanji sir. Actually sir mere ko na yeh confirm karna tha jaise ki aapka ka abhi concern open hai na sir ki matlab call vagera ko leke, hai na? Toh yeh main close kar sakti hu?\\nCustomer: Madam ek minute meeting pe chal raha hu madam. Can you call me after half an hour's time?\\nExecutive: Sir, I want to say ki your concern is open regarding the call, right? You are uh open your regarding. So can I close it?\\nCustomer: Yeah yeah please close it.\\nExecutive: Okay okay sir. Thank you. Thank you.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on an open concern regarding calls.\\n\\n\\nResolution:\\n\\n- Customer confirmed and gave permission to close the concern.\\n\\n\\nNext Steps: \\nIssue resolved.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- concern, calls, closing concern\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97c2868b-2026-4d15-aded-cc4301153fb5",
+  "ucid": "97c2868b-2026-4d15-aded-cc4301153fb5",
+  "seller_categories": [
+    {
+      "mcat_id": "148833",
+      "mcat_name": "Compressed Air Pipe Fittings"
+    },
+    {
+      "mcat_id": "182471",
+      "mcat_name": "Atlas Copco Air Compressors"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    },
+    {
+      "mcat_id": "53588",
+      "mcat_name": "PPR Pipe Fittings"
+    },
+    {
+      "mcat_id": "111257",
+      "mcat_name": "Pneumatic FRL Unit"
+    }
+  ]
+}

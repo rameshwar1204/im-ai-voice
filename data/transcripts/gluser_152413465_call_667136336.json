@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667136336",
+  "gluser_id": "152413465",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Kheda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634225",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello sir, awaaz aa rahi hai?\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Difficulty establishing a clear audio connection.\\n\\n\\nResolution:\\n\\n- None, the call ended before any conversation could take place.\\n\\n\\nNext Steps: \\nIssue not resolved. No next steps were discussed.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call connection issue\\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=24326660-30d7-4219-b624-d8151a9c9264",
+  "ucid": "24326660-30d7-4219-b624-d8151a9c9264",
+  "seller_categories": [
+    {
+      "mcat_id": "123996",
+      "mcat_name": "Steel Almirah"
+    },
+    {
+      "mcat_id": "38861",
+      "mcat_name": "Industrial Storage Rack"
+    },
+    {
+      "mcat_id": "183351",
+      "mcat_name": "MS Cupboard"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "180686",
+      "mcat_name": "Iron Almirah"
+    }
+  ]
+}

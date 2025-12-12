@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667003081",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan aapki aawaz sun wo teen char log sath me bol rahe hain na aise clear aawaz nahi aa rahi hai aapki madam.\\nExecutive: Um main kuch thoda sa main lead ek kaam karti hu dusri laga ke aapko call karti hu. Matlab aap call pe rahiye main change karti hu. Theek hai?\\nCustomer: Aap aapko connect pe dikh raha hai screen dikh raha hai aapko share?\\nExecutive: Aap connect hi rahiye main ek minute mein aa rahi hu bas lead change kar rahi hu theek hai?\\nCustomer: Okay okay okay okay theek hai theek hai okay madam.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Poor call quality with background noise.\\n- Voice of the executive was not clear.\\n\\n\\nResolution:\\n\\n- Acknowledged the call quality issue.\\n- Offered to change the line to resolve the issue.\\n\\n\\nNext Steps: \\nIssue not resolved. The executive was supposed to change the line to improve call quality, but the call ended.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- call quality, background noise, technical issue\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2bfc9679-e672-4995-8946-b8276aabe1f0",
+  "ucid": "2bfc9679-e672-4995-8946-b8276aabe1f0",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

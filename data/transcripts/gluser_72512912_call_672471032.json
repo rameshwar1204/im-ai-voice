@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672471032",
+  "gluser_id": "72512912",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Ahilyanagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686914",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Ji sir, kahan se baat kar rahe hain?\\nCustomer: Main Matoshree Group and Constructions se baat kar raha hun.\\nExecutive: Kahan se sir?\\nCustomer: Matoshree Group and Constructions.\\nExecutive: Bataye sir.\\nCustomer: Mujhe profile kuch edit karne ka tha.\\nExecutive: Kya keh rahe hain sir?\\nCustomer: Profile edit karne ka tha kuch.\\nExecutive: Achcha edit karne ka tha kuch?\\nCustomer: Hmm.\\nExecutive: Theek hai.\\nExecutive: Sir kya edit karna hai bataiye?\\nCustomer: Aadmi ko call karne ke liye laga do na thoda.\\nExecutive: Sir aapki na voice mujhe clear nahi aa rahi. Main ek kaam karti hun main aapko\\n",
+  "summary": "\\n\nConcerns:\\n\n- Profile edit karna hai.\\n\n- Aadmi ko call karne ke liye laga do.\\n\n\\n\nResolution:\\n\n- Voice clear nahi aane ke karan call back karne ka kaha.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nprofile edit, call\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f5f9e418-287e-4bcd-bf08-38627a194eea",
+  "ucid": "f5f9e418-287e-4bcd-bf08-38627a194eea",
+  "seller_categories": [
+    {
+      "mcat_id": "35310",
+      "mcat_name": "Plumbing Contractors"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "24934",
+      "mcat_name": "Civil Construction"
+    },
+    {
+      "mcat_id": "183524",
+      "mcat_name": "Underground Water Tanks"
+    }
+  ]
+}

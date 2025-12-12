@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667263146",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello madam, Garhwal Machinery Store se baat kar raha hu.\\nCustomer: Ji sir.\\nExecutive: Madam abhi mere paas ek call aaya tha stone crusher ke liye na.\\nCustomer: Ji ji.\\nExecutive: Mere number pe IndiaMART se aaya tha. To us bande ka number na wo whatsapp pe nahi hai mere ko usko quotation bhejni hai.\\nCustomer: Achcha to aap sir unse connect karke ek baar whatsapp number unse le lijiye.\\nExecutive: Madam aapka number show kar raha hu. Whatsapp number hai hi nahi wo.\\nExecutive: IndiaMART ke andar se transfer hui hogi na mere paas call madam.\\nCustomer: Ji ji ji. Sir aap ek kaam kariye main aapko bata deti hu sir lead manager pe jaake aap usse chat kar lijiye. Waha pe to wo call show ho rahi hogi jo call aapke paas aayi hogi na.\\nExecutive: Haan.\\nCustomer: To aap lead lead manager hamara whatsapp ki tarah work karta hai to aap lead manager me jaake usse baat kar lijiye.\\nExecutive: Lead by me jaakar ke Lead manager me aapko call show ho jayegi. Ye call abhi aapke paas aayi hai na wo call lead manager me show ho jayegi aap karke dekhiye. Aur usse aap chat karke usse baat kar lijiye.\\nExecutive: Madam isme to\\n\\nExecutive: Theek hai.\\nCustomer: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to send quotation via WhatsApp.\\n\n- Executive unable to find customer's WhatsApp number.\\n\n\\n\nResolution:\\n\n- Executive advised to use Lead Manager to chat.\\n\n- Customer states Lead Manager works like WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp, lead manager\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28db63b2-64a6-4da8-a7e6-98bfaa6dbd02",
+  "ucid": "28db63b2-64a6-4da8-a7e6-98bfaa6dbd02",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

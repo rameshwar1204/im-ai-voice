@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666927288",
+  "gluser_id": "38706108",
+  "vintage_months": 80,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706183",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji?\\nExecutive: Sir main Ritika baat kar rahi hu IndiaMART se.\\nCustomer: Ritika aaj to main thoda busy hu kal baat karein kya?\\nExecutive: Achha theek hai.\\nCustomer: Abhi meeting me hu.\\nExecutive: No problem.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Requested to reschedule the call for the next day.\\n- Stated being busy in a meeting.\\n\\nResolution:\\n\\n- Agreed to the customer's request to call back tomorrow.\\n\\nNext Steps: \\n\\n- Issue not resolved. Executive will call back the next day.\\n\\nAlert (If Any):\\n\\nNone\\n\\n@@@Sentiment:\\n\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n\\n- callback, reschedule call\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=407b7e97-cf1e-428f-a8f3-8702104a22eb",
+  "ucid": "407b7e97-cf1e-428f-a8f3-8702104a22eb",
+  "seller_categories": [
+    {
+      "mcat_id": "53385",
+      "mcat_name": "Hydraulic Quick Coupler"
+    },
+    {
+      "mcat_id": "184525",
+      "mcat_name": "Male Female coupling"
+    },
+    {
+      "mcat_id": "53592",
+      "mcat_name": "Quick Couplings"
+    },
+    {
+      "mcat_id": "23786",
+      "mcat_name": "Brass Couplings"
+    },
+    {
+      "mcat_id": "8926",
+      "mcat_name": "Quick Release Couplings"
+    }
+  ]
+}

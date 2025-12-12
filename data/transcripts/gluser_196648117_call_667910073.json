@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667910073",
+  "gluser_id": "196648117",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Malkapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Your call has been forwarded to voicemail. The person you're trying to",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voicemail\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a9e8b0d8-8f15-4489-9c24-0adbab63baa5",
+  "ucid": "a9e8b0d8-8f15-4489-9c24-0adbab63baa5",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "215042",
+      "mcat_name": "Ram Darbar Coin"
+    },
+    {
+      "mcat_id": "36644",
+      "mcat_name": "Rust Removers"
+    },
+    {
+      "mcat_id": "80174",
+      "mcat_name": "Copper Coin"
+    },
+    {
+      "mcat_id": "33198",
+      "mcat_name": "Metal Cleaners"
+    }
+  ]
+}

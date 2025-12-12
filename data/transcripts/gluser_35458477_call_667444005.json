@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667444005",
+  "gluser_id": "35458477",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Gwalior",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635648",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ji\\n\\nExecutive: Madam woh abhi aapne phone lagwaya tha na G-voice shirt wale ko aapne phone lagwaya tha.\\n\\nCustomer: Haan haan haan.\\n\\nExecutive: Haan toh unhone mere ko phone lagaya tha laut ke.\\n\\nCustomer: Hmm.\\n\\nExecutive: Toh woh keh rahe hain G-voice ki shirt chahiye unhe keval.\\n\\nCustomer: Kiske?\\n\\nExecutive: G-voice ki jis naam se bylead aayi hai na. Haan usi naam ki shirt chahiye unhe. Haan matlab wohi akele shirt lenge woh aur koi nahi lenge wohi inka kehna hai.\\n\\nCustomer: Achcha. Achcha.\\n\\nCustomer: Achcha.\\n\\nCustomer: Theek hai sir, theek hai.\\n\\nExecutive: Theek hai madam. Dhanyavaad. Madam hafte 10 din mein mera ho jayega hai na madam. Haan haan. Chalo dhanyavaad madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants only G-voice shirts.\\n\n- Executive asks about completion in 7-10 days.\\n\n\\n\nResolution:\\n\n- Customer acknowledged the requirement.\\n\n- Customer agreed to the 7-10 day timeframe.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, shirts, g-voice\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=35131514-631c-4b03-88e3-cd9fb17693aa",
+  "ucid": "35131514-631c-4b03-88e3-cd9fb17693aa",
+  "seller_categories": [
+    {
+      "mcat_id": "121177",
+      "mcat_name": "Kids Cotton Shirts"
+    },
+    {
+      "mcat_id": "216655",
+      "mcat_name": "Kids Printed Shirts"
+    },
+    {
+      "mcat_id": "121176",
+      "mcat_name": "Kids Check Shirts"
+    },
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "4580",
+      "mcat_name": "Boys Shirts"
+    }
+  ]
+}

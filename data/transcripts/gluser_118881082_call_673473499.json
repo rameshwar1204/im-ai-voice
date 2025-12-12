@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673473499",
+  "gluser_id": "118881082",
+  "vintage_months": 29,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690150",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello.\\nExecutive: Hi sir, kaise hai?\\nCustomer: Kaise hai?\\nExecutive: Sir, main IndiaMART se baat kar raha hu, Parvez ka senior. Kal aapse baat karwai thi, Parvez.\\nCustomer: To aapke kal se kuch IndiaMART se baat kar raha hu main. IndiaMART se.\\nExecutive: Kya naam hai sir aapka?\\nCustomer: Mera naam Alam hua, main Parvez ka senior baat kar raha hu. Parvez se aapki baat hui thi. Mister ji baat hui thi. Aapka naam kya hai sir?\\nExecutive: Mera naam Parvez Alam hai aur Parvez Hashmi aapka account manager.\\nCustomer: Aha.\\nExecutive: Theek hai. To kal hamari baat hui thi, Parvez se bhi aapki baat hui thi. Kuch keyword addition aur sara cheez. Sir maine to usme baat kiya tha, customer care mein call kiya tha, uthaya usne.\\nExecutive: Haan woh wohi hoga. Aap customer care mein call karenge to wahin pe land hota hai call. Customer care bhi account manager se hi related hai, theek hai. Wahin pe direct land hoga. Agar aap number se bhi call karte hai to customer to aapki baat ho gayi unse hai na? Sara kuch.\\nCustomer: Nahi baad mein baat nahi hua hai, kal tumhare saath baat hua hi hua.\\nExecutive: Haan mujhse baat hui uske baad phir baat nahi hui aapki?\\nCustomer: Nahi, nahi hui.\\nExecutive: Theek hai na. Ek second main.\\nCustomer: Ek minute.\\nExecutive: Hello.\\nCustomer: Hmm.\\nExecutive: Ji sir, theek hai.\\nCustomer: Theek hai. Ek second entry.\\nExecutive: Sir abhi aap abhi video meeting pe aa sakte hai abhi?\\nCustomer: Nahi hai.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Keh raha hu video meeting pe aa sakte hai aap bata rahe the ki kuch data collect karenge. Kuch suggest karenge.\\nCustomer: Oh main bola tha woh ho gaya sir.\\nExecutive: Aapne jo bola tha jo keyword addition woh ho gaya hai. Kuch aur addition required hai. Uske liye maine aapse kaha tha ki aap kuch der ke liye aake suggest kar dijiyega to hum log usko add kar denge. Nahi uska main main hai na wohi main bola tha. Aur kuch mere ko karna nahi tha.\\nExecutive: Theek hai to main main jitna bhi tha cast iron, running grill\\nCustomer: Aapne jo changes kiya woh dalo na mere mein. Wohi main wohi puchna chahta hu na aapko.\\nExecutive: Main bata raha hu mere paas jo category hai total, main bata de raha hu.\\nCustomer: Nahi grill sheet dal dijiye na sir. Phone mein jyada baat karne se kya main bol dunga okay done done baat khatam ho gayi.\\nExecutive: To main aapko screenshot dalwa de raha hu, theek hai. Haan. Kitne product added hai iron grill mein iron railing mein iron stairs mein aur cast iron gate mein, theek hai.\\nCustomer: Grill aur railing hamara main product hai.\\nExecutive: Haan grill aur railing mein total hum logo ne product dala hua hai. Ek, do, teen, char, panch, che, sat, aath, nau, 10, theek hai. Aur railing mein dala hua hai total ek, do, teen, char, panch, che, sat, aath, nau, 10, theek hai. Lagbhag nau, 10 ke aas paas mein dal diya.\\nCustomer: Theek hai. Theek hai.\\nExecutive: Main bhijwa deta hu kitin. Ek baar check kar lijiye. Uske baad mujhe confirm kijiye. Theek hai phir hum log isko close kar denge. Ek baar baat karke aap, theek hai. Jo bhi aapka concern hai.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants changes in his catalog.\\n\n- Customer wants grill sheet in catalog.\\n\n\\n\nResolution:\\n\n- Executive confirmed keyword addition is done.\\n\n- Executive will share screenshot of catalog.\\n\n\\n\nNext Steps: \\n\n- Customer to check and confirm the catalog.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, keyword addition, video meeting\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 242,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=64acca23-e4f8-485a-b047-6abe225ac697",
+  "ucid": "64acca23-e4f8-485a-b047-6abe225ac697",
+  "seller_categories": [
+    {
+      "mcat_id": "84889",
+      "mcat_name": "Cast Iron Grill"
+    },
+    {
+      "mcat_id": "106967",
+      "mcat_name": "Cast Iron Railing"
+    },
+    {
+      "mcat_id": "102080",
+      "mcat_name": "Cast Iron Stairs"
+    },
+    {
+      "mcat_id": "184721",
+      "mcat_name": "Cast Iron Gate"
+    },
+    {
+      "mcat_id": "85142",
+      "mcat_name": "Cast Iron Ornament"
+    }
+  ]
+}

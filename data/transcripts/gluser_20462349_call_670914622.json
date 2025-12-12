@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670914622",
+  "gluser_id": "20462349",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Gadag",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674871",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan bolo. Haan sir aapko aapke number pe maine video meet ka wo bheja hai. Link sir aap check kijiye ek baar.\\nExecutive: Whatsapp number se aaya hai 0089 hai last mein.\\nCustomer: Violet check karo.\\nExecutive: Achcha. By lead nahi whatsapp pe check kijiye aapko video meet ka aaya hoga sir main batata hu aapko main kya bata raha tha main dikha deta hu aapko. Aap practical dekh lenge to aapko zyada samajh mein aayega. Whatsapp haan. 14 November 13 haan theek hai. Haan ispe ispe connect kijiye main aapko haan main jo haan main join kar sakte hai haan. Haan ye google meet dikh raha hai na ispe click kijiye join ho jayenge main bhi wahin par hi hu available.\\nCustomer: Isse ye ye ye number ko video call karo.\\nExecutive: Haan video video meet wale pe tap kijiye aap aa jayenge uske video meet mein.\\nCustomer: Main online hi baitha hu.\\nExecutive: Call call cut kar dijiye aur video meet pe aaiye. Main aapko dikha deta hu main kya bata raha hu. Theek hai sir. Thank you thank you for you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help joining a video meet.\\n\n\\n\nResolution:\\n\n- Executive guided the customer to join video meet.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- video meet, whatsapp, connection\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=08c7345c-de64-4999-a241-3c50b44e42ad",
+  "ucid": "08c7345c-de64-4999-a241-3c50b44e42ad",
+  "seller_categories": [
+    {
+      "mcat_id": "27068",
+      "mcat_name": "Dustless chalk"
+    },
+    {
+      "mcat_id": "43571",
+      "mcat_name": "Blackboard Chalk"
+    },
+    {
+      "mcat_id": "22389",
+      "mcat_name": "Modelling Clay"
+    },
+    {
+      "mcat_id": "69671",
+      "mcat_name": "School Chalk"
+    },
+    {
+      "mcat_id": "181320",
+      "mcat_name": "Office File"
+    }
+  ]
+}

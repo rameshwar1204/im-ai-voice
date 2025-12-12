@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668077488",
+  "gluser_id": "145193488",
+  "vintage_months": 15,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Rampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639270",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [inaudible]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Ji Mohammad sir thoda sa nahi tha.\\nExecutive: Ji sir, thoda sa. Ji sir uth gaye aap?\\nCustomer: Ji ji bataiye.\\nExecutive: Ji sir aapne ek concern raise kiya hua tha, main IndiaMART se baat kar raha hu Amrit.\\nCustomer: Hmm.\\nExecutive: Ji kal kal ka aapka concern ye jo hai client want to show interest in video meet. Sir kuch problem aa rahi thi seller panel pe aapko?\\nCustomer: Sir main mujhe nahi malum. Last time main aapko ek number deta hu, aap usse baat kariyega, theek hai na?\\nExecutive: Sir.\\nCustomer: Achcha achcha number de dijiye mujhe abhi. Haan number note kariye aap.\\nExecutive: Achcha concern aapne raise kiya tha ki unhone kiya tha?\\nCustomer: Haan unhone kiya tha, isliye main aapko.\\nExecutive: Achcha achcha.\\nCustomer: Theek theek, to number hum na yaha pe bhi add kara denge taki aapko call na jaye. Number to shayad wo add kar rakha hai. Number ek hi add hai aapke profile pe, yahi wala.\\nExecutive: Dekhiye achcha number lijiye. Number note kijiye aap. Bolie. Haan 7078.\\nCustomer: 70\\nCustomer: 78. Haan 650.\\nCustomer: 650\\nCustomer: 154.\\nCustomer: 154. Theek hai sir inka kya naam hai?\\nExecutive: Inka naam hai Saud naam hai inka.\\nCustomer: Theek hai sir main inko call karta hu. Ye employee hai?\\nCustomer: Ji.\\nExecutive: Theek hai okay sir thank you.\\nCustomer: Theek hai okay.",
+  "summary": "\\n\nConcerns:\\n\n- Customer was facing issues on seller panel.\\n\nResolution:\\n\n- Executive took the contact number of the employee.\\n\n\\n\nNext Steps: \\n\n- Executive will call the employee.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- seller panel, concern, employee contact\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03437b7e-cb61-443b-a235-af938d38d4ea",
+  "ucid": "03437b7e-cb61-443b-a235-af938d38d4ea",
+  "seller_categories": [
+    {
+      "mcat_id": "42034",
+      "mcat_name": "Islamic Abaya"
+    },
+    {
+      "mcat_id": "186606",
+      "mcat_name": "Burkha"
+    },
+    {
+      "mcat_id": "174565",
+      "mcat_name": "Men Tailor Services"
+    },
+    {
+      "mcat_id": "173007",
+      "mcat_name": "Garment Stitching Service"
+    },
+    {
+      "mcat_id": "175728",
+      "mcat_name": "Ladies Clothes Stitching Services"
+    }
+  ]
+}

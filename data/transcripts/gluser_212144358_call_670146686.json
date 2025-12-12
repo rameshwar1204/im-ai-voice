@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670146686",
+  "gluser_id": "212144358",
+  "vintage_months": 18,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662394",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello?\\nCustomer: Hello? Hello? Baat kar rahe ho ya nahi kar rahe ho? Video meet ki baat hui thi. 4 baje na? Haan sir, 5 minute to reh gaye. Vahi to puchh rahi hu. 11 baje to kar lenge na?\\nExecutive: Haan haan, sure.\\nCustomer: Theek hai sir. Main link bhej de rahi hu. 11 baje kya join\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquired about the video meet at 4 PM.\\n\n- Asked about joining at 11 AM.\\n\n\\n\nResolution:\\n\n- Executive agreed to the 11 AM meeting.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n- Customer will send the meeting link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, meeting time, meeting link\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=81cdc5c6-a135-4d27-b99a-a9a3b4292e37",
+  "ucid": "81cdc5c6-a135-4d27-b99a-a9a3b4292e37",
+  "seller_categories": [
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    },
+    {
+      "mcat_id": "150642",
+      "mcat_name": "Aluminum Sliding Door"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    }
+  ]
+}

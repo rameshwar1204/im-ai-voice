@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668367781",
+  "gluser_id": "88732997",
+  "vintage_months": 76,
+  "bl_dau_oct": 24,
+  "customer_type": "LEADER",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663384",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Haan, namaste madam.\\nExecutive: Namaste sir, kya naam hai aapka?\\nCustomer: Mera naam [inaudible] hai.\\nExecutive: Haan sir, main IndiaMART se bol rahi hu, kya madad kar sakti hu main aapki?\\nCustomer: Madam, maine aapko bola tha refund ke liye, toh refund kab tak aayega?\\nExecutive: Sir, refund ke liye aapne kab bola tha?\\nCustomer: Maine bola tha aapko 10 din ho gaye, 10 din pehle bola tha.\\nExecutive: Theek hai sir, main check kar leti hu, aapka company name bata dijiye.\\nCustomer: [inaudible] [unintelligible].\\nExecutive: [unintelligible] sir, aapka registered email ID bata dijiye.\\nCustomer: [redacted] hai.\\nExecutive: Theek hai sir, ek minute dijiye main check kar leti hu.\\nCustomer: Haan, haan.\\n(silence)\\nExecutive: Sir, aapne refund ke liye baat kiya tha, toh aapko refund kyun chahiye?\\nCustomer: Refund isliye chahiye, kyunki mere paas koi buylead nahi aa rahi hai.\\nExecutive: Buylead nahi aa rahi hai, theek hai sir, main aapko check karke bata deti hu, aapko buylead kyun nahi aa rahi hai, theek hai?\\nCustomer: Haan, haan.\\nExecutive: Ek minute dijiye sir.\\nCustomer: Haan.\\n(silence)\\nExecutive: Sir, aapka jo plan hai, woh 27th October ko expire ho gaya tha, isliye aapko buylead nahi aa rahi hai.\\nCustomer: Haan, toh aapne mujhe bataya kyun nahi?\\nExecutive: Sir, aapko bataya gaya hoga, kyunki aapka jo plan hai, woh expire ho gaya hai, isliye aapko buylead nahi aa rahi hai.\\nCustomer: Toh abhi kya karna padega?\\nExecutive: Sir, aapko plan renew karna padega.\\nCustomer: Haan, toh renew karne ke liye kitna paisa lagega?\\nExecutive: Sir, aapko main plan dikha deti hu, aapko kaunsa plan chahiye, uske hisaab se aapko paisa lagega.\\nCustomer: Haan, dikhao.\\nExecutive: Ek minute dijiye sir.\\nCustomer: Haan.\\n(silence)\\nExecutive: Sir, aapko screen pe dikh raha hai?\\nCustomer: Nahi.\\nExecutive: Nahi dikh raha hai? Theek hai sir, main aapko bata deti hu, aapka jo plan hai, woh 13,500 ka hai, usme aapko 150 buylead milenge aur aapka jo profile hai, woh top pe rahega.\\nCustomer: Nahi, mere ko nahi chahiye, mere ko refund chahiye.\\nExecutive: Sir, refund nahi milega, kyunki aapka jo plan hai, woh expire ho gaya hai, isliye aapko buylead nahi aa rahi hai.\\nCustomer: Expire ho gaya toh aapne mujhe bataya kyun nahi?\\nExecutive: Sir, aapko bataya gaya hoga, kyunki aapka jo plan hai, woh expire ho gaya hai, isliye aapko buylead nahi aa rahi hai.\\nCustomer: Nahi, mere ko nahi chahiye, mere ko refund chahiye.\\nExecutive: Sir, refund nahi milega, kyunki aapka jo plan hai, woh expire ho gaya hai, isliye aapko buylead nahi aa rahi hai.\\nCustomer: Theek hai, main complaint karta hu.\\nExecutive: Theek hai sir, aap complaint kar sakte hai.\\nCustomer: Haan.\\nExecutive: Thank you sir.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the subscription.\\n\n- Customer is not getting buyleads.\\n\n\\n\nResolution:\\n\n- Executive informed the customer plan expired on October 27th.\\n\n- Executive said customer needs to renew the plan.\\n\n- Executive said refund is not possible.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund, complaint\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, subscription, plan expiry\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cedc17e4-c915-44c6-8e4b-89458b241fa5",
+  "ucid": "cedc17e4-c915-44c6-8e4b-89458b241fa5",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "132735",
+      "mcat_name": "Parking Tile"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    }
+  ]
+}

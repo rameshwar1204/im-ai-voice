@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673605942",
+  "gluser_id": "49980999",
+  "vintage_months": 8,
+  "bl_dau_oct": 18,
+  "customer_type": "Default Cust Type",
+  "city_name": "Barmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4623b9dd-0d18-4a3b-b9b5-26fca315807f",
+  "ucid": "4623b9dd-0d18-4a3b-b9b5-26fca315807f",
+  "seller_categories": [
+    {
+      "mcat_id": "29938",
+      "mcat_name": "Gypsum Plaster"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    },
+    {
+      "mcat_id": "4378",
+      "mcat_name": "Bentonite Powder"
+    },
+    {
+      "mcat_id": "34485",
+      "mcat_name": "Plaster Of Paris"
+    },
+    {
+      "mcat_id": "131584",
+      "mcat_name": "Gypsum Stucco Plaster"
+    }
+  ]
+}

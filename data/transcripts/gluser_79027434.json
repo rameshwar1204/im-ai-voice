@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669128972",
+  "gluser_id": "79027434",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ratnagiri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655179",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No transcript available]",
+  "call_entered_on": "11/9/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=41ccb38e-1e25-496e-82e1-4bb45b5324f9",
+  "ucid": "41ccb38e-1e25-496e-82e1-4bb45b5324f9",
+  "seller_categories": [
+    {
+      "mcat_id": "187186",
+      "mcat_name": "HDPE Grow Bags"
+    },
+    {
+      "mcat_id": "73441",
+      "mcat_name": "Grow Bag"
+    },
+    {
+      "mcat_id": "178381",
+      "mcat_name": "Suitcase Covers"
+    },
+    {
+      "mcat_id": "9716",
+      "mcat_name": "Lunch Bags"
+    },
+    {
+      "mcat_id": "94995",
+      "mcat_name": "Insulated Lunch Bag"
+    }
+  ]
+}

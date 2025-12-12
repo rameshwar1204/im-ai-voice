@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675203826",
+  "gluser_id": "195846049",
+  "vintage_months": 26,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638992",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Haan sir call disconnect ho gaya tha actually.\\nCustomer: Haan agar mujhe is particular time par mujhe agar wo laani hai isko Kolkata ko upar lana hai to kitni mere ko uski buylead uthani hai.\\nExecutive: Sir aise koi limit nahi hoti hai ki 10 uthani hai 12 uthani hai but jo bhi location aap hatana chahte ho for suppose ki aap Indore hatana chah rahe ho theek hai aur Indore ki jagah pe Kolkata lana chah rahe ho to aap teen char din jo hai na keval Kolkata ki lead purchase kar lo jyada theek hai to Indore apne aap aapka niche jayega aur wo location aapki ban jayegi sir.\\nCustomer: Haan hafte bhar ke andar ka tat hota hai uska.\\nExecutive: Ek cheez ek cheez hoti hai.\\nCustomer: Hmm.\\n(silence)\\nThe person you are speaking with has put your call on hold. Please stay on the line.\\n\u0906\u092a \u091c\u093f\u0938 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902, \u0909\u0938\u0928\u0947 \u0906\u092a\u0915\u0940 \u0915\u0949\u0932 \u0915\u094b \u0939\u094b\u0932\u094d\u0921 \u092a\u0930 \u0930\u0916\u093e \u0939\u0948\u0964 \u0915\u0943\u092a\u092f\u093e \u0932\u093e\u0907\u0928 \u092a\u0930 \u092c\u0928\u0947 \u0930\u0939\u0947\u0902\u0964\\nThe person you are speaking with has put your call on hold. Please stay on the line.\\n\u0906\u092a\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know how many buyleads to purchase.\\n\n- Wants to bring Kolkata location up.\\n\n\\n\nResolution:\\n\n- Advised to purchase Kolkata leads for 3-4 days.\\n\n- Indore location will automatically go down.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, purchase\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6e30099-4054-4958-b8c0-1ed54adcd27e",
+  "ucid": "d6e30099-4054-4958-b8c0-1ed54adcd27e",
+  "seller_categories": [
+    {
+      "mcat_id": "759",
+      "mcat_name": "Fashion Jewelry"
+    },
+    {
+      "mcat_id": "65633",
+      "mcat_name": "Earring Set"
+    },
+    {
+      "mcat_id": "752",
+      "mcat_name": "Artificial Jewelry"
+    },
+    {
+      "mcat_id": "1872",
+      "mcat_name": "Fashion Earrings"
+    },
+    {
+      "mcat_id": "38138",
+      "mcat_name": "Stainless Steel Jewelry"
+    }
+  ]
+}

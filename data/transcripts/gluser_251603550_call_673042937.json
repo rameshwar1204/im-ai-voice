@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673042937",
+  "gluser_id": "251603550",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Gadhinglaj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691512",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\\nExecutive: ye sab kar rahe the kaun hai.\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello ha ji good evening sir.\\nCustomer: Ha kaun madam?\\nExecutive: Sir ek sa baat kar rahi hu India Mart se aap batayenge kahan se baat kar rahe hain?\\nExecutive: Hello.\\nExecutive: Hello sir aawaz aa rahi hai aapko?\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Sir aapko aawaz aa rahi hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asking who is calling.\\n\n- Asking who madam is.\\n\n\\n\nResolution:\\n\n- Executive stated calling from India Mart.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nidentity, india mart, voice issue\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b0bd3ecf-a0c3-4dbf-a6a9-a505d18beefe",
+  "ucid": "b0bd3ecf-a0c3-4dbf-a6a9-a505d18beefe",
+  "seller_categories": [
+    {
+      "mcat_id": "24353",
+      "mcat_name": "Cold Storage Rooms"
+    },
+    {
+      "mcat_id": "219384",
+      "mcat_name": "Blue Star Banana Ripening Chamber"
+    },
+    {
+      "mcat_id": "44051",
+      "mcat_name": "Cold Storage Services"
+    },
+    {
+      "mcat_id": "214852",
+      "mcat_name": "Blue Star Cold Rooms"
+    },
+    {
+      "mcat_id": "65816",
+      "mcat_name": "Banana Ripening Chamber"
+    }
+  ]
+}

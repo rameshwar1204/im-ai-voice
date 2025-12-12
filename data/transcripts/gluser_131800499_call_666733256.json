@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666733256",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello haan, good morning sir, Rani baat kar rahi hu IndiaMART se.\\nCustomer: Haan ji madam boliye.\\nExecutive: Haan ji haan ji sir. Actually aap customer care par call kar rahe the na?\\nCustomer: Madam wo chal hi nahi raha hai, wo tab se baitha hua hai.\\nExecutive: Achha. Theek hai. Ek kaam kijiye, aap mere ko na fir se ek baar na uh screenshot share kijiye na. Jo issue aa raha hai na, jo open nahi ho raha hai. Aur aapka data to on hai na?\\nCustomer: Wo maine aapko pichli baar screenshot bheje hain wahi hai.\\nExecutive: Achha. Same wahi issue hai. Achha, ek baar fir se aap mere ko share kijiyega sir WhatsApp pe hi.\\nCustomer: Ek second.\\nExecutive: Haan.\\nCustomer: Aur sir agar possible ho to system pe ek baar online aa jate, ek baar wahan pe bhi dekh lete hain. Laptop wagera pe ki like login ho raha hai ki nahi ho raha hai.\\nExecutive: Madam main bhi actually na bahar hu madam. Main abhi kaam kar raha hu.\\nCustomer: Achha achha koi baat nahi. Koi baat nahi. Koi baat nahi. Aap mere ko screenshot bhej dijiye.\\nExecutive: Aap mere ko ek baar screenshot mere ko share kar dijiye, ek baar main check kara leti hu. Theek hai sir?\\nCustomer: Bhej diya maine aapko.\\nExecutive: Haan bhej dijiye mere ko.\\nCustomer: Bhej diya maine.\\nExecutive: Ek second. Haan abhi aap aa gaya. Theek hai sir. Haan. Okay sir. Main check kara ke aapko update karti hu.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- IndiaMART account is not opening.\\n- Issue has been persistent for some time.\\n\\nResolution:\\n\\n- Requested and received a screenshot of the error.\\n- Confirmed the issue is the same as before.\\n- Promised to get the issue checked by the technical team.\\n\\nNext Steps: \\nIssue not resolved. Executive will get the issue checked and provide an update.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- account issue, login problem, screenshot, technical support\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=182e02ec-9a44-4e8e-ac6e-ff26489c87ce",
+  "ucid": "182e02ec-9a44-4e8e-ac6e-ff26489c87ce",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

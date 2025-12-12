@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675521685",
+  "gluser_id": "250557911",
+  "vintage_months": 3,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701761",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello madam.\\nExecutive: Hello.\\nCustomer: Kya hua madam, call kiya kya karna?\\nExecutive: Hello.\\nExecutive: Sir, abhi main bas jane wali hu, 3 baje ho jata hai khatam.\\nCustomer: 3 baje. Jo GST hota hai na, wo aap apne CA se bol ke claim karwa sakte ho.\\nCustomer: Kya bolu? Matlab CA ko kya bolu main?\\nExecutive: Matlab aapka CA file karta hoga na GST wagera return wagera.\\nCustomer: Haan. Haan.\\nExecutive: To wahi karwayega.\\nCustomer: To matlab unko bol ja ke kya bolna hai?\\nExecutive: GST portal pe check kar lo, unhone GST side claim kar bhi liya ho.\\nCustomer: Kaunse portal pe?\\nExecutive: Aapki company mein CA hai?\\nCustomer: Haan. Advocate hai wo.\\nExecutive: Haan, advocate hai.\\nCustomer: Aapka personal CA hai koi?\\nCustomer: Matlab samjha nahi personal kaise? Jo ITR wagera file karta hoga.\\nCustomer: Nahi nahi, wahi karte hain advocate sahab hi.\\nExecutive: Advocate sahab hi karte hain?\\nCustomer: Haan.\\nExecutive: To wo karwa denge, ek baar unse discuss kar lijiye.\\nCustomer: Theek hai madam, okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked the reason for the call.\\n\n- Customer asked what to tell the CA.\\n\n\\n\nResolution:\\n\n- Executive informed about GST claim process through CA.\\n\n- Executive advised to discuss with advocate.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, ca, advocate, claim\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=21ab56a7-a512-4ffc-a2d2-6a152d4d9280",
+  "ucid": "21ab56a7-a512-4ffc-a2d2-6a152d4d9280",
+  "seller_categories": [
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "166113",
+      "mcat_name": "Stone Carved Temple"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674636381",
+  "gluser_id": "34038170",
+  "vintage_months": 8,
+  "bl_dau_oct": 22,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Patna",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667189",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes ma'am, Durgesh bol raha hu IndiaMART se.\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Kya hai sir? Haan ji.\\nExecutive: Ma'am Durgesh baat kar raha hu IndiaMART se.\\nCustomer: Haan boliye sir. Hello?\\nExecutive: Uh, ma'am actually maine mera jo phone, haan okay. Ma'am actually maine phone isliye kiya hai kyunki aapke jo product ka score hai na, woh toh aapka below 280% hai. Plus aapka D rank, aath aise product hai jo D rank mein hai. Matlab aap uski inquiries le rahe hain but aap response, matlab aapki product add nahi hai aapke profile mein. Toh uske regarding maine aapko call kiya hai ma'am.\\nCustomer: Kaun kaun sa aapka product hai sir, mujhe bataiye, main aapko, aapko kaun sa product number mera aap lijiye, uske type kijiye. Fir jo aapko product chahiye detail mein bhej deti hu.\\nExecutive: Ma'am main, main aapko wohi bata raha hu, wohi bata raha hu, just wait. Line pe rahiye. Ma'am ye aapka jo,\\n\\nExecutive: Aapka ek hai aapka aluminium partition karke hai, woh aapka add nahi hai, aap uski inquiries le rahe hain.\\nCustomer: Aluminium, aluminium ka kaam hum log nahi karte hain.\\nExecutive: Aluminium ka kaam nahi karte hain, ek second just wait.\\nExecutive: Ma'am woh aapke end se hatega ma'am. Ma'am aapke end se hatega, main aapko bata deta hu kaise hatega ma'am.\\nCustomer: Chaliye sir main abhi nahi de paungi, aap mujhe WhatsApp kijiye. Hello?\\nExecutive: Hello? Ma'am usi ke regarding, WhatsApp kar do.\\nCustomer: Ma'am WhatsApp pe jab tak clear nahi honge ki kaise main aapko bhejunga kyunki bahut saari cheezein discuss karni hai aapse.\\nCustomer: Bataiye.\\nExecutive: Toh products ka list aap mujhe bata dijiye na, ki isme kya karni hai. Nahi toh is waqt se baat kariye, product ka list bataiye.\\nCustomer: Saare.\\nExecutive: Ma'am aapko product jo hai na aapko, aapke WhatsApp pe main screenshot share kar deta hu ki kaun kaun sa product D rank hai, kaun sa add karna hai. Ye aapse, ye toh main aapko WhatsApp pe share kar deta hu. Second cheez jo product aap nahi karte hain, usko hum aapko bata deta hu kaise aapko remove karna hai. Aap system pe hain abhi?\\nCustomer: Sir, mujhe sab pata hai, ek baar aap phone pe discuss kar lijiye. Hello?\\nExecutive: Ma'am, haan wohi cheez main aapko,\\nExecutive: Ma'am, meri, meri baat toh samajhiyega tabhi na aap kijiyega. Agar main jab tak nahi samjhaunga toh kaise aap samjhiyega?\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's product score is below 280%.\\n\n- Eight products are in D rank.\\n\n- Wants to know which products are in D rank.\\n\n\\n\nResolution:\\n\n- Executive offered to share screenshots on WhatsApp.\\n\n- Executive offered to explain how to remove products.\\n\n\\n\nNext Steps: \\n\n- Executive will share screenshots on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product score, d rank, whatsapp, product removal\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 163,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3df3c0a7-fe22-4279-bdc1-bab0e784557d",
+  "ucid": "3df3c0a7-fe22-4279-bdc1-bab0e784557d",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "150473",
+      "mcat_name": "Polycarbonate Roofing Sheet"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    },
+    {
+      "mcat_id": "43482",
+      "mcat_name": "UPVC Windows"
+    },
+    {
+      "mcat_id": "177267",
+      "mcat_name": "UPVC Sliding Door"
+    }
+  ]
+}

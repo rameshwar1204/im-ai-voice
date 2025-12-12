@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "669755994",
+  "gluser_id": "115001412",
+  "vintage_months": 24,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646623",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n\\n\nResolution:\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=89196ee2-a3e8-413a-81a9-2a27828da73b",
+  "ucid": "89196ee2-a3e8-413a-81a9-2a27828da73b",
+  "seller_categories": [
+    {
+      "mcat_id": "151173",
+      "mcat_name": "Battery Operated Rickshaw"
+    },
+    {
+      "mcat_id": "145630",
+      "mcat_name": "Electric Rickshaw Three Wheeler"
+    },
+    {
+      "mcat_id": "445384",
+      "mcat_name": "Electric Auto Rickshaw"
+    },
+    {
+      "mcat_id": "183235",
+      "mcat_name": "E-Rickshaw Loader"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669160393",
+  "gluser_id": "119812437",
+  "vintage_months": 50,
+  "bl_dau_oct": 28,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9683709",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, good morning Pravesh ji, Ranjeet bol raha hu sir.\\nCustomer: Good morning, raste mein hu abhi office pahunch raha hu.\\nExecutive: Sir office mein abhi document ha.\\nCustomer: Ha pahunch gaya.\\nExecutive: Document sara sab kuch bhejiye.\\nCustomer: Bhej raha hu, bhej raha hu, office pahunchte bhej raha hu.\\nExecutive: Thik hai sir, ok.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to send documents.\\n\n\\n\nResolution:\\n\n- Customer agreed to send documents after reaching office.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- documents, office\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4b3015f7-da49-4c8a-b184-fbd061dc9291",
+  "ucid": "4b3015f7-da49-4c8a-b184-fbd061dc9291",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    },
+    {
+      "mcat_id": "612",
+      "mcat_name": "Glass Bottles"
+    }
+  ]
+}

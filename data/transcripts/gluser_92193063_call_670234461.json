@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670234461",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Madam ho raha ho raha ho raha.\\nCustomer: Hello.\\nExecutive: Joining ho raha madam joining ho raha.\\nCustomer: Ha ha sir join kariye okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive confirmed joining is in progress.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\n- None\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- joining, confirmation\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d432fe68-36b2-48a2-8540-6ef2c3e922c7",
+  "ucid": "d432fe68-36b2-48a2-8540-6ef2c3e922c7",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

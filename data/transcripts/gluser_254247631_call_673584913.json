@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673584913",
+  "gluser_id": "254247631",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696218",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, good morning sir.\\nCustomer: Ha, good morning ma'am.\\nExecutive: Sir, main Anju baat kar rahi hu sir IndiaMART se.\\nCustomer: Ha.\\nExecutive: Sir, actually aapne customer care pe jo call kiya tha video meet ke liye, sir bataiye kya problem aa rahi hai?\\nCustomer: Kya hua, main samjha nahi main kuch.\\nExecutive: Sir, kal actually aapne hamara jo customer care ka number hai 9696 ispe sir call kiya tha aur aapne kaha tha ki aapko video meet ke liye aap interested ho. To mujhe janna tha ki kya aap abhi free ho? Main aapke sath video meet ka link share kar deti hu.\\nCustomer: Ma'am abhi to main free nahi hu. Aap ek kaam kijiye mujhe dopahar ke baad call kar sakte ho.\\nExecutive: Haan ji bilkul. Aap mujhe time bata dijiye so that main us time bhi.\\nCustomer: 4 baje ke 4 baje ke around.\\nExecutive: 4 baje ke around koi issue nahi hai.\\nExecutive: Main aapko exact 4 baje connect karu?\\nCustomer: Haan, koi baat nahi ma'am.\\nExecutive: To sir aapne jo 9696 pe call kiya tha wo main.\\nCustomer: Kya bol rahe ho aap?\\nExecutive: Theek hai sir, main 4 baje ki video meeting schedule kar deti hu. Theek hai?\\nCustomer: Theek hai ma'am, theek hai.\\nExecutive: Okay, okay sir, thank you so much.\\nCustomer: Okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called for a video meet.\\n\n- Customer is not free at the moment.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meet at 4 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, schedule, call\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f373d44e-1bb9-45a3-b047-da2889ab1ac6",
+  "ucid": "f373d44e-1bb9-45a3-b047-da2889ab1ac6",
+  "seller_categories": [
+    {
+      "mcat_id": "182089",
+      "mcat_name": "Fuji AC Drives"
+    },
+    {
+      "mcat_id": "203640",
+      "mcat_name": "Schneider Power Contactors"
+    },
+    {
+      "mcat_id": "182093",
+      "mcat_name": "Danfoss VFD"
+    },
+    {
+      "mcat_id": "181622",
+      "mcat_name": "Yaskawa AC Drive"
+    },
+    {
+      "mcat_id": "214433",
+      "mcat_name": "Schneider MCB"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669374451",
+  "gluser_id": "185652855",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651641",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello?\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about refund of subscription amount.\\n\n\\n\nResolution:\\n\n- No resolution within provided transcript.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, refund\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ff7230a0-5dca-43dc-9b0c-7d8cdd44246b",
+  "ucid": "ff7230a0-5dca-43dc-9b0c-7d8cdd44246b",
+  "seller_categories": [
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "181411",
+      "mcat_name": "Girls Frock"
+    },
+    {
+      "mcat_id": "184669",
+      "mcat_name": "Kids Baba Suit"
+    },
+    {
+      "mcat_id": "189102",
+      "mcat_name": "Newborn Baby Dress"
+    },
+    {
+      "mcat_id": "4171",
+      "mcat_name": "Baby Frocks"
+    }
+  ]
+}

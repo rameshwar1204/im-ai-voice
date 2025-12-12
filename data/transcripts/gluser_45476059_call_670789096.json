@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670789096",
+  "gluser_id": "45476059",
+  "vintage_months": 3,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vellore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666960",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nYes sir, very good afternoon.\\nYeah, good afternoon sir.\\nSir, is your net, is your net is stable right now?\\nSir, actually I came for another customer place. So today we can't able to connect sir.\\nTomorrow morning surely we will connect sir.\\nOkay, so we will connect tomorrow and we got a, I mean, we got the request from you that you wanted a video meet. So can I, yeah.\\nHello.\\nYeah, tell me sir.\\nYes sir, I'm saying, can I close your video meet request and we can connect.\\nOkay, you can close that sir, not an issue. Tomorrow you can reconnect that video meet.\\nYeah, I will call you tomorrow around 11:00. Okay. Okay sir. We can connect on Google video meet.\\nOkay sir. And I'm closing your video meet request now and you will get a feedback. If you are satisfied just submit the yes. Okay.\\nOkay sir.\\nAlright sir, thank you.\\nThank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to connect due to location.\\n\n- Customer requested a video meet.\\n\n\\n\nResolution:\\n\n- Executive will call tomorrow around 11:00 AM.\\n\n- Executive closed the video meet request.\\n\n- Executive asked for feedback after the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, connection, feedback\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fd7ba204-337b-4879-89cc-5f33fec31178",
+  "ucid": "fd7ba204-337b-4879-89cc-5f33fec31178",
+  "seller_categories": [
+    {
+      "mcat_id": "163366",
+      "mcat_name": "Hydraulic Loader Cylinders"
+    },
+    {
+      "mcat_id": "154010",
+      "mcat_name": "Single Acting Hydraulic Cylinders"
+    },
+    {
+      "mcat_id": "184670",
+      "mcat_name": "Hydraulic Press Cylinder"
+    },
+    {
+      "mcat_id": "11011",
+      "mcat_name": "Industrial Hydraulic Cylinders"
+    },
+    {
+      "mcat_id": "1859",
+      "mcat_name": "Hydraulic Cylinders"
+    }
+  ]
+}

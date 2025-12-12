@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675499629",
+  "gluser_id": "113001756",
+  "vintage_months": 7,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715038",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji Mayank ji baat kar rahe hai SB Infa se?\\nExecutive: Ji boliye.\\nExecutive: Mayank ji Vikas baat kar raha tha main IndiaMART se abhi aapne ek customer care number pe call kiya tha right IndiaMART ke?\\nCustomer: Kiya tha aur maine ek number bhi add kar diya hai. Main maine unko number diya tha aapka maine IndiaMART pe rakha hai.\\nExecutive: Achcha achcha. Actually sir main hi hu main hi aapka na profile vagaira main hi aapka dekh raha hu IndiaMART pe sara. Right? Haan main to jaan raha hu aap hi dekh rahe hai to.\\nExecutive: Maine actually unko number de diya aapse baat karne ke liye lekin lag nahi pa raha tha kuch issue ke karan.\\nExecutive: Achcha achcha actually main call pe tha na to aapka call jab aa raha tha to main pick nahi kar paya aapka call right. To isliye maine dobara aapko call kiya tha mujhe aap number de dijiye main unse baat kar lu.\\nCustomer: Aapke jo account ke sath hai.\\nExecutive: Ji. Dijiye dijiye bataiye baat kar lijiye unse number le lijiye. Hello.\\nCustomer: Hello.\\nExecutive: Haan ji. Haan ji Vikas baat karta main number aap bata dijiye taki main us number pe call kar saku.\\nCustomer: Ji 861\\nExecutive: 861\\nCustomer: 732\\nExecutive: 732\\nCustomer: 5797\\nExecutive: 5797\\nCustomer: 97\\nExecutive: Okay. Main aapko apne systematic recordable line se call karta hu right. Aur aapki jo ticket aayi thi wo uske regarding number aapka add ho chuka hai na mam?\\nCustomer: Haan haan number to add ho chuka hai. Okay. Main us ticket ji ji main us ticket ko main fir main close kar de raha hu right. Aapke pass ek feedback ke liye jayega right to usme aap apna valuable feedback de dijiyega wo feedback hamare liye hota hai right.\\nCustomer: Okay. Okay. Okay.\\nExecutive: Main aapko call karta hu baki ticket close karta hu.\\nCustomer: Thik hai thank you.\\nExecutive: Welcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call was not connecting.\\n\n\\n\nResolution:\\n\n- Executive called back to resolve the issue.\\n\n- Executive took the contact number.\\n\n- Executive will close the ticket.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, ticket, profile, feedback\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1e0b4e3a-b7c0-4dc8-873b-e03061b48b1d",
+  "ucid": "1e0b4e3a-b7c0-4dc8-873b-e03061b48b1d",
+  "seller_categories": [
+    {
+      "mcat_id": "56268",
+      "mcat_name": "False Ceiling Services"
+    },
+    {
+      "mcat_id": "170749",
+      "mcat_name": "Shop Interior Designing"
+    },
+    {
+      "mcat_id": "31028",
+      "mcat_name": "Interior Decorators"
+    },
+    {
+      "mcat_id": "167910",
+      "mcat_name": "False Ceiling Designing"
+    },
+    {
+      "mcat_id": "147295",
+      "mcat_name": "Showroom Interior Designing"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676112047",
+  "gluser_id": "6685891",
+  "vintage_months": 11,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Yellapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720028",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello sir.\\nSir, can you please confirm me about the giving a confirmation? Should I close your concern or not, sir?\\nYou can close it, madam. What I told you so many times, you again and again you are calling me.\\nSir, I called you for taking a feedback, that after I close it. You complain me, I apologize for the same.\\nI I will tell you, madam. You have paid over there, you are just passing to us.\\nIf I am interested, I have the service center number, I will call you back.\\nI shared this all the details with her, she will not call you now onwards. But it's okay, it's okay. It's okay. I I know IndiaMART how to catch. That's all. Don't disturb me many times in a day.\\nSir, I'm so sorry for that. She will not call you again. But I'm closing the concern. Let it be, let it be. What is there? What is there if she is not calling me?\\nSo I told her na, you have his her number na. I told her that he will call you. So she will not call you, okay? So whenever you are free and feel that you need no need to be informed by you. I know it.\\nSorry.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is annoyed by repeated calls.\\n\n- Executive seeks confirmation to close the concern.\\n\n\\n\nResolution:\\n\n- Executive apologized for the inconvenience.\\n\n- Assured no further calls from the same person.\\n\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, closing concern, repeated calls\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=353bad3b-4ffe-428a-8d06-24426c1ad718",
+  "ucid": "353bad3b-4ffe-428a-8d06-24426c1ad718",
+  "seller_categories": [
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "20471",
+      "mcat_name": "Coir Pith"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "145645",
+      "mcat_name": "Neem Cake Fertilizer"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    }
+  ]
+}

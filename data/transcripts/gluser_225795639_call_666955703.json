@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666955703",
+  "gluser_id": "225795639",
+  "vintage_months": 8,
+  "bl_dau_oct": 1,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Latur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9653604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hi sir, good evening. Good afternoon.\\nExecutive: Good afternoon ji, boliye.\\nCustomer: Aap bhi after office se baat kar rahe ho na?\\nExecutive: Ji ji.\\nCustomer: Sir main Roshan baat kar raha hoon IndiaMART ke office se. Kaise hain aap?\\nExecutive: Ji badhiya, bataiye.\\nCustomer: Hamari discussion hui thi na sir?\\nExecutive: Ji ji.\\nCustomer: Aapko yaad hoga ki aapko legal team ke saath mein aapne discuss karna tha ki isko kaise wo\\nExecutive: Ji baat kiya maine unse, lekin wo unko kuch idea nahi hai us baare mein.\\nCustomer: Achcha.\\nExecutive: Ji.\\nCustomer: Wo bol rahe hain agar nahi chal raha hai to subscription rok do aur wo payment refund le lo, band kar do bol rahe hain wo.\\nExecutive: Okay.\\nCustomer: Chaliye ek baar main discussion kar leta hoon.\\nExecutive: Ji.\\nCustomer: Jaisa hota hai main aapko batata hoon.\\nExecutive: Ji, agar koi problem aa rahi hai to band karke uska kya refund hota hai wo dekh lo.\\nCustomer: Theek hai.\\nExecutive: Band kar denge, waisa koi masla nahi hai.\\nCustomer: Theek hai sir.\\nExecutive: Ji.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Legal team is unaware of the previously discussed issue.\\n- Advised by legal team to stop the subscription and get a refund.\\n- Wants to close the service and get a refund if issues persist.\\n\\n\\nResolution:\\n\\n- Will discuss the matter internally.\\n- Will update the customer on the outcome.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive to discuss internally and update the customer.\\n\\nAlert (If Any):\\n- refund\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Risk of churn -> Risk of churn\\n\\n@@@Key Topics:\\n- subscription, refund, legal team, service closure\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c0206845-760c-4be3-a8f4-e84b2f22bcf1",
+  "ucid": "c0206845-760c-4be3-a8f4-e84b2f22bcf1",
+  "seller_categories": [
+    {
+      "mcat_id": "85002",
+      "mcat_name": "Colorful Cracker"
+    },
+    {
+      "mcat_id": "85000",
+      "mcat_name": "Celebration Firework"
+    },
+    {
+      "mcat_id": "235605",
+      "mcat_name": "Cold Fireworks"
+    },
+    {
+      "mcat_id": "651057",
+      "mcat_name": "Multi Shot Fireworks"
+    },
+    {
+      "mcat_id": "443018",
+      "mcat_name": "Colour Smoke Bomb"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668621350",
+  "gluser_id": "130572107",
+  "vintage_months": 53,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bilsi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called but there was silence.\\n\n\\n\nResolution:\\n\n- N/A\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8346192-6419-432e-a990-b107e8194eef",
+  "ucid": "a8346192-6419-432e-a990-b107e8194eef",
+  "seller_categories": [
+    {
+      "mcat_id": "21046",
+      "mcat_name": "Hing"
+    },
+    {
+      "mcat_id": "111932",
+      "mcat_name": "Hing Powder"
+    },
+    {
+      "mcat_id": "177705",
+      "mcat_name": "Hing Goli"
+    },
+    {
+      "mcat_id": "158492",
+      "mcat_name": "Herbal Uterine Tonic"
+    },
+    {
+      "mcat_id": "162721",
+      "mcat_name": "Prostate Care Capsules"
+    }
+  ]
+}

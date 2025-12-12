@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673856017",
+  "gluser_id": "47969544",
+  "vintage_months": 2,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630931",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nExecutive: Good afternoon. Vinod bhai Herman Das kar raha hun head office India se. Good afternoon.\\nCustomer: Haan ji.\\nExecutive: Vinod bhai aap se mujhe discuss karna tha na mera wo kuch parameter the wo pointer discuss karne the mere ko aapke sath.\\nCustomer: Haan haan.\\nExecutive: Jahan pe leg hai aur jo aapka\\n",
+  "summary": "\\n\nConcerns:\\n\n- Discuss parameters and pointers.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nparameters, pointers\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc4a4705-6fc9-4f4e-8c3b-deeeec19527a",
+  "ucid": "fc4a4705-6fc9-4f4e-8c3b-deeeec19527a",
+  "seller_categories": [
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "8844",
+      "mcat_name": "Pure Ghee"
+    },
+    {
+      "mcat_id": "182619",
+      "mcat_name": "Live Earthworms for composting"
+    },
+    {
+      "mcat_id": "222680",
+      "mcat_name": "A2 Ghee"
+    }
+  ]
+}

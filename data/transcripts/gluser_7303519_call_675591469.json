@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675591469",
+  "gluser_id": "7303519",
+  "vintage_months": 9,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Hodal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan ji sir.\\nExecutive: Ah, ma'am aapne number bataya tha actually beech mein call kar diye the. Kya issue hai? Number bata sakte hai kya mujhe dobara?\\nCustomer: Ah, nahi number aapko pata hai. Ek minute. Just hold on.\\nExecutive: Ji.\\nCustomer: Sir 8972 hmm hmm 85 ji 8374.\\nExecutive: 8374. Okay. Ah, inhone India aapko directly call kiya hai ya IndiaMART mein aapne buylead transaction kiya tha uske baad aapne coordinate kiya inko?\\nCustomer: Nahi nahi directly call aa raha hai itna pareshan kar liya hai is bande ne kaam nahi karne de raha hai.\\nExecutive: Kaam nahi karne de raha.\\nCustomer: Main try kar rahi hu mujhe try nahi karne de raha baar baar baar baar phone kiye ja raha hai ye.\\nExecutive: Koi nahi ma'am. Inka naam Sandeep ji hai right? Main ek baar inke liye complaint raise kar de raha hu. Inki company hamare paas mein registered aa rahi hai.\\nCustomer: Theek hai.\\nExecutive: Okay ma'am. Thank you so much. Aur koi concern toh nahi hai ma'am aapka?\\nCustomer: Nahi nahi bas isne mujhe aadha ghante se bahut tang kiya hua hai.\\nExecutive: Koi nahi ma'am. Main main ek escalation dal de raha hu right aapko. Okay.\\nCustomer: Theek hai. Okay ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving unwanted calls.\\n\n\\n\nResolution:\\n\n- Executive raised a complaint against the caller.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- spam calls, complaint, resolution\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=510a501e-a545-4d42-bafe-207dd3da2a74",
+  "ucid": "510a501e-a545-4d42-bafe-207dd3da2a74",
+  "seller_categories": [
+    {
+      "mcat_id": "158207",
+      "mcat_name": "Bag Closing Thread"
+    },
+    {
+      "mcat_id": "183300",
+      "mcat_name": "Rice Rubber Rolls"
+    },
+    {
+      "mcat_id": "214738",
+      "mcat_name": "Garlon Thread"
+    },
+    {
+      "mcat_id": "147948",
+      "mcat_name": "Rice Mill Spare Parts"
+    },
+    {
+      "mcat_id": "186314",
+      "mcat_name": "Revo Bag Closing Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670631129",
+  "gluser_id": "2993875",
+  "vintage_months": 46,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruvalla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682688",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello? Yes?\\nUh\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78b2ace7-3dbb-4170-96c1-dcd46387dbdf",
+  "ucid": "78b2ace7-3dbb-4170-96c1-dcd46387dbdf",
+  "seller_categories": [
+    {
+      "mcat_id": "445494",
+      "mcat_name": "DTF Printer"
+    },
+    {
+      "mcat_id": "132951",
+      "mcat_name": "T-Shirt Printing Machine"
+    },
+    {
+      "mcat_id": "85329",
+      "mcat_name": "UV Flatbed Printer"
+    },
+    {
+      "mcat_id": "118788",
+      "mcat_name": "ECO Solvent Machine"
+    },
+    {
+      "mcat_id": "86362",
+      "mcat_name": "Flex Printing Machine"
+    }
+  ]
+}

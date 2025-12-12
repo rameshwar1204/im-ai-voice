@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670709795",
+  "gluser_id": "2310496",
+  "vintage_months": 100,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajpura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669709",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Dheere dheere kam hoti ja rahi hai.\\nMera sochna.\\nYeh dissatisfied karne ke liye call kiya hai.\\nHello?\\nHello?\\nExecutive: Haan ji.\\nCustomer: Aapko meri, abhi aapko meri voice aa rahi hai sir?\\nExecutive: Abhi toh aa rahi hai, pehle aap kuch apna kuch personally baat kar rahe the, bataiye kaun bol rahe hai?\\nCustomer: Nahi nahi personal baat, sir main Ritik baat kar raha hu sir IndiaMART se.\\nAapne sir, aapne sir customer care pe concern raise kiya tha ki aapko video meet ke liye schedule karna tha.\\nHaan.\\nExecutive: Sir dekhiye kabhi bhi aapko aisa kuch bhi.\\nCustomer: Jo online aapne number de rakha hai, woh aapka phone toh milta nahi hai.\\nOnline jo, sir aap mera yeh wala number save kar lijiye, main aapko number bata deta hu, usko save kar lijiye.\\n70, mujhe matlab jo online dala hai usko update karo.\\nExecutive: Sir.\\nExecutive: Sir dekhiye kya hota hai, main aapko batata hu, woh isliye nahi lag raha hoga.\\nCustomer: Mujhe yeh pata hai, mere paas itna time nahi hoga ki main aapki baatein bhi samjhu.\\nExecutive: Kyunki woh mera.\\nCustomer: Mujhe yeh batao ke mera ek toh response rate jo hai yeh poor kaise ho gaya, pehle toh mera 87% tha.\\nExecutive: Response rate.\\nHaan.\\nExecutive: Accha yeh sir dekhiye, iska ek concern yeh bhi hai aapne abhi is month mein 42 lead consume kiye hai, theek hai?\\nLast month aapne 127 lead consume kiye.\\nCustomer: Accha.\\nHaan, uska bhi sir ek impact hota hai, dusra hame aapke catalog pe thoda work karna padega uske liye.\\nExecutive: Theek hai, toh abhi, abhi aap keh rahe the ki video meet chahiye mujhe toh main aapko link share kar deta hu, main aapko acche se guide kar deta hu kaise kya hum isme improvement karna hai.\\nCustomer: Bhai yaar koi senior hai toh usse baat kara do yaar, aapko kuch pata toh hai nahi, kisi senior se baat karao meri yaar please.\\nExecutive: Sir response rate ki baat kar rahe hai na sir aap, response rate wohi.\\nCustomer: Haan, so you are not able to satisfy me, aap mere ko kisi aur se baat karao please.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's response rate has decreased.\\n\n- Online contact number is not reachable.\\n\n- Wants to talk to a senior executive.\\n\n\\n\nResolution:\\n\n- Executive explained the impact of lead consumption.\\n\n- Offered a video meet to guide on catalog improvement.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- response rate, video meet, catalog, buyleads\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45d00197-3475-4033-83ed-db8b5ebc73c6",
+  "ucid": "45d00197-3475-4033-83ed-db8b5ebc73c6",
+  "seller_categories": [
+    {
+      "mcat_id": "184522",
+      "mcat_name": "Detergent Enzyme"
+    },
+    {
+      "mcat_id": "3738",
+      "mcat_name": "Chemical Preservatives"
+    },
+    {
+      "mcat_id": "193038",
+      "mcat_name": "Methylisothiazolinone"
+    },
+    {
+      "mcat_id": "96068",
+      "mcat_name": "Detergent Fragrance"
+    },
+    {
+      "mcat_id": "43155",
+      "mcat_name": "Biocides"
+    }
+  ]
+}

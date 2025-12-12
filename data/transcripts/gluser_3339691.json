@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669940964",
+  "gluser_id": "3339691",
+  "vintage_months": 44,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Yamuna Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nHello.\\nHello.\\nHanji.\\nHello.\\nMam, mam, main India Mart se baat kar raha hu. Ji, aawaz aa rahi hai. Main India Mart se. Hanji.\\nIndia Mart se baat kar raha hu mam.\\nKya aap mujhe 5 baje call kar sakte hai? Is it possible?\\n5 baje not in to will connect.\\nOkay, thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asked to call back at 5 PM.\\n\n\\n\nResolution:\\n\n- Informed will not be able to connect at 5 PM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, call, connect\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8185f2fd-e974-4184-9a34-66729a9ce4fe",
+  "ucid": "8185f2fd-e974-4184-9a34-66729a9ce4fe",
+  "seller_categories": [
+    {
+      "mcat_id": "163160",
+      "mcat_name": "Multivitamin Drops"
+    },
+    {
+      "mcat_id": "192514",
+      "mcat_name": "Collagen Peptides"
+    },
+    {
+      "mcat_id": "145547",
+      "mcat_name": "Iron Folic Acid Tablet"
+    },
+    {
+      "mcat_id": "182260",
+      "mcat_name": "Chocolate Protein Powder"
+    },
+    {
+      "mcat_id": "315662",
+      "mcat_name": "Anti Cold Syrup"
+    }
+  ]
+}

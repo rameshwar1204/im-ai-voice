@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666925338",
+  "gluser_id": "3629187",
+  "vintage_months": 172,
+  "bl_dau_oct": 6,
+  "customer_type": "STAR",
+  "city_name": "Ambala",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9712132",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, IndiaMART se baat kar rahe ho?\\nExecutive: Ji sir, IndiaMART se baat kar rahi hu. Bataye, kya sahayata kar sakti hu aapki?\\nCustomer: Madam, ek buylead aayi thi, uska number lag nahi raha hai.\\nExecutive: Okay sir. Kya aap mujhe buylead ID bata sakte hai?\\nCustomer: Haan, likhiye. Two five zero three two three double zero one eight.\\nExecutive: Two five zero three two three double zero one eight. Ek minute dijiye sir, main check kar leti hu.\\nCustomer: Ji.\\nExecutive: Sir, ye buylead Mr. Rakesh Kumar ki hai, R K Enterprises se.\\nCustomer: Haan, haan, wahi.\\nExecutive: Sir, number to humare system me verified aur active dikha raha hai. Ho sakta hai unka phone abhi network area me na ho ya busy ho.\\nCustomer: Nahi madam, main subah se try kar raha hu. Lag hi nahi raha hai.\\nExecutive: Okay sir. Ek kaam karti hu, main aapki call unse connect karwane ki koshish karti hu. Line pe bane rahiye.\\nCustomer: Theek hai.\\n(silence)\\nExecutive: Sir, call connect karne ke liye dhanyawad. Unka number abhi switched off aa raha hai.\\nCustomer: Wahi to main keh raha tha. Ab kya karu?\\nExecutive: Sir, aapse anurodh hai ki aap thodi der baad dobara try karein. Kai baar buyer apna phone band kar dete hai.\\nCustomer: Ye to har baar ka hai. Koi dusra lead de do iske badle.\\nExecutive: Sir, main samajh sakti hu aapki pareshani. Lekin sir, ye aapka free account hai aur free account me buylead replacement ka policy nahi hai. Ye suvidha sirf humare paid members ke liye hai.\\nCustomer: Achha, theek hai. Chalo, theek hai.\\nExecutive: Aur koi sahayata kar sakti hu sir?\\nCustomer: Nahi, bas yahi tha. Dhanyawad.\\nExecutive: IndiaMART me call karne ke liye dhanyawad. Aapka din shubh ho.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Buylead contact number is not connecting.\\n- Requested a replacement for the invalid lead.\\n\\n\\nResolution:\\n\\n- Verified the buylead ID (2503230018).\\n- Attempted to connect the call but found the buyer's number was switched off.\\n- Informed that the number is verified and active in the system.\\n- Explained that lead replacement is not available for free accounts.\\n\\n\\nNext Steps: \\nIssue not resolved. Advised to try calling the buyer again later.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, contact number issue, free account, lead replacement policy\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=465f4911-932c-4573-87dd-c224080a9d45",
+  "ucid": "465f4911-932c-4573-87dd-c224080a9d45",
+  "seller_categories": [
+    {
+      "mcat_id": "145668",
+      "mcat_name": "Soil Moisture Meter"
+    },
+    {
+      "mcat_id": "37041",
+      "mcat_name": "Soil Moisture Sensor"
+    },
+    {
+      "mcat_id": "40593",
+      "mcat_name": "UV Meter"
+    },
+    {
+      "mcat_id": "36834",
+      "mcat_name": "Rain Gauges"
+    },
+    {
+      "mcat_id": "146983",
+      "mcat_name": "Chlorophyll Fluorometer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675085883",
+  "gluser_id": "136341845",
+  "vintage_months": 2,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699764",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello\\nExecutive: Hello\\nCustomer: ha ji main bol raha tha gaurav baat kar raha tha sandhya marse\\nExecutive: gaurav ji kal kariye na kal 11 baje thoda bahar hu main abhi office\\nCustomer: nahi hu sir aisa hai\\nExecutive: acha kya tha aapka ek waha pe matlab aapne meri baat suniye abhi tak koi inquiry close nahi ho pai aapke yahan se aa rahi hai magar kuch matlab bigad ke aa rahi hai matlab aisa hai\\nCustomer: wahi bola aap ek bar time do hum discuss karke kal main 11 baje kal subah 11 baje call karo na aap to apan baithte hain main online rahunga to apan dekh lenge check kar lenge sir\\nExecutive: theek hai baki ye bola tha ek aapka wo tha sanction abhi close kar deta hu aap mera number to hai hi aapke pass aap mere ko main khud 11 baje aapko kar lunga main bahar hu main actually bahar hu main us pe dekh ke aapke app pe dekh kar aur fir apan discuss karke fir karte hain apan sir\\nExecutive: theek hai sir\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states no inquiry closed from their end.\\n\n- Inquiries are coming with some issues.\\n\n\\n\nResolution:\\n\n- Executive will discuss the issue with customer.\\n\n- Customer will call executive tomorrow at 11 AM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry, discussion, call schedule\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=700d1936-3f38-41d5-a678-07fd63b23ca3",
+  "ucid": "700d1936-3f38-41d5-a678-07fd63b23ca3",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "315617",
+      "mcat_name": "Mild Steel Portable House"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

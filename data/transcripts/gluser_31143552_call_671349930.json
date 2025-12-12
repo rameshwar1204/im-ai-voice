@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671349930",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan good evening sir. Sir screenshot bhej dijiye jahan pe aapko login issue aa raha hai na sir. Mere paas nahi hai madam. Main main bola na mere paas nahi hai. Jo mera main Adilip par hu. Mera jo bande hai jisko number diya tha.\\nExecutive: Hmm.\\nCustomer: Unko call karke lene ke liye. Hai na?\\nExecutive: Wo mana kar rahi hai bol rahi hai forest mein hai. Main aapse bol rahi hu aapke mobile mein hoga sir ek baar attempt kar lijiye.\\nCustomer: Mere paas nahi hai. Kya mana kar raha hai kya?\\nExecutive: Haan nahi wo keh rahe hai bahar hai forest mein hai to network nahi pakad raha hai. To main wahi aapse keh rahi hu ki aap ek baar aur login karne ka attempt kar lijiye aap turant bhej denge.\\nCustomer: Mera ho raha hai. Mera mera ho raha hai. Mera koi problem nahi hai. Theek hai madam.\\nExecutive: Unka nahi ho raha hai.\\nCustomer: Unka nahi ho raha hai.\\nExecutive: Accha. Theek hai wo abhi nahi hai to theek hai. Monday aapko call kar lu ye concern close kar du?\\nCustomer: Haan Monday. Monday call karo. Theek hai.\\nExecutive: Concern close kar du?\\nCustomer: Haan concern close kyu karoge? Rakho hold pe rakho usko. Monday tak usko.\\nExecutive: Haan hold pe rakho. Monday hi hoga.\\nCustomer: Haan Monday karo hold karo. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's colleague facing login issue.\\n\n- Executive requested a screenshot of the issue.\\n\n\\n\nResolution:\\n\n- Executive agreed to call on Monday.\\n\n- Agreed to keep the concern on hold.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, screenshot, monday call\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f7adc175-0971-481a-a770-99f21b551160",
+  "ucid": "f7adc175-0971-481a-a770-99f21b551160",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

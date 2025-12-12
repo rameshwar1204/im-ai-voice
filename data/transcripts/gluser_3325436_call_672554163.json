@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672554163",
+  "gluser_id": "3325436",
+  "vintage_months": 105,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ratlam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9687111",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, good evening.\\nCustomer: 78 good evening 120 na to 98 aur 120 mein white ke to koi farak aate nahi aa jata itna to okay hai fir.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Good evening.\\nCustomer: Haan ji.\\nExecutive: Haan main baat kar raha tha India Mart se.\\nCustomer: Boliye na.\\nExecutive: Aapke paas mail aagya hai sir mera?\\nCustomer: Mail aagya maine reply kar diya sab kar diya payment refund karaoge to kaam ka baatein baatein to hoti rahegi zindagi bhar chalti rahegi.\\nExecutive: Nahi refund sir ho jayega aapko wo do se teen din mein refund aa jayega sir aapko.\\nCustomer: Malum mere ko pehle jab maximizer ka mere ko proposal diya tha na jab maine payment cash dala tha aapko tab bhi aapki team ne yahi bola tha ke sir bas aapko do teen din mein aa jayega aap ye isko final karo pehle.\\nCustomer: Aur wo aaj tak hi nahi aaya hai uska interest hi jod lo to double ho gaya payment.\\nExecutive: Sir do se teen din mein main aapko bharosa deta hu do se teen din mein.\\nCustomer: Kara dijiye aap fir samajhte hain isko.\\nCustomer: Sorry.\\nCustomer: Kara dijiye dekhte hain isko.\\nExecutive: Ah, theek hai main do se teen din mein connect karta hu fir aapko theek hai aap kar kara ke thank you.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants refund for maximizer proposal.\\n\n- Payment not refunded even after several days.\\n\n\\n\nResolution:\\n\n- Executive assured refund in 2-3 days.\\n\n\\n\nNext Steps: \\n\n- Executive will connect in 2-3 days.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, maximizer, proposal\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=293b169c-6d8d-4d68-9665-f32696437121",
+  "ucid": "293b169c-6d8d-4d68-9665-f32696437121",
+  "seller_categories": [
+    {
+      "mcat_id": "2152",
+      "mcat_name": "Polypropylene Rope"
+    },
+    {
+      "mcat_id": "35182",
+      "mcat_name": "Polyester Rope"
+    },
+    {
+      "mcat_id": "5054",
+      "mcat_name": "Plastic Twine"
+    },
+    {
+      "mcat_id": "142705",
+      "mcat_name": "Fibre Rope"
+    },
+    {
+      "mcat_id": "7166",
+      "mcat_name": "Polypropylene Twine"
+    }
+  ]
+}

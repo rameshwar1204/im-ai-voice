@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673487422",
+  "gluser_id": "62100211",
+  "vintage_months": 33,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sitamarhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Ji bataiye.\\nCustomer: Good afternoon sir, Gyan Tiles se baat ho rahi hai meri?\\nExecutive: Kahan se baat kar rahe hain aap?\\nCustomer: Sir, main na India Mart se baat kar rahi hu, actually morning na aapne ticket li thi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Confirm if this is Gyan Tiles.\\n\n- Stated that they are calling from India Mart regarding a morning ticket.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, india mart, ticket\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12fbcc53-ba1f-4f14-8391-9ce235cc1b85",
+  "ucid": "12fbcc53-ba1f-4f14-8391-9ce235cc1b85",
+  "seller_categories": [
+    {
+      "mcat_id": "132943",
+      "mcat_name": "Shuttering Plywood"
+    },
+    {
+      "mcat_id": "139254",
+      "mcat_name": "Clay Brick Making Machine"
+    },
+    {
+      "mcat_id": "27483",
+      "mcat_name": "Film Faced Plywood"
+    },
+    {
+      "mcat_id": "43023",
+      "mcat_name": "Fly Ash Brick Making Machine"
+    },
+    {
+      "mcat_id": "181473",
+      "mcat_name": "MR Grade Plywood"
+    }
+  ]
+}

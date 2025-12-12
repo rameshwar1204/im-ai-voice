@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668554479",
+  "gluser_id": "219313341",
+  "vintage_months": 18,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bavla",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9646473",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ha sir, maine aapke sath share kiya hua hai, ye apna website ye email id aapke pass hi hai na Krishnakotaspoon@gmail.com?\\nCustomer: Ha.\\nExecutive: Ha sir, ek bar apna mail id kholiyega.\\nCustomer: Krishnakotaspoon.\\nExecutive: Ha isi pe sir aapke pass\\nCustomer: Kya?\\nExecutive: Aapke pass link aaya hoga sir join karne ka.\\n\\nExecutive: Thik hai sir, mai phone rakh de raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked customer to open email.\\n\n\\n\nResolution:\\n\n- Executive hung up the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, link, join\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1477bf18-2b4c-4889-8995-a02efa5e5f25",
+  "ucid": "1477bf18-2b4c-4889-8995-a02efa5e5f25",
+  "seller_categories": [
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "10424",
+      "mcat_name": "KERB Stones"
+    },
+    {
+      "mcat_id": "177813",
+      "mcat_name": "Cement Paver Block"
+    }
+  ]
+}

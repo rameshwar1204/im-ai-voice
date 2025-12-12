@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "674652278",
+  "gluser_id": "251902784",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Morena",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6fef9e95-f0b7-4c8e-a984-7358f4fb3d84",
+  "ucid": "6fef9e95-f0b7-4c8e-a984-7358f4fb3d84",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657203",
+      "mcat_name": "Cow Manure"
+    }
+  ]
+}

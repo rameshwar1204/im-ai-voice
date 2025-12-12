@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673927555",
+  "gluser_id": "246057464",
+  "vintage_months": 4,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Baddi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675236",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan sir. Hello baat kar raha hu. Main band ki hai na call band ki hai na maine cut kiya hai na.\\nExecutive: Nahi to main sir wahi janna tha sir kya aapke nahi nahi mujhe baat nahi karni hai, baat nahi karni hai.\\nCustomer: Sir kya dikkat kya hai batayenge tab na sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know why the call was disconnected and states that he did not cut the call.\\n\n\\n\nResolution:\\n\n- Executive wanted to know if the customer had any issues.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to frustrated.\\n\n\\n\n@@@Key Topics:\\n\ncall disconnection, reason\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f18c8287-e84a-4d01-a276-cdd61506709c",
+  "ucid": "f18c8287-e84a-4d01-a276-cdd61506709c",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "442858",
+      "mcat_name": "Ceftriaxone and Sulbactam Injection"
+    },
+    {
+      "mcat_id": "186262",
+      "mcat_name": "Cefixime Tablet"
+    },
+    {
+      "mcat_id": "138631",
+      "mcat_name": "Ceftriaxone Injection"
+    },
+    {
+      "mcat_id": "224628",
+      "mcat_name": "Cefotaxime Injection"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674761676",
+  "gluser_id": "32146463",
+  "vintage_months": 82,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rewa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9704752",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan ji. Hello. Haan ji, daal diya aapko WhatsApp pe dala hai, check kiya aapne?\\nCustomer: Haan haan, mere paas WhatsApp mein aaya hua hai. Main ek baar ko check kara ke sir main update karta hoon aapko.\\nExecutive: Haan. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a WhatsApp message and will check and provide an update.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will check the WhatsApp message and provide an update.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp message, update\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7e78adf-685e-4a25-9404-1646cc2bc4cc",
+  "ucid": "a7e78adf-685e-4a25-9404-1646cc2bc4cc",
+  "seller_categories": [
+    {
+      "mcat_id": "182187",
+      "mcat_name": "Agarbatti Machine Spare Parts"
+    },
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "158304",
+      "mcat_name": "Incense Sticks Fragrances"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "28937",
+      "mcat_name": "Fragrance Perfume"
+    }
+  ]
+}

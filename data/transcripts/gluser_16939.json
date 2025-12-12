@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666878157",
+  "gluser_id": "16939",
+  "vintage_months": 136,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mohali",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9624689",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Yes sir.\\nCustomer: Haan ji sir aap Jupiter Equiline se baat kar rahe the sir?\\nExecutive: Haan ji, nahi kaun baat kar rahe hai sir?\\nCustomer: Ji sir, main IndiaMART se baat kar raha hu sir.\\nCustomer: Kaun baat kar rahe hai?\\nExecutive: Ji sir, main IndiaMART se Amit baat kar raha hu. Sir aapne miss call matlab aapne call kara tha 1 November ko usi ke regarding main baat kar raha hu.\\nCustomer: Haan haan wo aap hi ke number the kya?\\nExecutive: Nahi nahi wo actually meri mam ka tha to ye mam abhi mere senior manager hai unka number tha to wo abhi\\nCustomer: Haan subah morning ek madam ka mere paas detail aaya tha hamari company ki website pe. Ye ye number kya number last ka unka number kya hai unka last ka?\\nExecutive: Uh mam ek minute, bas ek minute sir line pe rahiye batata hu aapko.\\nExecutive: Uh 050 hoga sir.\\nCustomer: 050?\\nExecutive: Haan ji.\\nCustomer: Haan ji sir kuch issue hai to aap mujhe bata dijiye. Main dekh leta hu. Number chahiye nahi nahi unka number chahiye madam ka?\\nExecutive: Mam ka number chahiye sir aapko?\\nCustomer: Haan wahi puch raha hu madam ka last number kya hai last ke four digit kya hai unke?\\nExecutive: 050 sir.\\nCustomer: 050\\nExecutive: Haan ji. Nahi nahi kya naam hai unka madam ka aapke?\\nExecutive: Mam ka jo hai unka naam hai Rishi Yadav.\\nCustomer: Achcha Rishi?\\nCustomer: Reshu Reshu. Reshu haan meri baat ho chuki madam se aapki.\\nExecutive: Uh sir actually ye tha na ki aapki miss call padi hui thi usi ke regarding main aapse baat kar raha hu.\\nCustomer: Nahi nahi ho gaya ho gaya ho gaya meri baat sorted ho gaya aapka mera problem meri Rishi se ho gaya meri baat yaha pe. To unhone meri problem ko meri sorted karwa diya fir maine manager CC ki ID se mail bhi karwa di thi unko sirf confirmation chahiye thi. To us ID se maine unko mail karwa ke\\nCustomer: Nahi wo sara kuch sorted ho chuka hai Amit. Amit wo sara already sorted ho chuka hai. Maine unko thank you bhi bol diya maine.\\nExecutive: Okay okay sir. Kyunki actually aisa tha na ki yaha ticket open ho jata hai na sir aapki miss call se. Are nahi nahi nahi ho gaya ho gaya ho gaya sorted ho gaya wo to main do teen din pehle solve ho gaya tha. Theek hai okay thank you.\\nExecutive: Okay sir thank you so much. Okay bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive followed up on a missed call.\\n\nResolution:\\n\n- Customer confirmed issue was resolved already.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- miss call, issue resolved, confirmation\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 140,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba426db7-5c13-4f48-a221-83e9c02d3d65",
+  "ucid": "ba426db7-5c13-4f48-a221-83e9c02d3d65",
+  "seller_categories": [
+    {
+      "mcat_id": "6497",
+      "mcat_name": "Flush Valve"
+    },
+    {
+      "mcat_id": "42583",
+      "mcat_name": "Bathroom Faucets"
+    },
+    {
+      "mcat_id": "50259",
+      "mcat_name": "Ceramic Basin"
+    },
+    {
+      "mcat_id": "7803",
+      "mcat_name": "Stainless Steel Kitchen Sinks"
+    },
+    {
+      "mcat_id": "183704",
+      "mcat_name": "CP Bathroom Fittings"
+    }
+  ]
+}

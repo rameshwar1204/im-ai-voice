@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675401068",
+  "gluser_id": "102938522",
+  "vintage_months": 7,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Rajnandgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nHello\\nHello\\nHello awaz hello awaz aa rahi hai?\\nHanji madam aa rahi hai.\\nExecutive: Good morning sir, main Hunara baat kar rahi thi Sahu tak IndiaMART head office se bol rahi hu kal sham aap se baat hui thi aap dekh lijiye to baat ho nahi payi aap se.\\nAwaz aa rahi hu?\\nCustomer: Ji ji idhar baat karni hai aapko?\\nExecutive: Main IndiaMART head office se baat kar rahi hu Ishant ki senior manager kal aapki Ishant se baat hui thi sir IndiaMART Sahu agriculture aur harvester account ko leke.\\nCustomer: Main actually main jo hai na main bhi sales person tha pehle IndiaMART me kaam karta tha na.\\nExecutive: Ha mujhe aapki awaz thik se samajh nahi aa rahi hai.\\nHello\\nHello\\nExecutive: Ha bas sir boliye sir.\\nCustomer: Hanji madam main ye bol raha hu ki pehle main bhi IndiaMART me employee tha sales me bhi to waha pe us samay jo Sahu agriculture the unke paas secondary number nahi tha to mera number add kara tha unhone.\\nExecutive: Main aapko ek bar fir se call laga rahi hu sir thik hai? Kyunki main aapki awaz thik se samajh nahi pa rahi hu aap jo keh rahe hain awaz thik se nahi aa rahi hai main fir se call laga rahi hu.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice was not clear.\\n\n- Customer used to work in IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive offered to call again due to voice issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, voice issue, account\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a3d6e4f3-1dc8-4620-950e-ba31a2de6b2b",
+  "ucid": "a3d6e4f3-1dc8-4620-950e-ba31a2de6b2b",
+  "seller_categories": [
+    {
+      "mcat_id": "43200",
+      "mcat_name": "Combine Harvester"
+    },
+    {
+      "mcat_id": "192898",
+      "mcat_name": "Kubota Harvester"
+    },
+    {
+      "mcat_id": "650409",
+      "mcat_name": "Track Combine Harvester"
+    },
+    {
+      "mcat_id": "139361",
+      "mcat_name": "Paddy Harvester"
+    },
+    {
+      "mcat_id": "139374",
+      "mcat_name": "Power Reaper"
+    }
+  ]
+}

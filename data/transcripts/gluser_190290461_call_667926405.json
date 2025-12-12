@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667926405",
+  "gluser_id": "190290461",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9632734",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello. Hello.\\nExecutive: Good morning sir, [unintelligible] bol rahe IndiaMART se.\\nCustomer: Hello. Good morning sir, IndiaMART se. Awaz aa rahi hai?\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm if voice is audible.\\n\n\\n\nResolution:\\n\n- Call disconnected.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, connectivity\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=730281ab-c1fa-4af7-81d9-72af98399d67",
+  "ucid": "730281ab-c1fa-4af7-81d9-72af98399d67",
+  "seller_categories": [
+    {
+      "mcat_id": "25982",
+      "mcat_name": "Tamper Proof Courier Bags"
+    },
+    {
+      "mcat_id": "184284",
+      "mcat_name": "Printed Courier Bag"
+    },
+    {
+      "mcat_id": "74486",
+      "mcat_name": "Slider Zip Bag"
+    },
+    {
+      "mcat_id": "445006",
+      "mcat_name": "Paper Courier Bag"
+    },
+    {
+      "mcat_id": "5709",
+      "mcat_name": "Paper Carry Bags"
+    }
+  ]
+}

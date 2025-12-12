@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "667496581",
+  "gluser_id": "138801372",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Okay.\\nExecutive: Hello?\\nCustomer: Hello? Haan sir, sir ji.\\nExecutive: Haan. Haan boliye boliye abhi.\\nExecutive: Haan haan free hai India mart. Haan abhi boliye. Haan haan. Main ye keh raha tha Raju bhai.\\nCustomer: Hello?\\nExecutive: Haan Raju bhai.\\nCustomer: Haan.\\nExecutive: Hello. Haan boliye.\\nExecutive: Raju bhai main Pawan baat kar raha tha main ye keh raha tha ki aapka na call main Monday ye parso main arrange karwaunga theek hai sir.\\nCustomer: Barabar.\\nExecutive: Parso kyunki kal Guru Nanak Jayanti hai na sir to main parso call arrange karwaunga to aap ek baar utha lijiyega theek hai sir.\\nCustomer: Wo baat sahi hai. Aap continue nahi karoge na wo pe bhai le do wo kya hua?\\nExecutive: Wo aap consume kar lo usko koi dikkat nahi hai aap usko consume kar lo.\\nCustomer: Theek hai to kaise consume kare? Haan haan aap usko consume karo main ek baar na panch che 6 tarikh ko fir call arrange karwata hu theek hai sir.\\nCustomer: 6 tarikh ko mere paise kab wapas aayenge?\\nExecutive: Sir ek baar na main call arrange karwa ke fir mere ko finance team se approach karna padega. Ek final call aapke paas aayegi theek hai sir usi se related rahega.\\nCustomer: Wo mere galat hai jo main India mart me aao.\\nExecutive: Nahi sir last time aapki baat hui thi na sir. Hmm. Aapke jaan pehchan mein bhi hai jo Rajkot mein jo client aap keh rahe the.\\nExecutive: Concern keval itna aa raha tha ki aapko na local sales person chahiye tha aapki location mein lekin aapki location mein local sales person kyunki aapka pin code aisa aa raha hai na ki waha pe local sales person available nahi hai.\\nCustomer: Hmmm hmmm. Samajh gaya sir aapki baat ko ek baar main 6 tarikh ko fir call arrange karwata hu usme theek hai sir.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know when refund will be processed.\\n\n- Customer expresses dissatisfaction with IndiaMART services.\\n\n\\n\nResolution:\\n\n- Executive assured to arrange a call on 6th.\\n\n- Executive will approach finance team for refund.\\n\n- Explained the unavailability of local salesperson due to pin code.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, call arrangement, local salesperson\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=035fc400-f9a1-4109-91c5-0400e266bb71",
+  "ucid": "035fc400-f9a1-4109-91c5-0400e266bb71",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "43251",
+      "mcat_name": "Neodymium Rod Magnet"
+    },
+    {
+      "mcat_id": "145239",
+      "mcat_name": "Screw Flights"
+    },
+    {
+      "mcat_id": "445748",
+      "mcat_name": "Alnico Rod Magnet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669985229",
+  "gluser_id": "85600239",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan ji, hello.\\nCustomer: Sushmita madam bol rahi hain?\\nExecutive: Haan haan.\\nCustomer: Abhi baat karte karte phone kat gaya tha.\\nExecutive: Kat gaya hai. Achcha theek hai theek hai. Dobara se yahan pe add kar leti hoon main.\\nCustomer: [inaudible]\\nExecutive: Usi mail pe jao, usi link pe jao aur click karo, wahan pe apne aap join ho jayega.\\nCustomer: Ek minute kar raha hoon.\\nExecutive: Aap jis vyakti se baat kar rahe hain,\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call disconnected during previous conversation.\\n\n\\n\nResolution:\\n\n- Advised to rejoin using the same link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, link, rejoin\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=00f72203-a4dc-423d-8aef-139565d232a8",
+  "ucid": "00f72203-a4dc-423d-8aef-139565d232a8",
+  "seller_categories": [
+    {
+      "mcat_id": "178220",
+      "mcat_name": "Industrial Wooden Pallets"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "3531",
+      "mcat_name": "Wooden Crates"
+    },
+    {
+      "mcat_id": "148704",
+      "mcat_name": "Pine Wood Runners"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674751056",
+  "gluser_id": "254548597",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Narsapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Sorry.\\nHello.\\nHello.\\nHello.\\nHanji sir, Anshika baat kar rahi hu IndiaMART se sir.\\nAh, thik hai. I got a call from your side.\\nUh, yes sir, actually we received uh concern from your side regarding the buyleads.\\nYeah, yes. That's why we that's why we called you. Okay.\\nUh, yes sir. So like what is the issue main issue you are facing? You mentioned that you are not getting the bulk lead, right?\\nUh, not we are getting uh buyleads so that's why.\\nSir, your voice is not coming properly. One second sir.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting buyleads.\\n\n- Executive's voice is not coming properly.\\n\n\\n\nResolution:\\n\n- Executive called regarding buyleads issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, call, issue\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0f1988e9-638c-4280-b342-1c021f63826f",
+  "ucid": "0f1988e9-638c-4280-b342-1c021f63826f",
+  "seller_categories": [
+    {
+      "mcat_id": "156476",
+      "mcat_name": "Semi Husked Coconut"
+    },
+    {
+      "mcat_id": "156360",
+      "mcat_name": "Husked Coconut"
+    },
+    {
+      "mcat_id": "156361",
+      "mcat_name": "Tender Coconut"
+    },
+    {
+      "mcat_id": "188991",
+      "mcat_name": "Pollachi Coconut"
+    },
+    {
+      "mcat_id": "136179",
+      "mcat_name": "Raw Coconut"
+    }
+  ]
+}

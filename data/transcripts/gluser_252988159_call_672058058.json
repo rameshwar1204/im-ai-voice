@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672058058",
+  "gluser_id": "252988159",
+  "vintage_months": 2,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683318",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hello. Haan.\\nCustomer: Haan.\\nExecutive: Good evening, ma'am. I'm Srishti, speaking from IndiaMART.\\nCustomer: Haan, boliye ma'am.\\nExecutive: Haan ma'am, aapko kuch query tha na related aapko catalog score?\\nCustomer: Hello.\\nCustomer: Haan, ma'am. Oh, main aapko bola tha na jo mojdi karke chadai hai. Ji ji ji. Uski uski lead nahi aa rahi hai.\\nExecutive: Achcha. Wo lead isliye nahi aa rahi hai ma'am, aapke paas laptop hai? Laptop ya computer?\\nCustomer: Haan, computer hai ma'am.\\nExecutive: Haan, to main aapko video link share kar rahi hu ma'am, theek hai? Aap ek baar usse connect kijiye, main aapko dikha deti hu ki kyun nahi aa rahi hai aur kaise aayegi, theek hai? Isme isme jo mail ID hai usse aayega?\\nExecutive: Haan, haan ma'am, usse aayega.\\nCustomer: Oh, mail ID isme connect nahi hai ma'am. Aap mujhe whatsapp pe connect kar de? Nahi, dusre ke phone pe. Aap mujhe whatsapp pe connect kar sakte hai?\\nExecutive: Haan, main aapko whatsapp pe bhej dungi.\\nCustomer: Haan, to main bhej deta hu.\\nExecutive: Theek hai.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads for mojdi catalog.\\n\n\\n\nResolution:\\n\n- Executive offered to share a video link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will share video link on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, whatsapp, video link\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=955565e4-2a3e-4b59-b797-daf8bbfcad8b",
+  "ucid": "955565e4-2a3e-4b59-b797-daf8bbfcad8b",
+  "seller_categories": [
+    {
+      "mcat_id": "34858",
+      "mcat_name": "Pure Silk Sarees"
+    },
+    {
+      "mcat_id": "6242",
+      "mcat_name": "Fancy Sarees"
+    },
+    {
+      "mcat_id": "10950",
+      "mcat_name": "Indian Sarees"
+    },
+    {
+      "mcat_id": "213469",
+      "mcat_name": "Printed Silk Saree"
+    },
+    {
+      "mcat_id": "209050",
+      "mcat_name": "Designer Silk Saree"
+    }
+  ]
+}

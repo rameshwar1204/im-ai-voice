@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672960046",
+  "gluser_id": "253386941",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Chapra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nUh, Shree Traders se baat kar rahi hai?\\nKya?\\nShree Traders se baat kar rahi hai?\\nMai nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asking if this is Shree Traders.\\n\n\\n\nResolution:\\n\n- Denied being Shree Traders.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nshree traders, connection\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=01f8dd75-dde9-4791-9a42-677e71d3652d",
+  "ucid": "01f8dd75-dde9-4791-9a42-677e71d3652d",
+  "seller_categories": [
+    {
+      "mcat_id": "11938",
+      "mcat_name": "Gas Lighters"
+    },
+    {
+      "mcat_id": "85179",
+      "mcat_name": "Hand Chopper"
+    },
+    {
+      "mcat_id": "43199",
+      "mcat_name": "Potato Peeler"
+    },
+    {
+      "mcat_id": "31319",
+      "mcat_name": "Kitchen Cleavers"
+    },
+    {
+      "mcat_id": "84245",
+      "mcat_name": "Plastic Water Jug"
+    }
+  ]
+}

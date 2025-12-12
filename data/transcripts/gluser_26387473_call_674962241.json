@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674962241",
+  "gluser_id": "26387473",
+  "vintage_months": 79,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha ji\\nExecutive: Ha ji Sandeep sir main bhiya bol rahi hu India Mart head office se.\\nCustomer: Ha ji madam.\\nExecutive: Ha sir wo jo aapka concern open tha wo to maine aapko bata diya na ki hum numbers nahi provide kar sakte hain.\\nCustomer: Koi baat nahi madam wo mera kaam nahi hua abhi tak.\\nExecutive: To main kya main isko close kar sakti hu aapka ye jo ticket aapne dala hua hai.\\nCustomer: Close mat kijiye madam abhi.\\nExecutive: To kab karna hai sir isko?\\nCustomer: Dekhte hain madam jab tak mera kaam nahi hota jab tak open rehne dijiye.\\nExecutive: But sir jo aapka reason main samajh rahi hu aapka kaam nahi hua hai lekin jo aapka ye ispe India Mart to nahi kar sakta na apne dusre customer.\\nCustomer: Madam wo India Mart ne wo India Mart ne change kiya na maine to change nahi kiya na pehle to aisa hota tha ki hamare paas message aa jate the kafi sare numbero ke ya call aati thi hum un numbero pe call kar lete the.\\nExecutive: Ha.\\nCustomer: India Mart ne change kiya to koi to bada officer hoga jo call karega ya dekhega.\\nExecutive: Sir pehle se hi issue hai na.\\nCustomer: Jisko iske bare me batayenge ki ye cheez honi chahiye jo pehle hoti thi.\\nExecutive: Ha sir pehle se issue hai na ki aise customers ka hum personal number hamare paas bhi wo authority ke paas right hota hai hame bhi unka PNS number hi dikhta hai main matlab main to nahi share kar paungi na sir.\\nCustomer: Wo wo number bhi nahi hai na madam wo number bhi nahi aa rahe wo India Mart ke number aate the na.\\nExecutive: Ha.\\nCustomer: Wo bhi nahi aaye mere paas.\\nExecutive: Sir aaye nahi ko matlab aap open kariye aapko jo bhi product chaiye aap google pe daliye aapko jaise DJ light chaiye to DJ light ke dealer supplier manufacturer google pe dalenge India Mart ka jo link open hoga us link pe click karenge to bahut sare suppliers dikhenge waha pe aap jisko marji usko call kariye jisko marji usko message kariye ye hai hamara system ha.\\nCustomer: Theek hai madam main karta hu.\\nExecutive: To isko kya karna hai iska?\\nCustomer: Isko bhi rehne dijiye dekh lunga main.\\nExecutive: Theek hai.\\nCustomer: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Customer's work is not yet completed.\\n\n- Wants the previous process of receiving numbers back.\\n\n\\n\nResolution:\\n\n- Executive explained the current process of finding suppliers.\\n\n- Executive unable to share customer details due to policy.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will keep the ticket open.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, process, pns number\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28c3705c-8876-412b-b8c7-adce25969583",
+  "ucid": "28c3705c-8876-412b-b8c7-adce25969583",
+  "seller_categories": [
+    {
+      "mcat_id": "177486",
+      "mcat_name": "Industrial Water Storage Tank"
+    },
+    {
+      "mcat_id": "3367",
+      "mcat_name": "Water Storage Tanks"
+    },
+    {
+      "mcat_id": "100288",
+      "mcat_name": "Biogas Balloon"
+    },
+    {
+      "mcat_id": "23685",
+      "mcat_name": "Biogas Plant"
+    },
+    {
+      "mcat_id": "148621",
+      "mcat_name": "Portable Biogas Plant"
+    }
+  ]
+}

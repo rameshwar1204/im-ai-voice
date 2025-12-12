@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673928134",
+  "gluser_id": "5317908",
+  "vintage_months": 64,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685437",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haanji sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=da23e5de-61f0-4436-8652-b9fd6bbbbd54",
+  "ucid": "da23e5de-61f0-4436-8652-b9fd6bbbbd54",
+  "seller_categories": [
+    {
+      "mcat_id": "178216",
+      "mcat_name": "Peanut Chikki"
+    },
+    {
+      "mcat_id": "178217",
+      "mcat_name": "Chikki"
+    },
+    {
+      "mcat_id": "178509",
+      "mcat_name": "Jaggery Chikki"
+    },
+    {
+      "mcat_id": "5803",
+      "mcat_name": "Peanut Candy"
+    },
+    {
+      "mcat_id": "653081",
+      "mcat_name": "Peanut Butter Chikki"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669994741",
+  "gluser_id": "8023677",
+  "vintage_months": 33,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Yeah madam.\\nExecutive: Haan ji main ye si Saloni bol rahi hoon India Mart se ek with ke manager.\\nCustomer: Okay.\\nExecutive: Sir mujhe aap se bas yahi confirmation lena tha aapko jo discussion karna hai to aap jis time available ho aapke paas fix kar denge.\\nCustomer: 11 o clock.\\nExecutive: Yeah to main abhi ke liye na wo concern aapka close kar rahi hoon jo aapne not satisfied diya tha rest we will discuss regarding that your issues okay.\\nCustomer: No problem.\\nExecutive: Okay sir main aapka kal ka 11 baje ka time schedule karna hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai theek hai main schedule kar rahi hoon baki aapka concern close kar de rahi hoon not satisfied.\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not satisfied.\\n\n- Discussion to fix a time.\\n\n\\n\nResolution:\\n\n- Concern is closed for now.\\n\n- Scheduled a call for tomorrow at 11 AM.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive scheduled a call for tomorrow at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- schedule, discussion, not satisfied\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef28acf7-53b8-4f3e-a62d-0e4d88ba4e3f",
+  "ucid": "ef28acf7-53b8-4f3e-a62d-0e4d88ba4e3f",
+  "seller_categories": [
+    {
+      "mcat_id": "43595",
+      "mcat_name": "Areca Leaf Plates"
+    },
+    {
+      "mcat_id": "443440",
+      "mcat_name": "Sal Leaf Plate"
+    },
+    {
+      "mcat_id": "84225",
+      "mcat_name": "Leaf Plate"
+    },
+    {
+      "mcat_id": "235899",
+      "mcat_name": "Bagasse Disposable Plate"
+    },
+    {
+      "mcat_id": "159147",
+      "mcat_name": "Areca Leaf Bowl"
+    }
+  ]
+}

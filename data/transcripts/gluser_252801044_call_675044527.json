@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675044527",
+  "gluser_id": "252801044",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706399",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hanji mam bataiye.\\nCustomer: Hanji mam, good afternoon.\\nExecutive: Ji mam wo aapka ek feedback aaya tha usi ke regarding me call kar rahi thi ki Shivani ne bataya tha ki aapko jo leads aa rahi hai waha pe kuch water quantity kuch aur show karta hai jaise aap click karte hai to wo aapko.\\nCustomer: Right, right, right.\\nExecutive: To ye mam sari\\nCustomer: Jitni bhi 2000, 3000, 5000, 1000, 500 jitne bhi 500 se upar aati hai.\\nExecutive: Jitni bhi 500 ke upar.\\nCustomer: Ha jitni bhi se 200, 300 ya 100 wali hoti hai wo to correct hoti hai. 300 se upar jo bhi aayegi na 300 se matlab kyuki 300 ke baad seedha 500 ka number aata hai. 400 ka to aata hi nahi hai. 300 ke baad seedha 500 ka number aa raha hai fir 1000 ka fir 3000 ka.\\nExecutive: Accha.\\nCustomer: Ye number aate hai aur ye teeno ke teeno ek minute.\\nExecutive: Ek kam kariyega chota sa mera jaise Shivani ne agar mujhe screenshot bheja hai isme likha hai two pieces quantity, thik hai? Lekin.\\nCustomer: Mam wo actually kya hota hai mai mai samajh rahi hu aap kya keh rahe hai ki jab aapke pass notification me aaye to aapko uska screenshot chahiye.\\nExecutive: Wo maine wahi socha tha but screen recording on kar lijiyega.\\nCustomer: Screen shot nahi screen recording on kar lijiyega. Ha screen recording on kar lijiyega.\\nExecutive: Mam lekin screen me wo to mai kar lungi maine kal khud hi bol raha tha Shivani ji ko lekin problem ye hota hai kaam me lage hote hai na mam wo dimag se skip ho jata hai wo cheez but mai I will keep in my mind mai try karungi.\\nExecutive: Mam aapka jo feedback hai dekho mai bhi solution ke liye aapke pass aayi thi ki aapka jo feedback hai wo mai apni internal team me forward karungi testers wagera pe jo internal team hoti hai ki kya problem aa rahi hai. To uske liye mai aapko recording mangungi screen recording. Ha mai screen shot.\\nCustomer: Screen shot mere pass aa gaya.\\nExecutive: Ha to aap mujhe ek screen recording aaj bana ke bhej dijiyega do teen leads jaise aati hai jaise notification aayega aap notification pe click karne se pehle aap uski recording on karke wo aap kar lijiyega.\\nCustomer: Thik hai mam, thik hai mam.\\nExecutive: To mujhe aaj do teen ha do teen pe aap share karoge mai test pe mail karti hu to mujhe dekhna padega waha se ki kya kya matlab waha se update aaya hai wo matlab mai aapko update karti hu.\\nCustomer: Thik hai mam.\\nExecutive: Thik hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issue with lead quantity display.\\n\n- Quantity displayed incorrectly for leads above 500.\\n\n\\n\nResolution:\\n\n- Executive asked customer to share screen recordings.\\n\n- Executive will forward feedback to internal team.\\n\n\\n\nNext Steps: \\n\n- Customer will share screen recordings of leads.\\n\n- Executive will provide update after team analysis.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, quantity, screen recording, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ebe8dce3-ddaa-40c0-bca2-c2180b6e1a86",
+  "ucid": "ebe8dce3-ddaa-40c0-bca2-c2180b6e1a86",
+  "seller_categories": [
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "157346",
+      "mcat_name": "Stainless Steel Vacuum Flask"
+    },
+    {
+      "mcat_id": "142132",
+      "mcat_name": "Insulated Steel Water Bottle"
+    },
+    {
+      "mcat_id": "192421",
+      "mcat_name": "Stainless Steel Shaker"
+    },
+    {
+      "mcat_id": "178811",
+      "mcat_name": "Steel Sipper Bottle"
+    }
+  ]
+}

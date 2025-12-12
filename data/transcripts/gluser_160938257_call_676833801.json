@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676833801",
+  "gluser_id": "160938257",
+  "vintage_months": 38,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667836",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello.\\nCustomer: Hello?\\nExecutive: Haan, Maurya sahab Himanshu baat kar raha hu.\\nCustomer: Ji sir.\\nExecutive: Hello?\\nCustomer: Ji sir, ji.\\nExecutive: Ji good morning, kaise hain?\\nCustomer: Bahut badhiya.\\nExecutive: Ji ji, sir aap aaj 29th hai, kal se to mai matlab authorised bhi nahi hounga sir call karne ka. \\nExecutive: Kal se to, kal se to authorised bhi nahi hounga sir call karne ke liye aapko.\\nExecutive: Maurya sahab kal lo isko ek performa bheja hai sir 52250 plus GST 61255.\\nCustomer: 50000 kaise kar diya?\\nExecutive: 50 nahi 52250 plus GST, 52, 52250.\\nExecutive: Ek baar dekhiye na, performa to open karke dekho.\\nCustomer: Accha dekhta hu.\\nExecutive: Matlab wo call pe hi hu aapko bheja hai WhatsApp pe.\\nCustomer: Mai abhi kar raha hu, aap agar phone cut jaye to 10 minute me milao.\\nCustomer: Kya keh rahe hai?\\nCustomer: Mai phone cut jaye to 10 minute me mila lena.\\nExecutive: Accha accha, theek hai, theek hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked about the amount in performa.\\n\n- Customer requested to call back if disconnected.\\n\n\\n\nResolution:\\n\n- Executive clarified the amount with GST.\\n\n- Executive agreed to call back if disconnected.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- performa, gst, call back\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e7850aa5-88bc-4e46-8b0b-3f7294515968",
+  "ucid": "e7850aa5-88bc-4e46-8b0b-3f7294515968",
+  "seller_categories": [
+    {
+      "mcat_id": "5809",
+      "mcat_name": "Pedestal Fan"
+    },
+    {
+      "mcat_id": "436",
+      "mcat_name": "Ceiling Fans"
+    },
+    {
+      "mcat_id": "191475",
+      "mcat_name": "Lassi Machine"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "6837",
+      "mcat_name": "Electric Table Fans"
+    }
+  ]
+}

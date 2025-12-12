@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671811340",
+  "gluser_id": "65992366",
+  "vintage_months": 8,
+  "bl_dau_oct": 9,
+  "customer_type": "STAR",
+  "city_name": "Chanasma",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Travel kar rahe hai kya sir?\\nCustomer: Haan.\\nExecutive: Kab laga lu?\\nCustomer: Sun liya.\\nExecutive: Are main India Mart se baat kar raha hun na wo buyer supplier wala aapka issue solve nahi hua hai na usi liye call kiya tha.\\nCustomer: Are usko call kiya tha maine uska kal kal uska problem solve ho jayega bol ke gaya tha.\\nExecutive: Kal kal resolve karaoge aap?\\nCustomer: Haan kal kal bol raha tha uske sath ho gayi thi.\\nExecutive: Achcha achcha.\\nExecutive: Theek hai main update karta hun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyer supplier issue not resolved.\\n\n\\n\nResolution:\\n\n- Executive will update.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer to resolve the issue by tomorrow.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, buyer, supplier, issue, resolve\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=001bda61-2558-4db7-8d0a-cd644360cc0a",
+  "ucid": "001bda61-2558-4db7-8d0a-cd644360cc0a",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "139057",
+      "mcat_name": "Hydraulic Paper Plate Machine"
+    }
+  ]
+}

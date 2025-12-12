@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676615076",
+  "gluser_id": "256558984",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Jetalsar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715188",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hi, if you record your name and reason for calling, I'll see if this person is available.\\nCustomer: Mera naam Aditya hai aur query ke regarding call kiya hai.\\nExecutive: Thanks. Please stay on the line.\\n(silence)\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hanji sir, bataiye.\\nCustomer: Ha sir, maine refund ke bare mein pucha to aapne call cut kar diya.\\nExecutive: Sir, maine mana to kara aapko bata to diya nahi hai sir refund policy.\\nCustomer: To sir, aise hi call cut kar dene ka?\\nExecutive: Sir, aapko maine bataya, main 18 minute se aapse baat kar raha hu sir. Maine aapko bola refund policy nahi hai, fir aapne mujhe bola aap mail kariye mujhe. Maine kaha theek hai, main aapko mail kar deta hu.\\nCustomer: Aur sir, main kitni baar bolunga aapse sir?\\nCustomer: Aapke junior to ye bol rahe hai ki bhai 10-15 din mein process ho jayega.\\nExecutive: Main baat kar leta hu sir kisne aapse bola hai.\\nCustomer: Ye apna jo mera jo mere ko handle karne wala Abhishek bhai hai wo.\\nExecutive: Sir, main baat kar leta hu kisne bola hai. Refund policy to nahi hai sir.\\nExecutive: Main check kar leta hu sir.\\nCustomer: Hmm hmm.\\nExecutive: Aap mujhe time allow kariye main.\\nCustomer: Aapki service maine use ki nahi hai, abhi service karne wala nahi hu. Pehle meri baat sun lijiye. Ye jo aapka GST ka mera invoice aaya hai, wo main cancel karne wala hu, theek hai?\\nExecutive: Sir, aap, aap kaise cancel kar sakte hai hamara GST invoice sir? Wo to cancel invoice humne create kara hai.\\nCustomer: Waha se main approve nahi karunga na mere portal se.\\nExecutive: Sir, humne to create karna hai na. Approve, approve karna na karna wo to aapki choice hai sir. But hamari taraf se to yaha pe billing ho gaya na sir.\\nCustomer: Billing ho gaya na, aap approve approve dena mera mera marzi hota hai approve dene ka wo main approve nahi dunga.\\nExecutive: Aap, aap to sir, aap claim lena le wo aapki call hai. Sir dekhiye main aapko do hi cheeze bol paunga sir, mere paas authority nahi hai as an IndiaMART mein policy nahi hai. Aapko kisne bola aap mujhe bataiye. Main ek baar check kar leta hu jo aapke account manager bhi hai aur main kal aapse baat karta hu. Theek hai sir?\\nCustomer: Ha aapka Abhishek bhai ne bola mere ko.\\nExecutive: Main dekh leta hu. Kaise bola unhone. Main unki recording bhi check kar leta hu. Theek hai sir?\\nCustomer: Ha main main bhi dekh sakta hu.\\nCustomer: Ha theek hai sir, koi problem nahi. Okay sir. Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding refund, executive cut the call.\\n\n- Wants to cancel GST invoice.\\n\n\\n\nResolution:\\n\n- Executive will check with account manager.\\n\n- Executive will call back the next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, gst invoice, cancellation, account manager\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 146,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e14c12b1-fc66-4cf3-b77d-0aee66954e54",
+  "ucid": "e14c12b1-fc66-4cf3-b77d-0aee66954e54",
+  "seller_categories": [
+    {
+      "mcat_id": "28125",
+      "mcat_name": "Export Consultants"
+    },
+    {
+      "mcat_id": "652338",
+      "mcat_name": "Certificate of Origin"
+    },
+    {
+      "mcat_id": "142198",
+      "mcat_name": "MSME Registration Consultancy"
+    },
+    {
+      "mcat_id": "189150",
+      "mcat_name": "FSSAI Registration Service"
+    },
+    {
+      "mcat_id": "141012",
+      "mcat_name": "Export Import Code Number Services"
+    }
+  ]
+}

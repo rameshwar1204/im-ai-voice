@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670729167",
+  "gluser_id": "22350368",
+  "vintage_months": 20,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahilyanagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667822",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haanji madam namaste.\\nCustomer: Namaskar.\\nExecutive: Namaskar, Gaurav baat kar raha tha main IndiaMART se.\\nCustomer: Haanji sir, namaste boliye.\\nExecutive: Kaise ho aap?\\nCustomer: Ji main badhiya hu, aap kaise hain?\\nExecutive: Main bhi badhiya hu. Main basically isliye connect kiya hua tha, kal aap se team ne connect kiya hoga, Vanisa ne aur Abhishek ne shayad aap se connect kiya hua tha video meeting pe.\\nCustomer: Haan haan haan, Abhishek sir se meri video meet hui thi.\\nExecutive: Achha ji, toh baki un service mein koi issue vagera toh nahi aa raha hai? Kyunki ek aapka shayad incoming call aapne Vanisa ko kiya hoga, toh miss ho gaya tha jiski vajah se ek ticket open ho gaya tha.\\nCustomer: Haanji ji, actually unhone mujhe phone kiya tha but network issues ki vajah se na unki aawaz thik se nahi aa pa rahi thi mujhe. Toh maine Abhishek sir ko message kiya tha ki sir unhe bol dena because of network issues maine unka call cut kiya tha. Aur kuch nahi hai matlab baki thik hai. Chal raha hai baki mein Abhishek sir se discussion ho gaya hai, unhone mujhe thode changes karne bole hain, toh woh main changes karke unke sath mein discussion karke update kar dungi woh ek do din mein. In case kuch laga toh I'll connect again.\\nExecutive: Thik hai, thik hai. Thik hai, toh wohi ticket raise ho gaya isliye maine connect kiya hua tha. Toh main yaha pe concern yeh wala close kar deta hu.\\nCustomer: Haan ji ji kar dijiye sir ji. Okay.\\nExecutive: Okay. Thank you ji, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had network issues during call.\\n\nResolution:\\n\n- Executive confirmed the ticket will be closed.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- network issues, ticket, video meet\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ec90151-b012-46a0-b685-cd0f505d6258",
+  "ucid": "2ec90151-b012-46a0-b685-cd0f505d6258",
+  "seller_categories": [
+    {
+      "mcat_id": "35216",
+      "mcat_name": "Pool Tables"
+    },
+    {
+      "mcat_id": "35054",
+      "mcat_name": "Poker Table"
+    },
+    {
+      "mcat_id": "145470",
+      "mcat_name": "Foosball Table"
+    },
+    {
+      "mcat_id": "106838",
+      "mcat_name": "Indoor Games Table"
+    },
+    {
+      "mcat_id": "21665",
+      "mcat_name": "Air Hockey Tables"
+    }
+  ]
+}

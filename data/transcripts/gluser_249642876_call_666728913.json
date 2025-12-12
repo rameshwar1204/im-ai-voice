@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666728913",
+  "gluser_id": "249642876",
+  "vintage_months": 4,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dumri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha sir boliye. \\nCustomer: Namaste ji namaskar.\\nExecutive: Ha ha namaskar.\\nCustomer: [inaudible]\\nExecutive: Thik hi hai. Kharab to bol nahi sakte hai. Thik hi na rahega.\\nExecutive: Aapne ticket open ki thi IndiaMART se.\\nCustomer: Kya hua?\\nExecutive: Aap ticket open kiye the IndiaMART se.\\nCustomer: [inaudible]\\nExecutive: Aapne IndiaMART se ticket open kiye the apna uske through. IndiaMART helpline pe call karke.\\nCustomer: Ha.\\nExecutive: Babu halla mat karo thoda sa baat karne do. Ha hello.\\nCustomer: Boliye sir boliye.\\nExecutive: Hello. Ji ji. Ha.\\nCustomer: Boliye na.\\nExecutive: Last time aapse baat hui thi manager sir ki.\\nCustomer: Ha ha. To unhone aapse bola tha ki business chal raha hai matlab aap thoda bahut valid consume to karne ja rahe hain is time.\\nCustomer: Ha.\\nExecutive: Valid aapne jo hai October valid consume kar liya November valid consume kar rahe hain ek do din mein November ko.\\nCustomer: Ek baar fir se aapko call karna hoga. Update kar raha hai.\\nExecutive: Awaaz jo hai na vibrate ho rahi hai.\\nExecutive: Ab ab aa rahi hai awaaz? Hello.\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is vibrating.\\n\n- Wants to know about validity consumption.\\n\n\\n\nResolution:\\n\n- Executive confirmed validity consumption details.\\n\n- Informed customer to call again for updates.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- validity, subscription, buyleads\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76ed2ff4-b487-4ea7-8e42-47a31c35c1a7",
+  "ucid": "76ed2ff4-b487-4ea7-8e42-47a31c35c1a7",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674954804",
+  "gluser_id": "80485034",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Samastipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709990",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello. Haan.\\n\\nExecutive: Naveen ji.\\n\\nCustomer: Haan boliye.\\n\\nExecutive: Main Pawan baat kar raha tha India Mart se. Abhi meri team se sir Avneesh ne na aapko demo pura ek baar guide kiya hua tha. Aapne unka sir whatsapp pe feedback not satisfied diya hua hai.\\n\\nCustomer: Nahi nahi not satisfied nahi satisfied diya hua hai. Sir aaya hua hai aap dekhiye na ek baar aap whatsapp open karenge us pe whatsapp pe aapne reply kiya hai not satisfied sir.\\n\\nExecutive: Nahi to wo galti se ho gaya.\\n\\nExecutive: Sir aapko call bhi kiya unhone bataya bhi ki mere liye feedback aayega unke liye alag se ek complaint open ho gaya.\\n\\nCustomer: Nahi nahi pehle wali to complaint close ho nahi payi sir dusri wali open ho gayi. Matlab aisa matlab unhone kuch aisa to nahi hai matlab guide wide sahi se kiya tha sir.\\n\\nCustomer: Nahi nahi sara kuch sahi sahi hua tha. Main satisfied ki jagah not satisfied likh ke cut kar diya tha isliye meri galti.\\n\\nExecutive: Achcha achcha achcha wo mic by mistake ho gaya sir waha pe achcha ji ji ji by mistake. Sir abhi na main fir ha main abhi sir ek cheez aur batayega aapki jo registered email id wo aap hi ke pass aisa to nahi hai ki hum aapse baat kar rahe hain aur koi dusra executive waha pe not se not satisfied waha pe mark kar de.\\n\\nCustomer: Nahi nahi aisa nahi hai sir main khud kar lunga abhi.\\n\\nExecutive: Theek hai theek hai theek hai sir theek hai. Main ye close kar raha hun ye mera number Pawan naam hai mera theek hai sir to aap ye number Avneesh se baat hogi unka bhi number hai mera bhi number save kar lijiyega theek hai sir. Theek hai. Theek hai sir theek hai. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer mistakenly marked 'not satisfied' as feedback.\\n\n- Previous complaint not closed, new one opened.\\n\n\\n\nResolution:\\n\n- Executive clarified the feedback issue.\\n\n- Customer admitted the mistake.\\n\n- Executive offered to close the current issue.\\n\n\\n\nNext Steps: \\n\n- Executive will close the current issue.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, complaint, mistake, resolution\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ea683b1c-261a-4b85-9d03-6d4be2ea6869",
+  "ucid": "ea683b1c-261a-4b85-9d03-6d4be2ea6869",
+  "seller_categories": [
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "139916",
+      "mcat_name": "Men Cotton Pant"
+    },
+    {
+      "mcat_id": "185217",
+      "mcat_name": "Men Printed Shirt"
+    }
+  ]
+}

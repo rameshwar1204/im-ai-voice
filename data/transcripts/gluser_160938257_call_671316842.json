@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671316842",
+  "gluser_id": "160938257",
+  "vintage_months": 38,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667836",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\nCustomer: Sir, Maurya sir, Himanshu baat kar raha hu. Good evening. Kal aapse baat hui thi na, aaj book ne bola tha call karne ke liye.\\nCustomer: Hello.\\nExecutive: Ji sir. Ha sir. Ji ji. Sir kuch confirm kar dijiye hamara.\\nCustomer: IndiaMART ka kitne saal se jude hue hai.\\nCustomer: Last wala pata last wala pata hai galti hui hai but last wala galti hui hai jo bhi cheez hai.\\nCustomer: Ha boliye.\\nExecutive: Aapko kaise pata yaar wo to ho gayi ho gayi baat ab to ye hai ki.\\nCustomer: Nahi aap bata bata rahe the na aapki ye ho gayi thi.\\nCustomer: Wo to koi baat nahi wo to hota hai. Hamesha. Achha karayenge na sir isko price ka thoda sa dekh lijiye price jitna ho sake maine kar diya hai aapke liye sab. Pichli baar na uske \u20b96000 adjustment tha isliye to amount kam tha sir.\\nCustomer: Is baar dono agar mila do adjustment wala amount agar mila do to last time aapne \u20b968339 diya tha GST ke sath.\\nCustomer: Last wala.\\nExecutive: Ha last wala \u20b968339 diya tha aapne GST ke sath. Ha ha. Ji ji. Ji to abhi usi pe jo bhi discount wagera ho raha hai aur ek mahine extra aur kuch extra non-lapsel valid karke aapko de raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to confirm details with the executive.\\n\n- Wants to know the price with discount.\\n\n\\n\nResolution:\\n\n- Executive confirmed the last payment amount.\\n\n- Executive informed about discount and extra validity.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, discount, validity, subscription\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=61bc1398-0206-472c-9bb0-4e69433e5259",
+  "ucid": "61bc1398-0206-472c-9bb0-4e69433e5259",
+  "seller_categories": [
+    {
+      "mcat_id": "5809",
+      "mcat_name": "Pedestal Fan"
+    },
+    {
+      "mcat_id": "436",
+      "mcat_name": "Ceiling Fans"
+    },
+    {
+      "mcat_id": "191475",
+      "mcat_name": "Lassi Machine"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "6837",
+      "mcat_name": "Electric Table Fans"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675915158",
+  "gluser_id": "65934471",
+  "vintage_months": 9,
+  "bl_dau_oct": 12,
+  "customer_type": "qgFCP with PNS",
+  "city_name": "Sakti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672731",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Haan ji Ashish sir. \\nCustomer: Haan. \\nExecutive: Sir bataiye. \\nCustomer: Hello. \\nExecutive: Bataiye. \\nCustomer: Haan good morning Himanshu baat kar raha hu last week baat hui thi aapse India Mart se. \\nExecutive: Hmm hmm hmm. \\nCustomer: Ji aapne bola tha aaj call karne ke liye Thursday. \\nExecutive: Haan haan haan. \\nCustomer: Ji ji ji. To sir isme do companiya chal chal rahi hai aapki. \\nExecutive: Sir mera dono ka ek sath me dalwata hu. \\nCustomer: Ek sath hi renewal hai dono ka hi wo mai dekh raha tha. Wahi mai dekh raha tha. Ek pe aapka number hai ek pe aapka staff ka hai. \\nExecutive: Mere ko bhejiye na account detail bhejiye na. \\nCustomer: Kitne saal ka karana hai? \\nExecutive: Andhra Pradesh me hai ye. Ek saal ka. \\nCustomer: Dono pe ek ek saal ka? \\nExecutive: Ye bhi government ka hai. \\nCustomer: Do saal ka nahi kar sakte? \\nExecutive: Nahi nahi nahi sir ek saal ka. \\nCustomer: Thik hai. \\nCustomer: Thik hai. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Renewal of two companies with India Mart.\\n\n- Wants to know for how many years renewal to be done.\\n\n\\n\nResolution:\\n\n- Executive asked to share account details.\\n\n- Renewal can be done for one year.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nrenewal, india mart, account details\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a44529e0-7bf7-4d45-a888-6f80d77c15a6",
+  "ucid": "a44529e0-7bf7-4d45-a888-6f80d77c15a6",
+  "seller_categories": [
+    {
+      "mcat_id": "40012",
+      "mcat_name": "Tractor Trolleys"
+    },
+    {
+      "mcat_id": "182836",
+      "mcat_name": "Hydraulic Tractor Trolley"
+    },
+    {
+      "mcat_id": "175056",
+      "mcat_name": "Tractor Water Tanker"
+    },
+    {
+      "mcat_id": "43200",
+      "mcat_name": "Combine Harvester"
+    },
+    {
+      "mcat_id": "7463",
+      "mcat_name": "Disc Harrow"
+    }
+  ]
+}

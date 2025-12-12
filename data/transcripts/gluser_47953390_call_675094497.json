@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675094497",
+  "gluser_id": "47953390",
+  "vintage_months": 8,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709811",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: dekhna Aastha ne kya update kiya hai site kya.\\nCustomer: Ussima se kar lo.\\nCustomer: Number nayi no call ki nayi sheet update hui hai Muskan? Muskan?\\nCustomer: Hello. No call ki nayi sheet kuch hai? Hello.\\nExecutive: Hello. Haan boliye.\\nExecutive: Haan. Good afternoon sir. Vasundhara bol rahi hu IndiaMART se. Senior manager. Kaise hain aap sir?\\nCustomer: Ah, mam dusra number hai us pe call kijiye na. Mai IndiaMART handle nahi karta hu.\\nExecutive: Aap handle nahi karte? Dusra number? Haan number bol dijiye sir.\\nCustomer: 9 9727\\nExecutive: 9727\\nCustomer: 66\\nExecutive: 66\\nCustomer: 587\\nExecutive: Theek hai sir. Mai is pe call kar leti hu. Thank you.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not handle IndiaMART.\\n\n- Wants the executive to call on another number.\\n\n\\n\nResolution:\\n\n- Executive noted the alternate number.\\n\n\\n\nNext Steps: \\n\n- Executive will call on the provided number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- alternate number, indiaMART, call transfer\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=64af55dd-a3cb-4af7-9dd5-ce29418c3dab",
+  "ucid": "64af55dd-a3cb-4af7-9dd5-ce29418c3dab",
+  "seller_categories": [
+    {
+      "mcat_id": "32412",
+      "mcat_name": "Machine Blades"
+    },
+    {
+      "mcat_id": "30674",
+      "mcat_name": "Industrial Blades"
+    },
+    {
+      "mcat_id": "140331",
+      "mcat_name": "Grinder Blades"
+    },
+    {
+      "mcat_id": "33955",
+      "mcat_name": "Industrial Paper Cutting Blade"
+    },
+    {
+      "mcat_id": "152810",
+      "mcat_name": "Plastic Granulator Blades"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669903648",
+  "gluser_id": "86533302",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Patiala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672736",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji, Pradeep sir?\\nCustomer: Madam?\\nExecutive: Haan, sir aapne Sehnavaz ko call kiya tha?\\nCustomer: Sehnavaz ko?\\nExecutive: Haan, ek minute rukiye sir, aapne ek minute ko call kiya tha na abhi?\\nCustomer: Haan ji, haan ji, haan ji, haan ji.\\nExecutive: Haan ji sir, bataiye kya problem hai? \\nCustomer: Maine Sehnavaz ko to phone nahi kiya, toll free number pe phone kiya tha.\\nExecutive: Aapne 9696 pe call kiya tha na?\\nCustomer: Haan, haan ji.\\nExecutive: Actually sir, aap kisi bhi number pe call karenge, aapke account manager Sehnavaz hain.\\nCustomer: Achha, to wo kahaan hai?\\nExecutive: Actually sir, unka thoda tabiyat kharab hai, to wo leave pe hain, thoda health issue hai unko.\\nCustomer: Kya hua hai?\\nExecutive: Unko health issue hai kuch, to wo leave pe hain aaj.\\nCustomer: Chalo koi baat nahi, unse kehna na phone kar lenge wo mujhe.\\nExecutive: Koi baat nahi, aapka concern main solve kar sakti hoon, bataiye sir kya problem hai?\\nCustomer: Nahi nahi, aapse nahi, unko pata hai na bhai ko.\\nExecutive: Wahi, wahi se dikkat aa rahi hai na?\\nExecutive: Haan sir, wo actually, actually manager wo kyun repeat karaoge time.\\nExecutive: Nahi nahi, main repeat, repeat, sir main repeat, main Sehnavaz se pooch rahi thi kya problem hai uske baad. The person you are speaking with has put your call on hold. Please stay on the line.\\nExecutive: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold par rakha.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Sehnavaz only.\\n\n- Customer called on toll free number.\\n\n\\n\nResolution:\\n\n- Executive informed Sehnavaz is on leave due to health issues.\\n\n- Executive offered to resolve the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, toll free number, health issue\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=51b2328f-797b-4156-a115-d496406563c5",
+  "ucid": "51b2328f-797b-4156-a115-d496406563c5",
+  "seller_categories": [
+    {
+      "mcat_id": "143598",
+      "mcat_name": "RCC Garden Bench"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    }
+  ]
+}

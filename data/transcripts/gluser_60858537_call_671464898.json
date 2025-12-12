@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671464898",
+  "gluser_id": "60858537",
+  "vintage_months": 7,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686311",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Dasrath ji baat kar rahe hain IndiaMART se bol raha hu.\\nCustomer: Haan ji.\\nExecutive: Dasrath ji, Telegraph, Jodhpur.\\nCustomer: Bataye sir.\\nExecutive: Main keh raha tha ye khaali time se koi lead nahi mil rahi isme sahi se lead bhi aa rahe hain apne IndiaMART ke andar na vaise bhi. Haan.\\nCustomer: Achha. Sir aaj se Saturday Sunday ke din office close rehta hai main ek baar Monday aapse baat karu? To jo bhi aapke account manager hain unko bol dungi. Wo aapko call karke guide kar denge.\\nCustomer: Mujhe to abhi mere account manager kaun hai matlab available.\\nExecutive: Sir abhi to main check nahi kar paungi. Kyunki matlab system access nahi ho payega aaj. Monday hi bata paungi.\\nCustomer: Theek hai madam ji.\\nExecutive: Theek hai, okay sir. Thank you sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads on time.\\n\n\\n\nResolution:\\n\n- Executive said office is closed Saturday and Sunday.\\n\n- Executive will check on Monday and inform account manager.\\n\n\\n\nNext Steps: \\n\n- Executive will check on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, closed\\n\n\\n",
+  "call_entered_on": "11/15/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=de08d22e-a7a0-4d85-b7c0-f462c2db2db0",
+  "ucid": "de08d22e-a7a0-4d85-b7c0-f462c2db2db0",
+  "seller_categories": [
+    {
+      "mcat_id": "219336",
+      "mcat_name": "Kamadhenu Cow and Calf Statue"
+    },
+    {
+      "mcat_id": "218511",
+      "mcat_name": "Aluminum Statue"
+    },
+    {
+      "mcat_id": "149140",
+      "mcat_name": "Aluminium Handicrafts"
+    },
+    {
+      "mcat_id": "180135",
+      "mcat_name": "Silver Plated Pooja Thali"
+    },
+    {
+      "mcat_id": "154423",
+      "mcat_name": "White Metal Religious Statues"
+    }
+  ]
+}

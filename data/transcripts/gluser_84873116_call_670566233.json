@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670566233",
+  "gluser_id": "84873116",
+  "vintage_months": 3,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669072",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir bataiye.\\nExecutive: Haan ji haan boliye.\\nCustomer: To abhi aap call kar rahe the na main ek meeting mein busy tha to call kisi aur ne pick kar liya.\\nExecutive: Haan wo unhone bataya mujhe unko connect karta bole theek hai koi problem nahi. To sir kya bol raha na jo hum list dekh rahe na bas wohi call aa rahe hai.\\nCustomer: Matlab jo jisko aap wo bech rahe ho wohi aapko call back kar raha hai.\\nExecutive: Haan baki ke koi aapki taraf se kuch support nahi hai shayad.\\nCustomer: Aur koi call aa rahe hai. Koi direct call aur koi nahi kar raha.\\nCustomer: Right?\\nExecutive: Haan haan.\\nExecutive: Theek hai ek minute sir main cross check kar leta hu.\\nCustomer: Haan ek bar kya ho raha hai kya matlab call hi nahi aa rahe.\\nExecutive: Nahi nahi ek ek minute bas main dekh le raha main open kar le raha.\\nCustomer: Okay no problem.\\nExecutive: Hello.\\nExecutive: Open kar le raha. Umesh ji nahi aaye kya aaj?\\nCustomer: Hello.\\nExecutive: Hello. Haan boliye.\\nCustomer: Boliye na. Hello.\\nExecutive: Hello ji nahi aaye kya? Punal nahi aaye kya aapke aaj?\\nExecutive: Nahi nahi. Wo thodi der ke baad aayenge.\\nCustomer: Achcha achcha achcha.\\nExecutive: Hmm.\\nExecutive: Maine open kar liya. Aap keh rahe the ki jo aap call kar rahe ho ek bar sir isko aap dikha sakte ho matlab Google Meet pe connect ho sakte ho taki main aap apna catalog share kar lo main aapki jitna bhi wo dekh lu fir uske hisab se usko bech du aage.\\nCustomer: Theek hai theek hai chalega.\\nExecutive: Ab main ek minute.\\nExecutive: Main aapko na link bhejta hu.\\nCustomer: Haan ji ek minute sir sir aa gaye hamare unse baat kar lijiye.\\nExecutive: Achcha sir aa gaye aapke. Haan sir aa gaye unse baat kar lijiye.\\nCustomer: Achcha achcha. Hello bolo sir.\\nExecutive: Hello Umesh ji namaskar sir. Namaskar namaskar boliye na sir.\\nCustomer: Ujjwal baat kar raha tha IndiaMART se. Haan boliye sir.\\nCustomer: Sir kaise hai? Bas badhiya sir aap bataiye.\\nExecutive: Sir bas badhiya badhiya. Sir kya dikkat aa rahi hai to sir kuch bata rahe the issues bata rahe the apna. Mujhe IndiaMART se koi bhi call nahi aa raha hai bola.\\nExecutive: IndiaMART se koi bhi call nahi aa raha hai. Customer se haan koi call nahi aa raha hai ye. Aur kam ho gaye buyleads kam ho gaye.\\nCustomer: Call back kafi kam ho gaye hai right?\\nExecutive: Hmm.\\nExecutive: Ek minute main na isko isko dekh le raha aapka ye wala account jo hai.\\nExecutive: Matlab Google Meet ka link bhejna udhar aap connect ho sakte ho kya sir?\\nCustomer: Main aapko na aadhe ghante mein phone karu kya?\\nExecutive: Thoda aadha ghante mein koi aapko phone kar do haan. Haan koi nahi abhi aap aaye ho. Haan thoda aadhe ghante baad connect karte to fir one to one baith ke discuss kar lenge theek hai. Okay okay okay.\\nExecutive: Sir lekin time de dijiyega aadhe ghante baad ke.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is only receiving calls from known contacts.\\n\n- No support from IndiaMART.\\n\n- Buyleads have decreased.\\n\n\\n\nResolution:\\n\n- Executive offered to connect via Google Meet.\\n\n- Agreed to discuss the issue after 30 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, calls, support\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 219,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=360e8c25-f01b-4788-bfaa-d410bc46dad1",
+  "ucid": "360e8c25-f01b-4788-bfaa-d410bc46dad1",
+  "seller_categories": [
+    {
+      "mcat_id": "149181",
+      "mcat_name": "Aluminium Armoured Cable"
+    },
+    {
+      "mcat_id": "150067",
+      "mcat_name": "Copper Armoured Cable"
+    },
+    {
+      "mcat_id": "208737",
+      "mcat_name": "Polycab House Wire"
+    },
+    {
+      "mcat_id": "193867",
+      "mcat_name": "Polycab Armoured Cable"
+    },
+    {
+      "mcat_id": "214690",
+      "mcat_name": "Polycab Power Cable"
+    }
+  ]
+}

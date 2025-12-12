@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670686014",
+  "gluser_id": "254545000",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Talala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669481",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Haan.\\n\\nExecutive: Haan, haan, Neeraj ji. Bataiye sir, uss time mein thoda kaam mein tha, bahar tha iss wajah se aapka.\\n\\nCustomer: Bataiye.\\n\\nCustomer: Koi baat nahi, aapke dikhana tha na sir.\\n\\nCustomer: Hain?\\n\\nExecutive: Woh photo aur video ke liye na sir aap keh rahe the.\\n\\nCustomer: Haan, haan.\\n\\nExecutive: Hmm, toh mein aapko guide kar deta hu ek minute ke liye, aapko mein ek link share kar raha hu video meeting ka, theek hai sir? Aap usse join kijiye sir. Aur woh, woh mere mein bhi error aa raha hai, woh upload nahi ho raha hai photo.\\n\\nCustomer: Ussme toh aa gaya aapne upload.\\n\\nExecutive: [inaudible] shayad jo hota hai uski wajah se hota hai. Mein aapke samne Google pe search karke upload kar dunga ek.\\n\\nCustomer: Google pe available hoga na sir?\\n\\nCustomer: Kya?\\n\\nExecutive: Photo available hoga Google, Google pe?\\n\\nCustomer: Google pe photo nahi available hoga na sir.\\n\\nExecutive: Ek minute mein dekhta hu, jo aapne photo share kiya tha. Isme documents aur photos jo hai woh aa gaya hai image.\\n\\nCustomer: Ek minute.\\n\\nExecutive: Upload nahi ho raha hai.\\n\\nExecutive: Yeh last wala tha na sir, aap video meeting join kijiye kyunki yeh authority hoti hai ki hum aapke samne hi changes kare.\\n\\nCustomer: Mail bhej diya?\\n\\nExecutive: Haan sir, mail bheja hai dekhiye.\\n\\n(silence)\\n\\n[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to upload photos.\\n\n- Customer asks if photo available on Google.\\n\n\\n\nResolution:\\n\n- Executive shared a video meeting link.\\n\n- Executive said changes will be made in front of customer.\\n\n\\n\nNext Steps: \\n\n- Customer to join video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photo upload, video meeting, google\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 361,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ac3334a0-17bf-4798-a499-4d25e1b6b21c",
+  "ucid": "ac3334a0-17bf-4798-a499-4d25e1b6b21c",
+  "seller_categories": [
+    {
+      "mcat_id": "187897",
+      "mcat_name": "Filtered Groundnut Oil"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "190873",
+      "mcat_name": "Refined Groundnut Oil"
+    },
+    {
+      "mcat_id": "191583",
+      "mcat_name": "Cold Pressed Peanut Oil"
+    },
+    {
+      "mcat_id": "205381",
+      "mcat_name": "Gulab Refined Oil"
+    }
+  ]
+}

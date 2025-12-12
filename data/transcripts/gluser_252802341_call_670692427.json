@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670692427",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji madam boliye. Ji madam good morning. Sir main madam main ye bol rahi hu ki aapne IndiaMART ke app mein login kar liya hai kal sir se number le kar ke OTP le kar ke?\\nCustomer: Nahi kiya madam maine ek baar sir se baat karni padegi sir kal shayad busy the to kiya nahi maine.\\nExecutive: Madam actually aapki lead se le kar ke concern raise hai. Kafi time se raise hai kyuki wo jo pehle wali madam thi wo to chali gayi thi. Fir aap aaye ho to sir ne bola tha.\\nCustomer: Kaun thi kya naam tha madam ka? Hello?\\nExecutive: Ji madam mujhe pata nahi yaad nahi hai but thi pehle wo manage kar rahi thi services aapki jagah fir aap aaye ho. To madam actually madam kafi time se maine sir se bhi bola tha to sir ne bola tha ki hum ek new member sorry new person hire kar raha hai jo ki hamari services manage karengi. Madam maine kal isiliye aapko bola tha ki kal ek baar login kar lijiye madam number le kar ke.\\nCustomer: Achha chaliye theek hai main ek baar sir ko call kar leti hu agar wo OTP de dete hai to fir main login kar leti hu.\\nExecutive: Theek hai madam de denge aap boliye to ek baar kyuki kafi time se madam concern close hai na isiliye aur lead bhi consume karwana aapko zaruri hai madam agar aap is tarah consume nahi karoge to pura waste ja raha hai na ek mahine se.\\nCustomer: Achha ek mahine se waste ja raha hai?\\nExecutive: Ji madam kyuki aapne login aap thi nahi madam sir se sir ko time nahi tha aur jo purani wali thi wo zyada kar nahi rahi thi. Ab aap ho main isiliye aapko bol rahi hu ki seller panel se aur IndiaMART ke app mein dono mein sir ke number se le kar ke login karke OTP kar lijiye fir main aapko leads wagera bataungi kaise consume karna hai leads ko madam.\\nCustomer: Theek hai okay.\\nExecutive: Ji madam abhi aap call kar lijiye bol dijiye ki Vanshna madam ne bola hai ki aapke number mein OTP aayega wo aap hi ke number se login hoga kyuki sir ka number registered hai na isme.\\nCustomer: Chaliye theek hai okay.\\nExecutive: Ji madam abhi kar lo madam theek hai.\\nCustomer: Theek. Okay madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not logged into IndiaMART app.\\n\n- Leads are not being consumed, going to waste.\\n\n\\n\nResolution:\\n\n- Executive requested customer to login to IndiaMART.\\n\n- Executive explained the importance of consuming leads.\\n\n\\n\nNext Steps: \\n\n- Customer will call sir for OTP and login.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, leads, otp, indiamart app\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c329af4e-7bd6-4f31-a1b9-1de39fc2f5ad",
+  "ucid": "c329af4e-7bd6-4f31-a1b9-1de39fc2f5ad",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

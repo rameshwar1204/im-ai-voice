@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673159775",
+  "gluser_id": "228233406",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Haveri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nHello.\\nKya hai sir good morning.\\nSir good morning.\\nSir Raman baat karte India Mart se sir.\\nHello.\\nYes sir.\\n[inaudible] driving [inaudible].\\nSir kab tak call karu?\\nHello.\\nKab tak call karu sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- When to call back.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, india mart\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6e70d36-c69d-4b8e-8bb8-de784ea0e029",
+  "ucid": "d6e70d36-c69d-4b8e-8bb8-de784ea0e029",
+  "seller_categories": [
+    {
+      "mcat_id": "162792",
+      "mcat_name": "Refurbished Laptops"
+    },
+    {
+      "mcat_id": "105926",
+      "mcat_name": "Second Hand Laptop"
+    },
+    {
+      "mcat_id": "181435",
+      "mcat_name": "Dell Laptops"
+    },
+    {
+      "mcat_id": "181436",
+      "mcat_name": "HP Laptop"
+    },
+    {
+      "mcat_id": "11352",
+      "mcat_name": "Laptops"
+    }
+  ]
+}

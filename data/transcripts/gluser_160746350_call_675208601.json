@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675208601",
+  "gluser_id": "160746350",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699624",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Main Karanji baat kar raha hun Supreme Door and Travel se.\\nCustomer: Yes sir.\\nExecutive: Sir, India Mart se baat kar raha tha main senior manager. Aapne call kiya tha 9696 customer care pe.\\nCustomer: [inaudible]\\nExecutive: Usi ke regarding aap se baat karni thi. We are right now we are not in your office sir.\\nExecutive: Actually sir you have raised the concern on 21st we are trying to connect you but there is no suitable time means we are in this position. Can you give me the timeline sir? So at what time I need to connect you?\\nCustomer: Right now I cannot give any time sir. I only call back you sir.\\nExecutive: So till now pro I can I can close that concern sir. So you can call me on the same number whenever you get free then just call me on the same number sir.\\nCustomer: Okay sir thank you so much.\\nExecutive: Okay. So okay I am just closing this concern sir. You will get one feedback please reply with that. Okay sir. You can call me I will connect you on WhatsApp also.\\nCustomer: Okay sir thank you sir thank you.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss customer's concern raised on 21st.\\n\n- Customer cannot provide a specific time to connect.\\n\n\\n\nResolution:\\n\n- Executive offered to close the concern.\\n\n- Customer can call back when free.\\n\n- Executive will send a feedback form.\\n\n- Executive offered to connect on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, customer care, feedback, whatsapp\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e49f3453-e994-4a22-9209-1eae44902cae",
+  "ucid": "e49f3453-e994-4a22-9209-1eae44902cae",
+  "seller_categories": [
+    {
+      "mcat_id": "23388",
+      "mcat_name": "Car Rental"
+    },
+    {
+      "mcat_id": "217147",
+      "mcat_name": "Corporate Taxi Services"
+    },
+    {
+      "mcat_id": "651677",
+      "mcat_name": "Jeep Rental"
+    },
+    {
+      "mcat_id": "209084",
+      "mcat_name": "Tata Safari Rental"
+    },
+    {
+      "mcat_id": "653559",
+      "mcat_name": "Mahindra Bolero Car Rental"
+    }
+  ]
+}

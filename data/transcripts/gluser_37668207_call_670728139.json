@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670728139",
+  "gluser_id": "37668207",
+  "vintage_months": 98,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663820",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHanji. \\nHi sir. \\nKushal baat kar raha hu main India Mart ke office se aap kaise hain aap?\\nMain abhi police station mein hu baad mein baat karta hu. \\nMujhe ek minute mil sakta hai bas sir aapse? \\nBhai sahab police station mein hu aapne suna nahi kya? \\nEk minute ke liye call kar lu aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is at the police station and cannot talk.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\n- police station\\n\n\\n\n@@@Sentiment:\\n\nNeutral to frustrated.\\n\n\\n\n@@@Key Topics:\\n\npolice station, india mart\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=514302ba-8b67-4e79-9ff7-62728a204a29",
+  "ucid": "514302ba-8b67-4e79-9ff7-62728a204a29",
+  "seller_categories": [
+    {
+      "mcat_id": "141747",
+      "mcat_name": "Amla Candy"
+    },
+    {
+      "mcat_id": "4748",
+      "mcat_name": "Amla Murabba"
+    },
+    {
+      "mcat_id": "44879",
+      "mcat_name": "Gulkand"
+    },
+    {
+      "mcat_id": "20515",
+      "mcat_name": "Flavoured Candies"
+    },
+    {
+      "mcat_id": "44880",
+      "mcat_name": "Dry Amla"
+    }
+  ]
+}

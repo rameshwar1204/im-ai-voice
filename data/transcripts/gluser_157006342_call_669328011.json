@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669328011",
+  "gluser_id": "157006342",
+  "vintage_months": 26,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gaya",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626303",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Ha, please.\\nExecutive: Hi sir, good afternoon.\\nCustomer: Good afternoon, tell me.\\nExecutive: Uh, sir, Meenakshi is speaking from IndiaMART.\\nCustomer: Ha, tell me.\\nExecutive: Sir, your concern that came regarding account manager, no? So\\nCustomer: That thing was done. When you messaged, no, after half an hour, I refreshed again, so it was changed.\\nExecutive: Ji, I was about to tell you that Saturday Sunday sir, our office is off, that's why I thought I'll tell you.\\nCustomer: No problem, at the same time, after half an hour only, I was checking, so I saw that no, then your name was coming in that.\\nExecutive: Ji.\\nExecutive: And sir, this second concern that you had, like buyers regarding, you had given me the number of the buyer, no?\\nCustomer: Hmm.\\nExecutive: Actually, I called them, but call connected hua nahi unse, maine call pick nahi kiya hai mera.\\nCustomer: Wohi is problem ho raha hai.\\nExecutive: Ji, ji. Mera bhi call pick nahi kar raha hai woh rating lene ke baad. Lekin yeh theek nahi hai na, kyunki usne kuch purchase kiya nahi hai.\\nCustomer: [unintelligible]\\nCustomer: Bina purchase kiye, bina kuch baat kiye, seedha yeh one star ya two star de raha, theek nahi hai.\\nExecutive: Ha sir, woh toh hai. But dekho yaha pe fir se mai ek bar karungi koshish unse connect karne ki, thoda sa mai unko clear karungi cheeze. Aur remove karne ke liye kahungi unko, hai na? But yaha pe jo hamara team hai na sir, team itna kuch nahi kar sakti kyunki jo aapko maine us din bataya bhi tha ki uske\\nCustomer: Madam, koi bhi aisa fake buyer aayega aur one star deke chala jayega, is tarah se toh fir seller ka rating down ho jayega fir.\\nExecutive: Sir dekho agar product liya hota na buyers ne, toh toh fir IndiaMART usme involve hoti. Hai na? But IndiaMART isliye nahi involve ho rahi usme kyunki buyer ne koi aapke purchase hi nahi kiya product. Usne bas apni side se aise hi kar diya review.\\nCustomer: Ha, toh wohi toh problem ho raha hai madam. Jitna bhi one star ya two star wale hai na, koi kisi ne kuch bhi purchase nahi kiya hai.\\nExecutive: Ha, kyunki sir kya hota hai na dekho agar product liya hota. Waise bhi toh maan lijiye mai bhi agar 10-20 rupaye agar mai invest karu market mein, theek hai?\\nExecutive: Ji.\\nCustomer: Fake rating ke liye, mai kisi ka seller ka chahunga ki haan usko mai kam one star du, toh mai easily de sakta hu fir. Isme fir IndiaMART kuch nahi kar payegi.\\nExecutive: Ji, ji. IndiaMART toh dekho action tabhi leti hai na, us buyer ko ya toh block kar deti hai. Ya toh suspend kar deti hai IndiaMART pe aane ke liye. But usne agar koi product nahi liya hai.\\nCustomer: Nahi, nahi isme IndiaMART ko involve hona padega madam. Reason ki agar product purchase karta customer aur woh kaam nahi karta, tab bhi IndiaMART ko involve hona padega kyunki fir usme buyer ka seller ka problem tha. Means seller ka issue hai kyunki woh device kaam nahi kar raha. Lekin agar koi bhi buyer involve hota hai. Ha, aur agar maan lijiye koi bhi buyer agar bina product purchase kiye ya fir bina kuch baat kiye, kisi ko one star aur two star de raha, fir bhi waha pe IndiaMART ko involve hona tha. Sir aapne toh kuch liya hi nahi tha, toh fir aap review kyun de rahe hai?\\nExecutive: Aap aap sahi keh rahe ho sir apni side se but dekho hamari side se aisa kuch hai nahi process. Bas maine discuss kiya tha yeh concern aapka. Hmm. Aur dekho hum toh nahi chahte ki hamare seller ke sath aise koi problem aaye, right? Toh isiliye maine aapko kaha ki mai personally unse karungi ek bar baat karne mein, par woh response de nahi rahe call ka, toh mai kya karu.\\nCustomer: Ek bar one week ke liye ek bar dekhiye. Kyunki mai bhi abhi bahar hu one week ke liye. Agar nahi hota toh fir se mera yeh concern raise kijiyega.\\nExecutive: Ji, koi baat nahi sir. Usse pehle hi mai koshish karungi ki mai unse baat karke usko close karwa du. Theek hai, don't worry.\\nCustomer: Theek hai madam. Baki maine aapko call isliye kiya tha ki yeh dono concern ek toh account manager ka aur yeh wala jo concern hai iske regarding aapko meri mere liye feedback aayega aapke mail pe.\\nExecutive: Theek hai. Theek hai. Is bare mein jo bhi aapko jo bhi baat ho clear hai. Right?\\nCustomer: Theek hai.\\nExecutive: Hai na? Toh aap uska feedback sir share kar dijiyega.\\nCustomer: Okay.\\nExecutive: Right? Okay, thank you sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account manager issue not resolved earlier.\\n\n- Buyer gave a low rating without purchasing.\\n\n\\n\nResolution:\\n\n- Account manager issue was resolved.\\n\n- Executive will try to contact the buyer.\\n\n\\n\nNext Steps: \\n\n- Customer will raise concern again after one week.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- rating, buyleads, account manager, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 254,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28177680-c8e8-4455-8f07-31fc84916058",
+  "ucid": "28177680-c8e8-4455-8f07-31fc84916058",
+  "seller_categories": [
+    {
+      "mcat_id": "139241",
+      "mcat_name": "Car Scanner"
+    },
+    {
+      "mcat_id": "445729",
+      "mcat_name": "Truck Scanner"
+    },
+    {
+      "mcat_id": "98888",
+      "mcat_name": "Auto Diagnostic Tools"
+    },
+    {
+      "mcat_id": "163464",
+      "mcat_name": "Key Programming Machine"
+    },
+    {
+      "mcat_id": "222684",
+      "mcat_name": "OBD Scanner"
+    }
+  ]
+}

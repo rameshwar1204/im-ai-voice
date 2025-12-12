@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676498898",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Haan abhi aur koi issue nahi hai na apna?\\nCustomer: Nahi abhi nahi hai. Thoda sa dekho wo keyword wagera sahi customer ke hisab se wo hai ki nahi wo.\\nExecutive: Keyword wagera sir sare mention hai aur main dekh hi rahi thi aur sare jo bache honge main sare add kar lungi usme koi issue nahi hai. \\nExecutive: Theek hai? Aur baki sir maine aapko bola hai ki aap mere personal number pe call kar lijiye.\\nCustomer: Theek hai sir. Yaha pe kya hai na sir bar bar aap 9696 pe call karoge to bar bar concern raise hota hai.\\nCustomer: Aapka number ek minute ruko.\\nExecutive: Maine diya tha aapko.\\nExecutive: Fir se le lo aap.\\nCustomer: Nahi nahi theek hai ye wala na 661 last hai na.\\nExecutive: Haan isi pe call kiya karo. Theek hai? Main aaj yaha se concern close kar rahi hu.\\nCustomer: Haan theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Checking if keywords are correct for customers.\\n\n- Repeatedly calling 9696 raises concerns.\\n\n\\n\nResolution:\\n\n- Assured that all keywords are mentioned and remaining ones will be added.\\n\n- Provided personal number for direct calls.\\n\n- Concern will be closed.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nkeywords, personal number, concern\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bad4aa6c-9f7f-487f-b667-72a03baf578e",
+  "ucid": "bad4aa6c-9f7f-487f-b667-72a03baf578e",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

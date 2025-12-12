@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668699838",
+  "gluser_id": "252640131",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Sitamarhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648299",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Mangal Bhavan Amangal Har\\n\\nHello\\nExecutive: Hello ji.\\nCustomer: Hello\\nExecutive: Hello ha ji boliye.\\nCustomer: Pooja Pooja path kar rahi hu India Mart se abhi aapne customer care se call kiya tha na Hydro Green Technology se baat kar rahe hain.\\nCustomer: Haan.\\nExecutive: Haan ji sir bataiye kya issue aa raha hai?\\nCustomer: Kya nahi issue bahut issue aa raha hai.\\nCustomer: Hamare pass lead aa hi nahi raha hai.\\nExecutive: Ek minute sir main login kar leti hu aapka account.\\nCustomer: Oh ye Avinash Vishwakarma kahan hai?\\nExecutive: Sir wo actually unki family mein kuch ho gaya hai to wo chutti pe hai aaj.\\nCustomer: Haan haan.\\nExecutive: Family issue hai kuch.\\nExecutive: Theek hai to abhi aapka aap bol rahe the by leads nahi hai.\\nCustomer: Hmm.\\nExecutive: Theek hai.\\nExecutive: Sir product vagaira aapke jo abhi add hai 14 product yahi product rakhne hai na aapko?\\nCustomer: Are mam to kya rakhunga ye batao.\\nExecutive: Nahi kuch aur agar hai add karne ke liye.\\nCustomer: Kya karunga ye batana main kam jo karta hu wahi karunga na.\\nExecutive: Theek hai.\\nExecutive: Ek minute sir main check kar leti hu kis wajah se aapko nahi aa rahi hai by lead.\\n\\nExecutive: Ek minute sir hold pe rahiye.\\nCustomer: Kitna time lagega ye mujhe bata dijiye.\\nExecutive: Sir check kar rahe hai na thoda sa to time lagega ek bar check kar lene dijiye kyuki wo Avinash le gaye the Avnish sorry Avnish le gaye the aapka deal abhi ek bar main check kar rahi hu sir jo mere hath ki possibilities hai wo main dekh leti hu.\\nExecutive: Dekh leti hu.\\nCustomer: Chalo theek hai dekh lo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n- Enquired about previous executive Avinash Vishwakarma.\\n\n\\n\nResolution:\\n\n- Executive is checking the account for the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account, executive\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 152,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a1557f44-9e52-4284-84d2-0625c9ff347e",
+  "ucid": "a1557f44-9e52-4284-84d2-0625c9ff347e",
+  "seller_categories": [
+    {
+      "mcat_id": "3349",
+      "mcat_name": "Water Filtration Plant"
+    },
+    {
+      "mcat_id": "182664",
+      "mcat_name": "Water Plant Machinery"
+    },
+    {
+      "mcat_id": "20507",
+      "mcat_name": "Ultrafiltration Membranes"
+    },
+    {
+      "mcat_id": "21376",
+      "mcat_name": "Air Compressor Motor"
+    },
+    {
+      "mcat_id": "40475",
+      "mcat_name": "Ultrafiltration System"
+    }
+  ]
+}

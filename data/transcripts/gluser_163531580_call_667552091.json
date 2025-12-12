@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667552091",
+  "gluser_id": "163531580",
+  "vintage_months": 31,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636821",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer said hello.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2229f153-0dde-4863-9b23-07079a7186df",
+  "ucid": "2229f153-0dde-4863-9b23-07079a7186df",
+  "seller_categories": [
+    {
+      "mcat_id": "87759",
+      "mcat_name": "Liquid Nitrogen Container"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "162880",
+      "mcat_name": "Frozen Animal Semen"
+    },
+    {
+      "mcat_id": "89955",
+      "mcat_name": "Veterinary Glove"
+    },
+    {
+      "mcat_id": "148162",
+      "mcat_name": "Artificial Insemination Sheaths"
+    }
+  ]
+}

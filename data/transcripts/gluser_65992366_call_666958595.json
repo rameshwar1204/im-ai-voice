@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666958595",
+  "gluser_id": "65992366",
+  "vintage_months": 8,
+  "bl_dau_oct": 9,
+  "customer_type": "STAR",
+  "city_name": "Chanasma",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Bhage ji main on the way hu fir karta hu aapko call.\\nExecutive: aapka ek ticket open ho jata hai theek hai to wo main close kar de raha hu. Hello.\\nCustomer: Kya bol rahe ho?\\nExecutive: Main keh raha hu aapka ek ticket open ho jata hai theek hai to wo main close kar raha hu. Ek feedback ka mail jayega aapke paas usko please yes kar dijiyega. Theek hai?\\nCustomer: Kya bol rahe ho? Aawaz kat kat ke aa rahi hai kyunki main raaste mein hu network problem hai.\\nExecutive: Achha main aadhe ek ghante mein lagata hu.\\nCustomer: Kya? Bolo bolo bolo.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Unable to talk due to being on the road.\\n- Poor network connectivity causing voice to break.\\n\\n\\nResolution:\\n\\n- Informed about closing an open ticket.\\n- Requested to provide positive feedback via email.\\n- Agreed to call back in 30-60 minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back in 30-60 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Annoyed\\n\\n@@@Key Topics:\\n- call back, network issue, ticket closure, feedback mail\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=44fd8498-cb73-412d-a40b-cb9a63c61ee3",
+  "ucid": "44fd8498-cb73-412d-a40b-cb9a63c61ee3",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "139057",
+      "mcat_name": "Hydraulic Paper Plate Machine"
+    }
+  ]
+}

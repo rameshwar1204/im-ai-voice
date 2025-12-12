@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669742745",
+  "gluser_id": "159460178",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ghaziabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Haan ji. Harjit se baat ho rahi hai sir Mahadev Engineering se?\\nCustomer: Haan main bol raha hoon.\\nExecutive: Haan ji very good morning sir main Deepak baat kar raha hoon IndiaMART se.\\nCustomer: Haan ji Deepak ji.\\nExecutive: Aah sir ye yahan pe ek 99 number se call aaya tha hamare customer care helpline pe.\\nCustomer: Haan ji aapne kiya tha. Haan.\\nExecutive: Haan haan haan. Aah wo profile mein kuch mobile number vagera update karwana tha to usi ke regarding main call kar raha tha.\\nCustomer: Haan kar do koi nahi.\\nExecutive: Sir aapke side se hi hoga sir.\\nCustomer: Meri side se hoga?\\nExecutive: Hmm hmm hmm hmm.\\nCustomer: To phir main karwa lunga koi baat nahi.\\nExecutive: To main guide unka number de dijiye main unhi ko directly call karke main unko guide kar deta hoon. Kis number pe hai?\\nCustomer: Main keh raha hoon unka number de dijiye main unhe. Sare sare 8000 rupaye. Haan? Wapsi do.\\nCustomer: Abe bhai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to update mobile number in profile.\\n\n- Customer asking for refund of \u20b98000.\\n\n\\n\nResolution:\\n\n- Executive offered to guide with profile update.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- profile update, refund, customer care\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c8b7f063-3858-4c38-9db4-d3808e2e0847",
+  "ucid": "c8b7f063-3858-4c38-9db4-d3808e2e0847",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "154583",
+      "mcat_name": "Monkey Hoist Machines"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "144455",
+      "mcat_name": "Bar Bending Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677185575",
+  "gluser_id": "2777061",
+  "vintage_months": 5,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Atrauli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643779",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello madam, ye jyada package aur ye hai isko kaise track nahi kar pa raha? Nahi mere mere usko track kyu nahi kar pa raha? Mai jo lead mere matlab ki hai mai unhe consume kar raha hu. Jo mere matlab ki nahi hai nahi kar raha mai.\\nExecutive: Sir kya hota hai na kabhi bhi aap service jab lete hai to aapki purchasing pattern create karne ke liye aapko lead sari consume karni padegi us keyword ki. Isliye hum sirf aapko suggestion de rahe hai starting me ki aap please chote ki bhi lead a rahi hai. Jo mujhe kam karna hai, jo mujhe bana nahi hai mujhse kyu jabardasti kara rahe ho us kam ko?\\nExecutive: Nahi nahi ye aapko. Sir system. Accha accha mujhe ek baat bataiye system ko kaise pata chalega sir ki aapko three phase transformer ki lead chahiye?\\nCustomer: Jo mujhe jo mujhe chahiye mujhe chahiye system pe kam kar raha hu na mai lead le raha hu consume kar raha hu usko.\\nExecutive: Sir jab tak aap lead hi consume nahi karoge to kaise aapko badi area ki leads aayengi? Pure mahine me teen lead use karke business nahi mil sakta IndiaMART se na IndiaMART chala sakti hai. Are mai kyu time waste karu jo mere matlab ki cheez nahi hai mere ko kyu dilare ho aisi cheeze jo nahi khana chahta mai. Aap samjho na.\\nExecutive: Sir suniye aapko mai ek baat batau abhi jo category aapki product me rahi hai na, thik hai? Usme A rank category hota hai, B rank aur C rank, thik hai? A rank category wo hoti hai jiski lead aapne sabse jyada consume kari hoti hai, B rank wo hoti hai jisme kam lead consume kari hoti hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to track the package.\\n\n- Not getting relevant leads.\\n\n\\n\nResolution:\\n\n- Explained the purchasing pattern creation process.\\n\n- Explained about A, B, and C rank categories.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, tracking, category\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=93d19131-d3be-4575-abb3-06293e3aba67",
+  "ucid": "93d19131-d3be-4575-abb3-06293e3aba67",
+  "seller_categories": [
+    {
+      "mcat_id": "2416",
+      "mcat_name": "Three Phase Distribution Transformers"
+    },
+    {
+      "mcat_id": "141869",
+      "mcat_name": "HT Power Cable"
+    },
+    {
+      "mcat_id": "68071",
+      "mcat_name": "Indoor VCB Panel"
+    },
+    {
+      "mcat_id": "17854",
+      "mcat_name": "Oil-Cooled Distribution Transformer"
+    },
+    {
+      "mcat_id": "140821",
+      "mcat_name": "Used Transformer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673793081",
+  "gluser_id": "99926372",
+  "vintage_months": 36,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Devarkonda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698450",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHello? Yeah, so Shivani this side from India works. Actually I have received a feedback from this side. Uh you have give the not satisfied on WhatsApp sir.\\nHello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Received feedback of not satisfied on WhatsApp.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, whatsapp, not satisfied\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=027ba0bc-5569-4507-9830-c3073c5237c8",
+  "ucid": "027ba0bc-5569-4507-9830-c3073c5237c8",
+  "seller_categories": [
+    {
+      "mcat_id": "50063",
+      "mcat_name": "Anti Bird Net"
+    },
+    {
+      "mcat_id": "180688",
+      "mcat_name": "Cricket Net"
+    },
+    {
+      "mcat_id": "87859",
+      "mcat_name": "Bird Spike"
+    },
+    {
+      "mcat_id": "25795",
+      "mcat_name": "Construction Safety Nets"
+    },
+    {
+      "mcat_id": "181606",
+      "mcat_name": "Braided Safety Net"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674235688",
+  "gluser_id": "156775279",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9699164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello haanji\\nCustomer: Hello\\nExecutive: Ji sir main time lo ki shot automation se baat kar raha hun Mumbai se ye Gujarat se Gandhi Dham se\\nCustomer: Baat to hui hai bhai aapko din mein\\nCustomer: Kabhi se mere ko English mein bolna chahiye time kitne time se ye call karo chalu hone ke liye\\nExecutive: Are mere paas hi land hota hai sir customer care ka call\\nCustomer: Mere paas hi aata hai\\nExecutive: Haanji account manager ke paas hi aata hai call\\nCustomer: Abhi kya karenge bolo abhi ye mail ka reply Monday tak hi aa payega kyunki office band hai Saturday Sunday off rehta hai Monday bata paunga main\\nCustomer: Saturday Sunday office close hai\\nExecutive: Ji ji\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know when call will start.\\n\n- Customer wants to know about mail reply.\\n\n\\n\nResolution:\\n\n- Executive said customer care calls land with him.\\n\n- Executive informed mail reply will come by Monday.\\n\n- Executive informed office is closed on Saturday and Sunday.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, mail, office, saturday sunday\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3dbfa1b7-3cbd-454d-9265-33e1bde8398d",
+  "ucid": "3dbfa1b7-3cbd-454d-9265-33e1bde8398d",
+  "seller_categories": [
+    {
+      "mcat_id": "443773",
+      "mcat_name": "Drum Unit"
+    },
+    {
+      "mcat_id": "184991",
+      "mcat_name": "Canon Toner Cartridges"
+    },
+    {
+      "mcat_id": "184949",
+      "mcat_name": "HP Toner Cartridges"
+    },
+    {
+      "mcat_id": "38981",
+      "mcat_name": "Toner Cartridges"
+    },
+    {
+      "mcat_id": "187596",
+      "mcat_name": "HP Black Ink Cartridge"
+    }
+  ]
+}

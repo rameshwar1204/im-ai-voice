@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667912519",
+  "gluser_id": "116239620",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Karnal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639318",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello. Hello. Haanji sir, good morning.\\nExecutive: Good morning, ma'am. Raj Maurya baat kar raha hun IndiaMART se.\\nCustomer: Ji sir, bataiye.\\nExecutive: Ah, ma'am free ho gayi hain? Kal aapne call kiya tha ye ye add karne ke regarding aapne kuch pucha tha mere se.\\nCustomer: Ji sir, ek PDF add karana tha sir.\\nExecutive: Haan, toh PDF mein jaise saare product ke baare mein hi hoga na keval wahan pe?\\nCustomer: Ji sir, woh saara product ke baare mein hi hai.\\nUsme pictures bhi hain aur kuch likha hua bhi hai.\\nExecutive: Haan, toh ye main dekh pa raha hun total 21 products hain aapke.\\nCustomer: Thik hai. Ji sir. Executive: Toh toh 21 products ka alag alag PDF hai ya saare products ka ek hi PDF hai?\\nCustomer: Sir, dekhiye jo isme room freshener aur ye hand wash hai.\\nExecutive: Haan haan.\\nCustomer: Iske liye ek PDF alag se banaya gaya hai.\\nExecutive: Thik hai.\\nCustomer: Haanji, toh us PDF ko main add karana chahti hun kyunki abhi tak jo maine 21 products mein add kiya hai toh woh only pic pic hai.\\nExecutive: Achcha.\\nCustomer: Ya toh aap mujhe WhatsApp number bhejo, main aapko jo woh PDF send karti hun, aap ek baar use check kijiye.\\nExecutive: Ji.\\nCustomer: Thik hai, aap ek baar. Abhi ma'am free hain kya? Jaise system se aap ye sab karti hain ya phir phone se karti hain?\\nExecutive: Nahi nahi sir, main phone se hi saara kaam karti hun. System se nahi karti.\\nCustomer: Achcha. Toh ek baar system mein login kar sakti hain kya just abhi?\\nExecutive: Sir, phir abhi toh nahi main kar paungi, abhi toh main gayi bhi nahi hun office. Main jaungi 11:00 baje tak.\\nExecutive: Achcha. Toh phir ek kaam 11:00 baje jaake main aapko, haanji?\\nCustomer: PDF toh hoga aapke paas mein abhi?\\nExecutive: Haan, PDF abhi mere paas pada hua hai.\\nThik hai, main aapko just abhi apne WhatsApp number se message kar raha hun. Aap PDF mere ko send kar do, thik hai? Main ek baar check kar leta hun ki ye kis product mein usko lagaya ja sakta hai kyunki 21 items hain aapke. Kuch hand wash bhi hain aur spray bhi hain toh main ek baar check kar leta hun kis mein perfect usko karna hai, thik hai?\\nCustomer: Ji ji. Aap mujhe WhatsApp pe hello bhejo, main aapko send karti hun sir.\\nExecutive: Okay. Okay ma'am, just a minute. Send karta hun.\\nCustomer: Okay.\\nThank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add a PDF to products.\\n\n- Wants to add PDF for handwash and room freshener.\\n\n\\n\nResolution:\\n\n- Executive agreed to check the PDF.\\n\n- Executive will check which product to add PDF to.\\n\n\\n\nNext Steps: \\n\n- Customer will send PDF on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pdf, products, whatsapp, add\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 166,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5af9b425-1b1f-411a-b510-1480fcc719e1",
+  "ucid": "5af9b425-1b1f-411a-b510-1480fcc719e1",
+  "seller_categories": [
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "101984",
+      "mcat_name": "Macaroni"
+    },
+    {
+      "mcat_id": "185510",
+      "mcat_name": "Air Freshener Spray"
+    },
+    {
+      "mcat_id": "178503",
+      "mcat_name": "Cold Storage Room Rental Services"
+    },
+    {
+      "mcat_id": "56051",
+      "mcat_name": "Liquid Air Freshener"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674816064",
+  "gluser_id": "199527273",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709465",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c47df32-8ed1-48db-946e-6fd4c25fa53e",
+  "ucid": "8c47df32-8ed1-48db-946e-6fd4c25fa53e",
+  "seller_categories": [
+    {
+      "mcat_id": "80226",
+      "mcat_name": "Designer Blouse"
+    },
+    {
+      "mcat_id": "4478",
+      "mcat_name": "Blouse Pieces"
+    },
+    {
+      "mcat_id": "173806",
+      "mcat_name": "Aari Embroidery Work"
+    },
+    {
+      "mcat_id": "6911",
+      "mcat_name": "Embroidered Blouses"
+    },
+    {
+      "mcat_id": "68551",
+      "mcat_name": "Fashion Blouse"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672954755",
+  "gluser_id": "138006566",
+  "vintage_months": 49,
+  "bl_dau_oct": 10,
+  "customer_type": "ExportTS",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9722889",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello mera naam Vivek bol raha hu India mart se\\nCustomer: Ji sir boliye\\nExecutive: Mam maine unke related sari document jo aapne detail di thi usse maine complete open kar di hai hai na usme to ab hamari jo team hai wo directly usme necessary action le legi hamari legal team directly maine side se apni side se call kiya tha to receive nahi kiya tha unhone usme maine as a proof aapko screenshot bhi bhej diya uska whatsapp pe aap usse bhi check kar sakte ho theek hai abhi aapko team contact kar legi mere ko wapas call aata hai to main apni taraf se unko inform kar dunga aapko us cheez ko resolve karana hai theek hai aapne hamare 96 pe call kiya tha na mam to uske liye alag ticket open ho jati hai aapka concern ka to maine wo address kar diya hai to main usko ab close kar raha hu to uska feedback aayega meri taraf se wo aap de dena baki alag se ticket open ho gayi hai jo hamari legal team kam karegi aapki problem ko resolve karane ke liye us client ke sath milke aur aapke sath milke theek hai\\nCustomer: Okay thank you sir\\nExecutive: Theek hai baki kuch rahe to aapke pass number hai whatsapp wale 828 karke aap directly call kar liya karo mere ko aap 96 pe nahi jarurat nahi hai aapke pass number rehta hai hamesha mera hai parvesh sir ka hai wo asal mein wo professional karni thi na mujhe complaint maine isliye kiya waha pe customer ban ke\\nExecutive: But dekho mam dekho hum account manager hai to aapke account handler hai to aapki koi bhi samasya hogi uska solution hame hi karna hai\\nCustomer: Theek hai sir\\nExecutive: Hai na agar humse hi problem hai to baat hai hai na ki mere se problem ho gayi ya parvesh sir se ho gayi to waha pe ja sakte ho agar waisi koi problem hai company ke related company product se related kisi se related wo hum pe hi aani hai isliye aapne waha call kiya unhone wapas mujhe hi transfer kar di wo call isliye hai na to wo rahega to aap mujhe directly contact kar lijiyega koi bhi update aayega to same time aapko provide kar dunga hai na\\nCustomer: Theek hai okay\\nExecutive: Theek hai mam theek hai thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer filed a complaint as a customer.\\n\n\\n\nResolution:\\n\n- Executive informed that legal team will resolve issue.\\n\n- Executive will provide updates to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- complaint, legal team, resolution, account manager\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 121,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1b55e149-a24e-4ede-9c95-e96da245cbcd",
+  "ucid": "1b55e149-a24e-4ede-9c95-e96da245cbcd",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "190058",
+      "mcat_name": "Charpai"
+    },
+    {
+      "mcat_id": "146573",
+      "mcat_name": "Wedding Sofa"
+    },
+    {
+      "mcat_id": "122834",
+      "mcat_name": "Wedding Decoration Items"
+    },
+    {
+      "mcat_id": "12576",
+      "mcat_name": "Wooden Swings"
+    }
+  ]
+}

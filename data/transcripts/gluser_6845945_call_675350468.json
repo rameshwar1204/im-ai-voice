@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675350468",
+  "gluser_id": "6845945",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Thanjavur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9713924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hey hello vanakkam ga.\\nCustomer: Ya good morning mam. Enna sir again enoda name mention panni actually complaint raise pannirukinga.\\nExecutive: Complaint lam raise pannala madam neenga enta pesuninga neenga athu than naan inform panniruken madam vera onnum illiye complaint eh kidayathu athu.\\nCustomer: Sir athu ungaluku initiate pannarathuku nanga move pannitom athu on the process la irukku neenga ippo yen name mention panni athula neenga endha maari complaint raise pannitte irunthingana athu adutha process pogamudiyathu naan already sollirundha ungaluku enna issue nanalum neenga enakke call pannunga yenoda number save pannirukingala.\\nExecutive: Sorry madam naan andha maari arthathula lam solla ithama anuppala madam naan vandhu reminder than anuppunathula vere edhume illa vera.\\nCustomer: Sir reminder nanalum enakku call pannunga sir naan than phone panniruken ungaluku enna concern nanalum enna problem nanalum enakku than actually naan than ungaluku solve panni thara poren neenga customer care call pannalum sari mail pannalum sari enakku than unga vandhu forward pannuvanga naan than connect pannuven neenga avanga poittu inga varathuku badhila athu vandhu oru concern maari raise aayitte irukkum.\\nExecutive: Sari.\\nCustomer: Ok va edhunalum neenga enakke call pannunga naan than attend pannaren la neenga message panna reply pannaren la.\\nExecutive: Indha maari lam naan onnum edhume sollalaingala madam.\\nCustomer: Neenga yen anga poittu inga reach pannuringa neenga direct ah yennaye reach pannalame sir remind pannurena neenga whatsapp la pannala illa neenga enakku call pannala naan morning 10:30 to evening 6 o clock varai available than.\\nExecutive: Sari madam sari mistake la nadanthu.\\nCustomer: Again neenga athula mail la call pannathinga sir enna support venanalum enakke call pannunga nanga initiate pannittu than irukkom.\\nExecutive: Ok inga ok.\\nCustomer: Ok ingala idhu one day process kidayathu idhu konjam time edukkum but naan update pannaren ungaluku.\\nExecutive: Ok madam ok madam indha concern close pannikalamgala.\\nCustomer: Ok close pannidalam close pannuna again feedback varum sir.\\nExecutive: Athu maari.\\nCustomer: Athu ippo namma pesunathukana feedback.\\nExecutive: Sari madam naan athuku enna satisfactory nu sollirlamgala.\\nCustomer: Hmm.\\nExecutive: Edhunalume enakke call pannunga.\\nCustomer: Ok madam thank you madam ok ingala edhavathu doubt idhula suppose neenga call pannumbodhu enakku reach aagala appdina whatsapp la message podunga ippo anga message potturukingala adhe maari enakku whatsapp la podunga maybe continuous calls nala kooda sometimes reach aagama irukkum.\\nExecutive: Sari sari.\\nCustomer: Ok ingala ok naan idhu close pannittuma.\\nExecutive: Ok close pannidunga.\\nCustomer: Ok sir thank you.\\nExecutive: Ya ya ya.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised complaint mentioning executive's name.\\n\n- Executive sent reminder instead of calling directly.\\n\n\\n\nResolution:\\n\n- Executive apologized for the mistake.\\n\n- Customer requested to call her directly for support.\\n\n- Customer assured to update on the process.\\n\n\\n\nNext Steps: \\n\n- Issue resolved on the call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- complaint, reminder, direct call, support\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 158,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f12e75d6-5a2f-4cb6-8ea3-1da71e4bb7e7",
+  "ucid": "f12e75d6-5a2f-4cb6-8ea3-1da71e4bb7e7",
+  "seller_categories": [
+    {
+      "mcat_id": "2140",
+      "mcat_name": "Liquid Detergent"
+    },
+    {
+      "mcat_id": "22534",
+      "mcat_name": "Bathroom Cleaners"
+    },
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "216653",
+      "mcat_name": "Multi Purpose Cleaner"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675365694",
+  "gluser_id": "9584477",
+  "vintage_months": 95,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9712135",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hmm.\\nExecutive: Sir, main Preeti baat kar rahi thi IndiaMART se. Abhi aap se hi discussion hua tha mera.\\nCustomer: Nahi, mere se nahi hua. Amit ji se hua tha.\\nExecutive: Okay, okay. So actually main IndiaMART se baat kar rahi thi, sir, senior manager. Aapke, aapka ek catalog hai IndiaMART pe, Bajrang Trader ke naam se.\\nCustomer: Haan.\\nExecutive: Kal aapke side se hame ek call receive hua hai, sir. To main jaanna chah rahi thi, sir, koi issue aa raha hai kya aapko IndiaMART se services se related and all, koi doubt hai to bataiye.\\nCustomer: Yeh hoga to Amit ji ne kiya hoga. Aap unko ek baar call kar lijiye. Main out of station hoon.\\nExecutive: Nahi, nahi, koi issue nahi hai. To maine unko call kar liya. Unhone bola ki nahi, nahi, maine to call nahi kiya hai. Aap concern close kar sakte ho. But number jo call hame receive hua hai, yeh three two three wale number se receive hua tha, sir. To isliye maine socha kya pata aapne kiya ho.\\nCustomer: [inaudible] main kaha se call receive kar rahi hoon main aapko.\\nExecutive: [inaudible] nahi suniye sir, mujhe aapko confirmation chahiye tha.\\nCustomer: Achha, achha.\\nExecutive: Koi problem nahi hai, sir. Fir main yahan se yeh concern close kar de rahi hoon aap logon ka. Theek hai.\\nCustomer: Okay, thank you so much, sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive received a call from customer's side.\\n\n- Wants to know if customer has any issues.\\n\n\\n\nResolution:\\n\n- Customer said he is out of station.\\n\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, catalog, services, issue, confirmation\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=60651128-96a2-4958-bf71-b8558cf8891a",
+  "ucid": "60651128-96a2-4958-bf71-b8558cf8891a",
+  "seller_categories": [
+    {
+      "mcat_id": "139208",
+      "mcat_name": "Airless Painting Machine"
+    },
+    {
+      "mcat_id": "132831",
+      "mcat_name": "Wall Putty Spray Machine"
+    },
+    {
+      "mcat_id": "204556",
+      "mcat_name": "Graco Spray Painting Equipment"
+    },
+    {
+      "mcat_id": "147122",
+      "mcat_name": "Spray Painting Machine"
+    },
+    {
+      "mcat_id": "87831",
+      "mcat_name": "Mechanical Packer"
+    }
+  ]
+}

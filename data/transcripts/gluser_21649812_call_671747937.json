@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671747937",
+  "gluser_id": "21649812",
+  "vintage_months": 23,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679670",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello, haan ji.\\nExecutive: Hello\\nCustomer: Haan ji, Shree Balaji Enterprises se baat kar rahi hu.\\nExecutive: Main main ji haan ji, kaun si company se baat kar rahe hain?\\nCustomer: Shree Balaji Enterprises bol rahi hu.\\nExecutive: Ji bataiye.\\nCustomer: Sir jo hamara IndiaMART ka portal hai na, haan haan, waha par hame ek bhi lead nahi mili, ek bhi.\\nExecutive: Ma'am aaj to resolution nahi ho payega, aaj Sunday hai, aaj off hai, main kal baat karta hu aap se.\\nCustomer: Kya hua?\\nExecutive: Main bol raha hu aaj Sunday hai, aaj off hai, main kal baat karta hu aap se.\\nCustomer: Okay.\\nExecutive: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not received a single buylead on IndiaMART portal.\\n\n\\n\nResolution:\\n\n- Informed that today is Sunday and off.\\n- Executive will call back tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call back tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, portal, sunday\\n\n\\n",
+  "call_entered_on": "11/16/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7a01b91-33d0-4d54-a28c-6646976cd9fe",
+  "ucid": "a7a01b91-33d0-4d54-a28c-6646976cd9fe",
+  "seller_categories": [
+    {
+      "mcat_id": "156193",
+      "mcat_name": "Colour Coated Roofing Sheet"
+    },
+    {
+      "mcat_id": "193975",
+      "mcat_name": "TATA Metal Roofing Sheet"
+    },
+    {
+      "mcat_id": "2273",
+      "mcat_name": "Roofing Sheets"
+    },
+    {
+      "mcat_id": "194062",
+      "mcat_name": "Jindal Roofing Sheet"
+    },
+    {
+      "mcat_id": "194028",
+      "mcat_name": "JSW Metal Roofing Sheet"
+    }
+  ]
+}

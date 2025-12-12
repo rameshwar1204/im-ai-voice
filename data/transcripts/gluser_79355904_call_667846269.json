@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667846269",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hanji Sanjay ji se baat ho rahi hai?\\n\\nExecutive: Haan.\\n\\nCustomer: Ji sir, link mai share kar rahi hu aapko WhatsApp pe, thik hai?\\n\\nCustomer: Thik hai.\\n\\nExecutive: Okay, just give me a minute, mai abhi aapko WhatsApp pe share kar deti hu.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive to share link on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive agreed to share the link.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b2a242a6-8436-4193-aed6-2d86971fc886",
+  "ucid": "b2a242a6-8436-4193-aed6-2d86971fc886",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

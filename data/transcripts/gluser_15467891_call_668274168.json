@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668274168",
+  "gluser_id": "15467891",
+  "vintage_months": 88,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638907",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Hello?\\nCustomer: Haan sir, Vineet baat kar raha hu IndiaMART se.\\nExecutive: Ji Vineet ji.\\nCustomer: Sir wo Ujjwal se baat hui thi aapki aapke uske liye sanction ke liye rating ke liye.\\nCustomer: Haan, haan, haan, haan. Aaj to nahi hui, us din hui thi.\\nExecutive: Aapka number not reachable aa raha tha sir, main ek call back karwa raha hu ek baar aap call pick kijiyega, unko bataiyega kaun kaun se review kaun kaun si wo companies hai jo aapka use kar rahi hai.\\nCustomer: Wo madam, wo madam se coordinate kar lenge. Maine to dusra kaam jo bataya tha na ek unhe jo hai na photo ka bataya tha home steed.\\nExecutive: Haan photo ki keh raha hu ki kaun kaun si companies hai jo aapka photos use kar rahi hai wahi to janne ja raha hu.\\nCustomer: Home steed. Home steed.\\nExecutive: Bas ek hi company hai na?\\nCustomer: Ek hi company hai home steed.\\nExecutive: Home state?\\nCustomer: Home steed, H O M E S T E A D.\\nExecutive: S T E E S T A T E state.\\nCustomer: H O M E home steed S T E A D.\\nExecutive: Thik hai main aapko WhatsApp karu ek baar aap WhatsApp kar dijiye company ka naam aur ek baar Ujjwal call karega sir isi concern ke liye ek baar baat kar lena usse.\\nCustomer: Thik hai.\\nExecutive: Thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know companies using customer's photos.\\n\n\\n\nResolution:\\n\n- Customer informed about Home Steed company.\\n\n- Executive will share the company name on WhatsApp.\\n\n- Ujjwal will call the customer again.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photos, home steed, company name\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b9d488e3-73b5-481f-b063-0f5c8e060c45",
+  "ucid": "b9d488e3-73b5-481f-b063-0f5c8e060c45",
+  "seller_categories": [
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "30661",
+      "mcat_name": "Indoor Fountain"
+    },
+    {
+      "mcat_id": "14098",
+      "mcat_name": "Fiberglass Fountain"
+    },
+    {
+      "mcat_id": "165907",
+      "mcat_name": "FRP Fountains"
+    },
+    {
+      "mcat_id": "72799",
+      "mcat_name": "Water Fountain"
+    }
+  ]
+}

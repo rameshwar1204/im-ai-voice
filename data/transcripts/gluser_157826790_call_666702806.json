@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666702806",
+  "gluser_id": "157826790",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636563",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ji.\\nCustomer: Mam, mere WhatsApp mein matlab jaise IndiaMART se buylead uthate hain hum uski. To main jaise hi us client ko message kar raha hu, mera WhatsApp block ho jaata hai, iska kya reason hai?\\nExecutive: Aap client ko message kare to WhatsApp block ho jaata hai?\\nCustomer: Yes, yes. Jaise maine koi buylead uthai aur unko WhatsApp pe mujhe koi bhi dalna hai, jaise unko catalog dalna hai, kuch jitna WhatsApp chaar dafa block hota hai chauthi tak.\\nExecutive: Sir, ye main aapki baat to samajh rahi hu, sir. Kya ye problem jaati hai jab dekha tha to main aapko bata paungi. Kyunki backend se pata karana padega na.\\nCustomer: Thik hai mam, ok. Kal bata dena.\\nExecutive: Ok, ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- WhatsApp gets blocked while messaging clients.\\n\n\\n\nResolution:\\n\n- Executive will check and inform the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will inform the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, buyleads, block\\n\n\\n",
+  "call_entered_on": "11/2/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=792ec195-2d59-4c3a-9680-1c5b2926a253",
+  "ucid": "792ec195-2d59-4c3a-9680-1c5b2926a253",
+  "seller_categories": [
+    {
+      "mcat_id": "173148",
+      "mcat_name": "Wooden Carved Sofa Set"
+    },
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "18988",
+      "mcat_name": "Teak Wood Sofa"
+    }
+  ]
+}

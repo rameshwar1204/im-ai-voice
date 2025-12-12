@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672822694",
+  "gluser_id": "191704474",
+  "vintage_months": 6,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689941",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello haanji sir.\\nExecutive: Ji mam kaun baat kar rahe ho aap?\\nCustomer: Sir IndiaMART se baat kar rahi hu bataiye.\\nExecutive: IndiaMART se to baat kar rahe ho naam bataiye.\\nCustomer: Sir nidhi baat kar rahi hu.\\nExecutive: Ji aap hi karte attend call pura.\\nExecutive: Sir aap bataiye aap kis company se baat kar rahe hai?\\nCustomer: Hello\\n\\n\\n\\n\\n\\nExecutive: We value your call. Your continued patience is greatly appreciated. Please stay on the line.\\n\\n\\n\\n\\n\\nExecutive: Thank you very much for calling. Please continue to hold and we will be with you shortly.\\n\\n\\n\\n\\n\\nExecutive: We are working rapidly to ensure your hold time with us will be as brief as possible. Your patience is appreciated.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked the customer which company they are calling from.\\n\n\\n\nResolution:\\n\n- The call was put on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, company details, hold\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dda44372-930b-4229-bb77-e21f0cd554c4",
+  "ucid": "dda44372-930b-4229-bb77-e21f0cd554c4",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "145017",
+      "mcat_name": "Granite Name Plate"
+    },
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    }
+  ]
+}

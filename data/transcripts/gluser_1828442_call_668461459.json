@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668461459",
+  "gluser_id": "1828442",
+  "vintage_months": 32,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646676",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello. Hello?\\nCustomer: Hello. Achha. Hello.\\nExecutive: Hello hello. Yes sir bataiye.\\nCustomer: Hello. Bhai sahab aawaz aa rahi hai? Main chaah raha hun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm if voice is audible.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, audible, hello\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc3ca090-58db-431c-bcb6-6167e0c3acc9",
+  "ucid": "cc3ca090-58db-431c-bcb6-6167e0c3acc9",
+  "seller_categories": [
+    {
+      "mcat_id": "5052",
+      "mcat_name": "Office Chairs"
+    },
+    {
+      "mcat_id": "204437",
+      "mcat_name": "Geeken Office Chairs"
+    },
+    {
+      "mcat_id": "35998",
+      "mcat_name": "Revolving Chair"
+    },
+    {
+      "mcat_id": "184588",
+      "mcat_name": "Mesh Executive Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    }
+  ]
+}

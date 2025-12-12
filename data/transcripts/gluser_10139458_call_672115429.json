@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672115429",
+  "gluser_id": "10139458",
+  "vintage_months": 5,
+  "bl_dau_oct": 3,
+  "customer_type": "FREELIST",
+  "city_name": "Bhilai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682885",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Sanjay se gaurav baat kar raha tha India mart se.\\nExecutive: haan.\\nCustomer: Sir woh aapne call kiya hua tha na sir 96 pe kuch leads ka kuch issue tha sir aapke pass.\\nExecutive: haan main baat mere ko mere pass aapke mere lead manager ka aa gaya number.\\nExecutive: main unse baat kar raha hu.\\nCustomer: Achcha achcha. toh wohi concern tha main sir close kar du aapka concern?\\nCustomer: Hello.\\nExecutive: Haan.\\nExecutive: Theek hai sir. phir main concern close kar raha hu. feedback dijiye. baki aur koi issue hai toh aap bataiye main matlab unke senior hi baat kar raha tha. toh agar koi issue ho toh main aapko actually main abhi dinner kar raha hu. main aapko khud se call kar lunga mere ko whatsapp mein message kar dijiye.\\nExecutive: Achcha achcha. theek hai sir. main aapko whatsapp pe connect kar dunga.\\nCustomer: Haan.\\nExecutive: Theek hai. baki main ticket close kar raha hu. aap us pe feedback dijiye. baki main aapko connect karta hu whatsapp jab free hoiyega.\\nCustomer: haan.\\nExecutive: theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had lead related issue.\\n\n\\n\nResolution:\\n\n- Executive offered to close the concern.\\n- Executive offered to connect on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on WhatsApp when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, whatsapp, feedback, ticket\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76f1a7a5-d67e-4289-9fd8-ae12096be738",
+  "ucid": "76f1a7a5-d67e-4289-9fd8-ae12096be738",
+  "seller_categories": [
+    {
+      "mcat_id": "40997",
+      "mcat_name": "Welding Machine"
+    },
+    {
+      "mcat_id": "27998",
+      "mcat_name": "Electric Winch"
+    },
+    {
+      "mcat_id": "3706",
+      "mcat_name": "Chain Pulley Block"
+    },
+    {
+      "mcat_id": "126608",
+      "mcat_name": "Single Wheel Barrow"
+    },
+    {
+      "mcat_id": "10971",
+      "mcat_name": "Induction Motors"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676504158",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hmm.\\nCustomer: Ji sir. Sir abhi aapki baat hui hogi Nancy se IndiaMART se.\\nExecutive: Ha, theek hai.\\nCustomer: To abhi theek hai, abhi koi aur problem to nahi hai aapko?\\nExecutive: Nahi, close kar do, close kar do.\\nExecutive: Ha, ye bol rahe hai sir dekhiye, waha suniye meri, to unhone ye bol rahe hai ki number aur add karane hai aapko?\\nCustomer: Kya karana hai?\\nExecutive: Number aur add karane hai aapko?\\nCustomer: Nahi, nahi madam, nahi karana hai abhi.\\nExecutive: Achha, theek hai aur aur baki sab theek hai?\\nCustomer: Ha, theek hai madam.\\nExecutive: Achha, achha, by lead balance ka aapko pata lag hi gaya hai.\\nCustomer: Theek hai madam.\\nExecutive: Okay, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know if customer has any issues.\\n\n- Executive asks if customer wants to add numbers.\\n\n\\n\nResolution:\\n\n- Customer says he doesn't want to add numbers.\\n\n- Executive confirms customer knows about buylead balance.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, add numbers\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=011290fc-4fe8-4fb7-a927-d2e7d137fe5b",
+  "ucid": "011290fc-4fe8-4fb7-a927-d2e7d137fe5b",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671117369",
+  "gluser_id": "141477841",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673313",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello\\nCustomer: Ji\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello\\nExecutive: IndiaMART se nahi aa pa rahi sir. Namaste sir.\\nCustomer: Ji sir sir.\\nExecutive: Sir aapna ye kabhi 25 KV ke transformer ka requirement daala IndiaMART par?\\nCustomer: Hmm hmm.\\nExecutive: Kahan se sir aap?\\nCustomer: Kya keh rahe ho sir?\\nExecutive: Aapka bhi 25 KV ka transformer ka requirement pada hua tha IndiaMART par sir.\\nCustomer: Mera?\\nExecutive: Ji sir.\\nCustomer: Main to Abhishek bol raha hu sir Abhishek.\\nExecutive: Abhishek sir abhi mere paas inquiry aayi thi sir 25 KV ki.\\nCustomer: Hmm hmm.\\nExecutive: IndiaMART par maine click kiya hai fir wo 5 KV ki reh gayi aap ek baar aap check karke dekhna sir.\\nCustomer: Achha wo sold out ho gayi kya?\\nExecutive: Aur kya pata nahi kya hua. Maine jaise aayi hai maine turant uthai hai.\\nCustomer: Hmm hmm.\\nExecutive: Aur pata nahi kya hua. 5 KV 5 KV reh gayi 25.\\nCustomer: Hain?\\nCustomer: To purchase nahi hogi wo sold out ho gayi hogi.\\nExecutive: Abhi ye kya hua sir ye?\\nCustomer: Sold out ho gayi hogi. Ek minute ek minute line par rahiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about 25 KV transformer requirement.\\n\n- Executive informed about inquiry showing as 5KV.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to check the inquiry.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- transformer, inquiry, kv, sold out\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bf6440d3-2e06-4b53-969c-1a72aa29f6af",
+  "ucid": "bf6440d3-2e06-4b53-969c-1a72aa29f6af",
+  "seller_categories": [
+    {
+      "mcat_id": "2416",
+      "mcat_name": "Three Phase Distribution Transformers"
+    },
+    {
+      "mcat_id": "140821",
+      "mcat_name": "Used Transformer"
+    },
+    {
+      "mcat_id": "27622",
+      "mcat_name": "Electrical Transformer"
+    },
+    {
+      "mcat_id": "11667",
+      "mcat_name": "Distribution Transformer"
+    },
+    {
+      "mcat_id": "17854",
+      "mcat_name": "Oil-Cooled Distribution Transformer"
+    }
+  ]
+}

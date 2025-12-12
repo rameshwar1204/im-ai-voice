@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669757186",
+  "gluser_id": "72810751",
+  "vintage_months": 1,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Azamgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "The person you have called is speaking to someone else.\\nHello\\nHello\\nVery good afternoon, bataiye.\\nGood afternoon, bataiye.\\nApne sir call back ke liye schedule kiya tha na aaj ke liye aapne kaha tha ki 12 baje connect kar lijiyega.\\n\\nAap please confirm bataiye.\\nSchedule connect kiya tha sir wahi vyapar vyapar app milta hai vyapar app me login kar raha hu to sala premium membership mang raha hai.\\nKya vyapar app se aap login kar rahe hai to kya mang raha hai?\\nMembership ke liye option de raha hai wo affiliate hai nahi aapka logo jo aap log dete hai apni taraf se.\\nHello?\\nHello\\nJi bataiye.\\nSir abhi aap sir abhi abhi aapke paas ek call aayega sir aap please is call ko attend kar lijiyega, theek hai?\\nBataiye sir mera matlab payment kiye ho gaya 15 din abhi vyapar mujhe nahi mila.\\nKya?\\nHan han sir abhi aap kyunki wo aapko detail me detail me aapko guide kar denge wo aapko samjha denge aap ek bar please unka call pick kar lijiyega, theek hai? Abhi aapke paas call aane wala hai.\\nTheek hai sir?\\nTheek.\\nTheek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to login to Vyapar app.\\n\n- Customer has not received Vyapar app after 15 days.\\n\n\\n\nResolution:\\n\n- Executive informed customer that they will receive a call.\\n\n- Executive said the other executive will guide in detail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- vyapar app, login, membership, payment\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b9f6de02-f913-401f-b172-655e9fa70594",
+  "ucid": "b9f6de02-f913-401f-b172-655e9fa70594",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "34116",
+      "mcat_name": "Outdoor Chair"
+    },
+    {
+      "mcat_id": "33795",
+      "mcat_name": "Wicker Table & Chair Set"
+    },
+    {
+      "mcat_id": "33794",
+      "mcat_name": "Outdoor Umbrella"
+    },
+    {
+      "mcat_id": "180547",
+      "mcat_name": "Outdoor Sofa Set"
+    }
+  ]
+}

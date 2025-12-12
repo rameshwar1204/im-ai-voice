@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674162322",
+  "gluser_id": "226609028",
+  "vintage_months": 16,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panna",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701957",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\nExecutive: Hello sir.\\nCustomer: Hello ha sir naam bataiye aapna kon bol rahe hain?\\nExecutive: Akhtar baat kar raha tha main IndiaMART se.\\nCustomer: Ha sir bolye. Ritesh baat kar raha hu main Pranav Enter \u0938\u0947.\\nExecutive: Ji Pranav Enter se baat kar rahe hain?\\nCustomer: Ha sir aao. Message abhi aapka dekha aaj off hai na main room shifting kar raha hu apna.\\n\\nExecutive: Kal bhi dala tha na main main bola ki aapko dala tha koi reply nahi aa raha hai.\\nCustomer: Kal to I think aapko call kiya hoga sir main.\\nExecutive: Nahi aaya hai abhi maine kiya hai. Ek bhi relevant lead nahi hai mere portal pe sir. Not koi aa hi nahi rahi hai aur aur inko call kiya hai to inko nahi chahiye not required bata rahe hain.\\nExecutive: Ji abhi\\nCustomer: Aur ek do number bheje usme whatsapp bhi nahi hai.\\nExecutive: Acha pehle jo bheje the kisi ka maine aapko bataya tha usme whatsapp bhi nahi hai hai na aur\\nExecutive: Hmm.\\nCustomer: usko calling utha rahe hain ab se teen din ho gaye.\\nExecutive: Teen din se.\\nCustomer: Ha continue call karwa raha hu calling utha rahe hain aur baki wrong number aa raha hai ki matlab band wrong switch off hai and kuch ke whatsapp bhi nahi hai.\\nExecutive: Sir please mujhe time do main monday ko aapke proper discussion karunga is bare mein aap video call kar abhi mere portal pe ek bhi lead nahi hai na sir iska kya karu.\\nCustomer: Abhi ek bhi lead nahi hai location me all location lagaye hain?\\nExecutive: Nahi ek\\nCustomer: Ha India lagaya hai na.\\nExecutive: All location lagaiye sir all location.\\n\\nExecutive: Sir ye aap dekh kar ke bataiye mujhe na. Theek theek hai theek hai. All location lagaiye sir dekhiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No relevant buyleads on the portal.\\n\n- Some numbers have no WhatsApp.\\n\n- Some leads are not interested.\\n\n- Some numbers are wrong or switched off.\\n\n\\n\nResolution:\\n\n- Executive asked for time to resolve the issue.\\n\n- Executive suggested applying all locations.\\n\n\\n\nNext Steps: \\n\n- Executive will discuss the issue on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, whatsapp, portal\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dbc3e196-254b-4ddb-a06b-197e4b25106b",
+  "ucid": "dbc3e196-254b-4ddb-a06b-197e4b25106b",
+  "seller_categories": [
+    {
+      "mcat_id": "25348",
+      "mcat_name": "Data Provider"
+    },
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "117637",
+      "mcat_name": "Stock Market Tips"
+    },
+    {
+      "mcat_id": "45924",
+      "mcat_name": "Database Services"
+    },
+    {
+      "mcat_id": "445939",
+      "mcat_name": "Vyapar Billing Software"
+    }
+  ]
+}

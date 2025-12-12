@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670541416",
+  "gluser_id": "97733210",
+  "vintage_months": 70,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: \u0928\u092e\u0938\u094d\u0924\u0947 \u0928\u092e\u0938\u094d\u0915\u093e\u0930 \u092e\u0948\u0902 \u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u0902\u0924 \u0938\u0947 \u092c\u093e\u0924 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948?\\nCustomer: \u0939\u093e\u0902 \u091c\u0940\\nExecutive: \u0938\u0930 \u092e\u0948\u0902 \u0906\u0932\u094b\u0915 \u092a\u093e\u0902\u0921\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0911\u092b\u093f\u0938 \u0938\u0947 \u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u0902\u0924 \u0915\u093e \u092e\u0948\u0928\u0947\u091c\u0930 \u0938\u0930\\nCustomer: \u0939\u093e\u0902 \u091c\u0940\\nExecutive: \u0906\u092a\u0928\u0947 \u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u0902\u0924 \u0915\u094b \u0915\u0932 \u092b\u094b\u0928 \u0915\u093f\u092f\u093e \u0925\u093e \u0938\u0930 \u0935\u094b \u090f\u0915\u094d\u091a\u0941\u0905\u0932\u0940 \u0907\u0924\u0928\u0947 \u092c\u093e\u092c\u093e \u0915\u0940 \u0909\u0928\u0915\u0940 \u0921\u0947\u0925 \u0939\u094b \u0917\u0908 \u0939\u0948 \u0924\u094b \u0935\u094b \u090f\u0915\u094d\u091a\u0941\u0905\u0932\u0940 \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u092b\u094b\u0928 \u0915\u093f\u0924\u0928\u0947 \u092c\u091c\u0947 \u0915\u0949\u0932 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0906\u092a\\nCustomer: \u0915\u093f\u0924\u0928\u0947 \u092c\u091c\u0947?\\nExecutive: \u0939\u093e\u092b \u090f\u0928 \u0906\u0935\u0930 \u092e\u0947\u0902 \u0915\u0928\u0947\u0915\u094d\u091f \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0939\u092e\\nCustomer: \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u0915\u0930\u0924\u093e \u0939\u0942\u0902 \u0938\u0930 12:00 \u092c\u091c\u0947 11:00 \u092c\u091c\u0947 \u0920\u0940\u0915 \u0939\u0948\\nExecutive: \u0939\u093e\u0902 \u091c\u0940\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called Vidyakant.\\n\n\\n\nResolution:\\n\n- Vidyakant's manager, Alok Pandey, informed the customer that Vidyakant's grandfather passed away.\\n\n- Alok asked when the customer could call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 11:00 AM or 12:00 PM.\\n\n\\n\nAlert (If Any):\\n\n- Death\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ndeath, callback\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3c440fa1-aa30-42e8-9ec3-42801be3d876",
+  "ucid": "3c440fa1-aa30-42e8-9ec3-42801be3d876",
+  "seller_categories": [
+    {
+      "mcat_id": "315637",
+      "mcat_name": "CO2 Gun"
+    },
+    {
+      "mcat_id": "183257",
+      "mcat_name": "Air Pistol"
+    },
+    {
+      "mcat_id": "50141",
+      "mcat_name": "Air Rifle"
+    },
+    {
+      "mcat_id": "21405",
+      "mcat_name": "Sports Air Guns"
+    },
+    {
+      "mcat_id": "651059",
+      "mcat_name": "Multi Shot Air Rifle"
+    }
+  ]
+}

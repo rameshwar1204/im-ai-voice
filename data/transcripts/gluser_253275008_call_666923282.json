@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666923282",
+  "gluser_id": "253275008",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650396",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello?\\nExecutive: Hello.\\nExecutive: Haan sir, namaste.\\nCustomer: Namaste.\\nExecutive: Sir, haan maine aapke catalog pe sir sara product add kar diya hai aur sare ranking bhi sahi kar diye. To sir main aapka ye concern close kar du? Aap ek baar catalog dekh sakte hain apna.\\nCustomer: Ji abhi main?\\nExecutive: Hello. Sir main ye bol rahi thi ki aapke catalog pe jo hai maine sare products jo hai add kar diye hain, sab categories dal di hain. Product ki ranking ke hisab se product add kar diye hain. To sir ye aapne kal hum hamare call kiya tha na iske liye to ye aapki ticket open ho jati hai hamare end se. To main aapka ye concern close kar du apne end se?\\nCustomer: Ji ji.\\nExecutive: Aapke paas ek message aayega. Agar ho sake to mail pe ek feedback aa jata hai. Agar aapko as it sahi lage aap satisfied hain to aap usse satisfied dal sakte hain.\\nCustomer: Ji ji.\\nExecutive: Ji sir.\\nCustomer: Ji.\\nExecutive: Kar lijiyega WhatsApp number pe call kar lijiyega.\\nCustomer: Ji ji.\\nExecutive: Thik hai sir? Okay.\\nCustomer: Ji.\\nExecutive: Thank you sir.\\nCustomer: Okay.",
+  "summary": "\\n\nConcerns:\\n\n- Executive seeks confirmation to close catalog concern.\\n\n\\n\nResolution:\\n\n- Executive added products and categories to catalog.\\n\n- Executive requested feedback via message/mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, products, ranking, feedback\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fde20d6b-494b-479c-9e82-12d0948d7f21",
+  "ucid": "fde20d6b-494b-479c-9e82-12d0948d7f21",
+  "seller_categories": [
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "243",
+      "mcat_name": "Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "19129",
+      "mcat_name": "Shiva Statue"
+    },
+    {
+      "mcat_id": "15246",
+      "mcat_name": "Buddha Statue"
+    }
+  ]
+}

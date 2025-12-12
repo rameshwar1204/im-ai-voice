@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674695159",
+  "gluser_id": "203751191",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Bardhaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698307",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello? Haan.\\nCustomer: Hello.\\nExecutive: Pradeep ji se baat kar rahi hai Pradeep ji?\\nExecutive: Haan boliye.\\nCustomer: Haan sir, abhi baat kar rahi hu main IndiaMART se.\\nCustomer: Haan. Wo aapka mail aaya tha na leads ke regarding.\\nCustomer: Madam ab main thak chuka hu mere ko achcha nahi lagta ye sab cheez.\\nCustomer: Theek hai na mera paisa gaya gaya jaane dijiye jaisa hoga hoga samajh lenge ek saal.\\nCustomer: Achcha nahi lagta roz roz aap log se dimag\\nCustomer: mathapachi karna achcha nahi lagta hai.\\nCustomer: Theek hai?\\nCustomer: Jaisa ho raha hai hone dijiye. Aap bolta hai easily aap 18 lead denge bhejte hain 10.\\nCustomer: Aap log ko bhi koi baat ka koi ye nahi hai na isliye achcha nahi lag raha hai aap log ka pura cheating baji ka dhandha lag raha hai mere ko.\\nExecutive: Sir leads to 17 hi milti hai hafte ki.\\nCustomer: 17 milta hai to 17 hi to dena chahiye 10 kyu dete hain?\\nExecutive: Sir hafte wali hai aur daily wali ek ek hai.\\nExecutive: Aise total 17 hai.\\nCustomer: Theek hai.\\nCustomer: Theek hai madam thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Dissatisfied with the number of buyleads received.\\n\n- Feels cheated due to fewer buyleads.\\n\\n\nResolution:\\n\n- Executive clarified the breakdown of weekly and daily buyleads.\\n\n- Customer acknowledged the clarification.\\n\\n\nNext Steps: \\n\nNone\\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, clarification\\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f12a0ba-0d20-4261-acb2-5826a6915f96",
+  "ucid": "5f12a0ba-0d20-4261-acb2-5826a6915f96",
+  "seller_categories": [
+    {
+      "mcat_id": "168563",
+      "mcat_name": "Full Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "13675",
+      "mcat_name": "Chain Link Fencing"
+    },
+    {
+      "mcat_id": "42703",
+      "mcat_name": "Transportation Services"
+    },
+    {
+      "mcat_id": "69543",
+      "mcat_name": "Goods Transport Services"
+    },
+    {
+      "mcat_id": "147225",
+      "mcat_name": "Generator Repair Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674542606",
+  "gluser_id": "24595101",
+  "vintage_months": 51,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9643163",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Good \u0906\u092b\u094d\u091f\u0930\u0928\u0942\u0928 sir, main kisse bol se baat ho rahi hai meri?\\nCustomer: Ji.\\nExecutive: Sir main IndiaMART se baat kar rahi hu Kashish. Actually aapka ek concern aaya tha sir ki aapko iske complaint raise karni hai IndiaMART par, hai na? To usi ke regarding maine call kiya aapko. Bataye sir kya concern aa raha hai?\\nCustomer: Ek minute, mujhe se baat karna padega. Online wohi sambhalti hai. Hold kijiye.\\nExecutive: Accha ji sir.\\n\\nCustomer: IndiaMART wale call kiye koi complaint.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Good afternoon ma'am.\\nCustomer: Hmm.\\nExecutive: IndiaMART se baat kar rahi hu Kashish. Actually aapka ek concern aaya hai mail ke through ki aapko koi complaint raise karni hai, hai na?\\nCustomer: Haan.\\nExecutive: To bataye ma'am kya concern aa raha hai?\\nCustomer: Woh complaint raise karna mein jo upload karna hai na payment proof vagera woh sab upload nahi ho raha hai.\\nExecutive: Payment proof upload karna hai aapko? Kahan par upload karna hai payment proof?\\nCustomer: Complaint mein upload karna hai.\\nExecutive: To ma'am IndiaMART ko koi complaint karni hai na aapko, hai na?\\nCustomer: Haan.\\nExecutive: To jo aapke account manager hai, Vaibhav, unko bhej dijiye kya concern hai. Woh respond nahi kar rahe hai.\\nCustomer: Nahi woh respond nahi kar rahe hai.\\nExecutive: Theek se. Ma'am unhone bola tha ki main leave pe hu. Haan to phir meri complaint ka kya hai?\\nCustomer: IndiaMART ke app se raise honi chahiye na. Woh kyun nahi ho rahi hai?\\nExecutive: Woh ek leave par hai. To isiliye maine call kiya aapko. Ab ma'am But mera kaam atak raha hai na.\\nCustomer: Mera kaam aur customer ka kaam atak raha hai na. Complaint aapki system nahi chal rahi hai to usme main kya kar sakti hu?\\nExecutive: Open kariye aap, aapko kahan par upload karna hai, main guide karti hu aapko.\\nCustomer: Maine main aapko screen screen recording bhej deti hu, mujhe number do.\\nExecutive: Kiska number chahiye aapko?\\nCustomer: Woh screen recording kahan bheju?\\nExecutive: Ek minute. Aap bataye aapko WhatsApp number kya hai, main aapko hi bhejti hu.\\nCustomer: 8160\\nExecutive: 8160\\nCustomer: 85\\nExecutive: 85\\nCustomer: 86\\nExecutive: 86\\nCustomer: 81\\nExecutive: 81\\nExecutive: Dekhiye aapko WhatsApp pe ek hi message likha hoga.\\nCustomer: To ma'am main aapko ye puchna chah rahi hu ki payment ka jo proof hai woh kisko bhejna hai aapko screen recording bhejti hu aap dekh lo uske baad batana jo bhi hai. Aur usi pe call karna.\\nExecutive: Main aapko call karu aapko? Haan, haan. Isi pe karna.\\nCustomer: Theek hai. WhatsApp diya hai usse hi.\\nExecutive: WhatsApp theek hai. Abhi\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to upload payment proof for complaint.\\n\n- Account manager not responding.\\n\n- Complaint cannot be raised via IndiaMART app.\\n\n\\n\nResolution:\\n\n- Executive asked to share screen recording on WhatsApp.\\n\n- Executive shared WhatsApp number.\\n\n\\n\nNext Steps: \\n\n- Customer will send screen recording on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, payment proof, account manager, whatsapp\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 186,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8fb21397-e3cd-452f-bfa9-9a49f716c872",
+  "ucid": "8fb21397-e3cd-452f-bfa9-9a49f716c872",
+  "seller_categories": [
+    {
+      "mcat_id": "68802",
+      "mcat_name": "Vastu Accessories"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25166",
+      "mcat_name": "Crystal Stone"
+    },
+    {
+      "mcat_id": "13083",
+      "mcat_name": "Quartz Stone"
+    }
+  ]
+}

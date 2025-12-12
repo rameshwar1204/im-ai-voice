@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668550017",
+  "gluser_id": "199626582",
+  "vintage_months": 23,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Gauri Bazar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647169",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji, main ye keh rahe the ki jaise main apna email ID verify kar raha tha, wo uske OTP nahi aa raha hai, dusra matlab dusra message aa raha hai.\\nCustomer: Accha, ek kaam karti hu, main aapko call karti hu, theek hai, main aapko call karti hu.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving OTP for email verification.\\n\n\\n\nResolution:\\n\n- Executive offered to call the customer back.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email verification, otp, technical issue\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f234ea40-d939-4130-93d6-08b5456afdc8",
+  "ucid": "f234ea40-d939-4130-93d6-08b5456afdc8",
+  "seller_categories": [
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    },
+    {
+      "mcat_id": "157960",
+      "mcat_name": "Interactive White Digital Board"
+    },
+    {
+      "mcat_id": "42611",
+      "mcat_name": "Interactive Board"
+    },
+    {
+      "mcat_id": "216107",
+      "mcat_name": "Samsung LED Displays"
+    },
+    {
+      "mcat_id": "181394",
+      "mcat_name": "Interactive Whiteboard"
+    }
+  ]
+}

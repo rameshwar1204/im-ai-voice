@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673951768",
+  "gluser_id": "188064097",
+  "vintage_months": 30,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669354",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji.\\nCustomer: Haan sir India Mart se baat kar raha hun Prabhat.\\nExecutive: Boliye bhaiya.\\nCustomer: Ji main keh raha tha sir ki bataiye sir kya karna hai kyuki dekhiye sir maine discuss kiya management mein sir koi bhi concern hai aap bataiye kyuki aapka jo hai humne aapki taraf se solve kar diya hai baki sir aap bol rahe hain ticket to ticket nahi open ho sakti otherwise hume profile aapka sir band karna padega.\\nExecutive: Aur koi option nahi hai sir.\\nCustomer: Profile band karna padega?\\nExecutive: Profile close karna padega kyuki sir ticket agar customer dissatisfy hai to fir hume profile hi band karni padegi sir.\\nCustomer: Sir profile ki baat kar rahe ho?\\nExecutive: Rajendra Sons.\\nCustomer: Rajendra Sons ka India Mart aap band karenge sir keh rahe hain na?\\nExecutive: Haan bilkul sir aapko profile fir band karna padega na kyuki humne management se ye aaya hai approval agar customer dissatisfy hai to profile fir aap close karo wo chalane ke line pe raho line pe raho line pe raho.\\nCustomer: Ji haan bilkul.\\nExecutive: Kyuki product humne add kar diye hain aap review rating ka maine aapko bata diya sir aur product add karna hai to aur karaiye intensity ticket nahi open rahegi na.\\n(On hold music)\\n(On hold music)\\n(On hold music)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is dissatisfied with IndiaMART services.\\n\n- Executive states profile may be closed.\\n\n\\n\nResolution:\\n\n- Executive states products have been added.\\n\n- Executive mentioned review rating.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile closure, dissatisfaction, product addition\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2e659ff0-b897-41e1-806f-3cd78dce545c",
+  "ucid": "2e659ff0-b897-41e1-806f-3cd78dce545c",
+  "seller_categories": [
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "215208",
+      "mcat_name": "Western Deep Freezer"
+    },
+    {
+      "mcat_id": "179089",
+      "mcat_name": "Four Door Vertical Refrigerator"
+    },
+    {
+      "mcat_id": "221228",
+      "mcat_name": "Western Visi Cooler"
+    },
+    {
+      "mcat_id": "89573",
+      "mcat_name": "Under Counter Refrigerator"
+    }
+  ]
+}

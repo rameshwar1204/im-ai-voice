@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667574794",
+  "gluser_id": "5600667",
+  "vintage_months": 5,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Sadabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636973",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan hello.\\nCustomer: Haan ji.\\nExecutive: Haan sir IndiaMART mein baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Ji sir Himanshu bol raha hu sir Shri Balaji product se. Sir mujhe ye jaanna hai ki mera isme jo manager, manager kaun dekh raha hai mere account mein yaar kaun hai unka number chahiye tha.\\nExecutive: Nahi account manager hi baat kar raha hu sir.\\nCustomer: Chalo achcha sir aapko aa gaya call. To sir aapka number nahi tha mere paas to mujhe aap se baat karni thi thoda sa.\\nExecutive: Kya baat karni hai batao ji.\\nCustomer: Achcha baat ye karni thi actually jo mera profile ka jo cheeze padi hui hai kuch unse related bilkul inquiry nahi aati jaise fabrication work hai kuch aur bhi cheeze hai to mujhe uske bare mein discussion karna tha. To main chahta hu kal aap thoda sa time nikal ke mujhe call kar le aur aapka apne number se mujhe hi likh ke bheje jo bhi number aap current mein use kar rahe ho.\\nExecutive: Sir kal to dekho chutti hai.\\nCustomer: Achcha theek hai. Kal Guru Nanak Jayanti hai aapko pata hi hoga hai na.\\nExecutive: Ji bilkul.\\nExecutive: Haan to parso ho payegi apan logo ki baat. To koi nahi parso aap mujhse call kar lena ya aapka number hi likh ke mujhe bhejo main number se call leta hu nahi parso main call karta hu. Aur sir meri query hogi wo main likh ke WhatsApp dal dunga to aap apne hisab se dekh lena.\\nExecutive: Theek hai.\\nCustomer: Bilkul bilkul. Main aapko ek baar call bhi kar lunga to discussion. Haan call ek baar call karke abhi apne number se aur hi likh ke WhatsApp bhej dijiye theek hai.\\nExecutive: Theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know account manager details.\\n\n- No inquiries related to profile products.\\n\n\\n\nResolution:\\n\n- Executive clarified he is the account manager.\\n\n- Executive will call the day after tomorrow.\\n\n- Customer will send query on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive to call the day after tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, profile, inquiries, whatsapp\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=15db6804-b44e-4349-ba18-cd7910734270",
+  "ucid": "15db6804-b44e-4349-ba18-cd7910734270",
+  "seller_categories": [
+    {
+      "mcat_id": "42526",
+      "mcat_name": "Student Chair"
+    },
+    {
+      "mcat_id": "167637",
+      "mcat_name": "Dual Desk Bench"
+    },
+    {
+      "mcat_id": "107119",
+      "mcat_name": "School Benches And Desks"
+    },
+    {
+      "mcat_id": "155350",
+      "mcat_name": "Writing Pad Chairs"
+    },
+    {
+      "mcat_id": "191411",
+      "mcat_name": "SS Hospital Bed"
+    }
+  ]
+}

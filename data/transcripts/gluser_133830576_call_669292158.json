@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669292158",
+  "gluser_id": "133830576",
+  "vintage_months": 4,
+  "bl_dau_oct": 8,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Maharajganj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686825",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello sir, good morning.\\nCustomer: Good morning sir.\\nExecutive: Haan ji, Praveen bol raha hu sir IndiaMART head office se, kaise hain?\\nCustomer: Theek hai sir.\\nExecutive: Haan sir keh raha hu ki buylead consume nahi ho pa rahi hai aapki.\\nCustomer: Haan.\\nExecutive: Haan to usi ke regarding maine connect kiya. Sir ye batao ye oak wood plank wala product out of stock kiya hai kya?\\nCustomer: Kya?\\nExecutive: Uh oak wood plank wala product.\\n\\nExecutive: Out of stock hai kya?\\n(silence)\\nExecutive: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold kar rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line.\\nExecutive: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold kar rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line.\\nExecutive: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold kar rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line.\\n\\nCustomer: Hello\\nCustomer: Hello, haan sir aawaz aa rahi hai?\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Kya?\\nCustomer: Hello sir.\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello, kya ho raha hai hamare ghar mein?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads are not being consumed.\\n\n- Asked if oak wood plank product is out of stock.\\n\n\\n\nResolution:\\n\n- Call put on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product, out of stock\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 138,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f6131ea-85cd-4d1b-834b-79882a7ef736",
+  "ucid": "2f6131ea-85cd-4d1b-834b-79882a7ef736",
+  "seller_categories": [
+    {
+      "mcat_id": "84493",
+      "mcat_name": "Wooden Door Frame"
+    },
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "36715",
+      "mcat_name": "Sal Wood"
+    },
+    {
+      "mcat_id": "186624",
+      "mcat_name": "Teak Wood Carving Door"
+    },
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    }
+  ]
+}

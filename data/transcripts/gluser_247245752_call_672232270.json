@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672232270",
+  "gluser_id": "247245752",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Saswad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9704325",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nExecutive: Bolo madam.\\nCustomer: Ji sir, main Nancy baat kar rahi thi aapke account manager. Sir, wo products vagera sare addition ho gaye the kal hi aur aapka jo naam tha na company name aur aapka naam likh ke aa raha tha wo bhi ho gaya.\\nExecutive: Haan haan.\\nCustomer: Theek hai? Dekhta ek 10 minute mein aur ring karta hu.\\nExecutive: Theek hai sir, kariye fir main close kar deti hu yahan se.\\nCustomer: Theek hai.\\nExecutive: Contact close.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Products and company name addition completed.\\n\n\\n\nNext Steps: \\n\n- Customer will check in 10 minutes and call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Neutral\\n\n\\n\n@@@Key Topics:\\n\naccount, products, company name\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b468ddb4-9c8d-4cfa-a3ca-4460468b218a",
+  "ucid": "b468ddb4-9c8d-4cfa-a3ca-4460468b218a",
+  "seller_categories": [
+    {
+      "mcat_id": "764",
+      "mcat_name": "Incense Sticks"
+    },
+    {
+      "mcat_id": "184173",
+      "mcat_name": "Green Phenyl"
+    },
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "2140",
+      "mcat_name": "Liquid Detergent"
+    },
+    {
+      "mcat_id": "78320",
+      "mcat_name": "Mosquito Repellent Stick"
+    }
+  ]
+}

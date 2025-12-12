@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669709332",
+  "gluser_id": "248313287",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Memari",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651927",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan abhi to kya keh rahe aap?\\nExecutive: Hello\\nCustomer: Haanji sir bataiye.\\nCustomer: Haan abhi sunai pad raha hai na to aap Google Meet ke liye bol rahe the?\\nExecutive: Haan Google Meet ke liye sir bol rahi thi, bataiye.\\nCustomer: Haan wohi bol raha hu mai 10 minute baad aapko call karke Google Meet join kar raha hu, thik hai?\\nExecutive: Achha 10 minute baad aap join karenge?\\nCustomer: Ji ji ji.\\nExecutive: Thik hai sir thik hai mai na aapko\\nExecutive: Sir ye jo aapki mail id hai mai ek baar confirm kar leti hu registered mail id jo aapki.\\nExecutive: Uh sir ye jo hai aapki\\nExecutive: Ek baar confirm karungi sir aapki mail id?\\nCustomer: Hmm.\\nCustomer: S.t.o.e.n.g.g@gmail.com\\nExecutive: S.t.l.b@gmail.com\\nCustomer: S.t.o.e.n.g.g@gmail.com\\nExecutive: Thik hai. Sir ek S.t.o jo aapka registered mail hai na jo S.t.o kar karke hai last p.l.g.g hai and @gmail.com hai ye, thik hai sir? Hmm.\\nExecutive: To mai ispe na aapka aapko link share kar deti hu, ek minute. Aapka basically abhi timing rahegi sir 11:30 ki kar rahi hu, thik hai sir?\\nCustomer: 11:30, haanji haanji.\\nExecutive: Hello? Haanji haanji.\\nExecutive: Thik hai sir 11:30 ka mai kar deti hu sir.\\nCustomer: Haan haan. Thank you sir, thank you.\\nExecutive: Thank you, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to join Google Meet.\\n\n- Executive needs to confirm customer's email ID.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's email ID.\\n\n- Executive will share the Google Meet link.\\n\n- Google Meet scheduled for 11:30.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, email id, confirmation\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc73694c-f2b3-49c9-9796-53181f979d24",
+  "ucid": "fc73694c-f2b3-49c9-9796-53181f979d24",
+  "seller_categories": [
+    {
+      "mcat_id": "95695",
+      "mcat_name": "Turning Holder"
+    },
+    {
+      "mcat_id": "27904",
+      "mcat_name": "Engraving Tools"
+    },
+    {
+      "mcat_id": "24684",
+      "mcat_name": "Ceramic Inserts"
+    },
+    {
+      "mcat_id": "29841",
+      "mcat_name": "Grooving Tools"
+    },
+    {
+      "mcat_id": "184759",
+      "mcat_name": "CBN Inserts"
+    }
+  ]
+}

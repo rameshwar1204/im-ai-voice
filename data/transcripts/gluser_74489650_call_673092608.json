@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673092608",
+  "gluser_id": "74489650",
+  "vintage_months": 8,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691496",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Namaskar sir, Gaurav baat kar raha tha sir India Mart se.\\nCustomer: Haan ji haan bolie.\\nExecutive: Sir waha pe ki yaha pe ticket aapne open kiya tha 96 pe call kiya tha ek ticket open hai kya to usi ke regarding aapki\\n[inaudible] kya issue aa raha hai sir ek baar aap bataenge.\\nCustomer: Sir isme hamara jo hai financial ka bar bar update mang raha hai.\\nExecutive: Kya mang raha hai sir?\\nCustomer: Update\\nExecutive: Kaam nahi kar raha sahi se.\\nExecutive: F matlab India Mart ke app ki baat kar rahe hain aap?\\nCustomer: Haan haan.\\nExecutive: Ek baar aap uninstall kiya hua hai aapne sir? Ek baar uninstall karke fir se ek baar login kariye. Kya issue kya aa raha hai matlab jaise update aap bolenge ki proper work nahi kar raha kya issue kya aa raha hai usme? Matlab leads consume karne mein dikkat aa rahi hai ya fir?\\nCustomer: Ji ji bar bar update ka option aa raha hai.\\nExecutive: Update ka aa raha hai?\\nCustomer: Haan haan.\\nExecutive: Ek kaam kariye ek baar proper usko app ko uninstall kariye fir se ek baar install karke to wo aapka already waha pe update ho jayega fir aapko update nahi mangega. Kyunki new version automatic waha se install hoke hi aayega. Usme fir aap ek baar ek baar kariye aur apna ye wale number se login karega aap isse kar rahe hain na 98 wale se.\\nCustomer: Haan ji haan ji haan haan.\\nExecutive: Ji ek baar isse aap ek baar kariye aapka login ho jayega sir.\\nCustomer: Ji\\nExecutive: Baki\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART app asks for frequent updates.\\n\n\\n\nResolution:\\n\n- Executive suggested uninstalling and reinstalling the app.\\n\n\\n\nNext Steps: \\n\n- Customer will try reinstalling the app.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- app, update, login\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6f8ddab2-9095-4df1-b985-977bb1d100ba",
+  "ucid": "6f8ddab2-9095-4df1-b985-977bb1d100ba",
+  "seller_categories": [
+    {
+      "mcat_id": "78535",
+      "mcat_name": "Men Tracksuit"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "139661",
+      "mcat_name": "Men Cotton Kurta"
+    },
+    {
+      "mcat_id": "654280",
+      "mcat_name": "Uniform Stitching Service"
+    },
+    {
+      "mcat_id": "183310",
+      "mcat_name": "Men Short Kurta"
+    }
+  ]
+}

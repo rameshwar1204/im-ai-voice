@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669509532",
+  "gluser_id": "222393173",
+  "vintage_months": 12,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Parbatsar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644453",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji.\\nCustomer: Rajesh ji baat baat kar raha hu India Mart se lagta tha unse.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Rajesh from India Mart wants to talk.\\n\n\\n\nResolution:\\n\n- Not applicable\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, talk\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4a0f7ef-033b-4956-bb0d-8d01cc503654",
+  "ucid": "d4a0f7ef-033b-4956-bb0d-8d01cc503654",
+  "seller_categories": [
+    {
+      "mcat_id": "11673",
+      "mcat_name": "Dolomite Powder"
+    },
+    {
+      "mcat_id": "9870",
+      "mcat_name": "Marble Powder"
+    },
+    {
+      "mcat_id": "5461",
+      "mcat_name": "Calcite Powder"
+    },
+    {
+      "mcat_id": "23078",
+      "mcat_name": "Calcium Carbonate Powder"
+    },
+    {
+      "mcat_id": "146576",
+      "mcat_name": "Granite Powder"
+    }
+  ]
+}

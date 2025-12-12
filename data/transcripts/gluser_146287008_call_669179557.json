@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669179557",
+  "gluser_id": "146287008",
+  "vintage_months": 7,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9654834",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Good morning.\\nExecutive: Sadanand sir good morning.\\nCustomer: Ji bataiye sir.\\nCustomer: Hello.\\nCustomer: Mera Mishra firm hai.\\nCustomer: Hello. Awaz awaz aa rahi hai sir clear?\\nCustomer: Mishra firm hai Mishra Enterprises.\\nExecutive: Theek hai.\\nExecutive: System wagera toh.\\nExecutive: Main aapko call back kar raha hu sir awaz clear nahi aa rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing voice clarity issues.\\n\n\\n\nResolution:\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice clarity, callback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1a9e71ab-973f-40de-a34f-730169e7e2f4",
+  "ucid": "1a9e71ab-973f-40de-a34f-730169e7e2f4",
+  "seller_categories": [
+    {
+      "mcat_id": "183235",
+      "mcat_name": "E-Rickshaw Loader"
+    },
+    {
+      "mcat_id": "151173",
+      "mcat_name": "Battery Operated Rickshaw"
+    },
+    {
+      "mcat_id": "177221",
+      "mcat_name": "Electric Loader"
+    },
+    {
+      "mcat_id": "445384",
+      "mcat_name": "Electric Auto Rickshaw"
+    },
+    {
+      "mcat_id": "145630",
+      "mcat_name": "Electric Rickshaw Three Wheeler"
+    }
+  ]
+}

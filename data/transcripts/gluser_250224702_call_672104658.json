@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672104658",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Good evening sir.\\nExecutive: Haan sir, Namaste.\\nCustomer: Sir wo aapka refund jo hai wo prove ho gaya hai aur maybe seven to ten working days mein aapke account mein wo paisa aa jayega sir. \\nCustomer: Aapke paas mail bhi aa jayega iske regarding confirmation ke liye.\\nExecutive: Okay sir. Jis account se jis jis account se aapne payment kiya tha na same usi account mein aapke aa jayega.\\nCustomer: Ji ji. Accha accha.\\nExecutive: To abhi aur koi reduction hoga usme?\\nCustomer: Kya keh rahe hai sir?\\nExecutive: Kitna reduction kiya?\\nExecutive: Sir ye ye to jo bhi matlab final amount hoga na aapki mail pe aa jayega ye to hum bhi confirm nahi bata sakte abhi. But ha hamara kaam ye hota hai ki hum apne jo HOD hai unse approval leke aapka wo process karwa de refund. To aaj sham tak aap dekhenge aapki service services bhi band ho jayengi jo services aapki chal rahi hai na.\\nCustomer: Haan sir.\\nExecutive: Ab wo band ho jayengi aaj sham tak.\\nCustomer: Thik hai.\\nExecutive: Thik hai. To abhi hamare paas jo aapne concern raise karwaya tha refund ka wo close kar de aapki permission hai sir?\\nCustomer: Thik hai.\\nExecutive: Sir hamare hamare jitna bhi jo bhi humse support ho sakta tha humne kiya hai. Halaki refund refund ka jo refund ka jo bhi policy hai na wo company ke upar hota hai ki company refund karegi ki nahi karegi lekin humne wo request karke approval jaldi karwa diya sir usme 15-15 din lag jate hai approval hone mein na. Kyunki bahut sari cheeze dikhani hoti hai usme. Customer nahi mil pa rahe hai, buylead nahi aa rahi, inquiry nahi aa rahi bahut sari cheezo pe discussion hota hai tab jaake approval milta hai refund ka. To humne wo karwa diya. To hamare regarding mein aapke paas ek feedback aayega please aap satisfied hai hamare resolution se to please satisfied mark kar dijiye usme.\\nCustomer: Thik hai sir, mai kar dunga.\\nExecutive: Thik hai. Abhi raat tak hi aapki service band ho jayegi aur fir uske baad jo hai hum yaha se matlab maximum time bata raha hu usse pehle hi paisa aa jayega aapke account mein. Baki hamara number hai hi aapke paas koi bhi problem hoti hai aap kabhi bhi humse contact kariye.\\nCustomer: Thik hai sir, thank you very much.\\nExecutive: Thank you sir, thank you have a nice day.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund amount reduction.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund approval.\\n\n- Informed final amount details will be mailed.\\n\n- Services will be stopped by evening.\\n\n- Requested customer to provide feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, services, feedback, approval\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 147,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c55e55fe-eddb-4829-9c78-1548fb43aac8",
+  "ucid": "c55e55fe-eddb-4829-9c78-1548fb43aac8",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

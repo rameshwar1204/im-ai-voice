@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675061432",
+  "gluser_id": "25313215",
+  "vintage_months": 118,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710823",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=388bc880-e400-4de9-bebe-6595c7411fd2",
+  "ucid": "388bc880-e400-4de9-bebe-6595c7411fd2",
+  "seller_categories": [
+    {
+      "mcat_id": "166326",
+      "mcat_name": "Inverter ARC Welding Machine"
+    },
+    {
+      "mcat_id": "30353",
+      "mcat_name": "High Pressure Washer"
+    },
+    {
+      "mcat_id": "22092",
+      "mcat_name": "Arc Welding Machines"
+    },
+    {
+      "mcat_id": "24156",
+      "mcat_name": "Car Washer"
+    },
+    {
+      "mcat_id": "183102",
+      "mcat_name": "ESAB MIG Welding Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673943453",
+  "gluser_id": "204314763",
+  "vintage_months": 11,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699891",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji, ma'am.\\nImran baat kar raha tha IndiaMART se. Aapne ticket open kar diya, ma'am?\\nCustomer: Haan, boliye.\\nExecutive: Ticket open kar diya aapne, dekh raha hu.\\nCustomer: Kya?\\nExecutive: Mai keh raha hu aapne ticket open kar diya hamare customer care pe?\\nCustomer: Haan, maine customer care ko call kiya hai, haan.\\nExecutive: Haan, toh account ma'am hum hi handle karte hai na aapka?\\nCustomer: Haan.\\nExecutive: Aap agar concern bhi raise karoge toh hamare paas hi call aayega. Even aap customer care ko call bhi karoge na, tabhi humse hi baat hogi aapko.\\nCustomer: Nahi, lekin mera concern kuch aur hai. Mera aapse baat karke mera doubt nahi nikal raha hai na, toh mai kisse baat karu?\\nExecutive: Aapne abhi jaise abhi dala hai jo request dala hai ki aapne account manager arrange karna hai, thik hai na? Aap apne account manager se baat karna chah rahe ho ki jo aapki services hai toh uska kya charges hai, hai na ma'am?\\nCustomer: Nahi, maine unse ye pucha ki mujhe actually mujhe ye cheez pe mujhe ye cheez pe trust hi nahi ho raha hai ki app mein payment kuch alag dikha raha hai, yaha pe agar option bilkul agree kar raha hu mai, bilkul mai agree kar raha hu.\\nMere ko ye mere ko ye mind se doubt nahi ja raha hai toh mai iske liye kisse baat karu? Mere ko aapki baato pe trust nahi ho raha hai, mai openly aapko bol rahi hu. Toh mere ko se baat karna hai.\\nHmm hmm. Kyuki mujhe yaha se payment karke mera mere ko payment actually genuine hoga ki nahi hoga, mere ko nahi pata. Bilkul genuine kar agar aapko believe nahi ho raha hai ma'am toh aapke registered mail id mein mai video meeting ka link bheju, aap mera office bhi dekh lo ma'am.\\nCustomer: Nahi, office vagerah dekhne se mere ko kuch matlab nahi hai kyuki aapko bhi pata hai itna sara. Chaliye thik hai, mai ek kaam karta hu, mai ek kaam karta hu, mai ek kaam karta hu. Mai apne ek cluster jo hamare head hai na, jo hamare cluster head hai, mai unse call back karwa deta hu isi number pe. Thik hai?\\nCustomer: Koi issue nahi hai, hmm.\\nExecutive: Chaliye, thik hai ma'am, thik hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Doubt regarding payment genuineness on the app.\\n\n- Does not trust the executive's words.\\n\n- Wants to talk to someone else.\\n\n\\n\nResolution:\\n\n- Offered a video meeting to show the office.\\n\n- Promised a callback from the cluster head.\\n\n\\n\nNext Steps: \\n\n- Cluster head will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- payment, trust, account manager, callback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c1492bbe-30d0-411e-a99e-a3ccc6e6f0ca",
+  "ucid": "c1492bbe-30d0-411e-a99e-a3ccc6e6f0ca",
+  "seller_categories": [
+    {
+      "mcat_id": "650500",
+      "mcat_name": "UV DTF Sticker"
+    },
+    {
+      "mcat_id": "42849",
+      "mcat_name": "Transfer Stickers"
+    },
+    {
+      "mcat_id": "55322",
+      "mcat_name": "Heat Transfer Sticker"
+    },
+    {
+      "mcat_id": "658375",
+      "mcat_name": "DTF Stickers"
+    },
+    {
+      "mcat_id": "8910",
+      "mcat_name": "PVC Stickers"
+    }
+  ]
+}

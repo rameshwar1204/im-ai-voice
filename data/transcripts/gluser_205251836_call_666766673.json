@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666766673",
+  "gluser_id": "205251836",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Haan ji.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Ji Sahil Khan ji baat kar rahe hain?\\nExecutive: Ji.\\nCustomer: Uh Simon Marble Supplier se?\\nExecutive: Ji.\\nCustomer: Ji sir main Manju baat kar rahi thi IndiaMART se, aapke account manager.\\nExecutive: Ji.\\nCustomer: Ji sir aapki services live ho chuki thi IndiaMART mein, toh usi ke regarding maine connect kiya tha sir. Ek welcome call aapka schedule tha.\\nToh aapko wahan se guide kiya jayega kis tarike se services use karni hai and saari cheezein.\\nToh abhi free hain sir toh ek video meeting pe connect kar sakte hain?\\nExecutive: Abhi mat kijiye na, abhi main thoda sa\\nCustomer: Toh kab kar sakte hain sir?\\nExecutive: Aap mujhe kariye dedh baje ke aas paas.\\nCustomer: Dedh baje.\\nExecutive: Ji.\\nCustomer: Theek hai main aapko dedh baje ke aas paas kar leti hu. Tab free rahiyega tab. Theek hai?\\nExecutive: Theek hai.\\nCustomer: Zyada time nahi lagega, das minute ka time lagega hardly.\\nExecutive: Theek hai theek hai.\\nCustomer: Okay. Thank you sir.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to conduct a scheduled welcome call.\\n- Customer was busy and unavailable for the call.\\n\\n\\nResolution:\\n\\n- Rescheduled the welcome call for 1:30 PM.\\n- Informed the call would be a 10-minute video meeting.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back at 1:30 PM for the video meeting.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- welcome call, video meeting, scheduling, account manager, live services\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ce86044a-28c1-4931-9344-f65a9b7a5e69",
+  "ucid": "ce86044a-28c1-4931-9344-f65a9b7a5e69",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "72798",
+      "mcat_name": "Wall Fountain"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671781627",
+  "gluser_id": "35749193",
+  "vintage_months": 3,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Karwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678190",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan bol.\\nCustomer: Ji Siddhesh sir.\\nExecutive: Haan bolo.\\nExecutive: Siddhesh sir aap baat kar rahe the IndiaMART se account manager aapka.\\nCustomer: Haan bolo.\\nExecutive: Ji Siddhesh sir ye IndiaMART ki service abhi kaisi chal rahi hai?\\nCustomer: Haan chal rahi hai thik thak.\\nExecutive: But ye aap mai dekh raha tha ki aap byleads consume nahi kar rahe the IndiaMART ki.\\nCustomer: Ah byleads haa maine dekha nahi abhi recently app open vagera kiya nahi.\\nExecutive: Haan aur agar mai bolu to na bahut acche acche byleads aayi hai bulk order ke jaise aap chahte ho.\\nCustomer: Thik hai na.\\nExecutive: Haan jiski vajah se bylead na use karne ki vajah se thodi activity bhi hamari down ho chuki hai sir. Ye matlab aap dekhoge na direct inquiry bahut kam aayi hai is mahine. 17 din ho gaye sirf do direct inquiry aayi hai.\\nCustomer: Haan haan.\\nExecutive: Vahi keh rahe hai aap ek second apna mobile application open kar sakte ho IndiaMART ka? Mai ek activity kara de raha hu jisse sahi ho jaye.\\nCustomer: Ah abhi filhal thoda busy hu.\\nExecutive: Hmm. Haan to thodi der ke baad mai kar lunga. Aapki ticket bhi open thi incoming ticket ke us din maine aapko call kara tha to aapne return call kara tha mujhko.\\nCustomer: Accha.\\nExecutive: Tab bhai ticket bhi open ho gaya tha.\\nCustomer: Accha thik hai matlab.\\nExecutive: Incoming call ka actually agar client humko call kare hum call utha na paye to that ticket open ho jati hai sir. Complaint open ho jati hai. To use bhi resolve karna padta hai.\\nCustomer: Okay. Thik hai. To usi ke regarding aapse baat karni thi aapka char se paanch minute chahiye tha sir baat karne ke liye.\\nCustomer: Accha thodi der call karoge abhi thoda busy hu kaam me.\\nExecutive: Mai kitne baje tak call karu aapko?\\nCustomer: Ah ek 12:30 baje ke baad 12:30.\\nExecutive: 12:30 baje baad na 12:30 ke baad. Thik hai sir not an issue I will call you na after 12:30. Thik hai okay sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer not consuming buyleads on IndiaMART.\\n\n- Direct inquiries have decreased this month.\\n\n- Ticket opened due to missed incoming call.\\n\n\\n\nResolution:\\n\n- Executive offered to guide through activity on app.\\n\n- Agreed to discuss the open ticket later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after 12:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiries, ticket, follow up\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 144,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0cf45e65-401c-47f8-bfd4-339a98019c81",
+  "ucid": "0cf45e65-401c-47f8-bfd4-339a98019c81",
+  "seller_categories": [
+    {
+      "mcat_id": "21187",
+      "mcat_name": "Aluminum Foil Containers"
+    },
+    {
+      "mcat_id": "1411",
+      "mcat_name": "Aluminum Foils"
+    },
+    {
+      "mcat_id": "143646",
+      "mcat_name": "Aluminium Foil Jumbo Rolls"
+    },
+    {
+      "mcat_id": "9417",
+      "mcat_name": "Silver Container"
+    },
+    {
+      "mcat_id": "11647",
+      "mcat_name": "Disposable Food Containers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667948855",
+  "gluser_id": "180970586",
+  "vintage_months": 7,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Sir busy hai kya aap yaar?\\nCustomer: Haan sir mera saman waha gaya tha wo bus wale dikkat kar rahe hain abhi do minute mein phone kar raha hun.\\nExecutive: Thik hai thik hai main wait karu abhi aapka?\\nCustomer: Ji ji ji ji thik hai.\\nExecutive: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's goods are stuck with bus people.\\n\n\\n\nResolution:\\n\n- Executive agreed to wait for the customer's call.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- goods delivery, bus issue, call back\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e48abef4-608e-4d6d-8c39-d4dfaba97bbc",
+  "ucid": "e48abef4-608e-4d6d-8c39-d4dfaba97bbc",
+  "seller_categories": [
+    {
+      "mcat_id": "188562",
+      "mcat_name": "Wedding Light"
+    },
+    {
+      "mcat_id": "145619",
+      "mcat_name": "Wedding Umbrella"
+    },
+    {
+      "mcat_id": "17147",
+      "mcat_name": "Stage Lights Stand"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    },
+    {
+      "mcat_id": "122834",
+      "mcat_name": "Wedding Decoration Items"
+    }
+  ]
+}

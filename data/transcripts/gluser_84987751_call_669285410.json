@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669285410",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Madam, madam, woh.\\nExecutive: Ji boliye sir.\\nCustomer: Madam, madam, yeh jo beech mein aap lagate hain, mera dost logo lagana hai na.\\nExecutive: Hello, hello, hello, aapki voice clear nahi hai.\\nCustomer: Hello.\\nExecutive: Hello, aa rahi hai meri aawaz?\\nExecutive: Sir, thoda bahar hai, aapki taraf se shor bahut aa raha hai.\\nCustomer: Ek minute madam, wapas karta hoon.\\nCustomer: Aa gayi madam.\\nCustomer: Ab aa rahi madam aawaz?\\nExecutive: Haan ji, ab aa rahi hai.\\nCustomer: Madam, main keh raha tha jaise hamara na woh lagta hai na, toh woh aap hi lagao ya phir aur koi?\\nExecutive: Sorry sir, aapki aawaz abhi bhi clear nahi hai. Hello.\\nCustomer: Ab aa rahi madam aawaz?\\nExecutive: Ji, bataye, bataye.\\nCustomer: Logo lagana hai na, next time kar sakte hain profile mein?\\nExecutive: Sir, main fir se call karti hoon, tab tak aap ek baar network mein aa jaiega.\\nCustomer: Theek hai madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add a logo to profile.\\n\n- Voice not clear due to network issues.\\n\n\\n\nResolution:\\n\n- Executive offered to call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back when network is better.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- logo, profile, network issue, call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a266648-b25a-4999-adab-80c186d26e1c",
+  "ucid": "4a266648-b25a-4999-adab-80c186d26e1c",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

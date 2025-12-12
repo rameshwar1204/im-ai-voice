@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668067122",
+  "gluser_id": "64433348",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jasrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Hello?\\n\\nCustomer: Hello?\\n\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer trying to connect the call.\\n\n\\n\nResolution:\\n\n- Call disconnected.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- connection, call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=281e10a9-93a2-4f92-9030-34f3827c3922",
+  "ucid": "281e10a9-93a2-4f92-9030-34f3827c3922",
+  "seller_categories": [
+    {
+      "mcat_id": "78475",
+      "mcat_name": "HR Consultancy Services"
+    },
+    {
+      "mcat_id": "78448",
+      "mcat_name": "Payroll Services"
+    },
+    {
+      "mcat_id": "154135",
+      "mcat_name": "EPF Compliance"
+    },
+    {
+      "mcat_id": "174903",
+      "mcat_name": "Employee Provident Fund Services"
+    },
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    }
+  ]
+}

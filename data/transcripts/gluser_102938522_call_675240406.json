@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675240406",
+  "gluser_id": "102938522",
+  "vintage_months": 7,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Rajnandgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hallo?\\nHallo?\\nHallo?\\nHallo?\\nHaan ji. Hallo?\\nGood evening. Nahi Mr. Sahu, main hun Mera bol rahi thi. Sahu Agriculture and Harvester ke liye main bol rahi thi.\\nKya tha?\\nActually main senior manager bol rahi hun Ishan ki. Jyada time nahi sir abhi aapne WhatsApp pe na Ishan ke liye.\\nOkay. Haan haan. Chala gaya tha phone.\\nDo minute chahiye the sir bas aapse bas do minute chahiye the.\\nMain thoda busy tha. Samajh rahi hun sir.\\nHaan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Mera calling from Ishan's office for Sahu Agriculture and Harvester.\\n\n- Requesting two minutes of the recipient's time.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral to slightly apologetic (caller) to busy (recipient).\\n\n\\n\n\\n\n@@@Key Topics:\\n\nintroduction, time request\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=584cc806-e673-4d8d-bae6-30f9561a605a",
+  "ucid": "584cc806-e673-4d8d-bae6-30f9561a605a",
+  "seller_categories": [
+    {
+      "mcat_id": "43200",
+      "mcat_name": "Combine Harvester"
+    },
+    {
+      "mcat_id": "192898",
+      "mcat_name": "Kubota Harvester"
+    },
+    {
+      "mcat_id": "650409",
+      "mcat_name": "Track Combine Harvester"
+    },
+    {
+      "mcat_id": "139361",
+      "mcat_name": "Paddy Harvester"
+    },
+    {
+      "mcat_id": "139374",
+      "mcat_name": "Power Reaper"
+    }
+  ]
+}

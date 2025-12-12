@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670997604",
+  "gluser_id": "1016103",
+  "vintage_months": 211,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Amritsar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701962",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hanji good morning.\\nCustomer: Kaise baat kar rahi thi India ward se.\\nExecutive: Hanji bolo.\\nCustomer: Ji ji sanam kuch by lead aaya tha LST paper plate ka so I would like to request you please confirm that by lead.\\nCustomer: Because as we have observed since last 30 days we haven't consumed any single lead and that's why I have calling to request you.\\nExecutive: Ma'am aaj na main aapko 12 o'clock phone karungi aur main bataungi ki by leads hum kholte bhi hai to there are not appropriate by leads.\\nExecutive: To jab tak hame appropriate by leads nahi milenge we can't purchase them now.\\nCustomer: Okay ma'am.\\nExecutive: Ab main 12 o'clock aapko call karti hu.\\nCustomer: Theek hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to confirm a by lead for LST paper plate.\\n\n- No leads consumed in the last 30 days.\\n\n\\n\nResolution:\\n\n- Executive will call back at 12 o'clock to discuss by leads.\\n\n- Inappropriate by leads are not being purchased.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive to call back at 12 o'clock.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nby leads, lst paper plate, confirmation, purchase\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ddec55a-694c-439b-a69f-3071fd250d00",
+  "ucid": "4ddec55a-694c-439b-a69f-3071fd250d00",
+  "seller_categories": [
+    {
+      "mcat_id": "148982",
+      "mcat_name": "Wood Cutting Blade"
+    },
+    {
+      "mcat_id": "68518",
+      "mcat_name": "TCT Saw Blade"
+    },
+    {
+      "mcat_id": "39129",
+      "mcat_name": "Surface Grinding Machine"
+    },
+    {
+      "mcat_id": "33955",
+      "mcat_name": "Industrial Paper Cutting Blade"
+    },
+    {
+      "mcat_id": "24922",
+      "mcat_name": "Circular Saw Blades"
+    }
+  ]
+}

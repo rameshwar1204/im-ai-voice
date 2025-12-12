@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671850588",
+  "gluser_id": "242281640",
+  "vintage_months": 3,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Coimbatore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681831",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, mera manager nahi hai kya?\\nExecutive: Sir, mai Ankita baat kar rahi hu senior manager Indiamart se, bataiye kya concern aa raha hai?\\nCustomer: Hamare camera me isme lead hi nahi aa raha hai madam, bilkul lead hi nahi aa raha hai, hamara product efficient pack.\\nExecutive: Efficient pack? Bataiye na batayenge aap? Efficient pack.\\nCustomer: Haan.\\nExecutive: Okay. Sir Prashant aapke account manager hai, aap mujhe 15 minute ka time dijiye mai call back arrange karwa deti hu.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No leads are coming for the camera.\\n\n\\n\nResolution:\\n\n- Executive will arrange a call back in 15 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, callback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c629e96-a0dd-43f4-9e51-00f605ff4a88",
+  "ucid": "8c629e96-a0dd-43f4-9e51-00f605ff4a88",
+  "seller_categories": [
+    {
+      "mcat_id": "1411",
+      "mcat_name": "Aluminum Foils"
+    },
+    {
+      "mcat_id": "85929",
+      "mcat_name": "Pallet Collar"
+    },
+    {
+      "mcat_id": "9061",
+      "mcat_name": "HDPE Bags"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    },
+    {
+      "mcat_id": "155764",
+      "mcat_name": "Wooden Pallet Collar"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672506168",
+  "gluser_id": "147132779",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686755",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: TS Golden Kitchen Equipment se baat kar rahe hain sir?\\nCustomer: Haan, haan.\\nExecutive: Sir, Vijay Jaiswal bol raha hu IndiaMART se. Aapne ye IndiaMART mein call kiya tha customer care mein aapne?\\nCustomer: Haan, haan. Wo galti se account manager ke paas call karne wala tha, wo galti se wo wala button tap ho gaya.\\nExecutive: Achcha. Bataiye sir, concern bataiye sir kya issue hai?\\nCustomer: Issue nahi, actually account manager se thoda baat karna tha. Do product the, wo product mein red mark aa raha hai. To wo product ko green mark karna hai. To photo ka quality thoda achcha nahi hai mere paas isliye aisa ho raha hai. To account manager agar wo theek kar dete to achcha hota.\\nExecutive: Main karta hu. Jo aapke current account manager hai, wo Suti hai. Theek hai?\\nCustomer: Haan, haan, haan, haan. Nahi, account manager kab change ho gaya? Mujhe bataya nahi.\\nExecutive: Abhishek tha na?\\nCustomer: Abhishek ka bhi Suti hai.\\nExecutive: Abhishek tha lekin mere paas account manager ke naam dusra show kar raha hai. Ek ladki show kar raha hai.\\nExecutive: Achcha, to kisi concern ke liye call kiya tha sir aapne IndiaMART mein?\\nCustomer: Nahi, maine uske liye nahi kiya. Galti se tap ho gaya. To theek hai, koi dikkat nahi. Wo account manager mere paas call kar raha hai.\\nExecutive: Theek hai. Ek baar main aapka introduction bhi karwa deta hu. Ek baar baat kijiye.\\nCustomer: Nahi, nahi, abhi nahi ho sakta. Main abhi ek meeting mein hu. Thodi der baad main usko call karta hu. Theek hai?\\nExecutive: Hello.\\nCustomer: Haan, a, ma'am, thodi der main, thodi der baad mein aapko call karta hu. Theek hai? Main ek meeting mein hu.\\nExecutive: Sir, koi concern to nahi tha na aapko, mujhe aap itna bata dijiye.\\nCustomer: Nahi, koi dikkat nahi, koi dikkat nahi. Main aapko call back kar sakta hu. Theek hai?\\nExecutive: Actually sir, aapki na yaha pe ticket raise ho gayi thi to kya?\\nCustomer: Haan, haan, haan, haan. Mujhe mujhe malum hai, mujhe malum hai. Maine galti se kar diya tha, mujhe malum hai. Main thodi der baad ab main aapko call karta hu. Meeting se nikalte hi aapko call karta hu. Theek hai?\\nExecutive: Theek hai sir, theek hai. Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to convert red mark to green mark.\\n\n- Photo quality is not good.\\n\n\\n\nResolution:\\n\n- Executive offered to connect with account manager.\\n\n- Customer declined the offer.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- account manager, product, green mark\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=23336354-3941-4ac1-bf06-872598fd6dcb",
+  "ucid": "23336354-3941-4ac1-bf06-872598fd6dcb",
+  "seller_categories": [
+    {
+      "mcat_id": "152189",
+      "mcat_name": "Sweet Display Counter"
+    },
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "38306",
+      "mcat_name": "Stainless Steel Tables"
+    },
+    {
+      "mcat_id": "180803",
+      "mcat_name": "Stainless Steel Tandoor"
+    },
+    {
+      "mcat_id": "167123",
+      "mcat_name": "SS Display Counter"
+    }
+  ]
+}

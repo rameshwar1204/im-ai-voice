@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674728758",
+  "gluser_id": "244836282",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? \\nExecutive: Aur sir, IndiaMART automation se baat kar rahe hain sir, Sanket ji?\\nCustomer: Ji, ji baat kar rahe hain.\\nExecutive: Aur sir, ji sir very good evening sir, Sumit baat kar raha hu sir main IndiaMART se, kaise ho aap?\\nCustomer: IndiaMART se Sumit ji, haan badhiya, badhiya.\\nExecutive: Ji ji, actually sir maine call isliye kiya tha aapka yaha pe conversation chal raha tha apna aapki account manager hai Yashoda ji ke saath. \\nCustomer: Haan haan.\\nExecutive: Toh film mein hai na jo aapki yaha pe mam dekhti hain aaj unke saath bhi properly dobara se bhi conversation hua hai is cheezo ko leke. \\nCustomer: Haan haan. \\nExecutive: Hai na toh sara unko pura ek baar dobara se fir se guide kiya hai related to the queries, calls, leads vagaira ka leke. \\nCustomer: Sir ek minute hold kare, ek minute hold kare.\\nExecutive: Haan ji, haan ji, haan ji.\\nCustomer: Ek call pe tha main aadhe ghante mein call karu aapko?\\nExecutive: Chaliye koi problem nahi hai sir ek baar free ho jaiyega koi dikkat nahi hai sir baat kar lenge.\\nCustomer: Nahi nahi aapko nahi keh raha main dusre phone pe chal raha tha, ye bataye. Aapke liye toh.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to call back in half an hour.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, calls, account manager, queries\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2d411a23-0c0e-4e30-9876-0ee9c3da3d77",
+  "ucid": "2d411a23-0c0e-4e30-9876-0ee9c3da3d77",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "192697",
+      "mcat_name": "Honeywell Bullet Camera"
+    },
+    {
+      "mcat_id": "85186",
+      "mcat_name": "Bottle Labelling Machine"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    }
+  ]
+}

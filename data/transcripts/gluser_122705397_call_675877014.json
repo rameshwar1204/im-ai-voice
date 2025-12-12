@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675877014",
+  "gluser_id": "122705397",
+  "vintage_months": 57,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Gopalganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647310",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? \\nExecutive: Haan, main Rishabh baat kar raha hun, good afternoon.\\nCustomer: Rishabh baat kar rahe ho? Rishabh baat kar rahe ho?\\nExecutive: Kahan se?\\nCustomer: Sir, research section mein baat kar raha tha, India Mart se bol raha hun.\\nCustomer: Haan, bataiye bataiye.\\nExecutive: Haan ji, sir feedback regarding call tha, last time mein discuss hua tha regarding koi apna ek concern hua tha seller buyer ke sath.\\nCustomer: To sir, ye sahi ho gaya.\\nExecutive: Sahi ho gaya, sahi ho gaya bas. Baki sir service vagarah theek chal raha hai? Usme to kuch aisa nahi hai?\\nCustomer: Nahi, nahi, koi dikkat nahi, koi dikkat nahi.\\nExecutive: Chaliye, theek hai. Kuch issue aaye sir, aapke paas mera number hoga, mere ko connect karna. Theek hai?\\nCustomer: Theek hai, theek hai, theek hai. Okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback regarding a call about a seller-buyer concern.\\n\n\\n\nResolution:\\n\n- The seller-buyer concern was resolved.\\n\n- Service is running smoothly with no issues.\\n\n\\n\nNext Steps: \\n\n- Connect if any issue arises.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, seller, buyer, service\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03b6e6f2-51a0-46dd-8e4c-d02017d9d6c4",
+  "ucid": "03b6e6f2-51a0-46dd-8e4c-d02017d9d6c4",
+  "seller_categories": [
+    {
+      "mcat_id": "41048",
+      "mcat_name": "Water Leak Detectors"
+    },
+    {
+      "mcat_id": "40479",
+      "mcat_name": "Ultrasonic Flaw Detectors"
+    },
+    {
+      "mcat_id": "182672",
+      "mcat_name": "Hart Communicators"
+    },
+    {
+      "mcat_id": "176582",
+      "mcat_name": "Rebar Detection System"
+    },
+    {
+      "mcat_id": "164224",
+      "mcat_name": "Rebound Hammer"
+    }
+  ]
+}

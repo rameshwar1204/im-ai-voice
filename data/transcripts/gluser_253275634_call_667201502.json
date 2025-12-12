@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667201502",
+  "gluser_id": "253275634",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Khargone",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662488",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello ji mam.\\nExecutive: Ji good morning sir, Richa baat kar rahi hu IndiaMART se aapki new account manager.\\nCustomer: Ji mam bataiye.\\nExecutive: Ji sir services ke regarding baat karni thi ki abhi aapki services kaisi chal rahi hai koi problem to nahi aa rahi hai?\\nCustomer: Mam abhi tak to aisi koi problem aa nahi rahi hai at present.\\nExecutive: Han.\\nCustomer: Aur main aapko thodi der se contact karu actually main kuch abhi sath mein recently kaam leke baitha hu.\\nExecutive: Achcha achcha thik hai to fir aap mujhe time bata dijiye aap kitne baje tak call karenge ya to main kar lungi us time pe.\\nCustomer: Aap mujhe 2 baje ke something.\\nExecutive: Okay.\\nExecutive: Thik hai fir main 2 baje ke baad aapko call karti hu.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired about the services.\\n\n- Customer wants to be contacted later.\\n\n\\n\nResolution:\\n\n- Executive agreed to call the customer later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 2 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, call, account manager\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=679c72b2-9d79-4e92-8123-35c23c52476d",
+  "ucid": "679c72b2-9d79-4e92-8123-35c23c52476d",
+  "seller_categories": [
+    {
+      "mcat_id": "179236",
+      "mcat_name": "Jeera Masala Soda"
+    },
+    {
+      "mcat_id": "139360",
+      "mcat_name": "Bottled Water"
+    },
+    {
+      "mcat_id": "5145",
+      "mcat_name": "Mineral Water Bottle"
+    },
+    {
+      "mcat_id": "136575",
+      "mcat_name": "Packaged Drinking Water"
+    },
+    {
+      "mcat_id": "80141",
+      "mcat_name": "Cold Drink"
+    }
+  ]
+}

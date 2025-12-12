@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666735705",
+  "gluser_id": "12679539",
+  "vintage_months": 109,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628977",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. ha ji harshesh sir good morning so rahe hain sir kya abhi ya fir\\nCustomer: [inaudible]\\nExecutive: are hemant baat kar raha tha india mart se ye keh raha tha sir wo aapne jo payment ki thi screenshot dala tha uska to utr vagarah bhi to hoga na sir aapke pass deduct hua hoga to\\nCustomer: nahi sab dala tha ek sath dal diya tha aapko\\nExecutive: nahi aapne jo mujhe dala hai sir usme reference id hai aur successful ka hai matlab aap log aapke pass utr bhi aata hai na sir payment agar katti hai to aapke pass utr aata hoga na sir ye utr hai sir matlab deduct hua hai amount\\nCustomer: to ek minute dekhta hu phone me hamare pass hoga\\nExecutive: ek bar phone pe call pe dekhiye aur baki main aapko proposal aapke whatsapp pe dal deta hu sir agar mail nahi hai to main aapko proposal whatsapp pe dalunga abhi\\nCustomer: nahi wo dekh liya maine dekh liya mail dekh liya\\nExecutive: acha dekh liya tha usko ha bas sham ko usko karunga\\nExecutive: acha to approve kar dijiyega sir theek hai baki ek bar mujhe iska screenshot daliye theek hai ki aapke pass koi debit ka hota hai na message aap log ke pass bhi aata hai confirmation kitna amount\\nCustomer: nahi hai kya abhi\\nExecutive: abhi mere pass jo sunny maata sir mere pass jo tha ye successful wala tha to maine isko apne account team ko bhej diya tha wo mujhse mang rahe hain utr number ki ha sir se utr number ek bar mangiye kyuki isme bas reference id aa rahi hai sir\\nCustomer: nahi reference id to aapne theek hai lekin aapke account me aap unse ye malum kare account me paise\\nExecutive: sir dekhiye main bata raha hu account me sir bahut sare amount aate hain to hame utr se exact amount nikal jata hai na sir ye aapka aaya hai tagging karne ke liye amount to sir daily aate rehte hain na india mart pe pura all over india india mart ka account hai na sir to har ek amount usi round me aati hai to aap khud socho sir aise amount se kaise pata chalega utr hota hai usse turant pata chalega ha bhai is case ka mistal trading company ka ye payment aaya hai isko tag karke invoice generate karni hai\\nCustomer: chalo main ek bar check karta hu\\nExecutive: ha check karke aur baki sir ek cheez aur kehni thi please usko proposal ko agar abhi time hai sir to time nikal ke approve kar dijiye aur baki sir aap kal shayad aapne mujhe phone kiya tha to pehla call mera receive nahi hua tha to uska ek incoming call ka miss ho jata hai ticket ki ha sir ka phone aaya main receive nahi kar paya to wo main close karunga to mere liye feedback dega sir please apna feedback de dijiyega\\nCustomer: koi dikkat nahi hai wo kal aap uska tha na ki aap sunday me baat thi na aap phone utha lenge to kar denge samajh gaya samajh gaya sir ha koi baat nahi sir abhi ek bar abhi dekh lo time hai\\nCustomer: nahi sir abhi to main actually ka me mother ko leke doctor ke ja raha hu\\nExecutive: acha acha acha sorry sir koi baat nahi main sham ko kitne baje phone karu 4:30 baje\\nCustomer: main aapko khud hi call kar lunga jaise khud hi mere number pe call kar lijiyega mera number to hai aapke pass usi pe call kar lijiyega otherwise main aapko ek bar sham ko phone karunga but ek bar sir please wo dekh lo utr number collect kar lunga theek hai\\nCustomer: theek hai\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to provide UTR number.\\n\n- Customer needs to approve the proposal.\\n\n- Executive needs feedback on missed call ticket.\\n\n\\n\nResolution:\\n\n- Executive shared proposal on WhatsApp.\\n\n- Customer agreed to check for UTR number.\\n\n- Customer will approve proposal in the evening.\\n\n\\n\nNext Steps: \\n\n- Customer will call executive with UTR number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- utr number, proposal, feedback, payment\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 161,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78945ed5-fcd8-4d87-8e16-acee37c7c241",
+  "ucid": "78945ed5-fcd8-4d87-8e16-acee37c7c241",
+  "seller_categories": [
+    {
+      "mcat_id": "187229",
+      "mcat_name": "Hand Pump Cylinder"
+    },
+    {
+      "mcat_id": "183410",
+      "mcat_name": "India Mark II Hand Pump"
+    },
+    {
+      "mcat_id": "11810",
+      "mcat_name": "Hand Pump Parts"
+    },
+    {
+      "mcat_id": "152517",
+      "mcat_name": "PVC Garden Pipe"
+    },
+    {
+      "mcat_id": "236803",
+      "mcat_name": "Hand Pump Washer"
+    }
+  ]
+}

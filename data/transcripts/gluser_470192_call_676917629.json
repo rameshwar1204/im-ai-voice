@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676917629",
+  "gluser_id": "470192",
+  "vintage_months": 114,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Likh raha hai message?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Writing a message\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmessage\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c5a5b548-f211-4e61-acc5-49fe11586960",
+  "ucid": "c5a5b548-f211-4e61-acc5-49fe11586960",
+  "seller_categories": [
+    {
+      "mcat_id": "158941",
+      "mcat_name": "Wood Fired Water Heater"
+    },
+    {
+      "mcat_id": "68",
+      "mcat_name": "Industrial Hot Water Boilers"
+    },
+    {
+      "mcat_id": "121388",
+      "mcat_name": "Wood Fired Steam Boilers"
+    },
+    {
+      "mcat_id": "29264",
+      "mcat_name": "Gas Fired Heaters"
+    },
+    {
+      "mcat_id": "159550",
+      "mcat_name": "Water Boilers"
+    }
+  ]
+}

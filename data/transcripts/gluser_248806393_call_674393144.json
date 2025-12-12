@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674393144",
+  "gluser_id": "248806393",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Indri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701940",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hanji.\\nCustomer: Hello. Hello. Hi mam mai Rishikaal baat kar rahi hu IndiaMART se. Yes mam meri na Priya se ho gayi hai baat. Hello mam I am fine. Okay. Okay hello it was\\nCustomer: Uh mujhe ek do chije puchni thi aapse. Ek na hamare paas ek category add hui thi. Mai aapko bata deti hu. Ek category hamare paas add hui hai water heater and geyser. Isme dealing karti hai na aap?\\nExecutive: Bilkul mam karti hu.\\nCustomer: Thik hai ye mai aapke catalog me add kar rahi thi. Thik hai? Iske sath me to aapko koi aur problem to nahi hai koi aur kisi tarike ki? Baki sab thik chal raha hai ab?\\nCustomer: Bilkul to thik chal raha hai bas ye hai ki logo ki soch hai usme to dekho mai aapko kasur nahi nikal sakte. Logo ki mentality aisi hai ki wo single single piece wale jo hote hai wo lene ke baad dalte hai uske andar IndiaMART se aur jo quantity wale hote hai wo leke razi nahi hote. Wo local mangte hai.\\nExecutive: Wo to dekhiye mam kuch kuch leads aisa wo aayega but filhal jo aapka last time problem tha jisse aap bata rahi thi abhi waisa to nahi hai na abhi to wo log thik chal raha hai?\\nCustomer: Ji waisa nahi hai. Bilkul mai thik chal raha hai.\\nExecutive: Okay. Thik hai. To ye concern ek open ho gaya tha mai isko close kar rahi hu aapke paas ek aapki email pe ek feedback aayega please aap apna feedback us pe share kijiyega. Thik hai? Okay. Thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says people ask for local.\\n\n\\n\nResolution:\\n\n- Executive added water heater and geyser category.\\n- Executive confirmed the previous issue is resolved.\\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback form on email.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- category, catalog, feedback, leads\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3619fd3d-e790-4fc3-840e-77244036c386",
+  "ucid": "3619fd3d-e790-4fc3-840e-77244036c386",
+  "seller_categories": [
+    {
+      "mcat_id": "133834",
+      "mcat_name": "Electric Geyser"
+    },
+    {
+      "mcat_id": "194353",
+      "mcat_name": "Surya Water Heater & Geyser"
+    },
+    {
+      "mcat_id": "11936",
+      "mcat_name": "Gas Geyser"
+    },
+    {
+      "mcat_id": "14066",
+      "mcat_name": "Electric Water Heater"
+    },
+    {
+      "mcat_id": "156787",
+      "mcat_name": "Induction Cooktop"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "668576637",
+  "gluser_id": "24698484",
+  "vintage_months": 30,
+  "bl_dau_oct": 0,
+  "customer_type": "qgFCP with PNS",
+  "city_name": "Baddi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691925",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji sir.\\nExecutive: Madam Sriram baat karwa dijiye baat karni hai.\\nCustomer: Sir abhi na sir yaha mam nahi hai abhi office mein jab bhi aayenge main aapko baat karwa dungi maine unko aapka bataya tha to mam bol rahe the na jab free hongi main tab baat kar lungi.\\nExecutive: Achcha.\\nCustomer: Haan ji sir. Mam aapne Nutrafix company matlab isme abhi band kar di kya aapne?\\nCustomer: Sir main iske bare mein mere ko nahi na knowledge maine aapko kitne din se yahi bol rahi hu ki mere ko iske bare mein nahi pata main aapke sir ke sath baat karwa dungi.\\nExecutive: Matlab yaha pe aapka hi to primary number chala raha hai matlab ispe phone aata hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to Sriram.\\n\n- Asks if Nutrafix company is closed.\\n\n\\n\nResolution:\\n\n- Executive said Sriram is not available.\\n\n- Executive said she doesn't have information about Nutrafix.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, availability, company status\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f0fef6dd-389f-4039-915e-a71022665186",
+  "ucid": "f0fef6dd-389f-4039-915e-a71022665186"
+}

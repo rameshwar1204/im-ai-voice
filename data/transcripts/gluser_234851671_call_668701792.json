@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668701792",
+  "gluser_id": "234851671",
+  "vintage_months": 12,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Zamania",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648321",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello?\\nCustomer: Haan, hello.\\nExecutive: Hello?\\nCustomer: Haan, hello.\\nExecutive: Haan ji sir, mai IndiaMART se baat kar rahi hu.\\nCustomer: Haan, bataiye madam.\\nExecutive: Ji bataiye sir.\\nCustomer: Aap hi se baat hui thi abhi call aaya tha aapka.\\nExecutive: Haan, maine aapko call kiya tha. Aapne aapka feedback aaya hai hamare paas mein.\\nCustomer: Thik hai madam, thank you. Ji. To usi feedback pe, ji?\\nCustomer: Koi baat nahi madam, thik hai.\\nExecutive: Nahi aapke feedback pe discussion karna hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss customer's feedback.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, call, discussion\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95c757b6-ba7d-499c-8f8d-eebe6e4d3af1",
+  "ucid": "95c757b6-ba7d-499c-8f8d-eebe6e4d3af1",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "215236",
+      "mcat_name": "Chappal Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674554421",
+  "gluser_id": "68534822",
+  "vintage_months": 82,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677623",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir bataiye.\\nExecutive: India Mart se bol rahe hain?\\nCustomer: Haan haan ji bataiye.\\nExecutive: Priyanshu ji kab aayenge?\\nExecutive: Sir Priyanshu na aaj chutti pe hai, woh office aaya nahi hai, kahin bahar gaya tha woh.\\nCustomer: Bahar gaye hain kya? Haan, woh shaadi mein, hmm hmm.\\nExecutive: Toh leave ho gaya toh aaj hi nahi hai matlab ji.\\nExecutive: Aaj koi leave nahi aayi hai.\\nCustomer: Haan, woh ek\\nExecutive: Check kijiye thoda.\\nExecutive: Sir aayi hogi, by leads sold out bhi toh ho ja rahi hai na, woh bataya tha na active rehna padega, thoda refresh karte raho aap by leads ko.\\nCustomer: Haan haan.\\nExecutive: Nahi, main ek kaam karti hu, main ek kaam karti hu, aapka pehle ek baar main check kar leti hu ki aaj kitni by leads generate hui hai, theek hai? Uske baad phir main aapko apne number se hi call kar lungi kyunki yeh Priyanshu ka official number hai aur Priyanshu hai nahi toh mere paas call transfer ho gayi hai, theek hai? Main pehle khud check kar leti hu ki kitni by lead aaj ke date mein aapke sold out hui hai, kitni aayi thi, theek hai? Woh main check karke aapko connect karti hu thode time mein. Theek hai. Okay.\\nCustomer: Theek hai, theek hai, theek hai, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked about Priyanshu's availability.\\n\n- Customer inquired about buyleads not being received.\\n\n\\n\nResolution:\\n\n- Executive informed Priyanshu is on leave.\\n\n- Executive will check buylead generation and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after checking buyleads.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, availability, follow up\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2b4fe2d4-583e-4135-9486-0097dac488b6",
+  "ucid": "2b4fe2d4-583e-4135-9486-0097dac488b6",
+  "seller_categories": [
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

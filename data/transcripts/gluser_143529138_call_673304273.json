@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673304273",
+  "gluser_id": "143529138",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Chengamanad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686191",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nCustomer: Ya ma'am. Hello?\\nExecutive: Yes. Aajee Electronics?\\nCustomer: Yes.\\nExecutive: Yeah I'm just asking could you please brief me what discussion you had with the sales person?\\nCustomer: What?\\nExecutive: Can you please brief me what discussion you had with the sales person regarding IndiaMART?\\nCustomer: Uh like uh because he was the person who came here. So my man my owner has spoken with spoken with them. So he given me a call that like some discussion has been happened with their manager and sales person. So in case if you get a call from IndiaMART you can inform them that you will be attending all the meetings or like Google meet whatever they arrange like that people. So I told okay I'll inform them.\\nExecutive: No but field visit is not possible that field visit like some some sales team they will come and visit. In case if you have any enquiry or anything they will arrange for the field visit and come and explain regarding the details that's what they told.\\nCustomer: No no they will not be coming.\\nExecutive: What they have informed only I'm informing you that's it. I can't say yes or no right? That our owner have to decide.\\nCustomer: But from here it is strictly like online only tele servicing we cannot arrange that.\\nExecutive: [inaudible]\\nCustomer: Can you please arrange me a call with please give me the owner's number.\\nExecutive: [inaudible]\\nCustomer: Sorry come again.\\nExecutive: So I am asking please provide me the number of owner so that I can reach out the same because we cannot provide field visit. They are not available they are in hospital so I we can't disturb we don't have a rights to call them directly. So whatever they are informing only yesterday she came she came for the visit but she couldn't talk to you that's what I only attended the call. So she told like this we want a field visit just inform them. That's it.\\nCustomer: But we cannot provide.\\nExecutive: So I can't say yes or no right? Because whatever they are saying only I'm informing.\\nCustomer: So I will just check with admin and I will give you a call back or give me a call back by tomorrow.\\nExecutive: You will check with admin and also with your owner.\\nCustomer: Owner also we will speak what to say or whatever the decision they are making we will check and update you.\\nExecutive: So you are saying that sales person wanted sales person said that they will come to you.\\nCustomer: Ha sales like admin told that they will arrange like a field visit and whatever enquiry you guys have we will clarify it that's what admin told.\\nExecutive: Admin by whom she told?\\nCustomer: Yes they will come to our office and they will clarify everything any doubt or anything if they have like that they told admin told.\\nExecutive: But it is not possible that only I am trying to tell you that every management is telling via tele servicing only right that is the thing.\\nExecutive: Okay but please can we have a call with your owner I need to communicate with her ma'am please try to understand.\\nExecutive: I will check for sir and I will update you. Okay?\\nCustomer: Okay okay fine thank you.\\nExecutive: Okay bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about field visit.\\n\n- Customer wants to talk to the owner.\\n\n\\n\nResolution:\\n\n- Executive informed that field visit is not possible.\\n\n- Executive will check with admin and owner.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- field visit, owner, tele servicing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 257,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=713762b2-bae3-4cfa-b24e-aa67f1ea0c2e",
+  "ucid": "713762b2-bae3-4cfa-b24e-aa67f1ea0c2e",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "44612",
+      "mcat_name": "LED TV"
+    },
+    {
+      "mcat_id": "178011",
+      "mcat_name": "4K TV"
+    },
+    {
+      "mcat_id": "95323",
+      "mcat_name": "Semi Automatic Washing Machine"
+    },
+    {
+      "mcat_id": "179884",
+      "mcat_name": "Android Television"
+    }
+  ]
+}

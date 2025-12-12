@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675382159",
+  "gluser_id": "255601332",
+  "vintage_months": 0,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719566",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji hello good morning.\\nCustomer: Ji Narendra Pratap ji baat kar rahe hain?\\nExecutive: Haan ji.\\nExecutive: Ji ji main India Mart se baat kar rahi hu sir.\\nCustomer: Bataye.\\nExecutive: Haan ye aapne request raise ki thi na sir aapne diya hai Anshika ji ko Anshiraj ji ko.\\nCustomer: Haan ji.\\nExecutive: Haan ye aapne GST share kiya na sir Anshiraj ji ko.\\nExecutive: Anish Raj ji ko Anish Raj.\\nExecutive: Hello.\\nCustomer: Haan ji. Anish Raj?\\nExecutive: Aap Narendra Pratap Singh Panwar ji baat kar rahe hain na Shri Nagar Industries se?\\nCustomer: Haan.\\nExecutive: Ji ji main India Mart se baat kar rahi hu.\\nCustomer: Haan ji bolo.\\nExecutive: Ji ji aapne request bola kiya tha sir ki GST aur sin change ka request kiya tha.\\nCustomer: Nahi request maine to diya nahi unhone wo maangi thi Anshit Jain ji ne.\\nExecutive: Kya ji? Unko di. Maangi thi account manager ne jo account manager hai na mere.\\nCustomer: Achcha achcha achcha. Unhone maangi thi Anshiraj ji ne.\\nCustomer: Haan koi address ke liye change ka wo diya tha maine.\\nExecutive: Achcha achcha address change karana tha aapko.\\nCustomer: Hmm.\\nExecutive: Achcha achcha theek hai to ye concern open kiya hai jaise hi ho jayega fir ek bari connect kar lungi aapko.\\nCustomer: Theek hai.\\nExecutive: Theek hai sir haan to abhi ye concern hai agar jaise hi ho jayega hum aapko bata denge fir.\\nCustomer: Okay theek hai aap isi number pe bhi contact kar lijiyega baki.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested GST and SIN change.\\n\n\\n\nResolution:\\n\n- Executive confirmed the concern is open.\\n\n- Executive will connect once the request is processed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, sin change, address change, request\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8b31e78c-f7d2-4bbe-8e25-4c66fdc43a4c",
+  "ucid": "8b31e78c-f7d2-4bbe-8e25-4c66fdc43a4c",
+  "seller_categories": [
+    {
+      "mcat_id": "5781",
+      "mcat_name": "Patchwork Fabrics"
+    },
+    {
+      "mcat_id": "74676",
+      "mcat_name": "Silk Kaftan"
+    },
+    {
+      "mcat_id": "10618",
+      "mcat_name": "Ladies Jacket"
+    },
+    {
+      "mcat_id": "3465",
+      "mcat_name": "Women Cotton Tops"
+    },
+    {
+      "mcat_id": "6742",
+      "mcat_name": "Dupioni Fabric"
+    }
+  ]
+}

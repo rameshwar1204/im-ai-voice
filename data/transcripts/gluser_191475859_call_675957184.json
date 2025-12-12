@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675957184",
+  "gluser_id": "191475859",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hello. Haan sir, main Priya bol rahi hu IndiaMART head office se.\\nCustomer: Haan, ek minute.\\nExecutive: Haan ji sir, toh ji baat hui aapki?\\nCustomer: Hello.\\nExecutive: Haan sir. Sir aapko aawaz aa rahi hai meri?\\nCustomer: Hello.\\nExecutive: Ek second main call back karu.\\nExecutive: Haan sir, aawaz aa rahi hai kya?\\nCustomer: Haan, aa rahi hai.\\nExecutive: Haan, main bol rahi hu backend team se aapki baat hui? Unhone connect kar liya aapko na?\\nCustomer: Nahi, abhi nahi kara.\\nExecutive: Sir, unhone aapko naya ID share toh kar diya aapki primary mail ID pe jo aapka directors wala hai, aap usko open kariye. Usme aapko dono ID ke password, new credentials share kiye gaye hain. Aap check kariye.\\nCustomer: Madam, mere ko mail toh aaya nahi hai aur na hi koi mail receive hua hai.\\nExecutive: Sir, mail aapko jo aapki official mail ID hai, ek second aapko main bata deti hu jo aapki official mail ID directors wali hai. Directors wali ko aap dekhiye us pe aapko mail receive hua hai?\\nCustomer: Ek second.\\nExecutive: Haan, haan, dekhiye.\\nCustomer: Haan, ye abhi aaya hai.\\nExecutive: Haan, haan, usi ke confirmation ke liye maine aapko bola abhi aaya hai, 5-10 minute hua hoga mushkil se.\\nCustomer: Ji.\\nExecutive: Toh aap ek baar login karke usko dekhiye aur mujhe confirm back kariye so that main aapka concern close kar paun.\\nCustomer: Theek hai.\\nExecutive: Theek hai, aap ek baar login karke mujhe immediately connect kar lijiyega, theek hai?\\nCustomer: Theek hai.\\nExecutive: Okay sir, okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received new login credentials.\\n\nResolution:\\n\n- Executive confirmed mail sent to director's ID.\\n\n- Executive asked customer to check and confirm.\\n\n\\n\nNext Steps: \\n\n- Customer will log in and confirm.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login credentials, mail id, verification\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ab96a05a-49c5-4e27-8c7f-836a3ee7bb65",
+  "ucid": "ab96a05a-49c5-4e27-8c7f-836a3ee7bb65",
+  "seller_categories": [
+    {
+      "mcat_id": "134125",
+      "mcat_name": "Xanthan Gum"
+    },
+    {
+      "mcat_id": "44668",
+      "mcat_name": "Caramel Color"
+    },
+    {
+      "mcat_id": "167106",
+      "mcat_name": "Modified Starch"
+    },
+    {
+      "mcat_id": "111358",
+      "mcat_name": "Soya Lecithin"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    }
+  ]
+}

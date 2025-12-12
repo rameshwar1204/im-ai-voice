@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672756742",
+  "gluser_id": "244836282",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello. Hello. Uh, can I speak with Mr. Sanket?\\nExecutive: Uh, no ma'am, actually he's busy. I'm Gunjan.\\nCustomer: Uh, okay. Uh, actually ma'am, I am Yashika ma'am, your account manager. Yes ma'am, I know.\\nExecutive: Yes ma'am. Actually, uh, five like five, 10 minutes before, Sangeet sir called me. Yes ma'am, yes ma'am. He called you but right now he's busy. Uh, will he make you call in 15 to 20 minutes?\\nCustomer: Okay ma'am. Okay ma'am. Is it okay?\\nExecutive: Yeah, it's okay. I'm waiting.\\nCustomer: Okay ma'am. Thank you.\\nCustomer: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak with Mr. Sanket.\\n\n\\n\nResolution:\\n\n- Executive informed Sanket is busy.\\n\n- Executive offered a call back in 15-20 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 15-20 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, executive, account manager\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=87c14aeb-d135-4042-ad92-9ad587bdd447",
+  "ucid": "87c14aeb-d135-4042-ad92-9ad587bdd447",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "192697",
+      "mcat_name": "Honeywell Bullet Camera"
+    },
+    {
+      "mcat_id": "85186",
+      "mcat_name": "Bottle Labelling Machine"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    }
+  ]
+}

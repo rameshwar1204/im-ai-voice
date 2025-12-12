@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666983088",
+  "gluser_id": "1313795",
+  "vintage_months": 72,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Mohali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9688043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Main Anan bol raha tha IndiaMART se.\\nCustomer: Haan ji sir.\\nExecutive: Main keh raha tha woh, main keh raha tha ki woh mam ne abhi bola tha na group mein ki woh video meeting kal karenge aaj kahi postpone ho gaya.\\nCustomer: Haan ji, haan ji.\\nExecutive: Toh woh kahi, toh main yeh concern na gross kar raha tha, unhone bol, maine likha bhi tha ki yeh concern close karo. Toh woh mera ek feedback aayega. Aapke paas phone mein open hai IndiaMART ya mail pe open hai? Yeh matlab system mein hai ya phone mein?\\nCustomer: System mein hai sir.\\nExecutive: Phone mein nahi hai?\\nCustomer: Nahi.\\nExecutive: Achcha aur woh mail toh mam ke paas bhi hoga.\\nCustomer: Haan ji, haan ji.\\nExecutive: Ki, yeh wali mail ID kispe thi, kispe thi bhai? Haan ji. Ek minute rukiye, yeh wali mail kiske paas hai yeh bata dijiye mujhe ek minute.\\nCustomer: Humme waise bhi shayad allowed nahi hoga sir. Nahi nahi koi baat nahi aap, mam se hi main baat kar lunga. Lekin ek baar bas yeh mujhe mail bata dijiye mam ka hi hai kis ka hai.\\nExecutive: IndiaMART pe dala hua hai.\\nExecutive: Kulwinder sir ka hai. Okay.\\nCustomer: Haan ji.\\nExecutive: Theek hai. Theek hai. Theek hai toh main unhi ko kar leta hu.\\nCustomer: Haan ji, haan ji, koi baat nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs to know email ownership.\\n\n\\n\nResolution:\\n\n- Customer informed it belongs to Kulwinder sir.\\n\n\\n\nNext Steps: \\n\n- Executive will contact Kulwinder sir directly.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, meeting, indiamart\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2bca1075-5d0a-412f-aa36-a6bb47b9129e",
+  "ucid": "2bca1075-5d0a-412f-aa36-a6bb47b9129e",
+  "seller_categories": [
+    {
+      "mcat_id": "185010",
+      "mcat_name": "ABB VFD"
+    },
+    {
+      "mcat_id": "181622",
+      "mcat_name": "Yaskawa AC Drive"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "25555",
+      "mcat_name": "DC Drives"
+    },
+    {
+      "mcat_id": "187165",
+      "mcat_name": "Parker AC Drives"
+    }
+  ]
+}

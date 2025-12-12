@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675630437",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a11de450-ad21-45ad-8391-608e8f5d6ea0",
+  "ucid": "a11de450-ad21-45ad-8391-608e8f5d6ea0",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

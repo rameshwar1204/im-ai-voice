@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672115325",
+  "gluser_id": "119812437",
+  "vintage_months": 50,
+  "bl_dau_oct": 28,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9683709",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji.\\n\\nExecutive: Haan ji, Parvej ji.\\nCustomer: Parvej ji, Shubham baat kar raha hu sir IndiaMART head office se.\\nExecutive: Haan boliye boliye.\\nExecutive: Ji sir aap 9696 pe lagayenge to bhi hamare paas hi aayega sir call to.\\nCustomer: Malum hai, malum hai to aapne bola tha call sense nahi le raha fir aapko call cut gaya. Ab main dobara call kar raha hu to uthaya nahi.\\nExecutive: Sir, sir Ranjeet ke samne khada hu abhi bhi dusri call pe hai. Aap samajhiye to main kyu nahi karaunga call.\\nCustomer: Aapne bola main call pe le raha.\\nExecutive: Sir aap mujhko ye to bol dete na ki 5-10 minute dijiyega.\\nCustomer: Maine ye bola pehle ki main\\nExecutive: Maine ye bola ki main call kara raha hu sir aapki call isliye Ranjeet baat kariye.\\n\\nExecutive: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\nExecutive: Haan apna WhatsApp on karna please.\\nCustomer: Haan sir kar raha hu sir.\\n\\n\\nExecutive: Thik hai matlab ki Shweta mam se inki baat chal rahi hai na?\\nCustomer: Hmm.\\nExecutive: Wahi hai lekin sunko lijiyega baat puri.\\nCustomer: Haan.\\nExecutive: Shweta mam ne dekho 10 tarikh ko valid aayi aur time line time bhi dekhna chahe to kuch Shweta mam 10:15 baje aati hai to unhone mere hisab se jo dala hai 10:27 ekdum exact time pe dala hai, thik hai.\\nCustomer: Haan.\\nExecutive: Haan 10:27 mein dal diya.\\nCustomer: Main unko galat nahi keh sakta.\\nExecutive: Thik hai. Unhone reply bhi 10:28 mein kiya hai jaha par tak main dekh raha hu.\\nExecutive: Thik hai.\\nCustomer: Client ne uske baad inhone meri client ne bola okay thik hai. 300 and dono rate bhi \u20b96.30 paise ki rate ki baat hui thik hai packing pucha thik hai uske baad unse on call baat hui Shweta ji.\\nExecutive: Sir suniye suniye main apne number se call kar raha hu.\\nCustomer: Sir.\\nExecutive: Main apne number se call kar raha hu sir wo sir ka phone hai to main unko de raha hu aap main aapko call kar raha hu thik hai.\\nCustomer: Please karo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call was disconnected earlier.\\n\n- Call was not picked up when customer called again.\\n\n\\n\nResolution:\\n\n- Executive explained the reason for the call delay.\\n\n- Executive confirmed Shweta mam is handling the client.\\n\n- Executive offered to call from his personal number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- call delay, whatsapp, client, follow up\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 146,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c6412dee-79d7-453c-913b-d0469c1bc87c",
+  "ucid": "c6412dee-79d7-453c-913b-d0469c1bc87c",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    },
+    {
+      "mcat_id": "612",
+      "mcat_name": "Glass Bottles"
+    }
+  ]
+}

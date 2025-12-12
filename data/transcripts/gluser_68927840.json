@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668052197",
+  "gluser_id": "68927840",
+  "vintage_months": 9,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Raipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638821",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji bataiye.\\nCustomer: Haan sir, good morning.\\nExecutive: Ji, morning.\\nCustomer: Haan sir. Sir woh jo aap kal bol rahe the ki kisi aur ko access dena hai aapko IndiaMART wali.\\nExecutive: Nahi woh theek hai na isko band kar dijiye matlab.\\nCustomer: Kya sir?\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about giving access to IndiaMART.\\n\nResolution:\\n\n- Executive asked to close it.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart access, closing account\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d84a0aee-f97a-4ce0-85b1-6de4ecdca78e",
+  "ucid": "d84a0aee-f97a-4ce0-85b1-6de4ecdca78e",
+  "seller_categories": [
+    {
+      "mcat_id": "43604",
+      "mcat_name": "Architectural Services"
+    },
+    {
+      "mcat_id": "173013",
+      "mcat_name": "Building Plan Service"
+    },
+    {
+      "mcat_id": "175957",
+      "mcat_name": "Land Survey Consultancy Service"
+    },
+    {
+      "mcat_id": "78452",
+      "mcat_name": "Architectural Designing Services"
+    },
+    {
+      "mcat_id": "170042",
+      "mcat_name": "Civil Engineering Consultants"
+    }
+  ]
+}

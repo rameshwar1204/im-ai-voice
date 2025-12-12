@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669488867",
+  "gluser_id": "214802960",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Bhind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663526",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hanji sir.\\nCustomer: Ji namaste mam.\\nExecutive: Namaste sir, bataiye sir.\\nCustomer: Mam ek maine party ko order kiya hua tha Indiamart se.\\nExecutive: Hmm Indiamart through.\\nCustomer: Aur wo party order karne ke baad hame mal nahi pahucha rahi hai.\\n\\nCustomer: Payment uska ho chuka hai.\\nExecutive: Achcha.\\nCustomer: Indiamart ke paid customer the wo?\\nExecutive: Ji.\\nExecutive: Achcha amount aap pay kar chuke hain unko?\\nCustomer: Ji mam.\\nExecutive: Aap pura concern sir aapki jo registered email id hai usse mail kar sakte hain?\\nCustomer: Ha mam aap thoda mujhe bataiye kaise ho sakta hai. Customer care@indiamart.com aap ispe mail kar dijiye sir jo bhi concern hai aapka pura. Usme unka naam mention kar dijiyega company ka naam aur unka mobile number jo bhi details hai unki aur jo aapne mal order kiya tha wo bhej dijiyega aur kitna aapne amount pay kiya hua hai unko.\\nCustomer: Ah mam thoda aap ek baar.\\nExecutive: Ha email id main note down kara deti hu aapko wapas se. Customer care. Main abhi kar raha hu abhi aap main abhi main kar raha hu aap thoda mujhe aap batate chaliye abhi line pe reh ke.\\nExecutive: Ji.\\nCustomer: Ha apna jo email id register hai Indiamart se wo usse bheje.\\nExecutive: Hmm.\\nExecutive: Aapka email id puch rahe hai hum kaunsa hai?\\nCustomer: Nahi maine Gajanan Ayurved 01 karke hai. Ha main Indiamart abhi jo Indiamart ki email id hai aap note down kariye customer care@indiamart.com.\\nExecutive: Ha.\\nCustomer: Mam send pe ja ke hota hai na mam.\\nExecutive: Ha send me ja ke.\\nCustomer: Ha.\\nExecutive: Ji mam bataiye. Two me ja ke hoga two me ja ke two me enter kariye customer care@indiamart.com.\\nCustomer: C U S T O M customer care@. Ji mam.\\nExecutive: Customer care.com. Yes yes yes aa gaya?\\nCustomer: Ji mam.\\nExecutive: Hanji abhi usme daliye matlab jo aapko likhna hai wo likhiye ki aapne ek order kiya tha I order kya aapne kaunsa item order kiya tha?\\nCustomer: Ah dalchini, ilaichi aur matlab char panch item hai.\\nExecutive: Ha usme mention kijiye I ordered this this this item from Indiamart seller.\\nCustomer: Mam ek bar fir mam main abhi kya hai thoda kam nahi kar raha thoda matlab jyada item ka wo hai is wajah se aap bataiye. Kya hai sir? Matlab payment jyada hua hai 57000 ke aas pass ka hai. Aap likhiye hi team hi Indiamart team.\\nExecutive: Aur.\\nCustomer: Aap matlab two ko maine two customer id kiya ab iske baad main kya message likhu ye bataiye aap. \\nExecutive: Message likhna hai hi Indiamart team.\\nCustomer: Hi Indiamart team.\\nExecutive: Indiamart Indiamart team. Ha usme niche ja ke likhiye fir enter mar team. \\nCustomer: Indiamart team.\\nExecutive: T E A M team. Mam. Ah ek minute mam main thoda ek baar aur inke yaha kar ke dekhta hu shayad dealer sahi ho.\\nCustomer: Ek baar baat kar ke dekh lo unse.\\nCustomer: Ji mam main karta hu. \\nExecutive: Hai na?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer ordered items, payment done, items not received.\\n\n- Wants to know what message to write in email.\\n\n\\n\nResolution:\\n\n- Executive provided email ID to register complaint.\\n\n- Guided customer on how to draft the email.\\n\n\\n\nNext Steps: \\n\n- Customer will try contacting the dealer again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- order, payment, email, items\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 239,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=980b9481-c126-4996-a692-b523119fa45f",
+  "ucid": "980b9481-c126-4996-a692-b523119fa45f",
+  "seller_categories": [
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "4937",
+      "mcat_name": "Ashwagandha Powder"
+    },
+    {
+      "mcat_id": "4751",
+      "mcat_name": "Amla Powder"
+    },
+    {
+      "mcat_id": "150749",
+      "mcat_name": "Triphala Powder"
+    },
+    {
+      "mcat_id": "184226",
+      "mcat_name": "Shatavari Root"
+    }
+  ]
+}

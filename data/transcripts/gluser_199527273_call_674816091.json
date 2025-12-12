@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674816091",
+  "gluser_id": "199527273",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709465",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji sir boliye na.\\nCustomer: Mam main bol raha hun account close karna ko karne ko bola tha kya hua account close nahi hua abhi tak mein.\\nExecutive: Kahan se baat kar rahe hain aap?\\nCustomer: Main Kolkata se baat kar raha hun.\\nExecutive: Wahi aapka company name sir.\\nCustomer: AMK Bygel Ariwar.\\nExecutive: Haan haan sir us pe na kam abhi chal raha hai mam ne baat ki hogi usme sir 10-12 din to lagte hain na.\\nCustomer: Achcha.\\nExecutive: Kyunki mam system pura process karta hai har cheez hoti hai sir approval lagte hain.\\nCustomer: Smart trading lagayenge to smart trading to ho gaya.\\nExecutive: Kya ho gaya?\\nCustomer: Smart trading to ho gaya complaint kiya tha panch che din ho gaya.\\nExecutive: Sir aapki complaint ke panch che din nahi aapne complaint kiya uske baad jab mam ne baat kari thi aapse kari thi Friday ko baat hai na aap aap\\nCustomer: Sunday ko off hota hai sabhi chutti pe rehte hain.\\nExecutive: To ab Monday ki thi aur aaj ho jayega aapka approval section se waha se accounts team aapka calculate karke jitna bhi use hua hoga wo deduct karke aapka account initiate kar degi to aapke fir uske baad sir che se saat din ke working days mein aapke pass aa jayega aapke bank account mein.\\nCustomer: Theek hai.\\nExecutive: Okay.\\nExecutive: Theek hai.\\nExecutive: Aur ek baat.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's account closure is still pending.\\n\nResolution:\\n\n- Executive explained the account closure process.\\n\n- Executive assured account closure will be initiated today.\\n\n- Executive informed refund will take 6-7 working days.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- account closure, refund, smart trading\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=021e4230-8991-4ffc-b44f-94960430e02b",
+  "ucid": "021e4230-8991-4ffc-b44f-94960430e02b",
+  "seller_categories": [
+    {
+      "mcat_id": "80226",
+      "mcat_name": "Designer Blouse"
+    },
+    {
+      "mcat_id": "4478",
+      "mcat_name": "Blouse Pieces"
+    },
+    {
+      "mcat_id": "173806",
+      "mcat_name": "Aari Embroidery Work"
+    },
+    {
+      "mcat_id": "6911",
+      "mcat_name": "Embroidered Blouses"
+    },
+    {
+      "mcat_id": "68551",
+      "mcat_name": "Fashion Blouse"
+    }
+  ]
+}

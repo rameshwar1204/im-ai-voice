@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669855657",
+  "gluser_id": "247924520",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hardoi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662647",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, good afternoon ma'am.\\nCustomer: Good afternoon.\\nExecutive: Ma'am, main Avadh been biotech se baat kar rahi hoon. Hamara IndiaMART pe registration hai.\\nCustomer: Haan ji, main Palak bol rahi hoon.\\nExecutive: Accha ma'am Palak bol rahi hain. Wahi ma'am call kiya tha maine isliye kyunki wahi Aryan sir se baat hui thi to wo bol rahe the ki customer care number pe call kariye tab wahan se close ho sakta hai aapka.\\nCustomer: Kya, kis TrustSeal ka na?\\nExecutive: Wo haan TrustSeal ka ma'am.\\nExecutive: Abhi ma'am nahi aayega aapko abhi seven days hi live hue hue hain. Aapko maine bola tha ki usme time lagta hai TrustSeal.\\nCustomer: Accha nahi Aryan sir ne bola ki customer care se baat kar lo to fir wo close karwa dete hain to maine kaha theek hai.\\nExecutive: Nahi actually aapko jo bhi concern hota hai aap kahin bhi call karenge mere paas hi aayega ghoom karke kyunki main aapki account manager hoon.\\nCustomer: Accha okay ma'am okay okay.\\nExecutive: Okay. Theek hai thank you aap mujhe update dijiyega.\\nCustomer: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding TrustSeal closure.\\n\n\\n\nResolution:\\n\n- Explained TrustSeal takes time.\\n\n- Clarified all concerns will come to account manager.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, account manager, customer care\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=66961335-8d00-496f-8bd1-0f4ac81c0fb9",
+  "ucid": "66961335-8d00-496f-8bd1-0f4ac81c0fb9",
+  "seller_categories": [
+    {
+      "mcat_id": "154572",
+      "mcat_name": "Eucalyptus Clone Plants"
+    },
+    {
+      "mcat_id": "215803",
+      "mcat_name": "Poplar Plant"
+    },
+    {
+      "mcat_id": "186261",
+      "mcat_name": "Eucalyptus Plant"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    }
+  ]
+}

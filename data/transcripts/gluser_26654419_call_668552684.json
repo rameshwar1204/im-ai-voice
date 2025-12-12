@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668552684",
+  "gluser_id": "26654419",
+  "vintage_months": 15,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Hindupur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "The person you have called is speaking to someone else. You can wait.\\nHello\\nCustomer: Hello\\nExecutive: Yes.\\nCustomer: Ya, Keshi Polymer Private Limited.\\nExecutive: Yeah, sure, tell me.\\nCustomer: Ya sir, Vijay sir Vijay Agrawal bol raha hu manager India.\\nExecutive: Ha tell me Vijay Agrawal thank you tell me.\\nExecutive: Bas badhiya sir wo maine aapka account manager change karwa diya tha sir maine theek hai.\\nCustomer: Ha to Nitish se aapka baat ho gaya hoga sir.\\nExecutive: Are mere ko pre insulated pipe uska pura pre uska chaiye aur pipe section HDPE pipe fitting CPVC pipe fitting and everything. Hello.\\nCustomer: Hamare ko hamare ko south india chaiye PVC CPVC UPVC pura.\\nExecutive: Ji sir bilkul theek hai aur mere khayal se kya naam hai Nitish ne video meeting karke aapke sare product vagera update bhi kar diye sir.\\nCustomer: Ha theek hai kar lo.\\nExecutive: Kya naam hai sara ka pura ka pura catalog usne aapke aankho ke aage sab kuch sahi karke diya sir aapko.\\nCustomer: Ha okay theek hai kar lo.\\nExecutive: Right taki aapko koi bhi issue in future aapko wo na aaye theek hai baki koi bhi dikkat aata hai sir mera number aapke pass available hai theek hai Nitish ka number aapke pass available hai koi bhi problem aata hai aap hamare pass direct call bhi aap kar sakte hai hamare number pe.\\nCustomer: Ha theek hai right.\\nExecutive: To theek hai to ke liye.\\nCustomer: Okay theek hai main ek minute main abhi theek hai okay abhi theek hai main thoda busy pe hai main baad me karta theek hai.\\nExecutive: Koi nahi main aapka tension close kar raha hu main aapka theek hai.\\nCustomer: Ha theek hai right.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs pre-insulated pipes and fittings.\\n\n- Customer needs PVC, CPVC, UPVC in South India.\\n\n\\n\nResolution:\\n\n- Executive confirmed account manager was changed.\\n\n- Executive confirmed Nitish updated product catalog via video meeting.\\n\n- Executive provided his and Nitish's contact numbers.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pipes, fittings, catalog, account manager\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d616a99f-9eb6-4337-908d-1eb0a5f1260b",
+  "ucid": "d616a99f-9eb6-4337-908d-1eb0a5f1260b",
+  "seller_categories": [
+    {
+      "mcat_id": "2046",
+      "mcat_name": "Underground HDPE Pipes"
+    },
+    {
+      "mcat_id": "215274",
+      "mcat_name": "PUF Insulated Roofing Panel"
+    },
+    {
+      "mcat_id": "42921",
+      "mcat_name": "Pipe Insulation Sections"
+    },
+    {
+      "mcat_id": "222298",
+      "mcat_name": "HDPE Pipe"
+    },
+    {
+      "mcat_id": "159887",
+      "mcat_name": "PUF Pipe Section"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666779196",
+  "gluser_id": "21807851",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haanji sir.\\nExecutive: Kaise phone kat gaya?\\nCustomer: Pata nahi sir kaise kat gaya. Nahi pata nahi aksar ji jo hai jyada hi busy hai humse to matlab.\\nExecutive: Are nahi nahi nahi sir busy ki baat hi nahi hai.\\nCustomer: Aapka hmm usme. Office mein to kabhi maine phone pick hi nahi kiya hua aisa hui nahi hota hi nahi hai usme aapka chalo.\\nExecutive: Jo basically dekho policy aur us cheez mein se upar nahi badh sakte usme yaar hai na jo IndiaMART jo hai na dekho sab.\\nCustomer: Aapke hathon mein hai koi policy koi kuch nahi hoti hai. Jo aap log karte ho jo aap log dikhate ho wohi sab kuch hai. Theek hai? Jo portal hi aapke haath mein hai woh sab cheezon ka to kya karein kuch nahi kar sakte. Portal mein dekho promotion visibility hai mere pe mere pe dekho behind call aaya tha hai na aap chaho na aap chaho na kisi aadmi ko raaton raat crorepati bana do. Theek hai? Aap chaho to us raaton raat matlab aap logon ke haath mein.\\nExecutive: Sir aise aise mere haath mein to sabse pehle raaton raat crorepati main IndiaMART se aapke IndiaMART aapke haath mein nahi IndiaMART ke haath mein matlab IndiaMART aap abhi represent kar rahe ho IndiaMART ko. Hmm. Theek hai? Aisa nahi hai matlab.\\nCustomer: Dekho yahan dekho woh samajh raha hun sir mere haath mein hota hai na hai na as woh cheez hoti hai hai na agar kuch hota to IndiaMART hi provide karti hai na usme hai na aap kya baat kar rahe ho sab kuch sab kuch haath mein hai aap log matlab yeh yeh to aapne monopoly bana rakhi hai aur kuch nahi hai sab kuch haath mein hai.\\nExecutive: Theek hai?\\nCustomer: To aap yeh mat bolo ki nahi haath mein nahi hai isliye abhi abhi chalo theek hai baad mein baat karte hain mere ko thoda sa kaam hai main kal aapko call karunga theek hai na aap call pe karna mere ko na ke related discuss karna mujhe feedback aaya tha kuch hamari kuch category hai usme hamare ko unhone bola hai ki aapke product addition karne ke liye to ek baar main discuss karke karunga matlab jaise oxygen plant generator hai na usme single product hai to aap mujhe aap mujhe jo hai na haan aap mujhe na 1:30 baje call kijiyega please.\\nExecutive: 1:30 baje na time hai.\\nCustomer: Haan. Theek hai? Theek hai 1:30 ya 3:00 ke beech mein hum aapko matlab 1:30 ya after 3:00 mein aapko kar dete hain hai na.\\nExecutive: Haan 1:30 kar lunga free nahi honge to hum 5:00 baje se pehle 5:00 baje se pehle 5:00 baje ke baad main nahi bolne wala hun 5:00 baje se.\\nExecutive: Bilkul bilkul sir bilkul.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call got disconnected.\\n\n- Wants product addition in the category.\\n\n\\n\nResolution:\\n\n- Executive assured to call back at 1:30 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, product addition, category\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 142,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bf011bf1-c2f3-4f5f-88f1-81a1f6c07743",
+  "ucid": "bf011bf1-c2f3-4f5f-88f1-81a1f6c07743",
+  "seller_categories": [
+    {
+      "mcat_id": "1394",
+      "mcat_name": "Oxygen Plant and Generator"
+    },
+    {
+      "mcat_id": "32741",
+      "mcat_name": "Nitrogen Generators"
+    },
+    {
+      "mcat_id": "42148",
+      "mcat_name": "PSA Oxygen Plants"
+    },
+    {
+      "mcat_id": "42147",
+      "mcat_name": "PSA Nitrogen Gas Plants"
+    },
+    {
+      "mcat_id": "191158",
+      "mcat_name": "Medical Oxygen Plant"
+    }
+  ]
+}

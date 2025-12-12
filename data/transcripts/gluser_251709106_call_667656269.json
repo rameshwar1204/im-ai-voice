@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667656269",
+  "gluser_id": "251709106",
+  "vintage_months": 1,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello, hello.\\nExecutive: Ha mam, mai Vijay baat kar raha hu, Sri Radha Rani Enterprise se.\\nCustomer: Ji bataiye sir.\\nExecutive: Mam ek Srinagar ki party hai, wo mere se maal lena chahti hai.\\nCustomer: Ji?\\nExecutive: Aap IndiaMART se baat kar rahi hai na?\\nCustomer: Ha ji ha ji mai IndiaMART se baat karti hu.\\nExecutive: Ha ha.\\nExecutive: Ek party hai Srinagar ki wo maal lena chahti hai, uska maal ab sab tayar hai to wo payment dalne ke liye bol rahi hai ki mai aap mujhe bill bhej dijiye tab mai payment dalunga. Mai aise kaise maal payment kar dunga aapko.\\nCustomer: Nahi nahi aap aise mat kariyega, aap aise mat kariyega.\\nExecutive: Hmm.\\nCustomer: Aap bolo unse ki aap mujhe advance payment karo tabhi hum maal deliver karenge warna maal nahi deliver karenge.\\nExecutive: Ha, maine yahi bola hai unko, wo keh rahe hai ki mai, maine aapko dekha nahi hai, mai aapko janta nahi hu to mai kaise maal aapko paise dal dunga.\\nCustomer: Keh do aap video call kar lo, hamari company dekh lo. Hamari company dekh lo, hame dekh lo.\\nExecutive: Maine bola unko, nahi nahi, hamari company kaha par hai.\\nExecutive: Maine unko bola maine apni GST bhi di unhe, apna Aadhar card details bhi dal diya, fir bhi unhe yakin nahi aa raha.\\nCustomer: Sir aapki company ka naam kya hai?\\nExecutive: Sri Radha Rani Enterprise ke naam se hai.\\n\\nCustomer: Aap Pawan sir baat kar rahe hai?\\nExecutive: Nahi, Vijay.\\nCustomer: Okay okay Mr. Vijay, ha yaad aa gaya. Aap se last conversation hui thi meri.\\nExecutive: Ha ha. Aap se baat hui thi.\\n\\n\\n\\nCustomer: Aap jis vyakti se baat kar rahe ho.\\nExecutive: Hello.\\nCustomer: Ji sir bataiye aap.\\nExecutive: Hello.\\nExecutive: Ha mam, Vijay baat kar raha hu mai Sri Radha Rani Enterprise se.\\nCustomer: Sir mai ye bol rahi hu aap se, aap jo hai na apna jo bhi aapka hai product aap usko deliver mat karaiyega, aap jo hai na unse bolo advance payment ke liye fir apna product deliver karaiyega aap.\\nExecutive: Nahi nahi wo to mai kara du, aise hi maine bola hai unse jab tak aap payment nahi dalenge.\\nCustomer: Us case me, majorly case me hota kya hai ki bande ko product mil jata hai uske baad wo payment nahi karta hai.\\nExecutive: Ha.\\nCustomer: Fir fir dikkat hogi, hamare end pe bhi dikkat hogi.\\nExecutive: Ha ha, mai yahi puchne ke liye maine aapko call kiya jaise koi beech ka rasta hota mujhe bata dijiye guide kar dijiye.\\nCustomer: Nahi sir beech ka rasta to nahi hoga, aap jo hai na aap product mat deliver karo unse bolo advance payment ke liye agar maan jate hai to badhiya baat hai nahi mante hai to fir aap thik hai mat karo koi aur deal nikal aayegi aap waha pe apna product.\\nExecutive: Nahi nahi wo sab to ho jayegi fir warna aur koi deal to fir milegi wo to thik hai ji.\\nExecutive: Thik hai mam.\\nCustomer: Thik hai, thank you sir.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about advance payment.\\n\nResolution:\\n\n- Executive advised to ask for advance payment.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- advance payment, product delivery, deal\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 196,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a1a4a32d-4b87-4e8e-87d2-9ec011f6aea0",
+  "ucid": "a1a4a32d-4b87-4e8e-87d2-9ec011f6aea0",
+  "seller_categories": [
+    {
+      "mcat_id": "29429",
+      "mcat_name": "Glass Balls"
+    },
+    {
+      "mcat_id": "17362",
+      "mcat_name": "Marble Ball"
+    },
+    {
+      "mcat_id": "24400",
+      "mcat_name": "Colour Stones"
+    },
+    {
+      "mcat_id": "12084",
+      "mcat_name": "Glass Pebbles"
+    },
+    {
+      "mcat_id": "34768",
+      "mcat_name": "Pebble Stone"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676494106",
+  "gluser_id": "211869916",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Siddapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello? Hello.\\nCustomer: Haan ji sir, haan ji sir.\\nExecutive: Shahnawaz ji se connect kar sakte ho kya?\\nCustomer: Haan sir, haan haan Shahnawaz actually sir abhi dusre call pe hai aur isiliye call mere pass land hua hai sir.\\nCustomer: Okay.\\nExecutive: Haan agar wo free ho jaye.\\nCustomer: Achcha ji bataiye.\\nExecutive: Aapko aapko aapko mera bylead ko kya hua open nahi ho raha hai na?\\nExecutive: Open nahi ho raha hai? Ek second rukiye.\\nCustomer: Okay.\\nExecutive: Aapka Sadguru hai na sir?\\nCustomer: Haan Sadguru Sadguru.\\nExecutive: Sadguru, ek second rukiye. Aap kya keh rahe ho ki bylead nahi hai matlab purchase nahi ho raha hai aap ye keh rahe ho?\\nCustomer: Open nahi ho raha hai wo gold platinum wo sab purchase karna chahe aisa dikh raha hai mujhko.\\nExecutive: Sir wo na might be jo lead aap purchase karne ja rahe honge na wo lead aapki sold out ho gayi hogi isliye aur dusri cheez ye hai ki aap sir aapke pass account mein credit points nahi hai.\\nExecutive: Aapke pass zero balance hai. Aapne is week ka jitna tha sab aapne consume kar liya hai sir.\\nCustomer: Kitna milega ek hafte mein to\\nExecutive: 17 milta hai. Daily ek milta hai aur daily ek milta hai aur 10 10 weekly milta hai to 17 milta hai sir hafte mein.\\nCustomer: Aaj aaj ka consume hua kya jara check karke bata sakte hai sir?\\nExecutive: Haan haan aaj ka consume hua hai main bata deti hu.\\nExecutive: Aaj ka aapne haan aapne 28 November ko ek lead consume kar liya hai sir subah.\\nCustomer: Aaj ka aaj subah?\\nExecutive: Haan haan aaj subah aap aaj subah nahi kiya aapne sir aapne 3:30 baje ke approx 1553 pe kiya hai aapne lead consume aaj.\\nExecutive: Goa ka ek customer tha organic fertilizer and manual karke chahiye tha unko.\\nCustomer: Haan yaad aa gaya sir.\\nExecutive: Daily ek milega aur weekly kitna milega wo english mein bata sakte hai kya wo digit hota hai.\\nExecutive: Sir 10 10.\\nCustomer: Okay.\\nExecutive: Weekly 10 daily bonus one. Entire in a week you are getting 17 baggies 17.\\nCustomer: Okay thank you thank you.\\nExecutive: Okay.\\nExecutive: Anything else that you want to discuss sir?\\nCustomer: Thank you madam thank you koi nahi.\\nExecutive: Sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to open buyleads; showing purchase options.\\n\n- Enquired about weekly buylead credits.\\n\n\\n\nResolution:\\n\n- Informed lead might be sold out.\\n\n- Explained zero balance due to consumed credits.\\n\n- Explained weekly and daily buylead credits.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, credit points, subscription\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 176,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b98f179-4ac9-4232-81a4-7cafc4a963b0",
+  "ucid": "7b98f179-4ac9-4232-81a4-7cafc4a963b0",
+  "seller_categories": [
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "222754",
+      "mcat_name": "Phosphate Rich Organic Manure (PROM)"
+    },
+    {
+      "mcat_id": "136009",
+      "mcat_name": "Garden Manure"
+    },
+    {
+      "mcat_id": "84651",
+      "mcat_name": "Micronutrient"
+    }
+  ]
+}

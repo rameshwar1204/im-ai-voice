@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674731133",
+  "gluser_id": "141896421",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Wadhwan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703136",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ha bolo.\\nExecutive: Hali mam main Nilesh bhai se baat ho sakti hai?\\nCustomer: Nahi abhi nahi hai boliye na aap kahan se?\\nExecutive: India mart se baat kar raha tha mam.\\nCustomer: Ha kahiye kya naam tha?\\nExecutive: Mam ye apni service chal rahi thi na beauty to isi ke regarding connect kiya tha ek matlab aapke account manager ne aap call kiya hoga us sir ne call back kiya tha to wo call utha nahi pa jiski vajah se ticket open ho gayi thi to wahi main janna chah raha tha koi issue vagera aa raha hai India mart se service vagera kaisi chal rahi hai mam.\\nCustomer: Ha aap ek kam kar sakte hai secondary number hai us pe call kar sakte hai ye wala hai aur jo secondary wala hai na us pe kariye aap.\\nExecutive: Theek hai mam.\\nCustomer: Achcha matlab ye handle kaun karta hai mam service Nilesh bhai karte hain ya fir?\\nCustomer: Nahi main hi karti hu lekin issue Nilesh bhai ko tha.\\nExecutive: Achcha achcha aur function main hu ha.\\nCustomer: Okay okay.\\nExecutive: Achcha koi nahi matlab aapne call kiya hoga apne account manager ko to ek ticket open ho gayi hogi matlab hota hai na unhone call kiya hoga aap utha nahi payenge fir aapne call kiya wo nahi utha paye.\\nCustomer: Ha.\\nExecutive: To main abhi ke liye aapka ye concern close kar deta hu mam theek hai koi issue to nahi aa raha na service mein mam se.\\nCustomer: Aap secondary number pe call kijiye close kyu karna hai aap secondary number pe call karke baat kar lijiye.\\nExecutive: Theek hai theek hai mam.\\nCustomer: Okay mam secondary pe kar leta hu.\\nCustomer: Okay mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about service satisfaction.\\n\nResolution:\\n\n- Customer asked to call on secondary number.\\n\nNext Steps: \\n\n- Executive will call on secondary number.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, secondary number, ticket\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f254d3d-9592-4e5f-a4ea-280f7248f8ce",
+  "ucid": "5f254d3d-9592-4e5f-a4ea-280f7248f8ce",
+  "seller_categories": [
+    {
+      "mcat_id": "179913",
+      "mcat_name": "Shaving Gel"
+    },
+    {
+      "mcat_id": "32134",
+      "mcat_name": "Massage Creams"
+    },
+    {
+      "mcat_id": "22970",
+      "mcat_name": "Body Lotions"
+    },
+    {
+      "mcat_id": "3267",
+      "mcat_name": "Aloe Vera Gel"
+    },
+    {
+      "mcat_id": "6221",
+      "mcat_name": "Face Scrub"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671955353",
+  "gluser_id": "255085984",
+  "vintage_months": 0,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9668867",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nHello\\n\\nHello\\nExecutive: Hello\\nCustomer: Hmm, kaise ho sir aap?\\nExecutive: Badhiya ji.\\nCustomer: Haan, IndiaMART se Sachin Kaushik baat kar raha tha sir.\\nExecutive: Ji sir.\\nCustomer: Right, kal aapne hi call ki thi ya kisi ne ki thi sir mere paas parso?\\nExecutive: Sir dusre number se call aayi hogi mere aapke paas.\\nCustomer: Achcha dusre number se call aayi thi?\\nExecutive: Ji ji.\\nCustomer: Achcha achcha right to usi number pe call karu sir ya aap se bhi baat ho payegi abhi?\\nExecutive: Sir kya kahun baat to hone mein koi dikkat nahi hai lekin baat aapko unse karni padegi do mere bande hain team mein ek Farukh hai.\\nCustomer: Hmm, unhi me se ek hai.\\nExecutive: Farukh Kumar ji.\\nCustomer: Ji. Okay Farukh ji ek jo number hai sir aapka main batata hu jiske last mein ye hai sir ek minute ye 257 hai jiske last mein 257.\\nExecutive: Ji ji ji ji isi pe kar lijiye.\\nCustomer: Wo number to sir incoming hi band hai us number ki lag hi nahi rahi hai call.\\nExecutive: Lag nahi rahi sir?\\nCustomer: Haan incoming hi band hai sir usme shayad recharge vicharge ka issue hoga usme lag hi nahi rahi hai main aap se pehle maine usi number pe connect kiya.\\nCustomer: Fir wo dusre number pe kyuki koi concern tha shayad kyuki call aaya tha us time pe main to bahar tha sir isliye nahi kar paya tha to abhi main system pe baitha tha to maine call kiya tha sir.\\nExecutive: Achcha ji to aap na matlab ek main number de deta hu aapko ek number aur hai.\\nCustomer: Bol dijiye sir.\\nExecutive: 95541\\nCustomer: 95541\\nExecutive: 6076\\nCustomer: 6076 955416076\\nExecutive: Ji ji ji right ye jo number hai sir ye Farukh ji ka number hai kiska number hai?\\nCustomer: Ji ji ji Farukh ji ka number hoga ji.\\nExecutive: Okay theek hai main ek baar kar leta hu us number pe theek hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's incoming is closed on one number.\\n\n- Customer wants to connect with Farukh.\\n\n\\n\nResolution:\\n\n- Executive provided another number to connect with Farukh.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number, connection, incoming\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=16d97930-4b0c-43ff-97b3-cfa580881ac5",
+  "ucid": "16d97930-4b0c-43ff-97b3-cfa580881ac5",
+  "seller_categories": [
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "183064",
+      "mcat_name": "Designer Wooden Door"
+    },
+    {
+      "mcat_id": "12558",
+      "mcat_name": "Wooden Door"
+    },
+    {
+      "mcat_id": "94922",
+      "mcat_name": "Wooden Panel Door"
+    },
+    {
+      "mcat_id": "5588",
+      "mcat_name": "Carved Wood Doors"
+    }
+  ]
+}

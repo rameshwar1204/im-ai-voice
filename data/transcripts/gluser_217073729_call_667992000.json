@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667992000",
+  "gluser_id": "217073729",
+  "vintage_months": 19,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Serampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639766",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello. Ha boliye. Ya, ma'am, good morning. Ma'am, main IndiaMART se baat kar raha hun. Avi ma'am.\\nCustomer: Ha boliye sir.\\nExecutive: Ji, ma'am, aapka ek concern tha na IndiaMART mein kal ki date mein aapne call kiya tha customer care pe. Aur isme ye hua tha ki aapko jo hai na koi random link aa raha hai IndiaMART ke page se. To isiliye maine call kiya aapne update kiya tha. Ji ma'am, to ma'am kaun sa link aa raha hai aapke paas ek baar aap wo link share karenge ma'am. Aur wo link kis kis source se aapke paas aa raha hai?\\nCustomer: Sir, jaise ki wo ye number to main use kar rahi hun main waha ki staff hun to main to abhi filhal Bihar mein hun. To office mein to hun nahi filhal main matlab confirm nahi hun yaar se.\\nMain do teen din mein jaane wali hun tabhi confirm karungi.\\nExecutive: Nahi nahi aap ye 78283 jo number hai Ajay Pathak wo number aap provide kar dijiye waha ke staff ka so that main unse baat kar leta hun.\\nCustomer: Accha main sir ko bol dungi wo aapse baat kar lenge.\\nExecutive: Ya unka number ye 8422 jo last hai usse connect ho jayega?\\nCustomer: Hmm nahi sir wo nahi hai. Main number de rahi hun unka.\\nExecutive: Ji bataiye.\\nCustomer: Ek second.\\nCustomer: Unka number hai na likhenge?\\nExecutive: Ji.\\nCustomer: 9831\\nExecutive: 9831\\nCustomer: 36\\nExecutive: 983136\\nCustomer: 3066\\nExecutive: 3066. Ma'am main repeat kar raha hun 98 31 ji ji 33 0 ye 33 hai na 33066\\nCustomer: Ek ek minute line pe rahiye. 9831363066\\nExecutive: Ek second ma'am 98313\\nExecutive: 63066 sahi hai ye6 hai.\\nCustomer: 6 hai sir6 hai6 nahi hai6 hai.\\nExecutive: Thik hai ma'am main kar leta hun.\\nCustomer: Thik hai. Thank you ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving random links from IndiaMART.\\n\n- Executive needs correct contact number of staff.\\n\n\\n\nResolution:\\n\n- Customer provided alternate contact number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- random links, contact number, staff\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 167,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e26e8869-d9f5-4c71-97d0-adc354919336",
+  "ucid": "e26e8869-d9f5-4c71-97d0-adc354919336",
+  "seller_categories": [
+    {
+      "mcat_id": "181508",
+      "mcat_name": "School Notebook"
+    },
+    {
+      "mcat_id": "32856",
+      "mcat_name": "Notebook"
+    },
+    {
+      "mcat_id": "41521",
+      "mcat_name": "Writing Paper"
+    },
+    {
+      "mcat_id": "68836",
+      "mcat_name": "Writing Notebook"
+    },
+    {
+      "mcat_id": "184972",
+      "mcat_name": "Classmate Notebook"
+    }
+  ]
+}

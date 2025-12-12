@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675613865",
+  "gluser_id": "29511599",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682516",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, main Ashu bol rahi thi.\\nCustomer: Haan ji madam.\\nExecutive: Sir aapka na refund hum log process kar rahe hain sir. Theek hai? Aapko seven to eight working days mein aapke account seven to ten working days mein aapke bank account mein mil jayega jo is mode se aapne payment kiya hai. Agar aapne credit card se payment ki hai to credit card mode pe hi jayega aapka payment. Theek hai?\\nCustomer: Okay matlab wo credit card mein ha samjho ki maine use nahi kiya 100 rupaye ka limit hai usme. Use hi nahi kiya aur aap 10 rupaye dalte ho to mera wo 110 limit ho jayega na?\\nExecutive: Limit nahi sir balance aapka jo credit card ki limit hoti hai wo do lakh ki hoti hai. Theek hai? Ab maine is is mahine ek lakh bhi do lakh me se ek paise bhi nahi use kiya.\\nCustomer: Hmm hmm.\\nExecutive: To wo add kar denge. Jo aapka paisa jayega wo aapka add hi rahega usme.\\nCustomer: Okay theek hai aur kitna jayega wo aapne dekha?\\nExecutive: Sir aapka pro data mein refund hoga kyunki aapki service hum logo ne aaj cancel ki hai to aaj ke hisab se aapka aaj tak ka jo paisa hai wo deduct hoga baki paisa aapko refund jayega.\\nCustomer: Theek hai chalo koi dikkat nahi.\\nExecutive: Theek hai?\\nCustomer: Haan.\\nExecutive: Haan to main aapka ye request close kar rahi hu sir.\\nCustomer: Haan theek hai.\\nExecutive: Aap mere paas personal number pe hai, theek hai? Aap mere ko connect kar lijiyega, theek hai? Agar koi dikkat aayegi to aap whatsapp pe hai hi hai, theek hai?\\nCustomer: Hmm hmm theek hai.\\nExecutive: Theek hai sir. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the refund amount.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund is being processed.\\n\n- Explained refund will be pro-rata.\\n\n- Executive offered to connect if needed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, credit card, payment\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b7f97f06-9909-40e0-aab0-73c49242f6d2",
+  "ucid": "b7f97f06-9909-40e0-aab0-73c49242f6d2",
+  "seller_categories": [
+    {
+      "mcat_id": "186492",
+      "mcat_name": "Organic Turmeric Powder"
+    },
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    },
+    {
+      "mcat_id": "36737",
+      "mcat_name": "Sambar Powder"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "181235",
+      "mcat_name": "Buttermilk Masala"
+    }
+  ]
+}

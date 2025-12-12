@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667006856",
+  "gluser_id": "25702711",
+  "vintage_months": 17,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, good evening.\\nCustomer: Good evening, ma'am.\\nExecutive: Sir, main Swetha bol rahi hu IndiaMART se, aapke account manager.\\nCustomer: Swetha ma'am?\\nExecutive: Regarding your services, sir. Services mein sab theek chal raha hai sir? Everything is going good in your services?\\nCustomer: Okay.\\nExecutive: I'm asking actually like everything is okay or not in the services.\\nCustomer: Okay, okay ma'am. Everything is okay. Everything is fine.\\nExecutive: Okay, fine. Actually our team has got one feedback from your side. So is it from like any issue you are facing from my side or any from my team? Like as I am your account manager basically I used to connect you back to back like in a month or in 15 days for the feedback. I used to handle your services. So is there any issue regarding me?\\nCustomer: [inaudible] problem hai, by mistake kyun maine feedback diya?\\nExecutive: You have got some feedback. Okay, no issues. What happened is on our Play Store app that is of IndiaMART, we got some reviews, right? So that is showing your name particularly, Manikanta, right? That's why we are trying to connect you. So it might be possible that by mistake it has been posted.\\nCustomer: No ma'am, I think from my that my name has been somebody has collaborated.\\nExecutive: Exactly. It might be ki by mistake it has been there it is leaked or by mistake you have posted that particular thing. So you can once check it out to get it confirmed. Kyunki dekhiye if there is any issue then you have to resolve it, right? And if there is no issue then we have to close the cell.\\nCustomer: Okay, okay ma'am. I will check it ma'am.\\nExecutive: Right?\\nCustomer: Yeah, please I would request you on the priority. Please check it and confirm me on the same number. So how much time will it take this?\\nCustomer: After 6 o'clock ma'am.\\nExecutive: After 6 o'clock. Is it possible before that? Like it will hardly take a minute to check it out.\\nCustomer: Ma'am, actually I am in office ma'am. Right now Monday is very busy time for me.\\nExecutive: I will check in the office.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback received with customer's name on Play Store.\\n\n- Customer denies providing the feedback.\\n\n\\n\nResolution:\\n\n- Executive asked customer to check the feedback.\\n\n\\n\nNext Steps: \\n\n- Customer will check after 6 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, play store, reviews\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 164,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=814b518d-26db-4ec5-b0eb-fa5b66fd23d1",
+  "ucid": "814b518d-26db-4ec5-b0eb-fa5b66fd23d1",
+  "seller_categories": [
+    {
+      "mcat_id": "151969",
+      "mcat_name": "Ground Penetrating Radar Survey Services"
+    },
+    {
+      "mcat_id": "144881",
+      "mcat_name": "Groundwater Survey Services"
+    },
+    {
+      "mcat_id": "144870",
+      "mcat_name": "Groundwater Exploration Services"
+    },
+    {
+      "mcat_id": "170860",
+      "mcat_name": "Soil Resistivity Testing Service"
+    },
+    {
+      "mcat_id": "143877",
+      "mcat_name": "Earth Resistance Testing"
+    }
+  ]
+}

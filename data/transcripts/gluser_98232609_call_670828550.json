@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670828550",
+  "gluser_id": "98232609",
+  "vintage_months": 40,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Karad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659313",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good evening sir.\\nCustomer: Haan sir Shubham bol raha tha India Mart se.\\nExecutive: Hello.\\nCustomer: Haan chaliye theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, greetings\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a98d4acc-9748-4bb7-a07c-d45659328ba7",
+  "ucid": "a98d4acc-9748-4bb7-a07c-d45659328ba7",
+  "seller_categories": [
+    {
+      "mcat_id": "224447",
+      "mcat_name": "BASF Fungicides"
+    },
+    {
+      "mcat_id": "208734",
+      "mcat_name": "Syngenta Insecticide"
+    },
+    {
+      "mcat_id": "224446",
+      "mcat_name": "BASF Insecticides"
+    },
+    {
+      "mcat_id": "230227",
+      "mcat_name": "Willowood Plant Growth Regulators"
+    },
+    {
+      "mcat_id": "3175",
+      "mcat_name": "Agricultural Herbicides"
+    }
+  ]
+}

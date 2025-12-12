@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670256790",
+  "gluser_id": "50897333",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Gauripur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Yes sir, maine aapne mere customer care number pe phone kar diya regarding aapki services ke bare mein. \\nFrom IndiaMART. Sir kya issue aa raha tha sir aap bataiye?\\nCustomer: Ji mera ek subscription liya hua hai isme.\\nHaa.\\nCustomer: To ye jaise mujhe ye matlab mera ye bahar ka sirf dikhata hai.\\nCustomer: Wo bhi matlab retail customer ka mujhe matlab main matlab wholesale supply karta hu retail nahi.\\nExecutive: Sir matlab aapki jo leads vagaira ke jo cheeze hai uske bare mein thoda aapko problem hota hai bahar ki lead aati hai aapke pass.\\nCustomer: Ji ji mujhe Assam ka chahiye.\\nExecutive: Accha theek hai. Sir aapke pass mera number sir aapke pass mera number nahi tha aapne customer care pe phone kar diya.\\nCustomer: Ji.\\nExecutive: Agar aap sir ek minute main aapka wo jo aapki cheez open kar deti hu.\\nExecutive: Matlab aapke basically problem ye ho rahi hai ki aapko bahar ki lead jyada mil rahi hai aur Assam ki lead nahi aa rahi hai aapke pass.\\nCustomer: Ji ji.\\nExecutive: To sir aapko Assam mein hi dealing karna hai?\\nCustomer: Ji ji Assam aur West Bengal.\\nExecutive: Assam and West Bengal. Okay.\\nExecutive: Just a minute sir main aapke jo bhi product hai usko ek baar listing dekh leti hu aapki kya hai kya nahi.\\nCustomer: Ji.\\nExecutive: Theek hai aapke hai inverter ARJ welding machine electric panel vagaira yahi sab aapke product hai?\\nCustomer: Ji ji.\\nExecutive: Sir main aapko ek link share karti hu aap usse join ho sakte ho kya abhi usme hi main discussion karwa deti hu fir aapke sath.\\nCustomer: Ji ji.\\nExecutive: Haa sir maine aapko ek video meet ka link share kara hua hai aap usko join kar lijiye sir.\\nCustomer: Okay.\\nExecutive: Haa aapki jo\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting leads from outside Assam.\\n\n- Wants leads from Assam and West Bengal.\\n\n\\n\nResolution:\\n\n- Executive shared a video meet link.\\n\n\\n\nNext Steps: \\n\n- Customer will join the video meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, location\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1080795e-206f-4cbb-aa4f-ec126bf4f36e",
+  "ucid": "1080795e-206f-4cbb-aa4f-ec126bf4f36e",
+  "seller_categories": [
+    {
+      "mcat_id": "166326",
+      "mcat_name": "Inverter ARC Welding Machine"
+    },
+    {
+      "mcat_id": "27286",
+      "mcat_name": "Electric Planer"
+    },
+    {
+      "mcat_id": "161774",
+      "mcat_name": "Petrol Chain Saw"
+    },
+    {
+      "mcat_id": "36887",
+      "mcat_name": "Rotary Hammer Drill"
+    },
+    {
+      "mcat_id": "192950",
+      "mcat_name": "Stanley Electric Drill"
+    }
+  ]
+}

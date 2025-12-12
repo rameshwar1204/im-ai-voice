@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674687985",
+  "gluser_id": "16582975",
+  "vintage_months": 61,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694351",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nExecutive: Hello?\\nCustomer: Hello.\\nCustomer: Good afternoon sir. I'm Media Master, How is sir?\\nExecutive: Yeah, ready?\\nCustomer: Hello. Uh sir, email. \\nExecutive: Haan yaar bolo na sir. \\nExecutive: Kaise ho sir? Kaise ho sir?\\nExecutive: Kal baat karo yaar, thoda busy hu mai abhi.\\nCustomer: Sir actually aapka mujhe zyada time nahi chahiye, hardly 30 seconds.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak for 30 seconds.\\n\n\\n\nResolution:\\n\n- Executive said he is busy and to call tomorrow.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to annoyed.\\n\n\\n\n\\n\n@@@Key Topics:\\n\ncall back, busy\\n\n\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=23195142-037c-4436-ad6c-f440d634d0b8",
+  "ucid": "23195142-037c-4436-ad6c-f440d634d0b8",
+  "seller_categories": [
+    {
+      "mcat_id": "40604",
+      "mcat_name": "Vacuum Chambers"
+    },
+    {
+      "mcat_id": "164741",
+      "mcat_name": "KF Clamp"
+    },
+    {
+      "mcat_id": "186928",
+      "mcat_name": "Vacuum Fittings"
+    },
+    {
+      "mcat_id": "42046",
+      "mcat_name": "Glove Boxes"
+    },
+    {
+      "mcat_id": "13706",
+      "mcat_name": "Chemical Vapor Deposition System"
+    }
+  ]
+}

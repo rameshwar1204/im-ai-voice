@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667420900",
+  "gluser_id": "135162620",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Gautam Buddha Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682799",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan, good afternoon sir. Himanshu baat kar raha hu IndiaMART se. Aapne call kiya tha. \\nCustomer: Haan, abhi baat kar raha hu. Thoda busy hu, beech beech mein hu sir.\\nExecutive: Achcha achcha. Kab tak call kar lu?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and in the middle of something.\\n\n\\n\nResolution:\\n\n- Executive asked when to call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, busy\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78207a86-f70b-4fa0-b3f7-f88611051d36",
+  "ucid": "78207a86-f70b-4fa0-b3f7-f88611051d36",
+  "seller_categories": [
+    {
+      "mcat_id": "106023",
+      "mcat_name": "Micro Concrete"
+    },
+    {
+      "mcat_id": "165817",
+      "mcat_name": "Structural Repair Services"
+    },
+    {
+      "mcat_id": "95058",
+      "mcat_name": "Carbon Fiber Sheet"
+    },
+    {
+      "mcat_id": "85081",
+      "mcat_name": "Retrofitting Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

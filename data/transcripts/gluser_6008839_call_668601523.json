@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668601523",
+  "gluser_id": "6008839",
+  "vintage_months": 40,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hanji\\nCustomer: Trading karta hu\\nExecutive: Kahan se?\\nCustomer: Utkal trading, Katak, Odisha.\\nExecutive: Hanji hanji bataiye.\\nCustomer: Mera number hai, unse baat kar sakta hu, aap se baat kar raha hu.\\nExecutive: Hanji bataiye main bol raha hu Kamal ji.\\nCustomer: Main bata raha hu mera IndiaMART kholne ke liye mera ek number add hua hai.\\nExecutive: Achcha.\\nCustomer: Setting mein.\\nExecutive: Kahan bataiye number aapka add hua hai?\\nCustomer: Add hua hai, main bata raha hu mera do number hai aur ek mere staff ke number hai jo market mein marketing karenge unke number mein add kiya hu.\\nExecutive: Achcha.\\nCustomer: Magar unke baad bhi unko nahi dikha raha hai unka buddhi unko nahi aa raha hai.\\nExecutive: Theek hai main aapko call karta hu abhi 3 baje, theek hai abhi lunch chal raha hai baat kar leta hu, theek hai chal.\\nCustomer: Okay, okay.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's staff number not showing on IndiaMART.\\n\nResolution:\\n\n- Executive will call back at 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive to call back at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number, indiamart, staff, marketing\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c417667-b10e-4489-842e-be4774ee315f",
+  "ucid": "8c417667-b10e-4489-842e-be4774ee315f",
+  "seller_categories": [
+    {
+      "mcat_id": "137250",
+      "mcat_name": "Wood Polish"
+    },
+    {
+      "mcat_id": "33932",
+      "mcat_name": "Paint Thinners"
+    },
+    {
+      "mcat_id": "41434",
+      "mcat_name": "Wood Finishes"
+    },
+    {
+      "mcat_id": "209607",
+      "mcat_name": "Asian Paints Surface Polish"
+    },
+    {
+      "mcat_id": "126394",
+      "mcat_name": "NC Thinner"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671254059",
+  "gluser_id": "102388388",
+  "vintage_months": 8,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Panaji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello? Hello? Haan mam, namaste.\\nExecutive: Hello? Yes. Haan Sakshi baat kar rahi hu mam IndiaMART se aapke account manager.\\nCustomer: Okay, okay, theek hai. Aur maine kuch product update kiye hai meri\\nCustomer: [unintelligible] kya aapko usme koi [unintelligible] karni hai to aap dekh sakte ho.\\nCustomer: Aur koi\\nCustomer: Aur mujhe\\nExecutive: Haan, mam, ek cheez bataiye to thoda network issue ho raha hai. Haan, mam, bataiye.\\nCustomer: Maine mere products add kiye hai mere ID par. Okay. To usme koi correction chahiye, koi details incomplete hai to aap check kar sakte hai.\\nExecutive: Haan, mam, bilkul abhi check kar rahi hu mam.\\nCustomer: Aur dusri cheez mujhe uske liye leads mil milegi.\\nExecutive: Haan, haan.\\nCustomer: Buyers lead, buyers lead.\\nExecutive: Haan, mam, aapko iske liye leads milengi. Mam, bas abhi turant aapka check kar rahi hu aur aapke leads bhi dikha rahi hu mam aapko.\\nCustomer: Aur leads mujhe in and around go wo main dekh rahi hu. Ki chahiye kyuki wo parcel send karne ke liye jyada charge na lage aisa.\\nExecutive: Achcha, in and around matlab aapke local mein aapko leads chahiye hai na?\\nCustomer: Haan.\\nExecutive: Aapke local region mein aapko leads chahiye taki aapko packaging charge aur aapko logistic charge kam lage hai na?\\nCustomer: Haan, haan.\\nExecutive: Okay. Mam, aapne product add kar diya hai wo dikh raha hai mujhe clay kullad style tea cup with saucer.\\nExecutive: Aapke yaha network ka issue hai kyuki aapki aawaz\\nExecutive: Aawaz\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan, mam, aawaz aa rahi hai theek se?\\nCustomer: Hello?\\nExecutive: Hello, boliye. Thodi aawaz clear nahi hai.\\nExecutive: Ek minute mam, main aapko call back kar rahi hu ek minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to check product updates on IndiaMART.\\n\n- Wants leads from local region.\\n\n\\n\nResolution:\\n\n- Executive is checking the product updates.\\n\n- Executive confirmed leads will be provided.\\n\n- Executive will call back due to network issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product update, leads, network issue\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=499eb5b7-25e8-431f-8414-469e21365eb4",
+  "ucid": "499eb5b7-25e8-431f-8414-469e21365eb4",
+  "seller_categories": [
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "127",
+      "mcat_name": "Christmas Stars"
+    },
+    {
+      "mcat_id": "218580",
+      "mcat_name": "Clay Tea Cup"
+    },
+    {
+      "mcat_id": "28284",
+      "mcat_name": "Fish Masala Mix"
+    },
+    {
+      "mcat_id": "9050",
+      "mcat_name": "Hanging Star"
+    }
+  ]
+}

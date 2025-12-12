@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666978592",
+  "gluser_id": "157826790",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636563",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ji ma'am.\\nExecutive: Haanji sir, uh, woh main aapko uske liye connect kar rahi thi na ki aap aisa bhi kar sakte, kabhi kabhi technical glitch aata hai ki uski wajah se bhi toh aap jo hai ek apna IndiaMART ka mobile app ek baar uninstall karke reinstall kar lijiye. Toh kabhi kabhi uski wajah se bhi aisa hota hai. Aap ek do baar woh bhi kar sakte hain aur mera number haanji aapka WhatsApp ka hai hi. Toh aap mujhe us pe again connect kar lijiyega jab aapko koi bhi issue aayega toh.\\nCustomer: Theek hai ma'am, okay, thank you.\\nExecutive: Theek hai? Toh abhi main concern aapka close karun sir?\\nCustomer: Ji ji, filhaal close kar dijiye aap.\\nExecutive: Toh uske baad ek aapko sir satisfaction mail jayega, usko aap yes kar dijiyega, okay?\\nCustomer: Main kar dunga, main kar dunga.\\nExecutive: Theek hai sir, main karti hu close, okay? Thank you.\\nCustomer: Thank you, thank you.",
+  "summary": "\\nConcerns:\\n- Experiencing a technical glitch with the IndiaMART app.\\n\\nResolution:\\n- Advised to uninstall and reinstall the mobile app.\\n- Provided a number for future contact via WhatsApp.\\n- Requested to respond 'yes' to the satisfaction email.\\n- Agreed to close the current ticket.\\n\\nNext Steps: \\nIssue resolved. Executive will close the ticket and send a satisfaction survey.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Positive\\n\\n@@@Key Topics:\\n- technical glitch, mobile app, reinstall, satisfaction survey, closing ticket\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3aba799c-6a2e-4f88-8948-37ea39eee2bc",
+  "ucid": "3aba799c-6a2e-4f88-8948-37ea39eee2bc",
+  "seller_categories": [
+    {
+      "mcat_id": "173148",
+      "mcat_name": "Wooden Carved Sofa Set"
+    },
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "18988",
+      "mcat_name": "Teak Wood Sofa"
+    }
+  ]
+}

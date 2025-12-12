@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675870968",
+  "gluser_id": "138717611",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718386",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nExecutive: Haan Vishal ji se baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Namaskar sir Sudhanshu baat kar raha hu IndiaMART se kaise ho aap?\\nCustomer: Badhiya sir.\\nExecutive: Sir, services ke regarding discuss karne ke liye call kiya tha sir. Aapki company chal rahi hai na Elio Motos?\\nCustomer: Ji sir.\\nExecutive: To abhi aapne sir video meeting ke liye request kiya tha mere paas ek ticket open hua hai video meeting ke liye.\\nCustomer: Haan ji, haan ji. Mere ko bas yahi puchna hai ki jaise main buylead search kar raha hu recent ke usme na to wo isme aa raha hai as per your friend selection we are unable to show any relevant buylead.\\nExecutive: Ek minute.\\nExecutive: Abhi link bhej du main ek baar join kar lenge video meeting pe?\\nCustomer: Haan ji.\\nExecutive: Ek minute main bhej raha hu theek hai bas join kar lijiye.\\n\\nExecutive: Theek hai aapke mail pe bhi bhej raha hu sir.\\n\\n\\nCustomer: Ji sir kar di maine.\\nExecutive: Theek hai call disconnect kar raha hu sir main.\\nCustomer: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to see relevant buyleads.\\n\n\\n\nResolution:\\n\n- Executive sent a video meeting link to customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meeting, subscription\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 152,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12e3e654-ac1e-4f1a-85ad-87e683ca7467",
+  "ucid": "12e3e654-ac1e-4f1a-85ad-87e683ca7467",
+  "seller_categories": [
+    {
+      "mcat_id": "108093",
+      "mcat_name": "Electric Scooter Batteries"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "228298",
+      "mcat_name": "Lithium Iron Phosphate Battery"
+    },
+    {
+      "mcat_id": "64935",
+      "mcat_name": "Electric Vehicle Battery"
+    }
+  ]
+}

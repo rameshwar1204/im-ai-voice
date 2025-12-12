@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670371124",
+  "gluser_id": "45681197",
+  "vintage_months": 1,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kanke",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hare Krishna Hare\\nHare Om\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes, good afternoon sir, main Kusum baat kar rahi hu IndiaMART headquarter se. recovery.com company se baat kar rahe ho?\\nCustomer: Haan.\\nExecutive: Okay. Sir abhi na hamare paas ek concern raise hua hai mail pe ki aapko video meeting karna hai about the company TrustSeal related. Aapne interest show kiya hua hai yes? Okay. To humko aap available hai ji hum video call pe baat kar sakte hai sir?\\nCustomer: Haan to aap main dusre number pe phone karo do number registered hai na?\\nExecutive: Haan mam ko kuch idea nahi hai iske bare mein aapne kara hai sir ye interest show ya fir mam ne kiya hai?\\nCustomer: Main bol deta hu main phone karke bol deta hu.\\nExecutive: To aapne kara hai to aap just bataiye to sahi se.\\nCustomer: Nahi nahi mere ko aapki nahi chahiye meeting aap unko bata do leads vagarah kaise aata hai.\\nAap main aapko dusre number se call kar raha hu. Aapka number yahi hai?\\nExecutive: Ji.\\nCustomer: Ek number registered number hai na usme phone karo na madam aap.\\nExecutive: Registered number registered hai. Try to understand there is a two numbers na 408 and jiske last mein 408 hai second number is 155. To aapne abhi call pick kiya tha to mam ko maine connect kiya but mam ko is cheez ko koi idea nahi hai she said aapko connect karke baat karti hu.\\nCustomer: Haan to dobara fir se karo main unko turant main bol de raha hu. Whatsapp kar de raha hu karo.\\nExecutive: Wo aapke new employee hai unko guide karna hai application yes?\\nCustomer: Haan haan haan bilkul bilkul.\\nExecutive: Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs information on leads generation.\\n\n\\n\nResolution:\\n\n- Executive offered to connect with the customer's employee.\\n\n\\n\nNext Steps: \\n\n- Executive will reconnect with customer's employee.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- truseal, video meeting, leads, registration\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef096102-67d8-48f2-8d94-963559540637",
+  "ucid": "ef096102-67d8-48f2-8d94-963559540637",
+  "seller_categories": [
+    {
+      "mcat_id": "126208",
+      "mcat_name": "HDPE Granules"
+    },
+    {
+      "mcat_id": "153076",
+      "mcat_name": "Natural PP Granule"
+    },
+    {
+      "mcat_id": "42009",
+      "mcat_name": "PP Granules"
+    },
+    {
+      "mcat_id": "153092",
+      "mcat_name": "Reprocessed PP Granules"
+    },
+    {
+      "mcat_id": "186645",
+      "mcat_name": "Pp Milky Granules"
+    }
+  ]
+}

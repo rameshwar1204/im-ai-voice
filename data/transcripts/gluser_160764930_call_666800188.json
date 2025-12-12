@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666800188",
+  "gluser_id": "160764930",
+  "vintage_months": 1,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "East Godavari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628273",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Namaste sir.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Namaste andi.\\nCustomer: Hanji.\\nCustomer: Adi Sri Lakshmi Venkateshwara dealer matladutunda.\\nCustomer: [unintelligible] baat kar rahe hai sir.\\nCustomer: Me Andhra Pradesh se baat kar rahe ho.\\nExecutive: Nahi company ka naam kya hai aapki?\\nCustomer: Sri Lakshmi andi Sri Lakshmi.\\nCustomer: Sri Lakshmi Venkateshwara bricks.\\nExecutive: Ek second sir.\\nCustomer: Okay.\\nExecutive: Sri Lakshmi Venkateshwara.\\nCustomer: Yeah.\\nExecutive: Ha yes sir.\\nExecutive: Okay as of now do you know Telugu English Hindi.\\nExecutive: Which language you are comfortable with?\\nExecutive: Sir I'll arrange a call back from your from my side now.\\nCustomer: Okay.\\nExecutive: From Telugu person okay she'll call you.\\nCustomer: Yeah.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about Telugu language.\\n\n\\n\nResolution:\\n\n- Executive said they will call back from Telugu person.\\n\n\\n\nNext Steps: \\n\n- Executive will call back from Telugu person.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- language, callback, telugu\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=66081915-f8cd-42b9-84d9-e82d586d918d",
+  "ucid": "66081915-f8cd-42b9-84d9-e82d586d918d",
+  "seller_categories": [
+    {
+      "mcat_id": "36247",
+      "mcat_name": "Red Brick"
+    },
+    {
+      "mcat_id": "68874",
+      "mcat_name": "Lightweight Brick"
+    },
+    {
+      "mcat_id": "88217",
+      "mcat_name": "Aerocon Panel"
+    },
+    {
+      "mcat_id": "24200",
+      "mcat_name": "Clay Brick"
+    },
+    {
+      "mcat_id": "623",
+      "mcat_name": "Bricks"
+    }
+  ]
+}

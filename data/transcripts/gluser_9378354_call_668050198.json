@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668050198",
+  "gluser_id": "9378354",
+  "vintage_months": 10,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642155",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Bolo.\\nExecutive: Hello. Rashi sir main IndiaMART se Ashma baat kar rahi thi. Imani ke manager kaise hain aap?\\nCustomer: Hello.\\nExecutive: Badhiya bolo madam. Bolo bolo.\\nCustomer: Sir abhi aapne Imani ne aap se baat kiya hoga to abhi feedback aapne not satisfied diya. Main reason jaan sakti hu sir?\\nCustomer: Roz ek hi baat karne ka fayda kya hai madam?\\nExecutive: Sir to aap bhi to bataye na jab aapko uska resolution bhi de rakha hai. Uske baad bhi aap usko not satisfied de rahe ho to uska bhi to koi fayda nahi hai na sir. Hame to baat karni padegi. Agar aap not satisfied de rahe ho to sir.\\nCustomer: Ya to aap mat do fir not satisfied sir.\\nExecutive: Aap satisfied ke liye hum aap se baat karne ke liye call kar rahe to aap aise baat kar rahe ho sir.\\nCustomer: Madam main main hai na roz ek hi baat karke kuch fayda hai mujhe. Maine unko unko maine bataya ke bhai mere ko ye problem hai. Unhone mujhe bataya wahi problem che mahine pehle bhi unhone repeat kari thi teen mahine pehle bhi kari thi do mahine pehle bhi kari thi.\\nExecutive: Haanji.\\nCustomer: To main main sirf khali wo wo ek hi cheez ke liye main baith nahi sakta hu na bar bar.\\nExecutive: To sir ek hi cheez ke liye nahi to aap bhi use chod ke dusri cheezon pe discuss karte hai na sir. Agar ek hi cheez ko hum sochte rahenge to fir wo cheeze nahi aayegi.\\nCustomer: To maine unko bataya bola madam wapis wahi apni baat ho rahi hai aap mujhe wapis ek mahine pehle bhi yahi baat kiye the do mahine pehle bhi ye baat kiye the abhi bhi wahi baat kar rahe to fayda nahi hai. Wo jab tak kuch hoyega nahi.\\nExecutive: Chalo aap mujhe ek baat batao hamare paas jo business hoga hum wahi aapko provide karenge na sir. To theek hai na madam maine aapko kuch bola. Hamare paas nahi hai. Sir aapne not satisfied diya humko.\\nCustomer: To kya kare. Uske liye hame baat karni padegi hame kyun nahi farak padta sir. Abhi bhi aapke paas feedback jayega dobara aap not satisfied doge main dobara call karungi uske liye aapko. Aur main fir se wahi expectation set karungi aapki.\\nCustomer: Theek hai bhejiye.\\nExecutive: To please.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with the service.\\n\n- Customer says same issues are repeated.\\n\n\\n\nResolution:\\n\n- Executive asked the reason for dissatisfaction.\\n\n- Executive explained the need for feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, resolution, repeat issues\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4f36f35-5632-4a3d-944a-1d3b083868af",
+  "ucid": "c4f36f35-5632-4a3d-944a-1d3b083868af",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "21693",
+      "mcat_name": "Air Quality Monitors"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "143428",
+      "mcat_name": "Reverse Drum Mixer"
+    }
+  ]
+}

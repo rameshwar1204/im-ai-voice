@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672327545",
+  "gluser_id": "55170620",
+  "vintage_months": 59,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9674598",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Sir Namaste sir. \\nCustomer: Haan ji Namaste.\\nExecutive: Sir Akash Pandey baat kar raha hu India Mart se.\\nCustomer: Ji.\\nExecutive: Haan haan sir service humne live kar diya hai aapka.\\nCustomer: Achha.\\nExecutive: Haan haan aap service thoda use kariye sir isko thoda sa ki visibility hum aapko 10-10 jagah pe dikha sake.\\nCustomer: Hmm.\\nExecutive: Haan isko sir wahi bite sir aur jis place ka humne baat kiya tha na wahi.\\nCustomer: Haan.\\nExecutive: Haan wahi ki aur sari inquiry pe reply kariyega.\\nCustomer: Achha.\\nExecutive: Aur ek bar properly aap ek bar mere se connect kar lo aap video meet ke liye dobara se ki main aapko samjha saku kaise kaise kam karna hai usse.\\nCustomer: Main jab\\nExecutive: Maine Sharukh bhai ko samjha diya hai waise samjha diya unko unko to samjha diya hai us din pehle video meet connect kiya tha.\\nCustomer: Achha achha theek hai to fir unko samjha sakte hain.\\nExecutive: Haan.\\nCustomer: Mere ko Sunday ko mere ko Sunday ko samjhana aap Sunday ko mere se jo bhi baat karni hai Sunday ko aate hain aap.\\nExecutive: Sir Sunday ko aate to nahi hai. \\nCustomer: Call kar lena. Saturday ko Saturday ko free nahi rehte?\\nExecutive: Haan Saturday ko kar lena.\\nExecutive: Chaliye theek hai. Aap isse kam kariye koi bhi problem aa rahi hai to mere ko aap bataiyega.\\nCustomer: Theek hai.\\nExecutive: Theek hai theek hai theek hai okay sir Namaste sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants executive to explain on Sunday.\\n\nResolution:\\n\n- Executive informed service is live.\\n\n- Executive asked to connect for video meet.\\n\n- Executive suggested using service for visibility.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Saturday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, video meet, visibility, inquiry\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ae806250-2c03-45ec-8396-08a456f2cfaa",
+  "ucid": "ae806250-2c03-45ec-8396-08a456f2cfaa",
+  "seller_categories": [
+    {
+      "mcat_id": "220929",
+      "mcat_name": "Tin Shed"
+    },
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "20474",
+      "mcat_name": "Prefabricated Steel Buildings"
+    },
+    {
+      "mcat_id": "136750",
+      "mcat_name": "Prefabricated Factory Shed"
+    },
+    {
+      "mcat_id": "164769",
+      "mcat_name": "Warehouse Sheds"
+    }
+  ]
+}

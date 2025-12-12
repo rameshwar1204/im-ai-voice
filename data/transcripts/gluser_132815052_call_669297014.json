@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669297014",
+  "gluser_id": "132815052",
+  "vintage_months": 33,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello Namaskar madam Aditya baat kar raha hun Indiamart se sir se baat ho payegi?\\nAditya baat kar raha hun Indiamart se sir se baat ho payegi?\\nSir abhi bahar gaye hain.\\nAchcha.\\nThik hai thik hai aap aayenge to bol dijiyega Indiamart se call aaya tha.\\nAayenge tab phone karaungi.\\nThik hai madam thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to speak with Sir.\\n\n\\n\nResolution:\\n\n- Informed that Sir is currently out.\\n\n- Executive requested to inform Sir about the call from Indiamart.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will have Sir call when he returns.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, call, sir\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3585b8f0-7048-487d-9852-dad30aaa08ad",
+  "ucid": "3585b8f0-7048-487d-9852-dad30aaa08ad",
+  "seller_categories": [
+    {
+      "mcat_id": "31652",
+      "mcat_name": "Magnesium Carbonate"
+    },
+    {
+      "mcat_id": "19162",
+      "mcat_name": "Silicon Dioxide"
+    },
+    {
+      "mcat_id": "8601",
+      "mcat_name": "Precipitated Silica"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    },
+    {
+      "mcat_id": "252025",
+      "mcat_name": "Vegetable Glycerin"
+    }
+  ]
+}

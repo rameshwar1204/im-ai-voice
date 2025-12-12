@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669172068",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Jakham tech hello.\\nExecutive: Sir Sushmita baat kar rahi thi Indiamart se.\\nCustomer: Haan ji haan madam.\\nExecutive: Haan ji sir aap bataiye actually aapne ticket open kiya tha na regarding your services. Meri aapse baat hui thi Saturday ko right?\\nCustomer: Madam baat aisi hai ji woh toh baad ki baat hai ji. Madam te main aapko 10 minute baad mein kar lu main jot laga raha tha.\\nExecutive: Agar koi dikkat nahi ek baar aap. Bas main abhi karta hu ji back call karta hu aapko. Ji ji.\\nCustomer: Theek hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to call back in 10 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to receive a call back.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, services, ticket\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4383494f-6d79-4de2-ad46-a8db79b0d591",
+  "ucid": "4383494f-6d79-4de2-ad46-a8db79b0d591",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

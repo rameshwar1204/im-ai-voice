@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672560618",
+  "gluser_id": "186902095",
+  "vintage_months": 8,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672722",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haanji sir aaj baat nahi ho payegi abhi.\\nExecutive: Sir main aapse thoda sa busy hu.\\nCustomer: Kya sir?\\nExecutive: Ji sir busy hai. Busy in rehne se toh bataiye aap.\\nCustomer: Sir aapki aawaz thodi slow si ho rahi hai.\\nExecutive: Jab main aapko call mein phone karta hu.\\nExecutive: Accha sir kitni der mein call karna hai?\\nCustomer: But mujhe lag raha hai thoda ki na hai.\\nExecutive: Kya?\\nCustomer: Koi matlab nahi hai tab toh baat hogi.\\nCustomer: Theek hai na? Ab main nahi banaunga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently busy.\\n\n- Customer mentions executive's voice is low.\\n\n\\n\nResolution:\\n\n- Executive asked when to call back.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call schedule, voice quality, availability\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ff9e03b1-6b15-4ce9-afc3-47fddd27ffcc",
+  "ucid": "ff9e03b1-6b15-4ce9-afc3-47fddd27ffcc",
+  "seller_categories": [
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "180429",
+      "mcat_name": "Marble Elephant Statue"
+    },
+    {
+      "mcat_id": "16441",
+      "mcat_name": "Kali Statue"
+    },
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    },
+    {
+      "mcat_id": "220909",
+      "mcat_name": "Marble Human Statue"
+    }
+  ]
+}

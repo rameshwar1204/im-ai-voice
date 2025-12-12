@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668258488",
+  "gluser_id": "12533996",
+  "vintage_months": 50,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9641854",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir, good sir, bol rahe the.\\nExecutive: Rahul baat kar raha hu sir IndiaMART se. Sir hua aapka chalu?\\nCustomer: Nahi nahi chalu nahi hua bhai, abhi tak nahi hua.\\nExecutive: Sir wo maine pata kiya yaha se wo internet issue ki wajah se ho raha hai sir.\\nCustomer: Achcha.\\nExecutive: Haan wo internet issue ki wajah se ho raha hai isliye aapko wo new nahi ho pa raha hai.\\nCustomer: Itna to isme koi light version nahi hai koi aisa?\\nExecutive: Nahi nahi koi light version nahi hai sir uska wahi hai sir.\\nCustomer: Ye to problem hai ki ye to yaha pe jo optical fiber kati hai uska abhi lambe samay tak rahega teen mahine tak rahega wo.\\nExecutive: Nahi maine wahi yaha par aage pata kiya yaha par kyuki IndiaMART me koi aisa technical error nahi aa raha hai kisi bhi client ke sath. Right? Maine technical team ko feedback share kiya. To unhone pata kiya aur aapke liye unhone yahi internet connectivity issue ho raha hai wo cheez.\\nCustomer: Ji.\\nExecutive: To wo ye sir dekho hamare hath me to nahi hai ye sari cheeze. And aapka ye ticket bhi raise ho gaya tha to is ticket ko close kar du mai?\\nCustomer: Abhi isko kya kare fir?\\nExecutive: Kya keh rahe hai? Light version koi light nahi hai na jaise light hota hai har har ek koi ha koi hum samajh gaye aap jaise keh rahe hai na instagram light ho gaya facebook light ho gaya is tarike se hai na. Wo waisa nahi hai sir hota to mai jarur aapko bolta.\\nCustomer: Ji.\\nExecutive: Aapne dusre device me open karke dekha ek baar?\\nCustomer: Maine dekha lekin wo wo nahi kisi aur me nahi mere paas ye ek set hai isme do do teen yahi rakhta wo kar nahi pata.\\nExecutive: Aapke ghar me ghar me use karte ho koi?\\nCustomer: Haan hai bilkul.\\nExecutive: Ek baar aap unse connect karke dekh lete but matlab hamare taraf se koi wo issue nahi hai maine ye pata kar liya.\\nCustomer: Chaliye theek hai mai check karta hu.\\nExecutive: Theek hai mai isko close kar deta hu sir hai na concern aapka?\\nCustomer: Ji ji.\\nExecutive: Aap ise satisfy kar dena hai na.\\nCustomer: Theek hai ji okay.\\nExecutive: Ji okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART account is not working.\\n\n\\n\nResolution:\\n\n- Executive stated issue is due to internet connectivity.\\n\n- Executive offered to close the raised ticket.\\n\n\\n\nNext Steps: \\n\n- Customer will check with another device.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, internet issue, technical error\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=83115994-df10-472b-8bdd-9bbc2e6d9555",
+  "ucid": "83115994-df10-472b-8bdd-9bbc2e6d9555",
+  "seller_categories": [
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "441885",
+      "mcat_name": "Shilajit Resin"
+    },
+    {
+      "mcat_id": "127342",
+      "mcat_name": "Natural Saffron"
+    },
+    {
+      "mcat_id": "177417",
+      "mcat_name": "Shilajit Extract"
+    }
+  ]
+}

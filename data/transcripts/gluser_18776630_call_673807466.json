@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673807466",
+  "gluser_id": "18776630",
+  "vintage_months": 110,
+  "bl_dau_oct": 27,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Jagadhri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698708",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Hello ji.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=69622512-a62e-45aa-9279-e2b1171773a2",
+  "ucid": "69622512-a62e-45aa-9279-e2b1171773a2",
+  "seller_categories": [
+    {
+      "mcat_id": "39397",
+      "mcat_name": "Waffle Maker"
+    },
+    {
+      "mcat_id": "315646",
+      "mcat_name": "Egg Roll Making Machine"
+    },
+    {
+      "mcat_id": "20520",
+      "mcat_name": "Aluminium Milk Cans"
+    },
+    {
+      "mcat_id": "147114",
+      "mcat_name": "Softy Making Machine"
+    },
+    {
+      "mcat_id": "154773",
+      "mcat_name": "Chicken Cutting Machine"
+    }
+  ]
+}

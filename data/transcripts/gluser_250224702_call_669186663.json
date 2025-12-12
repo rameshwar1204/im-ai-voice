@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669186663",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan.\\nExecutive: Hello.\\nCustomer: Hello. Haanji.\\nExecutive: Namaste sir.\\nCustomer: Namaste sir.\\nExecutive: Desi textile se bol raha hu aapne kaha tha refund ka issue kiya tha aapne.\\nCustomer: Haan sir maine aapko bola tha na ki aaj main bataunga sir. Abhi thoda sa samay dijiye sir.\\nExecutive: Main kya office mein aaya abhi sara company ke aapko call karenge sir mujhe yaad hai acche se.\\nCustomer: Accha accha chalo theek hai. \\nExecutive: Hai na sir sham ko baat karte hai hum.\\nCustomer: Ji sir ji.\\nExecutive: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised a refund issue.\\n\n\\n\nResolution:\\n\n- Executive confirmed the refund issue.\\n\n- Customer asked for some time to discuss.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer in the evening.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, call, textile\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aac5da18-c8ee-413c-9529-e9b9a7563028",
+  "ucid": "aac5da18-c8ee-413c-9529-e9b9a7563028",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

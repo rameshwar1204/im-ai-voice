@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675925319",
+  "gluser_id": "7979725",
+  "vintage_months": 5,
+  "bl_dau_oct": 2,
+  "customer_type": "Default Cust Type",
+  "city_name": "Bharatpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710732",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\\nAa gaye aapne?\\nHan sir.\\nHan bas main mushkil se 20 minute mein pahunch jaunga 20 minute mein connect kar raha hun aapko.\\n20 minute theek hai okay theek hai. Hai na actually sir pata hai na 100 bahar nikal gaya tha bas 20 minute mein office pahunch ke connect karta hun.\\nThik hai thik hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive will connect in 20 minutes.\\n\n\\n\nResolution:\\n\n- Okay, the executive will connect in 20 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nconnection time\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba15a55d-2994-48b7-ac3b-56adf37f9409",
+  "ucid": "ba15a55d-2994-48b7-ac3b-56adf37f9409",
+  "seller_categories": [
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    },
+    {
+      "mcat_id": "185266",
+      "mcat_name": "Mahindra Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    },
+    {
+      "mcat_id": "181087",
+      "mcat_name": "Castrol Engine Oil"
+    }
+  ]
+}

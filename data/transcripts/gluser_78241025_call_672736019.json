@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672736019",
+  "gluser_id": "78241025",
+  "vintage_months": 4,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jalgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25d21302-cb42-418c-b6c4-d52b4c21f884",
+  "ucid": "25d21302-cb42-418c-b6c4-d52b4c21f884",
+  "seller_categories": [
+    {
+      "mcat_id": "96272",
+      "mcat_name": "Cotton Seed Cake"
+    },
+    {
+      "mcat_id": "127328",
+      "mcat_name": "Cottonseed Oil Cake"
+    },
+    {
+      "mcat_id": "9792",
+      "mcat_name": "Maize Cattle Feed"
+    },
+    {
+      "mcat_id": "115",
+      "mcat_name": "Cattle Feed"
+    },
+    {
+      "mcat_id": "192161",
+      "mcat_name": "Maize Bran"
+    }
+  ]
+}

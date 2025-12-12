@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670661374",
+  "gluser_id": "245432726",
+  "vintage_months": 1,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mahuva",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ha ji.\\n\\nExecutive: Hello. Sir, mai Mova se baat kar raha hu, Nexxess Export se. Hello.\\n\\nCustomer: Kaun baat kar rahe hain?\\n\\nExecutive: Nexxess Export se baat kar raha hu, Mova se.\\n\\nCustomer: Kya naam hai aapka?\\n\\nExecutive: Milan hai, naam Milan Kapadiya.\\n\\nExecutive: Milan ji, mai Ankur Singh hi baat karu, mere paas hi aapka call aaya hai abhi. Abhi meri aapse video meeting ke dwara hi baat ho rahi thi. Aur maine abhi aapko bataya tha ki aap images agar aap hame doge recorded line pe hain, to hum aapki images add karenge. Google se hum koi images nahi utha sakte hain sir. Ye cheeze mai abhi bhi aapko bata raha hu. Ha ji bilkul.\\n\\nCustomer: Okay.\\n\\nExecutive: Ha ji, ha ji. Iske alawa koi aur jankari chahiye to aap bataiye. Aapko humne product ke bare mein koi deny ya mana nahi kiya hai. Aap hame material dijiye aur material hum aapka add karenge yaha se. Lekin aap bhi samajh sakte hain, aap bhi online\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add images to his product.\\n\n\\n\nResolution:\\n\n- Executive explained images can't be taken from Google.\\n\n- Executive asked to provide material to add.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- images, product, material\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e76886ed-b784-40b6-9ae9-4a43855bfb8f",
+  "ucid": "e76886ed-b784-40b6-9ae9-4a43855bfb8f",
+  "seller_categories": [
+    {
+      "mcat_id": "7518",
+      "mcat_name": "Onion Powder"
+    },
+    {
+      "mcat_id": "26446",
+      "mcat_name": "Dehydrated Onion"
+    },
+    {
+      "mcat_id": "84758",
+      "mcat_name": "Dehydrated Onion Flake"
+    },
+    {
+      "mcat_id": "11917",
+      "mcat_name": "Garlic Powder"
+    },
+    {
+      "mcat_id": "147472",
+      "mcat_name": "Tomato Powder"
+    }
+  ]
+}

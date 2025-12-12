@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666902522",
+  "gluser_id": "4114636",
+  "vintage_months": 74,
+  "bl_dau_oct": 28,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Khatauli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630884",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Ji Rustam Agro Industries se baat ho rahi hai sir?\\nExecutive: Ji.\\nCustomer: Ji Jabal ji baat kar raha hu. Ujjwal baat kar raha tha sir IndiaMART se.\\nExecutive: Achcha achcha.\\nCustomer: Haan sir bataiye sir aapne feedback send kiya tha kya issue aa raha hai?\\nCustomer: Sir issue to aa hi raha hai do saal se koi service nahi mil pa rahi hai. Ab isko regular hum dekhne mein lage hain to kuch matlab jo hai buylead kisi aur ki aati hain. Koi aage hi aage hi nahi to nahi aati.\\nPata chalega ke aa raha hai 500 piece aa raha hai buylead ka pata chala uska buylead ka kaam hi nahi hai. Rotavator ka.\\nExecutive: Sir sir.\\nCustomer: Aur aisa do saal ho gaye mujhe is cheez se pareshan hote hue. Sahi baat to ye hai.\\nCustomer: Itna dhyan nahi deta tha ab maine dhyan diya to ji.\\nExecutive: Ji ji ji.\\nCustomer: Aur wohi service ji jo main party se baat karta hu woh bolte hain abhi to mere paas phone aaya tha agar koi genuine hai na to pata chalega mere paas to abhi kitne phone aayenge bhai aisa katholi se wohi dusre pe jaati hai. Ke ye boliye ye kahiye naukar wale ke naam se gayi hai. Sir sir sir. Singh sahab hai yaha pe.\\nExecutive: Baat baat bilkul sahi hai sir Jabal ji aapki. Sir agar thoda sa time ho to matlab in cheezon se related thoda main aapko online aake discuss karna chahunga thoda aur.\\nCustomer: Online aake kya karenge online aake bataiye aap.\\nExecutive: Sir main apna screen share karunga sir aapko buylead dikhaunga usse related question puchunga aur sir thoda sa aapka. Itna time nahi hai mere paas itna time nahi hai.\\nExecutive: Sir sir main jyada main samajh sakta hu sir aapki.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving proper service for two years.\\n\n- Receiving irrelevant buyleads.\\n\n- Parties say they just received a call.\\n\n\\n\nResolution:\\n\n- Executive listened to the customer's concerns.\\n\n- Executive offered online discussion.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, service, online discussion\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d9aa7a34-34d1-4487-92f4-9dc131ebbe27",
+  "ucid": "d9aa7a34-34d1-4487-92f4-9dc131ebbe27",
+  "seller_categories": [
+    {
+      "mcat_id": "42178",
+      "mcat_name": "Rotavator Blades"
+    },
+    {
+      "mcat_id": "121292",
+      "mcat_name": "Agricultural Gearbox"
+    },
+    {
+      "mcat_id": "42177",
+      "mcat_name": "Cultivator Shovels"
+    },
+    {
+      "mcat_id": "41760",
+      "mcat_name": "Tiller Blades"
+    },
+    {
+      "mcat_id": "145420",
+      "mcat_name": "Tractor Trolley Hook"
+    }
+  ]
+}

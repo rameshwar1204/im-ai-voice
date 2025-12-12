@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667065510",
+  "gluser_id": "241131569",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689490",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ma'am bataiye.\\nExecutive: Ji ji, achha services mein baat ho rahi hai?\\nCustomer: Haan haan, aapko toh maine bahut baar phone kiya official time pe. Abhi toh mere paas abhi system bhi nahi hai. Office bhi chutti ho gaya.\\nExecutive: Nahi nahi, bas mujhe confirm karna tha. Aapki baat ho gayi Haider Ali se? Aapne documents wagera share kar diye unko?\\nCustomer: Document share kar diya hai. But Haider Ali ko maine do baar phone kiya toh phone receive hi nahi kiya sir.\\nExecutive: Achha achha achha theek hai, koi baat nahi. Toh theek hai aap abhi abhi kya kehte hain aapka official time khatam ho gaya hai kya?\\nCustomer: Haan haan.\\nExecutive: Achha theek hai. Kal aap morning mein ek baar Haider Ali se coordinate kariye. Unko documents wagera jo bhi required hai aap share kar dijiye, theek hai?\\nCustomer: Share kar diya hai.\\nExecutive: Share kar diya hai na?\\nCustomer: Haan haan.\\nExecutive: Theek hai theek hai theek hai. Theek hai jaisa bhi rehta hai ma'am main ek baar aapko kal update...\\nCustomer: Kab tak close hoga ma'am? Yeh bata sakte hain aap?\\nExecutive: Haan ma'am complaint ke regarding hi discuss karna chah rahi thi. Toh ek baar main Haider Ali se coordinate karke kal aapse baat karti hoon, theek hai?\\nCustomer: Okay.\\nExecutive: Chaliye okay ma'am, thank you.\\nCustomer: Thank you.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants to know when the complaint will be closed.\\n- Stated that documents have already been shared.\\n- Mentioned that calls to Haider Ali were not answered.\\n\\nResolution:\\n\\n- Confirmed that the customer has shared the documents.\\n- Advised to coordinate with Haider Ali the next morning.\\n- Promised to coordinate internally and call back the next day.\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive will coordinate with Haider Ali and call the customer back the next day.\\n\\nAlert (If Any):\\n- complaint\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- complaint, document submission, follow-up, coordination\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=46b4c488-eb81-4b8b-ac56-1004783b637d",
+  "ucid": "46b4c488-eb81-4b8b-ac56-1004783b637d",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "186990",
+      "mcat_name": "Powder Coating Powder"
+    },
+    {
+      "mcat_id": "188894",
+      "mcat_name": "MS Powder Coating"
+    },
+    {
+      "mcat_id": "117876",
+      "mcat_name": "Mould Release Spray"
+    },
+    {
+      "mcat_id": "35656",
+      "mcat_name": "Powder Coating"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668238915",
+  "gluser_id": "5680622",
+  "vintage_months": 19,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji.\\nCustomer: Haan sir, what's your good name?\\nExecutive: Ma'am Shahbaz baat kar raha hu, Saima ma'am.\\nCustomer: Shahbaz. Haan haan, theek hai. Actually na aapka name nahi yaad tha mujhe.\\nExecutive: Achha, okay.\\nCustomer: Haan ji. So Shahbaz mai ye keh rahi thi ki mai video meet pe link share karu aapko?\\nExecutive: Haan ji ma'am, sure.\\nExecutive: Okay.\\n\\nExecutive: Kaunsi mail ID pe bhejoge aap?\\nCustomer: A, yahi maine bhej toh diya hai. Abhi aapko show hoga toh phir mai bata rahi hu.\\nExecutive: Achha haan, okay, mil gaya.\\nCustomer: Mil gaya?\\nExecutive: Yes.\\nCustomer: Join kar liya aapne?\\nExecutive: Haan ji.\\nCustomer: Achha ji, ek minute ko bhi karna dikha dijiye.\\n\\nExecutive: Sir, aisa karo, aap join karna. Mai abhi ek baar baat karke aapko, mai woh Shahbaz ko dekhta hu. Toh phir mai thodi der me aapko call karunga phir join karna. Aur join karke aapka matlab aapke naam jo hai, dikhega. Four months ka aapka.\\nCustomer: Haan ji.\\nExecutive: Okay, Saima session khatam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help joining video meet.\\n\n\\n\nResolution:\\n\n- Executive will call back to help join.\\n\n\\n\nNext Steps: \\n\n- Executive will call back shortly.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, joining, assistance\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=580d2cb1-1180-4c98-9119-f5b7c0c85f97",
+  "ucid": "580d2cb1-1180-4c98-9119-f5b7c0c85f97",
+  "seller_categories": [
+    {
+      "mcat_id": "190844",
+      "mcat_name": "Hospital Curtain Track"
+    },
+    {
+      "mcat_id": "45922",
+      "mcat_name": "Hospital Curtain"
+    },
+    {
+      "mcat_id": "149881",
+      "mcat_name": "Curtain Tracks"
+    },
+    {
+      "mcat_id": "10760",
+      "mcat_name": "Hospital Fowler Bed"
+    },
+    {
+      "mcat_id": "43928",
+      "mcat_name": "Folding Wheelchair"
+    }
+  ]
+}

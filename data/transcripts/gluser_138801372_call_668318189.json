@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "668318189",
+  "gluser_id": "138801372",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Neere Rama aayenge maa Sita sang aayenge, bhrata Lakshman aur bhakt Hanuman aayenge.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Haan Kishan ji Pawan baat kar raha tha IndiaMART se. Aapke manager se baat ho gayi hai na? Haan aapki mere manager se baat ho gayi hai sir. Already aapka na refund ke\\nCustomer: Haan.\\nExecutive: proceed ho gaya hai. Thik hai sir? Aur isme na kareeban sir kal aapko na main amount aapko bata dunga kitna refund ho raha hai aapke account mein. Thik hai sir? Aur\\nCustomer: Haan.\\nExecutive: 10 din aur lagega. Thik hai sir? Matlab kal ke baad maximum 10 din hai. Maximum 10 din mein aapke usi account mein jis account se aapne payment kiya hai, usi account mein 10 din mein sir reflect ho jayega. Thik hai? To kal main aapko amount bhi bata dunga.\\nCustomer: Haan. Kitna aayega wo?\\nExecutive: Wo kal sir kal main bata paunga actually aap haan kal main bata paunga. Actually kal abhi sham ko aapki baat hui hai na sir? To kal main kal main aapko call karke aapko bata dunga ki kitna aapke account mein credit ho jayega. Aur ye bata dijiye ki credit card se to payment nahi ki aapne?\\nCustomer: Nahi credit card se nahi ki.\\nExecutive: Bank se hi ki na sir aapne? Google Pay se? Google Pay se. Thank you. Haan haan. Ab aap ek number likh lijiyega sir. Mera number aap aap likh lijiyega. Main aapko bata deta hu.\\nCustomer: Pawan bhai naam hai ya haan. Hmm. Ye wala number nahi.\\nExecutive: Ye mera official number hai. Aap mera personal number likh lo. Isme sir WhatsApp nahi hai.\\nCustomer: To mujhe hi karke bhejiye na. Abhi main naksha hua hu.\\nExecutive: Achha achha kahi bahar ho kya? Chalo main hi likh ke bhej raha hu. Thik hai sir? Aur aapka ek complain open hua tha. Aapne ek concern open kiya hua tha ki aap\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's refund is not yet received.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund is being processed.\\n\n- Executive will inform the amount next day.\\n\n- Refund will reflect in 10 days.\\n\n- Executive will send his personal number.\\n\n\\n\nNext Steps: \\n\n- Executive will send a 'Hi' on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, bank, credit card\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7eaffe79-f9c8-41c3-99f4-3dce9fe7b4a0",
+  "ucid": "7eaffe79-f9c8-41c3-99f4-3dce9fe7b4a0",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "43251",
+      "mcat_name": "Neodymium Rod Magnet"
+    },
+    {
+      "mcat_id": "145239",
+      "mcat_name": "Screw Flights"
+    },
+    {
+      "mcat_id": "445748",
+      "mcat_name": "Alnico Rod Magnet"
+    }
+  ]
+}

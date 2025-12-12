@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667282967",
+  "gluser_id": "90558672",
+  "vintage_months": 5,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632718",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Namaskar, hello.\\nCustomer: Ha bolo, boliye.\\nExecutive: Namaskar, Adarsh baat kar raha hu IndiaMART ka senior manager.\\nCustomer: Ha namaste, boliye.\\nExecutive: Aapka discussion hua hoga kal Trupti ke saath jo aapki abhi nayi account manager hai.\\nCustomer: Ha.\\nExecutive: Theek hai, kuch problem aaya tha Trupti se aapne not satisfied mark kiya tha, koi problem hai?\\nCustomer: Nahi problem, unse problem nahi hai, problem mera ye hai ki abhi pehle manager the unhone kaha tha ki aap buyleads consume nahi kar rahe ho.\\nExecutive: Hmm.\\nCustomer: To theek hai, matlab time mujhe consume nahi ho rahe the mere se.\\nExecutive: Okay.\\nCustomer: Baad me maine 15 days se regular consume kar raha hu.\\nExecutive: Okay.\\nCustomer: Regular usko track kar raha hu, mera screen time bhi aapko dikhega ki mai follow up kar raha hu achchi tarah se.\\nExecutive: Ji, ji, ji, ji.\\nCustomer: Abhi mere rates bhi as compared to other competitors se unke rates me hi hai.\\nExecutive: Hmm.\\nCustomer: Mujhe calls nahi aa rahe hai sir, mujhe isse pehle kaha gaya tha ki aapko calls aayenge, aapko enquiry aayegi.\\nExecutive: Hmm.\\nCustomer: Aapke paas laptop, aapke paas laptop hai sir?\\nExecutive: Abhi, abhi to nahi hai sir laptop, abhi mai factory me hu, laptop to nahi hai.\\nExecutive: Kitne baje, kitne baje tak mobile pe join kar paoge sir? Mai apni screen share karke aapke computer aur aapki profile ek baar aapko show karao, to shayad thoda sa aur better aap jankari hame de pao aur hum aapko aur better jankari de paaye sir, ki kya problem hai sir, hai na actual. To mai aapko ek link bhej raha hu, vo aap join kariye aur mai apni screen share karta hu, aap usme dekhiye, mujhe bataiye ki aapke competitor kaun hai aur kya problem aa raha hai, kitne calls aapke paas aa rahe hai aur unke paas kitne call aa rahe hai, theek hai? Us tarah mai aapko show karke dikha deta hu, aap check karo maine aapko ek link bheja hai, Adarsh.\\nCustomer: Achcha.\\nExecutive: Mobile pe karne ka, mobile pe ho jayega, ha ho jayega, ho jayega.\\nCustomer: Join kariye, Adarsh.in ke naam se.\\nExecutive: Ha, join pe join kar lijiye aap.\\nCustomer: Ha, mai abhi call disconnect karna padega ya isse?\\nExecutive: Aap ek baar, aap pehle ek baar join kariye, pehle dekhte hai ki vaha pe join ka option batata rahunga na, fir uske baad call cut kar dena, hai na?\\nCustomer: Theek hai, join kariye, ek second.\\n\\nCustomer: Sir, mujhe call disconnect karna padega?\\nExecutive: Theek hai, fir mai call cut kar raha hu.\\nCustomer: Ha, ha, ha, theek hai, mai call cut kar raha hu.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving calls/enquiries.\\n\n- Earlier manager said customer not consuming buyleads.\\n\n\\n\nResolution:\\n\n- Executive sent a link to join a session.\\n\n- Executive will share screen to show profile.\\n\n\\n\nNext Steps: \\n\n- Customer to join the link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, calls, enquiry, screen share\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 176,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2dab732a-0cec-43ef-847d-f890146040a4",
+  "ucid": "2dab732a-0cec-43ef-847d-f890146040a4",
+  "seller_categories": [
+    {
+      "mcat_id": "177406",
+      "mcat_name": "Custard Apple Pulp"
+    },
+    {
+      "mcat_id": "9823",
+      "mcat_name": "Mango Pulp"
+    },
+    {
+      "mcat_id": "652703",
+      "mcat_name": "Jamun Pulp"
+    },
+    {
+      "mcat_id": "179564",
+      "mcat_name": "Frozen Custard Apple"
+    },
+    {
+      "mcat_id": "21740",
+      "mcat_name": "Alphonso Mango Pulp"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672547937",
+  "gluser_id": "181668896",
+  "vintage_months": 11,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687301",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Namaste Kishanpur Decorating se baat kar rahe hain sir.\\nCustomer: Haan.\\nExecutive: Sir main na Vijay Agarwal bol raha hun India Mart se baat kar raha hun main.\\nCustomer: Haan boliye Vijay ji.\\nExecutive: Sir ye Vijay ji sir aapne to aapke paas WhatsApp pe feedback diya tha aapne not not satisfied diya sir.\\n\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave a not satisfied feedback on WhatsApp.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, whatsapp\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b8768c0a-e9c8-4218-a4f2-41d48fbf7f4d",
+  "ucid": "b8768c0a-e9c8-4218-a4f2-41d48fbf7f4d",
+  "seller_categories": [
+    {
+      "mcat_id": "22540",
+      "mcat_name": "Bathroom Wall Shelf"
+    },
+    {
+      "mcat_id": "160315",
+      "mcat_name": "Stainless Steel Kitchen Trolley"
+    },
+    {
+      "mcat_id": "25468",
+      "mcat_name": "Living Room Corner Shelf"
+    },
+    {
+      "mcat_id": "190706",
+      "mcat_name": "SS Corner Shelf"
+    },
+    {
+      "mcat_id": "38610",
+      "mcat_name": "Wall Mounted Shelf"
+    }
+  ]
+}

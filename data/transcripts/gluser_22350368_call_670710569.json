@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670710569",
+  "gluser_id": "22350368",
+  "vintage_months": 20,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahilyanagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667822",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a69677c-c801-4699-a439-2e6bcea5c1d0",
+  "ucid": "4a69677c-c801-4699-a439-2e6bcea5c1d0",
+  "seller_categories": [
+    {
+      "mcat_id": "35216",
+      "mcat_name": "Pool Tables"
+    },
+    {
+      "mcat_id": "35054",
+      "mcat_name": "Poker Table"
+    },
+    {
+      "mcat_id": "145470",
+      "mcat_name": "Foosball Table"
+    },
+    {
+      "mcat_id": "106838",
+      "mcat_name": "Indoor Games Table"
+    },
+    {
+      "mcat_id": "21665",
+      "mcat_name": "Air Hockey Tables"
+    }
+  ]
+}

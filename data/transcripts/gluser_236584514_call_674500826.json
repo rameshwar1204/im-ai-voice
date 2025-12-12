@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674500826",
+  "gluser_id": "236584514",
+  "vintage_months": 5,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Yes sir, Namaskar.\\nCustomer: Haan ji, Namaskar. Haan ji sir, yeh keh raha tha video meet pe connect kar sakte hain abhi?\\nExecutive: Uh, ek system se karna padega ki woh ho jayega, mobile se ho jayega. Mobile se bhi ho jayega sir, par aapko screen share karni hogi waha pe.\\nCustomer: Chaliye.\\nExecutive: Theek mat karte hain.\\nExecutive: Uh, toh main abhi link share kar du aapko?\\nCustomer: Chaliye kariya.\\nExecutive: Theek hai sir, main aapko link share kar deta hu.\\nExecutive: Line pe rahiye sir.\\nExecutive: Sir aapke mail pe na link gaya hai.\\nCustomer: Check kariye.\\nExecutive: Sir link mila aapko?\\nCustomer: Hmm.\\nExecutive: Ji, sir usko join hoiye.\\n(silence)\\nAutomated message: Aap jis vyakti se baat kar rahe hain, unhone aapke call ko hold par rakha hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect on a video meet.\\n\n\\n\nResolution:\\n\n- Executive shared a link on customer's mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, screen share, link\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2c9e30ae-e108-4d0c-87a2-919685c71081",
+  "ucid": "2c9e30ae-e108-4d0c-87a2-919685c71081",
+  "seller_categories": [
+    {
+      "mcat_id": "193165",
+      "mcat_name": "Mantra Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "193164",
+      "mcat_name": "SecuGen Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "189719",
+      "mcat_name": "Morpho Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "4421",
+      "mcat_name": "Biometric Fingerprint Scanners"
+    }
+  ]
+}

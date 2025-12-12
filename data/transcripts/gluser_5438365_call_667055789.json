@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667055789",
+  "gluser_id": "5438365",
+  "vintage_months": 43,
+  "bl_dau_oct": 16,
+  "customer_type": "ExportTS",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9674821",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan yes, good evening sir.\\nCustomer: Hello. Kaun baat kar raha hai?\\nExecutive: Aawaz aa rahi hai?\\nCustomer: Sir aap kaun baat kar rahe hain?\\nExecutive: Haan sir main Priyanshu baat kar raha hoon. Actually wo aapka mail aaya tha IndiaMART pe.\\nCustomer: Ek minute mein baat karte hain main thoda ek minute mein aa raha hoon.\\nExecutive: Achha achha theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive called regarding a mail sent by the customer.\\n- Customer was busy and unable to talk at the moment.\\n\\n\\nResolution:\\n\\n- No resolution was provided as the call was cut short.\\n\\n\\nNext Steps: \\n- Issue not resolved. The customer asked to talk in a minute.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback, customer email\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=71fa3dfb-33de-4a3a-8159-134ca2a72a8c",
+  "ucid": "71fa3dfb-33de-4a3a-8159-134ca2a72a8c",
+  "seller_categories": [
+    {
+      "mcat_id": "134087",
+      "mcat_name": "Tape Stretching Line"
+    },
+    {
+      "mcat_id": "24921",
+      "mcat_name": "Circular Loom Machine"
+    },
+    {
+      "mcat_id": "138228",
+      "mcat_name": "PP Woven Sack Machine"
+    },
+    {
+      "mcat_id": "143416",
+      "mcat_name": "PET Bottle Washing Plant"
+    },
+    {
+      "mcat_id": "181257",
+      "mcat_name": "Extrusion Coating Lamination Plant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670156396",
+  "gluser_id": "73711006",
+  "vintage_months": 8,
+  "bl_dau_oct": 25,
+  "customer_type": "FREELIST",
+  "city_name": "Domjur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635498",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan mam aapne call kiya tha?\\nCustomer: Kon Sushmita baat kar raha tha?\\nExecutive: Ji ji ji ji.\\nCustomer: Abhi just hui na meeting?\\nExecutive: Ah mam ho gayi meeting ab mujhe ek cheez jaani hai aur Nazma Begum kon hai?\\nCustomer: Nahi pata wohi toh bata rahi hu.\\nExecutive: Mam aap toh unse hi call kar dete ho problem yeh hai.\\nCustomer: Maine kab call kiya tha? Iske number pe call kiya hai na?\\nExecutive: Nahi is number pe nahi aapne dusre number pe call kiya hai.\\nCustomer: Mujhe samajh mein nahi aa raha aapka jo number hai na usse 990044687.\\nCustomer: Nahi. Mai ek baar check karwa leti hu phir aap.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know who Nazma Begum is.\\n\n- Customer says executive called on another number.\\n\n\\n\nResolution:\\n\n- Executive will check the number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number, meeting\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f2f0044-c1e8-412d-a808-dd73bd20fbbd",
+  "ucid": "2f2f0044-c1e8-412d-a808-dd73bd20fbbd",
+  "seller_categories": [
+    {
+      "mcat_id": "29051",
+      "mcat_name": "Fuel Cells"
+    },
+    {
+      "mcat_id": "27725",
+      "mcat_name": "Electrolysis Equipment"
+    },
+    {
+      "mcat_id": "33958",
+      "mcat_name": "Peristaltic Pumps"
+    },
+    {
+      "mcat_id": "65137",
+      "mcat_name": "Graphite Sheet"
+    },
+    {
+      "mcat_id": "133895",
+      "mcat_name": "Platinum Electrode"
+    }
+  ]
+}

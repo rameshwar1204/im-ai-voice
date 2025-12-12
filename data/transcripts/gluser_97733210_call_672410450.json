@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672410450",
+  "gluser_id": "97733210",
+  "vintage_months": 70,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Weise bada time 4 baje karta hu aapko main. \\nCustomer: 4 4 baje.\\nExecutive: Haan abhi just main bahar gaya hua tha na abhi aaya hu. \\nCustomer: Koi nahi lagata hu ek bar utha lijiyega please.\\nExecutive: Theek hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to receive a call at 4 PM.\\n\n\\n\nResolution:\\n\n- Agreed to call back at 4 PM.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall schedule\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25c06d2f-2e68-4099-9ca0-e3a31b64700b",
+  "ucid": "25c06d2f-2e68-4099-9ca0-e3a31b64700b",
+  "seller_categories": [
+    {
+      "mcat_id": "315637",
+      "mcat_name": "CO2 Gun"
+    },
+    {
+      "mcat_id": "183257",
+      "mcat_name": "Air Pistol"
+    },
+    {
+      "mcat_id": "50141",
+      "mcat_name": "Air Rifle"
+    },
+    {
+      "mcat_id": "21405",
+      "mcat_name": "Sports Air Guns"
+    },
+    {
+      "mcat_id": "651059",
+      "mcat_name": "Multi Shot Air Rifle"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670407086",
+  "gluser_id": "236584514",
+  "vintage_months": 5,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, ek baat bataiye mere me inquiry kyu nahi aa raha inquiry kyu nahi aa raha hai?\\nCustomer: Inquiry nahi aa rahi hai?\\nExecutive: Ji. A sir abhi to mai sir aaj chutti pe hu. Kal sir mai office pahuchunga aapko kal dekh ke bata du to.\\nCustomer: Sir to koi aur ko line pe karwaiye na sir. Mai samajh raha hu chutti pe lekin mere ko problem to solution chahiye na.\\nExecutive: Aap mere ko na WhatsApp pe apne company ka mere ko naam bhej do ek baar.\\nCustomer: Sir aapke paas to detail aa gaya hoga mera. Mera call to direct company me laga hai.\\nExecutive: Actually kya hota hai ki PNS number aata hai sir. Aapka sir jo number hai na wo nahi aaya mere paas.\\nCustomer: Chal rahi hai.\\nExecutive: Apne mere ko WhatsApp pe apni company ka naam likh ke bhej do. All in one solution.\\nCustomer: All in one solution.\\nExecutive: Thik hai sir mai dekh ke batata hu. Aapko WhatsApp kar dunga mai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving inquiries.\\n\n- Wants immediate solution, not delayed due to leave.\\n\n\\n\nResolution:\\n\n- Executive asked customer to send company name on WhatsApp.\\n\n- Executive will check and inform the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will check and WhatsApp the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, whatsapp, pns number, company name\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=56d7d81a-17fb-4460-86fa-9820c5c1f842",
+  "ucid": "56d7d81a-17fb-4460-86fa-9820c5c1f842",
+  "seller_categories": [
+    {
+      "mcat_id": "193165",
+      "mcat_name": "Mantra Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "193164",
+      "mcat_name": "SecuGen Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "189719",
+      "mcat_name": "Morpho Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "4421",
+      "mcat_name": "Biometric Fingerprint Scanners"
+    }
+  ]
+}

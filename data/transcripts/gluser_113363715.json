@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667734446",
+  "gluser_id": "113363715",
+  "vintage_months": 11,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Sangli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637141",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Yeah hi Rahul sir very good afternoon kaise hain aap?\\nCustomer: Haan bolo.\\nExecutive: Sweety baat kar rahi thi actually aapka hamare pass call aayi thi sir incoming aaya tha to maine socha aapko ek bar call kar lu koi doubt vagera hai kya services se related?\\nCustomer: Nahi payment ke related doubt nahi tha kal madam ka phone aaya tha.\\nExecutive: Haan haan actually wo meri team ki hi ladki hai meri team mein hi hai wo aur abhi aapka catalog vahi handle karengi.\\nExecutive: To unhone aapko call kiya hoga.\\nCustomer: Baki koi agar doubt vagera hai to aap mujhe bataiye.\\nCustomer: Nahi phone gaya tha.\\nCustomer: Catalog activate hone ke liye do mahine to bache hue hai na activate hone ke liye.\\nExecutive: Sorry aapki aawaz break ho rahi hai kya keh rahe hain aap?\\nCustomer: Hum bol rahe the ki aapka do mahina abhi tak account activate hai.\\nCustomer: To isliye phone bolne ke liye phone kiya tha unhone.\\nExecutive: Theek hai to actually kya hai ki aaj to matlab hamara off hai to ek bari main kal unko bol dungi connect karne ke liye but ye aapne incoming call kiya hai na to ek tarah se ye concern open ho gaya to isko to main close kar du na main direct phir unko bol dungi ki wo aapke contact kar lengi.\\nCustomer: Theek hai.\\nExecutive: Theek hai baki na ha baki mail par agar feedback ke liye aayega to mere feedback ke liye aayega mail pe main ye concern close karungi to vahan pe aap positive feedback de dijiyega bas theek hai.\\nCustomer: Haan.\\nExecutive: Haan haan okay done main kal call karvati hu kitne baje available rahenge aap?\\nCustomer: Din me kabhi bhi kar dijiye koi baat nahi.\\nExecutive: Theek hai main kal call karvati hu aap ek bari connect karke on video meet jo bhi corrections vagera karne hai wo unke sath ek bar karva lijiyega aur jitna time services bacha hai sir unke sath milke ek bari use kijiye result aapko dikhega to hum aage baat karenge renewal ke liye ya phir jo bhi aapke agar other plans hai trust and all ke baki nahi to totally aapki choice hai theek hai.\\nCustomer: Okay.\\nExecutive: Haan ji done done okay sir thank you.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about catalog activation validity.\\n\n\\n\nResolution:\\n\n- Executive confirmed catalog manager would contact customer.\\n\n- Executive requested positive feedback on email.\\n\n\\n\nNext Steps: \\n\n- Catalog manager will contact customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, activation, feedback, renewal\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 139,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ee66d4ed-af04-45bf-af60-d2b1a510793d",
+  "ucid": "ee66d4ed-af04-45bf-af60-d2b1a510793d",
+  "seller_categories": [
+    {
+      "mcat_id": "110534",
+      "mcat_name": "Dried Fruit Pouches"
+    },
+    {
+      "mcat_id": "129165",
+      "mcat_name": "Snack Food Pouches"
+    },
+    {
+      "mcat_id": "85957",
+      "mcat_name": "Packaging Pouch"
+    },
+    {
+      "mcat_id": "84725",
+      "mcat_name": "Food Packaging Pouches"
+    },
+    {
+      "mcat_id": "85278",
+      "mcat_name": "Milk Pouch"
+    }
+  ]
+}

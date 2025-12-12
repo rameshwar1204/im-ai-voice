@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669969104",
+  "gluser_id": "44506575",
+  "vintage_months": 5,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Shahapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656761",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Aap jis vyakti se baat\\nHello?\\nHello?\\nHanji sir, namaskar.\\nNamaskar sir, boliye. Sudhanshu baat kar raha hu, IndiaMART se.\\nHan sir boliye.\\nActually maine na ticket open kiya tha, toh mere paas mail revert aaya hai ki thana aur thane ek hi hota hai.\\nEk hi nahi hai na sir, alag alag hai.\\nMaine bola but unhone bola ki pehle alag tha, matlab thane ka thane ka hi naam thana tha, usko change karke thane kar diya gaya hai.\\nNahi nahi, woh Mumbai wale baat kar rahe hai na?\\nHan.\\nHan haan. Toh hamare idhar ek thana hai, aapke idhar Mumbai mein thane hai.\\nUh aur aapka jo thana hai woh kiske nearest mein hai?\\nYeh hai na, dekhiye Nagpur hai Nagpur.\\nHmm. Nagpur se 40 kilometer dur aata hai.\\nEk minute.\\nIska district kya padta hai?\\nBhandara.\\nMaharashtra mein hi hai.\\nHan.\\nBut sir unhone bola ki ek hi hai dono, isliye hum log change nahi kar sakte hai isko.\\nNahi na sir, aap ek kaam kariye na, unko mere ko phone karne boliye. Main unse baat kar leta hu woh bhi hai woh.\\nHai ki nahi? Theek hai. Theek hai, okay.\\nHan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says Thana and Thane are different.\\n\n- Executive says Thana and Thane are different.\\n\n\\n\nResolution:\\n\n- Executive asked customer to have concerned person call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- thana, thane, ticket, location\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe49ff71-dab9-4013-b91b-ed43db7e22f0",
+  "ucid": "fe49ff71-dab9-4013-b91b-ed43db7e22f0",
+  "seller_categories": [
+    {
+      "mcat_id": "28937",
+      "mcat_name": "Fragrance Perfume"
+    },
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "6683",
+      "mcat_name": "Natural Incense Stick"
+    },
+    {
+      "mcat_id": "12096",
+      "mcat_name": "Aromatic Incense Sticks"
+    },
+    {
+      "mcat_id": "764",
+      "mcat_name": "Incense Sticks"
+    }
+  ]
+}

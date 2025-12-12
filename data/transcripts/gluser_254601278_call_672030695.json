@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672030695",
+  "gluser_id": "254601278",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677204",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=40abcce5-8523-43c8-96f2-6e63d8e48350",
+  "ucid": "40abcce5-8523-43c8-96f2-6e63d8e48350",
+  "seller_categories": [
+    {
+      "mcat_id": "650573",
+      "mcat_name": "Women Co-Ord Set"
+    },
+    {
+      "mcat_id": "181841",
+      "mcat_name": "Palazzo Suit"
+    },
+    {
+      "mcat_id": "656124",
+      "mcat_name": "Kurti Pant Dupatta Set"
+    },
+    {
+      "mcat_id": "143143",
+      "mcat_name": "Anarkali Suits"
+    },
+    {
+      "mcat_id": "177761",
+      "mcat_name": "Embroidered Anarkali Suits"
+    }
+  ]
+}

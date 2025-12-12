@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675805782",
+  "gluser_id": "198992704",
+  "vintage_months": 1,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710706",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Asif ji good morning.\\nCustomer: Good morning good morning sir.\\nExecutive: Haan Asif ji ye bol raha tha.\\nCustomer: Ji boliye.\\nExecutive: Abhi main abhi hum aapke whatsapp pe link share kar raha hu sir google meet ke liye theek hai.\\nCustomer: Laptop pe karu ya isi me phone pe.\\nExecutive: Aapke laptop se kare to aur achcha samajh me aayega sir aapko.\\nCustomer: Laptop se connect karte.\\nExecutive: Theek hai theek hai main aapko whatsapp pe link bhej raha hu theek hai sir to aaj kya mujhe aap sare product bata dena kon se add karne hai kon sa sab main pura catalog aapka update kar dunga aaj theek hai.\\nCustomer: Theek.\\nExecutive: Haan koi product aapko jo add karwane hai wo mujhe bata dena wo main add kar dunga aur sare jo by list wagera main aapko sab bata dunga aaj theek hai to aaj achche se aap laptop se join kar lo theek hai.\\nCustomer: Abhi abhi kar lena kitne mere paas me.\\nExecutive: Haan to abhi main aapko link bhej raha hu abhi ek minute me theek hai.\\nCustomer: Theek theek okay theek okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to update product catalog.\\n\n\\n\nResolution:\\n\n- Executive agreed to share Google Meet link.\\n\n- Executive will assist with product addition and catalog update.\\n\n\\n\nNext Steps: \\n\n- Executive will send Google Meet link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product catalog, google meet, whatsapp link\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03939939-d0a0-45a7-b77a-31372fe964d7",
+  "ucid": "03939939-d0a0-45a7-b77a-31372fe964d7",
+  "seller_categories": [
+    {
+      "mcat_id": "141382",
+      "mcat_name": "Solar Panel Mounting Structure"
+    },
+    {
+      "mcat_id": "39004",
+      "mcat_name": "Transmission Towers"
+    },
+    {
+      "mcat_id": "120910",
+      "mcat_name": "Module Mounting Structure"
+    },
+    {
+      "mcat_id": "43430",
+      "mcat_name": "Telecom Tower"
+    },
+    {
+      "mcat_id": "159533",
+      "mcat_name": "Solar Panel Stand"
+    }
+  ]
+}

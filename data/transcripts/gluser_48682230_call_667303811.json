@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667303811",
+  "gluser_id": "48682230",
+  "vintage_months": 91,
+  "bl_dau_oct": 28,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Samalkha",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good morning, sir.\\nCustomer: Good morning.\\nExecutive: Sir, my name is [Executive Name], speaking from IndiaMART. Am I speaking to Mr. [Customer Name]?\\nCustomer: Yes.\\nExecutive: Sir, I am calling regarding your IndiaMART subscription. Sir, your subscription is about to expire. Would you like to renew it, sir?\\nCustomer: No, I don't want to renew it.\\nExecutive: Okay, sir. Sir, may I know the reason why you don't want to renew it?\\nCustomer: Because I am not getting any benefit from it. I am not getting any leads.\\nExecutive: Okay, sir. Sir, how long have you been using IndiaMART?\\nCustomer: It has been almost a year.\\nExecutive: Okay, sir. Sir, have you received any leads in this one year?\\nCustomer: Yes, I have received leads, but they are all fake. No one is genuine.\\nExecutive: Okay, sir. Sir, have you verified those leads through OVP?\\nCustomer: What is OVP?\\nExecutive: Sir, OVP means Order Verification Process. In this, we verify the buyer's details and check whether the buyer is genuine or not.\\nCustomer: No, I haven't done that.\\nExecutive: Okay, sir. Sir, if you want, I can explain the whole process to you.\\nCustomer: Okay, explain it.\\nExecutive: Sir, first of all, whenever you receive a lead, you should check the buyer's details. You should check their name, company name, and contact number. If you find anything suspicious, you should report it to us. We will verify the buyer's details and let you know whether the buyer is genuine or not.\\nCustomer: Okay.\\nExecutive: Sir, if you want, I can also help you with this process.\\nCustomer: Okay, help me.\\nExecutive: Okay, sir. Sir, can you tell me your company name?\\nCustomer: My company name is [Company Name].\\nExecutive: Okay, sir. Sir, can you tell me your product name?\\nCustomer: My product name is [Product Name].\\nExecutive: Okay, sir. Sir, I have noted down your details. Sir, whenever you receive a lead, you can contact me. I will help you with the verification process.\\nCustomer: Okay.\\nExecutive: Okay, sir. Sir, is there anything else I can help you with?\\nCustomer: No, that's all.\\nExecutive: Okay, sir. Thank you for your time. Have a nice day, sir.\\nCustomer: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to cancel subscription due to fake leads.\\n\n- Asks about OVP (Order Verification Process).\\n\n\\n\nResolution:\\n\n- Executive explained the OVP process.\\n\n- Executive offered assistance with lead verification.\\n\n- Executive noted down company and product details.\\n\n\\n\nNext Steps: \\n\n- Customer can contact executive for lead verification.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Negative -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, buyleads, order verification process\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=63097135-549e-4258-9e95-ecd9d9efe484",
+  "ucid": "63097135-549e-4258-9e95-ecd9d9efe484",
+  "seller_categories": [
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "164041",
+      "mcat_name": "Mild Steel Hex Bolt"
+    },
+    {
+      "mcat_id": "134159",
+      "mcat_name": "Mild Steel Bolt"
+    },
+    {
+      "mcat_id": "1347",
+      "mcat_name": "Carriage Bolts"
+    },
+    {
+      "mcat_id": "9222",
+      "mcat_name": "Hex Bolts"
+    }
+  ]
+}

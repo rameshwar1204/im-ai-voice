@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673928815",
+  "gluser_id": "249025843",
+  "vintage_months": 4,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ganaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699556",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan.\\nExecutive: Ji sir, abhi call disconnect ho gaya tha na. Main keh raha hun sir ek mail bhej dijiye.\\nCustomer: Karta hun baat.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to send an email.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nemail request, call disconnect\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=17a54a7f-90cc-4aa3-8611-47f9b7afbf7a",
+  "ucid": "17a54a7f-90cc-4aa3-8611-47f9b7afbf7a",
+  "seller_categories": [
+    {
+      "mcat_id": "122569",
+      "mcat_name": "Aerial Bunched Cable"
+    },
+    {
+      "mcat_id": "154255",
+      "mcat_name": "EPR Cable"
+    },
+    {
+      "mcat_id": "193867",
+      "mcat_name": "Polycab Armoured Cable"
+    },
+    {
+      "mcat_id": "150366",
+      "mcat_name": "PVC Insulated Armoured Cable"
+    },
+    {
+      "mcat_id": "150067",
+      "mcat_name": "Copper Armoured Cable"
+    }
+  ]
+}

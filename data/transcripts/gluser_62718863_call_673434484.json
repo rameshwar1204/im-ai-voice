@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673434484",
+  "gluser_id": "62718863",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Dharwad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello main main Adarsh baat kar raha hun India Mart head office Noida se bataiye kya pareshani aa rahi hai sir.\\nCustomer: Ji\\nCustomer: Hello\\nCustomer: Hello bataiye hello\\nCustomer: Hello hello baat karo usse\\nCustomer: Kaun hai\\nCustomer: Haan ji bataiye kya kya pareshani hai bataiye\\nCustomer: Sir ek minute wo baat nahi kar rahe ek minute.\\nExecutive: Sir aap batao na aapko kya pareshani hai wo cheez to batao main unse baat karke kya karu aap batao.\\nCustomer: Wahi sir pehle lead le aaya tha wo aisa hai karke bola tha maine nahi sir aisa hai wahi hai humne requirement hi nahi dala ye nahi dala waisa nahi dala aisa hi aata hai.\\nExecutive: To sare sari lead se business nahi mil payega sir aapko aap ek bar aao sara cheez sikho yahan se to fir main aapko batau aapne abhi ek din bhi jo hai yahan pe meeting wagera hua nahi aap pehle hi jo hai complaint karne lage har cheez ka ab main unse kya baat karu aap batao aap meeting join karo aapko sari cheez samjhaunga main yahan pe.\\nCustomer: Wo bhi samjhane wale the ek minute hai usko call karke aapko call karte.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is complaining about lead quality.\\n\n- Customer says requirements were not properly set.\\n\n\\n\nResolution:\\n\n- Executive asked customer to join a meeting.\\n\n- Executive offered to explain everything in meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, meeting, requirements\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aede987e-65f0-482f-beb4-af1b81ccf8d9",
+  "ucid": "aede987e-65f0-482f-beb4-af1b81ccf8d9",
+  "seller_categories": [
+    {
+      "mcat_id": "127388",
+      "mcat_name": "Corn DDGS"
+    },
+    {
+      "mcat_id": "127328",
+      "mcat_name": "Cottonseed Oil Cake"
+    },
+    {
+      "mcat_id": "3397",
+      "mcat_name": "Wheat Bran"
+    },
+    {
+      "mcat_id": "182636",
+      "mcat_name": "Rice Husk"
+    },
+    {
+      "mcat_id": "96272",
+      "mcat_name": "Cotton Seed Cake"
+    }
+  ]
+}

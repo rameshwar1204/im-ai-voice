@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670661564",
+  "gluser_id": "143529138",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Chengamanad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686191",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Good afternoon ma'am. ID Electronics mein baat ho rahi hai meri?\\nCustomer: Yeah. Ma'am do you understand English or Hindi?\\nExecutive: I'm comfortable in English.\\nExecutive: Okay. Yeah. Ma'am so you have opened one of your tickets here on IndiaMART. But you want to discuss something with your account managers. So I just want to know what issues you actually are facing.\\nCustomer: One of your representative already contacted me.\\nExecutive: Yeah. Actually they are from the production team who are designing your catalog and here on IndiaMART I am your account manager. We can even check that on your profile.\\nExecutive: I'm your account manager Shreya Singh.\\nCustomer: Sorry?\\nExecutive: Yeah. I'm saying I'm saying I'm your account manager here on IndiaMART. So if you have any issues regarding services or anything you can connect with me anytime.\\nCustomer: Yeah, okay.\\nExecutive: Yeah. So can we close your concern now?\\nCustomer: So then please can you give me your contact number or through\\nExecutive: 95\\nCustomer: Okay, just one minute.\\nExecutive: Okay.\\nCustomer: Ha okay tell.\\nExecutive: 95\\nExecutive: 9536\\nCustomer: 36\\nExecutive: 26\\nCustomer: 26\\nExecutive: 59\\nCustomer: Sorry?\\nExecutive: 59\\nExecutive: 59\\nExecutive: 05\\nCustomer: 05\\nExecutive: Okay. You can contact Shreya.\\nExecutive: Shreya.\\nExecutive: Yes.\\nExecutive: You can contact me like if you have any of issues regarding IndiaMART or anything you can connect me on that number.\\nCustomer: Oh yeah okay.\\nExecutive: Yeah. And one more thing ma'am you have called on 9696 yesterday. So can I close that concern for now?\\nCustomer: Yes, that is already in progress. That's regarding designing and all one Kausalya contacted us.\\nExecutive: Okay.\\nExecutive: Ma'am after that now you will be receiving a feedback for our team. So you can if you are satisfied with that then you can say yes.\\nCustomer: Yes, just a normal feedback okay ma'am.\\nExecutive: You will be receiving that on your mail ID.\\nCustomer: Okay.\\nExecutive: Okay.\\nExecutive: Okay ma'am. Okay thank you so much. Have a good day.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to discuss account issues.\\n\n- Customer asked for the executive's contact number.\\n\n- Executive asked to close previous concern.\\n\n\\n\nResolution:\\n\n- Executive introduced herself as account manager.\\n\n- Executive provided her contact number.\\n\n- Executive confirmed previous concern was in progress.\\n\n- Executive informed about feedback process.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- account manager, contact number, feedback, catalog\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 186,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=13f35187-0156-4621-8020-df1a8f0d22c9",
+  "ucid": "13f35187-0156-4621-8020-df1a8f0d22c9",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "44612",
+      "mcat_name": "LED TV"
+    },
+    {
+      "mcat_id": "178011",
+      "mcat_name": "4K TV"
+    },
+    {
+      "mcat_id": "95323",
+      "mcat_name": "Semi Automatic Washing Machine"
+    },
+    {
+      "mcat_id": "179884",
+      "mcat_name": "Android Television"
+    }
+  ]
+}

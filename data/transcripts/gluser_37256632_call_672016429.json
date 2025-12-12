@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672016429",
+  "gluser_id": "37256632",
+  "vintage_months": 8,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651118",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nExecutive: Haan.\\nExecutive: Ji good afternoon sir, Aditya baat kar raha tha IndiaMART se.\\nCustomer: Ji good afternoon.\\nExecutive: Ji aapka concern raise kiya tha team se jo revert aaya tha maine aapko mail kar diya tha check kiya tha sir?\\nCustomer: Kab mail kiya?\\nCustomer: Hello.\\nCustomer: Kab mail kiya aapne?\\nExecutive: Aapko kar diya tha 12 baje ke aas pass.\\nCustomer: Aaj?\\nExecutive: Haan aaj kiya hai subah exact 11:30, 11:30 exact mein sir.\\nCustomer: Sir main check karke aapko call karta hu.\\nExecutive: Theek hai. Lagbhag aadhe aadhe ghante mein call karta hu main aapko.\\nCustomer: Okay sir okay sir pahunch ke call kar lijiyega please.\\nExecutive: Theek hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know when the mail was sent.\\n\n\\n\nResolution:\\n\n- Executive informed that mail was sent at 11:30 AM.\\n\n\\n\nNext Steps: \\n\n- Customer will check the mail and call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail, revert, concern\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb0d1364-41bf-4595-812e-778cf636e627",
+  "ucid": "bb0d1364-41bf-4595-812e-778cf636e627",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "158115",
+      "mcat_name": "Incense Cone Making Machine"
+    },
+    {
+      "mcat_id": "110288",
+      "mcat_name": "Camphor Machine"
+    },
+    {
+      "mcat_id": "652781",
+      "mcat_name": "Dhoop Stick Making Machine"
+    },
+    {
+      "mcat_id": "206961",
+      "mcat_name": "Soham Agarbatti Making Machines"
+    }
+  ]
+}

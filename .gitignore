@@ -1,0 +1,23 @@
+# Binaries
+im-ai-voice
+csvparser
+*.exe
+
+# Keep directory structure
+!data/.gitkeep
+!data/transcripts/.gitkeep
+!data/analysis/.gitkeep
+!data/aggregates/.gitkeep
+!data/tickets/.gitkeep
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670229402",
+  "gluser_id": "250608031",
+  "vintage_months": 3,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665852",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "\\n\u0c86\u0caf\u0ccd\u0ca4\u0cb2\u0ccd\u0cb5\u0cbe \u0cac\u0cb0\u0ccd\u0ca4\u0cc0\u0ca8\u0cbf \u0c87\u0ca6\u0cc1.\\n\u0cb8\u0ccb \u0cb6\u0cc1\u0c95\u0ccd\u0cb0\u0cb5\u0cbe\u0cb0 \u0ca6\u0cbf\u0ca8 \u0cac\u0cb0\u0ccd\u0ca4\u0cc0\u0ca8\u0cbf \u0c8a\u0cb0\u0cbf\u0c97\u0cc6.\\nHello.\\n\u0ca8\u0cbe\u0cb3\u0cc6\u0c97\u0cc6 \u0c92\u0c82\u0ca6\u0cc1 \u0cab\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd \u0cae\u0cc1\u0c97\u0cbf\u0cb8\u0cbf\u0c95\u0cca\u0c82\u0ca1\u0cc1 \u0cb6\u0cc1\u0c95\u0ccd\u0cb0\u0cb5\u0cbe\u0cb0 \u0ca6\u0cbf\u0ca8 \u0cac\u0cb0\u0ccd\u0ca4\u0cc0\u0ca8\u0cbf \u0c8a\u0cb0\u0cbf\u0c97\u0cc6.\\nHello.\\n\u0c86.\\n\u0c95\u0ccd\u0caf\u0cbe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Will come to the town on Friday.\\n\n\\n\nResolution:\\n\n- Not applicable\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- town visit, friday\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4d1b249d-4dc2-4456-9571-3a9e2a2d12c4",
+  "ucid": "4d1b249d-4dc2-4456-9571-3a9e2a2d12c4",
+  "seller_categories": [
+    {
+      "mcat_id": "177429",
+      "mcat_name": "Wedding Turban"
+    },
+    {
+      "mcat_id": "179279",
+      "mcat_name": "Safa"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

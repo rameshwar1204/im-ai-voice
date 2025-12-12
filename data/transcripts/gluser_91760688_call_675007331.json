@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675007331",
+  "gluser_id": "91760688",
+  "vintage_months": 5,
+  "bl_dau_oct": 12,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Hathras",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706948",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ji baat hai pass logo do payment kar di.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Haan.\\nCustomer: Haan, Prem Babu baat kar rahe hain?\\nExecutive: Haan.\\nCustomer: Namaskar sir, main Senior Ed baat kar rahi hoon IndiaMART office se.\\nExecutive: Haan, namaste.\\nCustomer: Haan, theek hai na? Aapki sir na ek mail aayi thi hume not satisfied ki. Aap Hiba jo hai aapko service dete hain IndiaMART pe.\\nExecutive: Hmm.\\nCustomer: Fir kya hua sir aisa matlab not satisfied mark kara Hiba ki taraf se koi aisa.\\nCustomer: Abhi ye abhi ek bhi meri deal nahi hui hai char panch bhi nikal gaye.\\nExecutive: Achcha.\\nCustomer: Abhi deal nahi hui.\\nCustomer: Abhi ek bhi deal nahi hoti IndiaMART ke madhyam se. Jaise hi mere ko buyer ka aata hai wo turant karta hu fir bhi nahi ho rahi hai.\\nExecutive: Kya matlab buyer kya bolta hai aapse sir connect karke?\\nCustomer: To kabhi bolta hai galti se sorry sir galti se ho gaya hai bache ne kar diya ya kabhi bola requirement nahi hai bahut sari cheeze hoti hai.\\nExecutive: Achcha.\\nCustomer: Koi achcha ek baat to madam ko maine bola bhi tha 20-30 ka order tha main turant unko reply kiya maine ki ye keh raha hai mere ko requirement nahi hai ye kaun sa tarika hai dalte fir hat jate hain.\\nExecutive: Kya bola?\\nCustomer: Madam se meri baat hui thi bol madam ne ye bola tha chalo main baat karke dekho unhone baat karke dekhi ya nahi dekhi mere ko kuch nahi pata hai sir IndiaMART ki taraf se.\\nExecutive: Kis madam ne bola ki wo baat karegi?\\nCustomer: Are mere pe 20-30 ki requirement aayi thi LED ki bas 30 inch ki.\\nCustomer: To maine maine buyer se baat kiya to buyer mere ko ye bola ki bhai galti se pad gaya ab requirement nahi hai ab requirement nahi hai galti se pad gaya ye dono shabdon me difference hai.\\nExecutive: Theek hai.\\nCustomer: To ye baat ye baat mere khyal se Hiba se hui thi kinse meri hui thi to bole ki main baat karke dekhta hu ab unhone baat karke kiya baat kari ya nahi kari fir mere ko kuch nahi pata.\\nExecutive: Nahi aapko Prem sir ek cheez bata deti hu client ka number hume reveal nahi hota hai jaise jo buyer hote hain aapka number hume idea hai.\\nCustomer: Number maine diya tha.\\nExecutive: Theek hai. To sir usme aisa nahi hai ki hume baat karni hoti hai main jo aap mujhe screenshot lagaoge na.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No deals via IndiaMART despite immediate action.\\n\n- Buyers claim mistakes or lack of requirement.\\n\n- Doubts if IndiaMART executive followed up.\\n\n\\n\nResolution:\\n\n- Executive clarified client number policy.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, buyer, requirement, follow up\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3cf7603d-a81a-4141-b935-96ee6367ed6d",
+  "ucid": "3cf7603d-a81a-4141-b935-96ee6367ed6d",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "184302",
+      "mcat_name": "LG LED TV"
+    },
+    {
+      "mcat_id": "184300",
+      "mcat_name": "Samsung LED TV"
+    },
+    {
+      "mcat_id": "179007",
+      "mcat_name": "Voltas Split Air Conditioners"
+    },
+    {
+      "mcat_id": "203348",
+      "mcat_name": "Mitsubishi Window Air Conditioner"
+    }
+  ]
+}

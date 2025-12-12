@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669473340",
+  "gluser_id": "248605558",
+  "vintage_months": 0,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656470",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Ah, Sadashiv ji baat kare?\\nCustomer: Haan.\\nExecutive: Ah, hello sir, main Taruna baat kar rahi hu sir IndiaMART head office se, kaise hain aap?\\nCustomer: Haan madam, boliye na.\\nExecutive: Ji, aapka sir ek catalog aaya tha mere paas, kuch services ke regarding aapka discussion hua tha, kuch jaanna cha rahe the sir, ek ticket open hui thi aapki.\\nCustomer: Haan, kis se madam?\\nExecutive: Sir, IndiaMART head office se baat kar rahi hu, aapne call kiya tha?\\nCustomer: Ah,\\nExecutive: Kuch services ke regarding. Ho gaya, communication ho gaya.\\nCustomer: Ho gaya, kis se baat hua tha sir?\\nCustomer: Sapna, Sapna madam.\\nExecutive: Sapna ji se, kuch issue aa raha tha sir services mein?\\nCustomer: Koi issue to kuch bola nahi tha, isiliye madam ne aur ek chaar din mein aapka sab ho jayega.\\nExecutive: Nahi, matlab kuch problem aa raha tha, services abhi start hui hai na sir aapki?\\nCustomer: Nahi, abhi chalu nahi hua na madam, chalu ho jayega.\\nExecutive: Haan, abhi chalu, haan, wo thoda sa sir time lagta hai, wo ho jayega, abhi aapne recently I guess parso hi payment kiya hai na?\\nCustomer: Haan, yes yes madam.\\nExecutive: Haan, to wo ho jayega, do-teen din lagte hain sir, kyuki Saturday Sunday to waise bhi off rehta hai to do-teen din lagte hain, start ho jayega services. And aapke jo account manager hai na, aapke jo account manager hai na, Mr. Vikas, unki side se aapko call back bhi aa jayega sir services ke regarding.\\nCustomer: Okay, okay, okay.\\nExecutive: Aapka saari cheeze wo aapse discuss karenge fir. Right? Jaise hi start ho jayega ek baar. And aapka jo ticket open hua hai sir, usko main yaha se close kar deti hu sir. Theek hai? And usme na sir ek feedback ke liye aapke paas mail aayega aapke registered mail ID pe.\\nCustomer: Hmm hmm.\\nExecutive: Theek hai? Usko please yes kar dijiyega sir, wo hamare liye services feedback hota hai aapke account managers ke liye, theek hai?\\nCustomer: Okay madam, okay.\\nExecutive: To yes kar dijiyega sir feedback. Okay. Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about the services not started yet.\\n\n\\n\nResolution:\\n\n- Executive confirmed services will start in 2-3 days.\\n\n- Executive informed about feedback mail after ticket closure.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, catalog, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 121,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8258dec5-183b-4006-b089-1815c8d03750",
+  "ucid": "8258dec5-183b-4006-b089-1815c8d03750",
+  "seller_categories": [
+    {
+      "mcat_id": "191279",
+      "mcat_name": "Sugarcane Gud"
+    },
+    {
+      "mcat_id": "146876",
+      "mcat_name": "Organic Jaggery"
+    },
+    {
+      "mcat_id": "183031",
+      "mcat_name": "Organic Jaggery Powder"
+    },
+    {
+      "mcat_id": "10335",
+      "mcat_name": "Gud Powder"
+    },
+    {
+      "mcat_id": "182665",
+      "mcat_name": "Grape Plant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670387441",
+  "gluser_id": "53830906",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Perundurai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello?\\n\\nCustomer: Hello? Hello?\\nExecutive: Yes.\\nCustomer: Jaya Bharathi irukkangala?\\nExecutive: Namma company name sir?\\nCustomer: Hello.\\nExecutive: Namma company name sir?\\nCustomer: Sri Annapoorani man put products.\\nExecutive: Oru nimisham sir.\\n\\nExecutive: Oru nimishathula namma company details eduthuttu call pannattuma, unnaikku kupiduren.\\nCustomer: Aah, sari.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked for Jaya Bharathi.\\n\n- Executive asked for the company name.\\n\n\\n\nResolution:\\n\n- Executive will call back after getting details.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- company details, callback\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=914f85a9-0d16-46b7-9cfd-2b071b6c1441",
+  "ucid": "914f85a9-0d16-46b7-9cfd-2b071b6c1441",
+  "seller_categories": [
+    {
+      "mcat_id": "142630",
+      "mcat_name": "Groundnut Cake"
+    },
+    {
+      "mcat_id": "8538",
+      "mcat_name": "Sesame Oil"
+    },
+    {
+      "mcat_id": "442859",
+      "mcat_name": "Groundnut De Oiled Cake"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "191583",
+      "mcat_name": "Cold Pressed Peanut Oil"
+    }
+  ]
+}

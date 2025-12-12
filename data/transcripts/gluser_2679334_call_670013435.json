@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670013435",
+  "gluser_id": "2679334",
+  "vintage_months": 83,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Varanasi",
+  "iil_vertical_name": "KCD",
+  "customer_ticket_id": "9663565",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan salam sir Kadir bol raha hun IndiaMART se.\\nCustomer: Hain?\\nExecutive: Kadir baat kar raha hun IndiaMART se.\\nCustomer: Kadir bol IndiaMART se. Haan.\\nExecutive: Haan sir, Haan sir ji badhiya sir ji. Main ye kar raha tha ki wo sab kuch udhar se jo field wala jo aap se baat kiya tha na wo bhi agree ho gaya hai lene ke liye ki haan hum unko de dijiye mam service dene ke liye ready hai. Yahan se bhi maine aap okay kar diya ki haan aap case ko unko transfer kar dijiye. Jo transfer karne wala hai na ek Vikram naam ka banda hai. Usko do matlab uska response aa hi nahi raha hai. Reply nahi kar raha jabki dono paksh ready hai waha pe jo field wala jo hai na uske jo teen hierarchy upar wala hai usne bhi confirm kar diya hai. Ki haan wo case de dijiye hamare taraf se client ki taraf baat ho gayi hai aur client agree hai. Theek hai na service lene ke liye hume aur hamare taraf se baat ho chuki thi to humne bhi update kar diya ki haan hum bilkul ready hai aap isko service de dijiye hamare taraf se bhi koi dikkat nahi hai. Wo case transfer agar wo jaise waha se wo karega wo case automatic aapke paas assign ho jayega banda ka. Wo nahi ho raha abhi main subah se subah se Anand humko already update kar chuka hai wo teen bar maine call kar chuka hun mail pe bhi reply kar diya hun. Pata nahi wo abhi matlab ki office aa raha hai ya nahi aa raha hai jiski wajah se nahi ho raha main abhi thodi der ke baad abhi main call karne wala hun uske next level. Wo thoda dekh leta hun agar wo agar kar deta hai to ho jayega sab kuch hamare taraf se okay ho gaya hai aur jo aapke jo field wale jo hai na unke bhi jo branch manager hai wo bhi okay kar diye hai. Okay. Hamare taraf se dono aadmi se nahi khali wo transfer karne ka hai usko. Theek hai na Vikram kaun hai Banaras mein hai ya Delhi mein hai. Nahi IndiaMART ke head office mein hai. Ek bar main baat karke na maine call kiya abhi aap matlab din mein do bar call kar chuka hun usko mail pe bhi reply kar dunga lekin phone utha nahi raha wo. Wo ek bar baat ho jata hai to main fir aapko update karta hun theek hai na. Koi baat nahi main aapko update karta hun just thoda sa time dijiye main ek bar uske senior se baat karta hun ki kyun nahi kar raha hai wo theek hai na. Fir main aapko update karta hun theek hai na. Haan okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Case transfer pending from Vikram's end.\\n\n- Vikram is not responding to calls/emails.\\n\n\\n\nResolution:\\n\n- Executive assured to contact Vikram's senior.\\n\n- Executive will update the customer later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- case transfer, follow up, service\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ec1270c2-2611-456c-8182-dfc2ff446c5d",
+  "ucid": "ec1270c2-2611-456c-8182-dfc2ff446c5d",
+  "seller_categories": [
+    {
+      "mcat_id": "187580",
+      "mcat_name": "Organza Saree"
+    },
+    {
+      "mcat_id": "4227",
+      "mcat_name": "Banarasi Sarees"
+    },
+    {
+      "mcat_id": "34858",
+      "mcat_name": "Pure Silk Sarees"
+    },
+    {
+      "mcat_id": "148725",
+      "mcat_name": "Digital Printed Sarees"
+    },
+    {
+      "mcat_id": "183779",
+      "mcat_name": "Tissue Saree"
+    }
+  ]
+}

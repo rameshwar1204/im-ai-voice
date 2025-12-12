@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673233980",
+  "gluser_id": "252808571",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Mumbai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691957",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hanji, ma'am.\\nExecutive: Aapne call kiya tha mujhe? Hanji, ma'am. Actually kya hai aapki side se na baar baar ek ticket raise ho raha hai. Aap jab inquiry pe call karte ho, right?\\nCustomer: Haan.\\nExecutive: To waha pe na ma'am aapki call na Nazima Begum ke naam se aa rahi hogi.\\nCustomer: Aisa kuch nahi hai. Maine to ye Aashika madam hai na unka mera communication ho raha hai usme. Usme mujhe pilots nahi.\\nExecutive: Nahi, wo aapka communication ma'am alag hua hai.\\nCustomer: Haan.\\nExecutive: Hai na? Wo communication aapka to kal bhi hua tha. Wo to baat ho rahi hai aapki, no doubt. Lekin abhi kya hai aap jab inquiry pe call kar rahe ho na, main waha ka bata rahi hu. Ek number aapke paas inquiry mein aa raha hoga, just a second na.\\n\\nExecutive: Hum please stay on call.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's calls are showing as Nazima Begum.\\n\nResolution:\\n\n- Executive clarified the customer's inquiry issue.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry, communication, ticket\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6d25852f-68ca-4dd1-bf47-020ae133c08d",
+  "ucid": "6d25852f-68ca-4dd1-bf47-020ae133c08d",
+  "seller_categories": [
+    {
+      "mcat_id": "204895",
+      "mcat_name": "Vehicle Tracking Software"
+    },
+    {
+      "mcat_id": "180321",
+      "mcat_name": "Whatsapp Marketing"
+    },
+    {
+      "mcat_id": "172746",
+      "mcat_name": "Supply Chain Management"
+    },
+    {
+      "mcat_id": "147489",
+      "mcat_name": "Transport Management Software"
+    },
+    {
+      "mcat_id": "116804",
+      "mcat_name": "GPS Tracking Device"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669954108",
+  "gluser_id": "32767769",
+  "vintage_months": 3,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Pudukkottai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663253",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello sir.\\nCustomer: Hello.\\nExecutive: Namaste. Naan India Martla irunthu sir pesaren. Account manager.\\nCustomer: Haan solunga.\\nExecutive: Sir, indha sila keywordsla mattum oru correction pannidra idha ticket clear panna mudiyum. Adhukku dhaan call pannirundhen. Naan actual ah product solren. Adhu mattum panreengalaannu solren sir. Coconut cooking oil pannroma sir?\\nCustomer: Aama.\\nExecutive: Okay sir. Idhu phone la India Mart app vachirukkeengala?\\nCustomer: Haan vachirukken.\\nExecutive: Okay sir. Konjam app open pannikkireengala?\\nCustomer: Light ah konjam van la irukken veliya.\\nExecutive: Ennanga sir?\\nCustomer: Veliye van la veliya irukken.\\nExecutive: Van la irukkeengala sir?\\nCustomer: Van la irukken van la.\\nExecutive: Van laiya? Sir just oru one minute oru product dhaan sir. Andha oru product mattum remove pannitta idha issue clear pannikkalaam adhukku dhaan.\\n\\nExecutive: Andha buylead edukura idaththa mattum open pannikkonga. Adhu enga remove pannannu mattum solren.\\nCustomer: Indha ulla cover illama open aagala.\\nExecutive: Open aagalaingalo sir? Saringa sir. Neenga andha buylead edukura idaththula poittu andha product vandhu mela oru three dot irukkum sir. Adha click panningaana andha buylead preferences nu onnu kaattum. Andha idaththula andha coconut cooking oil nu irukkum sir. Saringala? Andha product neenga pannalanna andha idaththula remove pannittu new productsla poi indha product listing ah vandhu add panni vitturunga sir. Saringala?\\nCustomer: Illa cooking oil buylead dhaan irukken.\\nExecutive: Illa illa neenga pannittu irukkeenga. Ennanna adhukku ulla vandhu keyword add pannaama neenga lead mattum eduththirukkeenga. So vandhu adhu wrong aana idaththula mapping aayirukkum. So andha buylead preferencesla based on your buylead consumption nu oru tab irukkum. So andha idaththula remove pannittu new productsla coconut cooking oilnguradhu oru new product ah add pannikkonga sir. Okay va?\\nCustomer: Saringa.\\nExecutive: Okay nga sir. Neenga free aayittu enakku call back pannunga sir.\\nCustomer: Okay.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help removing a product.\\n\n\\n\nResolution:\\n\n- Executive guided to remove product from buylead.\\n\n- Executive instructed to add product in new products.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after making changes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product, app, cooking oil\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dd2f8279-0ee2-41e0-b9c4-5f10611fc0fc",
+  "ucid": "dd2f8279-0ee2-41e0-b9c4-5f10611fc0fc",
+  "seller_categories": [
+    {
+      "mcat_id": "189263",
+      "mcat_name": "Cold Pressed Coconut Oil"
+    },
+    {
+      "mcat_id": "186143",
+      "mcat_name": "Coconut Cooking Oil"
+    },
+    {
+      "mcat_id": "191583",
+      "mcat_name": "Cold Pressed Peanut Oil"
+    },
+    {
+      "mcat_id": "142111",
+      "mcat_name": "Groundnut Seeds"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    }
+  ]
+}

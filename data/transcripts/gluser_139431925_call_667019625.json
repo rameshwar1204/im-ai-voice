@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667019625",
+  "gluser_id": "139431925",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631398",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji. \\nExecutive: Haan ji sir hua wo aapka OTP aaya number pe?\\nCustomer: Nahi.\\nExecutive: Abhi uss pe kya issue ho raha hai?\\nCustomer: Nahi nahi isse to kuch nahi ho raha hai wo aa nahi raha phone to wo shayad.\\nExecutive: Network ka hi to koi issue hai ek baar alternate number pe call kar lijiye. Baki wo to clear ho gaya na ki kaha se change karna hai?\\nCustomer: Haan haan haan.\\nExecutive: Agar sir uske baad bhi koi issue aata hai na to is number pe call kar lijiyega, thik hai?\\nCustomer: Thoda phone karte raha karo, hal chal puchte karo aap unse.\\nExecutive: Thik hai sir aap wo abhi na jo maine complaint close ki hai aapko na email pe wo aaya hoga abhi feedback ka to please uss pe ek baar satisfied mark kar dijiye ji.\\nCustomer: Aapki rating baad me dekhna madam, de dunga mai rating aise hi.\\nExecutive: Sir wo aisa hai jo maine close kari hai jo aapne raise kari thi uska hai wo.\\nCustomer: Chalo thik hai koi nahi karwa dunga kya karna kya hai? \\nExecutive: Wo tabhi update hoga abhi ek second call cut hone ke baad ek baar mail pe jaiega. Abhi aaya hoga jo complaint aapne raise kari thi uska feedback to uss pe na satisfied mark kar dijiyega jo video calling hai uska hai wo.\\nCustomer: Thik hai.\\nExecutive: To ek baar use kar dijiyega wo update ho jaega please yaha pe.\\nCustomer: Thik hai.\\nExecutive: Baki koi issue to call kar lijiyega.\\nCustomer: Nahi nahi koi nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive OTP on number.\\n\n- Customer wants executive to keep calling.\\n\n\\n\nResolution:\\n\n- Executive asked to call on alternate number.\\n\n- Executive requested to mark feedback as satisfied.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- otp, feedback, complaint, network\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=15edf7c8-9000-4053-a252-65cd0ce1a590",
+  "ucid": "15edf7c8-9000-4053-a252-65cd0ce1a590",
+  "seller_categories": [
+    {
+      "mcat_id": "16113",
+      "mcat_name": "Gazebo Tent"
+    },
+    {
+      "mcat_id": "1708",
+      "mcat_name": "Outdoor Tents"
+    },
+    {
+      "mcat_id": "85304",
+      "mcat_name": "Tent House"
+    },
+    {
+      "mcat_id": "20112",
+      "mcat_name": "Wedding Tent"
+    },
+    {
+      "mcat_id": "15505",
+      "mcat_name": "Camping Dome Tent"
+    }
+  ]
+}

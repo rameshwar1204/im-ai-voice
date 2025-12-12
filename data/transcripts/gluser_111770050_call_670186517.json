@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670186517",
+  "gluser_id": "111770050",
+  "vintage_months": 58,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662550",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Good morning, main Alok baat kar raha hun India Mart se relationship manager, kaise hain aap?\\nCustomer: Thank you aap boliye. available hai.\\nExecutive: Kya?\\nExecutive: Main keh raha hun sir hai kya abhi available office mein?\\nCustomer: Nahi.\\nExecutive: Achcha. Sir mera discussion karna tha wo leads wagerah ke regarding na abhi aap aap bhi by leads wagerah buy karti hai na mam?\\nCustomer: Ah ha.\\nExecutive: India Mart ka kaisa hai abhi feedback mam aapka?\\nCustomer: Achcha hai. Aap kaise puchh lijiye is bare mein?\\nExecutive: Hain?\\nCustomer: Kaise puchh lijiye is bare mein?\\nExecutive: Nahi main to sir se to discussion ho gaya tha kyuki lead pe aap bhi baat karti hai na to isliye main just janna chah raha tha.\\nCustomer: Haan haan main hi baat karti hun.\\nExecutive: Haan theek hai na response wagerah aa to raha hai na India Mart se mam?\\nCustomer: Haan aa raha hai.\\nExecutive: Theek hai mam koi dikkat nahi main ek baar sir se phir baat.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants feedback on IndiaMART services.\\n\n\\n\nResolution:\\n\n- Customer provided positive feedback.\\n\n\\n\nNext Steps: \\n\n- Executive will talk to the customer's sir again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, buyleads, response\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7fe62e05-ff76-444c-8233-74e631a76765",
+  "ucid": "7fe62e05-ff76-444c-8233-74e631a76765",
+  "seller_categories": [
+    {
+      "mcat_id": "122335",
+      "mcat_name": "Rose Tree"
+    },
+    {
+      "mcat_id": "118493",
+      "mcat_name": "Banana Tissue Culture Plants"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "145991",
+      "mcat_name": "Lemon Tree"
+    }
+  ]
+}

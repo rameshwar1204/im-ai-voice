@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668519585",
+  "gluser_id": "8406701",
+  "vintage_months": 101,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good morning, IndiaMART se ${Exec_Name} bol rahi hu.\\nCustomer: Ha good morning madam.\\nExecutive: Sir, aapka IndiaMART pe listing hai?\\nCustomer: Ha hai.\\nExecutive: Sir, aapka company name confirm karenge?\\nCustomer: [Inaudible]\\nExecutive: Okay sir, aapko IndiaMART se kya help chahiye?\\nCustomer: Madam, maine jo payment kiya tha uska refund kab tak aayega?\\nExecutive: Okay sir, aapne refund ke liye request kab raise kiya tha?\\nCustomer: Request maine kiya tha lagbhag 15 din ho gaya.\\nExecutive: 15 din ho gaya, theek hai sir, main aapka check kar leti hu, ek minute hold pe rahiye.\\nCustomer: Ha theek hai.\\n(silence)\\nExecutive: Sir, aapne 15 din pehle kiya tha, aapka jo refund hai woh process ho gaya hai, aapko within two to three working days mein aapke account mein aa jayega.\\nCustomer: Theek hai madam.\\nExecutive: Aur koi help chahiye sir aapko?\\nCustomer: Nahi madam, thank you.\\nExecutive: Thank you sir, have a nice day.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know refund status.\\n\n\\n\nResolution:\\n\n- Executive checked and confirmed refund is processed.\\n\n- Refund will be credited in 2-3 working days.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, account\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e6d2c33-6b16-43b7-9369-ba865df63403",
+  "ucid": "6e6d2c33-6b16-43b7-9369-ba865df63403",
+  "seller_categories": [
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "100322",
+      "mcat_name": "Solar LED Street Light"
+    },
+    {
+      "mcat_id": "178988",
+      "mcat_name": "Luminous Inverter Battery"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    }
+  ]
+}

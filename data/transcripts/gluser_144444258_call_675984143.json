@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675984143",
+  "gluser_id": "144444258",
+  "vintage_months": 0,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Nanpara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699456",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=20dfd81f-fe2f-43b3-abb3-7396108fdaa0",
+  "ucid": "20dfd81f-fe2f-43b3-abb3-7396108fdaa0",
+  "seller_categories": [
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "43871",
+      "mcat_name": "Mixed Pickle"
+    },
+    {
+      "mcat_id": "528",
+      "mcat_name": "Chemical Fertilizers"
+    },
+    {
+      "mcat_id": "181500",
+      "mcat_name": "Meat Masala"
+    },
+    {
+      "mcat_id": "4445",
+      "mcat_name": "Black Pepper"
+    }
+  ]
+}

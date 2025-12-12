@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673004201",
+  "gluser_id": "253386941",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Chapra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji sir, abhi baat kar sakte hain?\\nCustomer: Ji.\\nExecutive: Sir actually aapne complaint raise kiya hua tha retailers se. To main samajh jaanna chah rahi thi ki kya problem aa rahi hai sir aapne kyun complaint raise kiya hua tha?\\nCustomer: Complaint?\\nExecutive: Haan.\\nExecutive: Retailers aapki company hai na sir?\\nCustomer: Haan.\\nExecutive: To fir isi company se abhi complaint raise hua tha ek ghante pehle jab maine aapko call back kiya hua tha. To please aap bata dijiye ki kya problem aa rahi hai to fir main us hisab se issue resolve kar paunga aapka.\\nCustomer: Oh to matlab wo wo matlab maine nahi kiya tha wo\\nCustomer: Sa matlab sir ne kiya tha na?\\nExecutive: Ye company aapki nahi hai?\\nCustomer: Nahi nahi.\\nExecutive: Achcha matlab mere sir ki hai matlab main owner nahi hu uska.\\nCustomer: Haan haan wahi matlab hai mera aur sir ka mujhe number ek bari de dijiye taki main baat kar saku unse kya problem ya aap meri baat kara dijiye apna phone forward kar dijiye unko.\\nCustomer: To abhi to wo kitna time lega? Paanch to thode der mein main kijiye main kara deta hu baat aap isi number pe.\\nExecutive: Kitni der mein sir?\\nCustomer: Kitni der mein? Aadha ghanta mein kijiye.\\nExecutive: Sir aapko puchna pad raha hai unse kya?\\nCustomer: Nahi nahi ye to bhai hai mera yahan pe.\\nExecutive: Theek hai aadhe ghante baad aap call back ek bari karwa dijiyega ya fir main kar lungi to aap meri baat kara dena aap number de do mujhe unka.\\nCustomer: Number likhiye.\\nExecutive: Haan bataiye.\\nCustomer: 700\\nExecutive: 700\\nCustomer: 452\\nExecutive: 452\\nCustomer: 3941\\nExecutive: 3941 theek hai services sir aap hi use karte ho?\\nCustomer: Kya?\\nExecutive: Services wagera aap hi use karte ho?\\nCustomer: Hum matlab dono hi karte hain hum bhi sir bhi.\\nExecutive: Achcha aur isme jo primary wala number hai na 214 wala last mein wo kiska number hai?\\nCustomer: 214 sir number last mein 214 wala.\\nCustomer: Wahi sir ka hi hai wo number.\\nExecutive: But ye wala na off rehta hai permanent to maine kai baar contact karne ki koshish kari hai primary number pe but usse baat nahi ho paati hai sir se.\\nCustomer: Jo diye hain us pe kijiye ho jayega baat.\\nExecutive: Theek hai theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about the complaint raised.\\n\n- Executive unable to contact primary number.\\n\n\\n\nResolution:\\n\n- Customer provided his Sir's number.\\n\n- Customer will get a call back in half hour.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, number, services, primary number\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b99121fa-41ae-4a0e-8d04-6541a96ccacd",
+  "ucid": "b99121fa-41ae-4a0e-8d04-6541a96ccacd",
+  "seller_categories": [
+    {
+      "mcat_id": "11938",
+      "mcat_name": "Gas Lighters"
+    },
+    {
+      "mcat_id": "85179",
+      "mcat_name": "Hand Chopper"
+    },
+    {
+      "mcat_id": "43199",
+      "mcat_name": "Potato Peeler"
+    },
+    {
+      "mcat_id": "31319",
+      "mcat_name": "Kitchen Cleavers"
+    },
+    {
+      "mcat_id": "84245",
+      "mcat_name": "Plastic Water Jug"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676536354",
+  "gluser_id": "63156093",
+  "vintage_months": 34,
+  "bl_dau_oct": 11,
+  "customer_type": "BL Paid VFCP",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Haan, aap kaun bol rahe hain?\\n\\nExecutive: Sir, main Aman baat kar raha tha IndiaMART se.\\n\\nExecutive: Sir, kis company se baat karenge, mujhe confirm karenge please?\\n\\nCustomer: Main Slotan solution se bol raha hun aur ye aapka Slotan ka account manager kaun hai?\\n\\nExecutive: Sir, filhaal to mere paas mein hai, ek baar main check kar leta hun properly, please ek minute.\\n\\nCustomer: Nahi to mujhe aapka dikh raha hai to maine change karne ke liye bola tha ki account manager change karo isko, kya dikkat aa rahi hai change kyun nahi kiya abhi tak?\\n\\nCustomer: Samay ho gaya, acha aur hello\\n\\nCustomer: Hello\\n\\nExecutive: Please be online sir, main ek baar ek second mujhe dijiye, check kar raha hun sir.\\n\\nExecutive: Sir, abhi to filhaal mein waha par show nahi kar raha, updated nahi hua hai, but aapki jo accounts manager hai na, Smita ji hain.\\n\\nCustomer: Smita ji hain? Acha, theek hai. Oh, wo ye URL aa raha hai Slotan natural product ka, jo Slotan solution hai, theek hai?\\nSlotan solution ka URL hai, apna natural product ka matlab Slotan alag hi naam aa raha hai.\\n\\nExecutive: Sir, main jaise check kar pa raha hun aapka account Slotan solution ke naam se hi open ho raha hai mere paas mein. Aap kya keh rahe hain Slotan kya hai natural?\\n\\nCustomer: Wo jo link ban raha hai na\\n\\nExecutive: Sir, aapki voice\\nCustomer: natural karke aa raha hai.\\n\\nCustomer: Slotan natural product ke naam se.\\n\\nCustomer: Hello\\n\\nExecutive: Aapko sir aapki aawaz thodi si goonj rahi hai, iski vajah se mujhe actual mein properly samajh nahi aa raha. Main aap sir ye kehna chah rahe hain kya, aapko jo account jo aapka naam chahiye wo Slotan natural solution ke naam se chahiye kya?\\n\\nCustomer: Natural to hatana hi hai, Slotan solution ke naam se chahiye apne ko.\\n\\nExecutive: Sir, aapka account abhi Slotan solution ke naam se hi hai.\\n\\nCustomer: Wo link jo hai na, haan link mein galat check kar raha hun, Slotan ke naam se aa rahi hai, only Slotan natural natural karke aa raha hai kuch. Isko sahi karwana hai.\\n\\nExecutive: Theek hai, sir aap mujhe ji ji ek baar main check kar leta hun, please ek second please main check karwa leta hun aur aapko main please mujhe day end tak ka thoda sa time dijiye sir.\\n\\nCustomer: Chalega koi baat nahi but isko jo bhi mere account manager hai un tak ye mera pahucha dena ki ye hai. Ji sir ji sir. Maine aaj dekha isko to isme aadha naam aa raha hai aur naam ko thoda sahi kare kyunki link hum log logo ko share karte hain to aadhi adhuri link se agar open karenge to dikkat hogi hume.\\n\\nExecutive: Theek hai sir, aap na ek baar ek kaam kar sakte hain please mujhe apne jo accounts manager hain jisse aapki baat bhi hui hogi, to unhe wo jo screenshot hai please share bhi kar sakte hain ek baar jo aap link ka bata rahe hain na aadha link wala, wo cheez ka screenshot bhi please share kijiyega, theek hai?\\n\\nCustomer: Theek hai, theek hai, main karta hun unko. Theek hai, theek hai sir. Theek hai, okay sir, thank you. Thank you so much sir for your time.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants account manager to be changed.\\n\n- URL showing Slotan natural product instead of Slotan solution.\\n\n\\n\nResolution:\\n\n- Executive confirmed Smita ji is account manager.\\n\n- Executive assured to check and resolve the URL issue.\\n\n- Asked customer to share screenshot of the issue.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will check and revert by day end.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- account manager, url, slotan solution\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 191,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=37c405a7-54a4-43e8-9924-8669cf52a0c0",
+  "ucid": "37c405a7-54a4-43e8-9924-8669cf52a0c0",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "8486",
+      "mcat_name": "Seed Cleaning Machine"
+    },
+    {
+      "mcat_id": "146226",
+      "mcat_name": "Food Grading Machine"
+    }
+  ]
+}

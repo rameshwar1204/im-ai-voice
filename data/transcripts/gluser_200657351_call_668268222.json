@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668268222",
+  "gluser_id": "200657351",
+  "vintage_months": 18,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Srinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637149",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Bhai RK Enterprise band kar do yaar.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji bataye.\\nCustomer: Bilal Ahmed ji se baat ho rahi hai?\\nExecutive: Ji bataye.\\nExecutive: Haan janab main Asim Khan bol raha tha Indiamart.com se business manager. Aapki company registered hai Indiamart ke sath mein. Aapki company chal rahi hai na Indiamart par sir?\\nCustomer: Ji.\\nExecutive: To isi ke regarding, isi ke regarding bas maine call kiya tha. Aapka call aaya hua tha sir kal hamare number par to kal thoda office close tha to isliye baat nahi ho payi aap se.\\nCustomer: Main abhi thoda busy hu main baad mein karunga baat.\\nExecutive: Achha to koi call wall aapne kiya tha sir Indiamart mein kal?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close RK Enterprise.\\n\n\\n\nResolution:\\n\n- Executive called regarding a previous call.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- closing account, indiamart, registration\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe7c7ff6-01e5-46e3-afbd-f68db4ece6ce",
+  "ucid": "fe7c7ff6-01e5-46e3-afbd-f68db4ece6ce",
+  "seller_categories": [
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "50160",
+      "mcat_name": "Aluminium Extension Ladder"
+    },
+    {
+      "mcat_id": "166875",
+      "mcat_name": "Hot Dipped Galvanized Iron Wire"
+    },
+    {
+      "mcat_id": "53341",
+      "mcat_name": "Insulation Piercing Connector"
+    },
+    {
+      "mcat_id": "4696",
+      "mcat_name": "Aluminium Ladders"
+    }
+  ]
+}

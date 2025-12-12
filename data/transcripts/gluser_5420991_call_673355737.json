@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "673355737",
+  "gluser_id": "5420991",
+  "vintage_months": 122,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626101",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e572e259-d5d3-47af-a304-6d9d51c86926",
+  "ucid": "e572e259-d5d3-47af-a304-6d9d51c86926",
+  "seller_categories": [
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "182501",
+      "mcat_name": "Kamdhenu TMT Bars"
+    }
+  ]
+}

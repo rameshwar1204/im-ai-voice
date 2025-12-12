@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670274213",
+  "gluser_id": "50897333",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Gauripur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Yes sir. Sir abhi hamari baat hui thi regarding services.\\nExecutive: Ji ji.\\nCustomer: Yes sir. To uske regarding aapka mujhe closer ID dalna padega. To aapke behalf pe ticket raise ho gaya tha.\\nCustomer: Matlab kya hai? Main thoda sa abhi busy hu.\\nExecutive: Nahi sir mujhe bas aapke kam time nahi hai. Sir abhi humne discussion kiya tha na.\\nCustomer: Hmm hmm.\\nExecutive: Uske aapne customer care pe phone kar diya tha. Is vajah se ticket raise ho gaya tha.\\nExecutive: Wo band karna hota hai. To aapke paas ek mail aata hai. Jisme aapko satisfaction mark karna hoga.\\nExecutive: To fir main is ticket ko close kar du na?\\nCustomer: Ji ji.\\nExecutive: Agar aapko koi aur issue hota hai to aap mere number pe phone kar lijiyega. Ye aap number save kar lijiyega.\\nCustomer: Yehi number hai na aapka?\\nExecutive: Haan Vanshika ke naam se save kar dijiye.\\nCustomer: Okay.\\nExecutive: Isi number pe aap call kar lijiyega.\\nCustomer: Okay.\\nExecutive: Okay sir. Thank you. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Closer ID to be added regarding services.\\n\n- Ticket raised on customer's behalf.\\n\n\\n\nResolution:\\n\n- Ticket to be closed after customer marks satisfaction on the received mail.\\n\n- Executive provided her number for further assistance.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive\\n\n\\n\n@@@Key Topics:\\n\nservices, ticket, closer id, satisfaction\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=83058b29-2a85-44ea-9f46-768545ddf204",
+  "ucid": "83058b29-2a85-44ea-9f46-768545ddf204",
+  "seller_categories": [
+    {
+      "mcat_id": "166326",
+      "mcat_name": "Inverter ARC Welding Machine"
+    },
+    {
+      "mcat_id": "27286",
+      "mcat_name": "Electric Planer"
+    },
+    {
+      "mcat_id": "161774",
+      "mcat_name": "Petrol Chain Saw"
+    },
+    {
+      "mcat_id": "36887",
+      "mcat_name": "Rotary Hammer Drill"
+    },
+    {
+      "mcat_id": "192950",
+      "mcat_name": "Stanley Electric Drill"
+    }
+  ]
+}

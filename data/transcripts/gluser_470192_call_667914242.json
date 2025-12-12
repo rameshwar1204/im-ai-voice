@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667914242",
+  "gluser_id": "470192",
+  "vintage_months": 114,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hanji namaskar.\\nCustomer: Namaste Deepak sir good morning.\\nExecutive: Good morning. India Mart se Raju Prajapati bol raha tha.\\nCustomer: Boliye.\\nExecutive: Sir main check kar raha tha calls vagerah increase hue hain kuch.\\nCustomer: [inaudible]\\nExecutive: Aapke bahar ke call increase hue hain notice kiya aapne?\\nCustomer: [inaudible]\\nExecutive: Bahar calls matlab?\\nCustomer: Haan business nahi hai business nahi hai.\\nExecutive: Business nahi hai matlab sab inquiry calls hai?\\nCustomer: Hmm hmm.\\nExecutive: Aur sare locals the ya bahar ke the?\\nCustomer: Do teen bahar ke ek do teen local the.\\nExecutive: Latest wale jo hai sab local hai na jo November mein aayi hai mere khyal se.\\nCustomer: Hmm hmm hmm hmm.\\nExecutive: To agar kahin se bhi business milega to main aapko inform karta hun theek hai na.\\nCustomer: Achcha theek hai.\\nExecutive: Phone se phone se theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states no business from buyleads.\\n\n\\n\nResolution:\\n\n- Executive will inform if business is found.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, business, inquiry, calls\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dff2871a-e7d3-4e6d-a233-69dfb69de42d",
+  "ucid": "dff2871a-e7d3-4e6d-a233-69dfb69de42d",
+  "seller_categories": [
+    {
+      "mcat_id": "158941",
+      "mcat_name": "Wood Fired Water Heater"
+    },
+    {
+      "mcat_id": "68",
+      "mcat_name": "Industrial Hot Water Boilers"
+    },
+    {
+      "mcat_id": "121388",
+      "mcat_name": "Wood Fired Steam Boilers"
+    },
+    {
+      "mcat_id": "29264",
+      "mcat_name": "Gas Fired Heaters"
+    },
+    {
+      "mcat_id": "159550",
+      "mcat_name": "Water Boilers"
+    }
+  ]
+}

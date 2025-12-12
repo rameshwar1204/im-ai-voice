@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670667831",
+  "gluser_id": "22171472",
+  "vintage_months": 100,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Raigad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9668982",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Ya, hi Monica, tell me. \\nExecutive: Abhi aawaz aa rahi hai? \\nCustomer: Ja raha. Haan, abhi aa rahi hai, aa rahi hai. \\nExecutive: I'm so sorry, ma'am, pata nahi kya issue aa raha hai network mein. \\nUh, theek hai. Main ye bata rahi thi aapko jaise ma'am India ki jo leads, dekhiye leads ka aap samajh gaye, wo har raat ko aapko Saturday ki raat ko matlab 11:59 pe lapse hongi, 1 minute baad bhi aapko wo allocate ho jaati hai har week ki. \\nHmm.\\nExecutive: Theek hai? \\nExecutive: Ab India ki agar\\nCustomer: Monica, aapka aawaz phir se chala gaya. Can you call me from a different number or something?\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive.\\n\n- Executive's voice is not clear.\\n\n\\n\nResolution:\\n\n- Executive explained that India leads lapse every Saturday night at 11:59 PM and are reallocated one minute later.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer requested the executive to call from a different number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to frustrated.\\n\n\\n\n@@@Key Topics:\\n\nleads, india, allocation, lapse\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=907ed252-9c0a-4674-a616-51be21299f0d",
+  "ucid": "907ed252-9c0a-4674-a616-51be21299f0d",
+  "seller_categories": [
+    {
+      "mcat_id": "86320",
+      "mcat_name": "FRP Fencing"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "183525",
+      "mcat_name": "FRP Underground Water Storage Tanks"
+    },
+    {
+      "mcat_id": "223066",
+      "mcat_name": "Biofloc Fish Farming Tank"
+    },
+    {
+      "mcat_id": "29030",
+      "mcat_name": "Industrial FRP Pipe"
+    }
+  ]
+}

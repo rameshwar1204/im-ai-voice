@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669416969",
+  "gluser_id": "248313287",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Memari",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651927",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Boliye.\\nExecutive: Yes, good afternoon sir, Smriti baat kar rahi hai IndiaMART se.\\nCustomer: Boliye, boliye.\\nExecutive: Ji sir, team ki aapke paas call gayi hogi sir.\\nCustomer: Haan, call aaya tha.\\nExecutive: Haan ji sir. So basically sir unhone check kiya hai sir calls aap pe land ho rahi hai.\\nCustomer: Hmm hmm.\\nExecutive: Haan ji aapki baat bhi hui hogi aur jahan tak baat hui sir ki less calls thi to usme hum ye karenge ki hum abhi sir na like usme sir three replies ka rehta hai jaise ki aapka pehle kisi bhi like agar client se aapki deal hui ho, theek hai?\\nCustomer: To waha pe sir hum like usme ja kar ke na sir aapka three replies karenge like hello sir aap ek catalog link bhejoge to usme kya hota hai na sir ki usme na aapko us type ki lead aani fir shuru hoti hai.\\nExecutive: Theek hai? Uske alawa sir jaise ki hamara jo CPUS hai catalog ka code hai matlab catalog me aise kuch kuch sir products hai jinke information proper added nahi hai. Uspe bhi hum kaam karenge. To automatically sir isme sir aapka na dheere dheere sir iska calls ka ratio sir high ho jayega.\\nCustomer: Ji.\\nExecutive: Theek hai sir?\\nCustomer: Theek hai.\\nExecutive: Theek hai sir to abhi ke liye sir mai ye concern ko close kar rahi hu. Theek hai? Aur aap theek hai.\\nCustomer: Haan ji sir theek hai aur uske baad me sir aapko na ek na like feedback message jayega jo ki mere regarding hoga sir. Aap uspe sir please feedback usme positive aap mujhe de dena sir, theek hai?\\nExecutive: Theek hai, theek hai, okay.\\nExecutive: Okay sir, thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported receiving less calls.\\n\nResolution:\\n\n- Executive assured to work on catalog code.\\n\n- Executive explained about three replies feature.\\n\n\\n\nNext Steps: \\n\n- Executive requested positive feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4e6365d2-c81d-49ff-aba4-3c558958420a",
+  "ucid": "4e6365d2-c81d-49ff-aba4-3c558958420a",
+  "seller_categories": [
+    {
+      "mcat_id": "95695",
+      "mcat_name": "Turning Holder"
+    },
+    {
+      "mcat_id": "27904",
+      "mcat_name": "Engraving Tools"
+    },
+    {
+      "mcat_id": "24684",
+      "mcat_name": "Ceramic Inserts"
+    },
+    {
+      "mcat_id": "29841",
+      "mcat_name": "Grooving Tools"
+    },
+    {
+      "mcat_id": "184759",
+      "mcat_name": "CBN Inserts"
+    }
+  ]
+}

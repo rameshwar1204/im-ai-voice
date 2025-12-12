@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676110381",
+  "gluser_id": "6685891",
+  "vintage_months": 11,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Yellapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720028",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello\\nHello\\nSir, please listen to me. Sir, can you please listen to me one thing sir? I'm sorry somebody has called you for your sir listen to me. I'm sorry first of all somebody has called you on your weekly off but the you today you called and here is a one concern is open sir. Okay? It means you are complaining someone so we have to close that before we have to discuss something. Then after we can close that concern otherwise we can't do this. So that is the reason I called you for that sir. You told me that somebody call you and disturbing you. You are not interested at this time, right sir?\\n100%.\\nSecond thing I just want to know sir but here somebody mentioning you Miss Muskan is that that you are confirming her that you will make the payment about your renewal sir. Then what is this sir?\\nI am talking the same.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer complained about receiving disturbance calls.\\n\n- Executive wants to discuss before closing the concern.\\n\n- Executive asked about payment confirmation for renewal.\\n\n\\n\nResolution:\\n\n- Customer confirmed about disturbance calls.\\n\n- Customer confirmed about payment renewal.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- disturbance calls, renewal, payment\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6043c596-8f61-481b-8014-8351c2d7843b",
+  "ucid": "6043c596-8f61-481b-8014-8351c2d7843b",
+  "seller_categories": [
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "20471",
+      "mcat_name": "Coir Pith"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "145645",
+      "mcat_name": "Neem Cake Fertilizer"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    }
+  ]
+}

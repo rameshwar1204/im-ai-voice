@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674621594",
+  "gluser_id": "136341845",
+  "vintage_months": 2,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699764",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji.\\nCustomer: Executive sir, Namaskar.\\nExecutive: IndiaMART se baat kar rahe hain aap?\\nCustomer: Ji sir, IndiaMART se baat kar rahe hain.\\nExecutive: Kal dopahar mein karo na, do se char ke beech mein sir kariye na call. Thoda sa busy hoon. Kal apan baat karte hain.\\nExecutive: Accha sir.\\nCustomer: Aur aapki jo bhi, jo bhi lead aa rahi hai, koi kaam ki nahi hai sir. Kuch bhi, kuch bhi finalize nahi ho pa raha hai. Meri baat suniye.\\nExecutive: Kya?\\nCustomer: Nahi nahi, main samajh gaya usse already. Bolna nahi chahiye, mujhe, mujhe bolna nahi chahiye lekin ek bhi inquiry abhi tak finalize nahi hui hai sir, yeh position hai sir.\\nExecutive: Ji.\\nCustomer: Aur kaam ki lead nahi aa rahi hai, jo kaam ki lead batai gayi gayi hai, woh lead nahi aa rahi hai, dusri dusri lead aa rahi hai, koi matlab nahi hai uska. Kya?\\nExecutive: Nahi nahi, woh bilkul main samajh gaya, usi ke regarding jaise kyunki aapne bhi humein feedback diya hua tha, aapke account manager se baat hui thi na, Vaneesha ji aapke account manager, uske baad aapne not satisfied.\\nCustomer: Feedback bhi maine diya, I am not satisfied diya hai maine.\\nExecutive: Ji ji, toh usi ke liye main connect kar raha tha, matlab kya issue hai jiski wajah se aapne not satisfied. Iske baad hum log baat karenge, deep mein baat karenge, meri baat suniye, aaj thoda mera meeting hai, abhi kya aadhe ghante ke baad mera meeting hai, toh main jyada baat nahi kar paunga aapse. Toh kal apan baat karenge do se char ke beech mein sir, aisa hai.\\nExecutive: Accha.\\nExecutive: Theek hai sir.\\nCustomer: Ji, okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Leads are not useful, nothing is getting finalized.\\n\n- Dissatisfied with the leads received.\\n\n- Wants to discuss the issue in detail tomorrow.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's feedback.\\n\n- Agreed to discuss the issue in detail tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Negative | Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, satisfaction, follow up\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4e326229-fc8a-4eca-b9d0-5d9b454198b0",
+  "ucid": "4e326229-fc8a-4eca-b9d0-5d9b454198b0",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "315617",
+      "mcat_name": "Mild Steel Portable House"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

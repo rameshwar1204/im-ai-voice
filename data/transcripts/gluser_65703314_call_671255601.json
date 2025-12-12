@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671255601",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji sir.\\n\\nCustomer: Haan, mera paisa abhi tak aaya nahi.\\n\\nExecutive: Sir, mera aaj office off hai, meri tabiyat nahi theek hai.\\n\\nCustomer: Kya hua?\\n\\nExecutive: Meri tabiyat nahi theek hai sir, mai aaj office me nahi hu.\\n\\nCustomer: Ye IndiaMART ka to platform hai.\\n\\nExecutive: Haan ji, sahi platform hai sir, mai aaj office nahi gayi hu, meri tabiyat nahi theek hai.\\n\\nCustomer: Koi aap office nahi gayi, office se kya matlab hai? Ye aapka personal number thodi hai?\\n\\nExecutive: Haan ji, mera business number hi hai sir.\\n\\nCustomer: To ye to bhai customer care number diya hua hai ye mujhe. Subah me to meri baat hui hai. Abhi ek ghanta pehle to meri baat hui hai, tum jhooth kyu bol rahi ki office nahi gayi?\\n\\nExecutive: Maine aapko bola tha kya ki mai office me hu?\\n\\nCustomer: Ek dedh ghanta pehle to meri baat hui hai bhai.\\n\\nExecutive: Kisse baat hui hai sir?\\n\\nCustomer: Ab mai naam um thodi yaad rakhta hu, mai to is number pe aaj ek dedh hafte se baat kar raha hu.\\n\\nCustomer: Kal bhi meri baat hui hai, aaj bhi baat hui hai.\\n\\nExecutive: [inaudible] office nahi gayi.\\n\\nCustomer: Achha to koi dusra customer care number do aap.\\n\\nExecutive: [inaudible]\\n\\nCustomer: Haan?\\n\\nExecutive: Ek minute mai aapko office waale ko call karti hu, tab tak.\\n\\nCustomer: Aapka number dekho bhai.\\n\\nCustomer: Mere paas to yahi number hai customer care number.\\n\\nCustomer: Aapki aawaz bahut kat kat ke aa rahi hai, samajh me nahi aa rahi aap kya bol rahi ho.\\n\\nExecutive: [inaudible] mai office nahi gayi.\\n\\nExecutive: Mai baat kar rahi thi woh kya tha aapko, mere office phone pe karoge.\\n\\nCustomer: Haan, ab baat karao meri.\\n\\nExecutive: Phone mai office nahi hu sir, thik se baat nahi kar paungi.\\n\\nCustomer: Saab mera ye paisa wala masla karwao bhai aap log, mujhe mujhe roz roz aapko phone karna pad raha hai. Ye baat thik thodi hai.\\n\\nExecutive: Thik hai, thik hai.\\n\\n(music playing)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's money not received yet.\\n\n- Wants his money issue to be resolved.\\n\n\\n\nResolution:\\n\n- Executive said she is not in office.\\n\n- Assured to call from office to resolve issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, customer care, payment\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7ce0d1e0-b1b8-4ee5-b790-af93272ba084",
+  "ucid": "7ce0d1e0-b1b8-4ee5-b790-af93272ba084",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674417502",
+  "gluser_id": "238276214",
+  "vintage_months": 5,
+  "bl_dau_oct": 10,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703163",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan Manish ji Vishal baat kar raha hu India Mart se. Sir aapke paas aisa koi aapne call lagaya tha kya India Mart se? To call lagaya tha?\\nCustomer: Nahi nahi.\\nExecutive: Nahi lagaya. Achcha aapne call nahi lagaya tha. Ek call aayi thi na aapke yahan se mujhe laga ki koi koi matlab aapke receive nahi ho paayi thi yahan se. Mujhe laga koi kaam tha kya?\\nCustomer: Achcha aap bataiye aaj aaj bygate consume kiye sir aapne?\\nExecutive: Haan woh woh aadmi mera kar raha hai.\\nCustomer: Achcha achcha achcha. Aapke sath jo account jo dekhte hain unka number kya 74 wala hai?\\nCustomer: Haan 7490822834.\\nExecutive: 834 wala. Achcha unse main abhi connect kar lunga unse bataunga ki kaise bygate consume karni hai. Jo bhi aapka us din issue maine dekha tha ki aap keh rahe the ki 20 count se upar ka 30 count se upar ka koi bylead aayegi to consume karega. To main unse baat kar leta hu ki kaise ye bylead aa sakti hai aapke paas. Theek hai sir?\\nCustomer: Abhi woh thoda kaam mein hai unko dopahar ke baad mein phone karna theek hai.\\nExecutive: Ye kitne baje ke baad sir?\\nCustomer: Dopahar ek do baje ke baad mein call karna usko.\\nExecutive: Dedh do baje ke baad. Theek hai theek hai. Dedh do baje ke baad phone.\\nCustomer: Aur sir koi issue hai sir aap?\\nCustomer: Nahi.\\nExecutive: Koi bhi koi bhi aisi help jo India Mart se aapko chahiye ho?\\nCustomer: Nahi nahi kuch nahi chahiye India Mart se.\\nExecutive: Okay okay okay. Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about consuming bygate.\\n\n- Customer said his employee handles it.\\n\n\\n\nResolution:\\n\n- Executive offered to connect with account manager.\\n\n- Executive will explain how to consume bygate.\\n\n\\n\nNext Steps: \\n\n- Customer asked to call after 1:30-2 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account, consume\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=65765b82-1e02-47aa-8784-df9e70755a1d",
+  "ucid": "65765b82-1e02-47aa-8784-df9e70755a1d",
+  "seller_categories": [
+    {
+      "mcat_id": "9613",
+      "mcat_name": "Liquid Sodium Silicate"
+    },
+    {
+      "mcat_id": "7619",
+      "mcat_name": "Sodium Silicate"
+    },
+    {
+      "mcat_id": "3233",
+      "mcat_name": "Alkaline Sodium Silicate"
+    },
+    {
+      "mcat_id": "167661",
+      "mcat_name": "Neutral Sodium Silicate"
+    },
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    }
+  ]
+}

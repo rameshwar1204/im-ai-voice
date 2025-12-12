@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666952674",
+  "gluser_id": "46904773",
+  "vintage_months": 17,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630671",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nExecutive: Good afternoon, sir.\\nCustomer: Good afternoon.\\nExecutive: Shubham bol raha tha IndiaMART head office se sir.\\nCustomer: Ji ji, ji sir, ji sir, ji.\\nExecutive: Wo change ho gaya number aapka.\\nCustomer: Haan sir, ho gaya. Shukriya sir aapka bahut bahut dhanyawad.\\nExecutive: Dhanyawad sir, dhanyawad. Toh isko main complaint jo aayi thi aapki customer care pe call kiya tha usko close kar du na sir main?\\nCustomer: Haan, okay sir.\\nExecutive: Isko main close kar raha hu. Aapke paas na sir ek feedback ke liye aayega, theek hai? Toh usme feedback positive de dena, main bata dunga, theek hai sir? Aur aapki I think baaki service related toh saari baat ho hi gayi thi na Shubham jo aapka account manager hai usse saara discussion ho hi gaya tha na aapka toh?\\nCustomer: Ji ji ji.\\nExecutive: Theek hai? Aap login wagera apne number se kar lena. Usme abhi bhi secondary number add ho rakha hai. Jo matlab primary tha na, wo secondary ho gaya hai. Toh aapko rakhna hai, nahi rakhna, wo aap ek baar dekh lena. Agar rakhna hai toh aap hata dena. Nahi rakhna, ya rakha hai toh jaisa bhi aapko.\\nCustomer: Wo wo maine kar liya sir. Wo maine haan second number maine kar diya. Dusra hai wo to sir.\\nExecutive: Achcha achcha wo aapka. Okay okay, matlab aapne kar liya already. Aapne already update kar diya na aapne?\\nCustomer: Haan.\\nCustomer: Par main keh raha hu aap thodi der mein kar lete, main bike par hu thoda.\\nExecutive: Koi dikkat nahi, koi dikkat nahi. Main haan main ise close kar deta hu, fir main aapko phone baad mein kar lunga, theek hai sir?\\nCustomer: Haan, ek-aad ghante ke baad mein kar lena.\\nExecutive: Theek hai, theek hai.\\nCustomer: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Customer had raised a request to change the registered mobile number.\\n- Executive called to confirm the change and close the complaint.\\n\\n\\nResolution:\\n\\n- Confirmed the mobile number was successfully changed.\\n- Informed the old primary number is now the secondary number.\\n- Customer confirmed they have already updated the secondary number.\\n- Agreed to close the complaint ticket.\\n\\n\\nNext Steps: \\n- Issue resolved.\\n- Executive will close the complaint and call the customer back in an hour.\\n\\nAlert (If Any):\\n- complaint\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- mobile number change, complaint closure, feedback, secondary number, account update\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=88f4d496-d716-4b0e-8785-ab2106448fd6",
+  "ucid": "88f4d496-d716-4b0e-8785-ab2106448fd6",
+  "seller_categories": [
+    {
+      "mcat_id": "157598",
+      "mcat_name": "Chair Repairing Services"
+    },
+    {
+      "mcat_id": "172686",
+      "mcat_name": "Sofa Repairing Services"
+    },
+    {
+      "mcat_id": "87966",
+      "mcat_name": "High Back Office Chair"
+    },
+    {
+      "mcat_id": "170532",
+      "mcat_name": "Furniture Repairing Services"
+    },
+    {
+      "mcat_id": "87971",
+      "mcat_name": "Leather Office Chair"
+    }
+  ]
+}

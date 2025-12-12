@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672250993",
+  "gluser_id": "189175356",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Purnea",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682239",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=315124e4-eb9b-431e-b77b-2324e264d4ae",
+  "ucid": "315124e4-eb9b-431e-b77b-2324e264d4ae",
+  "seller_categories": [
+    {
+      "mcat_id": "442480",
+      "mcat_name": "Aceclofenac Paracetamol Tablet"
+    },
+    {
+      "mcat_id": "442060",
+      "mcat_name": "Aceclofenac Paracetamol Serratiopeptidase Tablet"
+    },
+    {
+      "mcat_id": "183631",
+      "mcat_name": "Herbal Piles Capsules and Tablets"
+    },
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    }
+  ]
+}

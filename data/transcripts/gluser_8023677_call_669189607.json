@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669189607",
+  "gluser_id": "8023677",
+  "vintage_months": 33,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haanji good morning. Haanji good morning.\\nCustomer: Good morning. I am on the driving. Uh, okay. I will call you on by 3:00 o'clock or 4:00 o'clock. Or I when I go when I reach my factory, I will give you a call. I am out little bit outside.\\nExecutive: Okay, because on Monday you give the time for the 11:30.\\nCustomer: Yes, yes, yes, but on\\nCustomer: due to urgent work I came to this one out outskirt.\\nExecutive: Okay, okay. So can we connect at three? 3:00 p.m.?\\nCustomer: Yeah, I will call you. I will as you as I reach there. I have a traveling kilometers 100 kilometers I have to travel then I will give a call.\\nExecutive: Okay, okay. Else I will call you at three. If you are free then we can connect. Okay.\\nCustomer: Yeah, definitely.\\nExecutive: Okay, okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently driving.\\n\n- Wants to reschedule the call.\\n\n\\n\nResolution:\\n\n- Agreed to connect at 3:00 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 3:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- rescheduling, call, time\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c90b162f-97e6-4505-bad5-d0adb1f3cf54",
+  "ucid": "c90b162f-97e6-4505-bad5-d0adb1f3cf54",
+  "seller_categories": [
+    {
+      "mcat_id": "43595",
+      "mcat_name": "Areca Leaf Plates"
+    },
+    {
+      "mcat_id": "443440",
+      "mcat_name": "Sal Leaf Plate"
+    },
+    {
+      "mcat_id": "84225",
+      "mcat_name": "Leaf Plate"
+    },
+    {
+      "mcat_id": "235899",
+      "mcat_name": "Bagasse Disposable Plate"
+    },
+    {
+      "mcat_id": "159147",
+      "mcat_name": "Areca Leaf Bowl"
+    }
+  ]
+}

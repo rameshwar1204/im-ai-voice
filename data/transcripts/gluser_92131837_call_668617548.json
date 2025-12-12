@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668617548",
+  "gluser_id": "92131837",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Calapor",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646616",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello, hi Bhagwandas ji baat kar rahe hain?\\nExecutive: Ji bolo.\\nExecutive: Hi sir, main Anita baat kar rahi thi IndiaMART head office se relationship manager. Actually sir aapka ek yaha pe mail aaya hua tha mere paas regarding not satisfaction.\\nCustomer: Mein mere ko kisi ne subah phone kiya tha, maine usko bola hai mujhe woh service nahi chahiye aage. Theek hai?\\nExecutive: Haan haan, theek hai, theek hai. Hmm hmm.\\nExecutive: Sir services continue nahi karna cha rahe, that is okay sir, usme koi problem nahi hai. But jaise aapki services toh almost about to end hai. I think haan ek tarikh ko khatam bhi ho chuki hai 1st November ko.\\nCustomer: Okay.\\nExecutive: Haan, toh sir haan, toh jaise ab aapne yaha pe not satisfied ka woh bheja hai, toh wohi jaanna chah rahi thi.\\nCustomer: Hmm.\\nExecutive: Toh woh kis basis pe tha sir? Matlab jo accountant se baat hui aapke account manager se uske basis pe aap?\\nCustomer: Hello.\\nExecutive: Haan ji bataye.\\nCustomer: [inaudible]\\nExecutive: Hello. Yeah yeah yeah.\\nExecutive: Haan ji haan ji Bhagwandas ji.\\nCustomer: Haan, mujhe abhi.\\nExecutive: Theek hai, toh sir jaise aap bataye.\\nCustomer: [Silence]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want to continue services.\\n\n- Wants to know the reason for dissatisfaction.\\n\n\\n\nResolution:\\n\n- Executive acknowledged customer's decision.\\n\n- Executive asked the reason for dissatisfaction.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, satisfaction, services\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=06ba8427-6685-48dc-859e-5175a2c2dd1d",
+  "ucid": "06ba8427-6685-48dc-859e-5175a2c2dd1d",
+  "seller_categories": [
+    {
+      "mcat_id": "153076",
+      "mcat_name": "Natural PP Granule"
+    },
+    {
+      "mcat_id": "154720",
+      "mcat_name": "Natural LD Plastic Granules"
+    },
+    {
+      "mcat_id": "1497",
+      "mcat_name": "Plastic Granules"
+    },
+    {
+      "mcat_id": "182183",
+      "mcat_name": "Black PP Granules"
+    },
+    {
+      "mcat_id": "27461",
+      "mcat_name": "3D Printer Filament"
+    }
+  ]
+}

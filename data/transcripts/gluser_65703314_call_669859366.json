@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669859366",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji sir?\\n\\nExecutive: Haan. Haan ji, main Alina International se baat kar raha hun. Char panch din se meri baat chit chal rahi thi.\\n\\nCustomer: Achha, Alina International se bol rahe ho?\\n\\nExecutive: Haan ji. Haan ji. Wo zara wo mera paisa return abhi tak aaya nahi isliye main phone karega.\\n\\nExecutive: Sir, return to nahi aa payega aapko paisa.\\n\\nCustomer: Nahi, hamare to kal manager sahab se hi baat hui thi. Bole ki theek hai ho jayega. Aapko teen char din pehle call se baat hua tha.\\n\\nExecutive: Kis se baat hui aapki?\\n\\nCustomer: Please aap karwa dijiye. Ji?\\n\\nExecutive: Kis se baat hui aapki?\\n\\nCustomer: Sorry, sorry nahi samajh mein aa raha.\\n\\nExecutive: Kis se kis se kis se baat hui aapki?\\n\\nCustomer: Naam nahi yaad hai. Kal saamne se khud phone aaya tha mere paas.\\n\\nCustomer: To wo bol rahe the ki kya dikkat hai. Haan, ye hai, wo hai.\\n\\nCustomer: To isko please aap karwa dijiye, theek hai? Kyunki kaafi din ho gaya hai mujhe call karte hue aapke yahan.\\n\\nExecutive: Achha, theek hai. Wo to main discuss kar lungi apne manager se. But sir, aapko dikkat kahan aa rahi hai abhi?\\n\\nCustomer: Kya dikkat wo bata diya hun main. Wo to kayi ek baar is sambandh mein baat ho chuki hai. Mujhe apna khatam hi karna hai matlab ye hai mera. Theek hai, thank you.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund yet.\\n\n- Wants to end the subscription.\\n\n\\n\nResolution:\\n\n- Executive said refund is not possible.\\n\n- Executive will discuss with manager.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, manager\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=55208f1d-eeb7-4acf-b866-c4d87c822b3e",
+  "ucid": "55208f1d-eeb7-4acf-b866-c4d87c822b3e",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

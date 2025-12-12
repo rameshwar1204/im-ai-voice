@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670840624",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan sir, woh mai yeh bol rahi thi ki jo video make ke liye puch rahi thi mai.\\nCustomer: Awaaz nahi hai toh.\\nExecutive: Abhi connect karte hai.\\nCustomer: Bhej du?\\nExecutive: Abhi connect karte hai na matlab aap link bhej do.\\nExecutive: Haan wahi keh rahi hu mai bhej du ki?\\nCustomer: Haan link bhi change kar do aur mere ko link change kar do.\\nExecutive: Theek hai mai whatsapp pe link share kar rahi hu aapko.\\nCustomer: Haan haan kar do kar do.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to send a video link.\\n\n\\n\nResolution:\\n\n- Executive agreed to receive the link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video, link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e5df365c-5bbf-47d7-9f71-01ca3a6667cf",
+  "ucid": "e5df365c-5bbf-47d7-9f71-01ca3a6667cf",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

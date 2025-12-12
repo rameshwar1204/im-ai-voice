@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674798874",
+  "gluser_id": "53285230",
+  "vintage_months": 9,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708035",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03c5c739-0c70-471d-84b6-103c341727b4",
+  "ucid": "03c5c739-0c70-471d-84b6-103c341727b4",
+  "seller_categories": [
+    {
+      "mcat_id": "23806",
+      "mcat_name": "Brass Statues"
+    },
+    {
+      "mcat_id": "141700",
+      "mcat_name": "School Belt"
+    },
+    {
+      "mcat_id": "37134",
+      "mcat_name": "School Badges"
+    },
+    {
+      "mcat_id": "141709",
+      "mcat_name": "School Tie"
+    },
+    {
+      "mcat_id": "12915",
+      "mcat_name": "Brass Badge"
+    }
+  ]
+}

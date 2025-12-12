@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671894588",
+  "gluser_id": "76873822",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722581",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ha Prakash ji good morning.\\nCustomer: Hello?\\nExecutive: Sir this side Imran calling from India Mart how are you sir?\\nCustomer: Fine sir.\\nExecutive: Actually sir kindly provide me a suitable time sir according to that we will connect over the video meeting and\\nCustomer: day before yesterday I think I told you to call me 5 o'clock you didn't call me.\\nExecutive: Sir already I have called you sir but you didn't pick the call sir.\\nCustomer: Because you have called me I think by 4:45 or something like that. I'm very specific by 5 o'clock. Today I'm busy sir today is Monday. Okay. So I'll call you because I'm preparing for the interview so little busy with that.\\nExecutive: Okay. Sir is it possible to connect today by 5 pm sir?\\nCustomer: I will be in the office sir very busy.\\nCustomer: I can't do that. I'll inform you when I'm free.\\nExecutive: Uh kindly provide me a suitable time sir according to that we will schedule the video meeting sir and that time will be yours sir.\\nCustomer: Sure sure. If possible by today then okay sir if possible by tomorrow then okay no issue sir. But kindly provide me a suitable time sir according to that we will schedule video meeting.\\nCustomer: Sure sure. Thank you. Thank you.\\nExecutive: Sir I'm just asking from you sir.\\nCustomer: Hello?\\nExecutive: Hello Prakash ji.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says executive didn't call at 5 PM.\\n\n- Customer is busy preparing for an interview.\\n\n\\n\nResolution:\\n\n- Executive states he called but customer didn't pick up.\\n\n- Executive requested a suitable time for a video meeting.\\n\n\\n\nNext Steps: \\n\n- Customer will inform executive when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, scheduling, availability\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=897ddcca-8887-4ad5-866a-6967b7d602b8",
+  "ucid": "897ddcca-8887-4ad5-866a-6967b7d602b8",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "444098",
+      "mcat_name": "Ertapenem Injection"
+    },
+    {
+      "mcat_id": "162286",
+      "mcat_name": "Tenofovir Tablet"
+    },
+    {
+      "mcat_id": "445971",
+      "mcat_name": "Ferric Carboxymaltose injection"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673199185",
+  "gluser_id": "130374449",
+  "vintage_months": 18,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Bola na.\\nCustomer: Nahi hai, to kripya inke sath baat kariye.\\nExecutive: Ha, tezz bolta hai, bola kya bolta hai?\\nExecutive: Kash Bhosle se baat karne ke liye actually mai aap account manager hai IndiaMART se mai baat kar raha tha, Suraj Maurya.\\nCustomer: Abhi idhar to nahi hai idhar, lekin aapka kaam kya hai idhar?\\nExecutive: Ha, account aap handle karti hai mam IndiaMART ka?\\nCustomer: Kya kya?\\nExecutive: IndiaMART ke account aap handle karti hai?\\nCustomer: Ha.\\nExecutive: To mam aapka call connect nahi ho raha hai, aapko Dipanshi phone kar rahi hai baar baar, reason behind ki kya issue aa raha hai mam bataiye jara sa.\\nCustomer: Sir, abhi abhi office chalu hua hai.\\nExecutive: Hmm hmm.\\nExecutive: Thik hai, so mam aapko mai kis time connect karunga aap bataiye.\\nCustomer: Aap na mere ko 1 baje call karo.\\nExecutive: 1 baje same number pe phone lagata hu mam, thik hai?\\nCustomer: Thik hai, thik hai, koi baat nahi. Okay mam, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive's call was not connecting.\\n\n\\n\nResolution:\\n\n- Executive scheduled a call at 1 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 1 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, account management, follow up\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b9f41562-c1d2-43cc-81ef-96e44f19d2e3",
+  "ucid": "b9f41562-c1d2-43cc-81ef-96e44f19d2e3",
+  "seller_categories": [
+    {
+      "mcat_id": "87382",
+      "mcat_name": "Hexagon Socket Head Cap Screw"
+    },
+    {
+      "mcat_id": "25976",
+      "mcat_name": "Countersunk Bolts"
+    },
+    {
+      "mcat_id": "182802",
+      "mcat_name": "Hex Nylock Nut"
+    },
+    {
+      "mcat_id": "32261",
+      "mcat_name": "Machine Washers"
+    },
+    {
+      "mcat_id": "194527",
+      "mcat_name": "Unbrako Screws"
+    }
+  ]
+}

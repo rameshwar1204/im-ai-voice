@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667904653",
+  "gluser_id": "190804613",
+  "vintage_months": 26,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679594",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No transcript available]",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=afe9fba0-5453-4ea9-bc2c-c37bf70b75be",
+  "ucid": "afe9fba0-5453-4ea9-bc2c-c37bf70b75be",
+  "seller_categories": [
+    {
+      "mcat_id": "24669",
+      "mcat_name": "Ceramic Coffee Mug"
+    },
+    {
+      "mcat_id": "3671",
+      "mcat_name": "Ceramic Bowls"
+    },
+    {
+      "mcat_id": "3689",
+      "mcat_name": "Ceramic Plates"
+    },
+    {
+      "mcat_id": "90434",
+      "mcat_name": "Ceramic Tea Cup"
+    },
+    {
+      "mcat_id": "3910",
+      "mcat_name": "Coffee Mugs"
+    }
+  ]
+}

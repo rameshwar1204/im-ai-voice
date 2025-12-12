@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669533608",
+  "gluser_id": "10887106",
+  "vintage_months": 115,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhubaneswar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656432",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Yeah, hi sir. Sampreena this side. Good evening, huh?\\nCustomer: Uh sir, abhi maine training de di hai aapke executive ko. Thik hai?\\nExecutive: Hmm hmm. Hmm.\\nCustomer: Uh bas ek product aur mere paas show kar raha tha second hand fly ash brick making machine. Second hand wala bhi lagana hai kya isme?\\nCustomer: Nahi nahi nahi second hand nahi lagana.\\nExecutive: Second hand nahi lagane ka. To isko hatana padega sir aapko. Main isko hatana padega na. To isko hata dete hain. Baki to sara kuch lag chuka hai. Ab aaj se ek hafte ki training rahegi unki complete. Hai na? Maine direct number bhi de diya hai. Video meeting se aaj se start kar diya hai. Lead consumption bhi karwa diya hai. To ab daily basis pe chalega ek hafte tak jab tak puri knowledge mil jati hai unko. Catalog ka quality score 84% hai bol diya hai ki jitne bhi messages aaye the buyer ke sab mein reply kare aur call karke ek ek bar baat kare. Tab confidence aayega to deal maturity mein chances badhenge na.\\nCustomer: Thik hai, thik hai.\\nExecutive: Purane wali lead se bhi call karwa de rahi hu. Hai na?\\nCustomer: Thik hai sir. Thik hai.\\nExecutive: Reply ka bol diya. Rating review ka bhi bata dungi main unko. Rating review thoda jyada lena padega aapke profile mein. To wo main complete kara dungi. Thik hai? Ye concern aapne na 9696 mein customer care mein call kar diya tha sir actually. To ticket open concern open ho gaya tha. Isko close kar do na mere se direct number aa gaya hai ab aap log ke paas.\\nCustomer: Hmm hmm hmm hmm hmm.\\nExecutive: Mera sir feedback aayega. Agar mere sath aapka discussion thik lagta hai aapko, sahi lagta hai to aap us hisab se rate kar dijiyega. Thik hai?\\nCustomer: Okay.\\nExecutive: Baki main kal bhi ek bar video meeting kar lungi unke sath. Okay?\\nCustomer: Thik hai. Thik hai. Okay ji. Thik hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to remove second-hand machine listing.\\n\n- Called customer care instead of direct line.\\n\n\\n\nResolution:\\n\n- Agreed to remove the second-hand listing.\\n\n- Executive will close the customer care ticket.\\n\n- Executive will conduct video meeting tomorrow.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on the call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- training, catalog, rating, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0438407c-a794-4614-bae9-8c181f61fa30",
+  "ucid": "0438407c-a794-4614-bae9-8c181f61fa30",
+  "seller_categories": [
+    {
+      "mcat_id": "43023",
+      "mcat_name": "Fly Ash Brick Making Machine"
+    },
+    {
+      "mcat_id": "5385",
+      "mcat_name": "Brick Making Machines"
+    },
+    {
+      "mcat_id": "192424",
+      "mcat_name": "Automatic Fly Ash Brick Plant"
+    },
+    {
+      "mcat_id": "41736",
+      "mcat_name": "Vibrating Tables"
+    },
+    {
+      "mcat_id": "42742",
+      "mcat_name": "Hydraulic Brick Making Machine"
+    }
+  ]
+}

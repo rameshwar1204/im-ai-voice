@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667439503",
+  "gluser_id": "118692491",
+  "vintage_months": 2,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Guwahati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663830",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan.\\nCustomer: Sir, Minakshi ho gaya login sir IndiaMART se.\\nExecutive: Haan. Ji ji login ho gaya hai.\\nCustomer: To aapko samajh mein aa gaya na?\\nCustomer: Haan wo login ho gaya hai matlab mere ko thoda sa wo iska ye jaanna tha kya bolte hai isko.\\nExecutive: Haan bataiye sir. Main guide karti hu.\\nExecutive: Sir bataiye kya kya jaanna tha?\\nCustomer: Haan matlab ye jo isme login kar liya hai na maine.\\nExecutive: Haan haan. To isme login ka wo ab isme matlab bill wagera product wagera kaise check karna hai wo sab system ke bare mein thoda jaanna hai. Sir dekhiye product ke section mein jaiye aap. Sabse upar dekhiye dashboard aata hai, profile aata hai, product, buyleads, lead manager. Right? Ek ek karke main sari cheeze batati hu. Dashboard pe aapke service ka start date, end date rehta hai. Theek hai? Kaunsa package run kar rahe hai. Ya dashboard pe hamara koi banner ke through advertising aati hai na jaise humne koi discount run kar rahe hote hai ya kuch additional cheeze run kar rahe hote hai. To wo banner ke through hum waha pe aapko promotion karke dete hai. Fir profile mein profile mein aapke contact details se related koi bhi change karna hota hai wo aap contact details mein kar sakte ho. Theek hai? Waha dekhiyega aap website ka hota hai, profile ka hota hai, index wagera hota hai. Ye sara aapka profile mein aata hai. Theek hai?\\nCustomer: Okay okay.\\nExecutive: Ye ho gaya. Dusra aata hai aapka buyleads. Buyleads mein aapko relevant aur recent ka tab dikhta hai.\\nCustomer: Okay.\\nExecutive: Dikha? Buyleads mein recent aur relevant dikhta hai?\\nCustomer: Hmm hmm.\\nExecutive: Theek hai? To buyleads mein aapke buying pattern ke hisab se relevant aur recent upar dekhiyega aapko filter, location ka filter, statistics ka filter, order value ka filter, lead type ka filter. Sab cheez ka filter aata hai aapke paas.\\nCustomer: Haan haan.\\nExecutive: Theek hai? Aapka buyleads jo hoti hai sabse main uska inquiry hoti hai hamari. Theek hai? Aapko aapko aap jis tarike agar aap char ghante ke lead utha rahe hai, aap Delhi ke lead jyada utha rahe hai, aap 50 kg wala lead aap utha rahe hai. To hame pata chal jata hai ki ye ek mere customer ka buying behavior hai. Fir hum usi buying behavior ko understand karte hue leads introduce karte hai aapko.\\nCustomer: Okay haan.\\nExecutive: Theek hai? Ji. Haan. To sir ye cheez hai. Ye buyleads ho gaya. Fir jo bhi buyleads aap consume karte ho uski ek information aapko lead manager pe jaati hai aur ek email pe jaati hai. To lead manager pe jayenge na aap to aapko buyleads, calls, inquiry sari inquiry ki information ek jagah milti hai. Aap waha se buyer ko reply kar sakte ho, reminder laga sakte ho, apne requirement ke hisab se aap add save karna hai to ye sari cheeze aap kar sakte hai. Aap thoda sa go through karenge na to sara bahut easily defined hai ki hamare customer ko ye cheez samajh mein aaye.\\nCustomer: Okay.\\nExecutive: Theek hai?\\nCustomer: Okay.\\nExecutive: Sir aawaz aa rahi hai?\\nCustomer: Haan haan mam aa rahi hai.\\nExecutive: Hello. Haan hello.\\nExecutive: Hello. Hello sir. Haan haan aawaz aa rahi hai aa rahi hai aapko meri aawaz aa rahi hai kya?\\nExecutive: Hello.",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know how to check product details.\\n\n- Wants to know about bill details.\\n\n\\n\nResolution:\\n\n- Executive explained about the dashboard.\\n\n- Executive explained about profile section.\\n\n- Executive explained about buyleads section.\\n\n- Executive explained about lead manager.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- dashboard, profile, buyleads, lead manager\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 216,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2229e9d3-ac55-43ca-a6a9-c376088ccac0",
+  "ucid": "2229e9d3-ac55-43ca-a6a9-c376088ccac0",
+  "seller_categories": [
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "21852",
+      "mcat_name": "Banana Chips"
+    },
+    {
+      "mcat_id": "38",
+      "mcat_name": "Biscuit"
+    },
+    {
+      "mcat_id": "141780",
+      "mcat_name": "Cheese Balls"
+    },
+    {
+      "mcat_id": "139186",
+      "mcat_name": "Wafer Biscuits"
+    }
+  ]
+}

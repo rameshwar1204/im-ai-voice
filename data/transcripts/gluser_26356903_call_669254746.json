@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669254746",
+  "gluser_id": "26356903",
+  "vintage_months": 4,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Memari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651901",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Haan ji, good morning sir.\\nCustomer: Hello\\nExecutive: Haan, good morning, boliye.\\nExecutive: Sir, main na baat kar rahi hu IndiaMART se aapke account manager sir. Ye aap call kiya tha aapne sir, kal?\\nCustomer: Haan, haan.\\nExecutive: Ji sir, to kuch issue aa raha hai kya abhi?\\nCustomer: [inaudible] main aapko hmm.\\nCustomer: [inaudible] hai aur kam kam quantity wala hai na.\\nExecutive: Achcha, kam quantity ki buyleads aa rahi hai?\\nCustomer: Haan, wo to thoda thoda jyada quantity ka nahi hai wo.\\nExecutive: Achcha, ek baar main check karti hu abhi ke abhi kam quantity wala wo kaise ye karega main ye karega.\\nCustomer: Thoda quantity wala dijiye aur party ko boliye mere ko phone karne ke liye main to usse message karte hai, thik hai?\\nExecutive: Haan. Sir, abhi na starting hai. Party log to kuch bolte nahi hai kuch to ye jaise usko.\\nExecutive: Sir, abhi kya hai na abhi aapka starting hi hai initial stage hai to usme kya hota hai na ki aapko pehle starting me calls vagera thodi apne answer bhi karni padti hai starting me. Starting me jo aapko do teen se ho gaya do teen mahina na.\\nCustomer: Haan. To is baar to abhi to party ko to thoda sa interest hona chahiye tha na.\\nExecutive: Waise calls to abhi aa rahi hai sir kuch kuch calls aa rahi hai aapko to kuch call pe matlab positive response lag raha hai calls 5 tarikh ko bhi aayi thi aapko.\\nExecutive: Thodi calls abhi dheere dheere matlab start hui hai aana to matlab kaisa chal raha hai abhi?\\nCustomer: Thik hai, main baad me aapke sath baat karega buyleads bhejiye jyada quantity wala aur wo main abhi ja raha hai baad me aapke sath baat karte hai, thik hai?\\nExecutive: Ek minute aapko 3000, 4000.\\nExecutive: Achcha, thik hai sir aur ye na aapko ji aawaz aa rahi hai. Thik hai baad me aapke sath baat karte hai abhi train pe ja raha hai. Thik hai.\\nExecutive: Sir, isme na kuch improvement karna padega aapke end se to fir ho jayega jaise 20 abhi na aapko mujhe thoda guide kar hello.\\nCustomer: Hello. Sir, aawaz aa rahi hai aapko, aawaz aa rahi hai. Haan. Hello. Hello. Hello. Hello.\\nCustomer: Hello.\\nCustomer: Sir, aawaz aa rahi hai aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving low quantity buyleads.\\n\n\\n\nResolution:\\n\n- Executive offered to check the issue.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will connect later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, quantity, calls\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 187,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8426366f-fe53-4d41-adb7-6c495f0a6b9d",
+  "ucid": "8426366f-fe53-4d41-adb7-6c495f0a6b9d",
+  "seller_categories": [
+    {
+      "mcat_id": "1347",
+      "mcat_name": "Carriage Bolts"
+    },
+    {
+      "mcat_id": "20635",
+      "mcat_name": "Socket Head Screw"
+    },
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "38646",
+      "mcat_name": "Split Pins"
+    },
+    {
+      "mcat_id": "220445",
+      "mcat_name": "Stainless Steel Split Pins"
+    }
+  ]
+}

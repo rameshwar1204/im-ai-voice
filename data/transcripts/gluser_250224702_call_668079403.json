@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668079403",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Namaste sir.\\nExecutive: Namaste.\\nCustomer: Aapne kaha tha Thursday ko aap kuch solution denge.\\nExecutive: Ji, do minute dijiye bas mai aapko jo bhi ticket generate solve karwa raha hu unse.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says executive promised solution on Thursday.\\n\n\\n\nResolution:\\n\n- Executive asked for two minutes to resolve ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- solution, ticket, resolve\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4c85475-af4d-4a2c-adf5-9907051bc107",
+  "ucid": "c4c85475-af4d-4a2c-adf5-9907051bc107",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

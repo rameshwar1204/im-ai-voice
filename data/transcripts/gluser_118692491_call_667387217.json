@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667387217",
+  "gluser_id": "118692491",
+  "vintage_months": 2,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Guwahati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663830",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hanji sir bataiye.\\n\\nCustomer: Hello madam.\\nExecutive: Hanji sir.\\nCustomer: Hello.\\nExecutive: Ji sir bataiye.\\nCustomer: Hello. Haan ye aap hi ko phone. Ye kya bolta hai isme ye baat kar rahe hai sir.\\nExecutive: Sir ki aawaz nahi clear aa rahi hai.\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan wo Indian Mart ka app app install ho jayega na PC mein?\\nExecutive: Wo register number se hi hoga sir jo primary number hai usse se hoga bas.\\nCustomer: Register app hai na uska directly website mein jana padega direct.\\nExecutive: Haan haan.\\nCustomer: Ah phone mein to app hai aapka PC ke liye app hai kya uska?\\nExecutive: Nahi PC ke liye nahi hai sir PC ke liye aapko website se hi open karna padta hai.\\nCustomer: Achcha wo uska link bataya na thoda sa.\\nExecutive: Sir ek minute mein time dijiyega sir main lunch pe hoon abhi kar rahi hoon aapko call back.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to install IndiaMART app on PC.\\n\n\\n\nResolution:\\n\n- Informed that PC requires website access.\\n- Executive will provide the website link later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- app installation, pc, website link\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=96f3a539-df7a-41df-b2b1-474deb654d30",
+  "ucid": "96f3a539-df7a-41df-b2b1-474deb654d30",
+  "seller_categories": [
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "21852",
+      "mcat_name": "Banana Chips"
+    },
+    {
+      "mcat_id": "38",
+      "mcat_name": "Biscuit"
+    },
+    {
+      "mcat_id": "141780",
+      "mcat_name": "Cheese Balls"
+    },
+    {
+      "mcat_id": "139186",
+      "mcat_name": "Wafer Biscuits"
+    }
+  ]
+}

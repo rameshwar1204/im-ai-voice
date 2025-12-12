@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668570225",
+  "gluser_id": "15908263",
+  "vintage_months": 108,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan good afternoon sir.\\nExecutive: Haan ji boliye.\\nExecutive: Haan main aap please baat kar raha hu sir India Mart Hyderabad office se kaise hain aap sir?\\nCustomer: Theek hai ji.\\nExecutive: Ji sir main keh raha jo aapne data vagera aapne jo mujhe bheja tha na pura export ka domestic ka theek hai?\\nCustomer: Hmm.\\nExecutive: To ha usi ke bare mein hum logo ne pura identify kar liya hai ek baar sir aap se baat karna chah rahe the sir se meri meeting arrange karwao main baat karta hu ek baar sir se.\\nCustomer: Hmm karwao.\\nExecutive: To abhi aap office mein available ho na sir aap?\\nCustomer: Nahi 3 baje ke baad.\\nExecutive: 3 baje ke baad to matlab call ke through hum log baat karenge sir ya video meet ke sir. Mere khayal se video meet jyada better rahega sir.\\nCustomer: 3 baje ke baad jaise marzi kar lo.\\nExecutive: Theek hai sir. Umesh ji data data khelenge ki kaam bhi karenge?\\nExecutive: Kaam hi hoga sir usi pe hum log pura dekh rahe hain na ki matlab aap samajh sakte ho na hum kar kya rahe hain.\\nCustomer: Right.\\nCustomer: Kyunki aap apni puri koshish laga rahe ho ki hum justify kare.\\nExecutive: Hmm hmm.\\nCustomer: To theek hai na mujhe pata hai aap log jo kar rahe ho ki India Mart ko apne aap ko protect karna har ek banda chahta hai ki main apne aap ko sahi dikhau.\\nExecutive: Hmm hmm.\\nCustomer: Lekin aisa hame lag raha hai ki aap apna bhi aur hamara bhi time na kharab ho.\\nExecutive: Haan wo wala kaam nahi karenge.\\nCustomer: Hum kaam karenge data data nahi chalenge sir.\\nExecutive: Kaam hi sir karna kaam hi ke liye sir hum log call kar rahe hain na sir. Aap 3 baje ke baad video audio jo meeting karna hai karo aaj ke date mein isko clear kar lo please.\\nCustomer: Theek hai.\\nExecutive: Roz roz hum is ek hi topic pe nahi kar payenge aur bhi bahut sare kaam hote hain.\\nCustomer: Ji ji.\\nExecutive: Ji ji ji ji.\\nExecutive: Theek hai ji theek hai.\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss data sent to IndiaMART.\\n\n- Customer wants to clear the issue today.\\n\n\\n\nResolution:\\n\n- Executive agreed to a meeting after 3 PM.\\n\n- Executive assured only work will be discussed.\\n\n\\n\nNext Steps: \\n\n- Meeting to be scheduled after 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- data, meeting, time\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=64103a27-f655-48c4-a9f9-77dfed95c962",
+  "ucid": "64103a27-f655-48c4-a9f9-77dfed95c962",
+  "seller_categories": [
+    {
+      "mcat_id": "96335",
+      "mcat_name": "Football Jersey"
+    },
+    {
+      "mcat_id": "222315",
+      "mcat_name": "Cricket Jersey"
+    },
+    {
+      "mcat_id": "136631",
+      "mcat_name": "Men Sublimation T-Shirt"
+    },
+    {
+      "mcat_id": "38659",
+      "mcat_name": "Sports Jersey"
+    },
+    {
+      "mcat_id": "183897",
+      "mcat_name": "Men Sports T-Shirt"
+    }
+  ]
+}

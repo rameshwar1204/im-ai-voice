@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676349561",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir bataiye.\\nCustomer: Haan ji, video meeting ka link mila aapko?\\nExecutive: Nahi sir, link nahi mila.\\nCustomer: Link aapko nahi mila? Whatsapp pe bheju kya?\\nExecutive: Haan bhejiye.\\nCustomer: To abhi line pe rahiye. Phone cut ho gaya tha na is wajah se nahi pahucha hoga.\\nExecutive: Koi baat nahi.\\nCustomer: Haan, line pe rahiye.\\n\\n(silence)\\n\\nCustomer: Hello?\\nExecutive: Yes sir, bataiye.\\nCustomer: Madam aapko maine whatsapp pe, hi bheja hai, usme revert kijiye. To tabhi mai aapko link show hoga.\\n\\nExecutive: Bhej denge, humko bhi malum hai, lekin hum negative nahi soch rahe, humko pata hai sab nahi milega. Hmm, sahi nahi milega, aap karenge nahi. Nahi karenge, humko pata hai, forward lenge.\\nExecutive: Thik hai sir, mil gaya.\\nCustomer: Haan, mila mam link?\\nExecutive: Haan, hum bhi bhej rahe hai.\\nCustomer: Haan, abhi usse video meet pe join kijiye.\\nExecutive: Thik hai sir.\\nCustomer: Thik hai.\\nExecutive: Haan, humko bhi pata hai.\\nExecutive: Mujhe bhi dekho, jitna bhi tumko aata hoga, tumko jaisa chahiye waisa hai, aur phir kaise banayenge.\\nExecutive: To humko kuch nahi, tum bol rahe the, tum sun suno na, kaise aap karwaoge.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive the video meeting link.\\n\n\\n\nResolution:\\n\n- Executive resent the video meeting link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7e85fe30-6137-4130-b16f-1caf9165f924",
+  "ucid": "7e85fe30-6137-4130-b16f-1caf9165f924",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

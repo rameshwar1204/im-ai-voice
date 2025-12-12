@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674820420",
+  "gluser_id": "15826716",
+  "vintage_months": 6,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Mangrol",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655405",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Namaskar Sarvesh ji.\\nCustomer: Namaskar.\\nExecutive: Jo wo aapko problem face ho raha tha wo abhi bhi ho raha hai sir?\\nCustomer: Sir maine jab se abhi tak download hi nahi kiya hu.\\nExecutive: Achcha theek hai aap jo hai usko download kar lijiye aur apna primary number jo hai\\nExecutive: jispe maine call kiya hai 88 last me 77 hai isse OTP dwara isko login kar lijiye theek hai aur filter fir se lagaiye Mumbai Maharashtra ka aur iska ek video bana lijiyega ya screenshot mujhko aap whatsapp pe sir send kar dijiye theek hai turant.\\nCustomer: Half an hour jayega mujhe main karke aapko.\\nExecutive: Half an hour.\\nCustomer: Hmm.\\nExecutive: Dekh lijiye agar 5 minute me ho paye kyuki team already us pe kam kam kar rahi hai na sir maine concern raise kiya tha aapka to abhi waha se mujhko screenshot ya video manga ja raha hai issue ka.\\nCustomer: Okay.\\nExecutive: Ji to aap kuch karna nahi play store se download kar lijiye just do minute ka kam hai sir.\\nCustomer: Hmm.\\nExecutive: Dijiye do minute.\\nExecutive: Ha do minute whatsapp pe aap send kar dijiye theek hai.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is still facing the issue.\\n\n- Customer needs half an hour to download.\\n\n\\n\nResolution:\\n\n- Executive asked to download the app.\\n\n- Executive asked to send screenshot/video on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- download, screenshot, whatsapp, issue\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f2dcb12-222a-4904-bc07-a3eca57bfaeb",
+  "ucid": "7f2dcb12-222a-4904-bc07-a3eca57bfaeb",
+  "seller_categories": [
+    {
+      "mcat_id": "148769",
+      "mcat_name": "Wooden Flush Doors"
+    },
+    {
+      "mcat_id": "94914",
+      "mcat_name": "Laminate Door"
+    },
+    {
+      "mcat_id": "159032",
+      "mcat_name": "Plywood Door"
+    },
+    {
+      "mcat_id": "29029",
+      "mcat_name": "FRP Doors"
+    },
+    {
+      "mcat_id": "156916",
+      "mcat_name": "Pine Wood Flush Door"
+    }
+  ]
+}

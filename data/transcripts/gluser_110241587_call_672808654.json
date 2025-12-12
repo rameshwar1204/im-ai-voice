@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672808654",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Good afternoon sir, kaise hain?\\nCustomer: Good afternoon sir, Sat Sri Akal sir.\\nExecutive: Accha, mai bol raha tha aap waha pahunch gaye hai kya kehte hai office?\\nCustomer: Ha factory me hi hu.\\nExecutive: Factory me hi hai. Kya tha isme wo us din maine bataya tha na isme catalog pe thoda kaam kar lete hai to abhi aap video meet pe aake isko karwa dijiye udhar fir khatam karte hai.\\nCustomer: Ha abhi karwata hu wo maine 2000 ka payment okay kar diya aaj ka.\\nExecutive: Okay kar diya? Maine maine bhej maine upar bhej diya hai wo isko concept close kar denge shayad aaj kal me hai na.\\nCustomer: Close ho gaya ya abhi baki hai?\\nExecutive: Ek second mai open karke dekhna padega.\\nExecutive: Aapne mere ko wo bhi to nahi bheji iska jo maine documents bataye the wo.\\nCustomer: Are yaar wo sala time nahi milta yaar ghar ke kamon me.\\nExecutive: Wo aap bhej dena mere ko mai wo to karwa hi dunga.\\nExecutive: Ye abhi nahi abhi isme kuch review ke liye reh gaya hai uske baad ye kar denge. Mai isme maine bhej to upar bhej ke diya tha us bande ko. Jiske paas tha ye case usne kar dega wo, theek hai.\\nExecutive: Iske liye koi dikkat nahi hai.\\nCustomer: Boliye unko ek baar bolo bhai isko karo clear karo isko.\\nExecutive: Ha mai ek baar call kar leta hu unko aisa kuch nahi hai. Accha ye bataiye to mai fir video meet kitni der me ho payegi ye sahi karna hai.\\nCustomer: Aa jaiye. Aa kariye video call kijiye.\\nExecutive: Abhi kar leta hu mai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the status of the payment.\\n\n- Customer needs help with catalog work.\\n\n- Customer hasn't sent the required documents.\\n\n\\n\nResolution:\\n\n- Executive confirmed payment sent for closure.\\n\n- Executive offered to help with pending documents.\\n\n- Executive will call the concerned person to clear case.\\n\n\\n\nNext Steps: \\n\n- Executive will initiate a video call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- payment, catalog, documents, video meet\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25a84c46-b24e-48ed-b1e3-dea74ebc551f",
+  "ucid": "25a84c46-b24e-48ed-b1e3-dea74ebc551f",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

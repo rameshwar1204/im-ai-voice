@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674107895",
+  "gluser_id": "37642107",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes.\\nCustomer: Sir, thoda sa baat karna hai mujhe GST ke baare mein.\\nExecutive: Hello.\\nExecutive: Ji ji, ek minute sir, ek minute.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk about GST.\\n\n\\n\nResolution:\\n\n- Call disconnected.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, talk\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2cd5c39-b39c-448e-879c-cfe0d0b16c1a",
+  "ucid": "d2cd5c39-b39c-448e-879c-cfe0d0b16c1a",
+  "seller_categories": [
+    {
+      "mcat_id": "43386",
+      "mcat_name": "Road Construction"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "175580",
+      "mcat_name": "Boundary Walls Construction Services"
+    },
+    {
+      "mcat_id": "167404",
+      "mcat_name": "Hydraulic Floor Spring"
+    },
+    {
+      "mcat_id": "110077",
+      "mcat_name": "Fiber Cement Tile"
+    }
+  ]
+}

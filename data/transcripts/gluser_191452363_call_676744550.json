@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676744550",
+  "gluser_id": "191452363",
+  "vintage_months": 2,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, sir Satyaprakash ji baat kar rahe ho na?\\nCustomer: Hanji.\\nExecutive: Sir India Mart se baat kar rahi hu main team manager, kaise hain aap sir?\\nCustomer: Badhiya madam badhiya aap bataiye.\\nExecutive: Main bahut badhiya sir thank you so much. Sir ye aapki jo Rudram Enterprises thi na jispe aapne do mahine dhai mahine pehle services li thi India Mart mein?\\nCustomer: Hmm.\\nExecutive: Haan, us pe jo aapne concern raise kiya tha refund ke liye uska hum aage refund process kar rahe hain sir. To hamara jo management hai waha se aapka refund approve ho gaya hai. Aapka ye service abhi hum download kara ke aur within seven days aapke account mein aapka refund aa jayega sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai kal aapne apna jo humne aapki purane wali company mein hi details change ki thi aapne kal usme payment kar diya tha usko humne aage process kar diya hai.\\nCustomer: Theek hai madam.\\nExecutive: Theek hai abhi jo aapka ye concern tha ye main close kar rahi hu jo aapki do mahine pehle paid services li thi us pe aapka concern chal raha hai usko main close kar rahi hu theek hai?\\nCustomer: Uh close to refund aane ke baad karte to jyada achcha rehta.\\nExecutive: Sir wo to automatic process ho gaya hai wo to abhi internal team ke paas chali gayi hai sari cheeze.\\nCustomer: Actually mere paas uska koi bhi wo nahi hai na matlab na mail hai na kuch hai to verbally baat chal raha hai aapne mujhe bataya maine sun liya bas.\\nExecutive: Achcha.\\nCustomer: Iska kuch kuch.\\nExecutive: Theek hai wait kar lete hain koi problem nahi hai sir wait kar lete hain aise refund ka theek hai jaise hi yaha se download process hoke refund help desk pe pahunch jayega main uski uska screenshot aapko share kar dungi fir main concern close kar dungi theek hai?\\nCustomer: Theek hai theek hai theek hai.\\nExecutive: Okay sir thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close after refund is received.\\n\n\\n\nResolution:\\n\n- Executive informed refund has been approved.\\n\n- Executive informed refund will be credited within 7 days.\\n\n- Executive will share screenshot once refund helpdesk receives it.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, payment, concern\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8530f174-81de-45e1-b1c7-8731750bfd25",
+  "ucid": "8530f174-81de-45e1-b1c7-8731750bfd25",
+  "seller_categories": [
+    {
+      "mcat_id": "215117",
+      "mcat_name": "Cordyceps Militaris"
+    },
+    {
+      "mcat_id": "654333",
+      "mcat_name": "Dried Cordyceps Sinensis"
+    },
+    {
+      "mcat_id": "186214",
+      "mcat_name": "Makhana"
+    },
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "26879",
+      "mcat_name": "Dried Mushroom"
+    }
+  ]
+}

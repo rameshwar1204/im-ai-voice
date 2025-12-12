@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670402301",
+  "gluser_id": "247864001",
+  "vintage_months": 4,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Sithayankottai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670268",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello good evening ma'am. Sollunga.\\nCustomer: Hello good evening ma'am. Good evening ma'am sollunga.\\nExecutive: Ma'am nanga AM traders Dindukkal ma'am.\\nCustomer: Account manager vanthu engaluku some person Sanjitha apdinu ninaikiren avanga ippo recently avanga than iruken nu sonnanga.\\nExecutive: Illa illa Rithika nan than paathutu iruken AM traders.\\nCustomer: Okay okay yes ma'am yes ma'am.\\nExecutive: One minute ma'am unga mobile number sollunga.\\nCustomer: 63690\\nExecutive: One second ma'am na ippo ungaluku vanthu recorded line la irunthu call panitongala?\\nCustomer: Okay okay ma'am number sollunga 6 6363690\\nExecutive: 3690\\nCustomer: 50 50\\nExecutive: 312 312 okay ma'am ippo call.\\nCustomer: Enaku account manager saringala enoda number la irunthu na company call pannunga.\\nExecutive: Unga name sollunga okay ma'am.\\nCustomer: En name Selvi ma'am.\\nExecutive: Fatima unga name okay okay okay yes ma'am thank you.\\nCustomer: Okay ma'am.\\nExecutive: Ippo call back pandrengala ippo nane ungaluku call back pandren 6369050312 thane ma'am.\\nCustomer: Aamanga ma'am okay okay ma'am call back pandren okay ma'am okay thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about account manager.\\n\n\\n\nResolution:\\n\n- Executive confirmed she is the account manager.\\n\n- Executive took customer's number to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, call back, verification\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5877464b-4b44-4543-b051-01eaf880cb36",
+  "ucid": "5877464b-4b44-4543-b051-01eaf880cb36",
+  "seller_categories": [
+    {
+      "mcat_id": "157281",
+      "mcat_name": "Cotton Nightgown"
+    },
+    {
+      "mcat_id": "220508",
+      "mcat_name": "Ladies Designer Nighty"
+    },
+    {
+      "mcat_id": "166899",
+      "mcat_name": "Cotton Lungis"
+    },
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "85474",
+      "mcat_name": "Printed Lungi"
+    }
+  ]
+}

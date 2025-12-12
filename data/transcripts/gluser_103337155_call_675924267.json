@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675924267",
+  "gluser_id": "103337155",
+  "vintage_months": 11,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Dungarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682340",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nAre tamare joining karvani che?\\nHello.\\nE delivery nu kam rese.\\nHello.\\nHello.\\nBada grocery nu rese.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Joining Tamara.\\n\n- Delivery work.\\n\n- Bada grocery.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\njoining, delivery, grocery\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=af142f94-0424-48b0-92b6-875d7c478d0d",
+  "ucid": "af142f94-0424-48b0-92b6-875d7c478d0d",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672506423",
+  "gluser_id": "32233874",
+  "vintage_months": 22,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Yamuna Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685668",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nLo baby kani ke liye offer diya tha India mein.\\nBaby baby.\\nKaju kaju kani.\\nKya keh rahe the?\\nSorry sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Offer for Lo baby in India.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\noffer, india\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b65a8738-a0e5-4688-9444-14d983e4f102",
+  "ucid": "b65a8738-a0e5-4688-9444-14d983e4f102",
+  "seller_categories": [
+    {
+      "mcat_id": "41423",
+      "mcat_name": "Wood Chippers"
+    },
+    {
+      "mcat_id": "153623",
+      "mcat_name": "Sawdust Making Machine"
+    },
+    {
+      "mcat_id": "143242",
+      "mcat_name": "Blade Grinding Machine"
+    },
+    {
+      "mcat_id": "107260",
+      "mcat_name": "Wood Debarker"
+    },
+    {
+      "mcat_id": "142650",
+      "mcat_name": "Knife Grinding Machine"
+    }
+  ]
+}

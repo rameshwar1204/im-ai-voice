@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670432662",
+  "gluser_id": "5286752",
+  "vintage_months": 37,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666902",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "\\nExecutive: Hi, if you record your name and reason for calling, I'll see if this person is available.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvoicemail message\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c1fe0054-9bde-4ef7-b3cc-71db48f1100c",
+  "ucid": "c1fe0054-9bde-4ef7-b3cc-71db48f1100c",
+  "seller_categories": [
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "17372",
+      "mcat_name": "Marble Dining Table"
+    },
+    {
+      "mcat_id": "443184",
+      "mcat_name": "Epoxy Resin Table"
+    },
+    {
+      "mcat_id": "181781",
+      "mcat_name": "Round Dining Table"
+    },
+    {
+      "mcat_id": "26510",
+      "mcat_name": "Dining Table Set"
+    }
+  ]
+}

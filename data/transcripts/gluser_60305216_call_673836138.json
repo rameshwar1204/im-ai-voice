@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673836138",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\u0939\u094b \u0930\u0939\u0940 \u0939\u094b \u090f\u0932 \u0935\u0948\u0932\u094d\u092f\u0942 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948\\n\u0939\u0947\u0932\u094b\\n\u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930 \u0938\u094b \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e\\n\u0938\u0930 \u0905\u092d\u0940 \u092e\u0948\u0902 \u0925\u094b\u0921\u093c\u093e \u0915\u0941\u091b \u0915\u093e\u092e \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u0906\u092a \u092c\u093e\u0926 \u092e\u0947\u0902 \u0915\u0949\u0932 \u0915\u0940\u091c\u093f\u090f \u090f\u0915 \u092e\u093f\u0928\u091f \u0915\u093f\u0924\u0928\u0947 \u092c\u091c\u0947 \u0924\u0915 \u0915\u0930 \u0932\u0942\u0902\u0917\u093e\\n\u0939\u0948\u0902 \u0915\u093f\u0924\u0928\u0947 \u092c\u091c\u0947 \u0924\u0915 \u0906\u092a\u0938\u0947 \u0915\u0928\u0947\u0915\u094d\u091f \u0915\u0930 \u0932\u0942\u0902 \u092e\u0948\u0902 \u092c\u0924\u093e \u0926\u0940\u091c\u093f\u090f\\n4 \u092c\u091c\u0947 \u0924\u0915\\n\u0920\u0940\u0915 \u0939\u0948 \u0928\u094b \u092a\u094d\u0930\u0949\u092c\u094d\u0932\u092e \u0913\u0915\u0947 \u0925\u0948\u0902\u0915 \u092f\u0942 \u0938\u0930\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to call later due to being busy.\\n\n\\n\nResolution:\\n\n- Agreed to call back at 4 PM.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Will call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\ncall back time\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=37a8a3e2-ea84-4a83-b91c-9d79b99a3293",
+  "ucid": "37a8a3e2-ea84-4a83-b91c-9d79b99a3293",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

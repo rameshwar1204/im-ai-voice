@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672860218",
+  "gluser_id": "7428781",
+  "vintage_months": 20,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9691919",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes ma'am.\\nExecutive: Yes sir, good afternoon. Main Shruti baat kar rahi thi IndiaMART head office Noida se. How are you?\\nCustomer: Sorry?\\nExecutive: Sir, this is Shruti from IndiaMART head office Noida.\\nCustomer: Yes ma'am.\\nExecutive: Yes sir. Sir actually I called you regarding your profile which is running on IndiaMART, Fine Art Glass Works. So just wanted to have you know discussion regarding the profile. So is it the right time to speak to you?\\nCustomer: Ma'am, aapki aawaz disturb kar rahi hai.\\nExecutive: Sir, abhi aawaz aa rahi hai?\\nCustomer: Yes.\\nExecutive: Sir, aapki profile run kar rahi hai na Fine Art Glass Works IndiaMART pe?\\nCustomer: Yes ma'am.\\nExecutive: Yes sir, mujhe isi profile ke regarding aapke saath kuch discussion karna tha.\\nCustomer: Yes, bataiye.\\nExecutive: Toh abhi baat ho sakti hai, right?\\nCustomer: Actually kya hai jo hai na woh pe hai.\\nExecutive: Sir, even your voice is you know not audible. Main ek baar call back karti hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is not audible.\\n\n- Executive's voice was disturbing.\\n\n\\n\nResolution:\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, discussion, call back\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c40adbe-d0c7-4eea-92d9-ba41ca363640",
+  "ucid": "8c40adbe-d0c7-4eea-92d9-ba41ca363640",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "85212",
+      "mcat_name": "Glass Water Bottle"
+    },
+    {
+      "mcat_id": "445896",
+      "mcat_name": "Goli Soda Glass Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "612",
+      "mcat_name": "Glass Bottles"
+    }
+  ]
+}

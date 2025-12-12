@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670226159",
+  "gluser_id": "193260340",
+  "vintage_months": 26,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9664017",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello. Hello. Hanji.\\nExecutive: Hanji sir, sir jo aapka issue tha abhi to wo solve ho gaya hai to mai ye ticket close kar du na?\\nCustomer: Kon sa wala?\\nExecutive: Calls wala jo maine aapko discussion kiya tha calls wala.\\nCustomer: Achcha Salman bhai se baat hui bade bhai se baat hui thi aapki?\\nExecutive: Unse to pehle baat ho gayi thi. Unhone kaha tha ki aapki taraf se hai.\\nCustomer: Achcha achcha achcha. Chalo koi nahi abhi ye cheeze hai to kar do isko close kar do.\\nExecutive: Thik hai aur sir ek feedback aur jayega agar aap satisfy hai to fir sir aap best rating kar lijiyega.\\nCustomer: Okay.\\nExecutive: Okay sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's issue regarding calls.\\n\n\\n\nResolution:\\n\n- Executive confirmed issue is resolved and closed ticket.\\n\n- Executive requested customer to provide best rating.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- calls, issue resolution, feedback\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf0ddaff-4a9b-4f83-8d81-1f5048c6829d",
+  "ucid": "cf0ddaff-4a9b-4f83-8d81-1f5048c6829d",
+  "seller_categories": [
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "113756",
+      "mcat_name": "Temple Domes"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    }
+  ]
+}

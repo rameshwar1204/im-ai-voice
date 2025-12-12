@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675222294",
+  "gluser_id": "102938522",
+  "vintage_months": 7,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Rajnandgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Sahu ji?\\nCustomer: Sahu ji Sahu ji se baat ho rahi hai?\\nExecutive: Nahi nahi Sahu ji nahi hai.\\nExecutive: Achcha achcha. Wo kuch nahi Sahu ji ne aap aap Sahu se Sahu Sahu agriculture se baat kar rahe ho na?\\nCustomer: Wrong number wrong number.\\nExecutive: Wrong.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to speak with Sahu ji.\\n\n\\n\nResolution:\\n\n- Executive stated Sahu ji was not available.\\n\n- Executive confirmed the customer was calling Sahu agriculture.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer stated it was the wrong number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to negative\\n\n\\n\n@@@Key Topics:\\n\nwrong number\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c12e2db-fd78-4d14-a411-6ed0056c41f0",
+  "ucid": "7c12e2db-fd78-4d14-a411-6ed0056c41f0",
+  "seller_categories": [
+    {
+      "mcat_id": "43200",
+      "mcat_name": "Combine Harvester"
+    },
+    {
+      "mcat_id": "192898",
+      "mcat_name": "Kubota Harvester"
+    },
+    {
+      "mcat_id": "650409",
+      "mcat_name": "Track Combine Harvester"
+    },
+    {
+      "mcat_id": "139361",
+      "mcat_name": "Paddy Harvester"
+    },
+    {
+      "mcat_id": "139374",
+      "mcat_name": "Power Reaper"
+    }
+  ]
+}

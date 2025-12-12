@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671879899",
+  "gluser_id": "141828184",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677371",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\n[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f109b361-05bf-4e58-a3f9-1a16c5b3df41",
+  "ucid": "f109b361-05bf-4e58-a3f9-1a16c5b3df41",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "31122",
+      "mcat_name": "Iron Scrap"
+    },
+    {
+      "mcat_id": "43846",
+      "mcat_name": "Coking Coal"
+    },
+    {
+      "mcat_id": "180300",
+      "mcat_name": "Black Coal"
+    },
+    {
+      "mcat_id": "113678",
+      "mcat_name": "ROM Coal"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668223954",
+  "gluser_id": "15741212",
+  "vintage_months": 55,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Talegaon Dabhade",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630090",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Primary mapping kara char keywords aur sab mein usse related nahi jitne bhi keywords uthaoge wo sare ke sare gladiator wale uthana matlab gladiator safe bata do ek minute ruko. Hello.\\nCustomer: Gladiator security safe is tarike se. Sir kya hum log 10-15 minute ke liye ya whenever you are free can we connect over a video meeting bahut sara correction mujhe aapke sath mein discuss karna hai. Catalog maine abhi aapko open kiya tha.\\nExecutive: Kal karte hai madam subah 10 baje.\\nCustomer: Ha ha kal ke liye hi kal ke liye jo bhi time feasible hai kyuki ye call pe discuss hoke nahi hoga ye meeting mein connect karke aur fir sara correction mujhe karana hai. There is lot of area of improvement in terms of your keywords wo mujhe sare thik karane hai aur sari product groups mujhe thik karane hai discuss kar karke.\\nCustomer: To wo sab mujhe aapke samne discuss karna padega baith kar.\\nExecutive: Thik hai kal morning mein karte hai 11 baje.\\nCustomer: Thik hai chalo kal 11 baje ki aapka appointment laga dijiye thik hai.\\nCustomer: Thik hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to correct keywords and product groups.\\n\n- Wants to connect over a video meeting.\\n\n\\n\nResolution:\\n\n- Executive agreed to a meeting next day.\\n\n\\n\nNext Steps: \\n\n- Meeting scheduled for the next day at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- keywords, product groups, video meeting, appointment\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4de883a-8ec3-4d4a-9666-a885b8af4862",
+  "ucid": "d4de883a-8ec3-4d4a-9666-a885b8af4862",
+  "seller_categories": [
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "481",
+      "mcat_name": "Fire Proof Safes"
+    },
+    {
+      "mcat_id": "187375",
+      "mcat_name": "Jewellery Locker"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "188933",
+      "mcat_name": "Steel Security Safe"
+    }
+  ]
+}

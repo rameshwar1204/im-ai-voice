@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675963387",
+  "gluser_id": "81884921",
+  "vintage_months": 10,
+  "bl_dau_oct": 26,
+  "customer_type": "vFCP no PNS",
+  "city_name": "Khandwa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689644",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Neki vyarth nahi jati har lekha jokha rakhte hain.\\nExecutive: Hello.\\nCustomer: Ji namaste bhai sahab kya hal hai.\\nExecutive: Ha Ashish sahab kya hal chal namaskar Himanshu baat kar raha sir India Mart se.\\nCustomer: Ji.\\nExecutive: Sir ye catalog ka apna renewal aa gaya tha ek saal apna complete ho raha hai sir next month mein.\\nCustomer: To iska renewal due tha ek saal ki journey aapki kafi achi rahi numbers ke terms mein to dikh raha hai sir.\\nCustomer: Bas inquiries hai.\\nExecutive: Sir itne log itne log thodi inquiry karne aate hain sir aap dekhiye na aap wo jitne data mein se kisi ko bhi cross check kijiye.\\nCustomer: 1000 log inquiry karne aate hain sir 847 inquiry aayi 180 mahine ka call aaya.\\nExecutive: Sir 11000 message hai total.\\nCustomer: Lekin sales kuch bhi nahi hai randomly kisi ko bhi utha ke puch lijiye koi maal kharida kya.\\nExecutive: Sir hamare pass details nahi hote na sir.\\nCustomer: Main screenshot likh deta hu 10 11000 logo ke message hai.\\nExecutive: Aisa nahi hai sir main aath saal se hu sir aisa to kabhi nahi hua thoda sa free mere sath hua hai na main ab thoda sa free ho ke lagata hu na aapko.\\nCustomer: Wo down kitne der mein call karu.\\nExecutive: Main sham ko 5:30 baje lagata hu na abhi motor ka spice ka season hai jo bhi hai sir trust bhi karaiye ek trust wali jo baat hoti hai wo bhi kahi na kahi fark padta hai sir isko trust aap karana and inquiry ka flow bhi badhega ek trust level bhi badhega to cheeze different tarike se aapko.\\nCustomer: 5:30 baje dikhata hu.\\nExecutive: Thik hai 5:30 baje lagate hain.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Renewal of catalog is due.\\n\n- No sales despite many inquiries and messages.\\n\n\\n\nResolution:\\n\n- Executive suggested TrustSeal for better results.\\n\n- Executive agreed to call back at 5:30 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 5:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, catalog, trustseal, inquiries, sales\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=23d91017-b382-452a-a0c5-4a59c0a581ef",
+  "ucid": "23d91017-b382-452a-a0c5-4a59c0a581ef",
+  "seller_categories": [
+    {
+      "mcat_id": "139150",
+      "mcat_name": "Solar Water Pump"
+    },
+    {
+      "mcat_id": "222429",
+      "mcat_name": "Shakti Solar Water Pump"
+    },
+    {
+      "mcat_id": "650166",
+      "mcat_name": "Solar Atta Chakki"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "153498",
+      "mcat_name": "Solar Submersible Pumps"
+    }
+  ]
+}

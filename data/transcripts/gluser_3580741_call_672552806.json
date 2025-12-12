@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672552806",
+  "gluser_id": "3580741",
+  "vintage_months": 97,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Gaurela",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nHello?\\nHello?\\nHello? Haan ji, Lokesh ji, namaskar.\\nHaan, namaskar boliye.\\nHan sir, kaise hain sir aap?\\nArre, abhi thoda sa main bank le raha hoon.\\nAchha, toh theek hai. Theek hai, theek hai sir. Karta hoon aapko baad mein karta hoon.\\nHmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, bank\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=07aed64f-af28-4971-8799-015c6a38532d",
+  "ucid": "07aed64f-af28-4971-8799-015c6a38532d",
+  "seller_categories": [
+    {
+      "mcat_id": "184934",
+      "mcat_name": "Riso Digital Duplicator"
+    },
+    {
+      "mcat_id": "96517",
+      "mcat_name": "Digital Duplicator"
+    },
+    {
+      "mcat_id": "163575",
+      "mcat_name": "Wedding Card Printing Machine"
+    },
+    {
+      "mcat_id": "139847",
+      "mcat_name": "Label Cutting Machine"
+    },
+    {
+      "mcat_id": "142686",
+      "mcat_name": "Thermal Lamination Machine"
+    }
+  ]
+}

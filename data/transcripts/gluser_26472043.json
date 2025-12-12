@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670358066",
+  "gluser_id": "26472043",
+  "vintage_months": 36,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666524",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan boliye.\\nCustomer: Haan, haji sir, good afternoon, Himanshu bol raha hu.\\nExecutive: Achcha sir, haan boliye.\\nCustomer: Sir, haan sir, actually mere paas na aapka ek feedback aaya tha, usme khali description me lead likha hua hai. Kya hua sir, kuch issue aa raha hai kya IndiaMART pe?\\nCustomer: Haan, lead nahi aa raha tha, kal baat bola tha na.\\nExecutive: Haan, leads ko lekar ke, haan bataiye, leads nahi aa raha hai India, matlab us pe.\\nCustomer: Hello?\\nExecutive: Haan, haan.\\nCustomer: Haan, wohi, kal jo baat hua tha wohi hai, matlab mere paas dikh raha tha, matlab ek\\nExecutive: Haan.\\nCustomer: Laga tha, toh maine woh hata diya.\\nExecutive: Achcha.\\nCustomer: Theek hai.\\nExecutive: Sir, aapko, haan, aapko sir ek link share kar raha hu, ek baar aaiye meeting pe, fir thoda dekhte hai kya issue aa raha hai, hai na? Mai aapko link share kar raha hu.\\nCustomer: Nahi nahi, abhi time nahi hai, abhi bahut kaam hai, baad me.\\nExecutive: Sir, kab tak kar lu? Kab tak kar lu? Kab tak kar lu?\\nCustomer: Aaj nahi ho payega, because aaj, because hamara idhar audit chal raha hai na, toh problem ho raha hai.\\nExecutive: Theek hai, achcha nahi sir, actually, concern tha na sir ye.\\nCustomer: Mai keh raha tha sir, concern tha isliye keh raha tha.\\nCustomer: Toh abhi shaam ko bata dijiye.\\nExecutive: Baat hua tha iske liye.\\nCustomer: Nahi, aaj shaam ko bhi nahi hoga, mai jaldi jaldi nikal jaunga, toh aaj nahi hoga. Mai kal lunga aapko.\\nExecutive: Haan, nahi sir, actually hamare paas concern raise hua tha na, toh isko, isko, isko sir priority basis pe resolve karna hota hai. Toh isliye keh raha tha ki thoda sa agar time aap batate toh, zyada nahi 15-20 minute ka time.\\nCustomer: Aap bol dena ki, aap bol dena ki haan uska kal baat hua tha iske regarding. Toh ho jayega baat, khatam ho jayega na.\\nExecutive: Achcha, toh, toh ye ticket fir close kar du kya sir?\\nCustomer: Haan, haan, close kar dijiye.\\nExecutive: Theek hai, theek hai sir, mai close kar raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported not receiving leads.\\n\n- Executive wants to resolve the issue.\\n\n\\n\nResolution:\\n\n- Customer stated issue was discussed previously.\\n\n- Customer is busy with an audit.\\n\n- Customer asked to close the ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will close the ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, audit, ticket\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 143,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=07c22c0c-e9dd-46ff-ac2f-1bd6ad74a998",
+  "ucid": "07c22c0c-e9dd-46ff-ac2f-1bd6ad74a998",
+  "seller_categories": [
+    {
+      "mcat_id": "9543",
+      "mcat_name": "Slit Lamp"
+    },
+    {
+      "mcat_id": "40493",
+      "mcat_name": "Ultrasound Machines"
+    },
+    {
+      "mcat_id": "177080",
+      "mcat_name": "Auto Refractometer"
+    },
+    {
+      "mcat_id": "148344",
+      "mcat_name": "Phaco Machine"
+    },
+    {
+      "mcat_id": "95880",
+      "mcat_name": "Ophthalmic Microscope"
+    }
+  ]
+}

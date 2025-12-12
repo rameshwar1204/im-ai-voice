@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674714606",
+  "gluser_id": "49980999",
+  "vintage_months": 8,
+  "bl_dau_oct": 18,
+  "customer_type": "Default Cust Type",
+  "city_name": "Barmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Hello ha ji.\\nCustomer: Hello\\nExecutive: ha bolo\\nCustomer: ha bhabhi ji\\nExecutive: ji boliye\\nCustomer: Branshu bol raha hu sir Branshu bol raha hu India mart se ha boliye\\nCustomer: ek senior hai wo kuch baat karna chah rahe the aapse aapke profile ke regarding\\nExecutive: ek minute baat kar lijiye aap\\nExecutive: hello\\nCustomer: ha ji\\nExecutive: ha ji hello ha sir\\nExecutive: matlab morning me bhi try kiya tha aapko sir isme wahi keh raha tha sir services wagera me sir transu se baat hui hogi to koi dikkat to nahi aa rahi sir services me\\nCustomer: kisne\\nExecutive: sir India mart ke services me koi issue to nahi aa raha na aapko services use karne me\\nCustomer: nahi nahi\\nExecutive: thik hai thik hai transu ka number aapke pass hai sir koi dikkat hoti hai koi pareshani hoti hai aap inse baat kar sakte hai aur ek feedback dena tha sir aapko aapke pass calls kafi miss ho rahi hai buyer ki to please usko attend kijiye buyer ka\\nCustomer: thik hai\\nExecutive: thik thik sir okay\\nExecutive: ha aapka bhi renewal aane wala hai sir february ya march ke mahine me aayega abhi teen char mahine bache hue hai to isko use kar lijiye aur acche se\\nCustomer: thik hai sir\\nExecutive: thik hai ek feedback aayega sir aapka hamare liye please usko satisfied pe click kar dijiyega aap\\nCustomer: thik hai sir\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is missing buyer calls.\\n\n- Executive asked about issues with IndiaMART services.\\n\n\\n\nResolution:\\n\n- Executive suggested using the services effectively.\\n\n- Executive asked to attend buyer calls.\\n\n- Executive asked to click on 'satisfied' for feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, renewal, feedback, buyleads\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=52f95ec9-6db8-4aae-8b51-ce2a38659486",
+  "ucid": "52f95ec9-6db8-4aae-8b51-ce2a38659486",
+  "seller_categories": [
+    {
+      "mcat_id": "29938",
+      "mcat_name": "Gypsum Plaster"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    },
+    {
+      "mcat_id": "4378",
+      "mcat_name": "Bentonite Powder"
+    },
+    {
+      "mcat_id": "34485",
+      "mcat_name": "Plaster Of Paris"
+    },
+    {
+      "mcat_id": "131584",
+      "mcat_name": "Gypsum Stucco Plaster"
+    }
+  ]
+}

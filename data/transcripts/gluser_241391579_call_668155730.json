@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668155730",
+  "gluser_id": "241391579",
+  "vintage_months": 2,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643591",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ha ji sir. RTI Enterprises se baat kar raha hu.\\nCustomer: Ha ji sir bataiye.\\nExecutive: Ha ji sir bataiye. Pehle main register kiya tha.\\nCustomer: Ji.\\nCustomer: Isme lekin matlab abhi tak mere ko ek bhi lead matlab kuch positive nikala nahi hai aur abhi jo bhi dikh rahe ho irrelevant dikh rahe hai aise.\\nExecutive: Irrelevant matlab irrelevant kaise sir kya aapke product se relevant nahi aa rahi hai lead?\\nCustomer: Ji loading unloading ka vagaira jo keywords maine add kiya hua hai na already mere category mein bahut sare log bhi aapke sath jude hue hai India mart se lekin mujhe nahi dikh rahi hai usme.\\nCustomer: Ek bhi lead nahi dikh raha hai na unme se.\\nCustomer: Ha.\\nCustomer: Ek do dikh jata hai lekin jo commitment hai na aapka weekly 70 wo fulfill nahi ho raha hai.\\nExecutive: Okay. Thik hai sir weekly aise nahi hai ki 70 aapko properly aayegi main samajh raha hu aap jo kehna chah rahe ho. Main ek kam karta hu aap mere ko 10 minute ka time denge main ek bar ek bar connect karwata hu aapko abhi system pe available hai na aap?\\nCustomer: Main hu. Hello.\\nExecutive: Ji ji main hu available.\\nExecutive: Achcha bas mere ko aap 10 minute ka time dijiye main ek bar video meet arrange karwata hu aapse properly ek bar ek ek cheez ka discuss kar lenge aapse.\\nCustomer: Thik hai sir mere ko 10 minute ka ek time dijiye aap.\\nExecutive: Main aapko connect karta hu. Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving relevant buyleads.\\n\n- Commitment of 70 weekly buyleads not fulfilled.\\n\n\\n\nResolution:\\n\n- Executive offered to arrange a video meet.\\n\n- Will discuss the issue in detail.\\n\n\\n\nNext Steps: \\n\n- Executive will connect in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, commitment\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=136d5072-6a93-40f7-a6c2-c2ec226271b8",
+  "ucid": "136d5072-6a93-40f7-a6c2-c2ec226271b8",
+  "seller_categories": [
+    {
+      "mcat_id": "85223",
+      "mcat_name": "Loading Unloading Services"
+    },
+    {
+      "mcat_id": "171032",
+      "mcat_name": "Machine Shifting Services"
+    },
+    {
+      "mcat_id": "110658",
+      "mcat_name": "Factory Shifting Service"
+    },
+    {
+      "mcat_id": "110420",
+      "mcat_name": "Local Shifting Service"
+    },
+    {
+      "mcat_id": "43542",
+      "mcat_name": "Plant & Equipment Erection Services"
+    }
+  ]
+}

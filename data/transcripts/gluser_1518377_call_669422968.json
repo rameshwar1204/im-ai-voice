@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669422968",
+  "gluser_id": "1518377",
+  "vintage_months": 27,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kannur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650594",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello, good afternoon, sir.\\nGood afternoon, Jio. 10 minutes, 10 minutes I will be there.\\nOkay, sir. You will call me back or I should call you, sir?\\nYou should call 15 minutes.\\nOkay, sir. I will call you after 15 minutes, sir. Okay, okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call back after 15 minutes.\\n\n\\n\nResolution:\\n\n- Agreed to call back after 15 minutes.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\n- None\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, time\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59d8fbd6-38d1-4a44-9aaf-0eb2e95ab768",
+  "ucid": "59d8fbd6-38d1-4a44-9aaf-0eb2e95ab768",
+  "seller_categories": [
+    {
+      "mcat_id": "136566",
+      "mcat_name": "Mehandi Cone"
+    },
+    {
+      "mcat_id": "122611",
+      "mcat_name": "Banana Fiber"
+    },
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "20967",
+      "mcat_name": "Onion Seeds"
+    },
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    }
+  ]
+}

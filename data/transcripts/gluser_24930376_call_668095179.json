@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668095179",
+  "gluser_id": "24930376",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajpur Sonarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639484",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Hello sir, hi good afternoon. Mai baat kar rahi hu IndiaMART se.\\nCustomer: Ha bol raha hu, kaun bol rahi ho?\\nExecutive: Pichli baar kar rahi hu IndiaMART se aapko call aaya tha but aapka only dikha raha tha. To isliye maine abhi call kiya hai aapko. To kya issue hai?\\nCustomer: Ha actually maine kal call kiya tha isiliye, mai kal call kiya tha isiliye, aapko pehle jo account manager tha maine mera, mera account jo dekha tha, maine unko complaint kiya tha jo mera jo address hai, address me jo city likha hua hai Rajpur Sunam ko, wo galat hai. Right? Sir wo bande ne bola maine request dal deta hu change ho jayega lekin wo abhi tak hua nahi hai isiliye maine phone kara tha.\\nExecutive: Accha, sir aap just na?\\nCustomer: Yes sir na, aapka aawaz na voice crash ho rahi hai madam.\\nExecutive: Hello? Sir, abhi theek hai voice?\\nCustomer: Aap aapka voice clear nahi hai madam cut rahi hai cut rahi hai. Mai call karti hu aapko dobara. Nahi aap call receive kariega.\\nExecutive: Abhi sunai de raha hai boliye boliye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's address city is incorrect.\\n\n- Voice is breaking.\\n\n\\n\nResolution:\\n\n- Executive is trying to understand the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- address, profile, update, voice\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c2e7edf6-8e12-44e7-88ce-d71d85220ab0",
+  "ucid": "c2e7edf6-8e12-44e7-88ce-d71d85220ab0",
+  "seller_categories": [
+    {
+      "mcat_id": "24449",
+      "mcat_name": "Carpet Tiles"
+    },
+    {
+      "mcat_id": "88026",
+      "mcat_name": "PVC Wall Panel"
+    },
+    {
+      "mcat_id": "192470",
+      "mcat_name": "Engineered Wooden Flooring"
+    },
+    {
+      "mcat_id": "41438",
+      "mcat_name": "Wood Laminate Flooring"
+    },
+    {
+      "mcat_id": "12080",
+      "mcat_name": "Glass Mosaic Tiles"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675956952",
+  "gluser_id": "248452286",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719069",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Yes ma'am good afternoon. \\nCustomer: Aawaz aa rahi hai abhi.\\nExecutive: Haan yes ma'am aa rahi hai. Meri aawaz aa rahi hai aapko?\\nCustomer: Haan aa rahi hai.\\nExecutive: Haan ma'am boliye. Haan ma'am boliye.\\nCustomer: Hello to ye jo aapko close kar lenge?\\nExecutive: Haan ji?\\nCustomer: Hello. Maine crane duty motor pe requirement dala tha.\\nExecutive: Requirement dala tha aapne? Haan ma'am boliye boliye.\\nCustomer: Hmm.\\nExecutive: Aap Megatronics Megatronics se bol rahe hai na?\\nCustomer: Yes yes yes.\\nExecutive: Haan haan yes ma'am boliye.\\nCustomer: Wo crane duty motor ka maine requirement dala tha, theek hai?\\nExecutive: Haan. Aha.\\nCustomer: To abhi wo fulfill ho gaya hai to fir bhi ab call aur message aa rahe hai to wo idhar se aap hata doge isko?\\nExecutive: Uh cranes aur uh\\nExecutive: Ek minute ma'am mai. Accha ek mai aapko mai isi number pe call back karu ma'am aapki voice bahut cut rahi hai. Mai aapko isi number se dobara call back karu. Kar raha hu bas. Haan haan.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is still receiving calls/messages after fulfillment.\\n\n\\n\nResolution:\\n\n- Executive will call back due to voice issues.\\n\n\\n\nNext Steps: \\n\n- Executive to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, requirement, cranes, megatronics\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3c1689b2-34c2-4bf3-9d23-6012688de3a5",
+  "ucid": "3c1689b2-34c2-4bf3-9d23-6012688de3a5",
+  "seller_categories": [
+    {
+      "mcat_id": "246",
+      "mcat_name": "EOT Cranes"
+    },
+    {
+      "mcat_id": "179308",
+      "mcat_name": "Single Girder EOT Cranes"
+    },
+    {
+      "mcat_id": "179309",
+      "mcat_name": "Double Girder EOT Cranes"
+    },
+    {
+      "mcat_id": "127544",
+      "mcat_name": "Pillar Mounted Jib Crane"
+    },
+    {
+      "mcat_id": "1124",
+      "mcat_name": "Overhead Crane"
+    }
+  ]
+}

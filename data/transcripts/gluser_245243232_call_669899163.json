@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669899163",
+  "gluser_id": "245243232",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Basti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello, good afternoon ma'am, I am [inaudible] from IndiaMART.\\nCustomer: Haan, main baat kar rahi hoon, main thoda busy hoon, theek hai.\\nExecutive: Hello?\\nCustomer: Aap do din baad call karna.\\nExecutive: [inaudible]\\nCustomer: Do din baad call back karna, abhi thoda main busy hoon, theek hai?\\nExecutive: Ma'am, ye kaafi dino se list hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy.\\n\n- Wants a callback in two days.\\n\n\\n\nResolution:\\n\n- Executive stated the list has been there for many days.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, busy, list\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0a179d4b-ce28-4f0c-9a08-7f9a6fafbb59",
+  "ucid": "0a179d4b-ce28-4f0c-9a08-7f9a6fafbb59",
+  "seller_categories": [
+    {
+      "mcat_id": "217407",
+      "mcat_name": "Nilkamal Dustbins"
+    },
+    {
+      "mcat_id": "137460",
+      "mcat_name": "Wheeled Dustbin"
+    },
+    {
+      "mcat_id": "181794",
+      "mcat_name": "Plastic Dustbin"
+    },
+    {
+      "mcat_id": "94743",
+      "mcat_name": "Stainless Steel Dustbin"
+    },
+    {
+      "mcat_id": "181796",
+      "mcat_name": "Plastic Waste Bin"
+    }
+  ]
+}

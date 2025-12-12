@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672569703",
+  "gluser_id": "233876045",
+  "vintage_months": 13,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jalna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637152",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, haan ji, call aaya tha is number pe?\\nExecutive: Kahan se? Achcha, main Himanshu baat kar raha hun. Ajay ji ko OTP de dijiye, wo perform approve karna tha. Aapke paas mail gaya hoga. Check kijiye India Mart ke payment ke liye.\\nCustomer: Okay, okay. Himanshu ji ko OTP chahiye. Theek hai, to main unko kaise?\\nExecutive: Nahi, mujhe nahi, mujhe nahi chahiye. Unke jo aapke jo account jo India Mart dekhte hain na, secondary 91 wale number jo hai, unko OTP chahiye hoga sir payment ke liye. Unhone call bhi kiya hoga aapko, aapne respond nahi kiya hoga. Unko bata dijiye ek baar.\\nCustomer: Alright, theek hai sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call received from this number.\\n\n- How to give OTP to Himanshu.\\n\n\\n\nResolution:\\n\n- Clarified that OTP is not for him but for the person handling the India Mart account.\\n\n- Advised to provide OTP to the secondary number ending with 91 for payment approval.\\n\n\\n\nNext Steps: \\n\nIssue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\notp, india mart, payment\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f4c9c98c-b0be-41e8-a7e4-dd8ef3867b9e",
+  "ucid": "f4c9c98c-b0be-41e8-a7e4-dd8ef3867b9e",
+  "seller_categories": [
+    {
+      "mcat_id": "167174",
+      "mcat_name": "Paint Protection Film"
+    },
+    {
+      "mcat_id": "228822",
+      "mcat_name": "Garware Sun Control Film"
+    },
+    {
+      "mcat_id": "85991",
+      "mcat_name": "Sun Control Film"
+    },
+    {
+      "mcat_id": "656593",
+      "mcat_name": "Garware Car Paint Protection Film"
+    },
+    {
+      "mcat_id": "22266",
+      "mcat_name": "Sun Control Car Film"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669694960",
+  "gluser_id": "100674270",
+  "vintage_months": 68,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9659518",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ji.\\nCustomer: Sir aap aa gaye office?\\nCustomer: Hello\\nExecutive: [inaudible] bol raha hu, bati bol raha hu.\\nCustomer: Nahi sir mai puch raha ki office aake kuch discussion karna tha na isliye.\\nExecutive: Mai abhi nahi aaya.\\nCustomer: Kab tak lagenge sir?\\nExecutive: Kya?\\nCustomer: Kab tak pahuchenge sir office?\\nExecutive: Adha ghanta lagega.\\nCustomer: Adha ghanta lagega sir.\\nCustomer: To jo bhi jo bhi aapke incoming call ka jo ticket aaya tha sir usko close kar du ya fir kuch problem hai to mujhe bataiye mai usko solve resolve karne ki koshish karunga.\\nExecutive: Narayan\\nCustomer: Hello\\nExecutive: Hello\\nExecutive: Hello\\nCustomer: Ji.\\nExecutive: Sir mai Durgesh ke senior baat kar rahi hu IndiaMART se.\\nCustomer: Boliye.\\nExecutive: Mai ye keh rahi thi jaise Durgesh ke number pe kal aapne call kiya tha to jo call Durgesh ne at the time pick nahi kiya to uska ek concern open ho jata hai agar koi call miss ho jati hai to to mai bas ye puchna chah rahi thi jaise hi aap office me free office ke baad jaise hi aap free hote ho office pahunchne ke baad aap Durgesh ka number hai Durgesh aapko apna number whatsapp kar de raha hai then aap directly Durgesh ko call kar lena theek hai abhi ye jo concern incoming call ka ek open hua tha usko mai close kar du?\\nCustomer: Theek hai.\\nExecutive: Haan usko mai close kar deti hu sir theek hai uska ek feedback mil jayega aapke paas jo Durgesh ke hi regarding hoga ki usne aapko connect kiya ya nahi connect kiya call ke through theek hai baki jaise hi aap free hote ho please Durgesh ko aap connect kar lo so that ki proper leads aur inquiries ke regarding Durgesh aapse discuss kar sake theek hai sir.\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai sir okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about executive arrival at office.\\n\n- Executive wanted to close incoming call ticket.\\n\n- Executive wanted to confirm if Durgesh contacted customer.\\n\n\\n\nResolution:\\n\n- Executive will reach office in half an hour.\\n\n- Executive closed the incoming call ticket.\\n\n- Durgesh will share his number via WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will contact Durgesh after reaching office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- incoming call, ticket, follow up, durgesh\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d92eb415-5f83-4d09-b0f2-e87f74e1badd",
+  "ucid": "d92eb415-5f83-4d09-b0f2-e87f74e1badd",
+  "seller_categories": [
+    {
+      "mcat_id": "88308",
+      "mcat_name": "Tea Cup Set"
+    },
+    {
+      "mcat_id": "29411",
+      "mcat_name": "Gift Sets"
+    },
+    {
+      "mcat_id": "28707",
+      "mcat_name": "Glass Bowls"
+    },
+    {
+      "mcat_id": "88098",
+      "mcat_name": "Pudding Set"
+    },
+    {
+      "mcat_id": "442827",
+      "mcat_name": "Glass Pudding Set"
+    }
+  ]
+}

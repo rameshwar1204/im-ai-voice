@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670747145",
+  "gluser_id": "186794464",
+  "vintage_months": 18,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Rangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666805",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello madam ji.\\nExecutive: Anand Sports?\\nCustomer: Yes ma'am.\\nExecutive: Hi sir, good afternoon. Juhi baat kar rahi thi IndiaMART se.\\nCustomer: Aur boliye ma'am.\\nExecutive: Haan sir, aapka concern open hua tha na leads ko leke.\\nCustomer: Abhi kuch bhi nahi aa raha leads, kuch bhi nahi aa rahi thi.\\nExecutive: Nahi, abhi sir actually maine catalog correction aapka kara diya hai. Kal aapka kaam pending tha.\\nCustomer: Theek hai?\\nExecutive: To wo correction maine mere end se kara diya hai. Abhi ek baar aap check karenge kya leads ke liye?\\nCustomer: Accha actually kya bol rahe hai samajh nahi hua.\\nExecutive: Actually jo aapka na correction pending tha thoda sa catalog ka, theek hai?\\nCustomer: Ji.\\nExecutive: Jiski wajah se leads aapko nahi aa rahe the proper. Abhi maine wo correction kar diya hai sir. Kal aapne issue dala tha. To wo correction ho gaya hai. Abhi ek baar aap check karo, abhi leads aa rahe hain aapke portal pe.\\nCustomer: Theek hai ma'am, main dekhta hu ma'am.\\nExecutive: Haan, aap ek baar wo check kar lijiye sir aur ye na concern aapka open ho gaya hai, theek hai? To main ye abhi close kar rahi hu. Main feedback aayega sir, please usko positively aap feedback de dijiyega ek baar. Main aapko WhatsApp pe connect kar leti hu. Aapko agar koi bhi issue rahega aap mujhe waha bata dena, main aapko update kar dungi. Ab mere ko mein kya chahiye?\\nCustomer: Haan aur leads kuch bhi nahi aa rahe mere site mein se.\\nExecutive: Nahi nahi, main wahi bol rahi hu sir, abhi aap dekhoge na abhi leads theek ho gayi hai.\\nCustomer: Abhi aapke synthetic flooring delete kar raha tha pura. Main wo kaam main kar raha hu main abhi IndiaMART se. Usme synthetic flooring chahiye. 40 synthetic football court, basketball, tennis court. Ino mein se kuch bhi aaya to main kar raha tha.\\nExecutive: Theek hai chalega sir, main wahi bol rahi hu maine wahi categories add kari hai aapki jo aapne mujhe batayi hai, theek hai?\\nCustomer: Haan.\\nExecutive: Aap ek baar abhi check kariyega, abhi aapka wo issue resolve ho gaya hai. Main aapka ye ticket close kar rahi hu. Aapke paas feedback aayega.\\nCustomer: Ticket ticket ticket close karne ke baad same aise aa jaye to?\\nExecutive: Sir aapke paas mera number rahega na, main aapko WhatsApp pe message kar rahi hu mere number se. Tum log tum response nahi kare bolti main IndiaMART direct kar diya customer care ke liye.\\nExecutive: Sir aisa nahi hai, maine aapko kab response nahi kiya. Main actually aayi nahi thi do din isliye shayad meri aapse baat nahi hui thi. Abhi bhi maine subah aake aapka dekha.\\nCustomer: Okay.\\nExecutive: Subah maine, haan subah maine aapka concern dekha to maine sabse pehle aapka kaam hi karke diya catalog ka. Theek hai?\\nCustomer: Theek hai ma'am, theek hai, theek hai ma'am.\\nExecutive: Main isko band kar rahi hu. Please sir feedback positive de dijiyega.\\nCustomer: Ma'am dene ke baad aap log bhi response nahi karte to main kya karu?\\nExecutive: Sir aap mere pe trust kijiye sir, main aapko WhatsApp pe message kar rahi hu mere number se. Mera number to shayad aapke paas hai bhi. Maine pehle bhi kiya hai, hai na?\\nCustomer: Theek hai ma'am, theek hai.\\nExecutive: Haan to usi number pe aap mujhe bata dena sir, theek hai?\\nCustomer: Haan sir, theek hai ma'am.\\nExecutive: Okay okay, thank you sir. Thank you, thank you ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No leads were being generated.\\n\n- Wants synthetic flooring leads.\\n\n- Expressed concern about lack of response.\\n\n\\n\nResolution:\\n\n- Catalog correction done.\\n\n- Executive added the requested categories.\\n\n- Assured the customer of WhatsApp support.\\n\n\\n\nNext Steps: \\n\n- Customer to check for leads on the portal.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, correction, whatsapp, feedback\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 183,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d443b97e-3d35-4884-ae59-0421329ae75b",
+  "ucid": "d443b97e-3d35-4884-ae59-0421329ae75b",
+  "seller_categories": [
+    {
+      "mcat_id": "192412",
+      "mcat_name": "EPDM Flooring"
+    },
+    {
+      "mcat_id": "101844",
+      "mcat_name": "Sports Floorings"
+    },
+    {
+      "mcat_id": "188825",
+      "mcat_name": "Synthetic Basketball Court"
+    },
+    {
+      "mcat_id": "22916",
+      "mcat_name": "Basketball Court Construction"
+    },
+    {
+      "mcat_id": "200118",
+      "mcat_name": "Kids Playground Flooring"
+    }
+  ]
+}

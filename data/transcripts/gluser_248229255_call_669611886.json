@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669611886",
+  "gluser_id": "248229255",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647834",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ddfb73da-50e7-4605-9103-dd9e4d183e12",
+  "ucid": "ddfb73da-50e7-4605-9103-dd9e4d183e12",
+  "seller_categories": [
+    {
+      "mcat_id": "191138",
+      "mcat_name": "Aadhaar Card Making Services"
+    },
+    {
+      "mcat_id": "42044",
+      "mcat_name": "Licensing Services"
+    },
+    {
+      "mcat_id": "49652",
+      "mcat_name": "Business Consultant"
+    },
+    {
+      "mcat_id": "214836",
+      "mcat_name": "Rera Registration Service"
+    },
+    {
+      "mcat_id": "107233",
+      "mcat_name": "PAN Card Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667333364",
+  "gluser_id": "102080408",
+  "vintage_months": 68,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Silvassa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello. \\n\\nCustomer: \u20b9150 ka. \\nExecutive: Namaste sir, main Muskaan bol rahi hu IndiaMART se.\\nCustomer: Madam abhi baat nahi kar paunga.\\n\\nExecutive: Uh, okay. Koi employee rahega sir jo aapke account mein ek do. \\nCustomer: Nahi madam bahar hai, bahar gaye hue hai sab.\\nExecutive: Theek hai, kab tak baat ho sakti hai?\\nCustomer: Next week, next week, next week Monday ko phone kijiye.\\n\\nExecutive: Next week.\\nCustomer: Sab bahar gaye hue hai, Diwali ki chutti hai hamare yaha par idhar 15 din ki.\\n\\nExecutive: Achha.\\nCustomer: Uh, theek hai sir, theek hai. Okay.\\n\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called to discuss account-related matters.\\n\n- Customer is unavailable to talk.\\n\n\\n\nResolution:\\n\n- Customer asked to call next week Monday.\\n\n\\n\nNext Steps: \\n\n- Call next week Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, account, unavailable\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a2e8437-67c6-4010-99ae-40ec5f409344",
+  "ucid": "2a2e8437-67c6-4010-99ae-40ec5f409344",
+  "seller_categories": [
+    {
+      "mcat_id": "78132",
+      "mcat_name": "Forklift Parts"
+    },
+    {
+      "mcat_id": "95543",
+      "mcat_name": "LED Beacon"
+    },
+    {
+      "mcat_id": "185459",
+      "mcat_name": "Forklift Hydraulic Pump"
+    },
+    {
+      "mcat_id": "191438",
+      "mcat_name": "Forklift Battery Connectors"
+    },
+    {
+      "mcat_id": "155367",
+      "mcat_name": "Forklift Brake Parts"
+    }
+  ]
+}

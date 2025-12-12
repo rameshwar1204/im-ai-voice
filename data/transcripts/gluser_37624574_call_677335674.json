@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677335674",
+  "gluser_id": "37624574",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683521",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Ji sir. Sir yes sir. Good afternoon.\\nCustomer: Hello?\\nExecutive: Boliye boliye.\\nCustomer: Yes sir. Royal Ruby C and Agro ko se baat ho rahi hai?\\nCustomer: Bol raha hu, boliye.\\nExecutive: Ji sir, main Madhavi baat kar rahi thi IndiaMART se.\\nCustomer: Boliye.\\nExecutive: IndiaMART se call thi sir IndiaMART se.\\nCustomer: Madam aaj Sunday chutti hai aaj aap kis se baat kar rahi ho idhar.\\nExecutive: Okay, toh kab call kar lu sir aapko?\\nCustomer: Aap office hours mein kabhi bhi phone kar lijiye.\\nExecutive: Okay. Abhi sir aap free nahi hai? Abhi aapka 5 minute 2 minute lagega sir?\\nCustomer: Nahi aaj main free nahi hu madam.\\nExecutive: Sir aapki aawaz clear nahi aa rahi hai kya bol rahe hai?\\nCustomer: Kal phone kijiye humko.\\nExecutive: Kal call kar le aisa bol rahe ho aap?\\nCustomer: Ji.\\nExecutive: Abhi sir possible nahi hai baat karna?\\nCustomer: Na.\\nExecutive: Thik hai. Kal kab tak call kar lu sir aapko?\\nCustomer: Kal koi bhi time phone kar lijiye office hours mein.\\nExecutive: Thik hai sir. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss IndiaMART services.\\n\n- Customer states he is not free to talk.\\n\n\\n\nResolution:\\n\n- Agreed to reschedule the call for tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, reschedule, availability\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=57bb14bc-30ec-4078-a5dc-4a1e0e29ce2f",
+  "ucid": "57bb14bc-30ec-4078-a5dc-4a1e0e29ce2f",
+  "seller_categories": [
+    {
+      "mcat_id": "188575",
+      "mcat_name": "Premium Tea"
+    },
+    {
+      "mcat_id": "2979",
+      "mcat_name": "Tea Dust"
+    },
+    {
+      "mcat_id": "127455",
+      "mcat_name": "Cardamom Tea"
+    },
+    {
+      "mcat_id": "185547",
+      "mcat_name": "Masala Tea"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    }
+  ]
+}

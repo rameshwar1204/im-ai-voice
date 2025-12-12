@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667808058",
+  "gluser_id": "97237918",
+  "vintage_months": 3,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639491",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: [inaudible] hello.\\nExecutive: Hello.\\nCustomer: Haanji bhaiya.\\nExecutive: Sir, main IndiaMART se baat kar raha hu.\\nCustomer: Ji. Sir, ek minute me karo, 5 minute me kar lo aap?\\nExecutive: Sir, hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back in 5 minutes.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, callback\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b89fe67e-c905-490e-887f-77a003c3f924",
+  "ucid": "b89fe67e-c905-490e-887f-77a003c3f924",
+  "seller_categories": [
+    {
+      "mcat_id": "446025",
+      "mcat_name": "Water Sensor Diya"
+    },
+    {
+      "mcat_id": "216779",
+      "mcat_name": "LED Diya"
+    },
+    {
+      "mcat_id": "109726",
+      "mcat_name": "LED Hand Torches"
+    },
+    {
+      "mcat_id": "12762",
+      "mcat_name": "Desk Lamp"
+    },
+    {
+      "mcat_id": "2286",
+      "mcat_name": "Floating Candles"
+    }
+  ]
+}

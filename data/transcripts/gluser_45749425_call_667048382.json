@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667048382",
+  "gluser_id": "45749425",
+  "vintage_months": 8,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Pundri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631691",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Uh sir Rahul baat kar raha tha IndiaMART se. Sir wo beech mein na ek customer ki meri thodi meeting lambi chali gayi thi.\\nCustomer: Haan sir meri bhi meeting lambi chali hui hai. Aap subah baat kar kal 4 baje kar liyo aap.\\nExecutive: 4 baje? Kal 4 baje sir?\\nCustomer: Kal 4 baje. Kal kal 4 baje.\\nExecutive: Theek hai sir main kal 4 baje ka. Agar subah agar rahega sir subah bhi kar sakta hu. Subah ka...\\nCustomer: Subah nahi aap 4 baje kariyo. Kal 4 baje. Laptop jo chalata hai na bhai wo 4 baje aayega chutti se.\\nExecutive: Achha.\\nCustomer: Haan.\\nExecutive: Chaliye theek hai sir. Kal 4 baje connect karta hu.\\nCustomer: Theek hai ji.",
+  "summary": "\\n\\nConcerns:\\n\\n- Both parties were busy in meetings.\\n- Requested to reschedule the call.\\n\\nResolution:\\n\\n- Agreed to a callback for the next day at 4 PM.\\n- Specified 4 PM as the laptop operator would be available.\\n\\nNext Steps: \\nIssue not resolved. Executive to call back the next day at 4 PM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback, scheduling, meeting\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1850eac8-729f-4a03-83c0-9ccd56fd48fc",
+  "ucid": "1850eac8-729f-4a03-83c0-9ccd56fd48fc",
+  "seller_categories": [
+    {
+      "mcat_id": "26705",
+      "mcat_name": "Distilled Water"
+    },
+    {
+      "mcat_id": "2299",
+      "mcat_name": "Engine Coolant"
+    },
+    {
+      "mcat_id": "185179",
+      "mcat_name": "Demineralised Water"
+    },
+    {
+      "mcat_id": "77923",
+      "mcat_name": "Deionized Water"
+    },
+    {
+      "mcat_id": "25863",
+      "mcat_name": "Coolant Oils"
+    }
+  ]
+}

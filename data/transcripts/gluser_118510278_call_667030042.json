@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667030042",
+  "gluser_id": "118510278",
+  "vintage_months": 15,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632309",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Namaskar sir.\\nCustomer: Namaste sir, bataye.\\nCustomer: Sir mujhe baar baar call kar rahe hain [unintelligible] naam hai.\\nExecutive: Sir aapki awaaz, aapki awaaz bahut kat rahi hai. Kya bol rahe hain?\\nCustomer: Achha, abhi theek ho gaya?\\nExecutive: Nahi nahi sir, aapki awaaz ekdum na [unintelligible] ke aa rahi hai. Mix ho ke ekdum. Haan sir, proper network mein nahi hai kya aap?\\nCustomer: [unintelligible]\\nExecutive: Main aapko call back kar deta hu sir. Call back...\\nCustomer: [unintelligible]\\nExecutive: Hello?\\nCustomer: [unintelligible]\\nExecutive: Hello.",
+  "summary": "\\n\\nConcerns:\\n\\n- Customer attempted to report an issue about receiving repeated calls.\\n- Severe call quality issues prevented communication.\\n\\nResolution:\\n\\n- Identified the poor call quality.\\n- Offered to call the customer back.\\n\\nNext Steps: \\nIssue not resolved. Executive stated they would call the customer back.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call quality issue, callback, repeated calls\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e16258a1-8e39-4fd1-b0ba-5622c5fb2c85",
+  "ucid": "e16258a1-8e39-4fd1-b0ba-5622c5fb2c85",
+  "seller_categories": [
+    {
+      "mcat_id": "149698",
+      "mcat_name": "Mild Steel Welding Rod"
+    },
+    {
+      "mcat_id": "2254",
+      "mcat_name": "Welding Rods"
+    },
+    {
+      "mcat_id": "183187",
+      "mcat_name": "Mangalam Mild Steel Welding Rod"
+    },
+    {
+      "mcat_id": "2253",
+      "mcat_name": "Welding Electrodes"
+    },
+    {
+      "mcat_id": "5102",
+      "mcat_name": "MIG Welding Wire"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "669718625",
+  "gluser_id": "141051064",
+  "vintage_months": 48,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji.\\nExecutive: Sir, Namaskar. Sir, aapko call aaya tha sir?\\nCustomer: Ji sir, Abhimanyu Singh baat kar raha hu sir IndiaMART se.\\nExecutive: Aapko call aaya hua tha sir.\\nCustomer: Ji, ji, of course sir.\\nExecutive: Hello.\\nCustomer: Hello. I am audible to you sir?\\nExecutive: Yes. Abhimanyu Singh baat kar raha hu sir IndiaMART se. Kis company se baat kar rahe hain sir aap?\\nCustomer: Ji, sir, sorry sir. Thank you, thank you.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called the customer.\\n\n\\n\nResolution:\\n\n- Executive introduced himself from IndiaMART.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, call\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78fa4b8a-cebc-46d6-b2d3-70a26a6e6196",
+  "ucid": "78fa4b8a-cebc-46d6-b2d3-70a26a6e6196"
+}

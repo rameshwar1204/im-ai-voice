@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669718756",
+  "gluser_id": "8023677",
+  "vintage_months": 33,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello, hanji sir.\\nHan very good morning, Swetika baat kar rahi hu IndiaMART se.\\nThoda please aur hai madam business ke liye, thoda aap mai try mai phone karta hu aapka number bhejna SMS kar dijiye.\\nSMS sir number to mera yahi hai aap ek kaam karo aap mujhe apna whatsapp number bata do sir. \\n97399 Mera whatsapp number sabhi mein whatsapp hai aap jo number hai teen number mein hai.\\nSir actually kya hai na ye recordable line wala number hai to mai aapka number yaha se na check nahi kar pa rahi hu isliye. \\nHa mujhe bata do. 973 9739955255 9955255\\n55255\\nI will call you. Ha sir ek bari mai batau aapko number ek bari aap check kar lo 9739955255 hai na? Exactly exactly.\\nOkay okay theek hai aap mai aapko text karti hu whatsapp pe theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to share number via SMS.\\n\n- Executive unable to check number.\\n\n\\n\nResolution:\\n\n- Customer shared WhatsApp number.\\n\n- Executive will text on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp number, sms, business\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4f053083-ef7d-46ab-ab5f-b04d386e1c7c",
+  "ucid": "4f053083-ef7d-46ab-ab5f-b04d386e1c7c",
+  "seller_categories": [
+    {
+      "mcat_id": "43595",
+      "mcat_name": "Areca Leaf Plates"
+    },
+    {
+      "mcat_id": "443440",
+      "mcat_name": "Sal Leaf Plate"
+    },
+    {
+      "mcat_id": "84225",
+      "mcat_name": "Leaf Plate"
+    },
+    {
+      "mcat_id": "235899",
+      "mcat_name": "Bagasse Disposable Plate"
+    },
+    {
+      "mcat_id": "159147",
+      "mcat_name": "Areca Leaf Bowl"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668203789",
+  "gluser_id": "39540018",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685983",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good afternoon, madam.\\nCustomer: Good afternoon.\\nExecutive: Rajeev Mishra is speaking from IndiaMART. How are you, madam?\\nCustomer: Hmm hmm, tell me.\\nExecutive: Madam, will you open the system once? I have to take feedback on the product once.\\nCustomer: Okay sir, give me 10 minutes time, I will call back you in 10 minutes.\\nExecutive: You can message me on WhatsApp, okay?\\nExecutive: Message me on WhatsApp. Okay.\\nCustomer: Yeah.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs product feedback.\\n\n- Customer asked for 10 minutes to call back.\\n\n\\n\nResolution:\\n\n- Executive asked to message on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, product, whatsapp\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe12328f-df42-448b-a92a-e01b76a5ac89",
+  "ucid": "fe12328f-df42-448b-a92a-e01b76a5ac89",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "185474",
+      "mcat_name": "RFID Lock"
+    },
+    {
+      "mcat_id": "86057",
+      "mcat_name": "Fingerprint Door Lock"
+    },
+    {
+      "mcat_id": "105867",
+      "mcat_name": "Hotel Lock"
+    }
+  ]
+}

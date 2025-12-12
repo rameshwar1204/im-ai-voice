@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669782809",
+  "gluser_id": "23264573",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Ya hi mam India Mart se baat kar rahi hu. Hello.\\nCustomer: Yes mam good morning mam.\\nExecutive: Good morning. Bol rahe the kal aapne ticket jo open kiya tha seller panel se video meeting ke liye to abhi video meeting karna hai aapko?\\nCustomer: Video meeting mein aap abhi kya check karenge?\\nExecutive: Aapne open kiya tha na.\\nCustomer: Maine kiya tha mam maine to aapse wo discuss kar liya tha ki ye ye mujhe issue aa raha hai.\\nExecutive: Okay to video meet se wo nahi hoga. Nahi video meet se wo to solve nahi hoga na jo issue aa raha hai. Wo to aap apne head se dekhiye ki usme kya kar sakte hain. Ha wo to main aapke head se dekh rahi hu na system pe.\\nCustomer: Ha.\\nExecutive: System pe abhi lead nahi aayi hai but abhi ek lead sirf mere phone pe aayi hai.\\nCustomer: Okay. Hmm. Wo aap dekh lijiye.\\nExecutive: Okay to isko ye video meeting wala concern ko close kar du na main? \\nCustomer: Video meeting wala aap mera evening mein dal dijiye 5 o clock ka. Kyunki main aaj sara din mein dekhti hu ki apni leads ka kya rehta hai fir aapse discuss karti hu.\\nExecutive: Okay theek hai main aapko 5 o clock ka meeting share kar deti hu. Ticket close kar deti hu aapse direct connect kar lungi theek hai na?\\nCustomer: Theek hai mam. Theek hai mam. Okay. Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know what will be checked in video meeting.\\n\n- Leads not showing on system, only on phone.\\n\n\\n\nResolution:\\n\n- Executive agreed to schedule video meeting for evening.\\n\n- Executive will close the ticket and connect directly.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, leads, seller panel\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=09787d70-d4fd-429f-a57b-918fed118ac8",
+  "ucid": "09787d70-d4fd-429f-a57b-918fed118ac8",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "153101",
+      "mcat_name": "Ursodeoxycholic Acid Tablets"
+    },
+    {
+      "mcat_id": "445982",
+      "mcat_name": "Diclofenac Paracetamol and Chlorzoxazone Tablet"
+    },
+    {
+      "mcat_id": "186394",
+      "mcat_name": "Cefuroxime Axetil Tablets"
+    },
+    {
+      "mcat_id": "192055",
+      "mcat_name": "Amoxicillin Potassium Clavulanate Tablet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675132682",
+  "gluser_id": "203751191",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Bardhaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698307",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Haan.\\nCustomer: Haan sir, aap kabhi raste mein hai kya sir?\\nExecutive: Haan.\\nCustomer: Ji sir, aapki maine kal ki baat ki hui phone ki aapka kal aapko meri baat hui thi puri puri.\\nExecutive: Haan boliye.\\nExecutive: Ji sir, aap dekhiye aur sunna kuch nahi hai, aap dekhenge ek saal try karenge. Thik hai?\\nCustomer: Haan.\\nExecutive: Achha lagega toh agle saal aapke saath rahenge, nahi achha lagega nahi rahenge.\\nCustomer: Sir agle saal rehne ki baat toh bahut baad mein aayegi, abhi toh aapko 100% pata hai. Aapka yeh concern aaya tha na, isliye aapne mail kiya tha apne mail ID se choudhary.lal.srivastav@gmail.com se. Haan. Haan. Haan. Yeh mail ID se inki ID se regarding mail aaya tha. Toh aap phir agar one week agar dekh rahe chah rahe ho, uske baad agar bataoge toh phir main is concern ko yaha close kar dungi.\\nExecutive: Haan?\\nExecutive: Toh main yeh concern close kar du?\\nExecutive: Haan.\\nExecutive: Nahi sahi se toh boliye.\\nExecutive: Main bol rahi hu ki main yeh concern close kar du aapka?\\nCustomer: Close kar dijiye aur kya karna hai.\\nCustomer: Close kar dijiye.\\nExecutive: Aapke paas sir woh aayega mail aayega feedback ke liye.\\nCustomer: Achha.\\nCustomer: Thik hai main close kar dunga.\\nExecutive: Sir waha yes kar dijiyega.\\nExecutive: Haan?\\nExecutive: Waha yes aur no ka option aayega, waha yes kar dijiyega.\\nCustomer: Thik hai. Kar dijiye.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close the concern.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the concern.\\n\n\\n\nNext Steps: \\n\n- Customer needs to select 'yes' in feedback mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, feedback, close\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7783aa1d-3e89-457d-9879-843744d94174",
+  "ucid": "7783aa1d-3e89-457d-9879-843744d94174",
+  "seller_categories": [
+    {
+      "mcat_id": "168563",
+      "mcat_name": "Full Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "13675",
+      "mcat_name": "Chain Link Fencing"
+    },
+    {
+      "mcat_id": "42703",
+      "mcat_name": "Transportation Services"
+    },
+    {
+      "mcat_id": "69543",
+      "mcat_name": "Goods Transport Services"
+    },
+    {
+      "mcat_id": "147225",
+      "mcat_name": "Generator Repair Services"
+    }
+  ]
+}

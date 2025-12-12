@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667221268",
+  "gluser_id": "203525305",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello. Hello. Sir, speaking from Enterprises Chennai sir, Saravanan sir.\\n\\nExecutive: How are you sir?\\n\\nExecutive: Sir, I am Anurag speaking from IndiaMART. Sir, did you speak yesterday? You were busy traveling, so after that I couldn't connect with you.\\n\\nCustomer: Yes sir.\\n\\nExecutive: Yes sir, actually you were calling IndiaMART like this customer care, so Tamil person is needed, so for guidance like that, that's why I was trying after that. Sir, what time is possible for you today, we can directly\\n\\nCustomer: Full day driving, sorry.\\n\\nExecutive: No problem sir, okay okay sir. So if you tell me how timing is available today, we can connect directly in Google Meet, so that is for you, if you join with system, that kind of laptop, then okay. So are you available now, shall we share?\\n\\nCustomer: Uh, now, you see, phone is there, can we connect on phone? Another phone is there, that is, apart from this speaking phone, another phone is there in IndiaMART, can we do it in that?\\n\\nExecutive: Okay sir, no problem. You join in that, I will give you both, almost same options will be there. I will explain in this also, plus how it will be in system, I will guide you.\\n\\nCustomer: Okay sir. How long will it take sir, this meeting for us?\\n\\nExecutive: Sir, maximum 10 to 15 minutes sir, overall guidance for you.\\n\\nCustomer: Okay sir. Sir, I will come to a place where there is a network issue, I will call you.\\n\\nExecutive: Maybe after 5 minutes you are saying?\\n\\nCustomer: After 5 minutes, should I take your personal number and call you or will you call me?\\n\\nExecutive: Ah, okay sir, okay. If you tell me an exact timing, I will call you. Can we call at 11:15 after leaving 10 minutes?\\n\\nCustomer: 11:15 call me.\\n\\nExecutive: Ah, okay sir, okay sir.\\n\\nCustomer: Thank you.\\n\\nExecutive: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants guidance from a Tamil-speaking executive.\\n\n- Inquires about the duration of the meeting.\\n\n- Has network issues, will call back later.\\n\n\\n\nResolution:\\n\n- Executive apologized for not connecting earlier.\\n\n- Executive offered guidance via Google Meet or phone.\\n\n- Agreed to call back at 11:15 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 11:15 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, tamil support, guidance, call back\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=47471ade-9fe5-4b7f-b241-f9ff878cdac2",
+  "ucid": "47471ade-9fe5-4b7f-b241-f9ff878cdac2",
+  "seller_categories": [
+    {
+      "mcat_id": "788",
+      "mcat_name": "Latex Gloves"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    },
+    {
+      "mcat_id": "216615",
+      "mcat_name": "3 Ply Face Mask"
+    },
+    {
+      "mcat_id": "1903",
+      "mcat_name": "Safety Gloves"
+    },
+    {
+      "mcat_id": "126120",
+      "mcat_name": "Disposable Cap"
+    }
+  ]
+}

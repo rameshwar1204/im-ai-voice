@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675822317",
+  "gluser_id": "5326268",
+  "vintage_months": 9,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Thiruvananthapuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715765",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Ya, hi sir. Wo wo hamara hamara manager abhi tak nahi aaya tha. Main tumhe call back karta hu wo aate hi. Sir, maine mera WhatsApp pe message dala hai aap wo mujhe pe call kar lijiyega isko nahi lagega call to, theek na?\\nCustomer: Mil gaya mil gaya dekha okay.\\nExecutive: Okay sir okay okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Manager not available.\\n\n- Request to call back on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive will call back when the manager arrives.\\n\n- Customer acknowledged receiving the WhatsApp message.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back when the manager arrives.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\nmanager availability, whatsapp call\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a5114a9-d7aa-4ff5-8132-086944a8524d",
+  "ucid": "4a5114a9-d7aa-4ff5-8132-086944a8524d",
+  "seller_categories": [
+    {
+      "mcat_id": "87926",
+      "mcat_name": "Domestic Tour"
+    },
+    {
+      "mcat_id": "42835",
+      "mcat_name": "International Tour Packages"
+    },
+    {
+      "mcat_id": "34040",
+      "mcat_name": "Pilgrim Tour Packages"
+    },
+    {
+      "mcat_id": "30445",
+      "mcat_name": "Holiday Packages"
+    },
+    {
+      "mcat_id": "34156",
+      "mcat_name": "Tour Packages"
+    }
+  ]
+}

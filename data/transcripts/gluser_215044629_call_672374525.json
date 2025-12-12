@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672374525",
+  "gluser_id": "215044629",
+  "vintage_months": 17,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Vellore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686139",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ha namaste.\\nCustomer: Ha sir good afternoon sir Arun pesura sir India Mart call panniruken.\\nExecutive: Sollungamma.\\nCustomer: Ha sir actually customer care call pannirunthinga athu regarding than call pannirunthan. Sollunga sir enna issue sir.\\nExecutive: Chennai da Bangalore da ma.\\nCustomer: Puriyala.\\nExecutive: Chennai address idhu.\\nCustomer: Okay K and N enterprises melur irukulla sir athu sir. A velur da.\\nCustomer: Aama aama sir.\\nExecutive: Enna ma oru number kodukuren.\\nCustomer: Sari sir.\\nExecutive: Anga anga pesunga.\\nCustomer: Kodunga sir.\\nExecutive: 86100\\nCustomer: 86100\\nExecutive: 70\\nCustomer: 70\\nExecutive: 994\\nCustomer: 994 ivanga than handle pannittu irukanga Chennai oru Geetha antu.\\nExecutive: Nandakumar number koduthanga sollunga sir.\\nCustomer: Sari sir sari ok sir.\\nExecutive: Correct sapa.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called customer care regarding an issue.\\n\n\\n\nResolution:\\n\n- Executive provided a contact number to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, contact number, address\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=16c4db1b-b221-40a5-816e-5db594c26e28",
+  "ucid": "16c4db1b-b221-40a5-816e-5db594c26e28",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "56027",
+      "mcat_name": "RCC Manhole Cover"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    }
+  ]
+}

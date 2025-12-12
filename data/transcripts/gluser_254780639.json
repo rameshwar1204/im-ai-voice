@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671870105",
+  "gluser_id": "254780639",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Mohania",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679414",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Yeah. Hi, good morning sir. Ashok ji se baat ho rahi hai ID Pharma se?\\nCustomer: Ji.\\nExecutive: Ji, Ekta baat kar rahi hu IndiaMART se, aapke account manager. Aapka video meeting ka concern hai aapke sath, aapka team new bhi onboard hua hai right IndiaMART pe.\\nCustomer: Okay.\\nExecutive: Haanji. So sir, kaun use karega services? Aap karoge ya koi aur person hai use karne ke liye?\\nCustomer: Wo third person hai, usko bol rahe hai hum baat karne ke liye aapse.\\nExecutive: Accha. Ek second sir, just call pe rahiyega. Mujhe na aapke jo sales person hai jinhone onboard karaya tha, unhone mujhe aapka number diya hai secondary number which is last hai 7070494519. Inhi se connect karna hai?\\nCustomer: Haanji. Baat baat kiye hai kya usse?\\nExecutive: Nahi nahi, meri taraf se baat nahi hui hai. To wahi mai jaanna chah rahi thi, wo sari services yahi use karenge, inhi se connect karna hai?\\nCustomer: Nahi nahi, hum usko bol dete hai aapse baat karne ke liye wo kaise kya karega wo baat karega abhi, aapse baat karwa rahe hai.\\nExecutive: Accha, theek hai. To jo maine aapko number pe WhatsApp. Accha accha, okay. Ab jo maine aapko number diya hai na usi pe call kara dijiye, theek hai? WhatsApp. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know who will use services.\\n\nResolution:\\n\n- Customer will have third person contact executive.\\n- Executive asked to call on secondary number.\\n\nNext Steps: \\n\n- Customer will have third person call executive.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, onboarding, account management\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=11985ec9-ef8f-49dc-8b05-7006b0400c8d",
+  "ucid": "11985ec9-ef8f-49dc-8b05-7006b0400c8d",
+  "seller_categories": [
+    {
+      "mcat_id": "5308",
+      "mcat_name": "Muscle Pain Oil"
+    },
+    {
+      "mcat_id": "163602",
+      "mcat_name": "Ayurvedic Joint Pain Relief Oil"
+    },
+    {
+      "mcat_id": "158492",
+      "mcat_name": "Herbal Uterine Tonic"
+    },
+    {
+      "mcat_id": "151330",
+      "mcat_name": "Anti Constipation Powder"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    }
+  ]
+}

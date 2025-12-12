@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672150593",
+  "gluser_id": "37256632",
+  "vintage_months": 8,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651118",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji namaskar sir, Mohan Brothers mein baat ho rahi hai.\\nExecutive: Ji namaskar.\\nExecutive: Aditya baat kar raha tha IndiaMART se.\\nCustomer: Hanji.\\nExecutive: Wo details aapko mail kar diya tha, check kar liye the sir?\\nCustomer: Maine reply kiya hai sir mail pe hi.\\nExecutive: Haan haan haan, wo maine aapko bata diya, aapne wo mail pe pucha tha na ki kya ye change ho sakta hai ki nahi, remove ho sakta hai ya nahi. Last time jo baat hui thi, to wo nahi ho sakta sir. Abhi aisa koi system hamare yahan nahi hai jo manually wahan se delete kar sake.\\nExecutive: Se aage forward kar diya hun, in future wo discussion hoga and implement kiya jayega sir.\\nCustomer: Okay. Thank you.\\nExecutive: And sir ek chota sa question, ek last cheez, ye jo aapne ticket raise kiya tha, ise abhi ke liye close kar du?\\nCustomer: Nahi mera problem to solve hua nahi to aapki marzi kar lo ya rehne do.\\nExecutive: Nahi wo to ja hi raha hun but waisa IndiaMART mein hi nahi hota hai na sir. Aapki jo concern thi, waisa hamare yahan system hi nahi hai abhi karne ke liye. Agar hota to kar diya hota sir aapke liye, aapko bolna nahi hota isme.\\nCustomer: To aapki marzi hai bhai sahab aap kar lo close ya mat na karo problem to mera aaj bhi hai.\\nExecutive: Nahi problem wo aapka as it is hai lekin hai to kar lo problem to wo wo jis number se call aayi thi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's issue is not yet resolved.\\n\n- Wants to know if the ticket can be closed.\\n\n\\n\nResolution:\\n\n- Executive said the system doesn't allow manual deletion.\\n\n- Forwarded the request for future consideration.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, deletion, system, concern, indiaMART\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=902fc2dc-bd38-4110-baf2-3b26271f3524",
+  "ucid": "902fc2dc-bd38-4110-baf2-3b26271f3524",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "158115",
+      "mcat_name": "Incense Cone Making Machine"
+    },
+    {
+      "mcat_id": "110288",
+      "mcat_name": "Camphor Machine"
+    },
+    {
+      "mcat_id": "652781",
+      "mcat_name": "Dhoop Stick Making Machine"
+    },
+    {
+      "mcat_id": "206961",
+      "mcat_name": "Soham Agarbatti Making Machines"
+    }
+  ]
+}

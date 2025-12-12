@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668614068",
+  "gluser_id": "249418052",
+  "vintage_months": 4,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Gwalior",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644479",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Ji, ma'am.\\nCustomer: Haan, Gagan ji, schedule karun meeting?\\nExecutive: Haan, ma'am, maine sir ko bata diya. Sir se baat ho rahi thi. Woh thoda sa family mein urgency hai iske chalte toh abhi toh possible nahi hai isliye maine call bhi pick nahi kar paya aapka.\\nCustomer: Theek hai.\\nExecutive: Ek aadmi se free hokar aap se discussion. Ma'am, main jaise hi free hota hun, main aapko connect kar lunga. Call pe bata dunga.\\nCustomer: Schedule kar paun usko.\\nExecutive: Theek hai, okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to schedule a meeting.\\n\n\\n\nResolution:\\n\n- Executive informed about family emergency.\\n\n- Executive will connect after getting free.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, schedule, family emergency\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6c12e86c-62cf-4908-bce3-750d2e0e450b",
+  "ucid": "6c12e86c-62cf-4908-bce3-750d2e0e450b",
+  "seller_categories": [
+    {
+      "mcat_id": "172791",
+      "mcat_name": "Thesis Writing Services"
+    },
+    {
+      "mcat_id": "170389",
+      "mcat_name": "Dissertation Writing Service"
+    },
+    {
+      "mcat_id": "171241",
+      "mcat_name": "Academic Writing Services"
+    },
+    {
+      "mcat_id": "88500",
+      "mcat_name": "Article Writing Service"
+    },
+    {
+      "mcat_id": "111436",
+      "mcat_name": "Data Analysis"
+    }
+  ]
+}

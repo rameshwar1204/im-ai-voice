@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666890942",
+  "gluser_id": "228150473",
+  "vintage_months": 15,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Palwal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji.\\nCustomer: Hello\\nExecutive: Haan sir.\\nCustomer: Haan madam main Ajit Gaan se bol raha tha.\\nExecutive: Ji sir bataiye.\\nCustomer: Actually madam, inquiry jo bhi aa rahi hai, ek do aati hai aur woh bhi fraud aati hai.\\nExecutive: Achcha.\\nCustomer: Kahin abhi pichle abhi dekho is registration ko char mahine ho gaye. Ek rupaye ka kaam nahi mila isse. Ab next time main dekhta hu kaise hum isko renew karayenge bataiye.\\nExecutive: Aapki Moon se baat hui thi pichle 28 October ko?\\nCustomer: Haan Moon se baat ho rahi hai abhi kya hai ek baar to baat hogi unse. Ab main do baar do teen baar maine call kiya woh voice pe laga dete hain phone ko.\\nExecutive: Haan woh woh actually unko unavailable hai unki tabiyat nahi theek hai. To is vajah se woh nahi hai. Main bolti hu kisi aur se ek baar aapse connect kare.\\nCustomer: Madam dekho abhi yeh batao inquiry nahi milenge fayda kya hai is registration ka.\\nExecutive: Ji.\\nExecutive: Theek hai main ek baar baat karwati hu aapki Praveen ya phir Amit se. Call karwati hu sir.\\nCustomer: Theek hai.\\nExecutive: Aapne na sir B2C pe liya.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inquiries are less and fraudulent.\\n\n- No work received despite registration of 4 months.\\n\n- Unable to connect with Moon.\\n\n\\n\nResolution:\\n\n- Executive will connect customer with Praveen or Amit.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, registration, renewal, b2c\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e791ac68-4811-4495-ab1a-459368a84b2e",
+  "ucid": "e791ac68-4811-4495-ab1a-459368a84b2e",
+  "seller_categories": [
+    {
+      "mcat_id": "42064",
+      "mcat_name": "Landscaping Services"
+    },
+    {
+      "mcat_id": "29207",
+      "mcat_name": "Garden Developers"
+    },
+    {
+      "mcat_id": "168360",
+      "mcat_name": "Garden Landscaping Services"
+    },
+    {
+      "mcat_id": "31517",
+      "mcat_name": "Landscape Design"
+    },
+    {
+      "mcat_id": "171784",
+      "mcat_name": "Fountain Installation Service"
+    }
+  ]
+}

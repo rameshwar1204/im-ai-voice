@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671348116",
+  "gluser_id": "62722994",
+  "vintage_months": 52,
+  "bl_dau_oct": 26,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Prakasam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Boliye.\\nCustomer: Madam good evening sir se baat ho sakta hai kya sir.\\nExecutive: Good evening sir.\\nCustomer: Thoda der wait karna abhi bahar gaye.\\nExecutive: Bahar gaye. Accha inquiry calls improve hua hai usi ke liye call kiya tha matlab aap logo ka concern tha na ki call nahi aa rahe matlab hai na?\\nCustomer: Aaj aaj hi ek teen aaye.\\nExecutive: Aaye hai na? To matlab improve ho raha hai na ye mai puch raha hu improve ho raha hai?\\nCustomer: Haan.\\nExecutive: Keh raha hu haan to thik hai na matlab improve ho raha hai wahi mai keh raha hu improve ho raha hai to thik hai. Aur jab sir aayenge to baat kara dijiyega halaki koi concern nahi hai to thik hai mai aapko fir aapko monday ko fir se call karunga thik hai mai aapko monday ko karega fir se thik hai.\\nCustomer: Ji.\\nExecutive: Monday ko karunga aur ek kaam kijiyega aap na jyada se jyada active raho platform pe thik hai. Active in the sense sara sara lead purchase kijiye jitna jyada lead purchase kijiyega utna jyada aapko inquiry calls milega mai aapko wahi keh raha tha abhi dekho kiya to mila na? To karte jaiye aapko milte jayega thik hai?\\nCustomer: Ji.\\nExecutive: Aur koi dikkat hua to mere number pe call kijiyega please mere number pe mera number yaad hai na aapko?\\nCustomer: Haan.\\nExecutive: 8340166817 ye mere number pe kijiyega thik hai.\\nCustomer: Ji.\\nExecutive: Thik hai thik hai thank you dhanyavad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported not receiving enough inquiry calls.\\n\n\\n\nResolution:\\n\n- Executive confirmed improvement in inquiry calls.\\n\n- Executive advised to stay active on the platform.\\n\n- Executive suggested purchasing more leads.\\n\n\\n\nNext Steps: \\n\n- Executive will call again on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry calls, leads, platform activity\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=930a8164-b918-4b1c-8eb9-6184dae0f8f6",
+  "ucid": "930a8164-b918-4b1c-8eb9-6184dae0f8f6",
+  "seller_categories": [
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "182617",
+      "mcat_name": "W320 Cashew Nuts"
+    },
+    {
+      "mcat_id": "55748",
+      "mcat_name": "Almond Nuts"
+    },
+    {
+      "mcat_id": "102077",
+      "mcat_name": "Green Cardamom"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674926420",
+  "gluser_id": "91760688",
+  "vintage_months": 5,
+  "bl_dau_oct": 12,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Hathras",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706948",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Hello? Prem ji se baat ho rahi hai?\\nExecutive: Ha, ho rahi hai.\\nExecutive: Sir, mai Heva baat kar rahi hu IndiaMART se. Kaise ho aap?\\nCustomer: Hmm hmm.\\nCustomer: Bas, thik hai. Sir, aap ha, sir aap se kal baat hui thi regarding services like mere teammate ki.\\nCustomer: Hmm.\\nExecutive: Kya aapko aawaz aa rahi hai sir?\\nCustomer: Thoda market, mai hu thoda market se nikal jaunga to mai aapko phone karta hu isi number pe, thik hai?\\nExecutive: Thik hai, thik hai. No issues, no issues. Aap call back kar lo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to follow up on previous conversation.\\n\n- Customer is currently in the market.\\n\n\\n\nResolution:\\n\n- Customer will call back later.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, services, call back\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0c06de46-e1ac-48e8-b263-3f2db0cc7cbc",
+  "ucid": "0c06de46-e1ac-48e8-b263-3f2db0cc7cbc",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "184302",
+      "mcat_name": "LG LED TV"
+    },
+    {
+      "mcat_id": "184300",
+      "mcat_name": "Samsung LED TV"
+    },
+    {
+      "mcat_id": "179007",
+      "mcat_name": "Voltas Split Air Conditioners"
+    },
+    {
+      "mcat_id": "203348",
+      "mcat_name": "Mitsubishi Window Air Conditioner"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672678795",
+  "gluser_id": "62722994",
+  "vintage_months": 52,
+  "bl_dau_oct": 26,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Prakasam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Madam good morning India Mart se bol raha tha Raju Prajapati.\\nCustomer: Okay sir my car is not there he will come I will call you back later okay na.\\nExecutive: Okay okay thank you.\\nExecutive: Please call on my number ma'am I hope that you have my number right last time I got I got to my number stepped okay okay thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Car is not there.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, car\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5fde8972-2bf0-4892-b9d3-29c1f6e8f253",
+  "ucid": "5fde8972-2bf0-4892-b9d3-29c1f6e8f253",
+  "seller_categories": [
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "182617",
+      "mcat_name": "W320 Cashew Nuts"
+    },
+    {
+      "mcat_id": "55748",
+      "mcat_name": "Almond Nuts"
+    },
+    {
+      "mcat_id": "102077",
+      "mcat_name": "Green Cardamom"
+    }
+  ]
+}

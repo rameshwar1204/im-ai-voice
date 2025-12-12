@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666843929",
+  "gluser_id": "154848280",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630578",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir main IndiaMART head office se Kalika baat kar raha hun senior manager.\\nExecutive: Hello\\nCustomer: Awaz aa rahi hai aapko sir?\\nCustomer: Hmm.\\nExecutive: Sir main IndiaMART head office se Kalika baat kar raha hun senior manager.\\nCustomer: IndiaMART. Haan boliye.\\nExecutive: Ye abhi aapke paas ek feedback aaya tha, aap se hi baat hui thi na Akash ki abhi?\\nCustomer: Haan haan abhi abhi baat hua.\\nExecutive: Hai na? Akash se haan Akash ji se baat hua tha boliye.\\nExecutive: Haan haan to aapka sir wo aapne aap se discussion hua discussion karne ke baad aapne sir wo feedback ko hamara no mark kar diya batao sir kya dikkat aa rahi hai kya wo sahi nahi kar paya hai sir?\\nCustomer: Accha accha aapke paas sahi aadmi ko phone nahi kar raha hai suniye. Sahi aadmi humko phone nahi kar raha hai jo lene wala wo phone hi nahi kar raha hai. Udhar hum chhat ke udhar hum tawa tawa ho gaye ko lene wala humse baat nahi kiya thik se. Jo bhi teen char baat kiye hai na sab bole kya jo haan hum aap hum hum hum bhi bechte hain ye saman humse bhi dusra saman.\\nExecutive: Haan.\\nCustomer: Hum jo bechte hain wohi na kisi ko denge.\\nExecutive: Bilkul bilkul.\\nCustomer: Hum to bechte hain hum to kharidne wale hai nahi.\\nExecutive: Sahi baat hai.\\nCustomer: To fir hum kal se is par lag jate hain aap log hum par dhyan dijiye thik hai na?\\nExecutive: Haan ji haan ji haan ji bilkul bilkul bilkul bilkul dhyan diya jayega bas haan abhi aapko bataya ho na Akash ne kaise kaam karna hai is pe aap bataya hai na aapke ladko ko bhi bataya shayad unse bhi discussion hua hai to aap us pe aise aise kaam kijiye agar kuch aur dikkat aati hai to aap mere number pe bhi call kar sakte hain Akash ko bhi direct call kar sakte hain thik hai sir?\\nCustomer: Thik thik thik.\\nExecutive: Thik thik hai okay.\\nCustomer: Thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- The right buyers are not calling.\\n\n- Buyers who called did not talk properly.\\n\n- Buyers said they sell similar items.\\n\n\\n\nResolution:\\n\n- Executive assured attention and support.\\n\n- Executive advised to follow Akash's instructions.\\n\n- Executive provided his and Akash's contact numbers.\\n\n\\n\nNext Steps: \\n\n- Customer will start working on it from tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, buyleads, support, discussion\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 138,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f1aea8c3-9d2b-4f05-9058-f3e9be06d84c",
+  "ucid": "f1aea8c3-9d2b-4f05-9058-f3e9be06d84c",
+  "seller_categories": [
+    {
+      "mcat_id": "157281",
+      "mcat_name": "Cotton Nightgown"
+    },
+    {
+      "mcat_id": "220508",
+      "mcat_name": "Ladies Designer Nighty"
+    },
+    {
+      "mcat_id": "7371",
+      "mcat_name": "Nightgowns"
+    },
+    {
+      "mcat_id": "180798",
+      "mcat_name": "Kids Lowers"
+    },
+    {
+      "mcat_id": "68572",
+      "mcat_name": "Ladies Night Dress"
+    }
+  ]
+}

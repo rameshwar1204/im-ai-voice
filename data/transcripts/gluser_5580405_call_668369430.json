@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668369430",
+  "gluser_id": "5580405",
+  "vintage_months": 12,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644471",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji very good morning sir. Aaj kaise hain sir aap? Main theek hoon. Ji sir main yahan pe ek cheez dekh raha hoon. Aapne kya kal satisfaction mein wo feedback mein not satisfied diya?\\nCustomer: Complete nahi tha apna meeting wo review maang raha tha to maine no dal diya usme.\\nExecutive: Nahi sir wo feedback ka tha aapne not satisfaction de diya.\\nCustomer: Achcha.\\nExecutive: Ji ji koi issue to nahi hai abhi?\\nCustomer: Issue kuch nahi hai sir wo time mere ko wo.\\nExecutive: Ji ji boliye.\\nCustomer: Wo mera profile ek baar complete karwa dijiye. Ha to ab aap join karwa dijiye sir meeting Google meeting.\\nExecutive: Abhi karwa rahe hain sir.\\nCustomer: Abhi nahi sir 5 baje kar payenge sir.\\nExecutive: Achcha 5 baje karenge. Baki main ye aapka concern close kar de raha hoon to aap mujhe satisfaction de dena usme.\\nCustomer: Okay. Waise to koi issue nahi hai na aapko?\\nExecutive: Nahi.\\nExecutive: Ha to aap 5 baje mein Google meeting kar lunga koi issue nahi hai. Baki ye aap please laga ke sir agar koi feedback dena ek baar sir confirm kar le ki kis cheez ka hai. Ji sir. Kyunki agar aapko koi bhi issue ho to main aapka help karunga sir. Theek hai? Theek hai.\\nCustomer: Okay thank you.\\nExecutive: Matlab ki kya matlab karwana hai ki nahi karwana hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave 'not satisfied' in feedback.\\n\n- Wants profile to be completed.\\n\n- Wants to join Google meeting.\\n\n\\n\nResolution:\\n\n- Executive will close the concern.\\n\n- Google meeting scheduled for 5 PM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, profile, google meeting, satisfaction\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b28c4034-27c8-4cf5-8f5f-0bf9cca9b8b9",
+  "ucid": "b28c4034-27c8-4cf5-8f5f-0bf9cca9b8b9",
+  "seller_categories": [
+    {
+      "mcat_id": "105919",
+      "mcat_name": "Tea"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    },
+    {
+      "mcat_id": "114244",
+      "mcat_name": "Loose Tea"
+    },
+    {
+      "mcat_id": "4941",
+      "mcat_name": "Assam Tea"
+    },
+    {
+      "mcat_id": "127455",
+      "mcat_name": "Cardamom Tea"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674368672",
+  "gluser_id": "20672984",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Sikar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703103",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Haan good morning sir, Neha baat kar rahi hu sir IndiaMART se.\\nCustomer: Haan boliye. \\nExecutive: Aapka miss call show kar raha hai sir Saturday ka.\\nCustomer: Haan?\\nExecutive: Miss call show kar raha tha sir is vajah se connect kiya tha.\\nCustomer: Kab kal ka?\\nExecutive: Saturday ka sir.\\nCustomer: Ek second bas. Dekhta hu main kya hai.\\nExecutive: Achcha koi baat nahi sir. Koi problem to nahi ho rahi hai na abhi services mein?\\nCustomer: Problem to madam koi daal raha hu main to lead pe lekin koi order to aa nahi raha hai isme.\\nExecutive: Order nahi aa raha hai. Achcha. Matlab kya problem aa rahi hai matlab kya bol rahe hain samne wale buyleads vgera consume kar rahe ho to kya problem aa rahi hai?\\nCustomer: Wo bol rahe hain ki dekh rahe hain hum to lena nahi hai abhi dekh rahe hain.\\nExecutive: Abhi nahi lena hai ya kabhi nahi lena hai matlab unhone ye nahi bola ki kal aage piche ho jayegi ya unhone dala hai aisa requirement?\\nCustomer: Wo main karunga baat hai aap ye bataiye mere ko ye 10 lead ro aap ek hafte ki 10 aur ek aise doge 17 lead.\\nExecutive: Haan aise 17 lead.\\nCustomer: Haan to 10 lead ek sath daloge ya roz ki ek ek kaise?\\nExecutive: 10 lead aapko Monday ko aapko abhi mil chuki hogi 10 lead ka quota mil gaya hoga aapko ab wo aap kabhi bhi use kar sakte ho sir ki aaj aap do lead use kar lo usme se ya ek lead use kar lo.\\nCustomer: Achcha. Haan man lo wo pure hafte tak left to nahi hoti na wo?\\nExecutive: Nahi wo left ho jayegi agar pure hafte mein aapne use nahi kara hoga to.\\nCustomer: Haan pure hafte mein use nahi karu to hi left ho hai na?\\nExecutive: Haan haan to left hoga warna aap pehle use kar loge to koi baat nahi usme left hoga wo.\\nCustomer: Haan achcha theek hai ye dekh. Haan.\\nExecutive: Haan baki abhi mujhe bataiyega kya kya problem aa rahi hai fir main na aapko discuss karke bataungi ki hum kya kya kar sakte hain isme hai na?\\nCustomer: Chalo main call back karunga.\\nExecutive: Theek hai haan theek hai sir theek hai. Baki concern close kar do yahan se miss call ka sir?\\nCustomer: Haan dekh. \\nExecutive: Theek hai sir theek hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No orders are coming from the leads.\\n\n- Wants to know about lead distribution.\\n\n\\n\nResolution:\\n\n- Explained about weekly lead quota.\\n\n- Explained leads will lapse if not used.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, lead quota\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=52629363-5743-46bb-801e-4e4e226bd2f1",
+  "ucid": "52629363-5743-46bb-801e-4e4e226bd2f1",
+  "seller_categories": [
+    {
+      "mcat_id": "52897",
+      "mcat_name": "Cooler Motor"
+    },
+    {
+      "mcat_id": "21384",
+      "mcat_name": "Air Coolers"
+    },
+    {
+      "mcat_id": "164615",
+      "mcat_name": "Desert Air Cooler"
+    },
+    {
+      "mcat_id": "138121",
+      "mcat_name": "Plastic Air Cooler"
+    },
+    {
+      "mcat_id": "25870",
+      "mcat_name": "Cooler Pump"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670095534",
+  "gluser_id": "3619939",
+  "vintage_months": 53,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Daman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661695",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Awaz cut ho raha hai phir se lagaiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice is breaking.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, connection\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e622ae3a-1ff3-4030-9bb5-a196d869911e",
+  "ucid": "e622ae3a-1ff3-4030-9bb5-a196d869911e",
+  "seller_categories": [
+    {
+      "mcat_id": "164",
+      "mcat_name": "FRP Cooling Towers"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "162",
+      "mcat_name": "Cooling Towers"
+    },
+    {
+      "mcat_id": "25879",
+      "mcat_name": "Cooling Tower Fans"
+    },
+    {
+      "mcat_id": "30665",
+      "mcat_name": "Induced Draft Cooling Tower"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "671230553",
+  "gluser_id": "252465991",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671146",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ji. Hello.\\nCustomer: Sir aap system pe available hai is time?\\nExecutive: Hello.\\nExecutive: Ji ji to mai aapko video meeting ki link share kar raha hu.\\nCustomer: Hello.\\nExecutive: Ji ji aapko video meeting ki link share kar raha hu sir aapke instant messenger id pe link aa gayi hogi.\\nCustomer: Kya need hai? Sir video meeting ki kya jarurat hai apne ko?\\nExecutive: Sir raat aapki mam se baat hui hogi na sham tak.\\nCustomer: Sir video meeting ki kya jarurat hai? Unse ye nahi baat hui meri. Video meeting ke bare mein koi baat nahi hui sir.\\nExecutive: Nahi nahi video meeting ke bare me baat nahi hui par jo brief discussion hoga brief aapko screen share karke to payega na wo achi tarah.\\nCustomer: Sir aap log bolte hi dheere ho.\\nCustomer: Ki actual aapke system me koi problem hai itni kam aawaz aati hai aapki mujhe lag raha tha mere us phone me problem hai actual aap logo ki aawaz hi kam aati hai.\\nExecutive: Nahi nahi sir aisa to kuch nahi hai mai to din bhar baat karta hu helpline pe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks if executive is available.\\n\n- Customer questions the need for a video meeting.\\n\n- Customer complains about low audio from executive.\\n\n\\n\nResolution:\\n\n- Executive shared video meeting link.\\n\n- Executive stated screen sharing will help discussion.\\n\n- Executive denied any audio issues from their end.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, audio quality, system availability\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a3266ff-5e50-4757-b821-25b30b2f04ce",
+  "ucid": "6a3266ff-5e50-4757-b821-25b30b2f04ce",
+  "seller_categories": [
+    {
+      "mcat_id": "164615",
+      "mcat_name": "Desert Air Cooler"
+    },
+    {
+      "mcat_id": "138121",
+      "mcat_name": "Plastic Air Cooler"
+    },
+    {
+      "mcat_id": "21384",
+      "mcat_name": "Air Coolers"
+    }
+  ]
+}

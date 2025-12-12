@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669286504",
+  "gluser_id": "252652395",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Jabalpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello haan ji.\\nExecutive: Sir IndiaMART mein maine website banwaya tha.\\nCustomer: Hmm hmm.\\nCustomer: To uski leads vagera kaise generate karna hai matlab leads kaise aayenge wo thoda samajhna tha mujhe.\\nExecutive: Sir yaad aata hai meri kisse baat ho rahi hai?\\nCustomer: Shiva Gupta se.\\nExecutive: IndiaMART se aaj haan haan main samajh gaya main samajh gaya.\\nCustomer: Main samajh gaya sir aapka. Actually main aaj lead par hu office mein available nahi hu isliye main call bhi aapki pick nahi kar pa raha tha. Agar aaj koi issue nahi ho to main aapko kal sari clarity provide kar du?\\nCustomer: Ya aapko main aapna haan kal tomorrow Tuesday ko. Main kyuki kal available hounga office mein to system se aapke sang puri video call assign karke sari queries main aapki resolve kar dunga.\\nCustomer: Theek hai sir.\\nExecutive: Right sir.\\nCustomer: Theek hai kal main aapko connect karta hu isme. Okay thank you.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know how to generate leads.\\n\n\\n\nResolution:\\n\n- Executive will provide clarity on a video call tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, website, video call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=47e32472-7319-4319-a1e3-3f2d096b9f6d",
+  "ucid": "47e32472-7319-4319-a1e3-3f2d096b9f6d",
+  "seller_categories": [
+    {
+      "mcat_id": "140259",
+      "mcat_name": "Clay Modifier"
+    },
+    {
+      "mcat_id": "36247",
+      "mcat_name": "Red Brick"
+    },
+    {
+      "mcat_id": "44158",
+      "mcat_name": "Chemical Hardener"
+    },
+    {
+      "mcat_id": "7635",
+      "mcat_name": "Soil Conditioner"
+    },
+    {
+      "mcat_id": "122123",
+      "mcat_name": "Cement Concrete Hardener"
+    }
+  ]
+}

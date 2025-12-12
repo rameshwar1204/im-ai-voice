@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669265890",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan ji madam.\\nExecutive: Hello.\\nCustomer: Haan ji madam, haan ji hai.\\nExecutive: Haan, maine sir group dekhiye aapka bana diya aur usme video meeting ka link bhi share kiya hua hai, ek baar join kar lijiye aap.\\nCustomer: Haan madam wo to kar lete hain. Hamara jo issue hai uske bare mein aapne clear nahi kari hai ji, hum wo puchna chahte hain ji.\\nExecutive: Sir wahi main clear karne ke liye aapko video call kiya hua hai, taki na usse dekhiye leads to aayi hui hai but aap kahan se check kar rahe ho wahi ek baar tab hum aapko guide kar denge ki kaun se tab se aap check kiya karo aur kaise filter use karna hai. To hum aapko proper video meeting pe guide kar denge, aap waise ek baar use karke dekhiye isko.\\nCustomer: Main kehta, bachcho ne sare ne filter laga ke dekh liya lead hi nahi aati ji.\\nExecutive: Sir abhi main open karke rakha hua hai to mujhe to lead show ho rahi hai isiliye to maine bola aapko ek baar aap video meeting pe aa jaiye to main apna screen share karke aapko dikha dungi.\\nCustomer: Theek hai. Madam se bhi bol dijiyega join kar le jo IndiaMART dekhte hain.\\n\\nCustomer: WhatsApp bhi theek hai ji WhatsApp bhi.\\nCustomer: Haan ji.\\n\\nExecutive: Sir dekhiye aapka group bhi bana diya humne WhatsApp ka, isme aapka primary number aur secondary number humne add kiya hai, madam ka number kaun sa hai?\\nCustomer: Hello.\\nCustomer: Ek minute ji, ek minute, 94 ji.\\nExecutive: 94\\nCustomer: 171 ji.\\nExecutive: 171\\nCustomer: 4198.\\nExecutive: 4198\\nCustomer: 24198.\\nExecutive: 24198, okay.\\n\\nCustomer: Call bhi kara de.\\n\\nCustomer: Madam baat aisi hai, hum to na apna baccha jo matlab ki engineer kar raha hai ji.\\nExecutive: Hmm.\\nCustomer: Hello.\\nExecutive: Haan ji sir.\\nCustomer: Usko bhi chhuda rahe hain ji kaam.\\nExecutive: Kyun sir?\\nCustomer: Hello.\\nExecutive: Haan sir aawaz aa rahi hai meri. Haan ji. Yes yes madam please bataye.\\nCustomer: Join kar liya aapne?\\nCustomer: Madam join hua nahi abhi tak?\\n[unintelligible]\\nAutomated Voice: Aap jis vyakti se baat kar rahe hain usne aapki call ko hold par rakha hai. Kripya line par bane rahein. Aap jis vyakti se baat kar rahe hain usne aapki call ko hold par rakha hai. Kripya line par bane rahein.\\nAutomated Voice: Aap jis vyakti se baat kar rahe hain usne aapki call ko hold par rakha hai. Kripya line par bane rahein.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting buyleads.\\n\n- Wants to add madam's number to WhatsApp group.\\n\n\\n\nResolution:\\n\n- Executive created a WhatsApp group.\\n\n- Executive asked to join video meeting to guide.\\n\n- Executive took madam's number to add to group.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp group, video meeting\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 188,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3e9df431-7c3c-4b9d-ab26-3f9a5fa39e46",
+  "ucid": "3e9df431-7c3c-4b9d-ab26-3f9a5fa39e46",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

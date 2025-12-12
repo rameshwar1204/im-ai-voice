@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668486593",
+  "gluser_id": "132815052",
+  "vintage_months": 33,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Haanji sir aapki baat ho gayi hai hello hello\\nCustomer: Haan boliye boliye\\nExecutive: Haan sir mai keh raha hu aapki meri meri baat ho gayi hai aapki uske regarding theek hai aur maine dekh liya hai ki aapko wo nahi mila hua hai to mai abhi apni side se ek work order generate kar raha hu jisse aapko wo abhi approve leke aapko fir se abhi aapke account me mai dalwa deta hu theek hai sir\\nCustomer: Kitne din me aa jayega\\nExecutive: Sir aaji aa jayega sir aaji nahi to kal bhar me aa jayega aapko mujhe aage jaake approval lena hoga mai approval nahi le raha hu\\nCustomer: Sir aaj nahi to kal bhar me wo aa jayega chutti hai meri baat suno\\nExecutive: Haan sir approval approval karke rakho aaj meri chutti hai kya hai dopahar ke baad\\nCustomer: Theek hai wo mere ko kabhi bhi kaam aayegi aap approval karke rakho to wo mere ko kaam aayega na aisa baat hai fir approval lene jayenge\\nExecutive: Nahi nahi mai aapko batata hu aapko kaam kaise aayega kaam aise aayega ki jaise aapki jab ye jo aapki weekly wali khatam ho jati hai na to fir wo wali start ho jayegi fir aapko aap chaho to wo balance waha balance me aap dekhte ho na mobile usme tab me aap balance dekh sakte ho na ki kitna aapka hai to waha se aap dekh sakte ho waha se aap dekh paoge theek hai aur wo aap jaise jaise use karoge us hisab se aap waha se check bhi kar sakte ho mai aapko dikha dunga isi se ek baar aa jana mai aapko dikha dunga ki kaha se aap dekh sakte ho theek hai abhi pehle mai order generate karke waha pe approval le le raha hu theek hai\\nCustomer: Theek hai sir okay\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received the refund.\\n\n- Wants approval to be done immediately.\\n\n\\n\nResolution:\\n\n- Executive assured refund will be processed soon.\\n\n- Explained how the balance can be checked.\\n\n\\n\nNext Steps: \\n\n- Executive will generate order and take approval.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, approval, balance check\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3439d6cf-eb5f-4c42-b037-9991bdf088f6",
+  "ucid": "3439d6cf-eb5f-4c42-b037-9991bdf088f6",
+  "seller_categories": [
+    {
+      "mcat_id": "31652",
+      "mcat_name": "Magnesium Carbonate"
+    },
+    {
+      "mcat_id": "19162",
+      "mcat_name": "Silicon Dioxide"
+    },
+    {
+      "mcat_id": "8601",
+      "mcat_name": "Precipitated Silica"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    },
+    {
+      "mcat_id": "252025",
+      "mcat_name": "Vegetable Glycerin"
+    }
+  ]
+}

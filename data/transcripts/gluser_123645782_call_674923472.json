@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674923472",
+  "gluser_id": "123645782",
+  "vintage_months": 19,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Visnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708096",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0caab9ac-c675-4946-9ac7-42a8e5cf4329",
+  "ucid": "0caab9ac-c675-4946-9ac7-42a8e5cf4329",
+  "seller_categories": [
+    {
+      "mcat_id": "11270",
+      "mcat_name": "Cumin Seeds"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "5315",
+      "mcat_name": "Mustard Seeds"
+    },
+    {
+      "mcat_id": "186496",
+      "mcat_name": "Organic Cumin Seed"
+    },
+    {
+      "mcat_id": "6281",
+      "mcat_name": "Fennel Seed"
+    }
+  ]
+}

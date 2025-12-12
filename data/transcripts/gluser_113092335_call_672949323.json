@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672949323",
+  "gluser_id": "113092335",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "\u0939\u0947\u0932\u094b\\n\u0939\u0947\u0932\u094b\\n\u0939\u0947\u0932\u094b \u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u092c\u094b\u0932\u093f\u090f\\n\u0939\u0947\u0932\u094b \u092c\u094b\u0932\u093f\u090f \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0942\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092c\u093e\u0924 \u0938\u0947 \u0939\u093e\u0902 \u091c\u0940 \u092c\u094b\u0932\u093f\u090f\\n\u0914\u0930 \u0915\u0948\u0938\u0940 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948 \u0905\u092d\u0940 \u0915\u0948\u0938\u0940 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948 \u0936\u093e\u0926\u0940 \u0938\u0947 \u092e\u0948\u0921\u092e \u0939\u092e\u093e\u0930\u093e \u092a\u0948\u0938\u093e \u0924\u094b \u091a\u0932\u093e \u0917\u092f\u093e \u0905\u092c \u0915\u094b\u0908 \u092e\u093e\u0907\u0932\u0947\u091c \u0924\u094b \u0928\u0939\u0940\u0902 \u0906 \u0930\u0939\u0940 \u0939\u0948 \u092c\u0930\u093e\u092c\u0930 \u0928\u093e \u0939\u0948 \u0928\u093e \u0926\u094b\u0928\u094b\u0902 \u092e\u0948\u0921\u092e \u0915\u0941\u091b \u0939\u094b\u0917\u093e \u0939\u094b\u0917\u093e \u0928\u0939\u0940\u0902 \u0915\u0941\u091b \u0906\u092a\u0938\u0947 \u092c\u0930\u093e\u092c\u0930 \u0928\u093e\\n\u092e\u093e\u0907\u0932\u0947\u091c \u0928\u0939\u0940\u0902 \u0906 \u0930\u0939\u0940 \u0939\u0948 \u0905\u092d\u0940\\n",
+  "summary": "\\n\nConcerns:\\n\n- Money is gone.\\n\n- No mileage.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to negative\\n\n\\n\n@@@Key Topics:\\n\nmileage, money\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d69e26e-bea6-44d8-bf2c-dcfc9a10555c",
+  "ucid": "8d69e26e-bea6-44d8-bf2c-dcfc9a10555c",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "1686",
+      "mcat_name": "Safety Relays"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "167489",
+      "mcat_name": "Bus Coupler"
+    },
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    }
+  ]
+}

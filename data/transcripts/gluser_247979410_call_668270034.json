@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668270034",
+  "gluser_id": "247979410",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643859",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji Shivam sir.\\nExecutive: Shivam Sumeet Patra baat kar raha hu IndiaMART se aapka call.\\nCustomer: Haan ji haan ji.\\nExecutive: Ji ji uss samay call pe chala gaya tha.\\nCustomer: 10-15 minute aur do aap abhi yaha par.\\nExecutive: Koi baat nahi, koi dikkat nahi aap free ho jaye aaram se toh kar lete hai baat, koi dikkat nahi.\\nCustomer: Theek hai theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a callback after 10-15 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, availability\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2ab778a-c287-4fad-a53e-70b015273614",
+  "ucid": "d2ab778a-c287-4fad-a53e-70b015273614",
+  "seller_categories": [
+    {
+      "mcat_id": "13613",
+      "mcat_name": "Crystal Chandelier"
+    },
+    {
+      "mcat_id": "16039",
+      "mcat_name": "Hanging Chandelier"
+    },
+    {
+      "mcat_id": "159050",
+      "mcat_name": "Plastic Flower"
+    },
+    {
+      "mcat_id": "209144",
+      "mcat_name": "Diwali Torans"
+    },
+    {
+      "mcat_id": "4926",
+      "mcat_name": "Artificial Flowers"
+    }
+  ]
+}

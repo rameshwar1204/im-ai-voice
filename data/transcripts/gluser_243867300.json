@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673139215",
+  "gluser_id": "243867300",
+  "vintage_months": 5,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691946",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello. Good morning sir.\\nCustomer: Hanji. Good morning.\\nExecutive: Kaise hain sir aap?\\nCustomer: Badhiya.\\nExecutive: Manisha baat kar rahi hu sir IndiaMART se.\\nCustomer: Achcha achcha.\\nExecutive: Ji actually sir aapka na hume incoming call receive hua tha. To iske liye sir sir par se abhi sir actually kya hota hai na madam portal pe show ho raha hai ki aapka incoming aaya tha lekin ho sakta hai ki working hours me na ho isiliye fir wo receive nahi ho paya tha call. Koi problem face kar rahe hai to mai help kar deti hu. I think aapke end se bhi\\nCustomer: [inaudible] maine dekha nahi maine.\\nExecutive: Galti se lag gaya hoga lekin sir hum humara ye rehta hai na ki agar aapko incoming call matlab receive nahi ho paya tha na isiliye maine call call kiya ki koi problem to nahi aap face kar rahe the to mai usko close close kar de aise customer ko.\\nCustomer: Chaliye thik hai mai dekh leta hu.\\nExecutive: Basically actually na aapka incoming hamare paas aaya hua tha ho sakta hai ki na galti se lag gaya ho aapko. To koi problem to nahi face kar rahe hai na service se related aap?\\nCustomer: Nahi nahi nahi nahi aise koi baat nahi.\\nExecutive: Achcha thik hai fir mai close kar deti hu aapko, thik hai? Koi problem hogi to aap call kar lena. Thik hai.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive received an incoming call from customer.\\n\n- Executive called to check if customer facing issues.\\n\n\\n\nResolution:\\n\n- Customer said call was accidental, no issues.\\n\n- Executive offered to close the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- incoming call, accidental call, customer support\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bd12a2c2-d056-473f-b29d-37e933057eb5",
+  "ucid": "bd12a2c2-d056-473f-b29d-37e933057eb5",
+  "seller_categories": [
+    {
+      "mcat_id": "5682",
+      "mcat_name": "Paint Brush"
+    },
+    {
+      "mcat_id": "108136",
+      "mcat_name": "Flat Paint Brushes"
+    },
+    {
+      "mcat_id": "43311",
+      "mcat_name": "Painting Brush"
+    },
+    {
+      "mcat_id": "115893",
+      "mcat_name": "Painting Roller Brushes"
+    },
+    {
+      "mcat_id": "5689",
+      "mcat_name": "Paint Rollers"
+    }
+  ]
+}

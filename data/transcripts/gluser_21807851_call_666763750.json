@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666763750",
+  "gluser_id": "21807851",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan ji.\\nExecutive: Sir main Akshay baat kar raha hu IndiaMART se account manager sir. Sir maine kal aapko phone kiya tha aapne aapne phone hi pick up nahi kiya.\\nCustomer: Abhi main aapko na do minute ke andar wapas call kar raha hu sir washroom mein hai.\\nExecutive: Main aapko kab tak call karu?\\nCustomer: Haan main do minute ke andar wapas call kar raha hu sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive was following up on a previous call.\\n- Customer was unavailable to talk.\\n\\n\\nResolution:\\n\\n- Customer stated he was in the washroom.\\n- Customer promised to call back in two minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will call the executive back in two minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- callback, follow-up\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8a708761-0f12-4c31-b82e-c83c16750014",
+  "ucid": "8a708761-0f12-4c31-b82e-c83c16750014",
+  "seller_categories": [
+    {
+      "mcat_id": "1394",
+      "mcat_name": "Oxygen Plant and Generator"
+    },
+    {
+      "mcat_id": "32741",
+      "mcat_name": "Nitrogen Generators"
+    },
+    {
+      "mcat_id": "42148",
+      "mcat_name": "PSA Oxygen Plants"
+    },
+    {
+      "mcat_id": "42147",
+      "mcat_name": "PSA Nitrogen Gas Plants"
+    },
+    {
+      "mcat_id": "191158",
+      "mcat_name": "Medical Oxygen Plant"
+    }
+  ]
+}

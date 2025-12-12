@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675039086",
+  "gluser_id": "29020827",
+  "vintage_months": 86,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710600",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nHello.\\nHanji Ashu ji.\\nHello.\\nHello.\\nMadam kya aap to bhul hi gaye payment leke. Pagal samajh kya humko aapne. Sir. Are madam kal aapne mere ko kya bola video mix karne ke liye. Thik hai main abhi mera hisab se dekhta hu. Main nahi main abhi just training me thi main aapko. Chalega madam. Thik hai main mera hisab se dekhta hu thik hai. \\nOkay madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment not received after taking it.\\n\n- Accusation of considering the customer foolish.\\n\n- Video mixing request.\\n\n\\n\nResolution:\\n\n- The speaker mentions being in training.\\n\n- The speaker says they will handle it themselves.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nAngry/Frustrated to neutral\\n\n\\n\n@@@Key Topics:\\n\npayment, video mixing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b8231018-8e3e-4b7f-8842-00804921a0ff",
+  "ucid": "b8231018-8e3e-4b7f-8842-00804921a0ff",
+  "seller_categories": [
+    {
+      "mcat_id": "186256",
+      "mcat_name": "Agricultural Power Sprayer"
+    },
+    {
+      "mcat_id": "188855",
+      "mcat_name": "Petrol Brush Cutter"
+    },
+    {
+      "mcat_id": "164099",
+      "mcat_name": "Battery Spray Pump"
+    },
+    {
+      "mcat_id": "155463",
+      "mcat_name": "Agricultural Sprayer Pump"
+    },
+    {
+      "mcat_id": "35529",
+      "mcat_name": "Power Sprayer"
+    }
+  ]
+}

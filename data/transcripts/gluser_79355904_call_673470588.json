@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673470588",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Theek hai sir, phone rakh do aap. \\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji, kahan se baat kar rahe hain sir aap?\\nCustomer: Madam, kaise bol raha hu mai toh.\\nExecutive: Sir ka phone aa raha hai fir se, baat karwa do ek baar.\\nCustomer: Haan ji sir. \\nExecutive: Sir bola hua hai maine unko already call.\\nCustomer: Maine bola hua hai unko already aapko call back karne ke liye.\\nExecutive: Phone uthayenge nahi woh toh nahi uthayenge phone.\\nCustomer: Kya?\\nCustomer: Are phone nahi uthayenge woh toh. Woh kyu uthayenge phone?\\nExecutive: Sir maine unko already saamne se bol diya hai aapko call karne ke liye.\\nCustomer: Toh senior ka number do aap kisi ko aur ka.\\nExecutive: Toh maine unko directly bol toh diya hai call back karne ke liye aapko, jaise hi woh free hote hain woh kar lenge aapko call. \\nCustomer: Senior ho gaye woh toh hamare ko bhi clear hai mai aapko kisi aur se baat karwa sakti hu.\\nCustomer: Aap kisi aur ka number do.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello. Haan ji sir.\\nCustomer: Madam kisi aur ka number do aap.\\nExecutive: Hello.\\nCustomer: Mai keh raha hu kisi aur ka number do aap.\\nExecutive: Sir kisi aur se kis se aap baat karenge? Aapka catalog mere paas hai na sir. Account manager aapki mai hu.\\nCustomer: Kisi ko kisko kya pata hai sir aapke catalog ke baare mein? Mai jaanti hu na.\\nCustomer: Haan toh aap jaante ho toh woh cancel kyu lagao na usme application aap jaante ho toh.\\nExecutive: Kya sir?\\nCustomer: Usme cancel kyu lagao na application.\\nExecutive: Sir Manoj sir ko already yeh cheez batai hui hai, jaise hi woh meeting mein hai abhi, jaise hi woh free hote hain woh karenge aapko call.\\nCustomer: Free hai woh toh, sab free ho aap.\\nExecutive: Nahi hai sir.\\nExecutive: Senior manager hai woh, meeting mein hai abhi. Karwa deti hu mai aapki baat.\\nCustomer: Aadhe ghante mein call karta hu wapis. \\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to a senior executive.\\n\n- Customer wants to cancel the application.\\n\n\\n\nResolution:\\n\n- Executive stated Manoj Sir is in meeting.\\n\n- Executive said Manoj Sir will call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, cancel application, senior executive\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 142,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=233510db-8842-4c7d-8eda-42779435413d",
+  "ucid": "233510db-8842-4c7d-8eda-42779435413d",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

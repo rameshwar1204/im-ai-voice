@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669299135",
+  "gluser_id": "60874444",
+  "vintage_months": 91,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ludhiana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650136",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible] nahi hota wo.\\nExecutive: Hello.\\nCustomer: Ji Shalu mam.\\nExecutive: Haan ji.\\nCustomer: Haan ji mam, mai keh rahi thi wo jo maine aapko bheja tha na matlab aapne aapko jo maine product bheja tha aap uski price bata rahe ho na \u20b96 per piece hai.\\nExecutive: Haan ji haan ji uska batana \u20b96.\\nCustomer: Ji ji actually mai wo dikha rahi thi na aapko ki wo product na jaise uski price mai isliye puch rahi thi ki agar mai wo product search bhi karti hu na IndiaMART ke page pe to aapki hi company Ludhiana ke pehle number pe dikh rahi hai aur dusri cheez usme na.\\nExecutive: Hmm.\\nCustomer: Usme jo likha hai na mention enter quantity or price wo mention nahi hai to kahi na kahi wo thodi visibility aap matlab koi customer bhi search karta hoga to usko nahi dikhta hoga isiliye maine aapse pucha to \u20b96 per kg to nahi hoga mam wo per piece hoga.\\nExecutive: Per piece hai.\\nCustomer: Haan ji okay okay maine quantity change kar di hai uski aur wo haan to mam wo mai aapke paas mail jayegi uske baad.\\nExecutive: Mam isme na golden silver bhi hai cherry brown bhi hai colour.\\nCustomer: Achha okay.\\nExecutive: Char colour hai.\\nCustomer: Okay.\\nExecutive: To maine golden silver hi dala hai mam.\\nCustomer: Thik hai.\\nExecutive: Thik hai. Aap chahe to sath me likh bhi do cherry brown bhi.\\nCustomer: Cherry brown achha ek kaam karna aap cherry brown ka mere ko ek baar bhej dena mai usko dekh ke agar possible hoga to add kar dungi thik hai mam.\\nExecutive: Thik hai mam mai bhej deti hu. Haan ji haan ji mai aapko photo bhej deti hu.\\nCustomer: Ji ji aap mujhe bhej do aur na wo mail jayegi abhi abhi mam se bol diya.\\nExecutive: Maine bol diya sir ko.\\nCustomer: Thik hai okay mam okay. Haan ji. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asking about product price.\\n\n- Visibility issue on IndiaMART page.\\n\n- Wants to add cherry brown color.\\n\n\\n\nResolution:\\n\n- Executive confirmed the price is \u20b96 per piece.\\n\n- Quantity has been changed.\\n\n- Agreed to send photo of cherry brown color.\\n\n\\n\nNext Steps: \\n\n- Executive will send photo of cherry brown color.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product price, visibility, color addition\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba9d5e2e-8a17-4a4d-ac37-871685c5e17e",
+  "ucid": "ba9d5e2e-8a17-4a4d-ac37-871685c5e17e",
+  "seller_categories": [
+    {
+      "mcat_id": "155325",
+      "mcat_name": "Plastic Wall Plug"
+    },
+    {
+      "mcat_id": "44624",
+      "mcat_name": "Tile Spacers"
+    },
+    {
+      "mcat_id": "25215",
+      "mcat_name": "Curtain Brackets"
+    },
+    {
+      "mcat_id": "23977",
+      "mcat_name": "Cable Clip"
+    },
+    {
+      "mcat_id": "24831",
+      "mcat_name": "Chisel Handles"
+    }
+  ]
+}

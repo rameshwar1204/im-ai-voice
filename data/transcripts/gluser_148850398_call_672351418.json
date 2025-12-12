@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672351418",
+  "gluser_id": "148850398",
+  "vintage_months": 44,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Valsad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698373",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Bolo.\\nExecutive: Hi sir, very good morning. Manisha baat kar rahi thi from IndiaMART se.\\nCustomer: Hmmm.\\nExecutive: Manisha sir, abhi aapne call kiya tha kya IndiaMART ke customer care pe?\\nCustomer: Nahi nahi, koi call nahi kiya.\\nExecutive: Ye 067 kiska number hai sir?\\nCustomer: Mera nahi hai.\\nExecutive: Sir aapka ek concern raise hua hai ki aapko IndiaMART pe disable karna hai account.\\nCustomer: Kya?\\nExecutive: Aapke catalog pe na kisi 067 karke ek number hai jo 88 se start hota hai, theek hai? Usse call aaya hai aur ye bataya gaya hai ki aapko apna account disable karna hai IndiaMART se.\\nCustomer: Nahi nahi, aisa koi nahi hai.\\nExecutive: Aisa nahi hai na? Matlab 067 aapka number nahi hai?\\nCustomer: Nahi nahi, mera number nahi hai.\\nExecutive: Accha, ek second aap line pe hi rahiye, ye abhi aaya hai hamare paas. 11:48 pe sirf 4 minute pehle hi aaya hai.\\nCustomer: Hmm.\\nExecutive: Aur isme aapka naam bhi Manish hi bataya gaya hai jinno matlab jo bhi call kar rahe the, unhone yahi bola tha ki aapka matlab unko apna account disable karna hai.\\nCustomer: Nahi nahi madam. Nahi karna.\\nExecutive: Accha, ye galti se hi hua hai kya?\\nCustomer: Haan, by mistake kisi ne galat connection mein kiya hoga.\\nExecutive: Kisi aur ne kiya hoga na? Accha, ek second line pe rahiye.\\n\\n(silence)\\nCustomer: Hello.\\n\\nExecutive: Sir, main na ek baar yahan par ye update dal deti hu ki aapki side se koi call nahi aaya hai. Theek hai, ye na concern raise ho gaya tha, ho sakta hai kuch galti hamare backend se hui ho. Theek hai, to ye main aapka ticket jo raise hua tha, ye close kar deti hu, theek hai sir?\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai. Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's account disable request received.\\n\nResolution:\\n\n- Verified customer did not request account disabling.\\n\n- Executive closed the ticket.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account disabling, verification, ticket closing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e4110ab9-659a-48de-a76e-13fef3366499",
+  "ucid": "e4110ab9-659a-48de-a76e-13fef3366499",
+  "seller_categories": [
+    {
+      "mcat_id": "12795",
+      "mcat_name": "Dicalcium Phosphate"
+    },
+    {
+      "mcat_id": "44103",
+      "mcat_name": "Intermediate Chemicals"
+    },
+    {
+      "mcat_id": "37001",
+      "mcat_name": "Sodium Hypochlorite"
+    },
+    {
+      "mcat_id": "126395",
+      "mcat_name": "P Toluenesulfonic Acid"
+    },
+    {
+      "mcat_id": "35474",
+      "mcat_name": "Potassium Permanganate"
+    }
+  ]
+}

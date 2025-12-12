@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667946588",
+  "gluser_id": "237585069",
+  "vintage_months": 7,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Osmanabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646737",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says hello multiple times.\\n\n\\n\nResolution:\\n\n- No resolution as the call seems to be unanswered.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- unanswered call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28a7780d-9695-4cfa-b81c-72a2213c9d6e",
+  "ucid": "28a7780d-9695-4cfa-b81c-72a2213c9d6e",
+  "seller_categories": [
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "4069",
+      "mcat_name": "Dhaniya Powder"
+    },
+    {
+      "mcat_id": "5316",
+      "mcat_name": "Mutton Masala"
+    },
+    {
+      "mcat_id": "3793",
+      "mcat_name": "Chilli Powder"
+    }
+  ]
+}

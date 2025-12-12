@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675655098",
+  "gluser_id": "225903089",
+  "vintage_months": 3,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Barabanki",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan Ajay ji. Haan Pranshu bol raha hun India Mart se. Ye keh raha ek cheez bhul gaya tha main aapse isliye maine call back kiya hai. Jaise aap bata rahe ho na ki aapko business nahi mil raha hai India Mart se. Ji ji. To isliye aap ye bataiye aapke jo main relevant product kaun se hain? Kis mein sabse jyada deal karte ho? Like sanitary pad vgera hai lemon ki. Nahi nahi main jo hai apna man lijiye ye lemon hai aur guava hai. Aur clone hai ye matlab plantation mein matlab main hai.\\nCustomer: Achcha.\\nExecutive: Ji ji. To isme ek sanitary pad bhi pada hua hai wo bhi product hai kya aapka? Ji ji wo bhi hai. Achcha wo bhi hai lemon aur popular plant yahi sab matlab isme jaise kaise kis prakar se matlab deal karte ho matlab jaise inka guava ka plant guava plants ka man lijiye aapke paas aa gaya. To man lijiye aapke paas bulk comment aaye to kaise kya deliver karte ho ki ye to bade chhote plant rehte hain bade? Nahi nahi plant chhote rehte hain plant ye man lijiye guava ka hai to ye lag ek se do feet height mein rehta hai.\\nCustomer: Achcha.\\nExecutive: Ji. Okay. Theek hai main aisa karta hun aapke sare relevant keyword vgera update karwa deta hun to aapke paas lead aana start ho jaye. Theek hai? Ji ji ji ji. Okay okay sir thank you. Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting business from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive offered to update relevant keywords.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product, keywords, plantation\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a49f85b9-4b49-4382-b0a2-354051c67f1d",
+  "ucid": "a49f85b9-4b49-4382-b0a2-354051c67f1d",
+  "seller_categories": [
+    {
+      "mcat_id": "154572",
+      "mcat_name": "Eucalyptus Clone Plants"
+    },
+    {
+      "mcat_id": "186261",
+      "mcat_name": "Eucalyptus Plant"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "74006",
+      "mcat_name": "Sanitary Pad"
+    },
+    {
+      "mcat_id": "8396",
+      "mcat_name": "Sanitary Napkins"
+    }
+  ]
+}

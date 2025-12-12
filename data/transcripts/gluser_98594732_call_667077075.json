@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667077075",
+  "gluser_id": "98594732",
+  "vintage_months": 8,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630699",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan.\\nExecutive: Ya sir Shah Nawaz baat kar raha tha aapka account manager abhi company mere ko assign hui hai.\\nCustomer: Ji ji sir ji batao.\\nExecutive: Haan to aapka aaj matlab kuch problems vagaira aa rahi thi aur wo account manager se bhi kuch dikkat vagaira thi isliye mere ko assign kiya gaya sir, theek hai?\\nCustomer: Hmm.\\nExecutive: Ab aage se main hi handle karunga. Aur aapki jo problem aaj wali thi concerns jo Meenakshi mam ne aapko guide kari thi sari cheeze to wo solve ho gayi na sir?\\nCustomer: Ab deliver ho jaye tab to samjhenge ki solve hui ya nahi hui. Abhi tak deliver nahi hua sir tab kaise manenge ki problem solve hua ya nahi hua. Kyunki aisa pichle wale ne bataya gaya tha ki haan sir aadmi nikal raha hai aapke yahan se.\\nExecutive: Hmm.\\nCustomer: Okay okay theek hai sir to jhoot bol raha hai mere ko pata nahi hai na.\\nExecutive: Theek hai aise aapki concern yahi thi na sir ki wo kuch isko related le ki thi na sir jo Meenakshi mam se aapki kis ke regarding baat hui thi?\\nCustomer: jo deliver kiya jata hai. Haan haan wahi. Wo sir delivered ke liye aa jayega main team se bhi coordinate maine kar liya TrustSeal ka certificate ke regarding hi na sir?\\nExecutive: Haan.\\nExecutive: Haan haan to wo delivered ho jayega sir kabhi kabhi usme couriers vagaira mein aur sari cheezon mein time lagti hai but wo delivered 110% ho jayega by courier.\\nCustomer: Wo to pehle pata to chale ki aapke yahan se nikla bhi ya nahi nikla print hua ki nahi hua. Ye bhi ab tak pata nahi hai kisi ko. Deliver hona shuru tab aata hai, hai na?\\nExecutive: Hmm.\\nCustomer: Isliye kya hai nahi hai abhi pata hai kya hai na aapko bhi pata hoga jab tak print nahi hoga tab tak kahan se niklega wahan se.\\nExecutive: Theek hai to main koi dikkat nahi hai sir iske regarding agar jo bhi updates vagaira hoga main leke aapko de dunga aapko concern ki koi zarurat nahi hai main team se discuss kar lunga sari cheeze aur aapko update kar dunga sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- TrustSeal certificate not delivered yet.\\n\n- Wants to know if certificate has been printed.\\n\n\\n\nResolution:\\n\n- Executive assured delivery of TrustSeal certificate.\\n\n- Executive will coordinate with team for updates.\\n\n\\n\nNext Steps: \\n\n- Executive will provide updates to customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, certificate, delivery, updates\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a7116c8-fd33-41ca-be31-e9f30a4cbc9c",
+  "ucid": "2a7116c8-fd33-41ca-be31-e9f30a4cbc9c",
+  "seller_categories": [
+    {
+      "mcat_id": "49996",
+      "mcat_name": "Camphor Tablet"
+    },
+    {
+      "mcat_id": "214743",
+      "mcat_name": "Bhimseni Camphor"
+    },
+    {
+      "mcat_id": "5481",
+      "mcat_name": "Camphor"
+    },
+    {
+      "mcat_id": "138643",
+      "mcat_name": "Camphor Powder"
+    },
+    {
+      "mcat_id": "154312",
+      "mcat_name": "Smokeless Camphor"
+    }
+  ]
+}

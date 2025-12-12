@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673532434",
+  "gluser_id": "155333307",
+  "vintage_months": 4,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Rajpur Sonarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ha hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello, aawaz aa rahi hai?\\nExecutive: Ha. IndiaMART se bol rahe hain?\\nCustomer: Bol raha hu.\\n\\nCustomer: Vikram baat kar raha hu sir Rajasthan se.\\nExecutive: Ha ji ji Vikram sir, Veer sir Abdul bol raha hu sir, ji sir.\\nCustomer: Abdul ji mere bande ka phone aaya tha IndiaMART logout ho gaya kisi ne chedchad kiya hai kya mere account se?\\n\\nExecutive: Kya?\\nCustomer: Mere executive ka phone aaya tha ki sir IndiaMART logout ho gaya. Kisi ne chedchad kiya hai kya mere account mein?\\n\\nExecutive: Ek second rukiye sir line pe rahiye aap.\\nCustomer: Ji sir bataiye sir please kya hua sir?\\nExecutive: Keh raha hu mere executive ka phone aaya tha ki account logout ho rakha hai. Kisi ne chedchad kiya hai kya mere account se?\\nExecutive: Nahi nahi sir kisi ne koi kaise kar sakta hai wo to access aapke paas hota hai na.\\nCustomer: Hum log kaise kar sakte hai koi bhi nahi kar sakta na logout wo to aapke device pe hota hai.\\nCustomer: Mai wahi keh raha hu sir aisa possible to nahi hai chaliye mai karta hu sir check karta hu bolta hu ladke ko check karne.\\nExecutive: Ji ji, theek hai.\\nCustomer: Theek hai Abdul ji kal ho jayega kal mai officially office pahunch jaunga.\\nExecutive: Ji.\\nCustomer: Hai na?\\nExecutive: Theek hai, okay.\\nCustomer: Theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART account logged out.\\n\nResolution:\\n\n- Executive confirmed only customer has access.\\n\n- Executive will check with his team.\\n\n\\n\nNext Steps: \\n\n- Executive will check with his team.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, logout, access, executive\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=034af3aa-0658-4f5e-9422-833724437461",
+  "ucid": "034af3aa-0658-4f5e-9422-833724437461",
+  "seller_categories": [
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "143856",
+      "mcat_name": "3D Wall Panel"
+    },
+    {
+      "mcat_id": "166726",
+      "mcat_name": "Elevation Tile"
+    }
+  ]
+}

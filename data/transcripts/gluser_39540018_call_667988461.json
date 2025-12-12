@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667988461",
+  "gluser_id": "39540018",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685983",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan ji. Good morning.\\nCustomer: Raju Mishra se baat kar raha hu sir India Mart se. Raju Mishra lead nahi aa rahi hai aapko jab ticket raise ho jati hai tab aap mere ko call karte ho usse pehle aapko koi matlab nahi hai lead aa rahi hai ya nahi aa rahi. Pehle uski lead sahi karo uske baad baat karenge hum.\\nExecutive: Nahi nahi usi point pe baat karni hai sir. Kaha ja raha hai aapke sath nahi usi point pe baat kari thi jo baat kari us din us din ke sath baat kari unhone mere se ye kaha ki dekhiye itni leads aayi hai aur hamare pass bulk lead nahi aa rahi hai to us point pe humne baat kari apne senior se ki inke pass is prakar ki aa rahi hai. To unhone ye kaha ki aap unse ek bar jo wallet consume kiya gaya us pe dekhiye to unhone maine unse ye bataya ki dekhiye mam aapne bulk wallet bhi consume kari hai retail wallet bhi consume kari hai. Maine unke samne discuss bhi kiya.\\nCustomer: Lead lapse ho jayegi agar nahi karenge to retail ko.\\nExecutive: Sir nahi bilkul agar consume nahi karenge to wo lapse ho jayegi. Bilkul lekin waha pe agar unhone 10 wallet consume kare 10 me se lagbhag aath lead aisi thi jo bulk wallet ki thi. To main aapke sath bol nahi sakta bulk wallet bulk wallet jiski quantity lagbhag 500 thi. Mere pass bhi record hai aur main meeting kara dunga kriti ke sath main aapko share kar denge kon kon si lead kya kya thi kis tarah ki lead thi bilkul fake lead a rahi hai mujhe koi ticket raise karne ka shauk nahi hai.\\nCustomer: Nahi mujhe koi shauk nahi hai hum aapko ticket raise kare aapko matlab degrade kare.\\nExecutive: Nahi nahi point sahi hai humne paisa diya hai hume kam karna hai hume. Sir usi point pe to isi baat me to maine us din kriti mam se maine isi baat me to bola ki aap aur sunil sir dono log rahenge unhone kaha theek hai hum aaj kis liye mujhe ye batao kis liye.\\nExecutive: Sir aapko bhi idea hai.\\nCustomer: Aapko unhone bata diya ki dekho ye aisi aisi lead aa rahi hai aur is prakar ki lead aa rahi hai.\\nExecutive: Unhone nahi bataya maine check kiya maine check kiya ek din data utha ke maine ki kriti lead nahi hai.\\nCustomer: Hmm hmm.\\nCustomer: Boli sir main kai bar Raju ko bol chuki hu unhone mere ko ye bhi bola ki nahi sir ticket nahi karte fir uske baad fir koi response nahi aaya as it is flow raha uske baad fir maine kaha ticket raise karo uske baad baat karenge fir. Bilkul maine isliye kriti ko bola maine ki kriti kyu favor kar rahe ho aap Raju ka aap kyu nahi ticket raise kar rahe ho.\\nExecutive: Ji favor karne ki baat hi nahi hai sir ticket raise karne ke baad bhi agar main us point pe kam kar raha hu aur even though kam dikha bhi raha hu uske baad bhi.\\nCustomer: Bhai hume pura flow milega to definite hum kyu ticket raise karenge bas seedhi si baat ye hai. Samajhne samjhane wali baat kya hai ticket hume apne aap flow dikh jayega to obviously baat hai hum ticket nahi raise karenge jab flow hume down lagega to ticket raise karenge. Baat khatam.\\nExecutive: Bilkul. Main ab us point pe main phone isliye maine phone nahi kiya bas aapko maine phone isliye kiya ki taki aap bhi jao hum video meeting ke sath baat kare kyuki hum agar hum ye batao kis topic pe kya baat karoge ye batao.\\nExecutive: Sir hamare pass jo by leads aa rahi hai usko leke ki agar hamare pass abhi aapne kaha na ki bulk wallet consume kari but uski lead quality achi nahi thi abhi aapne kaha na ab hamare pass main aapko ye bhi batana chahta hu sir ki hamare pass jo buyer requirement post kar raha hai theek hai maine yahi baat mam se bola ki mam agar main baitha hu delhi me aur koi banda lucknow me aap isko flow karo isko flow ko theek karo uske baad baat karenge.\\nCustomer: Uske baad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer complains about poor lead quality.\\n\n- Customer states fake leads are being received.\\n\n- Customer questions why tickets are not raised.\\n\n\\n\nResolution:\\n\n- Executive stated he will arrange a meeting.\\n\n- Executive asked customer to fix the flow.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, ticket, quality, flow\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 176,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4fa7c4e3-367b-4c99-8056-6bf831809d83",
+  "ucid": "4fa7c4e3-367b-4c99-8056-6bf831809d83",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "185474",
+      "mcat_name": "RFID Lock"
+    },
+    {
+      "mcat_id": "86057",
+      "mcat_name": "Fingerprint Door Lock"
+    },
+    {
+      "mcat_id": "105867",
+      "mcat_name": "Hotel Lock"
+    }
+  ]
+}

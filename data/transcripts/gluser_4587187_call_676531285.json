@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676531285",
+  "gluser_id": "4587187",
+  "vintage_months": 9,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Guntur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720627",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Sir, Swati bol rahi hu IndiaMART se. Sorry call disconnect ho gayi thi, aawaz aa rahi hai aapko?\\nCustomer: Tell me mam, tell me.\\nExecutive: Okay, sir, I am saying actually your service is running with IndiaMART, right?\\nCustomer: Mam, mam, I am not interested. I am not interested in your service.\\nExecutive: Sir, I am not, I am not, I am not calling for any other services, sir. Just, just calling you for your services.\\nCustomer: My services, my services is very bad. My services is very bad. You will, you will check one time. You, you are not, I am not interested in any person. I am not interested in any person.\\nExecutive: That's why I called you for solution, sir. Sir, I called you for solution, only for solution.\\nCustomer: I am not talking, I am not talking.\\nExecutive: Sir, I am just calling you only for the solution, solution like how I can help you if you are telling me any like what issue you are facing, sir?\\nCustomer: I know mam, I know mam, I know mam. But all members is the, all members is the only one call. Solution, I will give the solution, I will give the solution, all members. One minute, one minute, please listen, please listen first.\\nExecutive: Sir, definitely.\\nCustomer: I am in, I am many times, six months mein, six months mein your managers, many managers they are calling. Many managers one hour, one hour I am telling, I am telling. But all, all, all persons is the first, first recording and next time, next time don't, don't go to any, any one type of order also not given.\\nMy orders, my orders one order also not received, mam.\\nExecutive: Sir, see. Very, very, very, very, very, very fake, fake is the IndiaMART. IndiaMART is the, I am not accepted. I am not interested. I am already, I am already next year, one year also another year also available hai na. You remove karo, remove karo, no problem IndiaMART mein my number.\\nCustomer: I am not interested in your, in your, in your solution se, solution, in your help. Many, many times all persons is the same to same commitment. I will give the help, I will give the help, I will give the help. One product also you are not introducing, mam.\\nExecutive: Sir, but listen, I just call you for services, Swati is handling your services and if you can confirm me see, see conversion we are not assuring for conversion but we are giving you for the relevant leads and buyleads and inquiry messages, right? So she is working on your catalog on keywords.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting any orders through IndiaMART.\\n\n- Previous managers gave false commitments.\\n\n- Wants to remove number from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive explained services are being handled by Swati.\\n\n- Executive clarified they provide relevant leads and buyleads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, services, catalog, keywords\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 171,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a609f66-5e8f-43aa-b478-300f05b0e5fb",
+  "ucid": "4a609f66-5e8f-43aa-b478-300f05b0e5fb",
+  "seller_categories": [
+    {
+      "mcat_id": "192537",
+      "mcat_name": "Luliconazole Cream"
+    },
+    {
+      "mcat_id": "126721",
+      "mcat_name": "Itraconazole Capsule and Tablet"
+    },
+    {
+      "mcat_id": "192674",
+      "mcat_name": "Diclofenac Diethylamine Gel"
+    },
+    {
+      "mcat_id": "127532",
+      "mcat_name": "Lycopene Capsule"
+    },
+    {
+      "mcat_id": "158580",
+      "mcat_name": "Herbal Digestive Enzyme Syrup"
+    }
+  ]
+}

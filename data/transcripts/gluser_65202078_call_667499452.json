@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667499452",
+  "gluser_id": "65202078",
+  "vintage_months": 7,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Wada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHaa mam?\\nYes sir, aapne sir mujhe GST aur woh nahi bheja abhi tak. Theek hai, aap jab bhi GST mein, haa mein thoda sa update kar leta hu GST pe kyunki update nahi hai.\\nEk baat sun lijiye, sir baat sun lijiye. Aapko sir mail pe ek aayega feedback form, theek hai? Usse sir satisfied mention kar dijiye, theek hai? Abhi sir paanch minute mein aayega aapko, theek hai?\\nChalega, theek hai.\\nHaa aapke registered mail pe aa raha hai sir, theek hai? Woh aap please kar dijiyega satisfied, theek hai? IndiaMART ke customer care se hai. Okay?\\nOkay.\\nOkay, aur raat tak sir mujhe GST bhi bhej dijiyega toh mein aapka verify. Haa mein woh address aur yeh update kar leta hu phir aapko bhej deta hu.\\nJi sir, okay sir.\\nAap sir mail pe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received GST document.\\n\n- Executive requests customer to fill feedback form.\\n\n\\n\nResolution:\\n\n- Executive will update address and send GST.\\n\n- Customer agreed to fill the feedback form.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, feedback, verification, address\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=923b3ac2-f380-4cdf-a038-ce31f31a262d",
+  "ucid": "923b3ac2-f380-4cdf-a038-ce31f31a262d",
+  "seller_categories": [
+    {
+      "mcat_id": "3343",
+      "mcat_name": "Water Based Inks"
+    },
+    {
+      "mcat_id": "280918",
+      "mcat_name": "Texcron Pigment Emulsion"
+    },
+    {
+      "mcat_id": "191771",
+      "mcat_name": "Water Based Screen Printing Inks"
+    },
+    {
+      "mcat_id": "34329",
+      "mcat_name": "Pigment Powders"
+    },
+    {
+      "mcat_id": "5935",
+      "mcat_name": "Pigment Emulsion"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "674260880",
+  "gluser_id": "249310856",
+  "vintage_months": 1,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Virudhunagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700378",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, sir, speaking from IndiaMART, sir.\\nCustomer: Yeah, really?\\nExecutive: Sir, speaking from IndiaMART, sir.\\nExecutive: Hello, sir, can you hear me? I am speaking from the back end team of IndiaMART. Can you hear me?\\nCustomer: Yeah, yeah.\\nExecutive: Fine, fine, fine. So, from IndiaMART, we are calling from the back end team.\\nExecutive: Okay.\\nExecutive: So, a small information I wanted to tell you. Okay?\\nCustomer: Okay, okay.\\nCustomer: I am in a meeting. Can I call back?\\nCustomer: I am not able to hear you properly.\\nExecutive: Okay, okay. So, what time should I call?\\nCustomer: 15 minutes.\\nExecutive: 15, 15 minutes.\\nCustomer: Okay, 15 minutes.\\nExecutive: Okay, sir, okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is in a meeting.\\n\n- Customer is unable to hear properly.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, meeting, indiaMART\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e054612-b34d-4369-9860-5c09614c3d45",
+  "ucid": "6e054612-b34d-4369-9860-5c09614c3d45",
+  "seller_categories": [
+    {
+      "mcat_id": "41422",
+      "mcat_name": "Wood Charcoal"
+    },
+    {
+      "mcat_id": "21045",
+      "mcat_name": "Charcoal"
+    },
+    {
+      "mcat_id": "132780",
+      "mcat_name": "Coconut Shell Charcoal"
+    }
+  ]
+}

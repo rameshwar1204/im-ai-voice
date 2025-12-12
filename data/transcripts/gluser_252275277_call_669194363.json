@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669194363",
+  "gluser_id": "252275277",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Tamluk",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ha good morning sir, main Kadir bol raha tha IndiaMART se.\\nCustomer: Ha?\\nExecutive: Kadir bol raha tha IndiaMART se.\\nCustomer: Ha ha ek minute rukiye baat kar raha tha.\\n(silence)\\nCustomer: Hello.\\nExecutive: Ha good morning Kadir bol raha tha IndiaMART se.\\nCustomer: Hmm boliye.\\nExecutive: Aapki baat hui thi Shailender ji se.\\nCustomer: Hmm bolo kya.\\nExecutive: Unhone shayad update kiya tha mujhe ki shayad aapko listing service ke liye jaane ke liye.\\nCustomer: To price ke liye kuch issue chal raha tha price ke liye.\\nExecutive: Price ke liye.\\nCustomer: To aapko to pata hoga ki sir to kya issue maine abhi karna kya hai wo bataiye mujhe kyuki dekhiye aap log dono ek dusre ko jante ho jo proposal main unko share karta hu wahi proposal aapko wo share karte hai.\\nCustomer: Thik hai mere ko proposal bhejiye main ek baar check karta hu whatsapp me bhejiye.\\nExecutive: Kya hua?\\nCustomer: Whatsapp me bhejiye wo proposal.\\nExecutive: Aaj karna hai isko final to bataiye main jo bhi hoga final karke main aap kar denge.\\nCustomer: Ha ji karega mere ko payment mera aaj hi karega.\\nExecutive: Payment full karoge ya kaise karoge?\\nCustomer: Full karega.\\nExecutive: Full karega full karoge na ek final proposal main aapko share karta hu kitne baje main call karu aapko.\\nCustomer: Mere ko proposal bhejiye mere ko phone kar lijiye bas.\\nExecutive: Okay.\\nExecutive: Thik hai main bhejta hu aapko isi number pe whatsapp hai aapka?\\nCustomer: Ha isi number pe.\\nExecutive: Thik hai sir main abhi bhejta hu okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had price issues for listing service.\\n\nResolution:\\n\n- Executive agreed to send proposal on WhatsApp.\\n\n- Customer agreed to make full payment today.\\n\n\\n\nNext Steps: \\n\n- Executive will send proposal on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- listing service, proposal, payment\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=49725c9a-2a1e-4a93-b4bd-cea681a03dc6",
+  "ucid": "49725c9a-2a1e-4a93-b4bd-cea681a03dc6",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

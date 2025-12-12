@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672483486",
+  "gluser_id": "90358125",
+  "vintage_months": 36,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Radaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684101",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan sir, main ye keh raha tha ek baar apni gmail id khol lenge sir?\\nExecutive: Meri bio.tejas@gmail.com\\nCustomer: Haan wahi wali is ispe apne phone mein ek baar khol lijiye sir ek mail aaya hoga Indiamart ki taraf se.\\nExecutive: Sir main abhi bahar hun main jaise hi office pahunchunga main kar lunga.\\nCustomer: Theek hai sir theek hai usme bas certified mark kar dena theek hai na?\\nExecutive: Theek theek.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to open Gmail ID (bio.tejas@gmail.com) on phone.\\n\n- Request to mark as certified on the mail received from Indiamart.\\n\n\\n\nResolution:\\n\n- Executive will do it once he reaches the office.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will take action upon reaching the office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngmail, indiamart, certified\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a528c81e-e812-4687-8e3e-005a40ca48ae",
+  "ucid": "a528c81e-e812-4687-8e3e-005a40ca48ae",
+  "seller_categories": [
+    {
+      "mcat_id": "188742",
+      "mcat_name": "Cattle Feed Supplement"
+    },
+    {
+      "mcat_id": "181647",
+      "mcat_name": "Animal Feed Supplement"
+    },
+    {
+      "mcat_id": "656463",
+      "mcat_name": "Veterinary Medicine Manufacturing Service"
+    },
+    {
+      "mcat_id": "7240",
+      "mcat_name": "Poultry Feed Supplements"
+    },
+    {
+      "mcat_id": "222851",
+      "mcat_name": "Pet Feed Supplements"
+    }
+  ]
+}

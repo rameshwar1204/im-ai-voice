@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670306414",
+  "gluser_id": "22171472",
+  "vintage_months": 100,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Raigad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9668982",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nExecutive: Haan mam aap Bhumika ji baat kar rahe hain?\\nCustomer: Haan mam main Bhumika baat kar rahi hoon par main abhi lunch pe aayi hoon main aapko thodi der mein se call lagaun only 15 minutes.\\nExecutive: Okay okay mam okay theek hai ji. Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call back in 15 minutes as she is on lunch.\\n\n\\n\nResolution:\\n\n- Executive agreed to wait for the customer's call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, lunch\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6245f452-02d8-4047-b2ec-ef91a509d831",
+  "ucid": "6245f452-02d8-4047-b2ec-ef91a509d831",
+  "seller_categories": [
+    {
+      "mcat_id": "86320",
+      "mcat_name": "FRP Fencing"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "183525",
+      "mcat_name": "FRP Underground Water Storage Tanks"
+    },
+    {
+      "mcat_id": "223066",
+      "mcat_name": "Biofloc Fish Farming Tank"
+    },
+    {
+      "mcat_id": "29030",
+      "mcat_name": "Industrial FRP Pipe"
+    }
+  ]
+}

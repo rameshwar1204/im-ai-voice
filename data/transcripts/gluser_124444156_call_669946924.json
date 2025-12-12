@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669946924",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Vijay bhai.\\nExecutive: Hello ha ji Sabir bhai.\\nCustomer: Ha ha hum jungle mein hai abhi.\\nExecutive: Jungle ho abhi aap.\\nCustomer: Ha ha to kal subah baat kare.\\nExecutive: Achcha kal subah baat ho payegi kya.\\nCustomer: Ha bas main bas ek hi baat puchni thi wo aapke pass ek madam ka call aaya hoga unko share kar diya sab kuch ho gaya ha.\\nExecutive: Aapne unko approval dal diya hosting ke liye approval unka mere pass sab mera hai.\\nCustomer: Ha sab tak unko bol diya Friday ko karane ke liye live theek hai.\\nExecutive: Kab bolne ke liye live karne ke liye bola aapne unko Friday ko.\\nCustomer: Shukrawar shukrawar ha.\\nExecutive: Shukrawar ko to mere pass itna kehna tha ki kam na sara karwa lena catalog ke andar jo bhi pending kam hai na aapka catalog ke andar.\\nCustomer: Bhaiya shukrawar karane ka zimmevari aapka hai hum aapka zaban pe kam kar rahe hain.\\nExecutive: Nahi wo to theek hai wo theek hai bas main keh raha ki jitne bhi prakar ke aapke.\\nCustomer: Abhi hathi nikal raha hai bhaiya abhi hathi nikal raha hai.\\nExecutive: Kabhi gali ke samne hathi aa jaye pata nahi.\\nCustomer: Kya bol rahe ho.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm catalog work completion.\\n\n\\n\nResolution:\\n\n- Executive confirmed catalog work should be completed.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, hosting, friday, approval\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=466496cb-faf1-4959-82c0-020e7ebdd940",
+  "ucid": "466496cb-faf1-4959-82c0-020e7ebdd940",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

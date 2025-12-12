@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675425459",
+  "gluser_id": "65785410",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruvallur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706690",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0bb9\u0bb2\u0bcb\\nCustomer: \u0bb9\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bae\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95 \u0bae\u0bc7\u0bae\u0bcd\\nExecutive: \u0bb9\u0bb2\u0bcb\\nCustomer: \u0bb9\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bae\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95 \u0b87\u0baa\u0bcd\u0baa \u0b95\u0bc7\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bc1\\nExecutive: \u0bb9\u0bb2\u0bcb\\nCustomer: \u0bb9\u0bb2\u0bcb \u0bae\u0bc7\u0bae\u0bcd \u0b95\u0bc7\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe?\\nExecutive: \u0bb9\u0bb2\u0bcb\\nCustomer: \u0bb9\u0bb2\u0bcb \u0bae\u0bc7\u0bae\u0bcd \u0b95\u0bc7\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe?\\nExecutive: \u0bb9\u0bb2\u0bcb\\nExecutive: \u0bb9\u0bb2\u0bcb\\nExecutive: \u0bb9\u0bb2\u0bcb\\nExecutive: \u0bb9\u0bb2\u0bcb\\nExecutive: \u0bb9\u0bb2\u0bcb\\nCustomer: \u0bb9\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0bae\u0bcd \u0b95\u0bc7\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe?\\nExecutive: \u0bb9\u0bb2\u0bcb\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is checking if the executive can hear them.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nconnectivity issues\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b0e6188d-b8fe-46c8-8645-38fc81c6f4d5",
+  "ucid": "b0e6188d-b8fe-46c8-8645-38fc81c6f4d5",
+  "seller_categories": [
+    {
+      "mcat_id": "150841",
+      "mcat_name": "EPE Foam Roll"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "195041",
+      "mcat_name": "Used Wooden Pallets"
+    },
+    {
+      "mcat_id": "85843",
+      "mcat_name": "Air Bubble Roll"
+    },
+    {
+      "mcat_id": "80348",
+      "mcat_name": "Foam Sheet"
+    }
+  ]
+}

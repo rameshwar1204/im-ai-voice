@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "670104051",
+  "gluser_id": "141051064",
+  "vintage_months": 48,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello?\\nExecutive: Uh very good morning sir.\\nCustomer: Good morning.\\nExecutive: Sir Pooja baat kar rahi thi India Mart head office se.\\nCustomer: Nahi ma'am thank you very much ma'am thank you.\\nExecutive: Sir actually JP traders ke regarding baat karna tha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wanted to discuss JP traders.\\n\n\\n\nResolution:\\n\n- Customer declined the conversation.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. None.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- jp traders, india mart\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=333b1f8b-27d1-4589-baaf-d24bf70ca7bc",
+  "ucid": "333b1f8b-27d1-4589-baaf-d24bf70ca7bc"
+}

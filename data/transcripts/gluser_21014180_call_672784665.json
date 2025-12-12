@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672784665",
+  "gluser_id": "21014180",
+  "vintage_months": 60,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Fazilka",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9682999",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "\u092f\u0947 \u0930\u093f\u0932\u093e\u092f\u092c\u0932\\n\u0935\u093f\u0935\u0947\u0915 \u0924\u0941\u092e\u0928\u0947 \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u092e\u0940\u091f\u093f\u0902\u0917 \u0915\u0940 \u0925\u0940 \u0915\u0932?\\n\u0907\u0902\u092b\u0949\u0930\u094d\u092e \u0915\u0930 \u0926\u093f\u092f\u093e \u092c\u0940\u090f\u0938\u091c\u0940 \u0915\u094b \u092d\u0940 \u0917\u093e\u0921\u093c\u0940\\n\u0939\u0947\u0932\u094b\\n\u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u091c\u0940\u0964\\n\u0935\u0947\u0930\u0940 \u0917\u0941\u0921 \u0906\u092b\u094d\u091f\u0930\u0928\u0942\u0928 \u0938\u0930, \u0938\u0902\u0927\u0942 \u0938\u094d\u091f\u0940\u0932 \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0906\u092a?\\n\u0915\u094d\u092f\u093e \u0915\u0930 \u0930\u0939\u0947 \u0939\u094b?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Whether Vivek did the video meeting yesterday.\\n\n- Informing BSG about the vehicle.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\nNeutral\\n\n\\n\n@@@Key Topics:\\nvideo meeting, vehicle, bsg\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8686ba6-9b60-4e43-a360-7b986f635a2c",
+  "ucid": "a8686ba6-9b60-4e43-a360-7b986f635a2c",
+  "seller_categories": [
+    {
+      "mcat_id": "177179",
+      "mcat_name": "Hydraulic Iron Cutting Bending Press"
+    },
+    {
+      "mcat_id": "144177",
+      "mcat_name": "Hydraulic Cutting Machine"
+    },
+    {
+      "mcat_id": "154272",
+      "mcat_name": "Hydraulic Press Cutting Machine"
+    },
+    {
+      "mcat_id": "148504",
+      "mcat_name": "Angle Cutting Machine"
+    },
+    {
+      "mcat_id": "147432",
+      "mcat_name": "Metal Sheet Bending Machine"
+    }
+  ]
+}

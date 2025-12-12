@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669748903",
+  "gluser_id": "23551528",
+  "vintage_months": 36,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661457",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Ramesh Deshpande ji se baat ho rahi hai meri Aurangabad se?\\nCustomer: Sorry sir, Ramesh Tapate.\\nExecutive: Ramesh, sorry, Ramesh Tapate, right?\\nCustomer: Ji, haan, right.\\nExecutive: Ji, mam, aapka mujhe concern mila tha sir, aapne\\nCustomer: Ek minute, phir se baat kijiye sir.\\nExecutive: Ji.\\nCustomer: Hello.\\nExecutive: Hello sir.\\nCustomer: Haan boliye.\\nExecutive: Sir, main Rahul, Rahul Gurjar baat kar raha hu IndiaMART se, aapka account manager.\\nCustomer: Haan boliye.\\nExecutive: Ji sir, aapko mujhe concern mila hai sir, aapne\\nCustomer: Kya mila hai?\\nExecutive: Aapka concern mila hai sir, Sri Rana ji customer and told that he want to speak.\\nCustomer: Please, haan.\\nExecutive: Call kiya tha sir aapne hamare isko? Haan, sir, mail mila aapne 9696 pe call kiya tha na hamare? To kya concern hai aapka?\\nCustomer: Wo last mein 65 lagaao sir.\\nExecutive: Hello.\\nCustomer: Ye number pe last, last pe 65 lagaao.\\nExecutive: Haan ji, haan, theek hai.\\nCustomer: Ye number pe last mein 65 lagaaye.\\nCustomer: Haan, wo sales wale bande ka number hai.\\nExecutive: Usse baat karni hai hame?\\nCustomer: Haan.\\nExecutive: Achcha.\\nCustomer: Usne, usne phone kiya hoga, uska kuch rahega doubt to wo clear kar do, uska kya rahega. Mujhe bhi pata nahi wo kya hai to.\\nExecutive: Achcha, achcha, to uska ek kaam mujhe number do aap salesman ka sir.\\nCustomer: Ye mera jo number hai na uske piche five five lagane ka hai last mein.\\nExecutive: Six, aapka jo number hai mere ko yaha pe dikh raha hai. 67 hai na last mein 65 lagane ka hai.\\nExecutive: Theek hai, 67 ki jagah 65 karna hai, okay?\\nCustomer: Haan, theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to connect with the salesperson.\\n\n- Wants to change the last two digits of number.\\n\n\\n\nResolution:\\n\n- Executive asked for the salesperson's number.\\n\n- Executive noted the number change request.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- salesperson, number change, concern\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8c2e5b1-22da-44f6-b1cc-8e9ad413ee0f",
+  "ucid": "a8c2e5b1-22da-44f6-b1cc-8e9ad413ee0f",
+  "seller_categories": [
+    {
+      "mcat_id": "36883",
+      "mcat_name": "Rotary Encoders"
+    },
+    {
+      "mcat_id": "33643",
+      "mcat_name": "MS Connector"
+    },
+    {
+      "mcat_id": "69007",
+      "mcat_name": "DC Cooling Fan"
+    },
+    {
+      "mcat_id": "108101",
+      "mcat_name": "Lithium Primary Battery"
+    },
+    {
+      "mcat_id": "20911",
+      "mcat_name": "CNC Controllers"
+    }
+  ]
+}

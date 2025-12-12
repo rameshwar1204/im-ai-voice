@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668135560",
+  "gluser_id": "28772701",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello, hi sir, good afternoon. I am Anju speaking from IndiaMART.\\n\\nCustomer: Ji, bataiye.\\n\\nExecutive: Uh, kal aapka call aaya tha, uh, aapke end se, sir kya issue aa raha hai?\\n\\nCustomer: Shayad bhaiya ne kiya hoga.\\n\\nExecutive: A may be ho sakta hai sir. Ji ji. Ha, Veeraj ji ne call kiya hua kal. Mai discuss kar leta phir mai aapko call back karta hu.\\n\\nExecutive: Ji, aap sir ek bar unse discuss kar lijiye kya issues hai. Aap ek bar unse connect karwa dijiye mujhe.\\n\\nCustomer: Mai discuss, mai abhi lunch pe hu mam. Sir mai abhi lunch karne ko office ja raha hu wapas. To aapko call back karta hu.\\n\\nExecutive: Thik hai, thik hai.\\n\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue and called yesterday.\\n\n- Customer is currently at lunch.\\n\n\\n\nResolution:\\n\n- Executive asked to connect with the person who called.\\n\n- Customer will call back after lunch.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, issue, callback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b0fd1057-3887-4035-9faf-17d59f6f0dbe",
+  "ucid": "b0fd1057-3887-4035-9faf-17d59f6f0dbe",
+  "seller_categories": [
+    {
+      "mcat_id": "167696",
+      "mcat_name": "Pagoda Tent"
+    },
+    {
+      "mcat_id": "41970",
+      "mcat_name": "Resort Tents"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "100516",
+      "mcat_name": "Swiss Cottage Tent"
+    }
+  ]
+}

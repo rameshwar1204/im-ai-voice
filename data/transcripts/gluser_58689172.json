@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667901083",
+  "gluser_id": "58689172",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639965",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji?\\nExecutive: Main keh raha hu mam mujhe buyleads mein problem aa rahi hai search karne mein mujhe koi delivery aapki company hai mere ko bataiye sir please.\\nCustomer: Kamran.trader@gmail.com.\\nExecutive: Kamran.\\nCustomer: Jay Marwadi na?\\nCustomer: Sir maine aapko bola tha main Thursday ko connect karungi main kal hi connect karungi.\\nExecutive: Theek hai. Main.\\nCustomer: Haan haan bataiye.\\nExecutive: Nahi aa raha.\\nCustomer: Main abhi dekh raha hu to mujhe abhi bhi kuch bhi nahi aa raha matlab mere paas lead mein dekh raha hu to ek minute pehle nikli hai jabki main update hu abhi yaha pe matlab tablet mein dekh raha hu continue.\\nExecutive: Accha accha. To main na ek baar ghar jaake ek baar check karti hu. Isme isme ek cheez bata raha hai aap dekhiye you may change remove your current selected filter. Ye kya filter laga hua hai kuch aapne dekha hua hai kya?\\nCustomer: Hmm hmm.\\nExecutive: Ye main na apne ghar jaake main aapko ek baar revert back karti hu main aapko WhatsApp pe baat karti hu. Ya to connect karte hai theek hai. Aap mere ko screenshot bhej do jo bhi problem aa rahi hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai?\\nCustomer: Okay. Thank you. Okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues with buyleads search.\\n\n- Customer is not receiving updated buyleads.\\n\n\\n\nResolution:\\n\n- Executive will check the issue after going home.\\n\n- Executive asked the customer to send a screenshot.\\n\n\\n\nNext Steps: \\n\n- Executive will revert back to the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, search, filter, update\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1ad91752-04aa-4d04-941a-ced893b13d76",
+  "ucid": "1ad91752-04aa-4d04-941a-ced893b13d76",
+  "seller_categories": [
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    }
+  ]
+}

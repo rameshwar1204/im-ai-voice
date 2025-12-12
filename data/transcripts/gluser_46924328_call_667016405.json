@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667016405",
+  "gluser_id": "46924328",
+  "vintage_months": 10,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Jaitu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9624696",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Uh Velco se baat kar rahe hain sir? Velco Laboratory?\\nCustomer: Haan ji.\\nExecutive: Hi sir, main Taruna baat kar rahi hu IndiaMART head office se.\\nCustomer: Ma'am maine aapka teen baar phone cut kar diya. Aap please samajh jaya karo koi kaam mein busy hoga.\\nExecutive: Sir main bilkul samajh rahi hu but aap hi ke liye kiya hai sir because aapki lead generate hui hai na aapki ticket aayi hai. Ya woh by mistake hui hai toh aap ek baar bata dijiye.\\nCustomer: Kya cheez hai?\\nExecutive: Aapki ek ticket aayi thi Velco Laboratory ke naam se. Uh matlab aapne kuch concern...\\nCustomer: Kis cheez ki?\\nExecutive: Sir aisa koi concern toh nahi hai aapne koi matlab IndiaMART ke uske number pe maybe call kiya hoga ya toh galti se lag gaya hoga.\\nCustomer: Ho sakta hai shayad galti se lag gaya hoga ji.\\nExecutive: Koi koi dikkat toh nahi hai sir profile wagera mein?\\nCustomer: Nahi nahi nahi nahi nahi ma'am. Ma'am ruk ke baat karta hu please thoda sa busy hu.\\nExecutive: Achha theek hai main ticket close kar deti hu sir yahan se fir theek hai?\\nCustomer: Theek hai ji theek hai.\\nExecutive: Theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Annoyed about receiving repeated calls.\\n- Inquiring about a ticket generated under the company name.\\n\\n\\nResolution:\\n\\n- Explained the call was regarding a ticket raised from the customer's end.\\n- Customer confirmed the call to IndiaMART might have been a mistake.\\n- Confirmed no issues with the profile.\\n- Agreed to close the ticket.\\n\\n\\nNext Steps: \\nIssue resolved. Executive will close the ticket.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- ticket, repeated calls, profile check\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0253fdf3-792d-4763-bf69-8462ea3919de",
+  "ucid": "0253fdf3-792d-4763-bf69-8462ea3919de",
+  "seller_categories": [
+    {
+      "mcat_id": "192608",
+      "mcat_name": "Floor Tile Adhesive"
+    },
+    {
+      "mcat_id": "27940",
+      "mcat_name": "Epoxy Grout"
+    },
+    {
+      "mcat_id": "38944",
+      "mcat_name": "Tile Adhesives"
+    },
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "189085",
+      "mcat_name": "Ceramic Tile Adhesives"
+    }
+  ]
+}

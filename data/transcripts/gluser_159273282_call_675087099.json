@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675087099",
+  "gluser_id": "159273282",
+  "vintage_months": 2,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9645034",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Unko bola hai to bol rahe hain ki tumko ek minute ki call milegi.\\n[inaudible] ye mausam nadi ka kinara ye chanchal\\n372\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Hi sir very good afternoon kaise hain aap?\\nCustomer: Good afternoon I am good.\\nExecutive: Sir main actually India Mart se baat kar rahi thi aapka ek catalog hai na Kapil Marble Murti Kala Kendra.\\nCustomer: Ji ji ji correct correct correct mam correct.\\nExecutive: To isse related mujhe kis se baat karni padegi aapke jitne abhi services ya fir primary number wale dekhte hain sir.\\nCustomer: Mam abhi to currently to primary number wale dekh rahe hain main thoda\\nExecutive: Hai na actually maine unko call kiya tha but actually answer nahi kiya unhone to maine mujhe aapko call karna pada.\\nCustomer: Main inko inform karta hu aapko call back karte hain okay.\\nExecutive: Okay ji okay ji okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive was trying to reach the primary number contact but received no answer.\\n\n\\n\nResolution:\\n\n- Customer will inform the primary contact to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Primary contact to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncatalog, call back\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f7ec8995-c0f9-48af-9ac8-69c2a14b3ae5",
+  "ucid": "f7ec8995-c0f9-48af-9ac8-69c2a14b3ae5",
+  "seller_categories": [
+    {
+      "mcat_id": "12324",
+      "mcat_name": "Ganesh Statue"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "178024",
+      "mcat_name": "Black Marble Shivling"
+    },
+    {
+      "mcat_id": "178192",
+      "mcat_name": "Marble Goddess Statue"
+    },
+    {
+      "mcat_id": "86105",
+      "mcat_name": "Human Statue & Sculpture"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674619543",
+  "gluser_id": "97760164",
+  "vintage_months": 5,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Kadapa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699477",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cee7b3f3-45aa-4676-88c2-811b73b0c095",
+  "ucid": "cee7b3f3-45aa-4676-88c2-811b73b0c095",
+  "seller_categories": [
+    {
+      "mcat_id": "325048",
+      "mcat_name": "3 Blade Ceiling Fan"
+    },
+    {
+      "mcat_id": "28004",
+      "mcat_name": "Electrical Ceiling Fans"
+    },
+    {
+      "mcat_id": "44612",
+      "mcat_name": "LED TV"
+    },
+    {
+      "mcat_id": "202039",
+      "mcat_name": "F&D Home Theater System"
+    },
+    {
+      "mcat_id": "185739",
+      "mcat_name": "Alkaline Water Purifier"
+    }
+  ]
+}

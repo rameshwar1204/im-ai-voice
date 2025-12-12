@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674899699",
+  "gluser_id": "9204916",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710450",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji. Universal Hydraulic se bol raha hu.\\nCustomer: Sorry?\\nExecutive: Universal Hydraulic.\\nCustomer: Ek minute. Contact number batana sir.\\nExecutive: Universal Hydraulic Welcome se bol raha hu.\\nCustomer: Sir mere ko na actually aapke virtual number se call aayi hai. Ek baar mujhe aap contact number bata dijiye apna.\\nCustomer: 97\\nCustomer: 97\\nCustomer: 42\\nCustomer: 42\\nCustomer: 819\\nCustomer: 819\\nCustomer: 220\\nCustomer: 220 Universal Hydraulic. Okay okay.\\nCustomer: Haan ji sir bataiye bataiye.\\nExecutive: Kya aap leads aate hai bole madam leads hi nahi aa raha isme. Last 15 din. Lead nahi aa rahi abhi.\\n\\nExecutive: Request sir.\\nExecutive: Sir ek baar na ye profile ka jo set hai thoda pehle ye increase karwa do. Ek Viran product hai isko add karwa do. Thik hai? Aur main aapko kuch buylead vagarah share karti hu aapke product se related. Unko aap consume karo ek baar. Thik hai? Pehle na aap mujhe CQS update karwa do sir. 67% chal raha hai sir. Visibility ke liye 80 to 85% best mante hai sir. Kidhar jana hai? Mere ko kidhar jana hai abhi?\\nExecutive: Abhi aapko video meet pe aa sakte hai kya sir?\\nCustomer: Thik hai.\\nExecutive: Thik hai main aapko link share kar dungi.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Leads are not being generated.\\n\n- Wants CQS to be updated.\\n\n\\n\nResolution:\\n\n- Executive offered to share buyleads.\\n- Executive asked to join a video meet.\\n\n\\n\nNext Steps: \\n\n- Executive will share the video meet link.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, cqs, profile update, video meet\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dad220b2-b59e-4ba1-be46-4cdda07e1020",
+  "ucid": "dad220b2-b59e-4ba1-be46-4cdda07e1020",
+  "seller_categories": [
+    {
+      "mcat_id": "69130",
+      "mcat_name": "Oil Filter Press"
+    },
+    {
+      "mcat_id": "6357",
+      "mcat_name": "Filter Press"
+    },
+    {
+      "mcat_id": "113954",
+      "mcat_name": "Polypropylene Filter Cloth"
+    },
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "42759",
+      "mcat_name": "Hydraulic Power Pack"
+    }
+  ]
+}

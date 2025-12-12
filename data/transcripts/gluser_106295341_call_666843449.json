@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666843449",
+  "gluser_id": "106295341",
+  "vintage_months": 54,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji Devan ji, Saloni bol rahi hu IndiaMART se. Good morning.\\nCustomer: Madam, thoda connect karo madam, bahar jane ke liye hum log meeting hai mein sales log ka baith ke idhar conference room mein waiting kar raha hu meeting ke liye.\\nExecutive: Matlab kya keh rahe hain, fir se boliyega?\\nCustomer: Wo buy lead ka kal bola na, baat kiya na wo meeting karne ke liye aapka buy lead ka jyada consumption kam kam ho raha hai bolke.\\nExecutive: Achha. To ye aapka discussion\\nCustomer: Haan, to isi ke regarding I think aapne customer care bhi bhi call kiya hai.\\nExecutive: Haan.\\nExecutive: Okay, to abhi aapke na meeting ke liye I told that she will connect me on 11:30 madam, I am waiting in conference call that is the thing I sent a request.\\nExecutive: Yes, yes, I know that. I actually maine aapka ye jo comment hai na, maine wo bhi padha hai. But already wo meeting mein hai aur abhi bhi ek client ke sath meeting mein hai isliye aapko connect nahi kar payi. To aap just half an hour ka time dijiyega. Half an hour mein baad available hai aap? Like 12:30?\\nCustomer: 12:30.\\nExecutive: Haan, around 12:30 aap available hai? Agar usse pehle available ho jayegi to then to main connect karwa dungi.\\nCustomer: Meeting kar sakte madam, mein bahar jane ke liye.\\nExecutive: Achha achha, to aap kitne kitni der tak available hai abhi?\\nCustomer: Till agar 12 12 o clock I am available.\\nExecutive: Achha, till I was she told me 11 to 11:30 I was waiting here.\\nExecutive: Yes, but I we have also a office meeting na. I understand but she has to inform me no that not possible tomorrow can we have any other time alternative time.\\nExecutive: Okay, she she is available now. I think she wrap up the meeting with another client. So she is calling you within a two minutes. Main Tushar Tyagi. Okay? Please.\\nCustomer: Please. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect for a meeting.\\n\n- Buy leads consumption is decreasing.\\n\n- Wants to know alternative time for meeting.\\n\n\\n\nResolution:\\n\n- Executive informed that the concerned person is in meeting.\\n\n- Executive assured call back within 2 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, meeting, connect\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5ff6281b-4a2e-4bf8-9b2a-bf896b3f2a9f",
+  "ucid": "5ff6281b-4a2e-4bf8-9b2a-bf896b3f2a9f",
+  "seller_categories": [
+    {
+      "mcat_id": "148833",
+      "mcat_name": "Compressed Air Pipe Fittings"
+    },
+    {
+      "mcat_id": "182471",
+      "mcat_name": "Atlas Copco Air Compressors"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    },
+    {
+      "mcat_id": "53588",
+      "mcat_name": "PPR Pipe Fittings"
+    },
+    {
+      "mcat_id": "111257",
+      "mcat_name": "Pneumatic FRL Unit"
+    }
+  ]
+}

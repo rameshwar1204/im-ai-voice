@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674369748",
+  "gluser_id": "424899",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689953",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello Gayatri Electro Company se baat kar rahi hai?\\nExecutive: Ha Gayatri Electro se.\\nCustomer: Okay, mam ne actually call kiya tha mere pass mein IndiaMART se unse baat kar rahi hu. To please unse baat kara dijiye aapki.\\nExecutive: A sorry.\\nCustomer: A jo IndiaMART pe services dekhti hai mam, unhone mere pass mein call kiya tha.\\nCustomer: Aap unse baat kara doge?\\nExecutive: A regarding IndiaMART services ke regarding pe call kiya tha.\\nExecutive: Nahi kya hai abhi tak wo aayi nahi mai aane ke baad unko call karke puchta hu matlab kis regarding kiya tha isme kuch tha kya matlab.\\nCustomer: Okay no issue mai ek bari ek ghante baad karungi to baat ho jayegi kya unse?\\nExecutive: A nahi actually wo chutti par hai.\\nCustomer: Achcha leave pe hai.\\nExecutive: Ha ha.\\nCustomer: IndiaMART pe apni services chal rahi hai na Gayatri Electro company ki. To isi ke jo services dekhta hai unko guide kiya hua tha maine video mein ispe sari cheeze to shayad unko kuch issues aa rahe the.\\nExecutive: Right right.\\nCustomer: To isliye mai ek wo kya karta hu mai unse details le leta hu aur aapko call karke revert karta hu.\\nCustomer: Ha sure no issue. Aap ek bari unse puch lijiye jo bhi problem hai agar koi team member ho to hum unse baat kar sakte hai.\\nExecutive: Thik thik hai thik hai chaliye.\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to IndiaMART representative.\\n\nResolution:\\n\n- Executive informed that representative is on leave.\\n\n- Executive will take details and revert to customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart services, call, leave\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=569a9e80-c4cb-4353-b34f-1c6ca1fd3fd1",
+  "ucid": "569a9e80-c4cb-4353-b34f-1c6ca1fd3fd1",
+  "seller_categories": [
+    {
+      "mcat_id": "178769",
+      "mcat_name": "Wipro LED Street Light"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "192993",
+      "mcat_name": "Philips Flood Light"
+    },
+    {
+      "mcat_id": "193573",
+      "mcat_name": "Bajaj Street Lights"
+    },
+    {
+      "mcat_id": "95486",
+      "mcat_name": "Energy Saving Floodlight"
+    }
+  ]
+}

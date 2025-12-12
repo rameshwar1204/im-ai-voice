@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670901678",
+  "gluser_id": "62573318",
+  "vintage_months": 81,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670934",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Can I call you can I call you back 10 minutes?\\nExecutive: Hello.\\nExecutive: Am I audible?\\nCustomer: Yes sir, I will call you 10 minutes back sir. I am in the driving.\\nExecutive: Okay, okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a callback in 10 minutes due to driving.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, driving\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76e887d0-b4ae-4a25-80d1-942552774a52",
+  "ucid": "76e887d0-b4ae-4a25-80d1-942552774a52",
+  "seller_categories": [
+    {
+      "mcat_id": "43664",
+      "mcat_name": "Motor Boats"
+    },
+    {
+      "mcat_id": "114243",
+      "mcat_name": "Jet Ski"
+    },
+    {
+      "mcat_id": "145136",
+      "mcat_name": "FRP Portable Toilet"
+    },
+    {
+      "mcat_id": "53738",
+      "mcat_name": "Paddle Boat"
+    },
+    {
+      "mcat_id": "43667",
+      "mcat_name": "FRP Boats"
+    }
+  ]
+}

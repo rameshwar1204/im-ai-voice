@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669455878",
+  "gluser_id": "107568537",
+  "vintage_months": 7,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644811",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nHello?\\nCustomer: Hello?\\nExecutive: Haan ji Shubham ji kaise ho aap?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Asked how Shubham is.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- greetings\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc34b3ba-649e-4e2a-8747-5fa8752c1061",
+  "ucid": "cc34b3ba-649e-4e2a-8747-5fa8752c1061",
+  "seller_categories": [
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "650551",
+      "mcat_name": "Men Co-Ord Sets"
+    },
+    {
+      "mcat_id": "7373",
+      "mcat_name": "Night Suits"
+    },
+    {
+      "mcat_id": "184669",
+      "mcat_name": "Kids Baba Suit"
+    }
+  ]
+}

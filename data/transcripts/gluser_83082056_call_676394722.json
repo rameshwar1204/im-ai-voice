@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676394722",
+  "gluser_id": "83082056",
+  "vintage_months": 23,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9722820",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u093e\u0902 \u091c\u0940\\nExecutive: \u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u091c\u0940 \u0938\u0947 \u0938\u0930 \u0926\u0947\u0935 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0905\u092d\u0940 \u0915\u0949\u0932 \u0915\u093f\u092f\u093e \u0925\u093e \u0938\u0930 \u0906\u092a\u0928\u0947\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u093e\u0902 \u091c\u0940\\nExecutive: \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u092e\u0948\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0915\u0947 \u0911\u092b\u093f\u0938 \u0938\u0947 \u0913\u092e \u0938\u094d\u091f\u094b\u0928 \u0906\u0930\u094d\u091f \u0938\u093f\u0902\u0939 \u0938\u0948\u0928\u0940\\nCustomer: \u0928\u0939\u0940\u0902 \u0928\u0939\u0940\u0902 \u0938\u0930 \u0915\u0949\u0932 \u0928\u0939\u0940\u0902 \u0939\u0948 9683962 \u0905\u092d\u0940 \u0938\u0930 \u0906\u092a\u0928\u0947",
+  "summary": "\\n\nConcerns:\\n\n- Call not made.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3ade9ef0-760d-449f-864b-20d865401f75",
+  "ucid": "3ade9ef0-760d-449f-864b-20d865401f75",
+  "seller_categories": [
+    {
+      "mcat_id": "113756",
+      "mcat_name": "Temple Domes"
+    },
+    {
+      "mcat_id": "8072",
+      "mcat_name": "Red Sandstone"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    },
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "43402",
+      "mcat_name": "Stone Temple"
+    }
+  ]
+}

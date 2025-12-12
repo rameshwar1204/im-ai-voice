@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669465505",
+  "gluser_id": "71152986",
+  "vintage_months": 10,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648754",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHaa boliye.\\nGood afternoon sir, mai Anshika baat kar rahi hu IndiaMART se.\\nHaa boliye.\\nSir hamara jo account chal raha hai Neha Enterprises, aapka sir ek feedback aaya tha hamare paas mein, jisme sir aapne ek comment dala hua tha, usme likha hua tha money minded.\\nSo like matlab wo sir hame, haa?\\nWo mere partner kiye honge koi.\\nKya kiya hoga sir?\\nKoi partner aise comment kar diya hoga, hum log to partner hai na.\\nAchha achha, aapke side se nahi aaya hai?\\nNahi.\\nAchha to fir thik hai, mai isko close kar deti hu. Baki sir services mein koi dikkat to nahi aa rahi hai aapko?\\nNahi thik hai.\\nThik hai, sir aapke account manager jo hai unka number hai aapke paas mein, Sushmita ji jo hai?\\nHaa hai.\\nThik hai, isme baki sir aapke catalog wagera sab thik hai, lekin aapke jo buyleads ka consumption hai wo thoda kam hai. Jaise 30 din mein sirf ek hi din lead consume ho rahi hai, saat din mein ek din consume ho rahi hai. To kuch matlab buylead wagera aap dekhiye agar aap jyada consume kar sakta hu, usse aapki inquiry and call ka flow bhi badhega.\\nThik hai, dekhta hu baat karke.\\nAur bhi koi dekhta ho to aap number de sakte hai, hum unko agar guidance ki jarurat ho, training ki jarurat ho to sir wo bhi hum provide karwa denge.\\nEk aur number to hai, usme baat kariye.\\nYe jo secondary wala number hai sir 98 se start hai 477.\\nHaa usme baat kariye.\\nThik hai mai sir isse bhi baat kar leti hu iske regarding aur ek chiz aur mujhe puchni thi sir aapke pe na call aa rahe hai jaise ki August ke month mein aapke paas aath call aaye the but aath ke aath call miss ho gaye the aapke. Fir September mein teen call aaye the teen ke teen call miss ho gaye to call aapke paas aa pa rahe hai ya call nahi aa pa rahe hai? Kyunki itne jyada sir call miss honge to hamara matlab response rate jo hota hai na wo down ho jata hai.\\nThik hai usko dekh lenge kya ho raha hai abhi to mera itna dhyan nahi hai mera. Dekhta hu kya.\\nThik hai sir.\\nOkay sir okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's feedback comment \"money minded\".\\n\n- Low buylead consumption.\\n\n- Missed calls in August and September.\\n\n\\n\nResolution:\\n\n- Executive closed the feedback comment.\\n\n- Executive offered guidance and training.\\n\n- Executive will contact secondary number regarding buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will check the call issue.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, buyleads, missed calls, account manager\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ffcec34-4b3f-47b3-8aa0-fb366b7b0610",
+  "ucid": "4ffcec34-4b3f-47b3-8aa0-fb366b7b0610",
+  "seller_categories": [
+    {
+      "mcat_id": "192368",
+      "mcat_name": "Palm Candy"
+    },
+    {
+      "mcat_id": "146876",
+      "mcat_name": "Organic Jaggery"
+    },
+    {
+      "mcat_id": "7056",
+      "mcat_name": "Sugar Candies"
+    },
+    {
+      "mcat_id": "101985",
+      "mcat_name": "Raw Sugar"
+    },
+    {
+      "mcat_id": "102078",
+      "mcat_name": "Gud Jaggery"
+    }
+  ]
+}

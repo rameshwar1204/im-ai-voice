@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674645741",
+  "gluser_id": "201482951",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Tekanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2482acde-5075-4eb8-933d-834cb79ca4a9",
+  "ucid": "2482acde-5075-4eb8-933d-834cb79ca4a9",
+  "seller_categories": [
+    {
+      "mcat_id": "36484",
+      "mcat_name": "Road Marking Paint"
+    },
+    {
+      "mcat_id": "122551",
+      "mcat_name": "Road Marking Services"
+    },
+    {
+      "mcat_id": "139541",
+      "mcat_name": "Kerb Laying Machine"
+    },
+    {
+      "mcat_id": "165819",
+      "mcat_name": "Home Painting Services"
+    },
+    {
+      "mcat_id": "118734",
+      "mcat_name": "Wall Painting Service"
+    }
+  ]
+}

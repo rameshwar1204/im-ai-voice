@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667497516",
+  "gluser_id": "254721038",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9627185",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Shri Guru Charan Saroj Raj\\n\\nHello\\nExecutive: Hello\\nCustomer: Ji Jai Singh ji baat kar rahe hain?\\nExecutive: Ji.\\nCustomer: Ji Jai Singh ji baat kar rahe hain?\\nExecutive: Ji boliye.\\nCustomer: Sir aap maine Shivay office se main call kiya hai ki aapka number sir ne diya tha India Mart ko.\\nExecutive: Ji.\\nCustomer: Regarding further catalog correction ke liye. Okay? Ji. To like hum ek meeting link aapko share kar rahe hain kya aap join kar sakte hain?\\nExecutive: Dijiye 10 minute se karta hu main join.\\nCustomer: Ha bas 10 minute me aap join kar lijiye. Okay? Aur agar possible ho to sir se bhi baat ho to sir se bhi aap confirmation bhi le lijiyega bank detail ka ki ye puch lijiyega SGST wala isme add hoga na ye puch lijiyega.\\nExecutive: Ji kya bol rahe hain?\\nCustomer: Main keh rahi hu bas sir se confirm bhi kar lijiyega beneficiary bank detail add karna hota hai na usme. To unse puch lijiyega ki SGST wala bank aapka corporate bank hai na. Ji SGST Bank Limited hai Malviya ye wala complex wala Tilak Nagar. Yahi wala current account hai na aap log ka?\\nExecutive: Ji.\\nCustomer: Ek bar ye confirm bhi kar lijiyega ye add karwana hai India Mart me to main 10 minute baad aapko link share kar rahi hu aap join kar lijiyega. Thik hai?\\nExecutive: Ji.\\nCustomer: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding catalog correction.\\n\n- Wants to confirm bank details for SGST addition.\\n\n\\n\nResolution:\\n\n- Executive will receive a meeting link in 10 minutes.\\n\n- Customer will confirm bank details with their executive.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, correction, bank details, meeting link\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1e200bb9-ec7f-42e0-9146-1dd7143bfb35",
+  "ucid": "1e200bb9-ec7f-42e0-9146-1dd7143bfb35",
+  "seller_categories": [
+    {
+      "mcat_id": "37424",
+      "mcat_name": "Soybean Meal"
+    },
+    {
+      "mcat_id": "3398",
+      "mcat_name": "Wheat Flour"
+    },
+    {
+      "mcat_id": "160555",
+      "mcat_name": "Sea Buckthorn Juice"
+    },
+    {
+      "mcat_id": "8516",
+      "mcat_name": "Senna Leaves"
+    },
+    {
+      "mcat_id": "20462",
+      "mcat_name": "Moringa Leaves Powder"
+    }
+  ]
+}

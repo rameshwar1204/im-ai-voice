@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674402804",
+  "gluser_id": "116550762",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9704362",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan. Good morning.\\nExecutive: Good morning.\\nExecutive: Ji, Teshna baat kar rahi hu IndiaMART se, Shiva Enterprises, right?\\nCustomer: Haan.\\nExecutive: Awaaz aa rahi hai aapko?\\nCustomer: Haan, boliye na.\\nExecutive: Sir, aapki voice break ho rahi hai, aap thoda sa network area mein move ho jaaiye please.\\nCustomer: Haan, boliye.\\nExecutive: Hello.\\nExecutive: Ji, sir.\\nExecutive: Sir, aapne hi call kiya tha, right? Saturday mein, right?\\nCustomer: Haan.\\nExecutive: Haan, toh kya issue hai? Business nahi mil raha hai aapko, right?\\nCustomer: Nahi, business nahi mil raha, business bhi nahi ho raha hai. Hum chahte hai mere ko isko band karke mera rupiya ko wapas dijiye, yahi hai.\\nExecutive: Abhi aap bahar hai kya?\\nCustomer: Haan.\\nExecutive: Haan, okay, kab aap available rahenge? Kyunki abhi aapki awaaz nahi aa rahi hai clear.\\nCustomer: Uh, ek ghanta baad.\\nExecutive: Kaise?\\nCustomer: Tab ek ghanta baad humko milega.\\nExecutive: Theek hai.\\nExecutive: Ek ghante ke baad mein call karti hu aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close subscription and refund.\\n\n- Customer is not getting business.\\n\n\\n\nResolution:\\n\n- Executive will call after one hour.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, business\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9c3239a6-ab8f-48b8-9dbe-377a8a9ce134",
+  "ucid": "9c3239a6-ab8f-48b8-9dbe-377a8a9ce134",
+  "seller_categories": [
+    {
+      "mcat_id": "180492",
+      "mcat_name": "Men Sport Shoes"
+    },
+    {
+      "mcat_id": "161122",
+      "mcat_name": "Ladies Flat Sandals"
+    },
+    {
+      "mcat_id": "180557",
+      "mcat_name": "Leather Loafer Shoes"
+    },
+    {
+      "mcat_id": "153412",
+      "mcat_name": "Men Leather Shoes"
+    },
+    {
+      "mcat_id": "180391",
+      "mcat_name": "Men Formal Shoes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671931126",
+  "gluser_id": "611645",
+  "vintage_months": 238,
+  "bl_dau_oct": 10,
+  "customer_type": "STAR",
+  "city_name": "Indore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677480",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Namaskar sir. \\nCustomer: Haanji. Main ye bol raha tha sir ki domain ka access ke liye mail ID aur password aapne jisse wo login karana domain. \\nExecutive: Basically wo chahiye honge. \\nCustomer: Matlab basically jo mail ID aur password, user ID aur password honge na domain ke wo chahiye honge. Uske baad hi access hoga. \\nExecutive: Achcha. \\nCustomer: Uske baad hi hum apne access kar payenge. Matlab jaise maine GoDaddy se purchase kiya hai to aapko uska ID password chahiye aisa bol rahe hain aap? \\nExecutive: GoDaddy se aapne purchase kiya hai aap uska de do main GoDaddy ka de do. \\nCustomer: Hai na to aap mujhe aap mujhe email pe likh ke bhej dijiye ki aapko GoDaddy ka account ka ID and password chahiye to main aapko bhejta hun. \\nExecutive: Okay, okay main aapko mail kar deta hun. \\nCustomer: Haan. Mail ID sir ek baar confirm karenge aap apna? \\nExecutive: Haan. Aapke paas kaun sa hai? \\nCustomer: Ek minute main bata deta hun. \\nExecutive: Mere paas jo show kar raha hai sir wo simply S ke baad teen star and S matlab S se start hota hai @omega rubber.com. Basically hume itna hi show kar raha hai. \\nCustomer: Achcha. \\nExecutive: S se start ho raha hai basically S se start ho raha hai actually usme bhi do hai S se jo chalu hote hain. Mostly sales@omegarubber hoga, theek hai. \\nCustomer: To aap usi pe mail dijiye jispe aapke jispe aapke paas access hai main dekh lunga. \\nExecutive: Okay.\\nCustomer: Haanji. Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to provide domain access.\\n\nResolution:\\n\n- Executive asked for GoDaddy ID and password.\\n\n- Customer agreed to send details via email.\\n\nNext Steps: \\n\n- Customer will send GoDaddy details via email.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- domain, access, godaddy, email\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c549e496-7e29-4519-a99f-5a507fbda1d8",
+  "ucid": "c549e496-7e29-4519-a99f-5a507fbda1d8",
+  "seller_categories": [
+    {
+      "mcat_id": "14668",
+      "mcat_name": "Butyl Tape"
+    },
+    {
+      "mcat_id": "17873",
+      "mcat_name": "Rubber Tape"
+    },
+    {
+      "mcat_id": "204978",
+      "mcat_name": "Waterproof Tapes"
+    },
+    {
+      "mcat_id": "8292",
+      "mcat_name": "Rubber Compound"
+    },
+    {
+      "mcat_id": "21188",
+      "mcat_name": "Aluminum Foil Tape"
+    }
+  ]
+}

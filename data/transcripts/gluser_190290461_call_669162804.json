@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669162804",
+  "gluser_id": "190290461",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9632734",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nCustomer: Haan ji bhai.\\n\\nExecutive: Hello, haan sir, main Shubham bol raha hun, good morning, Jai Mata.\\n\\nCustomer: Haan, good morning, batao.\\n\\nExecutive: Main bol raha tha sir kya hua us topic mein resolve hui uski?\\n\\nCustomer: Nahi, kahan hua, abhi kuch aaya nahi hai.\\n\\nExecutive: To aapki team kya team ko aapne share kiya hai link wo?\\n\\nCustomer: Hmm.\\n\\nExecutive: Team ko link share kiya hai aapne?\\n\\nCustomer: Wo to jo aapne link bheja tha wahi bhej diya tha maine unhone.\\n\\nExecutive: Haan to bheja unko kuch isme nahi samajh mein aaya.\\n\\nCustomer: Main ek kaam karta hun din mein na main tumhari conference call mein ek baar baat kara deta hun.\\n\\nExecutive: Sir ye actually aap karwaiye aaj actually concern open hai na baar baar to iske ya to concern ek minute karenge aaj.\\n\\nExecutive: Theek hai, theek hai.\\n\\nExecutive: Usko bhejna nahi hai aati hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's topic/issue is not yet resolved.\\n\n- Team did not understand the shared link.\\n\n\\n\nResolution:\\n\n- Executive offered to connect on a conference call.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on a conference call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- resolution, conference call, link\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b824b043-439d-4b3b-ac85-d56dffc5fc9f",
+  "ucid": "b824b043-439d-4b3b-ac85-d56dffc5fc9f",
+  "seller_categories": [
+    {
+      "mcat_id": "25982",
+      "mcat_name": "Tamper Proof Courier Bags"
+    },
+    {
+      "mcat_id": "184284",
+      "mcat_name": "Printed Courier Bag"
+    },
+    {
+      "mcat_id": "74486",
+      "mcat_name": "Slider Zip Bag"
+    },
+    {
+      "mcat_id": "445006",
+      "mcat_name": "Paper Courier Bag"
+    },
+    {
+      "mcat_id": "5709",
+      "mcat_name": "Paper Carry Bags"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671312803",
+  "gluser_id": "52266890",
+  "vintage_months": 7,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Azamgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674478",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good evening. I am Naira, I was talking to you sir. I am calling from IndiaMART, Easy Care Enterprises.\\nCustomer: Ji, mujhe yaad hai. Ishan se abhi aadhi ghante pehle baat hui thi account manager se.\\nExecutive: Achcha sir. Okay sir, aapne WhatsApp pe unke liye not satisfied feedback diya hai. Koi problem hai kya account manager se koi dikkat aa rahi hai?\\nCustomer: Not satisfied nahi hai, satisfied kya kiya hai?\\nExecutive: Nahi sir, not satisfied aaya hai. Is vajah se external ticket open ho gaya hai. Aapne shayad galti se not satisfied kar diya hai us pe satisfied ki jagah.\\nCustomer: Achcha achcha, fir se bhej dijiye ek ticket.\\nExecutive: Achcha, nahi vo ek hi baar aata hai, abhi ab fir se baad mein aayega. Baki jaanna chahti thi services se related koi dikkat to nahi hai ya staff se related koi dikkat hai abhi filhaal?\\nCustomer: Koi dikkat nahi.\\nExecutive: Okay, theek hai sir. Shayad Ishan ne aapko services ke aage upgradation aur baki chizo ke liye bhi bataya hoga. To uske liye kuch plan kar rahe hai sir aap?\\nCustomer: Ji ji.\\nExecutive: Okay, matlab jaise ki abhi apni jo services chali hai vo MDC ki chal rahi hai. Hai na?\\nCustomer: Ji.\\nExecutive: Okay, theek hai. To abhi aap travel kar rahe hai kya bahar sir?\\nCustomer: Ji, main travel kar raha hu.\\nExecutive: Achcha, aapko koi issue nahi hai to ye ticket band kar deti hu sir, theek hai?\\nCustomer: \\nExecutive: Theek hai sir, have a good day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about 'not satisfied' feedback on WhatsApp.\\n\n- Customer inquired about resending the feedback ticket.\\n\n\\n\nResolution:\\n\n- Executive clarified the feedback issue and ticket process.\\n\n- Executive inquired about service or staff-related issues.\\n\n- Executive confirmed no issues and offered to close ticket.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, mdc, ticket\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25bcc40a-fb09-4827-9141-e9da42f514b0",
+  "ucid": "25bcc40a-fb09-4827-9141-e9da42f514b0",
+  "seller_categories": [
+    {
+      "mcat_id": "194234",
+      "mcat_name": "Goree Face Cream"
+    },
+    {
+      "mcat_id": "217154",
+      "mcat_name": "Stainless Steel Feeding Bottle"
+    },
+    {
+      "mcat_id": "13190",
+      "mcat_name": "Commode Chair"
+    },
+    {
+      "mcat_id": "179959",
+      "mcat_name": "Western Toilet"
+    },
+    {
+      "mcat_id": "55653",
+      "mcat_name": "Baby Nipples"
+    }
+  ]
+}

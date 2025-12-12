@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670207436",
+  "gluser_id": "148490173",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sheorinarayan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703137",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hanji.\\nCustomer: Haan main Chitra DJ showroom se bol raha tha.\\nExecutive: Chitra DJ haanji bataiye sir.\\nCustomer: Haan kya hai apna na update karna tha hum log kal paisa dale the.\\nExecutive: Ji.\\nCustomer: Trust Trust Seal ke liye.\\nExecutive: Haanji.\\nCustomer: Haan to kya matlab baat karaiye na jaldi mein ya phir jo senior hai unke.\\nExecutive: Aap mujhe 15 minute ka time de dijiye main aapko call arrange karwa deta hu abhi. Theek hai na kal bole the ki video update karna hai sab karke.\\nCustomer: Theek hai. Aap mujhe 15 minute ka time de dijiye main call arrange karwa raha hu. Theek, theek, theek.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to update name and TrustSeal.\\n\n- Wants to talk to senior executive.\\n\n\\n\nResolution:\\n\n- Executive asked for 15 minutes to arrange call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, update, call arrangement\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3bb9837b-ce7a-4bb5-949f-1e0ab353dc6a",
+  "ucid": "3bb9837b-ce7a-4bb5-949f-1e0ab353dc6a",
+  "seller_categories": [
+    {
+      "mcat_id": "22408",
+      "mcat_name": "Audio Power Amplifier"
+    },
+    {
+      "mcat_id": "126301",
+      "mcat_name": "Pro Audio Speaker"
+    },
+    {
+      "mcat_id": "190770",
+      "mcat_name": "DJ Speaker"
+    },
+    {
+      "mcat_id": "222643",
+      "mcat_name": "Stranger PA Amplifier"
+    },
+    {
+      "mcat_id": "26733",
+      "mcat_name": "DJ System"
+    }
+  ]
+}

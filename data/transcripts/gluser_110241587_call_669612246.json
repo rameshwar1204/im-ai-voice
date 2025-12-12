@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669612246",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Hello?\\nCustomer: Hello?\\nExecutive: Ji Khan ji baat kar rahe hain?\\nCustomer: Ji, ma'am.\\nExecutive: A very good morning. Main Shreya baat kar rahi hu IndiaMART head office se.\\nCustomer: Ji, ma'am, bataiye.\\nExecutive: Actually sir, aapke na kal account manager se baat hui thi, Devash Yadav se. Aur aapne WhatsApp pe ek feedback gaya tha jismein not satisfied ka feedback diya hai. Sir, main jaan sakti hu kya problem hai? Kya problem thi?\\nCustomer: Bata de baat kariye doctor se.\\nHmm? Haan ji? Ji, ji?\\nExecutive: Nahi, nahi, hospital mein tha woh. Ji boliye, aap boliye.\\nCustomer: Haan, toh matlab sir koi problem hai toh bataiye kyunki aapne not satisfied feedback diya hai sir.\\nCustomer: Problem yeh hai jo complaint banda kar raha hai matlab 50,000 ki value order mein 2,000 ka advance kiya hai, 2000.\\nCustomer: Usmein material full complete hai party payment nahi de rahi hai toh uska 2,000 refund karne ke liye usse bola hai.\\nCustomer: Toh usko ek baar uska number vagera uska detail mere ko send karein main usse kuch baat karna chahunga. Mere apne account manager ko line pe lekar baat karunga.\\nExecutive: Koi dikkat nahi hai sir, aap leke baat kar sakte hain. Actually yeh jo feedback jaata hai na sir, yeh account manager ke liye jaata hai ki aapki unse kaisi baat hui hai. Toh yeh feedback buyer ke liye nahi tha toh aapne not satisfied kar diya na sir isliye maine aapko call kiya.\\nCustomer: Ab toh maine bola na unse isliye bola tha ke sir jo client hai usko line pe le lo aapke samne hi rubaru baat kar lenge aapko bhi malum hoga company ki galti hai ya client ki galti hai.\\nExecutive: Buyer ko?\\nCustomer: Hmm.\\nExecutive: Le lete hain na.\\nCustomer: Nahi, mere paas uska koi contact nahi hai. One second main kahin par hu abhi call back karta hu aapko.\\nExecutive: Sir, theek hai na? Aap call pe leke aap buyer ko call pe. Aap theek hai, theek se baat kar rahe hain.\\n\\nCustomer: Yaar tum hamein bata rahe ho yaar kya stage bana rahe ho.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to the client directly.\\n\n- Wants details of the client who complained.\\n\n- Wants to know if company or client is at fault.\\n\n\\n\nResolution:\\n\n- Executive explained feedback is for account manager.\\n\n- Executive agreed to connect the buyer on call.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, feedback, account manager, buyer\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ad8a0fd7-6fed-45e4-bfff-2c5353365c2a",
+  "ucid": "ad8a0fd7-6fed-45e4-bfff-2c5353365c2a",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

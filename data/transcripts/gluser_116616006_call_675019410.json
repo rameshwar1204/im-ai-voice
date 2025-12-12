@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675019410",
+  "gluser_id": "116616006",
+  "vintage_months": 29,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710458",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji.\\nExecutive: Namaskar sir. Hello.\\nCustomer: Namaste, namaste.\\nCustomer: Mujhe mujhe ek inquiry dalni thi usme option show nahi ho raha tha to aap dal doge kya inquiry mere behalf par?\\nExecutive: Matlab ek minute sir aap Dharmendra ji bol rahe hai na?\\nCustomer: Ha mai Dharmendra baat kar raha hu. Actually mujhe na jo manual screen painting ki machine hoti hai na uski inquiry dalni hai wo.\\nExecutive: Ek minute ek minute mai aapko yaha se call kar rahi hu aapki voice mujhe clear nahi aa rahi mai call kar rahi hu.\\nCustomer: Thik, thik, thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to submit an inquiry.\\n\n- Option not showing to submit inquiry.\\n\n\\n\nResolution:\\n\n- Executive will call back due to voice clarity issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry, voice clarity, call back\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0f025225-809b-4686-940f-78d0f0637277",
+  "ucid": "0f025225-809b-4686-940f-78d0f0637277",
+  "seller_categories": [
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "84052",
+      "mcat_name": "Decorative Candle Jar"
+    },
+    {
+      "mcat_id": "37731",
+      "mcat_name": "Shot Glass"
+    },
+    {
+      "mcat_id": "81267",
+      "mcat_name": "Tea Glass"
+    },
+    {
+      "mcat_id": "94902",
+      "mcat_name": "Glass Tumbler"
+    }
+  ]
+}

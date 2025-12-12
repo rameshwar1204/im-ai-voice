@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674687337",
+  "gluser_id": "254548597",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Narsapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=458113cc-7d04-402e-a110-3d7312725416",
+  "ucid": "458113cc-7d04-402e-a110-3d7312725416",
+  "seller_categories": [
+    {
+      "mcat_id": "156476",
+      "mcat_name": "Semi Husked Coconut"
+    },
+    {
+      "mcat_id": "156360",
+      "mcat_name": "Husked Coconut"
+    },
+    {
+      "mcat_id": "156361",
+      "mcat_name": "Tender Coconut"
+    },
+    {
+      "mcat_id": "188991",
+      "mcat_name": "Pollachi Coconut"
+    },
+    {
+      "mcat_id": "136179",
+      "mcat_name": "Raw Coconut"
+    }
+  ]
+}

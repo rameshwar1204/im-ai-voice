@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666850957",
+  "gluser_id": "73648445",
+  "vintage_months": 1,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663349",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hi sir, Pallavi baat kar rahi hu IndiaMART se.\\nCustomer: Ji, madam.\\nExecutive: Abhi sir aapka discussion hua tha Kaushlesh se, main unhi ki manager baat kar rahi hu sir. \\nCustomer: Ji.\\nExecutive: Sari engineering and consultant. To aap se sir video meeting mein abhi sab kuch Kaushlesh ne discussion kiya hai.\\nCustomer: Ji.\\nExecutive: To abhi kuch aur issue to nahi hai sir? Baki sab kuch unhone update kar diya hai ya fir kuch abhi pending lag raha hai aapko?\\nCustomer: Nahi sir, wo to unhone kara diya jo meri maine unko bataya hai, meri samajh mein nahi aa raha tha wo unhone mujhe kara diya hai.\\nExecutive: Hmm hmm.\\nCustomer: Okay.\\nExecutive: Aur isme thoda haan haan, ji ji bataiye.\\nCustomer: Thoda jo hai baki hai wo kuch keh rahe the message wagera wo wo karana wo kara denge fir.\\nExecutive: Message matlab kya sir?\\nCustomer: Jaise reply ka hai na sir madam ji usko wo thoda wo mujhe wo keh rahe the call kar lena jab aap free hoge main.\\nExecutive: Haan main yahi bol rahi hu sir abhi recently aapki sir messages host hui hai maximum cheeze to abhi Kaushlesh ne aapko clear kar di hai. Baki lekin kuch bhi problem aata hai aapko agar aapke paas number hoga Kaushlesh ka aap unse directly bhi connect kar sakte hai. Thik hai sir?\\nCustomer: Okay.\\nExecutive: Okay madam. Ji abhi abhi ke liye sir concern band kar du? I hope jo bhi explain kiya hai wo sab kuch clear hai abhi?\\nCustomer: Ji clear hai abhi.\\nExecutive: Ji bas. Sir ek aapke paas feedback aayega Kaushlesh se jo discussion hua hai uske basis pe wo feedback please aap share kar dijiyega. Thik hai? Okay okay. Thank you sir, thank you have a nice day.\\nCustomer: \\n",
+  "summary": "\\n\nConcerns:\\n\n- Pending work related to messages.\\n\n\\n\nResolution:\\n\n- Executive assured pending work will be completed.\\n- Provided contact to connect directly for issues.\\n\n\\n\nNext Steps: \\n\n- Customer to share feedback on discussion.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- messages, pending work, feedback\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=67a49464-dfc3-4587-a3f8-2e24c39c22de",
+  "ucid": "67a49464-dfc3-4587-a3f8-2e24c39c22de",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "167123",
+      "mcat_name": "SS Display Counter"
+    },
+    {
+      "mcat_id": "28404",
+      "mcat_name": "Food Display Cases"
+    },
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "77790",
+      "mcat_name": "Food Cart"
+    }
+  ]
+}

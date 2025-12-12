@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670215393",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Yeah hi is it Mr. Sharan from Astra Enterprise?\\nCustomer: Haan sir Namaste. Dekhiye direct sir se bolo.\\nExecutive: Achcha ji sir bataiye sir.\\nCustomer: Aapne bola tha Monday ko baat karenge aaj sham ko aapka phone nahi aaya fir.\\nExecutive: Sir aapka to wo ek lead ho chuka hai sir usse hame achcha main aapko update bhejta hu mail pe sir is cheez ka.\\nCustomer: Achcha\\nExecutive: Process ke liye humne bheja hua hai sir is cheez ke liye theek hai. Main apne senior se discussion kar raha hu us cheez ke regarding. Par main aapko mail pe bhi us cheez ka confirm kar deta hu ki aapko kitna time lagega proper is cheez ke liye. Theek hai? Main aapko looping kar deta hu usme sir.\\nCustomer: Ji. Theek hai.\\nExecutive: Ji. To kitna time lag jayega lagbhag?\\nExecutive: Abhi kar deta hu sir abhi turant kar deta hu sir aapko thodi der me.\\nCustomer: 12 baje tak\\nExecutive: Ek minute sir. Ek minute sir ruk jao ji se text aayega.\\nCustomer: Haan haan.\\nExecutive: Sir aapka kaunsa email id hai ek bar aap jo registered email id hai wahi hai ki dusra kuch hai aap bataiye ek bar.\\nCustomer: Mujhe ek kam karo aap ek din me char call lagatar dikha rahe ho.\\nExecutive: Main ek bar confirm kar le raha hu sir ek minute rukiye.\\nCustomer: Haan bolo.\\nExecutive: Ek minute sir.\\n\\nExecutive: Wahi hai?\\nCustomer: Haan ji sir.\\nExecutive: Sir ye Sahil Didwani 2005@gmail.com yahi hai kya?\\nCustomer: Yahi hai sir. Prakash.\\nExecutive: Sir ye to mera naam hai.\\nCustomer: Achcha aapke naam se aaya hai. Email aaya hai.\\nExecutive: Kya email aaya sir aapko?\\nCustomer: Google meet ka aaya hai sir.\\nExecutive: Haan sir wo to matlab ki maine aapka email check karne ke liye na nikala tha. Haan wo mera email id hai sir theek hai. Aur maine aapka email id nikalne ke liye wo kiya tha. To yahi wo email id aapka right?\\nCustomer: Haan haan yahi hai.\\nExecutive: Ji sir theek hai sir. Main bhejta hu sir.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says executive was supposed to call.\\n\n- Wants to know how long process will take.\\n\n- States he is seeing four calls a day.\\n\n\\n\nResolution:\\n\n- Executive will send an update via email.\\n\n- Executive is discussing with his senior.\\n\n- Executive confirmed the customer's email ID.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, email id, lead, update\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 153,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95002098-d848-452b-9e4a-4634bf95eaa6",
+  "ucid": "95002098-d848-452b-9e4a-4634bf95eaa6",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

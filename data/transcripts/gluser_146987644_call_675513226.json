@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "675513226",
+  "gluser_id": "146987644",
+  "vintage_months": 0,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715226",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Madam, Bhadwal, Bhadwal telecom se bol rahe hain.\\nCustomer: Haan, boliye sir.\\nExecutive: Abhi humne live karwaya hai do char din hi ho raha hai lekin jo hum log query bhej rahe hain na kisi customer ko. Haan haan. Hmm.\\nCustomer: Jab share more details to call us at, to call us at jo number hai wo galat aa raha hai.\\nExecutive: Thoda sa fir se boliye kya boliye?\\nExecutive: Hum log jab lead manager mein query dekh rahe hain. Haan.\\nExecutive: Haan. Aur query ke liye jab reply kar rahe hain customer ko. Hmm. Usme jo aapka auto reply system hai to usme aa raha hai jo number hamara hai wo galat aa raha hai. Share more detail aur call us at jo number hai that is not our number. Some some wrong number.\\nCustomer: Okay sir, main ek baar check kar leti hu. Theek hai aur main aapko call bhi karti hu kyuki abhi lunch timing ho gaya na abhi koi bhi nahi hai ab main abhi niche aayi hu to main aapko call karti hu sir. Accha abhi to meri baat hui thi na abhi thodi der pehle. Haan haan bilkul sir abhi kuch time pehle meri mere se aapki baat hui hai. Main aapko call karti hu sir 10 minute tak okay. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- The number in 'call us at' is incorrect.\\n\n\\n\nResolution:\\n\n- Executive assured to check and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, number, call back\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=81cdfbb2-057b-4a31-8192-f5df5a86dfdd",
+  "ucid": "81cdfbb2-057b-4a31-8192-f5df5a86dfdd",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "164149",
+      "mcat_name": "Ready Mix Plaster"
+    },
+    {
+      "mcat_id": "143636",
+      "mcat_name": "Lightweight Block"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668605895",
+  "gluser_id": "20951038",
+  "vintage_months": 59,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhadrak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan hello.\\nCustomer: Ji good afternoon.\\nExecutive: Haan ji namaskar.\\nCustomer: Good afternoon main\\nExecutive: Haan boliye.\\nCustomer: Haan haan sir bataiye call aapki aayi.\\nExecutive: Ji.\\nCustomer: Haan haan ek minute ek minute.\\nExecutive: Haan sir bataiye.\\nCustomer: Main Suraj Sao bol raha hun.\\nExecutive: Achcha achcha.\\nCustomer: Main Surat main Suraj Sao bol raha hun KCS Power se Shyam Nandini brand se.\\nExecutive: Achcha achcha okay okay.\\nCustomer: To humko matlab payment ka humne kiye hai aaj ho gaya 21 July 21 July 2025.\\nExecutive: Achcha achcha okay okay.\\nCustomer: 99882 rupees.\\nExecutive: Achcha achcha.\\nCustomer: To within ek mahine mein hamara hamara catalog update ho jana chahiye.\\nExecutive: Main abhi tak hamara catalog update nahi hua hai aur hamare staff phone kar rahe hain unko respond nahi kar rahe hain aur customer hamare catalog ko dekh ke itna bura bol rahe hain us time aapne kitna badhiya baat karke kam ho gaya fir abhi aap respond nahi kar rahe aise kam hone se account manager aapka jo hai wo kam theek nahi kar rahe hain to humko kaise kya service milega.\\nExecutive: Main dekhta hun sir.\\nCustomer: To humko kya karna hai abhi.\\nExecutive: Mujhe to abhi pehle dekhna padega sir pura case ki kya hai to mere pass call abhi aayi hai.\\nCustomer: Haan.\\nExecutive: Haan call call back karate hain hai na theek theek theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Catalog not updated after payment.\\n\n- Staff not responding to calls.\\n\n- Customers complaining about the catalog.\\n\n- Dissatisfied with account manager's service.\\n\n\\n\nResolution:\\n\n- Executive assured to look into the matter.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after checking the case.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, payment, update, service, account manager\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=df6abd91-f50d-4cdc-9641-aa1318cfc481",
+  "ucid": "df6abd91-f50d-4cdc-9641-aa1318cfc481",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "187442",
+      "mcat_name": "Murukku"
+    },
+    {
+      "mcat_id": "192459",
+      "mcat_name": "Haldiram Namkeen"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    }
+  ]
+}

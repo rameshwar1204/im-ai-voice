@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676352639",
+  "gluser_id": "76873822",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722581",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Share karte hain bhai.\\nExecutive: Hello, haan ji sir, Avnish baat kar raha tha IndiaMART se.\\nCustomer: Hello IndiaMART.\\nExecutive: IndiaMART IndiaMART sir. Kya issue tha sir aapko kya dikkat?\\nCustomer: Sir, sir we have a stock limited showing out of stock.\\nExecutive: Wait a minute sir.\\nCustomer: Yeah please can you repeat the query sir?\\nCustomer: Birofil see in our catalog stock limited showing Birofil product is showing out of stock. Birofil B I R O P I L Birofil.\\nExecutive: Can you repeat again B I R O\\nCustomer: B I R O P I L Birofil. Birofil.\\nExecutive: Birofil.\\nCustomer: Birofil B I R O P I L.\\nExecutive: B I R O P I L Birofil product right?\\nCustomer: That is showing out of stock but stock is available.\\nExecutive: Wait a minute sir I can I can see sir. I can check sir.\\nExecutive: Birofil product you have a stock but it is showing the out of stock right sir?\\nCustomer: Yeah and the price also should price also can put as the price price you can put 2000 rupees.\\nExecutive: Birofil.\\nExecutive: So Birofil product is error in our catalog sir?\\nCustomer: it is available you have to mention it's available and the price you have to mention 2000 rupees.\\nExecutive: 2000 wait a minute sir.\\nExecutive: 2000 rupees Birofil.\\nCustomer: 2000 rupees 2000 only.\\nExecutive: 2000 only.\\nExecutive: Acha B I R O Birofil trap right?\\nCustomer: B I R O P I L Birofil.\\nExecutive: Yeah I can understand sir. B I R O P I L Birofil trap so you have a stock but there is showing out of stock right?\\nCustomer: Yeah yeah that's.\\nExecutive: Okay okay okay sir. I can correct sir I can check it then correct.\\nCustomer: And please sir price also mention 2000 rupees.\\nExecutive: Okay wait a minute sir.\\nExecutive: Okay yeah.\\nExecutive: Kya Birofil product ka price mention not mention sir I can mention 2000 rupees right sir?\\nCustomer: Yeah yeah.\\nExecutive: Per box 2000 per bottle sir?\\nCustomer: 2000 rupees per bottle.\\nExecutive: Per bottle. Okay.\\nCustomer: And one more thing now there is one more product Sagra S P E G R A Sagra.\\nExecutive: Wait a minute. Wait a minute sir.\\nExecutive: Kya I can mention the price over here right sir?\\nExecutive: Birofil.\\nExecutive: And second product name is sir?\\nCustomer: Sagra Sagra S P E G R A Sagra S P E G R A.\\nExecutive: S P E G R A Kya Sagra.\\nCustomer: The price you have to mention price is 2700.\\nExecutive: 2700 wait a minute sir.\\nExecutive: There is mention is 3000 rupees right sir?\\nCustomer: Yeah.\\nExecutive: In your catalog in your catalog the price is mention 3000 rupees right I can mention 2700.\\nCustomer: 2700 you can mention 27 2700.\\nExecutive: 2700. Okay sir I can update the price sir.\\nCustomer: Thank thank you.\\nExecutive: And any other query sir can you tell me then I will correct sir yeah.\\nCustomer: Thank thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Birofil product showing out of stock.\\n\n- Price of Birofil product to be updated.\\n\n- Price of Sagra product to be updated.\\n\n\\n\nResolution:\\n\n- Executive assured to correct the stock issue.\\n\n- Executive agreed to update the price.\\n\n- Executive agreed to update the price of Sagra.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- stock, price, catalog, birofil, sagra\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 239,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b496e1cf-3ed2-4a49-8f0f-20d8f363bb8b",
+  "ucid": "b496e1cf-3ed2-4a49-8f0f-20d8f363bb8b",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "444098",
+      "mcat_name": "Ertapenem Injection"
+    },
+    {
+      "mcat_id": "162286",
+      "mcat_name": "Tenofovir Tablet"
+    },
+    {
+      "mcat_id": "445971",
+      "mcat_name": "Ferric Carboxymaltose injection"
+    }
+  ]
+}

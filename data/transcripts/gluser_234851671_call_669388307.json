@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669388307",
+  "gluser_id": "234851671",
+  "vintage_months": 12,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Zamania",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648321",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Aaya bhi notification mere paas.\\n\\nHello.\\nCustomer: Sir aap hi call kar rahe the thoda.\\nExecutive: Haan bhai wo jo call kiya tha aapne.\\nCustomer: Ji ji sir. Haan us samay bank mein the na to baat puri nahi ho paayi thi humari.\\nExecutive: Haan to isiliye main call kar raha tha.\\nHello.\\nCustomer: Ji.\\nExecutive: Haan haan sir bataiye bataiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called back regarding a previous call.\\n\n\\n\nResolution:\\n\n- Executive confirmed calling back about the customer's call.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, bank work, incomplete conversation\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6a30154-6112-4424-bb72-5845044a016a",
+  "ucid": "d6a30154-6112-4424-bb72-5845044a016a",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "215236",
+      "mcat_name": "Chappal Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    }
+  ]
+}

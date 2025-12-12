@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673761015",
+  "gluser_id": "239468620",
+  "vintage_months": 10,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b089b12f-3b2f-4405-b5af-c5d9d4ba5fd1",
+  "ucid": "b089b12f-3b2f-4405-b5af-c5d9d4ba5fd1",
+  "seller_categories": [
+    {
+      "mcat_id": "30144",
+      "mcat_name": "Head Massager"
+    },
+    {
+      "mcat_id": "209032",
+      "mcat_name": "Eyebrow Trimmer"
+    },
+    {
+      "mcat_id": "30019",
+      "mcat_name": "Hand Tally Counter"
+    },
+    {
+      "mcat_id": "3323",
+      "mcat_name": "Wall Hooks"
+    },
+    {
+      "mcat_id": "17057",
+      "mcat_name": "Leather Jewelry Box"
+    }
+  ]
+}

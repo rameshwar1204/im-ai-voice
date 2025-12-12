@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670895559",
+  "gluser_id": "61848701",
+  "vintage_months": 76,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670185",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan\\nCustomer: Sir dekhiye good evening India office se bol rahi hu aap se baat kar rahi hu\\nExecutive: Haan\\nCustomer: Sir ek service aapne abhi recently service launch kiya tha SB block India Mart ka platform se theek hai mujhe bataye sir kya feedback hai service uska\\nCustomer: Service bahut bogus hai humko koi santushti nahi hai kyuki service hum humko local ki lead chahiye local ki lead milti nahi hai\\nCustomer: Bas hamara ye bolna hai\\nExecutive: Accha ek minute abhi aapne service select kiya do teen mahine ho gaye na\\nCustomer: Haan\\nCustomer: Sir service nahi mil rahi hai humko hum itna bol rahe hai baki golden wali hai kya ye bhi\\nExecutive: Sir abhi hai na main aapko hai na aapko main manager se connect karwa deti hu theek hai\\nCustomer: Ji ji haan haan haan okay\\nExecutive: Ek minute line pe hi rehna\\nCustomer: Haan\\nExecutive: Line pe rehna aapko bas abhi time available hai kyuki local ka lead hum dene ke liye ready hai kisne bola aapko 100% local ka lead milega\\nCustomer: Karwa ke dijiye na madam please\\nExecutive: Ek minute\\nCustomer: Karwa ke dijiye please\\nExecutive: Haan line pe rehna line pe rehna\\nCustomer: Main gaadi chala raha hu madam main niche rakh raha hu mobile aapne call karna mere ko main uthaunga baad theek hai\\nExecutive: Sir abhi kyuki maine seller panel login kiya activity karne ke liye to aapka bhi hona jaruri hai\\nExecutive: To mujhe bataye main kis time aapka matlab system ke samne ho tabhi main ye sara cheeze discussion kar paau nahi main aapko OTP vagaira kuch nahi de paunga main\\nCustomer: Haan\\nCustomer: OTP vagaira dunga nahi main aapko baki aap jo karana hai karaiye aap\\nExecutive: Kuch bhi nahi chahiye mujhe mujhe aapka catalog me kaam karna hai recent lead me jana hai aur aapka jo kuch lead me abhi Aurangabad me aap kitne baje abhi ye koi call karne ka time hai kya pehle bataye aap kitne baje ka\\nCustomer: Abhi\\nCustomer: Shaam ke kitne baje\\nCustomer: 6 baj rahe hai abhi office office ke liye office se ghar ke liye nikal gaya hu abhi ye time thodi hai aap mere ko subah subah call kijiye na 11 o clock par\\nExecutive: 11 o clock par theek hai main call kar leti hu theek hai\\nCustomer: Okay madam okay\\nExecutive: Chalega okay\\nExecutive: Yahi bola tha aapne maine bol rahi hu\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting local leads as promised.\\n\n- Dissatisfied with the service.\\n\n- Objects to call at 6 PM.\\n\n\\n\nResolution:\\n\n- Executive offered to connect with manager.\\n\n- Executive will call back at 11 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, local leads, call time\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 154,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=62d50d78-dc03-4633-8bd4-aeb2f6b26037",
+  "ucid": "62d50d78-dc03-4633-8bd4-aeb2f6b26037",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "164149",
+      "mcat_name": "Ready Mix Plaster"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673033315",
+  "gluser_id": "14224544",
+  "vintage_months": 9,
+  "bl_dau_oct": 0,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Vijayapura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687287",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Ji Ahmedabad red office.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bffeff5e-e58b-4fcc-ae24-8f9dc1969069",
+  "ucid": "bffeff5e-e58b-4fcc-ae24-8f9dc1969069",
+  "seller_categories": [
+    {
+      "mcat_id": "208734",
+      "mcat_name": "Syngenta Insecticide"
+    },
+    {
+      "mcat_id": "217678",
+      "mcat_name": "Bayer Insecticides"
+    },
+    {
+      "mcat_id": "205669",
+      "mcat_name": "Syngenta Fungicides"
+    },
+    {
+      "mcat_id": "224442",
+      "mcat_name": "FMC Insecticides"
+    },
+    {
+      "mcat_id": "224455",
+      "mcat_name": "Adama Herbicides"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674733521",
+  "gluser_id": "256008422",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Warangal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659537",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Yes, hello.\\nExecutive: Yes, am I connected with Sri Vasantha Dry Fruits Wholesale and Retail Center?\\nCustomer: Yes, yes, yes, ma'am.\\nExecutive: Uh, sir, Namaskar. I am calling from IndiaMART team from recorded line. Uh, my name is Priyanka, sir. I hope I'm not disturbing you.\\nCustomer: Okay, okay, ma'am.\\nExecutive: Uh, I am calling you for the concern raised by you, sir. I just want to understand if we could offer you some resolutions.\\nCustomer: Yes.\\nExecutive: So may I please know, sir? Srishti has forwarded this case to us.\\nCustomer: Okay, actually we want to we said that total problems to Srishti madam. So we requested for the refund. No buyers are calling but they are calling but they are not ready to make the payment and they are not ready to take the items. So we want that refund requested, sir.\\nExecutive: Oh, it's very early to decide, sir. Your services were hosted on 10th of November. Not even a month. So, uh, what is the main challenge coming, sir? You are talking with buyers. What is the feedback of buyers, sir?\\nCustomer: Yes, yes, actually, but\\nExecutive: Hello?\\nCustomer: Hello?\\nCustomer: They are just enquiring but they are not they are not making the advance payment. They are just enquiring.\\nExecutive: And what about the incoming calls, sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a refund for the subscription.\\n\n- Buyers are not ready to make payments.\\n\n\\n\nResolution:\\n\n- Executive stated it's too early to decide.\\n\n- Executive asked about the challenges faced.\\n\n- Executive asked about the feedback from buyers.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, buyleads\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=af024a83-7572-4ace-85bc-3742e348dfee",
+  "ucid": "af024a83-7572-4ace-85bc-3742e348dfee",
+  "seller_categories": [
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "190906",
+      "mcat_name": "W180 Cashew Nuts"
+    },
+    {
+      "mcat_id": "183067",
+      "mcat_name": "Brown Basmati Rice"
+    },
+    {
+      "mcat_id": "26940",
+      "mcat_name": "Dry Figs"
+    }
+  ]
+}

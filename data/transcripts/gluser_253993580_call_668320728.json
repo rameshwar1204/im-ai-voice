@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668320728",
+  "gluser_id": "253993580",
+  "vintage_months": 1,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9634527",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yeah hi sir, very good evening. This side Alok from IndiaMART relationship manager, okay? Uh yeah actually Ashutosh have already discussed with you regarding your buylead concern, right?\\nCustomer: Yes sir, yes sir. And hello on this number.\\nCustomer: Just one thing, I am leaving, just call on another number. 90591, just note it down.\\nExecutive: Just wait a, just wait a one second.\\nExecutive: Yeah please tell me sir.\\nCustomer: 90591\\nExecutive: 90591\\nCustomer: 4419\\nExecutive: 4419, okay fine. I'll connect on that thing now. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to be called on another number.\\n\n\\n\nResolution:\\n\n- Executive noted the alternate number.\\n\n\\n\nNext Steps: \\n\n- Executive will call on the alternate number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, alternate number, call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2eab2818-1ce3-42c0-b450-0746a7244c00",
+  "ucid": "2eab2818-1ce3-42c0-b450-0746a7244c00",
+  "seller_categories": [
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "96541",
+      "mcat_name": "Mobile Containers"
+    },
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

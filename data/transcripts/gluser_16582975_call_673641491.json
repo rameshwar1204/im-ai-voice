@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673641491",
+  "gluser_id": "16582975",
+  "vintage_months": 61,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694351",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? Sir good morning sir, I am [inaudible] from India Mart speaking sir, can I speak to [inaudible] sir?\\nExecutive: Haan sir.\\nCustomer: India Mart.\\nExecutive: Sir, I am driving now, call in the evening.\\nCustomer: At what time sir?\\nExecutive: 5 o'clock.\\nCustomer: Okay sir, 5 o'clock.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak to someone.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back at 5 o'clock.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, time\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=04648ec0-6169-4784-a16b-a60f76f5ff29",
+  "ucid": "04648ec0-6169-4784-a16b-a60f76f5ff29",
+  "seller_categories": [
+    {
+      "mcat_id": "40604",
+      "mcat_name": "Vacuum Chambers"
+    },
+    {
+      "mcat_id": "164741",
+      "mcat_name": "KF Clamp"
+    },
+    {
+      "mcat_id": "186928",
+      "mcat_name": "Vacuum Fittings"
+    },
+    {
+      "mcat_id": "42046",
+      "mcat_name": "Glove Boxes"
+    },
+    {
+      "mcat_id": "13706",
+      "mcat_name": "Chemical Vapor Deposition System"
+    }
+  ]
+}

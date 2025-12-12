@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673292960",
+  "gluser_id": "18888",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kala Amb",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hello good afternoon, ma'am.\\nCustomer: Kya good afternoon.\\nExecutive: Ma'am Shadaab bol raha hu IndiaMART account manager.\\nCustomer: Ji sir.\\nExecutive: Ma'am isse pehle hamara discussion hua tha buyleads ke regarding, toh maine ma'am buyleads bhi show kare the.\\nCustomer: Hmm.\\nExecutive: Uske baad ma'am ye hai ki buyleads consume... Sorry.\\nExecutive: Ma'am uske baad bhi ye hai ki buyleads consume nahi hui.\\nCustomer: [unintelligible] add bhi karte hai, wo bhi karte hai, aur mera number de rakha hai, toh bhi WhatsApp me join karte hai.\\nExecutive: Ji.\\nCustomer: Dekhiye revert back number se mai aapko call back kar sakti hu same number pe?\\nExecutive: Nahi ma'am jo maine pehle number aapko share karwaya tha na, us number pe aap revert back kariye, wo mera personal number hai.\\nCustomer: Accha, theek hai, mai aapko 10 minute me call back karungi.\\nExecutive: Okay ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads not being consumed.\\n\n- Wants to call back on the same number.\\n\n\\n\nResolution:\\n\n- Asked to revert on the previously shared number.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, call back, personal number\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9aae8252-93bd-409f-b757-9b1f44a34687",
+  "ucid": "9aae8252-93bd-409f-b757-9b1f44a34687",
+  "seller_categories": [
+    {
+      "mcat_id": "138936",
+      "mcat_name": "Aluminum Roofing Sheet"
+    },
+    {
+      "mcat_id": "55116",
+      "mcat_name": "Color Coated Aluminum Coils"
+    },
+    {
+      "mcat_id": "215926",
+      "mcat_name": "Aluminium Sublimation Sheet"
+    },
+    {
+      "mcat_id": "161802",
+      "mcat_name": "Aluminum Fan Blades"
+    },
+    {
+      "mcat_id": "21758",
+      "mcat_name": "Aluminium Profiles"
+    }
+  ]
+}

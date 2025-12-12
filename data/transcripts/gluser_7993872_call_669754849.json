@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669754849",
+  "gluser_id": "7993872",
+  "vintage_months": 131,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708422",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan, Vikas ji, Namaskar sir. \\nCustomer: Haan ji. Namaskar. \\nExecutive: Sir keh raha hu, Praveen bol raha hu IndiaMART se. \\nCustomer: Haan ji. \\nExecutive: Sir Praveen bol raha hu IndiaMART se. \\nCustomer: Haan Praveen ji. \\nExecutive: Keh raha hu ye not bag aur polypropelin bag wala out of stock hai kya abhi product? \\nCustomer: Nahi nahi out of stock kyu ye to running chal raha hai. \\nExecutive: Running me hai na dono not bag aur polypropelin bag. \\nCustomer: Haan haan. \\nExecutive: Achcha. Sir factory pe ho kya aap abhi? \\nCustomer: Pahuchunga abhi. \\nExecutive: Pahuching hai. Thoda sa sir wahi catalog ke liye ek bar baat karni thi ek bar update karwa dijiye. \\nCustomer: Ek bar madam se kar lo na aap. \\nExecutive: Madam ko lagaya tha mam uthai nahi. \\nCustomer: Achcha. Aage honge. \\nExecutive: Office aage baat karo ek bar aap kya baat hai. \\nCustomer: Haan thoda bol dijiye connect kar lenge to mai karwa deta hu. \\nCustomer: Thik hai thik hai thik hai. \\nExecutive: Ho gaya.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to update the catalog.\\n\n- Customer says madam did not pick up.\\n\n\\n\nResolution:\\n\n- Executive asked to call the office.\\n\n- Executive will connect to get it done.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, update, product\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4c0effc3-d8d7-411f-9cea-6637b6d4a804",
+  "ucid": "4c0effc3-d8d7-411f-9cea-6637b6d4a804",
+  "seller_categories": [
+    {
+      "mcat_id": "6041",
+      "mcat_name": "Plastic Carry Bag"
+    },
+    {
+      "mcat_id": "140760",
+      "mcat_name": "Printed Non Woven Bags"
+    },
+    {
+      "mcat_id": "7283",
+      "mcat_name": "PP Woven Bags"
+    },
+    {
+      "mcat_id": "185147",
+      "mcat_name": "Transparent PP Bag"
+    },
+    {
+      "mcat_id": "1484",
+      "mcat_name": "Plastic Bags"
+    }
+  ]
+}

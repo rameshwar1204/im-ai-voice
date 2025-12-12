@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671979373",
+  "gluser_id": "12183114",
+  "vintage_months": 8,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello ha ji meri baat Pawan Jain se ho rahi hai Parsha chemical mein.\\nCustomer: Parsha chemical se baat ho rahi hai ha boliye.\\nExecutive: Namaskar sir main India Mart office se senior head baat kar rahi hu aapki call aayi thi hamare customer care se.\\nCustomer: Ha wo actual mein kuch query aayi thi lekin jo number diye the wo call pick up nahi ho rahe the pick up nahi ho rahe the.\\nExecutive: Call pick up nahi ho rahe the jo aapke account manager hai unka call pick up nahi ho raha tha.\\nCustomer: Nahi nahi ha matlab jo jo number aapne share kiye the.\\nExecutive: Ji ji.\\nCustomer: Wo number koi utha nahi raha tha.\\nExecutive: Okay actually Heba jo hai sir aapka account jo hai aapki company dekhti hai aur wo leave pe hai aaj and tomorrow she will be joining sir to tomorrow sir aapki jo bhi call hai unke sath connect ho jayegi but abhi ke liye certain aap mujhe issue bata sakte ho in case aap koi bhi issue face kar rahe ho I will resolve it.\\nCustomer: Nahi abhi main ek marriage mein hu to main main bhi kal hi baat baat kar lunga fir.\\nExecutive: Chaliye theek hai koi issue nahi hai sir jo aapki sir concern raise hui hai main abhi ke liye close kar deti hu aur aapko apna jo number hai wo whatsapp kar deti hu maybe agar sir aap free ho jao to aap mujhe call laga lena sir theek hai.\\nCustomer: Ha ji.\\nExecutive: Theek hai sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported calls not being picked up.\\n\nResolution:\\n\n- Executive informed account manager is on leave.\\n- Executive offered to resolve the issue.\\n- Executive will share her WhatsApp number.\\n\nNext Steps: \\n\n- Customer will call back the next day.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call pick up, account manager, leave\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c16d0614-1294-4f44-a33a-c62715027feb",
+  "ucid": "c16d0614-1294-4f44-a33a-c62715027feb",
+  "seller_categories": [
+    {
+      "mcat_id": "181169",
+      "mcat_name": "Aditya Birla Bleaching Powder"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "141380",
+      "mcat_name": "Soda Ash Light"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    },
+    {
+      "mcat_id": "3630",
+      "mcat_name": "Caustic Soda"
+    }
+  ]
+}

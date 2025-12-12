@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "672532433",
+  "gluser_id": "4695246",
+  "vintage_months": 37,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687066",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello, Namaskar sir.\\nCustomer: Kaun bol rahe hain?\\nExecutive: Lakshman baat kar raha tha IndiaMART se.\\nCustomer: Achcha aap se baat ho gayi na, invoice-vinvoice dena tha, le liya na usne.\\nExecutive: Hello.\\nCustomer: Hello, aapke Aadi bhi hai na aapke yahan?\\nExecutive: Haan sir, abhi baat hui thi.\\nCustomer: Haan to sir, wohi ho gaya tha.\\nExecutive: Theek hai. Sir, sir, sir lekin na aapke aapne sir woh ticket raise ki thi?\\nCustomer: Haan?\\nExecutive: Aapne ticket raise ki thi service se related?\\nCustomer: Haan to mere ko invoice chahiye tha na mail pe jo payment kiya uska. Receipt chahiye tha.\\nExecutive: Achcha, aapko uska mail ka, main samjha nahi sir aap.\\nCustomer: Mere ko invoice chahiye tha, tax invoice chahiye na, payment kiya hai aapko, tax invoice aaya nahi kya mere paas?\\nExecutive: Achcha.\\nExecutive: Achcha uska.\\nCustomer: Chahiye na.\\nExecutive: Achcha, invoice chahiye aapko uska?\\nCustomer: To sir.\\nCustomer: 25000 payment kiya, woh to aapne 2 din pehle kiya tha, invoice kahan aaya uska?\\nExecutive: Theek hai sir, main abhi usko dekh ke batata hu abhi aapka invoice vagaira ka.\\nCustomer: Batana nahi hai, mail kar dijiye na invoice, theek hai?\\nExecutive: Theek hai, theek hai sir, main mail kar deta hu.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs the tax invoice for payment.\\n\nResolution:\\n\n- Executive assured to mail the invoice.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- invoice, payment, tax\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d22f6b3-26d8-4235-8e89-39140e47b6a5",
+  "ucid": "7d22f6b3-26d8-4235-8e89-39140e47b6a5"
+}

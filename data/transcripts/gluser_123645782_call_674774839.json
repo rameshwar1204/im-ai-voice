@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674774839",
+  "gluser_id": "123645782",
+  "vintage_months": 19,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Visnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708096",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hanji.\\n\\nCustomer: Bhai sahab main Omkar Traders se baat kar raha hun Sanjay bhai.\\n\\nExecutive: Hanji Sanjay.\\nCustomer: Main main mein usme deal karta hun lekin mujhe broken rice chahiye to koi aap supplier mujhe suggest kar sakte ho?\\n\\nExecutive: Aapko broken rice chahiye.\\n\\nCustomer: Broken rice chahiye mere ko ha.\\n\\nExecutive: Theek hai.\\n\\nCustomer: Ek agar kar sakte ho to mera ID hai usme aap suggest karwa do to main unse baat karun.\\nExecutive: Sir basically jaise ki abhi to hum main aaj working mein nahi hun sir non working mein hun. Achcha okay okay.\\nCustomer: Kal main aapko suggest kar sakta hun.\\nExecutive: No problem, no problem. Kal kariye, no problem sir.\\nCustomer: Theek hai to kal morning mein aapko connect karta hun aur main aapko guide kar deta hun sir.\\n\\nCustomer: Theek hai, no problem. Thank you.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs broken rice supplier suggestion.\\n\n\\n\nResolution:\\n\n- Executive said he is not working today.\\n- Executive will connect and guide tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- broken rice, supplier, suggestion\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=931b9165-04cf-470f-adcd-608556cb48fe",
+  "ucid": "931b9165-04cf-470f-adcd-608556cb48fe",
+  "seller_categories": [
+    {
+      "mcat_id": "11270",
+      "mcat_name": "Cumin Seeds"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "5315",
+      "mcat_name": "Mustard Seeds"
+    },
+    {
+      "mcat_id": "186496",
+      "mcat_name": "Organic Cumin Seed"
+    },
+    {
+      "mcat_id": "6281",
+      "mcat_name": "Fennel Seed"
+    }
+  ]
+}

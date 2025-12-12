@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674444397",
+  "gluser_id": "100902514",
+  "vintage_months": 33,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kalyan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703129",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Aap boliye.\\nCustomer: Haan sir, yeh keh raha hun ki baki aap mujhe aaj bata dijiyega available time toh hum connect ho jaate hain, theek hai sir?\\nExecutive: Chalega, chalega.\\nCustomer: Okay sir, okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to be informed about available time to connect.\\n\n\\n\nResolution:\\n\n- Agreed to inform about available time.\\n\n\\n\nNext Steps: \\n\nIssue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\navailability, connect\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa24d9cb-a8fc-4410-b42d-27a5df554b6b",
+  "ucid": "aa24d9cb-a8fc-4410-b42d-27a5df554b6b",
+  "seller_categories": [
+    {
+      "mcat_id": "12085",
+      "mcat_name": "Glass Perfume Bottles"
+    },
+    {
+      "mcat_id": "180303",
+      "mcat_name": "Car Hangings"
+    },
+    {
+      "mcat_id": "23326",
+      "mcat_name": "Car Air Freshener"
+    },
+    {
+      "mcat_id": "4949",
+      "mcat_name": "Attar"
+    },
+    {
+      "mcat_id": "74493",
+      "mcat_name": "Crystal Perfume Bottle"
+    }
+  ]
+}

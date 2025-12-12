@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666958704",
+  "gluser_id": "99891719",
+  "vintage_months": 69,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Oragadam Industrial Area",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631699",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello sir.\\nExecutive: Sir, vanakkam sir.\\nCustomer: Hello. Sir, call panniyendha, naan vandhu lunchla irundhen sir.\\nExecutive: Okay. Edhukka mudiyala, sollunga sir.\\nCustomer: Sir, adhaan sir, andha enakku lead varamaatengudhu, sollunga sir adhu.\\nExecutive: Okay, leade varalannu sollirundha. Okay, ore nimisham sir, naan vandhu ungalukku Google andha andha fast viewsla poi neenga vandhu update pannunga.\\nCustomer: Sir, irukirukka ellam ok thaan sir irukku sir. Adhu ennanne theriyala sir. Idhu varaikum nallaa thaan sir vandhudhu.\\nExecutive: Oh, okay, okay. Neenga 9696kume call pannirukkeenga illaiyaa?\\nCustomer: Okay, ore nimisham sir, ore nimisham. Naan ungalukku pala vaatti solli solli paakkuraen. Enakku edhu step edukkannu theriyala sir enakku.\\nExecutive: Sir, ore nimisham, ore nimisham sir. Appadiye linele irunga.\\n\\n(silence)\\n\\nExecutive: Sir, irunga appo call pandraen irunga.\\n\\n(silence)\\n\\nExecutive: Sir, millimetre sollunga. Sir, ippo system vachirukkeengalaa? Mobile system kaiyile vachirukkeengalaa?\\nCustomer: Sir?\\nExecutive: Sir, kekkudhungalaa?\\nCustomer: Hello. Sir, system vachirukkeengalaa kaiyila?\\nCustomer: Illa sir, phonele sir konjam irukku.\\nExecutive: Phonele irukkeengalaa?\\nCustomer: Okay, phonele konjam open panreengalaa sir?\\nCustomer: Sollunga sir.\\n\\n(silence)\\n\\nExecutive: Hello. Sir, ore nimisham. Sir, namma\\n\\n(silence)\\n\\nExecutive: Sir, ore nimisham ungalukku naan vandhu system ungaloda profile open panniduchu call pandraen.\\nCustomer: Sari sir, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving leads.\\n\n\\n\nResolution:\\n\n- Executive suggested updating Google fast views.\\n\n- Executive will open customer's profile and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after opening profile.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, google fast views\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=77e104a5-d915-43df-b284-9c0ee3c69e9d",
+  "ucid": "77e104a5-d915-43df-b284-9c0ee3c69e9d",
+  "seller_categories": [
+    {
+      "mcat_id": "173013",
+      "mcat_name": "Building Plan Service"
+    },
+    {
+      "mcat_id": "113648",
+      "mcat_name": "3D Elevation Service"
+    },
+    {
+      "mcat_id": "183447",
+      "mcat_name": "Building Elevation Services"
+    },
+    {
+      "mcat_id": "146144",
+      "mcat_name": "Exterior Design Services"
+    },
+    {
+      "mcat_id": "174065",
+      "mcat_name": "3D Floor Plan Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668353804",
+  "gluser_id": "14181429",
+  "vintage_months": 48,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9648793",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer trying to connect the call.\\n\n\\n\nResolution:\\n\n- Call disconnected.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- connection issue, call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e16815e5-8d2e-40c3-86bc-04db9d39e4d4",
+  "ucid": "e16815e5-8d2e-40c3-86bc-04db9d39e4d4",
+  "seller_categories": [
+    {
+      "mcat_id": "1223",
+      "mcat_name": "Jute Bags"
+    },
+    {
+      "mcat_id": "5507",
+      "mcat_name": "Canvas Tote Bags"
+    },
+    {
+      "mcat_id": "10394",
+      "mcat_name": "Jute Gift Bags"
+    },
+    {
+      "mcat_id": "11197",
+      "mcat_name": "Cotton Tote Bags"
+    },
+    {
+      "mcat_id": "2291",
+      "mcat_name": "Tote Bags"
+    }
+  ]
+}

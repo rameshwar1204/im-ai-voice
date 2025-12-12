@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669458949",
+  "gluser_id": "14181429",
+  "vintage_months": 48,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9648793",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ji sir.\\nCustomer: Haan sir bataiye.\\nExecutive: Ji sir, maine link share kiya hua hai aapko WhatsApp pe, usse join kar lijiye. Mail pe bhi aaya hoga aapke.\\n\\nExecutive: Ye aapke official mail ID pe aaya hoga. Vijay naam se?\\nCustomer: Haan.\\nExecutive: Aap WhatsApp se Asif Farooq karke jo aapne mention kari hai na?\\nCustomer: Haan.\\nExecutive: Theek hai, ispe aa jaunga.\\nExecutive: Sir maine aapko WhatsApp pe bhi share kar diya for convenience, aap usse bhi join kar sakte hain.\\nCustomer: Maine kar liya sir, just na join.\\nExecutive: Ji bataiye.\\n(silence)\\nExecutive: The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold par rakha hai. Kripya line par bane rahe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance with joining a link.\\n\n\\n\nResolution:\\n\n- Executive shared link on WhatsApp and email.\\n\n- Executive confirmed customer joined.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, whatsapp, email, joining\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=63328b7f-4a17-4965-9cbd-be3b1b897e81",
+  "ucid": "63328b7f-4a17-4965-9cbd-be3b1b897e81",
+  "seller_categories": [
+    {
+      "mcat_id": "1223",
+      "mcat_name": "Jute Bags"
+    },
+    {
+      "mcat_id": "5507",
+      "mcat_name": "Canvas Tote Bags"
+    },
+    {
+      "mcat_id": "10394",
+      "mcat_name": "Jute Gift Bags"
+    },
+    {
+      "mcat_id": "11197",
+      "mcat_name": "Cotton Tote Bags"
+    },
+    {
+      "mcat_id": "2291",
+      "mcat_name": "Tote Bags"
+    }
+  ]
+}

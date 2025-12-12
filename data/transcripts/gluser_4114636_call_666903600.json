@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666903600",
+  "gluser_id": "4114636",
+  "vintage_months": 74,
+  "bl_dau_oct": 28,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Khatauli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630884",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji, hello.\\nCustomer: Hello.\\nExecutive: Sir, aap Rustam Agro Industries se baat ho rahi hai?\\nCustomer: Kisse?\\nExecutive: Rustam Agro Industries se baat ho rahi hai?\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive trying to verify the company name.\\n\\n\\nResolution:\\n\\n- Call disconnected before the conversation could proceed.\\n\\n\\nNext Steps: \\nIssue not resolved.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- verification, call drop\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a6d465dd-3a1c-498f-8ae0-6d4d0715d5ab",
+  "ucid": "a6d465dd-3a1c-498f-8ae0-6d4d0715d5ab",
+  "seller_categories": [
+    {
+      "mcat_id": "42178",
+      "mcat_name": "Rotavator Blades"
+    },
+    {
+      "mcat_id": "121292",
+      "mcat_name": "Agricultural Gearbox"
+    },
+    {
+      "mcat_id": "42177",
+      "mcat_name": "Cultivator Shovels"
+    },
+    {
+      "mcat_id": "41760",
+      "mcat_name": "Tiller Blades"
+    },
+    {
+      "mcat_id": "145420",
+      "mcat_name": "Tractor Trolley Hook"
+    }
+  ]
+}

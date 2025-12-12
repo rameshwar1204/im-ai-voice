@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676089889",
+  "gluser_id": "98282700",
+  "vintage_months": 9,
+  "bl_dau_oct": 0,
+  "customer_type": "FREELIST",
+  "city_name": "Purnea",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719025",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, hoon madam, boliye.\\nExecutive: Kya baat hai sir, naam bhi yaad hai aapko, gazab.\\nCustomer: Haan, kya haal chaal hai sir?\\nCustomer: Aap log itna itna acche hai ki naam yaad rahega hi.\\nExecutive: Kya baat hai sir, bahut acche.\\nCustomer: Aap 33,000 rupya thagaye hai toh naam toh yaad kam se kam rakhe.\\nExecutive: Samajh rahi hu sir aapki baat ko bhi mai. Aap kya keh rahe hai mujhe.\\nExecutive: Baaki mai keh rahi thi ki aapne feedback diya tha alag se liye not satisfied.\\nExecutive: Account manager ke liye aapne feedback diya tha na, not satisfied ka. Toh mai bas vahi kehna chah rahi thi ki sir aapne account manager ke liye kyu feedback diya tha. Is par matlab kuch baat hui hai kya unse aapki? Like behaviour mein ya kuch aisa kuch problem hai unke saath aapko?\\nCustomer: Unke saath koi problem woh toh bahut sundar bolti hai. Dekhne mein bhi sundar hai, boli mein bhi sundar hai. Lekin aapke IndiaMART se satisfied nahi hai na. Mera 33,000 rupya beimani kar liya aapne, thag liye.\\nCustomer: Ek woh grahak nahi diye. Kya aapke team mein juta hua hai. Bolta pucha karta.\\nCustomer: Phone karne se bolta hai kya ki jo hai hum toh aise hi check kar rahe the humko saman nahi lena.\\nExecutive: Ab dekhiye sir aap bhi jaante hai, kaafi time se ye wali baat apni chal rahi hai. Mai bas fir se vahi cheeze ek baar aur kehti hu aapko. Kyuki dekho sir kaafi time kaafi baar aap bhi call kar chuke hai daat bhi hue bahut baar aap bhi. Ab yahi wali cheez hai sir ki matlab online hota hai toh phone pe toh pehle insaan puchta hi hai. Phone pe seedha koi pehli baar mein paise toh karta nahi hai ki humne itna order kar do.\\nCustomer: Are hum madam madam, are jo thagna tha thag liya, accha accha baat kiye, business thodi hai business nahi hoga aapke.\\nCustomer: Aapke bas ki baat nahi hai.\\nCustomer: Mara padi. Lagega abhi kalane.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says IndiaMART cheated him of \u20b933,000.\\n\n- Customer says he did not receive any leads.\\n\n- Customer says people call to check only.\\n\n\\n\nResolution:\\n\n- Executive stated that this issue is ongoing.\\n\n- Executive explained how online business works.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, online business\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 165,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e34084b-eacd-45ba-be09-3c7dc72ba707",
+  "ucid": "9e34084b-eacd-45ba-be09-3c7dc72ba707",
+  "seller_categories": [
+    {
+      "mcat_id": "78263",
+      "mcat_name": "Round Neck T Shirt"
+    },
+    {
+      "mcat_id": "181480",
+      "mcat_name": "Cotton Men T-Shirt"
+    },
+    {
+      "mcat_id": "78211",
+      "mcat_name": "Men Custom T -Shirt"
+    },
+    {
+      "mcat_id": "2893",
+      "mcat_name": "T Shirts"
+    },
+    {
+      "mcat_id": "158308",
+      "mcat_name": "Men Plain T Shirt"
+    }
+  ]
+}

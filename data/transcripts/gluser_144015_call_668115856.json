@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668115856",
+  "gluser_id": "144015",
+  "vintage_months": 167,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bahadurgarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9686410",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji.\\nCustomer: Good afternoon sir, India Mart se baat kar rahi hu Kashish, kaise hain aap sir?\\nExecutive: Theek hai ji sir. Ji actually sir maine jo aapke Gautam sir dekhte hain na account, maine unko kafi time connect kiya but wo India Mart ka portal use nahi kar rahe sir. Unhone bola hai ki properly list nahi aa rahi. I agree sir ki properly list kabhi kabhi nahi aati hai. But agar aapki activity nahi hogi na sir, to bilkul bhi list nahi aayengi.\\nCustomer: Achcha ji.\\nExecutive: To ek bar please aap unse coordinate kijiye sir ki India Mart ka portal use kare aur koi bhi concern hai sir to main mere manager sare ab hain taki aap unko share kare ki kya doubts aa rahe hain sir.\\nCustomer: Theek hai ji, main keh deta hu unko ki daily basis pe is portal open karke jarur dekhiye.\\nExecutive: Haan matlab sir ne kaha tha ki unko properly list nahi aa rahi. Haan sir kabhi kabhi hota hai ki list nahi dikh rahi hai profile mein kyunki hamari activity nahi rehti hai. Then hum un list ko na not interested mark karenge taki aage se fir hamare pass aur relevant hi lead aaye.\\nExecutive: To ek bar aap bol dijiyega sir baki main bhi call kar call try kiya hai but answer nahi kiya abhi unhone.\\nCustomer: Main karta hu unse baat. Theek hai, okay sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's representative not using IndiaMART portal.\\n\n- Customer's representative says not getting proper buyleads.\\n\n\\n\nResolution:\\n\n- Executive asked customer to coordinate with representative.\\n\n- Executive explained importance of activity for buyleads.\\n\n- Executive suggested marking irrelevant leads as not interested.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to representative.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, portal usage, activity\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=58fef7b2-4613-49a2-af5a-571588e7727c",
+  "ucid": "58fef7b2-4613-49a2-af5a-571588e7727c",
+  "seller_categories": [
+    {
+      "mcat_id": "21057",
+      "mcat_name": "Chair Armrests"
+    },
+    {
+      "mcat_id": "135904",
+      "mcat_name": "Chair Handle"
+    },
+    {
+      "mcat_id": "186374",
+      "mcat_name": "PU Moulded Foam"
+    },
+    {
+      "mcat_id": "32088",
+      "mcat_name": "Lounge Chair"
+    },
+    {
+      "mcat_id": "33248",
+      "mcat_name": "Moulded Foam"
+    }
+  ]
+}

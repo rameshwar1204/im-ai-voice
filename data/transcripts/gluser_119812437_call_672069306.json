@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672069306",
+  "gluser_id": "119812437",
+  "vintage_months": 50,
+  "bl_dau_oct": 28,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9683709",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji sir boliye.\\nCustomer: Haan maine unko lagaya tha mam ji ka jo aapne mujhe diya tha Aryan Enterprise ka dono baar lagaya dono baar unka phone busy aa raha tha. Theek hai dono ha unhone phone uthaya nahi matlab ki busy ja raha tha. To ek baar fir se main 15 minute ke baad fir se try karunga and abhi baat kar lena waise maine unse sir se to baat karai thi conference mein leke. Mohit kya naam tha jinka phone aaya tha mere paas. Shubham sir karna sir ek second phone rakhna baad me phone.\\nExecutive: Theek theek.\\n\\n(silence)\\n\\nCustomer: Hello.\\nExecutive: Haan haan hello haan ji sir boliye.\\nCustomer: Haan ji sir.\\nExecutive: Haan boliye sir.\\nCustomer: Haan main bol raha hu ki unko maine call conference mein liya tha ek baar chaho to unko puchh lo.\\nExecutive: Bola ki sir mere ko to plastic chahiye tha mere ko chahiye nahi glass.\\nExecutive: Sir unse aap ye cheez puchh matlab ki chaliye theek hai main man liya ki India mart ne galat se wo lead generate kar diya aapne unse ek baar bhi pucha sir ki aapne kya India mart mein glass water search kyu kiya.\\nCustomer: Kya hua?\\nCustomer: Ab aapne kya bola?\\nExecutive: Maine ye bola ki aapne unse ek baar bhi ye pucha ki aapne glass water water kyu search kiya.\\nCustomer: Ye to unhone khud pucha na main to sir pucha unhone khud bola ki sir hamare paas glass mein bahut sari variety aap dekh hi lijiyega lijiyega nahi sir mere ko to plastic hi chahiye. Aur aapne galat dala hai isme maine nahi dala India mart walon ne dala hai.\\nExecutive: Haan yahi cheez to sir ek hota hai na sir ki aap khud abhi hai ho na aap khud kabhi na India mart mein na aapko kabhi kuch chahiye hoga to aap ek baar na khali jana sir google wale matlab ki jaise bhi India mart ke paas jana dekhna ki bina kuch update dale kya wo lead generate ho jati hai bilkul nahi sir jab tak aap fill nahi karoge wo keh raha hai meri call pe baat hui hai India mart mein call pe unhone pata nahi kaise dal diya India mart walon ne. Accha matlab ki call pe baat hone ke baad India mart wale ne jaan bujh ke water glass water glass water dala hai ha glass water water dala hai.\\nCustomer: Samajh gaya sir theek hai ek baar main unse baat karne ke baad hi isme kuch bol sakta hu kyuki sir ek baar baat karo ye genuine baat hai Pravesh ji ne sahi bola ya jhoot tha ye unhone call mein baat karai thi unhone khud baat kari thi. Haan. Unhone khud baat kari thi maine nahi kari thi maine kaha sir ek baar aap khud baat kijiyega maine kaha aap khud puchiyega unko kya chahiye. Hmm hmm. To unhone bola mere ko plastic chahiye mujhe glass chahiye hi nahi.\\nExecutive: Nahi theek hai agar recording agar aap ek second mujhe call cut karni padegi recording hogi bhejta hu aapko ek minute dena.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received buyleads for glass water bottles.\\n\n- Customer needs plastic bottles, not glass.\\n\n\\n\nResolution:\\n\n- Executive will investigate the issue.\\n\n- Executive will talk to concerned team.\\n\n\\n\nNext Steps: \\n\n- Executive will send recording after call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, indiamart, plastic bottles, glass bottles\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 183,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9db0c757-6e06-4951-8558-ec69dd24ad52",
+  "ucid": "9db0c757-6e06-4951-8558-ec69dd24ad52",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    },
+    {
+      "mcat_id": "612",
+      "mcat_name": "Glass Bottles"
+    }
+  ]
+}

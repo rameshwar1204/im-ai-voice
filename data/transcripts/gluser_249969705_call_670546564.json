@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670546564",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji?\\nCustomer: Sir, good morning, Diptika baat kar rahi hu India Mart head office se, Azad sir baat kar rahe hai?\\nExecutive: Haan, kaha se baat kar rahe hai?\\nCustomer: India Mart head office se Diptika baat kar rahi hu sir.\\nExecutive: Haan, Diptika ji.\\nCustomer: Haan ji sir, aapne kal hamare customer care pe call kara tha, by list me koi problem aa rahi hai, by list receive nahi ho rahi thi thik se.\\nExecutive: Haan, haan, wo mera wo brother hai, wo kar liya tha, chota brother hai mera.\\nCustomer: Haan.\\nCustomer: To ye jo last ke 318 hai usme connect karna hai sir?\\nExecutive: Nahi, usme bhi kar liya hai.\\nCustomer: Konse number pe?\\nExecutive: 63 hoga piche.\\nCustomer: 63 hai na, sir unhone connect kar liya tha, unhone time diya, unhone time pe unhe baar connect kar lenge, thik hai?\\nExecutive: Haan, okay, okay.\\nCustomer: Thik hai, thank you.",
+  "summary": "\\n\nConcerns:\\n\n- By list receive nahi ho rahi thi thik se.\\n\n\\n\nResolution:\\n\n- Customer's brother resolved the by list issue.\\n\n- Customer confirmed the last digits of the contact number are 63.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer care will connect at the time provided.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nby list, customer care, connect\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=36f582f8-5cdd-4ef8-ba7a-f60e26e621c8",
+  "ucid": "36f582f8-5cdd-4ef8-ba7a-f60e26e621c8",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671906382",
+  "gluser_id": "142288323",
+  "vintage_months": 18,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679545",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ya hello Vinay ji baat kar rahe hain?\\nCustomer: Haan boliye.\\nExecutive: Ji ji main IndiaMART se baat kar rahi hoon sir. Baat hui thi na subah aap bol rahe the ki video call pe connect kar lijiyega 12:30 baje tak.\\nCustomer: Hmm hmm. Main abhi tak pahucha nahi. Aap bhi aur ek ghante baad call kar sakte hain aap. 1:00 baje tak.\\nExecutive: 1:00 baje?\\nCustomer: Haan.\\nExecutive: Achcha achcha. Waise main aapko batana chahungi Vinay ji ki meri baat Kedarnath ji se hui hai.\\nCustomer: To Kedarnath ji keh rahe the ki maine hi mail kiya tha regarding tenders ke liye.\\nCustomer: Haan.\\nExecutive: Hai na? To unse maine sari cheeze discuss ki, sari cheeze batai. To maine unse pucha ki kya main close kar doon ticket jo concern aapka open hua hai? To bol rahe hain haan theek hai close kar do. Maine bataya ki meri Vinay ji se jaise waise baat hui hai. Video call ke liye wo bol rahe the ki abhi close mat karo main video call pe aaunga. To unhone bola koi baat nahi main keh raha hoon aap close kar do. Concern close kar do. To main wahi jaanna chahti hoon to close kar doon? To Kedarnath ji se meri baat ho gayi hai. Aapko agar ye confirm karna hai to aap unse baat kar sakte ho.\\nCustomer: Okay.\\nCustomer: Haan okay okay.\\nExecutive: Okay okay.\\nExecutive: Theek hai to aap ek ghante mein waise hum koi dikkat nahi hai main video call pe ek ghante ke baad aapko connect kar leti hoon 1:00 baje.\\nCustomer: Okay.\\nCustomer: Okay.\\nExecutive: Theek hai to thodi cheezon ka aapko just mil jayega sir aapko dikkat nahi aayegi phir.\\nCustomer: Okay.\\nExecutive: Theek hai to 1:00 baje confirm rakhun phir kyunki.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to confirm closing the ticket.\\n\n\\n\nResolution:\\n\n- Kedarnath approved closing the ticket.\\n\n- Executive will connect for video call at 1:00 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will connect for video call at 1:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video call, ticket closure, tenders\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=90d666d9-3934-42fe-b03b-dc2e082273e5",
+  "ucid": "90d666d9-3934-42fe-b03b-dc2e082273e5",
+  "seller_categories": [
+    {
+      "mcat_id": "8762",
+      "mcat_name": "Drill Bits"
+    },
+    {
+      "mcat_id": "8213",
+      "mcat_name": "Roll Crusher"
+    },
+    {
+      "mcat_id": "154010",
+      "mcat_name": "Single Acting Hydraulic Cylinders"
+    },
+    {
+      "mcat_id": "38710",
+      "mcat_name": "Steel Fabrication"
+    },
+    {
+      "mcat_id": "3889",
+      "mcat_name": "Coal Crusher"
+    }
+  ]
+}

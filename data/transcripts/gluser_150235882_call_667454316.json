@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667454316",
+  "gluser_id": "150235882",
+  "vintage_months": 9,
+  "bl_dau_oct": 21,
+  "customer_type": "FREELIST",
+  "city_name": "Daund",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, haanji sir.\\nCustomer: Haan bolo.\\nExecutive: Haan haan sir, maine abhi sir aapke sath baat ho rahi thi sir network issue ki vajah se call disconnect ho gayi thi.\\nCustomer: Hmm.\\nExecutive: Haanji. Bolo. Haanji ji. To sir ab aap mere end se sir mujhe jo bhi sir problem dikh rahi hai isliye sir maine aapko call kara taki sir aapko better mil paye hamari site pe mil paye.\\nCustomer: Bolo bolo.\\nExecutive: Haanji. To sir aap ki sir link join kar lenge na aapko sir dikhega jo bhi main kaam kar raha hu aapko sir on the call dikhega aapke samne main jo cheezein kar raha hu.\\nCustomer: Link join nahi ho rahi na mere se abhi.\\nExecutive: Haan haan. Sir actually sir maine aapko dobara dobara jo link bheji is link open ho rahi hai ye wali?\\nCustomer: Nahi wo nahi ho rahi. Join nahi hoga.\\nExecutive: Uh, sir kya issue aa raha hai sir?\\nCustomer: Dekhta hu wapas ek baar.\\nExecutive: Haanji sir.\\nCustomer: Wapas ek baar dekhta hu nahi join hoga to.\\nExecutive: Dekhiye sir maine fir se bheja hua hai sir click karenge na join now ka option aayega sir permission allow kar dijiyega sir. Maine sir screen share kar rakhi hai apne laptop pe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to join the provided link.\\n\n\\n\nResolution:\\n\n- Executive resent the link to the customer.\\n\n- Executive guided customer to allow permissions.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will try joining again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, join, network issue, screen share\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9ea33e51-3829-44a2-a6fc-8bbfb51221ca",
+  "ucid": "9ea33e51-3829-44a2-a6fc-8bbfb51221ca",
+  "seller_categories": [
+    {
+      "mcat_id": "134143",
+      "mcat_name": "Pet Bottle Scrap"
+    },
+    {
+      "mcat_id": "160919",
+      "mcat_name": "HDPE Drum Scrap"
+    },
+    {
+      "mcat_id": "154781",
+      "mcat_name": "HDPE Scrap"
+    },
+    {
+      "mcat_id": "182976",
+      "mcat_name": "Used Plastic Drums"
+    },
+    {
+      "mcat_id": "217124",
+      "mcat_name": "LD Plastic Scrap"
+    }
+  ]
+}

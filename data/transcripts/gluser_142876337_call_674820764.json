@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674820764",
+  "gluser_id": "142876337",
+  "vintage_months": 47,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709541",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: haan ji\\nExecutive: India Mart se\\nCustomer: Ji bilkul sir India Mart se baat kar rahe hain aap kahan se baat kar rahe hain sir?\\nCustomer: Main Surat se baat kar raha hun.\\nExecutive: Ji bataiye sir.\\nCustomer: Sorry madam problem ye hai ek to shunya vatis se baat kar raha hun.\\nCustomer: Haan haan ji bataiye sir.\\nCustomer: Aap karte ho kya kam nahi nahi nahi aap bataiye kya problem aa rahi hai sir?\\nCustomer: First mujhe manager change karna hai mere account mein jo manager hai wo uske sath jo mere account mein lead mein lead nahi aa rahi nahi aa rahi uske bare mein work karwana hai mere account mein.\\nExecutive: Accha do minute dijiye sir main aapko call back karti hun.\\nCustomer: A do minute dijiye sir main aapko call back karti hun.\\nCustomer: Okay\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change the manager in account.\\n\n- Not getting leads in the account.\\n\n\\n\nResolution:\\n\n- Executive said she will call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- manager change, buyleads, callback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c0226450-cc44-4326-8c86-4e828baa1daa",
+  "ucid": "c0226450-cc44-4326-8c86-4e828baa1daa",
+  "seller_categories": [
+    {
+      "mcat_id": "445988",
+      "mcat_name": "Silicone Reusable Condom"
+    },
+    {
+      "mcat_id": "650202",
+      "mcat_name": "Personal Vibrators and Massagers for Women"
+    },
+    {
+      "mcat_id": "650587",
+      "mcat_name": "Dragon Condom"
+    },
+    {
+      "mcat_id": "650199",
+      "mcat_name": "Sex Toys For Men and Women"
+    },
+    {
+      "mcat_id": "30023",
+      "mcat_name": "Wrist Watch"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674932204",
+  "gluser_id": "26211304",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Namaste sir, main baat kar raha hun, good morning.\\nCustomer: Haan ji, good morning sir.\\nExecutive: Kaise hain aap?\\nCustomer: Achha hun sir.\\nExecutive: Ji sir, main keh raha hun ki aapko do leads bheji thi consume kiye aapne?\\nCustomer: Haan consume kiye hai lekin usme se ek ne to bola Bihar ki hai ek to.\\nExecutive: Usne bola Bihar ki hai, Bihar ki Patna.\\nCustomer: Haan to Bihar mein bhi to deal karte hain aap.\\nCustomer: Karte hain lekin unse maine baat bhi ki hai, maine call lagaya unko, haan to wo kisi madarse ke sanchalak hain.\\nCustomer: To unhone kaha hai ki humne to search kiya hai aur hume jo hai marble pathar chahiye, unko ceramic ka chahiye.\\nExecutive: Achha.\\nCustomer: Unhone kaha ki hamara ceramic ka koi product nahi hai.\\nExecutive: Achha.\\nCustomer: Aur dusra wala bahar ka jo hai switchon ka aa raha hai.\\nExecutive: Number bhej doon aapko dono ke?\\nExecutive: Nahi nahi sir aapne baat kar li to yahi bahut hai.\\nCustomer: Haan.\\nExecutive: Theek hai baki aap thik se manage kijiye na aap, ek buyer bola hai.\\nExecutive: Befikar rahiye, befikar rahiye, ek buyer ko aaya do minute pehle mere paas mein.\\nCustomer: Ji ji.\\nExecutive: To unhone detail mangi hai, abhi main kar raha hun unse baat, abhi kya hota hai.\\nExecutive: Haan to befikar rahiye, hum khud hi aapko kal se lead bhi share kar rahe hain.\\nCustomer: Bilkul, nahi aap to account, account bas jo apne product hai uske related chalne do, koi issue aayega hi nahi, kaise aayega.\\nExecutive: Ji hum us, hum usi pe hi working kar rahe hain sir.\\nCustomer: Haan bilkul sir.\\nExecutive: Befikar rahiye ki hum khud ispe hain.\\nCustomer: Baki jaisa bhi hota hai aap mujhe bataiyega, baki sir aapka ye jo concern open hai ise main close kar doon?\\nCustomer: Kaun sa?\\nExecutive: Aapne 96 pe call kiya tha, aapke paas mera number to hai hi hai, aap mujhe call kar lijiyega agar koi issue aata hai.\\nCustomer: Theek hai, theek hai sir.\\nExecutive: Ek feedback aayega mera to aap de dijiyega please.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received irrelevant buyleads (Bihar, switches).\\n\n\\n\nResolution:\\n\n- Executive assured leads would be product-related.\\n- Executive offered to close the open concern.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account management, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cab890d1-13b3-452d-bece-54e4faeaf83a",
+  "ucid": "cab890d1-13b3-452d-bece-54e4faeaf83a",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "17395",
+      "mcat_name": "Marble Stool"
+    },
+    {
+      "mcat_id": "77994",
+      "mcat_name": "Stone Ball"
+    }
+  ]
+}

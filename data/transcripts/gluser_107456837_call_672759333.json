@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672759333",
+  "gluser_id": "107456837",
+  "vintage_months": 24,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jaspur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689584",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Good afternoon, sir.\\nCustomer: Haan, ho rahi hai.\\nExecutive: Very good morning sir, main IndiaMART se baat kar rahi hu.\\nCustomer: Madam isliye pichle complaint kiya tha ki hamare ko buylead nahi aa rahi bilkul bhi working karne ke liye. Ek baar please hamari profile ko ek baar check kar lo aur if possible to video setting kar lo.\\nExecutive: Sorry?\\nCustomer: Hamare paas buylead nahi aa rahe hain madam bilkul bhi.\\nExecutive: Kya issue kya aa raha hai buylead mein last time yaha pe discussion hua tha aapka hamari team se. Yaha par unhone aapko.\\nCustomer: Madam hamara to last time kya hamara to har time yahi issue rehta hai ki buylead nahi hai hamare paas. Aap bolte hain issue kya aa raha hai, hame kya pata issue kya aa raha hai ki buylead nahi mil raha hai hum logo ko.\\nExecutive: Sir lekin kuch details yaha se aapke se mangi gayi thi last time but wo abhi tak hame receive nahi hui hai. Even aapko bhi.\\nCustomer: Kya mangi gayi thi? Kuch bhi nahi manga gaya.\\nExecutive: Even ek second main aapko bhi bata deti hu. Just a second.\\nExecutive: Kuch products ki details yaha pe aayi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n- Wants profile to be checked and video setting done.\\n\n\\n\nResolution:\\n\n- Executive said some details were asked previously.\\n\n- Executive said some product details have come.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, video setting, details\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3cdbe4e3-2fd1-403a-b528-17bab6e00cde",
+  "ucid": "3cdbe4e3-2fd1-403a-b528-17bab6e00cde",
+  "seller_categories": [
+    {
+      "mcat_id": "41727",
+      "mcat_name": "Sugar Sachets"
+    },
+    {
+      "mcat_id": "121169",
+      "mcat_name": "Invert Sugar Syrup"
+    },
+    {
+      "mcat_id": "28818",
+      "mcat_name": "Golden Syrup"
+    },
+    {
+      "mcat_id": "179184",
+      "mcat_name": "Pharma Grade Invert Sugar Syrup"
+    },
+    {
+      "mcat_id": "121076",
+      "mcat_name": "Bakery Grade Invert Syrup"
+    }
+  ]
+}

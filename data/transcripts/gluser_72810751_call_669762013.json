@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669762013",
+  "gluser_id": "72810751",
+  "vintage_months": 1,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Azamgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Ji bataiye. Ji sir very good afternoon. Priyanka baat kar rahi hu IndiaMART se. Aapne call kiya 9696 par customer care par. Aapko vyapar aap se vyapar subscription wala se related issue aa raha hai na aap keh rahe the.\\nCustomer: Ji mai keh raha tha mai pani ka nahi hu mera ek dekh ke bata raha tha.\\nExecutive: Kya bata raha tha?\\nCustomer: Ye tumko IndiaMART wale chutiya bana diye vyapar app diye nahi hai sab bol raha tha.\\nExecutive: Sir aise kisi ki baato me mat aaiye agar koi aisa keh raha hai.\\nCustomer: Madam aap madam ek baat bataiye hello.\\nExecutive: Ha.\\nCustomer: Hello. Ab gawar aadmi ko aaj kal log chutiya banaye dete hai aap log padhe likhe hai kya batau mai.\\nExecutive: Sir aap itna bada business kar rahe hai mai aise shabd nahi bolungi jo aap bol rahe ho lekin aap itna bada business kar rahe ho to aapko kaun aise kar sakta hai sir koi nahi karega. Mera bas aapse request hai jaise aap business kar raha hu lekin online nahi karta hu na aap likh ke likh ke uske liye dusra ladka rakha hu bechare likh likh ke wahi karte hai. Kal mera dost aaya usko dikhaya ki aise aise kaam kar raha hai keh raha hai to yaar tumko IndiaMART usme diya hai diye nahi sirf bill banaya karo. Bola theek hai dekh lo to keh raha hai nahi hai. Mai bata deti hu sir aap whatsapp pe aapke ek message aaya hoga vyapar subscription se related waha par jaakar aap click karke aur waha se aapko vyapar se related details mil jayegi. Aapke whatsapp pe wo notification gaya hoga sir aap ek baar apna whatsapp check karoge na to waha par aapko sab check kar liya hu iske customer care se baat kar liya hu bola IndiaMART se baat karo wo dega.\\nExecutive: Sir aapne customer care se kaha pe call kiya?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states he doesn't have Vyapar app.\\n\n- Claims IndiaMART made him a fool.\\n\n\\n\nResolution:\\n\n- Executive denied the claim.\\n\n- Asked to check WhatsApp for Vyapar subscription message.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- vyapar app, subscription, whatsapp, customer care\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=762a69ee-5720-49aa-9372-15ed60cea2ea",
+  "ucid": "762a69ee-5720-49aa-9372-15ed60cea2ea",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "34116",
+      "mcat_name": "Outdoor Chair"
+    },
+    {
+      "mcat_id": "33795",
+      "mcat_name": "Wicker Table & Chair Set"
+    },
+    {
+      "mcat_id": "33794",
+      "mcat_name": "Outdoor Umbrella"
+    },
+    {
+      "mcat_id": "180547",
+      "mcat_name": "Outdoor Sofa Set"
+    }
+  ]
+}

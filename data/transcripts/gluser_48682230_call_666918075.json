@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666918075",
+  "gluser_id": "48682230",
+  "vintage_months": 91,
+  "bl_dau_oct": 28,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Samalkha",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haanji.\\nExecutive: So mai yahi keh rahi thi ki aapne na I think jab kal mera call mila nahi tha aapne IndiaMART ke customer care pe call kar diya tha.\\nCustomer: Mam actually wo number hai na koi party wala tha usne jo mere ko number diya tha na usne yahi diya tha maine usko bola bhi tha mai yaar IndiaMART ka ye to customer care ka number hai.\\nExecutive: Haan.\\nCustomer: To wo bol rahe the ki nahi aap inse baat karaoge na ye aapko dhund ke de denge.\\nExecutive: Abhi wo IT IT mere paas bhi ticket aati hai ab mera phone kal band tha mai bata rahi thi na aapko mere phone ke thode se issue aa rahe the.\\nCustomer: Maine usko bola bhi tha maine usko bola bhi tha mai bhai kya bolte hai hum aaj Sunday hai kya pata off hoga unka chutti milegi.\\nExecutive: Haan.\\nCustomer: To bola nahi customer care pe koi na koi to milega utha lega aur bata bhi dega ki kahan pe milega kahan nahi milega.\\nExecutive: Koi nahi aap iske aise na mujhe whatsapp karke chhod diya karo ya matlab aapka call dekh ke mai anyways kar hi leti hu wahi cheez ki mere paas text to aa hi gaya tha. A koi nahi ab aap ek kaam karo na mai isko close kar rahi hu kyuki discussion to apna ho hi raha hai main yahi tha ki mai aapko connect kar lu isi liye ticket ka. Thik hai? To wo ticket mai close kar de rahi hu discussion to apna ho hi raha hai koi dikkat nahi to aap please ek baar check kar lena mere ko mail par na.\\nCustomer: Thik hai thik hai.\\nExecutive: Okay sir okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called customer care instead of executive.\\n\n\\n\nResolution:\\n\n- Executive explained the reason for call delay.\\n- Executive is closing the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer needs to check the mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, ticket, call, whatsapp\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95ea54c8-f9ea-4dac-a59f-34718a32b999",
+  "ucid": "95ea54c8-f9ea-4dac-a59f-34718a32b999",
+  "seller_categories": [
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "164041",
+      "mcat_name": "Mild Steel Hex Bolt"
+    },
+    {
+      "mcat_id": "134159",
+      "mcat_name": "Mild Steel Bolt"
+    },
+    {
+      "mcat_id": "1347",
+      "mcat_name": "Carriage Bolts"
+    },
+    {
+      "mcat_id": "9222",
+      "mcat_name": "Hex Bolts"
+    }
+  ]
+}

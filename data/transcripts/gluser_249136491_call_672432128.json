@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672432128",
+  "gluser_id": "249136491",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panchla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686154",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan mam boliye.\\nCustomer: Haan ji Sardar sir baat kar rahe hain?\\nExecutive: Ji.\\nCustomer: Haan ji sir good afternoon. Anju bol rahi thi IndiaMART se aapke account se.\\nExecutive: Ji boliye. Hum phone kiya tha ek baar subah.\\nCustomer: Haan subah aapki call aayi thi uske baad fir maine aapko call back kiya do ek ke baad kiya fir aapke baat ho nahi payi to meeting chal rahi thi sir tab aapki call nahi le payi.\\nCustomer: Mam bol rahe the ki wo pehle wala jo lead aa rahe the wo to pehle sahi tha abhi to jo wala lead hi nahi aa raha hai ek bhi kaam nahi ho raha hai kya ho raha hai dekhiye thoda.\\nExecutive: Kya lead nahi aa rahi aapke paas?\\nCustomer: Nahi asal mein to nahi aa raha hai ab jab list dekhega aapko to pata chal jayega na kya aa raha hai nahi aa raha hai aap ek baar check karke dekhiye na kya aa raha hai ek cheez do piece karke quantity hai ka koi lead nahi aaya.\\nExecutive: Hmm hmm. Aap ek baar check kijiye.\\nExecutive: Sir dekhiye kya hota hai na kuch cheeze hain jo ki thoda aapke sath milke correct karwani hai hume theek hai kuch aisi category hai.\\nCustomer: Wo baat to aap bol rahe hain mam bahut baar bol bol diya aapko baat. Meeting ka time nahi diya na sir aapne meeting pe aana hai aapko ek baar mere sath video meeting connect kijiye ab dekhiye na jaise aapke hydraulic jack seal hai, O rings hai, silicon ring hai, wet and seal hai, hydraulic O ring hai ye sari kuch aisi categories hain jisme aapne bahut achi khasi budget consume ki hui hai. Magar ye catalog pe add nahi hai. Ab sir aapse bina kuch confirm kiye main add ya remove kar hi nahi sakti na isko. To aapko ek baar mere sath video meeting pe aana hai aur ye sab cheeze discuss karke ek baar theek kar lete hain isko.\\nCustomer: Ji ek baar hum subah karke ek baar phone karega aapko ek baar phone karke.\\nExecutive: Aap aap kab tak available rahoge sir agar by chance hota hai aap bhul jate ho nahi karte ho to mujhe bata do main us time karti hu aapko call back.\\nCustomer: Aaj nahi hoga hum mere ko phone jab karega mam tab ek baar video call mein leke baat kar lega theek hai bhai se bhai se leke baat kar rahega theek hai.\\nExecutive: Aaj nahi kara sakte hain kya?\\nCustomer: Nahi aaj aaj nahi aa sakta.\\nExecutive: Sir dekhiye har din na ye badhta chala ja raha hai aap thoda jaldi meri call connect karayenge to jaldi se jaldi responses milenge sir samajh rahe hain.\\nCustomer: Ji ji ji. To pehle bhi maine call kiya tha isi wajah se reh gaya tha sir to sir jab bhi aayenge aapke bhai bhi aane wale hain. Unse call connect karke meri baat karaiye aur ek baat bataye use kaun karte hain aap karte ho aapke bhai karte hain?\\nCustomer: Hum hum karte hain.\\nExecutive: To agar use aap karte ho sir to fir aap hi join karo na meeting main aap hi ko samjhaungi aap hi ko bataungi cheeze.\\nCustomer: Nahi wo jo catalog ka photo dena hai na usko thoda photo photo lena hai uske paas theek hai wahi de dega.\\nExecutive: Achcha achcha. To sir koshish karna sir agar aaj sham tak ho sakti hai meeting to bahut hi achi baat hai nahi to kaise bhi karke kal aap meri baat karaiye kyuki problem ko solution solution nikalte hain uska aur then hum kam karte hain uske according isko theek hai.\\nCustomer: Ji okay. Haan.\\nExecutive: Sir ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states leads have decreased.\\n\n- Wants to resolve catalog issues.\\n\n\\n\nResolution:\\n\n- Executive explained the need for a video meeting.\\n\n- Executive offered to reschedule the call.\\n\n\\n\nNext Steps: \\n\n- Customer will connect with the executive tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, video meeting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 188,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7ae5c179-faa2-4974-ab3e-6534162b2900",
+  "ucid": "7ae5c179-faa2-4974-ab3e-6534162b2900",
+  "seller_categories": [
+    {
+      "mcat_id": "8288",
+      "mcat_name": "Rubber Bushings"
+    },
+    {
+      "mcat_id": "8317",
+      "mcat_name": "Rubber O Ring"
+    },
+    {
+      "mcat_id": "9346",
+      "mcat_name": "Silicon O Rings"
+    },
+    {
+      "mcat_id": "191812",
+      "mcat_name": "Hydraulic Jack Seal"
+    },
+    {
+      "mcat_id": "8318",
+      "mcat_name": "Rubber Oil Seal"
+    }
+  ]
+}

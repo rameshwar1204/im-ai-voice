@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672942543",
+  "gluser_id": "159741582",
+  "vintage_months": 5,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690687",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji.\\nExecutive: Ji ha ji. Vivek baat kar raha hu IndiaMART se account manager.\\nCustomer: Ji.\\nExecutive: Ji aapki profile me work karna tha kyuki aapke catalog ka quality score bhi 60% hi hai. Thik hai ye above 80 85% hona chahiye. Iska bhi bahut impact padta hai jo aapki buyleads calls or enquiries aati hai in par. To ispe work karna hai aapko.\\nCustomer: To aap abhi mai aapko ek video meet ka link send kar raha hu. Thik hai?\\nExecutive: Ji.\\nCustomer: Aap video meet join kar lijiye aap iski details mujhe batate jaiye one by one to mai inko add kar deta hu to aapke catalog ka quality score hai wo up ho jayega. Thik hai? Kai bahut impact padta hai aapki profile pe catalog pe agar aapka quality score kam hai.\\nExecutive: Thik hai. Sir please aap mujhe connect kar lijiye mai aapko karwa deta hu abhi.\\nCustomer: Thik hai mai aapko link send kar raha hu aap check kariyega. Aap jo registered mail id hai us pe link aa gaya hoga.\\nExecutive: Tab bhi nahi aaya.\\nCustomer: Check kariye sir fresh kariye ek baar.\\n\\n[unintelligible]\\n\\nThe person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain usne aapki call ko hold pe rakha hai. Kripya line par bane rahe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Catalog quality score is only 60%.\\n\n- Wants to improve catalog quality score.\\n\n- Has not received the video meet link.\\n\n\\n\nResolution:\\n\n- Executive sent a video meet link.\\n\n- Asked to join the video meet.\\n\n- Asked to check registered email ID for link.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, quality score, video meet, link\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 145,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=81cea779-c30e-481a-a3a2-04916d4ba80b",
+  "ucid": "81cea779-c30e-481a-a3a2-04916d4ba80b",
+  "seller_categories": [
+    {
+      "mcat_id": "150088",
+      "mcat_name": "Marble Polishing Services"
+    },
+    {
+      "mcat_id": "137283",
+      "mcat_name": "Marble Floor Polishing Services"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "170549",
+      "mcat_name": "Granite Polishing Services"
+    },
+    {
+      "mcat_id": "170499",
+      "mcat_name": "Floor Polishing Service"
+    }
+  ]
+}

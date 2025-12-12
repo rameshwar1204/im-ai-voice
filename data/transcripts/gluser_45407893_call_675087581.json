@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675087581",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan ji madam.\\nExecutive: Haan ji sir aap.\\nCustomer: Shubham ji baat kar rahe hain?\\nExecutive: Aryan bol raha tha madam main. Bataye.\\nCustomer: Sir mujhe apne account se related.\\nExecutive: Ji ji. Achcha. Bataye madam kis se related?\\nCustomer: Apne account se sir hamare inquiry nahi aa rahi hai sir. Pehle jis inquiry aa rahi thi IndiaMART se. Tulsian Healthcare Private Limited se baat kar rahi hu.\\nExecutive: Hmm.\\nExecutive: Kis company ka naam kya hai aapka?\\nCustomer: Tulsian Healthcare Private Limited.\\nExecutive: Tulsian.\\nCustomer: Hmm.\\nExecutive: Achcha. T U S L.\\nExecutive: Haan samajh gaya. T U L S A N S Y A L.\\nCustomer: Haan. T U L S E Y A L Tulsian.\\nExecutive: Achcha inquiry nahi aa rahi hai aapko.\\nCustomer: Hmm.\\nExecutive: Achcha achcha. Sir madam main abhi dekh leta hu.\\nCustomer: Theek hai.\\nExecutive: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving inquiries.\\n\n\\n\nResolution:\\n\n- Executive assured to check the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, account, company name\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f70717e1-0035-4fc4-94e0-bc60e3deca0a",
+  "ucid": "f70717e1-0035-4fc4-94e0-bc60e3deca0a",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

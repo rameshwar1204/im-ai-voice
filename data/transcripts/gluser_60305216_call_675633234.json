@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675633234",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Namaste sir.\\nExecutive: Ha main ye bol raha tha maine kaha wo aapka kya naam hai wo ticket main close karwa raha tha to usi ke jo hai na aapka mail aayega uska feedback form.\\nCustomer: Sir main aapko thodi der baad call karu to sir wo wo wo koi chakkar nahi hai bas usi ko batane ke liye maine call kiya hua tha aapke liye.\\nCustomer: Sir kya hai ki main koi maal laya hua tha gadi bharwa raha hu.\\nExecutive: Koi nahi koi nahi aap apna kaam kariye wo to maine isiliye inform karne ke liye call kiya tha ki wo aapko mail aayega to usme aap satisfied mark kar dena.\\nCustomer: Thik hai.\\nCustomer: Thik hai thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive informed the customer that he would receive a feedback form via email regarding a closed ticket and requested the customer to mark it as satisfied.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer to mark the feedback form as satisfied once received.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback form, ticket closure\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ec4a736c-bddc-4c86-9458-9bd2cd344987",
+  "ucid": "ec4a736c-bddc-4c86-9458-9bd2cd344987",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

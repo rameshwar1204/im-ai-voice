@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670093208",
+  "gluser_id": "248816044",
+  "vintage_months": 4,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Jharsuguda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663174",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5c892fc8-a3c4-49a0-b254-541f58a8208d",
+  "ucid": "5c892fc8-a3c4-49a0-b254-541f58a8208d",
+  "seller_categories": [
+    {
+      "mcat_id": "184085",
+      "mcat_name": "Crompton Ceiling Fans"
+    },
+    {
+      "mcat_id": "215843",
+      "mcat_name": "L&T Modular Switches"
+    },
+    {
+      "mcat_id": "181454",
+      "mcat_name": "LED COB Light"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "163158",
+      "mcat_name": "Modular Plates"
+    }
+  ]
+}

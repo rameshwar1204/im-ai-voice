@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670400214",
+  "gluser_id": "43962442",
+  "vintage_months": 41,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665646",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan? Meri Mr. Vishal ji se baat ho rahi hai na?\\nCustomer: Kaun bol raha hai?\\nExecutive: Hi Vishal sir, main Vishal baat kar raha hun IndiaMART office se sir. Good evening, kaise hain aap?\\nCustomer: Kiske regarding hai ye?\\nExecutive: Ah sir, aapka na ek feedback hamein receive hua tha. Aapki Mr. Abhishek ji se baat hui hogi. To unse baat karne ke baad aapne ek feedback diya tha not satisfied ka. To uske liye main puchna chahta hun koi problem face kar rahe hain?\\nCustomer: Haan, kyunki kya hai tumhare logon ko samajh mein nahi aa raha. Mein bahar hun, woh bol raha hai baad mein baat karte hain to unko samajh mein nahi aa raha.\\nExecutive: I am really apologize sir. Main iske liye mafi mangta hun sir aapse.\\nCustomer: Koi baat nahi, koi baat nahi. Ah mein baad mein baat karun sir aapse please.\\nExecutive: Theek hai, koi issue nahi hai sir. To main abhi concern yahan pe close kar sakta hun? Koi issue to nahi hai na apne ko dusra?\\nCustomer: Nahi woh mein rehne do open woh mein baad mein baat karta hun uske bare mein.\\nExecutive: Hmm theek hai. Sir agar meri side se kuch chahiye aap mujhe bataiye.\\nCustomer: Abhi idhar aa jao. Phir baat karte hain.\\nExecutive: Nahi theek hai aap abhi busy hain aap free ho lijiye. Jaise free ho jayenge mujhe call kariye.\\nCustomer: Nahi nahi idhar aa jao aap aa jao idhar sir ji.\\nExecutive: Nahi nahi nahi sir please I am really sorry.\\nCustomer: Aapke aapko agar service hi dena hai aapko madad hi karna hai aapko clear hi karna hai aap aa jaiye idhar.\\nExecutive: Nahi koi nahi aap abhi busy lag rahe the.\\nCustomer: Nahi nahi nahi aa jaiye aa jaiye.\\nExecutive: Aisa kyun keh rahe hain sir?\\nCustomer: Haan?\\nExecutive: Aisa kyun keh rahe hain sir?\\nCustomer: Yahi problem hai aap logon ka aur kuch nahi. Theek hai?\\nExecutive: Nahi theek hai main samajh gaya sir aapki baat. Haan koi nahi aap free ho jaiye main aapko dobara karta hun connect.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with the service.\\n\n- Customer wants the executive to visit him.\\n\n\\n\nResolution:\\n\n- Executive apologized for the inconvenience.\\n\n- Executive offered to call back when customer is free.\\n\n\\n\nNext Steps: \\n\n- Executive will call back when customer is free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, not satisfied, call back\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8edf544f-5048-461f-bf4c-f3f68498e7bf",
+  "ucid": "8edf544f-5048-461f-bf4c-f3f68498e7bf",
+  "seller_categories": [
+    {
+      "mcat_id": "185180",
+      "mcat_name": "Zinc Flake Coating"
+    },
+    {
+      "mcat_id": "144677",
+      "mcat_name": "Hot Dip Galvanizing"
+    },
+    {
+      "mcat_id": "153541",
+      "mcat_name": "PTFE Coating Services"
+    },
+    {
+      "mcat_id": "102044",
+      "mcat_name": "Metal Coating Services"
+    },
+    {
+      "mcat_id": "74435",
+      "mcat_name": "Iron Screw"
+    }
+  ]
+}

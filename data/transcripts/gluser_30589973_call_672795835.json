@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672795835",
+  "gluser_id": "30589973",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Coimbatore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Ah sir, naan Swathi call pannitu pesuringa IndiaMART-indhirundhu.\\nCustomer: Ah sollunga.\\nExecutive: 15 days follow up conversation sir idhu. Ah sir, naan 15 days kekuringala sir naan pesuradhu?\\nCustomer: Sollunga madam.\\nExecutive: Sir naan unga kitta naan 15 days appuram oru call connect pandra maari irukkunnu sollirundhen sir preference check panna.\\nCustomer: Aama aama madam.\\nExecutive: So andha call naan ippo connect pannikalaangala sir?\\nCustomer: Sollunga madam.\\nExecutive: Appadingala ok sir, naan ippo connect pandradhu kooda thaan, naalaki address-um change aagum, adhe maari namma catalog-ume update panna mudiyum. Yenna naan madam-ukku call pannumbodhu ungala reach panna sollirundhaanga sir naan adhai kekkaren.\\nCustomer: Seri madam. Illa madam naalaki avangala call panni sollunga madam.\\nExecutive: Naalaikkingala? Innaikku edhaavadhu possible irukka sir ungakku evening-la?\\nCustomer: Hospital-la irukken madam, konjam family members-kku fever-unnu sollittu hospital-la irukken madam.\\nExecutive: Madam unga family-la konjam fever-unnu sollittu ellaarume hospital-la irukkaanga madam.\\nCustomer: Oh ok ok puriyudhu puriyudhu puriyudhu.\\nCustomer: Naalaikku naan call pannittu call panna correct-aa irukkum sir namma.\\nCustomer: Naan vandhuttu ungakku call pannaren madam.\\nExecutive: Seri ok konjam marakkaama call pannunga appodhaan adhai update panna mudiyum sir.\\nCustomer: Adhu innamaa maathiningala madam?\\nExecutive: Innum konjam change aayidichu but neenga naalaikku connect pandradhu-la thaan live aagum sir idhu.\\nExecutive: Ennoda end-la naan change pannitten.\\nCustomer: Adhu serious koduthaa udane pannittaanga sollittu varadhu call connect panna sollunga.\\nExecutive: Change aayidichu sir.\\nCustomer: Adhu maaridichu-la.\\nExecutive: Ah maaridichu-la sir adhu change aayidichu.\\nCustomer: Seri. Indha preference-kku thaan naan ungakku andha 15 days appuram call connect panna sonnadhu. Idhai naan madam-kitte-yume ippo inform pannirundhen staff thaan idhai paathuttu irukkaanga manager thaan paakraanga appadinnu sollirundhaanga. So andha condition-naala thaan namma ungakku idhu call pannirundhinga sir.\\nCustomer: Ok ok madam illa illa madam idhu naalaikku vandhuttu call pannunga madam idhu idhu-la irundhu naan poi vararen.\\nExecutive: Ah seri ok neenga call pannunga seri ok madam.\\nExecutive: Ok.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to connect for preference check.\\n\nResolution:\\n\n- Customer is in hospital due to family illness.\\n- Executive agreed to call back tomorrow.\\n\nNext Steps: \\n\n- Executive will call back tomorrow.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- preference, follow up, catalog update\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 129,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1b257f9b-76fb-40d5-83a0-fa8bf07d5b2d",
+  "ucid": "1b257f9b-76fb-40d5-83a0-fa8bf07d5b2d",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "179153",
+      "mcat_name": "M Sand"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    }
+  ]
+}

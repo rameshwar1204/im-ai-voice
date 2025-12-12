@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668253334",
+  "gluser_id": "186644935",
+  "vintage_months": 14,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Unjha",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632592",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hi sir, call this side ho gaya tha. Ek ek aur last cheez hai sir. A, mai aapko sir WhatsApp pe jo aapke competitors hai jaise cumin seeds me aap deal karte hai, fennel seeds me deal karte hai aur ajwain me deal karte hai. Ye teen aapka main product hai, thik hai? To sir, jo aapke competitors hai mai unko unka WhatsApp pe aapko screenshot share kar raha hu. Ek baar sir unko bhi go through kar lijiyega.\\nCustomer: Thik hai sir.\\nExecutive: Ha, mai just abhi share karta hu aur fir sir mai jaise hi available hounga to video meeting pe call back kar lenge sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive to share competitor screenshots on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive shared competitor details via WhatsApp.\\n\n- Executive will schedule a video meeting later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- competitors, whatsapp, video meeting, products\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d9929e5a-e012-4acb-99ec-175d32c0f871",
+  "ucid": "d9929e5a-e012-4acb-99ec-175d32c0f871",
+  "seller_categories": [
+    {
+      "mcat_id": "11270",
+      "mcat_name": "Cumin Seeds"
+    },
+    {
+      "mcat_id": "6281",
+      "mcat_name": "Fennel Seed"
+    },
+    {
+      "mcat_id": "3223",
+      "mcat_name": "Ajwain"
+    },
+    {
+      "mcat_id": "4070",
+      "mcat_name": "Coriander Seed"
+    },
+    {
+      "mcat_id": "8539",
+      "mcat_name": "Sesame Seed"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675890662",
+  "gluser_id": "136640252",
+  "vintage_months": 7,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwandi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715987",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Ma'am, main call karta hu 10-15 minute ke baad, zara main busy hu. Call back karta hu aapko.\\nCustomer: Okay sir, okay. Maine WhatsApp pe aapko lead kiya hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about a lead sent on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive stated they are busy and will call back in 10-15 minutes.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call back in 10-15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp lead, callback\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6afe8efc-efe0-46b5-9b8f-475b63b22c76",
+  "ucid": "6afe8efc-efe0-46b5-9b8f-475b63b22c76",
+  "seller_categories": [
+    {
+      "mcat_id": "65381",
+      "mcat_name": "Automotive V Belt"
+    },
+    {
+      "mcat_id": "36034",
+      "mcat_name": "Rubber Timing Belts"
+    },
+    {
+      "mcat_id": "27179",
+      "mcat_name": "Drive Belts"
+    },
+    {
+      "mcat_id": "181985",
+      "mcat_name": "Rubber V Belt"
+    },
+    {
+      "mcat_id": "1075",
+      "mcat_name": "Fan Belts"
+    }
+  ]
+}

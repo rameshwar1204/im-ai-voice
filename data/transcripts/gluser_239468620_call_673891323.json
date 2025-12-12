@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673891323",
+  "gluser_id": "239468620",
+  "vintage_months": 10,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hmm.\\nHello.\\nHello.\\nHmm.\\nJi ye Piyush ji se baat ho rahi hai kya?\\nNo.\\nPiyush ji nahi hai ye Grand Supreme mein hi call lagi hai na?\\nWo bahar gayi hai thodi der baad call karna.\\nAchha Piyush ji nahi aaye hai abhi.\\nHmm.\\nAchha to kab tak aa jayenge aise Piyush ji?\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asking to speak with Piyush.\\n\n- Confirming if the call is to Grand Supreme.\\n\n\\n\nResolution:\\n\n- Informing that Piyush is not available and has gone out.\\n\n- Asking to call later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Caller needs to call later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nspeaking with piyush, grand supreme\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6cf1713a-5374-4daa-857c-fddd0d3390cd",
+  "ucid": "6cf1713a-5374-4daa-857c-fddd0d3390cd",
+  "seller_categories": [
+    {
+      "mcat_id": "30144",
+      "mcat_name": "Head Massager"
+    },
+    {
+      "mcat_id": "209032",
+      "mcat_name": "Eyebrow Trimmer"
+    },
+    {
+      "mcat_id": "30019",
+      "mcat_name": "Hand Tally Counter"
+    },
+    {
+      "mcat_id": "3323",
+      "mcat_name": "Wall Hooks"
+    },
+    {
+      "mcat_id": "17057",
+      "mcat_name": "Leather Jewelry Box"
+    }
+  ]
+}

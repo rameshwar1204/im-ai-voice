@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667994625",
+  "gluser_id": "129854156",
+  "vintage_months": 49,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Budgam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, ji mam.\\nCustomer: Hello, yes mam, aapko maine link share kiya tha, aapne join kara hua hai kya abhi?\\nCustomer: Maine kara hai na, lekin waha se kuch nahi aa raha hai. Dekho, maine bhi yaha se aapko share kiya hai.\\nExecutive: Haan, maine dekha aapne kiya hai.\\n(silence)\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to join via shared link.\\n\n\\n\nResolution:\\n\n- The call was put on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, joining, hold\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 121,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4afc3b21-c8ed-42f9-8dbb-b0da3609caa6",
+  "ucid": "4afc3b21-c8ed-42f9-8dbb-b0da3609caa6",
+  "seller_categories": [
+    {
+      "mcat_id": "214916",
+      "mcat_name": "Saffron Bulbs"
+    },
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "651896",
+      "mcat_name": "Kashmiri Walnut Kernels"
+    },
+    {
+      "mcat_id": "215552",
+      "mcat_name": "Kashmiri Garlic"
+    }
+  ]
+}

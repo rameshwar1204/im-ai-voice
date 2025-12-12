@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669411827",
+  "gluser_id": "10069547",
+  "vintage_months": 123,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656226",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello? Hello?\\n\\nCustomer: Ji good evening, good afternoon.\\n\\nExecutive: Haan ji madam aapka call nahi lag raha shayad.\\n\\nCustomer: Hello? Aapka ji aapka. Maine aapko photos bhej diye the.\\nExecutive: Main packing machine wala se bol raha hu ji.\\nCustomer: Ji ji ji.\\n\\nCustomer: Haan theek hai, main ek bari dekh leti hu.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer sent photos.\\n\n\\n\nResolution:\\n\n- Executive confirmed from packing machine department.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photos, packing machine\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f40e770-2036-4519-aec5-46709d643416",
+  "ucid": "7f40e770-2036-4519-aec5-46709d643416",
+  "seller_categories": [
+    {
+      "mcat_id": "28702",
+      "mcat_name": "Food Dehydrators"
+    },
+    {
+      "mcat_id": "28697",
+      "mcat_name": "Foil Sealing Machine"
+    },
+    {
+      "mcat_id": "140826",
+      "mcat_name": "Vegetable Dehydration Machine"
+    },
+    {
+      "mcat_id": "142048",
+      "mcat_name": "Tray Sealer Machine"
+    },
+    {
+      "mcat_id": "122552",
+      "mcat_name": "Roasting Machine"
+    }
+  ]
+}

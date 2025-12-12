@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667464673",
+  "gluser_id": "83334185",
+  "vintage_months": 14,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saphale",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635552",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hi sir Kalika here from IndiaMART sir senior manager abhi aap se baat ho rahi thi na 3 baje ke aas pass.\\nCustomer: Yes sir.\\nExecutive: Wo actually me sir maine aapke pass ek minute ke liye call kiya hai aapki jab mere executive se baat hui uske baad sir mere se aapki baat hui right?\\nCustomer: Correct.\\nExecutive: Right uske baad aapke pass sir ek feedback ke liye aaya hoga message whatsapp pe.\\nCustomer: whatsapp pe maine kar diya usko.\\nExecutive: Ha to aapne not satisfy mark kar diya tha.\\nCustomer: Ha kyuki Shubham se mera baat hua tha na.\\nExecutive: Ya I I know sir. To ye wahi jo aapne mujhe bataya tha ki issues wagera aa rahe hain relevant inquiries wagera aa rahi hai wahi issues the na?\\nCustomer: Ha wahi issue the.\\nExecutive: Achcha uske alawa koi issue tha kya?\\nCustomer: Nahi nahi.\\nExecutive: Achcha. To bas isliye maine call kiya main actually me samajhna chah raha tha ki jo hamara discussion hua tha aapne not satisfy de diya hai to mujhe laga shayad aapne meri call pe diya hai kyuki mera call to aapke discussion ke baad hi shuru hua tha.\\nCustomer: Shubham ka message aaya hai mere ko Shubham ke naam se aaya tha.\\nExecutive: Ji ji bilkul bilkul bilkul wo feedback ke liye aata hai koi dikat nahi sir aapne diya hai achcha hai sir maine aap se jo discussion kiya tha hum log ek bar 8 tarikh ko discussion kar lenge aap aaram se enjoy kijiye apne family ke sath. Theek hai sir?\\nCustomer: Okay sir okay okay okay okay thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had issues with irrelevant inquiries.\\n\n\\n\nResolution:\\n\n- Executive clarified feedback was for previous interaction.\\n\n- Executive offered to discuss issues on the 8th.\\n\n\\n\nNext Steps: \\n\n- Discussion scheduled for the 8th.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, irrelevant inquiries, discussion\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e55a8d06-257e-4208-8294-ddfa43de2fc0",
+  "ucid": "e55a8d06-257e-4208-8294-ddfa43de2fc0",
+  "seller_categories": [
+    {
+      "mcat_id": "136631",
+      "mcat_name": "Men Sublimation T-Shirt"
+    },
+    {
+      "mcat_id": "8731",
+      "mcat_name": "Promotional T-Shirt"
+    },
+    {
+      "mcat_id": "222315",
+      "mcat_name": "Cricket Jersey"
+    },
+    {
+      "mcat_id": "136167",
+      "mcat_name": "Round Neck Men T-Shirt"
+    },
+    {
+      "mcat_id": "158308",
+      "mcat_name": "Men Plain T Shirt"
+    }
+  ]
+}

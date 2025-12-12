@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675567021",
+  "gluser_id": "39426474",
+  "vintage_months": 12,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Mursan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9712136",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji madam\\nExecutive: Haan sir leads ka kya bol rahe hain issue aa rahi hai fir se?\\nCustomer: Haan issue tha abhi aa nahi rahi thi matlab kabhi aayi thi uske baad se ek bhi nahi aaya.\\nExecutive: Abhi\\nCustomer: Abhi acha actually actually mere paas dusre clients ke bhi complaint aa rahe hain ki leads ke notification nahi aa rahe hain.\\nExecutive: Aapke paas notification nahi aa rahi hai na?\\nCustomer: Notification to bilkul nahi aa raha hai aur mail pe bhi nahi aa rahi hai na?\\nExecutive: Na\\nCustomer: Mail pe to aaj tak nahi aayi.\\nExecutive: Mail pe Mail pe aati nahi hai. Vaisa app pe aati thi na app pe app pe notification aati thi na aapke paas?\\nCustomer: App pe aata tha. Aaj subah notification jarur aaya tha.\\nCustomer: Subah jab lead aayi thi tab notification aaya tha mere paas.\\nExecutive: Hmm abhi aap tab login karke check kiye the?\\nCustomer: Abhi turant just login in karke rakha hua tha. Turant kiya tha kabhi ek lead mere ko mili thi wo bhi aise hi thi. Ye actually past lead actually agar leads aaya hota aur aapke paas matlab sold out mein hota to at least past leads mein dikhta but past leads mein bhi nahi dikh raha hai kuch.\\nExecutive: Thik hai main fir bhi na mail daal ke aapko batati hu aadhe ghante mein, thik hai?\\nCustomer: Lead aa hi nahi raha hai. Past mein abhi ek lead aaya tha wo maine consume kar liya.\\nExecutive: Haan\\nCustomer: But wo lead bhi aisa hi tha, ferret category ka tha.\\nExecutive: Hmm\\nCustomer: But usme quantity vagaira kuch clear nahi tha.\\nExecutive: Acha. Thik hai main ek baar na aapko update karti hu. Ek to aapko notification nahi aa rahi hai, dusra leads nahi aa rahi hai na? Yahi dikkat aa rahi hai na teen chaar din se?\\nCustomer: Haan haan.\\nExecutive: Thik hai main aapko update karti hu jo revert.\\nCustomer: Irrelevant lead nahi hai jo idhar udhar ki jyada aa rahi hai.\\nExecutive: Acha acha. Thik hai hmm.\\nExecutive: Main aapko batati hu thik hai mail aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving lead notifications.\\n\n- Customer is not receiving leads.\\n\n- Customer says irrelevant leads are coming.\\n\n\\n\nResolution:\\n\n- Executive will send a mail in half an hour.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, notification, irrelevant leads\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6cdc4815-06ee-44b1-9c31-2b1897d4fda1",
+  "ucid": "6cdc4815-06ee-44b1-9c31-2b1897d4fda1",
+  "seller_categories": [
+    {
+      "mcat_id": "9559",
+      "mcat_name": "SMPS Transformer"
+    },
+    {
+      "mcat_id": "135987",
+      "mcat_name": "Ferrite Transformer"
+    },
+    {
+      "mcat_id": "148633",
+      "mcat_name": "Drum Coil Inductor"
+    },
+    {
+      "mcat_id": "34754",
+      "mcat_name": "PCB Transformers"
+    },
+    {
+      "mcat_id": "13194",
+      "mcat_name": "Common-mode Choke"
+    }
+  ]
+}

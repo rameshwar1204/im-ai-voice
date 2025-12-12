@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673630249",
+  "gluser_id": "15059297",
+  "vintage_months": 79,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694198",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan theek hu boliye\\nCustomer: Sandeep ji aapse baat kar raha hu IndiaMART se kal baat hui thi na madam\\nExecutive: Hmm\\nCustomer: Sandeep ji main ye keh raha hu kal mere call ke baad aapko shayad mere manager ki call bhi aayi hogi Sumit Choudhary naam se\\nExecutive: Hmm\\nCustomer: Ji to kya keh rahe the sir\\nExecutive: Wo jitna unhone discuss kiya inquiry wale ke liye video meeting ke liye keh rahe the to hai time abhi aapke pass\\nCustomer: Nahi sir is tarah se wo kam kar rahe hai abhi sir theek hai aur aap aapko to aapne to kal sara cheez video me bata diya dikha diya aur maine bhi aapko bola ki 20 din me mujhe\\nCustomer: Haan haan wo cheez to aapne mujhe bataya tha lekin mere manager se bhi baat hui thi na to aapne bola tha ki sir theek hai kal subah ke liye main bata dunga aapko call karke\\nExecutive: Are jabardasti phone se phone karke bolega aap 5 minute baat kariye kya baat karni hai mujhe dekhiye abhi mera jo package chal raha hai wahi package chalega theek hai sir package ki koi baat hi nahi hai aur dusri baat jis hisab se TrustSeal verified ko jis hisab se lead inquiry inquiry specifically increase to aa raha hai theek hai wo main spend bhi kar raha hu\\nCustomer: Inquiry kafi kam hua hai yahi complaint tha mera wo maine aapko bata diya aapke sath regarding baat chit bhi ho gaya theek hai\\nExecutive: Theek hai nahi isme koi issue nahi hai sir dekho main kuch aisa bolne mujhe to wo cheez kal aapse baat hui thi uski to usme dikha tha to main isliye puch raha tha ki video meeting karni thi kya kuch issue tha aur jo aapko baat karni thi to isliye main call issue to maine bata diya sir aapko\\nCustomer: Haan wo to main dekho sir usme uske baad maine jo kuch categories jo thi wo bhi check kari thi kuch ek do product me map bhi nahi thi wo bhi map kar di thi to wo cheez theek ho gayi thi aap ek bar check kar lena kuch sub categories me ek category product check nahi hua tha maine map kar di thi ek bar aapko check kar lena inquiry ho sakta hai increase ho jayegi\\nExecutive: Theek hai sir\\nCustomer: Theek hai sir thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inquiry rate is low.\\n\n- Unnecessary follow-up calls from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive checked and mapped the categories.\\n\n- Executive assured no issues with the subscription.\\n\n\\n\nNext Steps: \\n\n- Customer to check subcategories for inquiry increase.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- inquiry, categories, trustseal, subscription\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 145,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4fc9c097-75d4-4b94-bb0d-4885436f061e",
+  "ucid": "4fc9c097-75d4-4b94-bb0d-4885436f061e",
+  "seller_categories": [
+    {
+      "mcat_id": "107091",
+      "mcat_name": "Ball Pen Making Machine"
+    },
+    {
+      "mcat_id": "214618",
+      "mcat_name": "Use And Throw Pen Making Machine"
+    },
+    {
+      "mcat_id": "150742",
+      "mcat_name": "Pen Assembly Machine"
+    },
+    {
+      "mcat_id": "134150",
+      "mcat_name": "Pencil Making Machine"
+    },
+    {
+      "mcat_id": "85566",
+      "mcat_name": "Automatic Assembly Machines"
+    }
+  ]
+}

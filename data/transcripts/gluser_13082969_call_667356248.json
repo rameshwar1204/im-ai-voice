@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667356248",
+  "gluser_id": "13082969",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Modinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628437",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Shikha mam good afternoon.\\nCustomer: Ji good afternoon.\\nExecutive: Aditya baat kar raha tha mam IndiaMART ke office se.\\nCustomer: Ji.\\nExecutive: Ye actually concern aaya tha hamare paas.\\nHmm.\\nExecutive: Ye Hanuman Handloom jo hai aapki company hai ya kaise main jaan sakta hu please?\\nCustomer: Ji hamari hai.\\nExecutive: Ji mam?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to verify Hanuman Handloom company.\\n\n\\n\nResolution:\\n\n- Customer confirmed Hanuman Handloom is their company.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, company, handloom\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28227cd5-2731-491d-9cc6-8b6efea08fc0",
+  "ucid": "28227cd5-2731-491d-9cc6-8b6efea08fc0",
+  "seller_categories": [
+    {
+      "mcat_id": "7627",
+      "mcat_name": "Sofa Covers"
+    },
+    {
+      "mcat_id": "185588",
+      "mcat_name": "Designer Lehenga Choli"
+    },
+    {
+      "mcat_id": "5763",
+      "mcat_name": "Party Gowns"
+    },
+    {
+      "mcat_id": "184596",
+      "mcat_name": "Velvet Bed Sheet"
+    },
+    {
+      "mcat_id": "185568",
+      "mcat_name": "Designer Lehenga"
+    }
+  ]
+}

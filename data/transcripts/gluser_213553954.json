@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672922544",
+  "gluser_id": "213553954",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Sitapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9688232",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Good afternoon sir, Komal baat kar rahi hu IndiaMART se. NK Hygiene Care se baat ho rahi hai meri?\\nCustomer: Ji.\\nExecutive: Ji sir, aapki service chal rahi hai IndiaMART se call kiya tha aapne?\\nCustomer: Hello.\\nExecutive: Ha. Ji bataiye. Ji sir, aapne IndiaMART par aapki service chal rahi hai NK Hygiene Care ki. Sitapur se aapne call kiya tha sir.\\nCustomer: To usi ke liye maine call kiya hai, kuch issue aa raha hai sir service mein?\\nCustomer: Nahi nahi, kuch issue nahi aa raha hai, kuch sab thik hai. Kitne time call kiya tha aapne?\\nExecutive: Sir ye aapne 11:30 ke aas pass call kiya tha. Nahi nahi, do din pehle, do din pehle aapne call kiya tha evening mein 7 baje ke aas pass.\\nCustomer: Achcha achcha. 17 ko, 17 ko.\\nExecutive: Ha, ho sakta hai lag gaya hoga, baki sab thik chal raha hai, koi dikkat nahi hai. Service mein thik hai, koi problem to matlab aise face nahi kar rahe ho na service ko lekar?\\nCustomer: Hmm, koi dikkat nahi.\\nExecutive: Thik hai, to main yaha se ye jo ticket aapki open hui hai na, main isko close kar deti hu. Aapke pass sir feedback aayega, to usko aap yes kar dijiyega.\\nCustomer: Thik hai.\\nExecutive: Thik hai, feedback aayega aap yes kar dijiyega. Thank you sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the reason for the call.\\n\n- Asked if the customer was facing any issues.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's service was running fine.\\n\n- Executive offered to close the open ticket.\\n\n- Asked to provide positive feedback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, feedback, call\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4d22ee4e-b0aa-4eb2-ad3f-710a837a8caa",
+  "ucid": "4d22ee4e-b0aa-4eb2-ad3f-710a837a8caa",
+  "seller_categories": [
+    {
+      "mcat_id": "74006",
+      "mcat_name": "Sanitary Pad"
+    },
+    {
+      "mcat_id": "8396",
+      "mcat_name": "Sanitary Napkins"
+    },
+    {
+      "mcat_id": "20465",
+      "mcat_name": "Condoms"
+    },
+    {
+      "mcat_id": "112739",
+      "mcat_name": "Menstrual Pad"
+    },
+    {
+      "mcat_id": "655440",
+      "mcat_name": "Sanitary Pad Third Party Manufacturing"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668236213",
+  "gluser_id": "160938257",
+  "vintage_months": 38,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667836",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan Maurya sahab.\\nExecutive: Haan Maurya sahab Himanshu baat kar raha hun. Namaskar India Mart se business manager kaise hain?\\nCustomer: Theek hai sir.\\nExecutive: Achcha. Sir ji kaisa chal raha hai service apna khud annually kar rahe hain ya phir staff rate waghra hai service dekhne ke liye?\\nCustomer: Sab kar rahe hain sir main bhi kar raha hun.\\nExecutive: Achcha achcha. Sir ye video list ka aapko pata hi hoga apni services ka renewal aa gaya tha jo humne do saal pehle karaya tha isko. Right. Hmm. To ek bar beech ek aakar ke pricing ka jo bhi discount tha Diwali ka kuch slot available tha to discount aapko de deta. Last year sir aapne second of November ko hi kara diya tha UPI se to kara dijiye isko jisse ki main jo Diwali wala discount hai last se jab 2023 mein November koi Diwali tha 4 November ko to uske accordingly aapne best offer discount mein aapka ho gaya tha to please isko abhi kara dijiye jisse ki main uska sara discount waghra club kar dun aapke liye sir.\\nCustomer: Bata dena mujhe kya discount de rahe hain.\\nExecutive: Sir jaise do saal wala jo aapka same service kara na kuch upgrade WhatsApp WhatsApp pe dal ke de do. WhatsApp pe dal deta hun but abhi same service aap karaoge ya kuch upgrade karane ka vichar hai sir ek bar. Are main degrade karaunga ya paise jyada mangunga to main karaunga hi nahi. Are sir sir aap to fully active ho inquiry lead sab to aa rahe hain yaar conversion ka aapko jyada achcha pata hoga but inquiry ke terms mein to achcha khasa aap apna dal dena fir main baat karunga aapse. Chaliye theek hai to isko final kar dijiyega sir isme strictly theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know the discount amount.\\n\n- Customer is not interested in upgrading services.\\n\n\\n\nResolution:\\n\n- Executive offered Diwali discount on renewal.\\n\n- Executive agreed to send discount details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will finalize after receiving discount details.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, discount, whatsapp, services\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bbf2de3-8072-4cef-9820-03443ecd0c85",
+  "ucid": "0bbf2de3-8072-4cef-9820-03443ecd0c85",
+  "seller_categories": [
+    {
+      "mcat_id": "5809",
+      "mcat_name": "Pedestal Fan"
+    },
+    {
+      "mcat_id": "436",
+      "mcat_name": "Ceiling Fans"
+    },
+    {
+      "mcat_id": "191475",
+      "mcat_name": "Lassi Machine"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "6837",
+      "mcat_name": "Electric Table Fans"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667160954",
+  "gluser_id": "250592328",
+  "vintage_months": 3,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello? Haan ji.\\nCustomer: Haan main call kar raha tha abhi aapko Akanksha aayi hai kya aaj? Sorry Anshika Anshika.\\nExecutive: Ji sir aayi hui hai.\\nCustomer: To second half ka plan kijiye aaj lunch ke baad ka.\\nExecutive: Sir lagbhag kitne baje tak?\\nCustomer: Lunch ke baad wahi do dhai teen baje tak.\\nExecutive: Wahi teen saade teen tak.\\nExecutive: Teen saade teen baje tak sir hum available rahenge koi issue nahi hai. Aur sir ek cheez aur actually wo call disconnect ho gayi thi na mere end se to jiski wajah se dikkat ho jati hai hamare yahan par to sir isiliye feedback wagera jata hai to please yes kar dijiyega ki maine aapse baat kar li hai. Theek hai sir?\\nCustomer: Koi baat nahi koi baat nahi are main kar lunga.\\nExecutive: Theek hai. To sir main aap kar lena aisa kya hai?\\nExecutive: Ji ji aap mujhe message kar dijiyega ki aap jaise hi pahunch jaye na office ya fir aap wahan se nikle kitni der mein pahunch jayenge mujhe message kar dijiyega. Theek hai?\\nCustomer: Theek hai mam.\\nExecutive: Theek hai. Okay thank you sir thank you sir.\\nCustomer: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to plan for second half of day.\\n\n- Executive needs feedback for call completion.\\n\n\\n\nResolution:\\n\n- Agreed to plan for the second half of day.\\n\n- Customer agreed to provide call feedback.\\n\n\\n\nNext Steps: \\n\n- Customer will message executive after reaching office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, feedback, call disconnect\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=16a52bce-1699-4081-bb59-4a76fd7d40d1",
+  "ucid": "16a52bce-1699-4081-bb59-4a76fd7d40d1",
+  "seller_categories": [
+    {
+      "mcat_id": "65436",
+      "mcat_name": "Tower Crane"
+    },
+    {
+      "mcat_id": "211901",
+      "mcat_name": "Potain Tower Crane"
+    },
+    {
+      "mcat_id": "25694",
+      "mcat_name": "Concrete Placing Boom"
+    },
+    {
+      "mcat_id": "143721",
+      "mcat_name": "Mobile Tower Crane"
+    },
+    {
+      "mcat_id": "195013",
+      "mcat_name": "Used Tower Crane"
+    }
+  ]
+}

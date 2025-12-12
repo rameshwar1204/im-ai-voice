@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667156552",
+  "gluser_id": "45681197",
+  "vintage_months": 1,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kanke",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hare Krishna Hare Krishna\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello ha ji\\n\\nExecutive: ha ji sir kaise ho main baat kar raha hu India mart se\\n\\nCustomer: ha ji\\n\\nExecutive: ha ji sir kaise ho\\n\\nCustomer: badhiya hu sir aap batao ji kaise ho\\n\\nExecutive: main bhi badhiya hu sir service vagera use nahi kar rahe sir abhi naya naya business start hua hai kyu nahi kar rahe ho aap\\n\\nCustomer: [inaudible] lead ud gaya pehle bhi sir\\n\\nExecutive: to sir maine aapko parso bola tha sir paanch minute meeting ke liye connect kar lo main aapka theek kar deta hu profile lead sare yahi aapke pass\\n\\nCustomer: kuch nahi aata hai to kitna bari meeting karoge aur lead aayega kuch nahi aata\\n\\nExecutive: sir meeting aapne abhi tak ek hi bar li hai jo aapko pehli bar maine aapko service batai thi uske baad se to aapne nahi liya hai\\n\\nCustomer: hmm\\n\\nExecutive: pichli bar jab baat ho raha tha tab aapne bola tha ki main free hoke karta hu\\n\\nCustomer: sir uske baad aapne call nahi uthaya fir maine aapko kal bhi try kara tha aapne call nahi uthaya\\n\\nCustomer: hmm\\n\\nExecutive: ha ji aap itna bore kyu kar rahe ho matlab meeting me aane se aisa kuch specific problem hai to batao matlab\\n\\nCustomer: meeting meeting karke kya fayda hoga\\n\\nExecutive: meeting karke sir ye hoga jaise us din aapne to dekho us din aapke aapko pata hai na products alag alag dal rakhe the jaise ki ye aapka newspaper waste scrap ho gaya scrap vagera kafi dal rakha tha usme theek hai to humne usi din jab aapki profile active hui usi din wo sare profile matlab humne hataye hai theek hai uske baad naye products add kare hai to maine aapko us din bola tha na sir ki ek bar thoda isko use karke dekho agar aapke pass lead sahi nahi aayegi to main aapki profile me changes karunga then aap unko lead ko consume karna to usi cheez ke regarding call kar raha hu na kyuki main ek din me aise ek din me apni profile puri theek nahi kar sakta main apna employee ka number de raha hu aap usse baat kar lo aap usse karwa lo jo karwana hai aapko hai na to unko product vagera ka details hai na dusra number pata hai aapko ek number aapko diya hua hai 9 10 20 15 15 5\\n\\nExecutive: ek minute main check karta hu isme jo hai na ha ji second number secondary number hai aapka ha ha usme baat kar lo ek bar unka naam bata do mere ko khushbu madam hai khushbu khushbu madam acha mere ko ek cheez batana aur matlab ye to mere ko owner se hi karna hai jaise total number aapke jo categories hai wo yahi hai na aapki hmm scrap vagera me matlab aapko yaha pe deal hi nahi karna hai kyuki aapki profile scrap add hai only granul only granul\\n\\nExecutive: hmm theek hai theek hai to jaise isme aapke current lead jo products add humne us din kare the to ye the reprocessed LDP granules reprocessed PP granules reprocessed STP granules aur PP granules aur PP milky granules baki sab to humne hata diya tha to iske andar jaise matlab ye categories hai aapki reprocessed LDP granules to iske andar aur products bhi hai aapke matlab categories ke LDP STP aur PP\\n\\nExecutive: acha to ek minute mere ko line me rakh ke ek detail bata do theek hai do teen details bata do mere ko aap baat kar lo na baat kar lo ab jo jo karwana hai madam se baat kar lo abhi wo dekh legi hai na baat kar lo wohi number\\n\\nCustomer: sure sir\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting any leads.\\n\n- Customer is not interested in meetings.\\n\n- Customer wants to remove scrap category.\\n\n\\n\nResolution:\\n\n- Executive explained the benefits of the meeting.\\n\n- Executive offered to make changes in profile.\\n\n- Customer provided employee number for further assistance.\\n\n\\n\nNext Steps: \\n\n- Customer will connect with Khushbu Madam.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, categories, meeting, employee\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 191,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f6c12187-564e-41a5-83a8-5e806b7f4d57",
+  "ucid": "f6c12187-564e-41a5-83a8-5e806b7f4d57",
+  "seller_categories": [
+    {
+      "mcat_id": "126208",
+      "mcat_name": "HDPE Granules"
+    },
+    {
+      "mcat_id": "153076",
+      "mcat_name": "Natural PP Granule"
+    },
+    {
+      "mcat_id": "42009",
+      "mcat_name": "PP Granules"
+    },
+    {
+      "mcat_id": "153092",
+      "mcat_name": "Reprocessed PP Granules"
+    },
+    {
+      "mcat_id": "186645",
+      "mcat_name": "Pp Milky Granules"
+    }
+  ]
+}

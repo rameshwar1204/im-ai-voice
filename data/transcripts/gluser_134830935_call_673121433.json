@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673121433",
+  "gluser_id": "134830935",
+  "vintage_months": 43,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9691933",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji boliye.\\nCustomer: Ji namaskar sir Siddhant bol raha hun.\\nExecutive: Bolo.\\nCustomer: Sir kal call kiya tha aapne?\\nExecutive: Nahi maine call nahi kiya.\\nExecutive: Kal ya parso mein aapne call kiya sham ko 6 baje kareeb aapka ticket aaya sir.\\nCustomer: Wo ticket ka message to mere ko bhi aaya lekin maine call kiya nahi.\\nExecutive: Aapne nahi kiya ye 944 last mein isi number se call aaya tha sir. 5 bajke 42 minute pe.\\nCustomer: Sir aapka call aaya hoga aur nahi utha hoga to maine samne call kiya hoga baki kuch nahi hai.\\nExecutive: Achcha okay okay to ticket load kar do sir main ye?\\nCustomer: Haan band kar do.\\nExecutive: Okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a ticket message but did not make the call.\\n\n\\n\nResolution:\\n\n- Executive will close the ticket.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nticket, call\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a63ac5bc-7ae6-44a3-a9ee-de06a73ce59c",
+  "ucid": "a63ac5bc-7ae6-44a3-a9ee-de06a73ce59c",
+  "seller_categories": [
+    {
+      "mcat_id": "25678",
+      "mcat_name": "Concrete Batching Plant"
+    },
+    {
+      "mcat_id": "147449",
+      "mcat_name": "Ready Mix Concrete Plant"
+    },
+    {
+      "mcat_id": "65017",
+      "mcat_name": "Mobile Concrete Batching Plant"
+    },
+    {
+      "mcat_id": "42744",
+      "mcat_name": "Ready Mixed Concrete Mixing Plant"
+    },
+    {
+      "mcat_id": "24636",
+      "mcat_name": "Cement Silo"
+    }
+  ]
+}

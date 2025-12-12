@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669123108",
+  "gluser_id": "76450092",
+  "vintage_months": 32,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello, good afternoon, sir. I'm [Executive Name] speaking from IndiaMART. May I know who's speaking?\\nCustomer: I am [Customer Name] speaking.\\nExecutive: Sir, can I have your company name, please?\\nCustomer: [Company Name].\\nExecutive: Thank you, sir. Sir, I am calling regarding your refund request. Sir, I have received a refund request from your end. So, before processing it, I would like to know the reason for the refund.\\nCustomer: Sir, I don't need your service. I have told you many times, but you people keep calling me repeatedly.\\nExecutive: Okay, sir. Sir, I understand. Sir, I will do one thing. I will process your refund, sir. It will take 7 to 10 business days for the refund to be credited to your account. Is that okay, sir?\\nCustomer: Okay.\\nExecutive: Okay, sir. And sir, I will also ensure that you don't receive any further calls from IndiaMART. Is that okay, sir?\\nCustomer: Okay.\\nExecutive: Okay, sir. Thank you for your time, sir. Have a great day.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not need the service.\\n\n- Customer is receiving repeated calls.\\n\n- Customer requested a refund.\\n\n\\n\nResolution:\\n\n- Executive agreed to process the refund.\\n\n- Refund will be credited in 7-10 business days.\\n\n- Executive assured no further calls from IndiaMART.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, service, calls\\n\n\\n",
+  "call_entered_on": "11/9/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45c6667f-83f2-4799-ba4f-143e6f02f89d",
+  "ucid": "45c6667f-83f2-4799-ba4f-143e6f02f89d",
+  "seller_categories": [
+    {
+      "mcat_id": "12112",
+      "mcat_name": "Crystal Beads"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "184655",
+      "mcat_name": "Gemstone Ganesha Statue"
+    },
+    {
+      "mcat_id": "25166",
+      "mcat_name": "Crystal Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    }
+  ]
+}

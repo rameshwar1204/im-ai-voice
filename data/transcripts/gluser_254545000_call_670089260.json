@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670089260",
+  "gluser_id": "254545000",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Talala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669481",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Namaskar sir, Sanu Srivastava from IndiaMART.\\nCustomer: Namaste bolo kaise hai aap sir?\\nExecutive: Bol kya? Sir kaise ho aap abhi?\\nCustomer: Badhiya.\\nExecutive: Badhiya sir chaliye achi baat hai sir. Sir 3 November ke baad se aapne catalog nahi dekha sir.\\nCustomer: Catalog nahi dekha November. Aap lead provide nahi kar rahe to catalog dekh ke kya kare?\\nExecutive: Sir ab main direct aapko WhatsApp pe share kiya karu aap ya fir aap catalog mein dekhte ho sir open karke.\\nExecutive: Sir 3 November se aaj 12 November ho gaya 10 din lagbhag ho gaya 10 din mein aapko ek bhi buy lead nahi aayi.\\nCustomer: Nahi sir provide hame notification hamara on kar do sir.\\nExecutive: Sir notification main on bhi kar dunga to sare time nahi aata na sir. Aap abhi bhi aap chaho to main aapko dikha sakta hu isme. Ki kaise recent valid aati hai aap notification ka wait karte ho tab tak yaha pe valid. Nahi abhi sir abhi thoda sa kaam mein hu 10 nahi 30 minute ke baad call karta hu, theek hai?\\nExecutive: Theek hai aap ek baar call kar lijiye.\\nCustomer: Okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received buyleads since November 3.\\n\n- Wants notification to be turned on.\\n\n\\n\nResolution:\\n\n- Executive offered to show how valid leads come.\\n\n- Executive said notification does not come all the time.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, notification\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=23cf1c0d-8c39-47bc-a424-ac56214affd1",
+  "ucid": "23cf1c0d-8c39-47bc-a424-ac56214affd1",
+  "seller_categories": [
+    {
+      "mcat_id": "187897",
+      "mcat_name": "Filtered Groundnut Oil"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "190873",
+      "mcat_name": "Refined Groundnut Oil"
+    },
+    {
+      "mcat_id": "191583",
+      "mcat_name": "Cold Pressed Peanut Oil"
+    },
+    {
+      "mcat_id": "205381",
+      "mcat_name": "Gulab Refined Oil"
+    }
+  ]
+}

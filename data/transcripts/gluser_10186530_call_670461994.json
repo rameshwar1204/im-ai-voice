@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670461994",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Haan madam woh uska phone nahi aaya kabhi aapne jo baat ki thi apni woh photographs ki.\\nCustomer: Sir image ka na sir main aapko kal subah mein iska are kal dopahar tak iska final update deti hoon sir.\\nExecutive: Theek hai.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive states that the customer never received a call regarding photographs.\\n\n\\n\nResolution:\\n\n- Customer will provide a final update tomorrow afternoon.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will provide a final update tomorrow afternoon.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphotographs, update\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c6699a09-9e55-4eb7-9172-e02a3afdf854",
+  "ucid": "c6699a09-9e55-4eb7-9172-e02a3afdf854",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

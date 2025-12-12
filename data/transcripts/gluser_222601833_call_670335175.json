@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670335175",
+  "gluser_id": "222601833",
+  "vintage_months": 17,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mirzapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666325",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan sir, woh call disconnect ho gaya tha.\\nCustomer: Haan.\\nExecutive: Main aisa kar bhi deta hu ki jo pichle saal mein jis tarike se aapko response mil raha tha, usi tarike se bhi apna same plan hai toh usi tarike se chalta rahega. Main apni taraf se check kar leta hu aur ek thodi si request rahegi sir personal level pe, maan lo agle aane wale kuch time mein agar apne ko achcha conversion vagera mil jata hai na toh please thoda sa ispe ek baar sochiyega zaroor premium ko leke sir.\\nCustomer: Bilkul socha jayega, uske liye aap nishchint rahein kyunki ab Ghaziabad mein main factory laga diya hu na, theek hai. Udhar se free hounga toh kaam ke liye hi socha jayega. Theek hai.\\nExecutive: Thank you. Kyunki dekhiye sir thoda sa market competition is tarike ka hai, hum toh try karenge aur main for sure is kar deta hu ki pichle saal jaisa aapka response tha, usi tarike se lead ka flow vagera ban jaye. Aap thoda sa ispe ek baar gaur karega sir, jaise hi rehta hai na toh ispe call karte hai.\\nCustomer: Theek hai, theek hai.\\nExecutive: Okay, thank you sir. Okay, okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive: Request to consider premium plan.\\n\n\\n\nResolution:\\n\n- Customer assured to consider premium plan.\\n\n\\n\nNext Steps: \\n\n- Executive will call if any changes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- premium plan, leads, response\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=84a0de02-d1d7-4a47-bb7b-601f6d5c8137",
+  "ucid": "84a0de02-d1d7-4a47-bb7b-601f6d5c8137",
+  "seller_categories": [
+    {
+      "mcat_id": "131763",
+      "mcat_name": "Chiller Maintenance Services"
+    },
+    {
+      "mcat_id": "184614",
+      "mcat_name": "Industrial Water Chiller"
+    },
+    {
+      "mcat_id": "3344",
+      "mcat_name": "Water Chillers"
+    },
+    {
+      "mcat_id": "40876",
+      "mcat_name": "Water Cooled Chillers"
+    },
+    {
+      "mcat_id": "3795",
+      "mcat_name": "Chilling Plant"
+    }
+  ]
+}

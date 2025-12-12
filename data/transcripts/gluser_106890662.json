@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674762388",
+  "gluser_id": "106890662",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Lehragaga",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706697",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Haan ji, Namaste sir se baat kar rahe hain.\\nExecutive: Ji sir.\\nExecutive: Sir se baat kar raha tha main India Mart office se.\\nExecutive: Ji sir.\\nExecutive: Haan ji haan ji sir wo account team se hi abhi baat kiya maine wahin pe baitha tha abhi abhi mere paas call aayi thodi der pehle sir amount aapka refund ho gaya refund ID bhi maine aapko whatsapp pe deke dali hai abhi.\\nCustomer: Theek hai sir par mere credit card mein amount nahi aaya sir.\\nExecutive: Sir aapke credit card mein plus mein chala jayega nahi to aap ek baar apne unse ek baar baat kar lo credit card wale bank se ya to mujhe ek baar statement bhej dena koi dikkat nahi hai.\\nCustomer: Main aapko statement dal deta hu. Aai gaya hoga sir aap ek baar apne bank mein baat kar lo yahan se sir ja chuka hai aisa thodi hai sir ki koi jab nahi jayega aur aapko aisa bolenge obviously baat hai jab order id de rahe hain sir aapko bakayda sir aapke aapne bol diya char mahine ho gaye sir main main bhi koi aisa thodi hu ki aapko aise hi mail dale ja raha hu.\\nExecutive: Bilkul sahi baat hai. Bilkul agree kar raha hu. Bilkul agree kar raha hu sir bada ek baar check karwa lo dekho maine aapko order id bheji hai dobara 9196349.\\nCustomer: Sir maine check karwa liya maine do baar bank mein ja ke baat ki unse dikha liya ab wo mere ko se bolte ki aap india mart se bolo aap bol rahe ho ki hamare aapne kar diya mere amount mein nahi aaya mere account mein nahi aaya na sir.\\nExecutive: Ja chuka hai aap ek baar check kar lo koi dikkat wali baat nahi hai ek baar baat karwa do meri bank mein baat karwa dena jab aap bank se aate ho.\\nCustomer: Ek baar baat karwa dijiye.\\nExecutive: Koi issue nahi hai sir aata to main koi dikhta main aapko wo de deta hu statement aur batao sir.\\nCustomer: Haan aap ek baar statement mujhe bhej na. Haan aur fir bhi sir main keh raha hu ek baar aap bank mein credit card wale matter mein credit card wale matter mein statement bhi kya hi matlab mujhe bhi pata hai main ye thodi kar raha hu aap mujhe galat bol rahe ho but aap ek baar baat karo sir bank mein kyuki yahan se chala gaya hai paisa aaj kal ki to baat nahi hai bilkul sahi baat hai do char din 10 din aage piche bhi hote to wo bhi pahunch jata.\\nCustomer: Wahi na sir do mahine se upar ho gaya na.\\nExecutive: Aap check karwa lo. Koi baat nahi sir main ek baar check karwa leta hu. nahi ho raha hai kyuki credit card mein jab ye paisa jata hai na sir to credit card mein ye paisa aapka usme dikhta hai matlab plus mein positive mein aa jayega aapka itna amount 3340.\\nCustomer: Main man gaya sir par koi baat nahi main ek baar cross check kar leta hu par mera hua nahi hai main aapko statement share kar deta hu.\\nExecutive: Aap ek baar check kar lo maine whatsapp pe aapko number bhi de diya hai mera dekho mere number se whatsapp aaya hoga aapke paas.\\nCustomer: Haan ji haan sir dekh liya maine aapka whatsapp.\\nExecutive: Dekh liya usi whatsapp pe aap mujhe jo bhi hai detail ek baar share karo mera personal number hai wo koi dikkat wali baat nahi hai.\\nCustomer: Koi issue nahi hai sir you good name.\\nExecutive: Shiv Shiv Prakash Sharma.\\nExecutive: Okay sir.\\nExecutive: Aap mujhe ek baar check karke sir mujhe batao koi dikkat wali baat nahi hai aaram se bank mein aap chaho to bank mein baat kar lo mujhe aap batana koi dikkat nahi hai sir.\\nCustomer: Koi dikkat nahi hai sir aapka number aa gaya main aapko baat karta hu sir.\\nExecutive: Bas bas aapka nahi gaya to mere liye bhi tension wali baat hai na jab mere side se gaya to aapke paas pahunchana chahiye.\\nCustomer: Bilkul sir bilkul. Check karwao koi dikkat nahi hai aaram se aap mujhe batao.\\nExecutive: Okay sir okay.\\nExecutive: Okay.\\nExecutive: Okay sir.",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund in credit card.\\n\n- Customer states issue ongoing for over two months.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund was processed with refund ID.\\n\n- Executive asked customer to check with bank.\\n\n- Executive shared personal WhatsApp number for statement sharing.\\n\n\\n\nNext Steps: \\n\n- Customer will share statement via WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, credit card, statement, bank, whatsapp\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 176,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1c73098b-7c44-4576-ae49-0753298203f0",
+  "ucid": "1c73098b-7c44-4576-ae49-0753298203f0",
+  "seller_categories": [
+    {
+      "mcat_id": "182433",
+      "mcat_name": "LG Washing Machine"
+    },
+    {
+      "mcat_id": "133834",
+      "mcat_name": "Electric Geyser"
+    },
+    {
+      "mcat_id": "5177",
+      "mcat_name": "Mixer Grinder"
+    },
+    {
+      "mcat_id": "182553",
+      "mcat_name": "Samsung Washing Machine"
+    },
+    {
+      "mcat_id": "179010",
+      "mcat_name": "LG Split Air Conditioners"
+    }
+  ]
+}

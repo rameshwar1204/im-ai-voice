@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671987690",
+  "gluser_id": "132452659",
+  "vintage_months": 2,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Markapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello? Atyant tender rameyalo cheppindi nenu. Sir, hello. E batch posukoni vepeyandi. Hello?\\nCustomer: Ha sir, rakshakudu part chustu untai ikkada undeyamandi.\\nCustomer: Police.\\nExecutive: Sir, iske related police lead vagera humne show kari thi sir, jo relevancy aapke concern mein ki thi, usse kya feedback hai aapki?\\nCustomer: Kya, abhi driving mein hu sir. Baad mein baat karta hai.\\nExecutive: Kab mein dalna bataiye.\\nExecutive: Mai aapko 3 baje tak phone kar lu ek baar?\\nCustomer: Hello.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the batch to be posted.\\n\n- Executive asks for feedback on police lead.\\n\n\\n\nResolution:\\n\n- Customer said he is driving and will talk later.\\n\n- Executive asked if he can call by 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive to call the customer by 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- police lead, feedback, driving\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dc1c5cb2-cedb-4a61-9c30-84690002c760",
+  "ucid": "dc1c5cb2-cedb-4a61-9c30-84690002c760",
+  "seller_categories": [
+    {
+      "mcat_id": "95125",
+      "mcat_name": "Clip Board"
+    },
+    {
+      "mcat_id": "74765",
+      "mcat_name": "MDF Board"
+    },
+    {
+      "mcat_id": "27027",
+      "mcat_name": "Drawing Slate"
+    },
+    {
+      "mcat_id": "183053",
+      "mcat_name": "Wooden Clipboard"
+    },
+    {
+      "mcat_id": "3594",
+      "mcat_name": "Writing Pad"
+    }
+  ]
+}

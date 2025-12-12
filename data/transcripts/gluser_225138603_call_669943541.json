@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669943541",
+  "gluser_id": "225138603",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Satna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji sir.\\nCustomer: Haan mam fir kuch hua kya uska?\\nExecutive: Abhi to sir aisa koi response nahi mila maine puch ke aayi hu sir se. Sir bol rahe hain ki abhi aisa kuch mail to aaya nahi hai. Final sara discussion ho gaya hai mail bhi send kar diya gaya hai bas unki taraf se approve hona bacha hai.\\nCustomer: Hmm. To aaj bhi dikat aayegi kya isme?\\nExecutive: Kaise sir? Is date maine aapko link sir aaj bhi hold pe laga kya hai?\\nCustomer: To aaj\\nExecutive: Dekha maine bataya na sir ji aaj sir agar ho jata hai to main aaj ka aapko inform kar dungi nahi to warna sir ka to kehna yahi tha ki agar kal aapka 1000% chances hai ki ho jayega chances ka matlab confirmation hai. Kyunki inka hai ki abhi maine unse pucha ki sir jo bhi pareshan hai to wo bol rahe the ki main samajh raha hu but hamare hath mein bhi kuch nahi hai. Unki taraf se humne bhi sara kuch mail unko send kar diya hai sare details ke sath final unhone ok bhi kar diya sab kuch ho gaya hai but bas wahi access karna reh gaya ab is cheez mein hai kaha ki process mein ruka hua hai wahi samajh nahi aa raha hai. Isliye reminder bhi dal diya hai ki sir ko as soon as possible karwa diya jaye.\\nCustomer: Theek hai mam. Wait kar leta hu main.\\nExecutive: Hmm.\\nCustomer: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the status of his work.\\n\n\\n\nResolution:\\n\n- Executive said that they are waiting for approval.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- approval, confirmation, mail\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=481511af-bc4e-4d2b-8546-5731c2754841",
+  "ucid": "481511af-bc4e-4d2b-8546-5731c2754841",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    }
+  ]
+}

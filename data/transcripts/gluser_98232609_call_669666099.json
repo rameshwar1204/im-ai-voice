@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669666099",
+  "gluser_id": "98232609",
+  "vintage_months": 40,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Karad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659313",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, bolo.\\nExecutive: Hello.\\nExecutive: Hello, good morning sir, aawaz aa rahi hai meri?\\nCustomer: Haan, aa rahi hai sir.\\nExecutive: Sir, Shubham bol raha tha IndiaMART se head office se.\\nCustomer: Eh ruko aap na thodi der ruko sir, abhi mera kaam chal raha hai.\\nExecutive: In fact, sir aapne actually call kiya tha na customer care pe sir isliye main call kar raha tha aapko.\\nCustomer: Nahi nahi, complaint karna tha, complaint karne ke liye call kiya tha, karna hai complaint lekin wo ruko mera abhi kaam hi chalu hai.\\nExecutive: Kitne baje phone kar lu aapko sir?\\nCustomer: Koi issue nahi, kitne baje phone kar lu?\\nExecutive: Khud batao.\\nCustomer: Kitne baje phone kar lu sir main aapko?\\nCustomer: Main khud call karta, main court mein hu abhi, uske baad main aata aapko call karta, wo bahar.\\nExecutive: Theek hai theek hai, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to register a complaint.\\n\n\\n\nResolution:\\n\n- Executive asked when to call back.\\n\n- Customer said he would call back later.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, call back\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=942abd78-98b6-4a5c-86e8-0b6ffa71463a",
+  "ucid": "942abd78-98b6-4a5c-86e8-0b6ffa71463a",
+  "seller_categories": [
+    {
+      "mcat_id": "224447",
+      "mcat_name": "BASF Fungicides"
+    },
+    {
+      "mcat_id": "208734",
+      "mcat_name": "Syngenta Insecticide"
+    },
+    {
+      "mcat_id": "224446",
+      "mcat_name": "BASF Insecticides"
+    },
+    {
+      "mcat_id": "230227",
+      "mcat_name": "Willowood Plant Growth Regulators"
+    },
+    {
+      "mcat_id": "3175",
+      "mcat_name": "Agricultural Herbicides"
+    }
+  ]
+}

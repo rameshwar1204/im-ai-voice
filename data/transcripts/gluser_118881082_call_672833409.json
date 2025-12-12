@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672833409",
+  "gluser_id": "118881082",
+  "vintage_months": 29,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690150",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello?\\n\\nCustomer: Haan.\\n\\nExecutive: Darasal namaskar Parvez bol raha hun IndiaMART se kaise hain aap?\\n\\nCustomer: Haan boliye sir.\\n\\nExecutive: Bhaiya sir aapne bola tha Tuesday ko mangalwar ko aap payment proceed kar doge aaj sir Wednesday ho gaya sir. Payment link share kar do sir aapko aap proceed kar dijiye.\\n\\nCustomer: Kal aaya nahi tha isliye nahi hua hai par guruwar ke din kal ho jayega.\\n\\nExecutive: Aapki aawaz aapki aawaz pad rahi hai kya keh rahe hain sir?\\n\\nCustomer: Guruwar ke din ho jayega payment nahi aaya hai ek do din late hua hai.\\n\\nExecutive: Aaj ho jayega na sir ye?\\n\\nCustomer: Aaj nahi guruwar ko.\\n\\nExecutive: Ab shukrawar ko parso?\\n\\nCustomer: Hmm.\\n\\nExecutive: Sir aapka main aapki jo ID hai wo block kar di hai main aapko clearly mention kar du. Theek hai aap buylead bhi consume kar sakte aapka services live nahi hai is time pe. Theek hai kyuki 7 tarikh ka time tha aaj 19 tarikh ho gayi hai.\\n\\nCustomer: Koi baat nahi koi baat nahi block rakhiye na payment denge tab chalu karne ka.\\n\\nExecutive: Kya keh rahe hain sir?\\n\\nCustomer: Payment denge tab chalu karne ka hum chalu karne ka thodi bol rahe ho.\\n\\nExecutive: Matlab sir aapne lekin mangal chalo aap keh rahe ho shukrawar ko matlab parso aap karwa doge right yahi keh rahe ho aap.\\n\\nCustomer: Hmm.\\n\\nExecutive: Theek hai aap jab payment ho jayegi sir parso tab aapka services fir se hum start kar denge theek hai abhi ke liye filhal temporarily block hai agar aap parso payment nahi proceed karte to aapka jo services hai hamari jo team hoti hai backend team ya accounts team wo service ko duration ke according wo convert kar deti hai. Theek hai.\\n\\nCustomer: Hmm.\\n\\nExecutive: But request aapse yahi hai ki parso jaise aapne ab mangalwar bola tha lekin aap nahi kar paye theek consider kar liya maine lekin parso sir please is cheez ko proceed kar dijiyega. Bhi bola tha sir wo kaam aapne kar dala?\\n\\nExecutive: Kya keh rahe hain sir?\\n\\nCustomer: Mera kuch aapko bola tha wo ho gaya sir?\\n\\nExecutive: Sir wo sari cheeze proceed ho jayengi pehle aap apni services ko live to proceed karaiye sir block ho rakha hai aapka ID main aapko screenshot share kar deta hu aap even check kar sakte ho ki aap services ko use nahi kar sakte. Mere ko chahiye hi nahi chalo block hi kar do wo sahi hai nahi aapka service hi nahi chahiye.\\n\\nExecutive: Theek hai sir.\\n\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to proceed with payment.\\n\n- Customer's ID is blocked.\\n\n- Customer asked about a previous request.\\n\n\\n\nResolution:\\n\n- Executive shared payment can be done day after.\\n\n- Executive informed ID is blocked due to non-payment.\\n\n- Executive said all things will proceed after payment.\\n\n- Executive offered to share a screenshot of blocked ID.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, blocked id, services\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 141,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0752e214-0362-4ca8-a56d-2f0f6797ebd8",
+  "ucid": "0752e214-0362-4ca8-a56d-2f0f6797ebd8",
+  "seller_categories": [
+    {
+      "mcat_id": "84889",
+      "mcat_name": "Cast Iron Grill"
+    },
+    {
+      "mcat_id": "106967",
+      "mcat_name": "Cast Iron Railing"
+    },
+    {
+      "mcat_id": "102080",
+      "mcat_name": "Cast Iron Stairs"
+    },
+    {
+      "mcat_id": "184721",
+      "mcat_name": "Cast Iron Gate"
+    },
+    {
+      "mcat_id": "85142",
+      "mcat_name": "Cast Iron Ornament"
+    }
+  ]
+}

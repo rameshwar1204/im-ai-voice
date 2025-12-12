@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675284574",
+  "gluser_id": "231416671",
+  "vintage_months": 13,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Hoshiarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708107",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, hi sir, main Hemant baat kar raha hun.\\nCustomer: Yes boliye.\\nExecutive: Sir actually sir aapne ek feedback diya tha not satisfied ka, Ritika mam ki baat hui thi to unhone bola ki sir ko buyleads vagera mein issue aa raha hai, sir ko buyleads right sir. To mujhe yahi kehna tha sir buyleads mein kya bilkul available nahi hai sir jo abhi IndiaMART ke portal pe available nahi hai, bilkul kaam ki nahi hai.\\nCustomer: Aapki aawaz hi nahi aa rahi dhang se, mere ko kuch bhi samajh mein nahi aaya aap kya bol rahe ho.\\nExecutive: Accha sorry, ab ab ab aawaz aa rahi hai sir meri?\\nCustomer: Haan ji.\\nExecutive: Sir main ye keh raha hun ki main IndiaMART se Hemant baat kar raha hun, aapne sir not satisfied ka feedback diya tha right, Ritika mam ki video meeting hui thi, sari cheezein baat hui thi aapki. Sir to Ritika se maine baat ki to unhone bola ki buyleads mein sir ko issue aa raha hai, sir ko buyleads available nahi rehti hain jo sir deal karte hain. Right sir?\\nCustomer: Haan ji.\\nExecutive: To sir abhi isme dekhun to MTS magnetic sensor ki buyleads available hai 4 minute pehle ki, fir linear glass scale ki hai, ye koi bhi kaam ki nahi sir aapke liye?\\nCustomer: Nahi.\\nExecutive: Okay. Aapka sir main product hai CNC machine controller right sir aur CNC controller.\\nCustomer: CNC controller aur dealer controller.\\nExecutive: Accha, sir ye linear glass scale mein to aap deal karte ho sir, ye to aapke product mein add hai.\\nCustomer: Karte hain hum log 170 mm 270 mm tak usse zyada nahi.\\nExecutive: Ek minute sir, ek minute. Ek minute sir, main dobara call back karta hun aapki voice break ho rahi hai sir, ek minute de do sir.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with the buyleads.\\n\n- Buyleads are not relevant to the customer's business.\\n\n\\n\nResolution:\\n\n- Executive called to understand the issue with buyleads.\\n\n- Executive mentioned available buyleads, customer said not useful.\\n\n\\n\nNext Steps: \\n\n- Executive will call back due to voice breaking.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, cnc controller\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5ff586da-5939-48d6-94a1-c90ba74046c9",
+  "ucid": "5ff586da-5939-48d6-94a1-c90ba74046c9",
+  "seller_categories": [
+    {
+      "mcat_id": "165208",
+      "mcat_name": "CNC Machine Controller"
+    },
+    {
+      "mcat_id": "176456",
+      "mcat_name": "Linear Glass Scale"
+    },
+    {
+      "mcat_id": "20911",
+      "mcat_name": "CNC Controllers"
+    },
+    {
+      "mcat_id": "27870",
+      "mcat_name": "Electronic Controller"
+    },
+    {
+      "mcat_id": "188788",
+      "mcat_name": "Optical Scales"
+    }
+  ]
+}

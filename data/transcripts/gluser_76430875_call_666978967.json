@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666978967",
+  "gluser_id": "76430875",
+  "vintage_months": 60,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631408",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan madam bolo.\\nCustomer: Haan ji Mayuri mam Shraddha baat kar rahi hu India Mart se.\\nExecutive: Boliye.\\nCustomer: Ji ji actually mam aapko number change karana tha na?\\nCustomer: Haan haan haan to abhi aap connect ho sakte ho mere sath video meeting mein?\\nCustomer: Video call karna padega?\\nExecutive: Haan actually main guide kar dungi na to proper way mein ho jayega. Aap mujhe ye bataye system se use karte ho ki laptop se use karte ho?\\nCustomer: System pe login karti hu madam lekin login nahi hai mobile se access karti hu.\\nExecutive: Achcha achcha. Aur OTP to aapke hi phone mein aata hoga na?\\nCustomer: Hmm hmm hmm. Aap mujhe ye bataye kis mail ID pe aapko video meeting ka link share karna hai mam?\\nCustomer: Ha mail ID kyuki aapko mail ID bhi change karani hai na? Ha is pe.\\nCustomer: Kaunsa MD?\\nExecutive: Haan MD hai na waha par MD karo madam.\\nCustomer: MD impact?\\nCustomer: Haan.\\nCustomer: 09@gmail.com\\nExecutive: 09\\nCustomer: Hmm.\\nCustomer: @gmail.com\\nCustomer: Haan correct.\\nExecutive: Okay.\\nExecutive: Check kariye mam mail aaya hoga Shraddha ke naam se.\\nCustomer: Ek hi minute rukiye.\\nCustomer: Chalu rakho madam.\\nExecutive: Thik hai.\\n\\nExecutive: Primary secondary dono number aapke hai na mam?\\nCustomer: Ek minute aap kaunsa hai mere ko confirm karna.\\nExecutive: Ek last mein 409 hai aur ek aur last mein 737 wala. Ye mere hai dono number.\\nCustomer: Okay.\\nExecutive: Join with Google Meet se rukiye madam.\\nCustomer: Haan ji haan ji join kariye.\\n\\nCustomer: Pehle login kar lu?\\nExecutive: Haan ji.\\nCustomer: Pehle login kar lu?\\nExecutive: Aap pehle join kar lijiye fir usme fir login kar lijiyega koi issue nahi hai.\\nCustomer: Kar liya.\\nCustomer: Join nahi ho raha madam.\\nExecutive: Aapna call hold var thevnyat aala ahe, krupaya line var raha. Aap thode velani call kara. Hatachi mahiti milvnyasathi recharge. Aani aaplyasathi bharpur offer milvnyasathi V app login kara. Aapka call hold par rakha gaya hai.\\nExecutive: Ye kaam kariye waha pe dekhiye screen share ka option aa raha hoga aapko.\\nExecutive: Hatachi jankari.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change her phone number.\\n\n- Customer wants to change her email ID.\\n\n- Customer is unable to join Google Meet.\\n\n\\n\nResolution:\\n\n- Executive offered to guide via video meeting.\\n\n- Executive asked for the email ID to share link.\\n\n- Executive confirmed primary and secondary numbers.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive asked customer to join Google Meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number change, email id, google meet\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 205,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4644cfd-065e-4225-a942-88782ae9f7e6",
+  "ucid": "d4644cfd-065e-4225-a942-88782ae9f7e6",
+  "seller_categories": [
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    },
+    {
+      "mcat_id": "133063",
+      "mcat_name": "Sodium Gluconate"
+    },
+    {
+      "mcat_id": "3630",
+      "mcat_name": "Caustic Soda"
+    },
+    {
+      "mcat_id": "154962",
+      "mcat_name": "Superplasticizer Admixture"
+    }
+  ]
+}

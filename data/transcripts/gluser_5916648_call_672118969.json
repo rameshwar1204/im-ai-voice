@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672118969",
+  "gluser_id": "5916648",
+  "vintage_months": 20,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruchirappalli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671073",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello. Hello sollunga.\\nExecutive: IndiaMART call pannirukom sir. Release sambandha already kuduthurukinga illingala?\\nCustomer: Aamanga madam.\\nExecutive: Enna issue identify? Ekanave oruthar pesinar madam unga call la irukum. Ekanave oruthar pesi irukar two days before la avarta detail la kuduthuruken avar report eduthurupar avarta ketukinga madam.\\nCustomer: Illa avaru discuss pannirundhanga. Indha concern vandhu actual catalog close pannite indha concern close panna sollitanga so confirmation kaga na call panniruken.\\nExecutive: Seri. Okay enna karuthu madam?\\nCustomer: Close pannirlamla sir.\\nExecutive: Close pannirlam madam.\\nCustomer: Seri okay ungaluku na ippo pesirundhen illingala?\\nCustomer: Okay.\\nExecutive: Ippo na pesuradhukana feedback kooda ungaluku vandhu whatsapp la available la irukum and mail layume available la irukum. Adhu first positive va kuduthurunga. Yenna concern close pandren na ungaloda vishayam permission na check panniruken.\\nCustomer: Okay.\\nCustomer: Close pandradhunala enna enna varanum?\\nExecutive: Feedback varum sir.\\nCustomer: Seri nga. Enna feedback varum? Adhu mattum konjam paathutu podunga.\\nExecutive: Adhu na ippo pesinen illingala close. Ippo payment return eppadi three months four months balance iruke adhu payment eppadi kudupinga?\\nExecutive: Adhu vandhu ungaluku update pannuvanga. Adhuku.\\nCustomer: Adhe full update pannadhaan ennala solla mudiyum. Ungaluku irukum la detail irukum la oru closing pandranga enna detail irukum la adha sollunga.\\nCustomer: Enaku end to end theriyanum la enna process irukangradhu appathane adhukulla step na eduka mudiyum.\\nExecutive: Sure sure. Puriyudhula na enna solradhu. Adha ketu enaku koopidunga. Adha ketu enaku koopidunga. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know the closing process details.\\n\n- Wants to know about the payment return.\\n\n\\n\nResolution:\\n\n- Informed that feedback will be available on WhatsApp.\\n\n- Informed that they will update about payment.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- closing, payment, feedback, catalog\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e28510c-25eb-4741-855c-8783bece0711",
+  "ucid": "8e28510c-25eb-4741-855c-8783bece0711",
+  "seller_categories": [
+    {
+      "mcat_id": "181452",
+      "mcat_name": "LED Sign Board"
+    },
+    {
+      "mcat_id": "96134",
+      "mcat_name": "LED Photo Frame"
+    },
+    {
+      "mcat_id": "181453",
+      "mcat_name": "Acrylic LED Sign Board"
+    },
+    {
+      "mcat_id": "167429",
+      "mcat_name": "Stainless Steel Letter"
+    },
+    {
+      "mcat_id": "95424",
+      "mcat_name": "LED Display Board"
+    }
+  ]
+}

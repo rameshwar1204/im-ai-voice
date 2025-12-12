@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673613208",
+  "gluser_id": "79229906",
+  "vintage_months": 11,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719867",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Meri aawaz aa rahi hai?\\nExecutive: Hello?\\nCustomer: Meri aawaz toh bol rahi hai?\\nExecutive: Haan ji.\\nCustomer: Are pata nahi kaun hata raha hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is checking if their voice is audible.\\n\n\\n\nResolution:\\n\n- Executive confirmed that the customer's voice is audible.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvoice check, audio quality\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cbbed3f7-124e-4a36-b8d6-8e9e7a7e9c2e",
+  "ucid": "cbbed3f7-124e-4a36-b8d6-8e9e7a7e9c2e",
+  "seller_categories": [
+    {
+      "mcat_id": "3725",
+      "mcat_name": "Chaat Masala"
+    },
+    {
+      "mcat_id": "77635",
+      "mcat_name": "Food Seasoning"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "122728",
+      "mcat_name": "Masala"
+    },
+    {
+      "mcat_id": "183965",
+      "mcat_name": "Sabji Masala"
+    }
+  ]
+}

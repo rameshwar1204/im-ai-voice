@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669291710",
+  "gluser_id": "149891324",
+  "vintage_months": 12,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650341",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan Vishnu sir se baat ho rahi hai?\\nCustomer: Haan bol raha hu.\\nExecutive: Achcha, Namaste sir. Mai Medha se baat kar rahi hu. Haan ji aapke account manager ji. Aapka sir hamare paas hamari team ko call aaya tha ki aap number change karna chahte hain.\\nCustomer: Haan haan ek number change karna tha.\\nExecutive: Okay, to koi number hatana tha ya bas add karna hai number?\\nCustomer: Haan ek to mane change karna hai actually. Mera ek number hai 9434121436 usko change karke dusra karna hai.\\nExecutive: Achcha. Waise to sir isme total aap paanch number add kar sakte hain. Aapke total three number add hain. Thik hai? Haan to phir ek kaam kijiye usko add hi kar dijiye, koi dikkat nahi hai.\\nCustomer: Haan to phir ek kaam kijiye usko add hi kar dijiye, koi dikkat nahi hai.\\nExecutive: Haan aap chahe to saare rakh sakte hain ya phir koi ek matlab aap pe hai ki aap kya karna hai. Okay.\\nCustomer: Haan na usko add kar dijiye phir koi dikkat nahi hai.\\nExecutive: Achcha thik hai. To sir jaise kya hota hai na jab bhi add hota hai to usme OTP ka hota hai. Jis number pe maine call kiya hai na, usko OTP aayega. To mai aapko guide kar du aap kar lenge? Mai aapko abhi guide karu?\\nCustomer: Abhi to mai desktop pe kar raha hu, thodi der me kar raha hu aapko.\\nExecutive: Achcha achcha. Thik hai thik hai sir. Aap free hoke mujhe call kar lijiye. Thik hai?\\nCustomer: Haan thik thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change his number.\\n\nResolution:\\n\n- Executive explained the process of adding number.\\n- Executive offered to guide through the process.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after some time.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number change, otp, account manager\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a104c580-1f27-4b5f-a8fe-a2dba32b8e36",
+  "ucid": "a104c580-1f27-4b5f-a8fe-a2dba32b8e36",
+  "seller_categories": [
+    {
+      "mcat_id": "68836",
+      "mcat_name": "Writing Notebook"
+    },
+    {
+      "mcat_id": "181508",
+      "mcat_name": "School Notebook"
+    },
+    {
+      "mcat_id": "224009",
+      "mcat_name": "A4 Notebook"
+    },
+    {
+      "mcat_id": "68322",
+      "mcat_name": "Exercise Note Books"
+    },
+    {
+      "mcat_id": "95205",
+      "mcat_name": "Student Notebook"
+    }
+  ]
+}

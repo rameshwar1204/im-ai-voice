@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671167167",
+  "gluser_id": "85600239",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Phone cut gaya tha madam.\\nExecutive: Haan ji ji awaz hi nahi aa rahi thi aapki isliye cut gaya tha. Aap video meeting maine schedule kari hai join to kariye ek bar.\\nCustomer: Bhejo na.\\nExecutive: Bhej diya maine link check karo.\\nCustomer: Mail pe kara?\\nExecutive: Haan aapke mail pe hi jaata hai jaise humne last time kiya tha waise hi hai.\\nCustomer: Abhi dusri madam thi wapas aa gaye aap.\\nExecutive: Aap jis vyakti se baat kar rahe hain unhone aap",
+  "summary": "\\n\nConcerns:\\n\n- Phone got cut.\\n\n- Request to send the video meeting link.\\n\n\\n\nResolution:\\n\n- Executive confirmed the call was cut due to no voice.\\n\n- Executive scheduled a video meeting and sent the link to the customer's email.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer needs to check email and join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall disconnection, video meeting, link\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c2bc039-a1e0-4e77-a959-f0849bb77ac9",
+  "ucid": "7c2bc039-a1e0-4e77-a959-f0849bb77ac9",
+  "seller_categories": [
+    {
+      "mcat_id": "178220",
+      "mcat_name": "Industrial Wooden Pallets"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "3531",
+      "mcat_name": "Wooden Crates"
+    },
+    {
+      "mcat_id": "148704",
+      "mcat_name": "Pine Wood Runners"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    }
+  ]
+}

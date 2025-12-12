@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670821769",
+  "gluser_id": "72276328",
+  "vintage_months": 33,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635685",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nHello? Yes, kaise ho aap?\\nExecutive: Badhiya hu.\\nCustomer: Anusha baat kar rahi hu sir, aapke account manager IndiaMART se.\\nExecutive: Ha boliye na.\\nCustomer: Last time me maine aapse discussion kiya tha na, services ka renewal hai wo pending hai abhi.\\nExecutive: Services ka renewal to aapne bataya tha na February me hai na?\\nCustomer: Hai to February me, but aapko renewal date se pehle sunna chahiye aapko na?\\nExecutive: Nahi nahi samjha mai, firse bataiyega.\\nExecutive: Hello?\\nCustomer: Meri voice aapko aa rahi hai?\\nExecutive: Hello.\\nCustomer: Hello. Meri voice aapko aa rahi hai na?\\nExecutive: Ha ha aa rahi hai. Mai aapko ye bol rahi hu, last date hamari February hai. Thik hai? But last date ke teen mahine pehle aapka renewal generate ho ja raha hai. Thik hai?\\nExecutive: To abhi kya hai, maine aapko last time bhi bataya tha, abhi ka jo amount hai, aapne bola tha na proposal share kar dena. But aapki call shift chal rahi hai na kisi client ke saath kuch jo aap bol rahe the, jo aapne bhi machine li thi. Thik hai? Wo jo aapne usko purana matlab ki aap ek baar usko dusra samaan diye, fir again aapne wo repair karke diya inverter wala.\\nCustomer: Aha.\\nExecutive: Ha, to uski wajah se na sir proposal create nahi ho pa raha hai.\\nCustomer: Thik.\\nExecutive: Thik hai? Aur abhi jo maximizer ka jo price ho gaya hai sir teen saal ka wo 1,50,000 plus GST ho gaya hai. Agar aap portal pe bhi check karoge to aapko 1,50 show karega but jo abhi current price hum aapko offer kar rahe hai sir wo 1,30,000 plus GST offer kar rahe hai aur aapki jo service chalegi wo February ke baad se hi chalegi. Matlab agar 6 February aapka last date hai na, to 6 February ke baad se hi count hogi.\\nCustomer: Ye cheez na mam ek baar aap Rohit ke concern me daal do. Kyuki maine maine bataya tha na ki IndiaMART wahi dekh raha hai.\\nExecutive: Accha, Rohit ke regarding me ha, ha IndiaMART wahi dekh raha hai.\\nCustomer: But sir actually unse meri discussion ho nahi paati hai, to aap mera ya to unka koi number de do, mai unko connect kar leti hu.\\nExecutive: Unka number diya hua hai 748494 wala number.\\nCustomer: Sir wo receive nahi karte na us number pe uske alawa agar koi number aap WhatsApp pe message daal do na mam aap WhatsApp pe message hi nahi daalte ho. Atleast aap daal do to message aapko mai.\\nExecutive: Mai na 74 wale number pe message karte rahi hu aur dekhti hu agar proposal jaati hai to mai aapko proposal share kara deti hu. Thik hai? Aap isme check kar lena.\\nExecutive: Kitne saal ka share karu mai sir?\\nCustomer: Kya?\\nExecutive: Kitne saal ka share karu? Ek saal ka ya fir teen saal ka?\\nCustomer: Ye saara cheez wahi decision lega aap aap aap apne hisab se jo bhi hai wo dekh lo.\\nExecutive: Thik hai sir. Thank you.\\nCustomer: Thik hai. Thank you.",
+  "summary": "\\n\nConcerns:\\n\n- Customer's service renewal is pending.\\n\n- Unable to connect with Rohit regarding IndiaMART.\\n\n- Proposal not created due to client issues.\\n\n\\n\nResolution:\\n\n- Executive explained the renewal process and pricing.\\n\n- Executive offered to share the proposal.\\n\n- Executive will continue messaging on the 74 number.\\n\n\\n\nNext Steps: \\n\n- Customer will check the proposal after receiving it.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- renewal, proposal, pricing, maximizer, rohit\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 188,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a399a47f-d767-4a2f-a765-0eb1dac06822",
+  "ucid": "a399a47f-d767-4a2f-a765-0eb1dac06822",
+  "seller_categories": [
+    {
+      "mcat_id": "158095",
+      "mcat_name": "Electric Bike Batteries"
+    },
+    {
+      "mcat_id": "122229",
+      "mcat_name": "Electric Bicycle Kit"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "118962",
+      "mcat_name": "EV Hub Motor and Kits"
+    }
+  ]
+}

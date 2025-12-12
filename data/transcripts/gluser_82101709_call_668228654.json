@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668228654",
+  "gluser_id": "82101709",
+  "vintage_months": 10,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Tirur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640266",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Pata nahi yaar kahan pe koi ho raha hai kaam karne ke liye yaar.\\n\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Ha hello.\\nExecutive: Yeah hi ma'am.\\nCustomer: Hello.\\nExecutive: Hello yeah hi ma'am good evening.\\nCustomer: Hello.\\nExecutive: Ma'am is my voice clear?\\nCustomer: Yeah yeah.\\nExecutive: Yeah actually ma'am I'm calling you from IndiaMART head office. Is it the right time to talk?\\nCustomer: Ha yeah. You can talk.\\nExecutive: Ma'am actually yesterday you were calling me and I just missed your call. Is there any concern?\\nCustomer: Which product you want?\\nExecutive: Sorry?\\nCustomer: Are you calling for enquiry? This is the speciality.\\nExecutive: No no ma'am I am Tanu your account manager from IndiaMART. I'm saying yesterday you called me and I just missed your call. So is there any concern?\\nCustomer: Did you call yesterday?\\nExecutive: I'm saying ma'am you called me and I just missed your call yesterday. So is there any concern? Is there any issue you are facing in the IndiaMART?\\nCustomer: No no no.\\nExecutive: No issues?\\nCustomer: No.\\nExecutive: So actually ma'am your ticket got raised so can I just close that concern?\\nCustomer: I think it's a call from IndiaMART for enquiry. Sorry.\\nExecutive: No no ma'am this call is not regarding your enquiry. I am your account manager. So yesterday I just missed your call so right right now can I close your concern?\\nCustomer: Okay I want to talk to my manager and I will call you next.\\nExecutive: I am your account manager only. Ma'am you can call me on this number whenever you want. But for the meanwhile can I just close it?\\nCustomer: Hello.\\nCustomer: I will call you later.\\nExecutive: Ma'am you can call me. I can just I will just drop you a message on WhatsApp as well. You can just call me on or you can just call me or drop me a text on WhatsApp also. So for meanwhile the concern can I close?\\n\\nCustomer: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know the customer's concern.\\n\n- Customer thinks it is an enquiry call.\\n\n\\n\nResolution:\\n\n- Executive clarified she is the account manager.\\n\n- Executive offered to drop a message on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will call later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- enquiry, account manager, follow up\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 158,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=245919ca-cce8-4f82-9605-e6068933a185",
+  "ucid": "245919ca-cce8-4f82-9605-e6068933a185",
+  "seller_categories": [
+    {
+      "mcat_id": "257861",
+      "mcat_name": "Mephentermine Sulphate Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "137953",
+      "mcat_name": "Erythropoietin Injection"
+    },
+    {
+      "mcat_id": "225029",
+      "mcat_name": "Renocrit Injection"
+    },
+    {
+      "mcat_id": "161859",
+      "mcat_name": "Enoxaparin Injection"
+    }
+  ]
+}

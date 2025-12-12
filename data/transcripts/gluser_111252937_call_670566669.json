@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670566669",
+  "gluser_id": "111252937",
+  "vintage_months": 3,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Naiti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9664015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nCustomer: [inaudible]\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Haan, kaun?\\nExecutive: Sir, Pratham Creations se baat kar rahe hain?\\nCustomer: Haan, boliye.\\nExecutive: Sir, woh aapki na missed call aayi thi yahan pe. Main IndiaMART se baat kar raha hun, head office se. Aapne call kiya tha kya IndiaMART pe?\\nCustomer: Nahi, nahi.\\nExecutive: Achha, sir woh missed call arakhi isliye na yahan pe complaint ticket khul gayi hai. Toh jaanna chah raha tha koi issue vagerah toh face nahi kar rahe the na? Kyunki missed call arakhi thi aapki. Services theek chal rahi hain overall?\\nCustomer: Nahi.\\nExecutive: Haan, haan.\\nExecutive: Achha, koi, koi concern sir abhi kuch aapse kuch puchna toh nahi hai aapko kuch aisa kuch?\\nCustomer: Nahi.\\nExecutive: Achha, chaliye theek hai sir. Yahan pe na ticket raise ho gayi thi. Main ussi ticket ko band kar de raha hun. Aapke paas feedback aayega. Hamari job ke liye bahut important hota hai. Please feedback dijiyega apna. Theek hai sir?\\nCustomer: Theek hai.\\nExecutive: Okay sir, okay. Thank you.\\nCustomer: [inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive: Called regarding a missed call.\\n\nResolution:\\n\n- Executive: Closing the ticket.\\n\n- Executive: Requested customer to provide feedback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- missed call, feedback, complaint ticket\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb5171a9-e745-43a7-abcd-8932ea2de95e",
+  "ucid": "bb5171a9-e745-43a7-abcd-8932ea2de95e",
+  "seller_categories": [
+    {
+      "mcat_id": "6776",
+      "mcat_name": "Ladies Earring"
+    },
+    {
+      "mcat_id": "13055",
+      "mcat_name": "Brass Earring"
+    },
+    {
+      "mcat_id": "65734",
+      "mcat_name": "Imitation Earring"
+    },
+    {
+      "mcat_id": "619",
+      "mcat_name": "Gold Earrings"
+    },
+    {
+      "mcat_id": "1872",
+      "mcat_name": "Fashion Earrings"
+    }
+  ]
+}

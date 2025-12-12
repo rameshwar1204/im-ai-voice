@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668741760",
+  "gluser_id": "251709106",
+  "vintage_months": 1,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji.\\n\\nExecutive: Ji namaskar sir bataiye.\\n\\nCustomer: Call aaya tha India Mart se aaya tha main call karwa dunga India Mart kar raha tha.\\n\\nExecutive: Achcha achcha achcha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's statement.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, indiamart\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e73603e3-51ef-42cb-9549-94f7174dd960",
+  "ucid": "e73603e3-51ef-42cb-9549-94f7174dd960",
+  "seller_categories": [
+    {
+      "mcat_id": "29429",
+      "mcat_name": "Glass Balls"
+    },
+    {
+      "mcat_id": "17362",
+      "mcat_name": "Marble Ball"
+    },
+    {
+      "mcat_id": "24400",
+      "mcat_name": "Colour Stones"
+    },
+    {
+      "mcat_id": "12084",
+      "mcat_name": "Glass Pebbles"
+    },
+    {
+      "mcat_id": "34768",
+      "mcat_name": "Pebble Stone"
+    }
+  ]
+}

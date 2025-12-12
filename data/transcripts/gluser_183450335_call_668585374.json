@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668585374",
+  "gluser_id": "183450335",
+  "vintage_months": 32,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good afternoon, IndiaMART se bol rahi hu, kya naam hai aapka?\\nCustomer: Mera naam [inaudible] hai.\\nExecutive: Ji, kya madad kar sakti hu main aapki?\\nCustomer: Maine refund ke liye dala tha, hua nahi abhi tak.\\nExecutive: Refund ke liye dala tha, theek hai, main check kar leti hu, company name bata dijiye aap.\\nCustomer: [inaudible]\\nExecutive: Sir, ek minute hold karega main check kar leti hu.\\nCustomer: Haan.\\n(silence)\\nExecutive: Sir, aapka refund pending hai, aapko 24 se 48 ghante mein aa jayega.\\nCustomer: Kab tak aa jayega?\\nExecutive: 24 se 48 ghante mein aa jayega sir, pending hai aapka refund.\\nCustomer: Theek hai.\\nExecutive: Aur koi madad kar sakti hu main aapki?\\nCustomer: Nahi, theek hai.\\nExecutive: Theek hai sir, thank you for calling IndiaMART, have a nice day.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Refund not received yet.\\n\n\\n\nResolution:\\n\n- Informed refund is pending, will receive in 24-48 hours.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, pending\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=297b6de9-508e-4082-8d3e-1ea15051853f",
+  "ucid": "297b6de9-508e-4082-8d3e-1ea15051853f",
+  "seller_categories": [
+    {
+      "mcat_id": "129909",
+      "mcat_name": "USB Smart Token"
+    },
+    {
+      "mcat_id": "445844",
+      "mcat_name": "Tally Prime Software"
+    },
+    {
+      "mcat_id": "140808",
+      "mcat_name": "Tally Software"
+    },
+    {
+      "mcat_id": "173934",
+      "mcat_name": "Digital Signature Certification"
+    },
+    {
+      "mcat_id": "185210",
+      "mcat_name": "Tally ERP 9 Software"
+    }
+  ]
+}

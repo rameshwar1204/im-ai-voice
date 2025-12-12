@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675265766",
+  "gluser_id": "12264085",
+  "vintage_months": 69,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710313",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello sir.\\nExecutive: Aapka number diya nahi? Ha likhiye 798822. Rukiye hold kijiye main likh deta hu. Line par rahiye aap line par.\\nCustomer: Ek minute hold kijiye aapko message milega abhi mere number se line par rahiye aap.\\nCustomer: Aapko ye are na dada.\\nCustomer: Are boliye main likh leta hu. Ha likha hai dekhiye.\\nCustomer: Aapka naam boliye to ek baar. Prabhat Ranjan.\\nExecutive: Prabhat Ranjan.\\nExecutive: Aapka sir isse pehle kisse baat hua tha?\\nCustomer: Malum nahi hai main naam nahi pucha.\\nExecutive: Achha.\\nExecutive: System mein humko sabse achha lagega system mein aap valid rahe. Idhar tak hamara valid hai. Sab mein ye system rehta hai. Ha wo teen saal ka. Hamara ha teen saal ka do saal ka baat chodiye. Idhar tak aapka valid rahe. Jaise hamara card ka PAN card ka matlab sabka valid rehta hai valid kar rahe the idhar tak aapka valid hai. Kya ye kyun hum log nahi rakhte?\\nCustomer: System mein mera kitna din tak mera valid hai mera account wo aap likh dijiye itna tak valid hai.\\nExecutive: Sir aapko mera valid rahega. Koi aapko disturb nahi karega. Koi humko disturb nahi iske liye disturb nahi karega.\\nCustomer: Nahi nahi aap main senior manager hu mere se baat kar lena koi dikkat nahi aayegi, thik hai? Baat to kar dijiye main aapko main aapko jo bolta hu na 27 November tak aapko main shuru ki thi invoice date. Lekin aapko kitna tak valid hai wo likh dijiye. Kitna tak valid hai.\\nExecutive: Thik hai main aapko WhatsApp kar de raha hu, thik hai?\\nCustomer: Hamara WhatsApp mat kijiye hamara system mein de dijiye nahi to hamara de dijiye system mein kyun nahi aayega?\\nExecutive: Thik hai main main kal mail kar dunga, thik hai?\\nCustomer: Ha mail kar dijiye koi na koi kar dijiye. Main wo dikha dunga.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know account validity.\\n\n- Customer wants validity in system, not WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive assured no disturbance.\\n\n- Executive agreed to email the details.\\n\n\\n\nNext Steps: \\n\n- Executive will email the details tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- validity, system, email, whatsapp\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=50c1cb22-4a11-410f-b5df-c314df1e96fc",
+  "ucid": "50c1cb22-4a11-410f-b5df-c314df1e96fc",
+  "seller_categories": [
+    {
+      "mcat_id": "20176",
+      "mcat_name": "Wire Brush"
+    },
+    {
+      "mcat_id": "112061",
+      "mcat_name": "Plastic Handle Wire Brushes"
+    },
+    {
+      "mcat_id": "129869",
+      "mcat_name": "Twist Knot Brushes"
+    },
+    {
+      "mcat_id": "10128",
+      "mcat_name": "Industrial Wire Brushes"
+    },
+    {
+      "mcat_id": "41477",
+      "mcat_name": "Wooden Brush"
+    }
+  ]
+}

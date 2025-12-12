@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676226679",
+  "gluser_id": "129825155",
+  "vintage_months": 6,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647131",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan ji.\\nCustomer: Ji namaskar sir, Dhyan bol raha hu, Gyan se.\\nExecutive: Gyan ji, Punjab hu mai abhi, aaj nikalunga wapas.\\nCustomer: Achha aaj hi.\\nCustomer: Haan Punjab work chal raha hai.\\nExecutive: Achha achha work ek kaam kaise chal raha hai sir?\\nCustomer: Hmm.\\nExecutive: Kaam kaise chal raha hai sir?\\nCustomer: IndiaMART me to kuch hai nahi, kuch mil to nahi raha hai.\\nExecutive: Milne ko kya sir abhi aap Punjab aur Mumbai bhi gaye the na itne din tak isliye maine. Haan to wo to mera mera personal kaam kar raha hu na, IndiaMART se aayega to pata hi chalega aapko.\\nExecutive: Haan haan mai wahi to keh raha hu ki isliye aap udhar. Mera personal to maine pehle hi bola tha ki mere ko fursat hi nahi rehti.\\nExecutive: Hmm hmm mai wahi to keh raha hu ki aap udhar matlab ek hafta kareeb Mumbai me. Fursat hi nahi rehti.\\nCustomer: Haan abhi mai bhi nahi dekh paya aapko.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting any leads from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive inquired about customer's work in Punjab.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, work, punjab, mumbai\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5bb8a996-5eba-4a49-9cf5-87ebfb1e9567",
+  "ucid": "5bb8a996-5eba-4a49-9cf5-87ebfb1e9567",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671163022",
+  "gluser_id": "5877753",
+  "vintage_months": 157,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673562",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "The person you have called is speaking to someone else. You can wait or call again later.\\nNeeghal azhaithirukkum nabar veru oruvarudan pesikondirukkirar. Neeghal kaathirukkalaam alladhu pinnar meendum azhaikkalaam.\\nAapne jis vyakti ko call kiya hai, woh anya call par vyast hai. Kripya pratiksha karein ya kuch samay paschaat prayaas karein.\\nThe person you have called is speaking to someone else. You can wait or call again later.\\nHello.\\nHello.\\nHello sir.\\nSollunga.\\nSir good afternoon. Hello.\\nSollunga.\\nSir na Pushpa India Mart kaaga peela ungal staff kooda dhan business nikki irukkaangale. Neenga 96 series number try pannirukkeengannu ninaikkiren. Free dhan sir therinjukala edhum update neenga eduthu. Illa illa illa illa adhu onnum illa. ID ID profile oruthar kettirundharu avarukku phone panna avar phone edukala theriyama unga number vandhurchu.\\nOkay okay sir. So apparam edhuvum pesunikkangala. Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asking about business with staff.\\n\n- Customer received a call from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive clarified it was a wrong number.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- wrong number, business enquiry, staff\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca846556-f4e3-4100-afa7-eb92b9ee5e56",
+  "ucid": "ca846556-f4e3-4100-afa7-eb92b9ee5e56",
+  "seller_categories": [
+    {
+      "mcat_id": "21758",
+      "mcat_name": "Aluminium Profiles"
+    },
+    {
+      "mcat_id": "159452",
+      "mcat_name": "Aluminium Extrusion Sections"
+    },
+    {
+      "mcat_id": "55120",
+      "mcat_name": "Industrial Aluminum Profiles"
+    },
+    {
+      "mcat_id": "678",
+      "mcat_name": "Aluminum Extrusions"
+    },
+    {
+      "mcat_id": "21531",
+      "mcat_name": "ABS Pipe"
+    }
+  ]
+}

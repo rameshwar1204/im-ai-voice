@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667351797",
+  "gluser_id": "38856469",
+  "vintage_months": 46,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Robertsganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9682156",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan ji ye multiple window open ho ke aa gayi hai. Kya kiya jaaye isko?\\nExecutive: A, sir no issues. Mai actually kya hai na ki aapko apne WhatsApp number se voice call kar di thi.\\nThik hai?\\nTo mai us voice call pe baat karte jayenge aur hum log video meet pe bhi saari cheeze dekhte jayenge. Thik hai?\\nCustomer: Thik hai, thik hai. Karo aap WhatsApp pe.\\nExecutive: Haan ji, haan ji sir. Okay sir.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reports multiple windows opening.\\n\n\\n\nResolution:\\n\n- Executive suggests using WhatsApp voice call.\\n\n- Executive suggests using video meet to see things.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- multiple windows, whatsapp, video meet\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8ede168e-bd39-4409-8193-cc8926e31536",
+  "ucid": "8ede168e-bd39-4409-8193-cc8926e31536",
+  "seller_categories": [
+    {
+      "mcat_id": "53759",
+      "mcat_name": "Bamboo Lamp"
+    },
+    {
+      "mcat_id": "9046",
+      "mcat_name": "Hanging Lamps"
+    },
+    {
+      "mcat_id": "33887",
+      "mcat_name": "Pendant Light"
+    },
+    {
+      "mcat_id": "224512",
+      "mcat_name": "Bamboo Lamp Shade"
+    },
+    {
+      "mcat_id": "74236",
+      "mcat_name": "Hanging Light"
+    }
+  ]
+}

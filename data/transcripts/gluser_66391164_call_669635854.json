@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669635854",
+  "gluser_id": "66391164",
+  "vintage_months": 25,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Satara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656438",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello sir.\\nHello?\\nHello?\\nCustomer: Uh, maine IndiaMART pe ek complaint dala hai, New Organic se bol raha hu mai. Ki mujhe fake buyleads vgera bohot si mil rahi hai, mera business nahi ho raha hai, mera matlab kya hai ki mujhe close karana hai matlab kya hai ki jo mera remaining uh uh ye matlab kya hai uh remaining maine matlab months bache vgera. To mujhe refund chahiye vgera. Kyuki kya hai ki IndiaMART se mera time uh time aur paisa dono bhi waste ho raha hai. Aisa hai. Business to ek bhi convert kya nahi ho raha hai, business se kuch bhi nahi ho raha hai. IndiaMART mujhe nahi use kar sakta. Aisa hai. Pehle bhi dal chuka. To kya hai ki iska solution mujhe jaldi se jaldi chahiye. Aisa hai.\\nIsme account manager vgera is inka koi sawal nahi hai. Account manager mujhe kya hai ki lead provide nahi kar raha hai. Aisa hai. Hmm. Lead conversion karna mera kam hai vgera. Isme account manager ka koi problem nahi hai. Isme kya hai ki IndiaMART ka system ka problem hai. Aisa hai.\\nOkay, yeah.\\nCustomer: Aur ek minute ek bar update karke aapne baat. To mujhe iske baad me resolution matlab iske baad me maine bahut bar complaint kiya hua hai. Ye pehli bar complaint nahi hai. Iske bare me bahut bar complaint kiya hua hai. Lekin IndiaMART resolution provide nahi kar sakta hai. Ye mera matlab abhi guarantee hua hai. To uski vajah se mujhe band karna hai. Dhanyavad. Mai har roj matlab IndiaMART ke upar matlab kam nahi kar sakta. Jisse mujhe business na milna karke. Aisa hai. Paisa bhi ja raha hai aur dono me matlab time ja raha hai.\\nExecutive: Alright, mai aapko ek bar baat karvana chahta hu, thik hai?\\nCustomer: Thik hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to close subscription due to fake buyleads.\\n\n- Requests a refund for remaining months.\\n\n- Time and money are being wasted.\\n\n\\n\nResolution:\\n\n- Executive offered to connect with someone.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, refund, subscription, complaint\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0d14e7de-11d5-49bd-a9a2-5f7174d3e8bb",
+  "ucid": "0d14e7de-11d5-49bd-a9a2-5f7174d3e8bb",
+  "seller_categories": [
+    {
+      "mcat_id": "113922",
+      "mcat_name": "Spirulina Powder"
+    },
+    {
+      "mcat_id": "137938",
+      "mcat_name": "Moringa Capsules"
+    },
+    {
+      "mcat_id": "180384",
+      "mcat_name": "Spirulina Juice"
+    },
+    {
+      "mcat_id": "7727",
+      "mcat_name": "Spirulina Tablet"
+    },
+    {
+      "mcat_id": "4936",
+      "mcat_name": "Ashwagandha Tablets"
+    }
+  ]
+}

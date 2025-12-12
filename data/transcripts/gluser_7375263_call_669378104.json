@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669378104",
+  "gluser_id": "7375263",
+  "vintage_months": 16,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Visnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650712",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello? Ji Vandan sir good afternoon sir.\\n\\nCustomer: Boliye.\\nExecutive: Sir basically jaise ki dobara mail mein baat kar raha tha na. To ye hai sir wo deny hi kar rahe hain ki matlab ki online cheeze hoti hain ye bina online ke nahi ho payega wo sab cheeze.\\nCustomer: Aap dal do na message ki do mahine se hum ye kar rahe hain lekin we are not able to conclude the things.\\nExecutive: Maine haan haan maine ye ye aapka jo screenshot hai sir ye mail pe bheja unhe ki sir try kar rahe hain but do se teen mahine ho gaye hain sir ka ye update nahi ho pa raha hai yahan glitch aa raha hai. To wo bolne lage ki maan lijiye abhi aa raha hai koi baat nahi 10-15 din baad de denge to maine bola teen mahine se sir same problem face kar rahe hain. Iske alawa koi aur matlab ye bola tha na annual agriculture turnover dikha dijiye to kar denge maine wo unse ye bhi manga ki iske alawa aap dekh lijiye main aapko share bhi kar deta hu message ke apart from this iske alawa koi aur alternative ho to aap hame bata dijiye to hum wo bhi karwa denge sir. To unhone clearly deny kar diya sir aap dekh lijiye ye rahi.\\nCustomer: Aap baat nahi karwa rahe ho yaar chhod do aap baat karwao to baat hai warna aap mail kar do. Aapko baat bataiye kis se karni hai sir ye bata dijiye mere ko. Ye jo aapke jis ke dimag mein ye utarta hai usko bolo. Are audit report bhej raha hu to audit report kya hota hai yaar.\\nExecutive: Bilkul bilkul sir.\\nCustomer: Wo sab samajhna hota hai aap logo ko theek hai abhi aap karwao mail se.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's account update is not happening.\\n\n- Customer wants to talk to someone knowledgeable.\\n\n- Wants alternative to annual agriculture turnover.\\n\n\\n\nResolution:\\n\n- Executive informed that issue was denied.\\n\n- Executive offered to share the message again.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account update, audit report, alternative\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5345fd3a-4dfa-4a01-b096-56ef0897ca8b",
+  "ucid": "5345fd3a-4dfa-4a01-b096-56ef0897ca8b",
+  "seller_categories": [
+    {
+      "mcat_id": "165352",
+      "mcat_name": "Contrast Media"
+    },
+    {
+      "mcat_id": "41758",
+      "mcat_name": "X Ray Films"
+    },
+    {
+      "mcat_id": "258547",
+      "mcat_name": "Iohexol Injections"
+    },
+    {
+      "mcat_id": "160809",
+      "mcat_name": "Microbar Enema"
+    },
+    {
+      "mcat_id": "192486",
+      "mcat_name": "Omnipaque Injection"
+    }
+  ]
+}

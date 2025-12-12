@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669425326",
+  "gluser_id": "191967082",
+  "vintage_months": 27,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u0935\u093f\u0915\u094d\u0930\u092e \u091c\u0940 \u0917\u0941\u0921 \u0906\u092b\u094d\u091f\u0930\u0928\u0942\u0928\\nExecutive: \u0906\u092b\u094d\u091f\u0930\u0928\u0942\u0928 \u091c\u0940 \u0905\u0936\u0930\u092b \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0915\u0947 \u0939\u0947\u0921 \u0911\u092b\u093f\u0938 \u0938\u0947 \u0915\u0948\u0938\u0947 \u0939\u0948\u0902 \u0906\u092a \u092c\u094b\u0932\u093f\u090f\\nCustomer: \u091c\u0940 \u0935\u094b \u0906\u092a\u0915\u0940 \u0915\u0949\u0932 \u0906\u0908 \u0925\u0940 \u0928\u093e \u0938\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u092a\u0947 \u0914\u0930 \u092d\u0942\u092e\u093f\u0915\u093e \u0938\u0947 \u0906\u092a\u0915\u0940 \u092c\u093e\u0924 \u092d\u0940 \u0939\u0941\u0908 \u0939\u094b\u0917\u0940 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u0938 \u0915\u094b \u0932\u0947\u0915\u0930\\nExecutive: \u091c\u0940 \u091c\u0940 \u091c\u0940 \u0932\u0902\u091a \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u092e\u0948\u0902 \u092c\u094b\u0932\u093e \u0932\u0902\u091a \u0915\u0930\u0915\u0947 \u092e\u0948\u0902 \u0915\u0930\u0924\u093e \u0939\u0942\u0902\\nExecutive: \u0915\u094d\u092f\u093e \u091a\u0940\u091c \u0938\u0930\\nCustomer: \u0932\u0902\u091a \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0932\u0902\u091a \u0915\u0930\u0915\u0947 \u0905\u091a\u094d\u091b\u093e \u0905\u091a\u094d\u091b\u093e \u0905\u091a\u094d\u091b\u093e \u0920\u0940\u0915 \u0939\u0948 \u0920\u0940\u0915 \u0939\u0948 \u0906\u092a \u0932\u0902\u091a \u0915\u0930 \u0932\u0940\u091c\u093f\u090f \u0915\u0930 \u0932\u0940\u091c\u093f\u090f \u0913\u0915\u0947\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding call from IndiaMART and services.\\n\n\\n\nResolution:\\n\n- Executive confirmed receiving call and discussion about services.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, call, IndiaMART\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa1d0fa0-96a8-4e3d-99b5-1b57694d0403",
+  "ucid": "aa1d0fa0-96a8-4e3d-99b5-1b57694d0403",
+  "seller_categories": [
+    {
+      "mcat_id": "40361",
+      "mcat_name": "Tube Cleaners"
+    },
+    {
+      "mcat_id": "132537",
+      "mcat_name": "Tube Cleaning Brush"
+    },
+    {
+      "mcat_id": "42067",
+      "mcat_name": "Tube Expanders"
+    },
+    {
+      "mcat_id": "136243",
+      "mcat_name": "Boiler Brush"
+    },
+    {
+      "mcat_id": "28585",
+      "mcat_name": "Flexible Shafts"
+    }
+  ]
+}

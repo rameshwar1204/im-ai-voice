@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667960779",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, good morning sir.\\nCustomer: Ji, ji sir, sorry mat kehna chahiye mujhe.\\nIndiaMART se hai.\\nExecutive: Haan ji sir.\\nCustomer: Haan bolo.\\nExecutive: Aapka call aaya tha, main janaab busy rahe the, toh main aapko.\\nCustomer: Haan toh ab ye kab kitna time mein sahi ho jayega, mere ko bilkul conversion nahi mil rahi hai aur unhone kya baat kari thi kal aapne.\\nExecutive: Sir aapki aawaz kat rahi hai mujhe, aap shayad bike pe ho toh main aapko thodi der mein connect karu kya sir?\\nCustomer: Haan, theek hai.\\nExecutive: Kitne time se connect karu sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting any conversions.\\n\n- Wants to know when the issue will be resolved.\\n\n\\n\nResolution:\\n\n- Executive said the customer's voice was breaking.\\n\n- Executive offered to call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- conversions, technical issue, callback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=40194e7f-89f8-4e49-ae11-028b4d567e91",
+  "ucid": "40194e7f-89f8-4e49-ae11-028b4d567e91",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

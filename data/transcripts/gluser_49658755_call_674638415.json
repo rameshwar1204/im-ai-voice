@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674638415",
+  "gluser_id": "49658755",
+  "vintage_months": 34,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701713",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Hello. \\nCustomer: Haanji madam.\\nExecutive: Nikhil sir se baat kar rahi thi account manager aapki.\\nCustomer: Haanji.\\nExecutive: Main keh rahi thi sir kal kuch OTP wala kuch to aapne customer care pe call kiya tha sir kya issue aa raha tha wahi puchna tha mujhe.\\nCustomer: Woh email pe OTP nahi aa raha tha madam.\\nExecutive: Toh abhi aa gaya matlab email pe OTP receive ho gayi ya abhi bhi nahi receive hui?\\nCustomer: Haan isko madam maine check nahi kiya haal toh main bahar gaya hoon.\\nExecutive: Sir actually thoda sa important tha kyunki aapne customer care pe call kari thi na aur main available rehti bhi hoon Sunday ko. Toh woh hume us aapka concern solve karna padega jaldi se jaldi. Toh aapko ek time bataiye.\\nCustomer: 5 baje poochhunga madam main 5 baje phone karunga.\\nExecutive: Theek hai main 5 baje na video meeting schedule kar de rahi hoon aap meeting mein aa jana main aapko bata dungi kaise aayega OTP.\\nCustomer: Theek hai.\\nExecutive: Theek hai main sir please lekin 5 baje phone utha lena.\\nCustomer: Haan haan madam mere ko lagega 15-20 minute thodi jaane mein ban jayega.\\nExecutive: Theek hai done done. Theek hai sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not receiving OTP on email.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meeting for 5 PM.\\n\n\\n\nNext Steps: \\n\n- Customer to attend the video meeting at 5 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- otp, email, video meeting\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fae28e85-9a98-4d19-8320-b08e0faf3f97",
+  "ucid": "fae28e85-9a98-4d19-8320-b08e0faf3f97",
+  "seller_categories": [
+    {
+      "mcat_id": "141775",
+      "mcat_name": "Carton Box Top Plastic Handles"
+    },
+    {
+      "mcat_id": "178133",
+      "mcat_name": "Polypropylene Corrugated Box"
+    },
+    {
+      "mcat_id": "160071",
+      "mcat_name": "Sunpack Sheet"
+    },
+    {
+      "mcat_id": "168665",
+      "mcat_name": "Sunpack Sheet Printing Services"
+    },
+    {
+      "mcat_id": "26079",
+      "mcat_name": "Corrugated Plastic Box"
+    }
+  ]
+}

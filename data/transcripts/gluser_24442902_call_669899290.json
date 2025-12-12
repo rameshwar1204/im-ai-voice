@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669899290",
+  "gluser_id": "24442902",
+  "vintage_months": 109,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9659508",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Bishnoi ji baat kar rahe hain?\\nHanji.\\nExecutive: Hello. Main main Praveen baat kar raha hun IndiaMART se, kaise hain sir?\\nCustomer: Badhiya sir.\\nExecutive: Okay. Main keh raha tha ki sir aapse meri baat hui thi kal hai na?\\nTo aapna preferred star star ka jo renewal hai aur maximizer package jo tha.\\nCustomer: Haan.\\nExecutive: To maine jab baat kiya to aapne phir call kiya tha incoming call. Uska ek jab bhi koi incoming call miss hoti hai to ticket khul jata hai. Maine isliye call kiya. Maine kab kiya? Hello. Kya?\\nCustomer: Maine kab aaya hun?\\nExecutive: Kya bol rahe hain sir?\\nCustomer: Sir humne phone kiya aapko yun?\\nExecutive: Haan matlab mere call ke baad aapne call kiya tha to wo miss ho gaya tha. Main aapse ye keh raha tha ki sir aapko koi miss aapko aaya hoga phone humne wapas lagaya hoga miss call deke kiya hoga.\\nCustomer: Koi baat nahi. Par iska renewal ke regarding mujhe discussion karna hai. Renewal jo aadmi pichli baar humne renewal kiya tha na usse baat kariye please.\\nExecutive: Kisse baat karun?\\nCustomer: Haan jo pichli baar humara renewal kisne kiya tha?\\nExecutive: Pichli baar aapka renewal kisne kiya tha? Haan usi ko bolo wahi baat karega mujhse. Bewakoof bana diya pichli baar humne humko. Unhi se main senior baat kar raha hun aap mujhse bata sakte hain. Haan senior hai sir theek hai main main unse baat karwaiye wo mere ko bewakoof bana diya unhone pichli baar. Ye aayega wo aayega ye aayega kuch nahi aaya. Aaya gaya Jai Siya Ram hai. Bewakoof bana diya. Bewakoof bana diya. Haan unko bolo wahi baat karega wo kyun ab har baar naye aate hain kyun aate hain unko bolo baat kare main unko puchunga na main. Haan. Jo unhone baat ki thi commitment kiya tha unka kya hua phir? Hmm. To aap mujhe bata sakte hain kya kya problem hai phir? Nahi nahi unko boliye mere se baat karenge sir please. Hmm. Haan unko boliye please mere se kare baat kare.\\nExecutive: Main bol du.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss renewal of subscription.\\n\n- Wants to talk to the previous executive.\\n\n- Claims previous executive made false promises.\\n\n\\n\nResolution:\\n\n- Executive listened to the customer's concerns.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with concerned team.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, subscription, commitment, executive\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=35f90edb-61a0-4f91-a30b-4323a70c13cb",
+  "ucid": "35f90edb-61a0-4f91-a30b-4323a70c13cb",
+  "seller_categories": [
+    {
+      "mcat_id": "4378",
+      "mcat_name": "Bentonite Powder"
+    },
+    {
+      "mcat_id": "186820",
+      "mcat_name": "Bentonite Clay"
+    },
+    {
+      "mcat_id": "4376",
+      "mcat_name": "Bentonite"
+    },
+    {
+      "mcat_id": "9585",
+      "mcat_name": "Sodium Bentonite"
+    },
+    {
+      "mcat_id": "160980",
+      "mcat_name": "Bentonite Lump"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666575491",
+  "gluser_id": "13652915",
+  "vintage_months": 58,
+  "bl_dau_oct": 27,
+  "customer_type": "ExportTS",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626193",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello. Hello. Aaj main IndiaMART se bol raha hun.\\nCustomer: Ji ji bataiye.\\nExecutive: Haan toh yeh kya hai ki maine abhi computer update karwaya hai na window. Actually aaj thoda sa office mein thoda sa busy tha baad mein karu free hoke call aapko?\\nCustomer: Haan, okay okay.\\nExecutive: Theek hai okay. Okay namaste.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer got computer updated, window.\\n\n\\n\nResolution:\\n\n- Executive said will call later when free.\\n\n\\n\nNext Steps: \\n\n- Executive will call later when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- computer update, follow up call\\n\n\\n",
+  "call_entered_on": "11/1/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e901cc7a-712b-4abe-bd5e-4b9517c68a85",
+  "ucid": "e901cc7a-712b-4abe-bd5e-4b9517c68a85",
+  "seller_categories": [
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "121266",
+      "mcat_name": "Yellow Sapphire"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "80280",
+      "mcat_name": "Emerald"
+    },
+    {
+      "mcat_id": "8336",
+      "mcat_name": "Ruby Gemstone"
+    }
+  ]
+}

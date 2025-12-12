@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667467389",
+  "gluser_id": "198792809",
+  "vintage_months": 26,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chittorgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662205",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ha yes.\\n\\nCustomer: Hello.\\n\\nExecutive: Ha sir kya bol rahe hai aap?\\n\\nCustomer: Aapki update ki maange.\\n\\nExecutive: Hello.\\n\\nExecutive: Haanji sir abhi bataya aap apna company name batayega.\\n\\nCustomer: Hindustan Poly sir.\\n\\nExecutive: MS?\\n\\nCustomer: Hindustan Poly.\\n\\nCustomer: Hindustan Poly.\\n\\nCustomer: Perfect.\\n\\nExecutive: Ha ek second ek second Hindustan.\\n\\nExecutive: Hindustan Polyfab na sir?\\n\\nCustomer: Are madam gaano me tel dal do yaar sunai nahi de raha aapko.\\n\\nExecutive: Sir aapki aawaz clear nahi aa rahi hai.\\n\\nCustomer: Nahi aa rahi to phone ko tod do sale. Tumhara manager phone utha nahi raha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is asking for an update.\\n\n- Customer complains about not being able to hear.\\n\n- Customer complains manager is not picking up the phone.\\n\n\\n\nResolution:\\n\n- Executive asked for the company name.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- company name, update, voice clarity\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b35d9e04-3639-4c84-9422-307f88648486",
+  "ucid": "b35d9e04-3639-4c84-9422-307f88648486",
+  "seller_categories": [
+    {
+      "mcat_id": "122335",
+      "mcat_name": "Rose Tree"
+    },
+    {
+      "mcat_id": "145991",
+      "mcat_name": "Lemon Tree"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "180411",
+      "mcat_name": "Neem Tree"
+    }
+  ]
+}

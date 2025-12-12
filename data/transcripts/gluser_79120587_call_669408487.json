@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669408487",
+  "gluser_id": "79120587",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655831",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan bolo mam.\\nExecutive: Hello. Good afternoon. Aap bol rahi hai mam, main Khushi baat Khushi baat kar rahi hu IndiaMART se.\\nCustomer: Sriram sales and service mein baat ho rahi hai na meri?\\nExecutive: Haan haan.\\nExecutive: Okay. Mam jaan sakte hai aap kaun baat kar rahi hai?\\nCustomer: Ah jinke naam se hai na unke sister hu.\\nExecutive: Sister baat kar rahi hai. Mam sir ke sath meri na video meet thi.\\nCustomer: Kya hua?\\nExecutive: Ah mam main keh rahi hu sir ke sath meri video meeting thi mam. Ho sakti hai video meeting?\\nCustomer: Video meeting ka kuch nahi bataya tha. Woh visit ke liye aane wale the koi toh. Toh uska kya hua?\\nExecutive: Haan haan.\\nExecutive: Video meeting ke liye toh mam abhi sir se baat hui hai meri mam senior se.\\nExecutive: Ek minute rukiye.\\nCustomer: Hello?\\nExecutive: Hello? Hello? Yes mam.\\nExecutive: Hello? Haan thik hai chalega link bhejo aap.\\nExecutive: Thik hai. Main isi number pe bhej du mam?\\nCustomer: Haan haan chalega isi number pe bhejo. Thik hai mam main bhej rahi hu aapko. Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the scheduled video meeting.\\n\nResolution:\\n\n- Executive confirmed the video meeting.\\n- Executive agreed to send the meeting link.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, link, visit\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4f2fca93-6d27-49db-bea5-c8943c57df72",
+  "ucid": "4f2fca93-6d27-49db-bea5-c8943c57df72",
+  "seller_categories": [
+    {
+      "mcat_id": "138928",
+      "mcat_name": "Commercial Wet Grinder"
+    },
+    {
+      "mcat_id": "151552",
+      "mcat_name": "Electric Idli Steamer"
+    },
+    {
+      "mcat_id": "119307",
+      "mcat_name": "Vegetable Cutting Machine"
+    },
+    {
+      "mcat_id": "133916",
+      "mcat_name": "Shawarma Machine"
+    },
+    {
+      "mcat_id": "181326",
+      "mcat_name": "Atta Maker"
+    }
+  ]
+}

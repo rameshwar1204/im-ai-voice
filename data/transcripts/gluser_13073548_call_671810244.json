@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671810244",
+  "gluser_id": "13073548",
+  "vintage_months": 115,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Karur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9681706",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haanji madam.\\nExecutive: Yes ma'am good morning.\\nCustomer: Haan, so call from Everwin Cotton.\\nExecutive: Yeah, Everwin. Yeah ma'am good morning. How are you?\\nCustomer: I'm fine. How are you?\\nExecutive: I'm good ma'am.\\nCustomer: Can we connect today?\\nExecutive: Yes, sure. I'm just sending, I'm just sending you the video meet link on your mail.\\nCustomer: Okay.\\nExecutive: Yeah, I'm just\\nExecutive: Ma'am you have received the mail from Nikhil Everwin Cotton 1@gmail.com.\\nCustomer: Nikhil Everwin Cotton.\\nExecutive: Yes.\\nExecutive: I'll join.\\nExecutive: Yes ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect for a video meet.\\n\n\\n\nResolution:\\n\n- Executive sent the video meet link to customer's email.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, email, link\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=430b0c8f-573d-4496-bc7c-62d1ba2ac5b4",
+  "ucid": "430b0c8f-573d-4496-bc7c-62d1ba2ac5b4",
+  "seller_categories": [
+    {
+      "mcat_id": "13540",
+      "mcat_name": "Cotton Napkin"
+    },
+    {
+      "mcat_id": "26560",
+      "mcat_name": "Dishcloths"
+    },
+    {
+      "mcat_id": "5507",
+      "mcat_name": "Canvas Tote Bags"
+    },
+    {
+      "mcat_id": "888",
+      "mcat_name": "Window Curtains"
+    },
+    {
+      "mcat_id": "25495",
+      "mcat_name": "Cotton Kitchen Towel"
+    }
+  ]
+}

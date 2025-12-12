@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671823915",
+  "gluser_id": "13073548",
+  "vintage_months": 115,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Karur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9681706",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Kuch mail nahi thi.\\nCustomer: Kuch mail nahi thi.\\nExecutive: Uh, ma'am, actually, can I send you on WhatsApp?\\nCustomer: Okay.\\nExecutive: One minute, be online.\\nExecutive: Apna, ma'am, please check kare WhatsApp.\\nCustomer: Have you received?\\nExecutive: Yeah, please check.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No mail received.\\n\n\\n\nResolution:\\n\n- Executive offered to send information via WhatsApp.\\n\n- Executive sent information via WhatsApp and asked the customer to check.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer was asked to check WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp, mail\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=14bc39d3-d43c-449a-82e3-c56845cf963d",
+  "ucid": "14bc39d3-d43c-449a-82e3-c56845cf963d",
+  "seller_categories": [
+    {
+      "mcat_id": "13540",
+      "mcat_name": "Cotton Napkin"
+    },
+    {
+      "mcat_id": "26560",
+      "mcat_name": "Dishcloths"
+    },
+    {
+      "mcat_id": "5507",
+      "mcat_name": "Canvas Tote Bags"
+    },
+    {
+      "mcat_id": "888",
+      "mcat_name": "Window Curtains"
+    },
+    {
+      "mcat_id": "25495",
+      "mcat_name": "Cotton Kitchen Towel"
+    }
+  ]
+}

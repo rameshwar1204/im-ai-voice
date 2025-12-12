@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669214616",
+  "gluser_id": "248229255",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647834",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan, is number pe phone aaya tha.\\nCustomer: Sir, ek second. Kya bol rahe hain?\\nExecutive: Isi number mein phone aaya tha, bas 10 minute pehle.\\nExecutive: 10 minute pehle, ek second.\\nExecutive: Vo number right side mein, vo number right side mein.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call on the same number.\\n\n\\n\nResolution:\\n\n- Executive asked to wait for a second.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=db1ade9c-4b68-48c0-b813-bebfa2a9fe53",
+  "ucid": "db1ade9c-4b68-48c0-b813-bebfa2a9fe53",
+  "seller_categories": [
+    {
+      "mcat_id": "191138",
+      "mcat_name": "Aadhaar Card Making Services"
+    },
+    {
+      "mcat_id": "42044",
+      "mcat_name": "Licensing Services"
+    },
+    {
+      "mcat_id": "49652",
+      "mcat_name": "Business Consultant"
+    },
+    {
+      "mcat_id": "214836",
+      "mcat_name": "Rera Registration Service"
+    },
+    {
+      "mcat_id": "107233",
+      "mcat_name": "PAN Card Services"
+    }
+  ]
+}

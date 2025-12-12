@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669349088",
+  "gluser_id": "128438579",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Yu na mujhko dur kar ab to mujhko khud me sama.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji sir. Call hi nahi kiya aapne mujhe?\\nCustomer: Are sir wo kaam lag gaya mujhe urgent koi.\\nExecutive: Sir kaise kare sir bataiye.\\nCustomer: 4 baje karu mai agar time ho to nahi to kal kar lenge.\\nExecutive: Nahi sir aaj hi kara lo sir batao ticket kate aapka khud ka bhi time kharab ho raha hai na aap batao aapki services ka ek ek din aapko importance hai aur aap usko jitna extend karoge nuksan aapka hi hai.\\nCustomer: Ab nikal lo. Chalo mai 4 baje karunga aapko fir kya hai dukan pe kaam nikal aaya koi.\\nExecutive: 4 baje.\\nCustomer: Thik hai. Haan ji.\\nExecutive: Thik hai thik hai. 4 baje karta hu sir mai.\\nExecutive: Thik hai.\\nExecutive: Thik hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says executive didn't call him.\\n\n- Customer wants to reschedule the call.\\n\n\\n\nResolution:\\n\n- Executive insisted on resolving it today.\\n\n- Agreed to call back at 4 PM.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, reschedule, services\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1c3059ee-dea7-46e3-9d6c-1a5923378041",
+  "ucid": "1c3059ee-dea7-46e3-9d6c-1a5923378041",
+  "seller_categories": [
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "163243",
+      "mcat_name": "Ram Darbar Marble Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    },
+    {
+      "mcat_id": "177958",
+      "mcat_name": "God Stone Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    }
+  ]
+}

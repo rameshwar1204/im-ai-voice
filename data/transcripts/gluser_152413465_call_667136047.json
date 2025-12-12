@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667136047",
+  "gluser_id": "152413465",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Kheda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634225",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: IndiaMART se baat kar raha hu, sir. Kya meri baat Mr. Rakesh ji se ho rahi hai?\\nCustomer: Ji, Rakesh bol raha hu.\\nExecutive: Sir, aapki company ka naam hai R K Enterprises?\\nCustomer: Ji.\\nExecutive: Sir, aapka jo product hai, wo hai industrial bearing, right?\\nCustomer: Ji.\\nExecutive: Okay. Sir, aapka jo account hai, wo free account hai. Isme aapko koi bhi buylead nahi mil rahi hai, sir.\\nCustomer: Ji.\\nExecutive: To sir, isko paid service me convert karwana chahenge aap?\\nCustomer: Nahi, abhi nahi.\\nExecutive: Okay. Sir, koi reason iske piche?\\nCustomer: Abhi to filhaal nahi, baad me dekhenge.\\nExecutive: Okay. Sir, aapko pata hai paid service me kya kya benefits milte hai?\\nCustomer: Pata hai, pata hai.\\nExecutive: Okay. To sir, abhi aap interested nahi hai?\\nCustomer: Nahi.\\nExecutive: Okay, sir. Thank you for your time.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Not interested in upgrading to a paid service.\\n\\n\\nResolution:\\n\\n- Verified customer's name, company, and product.\\n- Pitched the paid service to the customer.\\n- Acknowledged customer's refusal to upgrade.\\n\\n\\nNext Steps: \\nNone\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- paid service, buyleads, verification, sales pitch\\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d5cbee4d-1b81-41c2-93fc-7fd420fdd46a",
+  "ucid": "d5cbee4d-1b81-41c2-93fc-7fd420fdd46a",
+  "seller_categories": [
+    {
+      "mcat_id": "123996",
+      "mcat_name": "Steel Almirah"
+    },
+    {
+      "mcat_id": "38861",
+      "mcat_name": "Industrial Storage Rack"
+    },
+    {
+      "mcat_id": "183351",
+      "mcat_name": "MS Cupboard"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "180686",
+      "mcat_name": "Iron Almirah"
+    }
+  ]
+}

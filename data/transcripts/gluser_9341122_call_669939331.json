@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669939331",
+  "gluser_id": "9341122",
+  "vintage_months": 4,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663023",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0932\u094b\u0964\\nH Executive: \u0939\u0947\u0932\u094b\u0964\\nCustomer: \u0939\u093e\u0902\u0964\\nExecutive: \u092c\u094b\u0932\u093f\u090f \u0928\u093e \u0938\u0930\u0964\\nCustomer: \u0915\u0939\u093e\u0902 \u0938\u0947 \u092c\u094b\u0932 \u0930\u0939\u093e \u0939\u0948?\\nExecutive: \u0938\u0930 \u0936\u0941\u092d\u092e \u092c\u094b\u0932 \u0930\u0939\u093e \u0925\u093e \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0938\u093e\u0907\u0921 \u0911\u092b\u093f\u0938 \u0938\u0947 \u0938\u0930\u0964\\nCustomer: \u0939\u093e\u0902 \u0935\u094b \u0939\u0948 \u0928\u0939\u0940\u0902 \u0905\u092d\u0940 \u0930\u093e\u0939\u0941\u0932 \u092c\u093e\u0939\u0930 \u0917\u092f\u093e \u0939\u0941\u0906 \u0939\u0948\u0964\\nCustomer: \u092c\u093e\u0926 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0947\u0902\u0917\u0947\u0964\\nExecutive: \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked where the executive was calling from.\\n\n- Customer stated Rahul was not available.\\n\n\\n\nResolution:\\n\n- Executive stated he was Shubham from IndiaMART.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer said will talk later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, call, rahul\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=36ca4d42-8e7f-43f5-ab91-ffea2c5d3d60",
+  "ucid": "36ca4d42-8e7f-43f5-ab91-ffea2c5d3d60",
+  "seller_categories": [
+    {
+      "mcat_id": "30643",
+      "mcat_name": "Indian Gum"
+    },
+    {
+      "mcat_id": "29907",
+      "mcat_name": "Gum Arabic"
+    },
+    {
+      "mcat_id": "138764",
+      "mcat_name": "Natural Gum"
+    },
+    {
+      "mcat_id": "40128",
+      "mcat_name": "Tragacanth Gum"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    }
+  ]
+}

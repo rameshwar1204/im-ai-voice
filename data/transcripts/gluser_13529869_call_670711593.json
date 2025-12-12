@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670711593",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Haan, Shailesh ji namaskar.\\nCustomer: Ji ji.\\nExecutive: Ji sir, kaise ho aap?\\nCustomer: Bas badhiya ekdam.\\nExecutive: Haan ji ji. Main keh raha tha sir abhi maine aapke kuch product maine abhi active kar diye jo aapke inactive pade hue the na.\\nCustomer: Hmm.\\nExecutive: To abhi maine aapke total 25 product active kar diye.\\nCustomer: Hmm hmm hmm.\\nExecutive: Theek hai? Sir, kyun kyun dikha nahi de raha hai ki buylead kyun nahi dikhai de rahi hai? Khali single lead dikhai de rahi hai.\\nExecutive: Bulk lead nahi aa rahi na?\\nCustomer: Bulk khatam ho gayi? Nahi bulk ki bhi nahi aa rahi hai aur online checking bhi nahi aa rahi.\\nExecutive: Achcha.\\nCustomer: Hmm. Chalo.\\nExecutive: Ek baar ek baar bas ye karein. Haan. Nahi isliye to baat kar raha tha. Ki bhai kya disturb hua hai wo? Ek fir se ek baar aap clear kar lijiye.\\nExecutive: Main wahi keh raha hu sir ek baar hum log na. Mujhe lagta hai kahin catalog mein kuch to gadbad ho raha hai sir. grouping mein kuch gadbad hua hai jiski wajah se mere ko nahi aa rahi hai.\\nCustomer: Hmm.\\nExecutive: Haan, mere ko kuch to gadbad hua hai. Kahin to kuch nahi aisa samajh mein nahi aa raha. Main ek kaam karta hu sir maine aapko Saturday tak time diya hai na Saturday tak. Saturday ko main pure din free rahunga. Aap samajh lijiye. Ye ab ka alag baat kar raha hu. Hmm hmm. Pura pura jo catalog hai. Hmm hmm. Usko renovation kar dijiye matlab pura nikal ke fir se wo aap dal dijiye. Jo bhi aapki haan wo dalna padega wo details to main dal dunga.\\nCustomer: Theek hai.\\nExecutive: Hmm hmm hmm. Is Saturday ko main khud hi aapko call pe le lunga sir. Jab main baithunga na sir khud hi le lunga sari cheez. Sari cheez sahi kar dunga ek taraf se sir. Fir dekhte hain sir aap kya isme kar sakte hain sir. Theek hai?\\nCustomer: Haan theek hai.\\nExecutive: Haan Saturday tak mujhe time dijiye Saturday ko main khud hi aapko call back kar dunga sir.\\nCustomer: Sir aap abhi ye zaroor dekhiye kya problem hai iske andar.\\nExecutive: Hmm hmm.\\nCustomer: Ji ye cheez identify kar raha hu. Nahi aa raha hai.\\nExecutive: Theek hai. Main kam se kam 10 baar ye activate karke activate kar chuka hu lekin koi fark nahi pad raha hai.\\nExecutive: Nahi aap deactivate mat kijiyega abhi. Tabhi to gadbad ho jayega. Aap deactivate kar dijiyega.\\nCustomer: Haan theek hai.\\nExecutive: Theek hai. Theek hai aur main usko karta hu Saturday ko aapko main call karunga sir. Subah hi karunga 11 11 baje baithenge system pe. Aur thoda time de dijiyega apna hai na. To ek baar pura karke sahi kar denge sir sab kuch.\\nCustomer: Theek hai. Theek hai.\\nExecutive: Theek hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads and online checking not showing.\\n\n- Only single lead is visible.\\n\n\\n\nResolution:\\n\n- Executive will check the issue on Saturday.\\n\n- Executive will call the customer on Saturday.\\n\n- Executive will fix the catalog issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer on Saturday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, subscription, technical issue\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 145,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0b594d51-62f5-4164-a3eb-4aae93d186be",
+  "ucid": "0b594d51-62f5-4164-a3eb-4aae93d186be",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

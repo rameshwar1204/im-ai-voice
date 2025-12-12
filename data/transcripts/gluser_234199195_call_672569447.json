@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672569447",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nHello.\\nHello.\\nHan sir abhi phone aaya tha na aapka.\\nJi ji sir aa gaye aapke bete ke paas.\\nHa mere bache ka phone abhi lag nahi raha hai to main abhi paanch 10 minute mein aapko phone karwata hu theek hai sir.\\nThik hai thik hai main wait kar raha hu sir.\\nHa kya naam bola aap sir aapka Taufiq Taufiq naam hai sir mera.\\nTaufiq Taufiq ji ji ji aapka jo account hai wo meri team manage kar rahi hai meri team mein jo hai komal hai wo manage kar rahi hai.\\nHa ha ha ji.\\nThik hai sir thik hai phone karwate hai thik hai sir.\\nOkay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's child's phone is not connecting.\\n\n\\n\nResolution:\\n\n- Assured that the team is managing the account.\\n\n- Promised a call back in 5-10 minutes.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will receive a call back in 5-10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, account, phone\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1059eaf5-552b-4246-a8f4-d4ef4d0914f1",
+  "ucid": "1059eaf5-552b-4246-a8f4-d4ef4d0914f1",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

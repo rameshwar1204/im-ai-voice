@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668373147",
+  "gluser_id": "190568131",
+  "vintage_months": 29,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637147",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Good morning sir, kaise hai aap?\\nExecutive: Kaise hai sir aap?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asking how the customer is.\\n\n\\n\nResolution:\\n\n- No resolution.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- greetings\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=99740095-c8b9-45f0-a58e-c6c551f947eb",
+  "ucid": "99740095-c8b9-45f0-a58e-c6c551f947eb",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "88026",
+      "mcat_name": "PVC Wall Panel"
+    },
+    {
+      "mcat_id": "80959",
+      "mcat_name": "PVC Ceiling Panel"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669221600",
+  "gluser_id": "211370840",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Sangamner",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648970",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Haan boliye sir.\\nCustomer: Namaskar sir.\\nExecutive: Boliye sir, namaskar. Ek ek Faizan Abdul Razak ji baat kar rahe hain?\\nCustomer: Haan.\\nExecutive: Sir Abhishek baat kar raha hu IndiaMART team se.\\nCustomer: Boliye sir.\\nExecutive: Ji sir actually aap registered hue hain sir IndiaMART mein A and Enterprise karke aapka account hai sir. To abhi hamari ek meeting meeting schedule hui hai sir aapke sath. Actually aapke account ko live karne ke liye ye meeting hai to sir aap mere ko paanch se saat minute ka time de sakte hain abhi?\\nCustomer: Main abhi time nahi hai sir, abhi busy hu main.\\nExecutive: Achcha achcha kitne baje tak busy rahenge aur kitne baje mere aapko call kar lu dobara?\\nCustomer: Ek ghante ke baad.\\nExecutive: Ek ghante ke baad?\\nCustomer: Hmm.\\nExecutive: Achcha sir agar abhi agar paanch ya saat minute hi lagte hain sir isme sir.\\nCustomer: Kya karna hai?\\nExecutive: Aapko ek video meeting pe join karana hai sir fir aapse kuch activities hain jis matlab kuch access hain wo open karane hain aapke account se.\\nCustomer: Sir thodi der se call kariye na.\\nExecutive: Thodi der matlab 15 minute baad?\\nCustomer: Nahi aadhe ghante se.\\nExecutive: Chaliye theek hai fir main ek ghante baad aapko call laga deta hu sir, hai na?\\nCustomer: Theek hai theek hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and cannot attend meeting now.\\n\n\\n\nResolution:\\n\n- Executive rescheduled the call after one hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- registration, account, meeting, reschedule\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97924aa5-c91b-49c9-a8ce-a34ade7ede0e",
+  "ucid": "97924aa5-c91b-49c9-a8ce-a34ade7ede0e",
+  "seller_categories": [
+    {
+      "mcat_id": "126209",
+      "mcat_name": "LLDPE Granule"
+    },
+    {
+      "mcat_id": "158245",
+      "mcat_name": "LLDPE Reprocessed Granule"
+    },
+    {
+      "mcat_id": "99903",
+      "mcat_name": "PP Scrap"
+    },
+    {
+      "mcat_id": "186213",
+      "mcat_name": "Reprocessed LD Granules"
+    },
+    {
+      "mcat_id": "102035",
+      "mcat_name": "Reprocessed LDPE Granule"
+    }
+  ]
+}

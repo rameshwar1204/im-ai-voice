@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667403425",
+  "gluser_id": "139560930",
+  "vintage_months": 49,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadohi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ji namaste sir, IndiaMART se bol raha hu, kya naam hai sir aapka?\\nCustomer: Mera naam [inaudible] hai.\\nExecutive: Sir, main aapko call kiya tha, aapka jo verification pending hai, uske regarding main aapko call kiya tha.\\nCustomer: Verification pending hai? Maine toh karwa liya tha.\\nExecutive: Sir, aapne karwa liya tha, lekin aapka jo document hai, woh clear nahi hai, isliye woh reject ho gaya tha.\\nCustomer: Achcha, kya document clear nahi hai?\\nExecutive: Sir, aapka jo shop establishment certificate hai, woh clear nahi hai.\\nCustomer: Shop establishment certificate? Abhi toh maine GST daal diya tha.\\nExecutive: GST daal diya tha? Theek hai sir, GST daal diya tha toh aap ek baar PNS number bata dijiye, main check kar leta hu.\\nCustomer: PNS number? PNS number toh mere paas nahi hai.\\nExecutive: PNS number nahi hai? Sir, GST number hoga aapke paas?\\nCustomer: GST number hai.\\nExecutive: GST number bata dijiye sir.\\nCustomer: 24[inaudible]21Z[inaudible].\\nExecutive: Ek minute sir, main check kar leta hu. Thank you sir, aapka verification complete ho gaya hai.\\nCustomer: Ho gaya?\\nExecutive: Haan sir, ho gaya.\\nCustomer: Theek hai.\\nExecutive: Thank you sir, IndiaMART mein bane rehne ke liye dhanyavaad.\\nCustomer: Dhanyavaad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's verification was pending.\\n\n- Customer says he already completed verification.\\n\n\\n\nResolution:\\n\n- Executive verified using GST number.\\n\n- Executive confirmed verification is complete.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, gst, pns number\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f1323298-64dc-4efa-ba0b-6372868a6d17",
+  "ucid": "f1323298-64dc-4efa-ba0b-6372868a6d17",
+  "seller_categories": [
+    {
+      "mcat_id": "6453",
+      "mcat_name": "Room Carpet"
+    },
+    {
+      "mcat_id": "132774",
+      "mcat_name": "Designer Carpet"
+    },
+    {
+      "mcat_id": "102",
+      "mcat_name": "Hand Tufted Carpets"
+    },
+    {
+      "mcat_id": "19525",
+      "mcat_name": "Hand Tufted Wool Carpet"
+    },
+    {
+      "mcat_id": "3327",
+      "mcat_name": "Wall To Wall Carpets"
+    }
+  ]
+}

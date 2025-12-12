@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666958830",
+  "gluser_id": "116872459",
+  "vintage_months": 2,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kurukshetra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666686",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan ji.\\nCustomer: Uh, good afternoon sir. Sumit baat kar raha hu main IndiaMART se.\\nExecutive: IndiaMART se?\\nCustomer: Ji ji sir.\\nExecutive: Sir main na kal baat karunga abhi main busy hu. Kal baat kar paunga aapse.\\nCustomer: Theek hai sir theek hai. Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Stated they are busy and unable to talk.\\n- Requested a callback for the next day.\\n\\n\\nResolution:\\n\\n- Agreed to call back the next day.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back the customer the next day.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n\\n@@@Key Topics:\\n- callback request, busy customer\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b6546bdc-52eb-4d5a-b185-0be00213cfe2",
+  "ucid": "b6546bdc-52eb-4d5a-b185-0be00213cfe2",
+  "seller_categories": [
+    {
+      "mcat_id": "143885",
+      "mcat_name": "Glass Connector"
+    },
+    {
+      "mcat_id": "442945",
+      "mcat_name": "Glass L Connector"
+    },
+    {
+      "mcat_id": "11678",
+      "mcat_name": "Door Closer"
+    },
+    {
+      "mcat_id": "8956",
+      "mcat_name": "Railing Fittings"
+    },
+    {
+      "mcat_id": "185030",
+      "mcat_name": "Glass Point Fitting"
+    }
+  ]
+}

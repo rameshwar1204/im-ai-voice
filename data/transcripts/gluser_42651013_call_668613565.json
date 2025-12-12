@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668613565",
+  "gluser_id": "42651013",
+  "vintage_months": 2,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647607",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Your call has been forwarded to voicemail. The person you're trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voicemail\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59f47105-de4b-4412-82f9-352dfe1f9254",
+  "ucid": "59f47105-de4b-4412-82f9-352dfe1f9254",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "56027",
+      "mcat_name": "RCC Manhole Cover"
+    },
+    {
+      "mcat_id": "156668",
+      "mcat_name": "SFRC Manhole Covers"
+    },
+    {
+      "mcat_id": "143954",
+      "mcat_name": "RCC Chamber"
+    }
+  ]
+}

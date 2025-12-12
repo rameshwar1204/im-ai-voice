@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668173867",
+  "gluser_id": "5680622",
+  "vintage_months": 19,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello?\\nExecutive: Haan ji.\\nExecutive: Hi. Saima meri services private limited mein baat ho rahi hai meri?\\nCustomer: Haan ji madam bataiye.\\nExecutive: Haan main Pratiksha baat kar rahi hoon IndiaMART se.\\nCustomer: Ji madam.\\nExecutive: Abhi hamari baat hui thi na video meet connect karni thi humen to main mail mail pe main wo link send kar do video meet ki?\\nCustomer: Haan ji kar dijiye.\\nExecutive: Achcha mere ko bataoge yahi wali mail hai ya fir kisi aur mein karna hai jo isme lagi hui hai matlab attached hai usi mail pe karna hai?\\nCustomer: Haan ji mail hai.\\nExecutive: Kis to sabhi pata chalega.\\nCustomer: IndiaMART.\\nCustomer: Hello.\\nExecutive: Haan link main aadhe aadhe ghante mein aapko call back karta hoon ek minute theek hai?\\nExecutive: Haan sir actually na ye hamare pass IT team se concern aa gaya tha ki matlab by lead and query se related ticket open hui thi aapki to hamari na video meet ek schedule karni jaruri hai.\\nCustomer: Main bas ha koi baat nahi main half an hour ka time de do mere ko main us samay sirf free tha jab maine aapko bola tha to aap lunch kar rahe the us samay pe but abhi main thoda sa busy hoon.\\nExecutive: To sir kis time connect karo aapko?\\nCustomer: Bas 30 minute ka time de do main aapko connect kar dunga.\\nExecutive: Achcha achcha theek hai theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to connect for video meet.\\n\n- Customer is busy and asks for callback.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back after 30 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, buyleads, it team\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0dbe91b3-ec49-4bbb-86e3-940e1b67f285",
+  "ucid": "0dbe91b3-ec49-4bbb-86e3-940e1b67f285",
+  "seller_categories": [
+    {
+      "mcat_id": "190844",
+      "mcat_name": "Hospital Curtain Track"
+    },
+    {
+      "mcat_id": "45922",
+      "mcat_name": "Hospital Curtain"
+    },
+    {
+      "mcat_id": "149881",
+      "mcat_name": "Curtain Tracks"
+    },
+    {
+      "mcat_id": "10760",
+      "mcat_name": "Hospital Fowler Bed"
+    },
+    {
+      "mcat_id": "43928",
+      "mcat_name": "Folding Wheelchair"
+    }
+  ]
+}

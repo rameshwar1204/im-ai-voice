@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670140425",
+  "gluser_id": "52902250",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vengurla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello sir, kaise hain aap?\\nExecutive: Good morning India Mart se Ashutosh baat kar raha hun aap se baat karne ke liye.\\nCustomer: Hello.\\nExecutive: Sir aapko kuch feedback ke regarding call sir kafi time se aap try kar rahe the.\\nCustomer: Hello, aawaz aa rahi hai sir?\\nExecutive: Haan sir boliye.\\nCustomer: Sir main keh raha tha maine aapke employee ke sath discussion kar liya hai actually wo buyleads vagarah ka thoda sa issue ho raha tha ki matlab wo finish ho gayi thi buyleads.\\nExecutive: Haan.\\nCustomer: Haan, to main wahi puch raha tha ki like aap agar matlab unko shayad kam pad rahi hai mere ko idea nahi hai aap ek baar discuss kar lena ki kya matlab main issue aa raha hai ki kam pad rahi hai to fir main ek aapko upgradeable wala batata hun warna like apna bhi normal chal raha hai, theek hai?\\nExecutive: Haan.\\nCustomer: Aap ek baar baki abhi maine aapko ek mail mail aaya hoga sir aapka ticket ke regarding aapke paas ek baar check karenge sir?\\nExecutive: Sir filhal to main thoda driving kar raha hun.\\nCustomer: Theek hai aap kar lijiyega sir, theek hai?\\nExecutive: Ji ji, theek hai.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads finished, wants to discuss upgrade options.\\n\n\\n\nResolution:\\n\n- Executive asked to check the mail regarding the ticket.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will check the mail later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, upgrade, ticket, mail\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f62c1ed1-5f53-4353-b0ec-d01d42d1d516",
+  "ucid": "f62c1ed1-5f53-4353-b0ec-d01d42d1d516",
+  "seller_categories": [
+    {
+      "mcat_id": "28702",
+      "mcat_name": "Food Dehydrators"
+    },
+    {
+      "mcat_id": "140826",
+      "mcat_name": "Vegetable Dehydration Machine"
+    },
+    {
+      "mcat_id": "132885",
+      "mcat_name": "Fruit Pulper"
+    },
+    {
+      "mcat_id": "77637",
+      "mcat_name": "Kaju Cutter"
+    },
+    {
+      "mcat_id": "180438",
+      "mcat_name": "Stainless Steel Pulverizer"
+    }
+  ]
+}

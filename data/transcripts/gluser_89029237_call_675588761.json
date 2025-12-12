@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675588761",
+  "gluser_id": "89029237",
+  "vintage_months": 68,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello yes.\\nVery good evening. Am I talking to Mr. Nivesh?\\nYes, yes, yes.\\nHi Nivesh actually my name is Naveen I was calling from India Mart office Noida how are you?\\nOkay okay. Sir if you don't mind like I am on a temple sir can I give you a call back in another 15 minutes time sir?\\nYes sir Nivesh sir actually Avnish has sent you the details we have rectified the GST issue that you are facing. Okay okay you can close the concern you can close the concern okay.\\nThank you so much thank you so much. Thanks thanks thanks thanks. Have a nice day sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- GST issue.\\n\n\\n\nResolution:\\n\n- GST issue rectified.\\n\n\\n\nNext Steps: \\n\nIssue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\ngst issue, call back\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ea963736-da07-4774-b369-8bcaee129888",
+  "ucid": "ea963736-da07-4774-b369-8bcaee129888",
+  "seller_categories": [
+    {
+      "mcat_id": "36941",
+      "mcat_name": "Snack Vending Machine"
+    },
+    {
+      "mcat_id": "126667",
+      "mcat_name": "Automatic Vending Machine"
+    },
+    {
+      "mcat_id": "2724",
+      "mcat_name": "Vending Machine"
+    },
+    {
+      "mcat_id": "138732",
+      "mcat_name": "Sanitary Napkin Vending Machine"
+    },
+    {
+      "mcat_id": "22324",
+      "mcat_name": "Beverage Vending Machines"
+    }
+  ]
+}

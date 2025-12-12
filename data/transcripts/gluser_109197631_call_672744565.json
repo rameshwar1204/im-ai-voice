@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672744565",
+  "gluser_id": "109197631",
+  "vintage_months": 22,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Balotra",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9689622",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji bol rahi hu sir.\\nExecutive: Good morning Nidhi baat kar rahi hu.\\nCustomer: Haan ye ek bar customer care ka number liya tha na sir maine.\\nExecutive: Customer care ka number hi hai sir.\\nCustomer: Haan haan haan. Wo number diya tha maine aapko. Ek bar sir main disconnect kar rahi hu magar wapas kar rahi hu sir aapko call. Theek hai?\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called on customer care number.\\n\n- Customer will disconnect and call back.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's intention to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncustomer care, call back\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=02b66bef-5ac0-455f-9407-bde00bea5eb7",
+  "ucid": "02b66bef-5ac0-455f-9407-bde00bea5eb7",
+  "seller_categories": [
+    {
+      "mcat_id": "84569",
+      "mcat_name": "Cotton Poplin Fabric"
+    },
+    {
+      "mcat_id": "184549",
+      "mcat_name": "Petticoat Fabric"
+    },
+    {
+      "mcat_id": "88450",
+      "mcat_name": "Poplin Fabric"
+    },
+    {
+      "mcat_id": "185200",
+      "mcat_name": "Cotton Petticoat"
+    },
+    {
+      "mcat_id": "179839",
+      "mcat_name": "Petticoat"
+    }
+  ]
+}

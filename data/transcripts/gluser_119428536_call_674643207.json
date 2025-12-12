@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674643207",
+  "gluser_id": "119428536",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Pollachi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707014",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1858ff74-7155-4c7a-a443-87cbf2a45460",
+  "ucid": "1858ff74-7155-4c7a-a443-87cbf2a45460",
+  "seller_categories": [
+    {
+      "mcat_id": "43769",
+      "mcat_name": "Cocopeat Block"
+    },
+    {
+      "mcat_id": "43766",
+      "mcat_name": "Coir Pot"
+    },
+    {
+      "mcat_id": "88009",
+      "mcat_name": "Cocopeat Brick"
+    },
+    {
+      "mcat_id": "20471",
+      "mcat_name": "Coir Pith"
+    },
+    {
+      "mcat_id": "167497",
+      "mcat_name": "Filled Dry Fruit Gift Box"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674217834",
+  "gluser_id": "157055917",
+  "vintage_months": 11,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Chengalpattu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701428",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Uh, sir, IndiaMART la irundhu call pannirukom sir.\\nCustomer: Sollunga madam.\\nExecutive: By leads illaikadaa, feedback call pannirukom. Eecha okkava irukingala?\\nCustomer: Okkava irukken.\\nExecutive: But not satisfied endra maari koduthu irukingala sir.\\nCustomer: Hello.\\nExecutive: Enna achu madam sollunga.\\nCustomer: Puriyala sir.\\nCustomer: Naan not satisfied tharavillaiye. Yaar koduthu?\\nExecutive: Illai, namma company la enna koduthu irukingala, neenga by leads feedback edukum bodhu.\\nCustomer: Veedu ellam satisfied aa koduthu irukka. Mathapadi ippo indha renewal kaaga kettanga, fund irukkennaa adhaan.\\nExecutive: Renewal ku illai sir, neenga by leads thaan koduthu irukinga.\\nCustomer: Avlodhaan irukku.\\nExecutive: Three leads un thaan vandhu irukku. Concern raise aayirukku.\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called for buyleads feedback.\\n\n- Customer says he did not give negative feedback.\\n\n\\n\nResolution:\\n\n- Executive informed that concern has been raised.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, renewal\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=737f9de5-2a57-4527-b37b-b4f6161029cd",
+  "ucid": "737f9de5-2a57-4527-b37b-b4f6161029cd",
+  "seller_categories": [
+    {
+      "mcat_id": "25357",
+      "mcat_name": "Date Palm Trees"
+    },
+    {
+      "mcat_id": "33829",
+      "mcat_name": "Palm Trees"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "178026",
+      "mcat_name": "Dates Tissue Culture Plants"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    }
+  ]
+}

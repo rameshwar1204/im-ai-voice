@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667905355",
+  "gluser_id": "65619897",
+  "vintage_months": 18,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9641643",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji Vipul sir.\\nCustomer: Haan.\\nExecutive: Aapki subah miss call aayi thi Vipul ji.\\nCustomer: Hain?\\nExecutive: Aapki miss call padi thi subah 9:00 10:00 ke. Aapne call kiya tha?\\nCustomer: Kaun Sachin ji?\\nExecutive: Nahi Vipul ji se baat kar raha hu, mai Ujjwal baat kar raha hu IndiaMART se.\\nCustomer: Ujjwal ji maine to phone nahi kiya aapko subah subah.\\nExecutive: Nahi nahi sir aapki miss call dekhi thi tabhi maine aapko call back ki thi number pe.\\nCustomer: Na na koi galti se lag gayi hogi maine phone nahi kiya.\\nExecutive: Achha aur fir services badhiya sahi chal rahi hai?\\nCustomer: Kuch bhi nahi chal raha zero response hai.\\nExecutive: Sir Udhaji aapko kafi try bhi kar rahe the baat karne ko aap kafi busy chal rahe the fir baat bhi nahi ho pa rahi thi.\\nCustomer: Sir bataiye to kis jagah dikkat kya aapko face ho rahi hai?\\nCustomer: Query nahi aati.\\nCustomer: Aap de do aur katwa dunga bas. Mai thodi der me karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states he is not getting queries.\\n\n- Customer says services are not working, zero response.\\n\n\\n\nResolution:\\n\n- Executive called back after seeing a missed call.\\n\n- Executive asked about the services.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Negative\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, services, missed call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e149349c-9b08-4ce2-88d4-6d68edb4c9e1",
+  "ucid": "e149349c-9b08-4ce2-88d4-6d68edb4c9e1",
+  "seller_categories": [
+    {
+      "mcat_id": "192750",
+      "mcat_name": "Ajax Concrete Mixer"
+    },
+    {
+      "mcat_id": "222816",
+      "mcat_name": "Self Loading Concrete Mixer Rental"
+    },
+    {
+      "mcat_id": "183999",
+      "mcat_name": "Self Loading Concrete Mixer"
+    },
+    {
+      "mcat_id": "113965",
+      "mcat_name": "Concrete Mixer Rental"
+    },
+    {
+      "mcat_id": "170082",
+      "mcat_name": "Compactors Rental Service"
+    }
+  ]
+}

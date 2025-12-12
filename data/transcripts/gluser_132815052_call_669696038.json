@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669696038",
+  "gluser_id": "132815052",
+  "vintage_months": 33,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5ba51f56-d232-4573-b454-66c7b8faf35a",
+  "ucid": "5ba51f56-d232-4573-b454-66c7b8faf35a",
+  "seller_categories": [
+    {
+      "mcat_id": "31652",
+      "mcat_name": "Magnesium Carbonate"
+    },
+    {
+      "mcat_id": "19162",
+      "mcat_name": "Silicon Dioxide"
+    },
+    {
+      "mcat_id": "8601",
+      "mcat_name": "Precipitated Silica"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    },
+    {
+      "mcat_id": "252025",
+      "mcat_name": "Vegetable Glycerin"
+    }
+  ]
+}

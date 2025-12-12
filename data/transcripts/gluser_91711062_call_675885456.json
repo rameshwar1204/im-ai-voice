@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675885456",
+  "gluser_id": "91711062",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718520",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan kaun?\\nExecutive: Haan Amit baat karo Marane se.\\nCustomer: Ji sir.\\nExecutive: Hello Amit baat karo Marane se.\\nCustomer: Main Anu Marbal ka dealer hoon Marana.\\nExecutive: Okay kaun si company ka naam batayenge aap apni?\\nCustomer: Anu Marbal.\\nExecutive: Anu Marbal. Okay haan ji bataye.\\nCustomer: Aap ye profile banane ke liye maine diya tha itna din ho gaya bahut time ho gaya abhi tak bana nahi.\\nExecutive: Profile ban gaya hai sir aapki services bhi active ho chuki hai ab aap use karna start kariye.\\nCustomer: Haan to koi kisi ko phone nahi kiya profile khol hi nahi utara.\\nExecutive: Ah ek minute rukiye phone kiya screen pe.\\nCustomer: Achcha jisse aapne karaya tha unko phone kiya hoga na.\\nExecutive: Ha.\\nCustomer: Okay no issue sir aapka na services live hua abhi kal hi live ho ke aayi hai theek hai to aaj ya kal mein aapke paas mein phone aata main hi karti kyuki mere paas mein account hai to main hi karne wali thi to abhi na aapki services live ho chuki hai aapko ek bari dikha deti hu main ki kaise aapne sari cheeze kari hai kaise aapka product bana hua hai theek hai to aap bataye video meet pe abhi aa sakte hain?\\nCustomer: Haan.\\nExecutive: Abhi video meet pe aa sakte hain connect kar sakte hain?\\nCustomer: Matlab kaise?\\nExecutive: Meeting mein setting karungi aap join kar lijiyega main aapko screen share karke apni aapko catalog vagera company vagera sara kuch dikha deti hu.\\nCustomer: Abhi main main company ja ke phone karta hu aapko main.\\nExecutive: Ah kitne time tak aap pahunchoge company mein?\\nCustomer: Do do se paanch minute.\\nExecutive: Theek hai sir aap pahunch ke fir mujhe ek bari connect kariye.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Profile not created even after a long time.\\n\n- No one has called, profile is not opening.\\n\n\\n\nResolution:\\n\n- Informed profile is created and services are active.\\n\n- Executive offered to show the product via video meet.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after reaching company.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, services, video meet\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ff88231-fee7-455a-9899-df96ce7293ff",
+  "ucid": "0ff88231-fee7-455a-9899-df96ce7293ff",
+  "seller_categories": [
+    {
+      "mcat_id": "25424",
+      "mcat_name": "Decorative Fountain"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    },
+    {
+      "mcat_id": "43175",
+      "mcat_name": "Floating Fountains"
+    },
+    {
+      "mcat_id": "166111",
+      "mcat_name": "Teak Wood Temple"
+    },
+    {
+      "mcat_id": "2297",
+      "mcat_name": "Garden Fountains"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667951113",
+  "gluser_id": "9204916",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710450",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hanji.\\nExecutive: Hanji. Ha universal hydraulic se bol raha hu Belgaum se.\\nCustomer: Kahan se bol rahe ho?\\nExecutive: Universal hydraulic Belgaum.\\nCustomer: Hanji hanji boliye.\\nExecutive: Wo leads ke bare mein discussion karna tha. Madam abhi wo leads aa raha hi nahi apna jo product banate wo leads aa raha hi nahi hai.\\nCustomer: Han. Universal hydraulic se baat kar rahe the.\\nExecutive: Hanji.\\nCustomer: Achcha. Abhi kya dikkat aa rahi hai?\\nExecutive: Hum log jo product banate uska leads aa raha hi nahi hai.\\nCustomer: Achcha. Check kar lete hain ek second rukiye main aapko. Thik hai?\\nExecutive: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads for their products.\\n\n\\n\nResolution:\\n\n- Executive said she will check the issue.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, products, subscription\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f173f890-315c-4322-a592-877394a23371",
+  "ucid": "f173f890-315c-4322-a592-877394a23371",
+  "seller_categories": [
+    {
+      "mcat_id": "69130",
+      "mcat_name": "Oil Filter Press"
+    },
+    {
+      "mcat_id": "6357",
+      "mcat_name": "Filter Press"
+    },
+    {
+      "mcat_id": "113954",
+      "mcat_name": "Polypropylene Filter Cloth"
+    },
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "42759",
+      "mcat_name": "Hydraulic Power Pack"
+    }
+  ]
+}

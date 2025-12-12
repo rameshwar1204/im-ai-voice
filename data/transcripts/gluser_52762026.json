@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668610077",
+  "gluser_id": "52762026",
+  "vintage_months": 5,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Saiyad Raja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647684",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello.\\nExecutive: Haan, hello. IndiaMART customer care se bol rahe hain.\\nCustomer: Ji, bataiye.\\nExecutive: Ji, mere ko load ke regarding baat karna tha. Meri truck hai aur mere ko Durgapur se load chahiye, Banaras, Allahabad, Kanpur ke liye.\\nExecutive: Sir, kahaan se baat kar rahe hain? Company kaunsi hai aapki?\\nCustomer: Durgapur.\\nExecutive: Company Alatech Traders meri company hai.\\nExecutive: Haan, sir, main Utkarsh baat kar raha hun. Aapne udhar bhi call kar sakte the. Main aapka account manager baat kar raha hun.\\nCustomer: Kahaan se?\\nExecutive: A, ek minute. Alatech Traders se baat kar rahe hain na, sir?\\nCustomer: Haan, haan.\\nExecutive: Samrendra ji se baat ho rahi hai?\\nCustomer: Haan, haan, Samrendra ji.\\nExecutive: Ji, sir, main Utkarsh baat kar raha hun, aapka account manager.\\nCustomer: Achha, achha, Utkarsh ji bol rahe hain. Thik hai, thik hai.\\nExecutive: Ji, ji, ji.\\nCustomer: Haan, yeh mere ko truck yeh load truck load ke regarding baat karni thi. Mere ko Durgapur se load bhejna hai. Aapko Allahabad, Kanpur, Banaras.\\nExecutive: Achha, achha. Rukiye, main aapko call back kar raha hun sir, isi number pe, thik hai?\\nCustomer: Thik, thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs load for truck from Durgapur.\\n\n\\n\nResolution:\\n\n- Executive will call back on the same number.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- load, truck, call back\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c772851c-7f92-42e7-83b0-d91da58b4f49",
+  "ucid": "c772851c-7f92-42e7-83b0-d91da58b4f49",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "43635",
+      "mcat_name": "Crushed Stone"
+    },
+    {
+      "mcat_id": "2475",
+      "mcat_name": "TMT Bars"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "137213",
+      "mcat_name": "Magnetite Iron Ore"
+    }
+  ]
+}

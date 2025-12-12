@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672093624",
+  "gluser_id": "3911202",
+  "vintage_months": 4,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683179",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji? India Mart se bol rahe hain?\\nCustomer: Haan ji, haan ji sir.\\nExecutive: Ji.\\nCustomer: Mujhe na 10 minute denge sir, 10 minute denge sir please, kyunki meeting mein hoon, just free ho gayi 10 minute mein aapko back kar raha hoon.\\nExecutive: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call back in 10 minutes due to being in a meeting.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back in 10 minutes.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback request\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a4ae4e42-b776-489d-a760-ba278fff02e7",
+  "ucid": "a4ae4e42-b776-489d-a760-ba278fff02e7",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "167463",
+      "mcat_name": "Synthetic Resin Adhesive"
+    },
+    {
+      "mcat_id": "34885",
+      "mcat_name": "PVA Adhesive"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    },
+    {
+      "mcat_id": "131680",
+      "mcat_name": "Emulsion Adhesive"
+    }
+  ]
+}

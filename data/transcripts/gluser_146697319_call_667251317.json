@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667251317",
+  "gluser_id": "146697319",
+  "vintage_months": 1,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Himatnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651589",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: IndiaMART IndiaMART se bol rahe hain\\nCustomer: Haan ji IndiaMART customer care mein koi phone kyun nahi receive kar raha hai\\nExecutive: Sir wo call mere paas hi aa rahe hain main meeting mein thi to is wajah se receive nahi ho pa raha tha\\nCustomer: To mera mera jo abhi apne subscriber liya tha digital self ka\\nExecutive: Haan ji\\nCustomer: To usme hai na ek set karna hai ki jo choti inquiry aa rahi hai na wo band karni hai badi inquiry receive karwani hai\\nExecutive: Sir wo aise band to nahi hogi aap thoda sa jo bulk orders aapko dikhte hain wo aap consume kar lo to automatically AI active ho jayega to aapke paas bulk orders ki lead zyada shuru ho jayegi\\nCustomer: Are wo kahan se karna hai kaise karna hai kya pata bata to bata to nahi sakta hai aur us waqt to wo Chandan ji ne mujhe bola tha verify customer aayenge koi verify customer to nahi aa rahe hain\\nExecutive: Sir iske maine sir ko video meeting pe connect karke sari cheeze guide to kari thi kaise karna hai leads wagera pe kaam sari filters maine unko bataye the kaise leads consume karni hai sari cheeze maine unko guide kari thi\\nCustomer: Chalo main aapko aadhe ghante mein phone karta hun\\n",
+  "summary": "\\n\nConcerns:\\n\n- No one is picking up the phone.\\n\n- Wants to stop small inquiries.\\n\n- Wants to receive big inquiries.\\n\n- No verified customers are coming.\\n\n\\n\nResolution:\\n\n- Informed that AI will activate automatically.\\n\n- Executive says she guided him earlier.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, customer care\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9b3172e0-80ad-4b06-99cc-05b1af40d409",
+  "ucid": "9b3172e0-80ad-4b06-99cc-05b1af40d409",
+  "seller_categories": [
+    {
+      "mcat_id": "189353",
+      "mcat_name": "Apollo Car Tyres"
+    },
+    {
+      "mcat_id": "2581",
+      "mcat_name": "Truck Tyres"
+    },
+    {
+      "mcat_id": "149838",
+      "mcat_name": "Truck Radial Tyres"
+    },
+    {
+      "mcat_id": "215334",
+      "mcat_name": "Apollo Bike Tyres"
+    },
+    {
+      "mcat_id": "183872",
+      "mcat_name": "Block Jointing Mortar"
+    }
+  ]
+}

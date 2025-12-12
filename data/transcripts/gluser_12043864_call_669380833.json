@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669380833",
+  "gluser_id": "12043864",
+  "vintage_months": 83,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bidar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655839",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan madam ji boliye.\\nExecutive: Haan ji sir good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Sir Raj\\nCustomer: aapne call kiya tha mujhe account manager baat kar rahi hu sir India Mart se aapki Minakshi Sharma.\\nCustomer: Boliye.\\nExecutive: Actually sir aapka call aaya tha aapne I think hamare customer care number pe call kiya tha na to ye aapka concern tha sir regarding services.\\nCustomer: Abhi bhi abhi to kisi ne baat kiya na abhi maine jo bhi problem tha maine unko bataya.\\nExecutive: Achcha.\\nCustomer: Ki mujhe by list jo kaam ki nahi hai wo aa rahi hai aur jo kaam ki aa rahi hai wo automatically sold out ho ja rahi hai.\\nExecutive: Achcha achcha sir to ek baat sir main aapko jo by irrelevant aa rahi hai na jo aapke kaam ki nahi hai.\\nCustomer: Haan.\\nExecutive: To aapne to aapne sir irrelevant mark kiya ya nahi kiya aapne.\\nCustomer: Mujhe pata hi nahi na wo jo kaam ki hai matlab jo kaam ki jaise hi aa rahi hai lekin jab unse main contact karta hu to unhone bolte hai ki nahi nahi thoda mistake se humne kar diya tha.\\nExecutive: Achcha.\\nCustomer: Hamare paas nahi hai abhi chota kaam hai aapko nahi workout hoga aisa bolte hai.\\nExecutive: Achcha achcha to ek kaam kar deti hu.\\nCustomer: Team nahi ho pa rahi hai haan.\\nExecutive: Okay koi problem nahi sir aapko aage se koi bhi issue ho na by to aap ye mera number aap save kar lena theek hai aap mujhe direct call karna koi bhi dikkat ho theek hai.\\nCustomer: Aise to bahut sare madam se baat hua sabhi aise hi bolte hai fir baad me koi response deta nahi hai.\\nExecutive: Sir dekho jo aapke paas last jo account manager thi na Swarnam ji.\\nCustomer: Wo Swarnam ji wo boli ki mujhe bhi direct call kar lena unko call kar raha tha unka disconnect aa raha hai wo call.\\nExecutive: Sir actually na unke thoda sir family me na unki mother ki health issue chal raha hai na to wo abhi ghar pe hi hai wo office join nahi kiya hai unhone that's why isliye maine aapko bola ki aap mujhe call kar lena.\\nCustomer: Achcha theek hai.\\nExecutive: Abhi ke liye abhi ke liye ek kaam karti hu main aapko ek baar guide kar deti hu ki aap jo by lead aapko lag raha hai na ki wo bekar hai unko kaise aapko not relevant mark karna hai taki aapko aage se wo na dikhe.\\nCustomer: Haan barabar correct haan.\\nExecutive: Haan to aap mujhe batayenge aapka mail id kya hai sir?\\nCustomer: Mail id Kavita Rathod Kavita Rathod bhi.\\nExecutive: Theek hai okay main aapko video meeting ka link bhej rahi hu us pe aap ek baar join kijiye fir main aapko batati hu kaise kya karna hai.\\nCustomer: Haan bhejiye.\\nExecutive: Haan bhej diya sir check kijiye.\\n\\nCustomer: Aaya sir?\\n\\nExecutive: Minakshi Sharma ke naam se aayega sir.\\nCustomer: Haan abhi aa rahi hai.\\nExecutive: Haan ji.\\nCustomer: Video meet with IndiaMART usme kya karna hai yes karna hai kya?\\nExecutive: Haan usi pe yes karke usko join kar lo.\\nCustomer: Join with Google Meet.\\nExecutive: Haan ji haan ji.\\n\\n[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\n- Receiving irrelevant buyleads.\\n\n- Useful buyleads are automatically sold out.\\n\n- No response from account managers after initial contact.\\n\n\\n\nResolution:\\n\n- Executive offered direct contact for future issues.\\n\n- Executive will guide on marking irrelevant buyleads.\\n\n- Sent a video meeting link to guide the customer.\\n\n\\n\nNext Steps: \\n\n- Customer to join the video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, irrelevant, video meeting, account manager\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 409,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=57e020c6-3042-4342-8f56-c155e55d8fae",
+  "ucid": "57e020c6-3042-4342-8f56-c155e55d8fae",
+  "seller_categories": [
+    {
+      "mcat_id": "176374",
+      "mcat_name": "Guniting Services"
+    },
+    {
+      "mcat_id": "37735",
+      "mcat_name": "Shotcrete Machines"
+    },
+    {
+      "mcat_id": "159259",
+      "mcat_name": "Pneumatic Guniting Machine"
+    },
+    {
+      "mcat_id": "169194",
+      "mcat_name": "Canal Constructions Services"
+    },
+    {
+      "mcat_id": "37734",
+      "mcat_name": "Shotcrete Equipment"
+    }
+  ]
+}

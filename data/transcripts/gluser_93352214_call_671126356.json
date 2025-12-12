@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671126356",
+  "gluser_id": "93352214",
+  "vintage_months": 11,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671548",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hallo?\\nCustomer: Hallo?\\nExecutive: Haan ji, Saurabh Saurabh bhai ji main Subah se baat kar raha tha India Property se, kal baat hui thi meri aapse.\\nCustomer: Haan sir, lekin abhi main thoda busy hoon sir.\\nExecutive: Achha, theek hai, theek hai, theek hai sir. Okay, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently busy.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia property, call\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2d4967e4-9dca-473d-92e5-1b24f214c994",
+  "ucid": "2d4967e4-9dca-473d-92e5-1b24f214c994",
+  "seller_categories": [
+    {
+      "mcat_id": "3179",
+      "mcat_name": "Agricultural Pesticides"
+    },
+    {
+      "mcat_id": "4414",
+      "mcat_name": "Biopesticides"
+    },
+    {
+      "mcat_id": "34465",
+      "mcat_name": "Plant Growth Promoters"
+    },
+    {
+      "mcat_id": "10805",
+      "mcat_name": "Humic Acid"
+    },
+    {
+      "mcat_id": "137380",
+      "mcat_name": "Nitrobenzene"
+    }
+  ]
+}

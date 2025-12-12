@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676938156",
+  "gluser_id": "129082634",
+  "vintage_months": 53,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698727",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes, yes, ma'am.\\nExecutive: Sir, good afternoon.\\nCustomer: Good afternoon, ma'am, bataiye. Sir, main se baat kar rahi hu IndiaMART se.\\nExecutive: Ji bataiye.\\nCustomer: Sir, aapne mail pe reply nahi kara keywords ka?\\nExecutive: Keywords ka, okay, okay, okay.\\nCustomer: Sorry?\\nExecutive: Abhi, abhi kar deta hu main.\\nCustomer: Okay, sir, aapki jo service chal rahi hai. Sir, aapka package chal raha tha, aapne kuch plan kara tha ise upgrade karane ka, kyunki maine aapko bataya tha direct queries increase karne ke liye upgrade karwane ke liye ek baar plan karke dekhiye.\\nCustomer: Short, short, short mein bataiye. Maine aapko last mein bataya tha ki naya premium ki koi baat mat kariye. Abhi main band karwana cha raha tha.\\nExecutive: Isliye main usme aapko keywords ka main reply bhi deta hu, baki aur kuch baat nahi kar sakte. Barabar?\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says executive didn't reply to email.\\n\n- Executive called to upgrade the customer's package.\\n\n- Customer wants to close the current subscription.\\n\n\\n\nResolution:\\n\n- Executive said will reply to the email now.\\n\n- Executive agreed to only discuss keywords.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, upgrade, keywords, email\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=87d61be9-381f-4d53-a874-6fa6eb3d02b1",
+  "ucid": "87d61be9-381f-4d53-a874-6fa6eb3d02b1",
+  "seller_categories": [
+    {
+      "mcat_id": "222754",
+      "mcat_name": "Phosphate Rich Organic Manure (PROM)"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "215886",
+      "mcat_name": "Bio Potash"
+    },
+    {
+      "mcat_id": "141258",
+      "mcat_name": "Bentonite Granules"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    }
+  ]
+}

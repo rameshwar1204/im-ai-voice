@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675363333",
+  "gluser_id": "9584477",
+  "vintage_months": 95,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9712135",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Polo phone update karne ke liye hume kuch nahi mil raha hai. Maine kaha video manga hai aap log woh manga ke de dijiye.\\n(silence)\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Ha. Hi sir, very good morning. Kaise hain aap?\\nCustomer: Badhiya hu aap sunao.\\nExecutive: Sir, mai actually IndiaMART se baat kar rahi thi, senior manager. Actually aapka ek catalog hai na Bajrang Trader karke IndiaMART pe.\\nCustomer: Ha.\\nExecutive: Usske liye maine call kiya sir. Actually kal aapka call aaya tha aapke account me sir ke number pe, Mr. Ashish ji ke paas. But woh actually aa nahi paaye the toh isliye maine call kiya ki koi issue aa raha hai kya services se related toh aap mere ko ek baar bata sakte hain. Aap ek baar uss pe discussion kar lenge sir.\\nCustomer: Koi issue bhi nahi hai aur humne toh humne koi call bhi nahi kiya hai.\\nExecutive: Okay.\\nCustomer: Ha.\\nExecutive: Accha. Okay. So actually yaha pe na aapka matlab incoming miss hua tha toh hamare paas as a concern open ho gaya tha. Ki shayad customer ko koi problem hai toh ek baar hum connect karke woh cheezein puch lu.\\nCustomer: Nahi nahi koi koi problem nahi hai mam.\\nExecutive: Theek hai, theek hai. Koi issue nahi hai. Agar aapko koi problem nahi hai toh fir mai yaha se aapka concern close kar du matlab jo open hua as a incoming aapke.\\nCustomer: Hmm hmm. Theek hai.\\nExecutive: Theek hai. Mai close kar de rahi hu sir. Aapke paas na ek feedback jayega mail par mere feedback se related. Waha pe bas aap positive feedback kar dijiyega. Theek hai?\\nCustomer: Hmm.\\nExecutive: Okay ji sir. Thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he is not getting polo phone update.\\n\n- Executive asks if customer has any service issues.\\n\n\\n\nResolution:\\n\n- Customer says there is no issue.\\n\n- Executive will close the concern.\\n\n- Executive requested positive feedback on the mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, feedback, services, issue\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ea7aead8-b4b9-49f8-9992-ee96c5f6fb4f",
+  "ucid": "ea7aead8-b4b9-49f8-9992-ee96c5f6fb4f",
+  "seller_categories": [
+    {
+      "mcat_id": "139208",
+      "mcat_name": "Airless Painting Machine"
+    },
+    {
+      "mcat_id": "132831",
+      "mcat_name": "Wall Putty Spray Machine"
+    },
+    {
+      "mcat_id": "204556",
+      "mcat_name": "Graco Spray Painting Equipment"
+    },
+    {
+      "mcat_id": "147122",
+      "mcat_name": "Spray Painting Machine"
+    },
+    {
+      "mcat_id": "87831",
+      "mcat_name": "Mechanical Packer"
+    }
+  ]
+}

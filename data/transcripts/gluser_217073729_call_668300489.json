@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668300489",
+  "gluser_id": "217073729",
+  "vintage_months": 19,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Serampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639766",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Ha sir, hello.\\nExecutive: Ha sir, main India Mart se bol raha hu. Main keh raha tha sir koi bhi link aayegi na to usko abhi ignore kijiye kehta hai to usko click mat kijiyega.\\nCustomer: Theek hai.\\nExecutive: Aur ha baki koi agar aapko link aata hai is type ka to aap mujhe update kijiyega baki koi bhi link ya message aata hai na to wo India Mart ke through ya to India Mart mail ID hoga sir.\\nCustomer: Ha wo India Mart se likha hai to personal number se aaye.\\nExecutive: Ha personal number se nahi aata hai to usko ignore karna hai sir, theek hai. Baki main aapka jo ye number save kar lijiye main aapka account manager hu. Aapko kabhi bhi koi bhi problem aati hai aap mujhe connect kijiyega ya WhatsApp pe bhi aap update kar sakte hai, theek hai sir. Baki aapka jo concern hai isko main close kar du sir jo aapne raise kiya tha India Mart me.\\nCustomer: Ha isko close kar dijiye but ye to matlab fir call nahi karegi ye.\\nExecutive: Sir aap close karega agar koi aap unko direct bol dijiye call nahi karne ke liye hamare India Mart se baat wo call hi nahi karegi kyuki hamare end se to koi call gaya nahi hai sir. Wo to main hi coordinate kar raha hu hai na sir. To India Mart ke side se kisi ne call nahi kiya hai to kahin na kahin wo call aa rahi hai.\\nCustomer: Hmm.\\nExecutive: To kyuki hamare end se hota to fir hum aapko other customer ke liye bhi to aap logo ka awareness dena hoga na.\\nExecutive: Ha maine update kar diya hai aaj apne jo backend team hai usme maine update kar diya hai ki is type ki mail ja rahi hai aur hum log work kar rahe hai us pe ki kya us pe ye ho sakta hai, theek hai sir.\\nCustomer: Theek hai, theek hai. Bas.\\nExecutive: To main concern close kar raha hu sir aapke pass ek feedback mil jayega de dijiyega jo bhi aapne humse pucha hai.\\nCustomer: Theek hai, theek hai, theek hai sir.\\nExecutive: Thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving calls from personal numbers.\\n\nResolution:\\n\n- Executive confirmed calls not from IndiaMART.\\n\n- Executive advised ignoring personal number calls.\\n\n- Executive updated backend team about the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will close the concern.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- spam calls, verification, awareness\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b4aded6a-b670-4997-a264-0e3b55e6400c",
+  "ucid": "b4aded6a-b670-4997-a264-0e3b55e6400c",
+  "seller_categories": [
+    {
+      "mcat_id": "181508",
+      "mcat_name": "School Notebook"
+    },
+    {
+      "mcat_id": "32856",
+      "mcat_name": "Notebook"
+    },
+    {
+      "mcat_id": "41521",
+      "mcat_name": "Writing Paper"
+    },
+    {
+      "mcat_id": "68836",
+      "mcat_name": "Writing Notebook"
+    },
+    {
+      "mcat_id": "184972",
+      "mcat_name": "Classmate Notebook"
+    }
+  ]
+}

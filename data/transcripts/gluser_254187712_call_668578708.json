@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668578708",
+  "gluser_id": "254187712",
+  "vintage_months": 1,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Ha sir mai Instet Technica wapis se bol raha hu, hamara company aapke yaha registration hai.\\nCustomer: Kaunsi company se baat kar rahe hai sir?\\nExecutive: Instet Technica.\\nExecutive: Instet Technica, Instant Technica yes, yes.\\nCustomer: Ha ji ha ji ha ji.\\nExecutive: Ha ji ha ji. Aur bhai maine abhi ek seller ka ek diya kal se mere sath aisa ho raha hai. Mai aapko abhi immediate call kar raha hu sir apne personal number se. Primary number pe connect karu aapke register primary number pe?\\nCustomer: Register hai na register primary number.\\nExecutive: Ha mai aapko wahi keh raha hu abhi immediate apne side se connect kar raha hu sir aapko abhi.\\nCustomer: Ha karo, fir se karo cut karke.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues since yesterday.\\n\n- Wants a call on registered primary number.\\n\n\\n\nResolution:\\n\n- Executive offered to call on primary number.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after disconnecting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- registration, primary number, seller issue\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=61576c32-f472-4d94-9776-794de1ed3ef1",
+  "ucid": "61576c32-f472-4d94-9776-794de1ed3ef1",
+  "seller_categories": [
+    {
+      "mcat_id": "1913",
+      "mcat_name": "Digital Temperature Controller"
+    },
+    {
+      "mcat_id": "3026",
+      "mcat_name": "Temperature Sensor"
+    },
+    {
+      "mcat_id": "24225",
+      "mcat_name": "Coil Heaters"
+    },
+    {
+      "mcat_id": "106096",
+      "mcat_name": "PT100 Temperature Sensor"
+    },
+    {
+      "mcat_id": "30390",
+      "mcat_name": "High Temperature Sensors"
+    }
+  ]
+}

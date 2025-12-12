@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674513198",
+  "gluser_id": "49980999",
+  "vintage_months": 8,
+  "bl_dau_oct": 18,
+  "customer_type": "Default Cust Type",
+  "city_name": "Barmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Haan, Bhavesh ji.\\nExecutive: Ji sir.\\nCustomer: Sir, Pranshu bol raha hu IndiaMART se, kaise ho aap?\\nCustomer: Haan, bas theek hai.\\nExecutive: Us din bhi baat hui thi na aapse, fir baat I think ho nahi paayi thi. Service ke regarding call kiya tha, sara kuch aur fir aapki ek miss call padi thi to meri side se miss ho gayi thi. To abhi jaise main phone kar rahe ho, main thoda kaam busy hu ya fir aap 4:00 baje phone karo.\\nCustomer: Haan.\\nExecutive: 4:00 baje phone. Chaliye koi baat nahi, aisa karta hu main 4:00 baje aapko call kar leta hu. Bas ek cheez bas mujhe discuss, bas ek minute aur de dijiye bas ek minute.\\nCustomer: Haan.\\nExecutive: Aah, jaise abhi jaise ek main, maine concern ek open kiya hai, main koi baat nahi, main close kar deta hu, main 4:00 baje fir open kar dunga. Ek feedback aayega mere liye.\\nCustomer: Thoda subah-subah customer ka time hai is hisab se.\\nExecutive: Haan, main samajh gaya, samajh gaya. Koi na, main aisa karta hu bas ek minute aur de dijiye mujhe, bas ek concern open kiya tha, main close kiye de raha hu usko. Fir ek bar main 4:00 baje aapko connect kar leta hu, hai na? Ek aapka feedback aayega.\\nCustomer: Haan.\\nExecutive: Theek hai, usme okay kar dijiyega aap, theek hai?\\nCustomer: Theek sir, okay.\\nExecutive: Theek. Okay, okay sir. Thank you, thank you.\\nCustomer: 4:00 baje karna.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was busy and asked to call later.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 4:00 PM.\\n\n- Executive closed the opened concern.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 4:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call back, service\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b7ebab0-d68a-4b17-8249-e6ca4758b410",
+  "ucid": "7b7ebab0-d68a-4b17-8249-e6ca4758b410",
+  "seller_categories": [
+    {
+      "mcat_id": "29938",
+      "mcat_name": "Gypsum Plaster"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    },
+    {
+      "mcat_id": "4378",
+      "mcat_name": "Bentonite Powder"
+    },
+    {
+      "mcat_id": "34485",
+      "mcat_name": "Plaster Of Paris"
+    },
+    {
+      "mcat_id": "131584",
+      "mcat_name": "Gypsum Stucco Plaster"
+    }
+  ]
+}

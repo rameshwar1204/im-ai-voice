@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666790927",
+  "gluser_id": "119832857",
+  "vintage_months": 13,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Haldwani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9625853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haanji sir Ashutosh baat kar raha hu maine aapko phone kiya tha.\\nExecutive: Abhi main ek meeting mein hu main aapko call karta hu just call back karta hu aapko theek hai?\\nCustomer: Theek hai.\\nExecutive: Abhi main call back karta hu.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive was returning a call to the customer.\\n- Was unable to talk as he was in a meeting.\\n\\n\\nResolution:\\n\\n- Informed the customer about being in a meeting.\\n- Promised to call back shortly.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call the customer back.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- callback, meeting\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7fd6669-db55-47c0-b210-b127aa6a0dcc",
+  "ucid": "a7fd6669-db55-47c0-b210-b127aa6a0dcc",
+  "seller_categories": [
+    {
+      "mcat_id": "140396",
+      "mcat_name": "Retractable Roof"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "42328",
+      "mcat_name": "Modular Tensile Structure"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "135895",
+      "mcat_name": "Car Parking Tensile Structure"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672975579",
+  "gluser_id": "2985322",
+  "vintage_months": 89,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Ring bhi katwa denge.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Ji boliye.\\nExecutive: Sir Anurag baat kar raha tha India Mart se kaise ho aap?\\nCustomer: Hmm badhiya ji.\\nExecutive: Sir try kar raha tha ke baat karne ki sir abhi jo service hai aapka kaise chal raha hai sir uske bare me bata do aap mujhe.\\nCustomer: Abhi service to bilkul bekar chal raha hai.\\nExecutive: Sir kya hua matlab lead aap se consume kar rahe ho aap is mahine ke abhi matlab is hafte ke do lead aapne consume kari thi to sir usme kitne issue aayi ji.\\nCustomer: Do lead consume me kya hota hai aap dekh sakte hai.\\nExecutive: Sir dekhiye na aapne matlab aapko maine chart open kiya jo products hai mere wo properly profile nahi ho rahe hain waha pe.\\nCustomer: Thik hai sir isiliye main kai baar aap free ho ke baat karunga aapse abhi bhi main kahi market me hu thoda busy hu.\\nExecutive: Sir kab tak free honge bhai sahab kal kar lu main?\\nCustomer: Ha kal kijiye.\\nExecutive: Sir kitne baje tak waise?\\nCustomer: Main phone karunga aapko.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Service is not running well.\\n\n- Products are not properly profiled.\\n\n\\n\nResolution:\\n\n- Executive asked about the service.\\n\n- Customer said he will call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, leads, profile, products\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9682084e-134e-4bb5-a438-b07af5c4b81b",
+  "ucid": "9682084e-134e-4bb5-a438-b07af5c4b81b",
+  "seller_categories": [
+    {
+      "mcat_id": "1824",
+      "mcat_name": "Hotel & Restaurant Furniture"
+    },
+    {
+      "mcat_id": "95440",
+      "mcat_name": "Outdoor LED Video Display"
+    },
+    {
+      "mcat_id": "138613",
+      "mcat_name": "VRF System"
+    },
+    {
+      "mcat_id": "214801",
+      "mcat_name": "Hitachi Duct AC"
+    },
+    {
+      "mcat_id": "22111",
+      "mcat_name": "Aroma Diffuser"
+    }
+  ]
+}

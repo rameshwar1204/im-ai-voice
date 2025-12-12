@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668530431",
+  "gluser_id": "183450335",
+  "vintage_months": 32,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good morning, IndiaMART se [inaudible] baat kar raha hu.\\nCustomer: Ha good morning sir, mera refund kab tak aayega?\\nExecutive: Sir, aapka refund, aapne baat kiya tha kya refund ke liye?\\nCustomer: Ha baat kiya tha.\\nExecutive: Kab baat kiya tha sir?\\nCustomer: Kal kiya tha.\\nExecutive: Kal kiya tha, theek hai sir, main check kar leta hu, aapka company name bata dijiye.\\nCustomer: [unintelligible]\\nExecutive: [unintelligible]\\nCustomer: [unintelligible]\\nExecutive: Ek minute sir, main check kar leta hu, line pe bane rahiye.\\nCustomer: Ha.\\nExecutive: Thank you sir, line pe bane rahne ke liye, sir aapka jo refund hai, woh kal aapne baat kiya tha, toh woh process mein hai, woh aapko 24 se 48 ghante mein aapko update mil jayega sir.\\nCustomer: Theek hai.\\nExecutive: Aur kuch help chahiye sir aapko?\\nCustomer: Nahi.\\nExecutive: Theek hai sir, thank you sir, IndiaMART mein call karne ke liye, dhanyavaad.\\nCustomer: Dhanyavaad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know refund status.\\n\n\\n\nResolution:\\n\n- Executive informed refund is in process.\\n\n- Customer will get an update in 24-48 hours.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, verification, status\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12dd9b51-8042-42e0-bb6c-a32f95805939",
+  "ucid": "12dd9b51-8042-42e0-bb6c-a32f95805939",
+  "seller_categories": [
+    {
+      "mcat_id": "129909",
+      "mcat_name": "USB Smart Token"
+    },
+    {
+      "mcat_id": "445844",
+      "mcat_name": "Tally Prime Software"
+    },
+    {
+      "mcat_id": "140808",
+      "mcat_name": "Tally Software"
+    },
+    {
+      "mcat_id": "173934",
+      "mcat_name": "Digital Signature Certification"
+    },
+    {
+      "mcat_id": "185210",
+      "mcat_name": "Tally ERP 9 Software"
+    }
+  ]
+}

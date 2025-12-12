@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675450838",
+  "gluser_id": "102388388",
+  "vintage_months": 8,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Panaji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello, aawaz nahi aa rahi hai theek se. Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice is not clear.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvoice issue\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0a6cdaf4-48f8-4dfb-88aa-9d31df64a608",
+  "ucid": "0a6cdaf4-48f8-4dfb-88aa-9d31df64a608",
+  "seller_categories": [
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "127",
+      "mcat_name": "Christmas Stars"
+    },
+    {
+      "mcat_id": "218580",
+      "mcat_name": "Clay Tea Cup"
+    },
+    {
+      "mcat_id": "28284",
+      "mcat_name": "Fish Masala Mix"
+    },
+    {
+      "mcat_id": "9050",
+      "mcat_name": "Hanging Star"
+    }
+  ]
+}

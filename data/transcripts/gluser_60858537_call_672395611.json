@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672395611",
+  "gluser_id": "60858537",
+  "vintage_months": 7,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686311",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello sir, good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Sir, I am Swati speaking from IndiaMART, how are you sir?\\nCustomer: [inaudible]\\nExecutive: Call aaya hai na IndiaMART mein.\\nCustomer: Haan haan haan.\\nExecutive: Haan, toh aapne kis liye call kiya tha sir, koi issue aa raha hai?\\nCustomer: Madam, main abhi thoda function mein hu, kisi mein aapko do ghante baad call karunga ek baar.\\nExecutive: Achcha, actually ticket raise ho jaati hai na aap call karte hain toh.\\nCustomer: Bata do sir, aapko kya hai. Abhi main kya ki, gadi drive kar raha hu, ja raha hu. Abhi baat ho nahi payegi na.\\nExecutive: Achcha, toh yeh ticket close kar du kya sir agar koi concern nahi hai toh?\\nCustomer: Hai, problem toh hai, woh baat kehni hai, woh kehni hai na thoda. Gadi drive kar raha hu, ja raha hu main.\\nExecutive: Achcha, toh abhi batao aap kitni der mein phir call karein hum aapko?\\nCustomer: Aap 4 baje kar dijiye.\\nExecutive: 4 baje kar lein sir, theek hai, theek hai.\\nExecutive: Kyunki phir ticket bhi close karna rahega na, aapka concern close karke.\\nCustomer: Theek hai.\\nExecutive: Theek, okay, namaste.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has an issue to discuss.\\n\n\\n\nResolution:\\n\n- Executive will call the customer back at 4 PM.\\n\n\\n\nNext Steps: \\n\n- Executive to call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, ticket, concern\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ab52e53e-d1b9-4c86-b7e3-8db09afcba65",
+  "ucid": "ab52e53e-d1b9-4c86-b7e3-8db09afcba65",
+  "seller_categories": [
+    {
+      "mcat_id": "219336",
+      "mcat_name": "Kamadhenu Cow and Calf Statue"
+    },
+    {
+      "mcat_id": "218511",
+      "mcat_name": "Aluminum Statue"
+    },
+    {
+      "mcat_id": "149140",
+      "mcat_name": "Aluminium Handicrafts"
+    },
+    {
+      "mcat_id": "180135",
+      "mcat_name": "Silver Plated Pooja Thali"
+    },
+    {
+      "mcat_id": "154423",
+      "mcat_name": "White Metal Religious Statues"
+    }
+  ]
+}

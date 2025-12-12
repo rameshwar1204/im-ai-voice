@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672043099",
+  "gluser_id": "131036334",
+  "vintage_months": 5,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Puttur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673237",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello, heli?\\nCustomer: Hello, good afternoon, sir.\\nCustomer: Good afternoon, heli?\\nCustomer: Uh, ye, Kaya Enterprises se baat kar rahe hain?\\nCustomer: Ha, bolo, yaar, heli?\\nCustomer: Uh, sir, mera naam Saurabh hai, IndiaMART ke head office se baat kar raha tha, business manager. Kaise hain aap?\\nCustomer: Okay, what is it regarding?\\nCustomer: Uh, sir, it is regarding the feedback that is given by you regarding the call that is done by Rahul. So just wanted to know is there any issue or problem that you are facing regarding the services that you are\\nCustomer: Uh, do one thing, know, call the alternate number. Uh, he can guide you to, he can better guide you to what happened because, uh, the, I think there was an OTP issue and even still the login is not being, uh, uh, happening. So I think it's a technical issue that you are not being able to solve. So please, uh,\\nExecutive: Okay, alternate number na?\\nCustomer: The alternate number.\\nExecutive: Okay, sir, okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding feedback on Rahul's call.\\n\n- Customer facing OTP issue and login problems.\\n\n\\n\nResolution:\\n\n- Customer asked executive to call alternate number.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- otp, login, technical issue, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb5b0a3b-b9e0-41c0-b699-e0a9d3526cce",
+  "ucid": "bb5b0a3b-b9e0-41c0-b699-e0a9d3526cce",
+  "seller_categories": [
+    {
+      "mcat_id": "188855",
+      "mcat_name": "Petrol Brush Cutter"
+    },
+    {
+      "mcat_id": "23879",
+      "mcat_name": "Brush Cutters"
+    },
+    {
+      "mcat_id": "161774",
+      "mcat_name": "Petrol Chain Saw"
+    },
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    },
+    {
+      "mcat_id": "153798",
+      "mcat_name": "Arecanut Dehusking Machine"
+    }
+  ]
+}

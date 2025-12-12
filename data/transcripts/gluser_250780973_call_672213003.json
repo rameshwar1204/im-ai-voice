@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672213003",
+  "gluser_id": "250780973",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Bharatpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683910",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Kya baat hua tha bhai not feedback not satisfied de diya isne?\\n\\n\\n\\nKya baat karte ho yaar not satisfied keh keh rating kharab karte ho apna yaar.\\n\\nJab inhone bol diya ki mera beta handle karta hai to inse kyun hi baat karna?\\nExecutive: Hello?\\nExecutive: Haanji ma'am good morning.\\nCustomer: Good morning sir, boliye.\\nExecutive: Ah ma'am Imran baat kar raha tha main senior manager IndiaMART se, kaise hain aap?\\nCustomer: Ji.\\nCustomer: Ji sir boliye.\\nExecutive: Ah sir Gagan ji se baat ho rahi hai?\\nCustomer: Nahi woh yahan pe hai nahi abhi.\\nExecutive: Achha ji. Ah toh IndiaMART account ke related baat karna tha aap hi handle karte hain ya sir handle karte hain?\\nCustomer: Woh toh woh handle karte hain.\\nExecutive: Achha sir handle karte hain. Toh kab baat ho payegi unse ya phir bata dijiye kyunki ek kal\\nCustomer: Haan.\\nCustomer: 2:00 baje ke baad aap kabhi bhi kar lena.\\nExecutive: Isi number pe laga lu baat ho jayegi unse?\\nCustomer: Nahi, zara dusre number pe kar lena.\\nExecutive: Dusre number pe, ek baar number mujhe bataiyega 75 wala hai kya?\\nCustomer: Nahi woh 9024 wala hai, uss pe kar lena phir aap.\\nExecutive: 9024469954 hai na?\\nCustomer: Haan haan wohi wohi.\\nExecutive: Chaliye theek hai, okay, thank you.\\nCustomer: Haan.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to Gagan regarding IndiaMART account.\\n\n\\n\nResolution:\\n\n- Executive asked about who handles the account.\\n\n- Customer provided alternate number to contact Gagan.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, contact, number\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d15b04d6-67ef-430b-8249-c9788611a5bf",
+  "ucid": "d15b04d6-67ef-430b-8249-c9788611a5bf",
+  "seller_categories": [
+    {
+      "mcat_id": "160314",
+      "mcat_name": "Stainless Steel Circlips"
+    },
+    {
+      "mcat_id": "44766",
+      "mcat_name": "External Circlip"
+    },
+    {
+      "mcat_id": "44767",
+      "mcat_name": "Internal Circlips"
+    },
+    {
+      "mcat_id": "21010",
+      "mcat_name": "Circlips"
+    },
+    {
+      "mcat_id": "7758",
+      "mcat_name": "Spring Washer"
+    }
+  ]
+}

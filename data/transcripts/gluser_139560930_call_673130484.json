@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673130484",
+  "gluser_id": "139560930",
+  "vintage_months": 49,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadohi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ji sir, good morning.\\nCustomer: Good morning, kaun bol rahi hai?\\nExecutive: Main Nidhi baat kar rahi hu IndiaMART se.\\nCustomer: Nidhi kaun?\\nExecutive: IndiaMART se sir.\\nCustomer: Achcha aur meri manager baat karegi kya?\\nExecutive: Ji ji, aap ek baar apni company ka naam batayenge?\\nCustomer: W. Bajaj.\\nExecutive: Achcha haan, W. Bajaj. Ji bataiye sir. Wasim ji baat kar rahe the na?\\nCustomer: Nafees baat kar raha hu.\\nExecutive: Haan haan sir bataiye. Aapko sir meri matlab last time aapke matlab mere senior se baat hui hogi kuch unhone document meri manager baat karegi ya fir aise hi baat hogi?\\nExecutive: Manager hu sir, main aapke account manager hu.\\nCustomer: Aur do Tausif bhi hai, aap dono log hai kya?\\nExecutive: Wo sir mere senior hai, wo mere manager hai.\\nCustomer: Achcha wo aapke manager. Ji ji.\\nExecutive: Theek hai. Ji bataiye kis kis purpose se call kiya aapne?\\nExecutive: Sir aapne pehle kuch complaint raise kari thi na, kal ya parso ke time byleads ko lekar aapne kuch.\\nCustomer: By haan haan haan haan haan.\\nExecutive: Ji. To whatsapp maine bola tha kar do, main screenshot de dunga maine aapne bola nahi whatsapp pe Tausif ji ne haan nahi bheja to main nahi to main bhej deta screenshot uska.\\nExecutive: Sir unhone usi din to message kara tha jis din aapse baat hui thi.\\nCustomer: Maine bola wo thoda sa hospital mein ja raha tha, mere dimag mein nahi aaya maine kaha main abhi kar dunga thodi der mein screenshot, theek hai?\\nExecutive: Haan haan haan, unhone to message kar diya tha aapko.\\nCustomer: Main screenshot bhej deta hu aap uska wo dekho, theek hai?\\nExecutive: Theek hai, theek hai.\\nExecutive: Baki kitni lead mein aisa ho raha hai?\\nCustomer: Bahut sare lead ho gaye kya itna kya hota hai. Abhi ek usi din lead teen lead tha, do lead mein to aisa hua tha, ek lead mein not reachable aa raha hai number hi recharge hi nahi hai number.\\nExecutive: Theek hai.\\nExecutive: Theek hai.\\nCustomer: Bahut sara problem hai kya batau. Main bhej deta hu aapko, theek hai?\\nExecutive: Theek hai, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised a complaint regarding buyleads.\\n\n- Many leads are not reachable or invalid.\\n\n\\n\nResolution:\\n\n- Customer agreed to send a screenshot of the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, screenshot, not reachable\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f544425-e7ea-48e3-93b9-d8505243d412",
+  "ucid": "9f544425-e7ea-48e3-93b9-d8505243d412",
+  "seller_categories": [
+    {
+      "mcat_id": "6453",
+      "mcat_name": "Room Carpet"
+    },
+    {
+      "mcat_id": "132774",
+      "mcat_name": "Designer Carpet"
+    },
+    {
+      "mcat_id": "102",
+      "mcat_name": "Hand Tufted Carpets"
+    },
+    {
+      "mcat_id": "19525",
+      "mcat_name": "Hand Tufted Wool Carpet"
+    },
+    {
+      "mcat_id": "3327",
+      "mcat_name": "Wall To Wall Carpets"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675934129",
+  "gluser_id": "158375422",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715925",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan boliye boliye.\\nCustomer: Service band ho jane aap.\\nExecutive: Boliye madam.\\nCustomer: Hello.\\nExecutive: Bolo bolo bolo. Haan sir aapki service 6 October ko band ho rahi hai. Uske liye aapko main dekhna chahta tha to maine aapko phone kiya. 19 achcha jo kiya wo sahi hai hum to kya kar sakte hai aapko. Maine to 159 ko bola tha 159 ko mail bhi kiya tha.\\nCustomer: Teen char mail kiya tha yaha aapke bande aaye the Gujarat aur ke aapke teen bande hai wahi mere yaha the usne mail kiya tha.\\nExecutive: Theek hai lekin aapka matlab wahi hai 6 October tak ka chala hai aur uske baad jo aapka refund amount nikla hai wo nikla hai sir 13940.\\nCustomer: Okay.\\nExecutive: Haan wo aapko char se panch working days mein refund ho jayenge sir.\\nCustomer: Okay thank you very much madam thank you.\\nExecutive: Main aapko ye cheez mail pe mention karke de deti hu ki aapko itna amount refund hoga aur char se panch working day mein aa jayega.\\nCustomer: Koi dikkat nahi madam.\\nExecutive: Theek hai aur main iske baad aapka ye concern close kar du mail karke sir.\\nCustomer: Okay koi dikkat nahi kar do.\\nExecutive: Theek hai main aapko mail kar rahi hu mail pe aapka amount mention kar rahi hu aur uske baad main aapki complaint close karungi aapke paas ek feedback ka mail aayega please us pe reply kar dijiyega.\\nCustomer: Okay.\\nExecutive: Thank you sir.\\nCustomer: Okay okay thank you thank you very much thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's service is getting closed.\\n\n- Wants refund amount details.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund amount of \u20b913940.\\n\n- Refund will be processed in 4-5 working days.\\n\n- Executive will send an email with refund details.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback mail.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, service closure, mail\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bce9aea2-dfee-40f3-9abc-62db2981d4ee",
+  "ucid": "bce9aea2-dfee-40f3-9abc-62db2981d4ee",
+  "seller_categories": [
+    {
+      "mcat_id": "183527",
+      "mcat_name": "Triple Layered Water Tanks"
+    },
+    {
+      "mcat_id": "2047",
+      "mcat_name": "PVC Pipes"
+    },
+    {
+      "mcat_id": "181117",
+      "mcat_name": "KSB Submersible Pumps"
+    },
+    {
+      "mcat_id": "180916",
+      "mcat_name": "Astral PVC Pipes"
+    },
+    {
+      "mcat_id": "224400",
+      "mcat_name": "Finolex UPVC Pipe Fittings"
+    }
+  ]
+}

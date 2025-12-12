@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669404073",
+  "gluser_id": "243586818",
+  "vintage_months": 7,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Chandrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656030",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello, good afternoon sir.\\nExecutive: Haan sir boliye.\\nCustomer: Ji Sandeep bol raha hu sir IndiaMART se aapne sir hamare toll free number pe call kiya tha kya issue aa raha hai sir? \\nCustomer: Nahi woh galti se lag gaya tha.\\nExecutive: Accha accha toh sir aapko phone kar raha hai ji sir ji sir ji sir ek concern raise hua hai toh mai close kar du sir?\\nCustomer: Haan close kar dijiye.\\nExecutive: Okay sir sir ek feedback usko sir aap positively de dena sir jaisa aapko lage.\\nCustomer: Haan.\\nExecutive: Theek hai sir okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called the toll-free number by mistake.\\n\n\\n\nResolution:\\n\n- Executive offered to close the raised concern.\\n\n- Executive requested positive feedback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- toll-free number, feedback, concern\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3f47cf0b-7d0d-4786-924b-bc1a0fd2f5da",
+  "ucid": "3f47cf0b-7d0d-4786-924b-bc1a0fd2f5da",
+  "seller_categories": [
+    {
+      "mcat_id": "43869",
+      "mcat_name": "Waterproofing Service"
+    },
+    {
+      "mcat_id": "171183",
+      "mcat_name": "Wall Cutting Services"
+    },
+    {
+      "mcat_id": "44697",
+      "mcat_name": "Core Cutting Services"
+    },
+    {
+      "mcat_id": "44627",
+      "mcat_name": "Grouting Services"
+    },
+    {
+      "mcat_id": "176673",
+      "mcat_name": "Column Strengthening"
+    }
+  ]
+}

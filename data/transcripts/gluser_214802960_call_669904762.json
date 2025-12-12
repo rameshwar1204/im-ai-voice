@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669904762",
+  "gluser_id": "214802960",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Bhind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663526",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know about the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=80ec8181-1954-4678-b95b-a9728a3466fd",
+  "ucid": "80ec8181-1954-4678-b95b-a9728a3466fd",
+  "seller_categories": [
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "4937",
+      "mcat_name": "Ashwagandha Powder"
+    },
+    {
+      "mcat_id": "4751",
+      "mcat_name": "Amla Powder"
+    },
+    {
+      "mcat_id": "150749",
+      "mcat_name": "Triphala Powder"
+    },
+    {
+      "mcat_id": "184226",
+      "mcat_name": "Shatavari Root"
+    }
+  ]
+}

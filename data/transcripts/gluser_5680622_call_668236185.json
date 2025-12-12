@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668236185",
+  "gluser_id": "5680622",
+  "vintage_months": 19,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji madam, namaskar, mai aapse baat kar raha hu IndiaMART se. Abhi call aaya tha na aapki company Saima Medi Services ke naam se.\\nCustomer: Haan ji, haan ji. Ji aapko complaint se problem aa rahi thi na?\\nHaan haan.\\nCustomer: Actually aap na ek bari video meet se connect ho jaiye mere se Saima Medi Services na.\\nExecutive: Haan ji.\\nCustomer: Hello?\\nHaan, theek hai, mai link share kar rahi hu aap ek.\\nExecutive: Hello Pratiksha?\\nCustomer: Haan haan. Are mai mere paas call aayegi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a complaint.\\n\n- Executive wants to connect via video meet.\\n\n\\n\nResolution:\\n\n- Executive shared a link for video meet.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, video meet, link sharing\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=294fde95-58d7-42a0-866c-9c83825db34f",
+  "ucid": "294fde95-58d7-42a0-866c-9c83825db34f",
+  "seller_categories": [
+    {
+      "mcat_id": "190844",
+      "mcat_name": "Hospital Curtain Track"
+    },
+    {
+      "mcat_id": "45922",
+      "mcat_name": "Hospital Curtain"
+    },
+    {
+      "mcat_id": "149881",
+      "mcat_name": "Curtain Tracks"
+    },
+    {
+      "mcat_id": "10760",
+      "mcat_name": "Hospital Fowler Bed"
+    },
+    {
+      "mcat_id": "43928",
+      "mcat_name": "Folding Wheelchair"
+    }
+  ]
+}

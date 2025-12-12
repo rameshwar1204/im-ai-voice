@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671152843",
+  "gluser_id": "93868259",
+  "vintage_months": 30,
+  "bl_dau_oct": 19,
+  "customer_type": "STAR",
+  "city_name": "Kalyan",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9673361",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: 1996 ka issue hai.\\nExecutive: Hello.\\nCustomer: Ha sir boliye.\\nExecutive: Aawaz aa rahi hai meri aapko?\\nCustomer: Aawaz aa hi rahi thi wo mera ek call aa gaya tha.\\nExecutive: Achha achha main ye bol raha hu sir aap ye bol rahe ho aapka 1996 dikhana hai right waha par jaake jo 2000 1996 dikhana chahiye 2007 2027 dikha raha hai.\\nExecutive: Ji ji ji. Isko correct karke sir main aapko update kar raha hu. Main ya backend aapko update kar rahe hai. Isko main correct karke aapko update kar deta hu. Theek hai?\\nCustomer: Chaliye jara main main open karke baitha hu main refresh kar raha hu bar bar.\\nExecutive: Nahi nahi nahi main correct karke aapko update kar raha hu main ye bol raha hu.\\nExecutive: Backend se karwana padega ye sahi. Theek hai? To backend team ko maine update kar diya hai.\\nCustomer: Kitna time lagega?\\nExecutive: Ek ek ghante se pehle pehle kara dunga isko aapka. Theek hai? Actually meri taraf se nahi hoga backend team ko update karna hai mujhe isliye warna main update kar deta. Subah mein jab wo khana kha ke aayegi na to ek bar jara check karna nahi hua rahega to main tere ko ye number deta hu manager sir ka unse baat karna. 3 baje tak check karna. 3 baje ka time dijiye. 3 baje main aapko usse pehle update kar dunga.\\nCustomer: Theek hai 3 baje tak kar.\\nExecutive: Theek hai? Main call back bhi karunga waise aapko dobara.\\nCustomer: Chalega.\\nExecutive: Theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to show 1996 instead of 2027.\\n\n\\n\nResolution:\\n\n- Executive assured to correct and update.\\n\n- Executive updated the backend team.\\n\n\\n\nNext Steps: \\n\n- Executive will call back by 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, update, backend, correction\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2121b573-85e5-46d1-ae00-90fbb8cd0719",
+  "ucid": "2121b573-85e5-46d1-ae00-90fbb8cd0719",
+  "seller_categories": [
+    {
+      "mcat_id": "36034",
+      "mcat_name": "Rubber Timing Belts"
+    },
+    {
+      "mcat_id": "40042",
+      "mcat_name": "Timing Belt Pulleys"
+    },
+    {
+      "mcat_id": "159",
+      "mcat_name": "Timing Belts"
+    },
+    {
+      "mcat_id": "7429",
+      "mcat_name": "Nylon Belt"
+    },
+    {
+      "mcat_id": "8330",
+      "mcat_name": "Rubber Transmission Belts"
+    }
+  ]
+}

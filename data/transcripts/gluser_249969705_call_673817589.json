@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673817589",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello.\\nCustomer: Hanji kaun?\\nExecutive: Maksud se baat hogi sir?\\nCustomer: Kisse?\\nExecutive: Maksud.\\nCustomer: Main Gittika baat kar rahi hun India Mart head office se, kisse baat karni hai aapko?\\nExecutive: Theek hai madam wrong number.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired who was calling.\\n\n\\n\nResolution:\\n\n- Executive stated it was a wrong number.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwrong number\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=598e57c2-a4f4-42d9-900a-c3b2f17a58ae",
+  "ucid": "598e57c2-a4f4-42d9-900a-c3b2f17a58ae",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

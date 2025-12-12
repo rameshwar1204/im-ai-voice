@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669783937",
+  "gluser_id": "140983122",
+  "vintage_months": 48,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9644309",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan ji Harsh ji Saloni baat kar rahi hu Indiamart se good afternoon.\\nCustomer: Haan mam aap bataiye main available hu abhi.\\nExecutive: Haan. Okay. Main isme aap mujhe apni mail id bataiye to main aapko share kar deti hu google meet ka link usi pe discussion.\\nCustomer: Aapke pass koi email id hogi hamara.\\nExecutive: Maine aapko isliye bataya tha ki hamare pass aapka na hi number na hi koi bhi data reflect hota hai even aapki mail id aur contact number bhi nahi hota hai.\\nCustomer: G S E\\nExecutive: Wait a second G S E\\nCustomer: G S E hai E for elephant.\\nExecutive: G S E N N bataya aapne?\\nCustomer: Nahi mam G S E fir dobara E N T E R.\\nExecutive: Okay E N T E R\\nCustomer: T R I S E\\nExecutive: T R I S E\\nCustomer: 2016\\nExecutive: 2016\\nCustomer: @yahoo.com\\nExecutive: @yahoo.com. Okay ek minute call hold karega. Main aapko link share kar rahi hu.\\n\\nExecutive: Maine aapko link share kiya inbox mein aapke check kariye.\\nCustomer: Nahi aaya.\\nExecutive: Refresh karega ek dobara bhi aa jayega.\\n\\nCustomer: Nahi aaya hai.\\nExecutive: Okay ek minute main aapko whatsapp pe bhejti hu.\\nCustomer: Spam mein bhi check kar liya.\\nExecutive: Maine aapko whatsapp pe alag se share kar diya link.\\nCustomer: Login karte hai fir baat karte hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs the Google Meet link.\\n\n\\n\nResolution:\\n\n- Executive asked for email ID to share link.\\n\n- Executive shared the link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, email id, whatsapp\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 167,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fed8240b-2c90-47b7-a6c8-71b458d431bb",
+  "ucid": "fed8240b-2c90-47b7-a6c8-71b458d431bb",
+  "seller_categories": [
+    {
+      "mcat_id": "177157",
+      "mcat_name": "Air Filter Foam"
+    },
+    {
+      "mcat_id": "122544",
+      "mcat_name": "Reticulated Foam"
+    },
+    {
+      "mcat_id": "180790",
+      "mcat_name": "Memory Foam"
+    },
+    {
+      "mcat_id": "112544",
+      "mcat_name": "Memory Foam Mattress"
+    },
+    {
+      "mcat_id": "151309",
+      "mcat_name": "Scooter Air Filter"
+    }
+  ]
+}

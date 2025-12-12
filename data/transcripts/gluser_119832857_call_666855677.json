@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666855677",
+  "gluser_id": "119832857",
+  "vintage_months": 13,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Haldwani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9625853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Namaskar, IndiaMART se baat kar rahi hu, S K Enterprises se baat ho rahi hai meri?\\nCustomer: Ji, S K Enterprises se hi baat ho rahi hai.\\nExecutive: Ji sir, S K Enterprises se hi baat ho rahi hai na?\\nCustomer: Ji ji.\\nExecutive: Ji sir, aapka concern tha ki aapko buyleads nahi aa rahe hai, right?\\nCustomer: Ji ji.\\nExecutive: Okay. Sir, main check kar pa rahi hu, aapka IndiaMART pe free listing hai, isiliye aapko buyleads nahi aa rahe hai.\\nCustomer: Accha.\\nExecutive: Ji. Sir, agar aap paid service lete hai to aapko TrustSeal ka verification milta hai, jisse aapki visibility badh jaati hai aur aapko zyada se zyada buyleads aane lagte hai.\\nCustomer: Accha. To iska kya charge rehta hai?\\nExecutive: Sir, iske alag alag packages hote hai. Main aapki request aage forward kar deti hu. Hamare jo senior manager hai, woh aapko call karke saare packages detail me samjha denge.\\nCustomer: Theek hai, theek hai. Karwa dijiye.\\nExecutive: Ji. Aur koi sahayata kar sakti hu main aapki?\\nCustomer: Nahi, bas yahi tha.\\nExecutive: Okay. IndiaMART me call karne ke liye dhanyawad. Aapka din shubh ho.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Not receiving any buyleads.\\n- Inquired about charges for paid services.\\n\\n\\nResolution:\\n\\n- Informed that the account is a free listing, causing low lead flow.\\n- Explained that a paid subscription with TrustSeal increases visibility and buyleads.\\n- Agreed to arrange a callback from a senior manager to explain packages.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- A senior manager will call back to explain paid packages.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Interested\\n\\n@@@Key Topics:\\n- buyleads, free listing, paid subscription, TrustSeal, visibility, packages\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a453b8a0-2a22-4421-9cf0-bcb529afe1dc",
+  "ucid": "a453b8a0-2a22-4421-9cf0-bcb529afe1dc",
+  "seller_categories": [
+    {
+      "mcat_id": "140396",
+      "mcat_name": "Retractable Roof"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "42328",
+      "mcat_name": "Modular Tensile Structure"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "135895",
+      "mcat_name": "Car Parking Tensile Structure"
+    }
+  ]
+}

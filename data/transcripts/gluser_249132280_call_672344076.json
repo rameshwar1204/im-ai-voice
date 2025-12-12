@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672344076",
+  "gluser_id": "249132280",
+  "vintage_months": 1,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685949",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir. Yes ma'am. Ji ji ma'am, main Shubham Pal baat kar raha hun Durga Enterprises se.\\nExecutive: Hmm.\\nCustomer: Boliye.\\nExecutive: Haan ma'am, ye IndiaMART aaj ma'am open nahi ho raha.\\nCustomer: Achha, kya open cha rahe hain sir, ek baar bataiye. Kya aapko open nahi ho raha IndiaMART?\\nCustomer: Ma'am kuch aa raha hai 7408.\\nExecutive: Ye primary number daal rahe hain na sir? Haan bilkul theek hai.\\nCustomer: 975611.\\nExecutive: Haan, phir?\\nCustomer: Ma'am ye ma'am site nahi open ho rahi hai ma'am IndiaMART ki.\\nExecutive: Ji hello.\\nCustomer: Aap mobile se login kar rahe hain sir ki laptop se?\\nCustomer: Ma'am main mobile and laptop pe dono pe dekh raha hun but nahi ho raha login.\\nExecutive: Aapko maine WhatsApp pe hi kiya screenshot bhejiye ki kaise aa raha hai aapki screen pe.\\nCustomer: Okay ma'am, main share karta hun ma'am.\\n\\nCustomer: Ma'am main share ye kar diya, aap ek baar check kar lijiye.\\nExecutive: Achha, ek baar IndiaMART uninstall karke dobara se install kariye.\\nCustomer: Ma'am main website pe bhi kar raha hun to ma'am show kar raha hai this site cannot be reached.\\nExecutive: Nahi, uninstall karke install kiya uske baad bhi?\\nCustomer: Nahi ma'am main website pe bhi check kar raha hun baar baar to ma'am usse bhi yahi show kar raha hai.\\nExecutive: Achha, uske laptop pe?\\nCustomer: Haan, aur ma'am aur ma'am main second phone mein bhi kiya to ma'am wahi dikha raha hai same cheez.\\nExecutive: Lagta hai sir network error aa raha hai aapke yahan pe.\\nCustomer: Nahi ma'am mera ma'am YouTube chal raha hai, Insta chal raha hai, sab kuch chal raha hai ma'am first class.\\nExecutive: Ji ji. To ek kaam karti hun sir, invite bhej dun Google Meet ka aap aa jaiye main dekh leti hun kya open aa raha hai.\\nCustomer: Ji okay okay ji please.\\nExecutive: Dekhiye aapko invite. Ma'am par ma'am ma'am Meet se ma'am main ye nahi kar sakta. Meet mein join kar lunga but ma'am matlab ma'am mere laptop ko voice problem hai na isliye ma'am. Baki call pe reh ke hum log kar sakte hain.\\nExecutive: Aap mobile se screen share kar dena.\\nCustomer: Okay theek hai ji, chala jayega koi dikkat nahi. Mail mail aapne share kiya kya?\\nExecutive: Bilkul.\\nCustomer: Okay theek hai ma'am, mail check karta hun main. Wait a minute main.\\n\\nCustomer: Haan beta.\\nCustomer: Nahi chal raha hai? Number nahi? Ab wifi on ho gaya.\\nCustomer: YouTube kaam kar raha hai na?\\n\\nCustomer: Ma'am mere phone se laga mujhe aap confirm kar dengi kya?\\nExecutive: Ye Shiva Shivoo aur aa closing se ek bheja hai.\\nCustomer: Ma'am ye wala mail to ma'am mere laptop mein hi hai. To ma'am main wahan se join karta hun, aapko share karta hun.\\nExecutive: Aapko aaya hoga na video meet se IndiaMART ka invite.\\nCustomer: Ma'am main laptop ko open kar raha hun main.\\nCustomer: Theek hai kar rahe hain?\\nExecutive: Haan ji.\\n\\n\\nCustomer: Hey ma'am join ho gaya meeting.\\nExecutive: Hello, haan sir. Abhi screen share kar dijiye, screen share kar dijiye.\\nCustomer: Theek hai.\\nCustomer: Ye ma'am screen share hua? Abhi aap jaiye IndiaMART pe. Main wahin se aapki baat karti hun, theek hai? Yahan se disconnect kar rahi hun.\\nCustomer: Ma'am yahan pe ma'am wahi nahi aayega screen pe?\\n",
+  "summary": "\\n\nConcerns:\\n\n- IndiaMART website is not opening.\\n\n- Unable to login from mobile and laptop.\\n\n\\n\nResolution:\\n\n- Executive asked to uninstall and reinstall the app.\\n\n- Executive sent a Google Meet invite.\\n\n- Customer joined the meeting from laptop.\\n\n- Executive asked the customer to share screen.\\n\n\\n\nNext Steps: \\n\n- Executive will assist the customer on Google Meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, website, google meet, screen sharing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 273,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9fe7cba5-e41a-403f-8000-735b5d7a3cb0",
+  "ucid": "9fe7cba5-e41a-403f-8000-735b5d7a3cb0",
+  "seller_categories": [
+    {
+      "mcat_id": "78882",
+      "mcat_name": "Fleece Hoodie"
+    },
+    {
+      "mcat_id": "158308",
+      "mcat_name": "Men Plain T Shirt"
+    },
+    {
+      "mcat_id": "136167",
+      "mcat_name": "Round Neck Men T-Shirt"
+    },
+    {
+      "mcat_id": "183897",
+      "mcat_name": "Men Sports T-Shirt"
+    },
+    {
+      "mcat_id": "181480",
+      "mcat_name": "Cotton Men T-Shirt"
+    }
+  ]
+}

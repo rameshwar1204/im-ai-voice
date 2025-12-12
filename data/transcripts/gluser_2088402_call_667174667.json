@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "667174667",
+  "gluser_id": "2088402",
+  "vintage_months": 0,
+  "bl_dau_oct": 0,
+  "customer_type": "qgFCP with PNS",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9633017",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, good morning. Main Smriti baat kar rahi hu Indiamart se. Basically sir kal na aapki call aayi thi. Theek hai? Uske regarding baat karne ke liye sir aur aapke account manager bhi changes aayi hai. Sir is cheez ke liye main aapko inform karne ke liye kal call kiya tha.\\nCustomer: Bataiye.\\nExecutive: Ji ji. To basically sir jaise ki aaj se sir main aapki account manager rahungi. To ab main aapka account handling karungi. To koi kisi bhi type ka abhi aapko issue to nahi hai sir like buyleads ko lekar ke, inquiries ko lekar ke kisi bhi type ka aapko concern hai?\\nCustomer: Indiamart ki to abhi membership hai hi nahi mam mere paas.\\nExecutive: \\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive informs about being the new account manager.\\n\n- Customer states he does not have IndiaMART membership.\\n\n\\n\nResolution:\\n\n- The executive introduced herself as the new account manager.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, membership, buyleads\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5db9657f-604c-403e-a0dc-9719ecfac2af",
+  "ucid": "5db9657f-604c-403e-a0dc-9719ecfac2af"
+}

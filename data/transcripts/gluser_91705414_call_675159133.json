@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675159133",
+  "gluser_id": "91705414",
+  "vintage_months": 60,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9711404",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Krishnay Vasudevay Haraye\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello.\\nCustomer: Sir very good evening, Neha baat kar rahi thi IndiaMART se.\\nExecutive: Sir Neha madam baat tha ye jo humne shivir ka jo add kiye, theek hai?\\nHmm.\\nExecutive: Usme jo photo hum jo wo jo photo hai usko delete karenge, nayi photo add karenge, theek hai? Jab hum photo add kare wo mang raha hai ki photo ka jo quality wo kam mang raha hai, MB kam wala mang raha hai. Kya kare isme?\\nExecutive: Sir ye jo photos hoti hai na aapki, usme 1000 by 1000 ki photo jo hoti hai wo matlab aap add karoge na to wo add hogi hai. Agar to photo matlab kya hai?\\nCustomer: 1000 by 1 MB? To 1 MB ka photo mang raha hai?\\nExecutive: Haan wo pixel bolte hai na ki jaise agar aap dal rahe ho to wo pixel kam ho gaye to isi wajah se wo add nahi ho pa rahi hogi reject ho rahi hogi bar bar.\\nCustomer: Haan wahi wahi hai.\\nExecutive: Ya to aap ek kam karo kitne product ki photo aapne dalni hai? Yaha pe mujhe batao.\\nCustomer: Wahi mang raha hai, wahi mang raha hai, 1000 by 1000 mang raha hai.\\nExecutive: 1000 by 1000 hi mangta hai sir kyuki agar waise nahi daloge na aap to wo matlab pixel nahi utha payega to wo reject hogi aur agar ek product aap do-do bar daloge matlab ek product ki photo do-do bar daloge na to usse kya hoga wo bhi reject manta hai kyuki duplicacy aa jati hai na do-do photos ki.\\nCustomer: Achha.\\nExecutive: Isliye hota hai. Isko kaise aapko karna hai?\\nExecutive: Ek kam kariyega.",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to upload photos.\\n\n- Photo quality and size issues.\\n\n\\n\nResolution:\\n\n- Executive explained the required photo dimensions.\\n\n- Executive explained the issue of duplicate photos.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photo upload, photo quality, product catalog\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ea3fa056-f123-4804-9b42-bd36ab3fd4ae",
+  "ucid": "ea3fa056-f123-4804-9b42-bd36ab3fd4ae",
+  "seller_categories": [
+    {
+      "mcat_id": "24353",
+      "mcat_name": "Cold Storage Rooms"
+    },
+    {
+      "mcat_id": "179028",
+      "mcat_name": "Blue Star Water Cooler"
+    },
+    {
+      "mcat_id": "193607",
+      "mcat_name": "Aquaguard Water Cooler"
+    },
+    {
+      "mcat_id": "191554",
+      "mcat_name": "RO Water Cooler"
+    },
+    {
+      "mcat_id": "147334",
+      "mcat_name": "Mushroom Farming Services"
+    }
+  ]
+}

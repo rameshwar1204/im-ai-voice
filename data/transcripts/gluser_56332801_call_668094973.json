@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668094973",
+  "gluser_id": "56332801",
+  "vintage_months": 3,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694737",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji sir, good afternoon.\\nExecutive: Good afternoon, Kaushal ji.\\nCustomer: Ha ji sir, Kaushal baat kar raha hu.\\nExecutive: Boliye.\\nCustomer: Ha, wo tha kya hai apne paas ek query aayi thi, ye Kola Kullu hai na, Kola Kullu.\\nExecutive: Ha?\\nCustomer: Kola Kullu se sir ek query aayi thi, form ke naam se.\\nExecutive: Kahan se? Solapur.\\nCustomer: Kola Kullu, T A L A K O double L U.\\nExecutive: C O L A\\nCustomer: Ha, Pala Kolu.\\nExecutive: Pala Kolu?\\nCustomer: Pala sir, T A, T for parrot, Pala Kolu.\\nExecutive: Ha, ye kahan hai sir?\\nCustomer: Sir aapke paas aayi na, aap se check karo ek baar lead manager mein.\\nExecutive: Achcha.\\nCustomer: Sir kal ki date mein aaya hai. Hmm, name sir inka name ha, name hai inka, uh, Om ji. Ek baar aap lead manager open karo sir.\\nExecutive: Karta hu, ek second.\\nExecutive: Ek, ek 15 minute time dijiye, 15-20 minute. Main aapko call karta hu.\\nCustomer: Ha, call back kariye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks executive to check lead manager.\\n\nResolution:\\n\n- Executive asked for 15-20 minutes to check.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- lead manager, query, callback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a12b82fc-4d30-4df9-8ed4-cda2604120f3",
+  "ucid": "a12b82fc-4d30-4df9-8ed4-cda2604120f3",
+  "seller_categories": [
+    {
+      "mcat_id": "152499",
+      "mcat_name": "Palm Kernel Cake"
+    },
+    {
+      "mcat_id": "150898",
+      "mcat_name": "Palm Kernel Shell"
+    },
+    {
+      "mcat_id": "107869",
+      "mcat_name": "Foam Bed Mattress"
+    },
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "216455",
+      "mcat_name": "Polyester Carpet"
+    }
+  ]
+}

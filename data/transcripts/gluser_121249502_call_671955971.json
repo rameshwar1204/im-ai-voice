@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671955971",
+  "gluser_id": "121249502",
+  "vintage_months": 21,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636273",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji haan ji Deepak sir boliye.\\nExecutive: Mat boliye.\\nCustomer: Haan main keh rahi thi sir agar aap 960 karoge nahi tabhi aap mere ko kar lijiye direct mera number to aapke paas save hai aur agar buyer ko aap agar jaise maine aapko buyer ko bataya ki aap agar buyer ko number share karo 96 ke alava to fir mera number share kariye chahe mere ko conference pe lijiye apne buyer ke sath. Use 96 wale ki jagah mera number de diya tha. Aapka jo PNS number tha jo aap jisme aapne call kara tha TrustSeal ka certificate dijiye use share kariye apni catalog ki link dijiye agar buyer aap pe trust nahi kar raha hai to. Jyada se jyada thoda active rahiye. Aap active bhi nahi ho rahe buyer lead aapne kitne din se consume nahi kari hai.\\nCustomer: Ab aap to karo kya mam batao kaise kare matlab jab hamare system ki aayegi to hum karenge isko. Steel se related aayegi hamare product se related aayegi to hum to jarur karenge.\\nExecutive: Sir aapne dekho last buylead 13 tarikh ko consume kari thi wo bhi ek bas. To daily buylead bhi consume kariye jaise aaj ek kam value ki thi magar aapke product line mein thi unse baat to kariye buylead consume kariye jis tarike se aap buylead consume karoge system aapko waisi buylead dikhayega. Jyada se jyada koshish kariye bar bar ki buylead consume karne ki.\\nCustomer: Theek hai karte hain.\\nExecutive: Theek hai mam okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not actively consuming buyleads.\\n\nResolution:\\n\n- Executive explained the importance of consuming buyleads.\\n\n- Executive suggested ways to engage with buyers.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n@@@Key Topics:\\n\n- buyleads, trustseal, catalog, pns number\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ed365af-e1d9-4dc8-8928-431a38c6b69d",
+  "ucid": "2ed365af-e1d9-4dc8-8928-431a38c6b69d",
+  "seller_categories": [
+    {
+      "mcat_id": "16441",
+      "mcat_name": "Kali Statue"
+    },
+    {
+      "mcat_id": "15539",
+      "mcat_name": "Durga Statue"
+    },
+    {
+      "mcat_id": "11058",
+      "mcat_name": "God Statues"
+    },
+    {
+      "mcat_id": "191753",
+      "mcat_name": "Bhim Rao Ambedkar Statue"
+    },
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    }
+  ]
+}

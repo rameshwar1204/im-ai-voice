@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668193071",
+  "gluser_id": "102453027",
+  "vintage_months": 3,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baramati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637140",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello.\\nHaa. Hello? Ji Dev Pathak ji baat kar rahe hai?\\nDev Pathak.\\nJi Dev Pathak ji Shiv Technologies.\\nHaa.\\nJi. Sir actually aapki subah mein baat hui thi Praveen se catalog ke liye apne buyleads ke liye. To sir aap kab available ho payenge video meet ki?\\nMain batata hu unko bola hu already.\\nAchcha main keh rahi thi sir unhone aapko. Sir maine bas isliye call kiya tha ki aapko unhone proper resolution de diya tha na matlab resolve kar diya tha na problem aapki?\\nAre mam kaise problem solve hoga pop up message aa raha hai. Jab tak main utha raha hu tab tak buyleads nikal ja rahi hai. Isko thodi na bolte unhone call kiya aur do char lead uthane ka jo already hai wo uthane ko bolte matlab problem solve thodi na hoga main. Main keh rahi hu to aap aapse kal baat ho payegi video meet ke liye?\\nMostly nahi ho sakta kyuki kal jarurat nikal raha hu main Hyderabad ke liye.\\nAchcha. Sir dekhiye jab tak video meet nahi karenge hame samajh nahi aayega ki problem kya hai sir.\\nOkay.\\nHmm. Main batata hu unhone hai karke message kiya hai to main karta hu. Theek hai. To aap unse connected rahiyega sir jaise hi aap available hoiyega aap unko video meet ke liye bol dijiyega to wo aapko bhej denge aur yaha tab tak main link aapka jo aapne call kiya tha Moon ji ko aapke account manager the to unhone chhod diya hai company. To ek bar aapka fir wo ha unhone company chhod di isiliye wo aapka phone nahi utha paye the wo. To ab Praveen ji abhi aapka catalog mein sara help karenge kal problem hoga aap unko ping kare tab tak main ye ticket close kar deti hu kyuki aapka incoming call aaya tha sir. Theek hai?\\nThik hai.\\nThik hai sir. Okay. Thank you.\\nOkay thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing pop-up message issue.\\n\n- Buyleads disappear when customer tries to pick them.\\n\n\\n\nResolution:\\n\n- Executive asked customer to connect with Praveen.\\n\n- Executive informed about account manager leaving the company.\\n\n- Executive offered Praveen's help for catalog issues.\\n\n- Executive will close the ticket.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will connect with Praveen.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meet, catalog, account manager\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 144,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca024cbd-0a5f-49c5-9557-abe9e1fde25b",
+  "ucid": "ca024cbd-0a5f-49c5-9557-abe9e1fde25b",
+  "seller_categories": [
+    {
+      "mcat_id": "95440",
+      "mcat_name": "Outdoor LED Video Display"
+    },
+    {
+      "mcat_id": "95438",
+      "mcat_name": "Outdoor LED Display"
+    },
+    {
+      "mcat_id": "118945",
+      "mcat_name": "LED Video Wall"
+    },
+    {
+      "mcat_id": "99248",
+      "mcat_name": "Advertising LED Display Screen"
+    },
+    {
+      "mcat_id": "31588",
+      "mcat_name": "LED Screen"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667326109",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello? Haanji sir. Haanji. Sir, abhi aapke email pe na ek mail aaya hoga. Aur jo aapne raise kiya tha na, usko maine close kar diya hai. To uske liye feedback ke liye aaya hai. To aap usko feedback uske according send kar dijiyega. Okay madam. Theek hai? Yes pe click kar dijiyega, okay? Theek hai madam. Thank you sir, abhi kar dijiye kyuki thoda important hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised a ticket.\\n\n- Executive closed the ticket.\\n\n\\n\nResolution:\\n\n- Executive informed about feedback mail.\\n\n- Asked to send feedback accordingly.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, feedback, email\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b62b5ba-d5b5-4a0b-afdc-e38841e45966",
+  "ucid": "7b62b5ba-d5b5-4a0b-afdc-e38841e45966",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669339184",
+  "gluser_id": "234851671",
+  "vintage_months": 12,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Zamania",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648321",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji sir namaskar. Hello.\\nCustomer: Hello, haan ji sir.\\nExecutive: Ji sir, mai Suneet Prakash baat kar raha hu sir branch manager IndiaMART se. Aapse shukrawar ko bhi baat hui thi sir agar IndiaMART se mai Noida head office. Haan ji haan ji. Aapse Vikrant ji ki bhi baat hui thi meri sir aapko agar. Aapne mujhe bataya tha sir ki Vikrant ji ne aapse Noida se baat ki thi. Vikrant ji jo hai woh aapke manager the unse aapki baat hui thi. Vikrant ji ka phone aaya tha mai bank me abhi bank me baitha tha. Vikrant ji ka phone aaya tha lagbhag humko time lag gaya Vikrant ji me hi woh. Toh isiliye mai bola unse mai call back karta hu abhi aapko.\\nExecutive: Accha theek hai sir. Kyunki maine unko bola ki internet se kuch karwaaya tha iske cheez ko toh maine audit waghaira karwaaya.\\nCustomer: Theek hai.\\nExecutive: Toh uss cheez se toh mai unko abhi aapke page ko radd kar hata hi raha hu yaha se aapke page ko. Customer: Haan haan wohi baat hai abhi bank me baitha tha toh agar mai call karu call back toh koi dikkat hai?\\nExecutive: Haan haan sir aap kar lijiye aap free hoke bataiye sir. Customer: Haan ek loan ke regarding aaya tha abhi mai baitha tha.\\nExecutive: Accha accha sir. Theek hai sir aap apna kaam kar lijiye phir jab free hote hai toh aap call kar lijiye. Theek hai. Customer: Theek hai ji. Okay. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was in bank, received Vikrant's call.\\n\n- Wants to know if callback is okay.\\n\n\\n\nResolution:\\n\n- Executive said customer can call back when free.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, vikrant, bank work\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc5ac3a8-6d1a-4fc7-96ea-8280a68baf57",
+  "ucid": "cc5ac3a8-6d1a-4fc7-96ea-8280a68baf57",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "215236",
+      "mcat_name": "Chappal Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    }
+  ]
+}

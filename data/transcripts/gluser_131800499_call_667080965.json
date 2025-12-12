@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667080965",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Haan ji madam.\\nExecutive: Haan sir.\\nCustomer: Hello.\\nExecutive: Hello haan sir, boliye bataiye na.\\nCustomer: Ab kya karna hai isko?\\nExecutive: Sir thoda sa samay dijiye.\\nCustomer: Ab kya karna hai isko? Ye chal nahi raha hai.\\nExecutive: Nahi ho raha hai na?\\nCustomer: Kitna samay de doon madam? Ye to nuksaan ho raha hai na.\\nExecutive: Sir main samajh rahi hoon, theek hai. Uh... isko problem nahi solve ho raha hai. Nahi. Hello.\\nCustomer: Laptop me bhi maine try kiya hai.\\nExecutive: Main ek kaam kar rahi hoon. Main ek kaam...\\nCustomer: Laptop me bhi try kiya hai. Haan.\\nExecutive: Sir ek kaam karo na aap agar possible ho to kal ek baar video meet pe aa jaoge aap? Video call pe? Ek baar aap screen present karke aap mere ko dikha dena.\\nCustomer: Abhi bhi maine try kiya, chal nahi raha hai.\\nExecutive: Theek hai. Kya?\\nCustomer: Maine kaha humne try kiya us pe bhi, laptop pe bhi, wahan pe bhi nahi chal raha hai.\\nExecutive: Nahi chal raha hai na? Koi nahi, aap, nahi chal raha to aapko mere ko screenshot bhejna chahiye tha na? Screenshot bhejte aap.\\nCustomer: Maine wahan se nahi uthaya screenshot.\\nExecutive: Sir screenshot ek baar leke aap bhejo na agar laptop pe nahi chal raha hai to. Kal ek kaam karungi na, kal ek baar video meet kar lete hain, theek hai sir?\\nCustomer: Theek hai madam.\\nExecutive: Haan.\\nCustomer: Okay.",
+  "summary": "\\nConcerns:\\n- An unspecified feature is not working.\\n- Issue persists even after trying on a laptop.\\n- Experiencing business loss due to the issue.\\n\\nResolution:\\n- Suggested a video call for the next day.\\n- Asked customer to screen-share during the call.\\n- Requested a screenshot of the error.\\n- Customer agreed to the video call.\\n\\nNext Steps: \\n- Issue not resolved.\\n- A video meeting is scheduled for the next day to troubleshoot the issue.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- technical issue, troubleshooting, laptop, video call, screen sharing, screenshot\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b21ed5a5-c4d7-4629-bed1-308f62a7c2bf",
+  "ucid": "b21ed5a5-c4d7-4629-bed1-308f62a7c2bf",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

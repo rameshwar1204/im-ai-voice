@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666983976",
+  "gluser_id": "283627",
+  "vintage_months": 104,
+  "bl_dau_oct": 2,
+  "customer_type": "STAR",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636610",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan ji.\\nExecutive: Hello.\\nCustomer: Haan sir bataiye.\\nExecutive: Jain sir, good afternoon, kaise ho aap?\\nCustomer: Bas aapne haal behaal kar diya hai mera aur kya.\\nExecutive: Achha koi nahi aaj sahi kar deta hu.\\nCustomer: Aap aap daant aap daant padwa dete ho aur kuch nahi hota fir.\\nExecutive: Koi nahi sir aaj aaj isko sahi kara leta hu. Uh kahan hai online hai aap?\\nCustomer: Haan mere ko pandrah bees pandrah minute dijiye aap actually. Main kisi kaam me busy hu hai na. To aap mere ko connect kariye chaar baje tak. Chaar saade chaar baje chaar tak. Theek hai?\\nExecutive: Theek hai theek hai theek hai theek hai.\\nCustomer: Okay. Okay.\\nExecutive: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Unhappy with the service provided.\\n- Gets scolded because of IndiaMART's actions.\\n- Requested a callback as he was busy.\\n\\n\\nResolution:\\n\\n- Promised to resolve the issue today.\\n- Agreed to call back at 4 PM.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive to call back at 4 PM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- customer dissatisfaction, callback request, service issue\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=62002dab-ba71-413f-9713-ca1486f2da07",
+  "ucid": "62002dab-ba71-413f-9713-ca1486f2da07",
+  "seller_categories": [
+    {
+      "mcat_id": "154704",
+      "mcat_name": "Compressor Nebulizer"
+    },
+    {
+      "mcat_id": "1149",
+      "mcat_name": "Surgical Gloves"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "23497",
+      "mcat_name": "Blood Pressure Machine"
+    },
+    {
+      "mcat_id": "2836",
+      "mcat_name": "Surgical Dressing"
+    }
+  ]
+}

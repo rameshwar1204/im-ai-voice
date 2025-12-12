@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670788341",
+  "gluser_id": "245890745",
+  "vintage_months": 5,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Talegaon Dabhade",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667843",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Yes, ma'am, I am Ankita speaking from IndiaMART team.\\nCustomer: Ji haan, bataiye.\\nExecutive: Uh, ma'am, just now your call came, so I told you in the morning that by mistake IndiaMART's call connected to you, right?\\nCustomer: Samajh gaye the.\\nExecutive: Ji haan. Haan. So, ma'am, I have called regarding the feedback.\\nCustomer: Hmm.\\nExecutive: Called to know that the services that IndiaMART is running, is there any concern, something else, any related information you want to take?\\nCustomer: Nahi nahi, kuch nahi hai. Aise hi information call lag gaya. Haan, ji nahi. Achha.\\nExecutive: Kuch means koi jankari abhi nahi chahiye mujhe.\\nCustomer: Aapke na kuch products. Hello.\\nCustomer: Uh, ma'am, aapke kuch products out of stock wagera dikh rahe hain, to matlab ye aapne khud out of stock kiye hain ya remove karwaye hain?\\nCustomer: Uh, main check karke aapko inform kar do, abhi na main little bit busy hoon, to main call back karu aapko? No issue, no issue, ma'am.\\nExecutive: Uh, ma'am, abhi main na aapka jo customer care se call receive hua tha na. Haan haan.\\nCustomer: Haan. Hello? Haan. Main ye close kar rahi hoon, aapke paas ek feedback aayega mail pe. To please wo satisfied mark kar dijiyega ki aapko koi complaint nahi hai. Aapke paas mail pe ek feedback aayega. Aap usko satisfied pe hi click kijiyega, yes pe. No pe click mat kijiyega.\\nCustomer: Okay.\\nExecutive: Okay. Thanks. Okay chalega, thik hai? Ji haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call by mistake.\\n\n- Customer's products are showing out of stock.\\n\n\\n\nResolution:\\n\n- Executive asked for feedback regarding IndiaMART services.\\n\n- Executive asked to mark the feedback as satisfied.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, out of stock, services\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3705e87e-4e83-424d-adfc-139cf2972fc3",
+  "ucid": "3705e87e-4e83-424d-adfc-139cf2972fc3",
+  "seller_categories": [
+    {
+      "mcat_id": "145692",
+      "mcat_name": "Ultrasonic Rat Repellent"
+    },
+    {
+      "mcat_id": "209212",
+      "mcat_name": "Water Leak Detection System"
+    },
+    {
+      "mcat_id": "41048",
+      "mcat_name": "Water Leak Detectors"
+    },
+    {
+      "mcat_id": "209213",
+      "mcat_name": "Water Leak Sensor Cable"
+    },
+    {
+      "mcat_id": "55095",
+      "mcat_name": "Sprinkler Accessories"
+    }
+  ]
+}

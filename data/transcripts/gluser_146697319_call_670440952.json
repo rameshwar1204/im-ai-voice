@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670440952",
+  "gluser_id": "146697319",
+  "vintage_months": 1,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Himatnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651589",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Mere tan man dhadkan mein piya ram.\\nExecutive: Haan ji Vijay ji. Hello, haan ji captain sir.\\nCustomer: Haan ji bataiye.\\nExecutive: Captain sir wo Suji aapko call kar rahi hai, aap time hi nahi de rahe unko sir.\\nCustomer: Are yaar time nahi mil raha hai yaar, bahut time busy chal raha hu main.\\nExecutive: Wo abhi do teen baar call laga ke sir ek baar aap call laga ke uthate ho meri baat karvao.\\nCustomer: Are ab main nikla hu yaar, abhi yaha se nikla hu main thoda kaam se.\\nExecutive: Subah aap video meeting pe aane ke liye keh rahe the, to ek baar bata dete sir kab tak aayenge video meeting pe.\\nCustomer: Subah to aaj nahi ho payega, main thoda wo bhi bahar. Haan ji, kya keh rahe ho? Out of state ja raha hu thoda kaam se.\\nExecutive: Out of state ja rahe ho aap?\\nCustomer: Haan thoda kaam se nikla hu.\\nExecutive: To wapsi kab tak aaoge aap?\\nCustomer: Wapsi parso.\\nExecutive: Parso? Haan. To sir ek kaam kare jo aapne matlab char din se na concern raise ho rakha hai, agar aap kaho to main concern.\\nCustomer: Suji ko bol dijiye Suji phone kar lenge Suji kar denge 11 baje.\\nExecutive: Haan ji, kya keh rahe ho?\\nCustomer: Suji ko bol dijiye aaj kal aana Suji phone karna Suji kar denge 11 baje.\\nExecutive: Kya phone kar rahe hai aapko?\\nCustomer: Suji 11 baje kar denge, main 11 baje phone karna hai.\\nExecutive: Kal, kal, kal 11 baje.\\nCustomer: Haan kal, kal.\\nExecutive: Sir 11 baje video meeting rakhhe aapke sath.\\nCustomer: Haan, haan, haan.\\nExecutive: Theek hai sir kal 11 baje ki video meeting rakhhe aapke sath.\\nCustomer: Theek hai.\\nExecutive: Done, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not giving time to Suji.\\n\n- Customer has a concern raised for 4 days.\\n\n\\n\nResolution:\\n\n- Video meeting scheduled for tomorrow at 11 AM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, concern, follow-up\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b57fbcca-8d55-431d-be91-e868b24cad28",
+  "ucid": "b57fbcca-8d55-431d-be91-e868b24cad28",
+  "seller_categories": [
+    {
+      "mcat_id": "189353",
+      "mcat_name": "Apollo Car Tyres"
+    },
+    {
+      "mcat_id": "2581",
+      "mcat_name": "Truck Tyres"
+    },
+    {
+      "mcat_id": "149838",
+      "mcat_name": "Truck Radial Tyres"
+    },
+    {
+      "mcat_id": "215334",
+      "mcat_name": "Apollo Bike Tyres"
+    },
+    {
+      "mcat_id": "183872",
+      "mcat_name": "Block Jointing Mortar"
+    }
+  ]
+}

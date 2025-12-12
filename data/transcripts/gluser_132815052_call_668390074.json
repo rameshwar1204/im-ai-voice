@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668390074",
+  "gluser_id": "132815052",
+  "vintage_months": 33,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan.\\nExecutive: Namaste sir, bataiye sir.\\nCustomer: Hello.\\nExecutive: Haan whatsapp ka hai le lijiye na.\\nCustomer: Sir whatsapp pe to hai meeting mein whatsapp pe bhi baat kare kya whatsapp pe hi baat karna hai sir aapko aapne mujhe paanch call kiye sir main meeting mein tha is vajah se aapki call receive nahi kar paya. On the spot jaise hi main free aaya hu turant maine aapko call back kiya. I am really sorry us time pe main aapka call receive nahi kar paya. Maine aapko sir bola ki main usme tha bhai nahi kar sakta tha waha pe unfortunately is vajah se. Maine yaha whatsapp pe dekh rakha hai aapne likh rakha hai ki shayad aapki jo extra byleeds thi wo consume ho matlab khatam ho gayi hai right.\\nCustomer: Hello.\\nExecutive: Haan haan boliye.\\nCustomer: Haan ji sir to aapka jo aaj ka jo hai wo bhi complete ho chuka hai aur jo is week ka hai wo bhi khatam ho chuka hai. Yearly bhi jo aapko mila tha wo bhi khatam ho gaya sir.\\nCustomer: Wo nahi khatam hua.\\nExecutive: Sir aapko jitna bhi hai na aapka abhi tak ka is hafte ka jitna bhi byleed hai wo sara aapne consume kar liya hai sir.\\nCustomer: Ji.\\nExecutive: Aur extra hai wo?\\nExecutive: Extra bhi consume kar liya sir yearly wala bhi jo hai na aapka wo bhi aapne consume kar liya. Dekhiye weekly pe apne ko 20 milta hai theek hai wo 20 aapne consume kar liya hai aur phir per day ka agar dekhe to do milta hai wo bhi aapne consume kar rakha hai sir. Agar main batau na ki aapne kitna kaun sa byleed consume kar rakha hai main wo bhi bata deta hu aapko.\\nExecutive: Ek minute rukiyega sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says his yearly buyleads are not finished.\\n\n\\n\nResolution:\\n\n- Executive informed customer about buyleads consumption.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, consumption\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f99ef42-d22e-4915-acdc-ecdcb55f29a1",
+  "ucid": "7f99ef42-d22e-4915-acdc-ecdcb55f29a1",
+  "seller_categories": [
+    {
+      "mcat_id": "31652",
+      "mcat_name": "Magnesium Carbonate"
+    },
+    {
+      "mcat_id": "19162",
+      "mcat_name": "Silicon Dioxide"
+    },
+    {
+      "mcat_id": "8601",
+      "mcat_name": "Precipitated Silica"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    },
+    {
+      "mcat_id": "252025",
+      "mcat_name": "Vegetable Glycerin"
+    }
+  ]
+}

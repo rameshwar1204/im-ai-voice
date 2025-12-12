@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668540261",
+  "gluser_id": "107183630",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9642008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, good afternoon.\\nCustomer: Hello.\\nExecutive: Good afternoon. Mai aap mere ko ek ghante baad call lagaiye, mai aapko connect hota hu phir.\\nExecutive: Thik hai, thik hai, thik hai, thik hai. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back after one hour.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, connect\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bfaff8db-615e-4f66-88d5-58fed0fe1af6",
+  "ucid": "bfaff8db-615e-4f66-88d5-58fed0fe1af6",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "180834",
+      "mcat_name": "Marble Bowl"
+    },
+    {
+      "mcat_id": "9877",
+      "mcat_name": "Marble Table"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    }
+  ]
+}

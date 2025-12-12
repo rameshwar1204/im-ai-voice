@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671791826",
+  "gluser_id": "8911279",
+  "vintage_months": 1,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadravati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630559",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello? Namaskar sir, Abhishek baat kar raha hu IndiaMART se.\\nExecutive: Haan boliye sir.\\nCustomer: Haan ji ji aapka call aaya tha na parso din office hamara close tha.\\nExecutive: Haan vahi sir wo refund nahi hua tha isliye abhi tak kya status ho gaya wo puchne ke liye phone kiya tha.\\nCustomer: Haan wo aapka case matlab escalate ho gaya hai refund escalate ho gaya hai wo aapko dusre teen din me aapko credit ho jayega na aapke account me.\\nExecutive: Okay okay sir, theek hai.\\nCustomer: Haan ji baki aapko call to aaya hoga IndiaMART se.\\nExecutive: Nahi abhi tak nahi aaya isliye mai phone kiya.\\nExecutive: Accha baki aapko baki mai aapko ek mail\\nCustomer: Starting me phone kiya tha Juhi madam ne unhone se wo manager ko contact kiya tha aise wo last hai ab wo 15 din ho gaya baat karke.\\nExecutive: Accha haan wo pura verification vagaira karte hai na ki client ko kya problem thi.\\nCustomer: Okay.\\nExecutive: Wo pura verification karne ke baad fir aage process continue hota hai na upar se back end se.\\nCustomer: Theek hai theek hai.\\nExecutive: Thoda time lag jata hai.\\nCustomer: Theek hai.\\nExecutive: To baki aapko aa jayega do se teen din me.\\nCustomer: Theek hai theek hai sir.\\nExecutive: Theek hai baki aapko abhi ek mail aayega mail ya whatsapp pe aayega usme matlab usko satisfied kar dena aage process continue ho jayega fir theek hai.\\nCustomer: Haan theek hai theek hai.\\nExecutive: Theek hai theek hai theek hai okay baki iske alawa aur koi dikkat aa rahi hai aapko?\\nCustomer: Nahi sir wo kuch nahi wo mujhe wo enquiries accha nahi aa raha hai leads nahi aa raha hai na.\\nExecutive: Accha.\\nCustomer: Related nahi aa raha hai abhi tak nahi aa raha hai wo.\\nExecutive: Accha abhi tak bhi nahi aa raha.\\nCustomer: Nahi nahi nahi nahi aap hi dekh lijiye mera account.\\nExecutive: Chaliye theek hai mai dekhta hu.\\nCustomer: Theek hai sir okay.\\nExecutive: Jaldi refund kar dijiye sir bas thanks.\\nCustomer: Theek hai ho jayega.\\nExecutive: Okay sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Refund not yet received.\\n\n- Not receiving good quality buyleads.\\n\n\\n\nResolution:\\n\n- Refund has been escalated, will be credited soon.\\n\n- Executive will check the customer's account.\\n\n- Customer needs to satisfy the mail for process continuation.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, account, verification\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1af8ba2c-4bb1-4c67-b65d-5e11398d240a",
+  "ucid": "1af8ba2c-4bb1-4c67-b65d-5e11398d240a",
+  "seller_categories": [
+    {
+      "mcat_id": "42618",
+      "mcat_name": "AMF Panels"
+    },
+    {
+      "mcat_id": "186873",
+      "mcat_name": "ATS Control Panel"
+    },
+    {
+      "mcat_id": "137566",
+      "mcat_name": "Meter Panel Board"
+    },
+    {
+      "mcat_id": "41791",
+      "mcat_name": "Bus Ducts"
+    },
+    {
+      "mcat_id": "187901",
+      "mcat_name": "Sandwich Bus Duct"
+    }
+  ]
+}

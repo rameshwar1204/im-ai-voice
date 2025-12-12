@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674700301",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji naam boliye.\\nCustomer: Ji ji main Manshu baat kar rahi hun IndiaMART se.\\nExecutive: Haan.\\nCustomer: Mam actually yahan pe mam concern raise hua tha feedback ke liye maine call kiya hai aapke leads regarding ko lekar ke mam.\\nCustomer: Feedback ke liye samajh mein nahi aa raha kuch matlab.\\nExecutive: Ji?\\nCustomer: Kuchh boliye kya bol rahe ho aap?\\nExecutive: Main ye bol rahi hun mam actually aap bahut kam leads mein active hai to uske liye kya kehte hain uske regarding maine call kiya tha aapko ki leads aap bilkul nahi active ho rahe ho consume nahi kar rahe ho mam.\\nCustomer: Ji mam to wo link to\\nExecutive: Ji kya mam kar rahi hun kar rahi hun.\\nExecutive: Mam agar koi dikkat aa rahi hai kahin cheez samajh mein nahi aa rahi hai aap mujhe bata sakte ho na main aapko dobara bata dungi kaise kya hai mam.\\nCustomer: Ji mam main isko karke dekhti hun aur fir main call karti hun aapko.\\nExecutive: Okay mam.\\nCustomer: Isme mam humko time leads chalti hai to kaise samajh mein aayega ki hamari kaun si hai wo.\\nExecutive: Mam main isiliye aapse bol rahi thi mam maine isi kyunki mujhe ye cheez kahin na kahin lagi hai aapko shayad leads samajhne mein koi dikkat aa rahi hai mam kya ek bar possible ho sakta hai main aapko google meet mein connect karke sari cheez bata du actually meri aapki manager se bhi baat hui thi sir se aaj dopahar mein to maine unko ye cheez batai thi to unhone bola hai ki aap mam ko ek bar dobara guide kar do to mam possible hai ek bar connect kar le google meet mein.\\nCustomer: Ji ji.\\nExecutive: Jyada time nahi lagega mam 5 minute lagega mam bas.\\nCustomer: Ji ji mam theek hai kar lijiye.\\nExecutive: Theek hai main aapke number pe hi bhejna hai na mam?\\nCustomer: Haan ji.\\nExecutive: Theek hai theek hai.\\n\\nExecutive: Mam connect kar dijiye.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not active on leads.\\n\n- Customer is facing difficulty understanding leads.\\n\n\\n\nResolution:\\n\n- Executive offered to guide on Google Meet.\\n\n- Agreed to connect on Google Meet.\\n\n\\n\nNext Steps: \\n\n- Executive will send Google Meet link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, assistance\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 280,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f71aa29a-b4d4-45b7-8e12-69c59d525dd4",
+  "ucid": "f71aa29a-b4d4-45b7-8e12-69c59d525dd4",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

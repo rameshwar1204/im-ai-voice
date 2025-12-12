@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674542762",
+  "gluser_id": "5291161",
+  "vintage_months": 124,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Tikamgarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706537",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji sir.\\nCustomer: Mujhe na.\\nExecutive: Ji sir bataiye.\\nCustomer: Mujhe na ye laminated women bag hote hain na.\\nExecutive: Non.\\nCustomer: Haan ji.\\nExecutive: Haan haan haan. Wo bag chahiye. Haan unke dealers ke aap kuch contact details manufacturing ya jo bhi hai Delhi ke liye mujhe aap share kar de.\\nExecutive: Theek hai sir mujhe main ek meeting mein hun main aapko call back kar rahi hun abhi 10-15 minute mein theek hai?\\nCustomer: Theek hai.\\nExecutive: Okay.",
+  "summary": "\\n\nConcerns:\\n\n- Need contact details of laminated women bag dealers or manufacturers in Delhi.\\n\n\\n\nResolution:\\n\n- Executive will call back in 10-15 minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive to call back in 10-15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nlaminated women bag, dealers, manufacturers, delhi, contact details\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33daa201-1de0-408f-a744-eaa201c40a94",
+  "ucid": "33daa201-1de0-408f-a744-eaa201c40a94",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "164149",
+      "mcat_name": "Ready Mix Plaster"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    }
+  ]
+}

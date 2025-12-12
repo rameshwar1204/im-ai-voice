@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673764754",
+  "gluser_id": "100263215",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Tonk",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700368",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\n\n\\n\nResolution:\\n\n\n\\n\nNext Steps: \\n\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=46d3ab96-9b45-43d1-bc4e-78a251a28e7d",
+  "ucid": "46d3ab96-9b45-43d1-bc4e-78a251a28e7d",
+  "seller_categories": [
+    {
+      "mcat_id": "182280",
+      "mcat_name": "Mahindra Tractor"
+    },
+    {
+      "mcat_id": "42178",
+      "mcat_name": "Rotavator Blades"
+    },
+    {
+      "mcat_id": "185657",
+      "mcat_name": "Tractor Front End Loader"
+    },
+    {
+      "mcat_id": "442475",
+      "mcat_name": "Mahindra Engine Oil"
+    },
+    {
+      "mcat_id": "221249",
+      "mcat_name": "Mahindra Rotavator"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669528014",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello? Haan ji, good evening sir, I'm Priya.\\nUh, sir, yes, ma'am, tell me.\\nOkay, I'm sending you a Google Meet link.\\nKya sir?\\nHaan, sir.\\nHaan, aapko na main Google Meet ki link share kar rahi hu, ek second.\\nDekhiye, uh, Gitika IndiaMART se mail receive hua hoga sir aapko.\\nHua?\\nGitika IndiaMART se mail receive hua hoga aapko.\\nCheck kariye.\\nHaan.\\nHaan, mail pe aaya hai.\\nHaan, haan, haan, usi mail se aap join kar lijiye, main call disconnect kar rahi hu, theek hai?\\nSir, idhar join kar liya.\\nHaan.\\nThik hai sir?\\n(silence)\\nAaap jis vyakti se baat kar rahe hai, dhone aap call ko hold par rakha hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to share Google Meet link.\\n\n\\n\nResolution:\\n\n- Executive shared Google Meet link via mail.\\n\n\\n\nNext Steps: \\n\n- Customer to join via the link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, mail, link\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f98f4c0-16a1-49a6-98b5-e2875b6622ef",
+  "ucid": "5f98f4c0-16a1-49a6-98b5-e2875b6622ef",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

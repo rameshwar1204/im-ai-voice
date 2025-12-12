@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672427391",
+  "gluser_id": "707871",
+  "vintage_months": 12,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Valsad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673245",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Haan namashkar sir, dedh baje bole the sir aapne call karne ke liye.\\n\\nExecutive: Hmm.\\n\\nCustomer: Hello.\\n\\nExecutive: Haan boliye.\\n\\nExecutive: Haan ji sir, ye main link share kar raha hu aap se join kar lijiye video meet ka.\\n\\nCustomer: Haan.\\n\\nExecutive: Video meet ka link share kar raha hu join kar lijiye sir.\\n\\nCustomer: Hmm.\\n\\nCustomer: Aap kaun bol rahe ho?\\n\\nExecutive: Haan ji sir boliye.\\n\\nCustomer: Aap kaun bol rahe ho?\\n\\nExecutive: Aapki aawaz kat rahi hai main aapko call back karta hu sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was expecting a call at 1:30.\\n\n- Customer wants to know who is speaking.\\n\n\\n\nResolution:\\n\n- Executive shared a video meet link.\\n\n- Executive said he will call back due to voice breaking.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, video meet, link\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=659d354d-ec96-455c-a542-8062045eb8e1",
+  "ucid": "659d354d-ec96-455c-a542-8062045eb8e1",
+  "seller_categories": [
+    {
+      "mcat_id": "208566",
+      "mcat_name": "Remi Centrifuge Machine"
+    },
+    {
+      "mcat_id": "183216",
+      "mcat_name": "Bottle Top Dispenser"
+    },
+    {
+      "mcat_id": "208567",
+      "mcat_name": "Remi Laboratory Stirrer"
+    },
+    {
+      "mcat_id": "167124",
+      "mcat_name": "Kjeldahl Distillation Assembly"
+    },
+    {
+      "mcat_id": "216790",
+      "mcat_name": "Laboratory Vacuum Pump"
+    }
+  ]
+}

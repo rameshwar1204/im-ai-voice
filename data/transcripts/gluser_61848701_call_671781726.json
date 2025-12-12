@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671781726",
+  "gluser_id": "61848701",
+  "vintage_months": 76,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670185",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Sir good morning.\\nCustomer: Haan good morning. Sir aawaz aa rahi hai clear?\\nExecutive: Aa rahi hai. Main kya bol raha sir aapko aap main system par wohi abhi aapke pahunch gaye to main mere ladko ko bhejta office mein main aur unse discuss karke apna keyword filter jo jo karna hai aap kar lo aur har har week ko aap information do aur karao humko. Madam ko buylead purchase karne lagao aur ye ladko ka jo number de raha main aapko inse baat karke system par inko filter wagera laga lo inse sab. Theek hai?\\nExecutive: Theek hai, theek hai sir. Number aap bata dijiye inko.\\nCustomer: Haan, abhi woh aaj baithenge office mein, office mein baithe kara lete iska kaam.\\nExecutive: Achcha, theek hai sir. Sir aap madam ka toh number hai lekin ladke ka nahi number jiska bata rahe hain aap.\\nCustomer: Haan, 94 94 0 0 4 0 4 0 23175 23175 main number repeat kar raha hun. 94040 again 23175.\\nExecutive: Yes, Wasim sir.\\nCustomer: Kya naam hai sir?\\nExecutive: Wasim sir, Wasim sir.\\nCustomer: Wasim sir, okay. Hmm.\\nExecutive: Theek hai sir, main ek baar baat kar leta hun inse. Office pahunch gaye honge na sir ye toh.\\nCustomer: Nahi, pahunchte office mein aaj aadhe aadhe ghante mein.\\nExecutive: Theek hai, theek hai. Main sir aadhe ghante baat kar leta hun 11 baje ke around. Hmm, chalenge na?\\nCustomer: Haan, okay sir, thank you.\\nExecutive: Okay, okay, thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss keywords and filters.\\n\n- Wants executive to help with buylead purchase.\\n\n- Shared a contact number for system filter setup.\\n\n\\n\nResolution:\\n\n- Executive confirmed the number.\\n\n- Executive agreed to call back in half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call back around 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, filter, keywords, contact number\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=413d7692-dac3-4a49-b30a-00cf0c30aa6a",
+  "ucid": "413d7692-dac3-4a49-b30a-00cf0c30aa6a",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "164149",
+      "mcat_name": "Ready Mix Plaster"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    }
+  ]
+}

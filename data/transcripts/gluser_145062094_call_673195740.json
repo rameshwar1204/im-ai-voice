@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673195740",
+  "gluser_id": "145062094",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691937",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6998edd8-0e22-4041-95a5-cd5313738e15",
+  "ucid": "6998edd8-0e22-4041-95a5-cd5313738e15",
+  "seller_categories": [
+    {
+      "mcat_id": "27799",
+      "mcat_name": "Emulsion Paints"
+    },
+    {
+      "mcat_id": "185017",
+      "mcat_name": "Asian Emulsion Paints"
+    },
+    {
+      "mcat_id": "20934",
+      "mcat_name": "Water Based Primer"
+    },
+    {
+      "mcat_id": "161038",
+      "mcat_name": "Synthetic Enamel Paint"
+    },
+    {
+      "mcat_id": "27803",
+      "mcat_name": "Enamel Paints"
+    }
+  ]
+}

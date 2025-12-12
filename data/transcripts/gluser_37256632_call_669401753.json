@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669401753",
+  "gluser_id": "37256632",
+  "vintage_months": 8,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651118",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Namaskar, Mohan ko call karne ke liye dhanyavad.\\nExecutive: Hello.\\nExecutive: Sorry good morning sir very good afternoon sir Prateek baat kar raha tha India Mart se.\\nCustomer: Pranam.\\nExecutive: Ji ji sir wo jo aapne screenshot dekha tha maine dekha wo screenshot open kara tha maine. Sir aapka to last 15 din mein koi call miss dikha hi nahi raha hai sir.\\nCustomer: Sir ye to maine bheja hai sir kal ka aapko.\\nExecutive: Kal ka hai ye?\\nCustomer: Haan. Kal hi bheja na sir kal kal ne. Main kya thoda sa busy ho raha hai aaya hua tha.\\nExecutive: Abhi busy hai aap? Abhi busy hai?\\nCustomer: Haan busy hu. Ek Saturday ko bheja tha maine fir usse pehle Friday ko bheja tha.\\nExecutive: Ek second rukiye kyuki mujhe last 10 din mein ek bhi miss call nahi dikh raha hai aapka ek second rukiye jo hamara data capture hota hai na sir jo.\\nCustomer: Sir main last system pe isko bhi.\\nExecutive: Achha.\\nExecutive: Ek second rukiye aap aap jab system ke samne aayenge ek bar mujhe call kijiyega 6 baje se pehle pehle. Theek hai sir? Isi number pe. Theek hai isi number pe.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n\\n\nResolution:\\n\n- Executive checked and found no missed calls.\\n\n- Executive asked customer to call when in front of system.\\n\n\\n\nNext Steps: \\n\n- Customer will call back before 6 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, missed calls, data capture\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8781b049-4466-4398-96a7-2a13d89fb534",
+  "ucid": "8781b049-4466-4398-96a7-2a13d89fb534",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "158115",
+      "mcat_name": "Incense Cone Making Machine"
+    },
+    {
+      "mcat_id": "110288",
+      "mcat_name": "Camphor Machine"
+    },
+    {
+      "mcat_id": "652781",
+      "mcat_name": "Dhoop Stick Making Machine"
+    },
+    {
+      "mcat_id": "206961",
+      "mcat_name": "Soham Agarbatti Making Machines"
+    }
+  ]
+}

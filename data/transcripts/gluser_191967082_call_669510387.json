@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669510387",
+  "gluser_id": "191967082",
+  "vintage_months": 27,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan sir.\\n\\nCustomer: Call hi drop ho ja rahi hai pata nahi kya problem hai. Bhumika se bhi shayad baat kar raha hu to shayad Bhumika ki bhi drop hui hongi.\\nExecutive: Ji kar sir. Bill pay karwaiye IndiaMART ko boliye.\\nCustomer: Haan ha sir.\\nExecutive: To wohi service ke liye aapko kya dikat hai matlab niche aap mujhe de dijiyega GST jaise surrender hota hai fir aap process aapka jo hai fir aap hum ek baar baat kar lete hai bhai GST surrender hi kar raha hai to fir woh kaha se koi koi bhi invoice ya kuch kaise aap karoge.\\nCustomer: Woh to tarika ho gaya kyuki bhai jo cheez sale karoge uski invoicing bhi to aap karoge. Bilkul.\\nExecutive: Wohi to cheez hai sir. Bilkul aap mujhe bilkul aap mujhe de dijiye sir. Aur sir ye meeting video meeting ke request isi wajah se aap dale the kya yaha pe IndiaMART. \\nCustomer: Haan mere woh aapke aage calls lag nahi rahe the aapke bhi calls nahi lag rahe the.\\nExecutive: Are to Saturday Sunday off tha na sir aapne usi me laga dale sare calls.\\nCustomer: Haan usi liye me laga.\\nExecutive: Call picking rate se fir aap kya hi baat karu rating and reviews ko kya hi baat karu aap bata rahe ho kabhi me service hi nahi chalane wala. Sir service to abhi aap use kar rahe ho proper bahut acha usage tha sir. 15 number se aapne 28 days. \\nCustomer: Mere mera jo concern hai wo aap samajh nahi rahe sir wohi baat hai na.\\nExecutive: Wo to me samajh gaya wo to me samajh gaya tha.\\nCustomer: Wohi concern wohi hai sir. \\nExecutive: Concern me aapka samajh me aa gaya ki dusri company jo hai aa gayi IndiaMART pe jo ki ab kam rupay me sell kar rahi hai ab aap sell nahi kar paoge.\\nCustomer: Sir jo jo mujhse hum 40000 me de rahe hai wohi aake yaha pe\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's calls are getting dropped.\\n\n- Concern about another company selling at lower price.\\n\n\\n\nResolution:\\n\n- Executive asked to pay the bill.\\n\n- Executive understood the customer's concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- calls, gst, invoicing, competition\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9a22a796-e5db-46cb-9edd-87cceabfac0e",
+  "ucid": "9a22a796-e5db-46cb-9edd-87cceabfac0e",
+  "seller_categories": [
+    {
+      "mcat_id": "40361",
+      "mcat_name": "Tube Cleaners"
+    },
+    {
+      "mcat_id": "132537",
+      "mcat_name": "Tube Cleaning Brush"
+    },
+    {
+      "mcat_id": "42067",
+      "mcat_name": "Tube Expanders"
+    },
+    {
+      "mcat_id": "136243",
+      "mcat_name": "Boiler Brush"
+    },
+    {
+      "mcat_id": "28585",
+      "mcat_name": "Flexible Shafts"
+    }
+  ]
+}

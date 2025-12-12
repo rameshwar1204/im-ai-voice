@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667008669",
+  "gluser_id": "21807851",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Tarshree ho idhar aap?\\nExecutive: Haan, haan bolo, bolo.\\nCustomer: Jaldi karwao yaar.\\nExecutive: Haan ji, system pe aa jaiye.\\nCustomer: System open hai?\\n\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji, open hai.\\nCustomer: Open hai.\\nExecutive: Main aapko ek official email ID dena, usmein video meet link send kar raha hun. Bheja hai na, usko join kijiye.\\nCustomer: Ok.\\nExecutive: Office 11@indiamart ki taraf se hai.\\nExecutive: Email pe video meet aaya hoga dekhiye.\\n\\n\\nCustomer: [unintelligible]\\n\\nCustomer: Main aapko screen show kar raha hun apni.\\nCustomer: Haan, pehle mujhe ye bataiye ye wala aap mere ko show ho rahi hai, aap mujhe ye bataiye ye jo, wo maine ye wala download kara dekho.\\nExecutive: Ye maine apni band kar di, aap apni screen share karke send karo.\\nCustomer: Haan.\\n\\nExecutive: Aapki screen mujhe show ho gayi.\\nCustomer: Ye wali kara hai maine.\\nExecutive: Ye open kiye hai na, isse kara?\\nCustomer: Haan.\\nExecutive: Nahi nahi, Google Chrome kholiye.\\nCustomer: Kaat di maine isko.\\n\\nExecutive: Ok sir ji, main karta hun dusre number pe aapke.\\nCustomer: Haan ji?\\nExecutive: Dusre number pe karta hun, kat raha hai baar baar.\\nCustomer: Haan, haan dusre number pe kar dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants executive to resolve issue quickly.\\n\n- Customer is having trouble joining video meet.\\n\n\\n\nResolution:\\n\n- Executive sent video meet link to customer's email.\\n\n- Executive asked customer to share screen.\\n\n- Executive suggested opening Google Chrome.\\n\n- Executive will call on another number.\\n\n\\n\nNext Steps: \\n\n- Executive will call customer on another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, screen share, technical support\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 207,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5040d1a4-7ea6-460e-afb1-1474a69de880",
+  "ucid": "5040d1a4-7ea6-460e-afb1-1474a69de880",
+  "seller_categories": [
+    {
+      "mcat_id": "1394",
+      "mcat_name": "Oxygen Plant and Generator"
+    },
+    {
+      "mcat_id": "32741",
+      "mcat_name": "Nitrogen Generators"
+    },
+    {
+      "mcat_id": "42148",
+      "mcat_name": "PSA Oxygen Plants"
+    },
+    {
+      "mcat_id": "42147",
+      "mcat_name": "PSA Nitrogen Gas Plants"
+    },
+    {
+      "mcat_id": "191158",
+      "mcat_name": "Medical Oxygen Plant"
+    }
+  ]
+}

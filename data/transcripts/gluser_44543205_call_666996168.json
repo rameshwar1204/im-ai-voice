@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666996168",
+  "gluser_id": "44543205",
+  "vintage_months": 6,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Theni",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631881",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Good evening sir, I'm Swathi's manager speaking from IndiaMART, sir.\\nCustomer: Okay.\\nExecutive: So, you have reached our contact number 9696, so only I reached you, sir.\\nCustomer: Ma'am, in the last week, speaking with you, you are the one?\\nExecutive: No sir, Swathi, the person, your account manager, is speaking, sir. Tell me, sir.\\nCustomer: Let her speak, ma'am, a little, because I want to speak with her only, because speaking with one person will be correct, I think. Her contact number, I don't know, that's why I called generally. If she is there, can you ask her to call?\\nExecutive: Okay sir, so I will ask them to connect you sir. You have called because you don't have their contact, it is mentioned here. I will share the number to you and share it to them. Same way, you number. Aap jis vyakti se baat kar rahe hain, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Neengal azhaikum nabar ungal callai holdil vaithullar. Dayavu seidhu line\\n(silence)\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to speak with the account manager Swathi.\\n\n- Does not have Swathi's contact number.\\n\n\\n\nResolution:\\n\n- Executive offered to connect the customer to Swathi.\\n\n- Executive offered to share Swathi's contact number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, contact number, connect call\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f06d91ba-a5fc-400c-8a77-2a8cea7af842",
+  "ucid": "f06d91ba-a5fc-400c-8a77-2a8cea7af842",
+  "seller_categories": [
+    {
+      "mcat_id": "94587",
+      "mcat_name": "Toughened Safety Glass"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    },
+    {
+      "mcat_id": "56074",
+      "mcat_name": "Glass Railing"
+    },
+    {
+      "mcat_id": "80556",
+      "mcat_name": "Automatic Sliding Door"
+    },
+    {
+      "mcat_id": "88416",
+      "mcat_name": "Glass Partition"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667488896",
+  "gluser_id": "134703934",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635861",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, ha sir.\\nExecutive: Ji sir kya kya hua, batayega sir?\\nCustomer: Sir wo chhote wale bhai ne phone nahi uthaya hai. Mai aapko usne call karaya hai catalog update ke liye, to usne phone nahi uthaya mera, wo bol raha tha.\\nExecutive: Ha mai unse baat kar lunga.\\nCustomer: Ha mai unse baat kar lunga.\\nExecutive: Sir meri us time unse baat hui thi, to mai catalog update matlab unka jo bhi kaam hai wo mai kara dunga sir. Abhi ke liye mai ticket close kar du?\\nCustomer: Ha kar dijiye na. Ha.\\nExecutive: Sir, sir aur ek baat aur.\\nCustomer: Ha.\\nExecutive: Sir koi bhi dikkat hoti ho, koi bhi kaam ho catalog ko leke ya koi bhi issue aapko IndiaMART se related, to aap sabse pehle mujhe call kariye.\\nCustomer: Ha yaar aapka number hai na, teen char number hue hai, aap number do mai aapke chhote bhai ko de deta hu.\\nExecutive: Sir aap bhi call kar lijiye, wo hamari taraf se\\nCustomer: Sir mai aapko bhi aur bhai aapke chhote bhai hai mai dono ko apna number naam ke sath aur account manager likh ke message kar de raha hu, aap save kar lijiye. Aur koi bhi dikkat ho to aap pehle mujhe call kariye sir, call center me jaane se wo direct ticket raise kar dete hai.\\nCustomer: Achha achha achha, thik hai.\\nExecutive: Ji sir, aur bar bar repeat ticket aane pe bhi sir wo dikkat hoti hai sir. To sir pehle mujhe call kariye sir koi bhi dikkat ho to, koi bhi kaam ho, koi bhi dikkat ho. Ji sir.\\nCustomer: Thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's catalog update request not addressed.\\n\nResolution:\\n\n- Executive assured to get catalog updated.\\n\n- Executive shared his contact details.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, update, contact details\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f3c9a3b-02d8-4fee-938e-483d93adc9b2",
+  "ucid": "9f3c9a3b-02d8-4fee-938e-483d93adc9b2",
+  "seller_categories": [
+    {
+      "mcat_id": "18981",
+      "mcat_name": "Tea Light Candle"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "180915",
+      "mcat_name": "Supreme PVC Pipes"
+    },
+    {
+      "mcat_id": "923",
+      "mcat_name": "Wax Candles"
+    },
+    {
+      "mcat_id": "36451",
+      "mcat_name": "Rigid PVC Pipes"
+    }
+  ]
+}

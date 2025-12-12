@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676015541",
+  "gluser_id": "36792321",
+  "vintage_months": 54,
+  "bl_dau_oct": 7,
+  "customer_type": "STAR",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji sir aapne join nahi kiya?\\nExecutive: Ha aapka number save nahi hai na\\nCustomer: Sir par maine aapko whatsapp kiya na aapke 764 wale number pe jispe call kiya hai isse whatsapp kiya hai maine aapko kisi aur number pe whatsapp karna hai kya?\\nExecutive: Nahi nahi nahi wo number save nahi rehta hai na to link clickable nahi hota hai\\nCustomer: Click nahi hota aap us pe kuch revert kariye nahi aap ya to save kar lijiye ya to kuch hi hello ka message mujhe revert karenge na to bhi link pe click ho jayega wo whatsapp ka hi guidelines hai ki shayad ye aise unknown wagera ke liye\\nExecutive: Okay hai maine save kar liya abhi aapka number theek hai ho gaya hai wo na\\nCustomer: Ji ji ji to aap abhi isko aap to join join now ya jo bhi aap bol aa raha hoga wo kariye\\nExecutive: Ek second main aapko in kar rahi hu\\nCustomer: Uh sir aapke system mein voice hai matlab microphone iska sahi chal raha hai?\\nExecutive: Ji\\nCustomer: To hum ek hi jagah connect karte hain sir is pe system pe theek hai?\\nExecutive: Chalega chalega\\nCustomer: Ek second main apna microphone on kar leti hu\\nCustomer: Aur ye main call disconnect karti hu okay\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to join the meeting.\\n\n- Link not clickable due to unsaved number.\\n\n\\n\nResolution:\\n\n- Executive saved the customer's number.\\n\n- Agreed to connect on the system.\\n\n- Executive disconnected the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- joining meeting, whatsapp, link, microphone\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=10c08c7e-215b-4114-834d-5a508a69c4b1",
+  "ucid": "10c08c7e-215b-4114-834d-5a508a69c4b1",
+  "seller_categories": [
+    {
+      "mcat_id": "136164",
+      "mcat_name": "Soil Testing Services"
+    },
+    {
+      "mcat_id": "110037",
+      "mcat_name": "Environmental Clearance Service"
+    },
+    {
+      "mcat_id": "102126",
+      "mcat_name": "Water Treatment Services"
+    },
+    {
+      "mcat_id": "78482",
+      "mcat_name": "Laboratory Testing Services"
+    },
+    {
+      "mcat_id": "135964",
+      "mcat_name": "Drinking Water Analysis"
+    }
+  ]
+}

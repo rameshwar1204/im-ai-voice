@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674409157",
+  "gluser_id": "16494353",
+  "vintage_months": 41,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mansa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9717828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e672fcf-b790-4ef8-a498-e3baf55a3f4b",
+  "ucid": "9e672fcf-b790-4ef8-a498-e3baf55a3f4b",
+  "seller_categories": [
+    {
+      "mcat_id": "5850",
+      "mcat_name": "PET Jars"
+    },
+    {
+      "mcat_id": "147593",
+      "mcat_name": "Packaging Jar"
+    },
+    {
+      "mcat_id": "156504",
+      "mcat_name": "PET Cans"
+    },
+    {
+      "mcat_id": "1425",
+      "mcat_name": "PET Bottles"
+    },
+    {
+      "mcat_id": "185124",
+      "mcat_name": "Plastic Sweet Box"
+    }
+  ]
+}

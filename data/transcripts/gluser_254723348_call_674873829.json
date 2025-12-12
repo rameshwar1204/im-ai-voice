@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674873829",
+  "gluser_id": "254723348",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Haan sir boliye.\\nExecutive: Main MPT Enterprise se meri baat ho rahi hai?\\nCustomer: Hmm.\\nExecutive: Ji Param se baat kar raha hu IndiaMART se kaise hai?\\nCustomer: Haan ji?\\nExecutive: IndiaMART se Abhishek baat kar raha hu.\\nCustomer: Aapke account manager.\\nExecutive: Haan boliye. Tushar ji ne aapka number diya tha.\\nCustomer: Kisne diya tha?\\nExecutive: Tushar ji jo owner hai na MPT Enterprise ke.\\nCustomer: Hmm hmm.\\nExecutive: Unhone aapka number diya tha baat karne ke liye ki meri end se aapko welcome call aayegi. Matlab video meet karni hai aapse jisme aapko IndiaMART ke planning ke bare mein batayenge kaise use karna hai IndiaMART.\\nCustomer: Hmm hmm.\\nExecutive: Hmm. To ye sir aapka WhatsApp number hai?\\nCustomer: Haan WhatsApp number hai.\\nExecutive: To sir abhi free hai aap?\\nCustomer: Main 10 minute mein call karo.\\nExecutive: 10 minute mein call karu?\\nCustomer: Haan.\\nExecutive: Haan to ye batayiye aap video meet mobile pe join karenge ya system se join karenge?\\nCustomer: System se karunga iske liye to bol raha hu 10 minute wait karo main office mein pahunch jata hu.\\nExecutive: Achha achha koi nahi aur sir uske ek galti se by mistake ek concern raise hua tha kal.\\nCustomer: Haan.\\nExecutive: Theek hai to main usko close kar de raha hu unse meri baat hui thi abhi.\\nCustomer: Hai na?\\nExecutive: Kis ka?\\nExecutive: Haan sorry sorry se by mistake concern gauge hua tha I mean ticket raise hua tha. Interest video meeting for seller ke liye to wo main close kar de raha hu. To aapko main 10 minute mein call karu?\\nCustomer: Haan haan 10 minute mein call karo.\\nExecutive: Main ye keh raha hu aapko jo product pade hai aapke unke bare mein thodi knowledge hai?\\nCustomer: Kya?\\nExecutive: Jo aapne product dal rakhe hai IndiaMART pe unke bare mein aapko knowledge hogi na?\\nCustomer: Haan hai.\\nExecutive: Haan to main keh raha hu ki abhi aapko kitna time lagega system pe jaane ke liye 10 minute lagega. Are main bol raha hu 10 minute mein call karo.\\nExecutive: To main tab tak main kuch do teen product ke bare mein bata du iske baad fir video meet karte hai 10 minute baad. Jaise ki aapka ek product ka naam. Office pe pahunchunga kaise aap bahut bataoge to.\\nCustomer: Mujhe office pe pahunchne do. Haan bike se ja raha hu.\\nExecutive: Achha achha achha. Koi nahi sir theek hai jaiye aap. Main 10 minute baad connect karta hu aapko. Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a call after 10 minutes.\\n\n- A concern was raised by mistake.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 10 minutes.\\n\n- Executive is closing the concern raised by mistake.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- welcome call, video meet, products, concern\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 153,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1cc1a272-0b0b-4ba8-8fa8-40bbaab89d6a",
+  "ucid": "1cc1a272-0b0b-4ba8-8fa8-40bbaab89d6a",
+  "seller_categories": [
+    {
+      "mcat_id": "41570",
+      "mcat_name": "Zinc Ash"
+    },
+    {
+      "mcat_id": "4057",
+      "mcat_name": "Copper Scrap"
+    },
+    {
+      "mcat_id": "41588",
+      "mcat_name": "Zinc Powders"
+    },
+    {
+      "mcat_id": "227398",
+      "mcat_name": "Glycerin Soap Base"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    }
+  ]
+}

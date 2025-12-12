@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667361084",
+  "gluser_id": "83817334",
+  "vintage_months": 24,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635459",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good morning, IndiaMART se [inaudible] baat kar raha hu.\\nCustomer: Good morning sir.\\nExecutive: Sir, aapka IndiaMART pe listing hai, aapko pata hai?\\nCustomer: Haan pata hai.\\nExecutive: Sir, aapka jo listing hai, usme aapko call sahi aa rahe hai ya nahi aa rahe hai?\\nCustomer: Nahi aa rahe hai.\\nExecutive: Nahi aa rahe hai? Kab se nahi aa rahe hai?\\nCustomer: 15 din se nahi aa rahe hai.\\nExecutive: 15 din se nahi aa rahe hai? Theek hai sir, main aapka account check kar leta hu, ek minute dijiye mujhe.\\nCustomer: Haan.\\nExecutive: Sir, aapka company name bata sakte hai?\\nCustomer: [Name]\\nExecutive: [Name]? Theek hai sir, main aapko ek call back karta hu, theek hai?\\nCustomer: Theek hai.\\nExecutive: Thank you sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving calls on IndiaMART listing.\\n\n- Not receiving calls for the last 15 days.\\n\n\\n\nResolution:\\n\n- Executive offered to check the customer's account.\\n\n- Executive will call back the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, listing, calls\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=13a488b1-f45e-465e-84d3-f605f4d7a445",
+  "ucid": "13a488b1-f45e-465e-84d3-f605f4d7a445",
+  "seller_categories": [
+    {
+      "mcat_id": "185683",
+      "mcat_name": "Plastic Round Container"
+    },
+    {
+      "mcat_id": "95979",
+      "mcat_name": "Paper Grocery Bag"
+    },
+    {
+      "mcat_id": "6059",
+      "mcat_name": "Plastic Food Containers"
+    },
+    {
+      "mcat_id": "24967",
+      "mcat_name": "Clear Plastic Containers"
+    },
+    {
+      "mcat_id": "178214",
+      "mcat_name": "Plastic Disposable Trays"
+    }
+  ]
+}

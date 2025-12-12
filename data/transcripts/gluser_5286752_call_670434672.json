@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670434672",
+  "gluser_id": "5286752",
+  "vintage_months": 37,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666902",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "I'm sorry, this person is not available.\\nIf you would like to leave an additional message, please reply after the tone.\\nSir, we are trying to connect with you. Actually there was a ticket open from your side, sir, for the Imart Global. So we wanted to discuss. I'm calling from IndiaMART, sir. So if you could give us five minutes of yours for discussion of the services right now.\\nAlready I have discussed with one of your employees for the services. So sir, I just wanted to discuss once with you. Let me know when you are available, sir.\\nOkay sir. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss Imart Global services.\\n\n- Wants 5 minutes for discussion.\\n\n\\n\nResolution:\\n\n- Asked customer to inform about availability.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, discussion, availability\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba69c15b-87f2-473a-b229-01669f77cf0c",
+  "ucid": "ba69c15b-87f2-473a-b229-01669f77cf0c",
+  "seller_categories": [
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "17372",
+      "mcat_name": "Marble Dining Table"
+    },
+    {
+      "mcat_id": "443184",
+      "mcat_name": "Epoxy Resin Table"
+    },
+    {
+      "mcat_id": "181781",
+      "mcat_name": "Round Dining Table"
+    },
+    {
+      "mcat_id": "26510",
+      "mcat_name": "Dining Table Set"
+    }
+  ]
+}

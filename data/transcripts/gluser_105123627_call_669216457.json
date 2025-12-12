@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669216457",
+  "gluser_id": "105123627",
+  "vintage_months": 63,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhilai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638514",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: ha sir mai bol raha tha mai morning enterprise se bol raha tha na\\nExecutive: Ji ji ji sir\\nCustomer: sir mai bol raha hu ki isme jo maine buy lead di thi Saturday ke din to abhi mai sabko call kar raha hu to bol rahe hai ki nahi galti se chala gaya hai aur uske baad wo bolte hai ki nahi humko jarurat nahi hai usme matlab search kar raha tha google me uska wo galti se aa ja raha hai.\\nAisa ho raha hai sir.\\nExecutive: sir mai aapko do minute me call kar lunga meeting me bas mai actually do minute me call kar raha hu abhi aapko aap phone utha lijiye.\\nCustomer: Thik hai sir.\\nExecutive: Okay sir thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting incorrect buyleads.\\n\n\\n\nResolution:\\n\n- Executive will call back in 2 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 2 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google search, meeting\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ad85adaa-cc08-4969-aedf-2f16d6d5acd7",
+  "ucid": "ad85adaa-cc08-4969-aedf-2f16d6d5acd7",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "11734",
+      "mcat_name": "GC Sheets"
+    },
+    {
+      "mcat_id": "183187",
+      "mcat_name": "Mangalam Mild Steel Welding Rod"
+    },
+    {
+      "mcat_id": "159024",
+      "mcat_name": "Mild Steel Binding Wire"
+    },
+    {
+      "mcat_id": "207709",
+      "mcat_name": "Cumi Grinding Wheels"
+    }
+  ]
+}

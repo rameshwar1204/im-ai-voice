@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668635754",
+  "gluser_id": "69335333",
+  "vintage_months": 7,
+  "bl_dau_oct": 18,
+  "customer_type": "STAR",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647840",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, hi sir, good afternoon. \\nExecutive: Share this side from IndiaMART head office. \\nExecutive: Currently main aapka account dekh rahi hu, mujhe Divote information handle service, Manish sir se meri ki baat hoti hai. \\nExecutive: I guess aapse bhi hui hogi. \\nExecutive: Aapne abhi customer care pe call kiya tha na sir 9696 wale number pe hamare?\\nCustomer: No ma'am, galti se lag gaya hoga, bataiye.\\nExecutive: Achcha achcha, galti se lag gaya tha aapse. \\nExecutive: As such koi issue to kyunki kya hota hai na jaise main aapke account manager hu. \\nExecutive: Mera number dekhenge agar aap mera profile bhi updated hai, Share Shrivastava ke naam se mera WhatsApp number bhi email ID bhi hai. \\nExecutive: Hmm hmm. \\nExecutive: To agar as such koi dikkat ho to aap mujhe directly contact kar sakte hain. \\nExecutive: Agar main reachable nahi hu ya mera contact nahi ho pa raha hai. \\nExecutive: Aap sir 9696 pe ya customer care pe mail kar sakte hain. \\nExecutive: To ma'am ne bola ki shayad aapko koi issue hai is wajah se aapne call kiya ispe. \\nCustomer: Hmm.\\nExecutive: To as of now koi dikkat nahi hai na sir? Everything is alright?\\nExecutive: Shall I close your ticket?\\nExecutive: Aap tak aa rahi hai aapko?\\nCustomer: Ji ma'am, haan boliye boliye.\\nExecutive: Keh rahi hu as of now koi dikkat nahi hai, shall I close your ticket?\\nCustomer: Ji ma'am.\\nExecutive: Okay, to main jab close karungi na sir to aapke paas ek closure mail jayega. \\nExecutive: Hmm hmm. \\nExecutive: Aapke feedback ke liye. \\nExecutive: Hmm. \\nExecutive: Hum hoping aap positive feedback denge isme.\\nCustomer: Theek hai, okay. \\nExecutive: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called customer care by mistake.\\n\n\\n\nResolution:\\n\n- Executive confirmed no issue and closed the ticket.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, account manager, ticket closure\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7293c624-6531-4c59-b445-7b87ae5c94e3",
+  "ucid": "7293c624-6531-4c59-b445-7b87ae5c94e3",
+  "seller_categories": [
+    {
+      "mcat_id": "2900",
+      "mcat_name": "Dewatering Pump"
+    },
+    {
+      "mcat_id": "101119",
+      "mcat_name": "Submersible Dewatering Pump"
+    },
+    {
+      "mcat_id": "144664",
+      "mcat_name": "Pump Rental Services"
+    },
+    {
+      "mcat_id": "39233",
+      "mcat_name": "Submersible Sewage Pumps"
+    },
+    {
+      "mcat_id": "167553",
+      "mcat_name": "Dewatering Service"
+    }
+  ]
+}

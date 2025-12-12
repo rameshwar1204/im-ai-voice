@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670726660",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ha mene wo bhi jo buylead dikh rahi hai na wo abhi ek bhi mere mere kaam ki use nahi hai abhi. Kyunki wo subah driving cylinder the usme 1 liter likha hai usme 1 liter mere paas available nahi rehta. 3 liter, 6 liter, 9 liter deta hai mere paas.\\nExecutive: Thik hai to mai us time pe jab aapko. Cylinder, PVC gear gun wo sona tha cylinder PVC gear gun cylinder ki deal karta hu abhi mai.\\nExecutive: Accha thik hai to wo hum change kara lenge jab abhi video edit pe aayenge to.\\nCustomer: Ha ha PVC gear gun 3 liter, 6 liter, 9 liter ki dekho wo mai buylead wo consume karta hu sab.\\nExecutive: Thik hai thik hai wo mai change kara dungi aapko. Carbon steel mein wo steel mein wo.\\nCustomer: Ha abhi connect karte waqt dekh lete hai madam.\\nExecutive: Abhi?\\nCustomer: Nahi 3 baje, 3 baje.\\nExecutive: 3 baje. Ha thik hai mai 3 baje aapko call karti hu, thik hai?\\nCustomer: Ha okay okay thank you madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads are not relevant to the customer's needs.\\n\n- Customer needs buyleads for 3, 6, and 9-liter PVC gear guns.\\n\n\\n\nResolution:\\n\n- Executive agreed to change the product listing.\\n\n- Executive will call the customer at 3 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product listing, pvc gear gun\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7955c7d3-36af-425a-8720-7e8598223d9a",
+  "ucid": "7955c7d3-36af-425a-8720-7e8598223d9a",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

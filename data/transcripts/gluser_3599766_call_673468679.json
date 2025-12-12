@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673468679",
+  "gluser_id": "3599766",
+  "vintage_months": 4,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Rajsamand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Deepak ji very good very good evening.\\nExecutive: Good evening.\\nExecutive: Ji Pooja baat kar rahi thi sir IndiaMART se. Aapka sir feedback aaya hua tha na aapne kaha tha ki pura time denge then discuss kar payenge. To sir abhi ha to ab aap mujhe batayenge sir.\\nCustomer: Madam main abhi kaam mein hu ek ek ghanta to kaam mein hu madam.\\nExecutive: Abhi aap kaam mein hai?\\nCustomer: Ha.\\nExecutive: Sir ek priority basis pe time de dijiye na ye bhi important hai.\\nCustomer: Par madam main abhi kaam mein hu madam kaise abhi. Nahi nahi abhi ke liye nahi dekhiye aapne mujhe kaha tha na ki next day connect aap hai na kal kal kal aap mujhe call kare 11 12 baje madam.\\nExecutive: 11 12 baje.\\nCustomer: Ji ji.\\nExecutive: Theek hai sir to iska to already hamara time period matlab badh raha hai to kya main ye concern close kar sakti hu then main kal aapko connect kar lu.\\nCustomer: Nahi aap hai?\\nExecutive: Ji.\\nCustomer: Kya keh rahe ho?\\nExecutive: Main ye keh rahi hu jo aapne feedback diya tha na sir.\\nCustomer: Ha.\\nExecutive: Uska bhi already time period hota hai jo ki aur jyada badh raha hai.\\nCustomer: Par madam abhi main kaam mein hu kya karu batao.\\nExecutive: To sir main aapse ye puch rahi hu kya main ye concern close kar sakti hu then main aapko kal call kar lu.\\nCustomer: Ha aisa kar lo.\\nExecutive: To ye concern agar sir close karenge na to aapki register email id pe sir feedback jayega.\\nCustomer: Madam main meri baat suno main abhi to kaam mein hu par baad mein baat karte is bare mein madam.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and cannot discuss right now.\\n\n- Executive needs to discuss feedback urgently.\\n\n\\n\nResolution:\\n\n- Executive will call the customer next day.\\n\n- Executive will close the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, call schedule, time period\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8ad15800-52aa-4c37-93ea-595c718c2760",
+  "ucid": "8ad15800-52aa-4c37-93ea-595c718c2760",
+  "seller_categories": [
+    {
+      "mcat_id": "11673",
+      "mcat_name": "Dolomite Powder"
+    },
+    {
+      "mcat_id": "127548",
+      "mcat_name": "Potash Feldspar Powder"
+    },
+    {
+      "mcat_id": "127567",
+      "mcat_name": "Soda Feldspar Powder"
+    },
+    {
+      "mcat_id": "111300",
+      "mcat_name": "Feldspar Powder"
+    },
+    {
+      "mcat_id": "8923",
+      "mcat_name": "Quartz Powder"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668683607",
+  "gluser_id": "190290461",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9632734",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [inaudible] tha bahar.\\nCustomer: Bahar tha wo.\\nExecutive: Haan.\\nExecutive: Hello.\\nCustomer: Hello. Haan sir bol raha hu na ki aap ek mai apna mail id aapko de raha hu aap mujhe mail ek kar do theek hai aur mujhe screenshot apna laga do ki jaha pe aap data kar rahe ho theek hai aur wo usko apna team ko bhi aap dal do usme.\\nCustomer: Bhej do.\\nCustomer: Theek hai mai mail id aapko bhej diya hu aap uske sara screenshot aur kya problem aa rahi hai usme karne mein theek hai aur wo bhi aap dal dijiye ab video ho to video bhi dal dijiye.\\nCustomer: Ji.\\nCustomer: Mai keh raha hu jo agla size hai na usme.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to send a mail with screenshots.\\n\n- Facing problem while working.\\n\n\\n\nResolution:\\n\n- Executive asked to send mail with screenshots and video.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail id, screenshot, video, data\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b530d55b-74f3-4a66-9550-e2c22d0ceb09",
+  "ucid": "b530d55b-74f3-4a66-9550-e2c22d0ceb09",
+  "seller_categories": [
+    {
+      "mcat_id": "25982",
+      "mcat_name": "Tamper Proof Courier Bags"
+    },
+    {
+      "mcat_id": "184284",
+      "mcat_name": "Printed Courier Bag"
+    },
+    {
+      "mcat_id": "74486",
+      "mcat_name": "Slider Zip Bag"
+    },
+    {
+      "mcat_id": "445006",
+      "mcat_name": "Paper Courier Bag"
+    },
+    {
+      "mcat_id": "5709",
+      "mcat_name": "Paper Carry Bags"
+    }
+  ]
+}

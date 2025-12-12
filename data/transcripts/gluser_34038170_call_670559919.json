@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670559919",
+  "gluser_id": "34038170",
+  "vintage_months": 8,
+  "bl_dau_oct": 22,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Patna",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667189",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Yes, ma'am.\\nCustomer: Haan ji boliye.\\nExecutive: Main Durgesh baat kar raha hun. Haan, Durgesh baat kar raha hun main IndiaMART head office se.\\nCustomer: Ji bataiye sir.\\nExecutive: Haan ma'am actually aapka ek\\nCustomer: OTP isse nahi aa raha hai. Kya hai sab bataiye.\\nExecutive: Kya ma'am? Kya ma'am?\\nCustomer: Hum login login kar rahe hain na. Hello. Usi ke liye maine usi ke liye maine call kiya hun ma'am usi ke liye call kiya hun. Actually aapka ek complaint tha ki OTP nahi aa raha hai primary number pe, right?\\nCustomer: Haan haan.\\nExecutive: Haan to ek kaam ek kaam kijiye jo main aapko bata raha hun. Jo primary number mein jo inbox hai na jo OTP aata hai message ka inbox hai na usko aap usko wo kaafi bhar gaya hai iski wajah se wo aapke usko aap wo kar dijiye delete kar dijiye saara cheeze and then fir aapko OTP waha pe aayega message generate ho raha hai na?\\nCustomer: OTP generate ho raha hai na?\\nExecutive: Haan haan generate ho raha hai ma'am maine check kar liya apna tester. Haan to jo sir ka jo email ID jo message aata hai wo inbox full ho chuka hai usko aap delete kar dijiye fir aapko waha pe aapko to main jyada time nahi de paungi mere paas nahi nahi main aapko\\nExecutive: Ab main main aapko batata hun ma'am kya hota hai ki jab aapke message pe aapke jo\\nCustomer: Sir, itni si baat ke liye phone kiya aapne bola na ki inbox se main bolti hun sir ko kuch message delete karne do sir aa jayega fir uske baad fir main aapko aap call kijiye 3-4 baje tak call kijiye fir main baat karti hun main, theek hai?\\nExecutive: Nahi nahi baat aap kar lijiye koi issue nahi hai. To ye jo ticket hai isko main close kar du ya fir kya karu bata do main ticket sir ke paas mail jayega wo close kar dijiye hum dekh pa lete hai sir isliye pehle abhi close mat kijiye, theek hai na?\\nCustomer: Kya? Aaj aaj shaam mein aap mujhse feedback ek baar le lijiyega, theek hai?\\nExecutive: Ah ek second ma'am to jo bhi hai concern mujhe bata dijiyega kyuki on the call maine aapko correct kar diya ki kaise karna hai, theek hai?\\nCustomer: Theek hai sir.\\nExecutive: Okay no issue.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving OTP on primary number.\\n\nResolution:\\n\n- Executive suggested deleting messages from inbox.\\n\n- Executive explained the reason for not receiving OTP.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback in the evening.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- otp, inbox, primary number, message\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 141,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=99700ffa-4249-4efd-9ef9-9745338413c2",
+  "ucid": "99700ffa-4249-4efd-9ef9-9745338413c2",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "150473",
+      "mcat_name": "Polycarbonate Roofing Sheet"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    },
+    {
+      "mcat_id": "43482",
+      "mcat_name": "UPVC Windows"
+    },
+    {
+      "mcat_id": "177267",
+      "mcat_name": "UPVC Sliding Door"
+    }
+  ]
+}

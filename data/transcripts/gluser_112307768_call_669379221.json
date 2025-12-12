@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669379221",
+  "gluser_id": "112307768",
+  "vintage_months": 25,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655392",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hanji sir, Preetika baat kar rahi hu IndiaMART se.\\nCustomer: Haan.\\nExecutive: Hanji aapne bola tha na sir connect karne ke liye.\\nCustomer: To usme aapko karna hai aisa hai ki usme lead acche se aaye aur lead humko acchi mile wo karna hai wo aapki taraf se wo kar sakte ho na wo to.\\nExecutive: Sir wo cheez to theek hai but jo correction agar wagera hame karne padenge to uske liye aapka video meeting to hona jaruri hai na sir to aap mujhe bata do video meeting ke liye aap kab free hoge.\\nCustomer: Haan bolo abhi.\\nExecutive: Abhi to mai aapko link share kar du sir video meeting ke liye.\\nCustomer: Haan kar do.\\nExecutive: Theek hai to call disconnect mat karna sir system ke through aap matlab wo karna join theek hai to mai aapko ek bari dekho aapki primary email id pe aaya hoga Preetika Tyagi ke naam se ek video meeting ka link.\\nCustomer: Whatsapp pe bheja.\\nCustomer: Join with Google Meet.\\nExecutive: Haan.\\nExecutive: Voice call disconnect mat karna sir kyuki voice matlab clear nahi aati hai na fir us par.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants good quality buyleads.\\n\n- Executive needs video meeting for corrections.\\n\n\\n\nResolution:\\n\n- Executive shared video meeting link on email.\\n\n- Customer joined the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meeting, connection\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=67ccc82d-5ceb-49c4-998b-ca07eb27ba83",
+  "ucid": "67ccc82d-5ceb-49c4-998b-ca07eb27ba83",
+  "seller_categories": [
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "18414",
+      "mcat_name": "Quartz Crystal"
+    },
+    {
+      "mcat_id": "25166",
+      "mcat_name": "Crystal Stone"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    }
+  ]
+}

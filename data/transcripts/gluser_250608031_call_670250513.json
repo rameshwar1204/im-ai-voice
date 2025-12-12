@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670250513",
+  "gluser_id": "250608031",
+  "vintage_months": 3,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665852",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ma'am number de dijiye.\\nCustomer: Haan ji haan ji number note karo.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: 96\\nCustomer: Ek second hold kijiye.\\nExecutive: 96\\nCustomer: 554\\nExecutive: 9654\\nCustomer: Haan ji.\\nExecutive: Ji. 77\\nCustomer: 771183\\nExecutive: 1183. Lekin ma'am ye agar aapke boss ka number hai, to lekin unka call\\nCustomer: [inaudible]\\nCustomer: Haan.\\nCustomer: Chalaate hain IndiaMART ka wohi application dekhte hain, ek baar unse baat karo.\\nExecutive: But ma'am call aapke kis number se aaya tha jis number pe meri baat ho rahi hai? Call kiya kisne?\\nCustomer: Number se unhone call kar di laga di thi ma'am.\\nCustomer: Ab woh nahi hai idhar. Ek baar call kar lo woh apne cabin mein aap unse baat kar lo.\\nExecutive: To ye kaun hai? Ye owner hai? Jiska number aapne diya.\\nCustomer: Nahi nahi owner nahi hai ye. Ye application chalaate hain IndiaMART ki inse baat karo.\\nExecutive: Achcha. Aur IndiaMART ke customer care pe call kisne kiya? Owner ne?\\nCustomer: Nahi nahi owner ne nahi kari thi sir unhone hi kari thi yaar. Bata to rahi hu aapko.\\nExecutive: Theek hai.\\nCustomer: Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know who made the call.\\n\n\\n\nResolution:\\n\n- Customer stated someone else made the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number, owner, application\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=781a1524-671f-48d9-960d-c2d0fca8f93a",
+  "ucid": "781a1524-671f-48d9-960d-c2d0fca8f93a",
+  "seller_categories": [
+    {
+      "mcat_id": "177429",
+      "mcat_name": "Wedding Turban"
+    },
+    {
+      "mcat_id": "179279",
+      "mcat_name": "Safa"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

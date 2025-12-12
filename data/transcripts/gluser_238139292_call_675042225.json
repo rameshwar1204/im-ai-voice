@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675042225",
+  "gluser_id": "238139292",
+  "vintage_months": 10,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Neyyattinkara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687126",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji good afternoon sir.\\nExecutive: Bolo.\\nCustomer: Imran baat kar raha tha India Mart se kaise hai sir aap?\\nExecutive: Main free nahi hai main call karta hu free nahi hai sir.\\nCustomer: Achcha isko\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the executive's well-being.\\n\n\\n\nResolution:\\n\n- Executive stated they were busy and would call back later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to abrupt.\\n\n\\n\n\\n\n@@@Key Topics:\\n\nindia mart, call back\\n\n\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=918218ea-bc26-43fd-8e0a-e3fab57d751d",
+  "ucid": "918218ea-bc26-43fd-8e0a-e3fab57d751d",
+  "seller_categories": [
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    },
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "24750",
+      "mcat_name": "Chaff Cutter"
+    },
+    {
+      "mcat_id": "139284",
+      "mcat_name": "Electric Chaff Cutter"
+    }
+  ]
+}

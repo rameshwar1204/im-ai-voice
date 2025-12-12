@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669302115",
+  "gluser_id": "252652395",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Jabalpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8f6a81d6-0305-43a9-a989-7d1130813d89",
+  "ucid": "8f6a81d6-0305-43a9-a989-7d1130813d89",
+  "seller_categories": [
+    {
+      "mcat_id": "140259",
+      "mcat_name": "Clay Modifier"
+    },
+    {
+      "mcat_id": "36247",
+      "mcat_name": "Red Brick"
+    },
+    {
+      "mcat_id": "44158",
+      "mcat_name": "Chemical Hardener"
+    },
+    {
+      "mcat_id": "7635",
+      "mcat_name": "Soil Conditioner"
+    },
+    {
+      "mcat_id": "122123",
+      "mcat_name": "Cement Concrete Hardener"
+    }
+  ]
+}

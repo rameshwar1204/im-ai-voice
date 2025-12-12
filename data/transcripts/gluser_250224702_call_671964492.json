@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671964492",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Uh Hello ek second ek second sir. Zara sir ki baat.\\n\\nExecutive: Haan sir.\\n\\nCustomer: Hello?\\n\\nExecutive: Hello. Hello sir abhi service sir jo hai ek meeting mein hai. Main aapko paanch minute mein service connect karvati hu. Just five minutes please.\\n\\nCustomer: Okay ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Zara sir.\\n\n\\n\nResolution:\\n\n- Executive said Zara sir is in a meeting.\\n- Executive offered to connect in five minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will connect the customer in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, meeting\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0d780b9f-7e4d-4b94-b055-56ad2adf06da",
+  "ucid": "0d780b9f-7e4d-4b94-b055-56ad2adf06da",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

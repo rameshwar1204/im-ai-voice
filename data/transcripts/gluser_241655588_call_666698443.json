@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666698443",
+  "gluser_id": "241655588",
+  "vintage_months": 8,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661852",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Iru sir, phone aaythu nange beku antha helidre nanu nimage.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the phone.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to wait.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- phone, call\\n\n\\n",
+  "call_entered_on": "11/1/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=104e57b0-4646-4c6b-bd6f-fe5a81ce1e69",
+  "ucid": "104e57b0-4646-4c6b-bd6f-fe5a81ce1e69",
+  "seller_categories": [
+    {
+      "mcat_id": "33388",
+      "mcat_name": "Metal Punching Machines"
+    },
+    {
+      "mcat_id": "43500",
+      "mcat_name": "Cut to Length Machine"
+    },
+    {
+      "mcat_id": "140916",
+      "mcat_name": "Die Punching Machine"
+    },
+    {
+      "mcat_id": "78312",
+      "mcat_name": "Roll Forming Machine"
+    },
+    {
+      "mcat_id": "34852",
+      "mcat_name": "Punching Machine"
+    }
+  ]
+}

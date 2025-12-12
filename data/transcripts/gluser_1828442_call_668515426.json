@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668515426",
+  "gluser_id": "1828442",
+  "vintage_months": 32,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646676",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Haan ji Deepak sir aawaz aa rahi hai?\\nExecutive: Aa rahi hai sir. Haan ji mai bol raha hu sir video link bhej rakha hu aapko. Aap join ho jao.\\nCustomer: Hello. 15 baje ka time de de ek do minute sir. Sir 15 baje ka time de de quotation bana raha tha.\\nExecutive: Achha sir koi issue nahi hai sir. Mai 15 minute me kar leta hu. bana raha hu zara bhej do phir. Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants time at 3:00 PM.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 15 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video link, quotation, call time\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0c9914f5-0a57-44ba-84be-ca833d29821f",
+  "ucid": "0c9914f5-0a57-44ba-84be-ca833d29821f",
+  "seller_categories": [
+    {
+      "mcat_id": "5052",
+      "mcat_name": "Office Chairs"
+    },
+    {
+      "mcat_id": "204437",
+      "mcat_name": "Geeken Office Chairs"
+    },
+    {
+      "mcat_id": "35998",
+      "mcat_name": "Revolving Chair"
+    },
+    {
+      "mcat_id": "184588",
+      "mcat_name": "Mesh Executive Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    }
+  ]
+}

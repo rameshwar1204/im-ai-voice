@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671873295",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1a08cb31-773a-4a8c-b28a-2a9bec12ba58",
+  "ucid": "1a08cb31-773a-4a8c-b28a-2a9bec12ba58",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

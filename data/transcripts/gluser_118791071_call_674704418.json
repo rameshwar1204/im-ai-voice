@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674704418",
+  "gluser_id": "118791071",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kosi Kalan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Ji sir good afternoon.\\nCustomer: Ji bataye.\\nExecutive: Ji Mohit Singh ji Ankit baat kar raha tha IndiaMART se.\\nCustomer: Okay okay.\\nExecutive: Badhiya hai ji. Haan main hi keh raha tha maine us din bataya tha us din aapko buylead consume karna start karo catalog to active rakho kam se kam.\\nCustomer: Bhai sahab wo IndiaMART se pehle wo jo 15 lakh ka fraud hua hai usko batao pehle kya hoga uska. \\nExecutive: Sir wo IndiaMART se nahi hua hai fraud wo already uske bare mein discuss ho chuka hai aapka Sumit sir se bhi mujhse bhi.\\nCustomer: Koi baat nahi aap phone kato aur Sumit kato phone kato aur IndiaMART kato mujhe koi matlab nahi hai IndiaMART se. \\nExecutive: Wo to sir aapne bina confirmation ke kisi ko bhi payment kar diya tha na wo to already. Bhai sahab bhai sahab mujhe mistake ho gayi yaar galti ho gayi galti ho gayi jeevan ka sabse bada aaj tak maine behnchod hazaro crore ka kam kar diya mujhpe sabse pehli galti ye ho gayi jo maine apna is product ko IndiaMART mein registration kara diya.\\nExecutive: Product to sir market mein internet pe to register register karna hi hota hai na to uska matlab ye thodi hai. Mujhe nahi karna hota maine aaj tak apne jitne bhi kam kar rakhe hain mere kam se kam jyada bhi nahi jyada bhi nahi to saal mein 25 se 30 crore rupaye ka to mera lakdi ka kam hai lekin wo maine IndiaMART pe aaj tak nahi kiya hai add abhi bhi. Hmm.\\nCustomer: Wo main bhul ke bhul ke galti se is is chakkar mein aa gaya ki IndiaMART mein koi baat nahi IndiaMART wale phone kar rahe hain ye hai wo hai maine kaha kara leta hu.\\nExecutive: IndiaMART se sir kisi employee ne phone kara tha account manager ne to phone kara nahi tha.\\nCustomer: Are IndiaMART ke yaar number se inquiry aa rahi hai na IndiaMART mere naam se likha aa raha hai IndiaMART. \\nExecutive: To sir sir sir ek baat batao aapne kya bina confirmation ke kabhi kisi ko payment kyu diya kya IndiaMART gem portal ka registration karata hai aapne ye pata kara. Kya pata ye mujhe kya pata.\\nExecutive: Sir nahi pata hai to aapko pata karna chahiye tha ek bar mujhe call kar lete customer care pe call kar lete. Main ye keh raha hu aapko koi pareshani hai kya. Nahi nahi. Le gaye aapke yaha 40000 42 kitne gaye wo mere gaye. 15000 mere dusre chale gaye mujhe kam nahi karna aapko kya pareshani hai likh do customer agree nahi hai humse nahi karna chahta kam kya dikkat aa rahi hai aapko. Wo sir dekho nuksan to isme aapka hi hai na aapne investment kiya hai theek hai. Mujhe yaar mujhe nuksan se apne se chinta nahi hai hone do mera nuksan aapko meri fayda ki kya jarurat hai. Dekho fayde wali baat sir dekho aap jo sun ke aaye IndiaMART batao aapko aap kaun hote ho mera fayda karane wala mera fayda apne aap hota rahega aapko kya chinta hai meri jab mujhe ye apni chinta nahi hai. Aap kyu meri chinta karte ho?\\nExecutive: Koi dikkat nahi sir.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer complains about a 15 lakh fraud.\\n\n- Customer is angry about losing money.\\n\n- Customer does not want to work with IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive stated fraud not related to IndiaMART.\\n\n- Executive explained customer made payment without confirmation.\\n\n- Executive stated loss is customer's as they invested.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- fraud, payment, registration, loss\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 164,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ad5d1dfa-e3a2-4942-8f24-5264f660b5e0",
+  "ucid": "ad5d1dfa-e3a2-4942-8f24-5264f660b5e0",
+  "seller_categories": [
+    {
+      "mcat_id": "651654",
+      "mcat_name": "Mycorrhizal Bio Fertilizer"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    },
+    {
+      "mcat_id": "43849",
+      "mcat_name": "NPK Fertilizer"
+    },
+    {
+      "mcat_id": "187345",
+      "mcat_name": "Zinc Fertilizers"
+    },
+    {
+      "mcat_id": "177810",
+      "mcat_name": "Flowering Stimulant"
+    }
+  ]
+}

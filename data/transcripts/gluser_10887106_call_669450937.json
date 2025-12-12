@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669450937",
+  "gluser_id": "10887106",
+  "vintage_months": 115,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhubaneswar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656432",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ya, hi sir, Samreen this side. Aa rahi hai aawaz meri?\\nCustomer: Haan madam, aa rahi hai.\\nExecutive: Ji ji, main IndiaMART head office se hi baat kar rahi hoon, hai na? Recorded line se connect kiya hai maine abhi. To sir, yahan par aapne IndiaMART ka open kar liya tha seller panel, theek hai? Ab main aapko saari ek-ek feature bata deti hoon wahan pe kya-kya hai.\\nCustomer: Okay.\\nExecutive: Pehla to aapka dashboard hota hai, theek hai? Sabse top pe dikh raha hoga jo.\\nCustomer: Okay.\\nExecutive: Correct? Wahan dashboard mein aapko basic jo notification wagala wali cheeze hoti hai na, wo show hoti rehti hai, theek hai? Kuch recommendation aur add kar sakte ho product wagera, wo bhi recommend karta rehta hai wahan par, theek hai? Iske niche hai profile. Aapka jo profile bani hui hai isme, maan lijiye photo laga hai, logo laga hai, ya visiting card laga hai, wo sab yahan pe dikhta hai. Kaun sa number aapke primary hai, kaun sa alternate number hai, kaun si mail ID lagi hai, GST wagera wo sab dikhti hai wahan pe. Export import certificate bhi dikhta hai. Correct?\\nCustomer: Okay madam.\\nExecutive: Third number hai lead manager. Jitni bhi lead IndiaMART ke through aati hai, chahe wo direct inquiry ho ya direct call ho ya buylead ho, theek hai? Sab kuch aapko lead manager pe, ek tarah se hota hai na LMS software hota hai ya CRM jaante honge aap?\\nCustomer: Haan.\\nExecutive: Usi tarike se IndiaMART ne complimentary lead manager software diya hai. Ye lead manager, isme saari lead manage kar sakte ho aap jit, jahan-jahan se pure IndiaMART se jo-jo lead aapke paas aati hai, chahe wo direct inquiry ho, call ho ya messages ho, sara kuch. Correct?\\nCustomer: Okay madam.\\nExecutive: Theek hai. Aapko kaam karna hota hai uske niche hai ek buylead wala option.\\nCustomer: Buylead.\\nExecutive: Wahan mainly aapko kaam karna hota hai. Kaise? Wahan pe sabse top pe dekhoge to relevant aur recent likha aa raha hoga. Recent mein click karna hoga aapko.\\nCustomer: Okay.\\nExecutive: Maine aapko mail bheja hua hai. Dekhiye mail aaya aapko isi mail ID pe?\\nCustomer: Samreen.bano@\\nExecutive: Samreen Bano. Haan madam, aaya.\\nCustomer: Ji mail open kariye. Isme aa raha hoga join with Google Meet.\\nCustomer: Join with Google Meet aa raha hai madam.\\nExecutive: Haan. Aapke mobile, aapke system mein wo hai, mic wagera hai?\\nCustomer: Mic to nahi hai.\\nExecutive: Mic matlab wo hoga, aap on kariye usko, join now kariye.\\nCustomer: Okay.\\nExecutive: Main usme join hoon already. Yahan pe camera nahi hai na isiliye aapko mera Camera band kar dijiye, camera band kar dijiye, koi dikkat nahi hai. Aap bas join kar lijiye, theek hai? Ek minute rukiyega.\\nCustomer: Okay madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive explains IndiaMART seller panel features.\\n\n\\n\nResolution:\\n\n- Executive explained dashboard, profile, lead manager, buylead.\\n\n- Executive sent a Google Meet invite to the customer.\\n\n- Customer joined Google Meet.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- seller panel, features, lead manager, buylead, google meet\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 193,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8f4bfb2-3c34-432a-97cf-8db52be16895",
+  "ucid": "a8f4bfb2-3c34-432a-97cf-8db52be16895",
+  "seller_categories": [
+    {
+      "mcat_id": "43023",
+      "mcat_name": "Fly Ash Brick Making Machine"
+    },
+    {
+      "mcat_id": "5385",
+      "mcat_name": "Brick Making Machines"
+    },
+    {
+      "mcat_id": "192424",
+      "mcat_name": "Automatic Fly Ash Brick Plant"
+    },
+    {
+      "mcat_id": "41736",
+      "mcat_name": "Vibrating Tables"
+    },
+    {
+      "mcat_id": "42742",
+      "mcat_name": "Hydraulic Brick Making Machine"
+    }
+  ]
+}

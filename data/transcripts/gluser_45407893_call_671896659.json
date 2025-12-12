@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671896659",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Namaste sir, aapko 8:30.\\nHalo.\\nExecutive: Ha sir, halo.\\nCustomer: Halo Shubham baat kar raha hu main India Mart se.\\nExecutive: Abhi kuch improvement hua mam?\\nCustomer: Nahi sir, abhi koi improvement nahi hua hai. Aap bhi dekh sakte hai hamara account.\\nExecutive: Hamare yaha dikhta nahi hai na mam, hamare aap hi ke paas end pe rehta hai. Hamare yaha channel dikhta nahi hai.\\nCustomer: Nahi.\\nExecutive: Hai na? Isliye aisa hum aap se confirm lena padta hai aur phir hai na?\\nCustomer: Nahi sir, nahi hai improvement.\\nExecutive: Because hamari taraf se to sari cheeze jo honi chahiye mam wo sara humne kar diya. Aapke mapping se leke sari cheezo se leke listing se leke sab kar diya.\\nAb wo rahega flow up and down chalta rahega us hisab se aapke paas requirement aati rahegi mam. Wo upar neeche hota rahega.\\nCustomer: Up and down samajh nahi aata hai sir. Down down nahi na samajh mein aata hai sir.\\nExecutive: Mam aap sari aap kaise down keh rahe ho? Main to jitna dekh raha hu ki aapko jitna har mahine inquiry aata hai utna hi.\\nCustomer: Main October ki baat kar rahi hu sir aap October ki baat.\\nExecutive: Main har mahine main har mahine ki baat kar raha hu. Har mahine same hai aur abhi bhi November mein aapko matlab uske hisab se na\\nExecutive: thoda sa kam hai wo bhi month end tak pura aapka ho jayega inquiry.\\nCustomer: Bahut kam hai sir.\\nExecutive: To mam ek mahina kisi mahine dip ho sakta hai. Wahi to main aapko bol raha hu. Kisi mahina wo hamare hath mein thodi hota hai. Wo hota rehta hai upar neeche mam.\\nExecutive: Aur jaise ye ek mahina abhi dip hai 15 din kya pata abhi ye 15 din ke baad ekdum se shoot up kar jayega to wo badh jayega aapka inquiry.\\nCustomer: Matlab wo alag hai, uske baad alag hai, uske baad alag hai.\\nCustomer: Hmm.\\nCustomer: Thik hai sir.\\nExecutive: Hai na? Isliye kyuki aise transfer ke liye to wo ho nahi sakta isliye maine kaha wo bhi bata do aapko transfer possible nahi hai.\\nCustomer: Thik hai sir.\\nExecutive: Thik hai mam?\\nCustomer: Okay. Thik hai.\\nExecutive: Aap hamara number rakhiye koi bhi concern ho bataiye lekin hum thik karayenge na. Hum kyu nahi karayenge? Hum bhi to same hi kaam karte hai yaha pe. Koi alag thodi karte hai.\\nExecutive: Aur ya phir wo kuch alag aisa isme karte hai to aap mujhe batao main puch leta hu bhai ki kya alag isme karna hai. Sari cheeze kar diya mam aapki.\\nExecutive: Wo automatic aapka ye sab thik ho jayega inquiry flow. Thik hai?\\nCustomer: Thik hai.\\nExecutive: Copy ke liye aapka concern hum close kar de?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states no improvement in buyleads.\\n\n- Feels buyleads are significantly lower than previous months.\\n\n\\n\nResolution:\\n\n- Executive stated all possible actions were taken.\\n\n- Explained buyleads fluctuate and can increase.\\n\n- Clarified transfer of account is not possible.\\n\n\\n\nNext Steps: \\n\n- Executive asked to share concerns for resolution.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Negative | Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, account, transfer\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=205fe8db-d02e-44ea-90d8-d110fd3abb95",
+  "ucid": "205fe8db-d02e-44ea-90d8-d110fd3abb95",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

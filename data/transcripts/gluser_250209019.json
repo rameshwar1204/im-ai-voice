@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667298472",
+  "gluser_id": "250209019",
+  "vintage_months": 1,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634928",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Sir aap India Mart se bol rahe hain?\\nCustomer: Ji.\\nExecutive: Sir main Emress se bol rahi hu humne aapka package le rakha hai India Mart se.\\nExecutive: Trust kaunsa form se mam?\\nCustomer: Trust Seal wala le rakha hai sir.\\nExecutive: Mam company name puch raha tha.\\nCustomer: Yes sir. Emress Multi Product.\\nExecutive: Mam company name puch raha tha aapka.\\nCustomer: Sir main company name hi bata rahi hu Emress Multi Product Private Limited. Emress Multi Product Private Limited ye aapki Sonipat pe mam.\\nCustomer: Haan ji.\\nExecutive: Ji aap mujhe mam do minute de sakte hain na do minute mein aapko call back karu please.\\nCustomer: Okay ji. Within two minutes ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm about TrustSeal package.\\n\n\\n\nResolution:\\n\n- Executive confirmed about the TrustSeal package.\\n\n- Executive asked for 2 minutes to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 2 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, package, callback\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d7a01058-8173-46e2-bfb6-b2d35ff49c94",
+  "ucid": "d7a01058-8173-46e2-bfb6-b2d35ff49c94",
+  "seller_categories": [
+    {
+      "mcat_id": "149941",
+      "mcat_name": "Pharma PET Bottles"
+    },
+    {
+      "mcat_id": "1425",
+      "mcat_name": "PET Bottles"
+    },
+    {
+      "mcat_id": "10656",
+      "mcat_name": "Amber Glass Bottle"
+    },
+    {
+      "mcat_id": "191159",
+      "mcat_name": "Pharma Glass Bottle"
+    },
+    {
+      "mcat_id": "84685",
+      "mcat_name": "PET Water Bottle"
+    }
+  ]
+}

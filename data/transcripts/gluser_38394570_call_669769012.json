@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669769012",
+  "gluser_id": "38394570",
+  "vintage_months": 23,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634355",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nCustomer: Hello. Good morning, ma'am. I'm talking from [inaudible] marketing.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer introduced themself from [inaudible] marketing.\\n\n\\n\nResolution:\\n\n- N/A\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, marketing\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e2bee4ad-a295-4bf3-b28a-bfa16179a233",
+  "ucid": "e2bee4ad-a295-4bf3-b28a-bfa16179a233",
+  "seller_categories": [
+    {
+      "mcat_id": "20999",
+      "mcat_name": "Boring Bars"
+    },
+    {
+      "mcat_id": "68411",
+      "mcat_name": "Chamfer Cutter"
+    },
+    {
+      "mcat_id": "3717",
+      "mcat_name": "Chamfering Tools"
+    },
+    {
+      "mcat_id": "28196",
+      "mcat_name": "Face Milling Cutters"
+    },
+    {
+      "mcat_id": "25061",
+      "mcat_name": "CNC Tools"
+    }
+  ]
+}

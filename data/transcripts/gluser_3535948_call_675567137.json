@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675567137",
+  "gluser_id": "3535948",
+  "vintage_months": 6,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714646",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Haan kaun?\\nExecutive: Hello\\nCustomer: Haan kaun bol raha hai?\\nCustomer: Sir aawaaz aa rahi hai?\\nExecutive: Haan kaun bol raha hai?\\nCustomer: Asal mein Hemant baat kar raha hu sir India Mart se.\\nExecutive: Haan bolo.\\nCustomer: Sir aapki services ke liye call kiya tha sir services ke liye kaun use kar raha hai sir aap use kar rahe hain ki kaun use kar raha hai? Kyunki sir abhi Rahul ne mujhe bataya ki sir aapko jankari chahiye thi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inquire about services.\\n\n- Ask who is using the services.\\n\n- Rahul informed that the executive needed information.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nservices, information\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a47c0a4d-2202-48bc-90b8-2f13b912592c",
+  "ucid": "a47c0a4d-2202-48bc-90b8-2f13b912592c",
+  "seller_categories": [
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "152789",
+      "mcat_name": "Pine Wood Planks"
+    },
+    {
+      "mcat_id": "34056",
+      "mcat_name": "Pinewood"
+    },
+    {
+      "mcat_id": "2990",
+      "mcat_name": "Teak Wood"
+    },
+    {
+      "mcat_id": "39675",
+      "mcat_name": "Teak Wood Logs"
+    }
+  ]
+}

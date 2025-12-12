@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668323007",
+  "gluser_id": "241391579",
+  "vintage_months": 2,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643591",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello, mera naam Gaurav baat kar raha tha IndiaMART se.\\nCustomer: Hello\\nCustomer: Hello haan.\\nExecutive: Haan ji mam, Gaurav baat kar raha tha IndiaMART se.\\nCustomer: Ji.\\nExecutive: Ji mam, wo address vagarah ka jo tha na wo maine team ko forward kar diya aapke upar field support ke liye aur jo aapne documents vagarah diye the additionally ki waha pe agar field support available ho aur GST mein. To team ka jaise hi revert aata hai main aapko confirm kar dunga. Waise kal tak ho jayega shayad unhone bola. Waha pe available hai pin code maine check kiya hai. Waha pe aapka field support available hai. To I think waha pe aapka ho jayega transfer. Theek hai mam?\\nCustomer: Okay.\\nExecutive: Baki aapne 96 pe call kiya tha wo ticket open ho gaya to main usko close kar deta hu. Theek hai mam?\\nCustomer: Okay chalega.\\nExecutive: Aap feedback de dijiye. Baki ek cheez aur bhi bola tha shayad Vishal jo field wale hain wo aapke paas gaye bhi the to unhone bataya hoga mam wo domain ke regarding.\\nCustomer: [inaudible]\\nExecutive: To uska kya hai ki ek bar aap dekh lijiyega sir se bol ke usko kal process karwa dijiyega. Kyunki kya hai na ki wo day by day prices increase ho rahe hain. Kyunki fir wo mail pe jo humne diya hai na aapko wo humne diya hua hai usme adjustment amount day by day badhta jata hai. Wo thoda thoda fir daily increase ho jayega. \u20b9300 daily.\\nCustomer: Haan sir ne bataya hai.\\nExecutive: Haan to wo fir sir bolenge nahi to ki ye price diya tha fir wahi isliye kyunki sir fir lagega ki sir fir \u20b9300 kaise badh gaye. Actually maine wo sir ko update kar diya hai ki uske matlab amount hai wo badhti rahegi.\\nExecutive: Haan kyunki wo daily basis pe rehta hai na mam.\\nCustomer: Hmm.\\nExecutive: Haan maine baki Vishal ko sab kuch samjha diya tha. Unhone bola theek hai aap wo forward kar do maine bata bhi diya hai ki waha pe pin pe available hai hamara field support. To wo ek bar agar ho jayega possible to waha pe transfer karwa denge hum.\\nCustomer: Theek hai chalega.\\nExecutive: Theek hai. Baki maine aapne 96 pe call kiya tha main close kar deta hu aapka ticket.\\nCustomer: [inaudible]\\nExecutive: Theek hai mam?\\nCustomer: Okay.\\nExecutive: Okay aap feedback de dijiyega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs field support for address change.\\n\n- Customer needs domain processed.\\n\n\\n\nResolution:\\n\n- Executive forwarded address change request to team.\\n\n- Executive informed about domain price increase.\\n\n- Executive offered to close ticket for previous call.\\n\n\\n\nNext Steps: \\n\n- Customer to discuss domain processing with sir.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- field support, address change, domain, prices, ticket\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d91497c-0651-4ae4-b10b-8f8f33ce5615",
+  "ucid": "8d91497c-0651-4ae4-b10b-8f8f33ce5615",
+  "seller_categories": [
+    {
+      "mcat_id": "85223",
+      "mcat_name": "Loading Unloading Services"
+    },
+    {
+      "mcat_id": "171032",
+      "mcat_name": "Machine Shifting Services"
+    },
+    {
+      "mcat_id": "110658",
+      "mcat_name": "Factory Shifting Service"
+    },
+    {
+      "mcat_id": "110420",
+      "mcat_name": "Local Shifting Service"
+    },
+    {
+      "mcat_id": "43542",
+      "mcat_name": "Plant & Equipment Erection Services"
+    }
+  ]
+}

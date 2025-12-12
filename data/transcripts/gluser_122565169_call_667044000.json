@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667044000",
+  "gluser_id": "122565169",
+  "vintage_months": 18,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632306",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji madam.\\nExecutive: Haan sir.\\nCustomer: Hello awaz aa rahi hai aapko?\\nExecutive: Haan aa rahi hai.\\nCustomer: Theek hai. Theek hai theek hai. Sir ek minute.\\nExecutive: 62% aur ho jata 62% ho jata.\\nCustomer: Okay. Sir aap company ka name batayenge mujhe?\\nExecutive: Adil Marble.\\nCustomer: Okay okay theek hai sir. Actually mein sir aapne hamari customer care number pe call kiya to waha company name nahi aata hai.\\nAchha sir ab aapko na main ek video meet ka link share kar rahi hu aap please usko join kariye. Wo join kar lenge na aap mobile phone se?\\nTabhi aapka resolution ho payega sir. Mobile phone se main aapko ek video meet ka link share karungi theek hai. To usko aap join kariye jab aap usko join karenge to main aapko screen share karungi aur aap agar aapne apne phone mein app download ki hai to aap bhi please share kar sakte hain. To dekhiye main aapko share kar rahi hu whatsapp pe kar du aapko? Ya aap email pe bhi main ye keh rahi hu aapko google meet link share kiya hai maine aapko aapko problem aa rahi hai na aapko customer nahi mil raha hai buyer nahi mil raha hai aapki ye bahut concern hai matlab char panch mahine se teen char mahine se ye problem hai aapko. To us cheez ke liye main aapko aaj google meet ka maine ek link share kiya hai aapke paas google meet gaya hoga invite aap mail check kariye waha pe.\\nExecutive: Haan.\\nCustomer: Aap mail check kariye aur waha pe se join kariye. Maine join kar liya hai aap join kariye.\\nExecutive: Thoda ruko.\\nCustomer: Haan haan kariye.\\nExecutive: Yes kiya maine abhi.\\n[music]\\nYou are speaking to a person who has put your call on hold. Please stay on the line.\\nCustomer: Aap jis vyakti se baat kar rahe hain usne aapki call ko hold par rakha hai. Kripya line par bane rahe.\\n[music]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting buyers.\\n\n- Company name not visible on customer care calls.\\n\n\\n\nResolution:\\n\n- Executive shared a Google Meet link.\\n\n- Asked customer to join the meet.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive put the call on hold.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, company name\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 142,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f3d9f58c-81d7-4039-86a3-184373a863ff",
+  "ucid": "f3d9f58c-81d7-4039-86a3-184373a863ff",
+  "seller_categories": [
+    {
+      "mcat_id": "9866",
+      "mcat_name": "Marble Pillars"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

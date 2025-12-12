@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670452540",
+  "gluser_id": "2985322",
+  "vintage_months": 89,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\u0964\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930 \u0905\u0928\u0941\u0930\u093e\u0917 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0907\u0902\u0921\u093f\u092f\u093e \u0938\u0947\u0964\\nExecutive: \u0939\u093e\u0902 \u091c\u0940 \u0905\u0928\u0941\u0930\u093e\u0917 \u091c\u0940 \u0905\u092d\u0940 \u0925\u094b\u0921\u093c\u093e \u092c\u093f\u091c\u0940 \u0939\u0942\u0902 \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092b\u094d\u0930\u0940 \u0939\u094b \u0915\u0947 \u0915\u0949\u0932 \u0915\u0930\u0942\u0902\u0917\u093e \u0938\u0930\u0964\\nCustomer: \u0920\u0940\u0915 \u0939\u0948\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer, Anurag, calling from India.\\n\n\\n\nResolution:\\n\n- Executive stated being busy and will call back later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, india\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=62cb0837-d3d2-46d0-a852-d237f8bfa2e3",
+  "ucid": "62cb0837-d3d2-46d0-a852-d237f8bfa2e3",
+  "seller_categories": [
+    {
+      "mcat_id": "1824",
+      "mcat_name": "Hotel & Restaurant Furniture"
+    },
+    {
+      "mcat_id": "95440",
+      "mcat_name": "Outdoor LED Video Display"
+    },
+    {
+      "mcat_id": "138613",
+      "mcat_name": "VRF System"
+    },
+    {
+      "mcat_id": "214801",
+      "mcat_name": "Hitachi Duct AC"
+    },
+    {
+      "mcat_id": "22111",
+      "mcat_name": "Aroma Diffuser"
+    }
+  ]
+}

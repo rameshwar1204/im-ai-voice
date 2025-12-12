@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672770540",
+  "gluser_id": "30579152",
+  "vintage_months": 75,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9689687",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hanji.\\nCustomer: Hello.\\nExecutive: Hanji batao. Are mam wo galti se lag gaya tha. Mai actually buyer wale us pe laga raha tha to mere ko laga wo wahi number hoga.\\nCustomer: Accha, theek hai sir theek hai. Aapke ek aise ek concern raise ho gaya tha incoming call ka. To wo mai close kar rahi hu. In case kuch issue aata hai to aap mujhe directly call kar lijiyega.\\nExecutive: Theek hai theek hai theek hai.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Incoming call concern was raised.\\n\n\\n\nResolution:\\n\n- Executive says the call was a mistake.\\n\n- Customer is closing the raised concern and asks to be contacted directly if any issue arises.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to resolved\\n\n\\n\n@@@Key Topics:\\n\naccidental call, concern closure\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bf41902-5a10-4dc4-9a7d-bc22d06b70b6",
+  "ucid": "0bf41902-5a10-4dc4-9a7d-bc22d06b70b6",
+  "seller_categories": [
+    {
+      "mcat_id": "182108",
+      "mcat_name": "APC Online UPS"
+    },
+    {
+      "mcat_id": "184097",
+      "mcat_name": "Luminous Online UPS"
+    },
+    {
+      "mcat_id": "178993",
+      "mcat_name": "Voltas Water Cooler"
+    },
+    {
+      "mcat_id": "193882",
+      "mcat_name": "Microtek UPS"
+    },
+    {
+      "mcat_id": "4670",
+      "mcat_name": "Aluminium Beverage Cans"
+    }
+  ]
+}

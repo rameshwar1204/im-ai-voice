@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676400348",
+  "gluser_id": "183351350",
+  "vintage_months": 33,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Vijayapura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Hello?\\nCustomer: Ji Kunal sir baat kar rahe hain kya?\\nExecutive: Haan bol raha hoon.\\nCustomer: Haan ji good afternoon sir main Tauheed baat kar rahi hoon aapke account manager India Mart se.\\nExecutive: Uh sir kuch problem face ho rahi thi aapne call ki thi aapki baat ho gayi?\\nCustomer: Ho gaya ho gaya.\\nExecutive: Sort out ho gaya? Right to sir aap complaint close kar de sir?\\nCustomer: Haan close kar do.\\nExecutive: Okay okay thank you so much sir for aapke paas sir feedback jayega main feedback response aapne jo call kiya tha uske liye and I hope ki sir you are satisfied then please mark satisfy also. Okay?\\nExecutive: So hamare aage ki servicing ke liye sir wo better rahega. Okay?\\nCustomer: Okay.\\nExecutive: Theek hai thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired if he was speaking with Kunal.\\n\n- Customer had some problem and called regarding it.\\n\n\\n\nResolution:\\n\n- The issue was sorted out.\\n\n- Executive asked to close the complaint.\\n\n- Executive requested to mark as satisfied in the feedback.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncomplaint, feedback, satisfaction\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=49ef3699-4c29-43e5-bcf4-695c1dc87d81",
+  "ucid": "49ef3699-4c29-43e5-bcf4-695c1dc87d81",
+  "seller_categories": [
+    {
+      "mcat_id": "39112",
+      "mcat_name": "Sunflower Seeds"
+    },
+    {
+      "mcat_id": "113722",
+      "mcat_name": "Maize"
+    },
+    {
+      "mcat_id": "218530",
+      "mcat_name": "Organic Sunflower Seeds"
+    },
+    {
+      "mcat_id": "41550",
+      "mcat_name": "Yellow Corn"
+    },
+    {
+      "mcat_id": "36709",
+      "mcat_name": "Safflower Seeds"
+    }
+  ]
+}

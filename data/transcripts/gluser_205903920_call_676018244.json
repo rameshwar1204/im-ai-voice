@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676018244",
+  "gluser_id": "205903920",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Baraut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714920",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Haanji sir, namaste, main IndiaMART se call kar raha hun.\\nCustomer: Namaste.\\nExecutive: Hello.\\nCustomer: Yes.\\nExecutive: Haanji sir, main IndiaMART se baat kar raha hun sir.\\nCustomer: Yes sir.\\nExecutive: Uh, sir baat kar sakta hun aapse? Free hain abhi?\\nCustomer: Haan sir, free hun.\\nExecutive: Uh, sir ye keh raha tha, sir baat hui thi, toh services ke bihaf mein main aapko guide kar dun sir main?\\nCustomer: Haan sir, bataiye.\\nExecutive: Hello.\\nCustomer: Haan sir, bol sakte ho.\\nExecutive: Main keh raha hun sir ki services ke bihaf pe aapko meeting kar sakta hun sir? Koi time bata sakte hain?\\nCustomer:\\nExecutive: Time.\\nCustomer: Meeting mein kya karna hai, woh batao.\\nExecutive: Sir, meeting mein sir hum aapko services ke bihaf pe guide karenge ki kaise business aap gain kar sakte hain sir IndiaMART se.\\nCustomer: Hmm.\\nExecutive: Ji. Toh koi time bata sakte hain sir?\\nCustomer: Sir, aadhe ghante mein free ho jaunga.\\nExecutive: Aadhe ghante baad?\\nCustomer: Aadhe ghante mein.\\nExecutive: Main aadhe ghante baad call karun sir aapko?\\nCustomer: Yes sir.\\nExecutive: Theek hai.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai sir.\\nCustomer: Papa.\\nCustomer: Papa ji?\\nCustomer: Are you?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know the meeting agenda.\\n\n\\n\nResolution:\\n\n- Executive offered to guide on business gains.\\n\n\\n\nNext Steps: \\n\n- Executive will call after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, meeting, business\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=470823c0-4ffa-4d78-b6fc-21707e671d0e",
+  "ucid": "470823c0-4ffa-4d78-b6fc-21707e671d0e",
+  "seller_categories": [
+    {
+      "mcat_id": "4395",
+      "mcat_name": "Cycle Frame"
+    },
+    {
+      "mcat_id": "99323",
+      "mcat_name": "Stainless Steel Chair"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "172972",
+      "mcat_name": "Basketball Pole"
+    },
+    {
+      "mcat_id": "222060",
+      "mcat_name": "Metco Table Tennis Table"
+    }
+  ]
+}

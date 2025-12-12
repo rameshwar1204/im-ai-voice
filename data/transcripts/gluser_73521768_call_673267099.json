@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673267099",
+  "gluser_id": "73521768",
+  "vintage_months": 1,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Haan sir, aap trading mein baat ho rahi hai?\\nCustomer: Haan boliye.\\nExecutive: Sir actually aaj aapko online aana tha na to isi vajah se hum wait kar rahe hain.\\nCustomer: Madam aaj to hamara chutti hai madam.\\nExecutive: Nahi but aapne aaj ka time diya tha sir.\\nCustomer: Aaj ka time kise diya tha? Kal hi to baat hua tha.\\nExecutive: Haan to Shivam ji se aapne bola hoga na ki aaj aap online aana hai.\\nCustomer: Nahi baat hi kal baat hi nahi kiya na kal chutti hai kal baat karenge sir.\\nExecutive: Sir aapne aaj ke vakt diya tha isiliye humne call kiya hai. Chutti category to nahi ban pa rahi hai sir.\\nCustomer: Wo to category nahi ban payegi to kuch matlab nahi hai hamara fir wo to yaar.\\nExecutive: Wahi cheez hai sir aur bhi best possible jo bhi buylead cater kaise karna hai search kaise karna hai wo hum discuss kar rahe the.\\nCustomer: Ek kaam kar ek ek kaam karo madam kal phone karna.\\nExecutive: Sir aaj hi baat honi thi na sir. Aaj kar bhi lete.\\nCustomer: Meri baat suno aaj chutti hai hamara company factory band hai aaj.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states today is a holiday.\\n\n- Category is not being created.\\n\n\\n\nResolution:\\n\n- Executive called as customer gave time for today.\\n\n- Executive wanted to discuss buylead catering and search.\\n\n\\n\nNext Steps: \\n\n- Customer asked the executive to call tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- holiday, category, buyleads\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c835386c-183e-45f0-9fc9-9c1cddc45788",
+  "ucid": "c835386c-183e-45f0-9fc9-9c1cddc45788",
+  "seller_categories": [
+    {
+      "mcat_id": "161156",
+      "mcat_name": "Box Culvert"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "221075",
+      "mcat_name": "Precast Concrete Machine"
+    },
+    {
+      "mcat_id": "36374",
+      "mcat_name": "Retaining Walls"
+    },
+    {
+      "mcat_id": "84185",
+      "mcat_name": "Column Mould"
+    }
+  ]
+}

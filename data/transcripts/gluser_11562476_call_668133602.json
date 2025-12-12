@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668133602",
+  "gluser_id": "11562476",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Bareilly",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626387",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Good afternoon sir, Mohammad Arbaz baat kar raha hu IndiaMART se.\\nCustomer: Ji bataiye.\\nExecutive: Haan sir, jo aapka concern tha, wo resolve hua kya? Koi banda vagaira aaya aapke paas milne ke liye?\\nCustomer: Koi nahi aaya bhaiya.\\nExecutive: Baat vaat nahi hui hai aapki Rahul sir se bhi baat hui hai mere jo manager hai unse.\\nCustomer: Baat hui hai meri lekin wo ye tha ki wo online hi dekh ke batana chah rahe hain sab kuch.\\nExecutive: Achha, sir aisa hota hai na, matlab hamara kaam kya rehta hai, hamara kaam sara online aapka karne ka rehta hai, kyunki hum sir, main sir pata hai kahan se baat kar raha hu abhi, main aapse Noida se baat kar raha hu. Main koi sales person nahi hu, main sirf servicing hi dekhta hu proper.\\nCustomer: To sir hamara kaun dekh raha hai account? Hamari profile kaun dekh raha hai?\\nExecutive: Account sir ab se hum hi dekh rahe hain aapka, aapko jo bhi problem hai to aap hame batayenge to hum aapka online theek kar denge jo bhi problem rahegi aapki.\\nCustomer: Chalo aisa karta hu main jo abhi hospital mein hu, main abhi ek ghante ke baad call karta hu tumhen, theek hai?\\nExecutive: Ek ghante ke baad matlab 3 baje?\\nCustomer: Haan 3 ya 3:30 baje kar.\\nExecutive: Theek hai, theek hai, dhyan se kariye, okay.\\nCustomer: Okay.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's concern was not resolved.\\n\n- No one came to meet the customer.\\n\n- Wants to know who is handling his account.\\n\n\\n\nResolution:\\n\n- Executive informed that they handle accounts now.\\n\n- Executive offered to fix the problem online.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, account, profile, online support\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1dc94ba8-3d0e-4555-af75-ff9c767f2716",
+  "ucid": "1dc94ba8-3d0e-4555-af75-ff9c767f2716",
+  "seller_categories": [
+    {
+      "mcat_id": "179028",
+      "mcat_name": "Blue Star Water Cooler"
+    },
+    {
+      "mcat_id": "95324",
+      "mcat_name": "Stainless Steel Hood"
+    },
+    {
+      "mcat_id": "179008",
+      "mcat_name": "Daikin Split Air Conditioners"
+    },
+    {
+      "mcat_id": "140004",
+      "mcat_name": "Air Conditioner Installation Services"
+    },
+    {
+      "mcat_id": "184103",
+      "mcat_name": "Blue Star Split Air Conditioners"
+    }
+  ]
+}

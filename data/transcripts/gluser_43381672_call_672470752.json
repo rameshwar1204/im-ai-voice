@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672470752",
+  "gluser_id": "43381672",
+  "vintage_months": 33,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Valsad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9684255",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ha, Pardi, Namaste.\\nCustomer: Namaste.\\nExecutive: Ha sir, Akash Pandey India Mart se sir.\\nCustomer: Ha sir, boliye.\\nExecutive: Ha ha, sir apna kal baat ho raha tha jo hai service ka.\\nCustomer: Ha sir.\\nExecutive: To aap aapne partner se discuss kar le sir abhi jo aapke partner hai wo sir aapse baith jaye.\\nCustomer: Sir abhi possible nahi hai kyuki abhi main kaam mein hu. Aap mere ko sir ek code bhejiye approx. To us hisab se main aap main baat kar lunga unse aur aapko bata dunga jo bhi hai sir. Aap ek approx code bhejiye mere ko.\\nExecutive: Thik hai sir, main code aapko kar ke bhejta hu. Prefer idhar hai prefer idhar hai.\\nCustomer: Dono ka na? Ha ha dono pura bifurcation ke sath bhejiye ga sir. To main unse baat kar saku.\\nExecutive: Thik hai sir agar hum is koshish\\nCustomer: Koshish kariyega sir ki isi month mein ho jaye to hum additional bhi cheeze jo bhi available hoga hamare paas hum wo bhi kara ke de denge aapko.\\nCustomer: Sure sir.\\nExecutive: Chaliye thik hai sir. Okay okay sir. Hello sir, hello.\\nCustomer: Ha sir boliye. Sir aapko kal mera meeting karne ke baad na ek feedback gaya hoga mera. Ha aapne usme negative mark kar diya tha aisa kyu?\\nExecutive: Sir nahi ho sakta aisa to.\\nCustomer: Achcha what is this? Achcha aisa nahi tha?\\nCustomer: Nahi nahi.\\nExecutive: Okay okay okay. Nahi wo hamare paas aa gaya tha ki aapne satisfied ka un satisfied ka mark diya hua tha.\\nCustomer: Sir shayad wo bache ne kiya hoga phone se to malum nahi hai kuch.\\nExecutive: Okay okay. Chaliye thik hai sir koi baat nahi. Ha ha sir.\\nCustomer: Namaste.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants an approximate code.\\n\n- Customer marked negative feedback.\\n\n\\n\nResolution:\\n\n- Executive agreed to send the code.\\n\n- Executive clarified about feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- code, feedback, service, meeting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03b912d5-880d-4940-9fb1-c1323be9e049",
+  "ucid": "03b912d5-880d-4940-9fb1-c1323be9e049",
+  "seller_categories": [
+    {
+      "mcat_id": "1434",
+      "mcat_name": "Car Paints"
+    },
+    {
+      "mcat_id": "119257",
+      "mcat_name": "Self Adhesive Membrane"
+    },
+    {
+      "mcat_id": "189430",
+      "mcat_name": "Nerolac Emulsion Paints"
+    },
+    {
+      "mcat_id": "27944",
+      "mcat_name": "Epoxy Paints"
+    },
+    {
+      "mcat_id": "185017",
+      "mcat_name": "Asian Emulsion Paints"
+    }
+  ]
+}

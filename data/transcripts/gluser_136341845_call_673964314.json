@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673964314",
+  "gluser_id": "136341845",
+  "vintage_months": 2,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699764",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u093e\u0902 \u091c\u0940\u0964\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930 \u0928\u092e\u0938\u094d\u0915\u093e\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0938\u0930\u0964\\nExecutive: \u0915\u0932 \u0938\u0941\u092c\u0939 11:00 \u092c\u091c\u0947 \u0915\u0949\u0932 \u0915\u0930\u093f\u090f \u0925\u094b\u0921\u093c\u093e \u092e\u0948\u0902 \u092c\u093e\u0939\u0930 \u0928\u093f\u0915\u0932 \u0917\u092f\u093e \u0911\u092b\u093f\u0938 \u0938\u0947 \u0905\u092c \u0915\u0932 \u0938\u0941\u092c\u0939 \u092c\u093e\u0924 \u0939\u094b\u0917\u0940 \u0939\u092e\u093e\u0930\u0940\u0964\\nExecutive: \u0905\u091a\u094d\u091b\u093e \u091c\u0940\u0964\\nExecutive: \u0920\u0940\u0915 \u0939\u0948\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back tomorrow at 11:00 AM.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer needs to call back tomorrow at 11:00 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, callback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f0d1e7e2-ec21-41e1-9913-f8b6c29e2de2",
+  "ucid": "f0d1e7e2-ec21-41e1-9913-f8b6c29e2de2",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "315617",
+      "mcat_name": "Mild Steel Portable House"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

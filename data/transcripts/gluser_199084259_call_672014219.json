@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672014219",
+  "gluser_id": "199084259",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679191",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ae watan watan mere aabad rahe tu.\\nCustomer: Ae watan watan mere aabad rahe.\\nCustomer: Hello.\\nCustomer: Sonu sir.\\nExecutive: Hello.\\nCustomer: Ji. Ji madam.\\nCustomer: Sir ji sir maine na aapko request bhej di aapke mail par aapne check ki hai?\\nCustomer: Mere mail pe request maine bhej di. Ye whatsapp number pe bhej do madam.\\nCustomer: Whatsapp pe nahi kara hai mail pe jaati hai na sir automatic.\\nExecutive: Theek hai toh.\\nCustomer: Check kijiye ga aapke side se bhi.\\nCustomer: Mere ispe bhi number pe aaiye madam ye dusre mera dusra number hai ye to suniye madam.\\nExecutive: Sir bata du kya kaunse mail par gayi hai?\\nCustomer: Email pe achha email bhi bheji madam aapne.\\nCustomer: Haan ji.\\nCustomer: Email bheji na aapne.\\nExecutive: Mail par bhejiye sir mail par jaati hai automatic.\\nCustomer: Theek hai ji youtube me nahi.\\nCustomer: Ji ji madam.\\nExecutive: Check kijiye. Haan check kar lijiye.\\nCustomer: Pragati Upadhyay ke name se aayi hogi.\\nCustomer: Check kar lijiye check kar lijiye.\\nCustomer: Aayi?\\nExecutive: Haan ji haan ji check kar lo aaram se.\\nCustomer: Theek theek.\\nCustomer: Theek hai ji.\\nExecutive: Theek hai sir.\\nCustomer: Check kya check karu main.\\nCustomer: Email me check kariye madam kya kya likha hai.\\nCustomer: Ye jo keh rahe hai na team join kare.\\nCustomer: Hello. Join with. Haan ji haan ji.\\nCustomer: Ji bataiye madam. Sir join kar liya link?\\nCustomer: Ek minute madam join karna hai. Aap to join ya fir google join with google meet karke aata hai na sir waha par dekh lo aap ek baar.\\nCustomer: Dekh liyo fir ek baar aur dekh kar ke join kar lo.\\nExecutive: Hello.\\nExecutive: Aap jisse baat karne ke liye baat kar rahe hai unhone aapke call ko hold par rakha hai. Kripya",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants executive to check email request.\\n\n- Customer unable to join the meeting link.\\n\n\\n\nResolution:\\n\n- Executive asked customer to check email.\\n\n- Executive guided customer to join meeting link.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, meeting link, join\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4982a19c-9402-477d-9946-7b9c816f2701",
+  "ucid": "4982a19c-9402-477d-9946-7b9c816f2701",
+  "seller_categories": [
+    {
+      "mcat_id": "50504",
+      "mcat_name": "Wooden Educational Toy"
+    },
+    {
+      "mcat_id": "178465",
+      "mcat_name": "Wooden Chopping Board"
+    },
+    {
+      "mcat_id": "116251",
+      "mcat_name": "Wooden Coin Boxes"
+    },
+    {
+      "mcat_id": "41376",
+      "mcat_name": "Wooden Puzzle"
+    },
+    {
+      "mcat_id": "41489",
+      "mcat_name": "Wooden Handicraft"
+    }
+  ]
+}

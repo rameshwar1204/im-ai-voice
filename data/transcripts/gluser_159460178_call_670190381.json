@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670190381",
+  "gluser_id": "159460178",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ghaziabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello haan ji namaskar sir.\\nExecutive: Namaskar mam, mai Deepak bol raha hu IndiaMART se.\\nCustomer: Ji bataiye sir.\\nExecutive: Ji mai keh raha hu humne ye correction kar diya hai ab aapke number pe bhi call aane chalu ho jayenge.\\nCustomer: Sir aapne fir dobara usi number pe call kariye mere number pe to kariye nahi jiski dikkat aa rahi thi.\\nExecutive: Humne call kiya acha testing call aaya hoga aapko backend team se to aapke number pe nahi aaya.\\nCustomer: Nahi mere pe kaha aaya sir abhi?\\nCustomer: Wo to pehle aaya tha sir testing ke liye abhi jo aapne kara hai na ye to dusre number pe kara hai jispe pehle se hi aa rahi hai call jispe dikkat aa rahi hai uspe nahi kara aapne.\\nExecutive: Nahi nahi mere call se mai to maine to chun ke kiya hai aapko call.\\nCustomer: Accha accha.\\nCustomer: Main number hai na 859555 wala hai sir.\\nExecutive: Haan haan haan 859555 wala usme bhi 787 usme bhi 787 last me hai?\\nCustomer: Haan ji.\\nExecutive: Sab me matlab jitne teeno number aapke dale hue hai 787.\\nCustomer: Haan last me 787 hai.\\nExecutive: Haan usme bhi 787 hai. Thik hai aap ek kaam kar sakte hai.\\nExecutive: Ek minute rukiye.\\nCustomer: Ji.\\nExecutive: Call pe rukiyega mam.\\nExecutive: Aap abhi system ya phone pe available hai kya?\\nCustomer: Ji.\\nExecutive: Aaa mai aapko video meet ka link share karu aap ek bar join karenge mai check mai samne aapko dikha deta hu.\\nCustomer: Mai thodi der baad karu sir abhi mai thoda kaam kar rahi thi system ka hi kaam kar rahi thi sir hai na mai kar deti hu aapko aap na aise karna do ghante baad na aap us number pe bhi call kar lena 9555 wale pe 859555 thik hai.\\nExecutive: 859555 wale pe thik hai.\\nCustomer: Haan ji thik hai. Okay.\\nExecutive: Done done done done.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving calls on the correct number.\\n\nResolution:\\n\n- Executive offered a video call for assistance.\\n\nNext Steps: \\n\n- Customer will call back after two hours.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call issue, number correction, video assistance\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=69017e06-801b-47e1-bbef-b772d5d7a18f",
+  "ucid": "69017e06-801b-47e1-bbef-b772d5d7a18f",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "154583",
+      "mcat_name": "Monkey Hoist Machines"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "144455",
+      "mcat_name": "Bar Bending Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666830091",
+  "gluser_id": "157826790",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636563",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan ji ma'am.\\nExecutive: Haan ji sir, main Diya bol rahi hoon IndiaMART head office se.\\nCustomer: Ji. Ma'am, main WhatsApp pe jaise client se koi matlab koi jo hai na buylead uthai ya koi inquiry aayi hui hai aur maine WhatsApp pe unko link bheja to mera WhatsApp jo hai na deactivate ho jaata hai. Teen chaar-chaar dafa ho gaya aise hi.\\nExecutive: Sir, ek baar aap uska matlab screen shot ya video screen record karke mujhe bhejenge? Yeh issue fir mujhe back end team ko bhejna hoga to woh mujhse maang rahe hain ki maangenge ki kaisa ho raha hai customer ka, kuch usme issue kya hai to\\nCustomer: Main bhejta hoon ma'am, main bhejta hoon.\\nExecutive: Aap bhejiye fir main usko back end team se connect karati hoon, theek hai?\\nCustomer: Ji, okay, okay.\\nExecutive: Okay, thank you.",
+  "summary": "\\n\\nConcerns:\\n\\n- WhatsApp account gets deactivated after sending links to clients.\\n- Issue has occurred three to four times.\\n\\n\\nResolution:\\n\\n- Advised to send a screenshot or screen recording of the issue.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will send a screen recording, which the executive will then forward to the backend team.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- whatsapp, deactivation, buyleads, screen recording, backend team\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2cda81d5-1b89-4b5a-86e6-6fc2d760f062",
+  "ucid": "2cda81d5-1b89-4b5a-86e6-6fc2d760f062",
+  "seller_categories": [
+    {
+      "mcat_id": "173148",
+      "mcat_name": "Wooden Carved Sofa Set"
+    },
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "18988",
+      "mcat_name": "Teak Wood Sofa"
+    }
+  ]
+}

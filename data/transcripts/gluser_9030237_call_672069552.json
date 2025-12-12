@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672069552",
+  "gluser_id": "9030237",
+  "vintage_months": 114,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jamnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675174",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello sir, good afternoon, kaise ho aap?\\nCustomer: Kon bol rahe hai?\\nExecutive: Anvesha baat kar rahi hu sir IndiaMART se.\\nCustomer: Aapko to bola tha na Vinod se baat karana.\\nExecutive: Ha maine unko bola tha unhone aapko call nahi kiya tha kya sir?\\nCustomer: Aap unse baat puchh lo, wo to feedback unse milega na.\\nExecutive: Ha sir actually aapka concern yaha pe open hua tha aur aapne 9696 pe call kiya tha na, usi concern ko close karne ke regarding maine aapko call kiya tha. Aapne sir aapne 9696 pe call kiya tha na kuch din.\\nCustomer: Ye sab jo hai na main main nahi karta hu office mein Rehana madam hai ya kon hai ye log karta hai.\\nExecutive: Ji.\\nCustomer: Aapko unko phone karna padega na. Ab main aaj main kaha hu kal kaha rahunga to mera nahi pata hai na mujhe update nahi rahe. Ab wo Vinod ko bolo ki main aage ke aage ke plan ke liye bol deta hu, theek hai?\\nExecutive: Ha main unko bol deti hu actually aapne us 9696 pe call kiya tha Saturday ko to main aapka concern close karne ke liye hi call ki hu, to main aapka concern close kar deti hu. Aapka feedback chahiye.\\nCustomer: Mere number se aaya tha?\\nExecutive: Ji aapne 9696 pe call kiya tha sir aapke hi number se aaya tha.\\nCustomer: Wahi to main bol raha hu mere number se aaya tha.\\nExecutive: Ha ji sir aapke hi number se call aayi thi, theek hai. Aisa hai mere paas kya hai kabhi kabhi kabhi kabhi miss call aaye rehte hai jaise mere call hai kisi ka aa gaya to true caller mein nahi dikhata to main aisa reverse kar deta hu return kar deta hu. Anyway, chalo theek hai. Theek hai.\\nExecutive: Theek hai theek hai. Sir main close kar du feedback chahie please aap satisfied mark kar dena.\\nCustomer: Wo wo sab ha wo karke Vinod ko bolo phone kare.\\nExecutive: Ha main unko bol deti hu sir Vinod se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Vinod.\\n\nResolution:\\n\n- Executive offered to close the concern.\\n- Executive asked for feedback.\\n\n\\n\nNext Steps: \\n\n- Executive will ask Vinod to call the customer.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, feedback, vinod, concern\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=18c7f60b-ff90-4d06-aa5b-a8121de294dc",
+  "ucid": "18c7f60b-ff90-4d06-aa5b-a8121de294dc",
+  "seller_categories": [
+    {
+      "mcat_id": "184824",
+      "mcat_name": "Heavy Duty Impact Wrench"
+    },
+    {
+      "mcat_id": "27668",
+      "mcat_name": "Electronic Torque Wrench"
+    },
+    {
+      "mcat_id": "53028",
+      "mcat_name": "Electric Impact Wrench"
+    },
+    {
+      "mcat_id": "2507",
+      "mcat_name": "Torque Wrench"
+    },
+    {
+      "mcat_id": "29684",
+      "mcat_name": "Hydraulic Torque Wrenches"
+    }
+  ]
+}

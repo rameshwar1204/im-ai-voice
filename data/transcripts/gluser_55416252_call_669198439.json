@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669198439",
+  "gluser_id": "55416252",
+  "vintage_months": 37,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9652823",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello, call center baat kar rahe ho IndiaMART se jo?\\nHello?\\nCustomer: Ji sahab.\\nHello?\\nCustomer: Sir fir se dobara phone kijiye, aawaz aa nahi rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice not clear, asked to call again.\\n\n\\n\nResolution:\\n\n- Not able to understand the issue.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, voice issue\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4079f45-99fd-4286-a236-3dbcca9fb9b4",
+  "ucid": "d4079f45-99fd-4286-a236-3dbcca9fb9b4",
+  "seller_categories": [
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "118266",
+      "mcat_name": "Digital Platform Weighing Scale"
+    },
+    {
+      "mcat_id": "74282",
+      "mcat_name": "Industrial Weighing Scale"
+    },
+    {
+      "mcat_id": "148589",
+      "mcat_name": "Jewellery Weighing Machine"
+    },
+    {
+      "mcat_id": "203792",
+      "mcat_name": "Essae Weighing Machines"
+    }
+  ]
+}

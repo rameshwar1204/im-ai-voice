@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669711833",
+  "gluser_id": "20951038",
+  "vintage_months": 59,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhadrak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know about the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2edb003d-1cc0-4a61-8b5e-42a42c0c375e",
+  "ucid": "2edb003d-1cc0-4a61-8b5e-42a42c0c375e",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "187442",
+      "mcat_name": "Murukku"
+    },
+    {
+      "mcat_id": "192459",
+      "mcat_name": "Haldiram Namkeen"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675346931",
+  "gluser_id": "5476147",
+  "vintage_months": 79,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706512",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes?\\nCustomer: Aapka phone aaya tha?\\nExecutive: Kahan se bol rahe hain sir?\\nCustomer: Mangal se.\\nExecutive: Kahan se?\\nCustomer: Mangal se. Sir aap mujhe company ka name bata dijiye, main call back arrange karati hun.\\nExecutive: Kahan se baat kar rahe hain aap? Sir ye IndiaMART ka number hai.\\nCustomer: Mangal.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call and wants to know from where.\\n\n- Executive asks for the company name.\\n\n\\n\nResolution:\\n\n- Executive confirmed it is IndiaMART's number.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, company name, indiamart\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c15ff9c9-cd58-4e70-bf18-1a969dc97ee7",
+  "ucid": "c15ff9c9-cd58-4e70-bf18-1a969dc97ee7",
+  "seller_categories": [
+    {
+      "mcat_id": "85382",
+      "mcat_name": "Air Grease Pump"
+    },
+    {
+      "mcat_id": "35166",
+      "mcat_name": "Pneumatic Grease Gun"
+    },
+    {
+      "mcat_id": "148814",
+      "mcat_name": "Belt Tension Meter"
+    },
+    {
+      "mcat_id": "156055",
+      "mcat_name": "Hand Operated Grease Pumps"
+    },
+    {
+      "mcat_id": "29803",
+      "mcat_name": "Grease Pumps"
+    }
+  ]
+}

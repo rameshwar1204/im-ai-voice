@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675068899",
+  "gluser_id": "51151332",
+  "vintage_months": 71,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710824",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=49fcdae3-7563-45c1-b286-af1fb6b5b610",
+  "ucid": "49fcdae3-7563-45c1-b286-af1fb6b5b610",
+  "seller_categories": [
+    {
+      "mcat_id": "119160",
+      "mcat_name": "Elevator Drive"
+    },
+    {
+      "mcat_id": "208179",
+      "mcat_name": "Idli Steamer"
+    },
+    {
+      "mcat_id": "5255",
+      "mcat_name": "Motion Controllers"
+    },
+    {
+      "mcat_id": "20992",
+      "mcat_name": "Stepper Motor Drives"
+    },
+    {
+      "mcat_id": "13858",
+      "mcat_name": "Elevator Part"
+    }
+  ]
+}

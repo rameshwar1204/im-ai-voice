@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674557165",
+  "gluser_id": "55171149",
+  "vintage_months": 7,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Nalgonda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700141",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: A Sanvi group?\\nExecutive: A un madam.\\nCustomer: Hi sir good afternoon Juhi this side sir from IndiaMART office.\\nExecutive: A cheppandi madam.\\nCustomer: Actually sir you just had a discussion with Sindhu regarding your concern right?\\nExecutive: Yes madam.\\nCustomer: Yeah so sir actually before closing your concern I need to do some catalog correction when are you available for video meeting sir we can do that also.\\nExecutive: Ha madam.\\nCustomer: Actually we need to do some corrections in your catalog sir.\\nExecutive: Yes madam.\\nCustomer: So so when can we connect sir for that?\\nExecutive: Now now connect madam presently.\\nCustomer: Now you now you are available?\\nExecutive: A available madam.\\nCustomer: Okay sir then I'll ask Sindhu to do to schedule a video meeting with you for the same okay?\\nExecutive: Okay madam.\\nCustomer: She will scheduling a meeting and do some corrections in your catalog which is pending from our end and also sir you receive one feedback for on your mail from our side.\\nExecutive: Okay.\\nCustomer: Okay please provide the positive feedback.\\nExecutive: Okay madam.\\nCustomer: Okay thank you sir I will arrange a call back from Sindhu then she will do video meeting with you.\\nExecutive: Okay madam.\\nCustomer: Okay okay thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Need to do catalog correction.\\n\n- Request for positive feedback.\\n\n\\n\nResolution:\\n\n- Executive agreed for video meeting.\\n\n- Executive agreed to provide positive feedback.\\n\n\\n\nNext Steps: \\n\n- Sindhu will schedule a video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, video meeting, feedback\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb68647f-3e28-4592-aa80-10a5534ac77d",
+  "ucid": "bb68647f-3e28-4592-aa80-10a5534ac77d",
+  "seller_categories": [
+    {
+      "mcat_id": "28945",
+      "mcat_name": "Franchise Opportunities"
+    },
+    {
+      "mcat_id": "23930",
+      "mcat_name": "Business Opportunities"
+    },
+    {
+      "mcat_id": "156361",
+      "mcat_name": "Tender Coconut"
+    },
+    {
+      "mcat_id": "156476",
+      "mcat_name": "Semi Husked Coconut"
+    },
+    {
+      "mcat_id": "74802",
+      "mcat_name": "Cotton Bath Towel"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673955992",
+  "gluser_id": "180450703",
+  "vintage_months": 3,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644027",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello.\\nHello.\\nAbhi sir Pooja baat kar rahi thi sir Yamaha se bol rahi hu aapko baat karu?\\nHaa boliye.\\nOkay mujhe kehna tha.\\nHello.\\nHello madam aapki aawaz overlap ho rahi hai.\\nEk minute ek main dobara se call back karu aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Pooja from Yamaha wants to speak with Abhi.\\n\n- Abhi reports Pooja's voice is overlapping.\\n\n\\n\nResolution:\\n\n- Pooja offers to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Pooja will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nyamaha, callback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e908a7ab-3c84-4a64-9a2d-69d20009515a",
+  "ucid": "e908a7ab-3c84-4a64-9a2d-69d20009515a",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "182498",
+      "mcat_name": "Cummins Diesel Generator & DG set"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "184158",
+      "mcat_name": "Kirloskar Silent Generators"
+    }
+  ]
+}

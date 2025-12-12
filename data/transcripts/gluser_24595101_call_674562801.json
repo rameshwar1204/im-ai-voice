@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674562801",
+  "gluser_id": "24595101",
+  "vintage_months": 51,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9643163",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nMam, pehle to aapka ek concern tha ki wo complaint raise nahi ho rahi hai, upload nahi ho rahe documents. To wo solve hua aapka ki nahi abhi?\\nComplaint mobile mein kaha ho rahi hai, main bhej rahi hu na aapko screen screen recording.\\nThik hai. Aur dusra aapka concern ye hai ki aapke buyer se dispute hua hai.\\nHan wo wo Vaibhav ji se ya koi legal team bhi connected thi aap unse puch lo ki kya baat hai.\\nThik. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint not being raised; documents not uploading.\\n\n- Dispute with buyer.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive to check with Vaibhav or legal team regarding the dispute.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncomplaint, dispute, buyer, documents\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68101261-ebd3-4309-8166-5fc68e442b1e",
+  "ucid": "68101261-ebd3-4309-8166-5fc68e442b1e",
+  "seller_categories": [
+    {
+      "mcat_id": "68802",
+      "mcat_name": "Vastu Accessories"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25166",
+      "mcat_name": "Crystal Stone"
+    },
+    {
+      "mcat_id": "13083",
+      "mcat_name": "Quartz Stone"
+    }
+  ]
+}

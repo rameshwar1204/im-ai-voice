@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666842351",
+  "gluser_id": "97768859",
+  "vintage_months": 1,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Behror",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626643",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Haan ji.\\nExecutive: Sir Abhishek baat kar raha hu IndiaMART se.\\nCustomer: Haan ji boliye Abhishek ji.\\nExecutive: Sir video meet ke liye aapne confirm date kiya tha na?\\nCustomer: Video me kya nahi kiya tha?\\nExecutive: Video meet ke liye aapne confirm date kiya tha na?\\nCustomer: Hello?\\nExecutive: Samjha nahi main kya kehna chah rahe hain aap.\\nCustomer: Main yeh kehna chah raha hu aapko video meet me kuch puchna hai seller panel ke baare me, IndiaMART ke baare me?\\nCustomer: Na na na na na.\\nExecutive: Sir aapka ticket raise hua hai. Rajasthan Steel Energy client ne has shown interest in a video meeting from seller. Suggest action please connect on priority basis. Aapse touch ho gaya galti se?\\nCustomer: Galti se ho gaya hoga sir.\\nExecutive: Haan, toh ticket main close kar du isko?\\nCustomer: Haan kar do kar do.\\nExecutive: Theek hai sir, jo aayega CLM feedback dena, satisfied ya unsatisfied ka aayega aapke paas. Satisfied pe click karna. Tab yeh close ho jayega.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai sir, theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on a ticket for a video meeting request.\\n- Customer stated the request was made by mistake.\\n\\n\\nResolution:\\n\\n- Confirmed the video meeting request was an error.\\n- Agreed to close the ticket.\\n- Instructed to provide 'satisfied' feedback on the CLM form.\\n\\n\\nNext Steps: \\nIssue resolved. Customer to provide 'satisfied' feedback to close the ticket.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- video meeting, ticket, seller panel, feedback, CLM\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6fc0d146-559a-458f-af30-81e06b4db5eb",
+  "ucid": "6fc0d146-559a-458f-af30-81e06b4db5eb",
+  "seller_categories": [
+    {
+      "mcat_id": "143595",
+      "mcat_name": "Khoya Making Machine"
+    },
+    {
+      "mcat_id": "203352",
+      "mcat_name": "Rasgulla Making Machine"
+    },
+    {
+      "mcat_id": "136973",
+      "mcat_name": "Milk Boiler"
+    },
+    {
+      "mcat_id": "650493",
+      "mcat_name": "Gulab Jamun Making Machine"
+    },
+    {
+      "mcat_id": "139167",
+      "mcat_name": "Sweets Making Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668665388",
+  "gluser_id": "51613573",
+  "vintage_months": 9,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644596",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello. Haan sir.\\nExecutive: Main IndiaMART se baat kar raha hu, Himanshu kaise hai?\\nCustomer: Abhi baad mein phone kariye.\\nExecutive: Sir, main ek baat jaanna cha raha tha aapka feedback hai aapko kuch ke regarding ki kya dikkat aa rahi hai aapke services mein aur aapke sab sahi chal raha hai.\\nCustomer: Baad mein baat kariye, main court mein hu jara.\\nExecutive: Achcha court mein, achcha achcha achcha, theek hai sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called to get feedback on services.\\n\n- Customer stated he is in court.\\n\n\\n\nResolution:\\n\n- Executive ended the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, call\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=22e822dc-3fbe-4c68-a193-7dee0396776e",
+  "ucid": "22e822dc-3fbe-4c68-a193-7dee0396776e",
+  "seller_categories": [
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "28191",
+      "mcat_name": "Fabrication Works"
+    },
+    {
+      "mcat_id": "38164",
+      "mcat_name": "Stainless Steel Tanks"
+    },
+    {
+      "mcat_id": "146893",
+      "mcat_name": "Pipeline Installation Services"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    }
+  ]
+}

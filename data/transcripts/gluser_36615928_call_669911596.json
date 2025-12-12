@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669911596",
+  "gluser_id": "36615928",
+  "vintage_months": 7,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Karari Chandpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662968",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan.\\nExecutive: Hello, sir good evening.\\nCustomer: Good evening.\\nExecutive: Swami se Shweta baat kar rahe hain right?\\nCustomer: Haan bol rahe hain.\\nExecutive: Sir main Minakshi baat kar rahi hu aap se meri kal parso baat hui thi na sir video mein.\\nCustomer: Haan kal parso baat hue the.\\nExecutive: Sir aap mujhe batayenge ye jo secondary number aapka 417 last mein jo hai.\\nCustomer: Haan wo 417 haan wo bhaiya ka number hai malik.\\nExecutive: Bhaiya ka hai na sir please aap unko bata do ki meri baat ho gayi thi aap se unhone call kiya tha na abhi unhone hamare customer care pe call kiya tha actually.\\nCustomer: Oh.\\nExecutive: Ki unko kisi uska buyer ka number chahiye hoga na.\\nCustomer: Hmm.\\nExecutive: Wo search kar rahe honge hai na.\\nExecutive: To maine unko bola ki sir hum buyer ka number nahi aise de sakte hain hamare paas nahi hota hai access hai na.\\nExecutive: Aapka bhi number hume pura nahi dikhta hai system pe hume sirf last ke three digits dikhti hai.\\nCustomer: Hai na?\\nCustomer: Theek hai sir hum bol denge.\\nExecutive: Haan main unko wo number share nahi kar sakti isliye maine unko bola sir aap khud se ek baar search karke check kar lo aur usse contact kar lo aapko fir contact ho jayega.\\nCustomer: Hai na?\\nCustomer: Theek hai, theek hai, theek hai.\\nExecutive: Aur please aap unko ek baar update de dena ki koi bhi concern ho to mera number unko bhi share kar dena aap ki mujhe direct call kar le sir.\\nCustomer: Theek hai, theek hai, theek hai.\\nExecutive: Haan ji, theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's brother called customer care for buyer number.\\n\n\\n\nResolution:\\n\n- Executive informed they cannot share buyer's number.\\n\n- Executive asked customer to inform his brother.\\n\n- Executive shared her number for direct contact.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyer number, customer care, secondary number, contact\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=14e477ae-9382-4f58-8748-aa190ab841c2",
+  "ucid": "14e477ae-9382-4f58-8748-aa190ab841c2",
+  "seller_categories": [
+    {
+      "mcat_id": "224145",
+      "mcat_name": "Medical Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "56254",
+      "mcat_name": "Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "136956",
+      "mcat_name": "Empty Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "73809",
+      "mcat_name": "Double Open End Spanner"
+    }
+  ]
+}

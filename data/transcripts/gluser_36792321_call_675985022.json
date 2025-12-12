@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675985022",
+  "gluser_id": "36792321",
+  "vintage_months": 54,
+  "bl_dau_oct": 7,
+  "customer_type": "STAR",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ha, miss Riya bol rahe ho na?\\nCustomer: Jaise aati hu mai aapko call karti hu, bas five minutes.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call back in five minutes.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, time\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ee26209b-4f66-4a96-b3b7-beb7554546df",
+  "ucid": "ee26209b-4f66-4a96-b3b7-beb7554546df",
+  "seller_categories": [
+    {
+      "mcat_id": "136164",
+      "mcat_name": "Soil Testing Services"
+    },
+    {
+      "mcat_id": "110037",
+      "mcat_name": "Environmental Clearance Service"
+    },
+    {
+      "mcat_id": "102126",
+      "mcat_name": "Water Treatment Services"
+    },
+    {
+      "mcat_id": "78482",
+      "mcat_name": "Laboratory Testing Services"
+    },
+    {
+      "mcat_id": "135964",
+      "mcat_name": "Drinking Water Analysis"
+    }
+  ]
+}

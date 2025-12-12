@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673873650",
+  "gluser_id": "72371089",
+  "vintage_months": 26,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Sambhal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699446",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\nNone\\n\n\\n\nResolution:\\n\nNone\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nNone\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=43fed63c-6f69-4316-bf8e-3c9a22e9ee91",
+  "ucid": "43fed63c-6f69-4316-bf8e-3c9a22e9ee91",
+  "seller_categories": [
+    {
+      "mcat_id": "85928",
+      "mcat_name": "MDF Box"
+    },
+    {
+      "mcat_id": "73271",
+      "mcat_name": "Metal Handbag"
+    },
+    {
+      "mcat_id": "19432",
+      "mcat_name": "Wooden Gift Box"
+    },
+    {
+      "mcat_id": "19385",
+      "mcat_name": "Wooden Bangle"
+    },
+    {
+      "mcat_id": "41373",
+      "mcat_name": "Wooden Photo Frames"
+    }
+  ]
+}

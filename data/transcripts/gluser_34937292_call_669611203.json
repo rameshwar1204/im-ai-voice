@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669611203",
+  "gluser_id": "34937292",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638401",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: This call is now being recorded.\\nCustomer: Hello?\\nExecutive: Hello. Haan ji madam good morning.\\nCustomer: Good morning.\\nExecutive: Madam Imran baat kar raha tha main senior manager IndiaMART se. Abhi baat kar sakte hain madam?\\nCustomer: Ji haan boliye.\\nExecutive: Madam jo aapne concern raise nahi kiya tha to humne bhi isko highlight kiya tha aage madam. To I hope shayad aapka discussion hua hoga onboarding team ke sath.\\nCustomer: Hello?\\nCustomer: Achha. Ji ji bataiye aage.\\nExecutive: Haan ji madam. To bas usse regarding maine aapko call kiya tha madam ki agar ek suitable time dijiye madam to ek baar hum video meeting mein bhi connect connect kar lete hain aapse. Aur jo bhi mapping vagaira ka correction vagaira hota hai wo bhi hum check kar lete hain. Saath hi saath ek baar discuss kar lete hain ki valid vagaira mein kaise kaam karna hai. To bas usse regarding maine call kiya tha.\\nCustomer: Aap mujhe exact 12 baje call kar lenge aaj?\\nExecutive: Haan theek hai. Koi issue nahi hai. Main 12 baje aapko connect kar leta hoon.\\nCustomer: 12 baje main bilkul free ho jaungi to aap call kijiyega wo proper dekh lenge kya hota hai.\\nExecutive: Chaliye theek hai. Okay no issue. Okay thank you.\\nCustomer: Okay. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding the concern raised by the customer.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meeting for issue resolution.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 12 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, video meeting, onboarding\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d49a617-dc05-40b4-a607-0128dc0a3683",
+  "ucid": "8d49a617-dc05-40b4-a607-0128dc0a3683",
+  "seller_categories": [
+    {
+      "mcat_id": "87923",
+      "mcat_name": "Placement Service"
+    },
+    {
+      "mcat_id": "101797",
+      "mcat_name": "Typing Services"
+    },
+    {
+      "mcat_id": "87924",
+      "mcat_name": "Recruitment Service"
+    },
+    {
+      "mcat_id": "132975",
+      "mcat_name": "Technical Support Service"
+    },
+    {
+      "mcat_id": "167900",
+      "mcat_name": "Account Management Service"
+    }
+  ]
+}

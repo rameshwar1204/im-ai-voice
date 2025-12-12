@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666936182",
+  "gluser_id": "9187230",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631158",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji haan ji.\\nExecutive: Ji Brijlal ji?\\nCustomer: Ji ji.\\nExecutive: Brijlal ji mujhe 10 se 15 minute ka time dijiye. Main aapko video meet ka link wagera bhej ke aapse connect karti hu. Theek hai?\\nCustomer: Achha. Theek.\\nExecutive: Theek.",
+  "summary": "\\n\\nConcerns:\\n\\n- Scheduling a video meeting with the customer.\\n\\n\\nResolution:\\n\\n- Customer agreed to the video meeting.\\n- Executive will send a link in 10-15 minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will send a video meet link in 10-15 minutes to connect with the customer.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- video meeting, scheduling, follow-up\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3f704385-9948-4d9c-86b5-947a5aaaf0ec",
+  "ucid": "3f704385-9948-4d9c-86b5-947a5aaaf0ec",
+  "seller_categories": [
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "8004",
+      "mcat_name": "Stone Grills"
+    },
+    {
+      "mcat_id": "221425",
+      "mcat_name": "Sandstone Pillars"
+    },
+    {
+      "mcat_id": "74023",
+      "mcat_name": "Sandstone Lamp"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666737567",
+  "gluser_id": "49103033",
+  "vintage_months": 3,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Pedana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626113",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan.\\nCustomer: Hello, good morning sir.\\nExecutive: Hello.\\nCustomer: Sir, I am Ashish calling you from IndiaMART. Your account number is.\\nCustomer: Haan haan haan, okay okay, tell me sir.\\nExecutive: How are you sir?\\nCustomer: I am fine sir. I am in travel now.\\nExecutive: Okay. Uh, tell me sir, are you free right now for five minutes?\\nCustomer: Haan, okay.\\nExecutive: Actually, actually yesterday we have talked regarding the OTP you are not getting on your mail ID sir, okay?\\nCustomer: Haan haan haan.\\nExecutive: Yeah, the problem is solved sir?\\nCustomer: Yes sir, yes sir, the problem is solved.\\nExecutive: Okay, and we have to improve our catalog also sir. So you are free right now to so we can improve our catalog or I should call later.\\nCustomer: Uh, sir, can you call me uh 45, 40 minutes or one hour.\\nExecutive: Okay, okay. Otherwise when I I free I will call you also. I I have your number.\\nCustomer: Yes sir.\\nExecutive: Okay. Okay, okay, no problem sir. Uh, sir, so here is your one request sir regarding email uh OTP, okay? I can close it sir?\\nCustomer: Haan, yes sir.\\nExecutive: The problem is resolved?\\nCustomer: Problem resolved also.\\nExecutive: Okay. Okay, thank you sir. I will connect you regarding the uh catalog uh improvement sir, okay? After uh two hours sir, okay?\\nCustomer: Okay, okay, okay.\\nExecutive: Okay, okay, thank you so much sir.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- OTP was not being received on mail ID.\\n\n- Wants to improve catalog.\\n\n\\n\nResolution:\\n\n- OTP issue resolved.\\n\n- Executive will call after 2 hours for catalog improvement.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- otp, catalog, improvement\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=144d0b38-3c5e-4d10-b463-bb1820d64fa4",
+  "ucid": "144d0b38-3c5e-4d10-b463-bb1820d64fa4",
+  "seller_categories": [
+    {
+      "mcat_id": "181315",
+      "mcat_name": "Kalamkari Saree"
+    },
+    {
+      "mcat_id": "177665",
+      "mcat_name": "Kalamkari Fabric"
+    },
+    {
+      "mcat_id": "153122",
+      "mcat_name": "Printed Cotton Saree"
+    },
+    {
+      "mcat_id": "220557",
+      "mcat_name": "Cotton Mulmul Sarees"
+    },
+    {
+      "mcat_id": "183779",
+      "mcat_name": "Tissue Saree"
+    }
+  ]
+}

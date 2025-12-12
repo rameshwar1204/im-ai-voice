@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675996002",
+  "gluser_id": "5326268",
+  "vintage_months": 9,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Thiruvananthapuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715765",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Welcome to Destination Designers. Please wait while we connect you.\\n(silence)\\nHello.\\nExecutive: Hello.\\nHello.\\nCustomer: Ya, good afternoon.\\nExecutive: Good afternoon. Oh, IndiaMART.\\nCustomer: Nahi aaya. Main call back kal kuch baat karke wo log sab busy hai. Kuch hoga toh main aapko wapas call kar deta hu.\\nExecutive: Chalega sir. Main ek jaanna chah raha tha jo abhi aapne kal video meeting ka request dala tha na.\\nCustomer: Ha.\\nExecutive: Wo ek ticket open ho jaata hai sir, complaint type ka ho jaata hai wo. Toh main usko filhaal abhi close kar du? Aapko mera number hai na, aap mujhe directly call kar lijiyega.\\nCustomer: Kar dijiyega, kar dijiyega. Email kar dijiyega. Thank you.\\nExecutive: Chalega. Aapke email pe na feedback jaega, please submit kar dijiyega feedback.\\nCustomer: Ji, ji.\\nExecutive: Okay. Okay sir. Okay sir, okay okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he will call back later.\\n\n- Executive asks about closing video meeting request ticket.\\n\n\\n\nResolution:\\n\n- Executive offered to close the video meeting ticket.\\n\n- Customer agreed to close the ticket.\\n\n- Executive requested customer to submit feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, ticket, feedback, call back\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a1c5a84-0073-4d6d-b930-3a368363cc8b",
+  "ucid": "2a1c5a84-0073-4d6d-b930-3a368363cc8b",
+  "seller_categories": [
+    {
+      "mcat_id": "87926",
+      "mcat_name": "Domestic Tour"
+    },
+    {
+      "mcat_id": "42835",
+      "mcat_name": "International Tour Packages"
+    },
+    {
+      "mcat_id": "34040",
+      "mcat_name": "Pilgrim Tour Packages"
+    },
+    {
+      "mcat_id": "30445",
+      "mcat_name": "Holiday Packages"
+    },
+    {
+      "mcat_id": "34156",
+      "mcat_name": "Tour Packages"
+    }
+  ]
+}

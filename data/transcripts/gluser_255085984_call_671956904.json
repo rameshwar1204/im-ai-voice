@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671956904",
+  "gluser_id": "255085984",
+  "vintage_months": 0,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9668867",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello. Hello.\\nExecutive: Hello. Ji. Farukh ji kaise hain aap?\\nCustomer: Bas badhiya ji, badhiya ji.\\nExecutive: Haan ji Farukh bahut badhiya sir. To wo concern aaya tha sir parso call kiya tha.\\nExecutive: Sorry parso to wo nahi kar paya tha. Wo kya concern tha sir parso? Ye bataiye mujhe.\\nCustomer: Wo second number hai na Mukesh ka ladke ka usse baat kijiye ek baar.\\nExecutive: Kaunsa number hai sir wo?\\nCustomer: Profile pe hai second number do number hai na profile pe.\\nExecutive: Profile pe ek number show ho raha hai sir jiske last me 257 hai.\\nCustomer: To wo ho raha hai.\\nCustomer: Nahi wo nahi dusre wala dusre wala.\\nExecutive: Jiske last me 960 hai 86 se shuru ho raha hai.\\nCustomer: Haan haan haan ji haan ji haan ji.\\nExecutive: Thik hai ek baar mai unse connect kar leta hu sir thik hai.\\nCustomer: Thik hai sir.\\nExecutive: Okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to connect with Mukesh's son.\\n\nResolution:\\n\n- Executive agreed to connect with the person.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, number, connection\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fb03391d-c6bd-4cdd-b036-547d26017a78",
+  "ucid": "fb03391d-c6bd-4cdd-b036-547d26017a78",
+  "seller_categories": [
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "183064",
+      "mcat_name": "Designer Wooden Door"
+    },
+    {
+      "mcat_id": "12558",
+      "mcat_name": "Wooden Door"
+    },
+    {
+      "mcat_id": "94922",
+      "mcat_name": "Wooden Panel Door"
+    },
+    {
+      "mcat_id": "5588",
+      "mcat_name": "Carved Wood Doors"
+    }
+  ]
+}

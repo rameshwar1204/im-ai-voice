@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667425312",
+  "gluser_id": "250612862",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruchirappalli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello sir.\\nExecutive: Hello.\\nCustomer: Hello madam.\\nExecutive: Ah sir, good afternoon sir, speaking from IndiaMART. Yesterday we spoke, do you remember sir?\\nCustomer: Aamaama.\\nExecutive: Ah yes sir, you have sent multiple times from our end in whatsapp also, the same you have sent in mail also. So that feedback also, based on that you have clearly sent it.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: I need field person madam, otherwise give refund madam.\\nExecutive: Sir, we don't have that kind of commitment sir, that\\nCustomer: No, sales person will commit like that madam.\\nExecutive: What are you saying? Sales one person, service one person, you one person, like that you are working as a team, right?\\nCustomer: Aama sir.\\nCustomer: Hmm, that's why. I am saying madam, this is not my, in my stand there is no change. I have lot of work. My request is this only, I am telling you, you change it, otherwise payment refund it. Again and again they are calling me, so I have lot of work for me.\\nExecutive: Sorry sir, but to tell you, in this direct meeting is not coming to us, refund also possibility is not there for us.\\nCustomer: Refund, refund means, that is direct meeting only madam, they told to start. That's why I entered, otherwise I will not enter.\\nExecutive: No sir, we don't have that direct meeting.\\nCustomer: Okay madam, okay madam, don't call me again madam.\\nExecutive: Sir, direct meeting will not come sir, okay sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a field person or refund.\\n\n- Customer says sales person committed direct meeting.\\n\n\\n\nResolution:\\n\n- Executive said direct meeting not possible.\\n\n- Executive said refund is not possible.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, direct meeting, commitment\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c434d418-de9e-48ee-b529-bf424f2e5541",
+  "ucid": "c434d418-de9e-48ee-b529-bf424f2e5541",
+  "seller_categories": [
+    {
+      "mcat_id": "180740",
+      "mcat_name": "3 Ply Corrugated Box"
+    },
+    {
+      "mcat_id": "180741",
+      "mcat_name": "5 Ply Corrugated Box"
+    },
+    {
+      "mcat_id": "1416",
+      "mcat_name": "Corrugated Box"
+    },
+    {
+      "mcat_id": "155694",
+      "mcat_name": "Kraft Paper Roll"
+    },
+    {
+      "mcat_id": "156752",
+      "mcat_name": "Brown Kraft Paper"
+    }
+  ]
+}

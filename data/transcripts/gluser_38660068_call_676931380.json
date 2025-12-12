@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "676931380",
+  "gluser_id": "38660068",
+  "vintage_months": 15,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9726210",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Sir, Sri Prasad ji se baat ho rahi hai?\\nCustomer: Haan boliye.\\nExecutive: Accha ye bas aapka ek minute samay lunga sir, zyada waqt nahi lunga. Sir ye right time hoga aap se baat karne ke liye?\\nCustomer: Kis baare mein?\\nExecutive: Asal mein aapne sir abhi subah jo hamare representative se baat hui thi Meenakshi se IndiaMART se, to aapne uska baat karne ke bihaf pe sir aapne not satisfied diya tha matlab. To kuch unhone kya baat bilkul\\nCustomer: Main ek cheez ek kaam karti, main thodi der baad baat karta hu. Main thoda na bahar hu.\\nExecutive: Bilkul sir, bilkul. Isiliye maine pucha sir koi time hai. Unko pata hai, unko bataya maine ki why I am not satisfied.\\nExecutive: Accha accha accha accha. Haan. Theek hai to unme unka senior manager baat kar raha tha sir. Main socha ki main aap se baat karke usko resolve karu. Ek aap aaram se 6:30 baje ke baad call kar sakte hai.\\nExecutive: Sir bilkul sir bilkul main karunga sir 6:30 baje aapko call. Theek hai sir. Thank you sir.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave a 'not satisfied' rating.\\n\n- Customer is currently outside.\\n\n\\n\nResolution:\\n\n- Executive offered to resolve the issue.\\n\n- Executive will call back at 6:30 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 6:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- not satisfied, call back, resolution\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc93355e-8edd-4424-bb31-72a673fbcdbc",
+  "ucid": "cc93355e-8edd-4424-bb31-72a673fbcdbc",
+  "seller_categories": [
+    {
+      "mcat_id": "32124",
+      "mcat_name": "Machine Guards"
+    },
+    {
+      "mcat_id": "39705",
+      "mcat_name": "Telescopic Covers"
+    },
+    {
+      "mcat_id": "28178",
+      "mcat_name": "Fabric Bellows"
+    },
+    {
+      "mcat_id": "445443",
+      "mcat_name": "Machine Safety Guard"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672015418",
+  "gluser_id": "13917907",
+  "vintage_months": 1,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677781",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Ji. Main Shadab bol rahi hu.\\nCustomer: Hello.\\nExecutive: Main meri aawaz aa rahi hai aapko?\\nCustomer: Haan, haan, aa rahi hai.\\nExecutive: Eh, main hamara discussion hua tha na, main 1:30 baje video meet ka.\\nCustomer: Haan, haan.\\nExecutive: Main usme meri meeting schedule ho gayi thi is wajah se main us time connect nahi kar paya tha. Main abhi kar sakte hai isko?\\nCustomer: Haan, haan, kar lijiye abhi kar lijiye.\\nExecutive: Dekhiye main aapke isme ek link aaya hoga. Register mail ID pe.\\nCustomer: Okay, main dekhti hu. Line pe rahiye.\\nExecutive: Register mail ID batau na main aapko?\\nCustomer: NS Trading Company 2013.\\nExecutive: Yahi hai na?\\nCustomer: Hmm.\\nExecutive: Main aapko pata hai kya NS Trading Company 2013 yahi hai.\\nCustomer: Main main kuch naam Mohammad Shahab aayi hui.\\nCustomer: Okay, ask to join kar du na?\\nExecutive: Haan, main isko join kar lijiye aap. Main aapko apni screen share karunga.\\nCustomer: Hmm hmm.\\nExecutive: Main usi pe baat kar lena video call pe hi.\\nCustomer: Kar lijiye, kar lijiye.\\nExecutive: Haan, usi pe dekhiye meri aawaz aa rahi hai waha pe?\\nCustomer: Bolie aap kuch.\\nExecutive: Video call pe aa rahi hai meri aawaz main?\\nCustomer: Aa rahi hai, aa rahi hai, aa rahi hai.\\nExecutive: Theek hai, theek hai main isko. Haan isko disconnect kar dijiye.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a meeting scheduled at 1:30 PM.\\n\n- Executive could not connect due to meeting schedule.\\n\n\\n\nResolution:\\n\n- Executive shared a link on registered email ID.\\n\n- Customer joined the meeting through the link.\\n\n- Executive will share his screen with the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, video call, screen sharing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 152,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f7df9f7a-838e-4366-b921-0f487c396b13",
+  "ucid": "f7df9f7a-838e-4366-b921-0f487c396b13",
+  "seller_categories": [
+    {
+      "mcat_id": "37049",
+      "mcat_name": "Soil Testing Kits"
+    },
+    {
+      "mcat_id": "18773",
+      "mcat_name": "TDS Meter"
+    },
+    {
+      "mcat_id": "166307",
+      "mcat_name": "Wood Moisture Meter"
+    },
+    {
+      "mcat_id": "15489",
+      "mcat_name": "Dissolved Oxygen Meter"
+    },
+    {
+      "mcat_id": "39457",
+      "mcat_name": "Water Testing Meters"
+    }
+  ]
+}

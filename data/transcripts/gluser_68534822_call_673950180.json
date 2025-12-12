@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673950180",
+  "gluser_id": "68534822",
+  "vintage_months": 82,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677623",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan sir.\\nExecutive: Haan bhai sahab.\\nCustomer: Ji sir, main kar raha hun sir usko. Hello.\\nExecutive: Haan.\\nCustomer: Wo galti se uske paas phone aa gaya tha.\\nExecutive: Achcha achcha, koi baat nahi aap hat gaya hai, aap dobara se dhyan rakhiyega, abhi to hat gaya hoga unke paas se.\\nCustomer: Haan.\\nExecutive: Haan aap thoda sa man dijiyega, dekhte rahiyega, ki wo to ek minute ka kaam hota hai.\\nCustomer: Haan. Haan. Abhi main baitha. Ab kya hai ki staff rakh rahe hain uska number dalna hai isme.\\nExecutive: Staff thoda sa aise rakhiyega thoda sa sir aapko pata hi hai kaisa staff chahiye aapko nahi. Jo bilkul laga rahe isme. Usko thoda sa computer computer ki knowledge ho.\\nCustomer: Haan laptop dekh raha hun main. Aur staff se kal baat bhi hui hai meri. Abhi naya staff hai usko thoda sikhana padega.\\nExecutive: Main sikha dunga main to demo vagaira to main de dunga koi dikkat nahi hai.\\nCustomer: Haan. Hmm. Ladies ladies rakhna bhi den staff. Ya magar magar nahi koi staff nahi hai.\\nExecutive: Bahar ka hai.\\nCustomer: Haan Jaipur ka hi hai wo bhi.\\nExecutive: Achcha.\\nCustomer: Jaipur ka hi hai.\\nExecutive: Jaipur ka hai, theek hai. Ab wo Anita ji kya hai wo to dekhti to thi nahi.\\nCustomer: Hmm. To fir usko rakhne ka fayda kya hai uska man hi nahi tha kaam karne ka.\\nExecutive: Ji.\\nCustomer: To kaam nahi karne ka man tha to fir wo bola bhai aap hum nahi man karne ka to fayda kya fir rakhne se.\\nExecutive: Hmm. To isko bhi dekh lete kitne din kaam karti sahi.\\nExecutive: Theek hai, theek hai sir. Lekin main sab kuch kar deta hun jo jo change hua hai main dobara sahi kar raha hun use baith ke, theek hai. Thoda sahi kar do isko aap. Aap. Haan wahi kar raha hun main, wahi kar raha hun, ji. Theek hai, theek hai. Theek hai sir. Theek hai. Okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add new staff number.\\n\n- Anita was not working properly.\\n\n\\n\nResolution:\\n\n- Executive assured to correct the changes.\\n\n- Executive offered to provide demo to new staff.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- staff, number, changes, demo\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c4f78dd-c663-40fa-89ec-b560ac847da2",
+  "ucid": "7c4f78dd-c663-40fa-89ec-b560ac847da2",
+  "seller_categories": [
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

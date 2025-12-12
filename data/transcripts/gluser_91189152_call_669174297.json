@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "669174297",
+  "gluser_id": "91189152",
+  "vintage_months": 18,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Haldwani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Good morning sir.\\nExecutive: Good morning.\\nExecutive: India Mart se baat kar rahi thi.\\nCustomer: Kaun?\\nExecutive: Sir India Mart se baat kar rahi thi aapke account manager.\\nCustomer: India Mart se ji.\\nExecutive: Haan sir. Sir aapki taraf se complaint hui thi to aapko kuch jankari chahiye thi bataye sir.\\nCustomer: Inquiry aai inquiry aai ko nahi rahi hai isme kya dikkat ho rahi hai kya baat hai?\\nExecutive: Kya sir?\\nCustomer: Inquiry aa nahi rahi hai kya baat hai?\\nExecutive: Sir aapne bahut din se bahut der se kuch nahi hua India Mart se.\\nCustomer: Main main daily active hu abhi mera office nahi khula hai isliye main abhi nahi dekha hai nahi to main daily dekh raha hu is cheez ko koi bhi nahi aa raha hai ji ji daily dekh raha hu abhi main nahi khola hai kyuki mera office nahi khula hai isliye main abhi nahi dekh paya hu.\\nExecutive: Achcha. Sir aap January mein aapne use kiya hai uske baad January February March April use nahi kiya uske baad May mein use kiya uske baad aapne use nahi kiya India Mart ko November tak.\\nCustomer: Use to humne kar hi rahe hain ab inquiry aayegi tabhi to hum use karenge.\\nExecutive: Aur sir hamare taraf se call jati hai to aap response matlab udhar se koi response nahi hai call ka response nahi aata hai aur sir inquiry bhi kya 22 tarikh mein nahi aa rahi hai.\\nCustomer: Theek hai mam office mein ja ke baat karta hu fir aapse.\\nExecutive: Theek hai theek hai sir aap phone kar lijiyega.\\nCustomer: Theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inquiries are not being received.\\n\n- No response to calls from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive inquired about the issues faced by customer.\\n\n- Customer said he will call back from office.\\n\n\\n\nNext Steps: \\n\n- Customer will call back from office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiries, calls, account\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b2ccd3cc-91c0-4e03-bf3a-d28619c2d88d",
+  "ucid": "b2ccd3cc-91c0-4e03-bf3a-d28619c2d88d",
+  "seller_categories": [
+    {
+      "mcat_id": "68330",
+      "mcat_name": "Residential Construction Service"
+    }
+  ]
+}

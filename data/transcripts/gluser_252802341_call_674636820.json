@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674636820",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hmm?\\nExecutive: Good afternoon sir, Main Ruchika baat kar rahi hu IndiaMART se.\\nCustomer: Boliye.\\nExecutive: Sir actually service ke liye maine aapko connect kiya tha sir.\\nCustomer: Kis liye?\\nExecutive: Service regarding ke liye sir connect kiya tha sir.\\nCustomer: Hmm hmm boliye.\\nExecutive: Sir aap apni services dekh rahe hai Sankalp Medical ki sir?\\nCustomer: Hmm?\\nExecutive: Sir main ye puch rahi hu aap apni services jo IndiaMART mein jo aapki chal rahi hai Sankalp Medical ki usme ek ek bhi baar aap open karke dekh rahe ho portal mein sir?\\nCustomer: Maine woh jin madam ka number aapko diya tha.\\nExecutive: Sir mujhe pata hai sir woh haan sir pata hai sir aapne jin madam ka number diya hai unse baat karne ka maine unse baat bhi ki hai.\\nCustomer: Hmm.\\nExecutive: Tab ho gayi baat?\\nExecutive: Sir jaise ki jaise ki sir meri abhi do teen din pehle baat hui hai sir.\\nCustomer: Hmm.\\nExecutive: Sir main actually maine aapko isiliye connect kiya hai aap owner ho na sir. To sir owner ho to sir thoda bahut to pata rehta hai na kaisa kya chal raha hai service mein usme kya chal raha hai aap ek bhi baar open karke dekhte hai apni ye jo portal hai aapki jo chal rahi hai IndiaMART mein.\\nCustomer: Mujhe mere paas itna samay nahi hota hai ki main usko open karke dekh paun. Hai na? Isiliye maine unko rakha hua hai kaam ke liye.\\nExecutive: Bilkul sir aapne sir bola hai unke liye rakha hai woh achchi baat hai. But sir jaise ki aap owner ho Sankalp Medical ke, theek hai? To sir ek baar to koi person dekhta hai na ki leads vagaira pahunchi ho rahi hai. \\nCustomer: Theek hai na dekhta hai haan haan bilkul.\\nExecutive: Ji sir?\\nCustomer: Haan ji bol samajh raha hu baat ko aapki.\\nExecutive: Haan bilkul sir. Sir mera ye kehne ka matlab hai ki ek baar aapka bhi to sir kaam banta hai na ki ek baar aap bhi thoda open karke dekho ki business kaisa chal raha hai kuch leads consume ho rahi hai ki nahi ho rahi kyunki mam ko to maine connect kiya tha aaj bhi kiya hai kal bhi kiya tha. To mam ne actually yahi bola ki busy hai woh phone bhi nahi woh utha rahi hai leads regarding ke liye mujhe unko batana tha. And sir thoda sa agar ho sake possible to apne products ki thoda sa unko listing matlab dikhana tha sir ki unko de dijiye ki aap kin kin products mein jo hai na deal karte maine woh de di yaha pe dikha diya hai. Unko products se leke thoda sa unsatisfied hue ki kaun se products hamari cheeze hai, theek hai? To maine aapki listing dikha di thi but sir ek baar aap unse bhi connect karke apne products ke bare mein discussion kare.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not actively monitoring IndiaMART portal.\\n\n- Customer unable to connect with Jin Madam.\\n\n- Customer's products not clearly listed.\\n\n\\n\nResolution:\\n\n- Executive explained the importance of monitoring portal.\\n\n- Executive shared product listing with Jin Madam.\\n\n\\n\nNext Steps: \\n\n- Executive suggested customer connect with Jin Madam.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, product listing, buyleads, portal\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 151,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=35f1b1bd-3c41-4360-8dbd-b01006bb0209",
+  "ucid": "35f1b1bd-3c41-4360-8dbd-b01006bb0209",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

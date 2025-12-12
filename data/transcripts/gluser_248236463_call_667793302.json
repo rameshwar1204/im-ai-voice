@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667793302",
+  "gluser_id": "248236463",
+  "vintage_months": 4,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639459",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello haanji sir.\\nExecutive: Hello madam aapko catalog update karna hai help nahi ho raha.\\nCustomer: Sorry sir, can you please repeat?\\nExecutive: No, I have a requirement to update the catalog.\\nCustomer: Okay.\\nExecutive: I can give the account details of mine. So can you upload the content there.\\nCustomer: So what type what type of updation you required sir?\\nCustomer: So I have a list of items which need to be updated.\\nHm.\\nCustomer: Yeah, so I can provide a few of the images for them.\\nExecutive: Sir can we do one thing sir? Can we do one thing sir? Today is the holiday.\\nCustomer: Okay.\\nExecutive: So we'll get back to our work by tomorrow. So can we connect with you tomorrow?\\nCustomer: Tomorrow is also holiday.\\nExecutive: Sir because of Guru Parv.\\nCustomer: Oh okay theek hai theek hai.\\nCustomer: Then I'll call to my account manager tomorrow then.\\nExecutive: For sure sir. Tomorrow we'll connect with you.\\nCustomer: Sure sure yeah thank you.\\nExecutive: Thank you sir.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help updating the catalog.\\n\n\\n\nResolution:\\n\n- Executive informed that today is a holiday.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, update, holiday\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e3e3d3f7-28eb-457e-986c-5aafc2c21253",
+  "ucid": "e3e3d3f7-28eb-457e-986c-5aafc2c21253",
+  "seller_categories": [
+    {
+      "mcat_id": "158587",
+      "mcat_name": "Aam Papad"
+    },
+    {
+      "mcat_id": "9823",
+      "mcat_name": "Mango Pulp"
+    },
+    {
+      "mcat_id": "187185",
+      "mcat_name": "Totapuri Mango Pulp"
+    },
+    {
+      "mcat_id": "6682",
+      "mcat_name": "Natural Honey"
+    },
+    {
+      "mcat_id": "166118",
+      "mcat_name": "Black Pepper Powder"
+    }
+  ]
+}

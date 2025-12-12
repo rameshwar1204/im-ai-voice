@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668287609",
+  "gluser_id": "33903193",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648665",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello. Haanji, main Armaan baat kar raha hun. Armaan baat kar raha hun se.\\nExecutive: Kahan se?\\nCustomer: Chhattisgarh se baat kar raha hun. Chhattisgarh se baat kar raha hun.\\nCustomer: Are bhaiya.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer introduced himself as Armaan.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, location\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e61d0c51-1577-4cc3-b46e-2979a9f74971",
+  "ucid": "e61d0c51-1577-4cc3-b46e-2979a9f74971",
+  "seller_categories": [
+    {
+      "mcat_id": "168641",
+      "mcat_name": "Lead Generation Service"
+    },
+    {
+      "mcat_id": "170492",
+      "mcat_name": "Flash SMS Services"
+    },
+    {
+      "mcat_id": "220402",
+      "mcat_name": "Whatsapp Marketing Software"
+    },
+    {
+      "mcat_id": "180321",
+      "mcat_name": "Whatsapp Marketing"
+    },
+    {
+      "mcat_id": "98771",
+      "mcat_name": "Bulk SMS Service"
+    }
+  ]
+}

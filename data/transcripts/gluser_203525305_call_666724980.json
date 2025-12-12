@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666724980",
+  "gluser_id": "203525305",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Sir good morning, naan Anurag pesuren IndiaMART lendu pesuren sir.\\n\\nCustomer: Hi yes sir.\\n\\nExecutive: Yes sir sir actually neenga kupitrukeenga sir sanikilamai night vandutu indha maari tamil person kaaga kettrukeenga so actually ungaluku account manager assign pannirukathu ippo enna tha koduthurukanga. So sir eppadi neenga available sir naan ungaluku oru guidance pannunumna eppo ungaluku call back pannala illa ippo neenga time irukuma?\\n\\nCustomer: Sir sir ippo car driving la iruken neenga morning time.\\n\\nExecutive: Sir unga voice break aaguthu kekala sir hello.\\n\\nCustomer: Illa sir naan car driving la iruken ippo right now.\\n\\nExecutive: Okay okay driving la irukeenga sir.\\n\\nCustomer: Yes sir naan ippo konjam vandiya stop pannunnu veetuku poitu kooda naan ungaluku call pannattuma?\\n\\nExecutive: Sir one hour ku appuram kupittuma sir?\\n\\nCustomer: Yes one hour ku appuram kupidunga correct a irukum.\\n\\nExecutive: Okay okay oru 11 11:30 andha maari call back pannalaangala?\\n\\nCustomer: Call pannunga naan vandutu enakku unga support.\\n\\nExecutive: Sari sir okay sir.\\n\\nCustomer: Enakku.\\n\\nExecutive: Okay thank you sir.\\n\\nCustomer: Lead ellam konjam assign pannunom.\\n\\nExecutive: Adhu adhu.\\n\\nExecutive: Sir ungaluku naan ungaluku fullaave adha pathi guide pannuren sir so adukku thaan actually naanume kupittu irundhen.\\n\\nCustomer: Okay.\\n\\nExecutive: Neenga oru 11:30 maari poiduveengala sir office ku?\\n\\nCustomer: Illa sir naan ippo konjam veliyila iruken Pondicherry la iruken correct a exact a Pondicherry la iruken.\\n\\nExecutive: Sari sir.\\n\\nExecutive: Sari okay appo naan kupidren sir oru one hour ku appuram.\\n\\nCustomer: Kupidunga laptop kondu vandhuruken naan reach aagite ungaluku.\\n\\nExecutive: Sari sir.\\n\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Needs support with lead assignment.\\n\n- Wants a call back later.\\n\n\\n\nResolution:\\n\n- Executive offered guidance on lead assignment.\\n\n- Agreed to call back after one hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, support, call back\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b8d9cb43-6f8c-49f9-89d2-da926b04bb15",
+  "ucid": "b8d9cb43-6f8c-49f9-89d2-da926b04bb15",
+  "seller_categories": [
+    {
+      "mcat_id": "788",
+      "mcat_name": "Latex Gloves"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    },
+    {
+      "mcat_id": "216615",
+      "mcat_name": "3 Ply Face Mask"
+    },
+    {
+      "mcat_id": "1903",
+      "mcat_name": "Safety Gloves"
+    },
+    {
+      "mcat_id": "126120",
+      "mcat_name": "Disposable Cap"
+    }
+  ]
+}

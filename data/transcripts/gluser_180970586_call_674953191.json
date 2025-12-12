@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674953191",
+  "gluser_id": "180970586",
+  "vintage_months": 7,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sahab.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir namaskar sir Abhishek baat kar raha tha.\\nCustomer: Ji namaskar.\\nExecutive: Sir wo aapka jo certificate wala jo mail tha wo main kar chuka hu main aapko gaurav din bataya hoga aur reward reward aaya hai hamare pass 10 15 din aapke pass pahunch jayega theek hai aur jo bhi humne correction tha profile pe aapke humne kar diya hai aapke sari profile jo bhi update karna tha humne kar diya hai aur jo ye incoming call se ticket open ho gaya tha usko close kar de hum abhi.\\nCustomer: Ah ha kar dijiye kar dijiye.\\nExecutive: Theek hai aur jo jo humne us din video meet me samjhaya tha na jo sequence wagera theek karna tha description description sara maine add kar diye hai.\\nExecutive: Theek hai jo bhi missing tha humne add kar diya hai.\\nCustomer: Theek hai sir theek hai.\\nExecutive: Theek hai main isko close kar raha hu sir theek hai aur feedback ke liye aapke pass jayega mail pe.\\nCustomer: Ok. Theek hai sir theek hai.\\nExecutive: Theek hai sir theek hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's certificate mail and profile update.\\n\n\\n\nResolution:\\n\n- Executive confirmed certificate mail sent.\\n\n- Executive confirmed profile updated as discussed.\\n\n- Executive offered to close the incoming call ticket.\\n\n\\n\nNext Steps: \\n\n- Feedback mail will be sent to the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- certificate, profile update, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7829c3de-d5ba-4c22-9cb8-b6eef678ff78",
+  "ucid": "7829c3de-d5ba-4c22-9cb8-b6eef678ff78",
+  "seller_categories": [
+    {
+      "mcat_id": "188562",
+      "mcat_name": "Wedding Light"
+    },
+    {
+      "mcat_id": "145619",
+      "mcat_name": "Wedding Umbrella"
+    },
+    {
+      "mcat_id": "17147",
+      "mcat_name": "Stage Lights Stand"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    },
+    {
+      "mcat_id": "122834",
+      "mcat_name": "Wedding Decoration Items"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673150805",
+  "gluser_id": "134763475",
+  "vintage_months": 39,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691932",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Hi ma'am, good morning.\\nCustomer: Hello.\\nExecutive: Okay, good morning. Ma'am, Vidushi is speaking from IndiaMART. Yesterday you gave me a miss call. So, a ticket has been opened in that.\\nCustomer: Ma'am, I am a little in hospital, ma'am. Please give me one hour.\\nExecutive: Uh, are you comfortable in Hindi, na?\\nCustomer: Hindi, ma'am. Please give me one hour. I will call you back.\\nExecutive: One hour?\\nCustomer: Yeah.\\nExecutive: Yeah, ma'am, firstly, uh, okay. I'll just wait after one hour. I will call you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is in the hospital.\\n\n- Customer requested a call back after one hour.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back after one hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, hospital, ticket\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3e112b8b-2c8f-4988-a62c-da2ce410ac98",
+  "ucid": "3e112b8b-2c8f-4988-a62c-da2ce410ac98",
+  "seller_categories": [
+    {
+      "mcat_id": "11370",
+      "mcat_name": "Laundry Washing Machine"
+    },
+    {
+      "mcat_id": "95299",
+      "mcat_name": "Commercial Washing Machine"
+    },
+    {
+      "mcat_id": "183360",
+      "mcat_name": "Hydro Machine"
+    },
+    {
+      "mcat_id": "19528",
+      "mcat_name": "Tumble Dryer"
+    },
+    {
+      "mcat_id": "152004",
+      "mcat_name": "Heavy Duty Washing Machine"
+    }
+  ]
+}

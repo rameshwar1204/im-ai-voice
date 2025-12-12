@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667795995",
+  "gluser_id": "104294585",
+  "vintage_months": 0,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639486",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes.\\nCustomer: Ji mam, namaste.\\nExecutive: Sir, kaun si company se baat kar rahe hain?\\nCustomer: Main gali ka enterprises IndiaMART se baat kar raha hun.\\nExecutive: Ji sir, bataiye.\\nCustomer: Mam, mere ko ek transfer karwana tha from Nimar to Tamil Nadu.\\nExecutive: Sir, main na actually aaj hamari chutti hai Guru Gobind Jayanti ki vajah se. To isiliye mere paas abhi system vagaira nahi hai, main aapko kal mein kal call mila lu?\\nCustomer: Thik hai mam, kal morning mein aap urgently yaad rakh ke ek baar call kar lijiyega mere ko. Mere ko thoda urgent hai isliye.\\nExecutive: Sure sir, sure.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a transfer from Nimar to Tamil Nadu.\\n\n\\n\nResolution:\\n\n- Executive informed about holiday due to Guru Gobind Jayanti.\\n\n- Executive offered to call back the next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- transfer, nimar, tamil nadu, holiday\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4633d88a-3b4d-42b1-9c38-65deec9a85c9",
+  "ucid": "4633d88a-3b4d-42b1-9c38-65deec9a85c9",
+  "seller_categories": [
+    {
+      "mcat_id": "69245",
+      "mcat_name": "Fresh Garlic"
+    },
+    {
+      "mcat_id": "42518",
+      "mcat_name": "Garlic"
+    },
+    {
+      "mcat_id": "187693",
+      "mcat_name": "Organic Garlic"
+    },
+    {
+      "mcat_id": "179852",
+      "mcat_name": "Peeled Garlic"
+    },
+    {
+      "mcat_id": "216871",
+      "mcat_name": "Black Garlic"
+    }
+  ]
+}

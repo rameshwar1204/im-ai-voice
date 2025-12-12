@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670408382",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha.\\nExecutive: Gaargi Enterprises se baat kar rahe hai sir?\\nCustomer: Boliyena.\\nExecutive: Mam sir mera naam Komal hai, mai IndiaMART se baat kar rahi hu aap se aapke account manager.\\nCustomer: Ha to mai abhi abhi baat karwata hu ye number pe mai, thik hai?\\nExecutive: Hello\\nCustomer: Ha ha mai Alang aaya hu ye number pe baat karo mai baat karwata hu.\\nCustomer: To aap number likh lo inke saath baat karo.\\nExecutive: Actually sir unka jo phone number hai wo switch off ja raha hai.\\nCustomer: Ha ha abhi baat karwata hu, thik hai? Abhi baat karwata hu, ha.\\nExecutive: Aap abhi baat kara dijiye mujhe please.\\nCustomer: Ha ha ye number pe baat karau na?\\nExecutive: Kispe? Ha actually ji hello ha ji meri aawaz aa rahi hai aapko?\\nCustomer: Ha ye number pe baat karau na aapko?\\nExecutive: Ha ji mai ye keh rahi hu ki unka number switch off ja raha hai.\\nExecutive: Baat kara dijiye.\\nCustomer: Abhi baat ha baat kara dijiye ha ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's phone number is switched off.\\n\n- Wants to connect with the account manager.\\n\n\\n\nResolution:\\n\n- Executive tried to connect with the customer.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, switch off, call connection\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=79525979-0f95-4783-bd80-8487b74a5e0b",
+  "ucid": "79525979-0f95-4783-bd80-8487b74a5e0b",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

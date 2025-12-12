@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669511651",
+  "gluser_id": "136696088",
+  "vintage_months": 3,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9713939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Sir Namaskar, main se ek baat kar raha hu.\\n\\nExecutive: Hello\\n\\nCustomer: Ji ji boliye.\\n\\nExecutive: Sir wo use services use nahi ho rahi hai sir use karna hai ki nahi ye bhi bata dijiye sir.\\n\\nExecutive: Sir karna to hai mere pass ladka sab nahi karaenge dusra aadmi se hum aapko baat karwa denge aapko ye\\n\\nExecutive: Kal parso me baat kara denge aap se wohi pura kaam karwa denge hum aapke.\\n\\nCustomer: Kyuki fir ye listing ye sab khatam ho jayega to fayda kya hai iska?\\n\\nExecutive: Nahi nahi sahi baat hai sir hum to khud soch rahe hai hum kara denge kal parso me sir aapko kya aap aap ha kara dijiye kabhi kara dijiye lekin aapke bete se contact kar raha hu wo number bar bar kate ja rahe hai yaha se unka number hi yaha se hata dijiye unko call nahi jayega.\\n\\nExecutive: Theek theek hum kar denge aapko bol denge aapko kal kal nahi to parso kar denge aapka.\\n\\nCustomer: Kab call karenge aap to hum?\\n\\nExecutive: Parso parso kijiye sir.\\n\\nCustomer: Parso kare subah kare subah?\\n\\nExecutive: Subah hi hum aapko 11 12 baje kar denge.\\n\\nCustomer: Ye yahi number hai sir ye yahi number hai.\\n\\nExecutive: Ha yahi number hai yahi number pe call karenge ji.\\n\\nCustomer: Ji theek hai theek hai theek hai theek theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's use services are not working.\\n\n- Wants to remove his son's number.\\n\n\\n\nResolution:\\n\n- Executive assured to resolve the issue.\\n\n- Executive assured to call the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call in the morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- use services, listing, contact, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a834910e-43bb-4335-99f4-dd61c830c90b",
+  "ucid": "a834910e-43bb-4335-99f4-dd61c830c90b",
+  "seller_categories": [
+    {
+      "mcat_id": "165819",
+      "mcat_name": "Home Painting Services"
+    },
+    {
+      "mcat_id": "118733",
+      "mcat_name": "Texture Painting Service"
+    },
+    {
+      "mcat_id": "118735",
+      "mcat_name": "Epoxy Painting Service"
+    },
+    {
+      "mcat_id": "118740",
+      "mcat_name": "Commercial Painting Service"
+    },
+    {
+      "mcat_id": "42853",
+      "mcat_name": "Interior and Exterior Painting Service"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669368768",
+  "gluser_id": "35024942",
+  "vintage_months": 73,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655866",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ji, namaste sir.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Awaz aa rahi hai sir.\\nCustomer: Hello.\\nCustomer: Haan ji awaz aa rahi hai sir.\\nCustomer: Main Kolkata se bol raha hun.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello?\\nCustomer: Sir awaz aa rahi hai aapko?\\nCustomer: Sir awaz aa rahi hai aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is checking if voice is audible.\\n\n\\n\nResolution:\\n\n- N/A\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, audible, kolkata\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8dee6f11-162f-48be-9a65-3c14b55adc0b",
+  "ucid": "8dee6f11-162f-48be-9a65-3c14b55adc0b",
+  "seller_categories": [
+    {
+      "mcat_id": "139766",
+      "mcat_name": "Butyl Tubes"
+    },
+    {
+      "mcat_id": "69553",
+      "mcat_name": "Motorcycle Tubes"
+    },
+    {
+      "mcat_id": "189447",
+      "mcat_name": "Motul Engine Oil"
+    },
+    {
+      "mcat_id": "184283",
+      "mcat_name": "Bike Engine Oil"
+    },
+    {
+      "mcat_id": "68284",
+      "mcat_name": "Motorcycle Brake Shoe"
+    }
+  ]
+}

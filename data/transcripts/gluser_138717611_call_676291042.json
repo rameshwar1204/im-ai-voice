@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676291042",
+  "gluser_id": "138717611",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718386",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: sab mein kara denge bol raha main pada hu aap log kya aap log\\nCustomer: ab main kya bolu\\n(silence)\\nCustomer: Hello\\nExecutive: Hello\\nExecutive: Hello\\nCustomer: Hello haan ji\\nExecutive: haan ji haan ji Vishal ji bataiye aapka us time maine already aapko matlab guide kiya tha waise ek cheez main aapse puchungi ki abhi jo bhi matlab kal bhi aapke sath aapke account manager ne sir video meet kari thi aapko cheeze waha par guide bhi ki thi to ye cheez aapko nahi batai thi sir ki ye bylead aapki weekly lapse hoti hai\\nCustomer: nahi mere ko ye laga tha jo ek extra milti hai bas wahi wahi expire hoti hai\\nExecutive: ha nahi nahi sir weekly wali week mein hoti hai ek bari saturday night mein hoga theek hai\\nCustomer: achcha\\nExecutive: aur daily bonus wali daily hoti hai lekin lapse to dono hi hoti hai aapki agar aapka use nahi hota hai to sirf annual mein agar aapko bylead mile jaise annual mein shayad aapko 10 bylead allocate hui thi jahan se aapne do consume ki hai right to wo annual wala sirf aapka lapse nahi hota hai wo pure ek saal tak ke liye rehta hai aapke pass valid non lapsible hota hai wo kyunki wo aapke package se na alag as a complimentary karwa ke diya jata hai extra benefit ke liye ki kabhi aapka bylead balance khatam ho gaya hai lapse ho gaya hai aur aapko koi bylead aisi bhi free hai sir jahan pe aapko usko consume karna hai right to aap waha se bylead balance utha ke aur consume kar sakte hain\\nCustomer: achcha\\nExecutive: achcha aur koi aur sir doubt hai\\nCustomer: to ye har saturday night to ye har saturday night hota hai\\nExecutive: haan haan weekly wala har saturday night mein ho jayega\\nExecutive: waha pe likha hua bhi hai sir dekho na likha hua hai daily bonus ka expire tonight aur weekly pe likha hua hai expire on saturday 29th november\\nCustomer: achcha\\nExecutive: haan ji to raat ko kam se kam 11 baje\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about weekly buyleads expiring.\\n\n\\n\nResolution:\\n\n- Explained weekly and annual buylead expiry.\\n\n- Clarified weekly buyleads expire every Saturday night.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, expiry, weekly, annual\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=21e97c79-cc9b-4b4d-a216-961aa6032d86",
+  "ucid": "21e97c79-cc9b-4b4d-a216-961aa6032d86",
+  "seller_categories": [
+    {
+      "mcat_id": "108093",
+      "mcat_name": "Electric Scooter Batteries"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "228298",
+      "mcat_name": "Lithium Iron Phosphate Battery"
+    },
+    {
+      "mcat_id": "64935",
+      "mcat_name": "Electric Vehicle Battery"
+    }
+  ]
+}

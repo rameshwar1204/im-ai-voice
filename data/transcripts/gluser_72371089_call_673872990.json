@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673872990",
+  "gluser_id": "72371089",
+  "vintage_months": 26,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Sambhal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699446",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha ji. Ha ji sir.\\nCustomer: Hello\\nExecutive: Hello. Hello. Ha ji.\\nCustomer: Sir, ache baat kar raha hu sir aap se.\\nExecutive: Kaha se?\\nCustomer: Hello.\\nExecutive: Hello. Ji arey main aap se baat kar raha hu ache.\\nCustomer: Samajh nahi aa raha hai kya bata rahe hai aap.\\nExecutive: Ab aawaz aapki cut ke aa rahi hai.\\nExecutive: Cut ke aa rahi hai. Hello. To maine helpline pe call ki aapke paas kaise lag rahi hai call.\\nCustomer: Aapki aawaz cut ke aa rahi hai.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is breaking.\\n\n- Executive's voice is also breaking.\\n\n\\n\nResolution:\\n\n- No resolution was provided.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice issue, helpline\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7ff80f0d-a74e-452e-a98e-0cb82c36d832",
+  "ucid": "7ff80f0d-a74e-452e-a98e-0cb82c36d832",
+  "seller_categories": [
+    {
+      "mcat_id": "85928",
+      "mcat_name": "MDF Box"
+    },
+    {
+      "mcat_id": "73271",
+      "mcat_name": "Metal Handbag"
+    },
+    {
+      "mcat_id": "19432",
+      "mcat_name": "Wooden Gift Box"
+    },
+    {
+      "mcat_id": "19385",
+      "mcat_name": "Wooden Bangle"
+    },
+    {
+      "mcat_id": "41373",
+      "mcat_name": "Wooden Photo Frames"
+    }
+  ]
+}

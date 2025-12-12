@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674424437",
+  "gluser_id": "254548597",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Narsapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Achha pandit.\\nExecutive: John babu baat kar rahe hain?\\nCustomer: Ha ha ya ya.\\nExecutive: Pushmita this side from IndiaMART headquarter Noida.\\nCustomer: Yeah, could you speak in English if you don't mind?\\nExecutive: Yeah sure. I got your call so that's why I'm connecting you.\\nCustomer: Okay.\\nExecutive: Yeah, what's the reason behind this?\\nCustomer: I didn't call to IndiaMART. When you receive the call?\\nExecutive: Yeah.\\nCustomer: Today itself or yesterday?\\nExecutive: Yesterday on customer care number.\\nCustomer: Aha maybe it will be okay. No no nothing nothing nothing.\\nExecutive: Okay and how the services are going?\\nCustomer: Yeah going like there is no agent is connected to me to get the buyleads.\\n\\nExecutive: Okay so shall I schedule a video meet for you for services? So I can guide you easily and you can understand this simply.\\nCustomer: Okay can you arrange it like evening 4:30, 4 o'clock? Is it possible?\\nExecutive: Yeah sure.\\nCustomer: Yeah yeah sure sure sure why not.\\nExecutive: Thank you thank you thank you.\\nExecutive: Okay thank you so much sir.\\nCustomer: Yeah have a good day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No agent connected to get buyleads.\\n\n\\n\nResolution:\\n\n- Executive offered to schedule a video meet.\\n\n\\n\nNext Steps: \\n\n- Video meet to be scheduled at 4:00 or 4:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meet, agent\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a4f49592-0d60-463b-980e-ea05a31e7d62",
+  "ucid": "a4f49592-0d60-463b-980e-ea05a31e7d62",
+  "seller_categories": [
+    {
+      "mcat_id": "156476",
+      "mcat_name": "Semi Husked Coconut"
+    },
+    {
+      "mcat_id": "156360",
+      "mcat_name": "Husked Coconut"
+    },
+    {
+      "mcat_id": "156361",
+      "mcat_name": "Tender Coconut"
+    },
+    {
+      "mcat_id": "188991",
+      "mcat_name": "Pollachi Coconut"
+    },
+    {
+      "mcat_id": "136179",
+      "mcat_name": "Raw Coconut"
+    }
+  ]
+}

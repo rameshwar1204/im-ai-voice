@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669223057",
+  "gluser_id": "255147729",
+  "vintage_months": 0,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648972",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji sir, good morning.\\nExecutive: Good morning.\\nCustomer: Gaurav baat kar raha hun Haryana se.\\nExecutive: Achcha, ji?\\nCustomer: Ji, ji.\\nExecutive: Actually aapka profile hai na sir, Northern Bengal system. Usi ke regarding call kiya tha aapne function request kiya tha na, main 3 science se call kiya tha.\\nCustomer: Achcha.\\nExecutive: Ji, ji. To aapko connect kar lu sir, guide kar du sari chije?\\nCustomer: Haan, kar do guide aap.\\nExecutive: Ji, aapka jo sir mail ID hai IndiaMART ka?\\nCustomer: Ji.\\nExecutive: Usi pe main aapko share kar raha hun Google Meet ka link, video meeting ka.\\nCustomer: Abhi video meeting to main kar nahi paunga sir.\\nExecutive: Kis time free hai kyunki guide karunga na sara portal aapko, sari chije. To usi pe connect karke karunga.\\nCustomer: Man ke chaliye 6:30 baje kareeb.\\nExecutive: 6:30 baje?\\nCustomer: Ji. Uske pehle possibilities ho to?\\nExecutive: Nahi, nahi, nahi. Kyunki 6:00 baje office off ho jata hai.\\nExecutive: Ji. Achcha, achcha.\\nCustomer: Ji, ji. 6:00 baje kar lena fir aap.\\nExecutive: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs guidance on IndiaMART portal.\\n\n\\n\nResolution:\\n\n- Executive agreed to connect at 6:00 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, video meeting, guidance\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3b894f82-f71a-4ec9-afb7-6d3298dbf016",
+  "ucid": "3b894f82-f71a-4ec9-afb7-6d3298dbf016",
+  "seller_categories": [
+    {
+      "mcat_id": "65664",
+      "mcat_name": "Glass Bangles"
+    },
+    {
+      "mcat_id": "152121",
+      "mcat_name": "Fashion Bangles"
+    },
+    {
+      "mcat_id": "65631",
+      "mcat_name": "Designer Bangles"
+    },
+    {
+      "mcat_id": "4233",
+      "mcat_name": "Bangles"
+    },
+    {
+      "mcat_id": "181766",
+      "mcat_name": "Fancy Bangle"
+    }
+  ]
+}

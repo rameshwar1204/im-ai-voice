@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670434291",
+  "gluser_id": "109217771",
+  "vintage_months": 59,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663909",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Muzaffar Nagar chahiye bhai mujhe.\\nCustomer: Tum toh wahin ke ho na?\\nCustomer: Matlab wahin Muzaffar Nagar wahin toh hai.\\nCustomer: Are phir bhi.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji, boliye.\\nExecutive: Namaskar sir.\\nExecutive: Saurabh Aloop Pandey bol raha hu sir IndiaMART office se, kaise hain?\\nCustomer: [inaudible]\\nExecutive: Hello.\\nCustomer: Haan boliye.\\nExecutive: Sir aapne customer care pe phone kiya tha sir, kuch service se related.\\nCustomer: Nahi nahi woh ho gaya tha, baat ho gaya tha.\\nExecutive: Baat ho gaya sir?\\nCustomer: Haan, koi issue ab toh nahi face kar rahe hain na? Pehchan rahe hain sir, Abhaykant ka manager baat kar raha hu main. Abhaykant chutti pe hain sir, toh unka phone nahi gaya hoga aapko.\\nExecutive: Toh abhi koi issue toh nahi face kar rahe hain na sir?\\nCustomer: Nahi nahi abhi toh nahi kar rahe hain.\\nExecutive: Chalo nahi sir yeh mat sochiye sir, service ke liye toh maine us time pe baat koshish kiya ki aapne bola tha toh aap karenge. Uske liye phone nahi kiya hai sir. Achha waise sir kya hua us time pe sir, kyun nahi kar paye sir, kuch idea bataya nahi, update nahi mila mujhe.\\nExecutive: Hello.\\nCustomer: Rukiye main 10 minute dijiye mere ko baat karta hu, yahan chala jana.\\nExecutive: Hello.\\nCustomer: Haan sir.\\nExecutive: Haan boliye. Main keh raha sir zyada zyada der nahi lunga sir aapka. Main keh raha sir us din aapne bola tha raat mein yaad hoga aapne approve bhi liya tha mujhse. Ki aapko bhi mujhe karna hai, karna hai. Mere ko payment ka arey woh ho gaya tha toh thoda ek maal kharidna tha toh is wajah se main kar nahi paya.\\nExecutive: Abhi sir kya availability hai kuch karne ki aaj? Aise puch raha hu.\\nCustomer: Nahi nahi nahi abhi toh abhi toh nahi hai sir kyunki.\\nExecutive: Sir matlab pichle mahine aap interested the sir, sab kuch okay tha, achanak se aapko issue aa gaya ki nahi karna hai. Main toh samajh nahi paya sir, aapne raat ke 8 baje phone karke bola ki mujhe karna hai. Fir achanak se phone uthana band kar diya sir aapne. Kuch issue sir aapne face kiya pricing mein kisi cheez mein bataye sir aap. nahi hai sir aisa koi issue nahi hai. Abhi thoda sa mere ko aapko IndiaMART se koi shikayat hai sir isliye aap badi service nahi lena chahte hain?\\nCustomer: Nahi nahi nahi aisa koi issue nahi hai.\\nExecutive: Toh koi expectation hai sir matlab hum expect kare aap se sir kab tak aap lenge ya phir aapko uske liye approach hi na karu, mana kar du Abhaykant ko uske liye ki discuss na kare is cheez ke bare mein. Haan haan main main khud hi call karunga aapko aap tension na lijiye.\\nExecutive: Koi baat nahi. Main keh raha hu sir aapki complaint jo 96 pe karte ho na, toh ek complaint khul jati hai aapki company ke naam se. Toh aapko sir abhi main jab complaint band karunga toh mere naam ka ek feedback jayega sir. Okay. Uspe please satisfied mark kar dijiyega. Theek hai? Theek hai?\\nExecutive: Uspe satisfied mark kar dijiyega sir. Theek hai, theek hai.\\nExecutive: Okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had payment issues, could not proceed.\\n\n- Executive inquired about the reason for not proceeding.\\n\n- Executive asked about expectations for future subscription.\\n\n\\n\nResolution:\\n\n- Customer stated he would call back himself.\\n\n- Executive requested a 'satisfied' mark on feedback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, payment, feedback, complaint\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 190,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d1b91bc8-d56a-445b-852b-31c87dc34901",
+  "ucid": "d1b91bc8-d56a-445b-852b-31c87dc34901",
+  "seller_categories": [
+    {
+      "mcat_id": "114244",
+      "mcat_name": "Loose Tea"
+    },
+    {
+      "mcat_id": "188575",
+      "mcat_name": "Premium Tea"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    },
+    {
+      "mcat_id": "4941",
+      "mcat_name": "Assam Tea"
+    },
+    {
+      "mcat_id": "105919",
+      "mcat_name": "Tea"
+    }
+  ]
+}

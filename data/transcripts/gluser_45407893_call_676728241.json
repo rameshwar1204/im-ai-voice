@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676728241",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Namaste sir.\\nExecutive: Hello.\\nCustomer: Haan, hello.\\nExecutive: Tulsian Healthcare Private Limited mein baat ho rahi hai mam?\\nCustomer: Ji mam.\\nExecutive: Mam, namaskar. Main IndiaMART ki team se baat kar rahi hu. Priyanka naam hai mam mera. Bas do minute aapse lungi.\\nCustomer: Ji bataiye.\\nExecutive: Mam, hume bas ek concern receive hua tha aapke through ki inquiries ka kuch wo hai, less we are getting less inquiries.\\nCustomer: Yes mam.\\nExecutive: You know, to aap mujhe thoda sa batao mam, kuch location ka limitation hai ki specific kisi location mein deal kar rahe ho aap?\\nCustomer: Nahi, pan India mein deal kar rahe hai mam, location koi wo nahi hai.\\nExecutive: Hello.\\nCustomer: Hello, mam aawaz nahi aa rahi hai kya?\\nExecutive: Aawaz break ho rahi hai mam, abhi aa rahi hai, bataye mam.\\nCustomer: Mam, pan India mein kaam karte hai hum.\\nExecutive: To aapko pan India inquiries nahi aa rahi hai?\\nCustomer: Ji, yes mam, nahi aa rahi hai.\\nExecutive: Hello.\\nCustomer: Hello, mam aawaz aa rahi hai. Mam main call back karu? Main call back kar rahi hu. Main call back.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving enough inquiries.\\n\n- Wants to know if location limitation is the reason.\\n\n\\n\nResolution:\\n\n- Executive confirmed customer deals pan India.\\n\n- Executive offered to call back due to voice issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, location, call back\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ecbf66df-163a-4a10-9194-71e7a4098c35",
+  "ucid": "ecbf66df-163a-4a10-9194-71e7a4098c35",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

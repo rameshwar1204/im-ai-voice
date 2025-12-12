@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675779375",
+  "gluser_id": "12302018",
+  "vintage_months": 7,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701519",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=109d1b26-debe-4481-93be-a6fa22b6fd93",
+  "ucid": "109d1b26-debe-4481-93be-a6fa22b6fd93",
+  "seller_categories": [
+    {
+      "mcat_id": "29006",
+      "mcat_name": "Freight Forwarding Services"
+    },
+    {
+      "mcat_id": "41987",
+      "mcat_name": "Shipping Services"
+    },
+    {
+      "mcat_id": "84088",
+      "mcat_name": "Air Cargo Service"
+    },
+    {
+      "mcat_id": "31768",
+      "mcat_name": "Marine Engine"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673749030",
+  "gluser_id": "80360409",
+  "vintage_months": 6,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Srinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628883",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Hello. Sir, good afternoon.\\nExecutive: Afternoon. Walekum assalam. Kaise hain sir?\\nCustomer: Bas sir, theek.\\nCustomer: Ji, sir abhi matlab namaz ka to time nahi hua hai na abhi?\\nExecutive: Haan, haan, haan, haan. Ho gaya kya?\\nExecutive: Namaz ke baad baat karte hain aaram se. Theek hai.\\nCustomer: Theek hai. Haan, isiliye maine pucha aapse. Theek hai.\\nExecutive: Theek hai, theek hai, theek hai. Okay. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Asking if it is time for Namaz.\\n\n\\n\nResolution:\\n\n- Executive suggested to talk after Namaz.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnamaz, time\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ec16167d-233e-483b-bffa-6ce1b2723558",
+  "ucid": "ec16167d-233e-483b-bffa-6ce1b2723558",
+  "seller_categories": [
+    {
+      "mcat_id": "73955",
+      "mcat_name": "Heat Pump Water Heater"
+    },
+    {
+      "mcat_id": "30193",
+      "mcat_name": "Heat Pumps"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    }
+  ]
+}

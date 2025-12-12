@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667491635",
+  "gluser_id": "210528210",
+  "vintage_months": 14,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636533",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes.\\nCustomer: Haan, I am calling from High Tech Portable Cabins.\\nExecutive: Haanji.\\nCustomer: Ye jo number hai hamara mobile number hai. Usko mai primary number ko change karna chahta hu aur isko alternate number ko change karna chahta hu.\\nExecutive: Hmm hmm, ho jayega.\\nCustomer: Ji. To thoda change kar dijiyega, mai aap se try kar raha hu, ho nahi raha hai wo.\\nExecutive: Koi baat nahi sir, I just connect, mai na aapko kar rahi hu apna apne end se call, thik hai? Aur aapko video meeting link bhi share kar rahi hu, thik hai?\\nCustomer: Ji.\\nExecutive: Yes. Give me two or three minutes.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change primary and alternate mobile numbers.\\n\n\\n\nResolution:\\n\n- Executive offered to help via video meeting.\\n\n\\n\nNext Steps: \\n\n- Executive will share a video meeting link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mobile number, change, video meeting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4e99bb2d-7575-421e-9bae-bbf7197abd5a",
+  "ucid": "4e99bb2d-7575-421e-9bae-bbf7197abd5a",
+  "seller_categories": [
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "150852",
+      "mcat_name": "MS Porta Cabin"
+    },
+    {
+      "mcat_id": "135712",
+      "mcat_name": "Prefabricated Cabin"
+    }
+  ]
+}

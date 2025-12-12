@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673843374",
+  "gluser_id": "129082634",
+  "vintage_months": 53,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698727",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Yes sir.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes ma'am.\\nCustomer: Good afternoon.\\nExecutive: Good afternoon, ek dusra number note kijiye na, usme call kijiye na ma'am.\\nCustomer: Batayiye sir.\\nExecutive: 7780\\nCustomer: 7780\\nExecutive: 42021\\nCustomer: Sorry?\\nExecutive: 420\\nCustomer: 21, ye number kiska hai sir?\\nExecutive: Ye mera hai.\\nCustomer: Dusra number.\\nExecutive: Oh sorry.\\nCustomer: Theek hai, call kar denge wapas.\\nExecutive: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to call on another number.\\n\n\\n\nResolution:\\n\n- Executive provided another number to call on.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0f899f74-dbf8-4e01-8754-8fc95b8ca8bb",
+  "ucid": "0f899f74-dbf8-4e01-8754-8fc95b8ca8bb",
+  "seller_categories": [
+    {
+      "mcat_id": "222754",
+      "mcat_name": "Phosphate Rich Organic Manure (PROM)"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "215886",
+      "mcat_name": "Bio Potash"
+    },
+    {
+      "mcat_id": "141258",
+      "mcat_name": "Bentonite Granules"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    }
+  ]
+}

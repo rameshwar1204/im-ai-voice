@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676743178",
+  "gluser_id": "445790",
+  "vintage_months": 197,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mandvi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724415",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nExecutive: Ha, aap sir good morning.\\nCustomer: Good morning.\\nExecutive: Suresh ji, main Swapnil baat kar raha tha IndiaMART se recording line pe. Call kar rahe the sir aap hamare employee ko Raksha Singh ko jo aapke account manager hai.\\nCustomer: Nahi ho gaya baat.\\nExecutive: Achcha ho gaya hai? Abhi hua hai sir?\\nCustomer: Kal ho gaya.\\nExecutive: Achcha kal hi ho gaya. ke bare mein na you are talking about right?\\nCustomer: I don't know.\\nExecutive: To koi koi problem vagarah to nahi aa rahi thi sir IndiaMART ki taraf se?\\nCustomer: Sir do din se.\\nExecutive: Ji sir. Koi na koi phone karte rehta hai.\\nExecutive: Main keh raha tha koi problem aa rahi thi kya sir IndiaMART se?\\nCustomer: Nahi by lead ke liye puchte the. Ho gaya sir.\\nExecutive: Achcha ho gaya. Abhi koi problem nahi aa rahi hai na? Thik hai. To sir ye concern main close kar raha hu kyuki aapne call kiya tha na shayad wo utha nahi payi thi to ye mere paas aa gaya tha sir. Thik hai? To main isko close kar raha hu ke aapko aisa koi problem hai nahi. To\\nCustomer: Problem hai ke by lead hai ki le liya humne wo khali bataiye na. By lead ke piche humko phone aate rehta hai aapka.\\nCustomer: Just tell me my by lead have been consumed or not.\\nExecutive: Main check kar leta hu sir. Ek minute.\\nExecutive: Uh kal aapne char by lead consume kiya hua tha sir. 28th of November ko right?\\nCustomer: Haan.\\nExecutive: To aapne inse baat kar li hai sir? Ye jo hai.\\nCustomer: Ho gaya na baat thik hai.\\nExecutive: Okay no problem. Thik hai sir. Chaliye is call ke baad na sir ek feedback ka mail aayega sir mere liye rahega.\\nCustomer: Nahi abhi not today not today. Nahi I am busy right now.\\nCustomer: Feedback baad me nahi de paunga. Ha thik hai.\\nExecutive: Thik hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was receiving frequent calls about buyleads.\\n\n- Wants to know if buyleads have been consumed.\\n\n\\n\nResolution:\\n\n- Executive confirmed 4 buyleads consumed on November 28th.\\n\n- Customer confirmed the issue was resolved.\\n\n\\n\nNext Steps: \\n\n- Executive mentioned feedback mail after the call.\\n\n- Customer refused to give feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=df59edc1-adfd-480d-9130-04d90d8324ba",
+  "ucid": "df59edc1-adfd-480d-9130-04d90d8324ba",
+  "seller_categories": [
+    {
+      "mcat_id": "106132",
+      "mcat_name": "Multani Mitti"
+    },
+    {
+      "mcat_id": "3796",
+      "mcat_name": "China Clay"
+    },
+    {
+      "mcat_id": "137177",
+      "mcat_name": "White Kaolin Clay"
+    },
+    {
+      "mcat_id": "138779",
+      "mcat_name": "Kaolin Powder"
+    },
+    {
+      "mcat_id": "166241",
+      "mcat_name": "Attapulgite"
+    }
+  ]
+}

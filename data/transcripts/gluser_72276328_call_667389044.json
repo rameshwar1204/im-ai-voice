@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667389044",
+  "gluser_id": "72276328",
+  "vintage_months": 33,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635685",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, good morning, ma'am.\\nCustomer: Good morning.\\nExecutive: Ma'am, I am [Executive Name] speaking from IndiaMART. Ma'am, am I speaking to the right person?\\nCustomer: Yes.\\nExecutive: Ma'am, your name?\\nCustomer: My name is [Customer Name].\\nExecutive: [Customer Name] ma'am, actually, ma'am, I called you regarding your IndiaMART page. Ma'am, you have taken a silver package from IndiaMART. So, ma'am, I wanted to know if you are getting proper service from IndiaMART or not.\\nCustomer: No, I am not getting any service. I have been calling you people for the last 15 days, but no one is picking up the call. What is this?\\nExecutive: Ma'am, I am extremely sorry for that. Ma'am, I will definitely help you out. Ma'am, can you tell me what problem you are facing?\\nCustomer: I am not getting any leads. I have taken the package, but I am not getting any leads. What is the point of taking the package?\\nExecutive: Okay, ma'am, I understand. Ma'am, can you tell me when you took the package?\\nCustomer: It has been almost a month now.\\nExecutive: Okay, ma'am, no problem. Ma'am, I will definitely help you out. Ma'am, can you tell me what product you deal in?\\nCustomer: I deal in ladies' suits.\\nExecutive: Ladies' suits, okay, ma'am. Ma'am, I will definitely help you out. Ma'am, give me two minutes. I will check and let you know what the problem is.\\nCustomer: Okay.\\nExecutive: Thank you, ma'am. (silence) Ma'am, I have checked. Ma'am, your product is ladies' suits, right?\\nCustomer: Yes.\\nExecutive: Ma'am, actually, what happened is that you have put your product in the wrong category. That's why you are not getting any leads. Ma'am, I will put your product in the right category, and you will start getting leads within 24 to 48 hours.\\nCustomer: Okay, do it now.\\nExecutive: Yes, ma'am, I am doing it now. Ma'am, it will take some time to update. Ma'am, you will start getting leads within 24 to 48 hours.\\nCustomer: Okay.\\nExecutive: Okay, ma'am. Ma'am, is there anything else I can help you with?\\nCustomer: No, that's it.\\nExecutive: Okay, ma'am. Thank you for calling IndiaMART. Have a great day, ma'am.\\nCustomer: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting proper service from IndiaMART.\\n\n- Not receiving any buyleads after taking package.\\n\n- Calls not being picked up for 15 days.\\n\n\\n\nResolution:\\n\n- Product was placed in the wrong category.\\n\n- Executive is updating the product category.\\n\n- Customer will start getting leads in 24-48 hours.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, product category\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8ccedef4-b1e1-4652-a058-b704d9b17939",
+  "ucid": "8ccedef4-b1e1-4652-a058-b704d9b17939",
+  "seller_categories": [
+    {
+      "mcat_id": "158095",
+      "mcat_name": "Electric Bike Batteries"
+    },
+    {
+      "mcat_id": "122229",
+      "mcat_name": "Electric Bicycle Kit"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "118962",
+      "mcat_name": "EV Hub Motor and Kits"
+    }
+  ]
+}

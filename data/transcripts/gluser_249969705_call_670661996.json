@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670661996",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello, haanji sir, main na aapko WhatsApp pe aapke usi pe link share kar rahi hu, aap join kariye, theek hai?\\nExecutive: Haan ji, link bhej dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will share a link on WhatsApp and wants the executive to join.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to send the link.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp link, join\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d384440a-db43-4473-91d1-1204602fbb49",
+  "ucid": "d384440a-db43-4473-91d1-1204602fbb49",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

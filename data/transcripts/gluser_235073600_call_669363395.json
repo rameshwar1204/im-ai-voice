@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669363395",
+  "gluser_id": "235073600",
+  "vintage_months": 11,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Farrukhabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648462",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji Pradhanunath bol raha hu sir.\\nExecutive: Bataye.\\nCustomer: Shivam baat kar raha tha India mart se sir.\\nCustomer: Haan haan bolo bolo.\\nExecutive: Sir wo bylead bheja tha aapne check kara sir?\\nCustomer: Nahi maine check nahi kiya aapne kabhi bheja mere ko?\\nExecutive: Maine subah hi morning mein aapko share kiya tha sir 10 baje.\\nCustomer: Dekh okay main isi ek baar check kar leta hu. To industry ab to thoda late ho gaye sir matlab wo sir 80 bylead thi na ek to industrial cleaning services ki thi aur ek automatic industrial wala to apne ko chalega hi nahi condenser to chalega.\\nExecutive: Condenser tube cleaning system ka tha sir ye.\\nCustomer: Dekh lete sir ek baar na matlab online aake ek baar aap check kar lijiye bylead ko na.\\nExecutive: Abhi to nahi ho payega kyunki abhi to main kya thoda company mein hu.\\nExecutive: Achcha achcha achcha achcha free kab tak ho payenge sir?\\nCustomer: Main sham ko free hounga.\\nCustomer: Main aapko call karta hu thodi der mein. Main check karte rehta hu check karke aapko call karta hu.\\nExecutive: Chaliye theek hai call jarur kijiyega sir main wait kar raha hu theek hai sir.\\nCustomer: Haan haan haan haan haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not checked the buyleads sent.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to check buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will check and call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, industrial cleaning, condenser\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe5ef426-d68c-4812-a25c-34854068ec48",
+  "ucid": "fe5ef426-d68c-4812-a25c-34854068ec48",
+  "seller_categories": [
+    {
+      "mcat_id": "176679",
+      "mcat_name": "Condenser Cleaning"
+    },
+    {
+      "mcat_id": "170672",
+      "mcat_name": "Pressure Cleaning Services"
+    },
+    {
+      "mcat_id": "43808",
+      "mcat_name": "Industrial Cleaning Services"
+    },
+    {
+      "mcat_id": "176846",
+      "mcat_name": "Hydro-Blasting Service"
+    },
+    {
+      "mcat_id": "157576",
+      "mcat_name": "Triplex High Pressure Plunger Pumps"
+    }
+  ]
+}

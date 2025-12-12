@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671928159",
+  "gluser_id": "121249502",
+  "vintage_months": 21,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636273",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d91be928-1444-4741-9353-10c39d2946b5",
+  "ucid": "d91be928-1444-4741-9353-10c39d2946b5",
+  "seller_categories": [
+    {
+      "mcat_id": "16441",
+      "mcat_name": "Kali Statue"
+    },
+    {
+      "mcat_id": "15539",
+      "mcat_name": "Durga Statue"
+    },
+    {
+      "mcat_id": "11058",
+      "mcat_name": "God Statues"
+    },
+    {
+      "mcat_id": "191753",
+      "mcat_name": "Bhim Rao Ambedkar Statue"
+    },
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    }
+  ]
+}

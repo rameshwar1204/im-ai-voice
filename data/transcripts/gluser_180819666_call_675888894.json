@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675888894",
+  "gluser_id": "180819666",
+  "vintage_months": 10,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718534",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Haanji sir, kaunsi company se baat kar rahe hain?\\n\\nCustomer: Uh, mam unka aawaz clear nahi aa raha hai.\\nExecutive: Yes sir, abhi aawaz aa raha hai sir, good afternoon sir, abhi aawaz aa raha hai, kaunsi company se baat kar rahe hain sir?\\n\\nCustomer: Sir main IndiaMART se baat kar rahi hu, aapne abhi call kiya hai.\\nCustomer: Lekin aapka naam puch raha hu main.\\nExecutive: Main Rishu baat kar rahi hu sir IndiaMART se.\\n\\nCustomer: Okay, kaha se, Delhi se, Pune se?\\nExecutive: Haanji?\\n\\nCustomer: Delhi se?\\nExecutive: Sir main Noida office se, sir main Noida office se baat kar rahi hu, aapne abhi call kiya hai na?\\nCustomer: Haan, main uske liye call kiya hai.\\nExecutive: Ji bataye.\\n\\nCustomer: Hmm hmm. To abhi kya hai, uh, uh, unka distribution karke main company hai, to uske liye mujhe\\nCustomer: Hello sir.\\nExecutive: Hello sir, sir main aapke number pe call back kar rahi hu, aap mujhe ek minute dijiye.\\nCustomer: Haan, call back karo main.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know the executive's name.\\n\n- Customer wants to discuss distribution for his company.\\n\n\\n\nResolution:\\n\n- Executive introduced herself as Rishu from IndiaMART.\\n\n- Executive offered to call the customer back in a minute.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, callback, distribution\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=31e681b6-9465-4d6f-b4ab-1bc40e6146e2",
+  "ucid": "31e681b6-9465-4d6f-b4ab-1bc40e6146e2",
+  "seller_categories": [
+    {
+      "mcat_id": "2657",
+      "mcat_name": "Universal Testing Machine"
+    },
+    {
+      "mcat_id": "8206",
+      "mcat_name": "Rockwell Hardness Tester"
+    },
+    {
+      "mcat_id": "152057",
+      "mcat_name": "Test Block"
+    },
+    {
+      "mcat_id": "147644",
+      "mcat_name": "Universal Testing Machine Parts"
+    },
+    {
+      "mcat_id": "23605",
+      "mcat_name": "Brinell Hardness Testers"
+    }
+  ]
+}

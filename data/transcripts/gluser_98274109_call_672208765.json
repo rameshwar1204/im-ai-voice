@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672208765",
+  "gluser_id": "98274109",
+  "vintage_months": 66,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Paradwip",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681417",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Hello? sir main baat kar raha hun India Mart se.\\nCustomer: Han ji boliye.\\nExecutive: Ye Mars Enterprises se baat ho rahi hai sir?\\nCustomer: Ji.\\nExecutive: Han ji sir aapne complaint raise ki thi ki aapki app mein kuch issue aa raha hai aapko.\\nCustomer: Wo aapko jo address dal raha hun na uske regarding buyleads nahi aa rahe abhi. Kyun nahi aa rahe mere ko pata nahi chal raha. Jo address dal raha hun address nearby wo jo state dal raha hun na Chhattisgarh near state to state regarding sab buyleads nahi aa raha.\\nCustomer: Aur ye sabhi complaint do teen din se main aisa aisa samajh raha hun. Buyleads properly search mein state mein maru to state ka buyleads sab aate the last time. Abhi nahi aa raha kyun nahi aa raha mere ko pata nahi.\\nExecutive: Achcha sir is baar aapne app matlab pehle aate the aapke pass ya pehle nahi aa rahe the abhi aa rahi hai app mein?\\nCustomer: Ab nahi aa raha ab nahi aa raha pehle aa rahe the.\\nExecutive: Pehle aa rahi thi aapke pass. Ek baar aap mujhe main aapko ek link share kar raha hun aap mujhe apni screen share karke dikhayenge sir video meet pe ke matlab kaise kar aa raha hai aapke usme.\\nCustomer: WhatsApp dalta hun thoda busy hun main.\\nExecutive: Sorry?\\nCustomer: WhatsApp number hi likh kar dijiye mere ko WhatsApp mein hi likh kar dijiye main screenshot nikal kar ke video record karte mein dalta hun. Okay?\\nExecutive: Ah, theek hai sir but ye matlab app mein jo issue aa raha hai wo to main tabhi check kar paunga na jab aap screen share karenge.\\nCustomer: Ab dalu na main dalu na hi likh kar main aapko jo bhi detail hai deta hun main abhi aap kam pe hun na theek hai.\\nExecutive: Achcha ji ji ji. No no sir main video meet ka link share kar raha hun aap use join. Nahi hoga sir abhi video meet nahi kar pata hun abhi kam pe hun.\\nExecutive: Achcha.\\nExecutive: To kab tak free rahenge aap jab main aapko share karu?\\nCustomer: Sham mein call karta hun aapko WhatsApp detail dal dunga main aapko. Okay sir. Theek hai sir theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads for entered address.\\n\n- Buyleads were coming earlier, but not now.\\n\n\\n\nResolution:\\n\n- Executive offered screen sharing via video meet.\\n\n- Customer suggested sharing details via WhatsApp due to work.\\n\n- Executive shared video meet link.\\n\n\\n\nNext Steps: \\n\n- Customer will share details via WhatsApp later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, app issue, screen sharing, whatsapp\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=61a0f486-9e34-4ad0-a613-c011342bdabd",
+  "ucid": "61a0f486-9e34-4ad0-a613-c011342bdabd",
+  "seller_categories": [
+    {
+      "mcat_id": "183305",
+      "mcat_name": "Water ATM"
+    },
+    {
+      "mcat_id": "20513",
+      "mcat_name": "RO Membranes"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    },
+    {
+      "mcat_id": "204197",
+      "mcat_name": "CRI High Pressure Pumps"
+    },
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    }
+  ]
+}

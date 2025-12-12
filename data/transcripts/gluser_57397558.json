@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673691230",
+  "gluser_id": "57397558",
+  "vintage_months": 20,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Byadgi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693879",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji Ramesh sir Sohit baat kar rahe hain IndiaMART se.\\nExecutive: Good good morning madam boliye.\\nCustomer: Sir aapse meri baat hui thi properly dry chilli ke regarding mein koi issue aa raha hai kya aapne not satisfied diya hai.\\nCustomer: Wo wo by mistake press ho gaya madam baad mein satisfied link bhi click kar diya maine.\\nExecutive: Sir wo nahi aata ek hi baar feedback jaata hai.\\nCustomer: Oh aisa kya madam.\\nExecutive: Aur ek baar aur ek baar wo feedback ka link de dijiye mere ko.\\nExecutive: Sir wahi keh rahe hain Sohit kya baat hui maine kaha meri to proper baat hui thi sir se sir ne bahut acche se baat ki.\\nCustomer: Nahi nahi nahi 100% koi ye nahi hai madam galti se click ho gaya wo.\\nExecutive: Accha accha chaliye theek hai sir mail pe aapko ek baar jayega agar koi issue ho to aap bata dijiye abhi main aapko solve kar deti hu agar koi issue nahi hai to wo mail pe jayega fir aap use satisfied jo bhi aapka hoga aap bata sakte ho in fact aap likh karke bhi positive likhna bhi chaho alag se to usme wo bhi option aata hai theek hai agar meri services ke regarding mein.\\nCustomer: Abhi abhi mail aayega kya madam.\\nExecutive: Haan haan email milega aapko theek hai.\\nCustomer: Please please bhejiye madam sorry wo by by chance press ho gaya.\\nExecutive: Aise just utarne ke main khud hairan maine kaha nahi Ramesh sir se meri properly baat hui thi ya wo to bahut acche se baat bhi hui thi pura kafi der tak baat hui thi meri unse.\\nCustomer: Nahi madam main samjha baad mein wo galti se press ho gaya na immediately mere ko strike ho gaya aisa aisa wo trigger karega unko problem mere mere mera jo bhi sambhal rahe hain unko problem hoga karke fir main satisfied click kar diya magar wo asar nahi pada hai shayad.\\nExecutive: Haan wo It is okay madam aap aap mail bheej dijiye main main reply kar leta hu usko.\\nExecutive: Chaliye theek hai sir thank you so much.\\nCustomer: Welcome madam ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer accidentally pressed 'not satisfied'.\\n\n- Wants to rectify the feedback.\\n\n\\n\nResolution:\\n\n- Executive will send a feedback link via email.\\n\n- Customer can provide feedback through the email.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, email, mistake\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=570c0587-57a7-49e2-ae66-5dcfc9d9fcd8",
+  "ucid": "570c0587-57a7-49e2-ae66-5dcfc9d9fcd8",
+  "seller_categories": [
+    {
+      "mcat_id": "12018",
+      "mcat_name": "Dry Red Chilli"
+    },
+    {
+      "mcat_id": "8066",
+      "mcat_name": "Red Chilli"
+    },
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    },
+    {
+      "mcat_id": "186627",
+      "mcat_name": "Kashmiri Lal mirch"
+    },
+    {
+      "mcat_id": "187224",
+      "mcat_name": "Guntur Dry Red Chilli"
+    }
+  ]
+}

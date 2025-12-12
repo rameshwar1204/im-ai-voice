@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667979707",
+  "gluser_id": "129854156",
+  "vintage_months": 49,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Budgam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello?\\nCustomer: Are request slow kam karta hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request is working slow.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- slow request\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f3255e55-2a85-4436-a6d1-c5c533acefc7",
+  "ucid": "f3255e55-2a85-4436-a6d1-c5c533acefc7",
+  "seller_categories": [
+    {
+      "mcat_id": "214916",
+      "mcat_name": "Saffron Bulbs"
+    },
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "651896",
+      "mcat_name": "Kashmiri Walnut Kernels"
+    },
+    {
+      "mcat_id": "215552",
+      "mcat_name": "Kashmiri Garlic"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675151660",
+  "gluser_id": "73521768",
+  "vintage_months": 1,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello hello aapne aavi rite lagavu che.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello ha chal se le aavu.\\nCustomer: Hello.\\nExecutive: Hello ha sir shubham baat kar raha hu India mart se.\\nCustomer: Ha bolo.\\nExecutive: Ha actually sir wo humne baat kar liya hai.\\nCustomer: Ha.\\nExecutive: To wo possible nahi ho raha hai to aapne jo last time bataya tha na.\\nCustomer: Ha.\\nExecutive: Refund ke liye to hum bol rahe the ek actually final kar dete hai wahi hum proceed kar rahe hai.\\nExecutive: Ha.\\nExecutive: Kya bol rahe ho aap refund karne ke liye proceed kar rahe ho.\\nCustomer: Ha ha.\\nExecutive: Okay koi dikkat nahi hai.\\nExecutive: Ek bar check nahi kar sakte maine aapko bata diya tha pura kuch.\\nCustomer: Ha ha koi dikkat nahi hai to wo decision leke refund karne ka process jo bhi hota hai to kar dijiye koi dikkat nahi hai.\\nExecutive: Baki sir aapka ye jo concern open tha na.\\nCustomer: Hmm.\\nExecutive: Isko mai close kar dunga abhi aur aapka jo refund hai na wo kuch dino me aapke jo source account tha na jisse aapne pay kiya tha usme reflect ho jayega wo hai na.\\nCustomer: Pehle close pehle refund.\\nExecutive: Nahi nahi refund sir isme thoda time lagta hai matlab paanch se saat din lagte hai.\\nCustomer: To Mukesh aap refund ka final decision le rahe ho to mai mere ek bar Mukesh sir agar free hote to unko bhi line par le le jaunga to decision le hi lete hai hai na to aap unko bol dijiye unke unke team se final decision yahi aaya hai refund ka to wo unko baat karke aapko confirmation de deta hu hai na mere ko paanch minute do khali unko confirmation le lene do.\\nCustomer: Okay okay okay sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund to be processed.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund process will be initiated.\\n\n- Executive will close the open concern.\\n\n- Refund will reflect in source account in few days.\\n\n- Executive will take confirmation from Mukesh.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after confirmation.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, account, confirmation, decision\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=856a6e0f-b6cd-444b-9579-4c0a0f617767",
+  "ucid": "856a6e0f-b6cd-444b-9579-4c0a0f617767",
+  "seller_categories": [
+    {
+      "mcat_id": "161156",
+      "mcat_name": "Box Culvert"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "221075",
+      "mcat_name": "Precast Concrete Machine"
+    },
+    {
+      "mcat_id": "36374",
+      "mcat_name": "Retaining Walls"
+    },
+    {
+      "mcat_id": "84185",
+      "mcat_name": "Column Mould"
+    }
+  ]
+}

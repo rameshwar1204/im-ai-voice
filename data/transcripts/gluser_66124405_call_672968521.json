@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672968521",
+  "gluser_id": "66124405",
+  "vintage_months": 7,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kashipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690426",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Sir, Joynt, aapne, ji sir Joynt, sir Joynt nahi kiya.\\nExecutive: Link bhej diya aapne?\\nCustomer: Maine WhatsApp bhi kiya hai sir aapko WhatsApp pe check kariye sir aap.\\nExecutive: Theek hai ji ek minute mai laptop pe check karta hu. \\nCustomer: Isi number pe check ispe nahi hai 8218 110729 pe bheja hai maine.\\nExecutive: Laptop pe check karta hu mai bhej. \\nCustomer: Ha laptop pe check karke aap ha connect kariye sir.\\nExecutive: Theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Joint not done.\\n\n\\n\nResolution:\\n\n- Executive will check the link on the laptop.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will check the link on the laptop and connect.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Neutral\\n\n\\n\n@@@Key Topics:\\n\njoint, link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=23de5425-4c63-4c55-93f7-5f8b6f770672",
+  "ucid": "23de5425-4c63-4c55-93f7-5f8b6f770672",
+  "seller_categories": [
+    {
+      "mcat_id": "38980",
+      "mcat_name": "Tomato Sauce"
+    },
+    {
+      "mcat_id": "192597",
+      "mcat_name": "White Vinegar"
+    },
+    {
+      "mcat_id": "37419",
+      "mcat_name": "Soya Sauce"
+    },
+    {
+      "mcat_id": "2491",
+      "mcat_name": "Tomato Ketchup"
+    },
+    {
+      "mcat_id": "188862",
+      "mcat_name": "Green Chilli Sauce"
+    }
+  ]
+}

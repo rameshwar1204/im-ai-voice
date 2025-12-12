@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670790125",
+  "gluser_id": "36482805",
+  "vintage_months": 37,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670130",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji sir Sandhya bol rahi thi IndiaMART office se bataiye aapko call aa raha tha na kal lunch par\\nCustomer: Haan us time call cut gaya tha maine aapko whatsapp mein dekhiye payment receipt jo hua tha wo main send kiya hu.\\nExecutive: Payment receipt to mere paas bhi hai sir 396\\nCustomer: Haan to phir usme aap dekhiye kya hai nahi hai ek mahina ka jhol kyu ho raha usme.\\nExecutive: Ek mahina ka adjust hua tha maine main aapko bata deti hu unhone aapka 2950 less kar trust seal wani hai nahi theek hai to 42038 plus 2950 plus 11\\nCustomer: Wo amount mat dekhiye mam amount dekh ke humko koi fayda nahi hai usme dekhiye 14 tarikh ko maine kiya tha bill generate hua 16 tarikh ko wo theek alag si baat hai usse pehle payment pehle ye bataiye na basic package jo 2950 ka rehta hai.\\nCustomer: Wo payment jo hai advance mein katte hai ya pehle kat jata hai matlab baad mein katta hai matlab service maine ek mahina use kar liya uske baad advance mein katta hai tab to do mahina ka gap hoga fir.\\nExecutive: Advance mein katta hai na\\nCustomer: Advance mein katte hai tab to do mahina ka do mahina ka tabhi issue aa raha hai.\\nExecutive: Match mein kya hota hai advance mein katte hai ya baad mein ek mahine ka service use karne ke baad deduct hota hai.\\nExecutive: Sir ek second line pe raho.\\nCustomer: Haan wo dekh lijiye ki payment to iska advance mein hi hoga advance mein hoga to phir do mahina ka issue niklega phir.\\nCustomer: Ye wala issue hai theek hai.\\nCustomer: Kitna din lagega hafta din lagega hai na time mal ek ye wahi khali santuli hai tukda bhi nahi hai jo shukra se kat ke aapko de de.\\nExecutive: Sir ek second aap line pe raho main ek baar pehle confirm kar leti hu.\\nCustomer: Ek kaam kijiye 10 minute baad call kijiye na thoda main customer busy hu thoda customer ke sath.\\nExecutive: Okay okay no problem main ek baar confirm karke 10 minute ke baad call back karti hu.\\nCustomer: Haan haan theek hai mam acha.\\nExecutive: Theek hai lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment issue, one-month discrepancy.\\n\n- Wants to know payment deduction cycle.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold to confirm.\\n\n- Executive will call back in 10 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive to call back after confirmation.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, subscription, advance payment, billing\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=03b37758-bee6-459d-9725-3af87583d198",
+  "ucid": "03b37758-bee6-459d-9725-3af87583d198",
+  "seller_categories": [
+    {
+      "mcat_id": "187273",
+      "mcat_name": "Vinyl Flooring Sheet"
+    },
+    {
+      "mcat_id": "8864",
+      "mcat_name": "PVC Carpets"
+    },
+    {
+      "mcat_id": "24449",
+      "mcat_name": "Carpet Tiles"
+    },
+    {
+      "mcat_id": "8884",
+      "mcat_name": "PVC Floor Covering"
+    },
+    {
+      "mcat_id": "1691",
+      "mcat_name": "Vinyl Floorings"
+    }
+  ]
+}

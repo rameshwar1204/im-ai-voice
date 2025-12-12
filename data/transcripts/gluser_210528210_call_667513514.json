@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667513514",
+  "gluser_id": "210528210",
+  "vintage_months": 14,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636533",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello, High tech portable cabins.\\nExecutive: Sir, Shifranshi, main na abhi aapka jo hai ticket close karne ja rahi hu, theek hai, feedback aayega, satisfied mark kar dijiyega, theek hai?\\nCustomer: [inaudible]\\nExecutive: Abhi aur koi doubt to nahi hai sir?\\nCustomer: Nahi madam, abhi aap India Mart se call aaya na?\\nExecutive: Haan, haan, haan.\\nCustomer: To primary number pe nahi aaya?\\nExecutive: Primary number pe nahi aaya, kyunki maine alternate number pe kiya hai, isi wajah se. Abhi sir se baat hui thi na, is wajah se maine isi number pe kiya hai, but aapka login aur logout, theek hai, primary number se hi hoga, theek hai?\\nCustomer: Call pe call pe primary number pe aana pehla.\\nExecutive: Haan, primary number pe hi aayega, primary number pe hi aayega. Maine abhi sir se baat kiya tha, is wajah se maine aapko call is wale number pe call kiya, theek hai?\\nCustomer: Okay. Abhi aap abhi bol rahe the feedback kidhar dena maine?\\nExecutive: Haan, haan, main abhi haan, main aapka bhi concern close karungi, to mera feedback aayega, satisfied mark kar dijiyega, theek hai?\\nCustomer: Satisfied karna hai madam wo?\\nExecutive: Haan, satisfied karna hai.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai, okay, thank you.\\nCustomer: Okay, thanks.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive call on primary number.\\n\n- Customer asked where to give feedback.\\n\n\\n\nResolution:\\n\n- Executive clarified login/logout via primary number.\\n\n- Executive said feedback will come, mark satisfied.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- primary number, feedback, ticket closure\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dc6a634b-bb25-4e76-913f-a0c3b86370b4",
+  "ucid": "dc6a634b-bb25-4e76-913f-a0c3b86370b4",
+  "seller_categories": [
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "150852",
+      "mcat_name": "MS Porta Cabin"
+    },
+    {
+      "mcat_id": "135712",
+      "mcat_name": "Prefabricated Cabin"
+    }
+  ]
+}

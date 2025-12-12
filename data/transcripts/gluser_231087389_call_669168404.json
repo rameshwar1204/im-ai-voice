@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669168404",
+  "gluser_id": "231087389",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650311",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: De message de subah mere ko aur kya aaya.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello good morning mam.\\nCustomer: Ha good morning.\\nExecutive: Mam Shubham this side from IndiaMART head office mam.\\nCustomer: Shubham bhai.\\nExecutive: Mam hello aawaz aa rahi hai meri mam.\\nCustomer: Ji ji ji aawaz aa rahi hai bataiye.\\nExecutive: Mam Shubham bol raha tha IndiaMART se head office se mam aapka actually na first Friday ko customer care se call gaya tha mam aap IndiaMART system ke bare mein theek hai na.\\nCustomer: Yes.\\nExecutive: To us din holiday tha to connect kar nahi paye to aaj available hai mam to aapse connect karke jo aap discuss karna chah rahi thi pura IndiaMART ka service system to ek bar discuss kar lete hain mam.\\nCustomer: Sure at what time?\\nExecutive: Aap bataiye aap jo bhi time abhi agar abhi free hai to bataiye abhi connect kar sakte hain.\\nCustomer: 11 o'clock chalega kya?\\nExecutive: Ha mam koi bhi dikkat nahi hai main 11 baje call back kar deta hu aapko theek hai na.\\nCustomer: Okay okay may I know your name.\\nExecutive: Sorry?\\nCustomer: May I know your name sir?\\nExecutive: Ha mera naam hai Shubham Kumar mam.\\nCustomer: Okay okay.\\nExecutive: Okay aap same agar aap rahe aap same number pe call back kar sakte hain koi dikkat nahi theek hai na.\\nCustomer: Okay okay thank you.\\nExecutive: Thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss IndiaMART service system.\\n\n\\n\nResolution:\\n\n- Executive scheduled a call back at 11:00 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 11:00 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, discussion, service system\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45f14682-c4c7-4784-a9d7-e194b1346477",
+  "ucid": "45f14682-c4c7-4784-a9d7-e194b1346477",
+  "seller_categories": [
+    {
+      "mcat_id": "177391",
+      "mcat_name": "Cockroach Gel"
+    },
+    {
+      "mcat_id": "22034",
+      "mcat_name": "Anti Termite Chemical"
+    },
+    {
+      "mcat_id": "184485",
+      "mcat_name": "Cockroach Repellent"
+    },
+    {
+      "mcat_id": "73469",
+      "mcat_name": "Pruning Secateur"
+    },
+    {
+      "mcat_id": "5842",
+      "mcat_name": "Pest Control Chemicals"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673800569",
+  "gluser_id": "47584403",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "FREELIST",
+  "city_name": "Oragadam Industrial Area",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698926",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No concerns or requests were made.\\n\n\\n\nResolution:\\n\n- No resolution was provided.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- initial greeting\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ceb3752f-6e07-47d1-83d3-5e3d1c36c0b5",
+  "ucid": "ceb3752f-6e07-47d1-83d3-5e3d1c36c0b5",
+  "seller_categories": [
+    {
+      "mcat_id": "56226",
+      "mcat_name": "Milling Job Work"
+    },
+    {
+      "mcat_id": "44053",
+      "mcat_name": "Press Job Work"
+    },
+    {
+      "mcat_id": "170414",
+      "mcat_name": "EDM Job Works"
+    },
+    {
+      "mcat_id": "144961",
+      "mcat_name": "CNC Sliding Head Machine"
+    },
+    {
+      "mcat_id": "56222",
+      "mcat_name": "Drill Machine Job Work"
+    }
+  ]
+}

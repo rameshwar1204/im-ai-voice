@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672959773",
+  "gluser_id": "100610311",
+  "vintage_months": 7,
+  "bl_dau_oct": 22,
+  "customer_type": "FREELIST",
+  "city_name": "Hadgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724219",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Haan Chandra Lal Boroma Surya Agro Impax se.\\nCustomer: Kahan se baat kar rahe hain sir?\\nExecutive: Hello\\nCustomer: Haan ji haan ji boliye na.\\nExecutive: Haan ji haan ji haan ji boliye sir. Maine ek complaint maine ek complaint register ki thi.\\nCustomer: Haan.\\nCustomer: Hello? Mere paas aapka ek subscription hai. Hello. Awaaz aa rahi hai kya?\\nExecutive: Haan main samajh gaya sir. Wo Surya se\\nCustomer: Haan haan main samajh gaya sir.\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Haan hello. Haan main Tulsi ke bare mein maine call\\nExecutive: Achcha achcha achcha.\\nExecutive: Meri baat parso bhi hui thi. Kal bhi kal bhi hui thi sir aapse. Uske regarding jo aap bata rahe the aapke buyer supplier ka kuch hua tha contact wo main team ko escalate kar diya hun lady ko. Theek hai? Wo aapko update de dengi. Theek hai sir? Wo koi dikkat nahi hai.\\nCustomer: Haan haan.\\nCustomer: But kab tak denge update? Kyunki buyer phone bhi nahi utha raha aapki legal notice jaane ke baad.\\nCustomer: Haan haan.\\nCustomer: Aapke auditor ko bolo na yaar legal ka second wala kya hai uska option kya hai kya nahi hai.\\nCustomer: Haan haan haan.\\nExecutive: Theek hai main ek baar unse baat kar leta hun. Theek hai main baat kar leta hun unse.\\nCustomer: Paanch minute mein mujhe reply karo jo bhi ho mail pe.\\nExecutive: Theek hai theek hai sir. Okay thank you thank you thank you.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint registered, buyer not answering after legal notice.\\n\n\\n\nResolution:\\n\n- Escalated issue to team, update will be provided.\\n\n- Executive agreed to discuss legal options with auditor.\\n\n\\n\nNext Steps: \\n\n- Executive will reply via email in five minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, legal notice, buyer, update\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2fd5c9ff-d1d4-41e5-8b3e-98c2f161b55b",
+  "ucid": "2fd5c9ff-d1d4-41e5-8b3e-98c2f161b55b",
+  "seller_categories": [
+    {
+      "mcat_id": "69958",
+      "mcat_name": "Turmeric Finger"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "2603",
+      "mcat_name": "Turmeric Products"
+    },
+    {
+      "mcat_id": "37427",
+      "mcat_name": "Soybean Seeds"
+    },
+    {
+      "mcat_id": "146876",
+      "mcat_name": "Organic Jaggery"
+    }
+  ]
+}

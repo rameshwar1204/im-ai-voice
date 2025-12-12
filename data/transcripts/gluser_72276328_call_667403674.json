@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667403674",
+  "gluser_id": "72276328",
+  "vintage_months": 33,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635685",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello, [inaudible] sir.\\nCustomer: Awaz nahi aa rahi. Hello.\\nExecutive: Sir, mai na abhi meeting me hu, mai abhi aapko call back karti hu.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive.\\n\n\\n\nResolution:\\n\n- Executive said she will call back later.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, meeting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=51cfaebf-b94f-49d3-9580-391c15e74e37",
+  "ucid": "51cfaebf-b94f-49d3-9580-391c15e74e37",
+  "seller_categories": [
+    {
+      "mcat_id": "158095",
+      "mcat_name": "Electric Bike Batteries"
+    },
+    {
+      "mcat_id": "122229",
+      "mcat_name": "Electric Bicycle Kit"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "118962",
+      "mcat_name": "EV Hub Motor and Kits"
+    }
+  ]
+}

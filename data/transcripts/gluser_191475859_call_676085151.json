@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676085151",
+  "gluser_id": "191475859",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nHello\\nHello\\nExecutive: Hello ha ji. Haan ji sir, Mariya bol rahi hu IndiaMART head office se.\\nCustomer: Haan ji.\\nExecutive: Sir maine unse Rohit ji se baat ki thi to unhone kaha tha ki aapke phone mein already matlab hota hi hai Google authentication right?\\nCustomer: Haan.\\nExecutive: To us pe wo two step verification hoga aur fir ya to main unko bhi conference pe le rahi hu aur aap video meet join kar le to better ho jayega. Dikh jayega as it is.\\nCustomer: Haan, thik hai.\\nExecutive: Dekhiye maine aapko mail share kar diya aapki mail id directors@sunat.com pe.\\nCustomer: Hmm hmm.\\nExecutive: Aap ek second on call rukiye main jo hai unko Rohit ko message kar deti hu Rohit Prajapat jo ye cheeze bata rahe the. Ek second.\\n\\nExecutive: Maine aapko tab tak wo share kiya hua hai aap please wo join kar lijiye meeting ka link.\\n\\n\\nExecutive: Aapko agar link nahi mila to kya main aapko WhatsApp pe share kar du?\\nCustomer: Nahi nahi.\\nExecutive: Haan.\\n\\nCustomer: Link to nahi mila hai maine join ka request dala hai join with Google meet.\\nExecutive: Haan join now. Aap jo hai wo team bhi us pe join kar legi to wo isse screen share hoke na sir wo jo on the spot jo bhi issue aa raha hai nahi aa raha hai wo screen share hoke visible ho jayega kya cheez kya hai.\\nCustomer: Thik hai na.\\nExecutive: Haan join kar lijiye maine share kiya maine un backend team ko bhi Rohit ko bhi message kar diya hai wo bhi join karwa rahe hain team ko.\\n\\n\\nExecutive: Sir ye aapka hai?\\nCustomer: Haan mera hai. Aapne join kiya?\\nCustomer: Haan.\\nExecutive: Okay okay main inko bhi instantly bolti hu join karaye. Join\\n\\nCustomer: Maine join kar diya hai shayad. Hello.\\nExecutive: Haan ji ji wo team bhi kar rahi hai. Maine unko bhi message dal diya hua hai. Sir abhi tak dekhiye haan. Kuldeep ji ho gaye hain aap inse baat kar lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance with Google authentication.\\n\n\\n\nResolution:\\n\n- Executive shared a meeting link for assistance.\\n\n- Executive informed that the backend team will join.\\n\n- Executive confirmed Kuldeep has joined the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google authentication, meeting link, screen share\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 188,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=00442259-8058-4e64-a0d9-c6cb2fcd06be",
+  "ucid": "00442259-8058-4e64-a0d9-c6cb2fcd06be",
+  "seller_categories": [
+    {
+      "mcat_id": "134125",
+      "mcat_name": "Xanthan Gum"
+    },
+    {
+      "mcat_id": "44668",
+      "mcat_name": "Caramel Color"
+    },
+    {
+      "mcat_id": "167106",
+      "mcat_name": "Modified Starch"
+    },
+    {
+      "mcat_id": "111358",
+      "mcat_name": "Soya Lecithin"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    }
+  ]
+}

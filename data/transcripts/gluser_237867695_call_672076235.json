@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672076235",
+  "gluser_id": "237867695",
+  "vintage_months": 1,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Guna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679319",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello. Good evening sir, I am Nimesh Sharma speaking from Green [unintelligible].\\nCustomer: Ji sir, ji sir.\\nExecutive: Sir ji, I am Sharan from IndiaMART head office, business planning. How are you?\\nCustomer: Ji, ji, ji.\\nExecutive: Actually, sir, the call was made because you have a video meet with IndiaMART with us. And a request came that you wanted to do a video meet with team sir, right? 4:00 PM you had scheduled a video meet but you could not talk about it. So I wanted to know if the video meet is done or you want to do it, when will it be done? I just wanted to know.\\nCustomer: No sir, it is not done. Actually, I was a little busy, that's why I could not do it.\\nExecutive: Sir, tell me one thing, if you are busy today, then tomorrow?\\nCustomer: No, no, not today, forward it to tomorrow sir, I will do it tomorrow.\\nExecutive: Tomorrow, what time should I schedule it sir?\\nCustomer: Tomorrow morning 10:00 AM.\\nExecutive: So, I am scheduling your video meet for tomorrow morning 10:00 AM. Whatever concern you have, you can ask them. I will close the concern from my end sir, okay?\\nCustomer: Okay, okay.\\nExecutive: Alright.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was unable to attend scheduled video meet.\\n\n\\n\nResolution:\\n\n- Video meet rescheduled for tomorrow at 10:00 AM.\\n\n- Executive will close the concern from his end.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, rescheduling, concerns\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=df81bc47-6a4f-412b-8cbd-2b31863a300c",
+  "ucid": "df81bc47-6a4f-412b-8cbd-2b31863a300c",
+  "seller_categories": [
+    {
+      "mcat_id": "158217",
+      "mcat_name": "D-Cut Non Woven Bags"
+    },
+    {
+      "mcat_id": "140760",
+      "mcat_name": "Printed Non Woven Bags"
+    },
+    {
+      "mcat_id": "32848",
+      "mcat_name": "Non Woven Bag"
+    },
+    {
+      "mcat_id": "224564",
+      "mcat_name": "Loop Handle Non Woven Bag"
+    },
+    {
+      "mcat_id": "165229",
+      "mcat_name": "Printed Carry Bags"
+    }
+  ]
+}

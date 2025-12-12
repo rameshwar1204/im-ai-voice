@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666931465",
+  "gluser_id": "57624797",
+  "vintage_months": 72,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626680",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Namaskar, IndiaMART mein aapka swagat hai. Main Shweta, aapki kya sahayata kar sakti hoon?\\nCustomer: Hello, haanji. Main S K Enterprises se bol raha hoon. Mera naam hai Satish Kumar.\\nExecutive: Ji Satish ji, bataiye.\\nCustomer: Madam, main aapka paid member hoon, lekin mere paas koi buylead nahi aa raha hai pichle ek hafte se.\\nExecutive: Okay sir. Main check kar leti hoon. Kya aap apna registered mobile number confirm kar sakte hain?\\nCustomer: Haanji, yahi number hai, 9876543282.\\nExecutive: Sir, aapka number hai 9876543282, right?\\nCustomer: Haan, haan, yahi hai.\\nExecutive: Sir, system mein check kar paa rahi hoon, ye number to aapka free listing mein show ho raha hai.\\nCustomer: Free listing? Aise kaise ho sakta hai? Maine to pichle mahine hi payment kiya tha. Silver package liya tha.\\nExecutive: Sir, ek minute hold kijiye, main payment details check karti hoon. (silence) Sir, line pe bane rehne ke liye dhanyawad.\\nCustomer: Haanji.\\nExecutive: Sir, jo payment aapne ki hai, woh aapke doosre number ke liye hui hai, jiska last digit 81 hai.\\nCustomer: 81? Nahi, mera to yahi number hai 82 wala. Maine isi se payment kiya tha.\\nExecutive: Sir, payment to 9876543281 number ke liye receive hui hai. Isliye us number par paid services active hain. Ye 82 wala number aapka free account hai.\\nCustomer: Oh, ho. Ye to gadbad ho gayi. To ab kya ho sakta hai? Kya service is number pe transfer ho sakti hai?\\nExecutive: Sir, service transfer ka policy nahi hai. Aap us number se login karke paid services ka laabh utha sakte hain.\\nCustomer: Lekin main to ye number use karta hoon. Us number ka to mujhe dhyaan bhi nahi tha. To mera paisa wapas mil sakta hai?\\nExecutive: Sir, refund ke liye main aapki request aage forward kar deti hoon. Hamari senior team aapse 24 se 48 ghante mein contact karegi.\\nCustomer: Theek hai. Kar dijiye. Kyunki mujhe is number pe service chahiye ya phir paisa wapas.\\nExecutive: Ji sir, bilkul. Maine aapki request note kar li hai. Iske alawa aur koi jaankari?\\nCustomer: Nahi, bas yahi tha. Dhanyawad.\\nExecutive: IndiaMART mein call karne ke liye dhanyawad. Aapka din shubh ho.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Not receiving buyleads for a week.\\n- Paid account showing as a free listing.\\n- Wants to transfer service to a different number.\\n- Requested a refund for the subscription.\\n\\nResolution:\\n\\n- Informed that payment was made for a different number.\\n- Clarified the current number is a free listing.\\n- Explained that service transfer is not possible.\\n- Raised a request for a callback regarding a refund.\\n\\nNext Steps: \\n- Issue not resolved. A senior team will call back within 24-48 hours regarding the refund request.\\n\\nAlert (If Any):\\n- refund\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, subscription, payment, account status, refund, mobile number\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f37dfcef-49c4-4ce8-9ad6-e81dc1ebb7ad",
+  "ucid": "f37dfcef-49c4-4ce8-9ad6-e81dc1ebb7ad",
+  "seller_categories": [
+    {
+      "mcat_id": "182091",
+      "mcat_name": "Delta VFD"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "190222",
+      "mcat_name": "Delta PLC"
+    },
+    {
+      "mcat_id": "14970",
+      "mcat_name": "AC Servo Motor"
+    },
+    {
+      "mcat_id": "43491",
+      "mcat_name": "Switch Mode Power Supply"
+    }
+  ]
+}

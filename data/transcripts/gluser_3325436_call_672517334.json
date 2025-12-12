@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672517334",
+  "gluser_id": "3325436",
+  "vintage_months": 105,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ratlam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9687111",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Shiv Plastic Industry se baat kar rahe hain sir?\\nCustomer: Hmm.\\nExecutive: Shiv Plastic Industry?\\nCustomer: Haan haan.\\nExecutive: Very good very good afternoon sir, main Aman baat kar raha tha IndiaMART se aapka account manager. Kaise hain sir?\\nCustomer: Bas badhiya bataiye.\\nExecutive: Aapki taraf se ek mail hamare paas receive hua hai customer care@indiamart.com pe regarding the e-TDS certificate.\\nCustomer: Hmm.\\nExecutive: Ki isme jo number mention tha is mail ID pe wo number sir lag nahi raha hai isme. Pata payenge sir kis se baat karni hai isse related?\\nCustomer: Boliye na mere se kar lijiye boliye.\\nExecutive: Okay ye aapka dashboard jo aaya hai for 16 mein aur sales tax certificate bhi aapne bheja hai. Ye hame aapne refund ke liye bheja hai isme?\\nCustomer: Haan refund ke liye bheja hai.\\nExecutive: Theek hai main aapka ye concern aage raise kar raha hu forward kar raha hu within three days aapka ye refund solution hoke aapko refund ho jayega sir. Aur last year ka bhi refund nahi hua hai mujhe aur jab maine membership liya tha tab jab renewal karwaya tha tab mere paas mail pe likha hua hai ki within two days mein hum aapko refund kar denge. Aur uska bhi refund aaj tak nahi mila hai. To uska form free hai aapke paas? Sab kuch hai maine sab kuch diya hua hai mail pe already.\\nExecutive: Actually sir wo mail na customer care pe gaya hai customer care walon ka pura data hamare pe open nahi hota hai as a account manager main open pura nahi ek baar dekh paunga aap mujhe main aapko whatsapp pe connect karu ek baar?\\nCustomer: Hmm.\\nExecutive: Hello?\\nCustomer: Haan haan.\\nExecutive: Main aapko whatsapp pe connect kar sakta hu waha pe aap mere ko bhej doge details sab last wali jo hai?\\nCustomer: Aap mujhe mail kariye na main mail pe hi deta hu.\\nExecutive: Theek hai main mail ID aapko mail pe hi bhej raha hu main aapko please ek baar forward kar dijiye data connect kar leta hu main aapko theek hai na?\\nCustomer: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Refund not received for last year. \\n\n- Refund promised within 2 days not received.\\n\n- Number mentioned in mail ID is not connecting.\\n\n\\n\nResolution:\\n\n- Executive assured to raise the concern.\\n\n- Executive assured refund within 3 days.\\n\n- Executive asked to forward details on mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, etds certificate, membership, customer care\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=80e8eee3-c61d-48ee-b43f-2ac4ecb47874",
+  "ucid": "80e8eee3-c61d-48ee-b43f-2ac4ecb47874",
+  "seller_categories": [
+    {
+      "mcat_id": "2152",
+      "mcat_name": "Polypropylene Rope"
+    },
+    {
+      "mcat_id": "35182",
+      "mcat_name": "Polyester Rope"
+    },
+    {
+      "mcat_id": "5054",
+      "mcat_name": "Plastic Twine"
+    },
+    {
+      "mcat_id": "142705",
+      "mcat_name": "Fibre Rope"
+    },
+    {
+      "mcat_id": "7166",
+      "mcat_name": "Polypropylene Twine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673491969",
+  "gluser_id": "44927047",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695615",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan bolo bolo\\nCustomer: Ji sir aapko galti se lag gaya sorry sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to apologetic\\n\n\\n\n@@@Key Topics:\\n\naccidental call, apology\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=67554347-989a-48cb-a076-3df21474bfdb",
+  "ucid": "67554347-989a-48cb-a076-3df21474bfdb",
+  "seller_categories": [
+    {
+      "mcat_id": "25508",
+      "mcat_name": "CPVC Pipe"
+    },
+    {
+      "mcat_id": "145698",
+      "mcat_name": "CPVC Pipe Fittings"
+    },
+    {
+      "mcat_id": "178088",
+      "mcat_name": "CPVC Elbow"
+    },
+    {
+      "mcat_id": "185622",
+      "mcat_name": "CPVC Tee"
+    },
+    {
+      "mcat_id": "157303",
+      "mcat_name": "CPVC Ball Valve"
+    }
+  ]
+}

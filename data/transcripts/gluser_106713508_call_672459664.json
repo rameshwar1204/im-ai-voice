@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672459664",
+  "gluser_id": "106713508",
+  "vintage_months": 26,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685989",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello.\\nExecutive: Hello. Hello ji kya meri baat Upendra ji se ho rahi hai?\\nCustomer: Han ji.\\nExecutive: Ji sir main chitti baat kar rahi hu India Mart se.\\nCustomer: Han ji madam.\\nExecutive: Ji sir main aapke account manager mujhe keh rahi hu.\\nCustomer: Madam main aapko ha ji sir. Main aapko thodi der baad call karu thoda busy tha main abhi.\\nExecutive: Okay sir aap isi number pe call kar lijiyega okay number. Okay main main kar lunga theek hai. Okay okay sir okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was busy and requested a call back later.\\n\n\\n\nResolution:\\n\n- Executive agreed to have the customer call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to slightly hurried.\\n\n\\n\n\\n\n@@@Key Topics:\\n\ncall, busy, callback\\n\n\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ed99d89-a97b-494b-ae3a-13b18cfab25d",
+  "ucid": "4ed99d89-a97b-494b-ae3a-13b18cfab25d",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    },
+    {
+      "mcat_id": "146230",
+      "mcat_name": "Pickle Jars"
+    }
+  ]
+}

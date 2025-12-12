@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672920469",
+  "gluser_id": "148020589",
+  "vintage_months": 9,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mandir Hasaud",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9689848",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan sir.\\nExecutive: Ek kaam karte hain, ek kaam karte hain, ye bahut pareshan kar raha hai. Maine aapko na video meeting link pata nahi dekho aapke paas aayi hai kya?\\nCustomer: Haan, mail aaya hai.\\nExecutive: Mail aaya hai na? To usko aap join kar lo sir. Isse hum log pareshan ho jayenge. Meri to baat hi nahi kabhi puri ho payegi aapse.\\nCustomer: Haan wahi to sahi pareshan hone wali hai.\\nExecutive: Haan kariye join to aapko aadhe ghante ke andar sara sahi kar dunga aapko bata dunga sara na. Proper tarike se wahi chahiye.\\nExecutive: Main pura proper bataunga. Isme ab main dikha bhi to paunga aapko. Abhi to call pe baat ho rahi hai. Abhi to dikha bhi paunga na video meet mein aapko.\\nCustomer: Ek minute mein system mein aa jata hu.\\nExecutive: Kariye kariye haan kariye.\\n\\n\\nCustomer: Google meet se karna padega?\\nExecutive: Haan sir, Google meet se kariye join aap.\\nCustomer: Achcha achcha. \\nExecutive: Main bhi kar hi raha hu join.\\nExecutive: Aur ab to main aapko whatsapp call bhi kar sakta hu.\\nCustomer: Theek hai.\\nExecutive: Aapko whatsapp call hi karta hu sir. Isme na fir kat jayegi call kya hi matlab hai.\\nCustomer: Haan haan whatsapp mein kar dijiye. Haan haan kar dijiye. Mere dusre bhi call aayenge to unko busy nahi dikhega.\\nExecutive: Sahi hai, sahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues and needs assistance.\\n\n- Executive suggests joining a video meeting.\\n\n\\n\nResolution:\\n\n- Executive offered to resolve the issue via video meet.\\n\n- Executive decided to connect via WhatsApp call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- video meet, whatsapp call, resolution\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d8b1cee3-4e7f-464e-bfb0-d522b759f48b",
+  "ucid": "d8b1cee3-4e7f-464e-bfb0-d522b759f48b",
+  "seller_categories": [
+    {
+      "mcat_id": "38707",
+      "mcat_name": "Steel Doors"
+    },
+    {
+      "mcat_id": "88217",
+      "mcat_name": "Aerocon Panel"
+    },
+    {
+      "mcat_id": "87797",
+      "mcat_name": "Metal Bunk Bed"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "10256",
+      "mcat_name": "Iron Bed"
+    }
+  ]
+}

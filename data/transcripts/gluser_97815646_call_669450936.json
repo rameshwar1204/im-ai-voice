@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669450936",
+  "gluser_id": "97815646",
+  "vintage_months": 3,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Gadchiroli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639261",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Boliye.\\nCustomer: Sir mujhe na aap se ek cheez puchni thi ye 8 mm bamboo bio biomass pellet ye product hai aapke stock mein?\\nExecutive: Ha bamboo ka hai apne pass dusra nahi hai.\\nCustomer: Okay okay to ye aapne inactive kiya hua hai na sir to active kar do.\\nExecutive: Okay.\\nCustomer: To taki aapko bio list isse related show ho jaye.\\nExecutive: Ha ha ha ha.\\nCustomer: 8 mm biomass pellet hai na?\\nExecutive: Ha.\\nCustomer: Okay okay sir.\\nExecutive: Ha ji ha ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquiring about 8 mm bamboo bio biomass pellet.\\n\n- Requesting to activate the inactive product.\\n\n\\n\nResolution:\\n\n- Confirmed availability of bamboo product.\\n\n- Agreed to activate the product.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- bamboo, biomass, pellet, product activation\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a4344b31-b4a3-4165-b776-45e61ffc8fef",
+  "ucid": "a4344b31-b4a3-4165-b776-45e61ffc8fef",
+  "seller_categories": [
+    {
+      "mcat_id": "122624",
+      "mcat_name": "Biomass Pellet"
+    },
+    {
+      "mcat_id": "14357",
+      "mcat_name": "Bamboo Flooring"
+    },
+    {
+      "mcat_id": "177547",
+      "mcat_name": "Wooden Floor Tiles"
+    },
+    {
+      "mcat_id": "37935",
+      "mcat_name": "Skirting Boards"
+    },
+    {
+      "mcat_id": "117710",
+      "mcat_name": "Wooden Pellet"
+    }
+  ]
+}

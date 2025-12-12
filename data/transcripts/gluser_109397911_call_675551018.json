@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675551018",
+  "gluser_id": "109397911",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bankura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715454",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello. Hello. Hanji.\\nCustomer: Haan, mai Chanchal Singh bol raha hu.\\nExecutive: Ji?\\nCustomer: Mai Adrika India se Chanchal Singh bol raha hu.\\nExecutive: Ah, Chanchal Singh ji. Ji sir, ji sir bataiye.\\nCustomer: Haan, woh mera yeh hai na woh office ka jo submit kiye the actually office thoda change ho chuka hai.\\nExecutive: Ji sir.\\nCustomer: Purana wala jo tha usi ko address dale the.\\nExecutive: Matlab aapko office address change ho gaya hai aap office ka address change karna chahte hain.\\nCustomer: Nahi, office bole toh usi time change ho gaya tha lekin purana wala address me toh aapke aadmi aa rahe the na toh usko isi ko submit kiye. Lekin woh puri tarah se ho gaya naya wala me.\\nExecutive: Achcha. Achcha matlab aap office ka address change karna chahte hain, theek hai? Yahi samajh pa raha hu.\\nCustomer: Haan, haan, woh address change ho gaya.\\nExecutive: Theek hai sir, aap mujhe yeh bataiye aapki GST mein address wohi mention hai jo naya wala hai?\\nCustomer: Nahi nahi, naya wala nahi tha woh purana wala hai mera ghar ka address dale hai woh head office lekin woh ghar ka na ghar ka jo address hai woh dale the.\\nExecutive: Ah, aapka woh kya address karwana hai woh address bataiye. Kya address karwana hai aapko?\\nCustomer: Haan, Purandharpur.\\nExecutive: Purandharpur?\\nCustomer: Bankur Bankur district Bankur hai lekin Purandharpur hai woh Bikhna likha hoga na Purandharpur aayega.\\nExecutive: Theek hai dekho abhi yaha pe jo mention hai Bikhna PO Panpura karke hai sir yaha pe.\\nCustomer: Haan, Bankura hi aayega. Bankura hi aayega lekin woh aapka jo yeh aayega woh Purandharpur aayega. Village aur sabhi Purandharpur.\\nExecutive: Aur yeh aapki GST mein kya address hai?\\nCustomer: Haan, GST mein Purandharpur hi iska address hai.\\nExecutive: Purandharpur hi isme?\\nCustomer: GST wala jo address hai usme toh yeh wala hai na woh mera ghar ka address diye the pehle.\\nExecutive: Dekhiye jo aapka GST mein address hoga na.\\nCustomer: Haan haan.\\nExecutive: Wohi same IndiaMART hoga.\\nCustomer: Achcha theek hai. Ab GST mein aapka Purandharpur address hai toh us GST ki PDF ya photo ho GST mein dekhiye yeh toh yaha address diya hua hai woh toh mera ghar ka address diya hua hai.\\nExecutive: GST mein aapne ghar ka address us time woh wala pata hi toh nahi tha mera.\\nExecutive: Achcha.\\nExecutive: Yeh dekho kya hai ki aapka jo GST mein address hoga wohi address aapka IndiaMART par rahega.\\nCustomer: Achcha. Aisa hai. Haan, agar aapko change karana hai pehle toh aap GST change kara dijiye uske baad mujhe yaha pe aap photo bhej denge apni GST ka update kara ke toh main five minutes mein yaha se change kar dunga change karne ka ticket. GST ka address woh rehne dijiye na toh iska bhi address matlab customer yahi se aa raha hai. Confusion ho raha hai ki Purandharpur pe aap Bikhna me address dal rahe hai yaha 3 kilometer duri hai takriban.\\nExecutive: Achcha achcha GST mein aapka address Purandharpur hai?\\nCustomer: Haan.\\nExecutive: GST mein address aapko Purandharpur hai na?\\nCustomer: Haan, Purandharpur.\\nExecutive: GST ka photo bhejiye mujhe WhatsApp pe. WhatsApp number pata hai aapko mera?\\nCustomer: Ek second. Mai aapka number nikalta hu WhatsApp number aapka. Aapka number hai.\\nExecutive: Yeh maine aapko hi bheja WhatsApp pe. Isliye mujhe apna GST address GST ka photo bhejiye.\\nCustomer: Theek theek.\\nExecutive: Yeh sabhi hi bheja dekho.\\nCustomer: Theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change the office address.\\n\n- Customers are visiting old address.\\n\n\\n\nResolution:\\n\n- Explained that GST address will be used.\\n\n- Asked to send GST photo on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will send GST photo on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- address change, gst, office address\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 226,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=90237962-d1bd-46dd-979b-78959809f9ff",
+  "ucid": "90237962-d1bd-46dd-979b-78959809f9ff",
+  "seller_categories": [
+    {
+      "mcat_id": "94946",
+      "mcat_name": "Residential Elevator"
+    },
+    {
+      "mcat_id": "27220",
+      "mcat_name": "Electric Bicycle"
+    },
+    {
+      "mcat_id": "204984",
+      "mcat_name": "School Van"
+    },
+    {
+      "mcat_id": "78116",
+      "mcat_name": "Food Van"
+    },
+    {
+      "mcat_id": "442256",
+      "mcat_name": "Electric Food Van"
+    }
+  ]
+}

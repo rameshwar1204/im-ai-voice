@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676381857",
+  "gluser_id": "30707263",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "FREELIST",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716329",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Ji Abhishek Patel ji baat kar rahe hain Pocket Store se?\\nCustomer: Haan nahi main unki misss baat kar rahi hoon.\\nExecutive: Okay, ma'am Vikas baat kar raha tha IndiaMART head office se baat kar raha tha. Actually sir ne ek call kiya tha right? To usi ke regarding discuss karna tha profile ke regarding. Profile aap bhi dekhte ho ya sir dekhte hain?\\nCustomer: Nahi mujhe kuch maloom nahi hai. Main unko bata dungi aapka call aaya.\\nExecutive: Ji ji unse bata dijiye isi number pe call back kar lenge. Kyunki unhone hamare customer care number pe call kiya tha right? To ticket open hui thi usi ke regarding baat karni thi.\\nCustomer: Aap kiske?\\nExecutive: Ek ticket open ki thi unhone right? Haan haan call kiya tha customer care number pe to wo ticket hamare paas aayi hui thi.\\nExecutive: Uske bare mein discuss karna tha profile ke bare mein.\\nCustomer: Haan haan theek hai main baat kar dungi unhe. Number de dungi yehi hai number.\\nExecutive: Haan theek hai.\\nCustomer: Thank you.\\nExecutive: Haan.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss profile with Abhishek Patel.\\n\n\\n\nResolution:\\n\n- Customer will inform Abhishek Patel about the call.\\n\n\\n\nNext Steps: \\n\n- Customer will ask Abhishek to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, call back, ticket\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f6bae992-ab67-4535-ac08-57d106824403",
+  "ucid": "f6bae992-ab67-4535-ac08-57d106824403",
+  "seller_categories": [
+    {
+      "mcat_id": "185038",
+      "mcat_name": "Sublimation Water Bottle"
+    },
+    {
+      "mcat_id": "105223",
+      "mcat_name": "Customizable Coffee Mug"
+    },
+    {
+      "mcat_id": "183894",
+      "mcat_name": "Sublimation Key Chain"
+    },
+    {
+      "mcat_id": "94820",
+      "mcat_name": "Customized Key Chain"
+    },
+    {
+      "mcat_id": "215928",
+      "mcat_name": "MDF Sublimation Keychain"
+    }
+  ]
+}

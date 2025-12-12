@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673913019",
+  "gluser_id": "254247631",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696218",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, mam, mai abhi thoda kaam mein hu, toh aaj nahi ho payega.\\nExecutive: Ah, sir, good evening.\\nCustomer: Good evening, mam.\\nExecutive: Ah, sir, actually aapne woh 4 baje se meeting schedule ki thi video meet ke liye. Haan, lekin mai thoda bahar aaya hu.\\nCustomer: Haan ji.\\nCustomer: Toh aaj nahi ho payega mam, kal rakho na meeting.\\nExecutive: Toh sir, sir mujhe aap bata sakte ho ki\\nCustomer: Kya bata sakta hu mam?\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Ah, sir, actually mujhe ye jaanna tha, sir aapne video meet ka sir interest show kiya tha, toh sir kuch changes karna padega aapko ya kuch samjh bata sakte hai humko?\\nCustomer: Aapka aawaz mam bahut slow aa raha hai.\\nExecutive: Hello, abhi aa rahi hai sir aawaz?\\nCustomer: Haan, boliye.\\nExecutive: Sir, mujhe ye jaanna ki sir aapne jaise video meet ka sir interest show kiya tha, theek hai? Hmm.\\nExecutive: Hmm. Toh kya kuch sir changes karna padega aapko ya koi aur problem aa rahi hai sir? Aap mujhe bata sakte hai uske baare mein?\\nCustomer: Nahi, woh thoda video call ke regarding thoda confusion tha mere ko, toh uski thodi information chahiye thi.\\nExecutive: Kis kis ke regarding aapko confusion thi?\\nCustomer: Haan. Woh thoda woh video chat ka kuch tha na andar option?\\nExecutive: Woh toh waise hota hai ki mere jaise aapka jo account manager jaise option aata hai na video meet ke liye. Hmm.\\nExecutive: Haan. Toh woh toh option hota hai sir. Usme hi aapne click karna. Haan ji.\\nCustomer: Achha, okay.\\nExecutive: Toh agar aapko koi concern nahi hai toh mai isko close kar deti hu. Nahi, toh uske alawa toh aur kuch nahi hai mam.\\nExecutive: Theek hai, sir, mai agar aapko koi concern nahi hai, mai waise usko aapko ek kaam karti hu, mai aapko Monday ko connect kar leti hu ek baar dobara se. Okay.\\nExecutive: Aur isko mai abhi close kar deti hu sir. Aur ispe sir aapke liye aapke paas ek mail aayegi sir mere regarding. Theek hai?\\nCustomer: Okay, theek hai mam.\\nExecutive: Toh sir usme please apna feedback share kar dena sir, theek hai?\\nCustomer: Okay, okay.\\nExecutive: Okay, sir, thank you so much.\\nCustomer: You are welcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had confusion regarding video call feature.\\n\nResolution:\\n\n- Executive explained about video meet option.\\n\n- Executive offered to connect on Monday again.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Monday again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, confusion, feedback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 153,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0082a590-c6be-48bd-88c8-9cec57c0b384",
+  "ucid": "0082a590-c6be-48bd-88c8-9cec57c0b384",
+  "seller_categories": [
+    {
+      "mcat_id": "182089",
+      "mcat_name": "Fuji AC Drives"
+    },
+    {
+      "mcat_id": "203640",
+      "mcat_name": "Schneider Power Contactors"
+    },
+    {
+      "mcat_id": "182093",
+      "mcat_name": "Danfoss VFD"
+    },
+    {
+      "mcat_id": "181622",
+      "mcat_name": "Yaskawa AC Drive"
+    },
+    {
+      "mcat_id": "214433",
+      "mcat_name": "Schneider MCB"
+    }
+  ]
+}

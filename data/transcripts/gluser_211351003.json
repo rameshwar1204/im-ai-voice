@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668625081",
+  "gluser_id": "211351003",
+  "vintage_months": 3,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Thanjavur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638427",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Maam good evening maam.\\nCustomer: Yaaru?\\nExecutive: Na Krishna pesura India martlende manager pesura eppadi irukinga?\\nCustomer: Hmm sollunga enna vishayam?\\nExecutive: Eppadi irukinga maam?\\nCustomer: Neenga yaarunga?\\nExecutive: Na India mart employee pesurenga.\\nCustomer: Kekuthungala?\\nExecutive: Okay endha related call pannirukinga?\\nCustomer: So related than last time rendu naaluku munnadi Rohini nu solli executive pesinangale.\\nCustomer: Theriyaliye en husband call pannunga.\\nExecutive: Sorry primary number iruku adhu sir number thane maam 390 mudiyuthu le.\\nCustomer: Last 107 than.\\nExecutive: Illa ungal number onnu irukule maam 90 start aagi 390 mudiyuthu le.\\nCustomer: Appadi edhum illingge.\\nExecutive: Seri maam onnum illa number sollunga.\\nCustomer: Sollunga.\\nExecutive: Oru nimisham.\\nExecutive: Maam 9025648390.\\nCustomer: Enna number?\\nExecutive: 90256\\nCustomer: 256\\nExecutive: 48\\nCustomer: 48\\nExecutive: 390.\\nCustomer: Oh okay appo andha numberke neenga call panni pesunga.\\nExecutive: Okay maam onnum illai.\\nCustomer: Manager call pannunga.\\nExecutive: Okay okay irundhaalum maam oru theriyama vandhu customer care call pannitanga appadinnu solli inform pannanga.\\nCustomer: Hmm hmm.\\nExecutive: Aama maam adhu andha concern vandhu close panna confirmation kaaga inform panna maari irukanga avarukku illa message panna hospital irukka neenga pesalaamnu solli irundhanga.\\nCustomer: Appadingala avar thoongittu irukkaaru.\\nExecutive: Appadi onnum prachnai illai maam avarukku andha concern thaan close pannitukura just inform pannurathukkaaga thaan call pannom.\\nCustomer: Seri okaynga close pannidunga.\\nExecutive: India mart neenga use panreengala maam?\\nCustomer: Aa use panren.\\nExecutive: Okay okay so regulara use panna sollunga edhaavathu doubt maari kooda namma account manager Rohini nu solli iruppanga.\\nCustomer: Hmm hmm okay.\\nExecutive: Neenga use panreengala neenga individual use panreengala illa avar thaan paakaraara?\\nCustomer: Illa illa rendu perume use pannittu irukkaanga.\\nExecutive: Oh seri maam okay maam okay edhaavathu doubt irundha Rohini nu solli call pannuvanga avangalukku support idhu respond panna sollunga edhaavathu support naalum avanga pannuvanga okayngala.\\nCustomer: Seri okay okay.\\nExecutive: Okay andha concern close pannidunga adhu oru related feedback maari vandhu varum adhaiyum koduthurunga okayngala.\\nCustomer: Hmm okay.\\nExecutive: Okay maam okay vera edhaavathu doubts irukka maam India mart pathi so far eppadi poittu irukku.\\nCustomer: Illa illa vera edhum doubt illai.\\nExecutive: Seri maam okay maam.\\nCustomer: Okay thank you.\\nExecutive: Thank you maam thank you vachiranga.",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call by mistake.\\n\n- Wants to close the concern.\\n\n\\n\nResolution:\\n\n- Executive confirmed the concern was closed.\\n\n- Executive asked to provide feedback.\\n\n- Executive offered support from account manager Rohini.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, support, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 184,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2350c540-d279-42b9-b8c7-3a568afd6ce2",
+  "ucid": "2350c540-d279-42b9-b8c7-3a568afd6ce2",
+  "seller_categories": [
+    {
+      "mcat_id": "179153",
+      "mcat_name": "M Sand"
+    },
+    {
+      "mcat_id": "24200",
+      "mcat_name": "Clay Brick"
+    },
+    {
+      "mcat_id": "36247",
+      "mcat_name": "Red Brick"
+    },
+    {
+      "mcat_id": "184663",
+      "mcat_name": "Construction Sand"
+    },
+    {
+      "mcat_id": "25802",
+      "mcat_name": "Construction Stone"
+    }
+  ]
+}

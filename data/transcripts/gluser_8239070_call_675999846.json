@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675999846",
+  "gluser_id": "8239070",
+  "vintage_months": 22,
+  "bl_dau_oct": 22,
+  "customer_type": "STAR",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698056",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan, good afternoon. Kaun the bolna tha India Mart se?\\nExecutive: Haan, hum lunch mein hai. Thoda baad mein phone karta hu. Haan, sab kuch.\\nCustomer: Confirm ho gaya sir, payment receive ho gaya hai?\\nExecutive: Hum\\nCustomer: Haan, kal to ek notification humko mila tha mera account mein. Theek hai na? Hum aapko batata hu. Hum khud ek baar account mein check karke batata hu. Theek hai na?\\nExecutive: Kitne baje tak mujhe update kar dijiyega?\\nCustomer: Maximum half an hour ke andar.\\nExecutive: Haan?\\nCustomer: Maximum half an hour ke andar hum aapko phone karta hu.\\nExecutive: Theek hai. Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment confirmation.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will check the account and call back within half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\npayment, confirmation, account\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=53661231-ee32-481b-ba46-106b4205069b",
+  "ucid": "53661231-ee32-481b-ba46-106b4205069b",
+  "seller_categories": [
+    {
+      "mcat_id": "168359",
+      "mcat_name": "Game Development Service"
+    },
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "171638",
+      "mcat_name": "Mobile Game Development"
+    },
+    {
+      "mcat_id": "181037",
+      "mcat_name": "Youtube Ads"
+    },
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    }
+  ]
+}

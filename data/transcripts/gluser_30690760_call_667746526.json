@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667746526",
+  "gluser_id": "30690760",
+  "vintage_months": 16,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalitpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636897",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ha sir, wo sir mail pe to show nahi kar raha hai wo, kal maine kal do bid lagayi thi aur abhi bhi maine ek lagayi thi, dikhayi nahi rahi koi si bhi.\\nExecutive: Accha sir aaj office off hai, kal mai karke dekhta hu. Accha aaj off hai?\\nCustomer: Ha, thik hai, koi dikkat nahi. Okay sir, thik hai.\\nExecutive: Okay.",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads are not visible on mail.\\n\n\\n\nResolution:\\n\n- Executive said office is closed, will check tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will check the issue tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, mail, office\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f8d39224-4bc9-453b-9e60-96ef4692d461",
+  "ucid": "f8d39224-4bc9-453b-9e60-96ef4692d461",
+  "seller_categories": [
+    {
+      "mcat_id": "182871",
+      "mcat_name": "Brother Multifunction Printer"
+    },
+    {
+      "mcat_id": "184886",
+      "mcat_name": "HP Laserjet Printer"
+    },
+    {
+      "mcat_id": "180965",
+      "mcat_name": "Brother Laser Printer"
+    },
+    {
+      "mcat_id": "182129",
+      "mcat_name": "Epson Photo Printer"
+    },
+    {
+      "mcat_id": "182397",
+      "mcat_name": "HP Multifunction Printer"
+    }
+  ]
+}

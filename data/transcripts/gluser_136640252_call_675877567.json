@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675877567",
+  "gluser_id": "136640252",
+  "vintage_months": 7,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwandi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715987",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHalo?\\nHaa.\\nGood morning Aditya sir. Manisha baat kar rahi hu sir India Mart se.\\nHaa bolo.\\nJi sir kal kal fir hamara interaction hua tha. Maine aapko WhatsApp pe hum message bhi kiya tha ki jo product ki aapko lead chahiye hum message kar do. Lekin sir aapke paas na ek unka feedback aaya hoga WhatsApp mailing pe. To aapne usme satisfied me na no ka reply kara. To hamare paas na wo concern raise ho jata. Uska kya reason tha?\\nCall karta ek second.\\nJi kya kya reason?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback received with a 'no' reply, raising a concern.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, lead, feedback, whatsapp\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=88f0dda2-945e-4e36-b15e-cb43794a2e00",
+  "ucid": "88f0dda2-945e-4e36-b15e-cb43794a2e00",
+  "seller_categories": [
+    {
+      "mcat_id": "65381",
+      "mcat_name": "Automotive V Belt"
+    },
+    {
+      "mcat_id": "36034",
+      "mcat_name": "Rubber Timing Belts"
+    },
+    {
+      "mcat_id": "27179",
+      "mcat_name": "Drive Belts"
+    },
+    {
+      "mcat_id": "181985",
+      "mcat_name": "Rubber V Belt"
+    },
+    {
+      "mcat_id": "1075",
+      "mcat_name": "Fan Belts"
+    }
+  ]
+}

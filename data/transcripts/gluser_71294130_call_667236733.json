@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667236733",
+  "gluser_id": "71294130",
+  "vintage_months": 45,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jammu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628532",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ye to sach hai ke bhagwan hai.\\nExecutive: Hello.\\nCustomer: Hello good morning Vikas ji Abhishek baat kar raha hu India Mart se.\\nCustomer: Ji.\\nExecutive: Ji sir aap koi ticket jo cancellation aapke regarding maine connect kiya hua hai.\\nExecutive: To kya aapne try bhi ho sakta hai kya ho kya aap ek bar check kar sakte hain jaise jis internet se internet connection se aap ek bar\\nCustomer: Same issue hai sir wo nahi chal raha wo.\\nExecutive: Other internet connection se bhi same issue hai.\\nCustomer: Ha?\\nExecutive: Other matlab like jaise for example aap Airtel ka sim use kar rahe hain Airtel ka connection use kar rahe hain.\\nExecutive: To other koi connection other sim ka other internet ka.\\nCustomer: Other se bhi kar liya sir wifi se dekha tha connect karke wo bhi nahi chal raha.\\nExecutive: Wo bhi nahi chal raha hai.\\nExecutive: Okay.\\nExecutive: Theek hai to team me is baat ka update manga to main isko update kar raha tha. Kyunki issue solve karne ke liye confirm karke hi solve hoga. Right sir?\\nCustomer: Theek hai sir.\\nExecutive: Theek hai. Thank you so much.\\nExecutive: Main aapko batata hu update ke liye. Theek hai?\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's internet is not working.\\n\nResolution:\\n\n- Executive is taking an update on the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will provide an update to the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- internet, cancellation, ticket, update\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c3a4c94c-1233-4dbe-a8be-ca4c94988be7",
+  "ucid": "c3a4c94c-1233-4dbe-a8be-ca4c94988be7",
+  "seller_categories": [
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    },
+    {
+      "mcat_id": "181577",
+      "mcat_name": "Kent RO Water Purifier"
+    },
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "181262",
+      "mcat_name": "Industrial RO System"
+    },
+    {
+      "mcat_id": "20513",
+      "mcat_name": "RO Membranes"
+    }
+  ]
+}

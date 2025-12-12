@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674919192",
+  "gluser_id": "41087714",
+  "vintage_months": 11,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Chhatarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708269",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ah ji sir very good morning. Ashok ji baat kar rahe hain sir Jai Mahakal Traders mein?\\nCustomer: Haan baat kar raha hoon.\\nExecutive: Ashok ji main Vidhi baat kar rahi thi India Mart team se. Kaise hain aap?\\nCustomer: Haan badhiya hai.\\nExecutive: Actually aapka ek feedback receive hua tha sir aapki services ke regarding aap satisfied nahi ho right?\\nCustomer: Haan.\\nExecutive: Kya problem aa rahi thi sir?\\nCustomer: Kuch bhi nahi.\\nExecutive: Ah but sir aapne to not satisfied mark kiya hua hai. Kal shayad aapke Bharat se baat hui thi aapke jo account manager hai right?\\nCustomer: Hmm.\\nExecutive: Unke discussion ke baad aapne unko not satisfied kiya to matlab like unhone aapki problem solve nahi ki sir ya kya reason tha?\\nCustomer: Koi problem hi nahi hai na. Main to usme kuch problem to nahi hai. Wo aane ke liye bol rahe the maine mana kar diya khatam.\\nExecutive: Okay. So fir sir not satisfied kyun kiya aapne? Matlab koi to problem hogi na sir tabhi to aapne no diya hai na?\\nCustomer: Nahi maine nahi kiya.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked services as not satisfied.\\n\nResolution:\\n\n- Executive inquired about the reason for dissatisfaction.\\n\nNext Steps: \\n\n- Issue not resolved.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, account manager\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9a496e21-b049-4752-b0ed-1d176171bf50",
+  "ucid": "9a496e21-b049-4752-b0ed-1d176171bf50",
+  "seller_categories": [
+    {
+      "mcat_id": "88491",
+      "mcat_name": "Water Campers"
+    },
+    {
+      "mcat_id": "186620",
+      "mcat_name": "Mineral Water Jar"
+    },
+    {
+      "mcat_id": "65902",
+      "mcat_name": "Water Bottle Cap"
+    },
+    {
+      "mcat_id": "118728",
+      "mcat_name": "Water Jars"
+    },
+    {
+      "mcat_id": "1425",
+      "mcat_name": "PET Bottles"
+    }
+  ]
+}

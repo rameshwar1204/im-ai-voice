@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673813169",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u091c\u0940 \u0928\u092e\u0938\u094d\u0924\u0947 \u0938\u0930 \u0938\u0949\u0930\u0940 \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935 \u092c\u094b\u0932 \u0930\u0939\u0947 \u0939\u0948\u0902\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935 \u092c\u094b\u0932 \u0930\u0939\u0947 \u0939\u0948\u0902 \u092c\u0924\u093e\u0907\u090f \u0915\u094c\u0928\\nExecutive: \u0938\u0930 \u0915\u093e\u0930\u094d\u0924\u093f\u0915 \u092c\u094b\u0932 \u0930\u0939\u093e \u0939\u0942\u0902 \u0905\u092e\u0943\u0924 \u0906\u0930\u094d\u091f\u094d\u0938\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930 \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930 \u092c\u0924\u093e\u0907\u090f\\nExecutive: \u0938\u0930 \u092e\u0948\u0902\u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0925\u093e \u0915\u093f \u0906\u092a \u0939\u0930 \u0939\u092b\u094d\u0924\u0947 \u0938\u0930 \u092b\u094b\u0928 \u0915\u0930\u0924\u0947 \u0930\u0939\u093f\u090f\u0917\u093e \u0915\u0941\u091b \u0928\u093e \u0915\u0941\u091b \u0905\u092a\u0921\u0947\u091f \u092c\u0924\u093e\u0924\u0947 \u0930\u0939\u093f\u090f\u0917\u093e \u0905\u0915\u093e\u0909\u0902\u091f \u0915\u0948\u0938\u093e \u0939\u0948 \u0915\u0948\u0938\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\\nExecutive: \u0920\u0940\u0915 \u0939\u0948 \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u0915\u0949\u0932 \u092c\u0948\u0915 \u0915\u0930\u0924\u093e \u0939\u0942\u0902 \u0938\u0930 \u0905\u092d\u0940 \u0915\u094d\u092f\u093e \u0939\u0948 \u091a\u0932 \u0930\u0939\u093e \u0925\u093e \u0905\u092d\u0940 \u0916\u093e\u0928\u093e \u0916\u093e\u0928\u0947 \u0906\u092f\u093e \u0925\u093e\\nCustomer: \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930 \u0905\u092d\u0940 \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0924\u093e \u0939\u0942\u0902 \u0938\u0930\\nExecutive: \u0939\u093e\u0902 \u0913\u0915\u0947\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called to get an update on the account.\\n\n\\n\nResolution:\\n\n- Executive will call back later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\naccount update, callback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=37546e9e-f132-42af-a91f-19b9ac361399",
+  "ucid": "37546e9e-f132-42af-a91f-19b9ac361399",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673505185",
+  "gluser_id": "103728466",
+  "vintage_months": 17,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Rajbalhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji.\\nCustomer: Haan sir, good evening.\\nExecutive: Good evening.\\nCustomer: Salim sir bol rahe hain na?\\nExecutive: Ji.\\nExecutive: Haan Salim ji, Praveen bol raha hu IndiaMART se.\\nCustomer: Ji boliye.\\nExecutive: Aapne ek request dali thi call back ke liye sir, bataye kya issue aa raha hai?\\nCustomer: Mera manager se baat kijiye na.\\nExecutive: Manager se, kyun se?\\nCustomer: Number bolu?\\nExecutive: Haan number bataiye.\\nCustomer: Ek second.\\nCustomer: Ye 7079276298?\\nExecutive: Haan, haan, haan, haan.\\nExecutive: Inka naam kya hai sir?\\nCustomer: Kumar.\\nExecutive: Achha Kumar kya naam hai aage?\\nCustomer: Hussain.\\nExecutive: Achha Kumar, Kumar Hussain na?\\nCustomer: Hmm.\\nExecutive: Sir, K q likhte hain ki K likhte hain?\\nCustomer: Q.\\nExecutive: Achha.\\nExecutive: Kumar. 7079276298.\\nExecutive: Achha, to ye, ye to wo hai sir, matlab account, matlab aapka account dekhte hain.\\nCustomer: Haan.\\nExecutive: Unse baat kijiye.\\nExecutive: Aap kya, aap owner hain?\\nCustomer: Ji.\\nExecutive: Achha. Sir unse to baat hoti hai, sir thoda sa ye bhi puchna tha ki sir iska kya TrustSeal mein kyun nahi karwa rahe hain sir?\\nCustomer: Wahi to dikkat hai, customer phone kar raha hai aur puch raha hai, rate puch raha hai, bas bhag raha hai.\\nExecutive: Achha. Sir ye cheez dekho sir ko bhi pata hai kyunki wo IndiaMART mein kaam kar chuke hain, aapko bhi I think pata hoga. To maine unko sir cheeze yahi batai hai ki jo potential buyer hote hain na, jo customer bulk wali leads wale hote hain.\\nExecutive: Jo potential buyer hain, wo aapki profile tak West Bengal mein pahunch nahi paate hain, connect nahi kar paate hain sir, ye sabse bada main reason hai.\\nExecutive: Kyunki sir dekho aap.\\nCustomer: Is saal ka, is saal ka mera business kahan hua hai? Ek bhi customer aaya is saal mein?\\nExecutive: Sir, is saal ka aap keh rahe ho business nahi hai, haan.\\nExecutive: Sir dekhiye aapke hi area se Jai Balaji Timber Products ko jaante honge aap na?\\nCustomer: Ji.\\nExecutive: Aap vishwas nahi manoge inke paas na bahut IndiaMART ke TrustSeal verified member hain.\\nCustomer: Achha theek hai main aapko thodi der baad call back kar raha hu.\\nExecutive: Haan?\\nCustomer: Thodi der baad call back kar raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to his manager.\\n\nResolution:\\n\n- Executive asked for manager's contact number.\\n- Explained benefits of TrustSeal.\\n\nNext Steps: \\n\n- Customer will call back later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, buyleads, account manager\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 162,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=36d06ff7-d7ba-4e2c-acf9-a07a666a4b4f",
+  "ucid": "36d06ff7-d7ba-4e2c-acf9-a07a666a4b4f",
+  "seller_categories": [
+    {
+      "mcat_id": "226934",
+      "mcat_name": "Eucalyptus Pole"
+    },
+    {
+      "mcat_id": "41375",
+      "mcat_name": "Wooden Pole"
+    },
+    {
+      "mcat_id": "41452",
+      "mcat_name": "Wood Poles"
+    },
+    {
+      "mcat_id": "36715",
+      "mcat_name": "Sal Wood"
+    },
+    {
+      "mcat_id": "114087",
+      "mcat_name": "Firewoods"
+    }
+  ]
+}

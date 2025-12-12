@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676160963",
+  "gluser_id": "213093846",
+  "vintage_months": 4,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Greater Noida",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701966",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Yeah, hi Vishal ji, kaise ho aap?\\nExecutive: Hum badhiya badhiya, aap bataiye.\\nCustomer: Main bhi theek hoon sir, thanks for asking. Vishal ji, aapke catalog pe kaam shuru karwa diya hai maine. If you have checked, theek hai, products vgera add hue hain but usme specifications vgera ki abhi hai jo abhi complete nahi hua hai. Wo aap kar lenge.\\nExecutive: Theek hai.\\nCustomer: To aapka discussion ho gaya hai, aapka ye concern main yahan se close kar doon, aapko issue to nahi hai sir?\\nExecutive: Kar dijiye mam, koi issue nahi hai lekin mam. Koi bhi issue rehta hai na aapko Vishal ji.\\nCustomer: Haan, aapko koi bhi concern rehta hai, kisi tarike ka koi bhi problem rehta hai, aapke paas mera personal number hai, aap direct mujhe message kijiyega, I am always there to help you out regarding all the services. Mam aap Amita mam baat kar rahe hain, right?\\nExecutive: Amita, yes, relationship manager is here. Theek hai, haan, aapke senior manager hoon. Koi bhi doubt hai, query rehti hai, aap direct mujhe approach kijiyega. Koi helpline number nahi, kuch nahi because reason being bata deti hoon sir, agar aap kabhi complaint raise bhi karte hain na, koi problem nahi hai usme. But at the end fir catalog mere paas hi aayega, sari cheeze jo bhi aapka concern hai wo resolve ke liye. To better rahega aap mujhe direct approach kar do, theek hai?\\nCustomer: Okay mam.\\nExecutive: Theek hai, main yahan se concern close kar rahi hoon, aapke paas ek feedback ke liye mail aayega. I hope if you are satisfied, aap please apna positive feedback share kijiyega, okay?\\nCustomer: Okay mam.\\nExecutive: Okay sir, thank you so much sir, have a good day ahead.\\nCustomer: Thank you mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's catalog specifications are incomplete.\\n\n\\n\nResolution:\\n\n- Executive assured to resolve concerns directly.\\n\n- Executive requested positive feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, feedback, resolution\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=48f07e16-52e4-427c-a195-cf8daf2b3d38",
+  "ucid": "48f07e16-52e4-427c-a195-cf8daf2b3d38",
+  "seller_categories": [
+    {
+      "mcat_id": "182955",
+      "mcat_name": "Allen Cooper Safety Shoes"
+    },
+    {
+      "mcat_id": "8367",
+      "mcat_name": "Safety Shoes"
+    },
+    {
+      "mcat_id": "189356",
+      "mcat_name": "Tiger Safety Shoes"
+    },
+    {
+      "mcat_id": "81086",
+      "mcat_name": "Safety Jacket"
+    },
+    {
+      "mcat_id": "8305",
+      "mcat_name": "Rubber Hand Gloves"
+    }
+  ]
+}

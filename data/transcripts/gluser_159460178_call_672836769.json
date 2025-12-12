@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672836769",
+  "gluser_id": "159460178",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ghaziabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Nadeem ji baat kar rahe ho?\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Haan ji sir good afternoon Muskan bol rahi hu sir.\\nCustomer: Haan Muskan madam.\\nExecutive: Haan sir iski payment process kar dijiye sir.\\nCustomer: Abhi \u20b910000 ki to abhi dal deta hu thodi der mein baki fir sham ko fir dalunga.\\nExecutive: Sir nahi ek sath kar dijiye chahe aap mujhe sham tak ka time de do 3-4 baje tak main kar lungi lekin ek sath kar kyuki teen part mein deal hui thi teen part mein hi hume leni hai sir ab isliye sir main aapko request kar rahi hu kuch force nahi hai is tarike se.\\nCustomer: Puri payment?\\nExecutive: Haan ji sir.\\nCustomer: Puri payment to madam vaise bhi nahi hogi maine aapko us din bhi boli thi ye cheez to.\\nExecutive: Sir teen part mein aapne bola tha madam ek baat suno ek minute meri baat sunoge pehle madam meri baat meri baat sunoge pehle aap.\\nCustomer: Sunaiye aap.\\nCustomer: Abhi ye teesra mahina ho gaya madam complete?\\nExecutive: Teesra mahina nahi hai ye last hai ye.\\nCustomer: Complete ho gaya teesra mahina ye last hai ha aap dekhiye na September mein aapki deal hui thi September October November chal raha hai ye teesra mahina hai.\\nCustomer: Achcha.\\nExecutive: Aap ek bar check kar lo hame koi dikkat nahi hai sir hum aapse kuch bhi wo nahi le rahe extra amount November mein bhi madam 30 tarikh tak ka time hai na mere paas mein.\\nExecutive: Sorry?\\nCustomer: November mein bhi 30 tarikh tak ka time hai na madam mere paas mein.\\nExecutive: Kis tarikh tak ka hai?\\nCustomer: 30 tarikh tak ka time hai na madam mere paas mein November mein bhi.\\nExecutive: Nahi sir November mein bhi aapke paas 28 tarikh tak ka time hai.\\nCustomer: To koi baat nahi 28 tarikh tak ka bhi time hai na madam mere paas.\\nExecutive: Lekin sir aapne us samay ki jitni aapko wo deal amount thi 48 wo to kiya hi nahi tha 35 kiya tha to wo amount agar aap us time pe karte to wo deal hota hota na sir thoda wo bhi to consider karo 35 kiya tha aapne 48 ki jagah.\\nCustomer: Achcha fir.\\nExecutive: To isliye wo amount waha pe badh ke wo hume pura karwana padega.\\nCustomer: Madam ek baat batao mere paas abhi madam time kitna hai mere ko ye batao.\\nExecutive: Sorry aap time kitna hai madam ye batao pura amount us samay pay nahi kiya tha aaj bhi madam aap mere ko time bataoge na abhi mere paas time kab tak ka hai ye batao pehle aap.\\nExecutive: Sir aaj aap karwa dijiye isko.\\nCustomer: Madam nahi karwa paunga aaj main puri payment.\\nExecutive: Sir to ye 10-10 hazar ke liye hum nahi baithe na sir ki hum aap 10 aap madam aap band karna band kar do.\\nCustomer: Ab wo to sir band ho gaya.\\nCustomer: Agar main aapke pure dalunga ab.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive requests customer to process payment.\\n\n- Customer says he will pay in two parts.\\n\n- Executive wants full payment in one go.\\n\n- Customer says he has time till 30th November.\\n\\n\nResolution:\\n\n- Executive says customer has time till 28th November.\\n\n- Executive explains about previous payment discrepancy.\\n\n- Executive asks customer to make the payment today.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- payment, deadline, amount\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 142,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0839caec-50ec-4664-b3bc-9d76dbf6a5d9",
+  "ucid": "0839caec-50ec-4664-b3bc-9d76dbf6a5d9",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "154583",
+      "mcat_name": "Monkey Hoist Machines"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "144455",
+      "mcat_name": "Bar Bending Machine"
+    }
+  ]
+}

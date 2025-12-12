@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671147554",
+  "gluser_id": "147911950",
+  "vintage_months": 5,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Kollam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=67f8ecc8-3f51-43e4-87b2-55d3cae5ac82",
+  "ucid": "67f8ecc8-3f51-43e4-87b2-55d3cae5ac82",
+  "seller_categories": [
+    {
+      "mcat_id": "41842",
+      "mcat_name": "Semi Fowler Beds"
+    },
+    {
+      "mcat_id": "224145",
+      "mcat_name": "Medical Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "10889",
+      "mcat_name": "ICU Beds"
+    },
+    {
+      "mcat_id": "56254",
+      "mcat_name": "Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "31717",
+      "mcat_name": "Manual Wheelchairs"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672792199",
+  "gluser_id": "149964757",
+  "vintage_months": 42,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kottayam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Sara\\nHello?\\nHello? Hello?\\nSir morning sir, Bharati call panirukken India one banking team irundhu.\\nCan you can you call me after 30 minutes?\\nOkay okay fine sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call back after 30 minutes.\\n\n\\n\nResolution:\\n\n- Agreed to call back after 30 minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Call back after 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, india one banking team\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fbd2f921-3d30-40ba-8159-f7055fc43fd0",
+  "ucid": "fbd2f921-3d30-40ba-8159-f7055fc43fd0",
+  "seller_categories": [
+    {
+      "mcat_id": "2727",
+      "mcat_name": "Ventilation Fans"
+    }
+  ]
+}

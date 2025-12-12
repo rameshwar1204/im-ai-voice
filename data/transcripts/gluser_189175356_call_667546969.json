@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667546969",
+  "gluser_id": "189175356",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Purnea",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682239",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan, hello.\\nExecutive: Hello.\\nCustomer: Haan, good evening, ma'am.\\nExecutive: Good evening, sir. Main Humera baat kar rahi thi IndiaMART se. Kaise hain sir?\\nCustomer: Theek hai, bataiye.\\nExecutive: Sir, vahi apni service ke liye connect kiya tha maine aapko discussion ke liye. Maine subah bhi call lagaya tha, call laga nahi sir aapka. Abhi bhi laga rahi thi main yeh thodi der pehle. Utha nahi rahe sir aap phone.\\nCustomer: Hmm, boliye, drive kar rahe hain.\\nExecutive: Kya keh rahe hain?\\nCustomer: Main bola drive kar raha tha yaar.\\nExecutive: Achcha achcha, drive kar rahe hain kya?\\nCustomer: Haan.\\nExecutive: Kitni der mein free honge phir aap? Abhi do minute baat ho bas main isliye aapse drive kar rahe hain toh.\\nCustomer: Office ka time toh nahi hai abhi, chhutti nahi ho gayi hogi?\\nExecutive: Kya, kitni der mein?\\nCustomer: Abhi toh chhutti ho gayi hogi aapki, office ka time hai ji kya?\\nExecutive: Nahi nahi sir, main office mein hi baithi hui hoon. Chhutti ka time toh ho gaya hai but phir sir baat toh kar sakte hain aapse. Agar aap drive karein toh aap bataiye phir. Kitni der mein connect karoon?\\nCustomer: Aadha ghante mein aa jayenge aap.\\nExecutive: Theek hai sir, main connect karti hoon aapko.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss service with customer.\\n\n- Customer was driving and unable to talk.\\n\n\\n\nResolution:\\n\n- Executive will call back in half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, follow up, availability\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6d416fc0-8a39-4386-b102-9f4dec881c36",
+  "ucid": "6d416fc0-8a39-4386-b102-9f4dec881c36",
+  "seller_categories": [
+    {
+      "mcat_id": "442480",
+      "mcat_name": "Aceclofenac Paracetamol Tablet"
+    },
+    {
+      "mcat_id": "442060",
+      "mcat_name": "Aceclofenac Paracetamol Serratiopeptidase Tablet"
+    },
+    {
+      "mcat_id": "183631",
+      "mcat_name": "Herbal Piles Capsules and Tablets"
+    },
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    }
+  ]
+}

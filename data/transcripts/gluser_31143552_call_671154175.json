@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671154175",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Sir good morning IndiaMART se baat kar rahi hu. Aap apna screenshot de dijiye sir jaha pe aap login kar rahe hai aur login nahi ho raha hai.\\nCustomer: A abhi mai thoda available nahi hu, thik hai. Thoda\\nExecutive: Sir mai aapko bata du login ho gaya hai to koi baat nahi hai sir.\\nCustomer: Nahi login nahi hua aap mera jo dekho na waha pe number hai unke sath contact kijiye.\\nExecutive: Ha.\\nCustomer: Mai ek number de raha hu mere office ka unke sath contact kijiye mai aaj nahi hu leave par hu.\\nExecutive: Ji.\\nCustomer: Ek number bol raha hu note karo.\\nExecutive: Ha boliye.\\nCustomer: 700\\nExecutive: Ji sir hum inhi do number pe hi call kar sakte hai 060 wale pe aur ek ye wale pe.\\nCustomer: Nahi nahi 7003939244 Nancy ko boliye is number pe call kare.\\nExecutive: Unko aap bol dijiye Nancy ko whatsapp pe bhej de agar nahi login ho raha hai to.\\nCustomer: Nahi nahi unko call kijiye na. Mai jyada baat nahi kar sakta mai baad me hu baad me.\\nExecutive: Thik hai mai aap\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to login to IndiaMART.\\n\n- Executive asked for screenshot of login page.\\n\n\\n\nResolution:\\n\n- Customer provided an alternate contact number.\\n\n- Asked executive to call the provided number.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive to call alternate number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, screenshot, alternate contact\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=255fdef2-53b0-4020-b997-b030d8b6d846",
+  "ucid": "255fdef2-53b0-4020-b997-b030d8b6d846",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

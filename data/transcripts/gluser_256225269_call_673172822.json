@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673172822",
+  "gluser_id": "256225269",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694108",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha ji IndiaMART se baat kar rahe hain kya aap?\\nCustomer: Ha ji ha ji aap kis sambandh mein baat kar rahe hain?\\nExecutive: Ha ji main baat kar raha hun Nitin Kumar Yadav aur maine IndiaMART pe plan liya tha.\\nExecutive: Kis company se baat kar rahe hain sir?\\nCustomer: VN Enterprise se baat kar raha hun.\\nExecutive: Ha ji?\\nCustomer: VN Enterprise se baat kar raha hun.\\nExecutive: VN?\\nCustomer: A for apple N for neha VN Enterprise se baat kar raha hun aur Naveen ji ke naam se meri ek ID hai.\\nCustomer: Abhi maine aapke yahan par ek plan liya tha to uske lead ke bare mein jankari ke liye call kiya ki lead kaise aati hai kaise nahi aayegi wo thoda sa information. Kab liya tha aapne plan?\\nCustomer: Plan 12 November 2025.\\nExecutive: Thik hai thik hai abhi main aapko call kar raha hun thik hai abhi main ek meeting mein tha abhi main aapko call kar raha hun thik hai.\\nCustomer: Yahi hota hai ke baad fir aap log call lena. Thik hai sir. Sir abhi 5 minute mein call karu main aapko?\\nCustomer: Thik hai koi dikat nahi. Ji abhi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants information about leads.\\n\n\\n\nResolution:\\n\n- Executive said he will call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, plan, call back\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ffe462d6-1259-49de-a66e-8d65fda49fc4",
+  "ucid": "ffe462d6-1259-49de-a66e-8d65fda49fc4",
+  "seller_categories": [
+    {
+      "mcat_id": "655418",
+      "mcat_name": "Penis Enlargement Pills"
+    },
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "655778",
+      "mcat_name": "Horse Power Capsule"
+    },
+    {
+      "mcat_id": "444743",
+      "mcat_name": "Herbal Sexual Health Supplement"
+    },
+    {
+      "mcat_id": "106134",
+      "mcat_name": "Unani Medicines"
+    }
+  ]
+}

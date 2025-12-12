@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672661771",
+  "gluser_id": "27720443",
+  "vintage_months": 97,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Bilaspur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687903",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Ji namaste, IndiaMART se [inaudible] baat kar raha hu.\\nCustomer: Haan ji.\\nExecutive: Sir, main aapko call kiya tha aapke refund ke regarding baat karne ke liye, sir.\\nCustomer: Haan ji.\\nExecutive: Sir, aapka refund jo hai woh process ho gaya hai, sir. Aapko teen se chaar working days mein aapke account mein aa jayega, sir.\\nCustomer: Theek hai.\\nExecutive: Aur sir, aapko koi dikkat ya pareshaani ho toh aap mujhe call kar sakte hai, sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai, sir. Dhanyavaad, sir.\\nCustomer: Dhanyavaad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's concern was regarding the refund.\\n\n\\n\nResolution:\\n\n- Executive informed refund has been processed.\\n\n- Refund will be credited in 3-4 working days.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, account, process\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ab235a4-1476-476c-92cb-728bb83942ed",
+  "ucid": "6ab235a4-1476-476c-92cb-728bb83942ed",
+  "seller_categories": [
+    {
+      "mcat_id": "25414",
+      "mcat_name": "Decorative Candles"
+    },
+    {
+      "mcat_id": "99",
+      "mcat_name": "Scented Candles"
+    },
+    {
+      "mcat_id": "5940",
+      "mcat_name": "Pillar Candles"
+    },
+    {
+      "mcat_id": "44126",
+      "mcat_name": "Gift Hamper"
+    },
+    {
+      "mcat_id": "105835",
+      "mcat_name": "Candle"
+    }
+  ]
+}

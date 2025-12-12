@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668174100",
+  "gluser_id": "774547",
+  "vintage_months": 3,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Mahilpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644329",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hi ma'am, hi ma'am, main Ash bol rahi hu IndiaMART se.\\nCustomer: Okay ma'am, haan ji boliye.\\nExecutive: Ma'am aap sir se baat ho sakti hai kya?\\nCustomer: Uh, nahi ma'am actually sir busy hai aur main ghar pe hu.\\nExecutive: Actually sir ka vik\\nCustomer: Haan. Haan maine na baat ki thi subah sir ka phone aaya tha. To\\nExecutive: Haan.\\nCustomer: Main aapki khud hi baat karwati hu. Mere ko abhi khud nahi pata ki kya reason hai unhone aisa kyun dala.\\nExecutive: Ma'am unhone ek feedback diya hai bad experience karke, right?\\nCustomer: Haan ji, haan ji. To haan to wo usi feedback ke regard se hum log hum log aapko servicing team se connect karna chah rahe hain ki kis basis pe sir ne bad experience ka diya hai. To actually hum usko kuch jaan payenge to shayad us problem ko hum solve kar paye. Motive call karne ka yahi tha.\\nCustomer: Haan bilkul ma'am main meri baat hui thi subah to maine sir ko bataya tha ki aaj main thoda busy hu isliye aapki abhi baat nahi karwa sakti. Main jab shop pe jaungi abhi thodi der tak fir main se puchungi ki kya reason hai. Mujhe pata nahi actually.\\nExecutive: Theek hai.\\nCustomer: Primary number to sir ka hi hai na?\\nExecutive: But wo busy honge abhi call uthayenge nahi ma'am aapki.\\nCustomer: Haan wo to nahi uthaya tabhi maine aapke number pe kiya hai. Ma'am abhi 3 baj rahe hai aap tab tak thodi der baat kara denge? Is there possibility?\\nExecutive: Uh, ma'am aaj hi zaruri hai ki matlab raat tak bhi kar sakte hai?\\nCustomer: Yes ma'am. Ma'am raat tak hum log six tak office mein hai. Aap bolenge to hum call kar sakte hain. Aisa nahi hai ki hum call nahi kar sakte. But matlab agar office time mein aap jaar karoge to ma'am jo bhi hai.\\nCustomer: [unintelligible] hu na?\\nCustomer: Uh, ek ma'am jab bhi matlab aapki taraf se call aata hai na disturbance bahut aati hai. Mujhe sahi se sunai bhi nahi deta aap kya bol rahe ho.\\nExecutive: Ma'am ab aa rahi hai aawaz?\\nCustomer: Haan ji abhi thodi sahi hai.\\nExecutive: Haan ma'am ye keh rahi thi ki agar aap office time mein bhi baat kara doge na to mere liye easy rahega ma'am. Taki main system ke samne rahungi to help kar dungi fatafat.\\nCustomer: Uh, to please aap mujhe na aadha se ek ghanta do. Main abhi jaungi shop pe fir main aapki baat karwati hu.\\nExecutive: Theek hai.\\nCustomer: Okay ma'am, thank you.\\nExecutive: Thank you ma'am, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's husband gave bad experience feedback.\\n\n- Customer mentioned disturbance during calls from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive wants to know reason for bad feedback.\\n\n- Executive assured call can be made till 6 PM.\\n\n- Customer will connect after reaching shop.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, bad experience, disturbance, call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 151,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4e67cad5-7d03-4c49-999a-40a4a7c65644",
+  "ucid": "4e67cad5-7d03-4c49-999a-40a4a7c65644",
+  "seller_categories": [
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    },
+    {
+      "mcat_id": "22802",
+      "mcat_name": "Apple Cider Vinegar"
+    },
+    {
+      "mcat_id": "161340",
+      "mcat_name": "Alcohol De Addiction Medicine"
+    },
+    {
+      "mcat_id": "445376",
+      "mcat_name": "Diabetic Herbal Tablets & Capsules"
+    }
+  ]
+}

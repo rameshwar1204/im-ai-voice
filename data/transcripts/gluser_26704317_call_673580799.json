@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673580799",
+  "gluser_id": "26704317",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Bokaro",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696322",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello, mein aawaz nahi aa rahi aapki.\\nExecutive: Uh, ek second, abhi aa rahi hai meri aawaz?\\nCustomer: Haan, abhi aa rahi hai na?\\nExecutive: Ji, bataye.\\nCustomer: Haan, haan.\\nCustomer: Mein mujhe woh key ka key ring hota hai na key ring.\\nExecutive: Ji.\\nCustomer: Woh mujhe manufacturer jo karte hai na, unse aap mujhe jod sakte hai?\\nExecutive: Uh, manufacturer jo karte hai, key ring?\\nCustomer: Haan, key ring jo chavi ring hota hai na, gaadi mein chavi ring lagaya jata hai na ya car mein lagaya jata hai na.\\nCustomer: Woh manufacturing jo karte hai, unse mujhe contact ho sakta hai kya?\\nExecutive: Uh, ji bilkul mein kal ek baar office jaungi toh check kar lungi jo honge hamare yaha pe aur bahut clients mein unki aapko bata dungi profile.\\nCustomer: Theek hai na, madam.\\nExecutive: Uh, aur bhi kuch?\\nExecutive: Okay, sir.\\nCustomer: Nahi aur toh kuch karna nahi filhaal isi tarah.\\nExecutive: Ji, ji bilkul mein aapko kal subah call karti hu sir 10 baje.\\nCustomer: Theek, theek, theek, theek.\\nExecutive: Okay sir, good night sir.\\nCustomer: Okay.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect with keyring manufacturers.\\n\n\\n\nResolution:\\n\n- Executive will check for keyring manufacturers.\\n\n- Executive will share the profile with the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- keyring, manufacturers, profile\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a035d9e4-dc0b-436e-945b-b8909cc242be",
+  "ucid": "a035d9e4-dc0b-436e-945b-b8909cc242be",
+  "seller_categories": [
+    {
+      "mcat_id": "23326",
+      "mcat_name": "Car Air Freshener"
+    },
+    {
+      "mcat_id": "134086",
+      "mcat_name": "High Pressure Car Washer"
+    },
+    {
+      "mcat_id": "5526",
+      "mcat_name": "Car Shampoos"
+    },
+    {
+      "mcat_id": "138096",
+      "mcat_name": "Rubbing Compound"
+    },
+    {
+      "mcat_id": "29",
+      "mcat_name": "Fog Lamp"
+    }
+  ]
+}

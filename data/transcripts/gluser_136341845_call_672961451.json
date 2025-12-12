@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672961451",
+  "gluser_id": "136341845",
+  "vintage_months": 2,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699764",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\nExecutive: Haan ji.\\nExecutive: Haan sir main gaurav baat kar raha gaurav baat kar raha tha india mart se abhi baat ho rahi thi na sir aapse video meeting pe.\\nCustomer: Haan haan boliye boliye sir.\\nExecutive: To wahi bola tha ek baar aap apna ye correction kar lijiye jo jo maine aapko bataya hua hai theek hai sir.\\nCustomer: Ji ji ji ji ji.\\nExecutive: Haan ji to aur baki aapne wo 96 pe call kiya tha na to ek ticket open ho gayi thi to usi ke regarding maine kiya tha usko main close kar raha hu to aap usme feedback de dijiyega dusra ek cheez aur main abhi dekh raha tha aapke jo products hai na jo maine aapko bataye the video meeting pe ki aapke char panch aise hai jo d rank matlab aapke catalog me add hi nahi hai wo product.\\nExecutive: To ek baar wo product bhi aap add kar lijiye main aapko screenshot vanisha se share karata hu on whatsapp pe aapka FRB ho gaya theek hai aur FRB portable toilet ho gaya metal dunk bed ho gaya\\nExecutive: FRB portable toilet ho gaya using shipping container ho gaya ye aapke panch products hai jo aapke catalog me add hi nahi hai aur aapne iski leads vagaira consume ki hai.\\nCustomer: Nikal dijiye.\\nCustomer: Theek hai sir main dekh leta hu main main dekh leta hu sir aur usko main fir add kar deta hu sir main apne hisab se add karta hu.\\nExecutive: Haan ek baar aap add kar dijiye theek hai sir baki koi bhi issue aap uska number hai aap usko connect kar lijiyega directly.\\nCustomer: Ji ji ji ji ji sir ji.\\nExecutive: Theek hai baki ek kaam kar main aapka yaha pe ticket se jo concern tha wo close kar raha hu aap feedback de dijiyega yes kar sir.\\nCustomer: Theek hai main de deta hu feedback de deta hu ji.\\nExecutive: Theek hai aur baki aap unko koi bhi dikkat unka number hai aap unko bol doge main unka manager hi baat kar raha hu wo directly mere se baat kara denge agar koi issue aata hai to.\\nCustomer: Ji ji ji ji ji ji sir.\\nExecutive: Theek hai.\\nCustomer: Theek hai sir.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Needs to correct details as told earlier.\\n\n- Some products not added to catalog.\\n\n\\n\nResolution:\\n\n- Executive shared screenshots of missing products.\\n\n- Executive closed the ticket and asked for feedback.\\n\n\\n\nNext Steps: \\n\n- Customer will add the missing products.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, products, feedback, ticket\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 113,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7096f257-348a-4cf9-a45f-9d1936c39a61",
+  "ucid": "7096f257-348a-4cf9-a45f-9d1936c39a61",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "315617",
+      "mcat_name": "Mild Steel Portable House"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

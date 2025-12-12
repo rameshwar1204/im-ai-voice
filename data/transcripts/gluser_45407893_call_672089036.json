@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672089036",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji sir, mai Govind baat kar raha tha.\\nCustomer: Haan sir bataiye.\\nExecutive: Haan mai bhi sir ke paas hi aaya tha inke paas, Sohan sir ke paas. Hai na, ye bata rahe the, abhi maine dekh hi hua hai sir aapki saari cheeze jo hai na sab maine correct kar di hai.\\nHmm hmm.\\nExecutive: Thik hai? To abhi aap thoda na inko bhi time do at least na abhi ye sir abhi isko thoda karenge to agle monitor, thik hai? To abhi ye jo hai na response thik thak ho jayega. Aap log bhi na matlab time do at least hai na? To mai, wahi sir keh rahe the aap keh do apni side se ki sir aapki baat maan jayegi.\\nTo abhi ticket close kar de rahe hai sir hai na? Abhi ye jo concern hai.\\nCustomer: Hmm.\\nExecutive: Okay, aur aap matlab us cheez ka thoda positive response kar dena, baaki mai dekh lunga aur bhi cheeze agar rahegi na.\\nHmm hmm.\\nExecutive: Thik hai? To aap matlab ek baari sir keh rahe the ki Govind ji aap kar keh do main inse. To aapko matlab wo bhejenge feedback to aap usko please thoda positive response kar dena.\\nCustomer: Mai karwa dunga.\\nExecutive: Thik hai.\\nCustomer: Thik hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's issues were not getting resolved.\\n\nResolution:\\n\n- Executive informed that issues have been resolved.\\n- Requested to provide positive feedback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- feedback, resolution, positive response\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa8a29e3-ced6-459f-bb8b-94acb140cc89",
+  "ucid": "fa8a29e3-ced6-459f-bb8b-94acb140cc89",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669210869",
+  "gluser_id": "51613573",
+  "vintage_months": 9,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644596",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No summary available]",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4d5dd0f3-98ea-40dd-b593-7c91f75c3bbf",
+  "ucid": "4d5dd0f3-98ea-40dd-b593-7c91f75c3bbf",
+  "seller_categories": [
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "28191",
+      "mcat_name": "Fabrication Works"
+    },
+    {
+      "mcat_id": "38164",
+      "mcat_name": "Stainless Steel Tanks"
+    },
+    {
+      "mcat_id": "146893",
+      "mcat_name": "Pipeline Installation Services"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    }
+  ]
+}

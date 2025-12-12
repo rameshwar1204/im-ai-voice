@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672880572",
+  "gluser_id": "121356525",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Mhow",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689887",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji ji ye sir Deepika baat kar rahi hu abhi aapke sath welcome call hua tha na IndiaMART pe.\\nExecutive: Ha boliye.\\nCustomer: Ha sir to abhi aapki call aayi hui thi 9696 pe aur koi issue aa raha hai sir?\\nCustomer: Kya hua tha?\\nExecutive: Aapka call aaya tha yaha pe IndiaMART help me helpline me 9696 pe to kuch aur issue aa raha tha sir aapko?\\nCustomer: Nahi koi issue nahi aa raha hai.\\nExecutive: Achcha achcha theek hai baki aap thoda sa material kya rakhiyega so that aapka proper wo ho jaye matlab material ka kam ho jaye aur production team kam kar de theek hai photos wagera.\\nAbhi sir main kuch kuch aapse pooch leti hu like abhi jaise aapka product hai onion ka uska grade kya rehta hoga sir?\\nCustomer: Grade wo required rehta hai rehta hai jaise bole waise mm ka nikal dete hai hum usko.\\nExecutive: Achcha achcha. Colour brown hi rehta hai na sir. Safed thoda sa brown hi rehta hai.\\nCustomer: Ha.\\nExecutive: Aur ye grade aap processing ke baad hota hai sir ki fresh seed kaisa rehta hai?\\nCustomer: Matlab samjha nahi.\\nExecutive: Size kya rahega sir aisa wahi bata dijiye 45 mm hoga ya fir 50 mm. Size jo report jaise jo requirement hai us hisab se grading karke hum nikal dete hai jaisa bolte hai waisa nikal dete hai.\\nCustomer: Achcha jaisa requirement ho.\\nExecutive: Customer kar dijiye.\\nCustomer: Achcha theek hai aur variety sara hota hai all variety.\\nExecutive: All variety.\\nExecutive: Aur unse baat kari thi sir jo maine aapko bataya tha customer.\\nCustomer: Kinse?\\nExecutive: Maine jo aapko bola tha na lead manager se aap calling kar sakte hai wo aap kare follow up ke liye.\\nCustomer: Ha chal rahi hai baat.\\nExecutive: Achcha sir?\\nCustomer: Chal rahi hai madam chal rahi hai baatein chal rahi hai.\\nExecutive: Theek hai theek hai baki kuch concern to nahi hai na sir main concern close kar rahi hu yaha se theek hai.\\nCustomer: Theek hai.\\nExecutive: Okay okay thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if customer had any issues.\\n\n\\n\nResolution:\\n\n- Customer confirmed no issues.\\n\n- Executive inquired about onion product details.\\n\n- Executive inquired about lead manager follow-up.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product details, lead manager, follow up\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8df4dcda-2145-4197-8852-644c6bf88eb7",
+  "ucid": "8df4dcda-2145-4197-8852-644c6bf88eb7",
+  "seller_categories": [
+    {
+      "mcat_id": "114136",
+      "mcat_name": "Potato"
+    },
+    {
+      "mcat_id": "45805",
+      "mcat_name": "Bananas"
+    },
+    {
+      "mcat_id": "113695",
+      "mcat_name": "Onion"
+    },
+    {
+      "mcat_id": "42518",
+      "mcat_name": "Garlic"
+    },
+    {
+      "mcat_id": "84784",
+      "mcat_name": "Green Banana"
+    }
+  ]
+}

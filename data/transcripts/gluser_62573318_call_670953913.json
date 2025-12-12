@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670953913",
+  "gluser_id": "62573318",
+  "vintage_months": 81,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670934",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Yes sir.\\nCustomer: Uh, Ravi sir?\\nExecutive: Yes sir, yes.\\nCustomer: Hi sir, Vishal this side from IndiaMART service, how are you?\\nCustomer: No, no, no, actually I thought this is a client call. I'm actually I'm in the traffic presently. So we'll talk tomorrow.\\nExecutive: Please give me one minute time sir. It is important for me sir.\\nCustomer: Yes, okay, tell me.\\nExecutive: Uh, sir actually we received the feedback of not satisfied from your side after you had a discussion with my employee terms, correct?\\nCustomer: Yes, yes.\\nExecutive: So just want to know that is there any issue?\\nCustomer: No, no, I'm getting I'm not getting any calls from IndiaMART.\\nExecutive: You're not getting any buyer calls?\\nCustomer: Any calls, I'm not getting any calls from positive calls.\\nExecutive: Uh, any calls you mean to say for the buyer end?\\nCustomer: Yeah, yeah, regarding.\\nExecutive: Uh, from the buyer end that you are saying now?\\nCustomer: Yes, yes, yes.\\nExecutive: Okay, okay. Sir, I, sir even this month I'm just checking right. This month you received eight calls.\\nCustomer: See, let me let me explain. Actually I am at the outside presently. We'll discuss tomorrow regarding this topic.\\nExecutive: Uh, that is not an issue sir. So shall I close your concern here if there is not an issue?\\nCustomer: No, no, what I'm saying is we'll discuss tomorrow.\\nExecutive: Uh, but sir we are already into the discussion.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting any calls from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive mentioned customer received eight calls this month.\\n\n\\n\nNext Steps: \\n\n- Customer wants to discuss the issue tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, calls, feedback\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0c4043c1-bde2-4c1e-b6ad-68d22c8471c9",
+  "ucid": "0c4043c1-bde2-4c1e-b6ad-68d22c8471c9",
+  "seller_categories": [
+    {
+      "mcat_id": "43664",
+      "mcat_name": "Motor Boats"
+    },
+    {
+      "mcat_id": "114243",
+      "mcat_name": "Jet Ski"
+    },
+    {
+      "mcat_id": "145136",
+      "mcat_name": "FRP Portable Toilet"
+    },
+    {
+      "mcat_id": "53738",
+      "mcat_name": "Paddle Boat"
+    },
+    {
+      "mcat_id": "43667",
+      "mcat_name": "FRP Boats"
+    }
+  ]
+}

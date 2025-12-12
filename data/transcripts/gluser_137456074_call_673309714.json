@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673309714",
+  "gluser_id": "137456074",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Srikakulam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722688",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Namaste sir, kahan se baat kar rahe ho aap?\\nCustomer: Madam, mera naam hai aap log Krishna, main ki registration. Achcha achcha sir, aapne mujhe call kara tha ji sir, sir main ek call par hoon bas main abhi main dekh rahi thi sir lekin main ek call par hoon main abhi bas 10 minute mein aapko karti hoon.\\nExecutive: 10 minute, ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk about registration.\\n\n\\n\nResolution:\\n\n- Executive is currently on another call and will call back in 10 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nregistration, callback\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6fab93f-2089-4899-a64e-8525e0cce397",
+  "ucid": "d6fab93f-2089-4899-a64e-8525e0cce397",
+  "seller_categories": [
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "8538",
+      "mcat_name": "Sesame Oil"
+    },
+    {
+      "mcat_id": "216788",
+      "mcat_name": "Wood Pressed Groundnut Oil"
+    },
+    {
+      "mcat_id": "216251",
+      "mcat_name": "Refined Coconut Oil"
+    }
+  ]
+}

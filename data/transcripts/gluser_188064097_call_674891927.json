@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674891927",
+  "gluser_id": "188064097",
+  "vintage_months": 30,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669354",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ji sir, hello.\\nCustomer: Mere ko show jo ho raha hai active products sare 141 hai.\\nCustomer: Total mila ke 199 hai 58 inactive me pade hue hai.\\nCustomer: Ha 58 inactive hai wo to pehle se hi the.\\nCustomer: Wo to pehle se hi the.\\nCustomer: Ha.\\nCustomer: To kiya kya hai aapne fir?\\nCustomer: Maine abhi kuch nahi kiya hai sir, mai jhoot kya bolu mai shadi me gaya tha isliye aapko call bhi nahi kiya tha do din, thik hai?\\nCustomer: Ab jis pehle kiya tha maine, thik hai jis din se Prabhat sir ki baat hui hai, shayad Friday ko, Friday ko evening me aapki baat hui isko lekar, thik hai, mere paas update aaya tha, uske baad Saturday Sunday hamara weekend rehta hai, Monday ko mai leave pe tha, thik hai?\\nExecutive: Are mai wo to mai keh hi nahi raha hu aapne mere ko call karke ye bola hai ki is issue same ho gayi hai wo ho gaya aapka solve ho gaya to kaise ho gaya mai wo puch raha hu.\\nCustomer: Nahi mai aapse puch raha tha, mai puch raha tha na, ye nahi keh raha tha aapne meri call record hoti hai sir aap sun lijiyega, maine sirf aapse puch raha tha aapka concept resolve hua ya ki nahi hua sir, aapne bola ki ispe ha, to is bihaf pe maine aapko call kiya tha na, kyuki already 12 days ho gaya aapka ticket raise hue na sir, thik hai, thik hai.\\nCustomer: Thik hai, okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says active products are 141.\\n\n- Wants to know what action has been taken.\\n\n\\n\nResolution:\\n\n- Executive clarified he was just confirming resolution.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- active products, ticket, resolution, call record\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5b7a4ce1-a80d-4e8c-870b-5eb9411d380a",
+  "ucid": "5b7a4ce1-a80d-4e8c-870b-5eb9411d380a",
+  "seller_categories": [
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "215208",
+      "mcat_name": "Western Deep Freezer"
+    },
+    {
+      "mcat_id": "179089",
+      "mcat_name": "Four Door Vertical Refrigerator"
+    },
+    {
+      "mcat_id": "221228",
+      "mcat_name": "Western Visi Cooler"
+    },
+    {
+      "mcat_id": "89573",
+      "mcat_name": "Under Counter Refrigerator"
+    }
+  ]
+}

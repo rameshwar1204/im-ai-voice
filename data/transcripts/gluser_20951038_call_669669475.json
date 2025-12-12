@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669669475",
+  "gluser_id": "20951038",
+  "vintage_months": 59,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhadrak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan?\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d5d78e4b-176c-4bdd-8ff3-5c1da7e9c638",
+  "ucid": "d5d78e4b-176c-4bdd-8ff3-5c1da7e9c638",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "187442",
+      "mcat_name": "Murukku"
+    },
+    {
+      "mcat_id": "192459",
+      "mcat_name": "Haldiram Namkeen"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    }
+  ]
+}

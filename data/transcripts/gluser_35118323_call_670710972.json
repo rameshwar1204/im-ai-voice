@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670710972",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haanji sir. Haan sir, theek hai. To in detail kiya hai aur fir 15 din isko evaluate karke fir hum discuss karenge. Theek hai sir.\\nCustomer: Haanji. Sir aur koi baat nahi hai. Jo baat hui.\\nExecutive: Saari mein matlab ki pata kya tha.\\nCustomer: Aise nahi kehte aap de. Te vahi masla rehta tha 15 matlab ki teen month ho gaye ji sir. Hamara loss ho raha hai. Hame aise nahi hai bhi kyun nahi hai matlab ki.\\nExecutive: Saare saare logo ko mila ke jitne bhi log the concern pe sabko mila ke aapko baat karwa diya isi wajah se.\\nCustomer: Isiliye us pe matlab ki kaam ho raha hai na ji. Hum yahi chahte the bhi hame kisi se koi dikkat nahi hai bhi hamara hal hona chahiye ji.\\nExecutive: Ji ji ji. Theek hai to 15 din ke baad fir connect kar lenge aur isko main ticket ko close kar de raha hu. Aap mujhe feedback de dena hamare call ka hamare video meeting ka. Theek hai sir.\\nCustomer: Theek hai sir, theek hai ji. Dhanyavad.\\nExecutive: Thanks.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing loss for three months.\\n\n- Wants a resolution to their issue.\\n\n\\n\nResolution:\\n\n- Executive assured work is being done.\\n\n- Will connect after 15 days.\\n\n- Executive will close the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on the call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- loss, resolution, ticket, feedback\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4932498d-2aa3-4668-a70f-a6e6e8aa18f7",
+  "ucid": "4932498d-2aa3-4668-a70f-a6e6e8aa18f7",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

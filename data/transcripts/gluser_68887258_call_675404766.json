@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675404766",
+  "gluser_id": "68887258",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715417",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Hello?\\n\\nCustomer: Hello?\\nExecutive: Sir aawaz aa rahi hai?\\nCustomer: Haan ji sir bataiye.\\nCustomer: Sir Power Plus Fitness Zone se baat kar raha hu. Team number registered hai.\\nExecutive: Ji.\\nCustomer: Sir Power Plus Fitness Zone se baat kar raha hu.\\nExecutive: Haan ji sir bataiye.\\nCustomer: Sir na toh mere paas koi leads show ho rahi hai.\\nCustomer: Na hi mere paas koi leads show ho rahi hai, na hi mere paas koi kya naam mere product se relevant lead bhi nahi aa rahi hai. Sir kya kar rahe ho?\\nExecutive: Power Plus Fitness se. Power Plus Fitness Zone.\\nCustomer: Okay okay.\\nExecutive: Sir mujhe na five minute dijiye main aapko call back kar raha hu paanch minute mein, theek hai? Bas paanch minute mein call kar raha hu aapko.\\nCustomer: Ji yeh woh meri call receive nahi kar rahi, mere SMS ka response nahi de rahi.\\nExecutive: Main bolta hu. Main bolta hu sir aap mujhe bas five minute dijiye ji, theek hai?\\nCustomer: Jo account manager hai mujhe uska nahi pata lag raha sir. Kaun account manager hai, koi guide nahi kar raha.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No leads are being shown.\\n\n- Not getting relevant leads.\\n\n- Account manager is not guiding.\\n\n\\n\nResolution:\\n\n- Executive assured to call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, subscription\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bdbe33d4-37aa-47c9-a401-54f27b07ef80",
+  "ucid": "bdbe33d4-37aa-47c9-a401-54f27b07ef80",
+  "seller_categories": [
+    {
+      "mcat_id": "194880",
+      "mcat_name": "Second Hand Gym Equipments"
+    },
+    {
+      "mcat_id": "17108",
+      "mcat_name": "Leg Curl Machine"
+    },
+    {
+      "mcat_id": "126829",
+      "mcat_name": "Multi Gym"
+    },
+    {
+      "mcat_id": "73207",
+      "mcat_name": "Exercise Machine"
+    },
+    {
+      "mcat_id": "14572",
+      "mcat_name": "Bicep Curl Machine"
+    }
+  ]
+}

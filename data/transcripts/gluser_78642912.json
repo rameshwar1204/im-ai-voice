@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670920288",
+  "gluser_id": "78642912",
+  "vintage_months": 62,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Cooch Behar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9665654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Hello? Sir, hi, main Pallavi bol rahi hu, Abhishek Rai ki senior manager IndiaMART se sir.\\nCustomer: Boliye.\\nExecutive: Sir aapka na IndiaMART pe incoming aaya tha, matlab aapne call kara tha Abhishek ji ko, bataiye sir kya problem aa rahi hai?\\nCustomer: [inaudible] kar raha hu usme problem aa raha hai.\\nExecutive: Sir, toh abhi aapka concern hum close kar de kya?\\nCustomer: Haan, theek hai, close karwa do.\\nExecutive: Sir, main close kar de rahi hu, aap owner baat kar rahe hai na, Aminur sir baat kar rahe hai na?\\nCustomer: Haan, haan, owner baat kar raha hu.\\nExecutive: Theek hai, sir, main na aapko primary mail pe ek feedback dungi, satisfied ka, please usko aap matlab yes mein reply kar dijiyega, satisfied mein.\\nExecutive: Sir, please karwa dijiyega, main close kar de rahi hu abhi, theek hai? Jab aap free hai na, Abhishek ji ke number hoga, aap unse call kar lijiyega sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issue with [inaudible].\\n\n- Wants to close the concern.\\n\n\\n\nResolution:\\n\n- Executive closed the concern.\\n\n- Asked to reply 'yes' to the feedback mail.\\n\n\\n\nNext Steps: \\n\n- Customer can call Abhishek when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, feedback, close\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f05795b2-db25-494f-a6f2-5cbfbc1571f9",
+  "ucid": "f05795b2-db25-494f-a6f2-5cbfbc1571f9",
+  "seller_categories": [
+    {
+      "mcat_id": "143742",
+      "mcat_name": "Mini Rice Mill"
+    },
+    {
+      "mcat_id": "139374",
+      "mcat_name": "Power Reaper"
+    },
+    {
+      "mcat_id": "141966",
+      "mcat_name": "Power Weeder"
+    },
+    {
+      "mcat_id": "139362",
+      "mcat_name": "Paddy Reaper"
+    },
+    {
+      "mcat_id": "35540",
+      "mcat_name": "Power Tiller"
+    }
+  ]
+}

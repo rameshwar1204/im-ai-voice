@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674509173",
+  "gluser_id": "204426014",
+  "vintage_months": 23,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663739",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Haan ji sir, main yeh keh raha hun woh cashback mila hua hai woh toh add hoga na isme.\\nExecutive: Sir isme mujhe account walon se puchna padega asal mein kya hai ki nayi deal mein jahan pe payment aata hai uska ek bar main check kar raha hun. Isme cashback ka bhi aapka voucher generate hua tha ek minute rukiye account mein aapka ek minute rukiye. Cashback bacha hua toh hai aapka 20650 ka.\\nCustomer: Toh woh add hoga na isme.\\nExecutive: Haan ho jana chahiye sir main baki main ek bar main puch leta hun kyunki abhi toh main woh download karne ke liye bheja hai. Woh toh mam ne kaha tha aap convert karwao. Sir main keh raha hun ki dekhiye abhi download kar rahe hain jab sara kuch aa jayega na calculation woh sara cheeze aap se bata ke confirm karke sari cheeze karke tabhi usko process karenge aap chinta na karo usko. Aisa nahi koi bhi cheez apni marzi se nahi kar rahe hain sir. Theek hai aapse sari cheeze confirm karke tabhi usko deal ko process karenge maximizer ki bhi aur iski bhi sir theek hai. Aap nishchint raho main isko karwa dun pehle ek bar download wagera theek hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know if cashback will be added.\\n\n\\n\nResolution:\\n\n- Executive said he will confirm with accounts.\\n- Executive assured customer nothing will be done without confirmation.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- cashback, payment, download, confirmation\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f704759-eeca-4c45-83e4-5aef9b82669c",
+  "ucid": "7f704759-eeca-4c45-83e4-5aef9b82669c",
+  "seller_categories": [
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "9859",
+      "mcat_name": "Marble Inlay Flooring"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    }
+  ]
+}

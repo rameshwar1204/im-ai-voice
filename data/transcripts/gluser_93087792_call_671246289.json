@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671246289",
+  "gluser_id": "93087792",
+  "vintage_months": 30,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mayurbhanj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Pain maine kab gaya kiya aapka?\\n\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Haan sir madam.\\nExecutive: Ji ji.\\nCustomer: Main ye bol raha tha wo cheez solve ho gayi jab aapne nahi main aur dekha nahi jo hoga dekha jayega bol ke.\\nExecutive: Achcha ho gaya nahi kuch madam GST pe purchase kara aapne?\\nCustomer: Haan GST mein hi hai.\\nExecutive: GST purchase kacha bill kuch nahi hona chahiye GST purchase mein koi dikkat nahi hai.\\nCustomer: Nahi nahi hum log ka kuch kacha bill nahi hai. Laptop aapka jo hai nahi chal raha tha ek baar ek hi laptop hai.\\nCustomer: Laptop aa gaya aapka?\\nExecutive: Haan ji ji.\\nCustomer: Laptop aa gaya laptop?\\nExecutive: Haan nahi abhi to nahi actually hum log ka exam chal raha hai na main aadha ghante ke baad ho payega.\\nCustomer: Theek hai theek hai call kar lijiyega main ghar mein aaunga.\\nExecutive: Haan haan. Main number hai na aapke paas six wala. Jis WhatsApp pe message kiya tha na.\\nCustomer: Ek baar call kar dijiye haan.\\nExecutive: WhatsApp pe jis pe message kiya tha na sir usi pe aap message kar lena theek hai. WhatsApp pe jis pe message kiya tha.\\nCustomer:\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks if the issue is resolved.\\n\n- Laptop not received due to ongoing exams.\\n\n\\n\nResolution:\\n\n- Executive confirmed no issue with GST purchase.\\n\n- Executive asked to call after half an hour.\\n\n\\n\nNext Steps: \\n\n- Customer will call after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, laptop, purchase, delivery\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=695527db-af27-4feb-b4c8-75a090824bdd",
+  "ucid": "695527db-af27-4feb-b4c8-75a090824bdd",
+  "seller_categories": [
+    {
+      "mcat_id": "41063",
+      "mcat_name": "Hybrid Watermelon Seeds"
+    },
+    {
+      "mcat_id": "221781",
+      "mcat_name": "Marigold Seeds"
+    },
+    {
+      "mcat_id": "177872",
+      "mcat_name": "Hybrid Marigold Seeds"
+    },
+    {
+      "mcat_id": "1604",
+      "mcat_name": "Flower Seeds"
+    },
+    {
+      "mcat_id": "118704",
+      "mcat_name": "Seedling Trays"
+    }
+  ]
+}

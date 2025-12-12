@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667525238",
+  "gluser_id": "47103407",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Murshidabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636728",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Haan bataiye.\\n\\nCustomer: Hello. Madam, main agar kisi ko phone kar raha hu main kisi ko.\\n\\nExecutive: Hello.\\n\\nCustomer: Uska phone mein number save nahi hai.\\n\\nExecutive: Hmm hmm.\\n\\nCustomer: Uska mein agar phone kar raha hu toh uska phone mein S Agro India hi dikha raha hai kya.\\n\\nExecutive: Kya dikkat kya hai?\\n\\nCustomer: S Agro India dikha raha hai.\\n\\nCustomer: S Agro.\\n\\nCustomer: India. Jaise aapko aapko mein phone kiya. \\n\\nExecutive: Theek hai. Haan haan haan.\\n\\nCustomer: Haan jaise mein aapko jaise aapka ek phone phone mein jaise aapko mein phone kar raha hu, theek hai aapka mera number aapke phone mein save nahi hai. Ek minute sir, ek minute. Toh aap aap waha... \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's caller ID shows as 'S Agro India'.\\n\n\\n\nResolution:\\n\n- Executive asked about the exact issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- caller id, phone number, technical issue\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f29d3735-64e5-4ced-b5ae-643cdea91ee8",
+  "ucid": "f29d3735-64e5-4ced-b5ae-643cdea91ee8",
+  "seller_categories": [
+    {
+      "mcat_id": "114136",
+      "mcat_name": "Potato"
+    },
+    {
+      "mcat_id": "178922",
+      "mcat_name": "Pineapple"
+    },
+    {
+      "mcat_id": "191172",
+      "mcat_name": "Red Potatoes"
+    },
+    {
+      "mcat_id": "169806",
+      "mcat_name": "Organic Potato"
+    },
+    {
+      "mcat_id": "28963",
+      "mcat_name": "French Fries"
+    }
+  ]
+}

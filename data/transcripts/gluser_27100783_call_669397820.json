@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669397820",
+  "gluser_id": "27100783",
+  "vintage_months": 14,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Bidasar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702421",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Awaaz aa rahi hai kya didi?\\nCustomer: Ji aa rahi hai awaaz.\\nExecutive: Haan haan aa rahi hai awaaz. Aa rahi hai kya?\\nCustomer: Ji aa rahi hai awaaz.\\nExecutive: Bataiye madam kya hua abhi tak aapne wale isme kya hua abhi tak bataiye aap hamein.\\nCustomer: Sir, main aapko main abhi upar pahunchi call karti hoon, main talaash kar rahi thi, main pahunchi call karti hoon.\\nExecutive: Ji ji.\\nCustomer: Ki main aapko call.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asked about the issue.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, issue\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=da03784c-4b84-442b-ad47-788711a428de",
+  "ucid": "da03784c-4b84-442b-ad47-788711a428de",
+  "seller_categories": [
+    {
+      "mcat_id": "44914",
+      "mcat_name": "Bajra"
+    },
+    {
+      "mcat_id": "148158",
+      "mcat_name": "Aloe Vera Leaf"
+    },
+    {
+      "mcat_id": "180387",
+      "mcat_name": "Nagarmotha"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "106964",
+      "mcat_name": "Amla"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669619066",
+  "gluser_id": "225819378",
+  "vintage_months": 16,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kozhikode",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657738",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello, good afternoon ma'am, show\\nExecutive: Uh, okay, I will send, I will send another number. You call them, okay?\\nCustomer: Okay, uh, you can share the number?\\nExecutive: Uh, okay, one second.\\nCustomer: Sorry, I can understand what are you saying ma'am. You can share me?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a number.\\n\n\\n\nResolution:\\n\n- Will send another number to call.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will send another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number, call\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d7b9bfd2-4d09-4928-abe6-9d72ceb5725f",
+  "ucid": "d7b9bfd2-4d09-4928-abe6-9d72ceb5725f",
+  "seller_categories": [
+    {
+      "mcat_id": "96335",
+      "mcat_name": "Football Jersey"
+    },
+    {
+      "mcat_id": "137817",
+      "mcat_name": "Mug Printing Services"
+    },
+    {
+      "mcat_id": "5709",
+      "mcat_name": "Paper Carry Bags"
+    },
+    {
+      "mcat_id": "180794",
+      "mcat_name": "Wedding Card Printing Service"
+    },
+    {
+      "mcat_id": "18682",
+      "mcat_name": "Stand Up Pouch"
+    }
+  ]
+}

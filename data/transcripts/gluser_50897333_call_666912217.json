@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666912217",
+  "gluser_id": "50897333",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Gauripur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, hello.\\nExecutive: Sir, bas Sir, abhi agar aap free hain paanch minute ke liye to please video call pe aa jaiye. Bas teen keywords reh gaye hain jo aapse discuss kiye bina main add nahi kar sakti, theek hai?\\nCustomer: Ji, ji. Aap aa jaiye bas paanch minute mein.",
+  "summary": "\\n\\nConcerns:\\n\\n- Needs to discuss three pending keywords for the profile.\\n- Requests customer to join a video call.\\n\\n\\nResolution:\\n\\n- Customer agreed to a video call in five minutes.\\n\\n\\nNext Steps: \\nIssue not resolved.\\nExecutive to initiate a video call in five minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- keywords, video call, profile update\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9cee3734-b573-4562-bc24-d522feb4e163",
+  "ucid": "9cee3734-b573-4562-bc24-d522feb4e163",
+  "seller_categories": [
+    {
+      "mcat_id": "166326",
+      "mcat_name": "Inverter ARC Welding Machine"
+    },
+    {
+      "mcat_id": "27286",
+      "mcat_name": "Electric Planer"
+    },
+    {
+      "mcat_id": "161774",
+      "mcat_name": "Petrol Chain Saw"
+    },
+    {
+      "mcat_id": "36887",
+      "mcat_name": "Rotary Hammer Drill"
+    },
+    {
+      "mcat_id": "192950",
+      "mcat_name": "Stanley Electric Drill"
+    }
+  ]
+}

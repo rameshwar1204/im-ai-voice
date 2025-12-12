@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668294365",
+  "gluser_id": "17046967",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Lalganj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711117",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Uh, Radheshyam Gupta ji se baat kar rahe hain?\\nCustomer: Ji.\\nExecutive: Sir, Parth baat kar raha hu IndiaMART head office se baat kar raha hu main.\\nCustomer: Ji.\\nExecutive: Sir, IndiaMART abhi aap hi dekh rahe hain koi aapka staff dekhta hai sir abhi kuch?\\nCustomer: Hello.\\nExecutive: Sir, IndiaMART use karte hain abhi aap?\\nCustomer: Haan.\\nExecutive: Sir, use nahi ho raha sir, kaafi time se usi ke regarding baat karni thi. Anju ji aapko try kar rahi thi baat karne ka sir.\\nCustomer: Nahi nahi baat meri parso bhi thi.\\nExecutive: Toh sir lekin active nahi hai na aapke. By lead wagera aapka niyam toh kharidiye sir aapka profile sir inactive show hota hai sir. Aapka jo daily wala by lead hai woh toh lapse ho raha hai na sir.\\nCustomer: Haan lekin isme kuch hamare hisab ko isme kuch ab door door ke rehte jaake toh releads wagera toh, ek minute bhaiya. Ek ek minute just main baat kar raha hu.\\nPawan ko bulaiye yaar.\\nExecutive: Bhaiya ek minute mein mila rahe hain aapko dobara.\\nCustomer: Ji ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART account is inactive.\\n\n- Daily buyleads are lapsing.\\n\n\\n\nResolution:\\n\n- Executive informed about account inactivity.\\n\n- Executive mentioned about lapsing buyleads.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in a minute.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, account status, buyleads, inactivity\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b0cdc30-2150-4a48-9774-73bac623157b",
+  "ucid": "6b0cdc30-2150-4a48-9774-73bac623157b",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "185610",
+      "mcat_name": "Off Grid Solar Inverter"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "172695",
+      "mcat_name": "Solar Panel Installation"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

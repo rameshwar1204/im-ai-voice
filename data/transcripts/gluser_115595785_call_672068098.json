@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672068098",
+  "gluser_id": "115595785",
+  "vintage_months": 20,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Barshi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9674493",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir, main aapko call kar rahi hoon, do second dijiye bas, main call pe hoon.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=769ef776-fb8b-4931-9d10-4ff320d688bf",
+  "ucid": "769ef776-fb8b-4931-9d10-4ff320d688bf",
+  "seller_categories": [
+    {
+      "mcat_id": "443266",
+      "mcat_name": "Millet Cookies"
+    },
+    {
+      "mcat_id": "226776",
+      "mcat_name": "Millet Flakes"
+    },
+    {
+      "mcat_id": "148447",
+      "mcat_name": "Diwali Gifts"
+    },
+    {
+      "mcat_id": "218144",
+      "mcat_name": "Jowar Flakes"
+    },
+    {
+      "mcat_id": "218500",
+      "mcat_name": "Ragi Biscuits"
+    }
+  ]
+}

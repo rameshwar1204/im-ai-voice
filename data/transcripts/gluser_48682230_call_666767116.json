@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666767116",
+  "gluser_id": "48682230",
+  "vintage_months": 91,
+  "bl_dau_oct": 28,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Samalkha",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji boliye ji.\\nExecutive: Amit sir, good morning. Uh all good, sir?\\nCustomer: Haan ji. Wo lunch tak ho jayega ma'am aapka kaam aaj.\\nExecutive: Achha, okay, theek hai sir. Aap mere ko na details bhej dena bas ek baari jaise hi ho jaata hai.\\nCustomer: Aap mere ko ek baar na account ki detail daal do. Main abhi jaate hi kara raha hu to ho jayega aapka.\\nExecutive: Uh sir actually na mera WhatsApp to main aapko dusre number se ek baari WhatsApp kar du?\\nCustomer: Kisi se bhi kar do ma'am, koi dikkat nahi hai.\\nExecutive: Haan haan haan. Thoda sa issue aa raha tha mere phone mein. To isiliye. Uh main aapko dusre number se karke bhejti hu. Theek hai? Aur dusra ye main ye keh rahi thi aapne kal mujhe call kiya tha I guess.\\nCustomer: Mera phone band tha us time. Main uske liye help chahiye thi. Haan. Phone kiya tha. Hmm ya to das pandrah minute ka time de do main fir baat karta hu aapse.\\nExecutive: Chalo theek hai. Aap le lijiye time. Aap mujhe call back kar lijiyega.\\nCustomer: Pandrah ek minute mein karta hu main call back aapko.\\nExecutive: Haan haan haan, done done. Okay. Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Needed help regarding an unspecified issue.\\n- Requested to postpone the discussion for 15 minutes.\\n- Awaited some details from the executive via WhatsApp.\\n\\nResolution:\\n\\n- Scheduled a callback in 15 minutes for the customer to discuss his issue.\\n- Executive agreed to send details from an alternate number.\\n\\nNext Steps: \\nIssue not resolved. Customer to call back in 15 minutes to discuss his requirement for help.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- callback, account details, whatsapp, customer support\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f94575d1-4869-4a8a-86e9-a9d13c3f294b",
+  "ucid": "f94575d1-4869-4a8a-86e9-a9d13c3f294b",
+  "seller_categories": [
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "164041",
+      "mcat_name": "Mild Steel Hex Bolt"
+    },
+    {
+      "mcat_id": "134159",
+      "mcat_name": "Mild Steel Bolt"
+    },
+    {
+      "mcat_id": "1347",
+      "mcat_name": "Carriage Bolts"
+    },
+    {
+      "mcat_id": "9222",
+      "mcat_name": "Hex Bolts"
+    }
+  ]
+}

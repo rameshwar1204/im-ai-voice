@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668161821",
+  "gluser_id": "162514144",
+  "vintage_months": 3,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajpura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643476",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Kitni jaldi ticket bhejne jaati hai.\\nCustomer: Hello?\\nExecutive: Hello?\\nExecutive: Haan ji madam Rahul bol raha.\\nExecutive: India Mart se.\\nCustomer: Ek minute sir, madam se baat kara rahi hu.\\nExecutive: Sir se baat kara dijiye bas.\\nCustomer: Hello?\\nExecutive: Ji namaskar sir. Hello?\\nCustomer: Haan ji.\\nExecutive: A, madam India Mart se baat kar raha Rahul.\\nCustomer: Haan ji, haan ji bataiye sir.\\nExecutive: O sir se madam baat kara dijiye ek baar please.\\nCustomer: Achha Gurdeep sir se?\\nExecutive: Haan.\\nCustomer: Thik hai, thik hai. Mere number pe kaun hai?\\nCustomer: Haan ji?\\nCustomer: Mai karwati hu baat.\\nExecutive: Haan ji ji.\\nCustomer: Gurdeep sir ko India Mart wale Rahul sir honge.\\nCustomer: Wait karna padega sir abhi call pe hai.\\nExecutive: Achha thik hai.\\nExecutive: Thik hai fir sir se matlab jaise hi free ho na call kar dijiyega hai na?\\nCustomer: Thik hai thik hai sir.\\nCustomer: Okay sir.\\nCustomer: Hello?\\nExecutive: Ji ji.\\nCustomer: Waise kya puchna tha sir aapne sir se?\\nExecutive: A sir matlab call kar rahe the na to API ka scene tha to wohi matlab baat karna tha.\\nCustomer: Thik hai fir mai bol deti hu sir baat kar lenge thik hai. Okay sir.\\nExecutive: Okay sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to talk to Gurdeep Sir regarding API.\\n\n\\n\nResolution:\\n\n- Customer informed that Gurdeep Sir is on another call.\\n\n\\n\nNext Steps: \\n\n- Customer will inform Gurdeep Sir to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- api, call, india mart\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6665e4ea-edca-4be0-8be1-6ff42b9ffe6d",
+  "ucid": "6665e4ea-edca-4be0-8be1-6ff42b9ffe6d",
+  "seller_categories": [
+    {
+      "mcat_id": "185415",
+      "mcat_name": "Solar LED Garden Light"
+    },
+    {
+      "mcat_id": "37346",
+      "mcat_name": "Solar Wall Light"
+    },
+    {
+      "mcat_id": "20566",
+      "mcat_name": "Solar Garden Lights"
+    },
+    {
+      "mcat_id": "100327",
+      "mcat_name": "Solar Path Light"
+    },
+    {
+      "mcat_id": "192225",
+      "mcat_name": "Solar Camera"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669339952",
+  "gluser_id": "116861370",
+  "vintage_months": 39,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653428",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji aapko na maine meeting ka link share kar diya hai WhatsApp pe uss pe mail pe.\\nCustomer: Theek hai, main dekhta hu.\\nExecutive: Ji, join kariye main wait kar rahi hu aapka meeting mein.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Meeting link shared on WhatsApp and mail.\\n\n- Executive waiting for customer to join meeting.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting link, whatsapp, mail\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7286f447-fce9-4e88-9f19-d6adf033904e",
+  "ucid": "7286f447-fce9-4e88-9f19-d6adf033904e",
+  "seller_categories": [
+    {
+      "mcat_id": "141701",
+      "mcat_name": "School Blazer"
+    },
+    {
+      "mcat_id": "133123",
+      "mcat_name": "School T Shirts"
+    },
+    {
+      "mcat_id": "10479",
+      "mcat_name": "Kids School Uniforms"
+    },
+    {
+      "mcat_id": "141700",
+      "mcat_name": "School Belt"
+    },
+    {
+      "mcat_id": "167700",
+      "mcat_name": "School Sweater"
+    }
+  ]
+}

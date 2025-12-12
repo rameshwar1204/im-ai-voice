@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667443866",
+  "gluser_id": "248291608",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722616",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello\\nCustomer: Yeah, can you speak to Mr. Sachin Patil?\\nExecutive: Ha, yes madam.\\nCustomer: Vivek Shree Enterprises.\\nExecutive: Okay madam.\\nExecutive: Yeah, hi sir, good evening. Myself is Trishu. I'm calling from Indiamart Noida office. Uh, from recording line, sir. Actually, sir, we received one concern from your side, sir. So I just call you about the services issue only.\\nCustomer: No issue madam.\\nExecutive: There is no issue?\\nCustomer: Ha madam.\\nExecutive: So can we close your service request? Sorry.\\nCustomer: Which which purpose madam?\\nExecutive: Sir, actually we received a call from your side on our customer care, sir.\\nCustomer: Ha, yes madam, yes madam.\\nExecutive: Yes. So I just wanted to know is there any service related issue, sir?\\nCustomer: Madam service related madam already madam refund requirement madam.\\nExecutive: Okay.\\nCustomer: Ha madam. Kannada madam.\\nExecutive: Sir, I can just speak in Hindi or English. Are you comfortable in any language Hindi or English?\\nCustomer: Madam one minute madam. Return call.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a refund.\\n\n- Customer does not need Kannada language support.\\n\n\\n\nResolution:\\n\n- Executive asked about the service-related issue.\\n\n\\n\nNext Steps: \\n\n- Executive will return the call.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, customer care, language\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e2ecf5bf-639d-4854-a23b-571578eb6efb",
+  "ucid": "e2ecf5bf-639d-4854-a23b-571578eb6efb",
+  "seller_categories": [
+    {
+      "mcat_id": "146876",
+      "mcat_name": "Organic Jaggery"
+    },
+    {
+      "mcat_id": "142111",
+      "mcat_name": "Groundnut Seeds"
+    },
+    {
+      "mcat_id": "142630",
+      "mcat_name": "Groundnut Cake"
+    },
+    {
+      "mcat_id": "186492",
+      "mcat_name": "Organic Turmeric Powder"
+    },
+    {
+      "mcat_id": "183031",
+      "mcat_name": "Organic Jaggery Powder"
+    }
+  ]
+}

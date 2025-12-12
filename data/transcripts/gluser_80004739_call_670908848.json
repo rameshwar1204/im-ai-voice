@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670908848",
+  "gluser_id": "80004739",
+  "vintage_months": 17,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671097",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello? Hello?\\nHello? Hello, haan ji?\\nAm I speaking to Mr. Deen Malik?\\nYes, who is this?\\nSir, I'm Richa speaking from IndiaMART head office. How are you?\\nYes, yes.\\nUh, will you please arrange, will you make a call arrange for tomorrow?\\nUh, right now I'm driving.\\nAlright, sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to arrange a call for tomorrow.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. \\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\ncall arrangement, indiamart\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=490772d8-68e2-493c-8b3b-11b2d1d9dfc4",
+  "ucid": "490772d8-68e2-493c-8b3b-11b2d1d9dfc4",
+  "seller_categories": [
+    {
+      "mcat_id": "24669",
+      "mcat_name": "Ceramic Coffee Mug"
+    },
+    {
+      "mcat_id": "42877",
+      "mcat_name": "Ceramic Pots"
+    },
+    {
+      "mcat_id": "90434",
+      "mcat_name": "Ceramic Tea Cup"
+    },
+    {
+      "mcat_id": "187122",
+      "mcat_name": "Clay Diya"
+    },
+    {
+      "mcat_id": "223879",
+      "mcat_name": "Ceramic Pickle Jar"
+    }
+  ]
+}

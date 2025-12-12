@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668682024",
+  "gluser_id": "155665638",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tankara",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636111",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Neevu kare maadalu prayatnisuttiruva vyaktiyu ee kshanadalli labhyavilla. Dayavittu swalpa samayada nanthara prayatnisiri.\\nThe person you are trying to reach is not available at the moment. Please try the call again in some time.\\nCustomer: Hello.\\nCustomer: Hello.\\nNeevu dial maadiruva sankhye eega sadhyakke\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is trying to reach someone.\\n\n\\n\nResolution:\\n\n- Call could not be connected.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, unavailable\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=687bff8d-0b3e-4955-b378-d740566eb897",
+  "ucid": "687bff8d-0b3e-4955-b378-d740566eb897",
+  "seller_categories": [
+    {
+      "mcat_id": "138357",
+      "mcat_name": "PP Woven Roll"
+    },
+    {
+      "mcat_id": "7106",
+      "mcat_name": "Polypropylene Woven Fabric"
+    },
+    {
+      "mcat_id": "7283",
+      "mcat_name": "PP Woven Bags"
+    },
+    {
+      "mcat_id": "7167",
+      "mcat_name": "Polypropylene Woven Sacks"
+    },
+    {
+      "mcat_id": "246708",
+      "mcat_name": "BOPP Rice Bag"
+    }
+  ]
+}

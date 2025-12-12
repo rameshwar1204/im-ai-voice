@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675551682",
+  "gluser_id": "193454174",
+  "vintage_months": 11,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714988",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hi sir, good afternoon. Main Anjali baat kar rahi thi IndiaMART ke backend department se.\\nHmm.\\nExecutive: Aapki company hai na Neelkanth.\\nHmm.\\nExecutive: Haan, maine sir uske behalf mein call kiya hai abhi aapko IndiaMART se feedback message aata hai. To usme aapne not satisfied mention kiya hai sir. Main jaan sakti hu kya aapke.\\nCustomer: Yaar aapke aapke jo ye account manager hai ye log aise keh rahe hai ki bhai ek customer chale jaane se koi hume koi fark nahi padega, thik hai.\\nExecutive: Sir aisa kisne bola?\\nCustomer: Are ye wo jo koi Tiwari karke tha. Ye Amit Devgan karke hai na to usne koi uske senior Tiwari se baat karwai thi. Amit Devgan mein abhi jo Google Meet pe baat kari thi na, main Google Meet pe baat kari thi Amit Devgan ne. To Google Meet mein gussa hoke phone cut karke chala gaya, misbehave kiya.\\nExecutive: Sir wo gussa nahi, unhe gussa kyu aayega aap log hamare client hai.\\nCustomer: Are are yaar rehne do yaar. Main hai na Chamber of Commerce ka hai na main vice president hu Gujarat mein aur textile textile ka wo jo hai na hamara group yaha pe industrialist ka usme bhi vice president hu. Main saare recording se leke saare snapshot main share karunga, thik hai. Mujhe aaj ke baad phone mat karna. Are phone mat karna, ye karna, main aapko request ke saath bol raha hu. Phone mat karna aapke baad, thik hai. Main saara ye aapke IndiaMART ka jo hai na ye.\\nExecutive: Sir lekin call agar cut kiya aap aapka jo call tha wo executive se to chal jaata na. Rahul Singh aapke account manager hai.\\nCustomer: Rahul Rahul employee hai uske senior hai Amit Devgan aur Amit Devgan ka senior hai ye Tiwari. Main saara sab kuch ye sachha chittha hai baat nikalunga. Aap thoda time dijiye.\\nExecutive: Lekin problem.\\nExecutive: Sir kis reason se aap bas yahi reason hai ki unhone.\\nCustomer: Kitno ko main problem share karta firu. Ye aap aise bande ho main mere paas time hona chahiye na problem share karne ke liye bhi. Puch lo unse main kya problem hai, thik hai. Phone mat karna please.\\nExecutive: Sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account manager said customer leaving doesn't matter.\\n\n- Executive misbehaved and cut the call on Google Meet.\\n\n- Does not have time to share problems.\\n\n\\n\nResolution:\\n\n- Executive tried to explain about account manager.\\n\n- Executive tried to understand the reason for dissatisfaction.\\n\n\\n\nNext Steps: \\n\n- Customer asked not to call again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- misbehave, account manager, google meet, call\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d9c430bd-ce70-4523-8ff2-42256ae798bd",
+  "ucid": "d9c430bd-ce70-4523-8ff2-42256ae798bd",
+  "seller_categories": [
+    {
+      "mcat_id": "49833",
+      "mcat_name": "Bamboo Fabric"
+    },
+    {
+      "mcat_id": "9722",
+      "mcat_name": "Lycra Fabric"
+    },
+    {
+      "mcat_id": "158043",
+      "mcat_name": "T Shirt Fabric"
+    },
+    {
+      "mcat_id": "2893",
+      "mcat_name": "T Shirts"
+    },
+    {
+      "mcat_id": "126362",
+      "mcat_name": "Plain Cotton Fabric"
+    }
+  ]
+}

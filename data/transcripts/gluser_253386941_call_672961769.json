@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672961769",
+  "gluser_id": "253386941",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Chapra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ankit\\nCustomer: Hello\\nExecutive: Boliye.\\nCustomer: Haan ji. Haan hello. Ji ji address se baat kar rahe hain kya?\\nExecutive: Ji.\\nExecutive: Anisha baat kar rahi hu IndiaMART se account number se. Actually sir aapne complaint raise kiya tha usi ke regarding mujhe puchna tha ki kya issue aa raha hai sir?\\nCustomer: Aawaz clear nahi aa raha aapka.\\nExecutive: Sir main puch rahi hu aapne complaint raise kiya tha main jaan sakti hu ki kya issue aa raha hai?\\nCustomer: Nahi aawaz nahi aa raha cut raha hai aawaz.\\nExecutive: Ek minute rukiye na.\\nCustomer: Hello\\nExecutive: Hello. Haan ji abhi aa rahi hai kya aawaz?\\nCustomer: Ji.\\nExecutive: Sir actually aapne complaint raise kiya hua tha to mujhe janna tha ki kya issue aa raha hai.\\nCustomer: Nahi abhi samajh nahi pa raha main bahar hu main zara ghar ja ke zara is time pe call karo.\\nExecutive: Koi baat nahi aap kis time pe available ho paoge?\\nCustomer: Shaam mein shaam mein 6:00 7:00 baje.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised a complaint.\\n\n- Customer is unable to hear clearly.\\n\n\\n\nResolution:\\n\n- Executive asked about the issue.\\n\n- Executive asked for a convenient time to call.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in the evening.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, call back, availability\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33dad855-ecb7-4353-b579-705e29e0251a",
+  "ucid": "33dad855-ecb7-4353-b579-705e29e0251a",
+  "seller_categories": [
+    {
+      "mcat_id": "11938",
+      "mcat_name": "Gas Lighters"
+    },
+    {
+      "mcat_id": "85179",
+      "mcat_name": "Hand Chopper"
+    },
+    {
+      "mcat_id": "43199",
+      "mcat_name": "Potato Peeler"
+    },
+    {
+      "mcat_id": "31319",
+      "mcat_name": "Kitchen Cleavers"
+    },
+    {
+      "mcat_id": "84245",
+      "mcat_name": "Plastic Water Jug"
+    }
+  ]
+}

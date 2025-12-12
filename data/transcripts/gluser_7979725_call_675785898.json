@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675785898",
+  "gluser_id": "7979725",
+  "vintage_months": 5,
+  "bl_dau_oct": 2,
+  "customer_type": "Default Cust Type",
+  "city_name": "Bharatpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710732",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Ashish\\nCustomer: Hello\\nExecutive: Hanji hanji\\nCustomer: Ha sir good morning.\\nExecutive: Good morning good morning.\\nCustomer: Ha Manish bol raha tha sir aapka account main renew head office se.\\nExecutive: Ji bhai.\\nCustomer: Ha sir aapne 11 baje ka time liya tha na dual week ke liye.\\nCustomer: Thoda sa postpone kar lo isko 1 baje ke liye chalte hai.\\nCustomer: 1 baje\\nExecutive: Ji\\nExecutive: Theek hai to main 1 baje link share karunga whatsapp pe aapke theek hai.\\nCustomer: Bilkul.\\nExecutive: Theek hai theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Postpone the 11 AM meeting to 1 PM for dual week.\\n\n\\n\nResolution:\\n\n- Agreed to postpone the meeting to 1 PM and share the link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmeeting, postpone, dual week, whatsapp link\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a6abc867-4287-42f3-ac6d-1ae67c0da43e",
+  "ucid": "a6abc867-4287-42f3-ac6d-1ae67c0da43e",
+  "seller_categories": [
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    },
+    {
+      "mcat_id": "185266",
+      "mcat_name": "Mahindra Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    },
+    {
+      "mcat_id": "181087",
+      "mcat_name": "Castrol Engine Oil"
+    }
+  ]
+}

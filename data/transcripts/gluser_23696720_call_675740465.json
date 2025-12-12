@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675740465",
+  "gluser_id": "23696720",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Kozhikode",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9664009",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Good morning.\\nCustomer: Good morning.\\nExecutive: Sir, main aapke saath baat kar rahi thi.\\nCustomer: Haan.\\nExecutive: Yes sir, main Vanchika baat kar rahi thi aapke saath IndiaMART se.\\nCustomer: Haan?\\nExecutive: IndiaMART se main baat kar rahi thi, aapki service ke related, main Vanchika ji.\\nCustomer: Haan ji boliye.\\nExecutive: Yes sir, thoda service ke baare mein mujhe discussion karna tha.\\nCustomer: Haan.\\nExecutive: Haan sir, jaise hamara last time discussion hua tha, aapke paas thoda buyleads ka problem tha.\\nAapke paas aapke clients ki call vagerah nahi aa rahi thi.\\nCustomer: Kya bol rahe hain?\\nExecutive: Sir, aapko last time problem kya na, issue tha aapko ki aapke paas jo delivering lead ho rahi thi, vo aapke paas nahi aa rahi thi, hai na?\\nCustomer: Abhi [inaudible].\\nExecutive: Call back karta hu ji.\\nExecutive: To kis time pe main call karu, aap mujhe ek baar bata dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had buylead issues.\\n\n- Not receiving calls from clients.\\n\n\\n\nResolution:\\n\n- Executive wanted to discuss service issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, service, client calls\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45b35e56-9277-4d66-89c8-1740bb1a4a07",
+  "ucid": "45b35e56-9277-4d66-89c8-1740bb1a4a07",
+  "seller_categories": [
+    {
+      "mcat_id": "99903",
+      "mcat_name": "PP Scrap"
+    },
+    {
+      "mcat_id": "132217",
+      "mcat_name": "PVC Scrap"
+    },
+    {
+      "mcat_id": "143130",
+      "mcat_name": "LDPE Scrap"
+    },
+    {
+      "mcat_id": "155510",
+      "mcat_name": "Polystyrene Granules"
+    },
+    {
+      "mcat_id": "35005",
+      "mcat_name": "Plastic Scrap"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673428924",
+  "gluser_id": "30163390",
+  "vintage_months": 12,
+  "bl_dau_oct": 3,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679295",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? \\nCustomer: Haan ji?\\nExecutive: Haan ji, Mr. Raj se baat ho rahi hai Haryana construction mein?\\nCustomer: Haan bilkul, bilkul bol raha hu ji.\\nExecutive: Okay, sir very good evening, main Pallavi baat kar rahi hu IndiaMART se kaise hain aap?\\nCustomer: Madam koi baat nahi karni maine. Koi bhi baat nahi karni.\\nExecutive: Sir mujhe pata hai aapko, nahi sir maine service ke liye call nahi kiya hai mujhe. \\nCustomer: Nahi nahi, aap puchna koi ek batao dusra ki kaam koi sakta. Dusra kaam batao aapne kya hoga mujhe.\\nExecutive: Sir dekhiye aap aapne hume inform kiya hai ki aap is saal apni services continue nahi kar rahe hain. To mujhe bas thoda sa feedback chahiye tha sir kaha pe aapko dikkate aayi hai pure saal pe. \\nCustomer: Madam koi interest nahi dena, mera interest hi nahi hai aapke sath. Yaad kiya aapne.\\nExecutive: Theek hai. Haan ji? \\nCustomer: Koi interest hi nahi hai aapke sath.\\nExecutive: Accha business nahi hua hai aapko? \\nCustomer: Ghum fir ke baat vahi aani hai renew karwao. Bilkul. Nahi sir aap mat karaiye sir mujhe pata hai aapko. \\nCustomer: Nahi agar main nahi karwaunga to phir aapka kaam kya hai? Ye to baat karne ka batao.\\nExecutive: Nahi nahi sir, hum bas aapka ek feedback collect karna chahte hain. \\nCustomer: Dekho ji aapka kaam hi yahi hai, dekho feedback zero rahega kya karega. Hmm. Theek hai feedback. \\nExecutive: Customers aaye hain sir aapke paas customers yaha pe inquiry aayi ho ki sir aapka humne. \\nCustomer: Wo to na meri shikayat ki jarurat thi. Jo mere paas inquiry aayi hai na wo mere se. \\nExecutive: Theek hai. Wo khud bol rahe the. \\nExecutive: Theek hai sir, phir main aapka request close kar du phir aapko service continue nahi karni hai. \\nCustomer: Nahi sir ji bilkul maine koi wapas renew nahi karni na mera koi interest. Theek hai.\\nExecutive: Haan haan sir main aapko vahi keh rahi hu na main close kar du na sir ye request aapki. \\nCustomer: Nahi aapka dil kare wo karo ji, aapka dil kare close karo jo bhi karna hai karo. Mujhe koi dikkat nahi hai.\\nExecutive: Theek hai, theek hai sir phir aap koi baat nahi sir. Theek hai, okay sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want to continue services.\\n\n- Customer states no interest in renewing subscription.\\n\n- Customer complains about the quality of buyleads.\\n\n\\n\nResolution:\\n\n- Executive offered to close the request.\\n\n- Executive collected feedback about services.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, feedback, buyleads, renewal\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 139,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=10d221fa-9539-4911-9b3f-0561519f00e8",
+  "ucid": "10d221fa-9539-4911-9b3f-0561519f00e8",
+  "seller_categories": [
+    {
+      "mcat_id": "161007",
+      "mcat_name": "Tile Flooring Services"
+    },
+    {
+      "mcat_id": "43400",
+      "mcat_name": "Residential Construction Projects"
+    },
+    {
+      "mcat_id": "191068",
+      "mcat_name": "Wall Construction Services"
+    },
+    {
+      "mcat_id": "35310",
+      "mcat_name": "Plumbing Contractors"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    }
+  ]
+}

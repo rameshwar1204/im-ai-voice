@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676879710",
+  "gluser_id": "251604792",
+  "vintage_months": 3,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Haan, ji sir Bharat baat kar raha hu sir India Mart head office se. Account manager aapka.\\nCustomer: Haan.\\nExecutive: Haan. Ji ji. Aapko sir kuch issue aa raha hai service mein?\\nCustomer: Logout kar diya hai aur issue bhi aa raha hai.\\nExecutive: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Logout issue.\\n\n- Service issue.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nlogout, service, account manager\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e4418893-4155-4efe-aa6e-b9f9380aa1a9",
+  "ucid": "e4418893-4155-4efe-aa6e-b9f9380aa1a9",
+  "seller_categories": [
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    },
+    {
+      "mcat_id": "36737",
+      "mcat_name": "Sambar Powder"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "36845",
+      "mcat_name": "Rasam Powder"
+    },
+    {
+      "mcat_id": "8066",
+      "mcat_name": "Red Chilli"
+    }
+  ]
+}

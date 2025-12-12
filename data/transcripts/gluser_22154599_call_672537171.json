@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672537171",
+  "gluser_id": "22154599",
+  "vintage_months": 105,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Indore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9686057",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Sir, good evening. I am Aalok, speaking from IndiaMART Relationship Manager. How are you, sir?\\nCustomer: I am fine.\\nExecutive: Ji sir, theek thaak hai. Actually, Shiva had a discussion with you in the morning, sir.\\nCustomer: Haan.\\nExecutive: Theek hai, woh catalog ke improvement wagera ke liye. So, woh already unpe address kar liya hai sir, aapka jo concern tha, theek hai?\\nCustomer: Haan haan.\\nExecutive: So, kuch content wagera ki requirement rahegi toh woh ek baar aapke saath coordinate kar lenge sir.\\nCustomer: Haan.\\nExecutive: Theek hai? Kyunki usme kuch products ki images wagera jahan pe images blur wagera hai ya description wagera ki kami hai toh woh ek baar correct kar lenge sir usko bhi.\\nCustomer: Theek hai.\\nExecutive: Theek hai? Aapke paas unka number hai direct? Shiva ka number hai aapke paas?\\nCustomer: Hai, mere paas hai.\\nExecutive: Theek hai. So, in between kabhi bhi aapko koi bhi concern ho toh direct unke number pe bhi aap connect kar sakte hain sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai, iske alawa aur koi query sir, aur koi discussion aapko karna ho sir?\\nCustomer: Nahi nahi aur kuch nahi.\\nExecutive: Theek hai, baaki saari cheeze correct hai sir? Theek hai sir, main isko close kar deta hu yahan se, theek hai? Aapke paas feedback ke liye aayega, usko aap fill kar dijiye.\\nCustomer: Theek hai. Thank you. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had concerns regarding catalog improvement.\\n\n\\n\nResolution:\\n\n- Executive confirmed concerns were addressed.\\n\n- Executive said team will coordinate for content requirement.\\n\n- Executive said team will correct product images and description.\\n\n- Executive shared Shiva's number for direct contact.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback form.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, improvement, content, feedback\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=440a4faf-d9de-4cb6-baab-4074cda70499",
+  "ucid": "440a4faf-d9de-4cb6-baab-4074cda70499",
+  "seller_categories": [
+    {
+      "mcat_id": "43849",
+      "mcat_name": "NPK Fertilizer"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "39094",
+      "mcat_name": "Sulfur Fertilizers"
+    },
+    {
+      "mcat_id": "39444",
+      "mcat_name": "Water Soluble Fertilizers"
+    },
+    {
+      "mcat_id": "651654",
+      "mcat_name": "Mycorrhizal Bio Fertilizer"
+    }
+  ]
+}

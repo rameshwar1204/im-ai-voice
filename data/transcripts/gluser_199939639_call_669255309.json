@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669255309",
+  "gluser_id": "199939639",
+  "vintage_months": 5,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651677",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4968634b-6217-4844-9a86-6197150b6fbe",
+  "ucid": "4968634b-6217-4844-9a86-6197150b6fbe",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "191591",
+      "mcat_name": "Corian Mandir"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    }
+  ]
+}

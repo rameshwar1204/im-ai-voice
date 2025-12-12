@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669965996",
+  "gluser_id": "73648445",
+  "vintage_months": 1,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663349",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan haan boliye sir.\\nCustomer: Sir mujhe jarurat kya rahi thi main ye jo India Mart pe lead check kar raha hun na maine inpe click kiya hai.\\nExecutive: Complete nahi kar sakte.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Checking leads on India Mart.\\n\n\\n\nResolution:\\n\n- Could not complete.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, leads, click\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c276f284-2a44-4de5-ac7a-93117540269b",
+  "ucid": "c276f284-2a44-4de5-ac7a-93117540269b",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "167123",
+      "mcat_name": "SS Display Counter"
+    },
+    {
+      "mcat_id": "28404",
+      "mcat_name": "Food Display Cases"
+    },
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "77790",
+      "mcat_name": "Food Cart"
+    }
+  ]
+}

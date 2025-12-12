@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670215249",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nHello\\n\\nCustomer: Hello. Hello.\\n\\nCustomer: Hello\\n\\nExecutive: Haanji.\\n\\nCustomer: Phone mat kar raha.\\n\\nCustomer: Madam Kite Impex se bol raha hu.\\n\\nCustomer: Kite.\\n\\nExecutive: Ji sir haan bataiye. Haanji haanji haanji. Achha achha achha.\\n\\nCustomer: Ek ek second rukiye sir please. Ek minute call pe rahiye. Just a minute.\\n\\nExecutive: Ji ji bataiye.\\n\\nCustomer: Hello. Haanji sir.\\n\\nCustomer: Madam wo deactivation ke liye hua nahi abhi tak.\\n\\nExecutive: Sir maine aapse kal hi to baat kari thi is cheez ke regarding.\\n\\nExecutive: Kal hi maine aapko bataya tha. Sir ek ek ek second sir. Maine aapko kal hi is cheez ke regarding bataya tha ki sir mujhe thoda sa isme time de do. Aur plus aap apne end se valid consume mat karo. Main jo bhej rahi hu wo aap consume karo sir. Is cheez se maine aapse request kari thi.\\n\\nCustomer: Matlab wo result to aana hi tha aap rehne do isko. Sir main mere ko leads sir mere ko leads bhejne to dijiye. Maine aapko kal wo cheez kal hamari jab baat hui thi tab maine aapko bataya tha. Thik hai. I was on your catalog. Main literally aapko leads hi bhejne wali thi aapke products ke regarding aur cow dung cake ki main aapko koi lead nahi bhej rahi hu abhi tak recently. Yes sir aapko issue aa raha hai.\\n\\nExecutive: Kal hi to meri aapse baat hui hai sir iske regarding.\\n\\nCustomer: Matlab baat kiya to aap mujhe sir wo refund karwa do mere ko kaam karna nahi hai.\\n\\nExecutive: Sir aap\\n\\nCustomer: Dekh liye aapko ho gaya time.\\n\\nExecutive: Haan sir time kaha sir aap mujhe time to dijiye. Main bhi to aapse wahi keh rahi hu.\\n\\nExecutive: Leads to aap at least bhejne dijiye. Jo main bhej rahi hu unko to consume kariye aap pehle. Usme agar nahi nikal raha business tab mujhe bataiye sir aap.\\n\\nCustomer: Wo to wahi result aana hai bhejo aap ek do din. Not at all sir. Not at all sir. Wo cheez nahi hai. Main aapko apne end se leads bhejungi. Aap abhi consume kar rahe ho apne end se. Jo aapko lag raha hai thik thak.\\n\\nExecutive: Give me some time sir. Main abhi aapko leads bhej rahi hu and haan. Matlab se aap deactivation kar dena agar nahi hota to. Bilkul sir. Phone nahi karunga baar baar. Main aapko sir bilkul aapko zarurat hi nahi padegi sir us cheez ki. Haan. Rukiyega main abhi aapko aap\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the subscription.\\n\n- Customer says deactivation not yet processed.\\n\n\\n\nResolution:\\n\n- Executive asked for some time to send leads.\\n\n- Executive assured leads will be sent from her end.\\n\n- Executive assured deactivation if leads are not helpful.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, deactivation, leads, subscription\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8bc189dc-c041-4839-bea3-073fb2a6d47f",
+  "ucid": "8bc189dc-c041-4839-bea3-073fb2a6d47f",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

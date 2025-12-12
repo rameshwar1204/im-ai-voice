@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671019200",
+  "gluser_id": "130374449",
+  "vintage_months": 18,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Hello? Haan? Hello. Hello, good morning sir. Haan bolo madam.\\nCustomer: Ji ji, good morning sir. Sir aapka aawaz aa raha hai. Good morning. Hello. Ji ji kaunsi baat kar rahe ho IndiaMART se? baat kar rahe ho. Bolo bolo. Regarding aapne payment kiya koi issue vagerah hai, payment date vagerah confirm nahi kare. Are madam aapko ek baat bata raha hu har din aapko us din bola tha aapke applied head ko isko aapke upar wale ko phone karne ke liye bolo. Nahi phone kiya. Time nahi hota hai. Sir sir sir se aise baat nahi kara sakte, mere paas time nahi hota hai.\\nCustomer: Hello.\\nCustomer: Hamare paas chutti time hote hai madam khali aapki faltu baat sunne ke liye. Unko bhi kaam rehte hai na. Aap phone karenge to wahi to humne complete kiya wo resolve hi nahi hua abhi tak. Unke paas time nahi hai hum thodi khali baithe hai aapka phone hum aapke paas phone attend karne ke liye. Nahi nahi humko kaam nahi hai kya aapko aise unko kaam hai humko nahi hai kya kaam?\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Haanji.\\nCustomer: Aawaz nahi aa raha hai aapki. Ji ji aawaz aa raha hai. Hello. Haan bolo. Bolo. Are aawaz nahi aawaz thik se aa nahi raha hai aapka. Phone hi packet se gaya hai. Hello. Hello. Aawaz nahi aa raha hai aapka cut cut ho raha hai.\\nCustomer: Nahi.\\nCustomer: Hello.\\nCustomer: Phone dobara karo phone band.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment date not confirmed.\\n\n- Customer says issue not resolved yet.\\n\n- Customer says executive does not have time.\\n\n\\n\nResolution:\\n\n- Executive asked to call superior.\\n\n- Executive says they don't have time.\\n\n- Executive says voice is not clear.\\n\n\\n\nNext Steps: \\n\n- Customer asked to call again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- payment, issue, voice\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76e23785-e530-423e-bfdd-14ec6f95bf19",
+  "ucid": "76e23785-e530-423e-bfdd-14ec6f95bf19",
+  "seller_categories": [
+    {
+      "mcat_id": "87382",
+      "mcat_name": "Hexagon Socket Head Cap Screw"
+    },
+    {
+      "mcat_id": "25976",
+      "mcat_name": "Countersunk Bolts"
+    },
+    {
+      "mcat_id": "182802",
+      "mcat_name": "Hex Nylock Nut"
+    },
+    {
+      "mcat_id": "32261",
+      "mcat_name": "Machine Washers"
+    },
+    {
+      "mcat_id": "194527",
+      "mcat_name": "Unbrako Screws"
+    }
+  ]
+}

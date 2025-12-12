@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672951494",
+  "gluser_id": "424899",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689953",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Madam Gaurav baat kar raha tha madam India mart se.\\nExecutive: Haan boliye.\\nCustomer: Morning mein aapse baat hua tha na wo aapne bola tha team ko explain karne ke liye to wo friday ke liye maine meeting schedule kar di hai.\\nCustomer: Okay.\\nExecutive: Haan to aapko main friday ko ek baar team connect kar degi proper aapki team ko guide kar degi kaise use wagera karna hai.\\nCustomer: Baki main ye bola tha aapne 96 pe call hello ha boliye.\\nCustomer: Ah kitne baje friday ko.\\nExecutive: Aap bataiye jab aap bolenge main usi time kyunki aap hi bol rahe the ki team friday ko available hogi is vajah se.\\nCustomer: Haan main main apne team se ek baar baat karti hoon aur aapko jo abhi Anisha ji hamare account manager hain unko.\\nExecutive: Ji ji ji madam ab unhi ko maine assign kiya wahi aapke account handle kare.\\nCustomer: Haan to unko main whatsapp kar dungi time to usse hum.\\nExecutive: Haan koi dikat nahi aap unko kar dijiye theek hai madam.\\nCustomer: Theek hai.\\nExecutive: Ab baki main isliye aapko keh raha ki aapne 96 pe call kiya tha na to ek customer ticket open ho jata hai customer care pe to wo main close kar raha hoon abhi ke liye aap usse satisfied ka wo de dijiyega baki main Anita ko bol deta hoon wo aapko connect kar legi friday ko aur aap bhi number uska save kar lijiye kabhi bhi koi bhi issue aata hai uske number pe aap directly connect kar sakte hain.\\nCustomer: Ah theek hai okay.\\nExecutive: Okay madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to schedule a meeting for Friday.\\n\n\\n\nResolution:\\n\n- Executive scheduled a meeting for Friday.\\n\n- Executive will close the customer ticket.\\n\n- Executive informed customer to save account manager's number.\\n\n\\n\nNext Steps: \\n\n- Customer will WhatsApp the time to account manager.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, account manager, customer ticket, friday\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=773853f3-06a1-4052-8bdf-176291fa7d29",
+  "ucid": "773853f3-06a1-4052-8bdf-176291fa7d29",
+  "seller_categories": [
+    {
+      "mcat_id": "178769",
+      "mcat_name": "Wipro LED Street Light"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "192993",
+      "mcat_name": "Philips Flood Light"
+    },
+    {
+      "mcat_id": "193573",
+      "mcat_name": "Bajaj Street Lights"
+    },
+    {
+      "mcat_id": "95486",
+      "mcat_name": "Energy Saving Floodlight"
+    }
+  ]
+}

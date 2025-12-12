@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670271760",
+  "gluser_id": "61274241",
+  "vintage_months": 83,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9664157",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Namaste.\\nExecutive: Haan.\\nCustomer: Ji, dhanyavad sir.\\nExecutive: Dhanyavad.\\nCustomer: Bhai yehi puch raha tha sir ki aapne to by mistake remove ho gaya tha na wo video mein dikh gaya. Baki kaam kar basically aapka jo profile to main hi handle karunga aaj ke date mein.\\nCustomer: Haan.\\nExecutive: Kaam to hamare kaise chal raha hai baat ki.\\nCustomer: Kaam ke liye main aapko phone karta sir wapas thoda kya main beech kaam mein laga hua tha. Lead hai na wo nahi aa rahi hai sir mere paas dhang se.\\nExecutive: To iske liye to hame baat karni padegi na sir aapko mujhe time dena padega mera time aapko dena padega. Alok ji bol rahe hai kaun bol raha hai?\\nCustomer: Main Ashutosh baat kar raha sir. Alok.\\nExecutive: Haan to fir apan ek kaam karte hai 3 baje baat karte hai sir.\\nCustomer: 3 baje baat karte hai.\\nExecutive: Haan sir aapko ek whatsapp pe message aayega. Are you satisfied or not satisfied ka.\\nCustomer: Okay.\\nExecutive: Yes kar dijiye.\\nCustomer: Okay okay okay.\\nExecutive: Theek hai.\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads properly.\\n\nResolution:\\n\n- Executive will handle the customer's profile.\\n- Executive suggested to talk at 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 3 PM.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, time\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95622f16-0b5c-4d07-87a1-09fa860c1fa6",
+  "ucid": "95622f16-0b5c-4d07-87a1-09fa860c1fa6",
+  "seller_categories": [
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "166113",
+      "mcat_name": "Stone Carved Temple"
+    }
+  ]
+}

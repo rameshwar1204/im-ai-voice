@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676504786",
+  "gluser_id": "31613165",
+  "vintage_months": 49,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720010",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\n\u0938\u0930 \u092e\u0948\u0902 \u0905\u0902\u0915\u093f\u0924\u093e \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0942\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u091f\u0940\u092e \u0938\u0947 \u091c\u094b \u0932\u093e\u0907\u0915\u094d\u0938 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948 \u0928\u093e\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Ankita calling from IndiaMART team regarding likes.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, likes\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0403f644-5ec7-483b-822e-d5ae69b2747a",
+  "ucid": "0403f644-5ec7-483b-822e-d5ae69b2747a",
+  "seller_categories": [
+    {
+      "mcat_id": "81308",
+      "mcat_name": "Portable Swimming Pools"
+    },
+    {
+      "mcat_id": "88527",
+      "mcat_name": "Readymade Swimming Pools"
+    },
+    {
+      "mcat_id": "150881",
+      "mcat_name": "FRP Swimming Pools"
+    },
+    {
+      "mcat_id": "39182",
+      "mcat_name": "Swimming Pools"
+    },
+    {
+      "mcat_id": "88528",
+      "mcat_name": "Prefab Swimming Pool"
+    }
+  ]
+}

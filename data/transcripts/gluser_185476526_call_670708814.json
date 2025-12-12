@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670708814",
+  "gluser_id": "185476526",
+  "vintage_months": 32,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669761",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan sir, namaskar.\\nCustomer: Namaskar sir, bataiye.\\nExecutive: [Inaudible]\\nCustomer: Kaun bol rahe ho sir aap?\\nExecutive: Main Suneesh baat kar raha hu sir India Mart se.\\nCustomer: [Inaudible]\\nCustomer: Bataiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Asking who is speaking.\\n\n\\n\nResolution:\\n\n- Executive introduced himself as Suneesh from India Mart.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nintroduction\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d370c1ca-4e31-467d-a307-336440ff3d07",
+  "ucid": "d370c1ca-4e31-467d-a307-336440ff3d07",
+  "seller_categories": [
+    {
+      "mcat_id": "9335",
+      "mcat_name": "Silica Gel"
+    },
+    {
+      "mcat_id": "192138",
+      "mcat_name": "White Silica Gel"
+    },
+    {
+      "mcat_id": "651414",
+      "mcat_name": "Silica Gel Packets"
+    },
+    {
+      "mcat_id": "192139",
+      "mcat_name": "Blue Silica Gel"
+    },
+    {
+      "mcat_id": "164325",
+      "mcat_name": "Silica Gel Crystals"
+    }
+  ]
+}

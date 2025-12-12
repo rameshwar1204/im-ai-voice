@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668631942",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Kaun?\\nExecutive: Ji Salim ji, hi good afternoon.\\nCustomer: Kaun bhai?\\nExecutive: Salim ji Naveen baat kar raha tha main India Mart se subah baat hui thi na morning mein aapse sir. To maine bol to diya bhai kya bar bar ek hi bar mein repeat karu sab kuch yaar kya aap\\nCustomer: Reason isi ke liye phone kiya tha actually.\\nExecutive: Subah shayad phone disconnect ho gaya tha baat hum kar rahe the sir.\\nCustomer: Kuch disconnect nahi hua maine kaat diya tha aapke pareshani ki vajah se.\\nExecutive: Kuch bhi nahi disconnect nahi hua hai.\\nExecutive: Salim sir agar aap discuss nahi karenge to uska solution kaise nikalenge sir aap khud socho. Aap mere se baat to karo at least ki hum kya karna hai isme hum ek decision pe to aaye. Discussion karne ki kya jarurat hai yaar batao maine mana mana mana kar diya mujhe service nahi chahiye to fir aap mujhe pareshan karne ke liye kyu disturb kar rahe ho sir aap.\\nCustomer: Salim sir koi reason hota hai service na chalane ka aapko nahi chahiye.\\nExecutive: Bol to diya reason to bahut sara hai kyu itna pareshan kar rahe ho chalne do tumhare sath baat hi nahi karni hai.\\nCustomer: Sir aap discussion karenge tabhi to kuch hum nikal payenge isme sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want the service.\\n\n- Customer feels disturbed by repeated calls.\\n\n\\n\nResolution:\\n\n- Executive tried to understand the reason.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- service, disturbance, discussion\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4f501e4d-f51c-4d00-a722-da46d10dda79",
+  "ucid": "4f501e4d-f51c-4d00-a722-da46d10dda79",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

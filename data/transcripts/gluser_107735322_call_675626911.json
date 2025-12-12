@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675626911",
+  "gluser_id": "107735322",
+  "vintage_months": 32,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Murshidabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715889",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Namaste Good evening sir. Good evening sir.\\nCustomer: Good evening bol rahe hai sir aap\\nExecutive: Kaise hai sir aap?\\nCustomer: Thik thak hu abhi chal raha hai bol rahe hai ki IndiaMART itna slow kyu ho gaya?\\nExecutive: Kya issue aa raha hai sir aapko bataiye.\\nCustomer: Issue kuch dino se kuch match nahi ho raha hai naya wala Jalandhar ka lead bhi nahi aa raha hai lead wala lead bhi nahi aa raha hai.\\nExecutive: Buyleads nahi mil rahi hai aapko relevant?\\nCustomer: Nahi buyleads nahi mil raha hai.\\nExecutive: Okay to abhi aap apna seller open kar sakte hai?\\nCustomer: Abhi open kar dunga 5 minute mein open kar dunga.\\nExecutive: Kariye aap main ek video meet ka link send karunga video meet connect kar lijiyega aap.\\nCustomer: Okay main dekhta hu kya kya issue aap face kar rahe hai just kitne minute mein call karu aapko?\\nExecutive: Main aapko 5:13 baj rahe hai aapko 5:30 baje tak call kar raha hu main.\\nExecutive: Thik hai thik hai 5:30 baje call kijiye sari cheeze hum baith ke dekhte hai bilkul solve karte hai jo bhi issue aap face kar rahe hai bilkul sir main aapko help karunga okay sir.\\nCustomer: Thik hai thik hai sir aap call kijiyega main abhi just call kar dunga aapko okay thank you sir.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- IndiaMART is slow, not getting relevant buyleads.\\n\n- New Jalandhar leads are not coming.\\n\n\\n\nResolution:\\n\n- Executive will send a video meet link.\\n\n- Executive assured to resolve the issue.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 5:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, slow, video meet, seller account\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a60871a5-acf4-4035-8e6c-346c2b706095",
+  "ucid": "a60871a5-acf4-4035-8e6c-346c2b706095",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    },
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    }
+  ]
+}

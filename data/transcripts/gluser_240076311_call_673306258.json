@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673306258",
+  "gluser_id": "240076311",
+  "vintage_months": 6,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello. Haan ji. Haan ji. Sir aawaz aa rahi hai?\\nCustomer: Haan ji, bataiye.\\nExecutive: Sir actually maine call isliye kiya tha na sir us din aapka ek call miss ho gaya tha. Hamari jo baat hui thi uske pehle wala. Hai na? To aapka ek concern open ho jata hai agar call miss hoti hai to. To mai wo concern close kar sakta hu.\\nCustomer: Call tha tabhi bataiye.\\nExecutive: Aapne us din jo mujhe sham ko call kiya tha na. Maine aapko bataya tha ki aapka missed call aaya tha iske liye call back kiya maine.\\nCustomer: Ji ji to uske baad hamari baat ho gayi thi jo aapko baat karni thi hamare IndiaMART ke regarding. Right?\\nExecutive: To maine aapko bataya ki aapko kaun si baat karna rahega.\\nCustomer: Nahi nahi nahi. Maine aapko already bataya tha ek cheez. Haan unko maine milaya unhone call nahi pick kiya lekin jo us din jo call miss ho gaya tha na uski wajah se concern open ho jata hai hamare paas. Thik hai miss call ka ki aapki call miss ho gayi aap se call back kar liya. To meri baat to usi din aapse ho gayi thi dobara. To isiliye mai aapka jo concern open hua tha na usko close kar raha tha. Thik hai?\\nCustomer: Thik hai.\\nExecutive: Kyunki Anish sir se to baat hui nahi. Anish sir call nahi pick kar rahe hain. Thik hai tab tak ke liye mai concern close kar de raha hu mai fir se ek bar try kar lunga unhe. Thik hai?\\nCustomer: Thik hai.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called to close a missed call concern.\\n\n\\n\nResolution:\\n\n- Executive closed the missed call concern.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- missed call, concern, callback\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=22cbfbe2-76e2-4f93-8bdf-757b2020926b",
+  "ucid": "22cbfbe2-76e2-4f93-8bdf-757b2020926b",
+  "seller_categories": [
+    {
+      "mcat_id": "69352",
+      "mcat_name": "DC Drive Control Card"
+    },
+    {
+      "mcat_id": "16769",
+      "mcat_name": "Photoelectric Sensor"
+    },
+    {
+      "mcat_id": "149071",
+      "mcat_name": "Microwave Stand"
+    },
+    {
+      "mcat_id": "140943",
+      "mcat_name": "Industrial Control Panel"
+    },
+    {
+      "mcat_id": "31556",
+      "mcat_name": "Laser Displacement Sensor"
+    }
+  ]
+}

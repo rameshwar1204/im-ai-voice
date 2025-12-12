@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667778969",
+  "gluser_id": "253275008",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650396",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "[No summary available]",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a4c9d94-ae3e-4f33-a15b-08c77381884e",
+  "ucid": "7a4c9d94-ae3e-4f33-a15b-08c77381884e",
+  "seller_categories": [
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "243",
+      "mcat_name": "Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "19129",
+      "mcat_name": "Shiva Statue"
+    },
+    {
+      "mcat_id": "15246",
+      "mcat_name": "Buddha Statue"
+    }
+  ]
+}

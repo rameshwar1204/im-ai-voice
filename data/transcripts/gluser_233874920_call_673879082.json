@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673879082",
+  "gluser_id": "233874920",
+  "vintage_months": 9,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Nagaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c01adeb6-f7e9-437b-b20f-37ed43cb4101",
+  "ucid": "c01adeb6-f7e9-437b-b20f-37ed43cb4101",
+  "seller_categories": [
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675603997",
+  "gluser_id": "5326268",
+  "vintage_months": 9,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Thiruvananthapuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715765",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Welcome to Destination Designers. Please wait while we connect.\\n(silence)\\nHello.\\nHello.\\nHello.\\nExecutive: Ya, hi sir, good evening.\\nCustomer: Hello, boliye.\\nExecutive: Good evening. Sir, Raman baat kar rahe the India Mart se. Abhi aapne video meeting ke liye request dala hai sir.\\nCustomer: Ji.\\nExecutive: Raman actually ha sahi hai Raman. Tumhara number bolne.\\nCustomer: Ha, mera number sir 799.\\nExecutive: Ek bar number bataiye sir, main aapko whatsapp pe dal dete hain.\\nCustomer: 7992420\\nExecutive: 72\\nCustomer: 7992420\\nExecutive: 2420743.\\nCustomer: 743. Okay.\\nExecutive: Ha, ek bar number 20743. Okay. Ji ji. Sir, hamara ye hume kal ek meeting chahiye.\\nCustomer: Okay.\\nExecutive: Okay, to abhi possible hai?\\nCustomer: Ji ji bataiye. Kal.\\nExecutive: Kal kis time hai sir, time bata dijiye.\\nCustomer: 11 baje aisa.\\nExecutive: 11 baje na?\\nCustomer: Thik hai, main wo kar dunga.\\nExecutive: Ha. Kal 11 baje ka sir meeting schedule kar do. Abhi aapne meeting ke request dala hai na, ek ticket open ho gaya hai. Hum aapko kal 11 baje subah mein call kar rahe hain aapko, thik hai?\\nCustomer: Ji.\\nExecutive: Ek bar sir ye number na aapka extension number hai. Hum jo call lagate hain na to number call divert hota hai. Ek bar number batayenge aap apna jispe hum directly call kar sake aapko.\\nCustomer: 9072\\nExecutive: 9072\\nCustomer: 64\\nExecutive: 64\\nCustomer: 62\\nExecutive: 62\\nCustomer: 00\\nExecutive: 00\\nCustomer: Yeah.\\nExecutive: Maine aapko hi bhi kar diya hai, thik hai whatsapp pe. Main kal 11 baje lagata hu call aapko, thik hai na?\\nCustomer: Okay, okay, okay, thank you.\\nExecutive: Okay sir, okay, thank you, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a video meeting.\\n\n- Customer wants to schedule a meeting for tomorrow.\\n\n\\n\nResolution:\\n\n- Meeting scheduled for tomorrow at 11 AM.\\n\n- Executive took customer's direct contact number.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, schedule, video meeting, call\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 147,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4561bc77-b772-4979-a510-1604c9497d7d",
+  "ucid": "4561bc77-b772-4979-a510-1604c9497d7d",
+  "seller_categories": [
+    {
+      "mcat_id": "87926",
+      "mcat_name": "Domestic Tour"
+    },
+    {
+      "mcat_id": "42835",
+      "mcat_name": "International Tour Packages"
+    },
+    {
+      "mcat_id": "34040",
+      "mcat_name": "Pilgrim Tour Packages"
+    },
+    {
+      "mcat_id": "30445",
+      "mcat_name": "Holiday Packages"
+    },
+    {
+      "mcat_id": "34156",
+      "mcat_name": "Tour Packages"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672274266",
+  "gluser_id": "230363370",
+  "vintage_months": 8,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mavelikara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685622",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Yeah, good morning. This is Chandan this side from IndiaMART.\\nCustomer: Yeah, Chandan good morning. I'm calling from Manipal.\\nExecutive: Sir, you have shown some interest in the video meeting, sir.\\nCustomer: Yeah, right, that is. See, we recently we are realizing that in the IndiaMART platforms, when we try to select buyleads, depending on quantities, I cannot get any information or any access. No sales are arriving in any case, sir. See, for example, we can take buyleads based upon the city, right? Location.\\nExecutive: Yes. Okay.\\nCustomer: When I when I click on, for example, when I click on Hyderabad, there's nothing coming as in like it's not working properly in the platform. I think something is there some issue.\\nExecutive: Sir, can you join the video meeting and can you show me that?\\nCustomer: Sure, sure. How can I do that moment? Just I'm sending you the mail for the video meeting. Just go ahead and please just check the mail, please.\\nCustomer: Yes, sir. I have sent you the mail. I will just send you the mail ID.\\nCustomer: The mail ID is central central appearance@gmail.com.\\nCustomer: Yes.\\nExecutive: Please join it and share your listing and show me what is the issue you are facing right now.\\n(silence)\\n(silence)\\n(silence)\\n[unintelligible]\\nCustomer: Hello.\\nExecutive: Sir, I'm the only one here, sir.\\n(silence)\\n[unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to get information or access buyleads.\\n\n- No sales are arriving.\\n\n- Platform not working properly.\\n\n\\n\nResolution:\\n\n- Executive sent a mail for video meeting.\\n\n- Asked to share listing and show the issue.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meeting, platform issue\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 194,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dad11162-2614-40dd-8282-4023ca93dd9b",
+  "ucid": "dad11162-2614-40dd-8282-4023ca93dd9b",
+  "seller_categories": [
+    {
+      "mcat_id": "40671",
+      "mcat_name": "Varsity Jackets"
+    },
+    {
+      "mcat_id": "78239",
+      "mcat_name": "Man Hoodies"
+    },
+    {
+      "mcat_id": "78240",
+      "mcat_name": "Men Denim Jacket"
+    },
+    {
+      "mcat_id": "12749",
+      "mcat_name": "Denim Jackets"
+    },
+    {
+      "mcat_id": "10001",
+      "mcat_name": "Men Jackets"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668019604",
+  "gluser_id": "245133275",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning Shoaib sir, mai Sneha bol rahi hu IndiaMART se, aapki baat hui thi matlab maine aap aap busy the sir abhi aap Hello?\\nCustomer: Nahi hu mai abhi, thodi der baad call karna aapko.\\nExecutive: Ji, sir aap Hello? Mai sham me se call karunga aapko do teen minute me.\\nExecutive: Sham ko\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called the customer.\\n\n- Customer asked to call later.\\n\n\\n\nResolution:\\n\n- Executive agreed to call later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in the evening.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, follow-up\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f46f625-1869-4f4e-bc9d-6b50e2cb1a2c",
+  "ucid": "7f46f625-1869-4f4e-bc9d-6b50e2cb1a2c",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "38607",
+      "mcat_name": "Wall Decor"
+    },
+    {
+      "mcat_id": "224235",
+      "mcat_name": "Marble Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676528663",
+  "gluser_id": "4587187",
+  "vintage_months": 9,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Guntur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720627",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Sare prospect dekh ke rakhna isme tumko pichhle mahine starting se na unko danda karna hai.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Need to monitor prospects and penalize them from the beginning of last month.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nprospect monitoring, penalties\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aeebc76d-c7b6-4fec-a337-80c889c345d1",
+  "ucid": "aeebc76d-c7b6-4fec-a337-80c889c345d1",
+  "seller_categories": [
+    {
+      "mcat_id": "192537",
+      "mcat_name": "Luliconazole Cream"
+    },
+    {
+      "mcat_id": "126721",
+      "mcat_name": "Itraconazole Capsule and Tablet"
+    },
+    {
+      "mcat_id": "192674",
+      "mcat_name": "Diclofenac Diethylamine Gel"
+    },
+    {
+      "mcat_id": "127532",
+      "mcat_name": "Lycopene Capsule"
+    },
+    {
+      "mcat_id": "158580",
+      "mcat_name": "Herbal Digestive Enzyme Syrup"
+    }
+  ]
+}

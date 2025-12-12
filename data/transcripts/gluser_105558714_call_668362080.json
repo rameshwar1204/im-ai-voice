@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668362080",
+  "gluser_id": "105558714",
+  "vintage_months": 52,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643516",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Ha\\n\\nExecutive: Hello\\nCustomer: Ha\\nExecutive: Haanji good morning sir.\\nCustomer: Good morning boliye.\\nExecutive: Himani baat kar rahi thi main India Mart se.\\nCustomer: Achcha boliye Himani ji.\\nExecutive: Haanji main keh rahi thi kal aapki baat hui thi sir wo by leader wagera se related hai to aapne whatsapp pe not satisfy ka wo de diya kya feedback?\\nCustomer: Are not satisfy kahan de diye hum?\\nExecutive: Not satisfy ki yahan pe ticket raise ho gayi hai sir.\\nCustomer: Kya hua? Aisa to mat\\nExecutive: Not satisfy ki yahan pe ticket raise ho gayi hai ki bhai meri aapse jo bhi baat hui hai usse aap satisfy nahi hai.\\nCustomer: Nahi waisa to nahi hona chahiye.\\nExecutive: Ho yahan pe feedback mein hota hai sir wahan pe satisfy aur not satisfy ka hota hai to aapne not satisfy pe kar diya hai.\\nCustomer: Galti se agar daba gaya hoga ungli se\\nExecutive: Galti mein aapko mere to yahan pe ticket raise hogi na matlab ye company ye karti hai ki bhai jaise client se baat kari mere se baat hui to aap satisfy hai meri service se jo bhi main aapke account handle kar rahi hu usse ya nahi.\\nCustomer: Aisa to hum soch rahe the agar kabhi kabhi kya hota hai na ki agar whatsapp mein aaya hai na aur usko agar hum hatane se chalte agar kar rahe hain agar usme dab gaya hoga to nahi kehne sakenge.\\nExecutive: Achcha wahi hai not satisfy ho gaya yahan pe mere message kya keh rahe ho?\\nCustomer: Agar miss ho gaya hoga to hum kahe karenge waisa.\\n\\nCustomer: Ho sakta hai kabhi vyast rahe honge to galti se whatsapp usme baat karte karte khula hoga kuch click kiya hai ki bina dekhe click ho gaya lagta hai.\\nExecutive: Haan ho sakta hai wahi main soch rahi hu aap to dekh hi sakte ho not satisfy. Chalo main na ek baar dusre number se ek baar call karti hu kyuki wahan se concern close hoega fir aap ek baar call pick karna meri.\\nCustomer: Theek hai.\\nExecutive: Theek hai. Theek hai Himani.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call regarding 'not satisfied' feedback.\\n\n- Customer denies providing negative feedback.\\n\n\\n\nResolution:\\n\n- Executive explained the feedback process.\\n\n- Executive will call from another number to resolve.\\n\n\\n\nNext Steps: \\n\n- Executive will call from another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, buyleads, whatsapp\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d1fd08c-21f0-4985-a912-32e87806ba21",
+  "ucid": "7d1fd08c-21f0-4985-a912-32e87806ba21",
+  "seller_categories": [
+    {
+      "mcat_id": "650403",
+      "mcat_name": "Rungta TMT Bar"
+    },
+    {
+      "mcat_id": "184861",
+      "mcat_name": "TATA TMT Bars"
+    },
+    {
+      "mcat_id": "182500",
+      "mcat_name": "Jindal TMT Bars"
+    },
+    {
+      "mcat_id": "444519",
+      "mcat_name": "Nuvoco Concreto Cement"
+    },
+    {
+      "mcat_id": "183799",
+      "mcat_name": "ACC Cement"
+    }
+  ]
+}

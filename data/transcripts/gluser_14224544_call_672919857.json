@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672919857",
+  "gluser_id": "14224544",
+  "vintage_months": 9,
+  "bl_dau_oct": 0,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Vijayapura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687287",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Hello. Ji, Shakil ji Elma baat kar rahi hu IndiaMART head office se.\\nCustomer: Hello.\\nExecutive: Aap phone kab uthake karenge madam?\\nCustomer: Ji, kitne baje karu sir?\\nCustomer: 4 baje ke baad me kijiye.\\nExecutive: Chaliye, theek hai, mai 4 baje ke baad call karti hu aapko.\\nExecutive: Praveen kuch aur cheez hai yaar.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know when customer will answer.\\n\n\\n\nResolution:\\n\n- Executive will call the customer after 4 PM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up call, timing\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0d94a237-85ae-4985-b9b6-2595a0c68edb",
+  "ucid": "0d94a237-85ae-4985-b9b6-2595a0c68edb",
+  "seller_categories": [
+    {
+      "mcat_id": "208734",
+      "mcat_name": "Syngenta Insecticide"
+    },
+    {
+      "mcat_id": "217678",
+      "mcat_name": "Bayer Insecticides"
+    },
+    {
+      "mcat_id": "205669",
+      "mcat_name": "Syngenta Fungicides"
+    },
+    {
+      "mcat_id": "224442",
+      "mcat_name": "FMC Insecticides"
+    },
+    {
+      "mcat_id": "224455",
+      "mcat_name": "Adama Herbicides"
+    }
+  ]
+}

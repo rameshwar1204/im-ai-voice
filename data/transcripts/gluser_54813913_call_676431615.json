@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676431615",
+  "gluser_id": "54813913",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangrur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ji, pakhi sir.\\nHalo?\\nCustomer: Queen sir boliye, boliye, boliye.\\nExecutive: Haan ji, ma'am aap call back kyun nahi aata aapka toh?\\nCustomer: Sir call kiya tha maine aapko morning mein aapne phone hi nahi uthaya.\\nExecutive: Mere paas toh koi na miss call aayi hai na call aaya hai.\\nCustomer: Theek hai, koi na aap hi bataiye sir.\\nExecutive: Haan ji, woh refund ka puchna tha maine toh.\\nExecutive: Theek hai, hamari team aapko call kar legi, hum aapka ek refund checklist generate kara dete hain, jitna bhi month gaya hai uska paisa kaat ke jo bhi bacha hai woh aapko refund ho jayega.\\nExecutive: Theek hai and aapka aapne mujhe inform bhi kiya tha ki aapka business close ho raha hai, right?\\nCustomer: Haan ji, haan ji.\\nExecutive: Because he is closing his business.\\nCustomer: Yeh toh ma'am aapne cheh baar daal diya.\\nExecutive: Yeh nahi nahi yeh last hai sir, tension mat lo aap.\\nExecutive: Hmm, theek hai. Sir aapko convince bhi kiya tha par aap pakka decision aapka yahi hai?\\nCustomer: Haan ji, yahi hai na.\\nCustomer: Uske baad benefit hoga tabhi main kuch karunga na, benefit toh hai hi nahi kuch, toh kya fayda phir.\\nExecutive: Yeh mein ma'am mere ko ek baar aap 100% bata do ke yeh process mein ho jayega na yeh? Kahin aisa toh nahi hai ki\\nCustomer: Haan, 100%.\\nExecutive: Main aapko call karta reh jaunga aap mere ko batate reh jao bas yahi hota rahe.\\nExecutive: Nahi nahi don't worry, don't worry, ho jayega. Ek minute ruko, ek minute mein call back kar rahi hu aapke number pe.\\nCustomer: Haan ji.\\nExecutive: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about refund status.\\n\n- Customer is closing his business.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund checklist will be generated.\\n\n- Executive confirmed remaining amount will be refunded.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in a minute.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, business closing, call back\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d30728d0-3434-4254-9e1a-87ad8d3510ab",
+  "ucid": "d30728d0-3434-4254-9e1a-87ad8d3510ab",
+  "seller_categories": [
+    {
+      "mcat_id": "34915",
+      "mcat_name": "PVC Solvent Cement"
+    },
+    {
+      "mcat_id": "138334",
+      "mcat_name": "CPVC Cement"
+    },
+    {
+      "mcat_id": "11332",
+      "mcat_name": "Lamination Adhesive"
+    },
+    {
+      "mcat_id": "37381",
+      "mcat_name": "Solvent Cements"
+    },
+    {
+      "mcat_id": "446247",
+      "mcat_name": "Solvent Cement Tin Can"
+    }
+  ]
+}

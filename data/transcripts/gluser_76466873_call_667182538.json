@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667182538",
+  "gluser_id": "76466873",
+  "vintage_months": 0,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Tohana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633042",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Sir, mere mere paas ye call, ye dusra number aapne kiska de rakha hai ye 83 wala 088?\\nCustomer: Ye mere father ji ka hai ji.\\nExecutive: Achcha father ka hai kya?\\nCustomer: Haan batao. Unka call aaya tha mere ko. Maine pehle unko bhi aapko kiya tha phir unko bhi. Pehle maine unko kiya tha phir aapko kiya tha. To unka call back aaya ki main nahi jaanta. Isi pe isi pe kiya karo.\\nExecutive: Achcha isi pe. Ab wo phir unko unko wo lag raha hoga na ki koi unknown call hai aur wo hai. Achcha achcha achcha achcha achcha. Wo hi gaya tha mere ko. Abhi sir ne kaha ki main nahi jaanta kisi ko ye wo phone mat karna. Nahi nahi nahi wo actually number dena tha na us time pe kisi ka. Haan achcha achcha. To wo thoda phir unko pata nahi hai ki bhai. Whatsapp pe nahi aana ye wala number aapka?\\nCustomer: Ye mere whatsapp pe bhi hai ji.\\nExecutive: Nahi show nahi ho raha hai. Number ek bari bataoge aap dobara mujhe? A 87081\\nCustomer: 87081\\nExecutive: 081\\nCustomer: 081\\nExecutive: 922\\nCustomer: 922\\nExecutive: 19\\nCustomer: 19. Haan.\\nExecutive: 87\\nCustomer: 87081. Haan.\\nExecutive: 92219\\nCustomer: Achcha 92219. Theek hai sir.\\nExecutive: Ji ji. Okay. Aa gaya ji?\\nCustomer: Haan 8708 1 192219\\nExecutive: Haan ji haan ji haan ji. Haan theek hai maine bhej diya aapko whatsapp pe na. Haan bhej diya check kar lena. Mujhe bata dena jab office pahunch jaoge main call karta hu.\\nCustomer: Theek hai theek hai. Thank you. Theek hai sir.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received call on father's number.\\n\nResolution:\\n\n- Customer shared WhatsApp number with executive.\\n\n- Executive confirmed receiving the WhatsApp message.\\n\nNext Steps: \\n\n- Executive will call customer after reaching office.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, number, call, verification\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=250f971b-5c89-4a57-a379-2f2b93e544e4",
+  "ucid": "250f971b-5c89-4a57-a379-2f2b93e544e4",
+  "seller_categories": [
+    {
+      "mcat_id": "164041",
+      "mcat_name": "Mild Steel Hex Bolt"
+    },
+    {
+      "mcat_id": "29157",
+      "mcat_name": "Galvanized Bolts"
+    },
+    {
+      "mcat_id": "177207",
+      "mcat_name": "Mild Steel Rivet"
+    },
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "221069",
+      "mcat_name": "Guard Rail Bolts"
+    }
+  ]
+}

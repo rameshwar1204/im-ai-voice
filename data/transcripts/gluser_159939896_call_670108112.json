@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670108112",
+  "gluser_id": "159939896",
+  "vintage_months": 35,
+  "bl_dau_oct": 11,
+  "customer_type": "STAR",
+  "city_name": "Kala Amb",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638716",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Sir very good morning.\\nCustomer: Good morning.\\nExecutive: Ayush baat kar raha hu sir IndiaMART se.\\nCustomer: Ha yes.\\nExecutive: Maine kaha sir abhi kar le video meeting?\\nCustomer: Ha kar lete hai. Rukiye main aapko link share kar raha hu.\\nExecutive: Mail pe bheju ya whatsapp karu aapko?\\nCustomer: Mail pe karo. Mail pe to chala gaya sir check kariye.\\nExecutive: Esales@limecam.com usse nahi usse nahi dusra fir aapko whatsapp pe bhi bhej deta hu sir main ek second rukiye.\\nCustomer: Marketing one pe karo na.\\nExecutive: Wo sir registered wali email id aapki yahi hai na is vajah se is pe jata hai sir ye.\\nExecutive: Ek minute rukiye sir main whatsapp pe link share kar deta hu aap waha se connect kar lo, theek hai?\\nCustomer: Time lagega usme.\\nExecutive: Ab acha ek kaam kariye ek second ruko aap.\\nCustomer: Theek hai sorry. Ek baar sir mujhe nahi nahi aap mujhe mail id bhejiye main abhi main aapko bhejta hu. Marketing marketing one ek second rukiye.\\nCustomer: Marketing one @ @ impal.com\\nExecutive: Impal H I M ha p c o l c o impal impal.com\\n\\n\\nCustomer: Marketing one @ theek hai.\\nExecutive: Dekhiye sir aaya aapke pass?\\nCustomer: Nahi abhi tak nahi aaya. Ek baar refresh kariye.\\n\\n\\nExecutive: Mila sir?\\nCustomer: Nahi.\\nExecutive: Abhi bhi mail nahi aaya.\\nCustomer: Nahi mail nahi aaya abhi tak. Are\\n\\nExecutive: Kuch to bhi isme share hua hai sir.\\nExecutive: Marketing ek second.\\nExecutive: Ab dekhna sir aapke pass ab aaya?\\nCustomer: Ha aa gaya. Aa gaya? Join kariye sir.\\nExecutive: Ha screen share kar lijiye sir.\\nExecutive: And maine aapko whatsapp pe call kar raha hu sir kyuki dono cheeze possible nahi hoti ek sath call and video meeting, theek hai?\\nCustomer: Okay. Ha okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to join the video meeting.\\n\n- Customer did not receive the meeting link.\\n\n\\n\nResolution:\\n\n- Executive shared the meeting link on email.\\n\n- Executive shared the meeting link on WhatsApp.\\n\n- Executive shared the meeting link on new email id.\\n\n- Customer joined the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, link sharing, email\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 225,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=982e9508-6ff5-4354-890d-73cad02b69ef",
+  "ucid": "982e9508-6ff5-4354-890d-73cad02b69ef",
+  "seller_categories": [
+    {
+      "mcat_id": "32178",
+      "mcat_name": "Limestone Powder"
+    },
+    {
+      "mcat_id": "6663",
+      "mcat_name": "Natural Calcium Carbonate"
+    },
+    {
+      "mcat_id": "11673",
+      "mcat_name": "Dolomite Powder"
+    },
+    {
+      "mcat_id": "32176",
+      "mcat_name": "Lime Powder"
+    },
+    {
+      "mcat_id": "23078",
+      "mcat_name": "Calcium Carbonate Powder"
+    }
+  ]
+}

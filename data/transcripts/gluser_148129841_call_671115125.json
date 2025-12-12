@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671115125",
+  "gluser_id": "148129841",
+  "vintage_months": 29,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Namakkal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9672755",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Yes Kiran sir good morning. Nikitha this side.\\nCustomer: Yeah. Yes yes. Tell me. Sir actually yesterday you have received one feedback message on WhatsApp. Right? From IndiaMART. Yes. Sir might be you have marked there negative not satisfied. Hey yes yeah. Today morning only I unfortunately marked that as a negative. Why I marked that na I will tell you the reason. Yesterday for one purchase I contacted so many person. Okay I not even get any reply. I think for that call I get so okay. What I want to do next? How to make it as a proper review?\\nExecutive: I got your point sir. So yesterday how many calls you have done?\\nCustomer: Three calls.\\nExecutive: Three calls. But\\nCustomer: No I'm not mentioned that review for you. Okay for next automation. Okay see. review for me for IndiaMART you have mentioned but this conversation this feedback was for me only. This wasn't So how to solve that issue? Yes you are doing a right thing. It's it's wrong thing. Wrongly I mentioned it as a not satisfied. So how to solve this issue?\\nExecutive: That is another bucket where you can mark unsatisfied to IndiaMART. But sir the this feedback was for me only. like Yeah I'm understanding what is the solution?\\nCustomer: Yes. So for the solution purpose I will like work on your profile and we'll do the needful sir. For that purpose I have connected Ganpati sir also. So we will have a video meeting for that. Again again I'm saying see don't waste my time. I I need a proper thing that I wrongly marked as a unsatisfied. What is the solution to solve that issue? That means I want to make it as a work satisfied. For that what is the don't tell more things because this is my peak business time. So I need a proper solution. On the same message. On the same message I want to make it. Sorry sorry one minute one minute.\\n\\nCan I now\\nCustomer: Now it is showing that thank you for your feedback. We love to know what we can improve. IndiaMART offering account manager support or something else. Can I go with something else?\\nExecutive: Yes sir.\\n\\nCustomer: Okay. I think now it is not for you. It is removed. Am I right?\\nExecutive: Yes yes. Okay. Thank you thank you. like\\nCustomer: is available there?\\nExecutive: Yeah we will catch you later yeah. Bye.\\nExecutive: Okay sure.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked negative feedback by mistake.\\n\n- Wants to change the feedback to satisfied.\\n\n- Wants a solution to rectify the wrongly marked feedback.\\n\n\\n\nResolution:\\n\n- Executive said she will work on the profile.\\n\n- Executive informed that Ganpati sir is connected for video meeting.\\n\n- Executive confirmed the feedback is removed.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, profile, solution\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 186,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a9d8d44-6f88-4c56-a58c-f0542a1983f8",
+  "ucid": "7a9d8d44-6f88-4c56-a58c-f0542a1983f8",
+  "seller_categories": [
+    {
+      "mcat_id": "442760",
+      "mcat_name": "Solar Panel Cleaning System"
+    },
+    {
+      "mcat_id": "178139",
+      "mcat_name": "Solar Panel Cleaning Services"
+    },
+    {
+      "mcat_id": "650914",
+      "mcat_name": "Solar Panel Cleaning Robot"
+    },
+    {
+      "mcat_id": "155888",
+      "mcat_name": "Solar Panel Cleaning Kit"
+    },
+    {
+      "mcat_id": "172695",
+      "mcat_name": "Solar Panel Installation"
+    }
+  ]
+}

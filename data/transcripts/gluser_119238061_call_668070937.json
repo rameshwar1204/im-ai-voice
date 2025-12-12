@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668070937",
+  "gluser_id": "119238061",
+  "vintage_months": 3,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Balangir",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671236",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nHello\\nExecutive: Hanji sir.\\nCustomer: Hello. Ha IndiaMART customer care se bol rahe hain?\\nExecutive: Ji bataiye sir.\\nCustomer: Hum ek Chakradhar Enterprises se bol raha tha.\\nExecutive: Kaun se? Jo aap Chakradhar Enterprises.\\nKaun se sir thoda slow bataiyega.\\nCustomer: Chakradola Enterprises.\\nExecutive: Achha Chakdola Enterprises. Ha samajh gaya samajh gaya.\\nCustomer: Sir mere ko jo lead aa rahi hai na usme proper lead nahi aa rahi hai.\\nExecutive: Lead kya nahi aa rahi hai kaise?\\nCustomer: Jaise aap HCl aur caustic ka jyada aa raha hai. Mere ko chahiye poly electrolyte ka chahiye.\\nExecutive: Achha.\\nCustomer: Anionic, cationic poly ye sab chahiye.\\nExecutive: Hmm.\\nCustomer: To abhi koi bhi lead nahi hai aisi?\\nCustomer: Nahi wo sir aisa lead nahi aa raha hai.\\nExecutive: Ek minute rukiye rahiye main check kar le raha hu call pe rahiye.\\n\\nExecutive: Caustic soda ke flex ki lead chahiye aapko?\\nCustomer: Chahiye lekin utna nahi jo mere ko jo chahiye anionic poly, cationic poly, antiscalent.\\nExecutive: Achha.\\nCustomer: Poly electrolyte, poly acrylamide wo sab.\\nCustomer: Iska to inquiry bilkul nahi aa raha hai na.\\nCustomer: Caustic ka aur HCl ka aa raha hai hydrogen chloride acid.\\nExecutive: Matlab inka in dono ka aa raha hai caustic soda ka aur HCl ka aa raha hai aur baki poly aluminium chloride wagera in log ka nahi aa raha hai right?\\nCustomer: Nahi nahi nahi poly electrolyte hai.\\nCustomer: Anionic poly, cationic poly, antiscalent.\\nCustomer: Color removal sabhi chahiye.\\n\\nExecutive: Ek baar aap apna mail open kijiye sir.\\nCustomer: Ha.\\nExecutive: Main aapko join karke dikhata hu sari cheeze ki kaise leads wagera kahan pe hai kahan se milenge.\\nCustomer: Ye aise dikhega nahi kya hume jaise HCl ka caustic ka dikh raha hai.\\nExecutive: Dikhega dikhega ek baar aap join ho jao to better cheeze bata dunga aapko. Wo aapke aage bhi kaam aayegi sir.\\nExecutive: Aap mail open karenge to aapko ek invitation gaya hai IndiaMART ke naam se Adarsh.jaiswal.indiamart ke naam se jo hai usko open karke join kar lijiye aap.\\nCustomer: Theek hai.\\n\\nExecutive: Ji. Dekhiye main apni screen share kar raha hu aapko dikha raha hu sari.\\n\\nExecutive: Hello.\\nCustomer: Ha hello.\\nExecutive: Boliye boliye.\\nExecutive: Ek minute ruk jaiye sir.\\nCustomer: Ho gaya.\\n\\nCustomer: Ha aa gaya.\\nCustomer: Kya bol rahe hain?\\nCustomer: Main desktop pe to HCl aa raha hai.\\nCustomer: Kya aa raha hai?\\nCustomer: Desktop pe screen pe dikh raha hai HCl aa raha hai.\\nCustomer: Ha.\\nCustomer: Kya bol rahe hain?\\nExecutive: Ji. Dekhiye.\\nLead ki jaise aap baat kar rahe ho to yaha pe dikh raha hai in sab cheezo ki jyada dikh rahi hai jaise hydro hydro chloride acid wagera dikh rahi hai theek hai. Ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving proper leads as expected.\\n\n- Receiving leads for HCl and caustic soda only.\\n\n- Needs leads for poly electrolyte, anionic, cationic poly.\\n\n\\n\nResolution:\\n\n- Executive checked the lead details.\\n\n- Executive offered to guide through screen sharing.\\n\n- Executive sent a meeting invite to the customer.\\n\n\\n\nNext Steps: \\n\n- Customer to join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, hcl, caustic soda, poly electrolyte\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 314,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=88b68d2c-d4ee-4635-a5a6-51ed6cc42ce5",
+  "ucid": "88b68d2c-d4ee-4635-a5a6-51ed6cc42ce5",
+  "seller_categories": [
+    {
+      "mcat_id": "10868",
+      "mcat_name": "Hydrochloric Acid"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "30955",
+      "mcat_name": "Instant Adhesives"
+    },
+    {
+      "mcat_id": "139686",
+      "mcat_name": "Polyacrylamide"
+    },
+    {
+      "mcat_id": "4379",
+      "mcat_name": "Benzalkonium Chloride"
+    }
+  ]
+}

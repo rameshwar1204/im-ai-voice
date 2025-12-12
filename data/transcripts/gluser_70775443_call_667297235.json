@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667297235",
+  "gluser_id": "70775443",
+  "vintage_months": 50,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc8067fc-2255-42c6-8d71-89e00eb00dc0",
+  "ucid": "cc8067fc-2255-42c6-8d71-89e00eb00dc0",
+  "seller_categories": [
+    {
+      "mcat_id": "445546",
+      "mcat_name": "Matcha Tea"
+    },
+    {
+      "mcat_id": "651249",
+      "mcat_name": "Ramen Noodle"
+    },
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "139050",
+      "mcat_name": "Green Tea Leaves Powder"
+    },
+    {
+      "mcat_id": "74504",
+      "mcat_name": "Paper Coffee Bag"
+    }
+  ]
+}

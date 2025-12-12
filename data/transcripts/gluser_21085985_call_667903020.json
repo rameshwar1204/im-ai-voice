@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667903020",
+  "gluser_id": "21085985",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan\\nExecutive: Hi Akshay, this is Nidhi from IndiaMART headquarter. Meri ma Shri Shyam trade link mein ho rahi right?\\nCustomer: Haan boliye\\nExecutive: Ji aapne video meeting ka request kiya hua hai sir aap time bata sakte ho kab tak available hoge aap?\\nCustomer: Aaj same kar dijiye na 5 baje\\nExecutive: Sir thoda pehle nahi ho sakta like 12 baje ke pehle kyuki sham ko aap busy hote ho\\nCustomer: Thik hai ab mera kuch din se busy schedule bhi chal raha hai matlab hum log ka GST data ready karna padta hai to abhi 10 tarikh tak hum log ka busy schedule hi rahega\\nExecutive: Okay mujhe bas aapka na 10 se 15 minute chahiye hoga kyuki dekho abhi abhi aapne services onboard karai hai hame bas cheeze explain karni hai\\nCustomer: Thik hai thik hai aap 12 baje kar dijiye matlab mere ko bhi video call me active rehna padega kya test wagera\\nExecutive: Ji haan ji haan nahi aapko to khali video mujhe meri screen mai share kar dungi aapko 15 se 20 minute bas jyada time nahi lungi mai aapka ji\\nCustomer: Thik hai aap thoda jyada jaldi karne ka koshish kariyega mera matlab sach me thoda busy schedule hai\\nExecutive: Okay okay sure mai aapko 12 baje ka link initiate kar rahi hu please isse join kar lijiyega aap\\nCustomer: Thik hai abhi mai office me nahi gaya hu mai office ja ke aapka wo kar de raha hu thik hai\\nExecutive: Thik hai aap mujhe whatsapp pe bhi sir message karne wale the but us time aapne whatsapp pe bhi message nahi kara tha\\nCustomer: Nahi nahi mera sach me mai matlab thoda work me wo jyada involve ho gaya tha isliye sach me kuch nahi kar paya thik hai mai aaj time nikal lijiyega\\nExecutive: Ji please aaj time nikal lijiyega\\nCustomer: Haan haan\\nExecutive: Okay okay sir okay\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has a busy schedule.\\n\n- Customer needs to prepare GST data.\\n\n- Customer did not respond on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video call for 12:00 PM.\\n\n- Executive will share her screen during the call.\\n\n\\n\nNext Steps: \\n\n- Customer will join the video call at 12:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video call, busy schedule, gst data\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a383d9f4-1e4b-472b-92e7-212b0b90a389",
+  "ucid": "a383d9f4-1e4b-472b-92e7-212b0b90a389",
+  "seller_categories": [
+    {
+      "mcat_id": "2475",
+      "mcat_name": "TMT Bars"
+    },
+    {
+      "mcat_id": "182501",
+      "mcat_name": "Kamdhenu TMT Bars"
+    },
+    {
+      "mcat_id": "182502",
+      "mcat_name": "SAIL TMT Bars"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "218671",
+      "mcat_name": "Star Cement Cement"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671255512",
+  "gluser_id": "102388388",
+  "vintage_months": 8,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Panaji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan, madam, sahi se aawaz aa rahi hai aapko?\\nCustomer: Haan, haan, aa rahi hai.\\nExecutive: Haan, theek hai.\\nCustomer: Aapko mera jo meri request aapko mili?\\nExecutive: Haan, haan. Hello. Madam, haan, madam, aapki request mujhe mili.\\nCustomer: Haan.\\nExecutive: Madam, aapne abhi teen product add kiya hai?\\nCustomer: Haan.\\nExecutive: Hai na?\\nCustomer: Ah.\\nExecutive: Teen product add kiya hai aapne. Clay coolers style pickup with saucer.\\nCustomer: Haan.\\nExecutive: Ek hai Christmas card.\\nCustomer: Haan.\\nExecutive: Ek hai 125 gram gaon red chilli powder.\\nCustomer: Haan.\\nExecutive: Ye teen product aapne add kiya hai, hai na?\\nCustomer: Haan, haan.\\nExecutive: Baki madam agar main aapko ek kaam karti hu, main aapko video call ki link bhejti hu aur main aapko batati hu ki aap kaise leads vagarah dekh sakte hain, filter laga sakte hain, theek hai?\\nCustomer: Abhi to aur bhi main busy thi. Okay, theek hai.\\nExecutive: Theek hai, theek hai.\\nCustomer: Aapko main link send karti hu.\\nExecutive: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm request was received.\\n\n\\n\nResolution:\\n\n- Executive confirmed receiving the request.\\n\n- Executive offered to explain leads via video call.\\n\n\\n\nNext Steps: \\n\n- Executive will send a video call link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product addition, video call, leads\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45596e32-fed4-42f4-8225-eb0237e272c8",
+  "ucid": "45596e32-fed4-42f4-8225-eb0237e272c8",
+  "seller_categories": [
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "127",
+      "mcat_name": "Christmas Stars"
+    },
+    {
+      "mcat_id": "218580",
+      "mcat_name": "Clay Tea Cup"
+    },
+    {
+      "mcat_id": "28284",
+      "mcat_name": "Fish Masala Mix"
+    },
+    {
+      "mcat_id": "9050",
+      "mcat_name": "Hanging Star"
+    }
+  ]
+}

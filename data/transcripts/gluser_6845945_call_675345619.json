@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675345619",
+  "gluser_id": "6845945",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Thanjavur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9713924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello, good morning madam.\\nCustomer: Ah, good morning sir.\\nExecutive: Good morning madam.\\n[silence]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=21e97b24-4d18-4d99-bf82-1602e50510e3",
+  "ucid": "21e97b24-4d18-4d99-bf82-1602e50510e3",
+  "seller_categories": [
+    {
+      "mcat_id": "2140",
+      "mcat_name": "Liquid Detergent"
+    },
+    {
+      "mcat_id": "22534",
+      "mcat_name": "Bathroom Cleaners"
+    },
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "216653",
+      "mcat_name": "Multi Purpose Cleaner"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

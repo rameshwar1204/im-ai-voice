@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669806157",
+  "gluser_id": "10815847",
+  "vintage_months": 32,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kuchaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662163",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello haan ji\\nExecutive: Haan ji\\nCustomer: India Mart se baat kar rahi hu\\nExecutive: Haan ji India Mart se Prachi baat kar rahi hu aap bataiye sir aap\\nCustomer: Main yehi bata raha tha ki isko band hi kar dete aap mere account ko aur paise vagera refund kar dete to acha rehta kyunki aapki taraf se to koi wo hai nahi\\nExecutive: Ek second sir main aapko\\nCustomer: Properly lead nahi milta hai mere ko ek ek ek dedh mahine se baat kar raha tha ye ye aap sabko bolu ki ye change kar de wo change kar de ye aapki zimmedari hai lead aane ka main har baar aap bol dete ho ye cheez nahi ki wo cheez nahi ki kya karna hai mere ko ye bataiye main work karta hu under water hai sir iske alawa kya chahiye aapko\\nExecutive: Main aapki profile ek baar le leti hu just a second\\nCustomer: Mam aapko jo karna hai wo kar dijiye mere ko proper lead aana chahiye wo aapki zimmedari hai har baar ye change karna ye karna wo karna ye aapki zimmedari hai meri nahi hai aur maine apne barabar kar rakha hai har cheez ka\\nCustomer: Barabar rate de rakha hai maine\\nCustomer: Do mahine se kuch bhi nahi aa raha hai mam band kar dijiye na mahine ka paisa to saal ka pura dete ho to ek bhi lead nahi dete ho to mere ko return kar diya karo mahine ka paisa\\nExecutive: Wait please main profile open kar rahi hu aapki ID se hogi bataiye\\nExecutive: Aap jis vyakti se baat kar rahe hai unhone aapke call ko hold par rakha hai kripya line par bane rahe\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to close account and get refund.\\n\n- Not getting proper leads.\\n\n- Asks what else is required from his side.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, account closure\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e9df0c8f-ebee-4f39-ad57-f502f80dd9be",
+  "ucid": "e9df0c8f-ebee-4f39-ad57-f502f80dd9be",
+  "seller_categories": [
+    {
+      "mcat_id": "151290",
+      "mcat_name": "Underwater Inspection Services"
+    },
+    {
+      "mcat_id": "142869",
+      "mcat_name": "Underwater Welding Service"
+    },
+    {
+      "mcat_id": "113784",
+      "mcat_name": "Ship Repairing Services"
+    },
+    {
+      "mcat_id": "151283",
+      "mcat_name": "Underwater Engineering Works"
+    },
+    {
+      "mcat_id": "177660",
+      "mcat_name": "Desilting Service"
+    }
+  ]
+}

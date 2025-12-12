@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670223889",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nSir, aapki voice nahi clear aa rahi hai.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice not clear.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, clear\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=898588ab-6687-476b-9e5b-ece77bd4e3f4",
+  "ucid": "898588ab-6687-476b-9e5b-ece77bd4e3f4",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

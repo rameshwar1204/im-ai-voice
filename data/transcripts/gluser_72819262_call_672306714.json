@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672306714",
+  "gluser_id": "72819262",
+  "vintage_months": 80,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Chirkunda",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696073",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Om Namah Shivay.\\nHalo.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, awaz aa rahi hai sir?\\nHello.\\nCustomer: Haan boliye mam.\\nExecutive: Good morning sir, Ratna baat kar rahi hu mai IndiaMART se, Manoj ji baat kar rahe hai?\\nCustomer: Haan good morning.\\nExecutive: Actually sir Manish sir se baat ho payegi sir?\\nCustomer: Manish sir se, ek minute rukiye.\\n\\nUmm.\\nActually woh lag nahi raha unka.\\nExecutive: Koi nahi sir aap bol dijiyega sir.\\nCustomer: Bol dete hai, bol dijiye.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to talk to Manish sir.\\n\nResolution:\\n\n- Customer said Manish sir is not available.\\n\n- Executive asked customer to inform Manish sir.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, unavailable, executive\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=89dbcaab-ae20-4d1b-957e-be100cfb27d4",
+  "ucid": "89dbcaab-ae20-4d1b-957e-be100cfb27d4",
+  "seller_categories": [
+    {
+      "mcat_id": "43644",
+      "mcat_name": "Gravel"
+    },
+    {
+      "mcat_id": "9338",
+      "mcat_name": "Silica Sand"
+    },
+    {
+      "mcat_id": "34768",
+      "mcat_name": "Pebble Stone"
+    },
+    {
+      "mcat_id": "42923",
+      "mcat_name": "River Sand"
+    },
+    {
+      "mcat_id": "143574",
+      "mcat_name": "Water Filtration Pebbles"
+    }
+  ]
+}

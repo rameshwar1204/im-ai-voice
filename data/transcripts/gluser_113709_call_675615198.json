@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675615198",
+  "gluser_id": "113709",
+  "vintage_months": 113,
+  "bl_dau_oct": 27,
+  "customer_type": "LEADER",
+  "city_name": "Indore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9707511",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji.\\nExecutive: Good evening sir, Vineet baat kar raha hu IndiaMART head office se.\\nCustomer: Good evening.\\nExecutive: Sir actually aapki sir aapke staff se kal aapke jo account manager hai Sonu unki baat hui thi parso.\\nCustomer: Haan.\\nExecutive: To aapke discussion ek feedback jata hai aapke pass.\\nCustomer: Haan.\\nExecutive: Aapke whatsapp pe. Sir Sonu ki baat hui thi I think mam se baat hui thi.\\nCustomer: Haan.\\nExecutive: To unhone unse jo bhi discussion tha services ke regarding kiya tha to uske baad aapke pass ek feedback aaya tha whatsapp pe. Usse aapne not satisfied mark kiya hua hai. To maine mam se baat ki to mam ne bataya unko nahi pata hai. Unhone might bhi aise hi kar diya hoga but unse koi discussion nahi tha. To wohi mere ko sir aapse confirm karna tha ki aap kyunki aapke whatsapp pe aata hai primary number pe aata hai. To aapne not satisfied mark kiya hai to sir kya kuch issues hai agar discussion se ya IndiaMART se related to main aapse discuss kar leta hu.\\nCustomer: Aisa hai ki mere pass phone aaya tha ki nahi to mere pass nahi aaya tha.\\nExecutive: Ji.\\nCustomer: Phone aaya tha mere pass usme message aaya tha phone aaya tha kya to maine kaha nahi aaya tha.\\nExecutive: Aapke pass feedback aaya tha na lekin IndiaMART se discussion ke liye. Aap yaar aap gaye ke liye laga rahe hain aap ye bataiye yaar bataiye.\\nExecutive: Main sir mere ko actually aap jab aapne not satisfied diya to main Sonu ka manager baat kar raha hu. To mere ko jo bhi discussion hua hai agar koi aap aap kal lagaiye main madam se puchta hu unse kya baat hui sir aapko kal bata dunga.\\nExecutive: Sir mujhe concern close karna hai agar aap koi time de paye mam ne kaha tha ki aap aaj baat karenge unse to available rahenge kyunki aapne nahi nahi suno yaar main aapki baat samajh gaya lekin aaj main aapko jawab nahi de paunga.\\nCustomer: Aap kal lagaiye.\\nExecutive: Bilkul sir. Koi baat nahi sir mere ko koi aise jo bhi discussion karna hai uske liye main reminder lagata hu kal hi call karunga. Main ye keh raha hu main abhi aapka concern khula hai woh band kar deta hu aur kal ke liye reminder laga leta hu. Aur kal main aapko call kar dunga. Theek hai sir aap jab satisfied ka aapko woh aayega to please isko not satisfied mark mat kijiyega sir. Agar aapko lagta hai koi aisi problem hai to aap not satisfied kar dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked 'not satisfied' on feedback form.\\n\n- Customer states he did not receive a call.\\n\n\\n\nResolution:\\n\n- Executive will close the concern and call tomorrow.\\n\n- Executive requested to not mark unsatisfied unnecessarily.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, not satisfied, call, discussion\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 145,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dfbe47a0-d241-4523-bdf5-bdff625788e7",
+  "ucid": "dfbe47a0-d241-4523-bdf5-bdff625788e7",
+  "seller_categories": [
+    {
+      "mcat_id": "160028",
+      "mcat_name": "Plastic Ghamela"
+    },
+    {
+      "mcat_id": "164099",
+      "mcat_name": "Battery Spray Pump"
+    },
+    {
+      "mcat_id": "84872",
+      "mcat_name": "Plastic Flower Pot"
+    },
+    {
+      "mcat_id": "148451",
+      "mcat_name": "Battery Powered Knapsack Sprayer"
+    },
+    {
+      "mcat_id": "34995",
+      "mcat_name": "Plastic Pot"
+    }
+  ]
+}

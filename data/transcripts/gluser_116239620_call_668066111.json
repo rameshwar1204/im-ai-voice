@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668066111",
+  "gluser_id": "116239620",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Karnal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639318",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, sir, main PDF check nahi kar pa rahi hu. Kahan pe check hoga ye?\\nCustomer: Aap product jo 10 page pe jaaiye.\\nCustomer: Kahan pe jana hai sir?\\nExecutive: Product jo IndiaMART open karne mein jo aapka product section hai jahan pe saare product aapne rakhhe.\\nCustomer: Haan, maine maine product hai yahan pe.\\nExecutive: Haan. Wahan pe mere saare.\\nCustomer: Haan.\\nExecutive: Product ke just niche dekhiye PDF option dikh raha hoga aapko.\\nCustomer: Kya dikh raha hoga sir?\\nExecutive: PDF ka option dikh raha hai aap product ke just niche dekhiye jo image add hua hai na.\\nCustomer: Ji sir, unke niche saare haan.\\nExecutive: Aap dekh sakte hain sab mein 10-12 images add ho chuke hain pehle hi aur PDF bhi add ho chuka hai.\\nCustomer: Nahi nahi PDF to show hi nahi ho raha na sir. Saare product jo mere show ho rahe hain unke niche koi PDF aa hi nahi raha hai.\\nExecutive: Aur phone pe phone pe check kar rahi hain aap?\\nCustomer: Ji sir, main phone pe check kar rahi hu.\\nExecutive: Ek baar aap desktop pe login kijiye.\\nCustomer: Desktop pe?\\nExecutive: Haan, phone se waise show hota hai lekin aapko nahi wahan pe show ho raha hai. Aur phone se bhi show hota hai just uske niche jo image hota hai na product ka uske just niche show karta hai icon mein chota sa.\\nCustomer: Ek minute sir.\\nExecutive: Ji.\\nCustomer: Main isko ek baar PC on karke fir call karti hu sir.\\nExecutive: Haan, thik hai. Ek baar desktop se bhi.\\nCustomer: Back call karti hu sir aapko.\\nExecutive: Haan, desktop se bhi ek baar check kar lijiyega. Fauran mere number pe call kijiye. Ye customer care ka number hai na.\\nCustomer: Aapka number kaun sa hai sir?\\nExecutive: Ye jis number se maine aapko WhatsApp kiya hua tha.\\nCustomer: Achha Abhijit se WhatsApp aaya hai.\\nExecutive: Haan, jis se maine WhatsApp karke aapko confirmation ki hai ki product done ho gaya hai. Jo PDF aapne send kiye the maine add kar diya hai.\\nCustomer: Isi number pe call kar lijiyega.\\nCustomer: Thik hai sir. Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to check PDF on the phone.\\n\n\\n\nResolution:\\n\n- Executive asked to check on desktop.\\n- Executive provided his direct number for follow-up.\\n\n\\n\nNext Steps: \\n\n- Customer will check on desktop and call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pdf, product, desktop, whatsapp\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 155,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=de337099-c10c-4677-b3e5-1132ba65b0cc",
+  "ucid": "de337099-c10c-4677-b3e5-1132ba65b0cc",
+  "seller_categories": [
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "101984",
+      "mcat_name": "Macaroni"
+    },
+    {
+      "mcat_id": "185510",
+      "mcat_name": "Air Freshener Spray"
+    },
+    {
+      "mcat_id": "178503",
+      "mcat_name": "Cold Storage Room Rental Services"
+    },
+    {
+      "mcat_id": "56051",
+      "mcat_name": "Liquid Air Freshener"
+    }
+  ]
+}

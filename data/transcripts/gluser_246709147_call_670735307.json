@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670735307",
+  "gluser_id": "246709147",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669840",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a5d3e94b-2d87-4f22-b71a-9410dfac784a",
+  "ucid": "a5d3e94b-2d87-4f22-b71a-9410dfac784a",
+  "seller_categories": [
+    {
+      "mcat_id": "152152",
+      "mcat_name": "Cotton Dhoti"
+    },
+    {
+      "mcat_id": "186426",
+      "mcat_name": "Cotton Printed Bed Sheet"
+    },
+    {
+      "mcat_id": "31958",
+      "mcat_name": "Men Kurtas"
+    },
+    {
+      "mcat_id": "177906",
+      "mcat_name": "King Size Bed Sheets"
+    },
+    {
+      "mcat_id": "8404",
+      "mcat_name": "Satin Bed Sheets"
+    }
+  ]
+}

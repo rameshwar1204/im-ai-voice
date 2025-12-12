@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667768404",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji sir.\\nExecutive: Ha mai Alina International se baat kar raha hu.\\nCustomer: Alina International. Ji sir bataiye.\\nExecutive: Ha ji.\\nCustomer: Maine aapke yaha se subscription liya tha 27 June ke aas pass.\\nExecutive: Ha ji sir bataiye.\\nCustomer: Ha to wo mujhe cancel karana hai apna. Mujhe refund chahiye.\\nExecutive: Ji.\\nCustomer: Ha mujhe char mahina me aaj tak ek bhi business aapke yaha se nahi mil paya isliye mujhe isko paisa return chahiye.\\nExecutive: Return chahiye aapko?\\nCustomer: Ha ji ha ji.\\nExecutive: Sir aaj to leave hai aapka chutti hai hamare office me. Mai kal aapke iske regarding call karti hu aapka issue pehle mai aapka resolve karati hu.\\nCustomer: Kya keh rahi hai?\\nExecutive: Matlab mai aapka issue resolve karwa deti hu kal. Aaj to hamara off hai company me.\\nCustomer: Achha aaj off hai?\\nExecutive: Ha sir mai kal aapka issue ye resolve karati hu pehle mai aapka. Aapko dikat kya aa rahi hai sir?\\nCustomer: Meri dikat to yahi hai ki mujhe char mahina me koi business nahi mila hai isliye mai isko khatam karna chahta hu.\\nExecutive: Sir aap lead consume kar rahe the time par?\\nCustomer: Wo sab kuch kar raha tha mai char mahina roz time de raha tha paisa laga ke faltu thodi baitha rehta. Sab kuch kar raha tha. Bahut bekar hai ye khali aap log ka sirf naam hai IndiaMART ye wo koi do paise ka kaam hai isme.\\nExecutive: Sir aisi baat nahi hai matlab kafi log hai jinhe\\nCustomer: Na na koi response nahi mila mujhe aaj tak tab char mahina se tab mai bhugt bhogi hu.\\nExecutive: Thik hai.\\nCustomer: Thik hai. Ek bar aap mere ko kal ka time dijiye kal mera office hai to fir kal office me time me mai aapko discuss karti hu iske regarding.\\nExecutive: Thik hai. To ye aap office me hai to ye aap number kaise utha liya agar office me nahi hai to aap?\\nExecutive: Sir ye number mera hai na to number to phone to matlab mere paas hi rehta hai na.\\nCustomer: Achha achha achha.\\nExecutive: Ha ji.\\nCustomer: Thik hai sir mai aapko kal call karti hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to cancel subscription.\\n\n- Customer wants a refund.\\n\n- Customer did not get any business in 4 months.\\n\n\\n\nResolution:\\n\n- Executive said she will call tomorrow.\\n\n- Executive will resolve the issue tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, buyleads, cancellation\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a884706-5993-4b43-a731-ec38bc8c7ff7",
+  "ucid": "2a884706-5993-4b43-a731-ec38bc8c7ff7",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

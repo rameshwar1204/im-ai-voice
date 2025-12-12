@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676345032",
+  "gluser_id": "5317908",
+  "vintage_months": 64,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685437",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Hello, very good afternoon Jatin sir, India Mart Noida office se Jinsi Thomas.\\nCustomer: Kaun baat kar rahe hain?\\nExecutive: India Mart Noida office se Jinsi Thomas.\\nCustomer: Haan boliye na.\\nExecutive: Kya kar rahe hain aap abhi?\\nCustomer: Haan main aapko thoda thodi der ke baad call karu na mere ko 1:00 baje ke baad.\\nExecutive: Theek hai.\\nExecutive: 1:00 baje ke baad theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to be called after 1 PM.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 1 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall schedule\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bcc996c-d4b3-4fa7-9b93-d35a94df07dc",
+  "ucid": "0bcc996c-d4b3-4fa7-9b93-d35a94df07dc",
+  "seller_categories": [
+    {
+      "mcat_id": "178216",
+      "mcat_name": "Peanut Chikki"
+    },
+    {
+      "mcat_id": "178217",
+      "mcat_name": "Chikki"
+    },
+    {
+      "mcat_id": "178509",
+      "mcat_name": "Jaggery Chikki"
+    },
+    {
+      "mcat_id": "5803",
+      "mcat_name": "Peanut Candy"
+    },
+    {
+      "mcat_id": "653081",
+      "mcat_name": "Peanut Butter Chikki"
+    }
+  ]
+}

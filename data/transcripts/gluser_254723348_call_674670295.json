@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674670295",
+  "gluser_id": "254723348",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Adi sir.\\nCustomer: Hello.\\nExecutive: Haan bol, boliye.\\nCustomer: Haan good evening sir. Sir aapka main Nitish baat kar raha hun India Mart ke service department se.\\nExecutive: Haan.\\nCustomer: Sir aapka video meeting ke liye request aaya tha sir.\\nExecutive: Nahi woh galti se woh.\\nCustomer: Woh galti se ho gaya tha?\\nExecutive: Haan haan click kiya toh click kiya.\\nCustomer: Toh yeh video yeh video meeting nahi karna hai na sir service use kar rahe hain sir aap?\\nExecutive: Nahi service use kar rahe hain sir abhi?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Video meeting request.\\n\n\\n\nResolution:\\n\n- Customer stated the video meeting request was a mistake.\\n\n- Executive confirmed they are using the service.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meeting, service\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=921928f4-2eb2-4658-895c-5c28158c87cd",
+  "ucid": "921928f4-2eb2-4658-895c-5c28158c87cd",
+  "seller_categories": [
+    {
+      "mcat_id": "41570",
+      "mcat_name": "Zinc Ash"
+    },
+    {
+      "mcat_id": "4057",
+      "mcat_name": "Copper Scrap"
+    },
+    {
+      "mcat_id": "41588",
+      "mcat_name": "Zinc Powders"
+    },
+    {
+      "mcat_id": "227398",
+      "mcat_name": "Glycerin Soap Base"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    }
+  ]
+}

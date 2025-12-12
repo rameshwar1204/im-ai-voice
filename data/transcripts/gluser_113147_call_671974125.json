@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671974125",
+  "gluser_id": "113147",
+  "vintage_months": 157,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669285",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Uh, ma'am, very good afternoon. Uh, I'm Alok, speaking from IndiaMART sales manager. How are you?\\nCustomer: I'm fine.\\nExecutive: Okay, I said Deepak, I'm already working on it on your website, okay? You, the details, etc., you can mail them once, okay?\\nCustomer: Haan ji, haan ji, unki mail aayi hai abhi mere paas.\\nExecutive: To main thoda bahar thi sir, main ek baar office pahunch ke fir main details share karti hu ji.\\nExecutive: Haan, aap ek baar details share kar dijiye, to isko fir hum log complete kara dete hai ma'am, thik hai?\\nCustomer: Thik hai ji, okay.\\nExecutive: Aur mujhe jo hai na iska ticket ka closer bhi chahiye hoga, kyuki isme production mein thoda sa time lagta hai, ek do din ka aur shayad time lage.\\nExecutive: To main ye aapko assure karta hu ki isko main complete kara dunga, but wo ticket hum log close karna padega ma'am, kyuki uska teen din ka maximum time hota hai. Already char panch din ho gaye hai usko liye ma'am, thik hai?\\nCustomer: Haan.\\nExecutive: To wo final feedback aap jab ye sari cheeze complete ho jaye tab aap final feedback dena, thik hai? Till that time main update kar deta hu. Aur ensure karta hu ki ek do din ke andar ye aapka sara cheeze complete ho jaye ma'am, thik hai?\\nCustomer: Haan, thik hai sir.\\nExecutive: Thik, thik, thik hai ma'am. Okay, thank you, thank you sir.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to share website details with Deepak.\\n\n- Executive needs ticket closure for production work.\\n\n\\n\nResolution:\\n\n- Executive assured completion in a day or two.\\n\n- Customer agreed to provide final feedback later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- website, details, ticket, closure, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0347f4e3-28c6-4128-a553-111565260814",
+  "ucid": "0347f4e3-28c6-4128-a553-111565260814",
+  "seller_categories": [
+    {
+      "mcat_id": "167255",
+      "mcat_name": "Rotary Slasher"
+    },
+    {
+      "mcat_id": "11126",
+      "mcat_name": "Grass Cutting Machine"
+    },
+    {
+      "mcat_id": "68987",
+      "mcat_name": "Pitch Roller"
+    },
+    {
+      "mcat_id": "161510",
+      "mcat_name": "Lawn Tractor Mower"
+    },
+    {
+      "mcat_id": "55921",
+      "mcat_name": "Electric Lawn Mower"
+    }
+  ]
+}

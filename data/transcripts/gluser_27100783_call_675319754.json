@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675319754",
+  "gluser_id": "27100783",
+  "vintage_months": 14,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Bidasar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702421",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello good morning sir. Hello. Mai Shashi bol rahi hu IndiaMART se. Ha hello.\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Ji mam boliye.\\nExecutive: Ji mai Shashi bol rahi hu IndiaMART se.\\nCustomer: Ji boliye.\\nExecutive: Sir aapka ek call receive hua tha na sir ye Indian fruits ke liye.\\nCustomer: Ji.\\nExecutive: To sir ne bola tha sir nikalne tak connect karne ke liye fir uske baad aap connect nahi ho paye the yaha se.\\nCustomer: Kaha hai apne paas Indian Indian Indian Indian fal ki kaha hai requirement bataiye. Kaha apne paas paas me aa rahi hai.\\nExecutive: Indian fruit aapko ha sir mai sun rahi hu.\\nCustomer: Mam koi dusre number se baat karo aap hai na is number se mere ko aawaz kam aa rahi hai.\\nExecutive: Aawaz kat ke aa rahi hai dusre number se baat karo. Ji ji jo sunna. Jo primary wala tha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not able to hear clearly.\\n\n\\n\nResolution:\\n\n- Executive asked to connect from another number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, voice issue, connection\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=61a7f390-35b7-4584-8f8d-8665d1a0c5f2",
+  "ucid": "61a7f390-35b7-4584-8f8d-8665d1a0c5f2",
+  "seller_categories": [
+    {
+      "mcat_id": "44914",
+      "mcat_name": "Bajra"
+    },
+    {
+      "mcat_id": "148158",
+      "mcat_name": "Aloe Vera Leaf"
+    },
+    {
+      "mcat_id": "180387",
+      "mcat_name": "Nagarmotha"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "106964",
+      "mcat_name": "Amla"
+    }
+  ]
+}

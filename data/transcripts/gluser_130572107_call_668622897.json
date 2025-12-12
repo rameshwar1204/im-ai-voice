@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668622897",
+  "gluser_id": "130572107",
+  "vintage_months": 53,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bilsi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Good afternoon sir ji.\\nCustomer: Ji madam baat kara do jo account manager.\\nExecutive: Account manager se to baat kara dungi aapne 96 number pe call kyu kiya sir?\\nCustomer: Are madam us puchna tha kuch bare me na.\\nExecutive: Nakul mera number hai directly mere number pe call kar sakte ho sir mujhe whatsapp kar sakte ho.\\nCustomer: Chalo.\\nExecutive: Ab fir wohi concern mujhe yaha pe update dena padega dobara se. Chalo chalo. Dusri baar. Chalo chalo kya hota hai sir do dusri baar aaya hai aapka concern ye.\\nCustomer: Koi baat nahi. Close kar do.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect to the account manager.\\n\n- Customer had a query.\\n\n\\n\nResolution:\\n\n- Executive asked why customer called on 96 number.\\n\n- Executive informed customer to call/WhatsApp directly.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, call, whatsapp\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=11e9d2a5-756b-4336-9388-396addc71055",
+  "ucid": "11e9d2a5-756b-4336-9388-396addc71055",
+  "seller_categories": [
+    {
+      "mcat_id": "21046",
+      "mcat_name": "Hing"
+    },
+    {
+      "mcat_id": "111932",
+      "mcat_name": "Hing Powder"
+    },
+    {
+      "mcat_id": "177705",
+      "mcat_name": "Hing Goli"
+    },
+    {
+      "mcat_id": "158492",
+      "mcat_name": "Herbal Uterine Tonic"
+    },
+    {
+      "mcat_id": "162721",
+      "mcat_name": "Prostate Care Capsules"
+    }
+  ]
+}

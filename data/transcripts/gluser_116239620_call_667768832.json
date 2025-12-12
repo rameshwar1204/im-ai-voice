@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667768832",
+  "gluser_id": "116239620",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Karnal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639318",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello, call receive hua tha batao.\\nExecutive: Sir, main ye keh rahi thi isme IndiaMART ke jo isme jo product add karte hain usme PDF add ho jayega?\\nExecutive: Haan ji PDF bhi isme add hota hai lekin jo aap usme image jo aap usme add karte hain na usme JPG ka format chahiye hota hai.\\nCustomer: Achha.\\nExecutive: Haan PDF bhi add karne ka\\nCustomer: Ho nahi raha sir PDF main jo add karne ki koshish kar rahi hu to mere se ho nahi pa raha wo.\\nExecutive: Sir PDF mein image hai ya fir kya hai usme ya brochure hai?\\nCustomer: Hai to images hi sir PDF mein images hi hain.\\nExecutive: Kai sari images hain kya usme?\\nCustomer: Haan haan kafi sari hain sir 8-10 hain.\\nExecutive: Achha nahi to mam wo jo PDF wala option hota hai na to waha pe brochure wagera jo hota hai wo download hota hai waha pe. Uske liye niche diya hota hai option PDF ke liye.\\nExecutive: Lekin ye jo samne jo front pe dikhana hota hai product ki image wo JPG format mein hona chahiye.\\nCustomer: Abhi aap udhar se add kar sakte ho sir isko?\\nExecutive: Haan bilkul add kar sakte hain hum lekin abhi office off chal raha hai. Office ki band hai to kal main kar paunga. Aur dusri cheez main kal call karunga. Haan aur agar usme ek aur cheez aap kar sakte hain jo PDF mein images jo diye hue hain na aap screenshot le kar ke crop kar ke aap usko bhi add kar sakte hain ek baar try karo aise.\\nCustomer: Haan yahi main soch rahi thi sir ki unka screenshot leke crop karke unko add kar do par jo hamare owner hain wo keh rahe hain nahi hum PDF hi add karo.\\nExecutive: Achha achha. Sir unse bol dijiye ki PDF mein jo brochure hota hai wo add hota hai. Waha pe niche option diya hota hai PDF add karne ke liye bhi.\\nExecutive: To waha pe aap brochure add kar sakte ho jis product ke bare mein jo bhi cheeze hoti hain description wagera sab usme brochure mein wo aap usme add kar sakte hain.\\nCustomer: Haan ji.\\nCustomer: Chaliye. Theek hai main kal kal main call back karunga aapko 10 baje ke aas pass theek hai?\\nCustomer: Theek hai sir, theek hai.\\nExecutive: Okay. Okay mam thank you.\\nCustomer: Okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to add PDF to product listing.\\n\n- Owner insists on PDF format for images.\\n\n\\n\nResolution:\\n\n- Executive explained JPG format needed for front images.\\n\n- Suggested screenshot and crop as temporary solution.\\n\n- Clarified PDF option for brochures, not product images.\\n\n\\n\nNext Steps: \\n\n- Executive will call back tomorrow to assist.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- pdf, product listing, image format, brochure\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 144,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=db35e643-56a7-4109-b424-20e00a0846cb",
+  "ucid": "db35e643-56a7-4109-b424-20e00a0846cb",
+  "seller_categories": [
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "101984",
+      "mcat_name": "Macaroni"
+    },
+    {
+      "mcat_id": "185510",
+      "mcat_name": "Air Freshener Spray"
+    },
+    {
+      "mcat_id": "178503",
+      "mcat_name": "Cold Storage Room Rental Services"
+    },
+    {
+      "mcat_id": "56051",
+      "mcat_name": "Liquid Air Freshener"
+    }
+  ]
+}

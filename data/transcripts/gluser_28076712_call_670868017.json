@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670868017",
+  "gluser_id": "28076712",
+  "vintage_months": 77,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670917",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello?\\nExecutive: Hello, haan ji.\\nCustomer: Haan sir boliye phone kiya tha aapne abhi.\\nExecutive: Uh sir RK agency se baat kar rahe hain?\\nCustomer: Haan RK agency se baat kar raha hun. Main main idhar se call kar raha hun sir ek minute rukiye.\\nExecutive: Aawaz aapka clear nahi aa rahi.\\nExecutive: Hello. Sir main idhar se call kar raha hun ek minute rukiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call from the executive.\\n\n- Customer's voice is not clear.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\nNeutral\\n\n\\n\n@@@Key Topics:\\nphone call, rk agency\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25e47f46-c99d-4c12-8e80-42f40f93f96a",
+  "ucid": "25e47f46-c99d-4c12-8e80-42f40f93f96a",
+  "seller_categories": [
+    {
+      "mcat_id": "10976",
+      "mcat_name": "Industrial Air Compressors"
+    },
+    {
+      "mcat_id": "132940",
+      "mcat_name": "Screw Air Compressor"
+    },
+    {
+      "mcat_id": "16797",
+      "mcat_name": "Piston Air Compressor"
+    },
+    {
+      "mcat_id": "18504",
+      "mcat_name": "Reciprocating Air Compressor"
+    },
+    {
+      "mcat_id": "53817",
+      "mcat_name": "Used Electric Motor"
+    }
+  ]
+}

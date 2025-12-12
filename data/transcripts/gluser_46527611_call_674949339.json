@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674949339",
+  "gluser_id": "46527611",
+  "vintage_months": 76,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: ha ji\\nExecutive: Very good morning.\\nCustomer: Mobile loot only.\\nExecutive: Abhimanyu Singh baat kar raha hun sir senior manager India mart se.\\nCustomer: Ji boliye.\\nExecutive: Ji sir aapka ek concern aaya hua hai India mart mein right bataenge sir kya issue aa raha hai aapko sir.\\nCustomer: Maine ek naya employee hire chahiye to usko ek technical knowledge deni hai India mart ki thodi.\\nExecutive: hmm.\\nCustomer: Aur unka ek number add karna tha PNC pe.\\nExecutive: hmm.\\nCustomer: PNC pe number add karna hai unka.\\nExecutive: PNS pe.\\nCustomer: ha PNS pe right aur aapke jo new assistant hai jo India mart use karenge unko proper guidance deni hai right.\\nCustomer: ha.\\nExecutive: To abhi wo available hai sir.\\nCustomer: Abhi to wo nikal chuke hain kyuki late ho gaya tha.\\nExecutive: Okay.\\nExecutive: To kab tak available ho payenge ye.\\nCustomer: Abhi main ek baar connect karke dekhta hun kya scene hai.\\nExecutive: Ek baar sir connect karke sir update kijiye right main aapko 10 minute baad connect kar leta hun to hamari team properly.\\nCustomer: Number note kar lijiye unka.\\nExecutive: Ek minute.\\nExecutive: Ji number bataiye.\\nCustomer: 7417\\nExecutive: 7417\\nCustomer: 706347\\nExecutive: 7063 47 47\\nExecutive: Ye aapke employee ka number hai right.\\nCustomer: ha ji.\\nCustomer: matlab kya hai relative hi hai matlab main aap ye bol sakte ho.\\nExecutive: Sorry.\\nCustomer: relative hi hai matlab main aap ye bol sakte ho.\\nExecutive: Achcha achcha achcha.\\nExecutive: Okay sure main na unhe kar leta hun.\\nExecutive: Connect karke ek baar go through kar leta hun kab available hai to uske according meeting team se main arrange kara deta hun okay.\\nCustomer: theek hai.\\nExecutive: Okay thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Need to provide technical knowledge of IndiaMART.\\n\n- Wants to add employee number to PNS.\\n\n\\n\nResolution:\\n\n- Executive noted the employee's number.\\n\n- Will connect and arrange a meeting with the team.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pns, employee, guidance, technical knowledge\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c3ccf73a-e79a-451b-a5c9-9de96785567b",
+  "ucid": "c3ccf73a-e79a-451b-a5c9-9de96785567b",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

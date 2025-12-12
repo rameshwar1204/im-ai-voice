@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673367068",
+  "gluser_id": "123643604",
+  "vintage_months": 16,
+  "bl_dau_oct": 10,
+  "customer_type": "STAR",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9722350",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan sir.\\n\\nExecutive: Haan ji Rahul Sinha ji.\\n\\nCustomer: Rahul Sinha abhi lunch pe hai. Nadeem sir sarsaji baat kar raha hun.\\n\\nExecutive: Achcha achcha achcha achcha. Main aap pareshan mat ho lunch time hai na to lunch pe gaya hua hai ladka. Main bhi lunch pe hi tha jab aap se baat kar raha tha.\\n\\nCustomer: Nahi nahi maine socha ki update to karwa lenge.\\n\\nExecutive: Nahi na wo main khud keh dunga usko lunch pe matlab aayega lagbhag 3:15 baje. Abhi gaya hai 2:30 baje lunch hota hai na 2:00 baje ke baad hamare.\\n\\nCustomer: Achcha achcha achcha.\\n\\nExecutive: Haan abhi lunch pe tha.\\n\\nCustomer: Nahi nahi message aati hai.\\n\\nExecutive: Nahi nahi koi koi baat nahi main inform kar dunga aap pareshan mat ho.\\n\\nCustomer: Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to get an update.\\n\n\\n\nResolution:\\n\n- Executive informed Rahul Sinha is on lunch.\\n- Executive assured to inform Rahul Sinha.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- update, lunch, inform\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f40e1c36-ba42-4d1b-b9be-951bd27ed9a0",
+  "ucid": "f40e1c36-ba42-4d1b-b9be-951bd27ed9a0",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675113567",
+  "gluser_id": "26211304",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7fa0b656-fcfd-4e34-be65-06328cae5984",
+  "ucid": "7fa0b656-fcfd-4e34-be65-06328cae5984",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "17395",
+      "mcat_name": "Marble Stool"
+    },
+    {
+      "mcat_id": "77994",
+      "mcat_name": "Stone Ball"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667320290",
+  "gluser_id": "12709508",
+  "vintage_months": 52,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Murshidabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635082",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ji sir, good afternoon. Shweta baat karti hu.\\nCustomer: Ha boliye boliye.\\nExecutive: Sir mere paas ek feedback aaya tha. Abhi aapne video meeting ka request dala hai kya?\\nCustomer: Nahi nahi nahi. Oh, toh mera banda dala hai shayad.\\nExecutive: Toh unka number bata dijiye. Main office mein jaake woh dusra number hai na 8900?\\nCustomer: Maine us pe call kiya connect nahi hua sir.\\nExecutive: Accha main abhi jaake aapko call karne ke liye bol raha hu. Theek hai?\\nExecutive: Ha bol dijiye. Toh ye matlab customer care pe aapne isko dala hai feedback.\\nCustomer: Shayad ho gaya ho gaya aisa ho sakta hai.\\nExecutive: Accha chaliye aap unse connect karwa dijiye. Uske baad main isko close kar dungi.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive received feedback about video meeting request.\\n\n- Customer says call not connecting on given number.\\n\n\\n\nResolution:\\n\n- Executive will ask the person to call customer.\\n\n- Executive will close the feedback after connection.\\n\n\\n\nNext Steps: \\n\n- Executive will ask the person to call customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, video meeting, customer care\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=92c4468b-ad47-4b2a-b61d-471eed8232b6",
+  "ucid": "92c4468b-ad47-4b2a-b61d-471eed8232b6",
+  "seller_categories": [
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    },
+    {
+      "mcat_id": "139150",
+      "mcat_name": "Solar Water Pump"
+    },
+    {
+      "mcat_id": "193973",
+      "mcat_name": "Waaree Solar Panels"
+    },
+    {
+      "mcat_id": "443472",
+      "mcat_name": "Loom Solar Panel"
+    }
+  ]
+}

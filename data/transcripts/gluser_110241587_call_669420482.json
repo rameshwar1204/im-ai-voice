@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669420482",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan, bas kar raha hu bhai 15 minute mein call kar raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive will call back in 15 minutes.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0af42dc7-c5f3-49ea-88a6-ff5f8b34d8c5",
+  "ucid": "0af42dc7-c5f3-49ea-88a6-ff5f8b34d8c5",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

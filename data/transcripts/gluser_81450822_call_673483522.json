@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673483522",
+  "gluser_id": "81450822",
+  "vintage_months": 10,
+  "bl_dau_oct": 16,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630287",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u0947\u0932\u094b\\nExecutive: \u0939\u0947\u0932\u094b \u0906\u0935\u093e\u091c \u0906 \u0939\u093e \u091c\u0940 \u0939\u093e \u091c\u0940 \u092c\u094b\u0932\u093f\u090f \u092c\u094b\u0932\u093f\u090f \u0906\u0935\u093e\u091c \u0906 \u0930\u0939\u0940 \u0939\u0948\\nCustomer: \u091c\u0940 \u0915\u0948\u0938\u0947 \u0939\u0948\u0902 \u0905\u0916\u093f\u0932 \u0938\u0930\\nExecutive: \u092c\u0922\u093c\u093f\u092f\u093e \u092c\u0922\u093c\u093f\u092f\u093e \u0906\u092a \u092c\u0924\u093e\u0907\u090f\\nCustomer: \u092e\u0948\u0902 \u092d\u0940 \u092c\u0922\u093c\u093f\u092f\u093e \u0939\u0942\u0902 \u0938\u092c \u0935\u0917\u0948\u0930\u0939 \u092b\u093f\u0930 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948\\nExecutive: \u091c\u0940\\nCustomer: \u0938\u092c \u0935\u0917\u0948\u0930\u0939 \u092c\u0922\u093c\u093f\u092f\u093e \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948\\nExecutive: \u092c\u0924\u093e\u090f\u0902\u0917\u0947 \u0915\u093f\u0938 \u0930\u093f\u0917\u093e\u0930\u094d\u0921\u093f\u0902\u0917 \u0915\u0949\u0932 \u0915\u093f\u092f\u093e \u092e\u0941\u091d\u0947 \u0938\u092e\u091d \u0928\u0939\u0940\u0902 \u0906 \u0930\u0939\u093e \u090f\u0915 \u0924\u094b \u0905\u091c\u093e\u0928 \u0932\u0917 \u0930\u0939\u0940 \u0939\u0948 \u092e\u0948\u0902 \u0928\u092e\u093e\u091c \u0915\u093e \u091f\u093e\u0907\u092e \u0939\u094b \u0930\u0939\u093e \u0939\u0948 \u0928\u092e\u093e\u091c \u092a\u0922\u093c \u0915\u0930 \u0915\u0947 \u092d\u0940 \u092c\u093e\u0924 \u0915\u0930\u0942\u0902\u0917\u093e \u0906\u092a \u0915\u0949\u0932 \u0915\u0930 \u0905\u091a\u094d\u091b\u093e \u0905\u091a\u094d\u091b\u093e \u092c\u0924\u093e\u0907\u090f \u0915\u093f\u0924\u0928\u0947 \u091f\u093e\u0907\u092e \u0915\u0949\u0932 \u092c\u094b\u0932\u0942 \u092c\u0924\u093e\u0907\u090f\\nCustomer: \u0906\u092a \u0906\u0927\u0947 \u0918\u0902\u091f\u0947 \u092c\u093e\u0926 \u0915\u0949\u0932 \u0915\u0930 \u0926\u0947\u0928\u093e\\nExecutive: \u0913\u0915\u0947 \u0920\u0940\u0915 \u0939\u0948\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss something with the executive.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to specify the reason for the call.\\n\n- Executive requested to call after 30 minutes due to prayer time.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer after 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, prayer time\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4184bebc-9528-4bbd-88a3-e8238114d217",
+  "ucid": "4184bebc-9528-4bbd-88a3-e8238114d217",
+  "seller_categories": [
+    {
+      "mcat_id": "161802",
+      "mcat_name": "Aluminum Fan Blades"
+    },
+    {
+      "mcat_id": "10994",
+      "mcat_name": "Industrial Exhaust Fans"
+    },
+    {
+      "mcat_id": "4133",
+      "mcat_name": "Axial Flow Fans"
+    },
+    {
+      "mcat_id": "1270",
+      "mcat_name": "Industrial Fans"
+    },
+    {
+      "mcat_id": "180188",
+      "mcat_name": "Cooling Tower Fan Blade"
+    }
+  ]
+}

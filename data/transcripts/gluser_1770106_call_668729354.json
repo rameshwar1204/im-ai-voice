@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668729354",
+  "gluser_id": "1770106",
+  "vintage_months": 72,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Jamnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9641987",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ha sir good evening. Speaking IndiaMART se.\\nCustomer: Ha bolo aaj toh chutti hai madam.\\nExecutive: Isiliye maine aapko subah sir disturb bhi nahi kiya.\\nCustomer: Ha chutti hai kal call karna 10, 11 baje.\\nExecutive: Ha actually ye kehna sir main ek permission ke liye phone kiya tha aapne ek ticket open kiya tha na main ye band kar du video meeting ka. Isi wajah se hi main aapne do din ka pehle ek feedback. Kal baat karo na aaj chutti hai madam.\\nCustomer: Sir kal hamara chutti hai. Kal hamara chutti hai. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding a ticket opened for permission.\\n\n\\n\nResolution:\\n\n- Executive asked to call back tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call back tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, permission, video meeting, holiday\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9911f4a4-3f32-4707-8425-0b792dd41db0",
+  "ucid": "9911f4a4-3f32-4707-8425-0b792dd41db0",
+  "seller_categories": [
+    {
+      "mcat_id": "27577",
+      "mcat_name": "Fire Sprinklers"
+    },
+    {
+      "mcat_id": "164877",
+      "mcat_name": "Pendent Sprinkler"
+    },
+    {
+      "mcat_id": "184665",
+      "mcat_name": "Velocity Spray Nozzle"
+    },
+    {
+      "mcat_id": "27576",
+      "mcat_name": "Fire Sprinkler System"
+    },
+    {
+      "mcat_id": "164901",
+      "mcat_name": "Sidewall Sprinkler"
+    }
+  ]
+}

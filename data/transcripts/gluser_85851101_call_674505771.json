@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674505771",
+  "gluser_id": "85851101",
+  "vintage_months": 4,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Devanahalli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702230",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Ji ${Exec_Name} bol rahe hai.\\nCustomer: Hello.\\nExecutive: Haan ji. Gaurav aap this side from IndiaMART sir.\\nCustomer: Bolye.\\nExecutive: Kaise hai sir?\\nCustomer: Hello.\\nExecutive: Hello, voice aa raha hai?\\nCustomer: Sir voice sahi aa raha hai. I said uh uh\\nExecutive: 4 o'clock call karu sir? Aapko main kal call karu?\\nCustomer: Haan kal karo.\\nExecutive: Kis time kal call ho aapko sir? Uh\\nCustomer: Kal subah evening evening kar do. Evening 4 o'clock ke baad.\\nExecutive: Evening 4 o'clock. Aaj 4 o'clock pe kar lunga?\\nCustomer: Haan chalega.\\nExecutive: Theek hai. Aapne na not satisfied mark kiya tha na sir feedback aaya tha WhatsApp pe.\\nCustomer: Haan ya ya ya.\\nExecutive: Ji ji ji. Usi ke regarding call gaya tha.\\nCustomer: Theek hai sir main ye nahi kar sakta. Aapko 4 baje call karu?\\nCustomer: Haan 4 baje kar dijiye. Theek hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked 'not satisfied' in feedback.\\n\n\\n\nResolution:\\n\n- Executive will call the customer at 4 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, call, time\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=561267b7-ea12-466f-a7f2-00497c515aac",
+  "ucid": "561267b7-ea12-466f-a7f2-00497c515aac",
+  "seller_categories": [
+    {
+      "mcat_id": "157645",
+      "mcat_name": "Natural Grass"
+    },
+    {
+      "mcat_id": "161807",
+      "mcat_name": "Mexican Grass"
+    },
+    {
+      "mcat_id": "42064",
+      "mcat_name": "Landscaping Services"
+    },
+    {
+      "mcat_id": "122376",
+      "mcat_name": "Lawn Grass"
+    },
+    {
+      "mcat_id": "2295",
+      "mcat_name": "Granite Slab"
+    }
+  ]
+}

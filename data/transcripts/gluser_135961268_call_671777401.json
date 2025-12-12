@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671777401",
+  "gluser_id": "135961268",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9678205",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji boliye kaun baat kar rahe hain?\\nExecutive: Haan, Vaibhav bol raha hu main, IndiaMART account manager.\\nCustomer: Vaibhav ji?\\nExecutive: Haan, Vaibhav bol raha hu main.\\nCustomer: Achcha achcha boliye kya keh rahe hain?\\nExecutive: Sir actually pehli cheez toh na jaise abhi woh Mohsin ji se baat ho rahi thi meri service regarding na. Toh matlab wohi problems bata rahe the ki marble temple aur fountain wagera ki lead nahi aa rahi hai. Toh maine ek matlab jo ab ekdum matlab phir us jab itna baar woh hota hai ek baat uthti hai na toh phir ekdum matlab chhoti chhoti baatein khulne lagti hai. Toh phir matlab maine kiya ki inme jo hai product thode se kam added hai. Okay? Aur inme aapne last do hafte se koi activity bhi nahi ki hai. Achcha.\\nHmm.\\nExecutive: Toh ek kaam kariye. Ek aap IndiaMART open kar sakte hain ek baar aap application?\\nCustomer: Main aapko ek ghante mein wapas call de sakta hu. Thoda sa mere number pe.\\nExecutive: Koi nahi mere number pe kariyega, theek hai?\\nCustomer: Yeh aapke number hai na?\\nExecutive: Ispe call back nahi aayegi maybe. Ho sakta hai try kar lijiyega. Jo number mile call kar lijiyega. Theek hai?\\nCustomer: Theek, theek, theek hai, okay, okay.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads for products.\\n\n- Executive says products are less added.\\n\n- No activity done in the last two weeks.\\n\n\\n\nResolution:\\n\n- Executive asked to open IndiaMART application.\\n\n- Customer will call back in an hour.\\n\n\\n\nNext Steps: \\n\n- Customer will call back on executive's number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product listing, account activity\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4c6e02ed-2e48-4e26-82b6-d365a1d7ce71",
+  "ucid": "4c6e02ed-2e48-4e26-82b6-d365a1d7ce71",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "68239",
+      "mcat_name": "Fountain Waterfall"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668384876",
+  "gluser_id": "116872459",
+  "vintage_months": 2,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kurukshetra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666686",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Ji good morning sir, Amit baat kar raha hu IndiaMART se.\\nCustomer: Haan ji sir boliye.\\nExecutive: Kaise hai sir?\\nCustomer: Theek hai ji aap sunaiye.\\nExecutive: Mai bhi badhiya sir.\\nCustomer: Haan. Sir ek baar abhi free hai na baat kar sakte hai na?\\nCustomer: Woh pata nahi kya is dafa ki baat hai jab bhi takreeban aapka phone aata hai na, us time mai ya toh busy raha hota hu ya drive kar raha hota hu.\\nExecutive: Ji.\\nCustomer: Abhi bhi matlab ek haath me phone hai aur ek haath me drive kar raha hu.\\nExecutive: Nahi nahi koi nahi sir, aap mere ko bataiye mai kab call karu, basically aap.\\nCustomer: Aap na mere ko aap aap sir un dino me phone, par aap un dino me kya karenge abhi mai court me ja raha hu mera jis cheez ka kaam hai ek toh teen char ghante waha utar jayenge.\\nExecutive: Ji ji.\\nCustomer: Chalo suniye mai na aap na lagbhag do ghante baad call kar lijiye us time mai na car car me hounga fir mai aapse baat kar lunga drive karte.\\nExecutive: Theek hai mai aapko 12 baje 12:30 ke aas paas call karunga.\\nCustomer: Haan us time call kariye.\\nExecutive: Ji ji theek hai.\\nCustomer: Okay.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer busy due to court work.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after two hours.\\n\n\\n\nNext Steps: \\n\n- Executive will call after two hours.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call schedule, availability\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e056dc91-0403-4eb6-b338-ff272cad901c",
+  "ucid": "e056dc91-0403-4eb6-b338-ff272cad901c",
+  "seller_categories": [
+    {
+      "mcat_id": "143885",
+      "mcat_name": "Glass Connector"
+    },
+    {
+      "mcat_id": "442945",
+      "mcat_name": "Glass L Connector"
+    },
+    {
+      "mcat_id": "11678",
+      "mcat_name": "Door Closer"
+    },
+    {
+      "mcat_id": "8956",
+      "mcat_name": "Railing Fittings"
+    },
+    {
+      "mcat_id": "185030",
+      "mcat_name": "Glass Point Fitting"
+    }
+  ]
+}

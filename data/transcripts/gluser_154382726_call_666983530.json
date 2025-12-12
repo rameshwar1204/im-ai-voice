@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666983530",
+  "gluser_id": "154382726",
+  "vintage_months": 16,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anantapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9625211",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Hello.\\nCustomer: Haan ji.\\nExecutive: Ji good afternoon sir.\\nCustomer: Good afternoon.\\nExecutive: Sir Ashish baat kar raha tha IndiaMART se.\\nCustomer: Haan Ashish bhai, aisa karenge, abhi month beginning hone se, main aaj aur kal busy hoon. Main aapko parson call karun?\\nExecutive: But sir actually kya hai ki aap aapne jaise jo mark kiya na not satisfied, to uske liye ek sir concern open ho jaati hai IndiaMART mein, jisse sir uske liye leke humein resolve karna hoga. Woh humein sir same day mein karna hota hai sir.\\nCustomer: Theek hai, main aapko, uh, aapko call karne ke liye bolta hoon hamare HR ko. Woh call karegi aapko. Filhaal woh IndiaMART pe hum log kaam nahi kar rahe. Woh dekh ke kaam karenge. Aapka number dekh ke call karta hoon.\\nExecutive: Toh mera number kahan se aap nikaloge?\\nCustomer: Haan. WhatsApp 910 WhatsApp par [unintelligible].",
+  "summary": "\\n\\nConcerns:\\n\\n- Marked a buylead as 'not satisfied'.\\n- Is busy and requested to connect later.\\n- Stated they are not currently working on IndiaMART.\\n\\n\\nResolution:\\n\\n- Explained that a 'not satisfied' mark opens a concern requiring same-day resolution.\\n- Customer said their HR would call back.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- Customer stated their HR would call the executive.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Risk of churn\\n\\n@@@Key Topics:\\n- not satisfied, concern resolution, callback request, hr contact\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3f6ba738-fe24-48c1-9db9-3b3409f34e82",
+  "ucid": "3f6ba738-fe24-48c1-9db9-3b3409f34e82",
+  "seller_categories": [
+    {
+      "mcat_id": "39442",
+      "mcat_name": "Water Softeners"
+    },
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    },
+    {
+      "mcat_id": "208319",
+      "mcat_name": "Kent Water Softening Systems"
+    },
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    }
+  ]
+}

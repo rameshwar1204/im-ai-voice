@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673106718",
+  "gluser_id": "31793712",
+  "vintage_months": 31,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Faizabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696410",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello. Yes, who are you?\\nCustomer: Who is this?\\nExecutive: This is Rahul from Aditya Advertiser.\\nCustomer: Sorry?\\nCustomer: Accha sir, thoda sa na abhi time off ho gaya office ka. Main thoda bahar bhi aayi hui thi. Toh thodi der mein call back kar sakti hu sir.\\nExecutive: Theek hai. Thank you Muskan.\\nCustomer: Haan, main aapko subah call kar leti hu. Main abhi agar hoti na at PC toh main aapko bata bhi deti. But main abhi bahar aayi hui hu mandir mein.\\nExecutive: Okay. Hare Krishna. Jai ho.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the caller's identity.\\n\n- Customer requested a callback later due to being outside the office.\\n\n\\n\nResolution:\\n\n- Executive agreed to the callback.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back in the morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, identity\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eb062624-43af-49a9-baf9-ce4d67233802",
+  "ucid": "eb062624-43af-49a9-baf9-ce4d67233802",
+  "seller_categories": [
+    {
+      "mcat_id": "168665",
+      "mcat_name": "Sunpack Sheet Printing Services"
+    },
+    {
+      "mcat_id": "168765",
+      "mcat_name": "Auto Rickshaw Advertising Services"
+    },
+    {
+      "mcat_id": "146388",
+      "mcat_name": "Kiosk Advertising"
+    },
+    {
+      "mcat_id": "160071",
+      "mcat_name": "Sunpack Sheet"
+    },
+    {
+      "mcat_id": "172897",
+      "mcat_name": "Sign Board Printing Services"
+    }
+  ]
+}

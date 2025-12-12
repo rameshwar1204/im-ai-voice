@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671969659",
+  "gluser_id": "54771429",
+  "vintage_months": 16,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Berhampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691026",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ji sir, call cut ho gayi.\\nCustomer: Cut ho gaya, haan, bolo. Gajanan Behera 15 tarikh ko kiye the. Barampur, Odisha ka hai.\\nExecutive: Dekh pa rahe hain?\\nCustomer: Haan.\\nExecutive: 15 tarikh ko jo kiya tha.\\nCustomer: Haan.\\nCustomer: 77359961567 Barampur, Odisha 50 kg Excel powder ka. Gajanan Behera.\\nExecutive: Gajanan 15 tarikh ko jo consume kiya tha ye, main yaha pe 16 tarikh ko. Ye 15 tarikh ko jo aapne consume kiya tha, ye ek amar hai? Ye call aaya hai. Ye hume call inquiry aaya tha direct.\\nGajanan Behera.\\nExecutive: Sir, thoda voice, aapka voice break ho raha hai, kya bole?\\nExecutive: Sir, yaha pe na valid batayegi, ye aapne consume kiya usse bola. Kyunki valid pe pata hai ping karna padta hai.\\nCustomer: Nahi, aap kya bol rahe hain, jo main lead consume kiya hu usme se bolna hai ki.\\nExecutive: Haan, haan, usme se. Jo lead aapne consume kiya.\\nExecutive: Kyunki sir, humko yaha pe split karna padta hai na, to waha pe lead rahega, lead ke sath agar koi seller hai.\\nExecutive: Sir, hota hai kuch action.\\nCustomer: Usme kya hai?\\nCustomer: Ah, ye dekhiye, Vishnu, Uttar Pradesh se. Excel powder. 15 tarikh se.\\nExecutive: Mostly matlab direct call aa raha hai humne.\\nCustomer: Aapka voice sunai nahi de raha hai, pata nahi kya problem hai.\\nExecutive: Main bol raha tha ki jo hamare paas direct call aa rahe hain. Haan. Jitna bhi call aaya 15 tarikh ko, sara ka sara seller hai. Isliye wo call kar rahe hain. Nagesh, Radhika Ganesh, Alim Roshan, Gajanan Behera, Abdul. Ah, aur ek to bahar ka naam bhi nahi hai usme. Ah, aur kaun hai? Nayan Seal, Om Sound and Light. Fir Sahik, Akbar Sahik, Bikul Islam, Azad, Milan Mishra, Sagar. Excel powder bhi mostly aa raha hai na ye?\\nCustomer: Haan, Aryan. Sare ke sare seller hain.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants details of leads consumed on 15th.\\n\n- Executive's voice is breaking.\\n\n\\n\nResolution:\\n\n- Executive provided details of leads consumed on 15th.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, excel powder, seller details\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 214,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c5ffd29c-ca05-42c3-b79c-a12c871c35ff",
+  "ucid": "c5ffd29c-ca05-42c3-b79c-a12c871c35ff",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "203211",
+      "mcat_name": "Black Ginger"
+    },
+    {
+      "mcat_id": "32022",
+      "mcat_name": "Lemongrass Plant"
+    },
+    {
+      "mcat_id": "207953",
+      "mcat_name": "Eggshell Powder"
+    },
+    {
+      "mcat_id": "310482",
+      "mcat_name": "Lakadong Turmeric Powder"
+    }
+  ]
+}

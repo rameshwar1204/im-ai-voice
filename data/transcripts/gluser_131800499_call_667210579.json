@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667210579",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ji sir.\\nExecutive: Ji chal raha hai, madam, koi problem nahi hai.\\nCustomer: Ji chal raha hai, abhi aap system pe ho kya?\\nExecutive: System pe nahi hu, mai phone pe hu abhi.\\nExecutive: Phone pe ho aap, ek minute aapko na video meeting ka link share kar rahi hu, aap isko join kijiyega.\\nCustomer: Dijiye.\\nExecutive: Ek second ha.\\nExecutive: Aapko na whatsapp pe mai share kar rahi hu na.\\nCustomer: Dijiye.\\nCustomer: Ha sir.\\nCustomer: Agar hai theek hai, agar nahi parwah link ke through nahi to share kar paunga yaha se bhi.\\nCustomer: Pehle khol ke.\\nExecutive: Sir ek minute aapke paas to maine whatsapp pe na message kiya hai, mila aapko?\\nCustomer: Sir ab ek baar aapna whatsapp open kijiyega, ja rahe hai.\\nCustomer: Ha ji aa gaya.\\nExecutive: Join kijiyega.\\nCustomer: Ek minute whatsapp pe.\\nCustomer: Kya likha hai open?\\nCustomer: Join video call.\\n(silence)\\n(caller tune)\\n(caller tune)\\n(caller tune)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to share through link.\\n\n\\n\nResolution:\\n\n- Executive shared a video meeting link on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, whatsapp, link\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=abe3bd06-d1e5-41d9-b6b6-1f63cc2ea200",
+  "ucid": "abe3bd06-d1e5-41d9-b6b6-1f63cc2ea200",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

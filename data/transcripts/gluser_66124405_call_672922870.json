@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672922870",
+  "gluser_id": "66124405",
+  "vintage_months": 7,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kashipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690426",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello.\\nHello. Ha hello, kaun bol raha hai?\\nAfternoon sir, VK Food Product se baat kar rahe hain, VK Tripur Kumar ji.\\nNahi, main Raju Mahato baat kar raha hun.\\nAp kahan se baat kar rahe hain?\\nMain IndiaMART se baat kar rahi hun sir. Abhi unhone ek ticket open kiya hai.\\nNahi, main wahan se baat nahi kar raha hun abhi, hai na?\\nAchha, sir se baat ho jayegi kya meri?\\nMain actually unka number aapko bhej sakta hun. Aapka yahi hai WhatsApp number?\\nMera number yahi hai. Unka number last mein sir 729 hai kya?\\n729 ha shayad yahi hai mujhe aisa.\\n729 na? Basically wo call to lag nahi rahi is vajah se maine secondary pe kiya hai ki aapne ticket to nahi open kiya hai, sir ne kiya hai na?\\nNahi, maine nahi nahi kiya hai, sir ne kiya.\\nThik hai, thik hai. Ha sir ne ek ticket open kiya hai. Main kar leti hun call agar sir pick kar lete hain to.\\nOkay. Ji ji, thik hai sir, thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to confirm ticket opening.\\n\nResolution:\\n\n- Customer confirmed he did not open the ticket.\\n- Executive will call the correct person.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, verification, call\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=90ebfb84-ca1c-4632-aa50-ff5ca417ef66",
+  "ucid": "90ebfb84-ca1c-4632-aa50-ff5ca417ef66",
+  "seller_categories": [
+    {
+      "mcat_id": "38980",
+      "mcat_name": "Tomato Sauce"
+    },
+    {
+      "mcat_id": "192597",
+      "mcat_name": "White Vinegar"
+    },
+    {
+      "mcat_id": "37419",
+      "mcat_name": "Soya Sauce"
+    },
+    {
+      "mcat_id": "2491",
+      "mcat_name": "Tomato Ketchup"
+    },
+    {
+      "mcat_id": "188862",
+      "mcat_name": "Green Chilli Sauce"
+    }
+  ]
+}

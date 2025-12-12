@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672346332",
+  "gluser_id": "65992366",
+  "vintage_months": 8,
+  "bl_dau_oct": 9,
+  "customer_type": "STAR",
+  "city_name": "Chanasma",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello.\\nExecutive: Pandey sir good morning.\\nCustomer: Very good morning.\\nExecutive: Ji abhi baat ho jayegi aapse.\\nCustomer: Ha boliye na uske baad.\\nExecutive: Ji aapka concern aaj resolve hoga kab resolve hoga wo.\\nCustomer: Kya?\\nExecutive: Jo aapka concern tha buyer supplier wala wo kab resolve hoga.\\nCustomer: Wo kal to bola sir ki kal ho jayega parso tak bola tha aapne bola date mein aap gadi chala rahe the na to puri baat ho nahi payi thi apni proper hawa bhi chal raha tha.\\nExecutive: Kal ki date mein unka main concept pura kar dunga to aapko bhi disturb nahi hoga.\\nCustomer: Kaise kaise?\\nExecutive: Kal ki date mein wo concept pura kar dunga theek hai.\\nCustomer: Achcha achcha okay okay kal tak aap isko pura kar doge aur baki overall service lead vagaira aap purchase kar pa rahe ho ya nahi.\\nExecutive: Are abhi itna order pada hai na sir lead hi nahi purchase kar pa raha.\\nExecutive: Itne jyada order hai.\\nCustomer: Order jyada hai.\\nExecutive: Achcha call solve kaisi aa rahi hai direct calls.\\nCustomer: Direct call bhi achchi aa rahi hai lekin order hi itna jyada hai to kya karega.\\nExecutive: Matlab aapke pass sufficient order hai to jarurat hi nahi hai.\\nCustomer: Jarurat hi nahi hai bahut achchi service hai.\\nExecutive: By lead use kariye by lead aapka balance hai aapka paisa kharch hota hai usme hai na by lead use karna chahiye by lead inquiry jo aa rahi hai uske aap reply karo hai na.\\nCustomer: Calls kafi miss calls kafi miss ho gayi hai.\\nExecutive: Are sir usme kya hai ki order ki vajah se kya hai kuch na kuch party baithi hui rehti hai.\\nCustomer: Ha ha.\\nExecutive: Fir nahi ho sakta.\\nCustomer: Main call karu aapko ek minute ruko na zara.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buyer supplier concern not yet resolved.\\n\n- Unable to purchase leads due to high order volume.\\n\n\\n\nResolution:\\n\n- Executive assured resolution by tomorrow.\\n\n- Suggested using By Lead to reply to inquiries.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, order volume, direct calls\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=abd22790-46f6-43d3-b7ff-cf5fc0bc55bf",
+  "ucid": "abd22790-46f6-43d3-b7ff-cf5fc0bc55bf",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "139057",
+      "mcat_name": "Hydraulic Paper Plate Machine"
+    }
+  ]
+}

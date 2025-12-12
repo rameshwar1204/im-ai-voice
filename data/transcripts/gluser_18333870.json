@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668975255",
+  "gluser_id": "18333870",
+  "vintage_months": 13,
+  "bl_dau_oct": 19,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Pathri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650885",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello sir, Akshay sir se baat karni thi, woh abhi call receive nahi kar rahe.\\nExecutive: Ji ji mam Akshay baat kar raha hu, aap hi ka call gaya raha tha, aap hi ka call aa gayi.\\nCustomer: Ha ji, main isliye.\\nCustomer: Accha Akshay.\\nExecutive: Ji mam.\\nCustomer: Aap call receive nahi kyu kar rahe the sir?\\nExecutive: Mam main main dusre room mein raha jo off hota hai na.\\nExecutive: Saturday ko. Toh phone dekha nahi, phone bhi gaya tha. Bataye kya ho gaya, koi issue aa raha mam?\\nCustomer: Ha issue aa raha tha isliye call kiye the.\\nExecutive: Ha bataye.\\n\\nExecutive: Aapki aawaz kat kat ke aa rahi hai mam.\\n\\nCustomer: Ha ji, ab aa rahi hai kya?\\nExecutive: Abhi bhi kat rahi hai mam.\\nExecutive: Bataye, main sun raha hu aapke.\\nCustomer: Sir abhi inquiries nahi aa rahi hai.\\nExecutive: Ji.\\nExecutive: Aap mere wohi wale number pe wapas call karoge mam, 8285 wale pe.\\nCustomer: Ha theek hai.\\nExecutive: Uspe main call receive kar lunga, please.\\nCustomer: Theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving inquiries.\\n\n- Customer was unable to reach the executive earlier.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back on the provided number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, call issue, callback\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef0a11f2-7d50-402b-bc33-0add05c39d02",
+  "ucid": "ef0a11f2-7d50-402b-bc33-0add05c39d02",
+  "seller_categories": [
+    {
+      "mcat_id": "141966",
+      "mcat_name": "Power Weeder"
+    },
+    {
+      "mcat_id": "139374",
+      "mcat_name": "Power Reaper"
+    },
+    {
+      "mcat_id": "147494",
+      "mcat_name": "Soybean Reaper"
+    },
+    {
+      "mcat_id": "139362",
+      "mcat_name": "Paddy Reaper"
+    },
+    {
+      "mcat_id": "35540",
+      "mcat_name": "Power Tiller"
+    }
+  ]
+}

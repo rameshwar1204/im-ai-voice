@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674508153",
+  "gluser_id": "16582975",
+  "vintage_months": 61,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694351",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hallo?\\nHallo?\\nHallo.\\nHallo.\\nHallo.\\nKya?\\n[Inaudible] ha hello [inaudible] bol rahi ho [inaudible].\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=77960736-8a25-4c14-97ff-efa2bb4d7dc5",
+  "ucid": "77960736-8a25-4c14-97ff-efa2bb4d7dc5",
+  "seller_categories": [
+    {
+      "mcat_id": "40604",
+      "mcat_name": "Vacuum Chambers"
+    },
+    {
+      "mcat_id": "164741",
+      "mcat_name": "KF Clamp"
+    },
+    {
+      "mcat_id": "186928",
+      "mcat_name": "Vacuum Fittings"
+    },
+    {
+      "mcat_id": "42046",
+      "mcat_name": "Glove Boxes"
+    },
+    {
+      "mcat_id": "13706",
+      "mcat_name": "Chemical Vapor Deposition System"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667664206",
+  "gluser_id": "63156093",
+  "vintage_months": 34,
+  "bl_dau_oct": 11,
+  "customer_type": "BL Paid VFCP",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Sir.\\nExecutive: Hello.\\nCustomer: Ha hello.\\nExecutive: Hello, haanji.\\nCustomer: Haan, Sloton se bol rahe hain, hello.\\nCustomer: Hello.\\nExecutive: Hello, haanji bataiye sir.\\nCustomer: Haan, Sloton se bol rahe hain sir, woh aapka refund ek refund pada hua hai, atka hua pada hai, woh time ho gaya, kya aap release karo na usko?\\nExecutive: Aapko refund abhi nahi gaya hai?\\nCustomer: Abhi refund nahi mila, ek refund mila hai, ek aur pending mein pada hai aapka, 5800 kuch\\nCustomer: Rupaye hain, jo refund aapne matlab jaise toh 10000 bante hain par 5000 woh refund pending mein hai aapke yahan.\\nExecutive: Chaliye, main check kar leta hoon sir. Actually aaj office band hai, morning mein main check karke aapko update deta hoon sir.\\nCustomer: Aap samajh hi rahe ho kitna time ho gaya is cheez ko, matlab aapne jaise service band ki usi din aapko refund ipfund sab kar dena chahiye, pehle tayari karni chahiye na aisa.\\nExecutive: Sir, refund sir initiate toh humne usi samay kar diya tha. I think do aap bata rahe hain ki ek payment aa gayi hai.\\nCustomer: Meri baat suniye, aapki company ko paise lene ke baad kaam chalu karti hai na, toh band karne se pehle kya abhi hum phir customer aapko ulta-sulta bolta hai phir aapko mirchi lagti hai.\\nExecutive: Nahi sir, refund initiate toh usi samay ho gaye honge, main check kar leta hoon.\\nCustomer: Are toh aapka aapka paisa nahi hai woh, aap refund karo na ek mahina tak kya aap log matlab kya kar rahe ho? Matlab aap log band karne mein toh badi woh aapne matlab yeh kiya tha toh refund karne mein kya dikkat hai aapko?\\nExecutive: Haan, main check kar leta hoon. Ek mahina kyun laga rahe ho, aapka matlab aapka paisa hai kya woh?\\nExecutive: Sir, maine aapko bola na, main check karke aapko update deta hoon.\\nCustomer: Are check karna phir kar check ke. Check karke daal paisa wapas.\\nExecutive: Check.\\nCustomer: Kya dimag kharab kar raha hai?\\nExecutive: Theek hai.\\nCustomer: Hai na? Daal ab.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has a pending refund of \u20b95800.\\n\n- Expresses frustration over the delay in refund.\\n\n\\n\nResolution:\\n\n- Executive assured to check and provide an update.\\n\n\\n\nNext Steps: \\n\n- Executive will check and update in the morning.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, pending, delay, check\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f93832f-1637-44c2-aeac-d13b234620b3",
+  "ucid": "1f93832f-1637-44c2-aeac-d13b234620b3",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "8486",
+      "mcat_name": "Seed Cleaning Machine"
+    },
+    {
+      "mcat_id": "146226",
+      "mcat_name": "Food Grading Machine"
+    }
+  ]
+}

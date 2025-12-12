@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671912060",
+  "gluser_id": "162518799",
+  "vintage_months": 12,
+  "bl_dau_oct": 6,
+  "customer_type": "TSCATALOG",
+  "city_name": "Raipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719627",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji.\\n\\nExecutive: Mam, main Nitesh bol raha hu Sain Properties se.\\n\\nCustomer: Okay, bataiye sir.\\n\\nExecutive: Mam, mera plan main renew kar chuka hu, uske baad bhi app mein it's expiring soon har cheez pe please expire chalte rahe, renew now renew now aa raha hai. Aisa kyu mam?\\n\\nCustomer: Ek second rukiyega sir, registered number batana sir ek baar.\\n\\nExecutive: 8 Penta 03474.\\n\\nCustomer: Fine.\\n\\nExecutive: 8 Penta zero mam.\\n88003474.\\n\\nCustomer: Sir, aap mere ko 5 minute ka time de do, main ek baar check karke connect kar leti hu aapko, thik hai?\\n\\nExecutive: Ji.\\n\\nCustomer: Ji, main call karti hu aapko.\\n\\nExecutive: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Plan renewed, but app shows expiring soon.\\n\n\\n\nResolution:\\n\n- Executive asked for 5 minutes to check.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after checking.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, renewal, app issue\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1923e4ac-7191-4158-b6e2-03eebcf771f4",
+  "ucid": "1923e4ac-7191-4158-b6e2-03eebcf771f4",
+  "seller_categories": [
+    {
+      "mcat_id": "1443",
+      "mcat_name": "Paper Plate"
+    },
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "80922",
+      "mcat_name": "Printed Paper Plate"
+    },
+    {
+      "mcat_id": "95979",
+      "mcat_name": "Paper Grocery Bag"
+    },
+    {
+      "mcat_id": "179602",
+      "mcat_name": "Dona Cups"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667895400",
+  "gluser_id": "4354518",
+  "vintage_months": 106,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Navsari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639860",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji, Namaste ma'am, main Navsari Gujarat se bol raha hun, Hitech Engineering se.\\nCustomer: Accha aap, okay, then kya kaam tha sir aap bata sakte hain?\\nExecutive: Haan, actually mere ko ek naya user yani login karwane ka hai, naya form ka. To koi Surat mein representative hai?\\nCustomer: Sir dekhiye Surat mein to koi representative nahi hai.\\nExecutive: Company nahi hai to service aapko lene ki ho, naye naam se, naye form se, India Mart mein.\\nCustomer: Accha sir aap India Mart se hain?\\nExecutive: India Mart?\\nExecutive: Haan ji.\\nExecutive: Okay sir aap India Mart se hain? Okay sir actually sir abhi main na thoda chutti pe hun to main aapke kal connect kar lu please?\\nCustomer: Koi baat nahi.\\nExecutive: Haan same number pe hai. Main actually na samajh nahi payi aapka number save nahi tha to mujhe pata nahi chala sir. To main aapko kal connect kar leti hun, theek hai?\\nCustomer: Okay.\\nExecutive: Haan ji okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to create a new user login.\\n\n- Customer asks for a representative in Surat.\\n\n\\n\nResolution:\\n\n- Executive informed no representative in Surat.\\n\n- Executive will connect with the customer tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- new user, login, representative, indiamart\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7edc362a-3fd4-4b91-8512-98c6b689326b",
+  "ucid": "7edc362a-3fd4-4b91-8512-98c6b689326b",
+  "seller_categories": [
+    {
+      "mcat_id": "143742",
+      "mcat_name": "Mini Rice Mill"
+    },
+    {
+      "mcat_id": "142455",
+      "mcat_name": "Poha Making Machine"
+    },
+    {
+      "mcat_id": "8163",
+      "mcat_name": "Rice Mill"
+    },
+    {
+      "mcat_id": "36429",
+      "mcat_name": "Rice Mill Machinery"
+    },
+    {
+      "mcat_id": "8164",
+      "mcat_name": "Rice Polisher"
+    }
+  ]
+}

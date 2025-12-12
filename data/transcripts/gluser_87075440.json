@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666900388",
+  "gluser_id": "87075440",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Sri Ganganagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628568",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, haan ji.\\nExecutive: Hello, good morning sir.\\nCustomer: Morning.\\nExecutive: Roshan ji baat kar rahe hain?\\nCustomer: Haan ji, haan ji.\\nExecutive: Mahavir Industries se.\\nCustomer: Haan ji bhai sahab bolo, aap IndiaMART se bol rahe ho?\\nExecutive: Ji ji Roshan ji, Vansh Grover baat kar raha hu aapka account manager IndiaMART se.\\nCustomer: Bataiye.\\nExecutive: Chaliye, first of all welcome to the IndiaMART family.\\nCustomer: Batao batao vaise main thoda busy hu, bataiye aap kya kaam hai.\\nExecutive: Ji sir, sir video meeting ek arrange karni thi welcome call ke liye jo hota hai apne client ko. Aapko thoda main discussion karna tha IndiaMART ke services ke hisaab se aapko.\\nCustomer: Suno meri baat, suno meri baat. Maine subah ka phone switch off kar rakha, abhi on kiya isko.\\nExecutive: Ji ji ji.\\nCustomer: Mere ko problem hai ghar pe, main aaj free nahi hu, kal aap mere pe jab marzi phone kar lo aap.\\nExecutive: Achha aaj aapko bilkul 15 minute ka time bhi nahi mil payega sir aapko?\\nCustomer: Nahi, main kehta hu main busy hu, mere ghar pe problem hai. Main phone band kar rakha tha, switch off tha, abhi on kiya hai.\\nExecutive: Achha.\\nCustomer: Kal baat kar sake apne kal, theek hai?\\nExecutive: Chalo, kal kis samay laga lu main? 11 baje ke aas paas laga lu?\\nCustomer: Jab marzi kar lena, kal 10, 10 baje ke baad jab marzi kar lena kal.\\nExecutive: Theek hai, theek hai. Dhanyawad.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to arrange a welcome call/video meeting.\\n- Stated being busy due to a personal problem.\\n- Requested to reschedule the call for the next day.\\n\\nResolution:\\n\\n- Agreed to reschedule the call for the next day.\\n- Asked to be called anytime after 10 AM.\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive will call the customer the next day after 10 AM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- welcome call, video meeting, rescheduling call, account manager\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b2cb2c7-17b5-4dcf-a952-fd860318bc51",
+  "ucid": "7b2cb2c7-17b5-4dcf-a952-fd860318bc51",
+  "seller_categories": [
+    {
+      "mcat_id": "178046",
+      "mcat_name": "E-Rickshaw Battery Charger"
+    },
+    {
+      "mcat_id": "22453",
+      "mcat_name": "Automatic Battery Charger"
+    },
+    {
+      "mcat_id": "132525",
+      "mcat_name": "SMPS Battery Charger"
+    },
+    {
+      "mcat_id": "163708",
+      "mcat_name": "Float Cum Boost Charger"
+    },
+    {
+      "mcat_id": "183040",
+      "mcat_name": "Industrial Online UPS"
+    }
+  ]
+}

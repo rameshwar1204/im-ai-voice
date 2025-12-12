@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669365806",
+  "gluser_id": "111251369",
+  "vintage_months": 4,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Betma",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703132",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Yes sir, abhi baat kar rahi hu.\\nCustomer: Ji boliye.\\nExecutive: Haan sir, actually aapne leads review nahi kiya hai IndiaMART pe isliye maine connect kiya hai.\\nCustomer: Hmm hmm.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Aapne buyleads review nahi kiye isliye connect kiya hai maine.\\nCustomer: Karta hu mam, kal karta hu, mai aaj thoda bahar aaya hu, kal karta hu.\\nExecutive: Buyleads se kar lijiye na sir ek do koi bhi.\\nCustomer: Ji nahi.\\nExecutive: Mobile se koi ek do kar lijiye koi. Ji mai gaadi chala raha tha isliye.\\nExecutive: Accha, theek hai, theek hai, to aap pahunch ke call kijiye.\\nCustomer: Haan.",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not reviewed buyleads on IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to review buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will review buyleads tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, review, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6333e1f4-b4b4-4df3-96ce-d8955f4c1e8c",
+  "ucid": "6333e1f4-b4b4-4df3-96ce-d8955f4c1e8c",
+  "seller_categories": [
+    {
+      "mcat_id": "25803",
+      "mcat_name": "Construction Toy"
+    },
+    {
+      "mcat_id": "656406",
+      "mcat_name": "Kids Study Table"
+    },
+    {
+      "mcat_id": "650415",
+      "mcat_name": "DJ Pickup Toy"
+    },
+    {
+      "mcat_id": "20595",
+      "mcat_name": "Kids Toys"
+    },
+    {
+      "mcat_id": "50360",
+      "mcat_name": "Toy Jeep"
+    }
+  ]
+}

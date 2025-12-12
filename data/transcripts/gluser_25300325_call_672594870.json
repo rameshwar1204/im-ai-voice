@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672594870",
+  "gluser_id": "25300325",
+  "vintage_months": 42,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683595",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Are wo bulao aap dobara na aap na pad gaya tha phone.\\nExecutive: Are sir actually wo number me mujhe incoming band aa raha tha. Isiliye maine aapko. Nahi nahi dobara nahi dobara milao aap.\\nCustomer: Accha theek hai. Incoming to band ho meri baat ho rahi.\\nExecutive: Nahi mujhe aisa bataya theek hai mai kar rahi hu sir sorry. Ek bar karo mai kar rahi hu fir dekh lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks why the executive called again after a previous call.\\n\n\\n\nResolution:\\n\n- Executive states that the incoming calls were blocked on their number and apologizes, asking the customer to try again.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer is asked to try calling again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to apologetic.\\n\n\\n\n@@@Key Topics:\\n\ncall issue, incoming calls\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=036cfae6-bf77-444c-8d8d-23d17cf74b04",
+  "ucid": "036cfae6-bf77-444c-8d8d-23d17cf74b04",
+  "seller_categories": [
+    {
+      "mcat_id": "69870",
+      "mcat_name": "Panel Lock"
+    },
+    {
+      "mcat_id": "189938",
+      "mcat_name": "UPVC Door Locks"
+    },
+    {
+      "mcat_id": "187057",
+      "mcat_name": "UPVC Window Handle"
+    },
+    {
+      "mcat_id": "65522",
+      "mcat_name": "Sliding Window Roller"
+    },
+    {
+      "mcat_id": "706",
+      "mcat_name": "Window Fittings"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673489329",
+  "gluser_id": "62100211",
+  "vintage_months": 33,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sitamarhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Hello? Awaz aa rahi hai sir aapko? Sir main ye keh rahi hu aapki morning mein sir aapki na morning mein ticket aayi thi India Mart par service ko lekar kuch\\n\\nCustomer: Problem aa rahi hai aapko?\\nCustomer: Filhal filhal jo mera samasya hai wo samasya ka samadhan to bar bar aapko batate rehte ki itna discussion hua hai. Sir aap phone nahi utha rahe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Ticket came in the morning on India Mart regarding service.\\n\n- Facing a problem.\\n\n- Executive is not answering the phone.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to frustrated\\n\n\\n\n@@@Key Topics:\\n\nindia mart, service, ticket, phone\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=039f1be2-8e62-49d0-a002-a1e837897c5c",
+  "ucid": "039f1be2-8e62-49d0-a002-a1e837897c5c",
+  "seller_categories": [
+    {
+      "mcat_id": "132943",
+      "mcat_name": "Shuttering Plywood"
+    },
+    {
+      "mcat_id": "139254",
+      "mcat_name": "Clay Brick Making Machine"
+    },
+    {
+      "mcat_id": "27483",
+      "mcat_name": "Film Faced Plywood"
+    },
+    {
+      "mcat_id": "43023",
+      "mcat_name": "Fly Ash Brick Making Machine"
+    },
+    {
+      "mcat_id": "181473",
+      "mcat_name": "MR Grade Plywood"
+    }
+  ]
+}

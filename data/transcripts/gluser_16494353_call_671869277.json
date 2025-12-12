@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671869277",
+  "gluser_id": "16494353",
+  "vintage_months": 41,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mansa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9717828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: India Mart?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Query regarding India Mart.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia mart\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fdf15b88-a022-401f-bb7c-9361f7cc311f",
+  "ucid": "fdf15b88-a022-401f-bb7c-9361f7cc311f",
+  "seller_categories": [
+    {
+      "mcat_id": "5850",
+      "mcat_name": "PET Jars"
+    },
+    {
+      "mcat_id": "147593",
+      "mcat_name": "Packaging Jar"
+    },
+    {
+      "mcat_id": "156504",
+      "mcat_name": "PET Cans"
+    },
+    {
+      "mcat_id": "1425",
+      "mcat_name": "PET Bottles"
+    },
+    {
+      "mcat_id": "185124",
+      "mcat_name": "Plastic Sweet Box"
+    }
+  ]
+}

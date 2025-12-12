@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676113198",
+  "gluser_id": "31613165",
+  "vintage_months": 49,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720010",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, good evening. Ankita baat kar rahi hu Dhamar se.\\nExecutive: Sir abhi aapki call aayi thi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive Ankita is calling from Dhamar.\\n\n- Executive is returning the customer's call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, dhamar\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a9561ef-12cd-4bc0-87e6-ca8c7ce23f39",
+  "ucid": "2a9561ef-12cd-4bc0-87e6-ca8c7ce23f39",
+  "seller_categories": [
+    {
+      "mcat_id": "81308",
+      "mcat_name": "Portable Swimming Pools"
+    },
+    {
+      "mcat_id": "88527",
+      "mcat_name": "Readymade Swimming Pools"
+    },
+    {
+      "mcat_id": "150881",
+      "mcat_name": "FRP Swimming Pools"
+    },
+    {
+      "mcat_id": "39182",
+      "mcat_name": "Swimming Pools"
+    },
+    {
+      "mcat_id": "88528",
+      "mcat_name": "Prefab Swimming Pool"
+    }
+  ]
+}

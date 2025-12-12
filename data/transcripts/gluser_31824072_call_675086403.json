@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675086403",
+  "gluser_id": "31824072",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Patan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=54037b98-c374-4470-919b-642e66557e07",
+  "ucid": "54037b98-c374-4470-919b-642e66557e07",
+  "seller_categories": [
+    {
+      "mcat_id": "143956",
+      "mcat_name": "Car Washing Lift"
+    },
+    {
+      "mcat_id": "139629",
+      "mcat_name": "Hydraulic Washing Lift"
+    },
+    {
+      "mcat_id": "15600",
+      "mcat_name": "Hydraulic Car Lift"
+    },
+    {
+      "mcat_id": "141772",
+      "mcat_name": "Car Washing Pump"
+    },
+    {
+      "mcat_id": "23370",
+      "mcat_name": "Car Lift"
+    }
+  ]
+}

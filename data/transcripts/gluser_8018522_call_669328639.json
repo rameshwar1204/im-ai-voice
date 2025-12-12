@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669328639",
+  "gluser_id": "8018522",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687857",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nCustomer: Voice, hello. \\nCustomer: Voice nahi aa rahi aapki.\\nCustomer: Recording call kijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice not audible.\\n\n- Request to record the call.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved\\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, call recording\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=32bf2dd0-019c-4fcc-b14d-798462930378",
+  "ucid": "32bf2dd0-019c-4fcc-b14d-798462930378",
+  "seller_categories": [
+    {
+      "mcat_id": "160705",
+      "mcat_name": "Medical Shop Software"
+    },
+    {
+      "mcat_id": "43594",
+      "mcat_name": "Hotel Software"
+    },
+    {
+      "mcat_id": "221427",
+      "mcat_name": "Pathology Lab Software"
+    },
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "179146",
+      "mcat_name": "Laboratory Management Software"
+    }
+  ]
+}

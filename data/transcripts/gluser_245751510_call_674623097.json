@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674623097",
+  "gluser_id": "245751510",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684021",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello?\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=48187411-3a76-45df-a76c-1a90dfa40db1",
+  "ucid": "48187411-3a76-45df-a76c-1a90dfa40db1",
+  "seller_categories": [
+    {
+      "mcat_id": "182269",
+      "mcat_name": "Paper Tube Box"
+    },
+    {
+      "mcat_id": "160590",
+      "mcat_name": "Packaging Paper Tube"
+    },
+    {
+      "mcat_id": "160576",
+      "mcat_name": "Composite Paper Container"
+    },
+    {
+      "mcat_id": "129509",
+      "mcat_name": "Tea Packing Boxes"
+    },
+    {
+      "mcat_id": "146577",
+      "mcat_name": "Kraft Paper Tubes"
+    }
+  ]
+}

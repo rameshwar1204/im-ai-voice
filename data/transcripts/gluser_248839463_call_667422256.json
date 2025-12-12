@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667422256",
+  "gluser_id": "248839463",
+  "vintage_months": 4,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635511",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Namaskar sir.\\nCustomer: Hmm, boliye.\\nExecutive: Ji Pratyaksh baat kar raha hun IndiaMART se aapka account manager kaise hai sir?\\nCustomer: Chal raha hai aapka boliye khabar.\\nExecutive: Ji aapka call aaya tha sir hamare customer care number pe kya jankari janna chahte the batayenge.\\nCustomer: Call to sir 2 baje kiya aapko abhi reply kar raha hai.\\nExecutive: Kya?\\nCustomer: Call to aapko 2 baje kiya tha hum.\\nExecutive: Achcha.\\nExecutive: Ha to bataiye sir kya bataiye na kya hua kis regarding aapne connect kiya tha.\\nCustomer: Call stand ho gaya actually hum call kiya tha.\\nExecutive: Ha bataiye.\\nCustomer: Lead nahi aa raha sahi se.\\nExecutive: Lead kaise lead kaise kaise lead chahiye aapko batao.\\nCustomer: Mera to West Bengal mein baitha hai na hum.\\nExecutive: West Bengal.\\nCustomer: To West Bengal lead West Bengal mein.\\nExecutive: West Bengal mein baithe.\\nCustomer: West Bengal mein koi lead nahi aa raha hai mera.\\nExecutive: Lead diya tha aapko.\\nCustomer: Laser cutting.\\nExecutive: Check kar leta hun.\\nCustomer: Aapka aawaz nahi aa raha hai.\\nExecutive: Laser cutting chahiye aapko.\\nCustomer: Hello.\\nExecutive: Aawaz aa raha hai?\\nCustomer: Nahi aa raha aawaz.\\nExecutive: Hello.\\nCustomer: Aap aa raha hai aawaz?\\nCustomer: Nahi aa raha aawaz.\\nCustomer: Call kat ke call back karenge.\\nExecutive: Hello.\\nCustomer: Sir aap aa rahi hai.\\nCustomer: Hmm boliye.\\nCustomer: Laser cutting machine ka chahiye.\\nExecutive: Hello.\\nCustomer: Laser cutting machine chahiye aapko.\\nCustomer: Aapka aawaz nahi aa raha hai sir call kat ke call back kariye na.\\nExecutive: Call cut dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads in West Bengal.\\n\n- Customer needs leads for laser cutting machine.\\n\n\\n\nResolution:\\n\n- Executive offered to check the lead details.\\n\n- Executive asked the customer to call back.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive asked the customer to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, west bengal, laser cutting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8913e4b-ef05-4bc3-a18a-b4e1fbcf55d8",
+  "ucid": "a8913e4b-ef05-4bc3-a18a-b4e1fbcf55d8",
+  "seller_categories": [
+    {
+      "mcat_id": "151565",
+      "mcat_name": "Laser Process Heads"
+    },
+    {
+      "mcat_id": "37825",
+      "mcat_name": "Sheet Cutting Machine"
+    },
+    {
+      "mcat_id": "132940",
+      "mcat_name": "Screw Air Compressor"
+    },
+    {
+      "mcat_id": "3878",
+      "mcat_name": "CNC Machines"
+    },
+    {
+      "mcat_id": "84368",
+      "mcat_name": "Optical Laser Source"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668668147",
+  "gluser_id": "155665638",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tankara",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636111",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello ji sir, namaste. Shruti baat kar rahi thi IndiaMART ke office se.\\nCustomer: Okay madam. Madam just 15 minute mein call karta hun madam main aapko.\\nExecutive: Haan.\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call back in 15 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to receive the call later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, introduction\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f0625e82-e484-4224-a8b8-44f5189c05aa",
+  "ucid": "f0625e82-e484-4224-a8b8-44f5189c05aa",
+  "seller_categories": [
+    {
+      "mcat_id": "138357",
+      "mcat_name": "PP Woven Roll"
+    },
+    {
+      "mcat_id": "7106",
+      "mcat_name": "Polypropylene Woven Fabric"
+    },
+    {
+      "mcat_id": "7283",
+      "mcat_name": "PP Woven Bags"
+    },
+    {
+      "mcat_id": "7167",
+      "mcat_name": "Polypropylene Woven Sacks"
+    },
+    {
+      "mcat_id": "246708",
+      "mcat_name": "BOPP Rice Bag"
+    }
+  ]
+}

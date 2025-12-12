@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674944056",
+  "gluser_id": "194994277",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706370",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0785b69b-ce24-4362-94a1-10b58e0fd7ef",
+  "ucid": "0785b69b-ce24-4362-94a1-10b58e0fd7ef",
+  "seller_categories": [
+    {
+      "mcat_id": "43635",
+      "mcat_name": "Crushed Stone"
+    },
+    {
+      "mcat_id": "24200",
+      "mcat_name": "Clay Brick"
+    },
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "184663",
+      "mcat_name": "Construction Sand"
+    }
+  ]
+}

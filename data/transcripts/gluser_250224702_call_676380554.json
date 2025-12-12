@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676380554",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Pradeep Prakash ji bol rahe hain?\\nCustomer: Ji haan sir.\\nExecutive: Accha wo refund initiate ho gaya tha process hua kya uska?\\nExecutive: Sir aap apni company ka naam batayenge ek baar?\\nCustomer: Desi textiles.\\nExecutive: Desi textiles. Haan sir bilkul ho gaya tha.\\nCustomer: Accha. Main aapko detail aap aap apna email open kariye sir.\\nExecutive: Ek second.\\nExecutive: Email open kariye aur Indiamart likh kar ke dekhiye refund Indiamart refund likh kar ke dekhiye aapko pakka mail abhi aaya hoga sir.\\nExecutive: Detail uske sath.\\nCustomer: aaya hai.\\nExecutive: Sir ek baar check kariye main bhi check kar raha hu open karke aap bhi tab tak open karke ek baar check kariye sir. aaya aapko? refund ka koi message nahi aaya mere paas email mein.\\nExecutive: Nahi aaya?\\nCustomer: Nahi sir abhi nahi.\\nExecutive: Aise kaise ho sakta hai sir mere paas to aaya hua hai ek minute ruk jaiega koi nahi ek minute wait kariye main aapko detail dekh ke bhejta hu.\\nCustomer: Theek hai theek hai. Haan ji theek hai bhej do.\\nExecutive: Mere paas to ho gaya hai mere paas to aa gaya detail.\\nCustomer: Kis tarikh ko aapke account pe aaya?\\nExecutive: Sir ye to 26 tarikh ka hai yaha pe mere paas.\\nCustomer: 26 tarikh ko already ho chuka tha lekin agar aapke paas nahi aaya mail main abhi check karke account se account se check kar deta hu.\\nExecutive: Do minute dijiye sir mujhe thoda sa time dijiye main account se check karta hu ki aapke paas kyu nahi gaya ab tak mail theek hai. Kyunki hamare paas to ho gaya. Main dusra call karke aapko batata hu. Theek hai?\\nCustomer: Theek hai sir. Ji. Ji sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund status.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund was initiated on 26th.\\n\n- Executive offered to check account details.\\n\n\\n\nNext Steps: \\n\n- Executive will call back with updates.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, account, email\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f5afe441-bb22-4792-a037-23ca8e264e9b",
+  "ucid": "f5afe441-bb22-4792-a037-23ca8e264e9b",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

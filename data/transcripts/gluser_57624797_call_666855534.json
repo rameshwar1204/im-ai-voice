@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666855534",
+  "gluser_id": "57624797",
+  "vintage_months": 72,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626680",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan?\\nExecutive: Haan ji, Abhishek ji se baat kar rahe hain sir?\\nCustomer: Haan?\\nExecutive: Uh good afternoon sir, main Alok baat kar raha hoon IndiaMART se, relationship manager. Abhishek ji se baat karni thi sir.\\nCustomer: Uh, Abhishek ji abhi thoda kaam mein bahar hain, aayega.\\nExecutive: Acha, aapka ek baar number share kar denge sir unka? Main baat kar leta hoon ek baar unse.\\nCustomer: Ek baar number bol denge sir unka?\\nExecutive: Haan ji, ji.\\nCustomer: 8240\\nExecutive: 8240\\nCustomer: 771\\nExecutive: 771\\nCustomer: 623\\nExecutive: 623. Theek hai sir, main ek baar baat kar leta hoon sir. Theek hai?\\nCustomer: Okay sir, thank you.\\nExecutive: (sound of acknowledgement)",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to speak with Abhishek ji.\\n\\n\\nResolution:\\n\\n- Informed that Abhishek ji was not available.\\n- Provided Abhishek ji's contact number.\\n\\n\\nNext Steps: \\n- Executive will call Abhishek ji on the provided number.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- outbound call, contact verification, relationship manager\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2ee0f0c-5b57-4f39-8348-c5bfab027bbd",
+  "ucid": "d2ee0f0c-5b57-4f39-8348-c5bfab027bbd",
+  "seller_categories": [
+    {
+      "mcat_id": "182091",
+      "mcat_name": "Delta VFD"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "190222",
+      "mcat_name": "Delta PLC"
+    },
+    {
+      "mcat_id": "14970",
+      "mcat_name": "AC Servo Motor"
+    },
+    {
+      "mcat_id": "43491",
+      "mcat_name": "Switch Mode Power Supply"
+    }
+  ]
+}

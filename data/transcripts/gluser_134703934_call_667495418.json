@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667495418",
+  "gluser_id": "134703934",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635861",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello, haan ji Sandesh ji Pallavi baat kar rahi hu sir IndiaMART se. Main call kar rahi thi aapko. Ji ji kaise hai sir?\\nCustomer: Badhiya hai.\\nExecutive: Okay. Sir baat ho gayi thi aapki aapke account manager se? Haan ho gayi pura discussion ho gaya hai na abhi ji ji. Sir aap unhone aapko apna number jo official number hai unka wo share kiya hoga. Hai na? Kiya hai. Wo official number miss ho gaya tha. Nahi miss ho gaya sir unse baat nahi ho payi.\\nCustomer: Kya keh rahe hai sir voice break ho raha hai kya keh rahe hai?\\nExecutive: Miss ho gaya tha number isliye.\\nExecutive: Accha accha okay. Aap save kar lo sir save kar lo unhone abhi diya hoga na aapne save kar liya? Haan save kar liya. Ji. Theek hai sir to aage se kuch bhi problem hoti hai na dekhiye sir aap customer care se connect kar sakte hai lekin direct ki account manager ko call karna easy way hai. Aapki jaldi baat ho jayegi hai na? To aapko kuch bhi problem hoti hai aage se aap unke number pe connect kar sakte hai. Baki concern main abhi band kar du sir. I hope jo bhi unhone explain kiya hai wo sab kuch clear hai?\\nCustomer: Clear hai madam. Abhi kafi time se unse connected connecting nahi ho payi thi to mere ko bhi dimag se utar gayi thi ki RM kaun hai kyuki mere matlab RM mam se abhi teen char IndiaMART se jaise connection liya aapke bahut sare call aa rahe hai. To mere se bhi miss ho gaya tha ki mere ko easy way wohi laga tha customer care. To maine isliye customer care se connect kar liya tha. Okay sir. Account dekhna hai to unhi se aapka discussion ho payega theek hai. To concern sir band kar du sab kuch clear hai abhi?\\nExecutive: Clear hai madam.\\nExecutive: Theek hai sir feedback aayega jo bhi aapka unse discussion hua hai request please share kar dijiyega. Theek hai? Okay. Thank you sir have a nice day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had difficulty connecting with RM.\\n\n\\n\nResolution:\\n\n- Executive confirmed customer has RM's number.\\n\n- Executive explained the easy way to connect.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, customer care, connection\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4b2649fd-4eb4-4f14-aa4b-16baaa3aa666",
+  "ucid": "4b2649fd-4eb4-4f14-aa4b-16baaa3aa666",
+  "seller_categories": [
+    {
+      "mcat_id": "18981",
+      "mcat_name": "Tea Light Candle"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "180915",
+      "mcat_name": "Supreme PVC Pipes"
+    },
+    {
+      "mcat_id": "923",
+      "mcat_name": "Wax Candles"
+    },
+    {
+      "mcat_id": "36451",
+      "mcat_name": "Rigid PVC Pipes"
+    }
+  ]
+}

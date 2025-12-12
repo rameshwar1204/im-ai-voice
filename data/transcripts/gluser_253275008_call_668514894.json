@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668514894",
+  "gluser_id": "253275008",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650396",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Aapna jeun vyakti nku call karichanti, se ebe anya call re byasta achanti. Daya kari apekhya karantu kimba kichi samaya pare chesta karantu.\\n\\nCustomer: Hello\\n\\nExecutive: Hello. Hello good afternoon sir. Muskan this side from IndiaMART. Actually we have received a call on customer care number sir. So please tell me the issue sir.\\n\\nExecutive: What the problem you are facing? Yes sir aapne abhi call kiya tha sir 96 customer care number pe IndiaMART ke hai na?\\n\\nCustomer: Ji ji.\\n\\nExecutive: Hanji sir to kya dikkat pareshani aa rahi hai sir bataenge aap mujhe?\\n\\nCustomer: Ji ki mera jo byled mere ko theek kiya tha theek ho gaya tha fir bhi mere ko byled nahi aata hai.\\n\\nCustomer: Mapping mein mera thoda problem ho jata hai category mein aur usko theek kiya kiya tha lekin iske baad bhi mere ko byled abhi nahi milta hai.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads after issue was fixed.\\n\n- Mapping problem in category.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, category, mapping\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e4982be-b696-4350-bf25-5a63ce188353",
+  "ucid": "6e4982be-b696-4350-bf25-5a63ce188353",
+  "seller_categories": [
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "243",
+      "mcat_name": "Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "19129",
+      "mcat_name": "Shiva Statue"
+    },
+    {
+      "mcat_id": "15246",
+      "mcat_name": "Buddha Statue"
+    }
+  ]
+}

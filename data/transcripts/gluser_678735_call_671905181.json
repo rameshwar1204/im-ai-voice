@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671905181",
+  "gluser_id": "678735",
+  "vintage_months": 99,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Aluva",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677668",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Yeah.\\nExecutive: Uh yeah, Mr. Murali Dharan ji baat kar rahe hain?\\nCustomer: Yeah.\\nExecutive: Uh Murali Dharan ji, Yashika this side from IndiaMART sir. Your account manager, SNG Techno Mart Inc aapka business.\\n(silence)\\nExecutive: Hello?\\nCustomer: I am traveling now, you can talk to me.\\nExecutive: Uh sir?\\nCustomer: Hello, you can tell me, I am traveling.\\nExecutive: Hello. Sir, you are not audible properly, sir. Hello.\\n(silence)\\nExecutive: Hello?\\n(silence)\\nExecutive: Sir, am I audible? Hello?\\n(silence)",
+  "summary": "\\n\nConcerns:\\n\n- Customer is traveling.\\n\n- Customer is not audible.\\n\n\\n\nResolution:\\n\n- Executive tried to connect with the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account management, traveling, audibility\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3eaf82d1-bc5c-4cf7-ace7-b1b90d0452c9",
+  "ucid": "3eaf82d1-bc5c-4cf7-ace7-b1b90d0452c9",
+  "seller_categories": [
+    {
+      "mcat_id": "154241",
+      "mcat_name": "Coconut Milk Extractor"
+    },
+    {
+      "mcat_id": "142276",
+      "mcat_name": "Coconut Deshelling Machine"
+    },
+    {
+      "mcat_id": "20774",
+      "mcat_name": "Oil Expellers"
+    },
+    {
+      "mcat_id": "141270",
+      "mcat_name": "Coconut Processing Machinery"
+    },
+    {
+      "mcat_id": "138647",
+      "mcat_name": "Coconut Dehusking Machine"
+    }
+  ]
+}

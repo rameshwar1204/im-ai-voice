@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "672815157",
+  "gluser_id": "8971777",
+  "vintage_months": 119,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Thangadh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9681713",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: हेलो।\\nCustomer: जी।\\nExecutive: जी वेरी गुड आफ्टरनून सर।\\nCustomer: गुड आफ्टरनून।\\nExecutive: जी अल्तमास बात कर रहा हूं सर इंडिया मार्ट से। सर आपका एक कंसर्न आया था आपने हमारे कस्टमर केयर को कॉल किया था।\\nCustomer: हां वो हो गया शॉर्ट आउट हो गया।\\nExecutive: अच्छा वो टैक्स इनवॉइसिंग चाहिए था ना सर जो कि मैंने आपको शेयर कर दिया है।\\nCustomer: हां हां इट्स ओके।\\nExecutive: ठीक है ओके तो सर मैं आपका ये जो कंसर्न है इसको मैं क्लोज कर रहा हूं। आपके पास एक फीडबैक जाएगा अगर आप उसमें सेटिस्फाइड रहिएगा तो प्लीज यस मार्क करिएगा।\\nCustomer: ठीक है।\\nExecutive: ठीक है सर और कोई प्रॉब्लम तो नहीं है सर।\\n",
+  "summary": "\\n\nConcerns:\\n\n- Tax invoicing.\\n\n\\n\nResolution:\\n\n- Tax invoice shared.\\n\n- Closing the concern.\\n\n\\n\nNext Steps: \\n\n- Feedback form will be sent; customer to mark 'yes' if satisfied.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\ntax invoice, feedback\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1ed8e7a6-8064-491a-9aa5-d1ceaa402a79",
+  "ucid": "1ed8e7a6-8064-491a-9aa5-d1ceaa402a79"
+}

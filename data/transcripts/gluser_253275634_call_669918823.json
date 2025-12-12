@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669918823",
+  "gluser_id": "253275634",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Khargone",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662488",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Uh sir dekhiye na aapko closer diye hai.\\nCustomer: Hello.\\nCustomer: Mam mere papa kahi gaye hue hai.\\nCustomer: Mobile yahi hai.\\nCustomer: Hello.\\nCustomer: Mere papa kahi gaye hue hai.\\nExecutive: Awaz aa rahi hai sir aapko?\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Ha awaz aa rahi hai aapko meri?\\nCustomer: Ha aa rahi hai.\\nExecutive: Ha sir ye bol rahi thi ki aapka jo ticket hua tha na to.\\nCustomer: Mere papa kahi gaye hue hai.\\nExecutive: Accha. Kahi gaye hue hai unka phone yahi hai. To to koi phone bhi nahi receive kar raha hai dusre number pe kar rahe hai to.\\nCustomer: Konse number pe kar rahe hai?\\nExecutive: Uh last mein 900 hai.\\nCustomer: 900\\nExecutive: Ha fir 934 hai.\\nExecutive: Dono number aapke hi hai na?\\nCustomer: Unka ek phone wo wala bhi yahi isme hi hai wo wali sim bhi yahi mobile mein hai.\\nExecutive: Accha to aaj ki baat kisse hui thi? Machine machine ko leke ki machine purchase kiya tha fir servicing ke liye koi call nahi receive kar raha hai?\\nCustomer: Wo mujhe nahi pata mam wo aayenge jab main aapki baat karwa dunga.\\nExecutive: Ha please unse baat karwaiye. Ji ji zaruri hai.\\nCustomer: Ji.\\nExecutive: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss ticket raised.\\n\nResolution:\\n\n- Customer's father is away, phone is with customer.\\n- Executive asked about machine purchase and servicing.\\n- Customer will have executive talk to his father.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, servicing, machine, purchase\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa35f5ea-1b03-42dd-b12e-ba21fa755f35",
+  "ucid": "aa35f5ea-1b03-42dd-b12e-ba21fa755f35",
+  "seller_categories": [
+    {
+      "mcat_id": "179236",
+      "mcat_name": "Jeera Masala Soda"
+    },
+    {
+      "mcat_id": "139360",
+      "mcat_name": "Bottled Water"
+    },
+    {
+      "mcat_id": "5145",
+      "mcat_name": "Mineral Water Bottle"
+    },
+    {
+      "mcat_id": "136575",
+      "mcat_name": "Packaged Drinking Water"
+    },
+    {
+      "mcat_id": "80141",
+      "mcat_name": "Cold Drink"
+    }
+  ]
+}

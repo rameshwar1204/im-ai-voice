@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673398099",
+  "gluser_id": "8239070",
+  "vintage_months": 22,
+  "bl_dau_oct": 22,
+  "customer_type": "STAR",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698056",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan.\\nExecutive: Ali sir, good afternoon. IndiaMART se baat kar raha tha sir.\\nCustomer: Good afternoon sir, Rishabh baat kar raha hu IndiaMART se.\\nCustomer: Haan.\\nExecutive: Haan ji, sir ek video meet ke liye baat hui thi sir sir se regarding. To isliye ek link send kar rahe hai sir wo join kar lijiyega. Ek baar connect kar lete hai.\\nCustomer: Haan. To kya hoga? Video meet to kiya hai, kuch pass hua.\\nExecutive: Sir, abhi ek baar send kara hai. Ek baar join kar lijiye. Thoda discuss kar lete hai agar jo problem aa rahi hai lead mein.\\nCustomer: Haan.\\nExecutive: Baat hui thi sir sir se. Sir se baat hui thi, unhone bola tha ek baar aapse baat karne ke liye. Isliye baat kar raha hu.\\nCustomer: [unintelligible] ji.\\nExecutive: Send kar raha hu sir. Aap mail open kariyega apni.\\n\\nExecutive: Send kar diya sir, check kar lijiye.\\n\\nExecutive: Mail aa gaya sir aapko?\\nCustomer: Haan send kar diya, join ho gaye.\\nExecutive: Okay. Thik hai sir, ek second dijiyega. Main sir ko bhi join karata hu.\\n\\n\\nExecutive: Ji sir, bas ek second mujhe dijiyega, sir bhi join kar rahe hai.\\n\\n\\nExecutive: Ek baar sir niche aapko third option aa raha hoga, share screen pe ek baar us pe click kariyega.\\nCustomer: Kahan pe?\\nExecutive: Niche teesra option hoga sir, mic, video ke bagal mein teesra option share screen.\\n\\nExecutive: Dikha aapko?\\nCustomer: Haan.\\n\\nExecutive: Ek entire screen pe click karke waha pe share pe click kar dijiyega sir ek baar.\\nCustomer: Kahan pe?\\nExecutive: Entire screen pe click karke share screen pe click kar dijiyega. Thik hai, ho gaya show aapke sir screen.\\nExecutive: Ek baar buylead pe refresh pe click kariyega, buylead pe.\\nCustomer: Buylead pe.\\nExecutive: Buylead, ji.\\n\\nExecutive: Thik hai. Ek second rukiyega sir. Check kar lete hai.\\n\\nExecutive: Sir, sir ne join kar liya hai. Main call kar raha hu, disconnect kar raha hu. System ke through aapko aawaz aa jayegi sir, thik hai? Aap apna system se mic open kar lijiyega.\\nCustomer: Nahi, mic nahi hai yaha pe. Mic to [unintelligible].\\nExecutive: Mic nahi ho payega upar sir?\\nExecutive: Dekh lijiye mic pe ek baar click karke kya dikha raha hai waha pe error. Agar open ho jaye to thik hai warna main call arrange kar raha hu aapko.\\nCustomer: Mic nahi aa raha.\\nExecutive: Ji.\\nExecutive: Mic sir open kar dijiyega.\\nExecutive: Nahi ho pa raha ho to sir bata dijiyega main call arrange kara dunga sir se.\\nCustomer: Mic nahi aa raha.\\nExecutive: Thik hai, main call, main apna call cut karke na sir se call arrange kara raha hu. Aap ek baar baat kar lijiyega sir. Thik hai? Aapke paas call aayega, pick up kar lijiyega. Voice ke liye. Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the purpose of the video meet.\\n\nResolution:\\n\n- Executive sent a link for a video meet.\\n\n- Executive shared screen to check buyleads.\\n\n- Executive disconnected the call to connect with another executive.\\n\nNext Steps: \\n\n- Executive will arrange a call with another executive.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, buyleads, share screen\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 385,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c0231792-7988-4ad6-8242-12cf03810c56",
+  "ucid": "c0231792-7988-4ad6-8242-12cf03810c56",
+  "seller_categories": [
+    {
+      "mcat_id": "168359",
+      "mcat_name": "Game Development Service"
+    },
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "171638",
+      "mcat_name": "Mobile Game Development"
+    },
+    {
+      "mcat_id": "181037",
+      "mcat_name": "Youtube Ads"
+    },
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    }
+  ]
+}

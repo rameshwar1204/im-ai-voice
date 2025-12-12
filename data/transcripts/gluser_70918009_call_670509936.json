@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670509936",
+  "gluser_id": "70918009",
+  "vintage_months": 9,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667557",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji.\\nCustomer: Uh mera ye hai isme to koi lead nahi show kar rahe hai do din ho gaya.\\nExecutive: Uh main kaunsi company se baat kar rahe ho aap?\\nCustomer: Haan?\\nExecutive: Kaunsi company se baat kar rahe ho aap? Company ka naam batana ek baar.\\nCustomer: Sagar construction.\\nExecutive: Sagar construction se? Sir actually abhi to off ho gaya hai to main ek baar aapko kal office time me main call karu? Because system mere paas hai nahi abhi to main check nahi kar paunga.\\nCustomer: Accha, theek hai.\\nExecutive: Haan ji. To main call karunga to aap check kare na theek hai? Check nahi kar sakte waise aap abhi.\\nCustomer: Theek hai.\\nExecutive: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No leads showing for two days.\\n\n\\n\nResolution:\\n\n- Executive will call back during office hours to check the system.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive to call back during office hours.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\nleads, company, call back\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8f25ad1e-3266-45c4-9657-369c7cebdd07",
+  "ucid": "8f25ad1e-3266-45c4-9657-369c7cebdd07",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "651864",
+      "mcat_name": "Zigzag Paver Block"
+    }
+  ]
+}

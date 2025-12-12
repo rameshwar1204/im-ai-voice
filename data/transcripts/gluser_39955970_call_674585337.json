@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674585337",
+  "gluser_id": "39955970",
+  "vintage_months": 85,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706755",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHellow?\\nYeah, hi sir, Sunchita baat kar rahi hu servicing team se. Actually aapki mapping correct ke liye video meeting ka requirement tha na?\\nJi ji.\\nHanji, maine ek link share kar diya hai sir, aap apna ek baar mail id open kijiyega.\\nThoda sa time dijiyega, light disconnect ho gaya hai, 5 minute ke baad mein baat kar pa raha hu.\\nOkay, aap please us link pe join kar lijiyega na, to mujhe aap ek baar call kar lijiyega isi number pe.\\nIsi number pe na?\\nHan han, isi number pe aap call kar lijiyega. Okay.\\nOkay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Mapping correction requiring a video meeting.\\n\n- Executive needs 5 minutes due to a power outage.\\n\n\\n\nResolution:\\n\n- Agent shared a meeting link via email.\\n\n\\n\nNext Steps: \\n\n- Executive will join the meeting via the link and call back on the same number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Slightly Positive\\n\n\\n\n@@@Key Topics:\\n\nvideo meeting, mapping correction, power outage\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1c657a96-c8ad-409c-86ea-e2967a66d2fd",
+  "ucid": "1c657a96-c8ad-409c-86ea-e2967a66d2fd",
+  "seller_categories": [
+    {
+      "mcat_id": "186930",
+      "mcat_name": "GI Pipe Clamp"
+    },
+    {
+      "mcat_id": "166253",
+      "mcat_name": "GI Saddle Clamp"
+    },
+    {
+      "mcat_id": "216891",
+      "mcat_name": "CPVC Clamp"
+    },
+    {
+      "mcat_id": "1470",
+      "mcat_name": "Clamps"
+    },
+    {
+      "mcat_id": "184502",
+      "mcat_name": "MS Pipe Clamp"
+    }
+  ]
+}

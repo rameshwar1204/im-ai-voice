@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671277273",
+  "gluser_id": "49949524",
+  "vintage_months": 0,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706082",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji. Ek bar wedding ek bar wedding company. Haan haan.\\nCustomer: Ashish baat kar raha hun Ashish India Mart office. Abhi aap ji ji aap se baat hui thi na meri.\\nExecutive: Ji ji ek bar na haan wo kara ke diya un logon ne kara diya.\\nCustomer: Haan maine state kar diya.\\nExecutive: To ek bar aap dobara ek bar cross check bhi kar lijiye ek bar.\\nCustomer: Haan main check kiya hun abhi maine kaha dobara to wapis change nahi hoga bola nahi nahi hoga kara diya.\\nExecutive: Nahi nahi. Theek hai. Wahi main fir. Thank you. Thank you for support and assistance. Thank you sir. Ji theek hai sir thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Cross-checking if the wedding company task was completed.\\n\n\\n\nResolution:\\n\n- Customer confirmed the task was completed and checked again.\\n\n- Executive thanked the customer for the support and assistance.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwedding company task, cross-check, completion\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=72bb38b5-c587-4b27-a7ea-934b4c234283",
+  "ucid": "72bb38b5-c587-4b27-a7ea-934b4c234283",
+  "seller_categories": [
+    {
+      "mcat_id": "55757",
+      "mcat_name": "Packaged Dates"
+    },
+    {
+      "mcat_id": "84770",
+      "mcat_name": "Fresh Dates"
+    },
+    {
+      "mcat_id": "653779",
+      "mcat_name": "Date Crown Dates"
+    },
+    {
+      "mcat_id": "655405",
+      "mcat_name": "Zahidi Dates"
+    },
+    {
+      "mcat_id": "205418",
+      "mcat_name": "Kimia Dates"
+    }
+  ]
+}

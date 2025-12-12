@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671780528",
+  "gluser_id": "31824072",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Patan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes.\\nExecutive: Ronak sir good morning.\\nCustomer: Good morning.\\nExecutive: Sakshi baat kar rahi thi sir account manager aapke India Mart se.\\nCustomer: Haan ji madam boliye.\\nExecutive: Yes actually kal aapne video meet ke regarding aapne ek interest show kiya tha sir with the services to aap bataye sir aapki company start hui na Plavaria Hydraulics.\\nCustomer: Haan service to start ho gayi but mujhe relevant leads nahi dikh rahi thi iski vajah se maine wo concern raise kiya tha.\\nExecutive: Okay no issue sir I am your account manager aap mujhe bata sakte hain ki aap video meet pe google meet ke through main aapko link share karungi aap kab join kar sakte hain matlab abhi abhi 11 baje ya fir matlab aap apne according time bataiye koi abhi sir.\\nCustomer: Haan matlab.\\nCustomer: Haan abhi free hu 10:30 mein join kar sakta hu.\\nExecutive: Okay theek hai main aapko link share kar rahi hu sir aapke mail pe jayega main abhi chala jayega wo aur 10:30 pe we will connect theek hai.\\nCustomer: Okay alright thank you.\\nExecutive: Yeah okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting relevant buyleads.\\n\n\\n\nResolution:\\n\n- Executive will share Google Meet link.\\n\n- They will connect at 10:30 AM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meet, google meet\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e40b7375-b3a0-4c0b-a436-5b53e0284d6f",
+  "ucid": "e40b7375-b3a0-4c0b-a436-5b53e0284d6f",
+  "seller_categories": [
+    {
+      "mcat_id": "143956",
+      "mcat_name": "Car Washing Lift"
+    },
+    {
+      "mcat_id": "139629",
+      "mcat_name": "Hydraulic Washing Lift"
+    },
+    {
+      "mcat_id": "15600",
+      "mcat_name": "Hydraulic Car Lift"
+    },
+    {
+      "mcat_id": "141772",
+      "mcat_name": "Car Washing Pump"
+    },
+    {
+      "mcat_id": "23370",
+      "mcat_name": "Car Lift"
+    }
+  ]
+}

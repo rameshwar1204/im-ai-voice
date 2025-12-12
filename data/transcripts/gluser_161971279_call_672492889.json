@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672492889",
+  "gluser_id": "161971279",
+  "vintage_months": 7,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Bhatpar Rani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687028",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji sir.\\nCustomer: Hello\\nExecutive: Hello ha ji sir boliye.\\nCustomer: India India mat se baat kar.\\nExecutive: Ji.\\nCustomer: Kya?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk from India.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c45cf2c8-f02b-49aa-9d55-f3af6ad5da0a",
+  "ucid": "c45cf2c8-f02b-49aa-9d55-f3af6ad5da0a",
+  "seller_categories": [
+    {
+      "mcat_id": "43237",
+      "mcat_name": "Ladies Kurti"
+    },
+    {
+      "mcat_id": "43170",
+      "mcat_name": "Designer Kurtis"
+    },
+    {
+      "mcat_id": "194559",
+      "mcat_name": "Rayon Ladies Kurtis"
+    },
+    {
+      "mcat_id": "181555",
+      "mcat_name": "Floral Printed Kurti"
+    },
+    {
+      "mcat_id": "28234",
+      "mcat_name": "Fancy Tops"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676487392",
+  "gluser_id": "129208998",
+  "vintage_months": 12,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Bagnan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722126",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, hello.\\nCustomer: Ji ji ji, good afternoon sir. \\nExecutive: Good afternoon, ma'am.\\nCustomer: Sir, ji ji aapne sir call kiya tha, kya reason raha sir customer care se?\\nCustomer: Haan, woh actual mein padri woh kal karne gaya tha toh IndiaMART mein chala gaya.\\nExecutive: Okay, by mistake ho gaya.\\nCustomer: Customer mein padri karne gaya tha IndiaMART mein chala gaya.\\nExecutive: Koi baat nahi sir, actually ek do cheeze discuss kar lete hain, koi baat nahi. Ab ek do cheeze discuss karni thi sir mujhe product ke regarding. Aap thermal receipt printer mein deal karte hain kya?\\nCustomer: Thermal printer toh.\\nExecutive: Thermal receipt printer.\\nCustomer: Haan, thermal thermal receipt printer mein kaam karte hain.\\nExecutive: Toh sir isme products add nahi hai, mujhe batayenge isme kis naam se product add kar sakte hain?\\nCustomer: Thermal receipt printer yeh kaunsa receipt printer party maang raha hai woh toh pata nahi chalega.\\nExecutive: Isko sir hum, isko POS thermal receipt printer ya POC ya phir Bluetooth ho gaya ya phir receipt printer thermal ho gaya, inme se koi kar sakte hain?\\nCustomer: Actual Bluetooth, Bluetooth actual Bluetooth thermal receipt printer mein isme kaam karte hain aap.\\nExecutive: POS?\\nCustomer: Haan, Bluetooth thermal printer.\\nExecutive: Okay.\\nCustomer: Woh toh hai add hai.\\nExecutive: Sir mujhe yeh bolna tha ki aapne bataya. Sir abhi video meeting pe aa sakte hain kya? Ek do cheeze discuss karni thi kaise kya thoda sa aur better kar sakte hain. Aap kya kar rahe hain waise 30 by 30 aapki kitna use kar rahe hain. Video meeting kar rahe hain. Ek do cheeze.\\nCustomer: Kaunsa? \\nExecutive: Ki jo category bani hui hai usme ek do products mujhe add karne hain.\\nToh hardly 5-10 minute lagenge video meeting mein, main aapko link share kar doon?\\nCustomer: Haan, link share kar dijiye.\\nExecutive: Theek hai, main aapko call karti hoon.\\nHmm.\\nExecutive: Laptop se join karenge aap phone se?\\nCustomer: Theek hai.\\nExecutive: Aapko link abhi main share join kar dijiye.\\nHmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called by mistake.\\n\n- Wants to know how to add products.\\n\n- Wants to discuss better ways to add products.\\n\n\\n\nResolution:\\n\n- Executive discussed thermal receipt printer products.\\n\n- Executive agreed to a video meeting.\\n\n- Executive will share the meeting link.\\n\n\\n\nNext Steps: \\n\n- Executive will share the meeting link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- thermal receipt printer, video meeting, products\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d73d2ee7-a700-43da-90b9-26f48bdce94a",
+  "ucid": "d73d2ee7-a700-43da-90b9-26f48bdce94a",
+  "seller_categories": [
+    {
+      "mcat_id": "34547",
+      "mcat_name": "Parking Ticket Machines"
+    },
+    {
+      "mcat_id": "179780",
+      "mcat_name": "Loan Management Software"
+    },
+    {
+      "mcat_id": "192245",
+      "mcat_name": "Handheld Billing Machines"
+    },
+    {
+      "mcat_id": "136739",
+      "mcat_name": "Bus Ticketing Machine"
+    },
+    {
+      "mcat_id": "167068",
+      "mcat_name": "Bluetooth Printer"
+    }
+  ]
+}

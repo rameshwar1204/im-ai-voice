@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667491065",
+  "gluser_id": "135162620",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Gautam Buddha Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682799",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haanji madam.\\nExecutive: Hello.\\nCustomer: Haan boliye madam.\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nCustomer: Sir awaz aa rahi hai?\\nExecutive: Haan boliye madam. \\nCustomer: Uh, main\\nExecutive: Madam aapki awaz break ho rahi hai.\\nCustomer: [unintelligible]\\nExecutive: Aapki awaz break ho rahi hai madam.\\nCustomer: [unintelligible]\\nExecutive: Abhi awaz clear nahi ho rahi hai aapki.\\nCustomer: Ek second line par rahiye.\\nCustomer: Sir abhi awaz aa rahi hai?\\nExecutive: Boliye madam.\\nCustomer: Subah.\\nExecutive: Madam aap dobara bulao dobara dobara call kijiye. \\nCustomer: Private limited.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice was breaking.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call again.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice issue, call again\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95378997-e755-4433-a6a2-2a87ec282aa9",
+  "ucid": "95378997-e755-4433-a6a2-2a87ec282aa9",
+  "seller_categories": [
+    {
+      "mcat_id": "106023",
+      "mcat_name": "Micro Concrete"
+    },
+    {
+      "mcat_id": "165817",
+      "mcat_name": "Structural Repair Services"
+    },
+    {
+      "mcat_id": "95058",
+      "mcat_name": "Carbon Fiber Sheet"
+    },
+    {
+      "mcat_id": "85081",
+      "mcat_name": "Retrofitting Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

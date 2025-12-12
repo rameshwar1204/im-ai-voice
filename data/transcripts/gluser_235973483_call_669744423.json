@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669744423",
+  "gluser_id": "235973483",
+  "vintage_months": 8,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sukrauli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661763",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know the verification process.\\n\n\\n\nResolution:\\n\n- Explained the verification process.\\n\n- Refund initiated; will reflect in 7-10 business days.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=efcda60a-961c-4c92-bd28-046664c14781",
+  "ucid": "efcda60a-961c-4c92-bd28-046664c14781",
+  "seller_categories": [
+    {
+      "mcat_id": "650587",
+      "mcat_name": "Dragon Condom"
+    },
+    {
+      "mcat_id": "445988",
+      "mcat_name": "Silicone Reusable Condom"
+    },
+    {
+      "mcat_id": "650199",
+      "mcat_name": "Sex Toys For Men and Women"
+    },
+    {
+      "mcat_id": "650203",
+      "mcat_name": "Male Organ Developer Pump"
+    },
+    {
+      "mcat_id": "650202",
+      "mcat_name": "Personal Vibrators and Massagers for Women"
+    }
+  ]
+}

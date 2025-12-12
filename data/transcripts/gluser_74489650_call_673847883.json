@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673847883",
+  "gluser_id": "74489650",
+  "vintage_months": 8,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691496",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=903224aa-80e9-4588-a88f-6956c22b289a",
+  "ucid": "903224aa-80e9-4588-a88f-6956c22b289a",
+  "seller_categories": [
+    {
+      "mcat_id": "78535",
+      "mcat_name": "Men Tracksuit"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "139661",
+      "mcat_name": "Men Cotton Kurta"
+    },
+    {
+      "mcat_id": "654280",
+      "mcat_name": "Uniform Stitching Service"
+    },
+    {
+      "mcat_id": "183310",
+      "mcat_name": "Men Short Kurta"
+    }
+  ]
+}

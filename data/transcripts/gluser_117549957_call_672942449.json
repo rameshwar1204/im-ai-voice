@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672942449",
+  "gluser_id": "117549957",
+  "vintage_months": 8,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Chittoor",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Yes sir.\\nCustomer: Anil here.\\nExecutive: I'll give my staff number ma.\\nExecutive: Actually you called on customer care number and\\nCustomer: Yeah yeah yeah yeah yeah yeah yeah. I will give you number you can contact my staff.\\nCustomer: One second be online.\\nExecutive: Hello, your voice is not audible sir.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Sir.\\nExecutive: Hello.\\nExecutive: Am I audible to you?\\n\\n\\n\\nExecutive: Hello.\\nExecutive: Sir speak from customer care Delhi.\\n\\n\\n\\nCustomer: Hello.\\nCustomer: Hello Anil here.\\nExecutive: Yes sir.\\nCustomer: Anil one second note down phone number.\\nExecutive: What sir your voice is not audible sir I'm not getting your point why did you call on customer care and what did you talk with?\\nCustomer: 94413\\nExecutive: What sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to give staff number.\\n\n- Customer wants executive to note down number.\\n\n\\n\nResolution:\\n\n- Executive was unable to hear customer's voice.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- staff number, phone number, voice issue\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 203,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=669ea12f-b977-4286-bb1b-dd269813514b",
+  "ucid": "669ea12f-b977-4286-bb1b-dd269813514b",
+  "seller_categories": [
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "189263",
+      "mcat_name": "Cold Pressed Coconut Oil"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "186143",
+      "mcat_name": "Coconut Cooking Oil"
+    },
+    {
+      "mcat_id": "162950",
+      "mcat_name": "Madhuca longifolia Oil"
+    }
+  ]
+}

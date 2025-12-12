@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671891622",
+  "gluser_id": "3160138",
+  "vintage_months": 31,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Valsad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679632",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan namaskar sir main Aishwarya baat kar raha tha Sonia ka manager India Mart se.\\nExecutive: Haan boliye na.\\nCustomer: Ye sir actually Sonia se ek request aaya tha video meeting karne ke liye hamare paas click kiya hua shayad ek pop up aata hai na ki client is interested for a video meet waha shayad click hua hoga.\\nCustomer: Sir kal kuch update kiya tha actually bahut sare hamara profile open nahi the.\\nCustomer: Kal maine bahut sare update kiya hai usme ye category ke jitne bhi mere paas products hai usko maine usme dala hai.\\nCustomer: To uske liye uske liye hoga hoga.\\nExecutive: To abhi wo video meeting karni hai ya update ho gaya?\\nCustomer: Nahi nahi nahi baad mein baad mein karunga main aapko.\\nExecutive: Okay to filhal ek kaam main kar raha hu aapne jo jo update kiya hoga agar usme koi correction hoga kuch kami hogi to wo main apne end se usko correct kar dunga.\\nCustomer: Bahal.\\nExecutive: Matlab category mein nahi jaise products wagera man lo agar aapne kuch dale honge aur uska score thoda bahut kam hoga to score uska main add karke badwa deta hu specification ho sakta hai char hi dale ho jabki panch dalne pe number jyada mil rahe ho aisa kuch dekh lunga kuch bahut jyada change nahi karwana hai.\\nCustomer: Thik hai.\\nExecutive: Baki ye Sonia se baat hui thi to wo kuch bata rahi thi ki excel mein bhi kuch bol rahe the karne ka.\\nCustomer: Excel mein nahi hai kuch mera jo lead barabar nahi aa raha tha iski vajah se maine bola tha.\\nExecutive: Haan.\\nCustomer: To jo ek category mein aapka jo usme dikha raha hai na jo wo mera ek category mein wo three category ka casting material hai par ek category maine kal ka update kiya uske liye.\\nExecutive: Okay abhi jaise ki jo category hai usme aluminium casting and aluminium sand casting hai brass casting hai sand casting hai gun metal bushes bronze casting gun metal casting copper casting gun metal rod phosphor bronze bushes phosphor bronze casting copper sand casting phosphor bronze to ye direct phosphor bronze thik hai aluminium bronze bronze warm gear fir aapka brass bush casting machine parts aluminium bronze ring phosphor bronze rod exhaust fan blades custom metal parts to ye custom metal parts mein to har tarah ke metal parts ka customization aa jayega wo hum karte hai wo thik hai.\\nCustomer: Thik hai sir main aapko madam se baat kar lunga number hai madam ka abhi to main kaam mein tha main baad mein baat kar leta hu.\\nExecutive: Thik hai to ye aapka ek jo ticket open hua hai video meeting ka ye close kar du kyuki meeting to abhi free nahi hai to nahi hogi.\\nCustomer: Haan thik hai.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says leads not coming properly.\\n\n- Customer updated profile, needs category correction.\\n\n\\n\nResolution:\\n\n- Executive offered to correct profile, boost scores.\\n\n- Executive will close video meeting ticket.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to Madam later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile update, category, leads, video meeting\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 206,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7adb0706-bcf9-4c13-b153-d62608387f91",
+  "ucid": "7adb0706-bcf9-4c13-b153-d62608387f91",
+  "seller_categories": [
+    {
+      "mcat_id": "15",
+      "mcat_name": "Aluminum Castings"
+    },
+    {
+      "mcat_id": "4629",
+      "mcat_name": "Brass Castings"
+    },
+    {
+      "mcat_id": "21484",
+      "mcat_name": "Aluminum Sand Castings"
+    },
+    {
+      "mcat_id": "178895",
+      "mcat_name": "Boat Propeller"
+    },
+    {
+      "mcat_id": "2287",
+      "mcat_name": "Sand Castings"
+    }
+  ]
+}

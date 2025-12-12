@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671898676",
+  "gluser_id": "11744036",
+  "vintage_months": 51,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674995",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji sir.\\nCustomer: Haan ji sir, Bhanu bol raha tha India Mart se.\\nExecutive: Haan sir, bas sir paanch minute lagega.\\nExecutive: Paanch minute mein aapko hi call back kar loon.\\nCustomer: Bilkul sir, bilkul, theek hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is calling from India Mart.\\n\n\\n\nResolution:\\n\n- Executive will call back in five minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back in five minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, india mart\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d50db42c-8502-400c-bcc0-12e97fa64a3c",
+  "ucid": "d50db42c-8502-400c-bcc0-12e97fa64a3c",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "114283",
+      "mcat_name": "Coal"
+    },
+    {
+      "mcat_id": "180300",
+      "mcat_name": "Black Coal"
+    },
+    {
+      "mcat_id": "3890",
+      "mcat_name": "Coal Dust"
+    },
+    {
+      "mcat_id": "113678",
+      "mcat_name": "ROM Coal"
+    }
+  ]
+}

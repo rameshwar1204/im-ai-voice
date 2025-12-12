@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669319045",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Namaste ma'am.\\nCustomer: Hanji, namaste.\\nExecutive: Haan.\\n\\nExecutive: Ma'am baat aisi hai.\\nCustomer: Haanji, haanji.\\nExecutive: Hello. Haan. Jo aap bol rahe hain na bhi ye product matlab ki show nahi kar rahe, photo dali hui hai. Ye to aaj matlab ki kal dali hai chahe aaj dali hai ji. Sara hamara okay tha ji aaj tak.\\n\\nExecutive: Dekho kisne dali hai ji aapke paas.\\nCustomer: [inaudible] 15 din check kar.\\nExecutive: Ma'am meri baat suno ji. Bacha matlab ki line pe hai aap matlab ki hai. Kal humne message bheja hai kisi party ko bheja hai. Sara kuch profile daily check ho rahi hai ji. Ye aapki taraf se matlab ki humne jab se mail dali hui hai bhi aise karke hua hai. Aapne us taraf se dali hai bhi dekho aap pata karo kisne dala hai ji ye sara kuch matlab ki.\\nCustomer: [inaudible]\\nExecutive: Haan.\\nExecutive: Hmm. Theek hai ma'am, theek hai.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says product not showing, photo uploaded.\\n\n- Wants to know who uploaded the product photo.\\n\n\\n\nResolution:\\n\n- Executive stated profile is checked daily.\\n\n- Asked customer to check who uploaded from their side.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product visibility, photo upload, profile check\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=015b5ce1-c27b-4a8e-a7e2-32bf5081d405",
+  "ucid": "015b5ce1-c27b-4a8e-a7e2-32bf5081d405",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

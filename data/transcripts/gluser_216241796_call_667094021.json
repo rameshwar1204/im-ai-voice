@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667094021",
+  "gluser_id": "216241796",
+  "vintage_months": 5,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632181",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, main Amit baat kar raha tha IndiaMART office Noida se senior manager.\\nCustomer: Haan haan.\\nExecutive: Sir, abhi jo aapki IOC se discussion hui hai sir, toh aapko I hope sir aaj yeh clear hua hoga sir.\\nCustomer: Haan.\\nExecutive: Toh main aapka jo concern yahan pe mere paas raise hua tha sir, toh main woh close kar sakta hoon sir?\\nCustomer: Bilkul sir, bilkul.\\nExecutive: Sir, main aapko even though aapke jo personal number the, main aapko ek baar WhatsApp pe hi kar deta hoon. Agar aapko kabhi bhi lagega sir toh uss number se aa ke reach out kar sakte hain sir aap mereko.\\nCustomer: Bilkul.\\nExecutive: Toh ek request thi sir, aap please ek baar proper se users karna start kariye. Hum aapki listing visibility ko proper maintain karte hain aur aapki coordinate karte hain sir aapse taaki aapko aur achha better conversion provide kar paaye.\\nCustomer: Theek hai.\\nExecutive: Sir, abhi hamara jo main product dealing hai woh stone wall panel hai, wall mural hai, Sanderson wall panel hai aur stone jaali hai. Yehi hamare main categories hain?\\nCustomer: Yes sir.\\nExecutive: Toh iske alawa agar hamari aur koi product focus product hai sir?\\nCustomer: Nahi sir.\\nExecutive: Yehi main hai na? Theek hai sir, toh main na abhi aapka jo concern hai woh main close kar deta hoon. Iske bihaf mein aapke paas ek ticket woh aayegi sir, feedback aayegi. Please aapka reply kar dijiyega request hai.\\nCustomer: Okay. Sure sir.\\nExecutive: Sure sir. Thank you so much. Take care sir.\\nCustomer: Okay sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a previously raised customer concern.\\n- Verifying the customer's main product categories.\\n\\n\\nResolution:\\n\\n- Confirmed the customer's issue was clarified in a prior discussion.\\n- Received permission to close the raised concern.\\n- Verified main product categories: stone wall panel, wall mural, etc.\\n- Advised the customer to use the service properly for better visibility.\\n- Offered personal contact via WhatsApp for future assistance.\\n\\n\\nNext Steps: \\n- Issue resolved.\\n- A feedback request will be sent to the customer.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Positive\\n\\n@@@Key Topics:\\n- concern closure, feedback, product category, listing visibility, conversion\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d78678a5-b73c-465d-ae05-d95b8279d498",
+  "ucid": "d78678a5-b73c-465d-ae05-d95b8279d498",
+  "seller_categories": [
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "88032",
+      "mcat_name": "Stone Wall Panel"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    }
+  ]
+}

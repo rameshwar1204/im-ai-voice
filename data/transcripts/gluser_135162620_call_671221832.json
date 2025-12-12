@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671221832",
+  "gluser_id": "135162620",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Gautam Buddha Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682799",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello\\nCustomer: Mam India Mart ka na humne India Mart ka ek package le rakha hai ye aur usme na account detail mang raha hai to account detail dene me jara wo kyu mang raha hai mam.\\nExecutive: Aap apni profile pe login kar rahe hai?\\nCustomer: Ji sir.\\nExecutive: Aap apni profile pe login kar rahe hai?\\nCustomer: Ha login karne ke baad me jaise on kar raha hu na mai to us pe kya mang raha hai account name kya hai sir?\\nCustomer: SDEC India Private Limited.\\nExecutive: Thodi aawaz kam aati hai dobara bataoge please?\\nCustomer: SDEC India Private Limited.\\nExecutive: Theek hai mai na abhi lunch pe hu mai 3:15 baje tak aapko call back karti hu theek hai tabhi check kar paungi mai system pe.\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai mai batati hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is hesitant to provide account details.\\n\n\\n\nResolution:\\n\n- Executive will call back by 3:15 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account details, profile, callback\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4785328d-afbf-4ec4-a316-e351851f42f4",
+  "ucid": "4785328d-afbf-4ec4-a316-e351851f42f4",
+  "seller_categories": [
+    {
+      "mcat_id": "106023",
+      "mcat_name": "Micro Concrete"
+    },
+    {
+      "mcat_id": "165817",
+      "mcat_name": "Structural Repair Services"
+    },
+    {
+      "mcat_id": "95058",
+      "mcat_name": "Carbon Fiber Sheet"
+    },
+    {
+      "mcat_id": "85081",
+      "mcat_name": "Retrofitting Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

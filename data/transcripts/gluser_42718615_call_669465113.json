@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669465113",
+  "gluser_id": "42718615",
+  "vintage_months": 17,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Sojat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Shankho ki rag dhule ki\\nHello\\nHello ha ji Mukesh Kumar ji Priyanka baat kar rahi hu India Mart se sir\\nMere ko time nahi hai aap se lapal lapal karne ke liye sir kis time pe connect kare sir hum aapko\\nSir aap problem hai aap solution karke do ye lo ek kam karo India hai na mera staff usse baat karo ye lo ji please sir aaiye baat\\nHa ji boliye\\nHa ji good afternoon very good afternoon sir ji please bataye sir kya concern aap face kar rahe hain kyuki lead to hum aapko proper provide karke de rahe hain aap bhi bahut active hai proper lead provide kar rahe hain\\nWah pe dikha raha tha 200 kilo ka call karte bolte hai 500 gram chahiye ha har ek retail ka lead hai wo koi wholesale ka lead hai hi nahi nahi ki manufacturing plant bol ke thodi na 200 gram ka dhanda karenge\\nSir aapne aaj agar mai baat karu aaj to koi bhi lead consume kari nahi hai aur isse pehle\\nBand kar diya kya kare faltu thodi na time bacha hai dekhna band kar diya ek mahine se kabhi kabhi dekhna wo man na mane to\\nEk mahine se call karte bolta hai aadhi bar to call uthata nahi aadhi bar to bolta kiya hi nahi lead aadhi bar bolta hai ki 200 kilo ka hai to 200 gram becho 200 gram becho wo thodi na tarika hai proper lead ata hi nahi hai\\nDekhiye bolta hu simple cheez bolo India Mart fake hai bas wo kya bolte retail market ke log baithe hai koi wholesale me lene wala koi banda hai hi nahi aapke pass\\nHa ji\\nSir kaise koi wholesale me lene wala nahi hai sir aapka company dekho\\nHa ji bolo\\nPehle to aapka aawaz nahi aa raha pura pura break ho raha hai\\nSir mai keh rahi hu aapko 36 users ne rate kiya hai\\nHa to wahi ek kilo do kilo lene wala hoga koi sab jali baithe honge to beja hoga\\nHello\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says IndiaMART provides retail leads only.\\n\n- Customer states leads show incorrect quantity requirements.\\n\n- Customer says he stopped checking leads a month ago.\\n\n- Customer says IndiaMART is fake.\\n\n\\n\nResolution:\\n\n- Executive stated customer has not consumed any leads today.\\n\n- Executive mentioned 36 users rated the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, retail, wholesale, fake\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4c0dce46-7755-49eb-802d-df4c2671589f",
+  "ucid": "4c0dce46-7755-49eb-802d-df4c2671589f",
+  "seller_categories": [
+    {
+      "mcat_id": "1841",
+      "mcat_name": "Henna Powder"
+    },
+    {
+      "mcat_id": "4439",
+      "mcat_name": "Black Henna Powder"
+    },
+    {
+      "mcat_id": "727",
+      "mcat_name": "Henna Hair Color"
+    },
+    {
+      "mcat_id": "136566",
+      "mcat_name": "Mehandi Cone"
+    },
+    {
+      "mcat_id": "9142",
+      "mcat_name": "Henna Leaves"
+    }
+  ]
+}

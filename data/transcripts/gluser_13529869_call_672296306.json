@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672296306",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, good morning sir.\\nCustomer: Haan. Ji sir.\\nExecutive: Haan, mai keh raha hu, haan mai sir ye keh raha hu WhatsApp pe sir dekho maine aapko WhatsApp pe screenshot share kiye hain. Theek hai?\\nCustomer: Achha. Haan.\\nExecutive: Haan, aap usme ek baar select karo ki kaun kaun si aur category mein add kar sakta hu sir. Wo maine aapke related category share kiya hai.\\nCustomer: Aisa hai, aisa hai. Mai abhi mai apne workshop pe aaya hu. Matlab kaam pe baitha hu. Yaha par mai ek ek ek minute bhi free nahi rehta hu.\\nExecutive: Haan haan, koi baat nahi.\\nCustomer: To mai dekh leta hu aapko.\\nExecutive: Jab bhi, jab bhi sir aap free ho jaye na, mujhe aap us time pe mujhe message dal dijiyega, mai add kar dunga sir, theek hai?\\nCustomer: Haan, theek theek hai. Mai mai check kar dunga aapko WhatsApp pe.\\nExecutive: Haan haan, mujhe message kar dijiyega sir bas. Haan, WhatsApp pe dal deta hu.\\nExecutive: Haan, WhatsApp pe mujhe message dal dijiyega sir. Usme select kar lo kaun kaun si aur add kar sakta hu, wo mai kar dunga sir, theek hai?\\nCustomer: Theek, theek. Ek ek product ek ek product\\nExecutive: Kar deta hu sir mai aapka. Uske complete karta jaunga.\\nCustomer: Koi baat nahi, mai abhi sab kuch dekh kar aapko WhatsApp kar deta hu.\\nExecutive: Ji ji ji ji, bilkul.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add more categories.\\n\n\\n\nResolution:\\n\n- Executive asked to send details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will send details on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, categories, product\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78df32bb-e866-4e75-8493-7bfc5cb54700",
+  "ucid": "78df32bb-e866-4e75-8493-7bfc5cb54700",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

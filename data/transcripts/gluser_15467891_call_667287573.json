@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667287573",
+  "gluser_id": "15467891",
+  "vintage_months": 88,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638907",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello khatam ho gayi samne se mangwa lo.\\nHello\\nCustomer: Hello\\nExecutive: Haan ji madam.\\nCustomer: Main ye bol rahi thi main na aapko pictures bhej rahi hu. To ye hamare vendor the home estate wale inhone na hamari location ki photos use ki hui hai India mart pe pure hamare. Mujhe wo sari photos remove chahiye.\\nExecutive: Theek hai aap mujhe company name likh bhejo theek hai.\\nCustomer: Aur mam please apna next call aap mujhe mere personal number pe kariyega theek hai.\\nExecutive: Theek hai theek hai theek hai. Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to remove location photos used on IndiaMART.\\n\n- Wants the executive to call on personal number.\\n\n\\n\nResolution:\\n\n- Asked to send the company name.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photos, remove, personal number, vendor\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=93643ec3-dc13-43d3-a3b9-777e481210b2",
+  "ucid": "93643ec3-dc13-43d3-a3b9-777e481210b2",
+  "seller_categories": [
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "30661",
+      "mcat_name": "Indoor Fountain"
+    },
+    {
+      "mcat_id": "14098",
+      "mcat_name": "Fiberglass Fountain"
+    },
+    {
+      "mcat_id": "165907",
+      "mcat_name": "FRP Fountains"
+    },
+    {
+      "mcat_id": "72799",
+      "mcat_name": "Water Fountain"
+    }
+  ]
+}

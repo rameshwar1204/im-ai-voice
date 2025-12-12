@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668228709",
+  "gluser_id": "28772701",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hi sir, good afternoon.\\nCustomer: Sir call kiya tha aapne mujhe kal? Anju baat kar rahi hu sir IndiaMART se.\\nCustomer: Maine koi call nahi kiya.\\nExecutive: Aap primary number sir kiska hai?\\nCustomer: Last four digit bataiye.\\nExecutive: Ek second sir line pe hi rahiye. Bata rahi hu.\\nExecutive: Last hai 931.\\nExecutive: The person you are speaking with.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ha sir last number to hai 931 jo ha wo alag number pe call kijiye.\\nCustomer: Accha, maybe shayad kal unse hi call aaya tha mujhe actually main unhone shayad primary ya secondary number pe mujhe kisi ne to number share kiya tha office mein jo account handle bhi kar rahe hain shayad unka. To meri unse bhi baat hui thi dopahar mein actually abhi ticket open hua tha raise hua tha kyuki kal baat nahi ho paayi thi to main usi ke matlab regarding reach out kar rahi thi. Meri baat nahi ho pa rahi hai abhi aap kar lijiye na.\\nCustomer: Primary wale pe na aap Dheeraj se baat kar rahe hain?\\nExecutive: Nahi main Hemant. Okay okay theek hai sir main. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he did not make any call.\\n\nResolution:\\n\n- Executive asked for the last four digits of number.\\n- Executive asked to call on different number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, primary number, ticket\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=17a56716-ec61-4402-ad2f-22d2ed2cd310",
+  "ucid": "17a56716-ec61-4402-ad2f-22d2ed2cd310",
+  "seller_categories": [
+    {
+      "mcat_id": "167696",
+      "mcat_name": "Pagoda Tent"
+    },
+    {
+      "mcat_id": "41970",
+      "mcat_name": "Resort Tents"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "100516",
+      "mcat_name": "Swiss Cottage Tent"
+    }
+  ]
+}

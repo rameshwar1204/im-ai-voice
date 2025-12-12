@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670205423",
+  "gluser_id": "41894421",
+  "vintage_months": 4,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Hoshiarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hello good morning sir.\\nCustomer: Good morning.\\nExecutive: Sir Shadab bol raha hu sir IndiaMART se account manager se.\\nCustomer: Haan ji haan ji.\\nExecutive: Haan sir kal discussion hua tha na sir woh Taufiq sir se aapka. \\nCustomer: TNS stalls ke regarding.\\nExecutive: Toh sir humne yaha pe ek internal ticket open kiya tha. Toh sir usse pata hai kya hai hamari dikkat yeh hai ki jo ek number mai aapko provide kar raha hu.\\nCustomer: Hmm.\\nExecutive: Toh uske dekh lijiyega ke woh kahi block list me toh nahi hai.\\nCustomer: Nahi maine check kiya abhi toh aapne number provide karaya tha na jo mera number tha. Ji ji ji ji. Woh woh uss pe koi block nahi hai kisi number pe.\\nExecutive: Toh usse kisi ne block woh aur Truecaller sir install karwa diya tha?\\nCustomer: Haan karwa diya tha.\\nExecutive: Haan toh sir baaki matlab yahi cheeze thi yaha pe jo aaya tha hamare paas ki Truecaller ki wajah se jo ab aapko jo hone receive ho rahi thi.\\nCustomer: Toh ab se jo aapko call aayengi na sir woh aapko receive hongi. Ek hafte tak dekhte hai aapke paas call aayengi sir.\\nCustomer: Nahi mai call karke dekhta hu na ki aati hai ki nahi.\\nExecutive: Haan toh ek kaam haan ek kaam yeh bhi kar sakte hai ki matlab ki kisi dusre wale se mobile se lekar. Mai check kar leta hu. Mai check karke batata hu aapko.\\nCustomer: Haan. Aur yeh sir iska jo maine abhi.\\nExecutive: Yes.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not receiving calls.\\n\n\\n\nResolution:\\n\n- Executive checked if number was in blocklist.\\n\n- Suggested to check by calling from another number.\\n\n\\n\nNext Steps: \\n\n- Customer will check if calls are coming.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- calls, truecaller, blocklist, tns stalls\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7e2b35b1-92f6-4ab6-82ce-45d50947841f",
+  "ucid": "7e2b35b1-92f6-4ab6-82ce-45d50947841f",
+  "seller_categories": [
+    {
+      "mcat_id": "127535",
+      "mcat_name": "Multi Strand Wire"
+    },
+    {
+      "mcat_id": "138787",
+      "mcat_name": "Concealed Metal Boxes"
+    },
+    {
+      "mcat_id": "181017",
+      "mcat_name": "One Way Modular Switch"
+    },
+    {
+      "mcat_id": "226794",
+      "mcat_name": "3 Phase Motor Starter"
+    },
+    {
+      "mcat_id": "191137",
+      "mcat_name": "GI Modular Box"
+    }
+  ]
+}

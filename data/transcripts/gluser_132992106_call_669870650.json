@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669870650",
+  "gluser_id": "132992106",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Sirhind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651368",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Meri Mr. Lakhbir ji se baat ho rahi hai?\\nExecutive: Hanji.\\nExecutive: Ravi shaal baat kar raha hu sir IndiaMART office se sir kaise hai aap?\\nCustomer: Hanji.\\nExecutive: Aapka jo account hai IndiaMART pe uske liye maine call kiya hai. Aapka ek feedback aaya tha sir wo leads ko leke tha. Mai puch raha tha kya problem face kar rahe hai?\\nCustomer: Kya cheez?\\nExecutive: IndiaMART se baat kar raha hu sir aapka account hai na IndiaMART pe Jas Fabrication ke naam se, Fabricator ke naam se?\\nCustomer: Hanji.\\nExecutive: Ha to usi ke liye maine call kiya hai. Mai puch raha tha kuch problem face kar rahe hai kya service me?\\nCustomer: Hanji service me bhi 15 20 minute tak call ki thi matlab Jasmeet aa raha hai wo entry karega aapke.\\nExecutive: Ha entry nahi karte hai?\\nCustomer: Nahi nahi wo hi karta hai Jasmeet karta hai.\\nExecutive: Number yahi hai?\\nCustomer: Number yahi hai ji.\\nExecutive: Uh wo 15 minute tak aa raha hai man lo. Abhi office me.\\nCustomer: Thik hai koi issue nahi hai.\\nExecutive: Baki in case agar wo usse pehle aa jate to aap mujhe same number pe call pe kar lijiyega. Thik hai sir jaise bhi hoga mai call karunga.\\nCustomer: Thik hai.\\nExecutive: Okay sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported issue with leads.\\n\n\\n\nResolution:\\n\n- Executive inquired about the problem with leads.\\n- Customer informed Jasmeet will handle the entry.\\n- Executive confirmed to call if needed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account, service\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=04a9e980-8004-4dc1-be38-2bed2708b108",
+  "ucid": "04a9e980-8004-4dc1-be38-2bed2708b108",
+  "seller_categories": [
+    {
+      "mcat_id": "83929",
+      "mcat_name": "Truck Body"
+    },
+    {
+      "mcat_id": "40012",
+      "mcat_name": "Tractor Trolleys"
+    },
+    {
+      "mcat_id": "185976",
+      "mcat_name": "Side Wall Trailer"
+    },
+    {
+      "mcat_id": "138553",
+      "mcat_name": "Trucks Container"
+    },
+    {
+      "mcat_id": "36293",
+      "mcat_name": "Refrigerated Containers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669446726",
+  "gluser_id": "66499324",
+  "vintage_months": 37,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648382",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Aapka koi no call list hai?\\nCustomer: Hmm?\\nCustomer: No call hai aapki?\\nCustomer: [unintelligible]\\nCustomer: Haan abhi baat nahi hui hai ticket pe call kar rahi hu. Kar leti hu us pe call.\\nCustomer: Are team wale pe hi karne bola.\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Hi Mrityunjay sir very good afternoon kaise hai aap?\\nCustomer: Sab theek hai. Kya hai bataiye.\\nExecutive: Theek thaak kar rahi thi sir mai.\\nCustomer: Kaun?\\nExecutive: Riti baat kar rahi thi mai IndiaMART se.\\nCustomer: Acha theek hai baad me call karo aur mai abhi thoda busy hu mai aap se wahi baad me baat kar paunga.\\nExecutive: Kab tak baat ho payegi sir actually morning hi baat ki thi to 3 baje ka mujhe time diya tha aapki wife ne.\\nCustomer: Haan baat kar lijiye 3 baje unko. Unse baat kijiye nahi baat.\\nExecutive: To sir isi number pe to baat hui thi aapki wife se. Actually actually kal meri team se aapko call kiya tha Sudhanshu ne.\\nCustomer: To aapne waha pe na note kar liya. Mai nahi kar sakta mai busy hu meeting karo na kab tak baat aap batao.\\nExecutive: Sir ek time bataiye na kab call karu.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called the customer.\\n\n- Customer stated he is busy.\\n\n\\n\nResolution:\\n\n- Executive asked for a suitable time to call.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call scheduling, busy\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5890f3e4-5128-4b76-9f12-31fe54afd312",
+  "ucid": "5890f3e4-5128-4b76-9f12-31fe54afd312",
+  "seller_categories": [
+    {
+      "mcat_id": "181628",
+      "mcat_name": "Loctite Adhesive"
+    },
+    {
+      "mcat_id": "194030",
+      "mcat_name": "Oks Grease"
+    },
+    {
+      "mcat_id": "38518",
+      "mcat_name": "Threadlocker"
+    },
+    {
+      "mcat_id": "24950",
+      "mcat_name": "Cleaning Wipes"
+    },
+    {
+      "mcat_id": "35810",
+      "mcat_name": "Polyurethane Adhesives"
+    }
+  ]
+}

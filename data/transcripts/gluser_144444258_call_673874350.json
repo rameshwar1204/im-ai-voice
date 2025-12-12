@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673874350",
+  "gluser_id": "144444258",
+  "vintage_months": 0,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Nanpara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699456",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji Vinay ji.\\nCustomer: Hello\\nExecutive: Hello Ji hello.\\nCustomer: Haan ji sir.\\nExecutive: Hum Ajay Choudhary bol rahe hain.\\nCustomer: Ajay Kumar Choudhary company se baat kar rahe hain na?\\nExecutive: Ji.\\nCustomer: Bataiye sir.\\nExecutive: Humko hamare manager se baat karni thi unka number humne save nahi kiya tha to hume ya to number de dijiye ya manager se hi baat kar le humse.\\nCustomer: Wo aapko call back kar rahe hain sir aap unse baat kar lijiye theek hai?\\nExecutive: Haan to manager se bhi baat kar lenge humse.\\nCustomer: Haan wo aapko call back kar rahe hain aap baat kar lijiye.\\nExecutive: Bilkul bilkul.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to the manager.\\n\n\\n\nResolution:\\n\n- Informed that manager will call back.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, manager, number\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7fdcfc1a-6828-4716-9a89-13ce45b745c7",
+  "ucid": "7fdcfc1a-6828-4716-9a89-13ce45b745c7",
+  "seller_categories": [
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "43871",
+      "mcat_name": "Mixed Pickle"
+    },
+    {
+      "mcat_id": "528",
+      "mcat_name": "Chemical Fertilizers"
+    },
+    {
+      "mcat_id": "181500",
+      "mcat_name": "Meat Masala"
+    },
+    {
+      "mcat_id": "4445",
+      "mcat_name": "Black Pepper"
+    }
+  ]
+}

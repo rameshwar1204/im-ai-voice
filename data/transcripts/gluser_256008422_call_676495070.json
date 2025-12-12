@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676495070",
+  "gluser_id": "256008422",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Warangal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659537",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Haan madam.\\n\\nCustomer: Hello.\\n\\nExecutive: Haan sir, bol rahe the?\\n\\nCustomer: Ji ji sir, main ek meeting mein thi, sir bataye aap call kar rahe the.\\n\\nExecutive: Hmm.\\n\\nCustomer: Ji meri na baat hui sir jo Pathula Vivek ji hain, jinke sath aapka sara conversation hua tha.\\n\\nExecutive: Hmm.\\n\\nCustomer: Woh aapko ek bar call karenge abhi.\\n\\nCustomer: Toh aap jo bhi finalize karte hain, woh mujhe bata denge sir aur hum accordingly phir proceed karenge. Maine unhe bola ek bar aapse final connect kare.\\n\\nExecutive: Theek hai, theek hai.\\n\\nCustomer: Kyunki onboarding unke through hui thi.\\n\\nExecutive: Haan.\\n\\nCustomer: Hai na? Toh woh aapko ek bar connect karenge. Jo bhi aap unke sath discussion karna chahte hain, jo bhi aapka final call hai, aap ek bar discuss kar lo dono log. Aur bas woh mujhe update karenge, main aapse phir confirm karungi call karke ki yahi baat hui hai. Aap mujhe update kar dena, phir main aage bolungi.\\n\\nExecutive: Theek hai, Vivek ji se baat hui thi, okay, okay, main karunga.\\n\\nCustomer: Theek hai? Agar aap apni taraf se karna chaho, aap kar lo. Waise maine unhe bola unka lunch rehta hai. Shayad woh abhi aapko connect kar lenge thodi der mein.\\n\\nExecutive: Haan, theek hai. Theek hai, theek hai, shukriya madam.\\n\\nCustomer: Theek hai, theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was expecting a call from Vivek.\\n\n\\n\nResolution:\\n\n- Executive will connect with Vivek for discussion.\\n\n- Customer will confirm the discussion details later.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with Vivek.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, discussion, onboarding, finalization\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=96e78d1c-6713-4449-851d-36e75a3848b9",
+  "ucid": "96e78d1c-6713-4449-851d-36e75a3848b9",
+  "seller_categories": [
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "190906",
+      "mcat_name": "W180 Cashew Nuts"
+    },
+    {
+      "mcat_id": "183067",
+      "mcat_name": "Brown Basmati Rice"
+    },
+    {
+      "mcat_id": "26940",
+      "mcat_name": "Dry Figs"
+    }
+  ]
+}

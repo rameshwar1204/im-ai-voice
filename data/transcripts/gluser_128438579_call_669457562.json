@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669457562",
+  "gluser_id": "128438579",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Yu na mujhko dur kar ab to mujhko khud me sama bhakt vatsalay namah shiti kanthay namah kripa mujhpe rakhna meri galtiyo ko karke shama bhakt vatsalay namah shiti kanthay namah kripa mujhpe rakhna meri\\n\\nHello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Haan ji sir\\n\\nCustomer: Haan ji sir ho gaye free aap\\n\\nCustomer: Sir kal le leta hu kal wo kya hai mera patthar aaya hai gaadi aayi hai abhi patthar ki\\n\\nExecutive: Are sir aap time hi nahi nikal pa rahe kitne din ho gaye mai kya bolu aapko\\n\\nCustomer: Kal pakka dunga mai kya hai abhi mere dimag me nahi tha wo gaadi aa rahi hai to wo gaadi aa gayi abhi ab mujhe wo jana hai uske liye patthar crane mangani hai aur utarwana hai wo\\n\\nExecutive: Thik hai sir aap interest hi nahi le rahe ho aap mai kya bolu aapko\\n\\nCustomer: Nahi nahi kal le leta hu mai kal\\n\\nCustomer: Kal kis time me sir mere ko to kuch pakki nahi lag raha aaj bhi aapne do baar time diya mujhe\\n\\nCustomer: Kal mai 10 subere hi le lenge na time se hi le lenge fir\\n\\nExecutive: Chalo kitne baje 10 baje\\n\\nCustomer: Haan kal le lunga sir pakka\\n\\nCustomer: Mera khud ka bhi sir kaam kharab ho raha hai kal akela wo hu mai kaam karne wala kya karu\\n\\nExecutive: Haan dekho aapko delay ho gaya aaj kaam ho jata aapka\\n\\nCustomer: Koi nahi kal le leta hu sir kal\\n\\nExecutive: Thik hai\\n\\nCustomer: Abhi call aaya mujhe udhar nikalna hai uske pass na mere se 10 kilometer hai wo to fir ab wo dikkat ho jayegi usko na\\n\\nExecutive: Thik hai thik hai\\n\\nCustomer: Kal le leta hu sir hai na\\n\\nExecutive: Thik hai thik hai\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to reschedule the call.\\n\n- Customer says stone delivery arrived, needs crane.\\n\n\\n\nResolution:\\n\n- Executive agreed to reschedule the call.\\n\n- Call scheduled for 10 AM next day.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- reschedule, time, delivery\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=38bb97f8-829b-4a94-917d-7296fbb02a98",
+  "ucid": "38bb97f8-829b-4a94-917d-7296fbb02a98",
+  "seller_categories": [
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "163243",
+      "mcat_name": "Ram Darbar Marble Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    },
+    {
+      "mcat_id": "177958",
+      "mcat_name": "God Stone Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    }
+  ]
+}

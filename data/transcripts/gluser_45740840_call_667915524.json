@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667915524",
+  "gluser_id": "45740840",
+  "vintage_months": 24,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638480",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Haan, hello.\\nExecutive: Haan sir, good morning. Pratham se aap kar rahe hain?\\nCustomer: Haan, good morning, ma'am. Boliyega.\\nExecutive: Ah, main bol rahi thi, maine invoice aapko share kar diya. Ek baar check toh kariye.\\nCustomer: Yes, yes, ma'am. Check karke phone karta hoon.\\nExecutive: Theek hai sir. Okay. Okay ma'am. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to check the invoice.\\n\n\\n\nResolution:\\n\n- Executive shared the invoice with the customer.\\n\n- Customer agreed to check the invoice and call back.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- invoice, check\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6009ed88-e29c-4506-b609-aec66abbfc25",
+  "ucid": "6009ed88-e29c-4506-b609-aec66abbfc25",
+  "seller_categories": [
+    {
+      "mcat_id": "158839",
+      "mcat_name": "Mild Steel Door"
+    },
+    {
+      "mcat_id": "4673",
+      "mcat_name": "Aluminum Composite Panels"
+    },
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "28962",
+      "mcat_name": "French Doors"
+    },
+    {
+      "mcat_id": "38707",
+      "mcat_name": "Steel Doors"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676193861",
+  "gluser_id": "43653957",
+  "vintage_months": 84,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sultanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720151",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji ji bataye Rashmi.\\nCustomer: Sir wo main bol rahi thi feedback jayega aapke paas mere liye abhi mail pe to feedback de dijiyega aur wo product ka WhatsApp pe jo maang rahi hu detail wo bhi de dijiyega sir.\\nExecutive: Ji ji de denge ji.\\nCustomer: Theek hai. Theek hai.\\nExecutive: Baat kar lenge madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback on mail.\\n\n- Product details on WhatsApp.\\n\n\\n\nResolution:\\n\n- Agreed to provide feedback and product details.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, product details\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a567ff10-f2cd-45c3-ab2e-06f997a4dd11",
+  "ucid": "a567ff10-f2cd-45c3-ab2e-06f997a4dd11",
+  "seller_categories": [
+    {
+      "mcat_id": "208837",
+      "mcat_name": "Flour Mill Plant"
+    },
+    {
+      "mcat_id": "84703",
+      "mcat_name": "Industrial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "165997",
+      "mcat_name": "Mustard Oil Expeller"
+    },
+    {
+      "mcat_id": "118977",
+      "mcat_name": "Besan Plant"
+    }
+  ]
+}

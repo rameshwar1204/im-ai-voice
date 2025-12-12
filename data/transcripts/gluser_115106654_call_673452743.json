@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673452743",
+  "gluser_id": "115106654",
+  "vintage_months": 1,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Balasore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718358",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Hello\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ac25f08a-5df9-494d-aa9d-3acb70e860d1",
+  "ucid": "ac25f08a-5df9-494d-aa9d-3acb70e860d1",
+  "seller_categories": [
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "177610",
+      "mcat_name": "Potli Bags"
+    },
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "42112",
+      "mcat_name": "Floral Incense Sticks"
+    },
+    {
+      "mcat_id": "141759",
+      "mcat_name": "Bamboo Incense Stick"
+    }
+  ]
+}

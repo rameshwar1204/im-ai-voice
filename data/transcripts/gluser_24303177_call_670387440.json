@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670387440",
+  "gluser_id": "24303177",
+  "vintage_months": 79,
+  "bl_dau_oct": 26,
+  "customer_type": "STAR",
+  "city_name": "Gulaothi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9644223",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hanji.\\nExecutive: Ji sir Diamond Rapid se baat kar rahe hain?\\nCustomer: Hanji bol raha hu.\\nExecutive: Sir main Shubham baat kar raha hu Indiamart head office se kaise hain aap? Are wo meri main bahut achcha hu Ashutosh ji se main baat kar raha tha meri call rakhi hai abhi meri actually customer ke sath call chal rahi thi main aapki call aa gayi. Unhone Ashutosh ji se baat kari hai theek hai na wo baat kar rahe hain unse.\\nCustomer: Sir mere ko call aa raha hai please hold kijiyega.\\n(silence)\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold. Please stay on the line.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\nYou are speaking with has put your call on hold.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is already on another call.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, hold, Indiamart\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 203,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e99e955-ea8a-46d8-b25e-7fbaef1468bf",
+  "ucid": "6e99e955-ea8a-46d8-b25e-7fbaef1468bf",
+  "seller_categories": [
+    {
+      "mcat_id": "108951",
+      "mcat_name": "Eyeglass Display Stand"
+    },
+    {
+      "mcat_id": "117887",
+      "mcat_name": "Optical Counter Trays"
+    },
+    {
+      "mcat_id": "117889",
+      "mcat_name": "Optical Showroom Designing"
+    },
+    {
+      "mcat_id": "153838",
+      "mcat_name": "Trial Lens Set"
+    },
+    {
+      "mcat_id": "186126",
+      "mcat_name": "Wall Display Racks"
+    }
+  ]
+}

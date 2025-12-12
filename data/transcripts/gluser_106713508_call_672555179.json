@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672555179",
+  "gluser_id": "106713508",
+  "vintage_months": 26,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685989",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Haan ji, ma'am. \\nCustomer: Haan ji sir, mujhe yeh kehna tha aapka ticket main close kar rahi hun. Kal hum video meeting kar lenge, theek hai? And sir, ek feedback aayega, aap usse satisfy mark kar dena. Theek hai? Isse aapka ticket close ho jayega.\\nCustomer: Theek hai, okay.\\nCustomer: Theek hai, aapke mail par aayega, please satisfy par click kar dijiyega. Okay? Baaki kal connect kar lenge hum. Okay sir, thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Ticket is being closed.\\n\n- Video meeting to be scheduled for tomorrow.\\n\n- Customer to mark feedback as satisfactory to close the ticket.\\n\n- Customer to click \u2018satisfy\u2019 on the email.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Follow up with a video meeting tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nticket closure, video meeting, feedback\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c55565b5-6dfd-44ed-9737-42b7f22c08bb",
+  "ucid": "c55565b5-6dfd-44ed-9737-42b7f22c08bb",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    },
+    {
+      "mcat_id": "146230",
+      "mcat_name": "Pickle Jars"
+    }
+  ]
+}

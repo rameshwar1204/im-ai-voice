@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672553574",
+  "gluser_id": "31770935",
+  "vintage_months": 6,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Hisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670658",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji, Adhyam Healthcare mein baat ho rahi hai?\\nCustomer: Boliye.\\nExecutive: Ji sir, ye Niyama team se baat kar rahi hu. Actually hamara na discussion hona tha sir pending hai abhi tak.\\nCustomer: Achcha.\\nExecutive: To wohi aapne time de rakha tha. To abhi baat ho sakti hai kya sir?\\nCustomer: Nahi, main abhi main working se wapas aa raha hu, driving kar raha hu.\\nExecutive: Achcha.\\nCustomer: Hmm hmm.\\nExecutive: To phir bataye kab matlab kyunki catalogue jo hai na usme hi problem aa raha tha aapke.\\nCustomer: Haan, to wohi sara ek baar.\\nExecutive: Kal morning mein?\\nCustomer: Haan ji.\\nExecutive: Theek hai, kal morning mein ek baar main aapko connect karti hu.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Discussion pending.\\n\n- Catalogue issue.\\n\n\\n\nResolution:\\n\n- Scheduled a call for tomorrow morning.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Follow-up call scheduled for tomorrow morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ncall schedule, catalogue issue\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1a134694-c444-4a28-806d-e4c86d9e84c4",
+  "ucid": "1a134694-c444-4a28-806d-e4c86d9e84c4",
+  "seller_categories": [
+    {
+      "mcat_id": "224733",
+      "mcat_name": "Finasteride Tablets"
+    },
+    {
+      "mcat_id": "444046",
+      "mcat_name": "Hydroxychloroquine Sulfate Tablet"
+    },
+    {
+      "mcat_id": "655444",
+      "mcat_name": "Sodium Alginate,Sodium Bicarbonate and Calcium Oral Suspension"
+    },
+    {
+      "mcat_id": "179612",
+      "mcat_name": "Bisoprolol Fumarate Tablet"
+    },
+    {
+      "mcat_id": "445357",
+      "mcat_name": "Tranexamic Acid And Mefenamic Acid Tablet"
+    }
+  ]
+}

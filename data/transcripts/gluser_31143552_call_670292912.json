@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670292912",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji, ji sir call IndiaMART se baat kar rahi hu.\\nCustomer: Haan haan.\\nExecutive: Haan ji sir aapka baat hua hoga mam se din ko. To aapko aur koi problem to nahi hai sir service ke liye aage.\\nCustomer: Haan hua.\\nExecutive: Haan sir?\\nCustomer: Haan baat hua hai na.\\nExecutive: Haan ho gaya na matlab saari doubts aapke clear ho gaye aur koi help chahiye to boliye sir.\\nCustomer: Nahi nahi theek hai, clear ho gaya.\\nExecutive: Hai na plus aur bhi kuch cheeze add karani ho to aap WhatsApp pe share kar dijiyega mam ke number pe direct to add ho jayega aur plus koi bhi query rehti hai to aap mujhe bataiyega theek hai.\\nCustomer: Theek hai, chalo.\\nExecutive: Haan baki aapka concern close kar du na mai.\\nCustomer: Haan kar dijiye.\\nExecutive: Theek hai, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to confirm if doubts were cleared.\\n\n\\n\nResolution:\\n\n- Executive confirmed all doubts were cleared.\\n\n- Executive offered help for further queries.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- doubts, service, whatsapp, queries\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a4cf4894-2287-45d0-9021-53466be53980",
+  "ucid": "a4cf4894-2287-45d0-9021-53466be53980",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668708945",
+  "gluser_id": "810208",
+  "vintage_months": 3,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678177",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan sir. Haan sir.\\nCustomer: Haan haan mai free ho gaya bataiye.\\nExecutive: Haan sir join kijiye sir abhi aap abhi aapne shayad deactivate kar diya dobara join kijiye sir.\\nCustomer: Ek minute.\\nExecutive: Haan.\\nCustomer: Hmm kar diya.\\nExecutive: Aaya nahi hai sir abhi aap join nahi kiya sir shayad aapne.\\nCustomer: Maine idhar to idhar se to ho gaya ab aap apna dekhiye. \\nExecutive: Sir mai call cut karta hu sir phir join karna thik hai sir.\\nCustomer: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to join the meeting.\\n\n\\n\nResolution:\\n\n- Executive suggested to cut the call and rejoin.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- joining meeting, technical issue\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=40f47e9e-d746-4dbb-8bd7-929685a8187e",
+  "ucid": "40f47e9e-d746-4dbb-8bd7-929685a8187e",
+  "seller_categories": [
+    {
+      "mcat_id": "159802",
+      "mcat_name": "Pre & Probiotic Capsule"
+    },
+    {
+      "mcat_id": "442060",
+      "mcat_name": "Aceclofenac Paracetamol Serratiopeptidase Tablet"
+    },
+    {
+      "mcat_id": "654242",
+      "mcat_name": "Polyethylene glycol and Propylene Glycol Eye Drop"
+    },
+    {
+      "mcat_id": "179942",
+      "mcat_name": "Carboxymethylcellulose Sodium Eye Drops"
+    },
+    {
+      "mcat_id": "191234",
+      "mcat_name": "Moxifloxacin Eye Drop"
+    }
+  ]
+}

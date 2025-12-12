@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673503522",
+  "gluser_id": "253101492",
+  "vintage_months": 2,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Latur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683191",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello? \\nExecutive: Haan main Rishabh baat kar raha hun aap se baat hui thi na meri aaj IndiaMART se related.\\nCustomer: Haan haan.\\nExecutive: Mam jaise ki last conversation mein aapne sir se bhi baat karaya tha aur woh refund ke hi liye hi adamant the sir. Toh main yahan se woh process jo hai woh initiate kar raha hun mam just ek verification aapko dobara de raha hun. Ki woh process hum initiate kar rahe hain. Do mahine services ko ja chuka hai toh do mahine ka paisa katega mam aur baki 10 mahine ka paisa jo hai jaisa bhi hoga jis din service band hoga wahan se hum pro rated calculate karenge kitna bacha hua hai and based on that aapko refund karenge mam.\\nCustomer: [inaudible]\\nExecutive: Theek hai mam?\\n\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. \\nExecutive: Haan sir boliye. Ji sir ji sir aap detect karenge na aap mujhe abhi boliye.\\nExecutive: Sir woh maine jaise pehle wali call par bhi bataya 10 mahine jo agar hamara service bacha hua hai pro rated meri account team nikalegi based on that hum refund karenge woh amount main khud se nahi bata paunga.\\nCustomer: Aapki team ko nikalne dijiye fir humko bataiye kitna deduct hoga aapka.\\nExecutive: Sir sir uss cheez ke liye mere ko process initiate karna hoga maine yeh call isiliye kiya hai taki aap karo na aap karo initiate karo mujhe bataiye.\\nCustomer: Hmm.\\nCustomer: Humko laga karna hai toh karenge nahi karna toh hum cancel kar denge usko.\\nExecutive: Sir ek baar process initiate ho gaya hai fir usko cancel nahi kar payenge na aap.\\nCustomer: Pehle bataiye na aap amount nahi toh aapke senior jo hai unko call dijiye.\\nExecutive: Unse baat karta hun. Sir woh senior senior se bhi main baat kara dunga toh bhi usse koi fayda nahi hoga kyunki process ke according accounts accounts team hi verify aap kuch bhi batate nahi aapka kuch hota bhi nahi kaise kaam karna hai aapke sath fir.\\nExecutive: Sir aap woh account team batayenge na kitna paisa bacha hai sir.\\nCustomer: Toh theek hai unko boliye fir unse baat kijiye aap bataiye.\\nExecutive: Koi dikkat nahi hai sir. Sir sab cheez possible hai sir. Aap khali karwa chaliye.\\nCustomer: Sir company mein hum bhi kaam karte hain aap bhi karte hain sir.\\nExecutive: Possibility jitna hai utna main aapko already bata raha hun sir. Mere ko koi dikkat thodi hoga sir. mujhe bataiye kitna deduct karenge aap.\\nExecutive: Sir woh woh possibilities ke liye hi mere ko process initiate karna hoga main keval woh confirmation aap se le raha hun.\\nCustomer: Hmm theek hai.\\nExecutive: Hai na? Woh ek baar process initiate ho jayega toh fir main aapko properly bata paunga ki kya hamara amount rahega kitna amount refund hoyega kab tak hamare paas aayega sir.\\nCustomer: Theek hai theek hai. Is process ko main initiate kar raha hun meanwhile mein jo concern open ho rakha hai kyunki concern hume close karna hai usi ke baad mein process woh initiate kar paunga toh yeh concern main close kar raha hun aapke paas ek feedback ka message jayega based on that aap us pe feedback provide kar dena sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai? Main expect kar raha hun sir positive response aayega kyunki overall jo bhi aap chah rahe the woh usko hum initiate kar rahe hain sir.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know the deduction amount.\\n\nResolution:\\n\n- Executive explained the refund calculation process.\\n\n- Executive said the accounts team will calculate the amount.\\n\n- Executive is initiating the refund process.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback message.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, process, deduction, amount, feedback\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 201,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=89b2c657-411b-4c4e-8910-108d9047d8f7",
+  "ucid": "89b2c657-411b-4c4e-8910-108d9047d8f7",
+  "seller_categories": [
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "85086",
+      "mcat_name": "AC Servo Drives"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "447",
+      "mcat_name": "Motor Drives"
+    },
+    {
+      "mcat_id": "216441",
+      "mcat_name": "Encoder Cable"
+    }
+  ]
+}

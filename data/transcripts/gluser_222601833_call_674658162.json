@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674658162",
+  "gluser_id": "222601833",
+  "vintage_months": 17,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mirzapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666325",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nHanji.\\nExecutive: Namaste sir.\\nCustomer: Namaste.\\nExecutive: Ji ji bata sakte hain sir kya help kar sakta hun India Mart se baat kar raha hun.\\nCustomer: Narendra baat kar raha hun NK Chillers se.\\nExecutive: Ji ji kaise hain sir aap?\\nCustomer: Narendra baat kar raha hun NK Chillers se.\\nExecutive: Pehchan liya sir pehchan liya aapke sath baat hui thi abhi last week 10 10 din hua aapke sath baat hua tha.\\nCustomer: To main abhi call kiya hun ki lead nahi aa rahi hai kya kiya jaaye kam band kar diya jaaye?\\nExecutive: Nahi nahi kam to chalu rakhna chahiye but lead mein matlab ki kya lead consume bilkul hi nahi aa rahi hai kya ho raha hai?\\nCustomer: Nahi nahi aa rahi hai aap dekhiye aake system pe ya likh raha hai as per your current location we are unable to show any related by lead.\\nAur mahine mein 20 20 25 25 by lead kharab ho rahi hai.\\nExecutive: Ji sir.\\nCustomer: Theek hai?\\nExecutive: Ek minute sir ek minute.\\nAbhi aap system pe baithe hain sir?\\nCustomer: Bilkul.\\nExecutive: Ek minute.\\nAap ek bar jara apna wo register mail id check kariyega.\\nCustomer: Theek hai.\\nMail aaya hoga aapko.\\nAbhi nahi aaya.\\nExecutive: Ek minute.\\nAbhi refresh kariye sir.\\n\\nCustomer: Mil gaya sir mail.\\nExecutive: Ha mil gaya mail.\\nCustomer: Join ka option hoga.\\nExecutive: Ha join isko.\\n\\nExecutive: Theek hai main apni screen ko present karta hun.\\nCustomer: Kya hum wahin se direct call ko receive nahi kar do.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\nResolution:\\n\n- Executive sent a join link to check the issue.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, location\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 167,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fffb5ef3-12cd-4381-a222-7c689cdd43e6",
+  "ucid": "fffb5ef3-12cd-4381-a222-7c689cdd43e6",
+  "seller_categories": [
+    {
+      "mcat_id": "131763",
+      "mcat_name": "Chiller Maintenance Services"
+    },
+    {
+      "mcat_id": "184614",
+      "mcat_name": "Industrial Water Chiller"
+    },
+    {
+      "mcat_id": "3344",
+      "mcat_name": "Water Chillers"
+    },
+    {
+      "mcat_id": "40876",
+      "mcat_name": "Water Cooled Chillers"
+    },
+    {
+      "mcat_id": "3795",
+      "mcat_name": "Chilling Plant"
+    }
+  ]
+}

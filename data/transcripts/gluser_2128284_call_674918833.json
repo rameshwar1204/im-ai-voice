@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674918833",
+  "gluser_id": "2128284",
+  "vintage_months": 91,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709886",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nCustomer: Hello India Mart se bol rahe ho na aap?\\nExecutive: Kahan se baat kar rahe hain mam?\\nCustomer: Main Navneet product se bol rahi hun.\\nExecutive: Achcha koi baat nahi yahan aapka ek feedback bhi aaya hai mere paas main aapko call back kar rahi hun aap mera call pick kar lijiye mam.\\nCustomer: Ha okay.\\nExecutive: Ye aapne apne family number se hi call kiya hai 114 jisme last mein.\\nCustomer: Ha wohi number hai.\\nExecutive: Thik hai aap receive kijiye mera phone.\\nCustomer: Ha okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired if the call was from India Mart.\\n\n\\n\nResolution:\\n\n- Executive stated they were calling back regarding feedback and asked the customer to pick up the call.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive asked the customer to receive their call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1ff1c071-063e-4533-9198-d40919316eb0",
+  "ucid": "1ff1c071-063e-4533-9198-d40919316eb0",
+  "seller_categories": [
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    },
+    {
+      "mcat_id": "86154",
+      "mcat_name": "Detergent Raw Material"
+    },
+    {
+      "mcat_id": "26353",
+      "mcat_name": "Detergent Chemicals"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    },
+    {
+      "mcat_id": "160271",
+      "mcat_name": "Alpha Olefin Sulfonates"
+    }
+  ]
+}

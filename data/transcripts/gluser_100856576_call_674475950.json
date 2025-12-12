@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674475950",
+  "gluser_id": "100856576",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "FREELIST",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9704756",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: \u0939\u0947\u0932\u094b\\nHaa wo jo mujhe message aapne bheja hai buyer ka.\\nTo uska phone number kahan se milega?\\nExecutive: Us wohi to bata raha hun sir main aapko actually aap achcha uska aap lead manager mein dekhega sir.\\nCustomer: Haan\\nExecutive: Lead maine aapko buyer ka detail bheja tha sir.\\nCustomer: Haan uska phone number hai aap usko contact karoge na to usme dikhega lead manager mein.\\nExecutive: Lead manager mein dikhega.\\nHmm.\\nExecutive: Achcha theek hai main dekh leta hun.\\nCustomer: Haan haan haan.\\nExecutive: Theek hai main dekh leta hun.\\nCustomer: WhatsApp.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know where to find the buyer's phone number from the message sent.\\n\n\\n\nResolution:\\n\n- Executive advised to check the lead manager for the buyer's details and phone number.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will check the lead manager.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nbuyer, phone number, lead manager\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=069af462-60a2-4b8c-8019-b25216fcd3df",
+  "ucid": "069af462-60a2-4b8c-8019-b25216fcd3df",
+  "seller_categories": [
+    {
+      "mcat_id": "21317",
+      "mcat_name": "Adhesive Bandages"
+    },
+    {
+      "mcat_id": "102088",
+      "mcat_name": "Knee Cap"
+    },
+    {
+      "mcat_id": "27162",
+      "mcat_name": "Elastic Adhesive Bandage"
+    },
+    {
+      "mcat_id": "8633",
+      "mcat_name": "Pregnancy Test Kits"
+    },
+    {
+      "mcat_id": "158580",
+      "mcat_name": "Herbal Digestive Enzyme Syrup"
+    }
+  ]
+}

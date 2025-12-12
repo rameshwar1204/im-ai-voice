@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674194585",
+  "gluser_id": "4757738",
+  "vintage_months": 18,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Pathankot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702182",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Tripathi ji bol rahe?\\nCustomer: Han ji, bolti.\\nExecutive: Sir, main aapka client bol raha hun German window gallery se.\\nCustomer: Ji bataiye sir.\\nCustomer: Sir wo upgrade plan karne ke liye baat ho rahi thi aapki madam phone nahi utha rahe to maine aapka number liya baat karne ke liye sir.\\nExecutive: Company name aapne kya bataya sir?\\nCustomer: German window.\\nExecutive: German window. Okay. Aap mere ko 10 minute dijiye main 10 minute mein aapko call back karta hun.\\nCustomer: Theek hai sir. Karna please sir, jaldi chale jana sir. Ha ha theek hai. It's okay aap mere ko ek bar whatsapp kar denge kya?\\nCustomer: Kya karu sir? Whatsapp pe kya karna hai? ping kar sakte hain.\\nCustomer: Han ji?\\nExecutive: Hello. Main samajh nahi paya aapki aawaz kat gayi. Kya bola? It's okay main aapko whatsapp karta hun.\\nCustomer: Kardo sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to upgrade plan.\\n\n- Madam is not picking up the phone.\\n\n\\n\nResolution:\\n\n- Executive asked for 10 minutes to call back.\\n\n- Executive asked customer to WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- upgrade plan, callback, whatsapp\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bc5ad8b9-0282-4ae2-8d6a-b487df70dbf8",
+  "ucid": "bc5ad8b9-0282-4ae2-8d6a-b487df70dbf8",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "184345",
+      "mcat_name": "UPVC Fixed Windows"
+    },
+    {
+      "mcat_id": "4725",
+      "mcat_name": "Aluminium Window"
+    },
+    {
+      "mcat_id": "180561",
+      "mcat_name": "UPVC Casement Windows"
+    }
+  ]
+}

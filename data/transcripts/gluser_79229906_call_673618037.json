@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673618037",
+  "gluser_id": "79229906",
+  "vintage_months": 11,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719867",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello Prajapati ji baat kar raha hu IndiaMART se kaun aa raha hai aapke sambandhi.\\nCustomer: Ha bataye sir.\\nExecutive: Sir kaun aa rahe hai sir aapne IndiaMART helpline pe Anju khadi thi kuch network ka issue tha baat nahi kar paye.\\nCustomer: Ha baat nahi ho pa rahi thi ha bataye.\\nExecutive: Bataye sir koi samasya hai sir.\\nCustomer: Ha.\\nExecutive: Bataye sir.\\nCustomer: Nahi nahi phone aapne kiya tha batayega kaun.\\nExecutive: Nahi nahi sir aapne hamare helpline pe phone kiya na sir 9696 pe.\\nCustomer: Are aapke employee ne phone kiya tha lekin employee ki unki aawaz kat rahi thi to maine kaha hai aap dobara phone kar lijiye.\\nExecutive: Achcha koi issue nahi hai to mai ek baar Anju se baat kara deta hu baat kar lijiye.\\nCustomer: Baat kara dijiye unhone kya kaha tha mujhse.\\nExecutive: Hello.\\nCustomer: Ha.\\nExecutive: Good morning sir.\\nCustomer: Anju ji.\\nExecutive: Hanji sir.\\nCustomer: Namaste madam.\\nExecutive: Namaskar sir.\\nCustomer: Kya hua madam.\\nExecutive: Sir aap sir aapne wo 9696 pe call kiya tha to mujhe janna tha koi problem to nahi hai na abhi waise.\\nCustomer: Nahi nahi maine call hi nahi kiya kaha se aapko call mil gaya.\\nExecutive: Sir lag gaya sir. Sir koi issue nahi hai mai isko.\\nCustomer: Aaj maine call hi nahi kiya aapko aap aaj aap kisi number par.\\nExecutive: Ha tabhi kisi se kyuki kal meri aapse baat bhi hui thi aisi koi baat nahi hai.\\nCustomer: Hmm.\\nExecutive: Thik hai sir mai isko kar deti hu close.\\nCustomer: Okay.\\nExecutive: Okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported call connectivity issues.\\n\n- Customer denies calling IndiaMART helpline today.\\n\n\\n\nResolution:\\n\n- Executive offered to connect with Anju.\\n\n- Executive closed the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- helpline, call connectivity, verification\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4446b34b-9cbf-43f1-8ace-05fb5505c01d",
+  "ucid": "4446b34b-9cbf-43f1-8ace-05fb5505c01d",
+  "seller_categories": [
+    {
+      "mcat_id": "3725",
+      "mcat_name": "Chaat Masala"
+    },
+    {
+      "mcat_id": "77635",
+      "mcat_name": "Food Seasoning"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "122728",
+      "mcat_name": "Masala"
+    },
+    {
+      "mcat_id": "183965",
+      "mcat_name": "Sabji Masala"
+    }
+  ]
+}

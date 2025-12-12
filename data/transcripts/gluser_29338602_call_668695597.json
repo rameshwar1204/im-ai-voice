@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668695597",
+  "gluser_id": "29338602",
+  "vintage_months": 112,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bhopal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nCustomer: Are nahi hai toh kaise nahi hai bhai? Teen mahine baad mein 4000 rupay nahi aa pa rahe?\\nCustomer: Tum teen mahine se agar sharam aa rahi hai toh mein goli maar dunga. Agla banda 11000 diya hua hai.\\n(silence)\\n(on hold music)\\n(on hold music)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says 4000 rupees not received after 3 months.\\n\n\\n\nResolution:\\n\n- Call was put on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- payment, subscription, delay\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=89757feb-0b0c-400d-857e-f7187b5a74b8",
+  "ucid": "89757feb-0b0c-400d-857e-f7187b5a74b8",
+  "seller_categories": [
+    {
+      "mcat_id": "182307",
+      "mcat_name": "Lean Mass Gainer"
+    },
+    {
+      "mcat_id": "137388",
+      "mcat_name": "Whey Protein"
+    },
+    {
+      "mcat_id": "68911",
+      "mcat_name": "Protein Supplement"
+    },
+    {
+      "mcat_id": "121257",
+      "mcat_name": "Mass Gainer"
+    },
+    {
+      "mcat_id": "182261",
+      "mcat_name": "Pre workout Supplements"
+    }
+  ]
+}

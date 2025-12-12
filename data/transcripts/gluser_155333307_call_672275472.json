@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672275472",
+  "gluser_id": "155333307",
+  "vintage_months": 4,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Rajpur Sonarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fed6fb29-1c15-41a8-b078-8a748ae0679b",
+  "ucid": "fed6fb29-1c15-41a8-b078-8a748ae0679b",
+  "seller_categories": [
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "143856",
+      "mcat_name": "3D Wall Panel"
+    },
+    {
+      "mcat_id": "166726",
+      "mcat_name": "Elevation Tile"
+    }
+  ]
+}

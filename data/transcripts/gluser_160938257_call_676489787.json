@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676489787",
+  "gluser_id": "160938257",
+  "vintage_months": 38,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667836",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan sir, main baat kar raha hun, good evening, kaise hain sir?\\nExecutive: Bahut badhiya.\\nCustomer: Haan, Maurya sahab, maine Vivek ko de rakha tha, bolne ke liye sir ki aapse baat kare, baat bhi hui thi sir parso, kaafi der kal bhi sir, karaiye na sir isko apna, ab to date 22 November ho gaya, aaj 28 hai, aaj ke date mein sahab ji ka jo grace period to hogi, khatam ho jayega aaj raat mein to band hi ho jayega sir, kara dijiye, main samajh raha hun purane problems hui hai sab kuch hai but itna hai ki aage aapko jo bhi hai ek mahine extra bhi karke dunga aur sath mein number of non-lifespan valid bhi main extra karke dunga.\\nCustomer: To chalo abhi to ek mahina hamara hai na, ek mahina jab extra kar rahe ho to.\\nExecutive: Nahi nahi, nayi deal ki baat kar raha hun sir, nayi deal ki baat, abhi ek mahina aap jab pichla itna hua hai to abhi to aapko chhah mahina aage karna hai.\\nCustomer: Haan to isliye to main company se isi basis pe mangunga na ki sir naya deal renew fir bhi kara rahe hain to aap kya de rahe hain, bata do ki abhi, abhi wo chhah mahina baad decision lenge.\\nExecutive: Sir aisa nahi hota hai na Maurya sahab, kitne saal se chala rahe ho sir, karaiye sir isme kahan matlab char saal, panch saal ho gaya IndiaMART mein.\\nCustomer: deta hun na, aapko, aapko aaj hi disconnect karna bahut jaruri ho gaya hai.\\nExecutive: Sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's grace period is ending soon.\\n\n- Wants to know benefits of renewing the deal.\\n\n\\n\nResolution:\\n\n- Executive offered one month extra.\\n\n- Executive offered extra non-lifespan valid buyleads.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- subscription, renewal, buyleads\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=975912e7-a3eb-4523-93aa-10cb15a2f310",
+  "ucid": "975912e7-a3eb-4523-93aa-10cb15a2f310",
+  "seller_categories": [
+    {
+      "mcat_id": "5809",
+      "mcat_name": "Pedestal Fan"
+    },
+    {
+      "mcat_id": "436",
+      "mcat_name": "Ceiling Fans"
+    },
+    {
+      "mcat_id": "191475",
+      "mcat_name": "Lassi Machine"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "6837",
+      "mcat_name": "Electric Table Fans"
+    }
+  ]
+}

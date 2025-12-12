@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666963203",
+  "gluser_id": "31949759",
+  "vintage_months": 17,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631105",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\nExecutive: Hello. Haan, hello boliye.\\n\nCustomer: Rajni ji Gupta baat kar rahi hu IndiaMART se.\\n\nExecutive: Haan, bataiye.\\n\nCustomer: Ji, abhi thodi der pehle aapse baat hui thi na, 1 baje ke aas pass.\\n\nCustomer: Ji.\\n\nExecutive: Ji, haan bataiye, aapka discussion ho gaya?\\n\nCustomer: Haan, maine baat kar li hai madam ji se.\\n\nExecutive: Theek hai.\\n\nCustomer: To unhone kaha tha ki abhi wo nahi hai API ka, wo dekh rahe hain, baki kya update hue hain service ke andar mein wo ek bar matlab ki der baad me wo keh rahi thi ki thodi der ke baad me baat karna.\\n\nExecutive: To abhi is bare mein matlab mujhe bataiye abhi aapko kuch aur janna hai kyuki dekhiye agar aapko CRM chahiye to uske liye integration ke liye aap maine aapko bataya wo chargeable hai. To wo aapke data se attach ho jayega agar wo karna hai to.\\n\nCustomer: Nahi wo to sirf one time ek data entry hoti hai jo buy jo lead main purchase kar raha hu bas uski aur jyada kuch usme CRM me mere ko jarurat nahi baki jo call karni hai ya jo bhi cheeze hain main wahin se track karta hu use. To isliye main alag se uske liye services lene ke liye matlab nahi lena chahta hu.\\n\nExecutive: Yes you are absolutely right agar aapka waha se sara kam ho ja raha hai to aap kar sakte hain. Data ke liye dekhiye manually agar koi puchte hain in sab cheeze pe to hum main to yahi kehti hu ki aap manually apna data jo hai copy paste karke apni sheet pe update kar sakte hain. Regular basis pe char se panch customer base hota hoga aapka, hai na?\\n\nCustomer: Haan wo hai. Four five customer hote hain regularly agar aap regularly apna maintain karenge to aapka data date wise maintain ho sakta hai on regular basis pe agar aap karenge.\\n\nCustomer: Haan to wo main kar raha hu, wo to kar hi raha hu main. Main karta rehta hu update karne ka.\\n\nExecutive: Theek hai. Bas yahi tha. Theek hai. To dusri cheez wo aapne customer care pe call kiya tha to ek feedback open ho gaya tha agar aapka problem resolve ho gaya ho to main isko close kar du?\\n\nCustomer: Theek hai.\\n\nExecutive: Theek hai okay aapke pass ek feedback aayega aap usse apna feedback share kar sakte hain aur kuch janna hai sir aapko koi service kisi cheez ko leke?\\n\nCustomer: No.\\n\nExecutive: Theek hai okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about API updates.\\n\n- Customer does not want CRM integration.\\n\n- Wants to close the feedback open in customer care.\\n\n\\n\nResolution:\\n\n- Executive informed CRM integration is chargeable.\\n\n- Executive suggested manually updating data.\\n\n- Executive closed the feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- api, crm, feedback, data\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b6f2af6a-cfae-4999-9108-c074c55d0aba",
+  "ucid": "b6f2af6a-cfae-4999-9108-c074c55d0aba",
+  "seller_categories": [
+    {
+      "mcat_id": "137788",
+      "mcat_name": "CFC Zipper"
+    },
+    {
+      "mcat_id": "875",
+      "mcat_name": "Zippers"
+    },
+    {
+      "mcat_id": "176794",
+      "mcat_name": "Colored Zippers"
+    },
+    {
+      "mcat_id": "50616",
+      "mcat_name": "Luggage Zipper"
+    },
+    {
+      "mcat_id": "5059",
+      "mcat_name": "Plastic Zippers"
+    }
+  ]
+}

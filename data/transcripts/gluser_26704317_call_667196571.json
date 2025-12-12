@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667196571",
+  "gluser_id": "26704317",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Bokaro",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696322",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning sir, main Shrishti bol rahi hu. Aditya Car Care se baat kar rahe hai?\\nCustomer: Ha mam.\\nExecutive: Ji mam. Sir aap se discuss karna tha ki aapne jo ye email id me register kiya tha Aditya Car Care 2016@gmail.com.\\nCustomer: Ji.\\nExecutive: Ah, is ye jo hai yaha pe iska jo inbox hai wo full ho gaya hai jiski wajah se IndiaMART se koi bhi email agar forward kiya ja raha hai ya kisi bhi buyer ka buyleads wagera aa raha hai to wo waha pe na visible nahi ho raha hoga. Storage full hone ki wajah se.\\nCustomer: Achha achha, thik hai to main storage ha to thik hai na main abhi delete marta hu.\\nExecutive: Agar aap unused messages chahte hai to delete kar dijiye. Otherwise agar aapke paas koi dusra email address ho jo aap usme add karwana chahe to wo bhi ho sakta hai.\\nCustomer: To usme aap na jo 2016 hai na usko aap 2025 kar dijiye. Bas sab baki chiz wohi rahega.\\nExecutive: Achha baki wohi rahega. Sir isko karne ke liye na hum aap hi ko karna hoga aapke phone se aur waha pe na ek OTP jayega verification ke liye.\\nCustomer: To thik hai na mam utna tab karne ki jarurat hai. Main abhi to abhi turant pura isko resend kar deta hu pura.\\nExecutive: Thik hai sir, thik hai. Aap na ek baar kar lijiyega process agar koi issue aata hai to aap ek baar na mujhe call kar dijiyega.\\nCustomer: Ji mam, thik hai mam.\\nExecutive: Okay sir.\\nCustomer: Thik thik mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's email inbox is full.\\n\n- Buyleads are not visible due to full inbox.\\n\n\\n\nResolution:\\n\n- Executive suggested deleting unused messages.\\n\n- Executive suggested adding another email address.\\n\n- Customer agreed to delete messages to clear storage.\\n\n\\n\nNext Steps: \\n\n- Customer will do the process and call if issue persists.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, storage, buyleads, verification\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ffc3822c-77da-4358-b6ac-a925424a0270",
+  "ucid": "ffc3822c-77da-4358-b6ac-a925424a0270",
+  "seller_categories": [
+    {
+      "mcat_id": "23326",
+      "mcat_name": "Car Air Freshener"
+    },
+    {
+      "mcat_id": "134086",
+      "mcat_name": "High Pressure Car Washer"
+    },
+    {
+      "mcat_id": "5526",
+      "mcat_name": "Car Shampoos"
+    },
+    {
+      "mcat_id": "138096",
+      "mcat_name": "Rubbing Compound"
+    },
+    {
+      "mcat_id": "29",
+      "mcat_name": "Fog Lamp"
+    }
+  ]
+}

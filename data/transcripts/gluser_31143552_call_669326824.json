@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669326824",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Mai sir ye puch rahi thi aapne konsi wali mail id se join kiya tha meeting?\\nCustomer: Wo maine ek gmail id se kiya tha.\\nExecutive: Konsa wala batayenge jara verification me dalna padta hai sir. AS09\\nCustomer: AS09\\nCustomer: 43\\nExecutive: 43\\nCustomer: 84\\nExecutive: 84@gmail.com\\nCustomer: Accha baki sir abhi koi aur dikkat nahi hai na aapni?\\nExecutive: Nahi wohi leads ka thoda dekhna padega proper usko karna padega.\\nCustomer: Ha woh maine aapko bata diya dikha bhi diya ki sir dekho aap purani use kar rahe the. Fresh use karo informative use karo to usse jyada chances hote hai sir. Baki to sir IndiaMart aapko opportunity hi de sakti hai conversion to aapko hi karna hai hai na?\\nExecutive: Hmm.\\nCustomer: Wo thik hai uska dekhte hai.\\nExecutive: Hmm.\\nExecutive: Ha thik hai.\\nExecutive: Aur baki sir calls wagera to aapko sahi aa rahe hai. Calls wagera fir bhi aapki baat chit ho rahi hai customers se hai na? Inquiry bhi aa rahi hai woh bhi dekh liya karo. Thik hai kyuki IndiaMart sir daily akele hi nahi inquiry aur calls se hi business deti hai.\\nCustomer: Hmm.\\nExecutive: Thik hai? To abhi sir aapne jo meeting ka concern tha woh mai close kar deti hu fir?\\nCustomer: Ha close kar do.\\nExecutive: Hai na baki koi aur concern nahi hai to mai close kar deti hu. Sir close karne ke baad na ek feedback mail aata hai aapki mail id pe Anupam Santra wali pe aayega. Matlab aapke account manager aapko kaise samjhaya satisfy hue ya nahi. Satisfy hona to fir feedback de dena sir.\\nCustomer: Thik hai. Ha ok.\\nExecutive: Thik hai sir ok.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needed assistance with buyleads.\\n\n- Customer had a concern regarding meeting.\\n\n\\n\nResolution:\\n\n- Executive explained how to use fresh buyleads.\\n\n- Executive offered to close the meeting concern.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, verification, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=773aede4-5170-4ab6-b077-ce6e5a18143c",
+  "ucid": "773aede4-5170-4ab6-b077-ce6e5a18143c",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

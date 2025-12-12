@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667180496",
+  "gluser_id": "185551037",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Chengalpattu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9721947",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Good morning India mart call Dinesh\\nCustomer: Purila sir\\nExecutive: India mart call Dinesh\\nCustomer: A sollunga sir\\nExecutive: Google meeting monthly updation\\nCustomer: Meeting meeting\\nExecutive: Google meeting backend activation call\\nCustomer: Okay okay sir evening call\\nExecutive: Okay five to ten minutes available time call\\nCustomer: Meeting meeting sir\\nExecutive: First connect Google meeting connect\\nCustomer: A ama sir\\nExecutive: Monthly once update backend free of cost promote monthly base by day by day\\nCustomer: Okay okay sir\\nCustomer: Okay sir evening call laptop\\nExecutive: Okay mobile app mobile app connect available time call\\nCustomer: Velia iruken actually call\\nExecutive: Time near sollum\\nCustomer: 550\\nExecutive: 5 6 o clock 6 o clock\\nExecutive: Okay okay okay 6 o clock thank you\\nCustomer: Okay\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to schedule a Google meeting.\\n\n- Customer wants to schedule in the evening.\\n\n\\n\nResolution:\\n\n- Agreed to schedule the meeting at 6 PM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meeting, updation, schedule\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ce6352ff-640b-4a70-ba37-5893e8cfaa2b",
+  "ucid": "ce6352ff-640b-4a70-ba37-5893e8cfaa2b",
+  "seller_categories": [
+    {
+      "mcat_id": "113940",
+      "mcat_name": "Biomass Briquettes"
+    },
+    {
+      "mcat_id": "90018",
+      "mcat_name": "Cotton Knitted Glove"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    },
+    {
+      "mcat_id": "3054",
+      "mcat_name": "Cotton Gloves"
+    },
+    {
+      "mcat_id": "114087",
+      "mcat_name": "Firewoods"
+    }
+  ]
+}

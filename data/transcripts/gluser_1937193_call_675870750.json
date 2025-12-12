@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675870750",
+  "gluser_id": "1937193",
+  "vintage_months": 84,
+  "bl_dau_oct": 15,
+  "customer_type": "STAR",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9718412",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\nNone\\n\n\\n\nResolution:\\n\nNone\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nNone\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fb4e17ae-f83f-4379-8308-669f7655e29f",
+  "ucid": "fb4e17ae-f83f-4379-8308-669f7655e29f",
+  "seller_categories": [
+    {
+      "mcat_id": "184896",
+      "mcat_name": "Kranti Water Meters"
+    },
+    {
+      "mcat_id": "78169",
+      "mcat_name": "Residential Water Meter"
+    },
+    {
+      "mcat_id": "39422",
+      "mcat_name": "Water Meters"
+    },
+    {
+      "mcat_id": "20077",
+      "mcat_name": "Water Flow Meter"
+    },
+    {
+      "mcat_id": "39451",
+      "mcat_name": "Water Strainers"
+    }
+  ]
+}

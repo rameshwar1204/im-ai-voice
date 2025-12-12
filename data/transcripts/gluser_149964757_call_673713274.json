@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "673713274",
+  "gluser_id": "149964757",
+  "vintage_months": 42,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kottayam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Hello. Sir, good morning, sir. Vedarmat Solution from Kotayam. India Mart-le irunthu call pannirukom sir. Neethu pesi irunthom illingala?\\nCustomer: Sorry what?\\nExecutive: Service updation sir.\\nCustomer: Ah?\\nExecutive: Service updation sir.\\nCustomer: Service updation. For catalog, catalog, yes.\\nCustomer: Aha ha ha ha ha ha.\\nCustomer: So right now I am in not in office.\\nExecutive: Okay. How about outside right now?\\nCustomer: Ah?\\nExecutive: When I want to get back to you sir?\\nCustomer: You call me on a 3 o'clock today.\\nExecutive: 3 o'clock.\\nCustomer: Yeah. Okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss service updation.\\n\n- Customer is currently out of office.\\n\n\\n\nResolution:\\n\n- Call rescheduled for 3 o'clock today.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service updation, catalog, call reschedule\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2d4df900-0997-4500-98df-82a79405ba8e",
+  "ucid": "2d4df900-0997-4500-98df-82a79405ba8e",
+  "seller_categories": [
+    {
+      "mcat_id": "2727",
+      "mcat_name": "Ventilation Fans"
+    }
+  ]
+}

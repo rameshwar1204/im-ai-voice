@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668682871",
+  "gluser_id": "15467891",
+  "vintage_months": 88,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638907",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nHello\\nExecutive: Hello. Hello. Haan ji.\\nCustomer: Good afternoon. Vineet baat kar raha hu main IndiaMART se. Haan ji. Haan ji, haan ji boliye boliye. Mam sir ko call kiya tha sir na hospital mein bata rahe the. Hai. Haan wo to hospital mein hai.\\nExecutive: Ji actually mam ye hai ki jo aapka concern open hua tha na image jo copy ki hui hai kisi ne IndiaMART ke seller ne. To unko ye bata raha tha ki wo image unhone hatane se mana kar diya hai. Aur hata aapki image copy karke matlab jaise aap bol rahe hain copy ki aapki image us pe unhone apna watermark laga ke wo upload kar di hai. To by process main aapko hata nahi sakta aur maine request bhi ki unse unke jo account manager hai ki aap hatwa dijiye ki aise aise unhone copy ki hui hai. To unhone unko bhi mana kar diya ki main nahi hataunga bilkul bhi.\\nCustomer: Achcha mana kar diya unhone.\\nExecutive: Ji bilkul mana kar diya. Ab wohi hai ki mam ab unhone copy bhi kari hai watermark bhi laga diya jaise aapki image pe watermark pade hue hain. Ab main koi bhi aapki image copy nahi kar sakta ya fir koi lagaye to fir main proof de sakti hu na ki wo meri location ki photo hai.\\nCustomer: Mam is matlab kaise aap proof dena chah rahe hain aap samjhaye kya proof rahega. Meri jo particular location hai mere sare photo aapko usi location pe milenge. Location to mam main video bana ke bhej deti hu na Dhanwanti Handicraft ki. Mam ye cheez mere liye hai but system ye cheez accept nahi karta system image ek bar main ek bar baat karti hu ki ek bar unse baat kar lenge ki wo mana kar rahe hain.\\nExecutive: Location to mam main video bana ke bhej deti hu na Dhanwanti Handicraft ki. Mam ye cheez mere liye hai but system ye cheez accept nahi karta system image ek bar main ek bar baat karti hu ki ek bar unse baat kar lenge ki wo mana kar rahe hain.\\nHai na? Ek bar main baat kara deti hu. Bol deti hu. Sir bol rahe aap hi ke vendor hai wo?\\nCustomer: Ab nahi lete wo humse maal.\\nExecutive: Sir to mam aap log ek bar internally baat karke dekho na ki aapne hamari lagai hai usko hata dijiye. Kya pata aapki kehne se maan jaye. Main baat karti hu. Main baat karti hu.\\nCustomer: Main baat karti hu rukiye. Main keh raha hu aapko concern hai please sir isko please mat dekho. Main baat karti hu abhi.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's image was copied by another seller.\\n\n- The other seller refused to remove the image.\\n\n\\n\nResolution:\\n\n- Executive explained the situation to the customer.\\n\n- Executive mentioned he cannot remove the image.\\n\n- Customer decided to talk to the seller directly.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- image copy, watermark, seller, resolution\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1df87037-ffdc-4a72-bc1c-daf9b8dc6de1",
+  "ucid": "1df87037-ffdc-4a72-bc1c-daf9b8dc6de1",
+  "seller_categories": [
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "30661",
+      "mcat_name": "Indoor Fountain"
+    },
+    {
+      "mcat_id": "14098",
+      "mcat_name": "Fiberglass Fountain"
+    },
+    {
+      "mcat_id": "165907",
+      "mcat_name": "FRP Fountains"
+    },
+    {
+      "mcat_id": "72799",
+      "mcat_name": "Water Fountain"
+    }
+  ]
+}

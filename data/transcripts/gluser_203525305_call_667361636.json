@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667361636",
+  "gluser_id": "203525305",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hi yes.\\nCustomer: S.S.N Enterprises.\\nExecutive: Aama sir.\\nExecutive: Sir India Mart call panniruken sir.\\nCustomer: Sollunga.\\nExecutive: Sir reason open manager rendu reason inform pannirundhanga. Okay va sir ippo tension clear sir so ellame problems ellame resolve aagichingala?\\nCustomer: Resolved sir. Ippo in case any problem na call pandren nu solliruken.\\nExecutive: Okay okay. So neenga direct ah ve vandhu paathina ungaloda account manager irukar illaiya so neenga avarukke sorry avarukke vandhu paathina call panna mudiyum. En side la irundhu ungalukku na chinna information mattum sollren. Okay va?\\nCustomer: Okay.\\nExecutive: Call pannirukanga ungalukku. Seringala?\\nCustomer: Okay.\\nExecutive: So namba reasons enna busy schedule irundha athu enna namba konjam miss pannirukka maari inga vandhu paathina kaamikuthu. Yenna direct ah ve avanga vandhu paathina unga profile reach panni try panni vandhu paathina call pannirukanga.\\nCustomer: Illa sir adhe actual ah vandhu aama aama actual ah enna na sir adhu spam vandhu auto reject aayirukku sir. So call vandhadhe enakku theriyala. Innaikku sir sollumbodhu dhaan andha spam mattum eduthu vidunga. Yenna adhu pannaa dhaan ungalukku vandhu call varum abindradhu maari sonnaaru. Naa kaamishen avarta. Screen share pannumbodhu kooda kaamishen. So call vandhadhe enakku theriyala. That's the thing. Naa adha ippo remove pannidren sir.\\nExecutive: Ithu neenga true caller uninstall panni install panni ippo correct ah endha number ungalukku major ah venumo andha number add pannikkonga. Okay va so meet disable irukadhu enable aagradhukku kooda chances irukkalaam. Okay va?\\nCustomer: Okay.\\nExecutive: Okay. So ippo na sonna maari idhu mattum neenga konjam paarunga sir. Okay va in case edhaachum irundhaalum neenga unga account manager reach pannunga sir. Seringala?\\nCustomer: Okay. Okay.\\nExecutive: Okay. Okay sir. Thank you. Thank you sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says spam auto rejected calls.\\n\n\\n\nResolution:\\n\n- Executive suggested uninstalling/reinstalling Truecaller.\\n\n- Executive suggested adding major number to Truecaller.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- spam, truecaller, call, account manager\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e0275785-8ebe-4086-b56e-aa9762a96d80",
+  "ucid": "e0275785-8ebe-4086-b56e-aa9762a96d80",
+  "seller_categories": [
+    {
+      "mcat_id": "788",
+      "mcat_name": "Latex Gloves"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    },
+    {
+      "mcat_id": "216615",
+      "mcat_name": "3 Ply Face Mask"
+    },
+    {
+      "mcat_id": "1903",
+      "mcat_name": "Safety Gloves"
+    },
+    {
+      "mcat_id": "126120",
+      "mcat_name": "Disposable Cap"
+    }
+  ]
+}

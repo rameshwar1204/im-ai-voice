@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670642977",
+  "gluser_id": "22121233",
+  "vintage_months": 37,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rewari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669225",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir. Haan ji.\\nExecutive: Wo unhone mein kaam karta hu dusri mein to unhone unhone account usme apna add kiya hai unka aur mera isme alag hi rahega.\\nCustomer: Haan haan.\\nExecutive: Haan main aapko wahi main aapko wahi baat bata raha tha.\\nCustomer: Haan.\\nExecutive: Haan to isko main jo concern unhone raise kiya tha mobile number change karne ke liye to wo main concern close kar du na sir?\\nCustomer: Haan unka unka to udhar kar do.\\nExecutive: Close kar du aur ye number se rahega meri.\\nCustomer: Ji aapke is number se rahega.\\nExecutive: Wahi main aapse discuss karna chah raha tha bas to main unhone jo concern complaint dali thi main wo close kar de raha hu.\\nExecutive: Theek hai.\\nCustomer: Theek hai sir. Haan haan baki koi dikkat rehta service mein to aap mere ko bataiyega sir aur aap apni service use kijiyega. Theek hai to main ye aapka jo bhi unhone pension dala tha wo close kar de raha hu. Aapke mail pe na sir ek mail haan aapki jo mail id hai us pe IndiaMART se ek mail jayega to usme satisfy mein yes mark kar dijiyega sir theek hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai sir main concern aapka close kar raha hu bas. Okay thank you sir. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm mobile number change concern.\\n\nResolution:\\n\n- Executive confirmed the mobile number will remain same.\\n\n- Executive will close the concern raised.\\n\n- Executive asked to mark yes on satisfaction mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- mobile number, concern, mail, satisfaction\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=426f97a6-da27-4f88-9cbf-9c680291df38",
+  "ucid": "426f97a6-da27-4f88-9cbf-9c680291df38",
+  "seller_categories": [
+    {
+      "mcat_id": "21039",
+      "mcat_name": "Tin Ingots"
+    },
+    {
+      "mcat_id": "148316",
+      "mcat_name": "Metal Dross"
+    },
+    {
+      "mcat_id": "126816",
+      "mcat_name": "Lead Free Solder Wire"
+    },
+    {
+      "mcat_id": "7644",
+      "mcat_name": "Soldering Pastes"
+    },
+    {
+      "mcat_id": "126853",
+      "mcat_name": "Solder Ingot"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668284637",
+  "gluser_id": "225795639",
+  "vintage_months": 8,
+  "bl_dau_oct": 1,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Latur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9653604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Sir abhi Ankita baat kar rahi hu abhi baat hui thi na just aapse meri.\\nCustomer: Ji ji sir boliye.\\nExecutive: IndiaMART se.\\nCustomer: Ji.\\nExecutive: Ji ji ji. Sir actually main verbally connect nahi kar payi hu apni team se, thik hai? Aur without having any discussion with legal team main aapko kuch update bhi nahi kar paungi. Aapke services ko initiate karne ke liye matlab aap apne end se jo bhi aapko lagta hai matlab aap kya possibility dikhti hai aap ek mail hume drop kar do. Main us mail ko apne legal team ko share karungi and then only they will suggest ki hum kya kar sakte hain. Kya hum further promote kar payenge nahi kar payenge another domain ke sath. To aap ek mail agar possible agar possible nahi ho raha hai to usko services stop kar do aur jo bhi amount hota hai wo refund kar do wo khatam ho jayega wo.\\nExecutive: Sir wo to definitely wo hamara hame karna hi hoga last option wahi hai. Matlab obviously main isiliye aapko connect kar rahi hu kyunki ek mahina already ja chuka hai. Aapka service ka promotion bhi hamper ho raha hai mere yahan par bhi dikkat aa rahi hai, thik hai? To maine isiliye aapko call kiya hai taki aise conclude kar paye, thik hai? To agar aap koi option hai ek to services rok do ya fir usme koi changes karke usko carry on kar do.\\nCustomer: Sir mere end se to changes main nahi kar paungi. Matlab kyunki aap aap ek cheez samajhiye koi bhi cheez jisme legal team involved hai to usme main ya mera team apne aap se koi bhi action nahi le sakta hai. Agar aapke koi request hai aap hame mail kar sakte ho main wo mail apne legal team ko forward karungi if if they suggest ki option.\\nExecutive: Nahi to fir in that case thik hai main jo bhi process hai fir main wo aapko bata deti hu kyunki main on verbal communication pe main further maine koshish kiya tha but I don't think ki wo verbally humse discuss kar payenge. To without having any communication written communication maybe I am not able to help you out further on this. To maine isiliye aapko dobara call back kiya hai. Ji ji ji.\\nCustomer: Thik hai okay.\\nExecutive: Thik hai okay okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund if service impossible.\\n\n- Executive unable to connect with legal team.\\n\n- Service promotion is being hampered.\\n\n\\n\nResolution:\\n\n- Customer to send an email with concerns.\\n\n- Executive will forward to legal team.\\n\n- Executive will inform customer about the process.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, services, legal team, email\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7742107c-6106-4d09-bdb2-e1ffb2707c4b",
+  "ucid": "7742107c-6106-4d09-bdb2-e1ffb2707c4b",
+  "seller_categories": [
+    {
+      "mcat_id": "85002",
+      "mcat_name": "Colorful Cracker"
+    },
+    {
+      "mcat_id": "85000",
+      "mcat_name": "Celebration Firework"
+    },
+    {
+      "mcat_id": "235605",
+      "mcat_name": "Cold Fireworks"
+    },
+    {
+      "mcat_id": "651057",
+      "mcat_name": "Multi Shot Fireworks"
+    },
+    {
+      "mcat_id": "443018",
+      "mcat_name": "Colour Smoke Bomb"
+    }
+  ]
+}

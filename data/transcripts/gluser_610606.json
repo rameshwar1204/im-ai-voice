@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673282131",
+  "gluser_id": "610606",
+  "vintage_months": 228,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690838",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nSir, yes, sir, this is from the Kiran Engineers Company, sir.\\nYes, sir.\\nUh, hi, sir. Good afternoon. My name is Sanjay. I'm from Head Office, Vijay Maharashtra, sir.\\nOkay.\\nI think, sir, yesterday my team, Mr. Manish Kumar, I think he contacted you regarding one feedback\\nright, that you have shared regarding the preferred locations, right?\\nCan I, can I call you after half an hour?\\nNo issue, sir. I know.\\nNo issue, no issue, sir. I'll be connect after half an hour then. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback regarding preferred locations.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Call to be rescheduled after half an hour.\\n\nAlert (If Any):\\n\n- None\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, preferred locations, reschedule call\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45aeb815-a578-458b-a3c3-d1514088e147",
+  "ucid": "45aeb815-a578-458b-a3c3-d1514088e147",
+  "seller_categories": [
+    {
+      "mcat_id": "41423",
+      "mcat_name": "Wood Chippers"
+    },
+    {
+      "mcat_id": "162497",
+      "mcat_name": "Agricultural Shredder"
+    },
+    {
+      "mcat_id": "190857",
+      "mcat_name": "Tyre Cutting Machine"
+    },
+    {
+      "mcat_id": "143432",
+      "mcat_name": "Sand Screening Machine"
+    },
+    {
+      "mcat_id": "153623",
+      "mcat_name": "Sawdust Making Machine"
+    }
+  ]
+}

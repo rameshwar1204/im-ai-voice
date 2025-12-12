@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667553420",
+  "gluser_id": "163531580",
+  "vintage_months": 31,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636821",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello. Haan ji.\\n\\nCustomer: Main Govind baat kar raha hun.\\n\\nExecutive: Kaun baat kar rahe hain?\\n\\nCustomer: Govind. Haan Govind ji bataiye.\\n\\nCustomer: Aapke number pe phone lagaya tha.\\n\\nExecutive: Kya keh rahe hain?\\n\\nCustomer: Are ek complaint thi.\\n\\nExecutive: Bataiye kya dikkat hai?\\n\\nCustomer: Are nivedan iskal ko humne payment kiya aur maal nahi bheja.\\n\\nExecutive: Kya kar diya? Kya kar diya? Payment bhej diya aapne?\\n\\nCustomer: Haan, maal nahi bheja.\\n\\nExecutive: Kisko payment bheja hai?\\n\\nCustomer: Are ho gaye dedh mahine.\\n\\nExecutive: Dedh mahine ho gaye aap bata rahe hain aap. Kisko bheja tha aapne?\\n\\nCustomer: Nikal.\\n\\nExecutive: Hmm? Kisko bheja tha?\\n\\nCustomer: Nikal and company.\\n\\nExecutive: Nikal and company kahan ki hai?\\n\\nCustomer: Haryana, Fatehabad.\\n\\nExecutive: Achcha achcha. To kis cheez ke liye bheja tha? Kya kya maal aapne kharida unse?\\n\\nCustomer: Chow mats.\\n\\nExecutive: Chow mats.\\n\\nExecutive: Achcha. Ek kaam kariye unka mobile number aur jo payment kiya hai wo screenshot, ek bill bana ke aapko diya hoga wo bill. Theek hai? Ye naam unka ye sab likh ke mujhe bhej dijiye aap.\\n\\nCustomer: Theek hai.\\n\\nExecutive: Theek hai. Kitna time hua?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer paid for goods but not received.\\n\n\\n\nResolution:\\n\n- Executive asked customer to share details.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, goods, company details\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0527eb7a-f18b-4ae1-b063-a34449511bcc",
+  "ucid": "0527eb7a-f18b-4ae1-b063-a34449511bcc",
+  "seller_categories": [
+    {
+      "mcat_id": "87759",
+      "mcat_name": "Liquid Nitrogen Container"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "162880",
+      "mcat_name": "Frozen Animal Semen"
+    },
+    {
+      "mcat_id": "89955",
+      "mcat_name": "Veterinary Glove"
+    },
+    {
+      "mcat_id": "148162",
+      "mcat_name": "Artificial Insemination Sheaths"
+    }
+  ]
+}

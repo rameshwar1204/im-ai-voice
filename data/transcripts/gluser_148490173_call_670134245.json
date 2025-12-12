@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670134245",
+  "gluser_id": "148490173",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sheorinarayan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703137",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Sudev ji baat kar rahe hain?\\nCustomer: Haan main bataiye.\\nExecutive: Sir Nidhi baat kar rahi hu IndiaMART se.\\nCustomer: Baat kariye bataiye.\\nExecutive: Haanji sir, sir ek cheez puchni thi jo kal kal aapne subscription liya hai toh uske baad aapko jaise catalog mein kuch redesigning karani hai like aapke jo total 51 products hain.\\nCustomer: Haan karana toh hai mam. Karana toh hai.\\nExecutive: Haan toh abhi video meet pe connect kar sakte hain? Free aap free hain sir?\\nCustomer: Hello.\\nCustomer: Haan haan free hu main.\\nExecutive: Toh aapko video meet ka link share kar du abhi?\\nCustomer: Kya ji karna hai?\\nExecutive: Video meet, video meet ka link.\\nCustomer: Uh, video meet woh Google Meet jisme aapke liye. Rukiye na rukiye na rukiye na.\\nCustomer: Main upar main ja raha hu mere ladka kuch tha. Main batata hu.\\nExecutive: Okay.\\nExecutive: Accha aur sir ek cheez aur puchni thi.\\nCustomer: Haan haan. Hello. Nakul. Kya?\\nCustomer: Haan, ek taraf dekh liyo na main ja raha hu. Haan haan.\\nCustomer: Hello, ek minute rukiyega.\\nExecutive: Hello.\\nCustomer: Hello.\\nCustomer: Haan main thodi der mein lagata hu hai na. Mere ladka.\\nExecutive: Sir ek cheez puchni thi hello.\\nCustomer: Haan haan.\\nExecutive: Main keh rahi hu video meet pe toh baat karungi baad mein, yeh aap bata dijiye. Ek cheez na ek ticket aapke end se open thi ki aapne koi seller ne aapne koi photo share kari hai usse WhatsApp pe aap na WhatsApp pe jaake usko matlab WhatsApp pe aapne koi photo share kari thi seller ko. Ek aapko kuch haan 11 11 November. Hello.\\nCustomer: Hello.\\nCustomer: 11 tareekh ko.\\nExecutive: Haan sir 11 tareekh ko e-seller shared a photo matlab seller ne aapko photo bheji thi.\\nCustomer: Toh usi ke liye main aapne woh check kara ki apne WhatsApp history ki woh seller kya hai. Suniye na suniye na meri baat suniye na suniye na thodi der mein baat karte hain na woh mere ladka na WhatsApp mein hai.\\nExecutive: Accha accha aap bataiye toh main ek kitne ek ghante baad. Ek ghante baad, ek ghante ek ghante ke baad.\\nExecutive: Theek hai. Theek hai sir main aapko ek ghante baad connect kar deti hu. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about redesigning the catalog.\\n\n- Executive asked about photo shared by seller on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive offered to connect on video meet.\\n\n- Customer asked to call after one hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, redesigning, video meet, whatsapp\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 202,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9a4c3ff8-db25-47ee-9e65-50f82c3caf54",
+  "ucid": "9a4c3ff8-db25-47ee-9e65-50f82c3caf54",
+  "seller_categories": [
+    {
+      "mcat_id": "22408",
+      "mcat_name": "Audio Power Amplifier"
+    },
+    {
+      "mcat_id": "126301",
+      "mcat_name": "Pro Audio Speaker"
+    },
+    {
+      "mcat_id": "190770",
+      "mcat_name": "DJ Speaker"
+    },
+    {
+      "mcat_id": "222643",
+      "mcat_name": "Stranger PA Amplifier"
+    },
+    {
+      "mcat_id": "26733",
+      "mcat_name": "DJ System"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666810321",
+  "gluser_id": "45081065",
+  "vintage_months": 60,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630079",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Ji sir, Shubham baat kar raha tha IndiaMART se. Good morning, sir.\\nCustomer: Haan ji.\\nExecutive: Bhej doon sir? 11:30 ka ya 11:20 ka?\\nCustomer: Sir ek 15 se 20 minute pe 11:40 pe de dijiye mereko.\\nExecutive: 11:40 ka abhi main ek kaam karu sir, ek kaam kar raha hu, ruko ek second aapko abhi ruko.\\nCustomer: Haan.\\nExecutive: Main aapko 11:45 ka bhej diya. Ek baar aap check kariye aapke paas aa gaya hoga.\\nCustomer: Okay okay.\\nExecutive: Aapki jo mail ID hai, usme maine bhej diya aapko. Ek second main mail ID bata deta hu kaunse wali hai aapki.\\nExecutive: Ek second ruk jao.\\nExecutive: One second sir.\\nExecutive: Yeh wali mail ID hai sir aapki.\\nCustomer: Aa gaya aa gaya sir.\\nExecutive: Chetan, ji Chetan Industries nine at the rate. 11:45 ka hai sir, please join kar lijiyega 11:45 pe. Main join karke available rahunga 11:45 pe.\\nCustomer: Okay okay okay.\\nExecutive: Okay. Theek hai ji. Theek hai sir. Thank you.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Requested a meeting link for 11:40.\\n\\n\\nResolution:\\n\\n- Sent a meeting link for 11:45 via email.\\n- Confirmed the customer received the link.\\n- Advised to join the meeting at 11:45.\\n\\n\\nNext Steps: \\nIssue resolved. Customer to join the scheduled meeting at 11:45.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n\\n@@@Key Topics:\\n- meeting link, scheduling, email confirmation\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=99c37296-9fc0-4b9d-8d36-f8833fe591e5",
+  "ucid": "99c37296-9fc0-4b9d-8d36-f8833fe591e5",
+  "seller_categories": [
+    {
+      "mcat_id": "140720",
+      "mcat_name": "Masala Making Machine"
+    },
+    {
+      "mcat_id": "1068",
+      "mcat_name": "Pulverizers"
+    },
+    {
+      "mcat_id": "441989",
+      "mcat_name": "Double Stage Pulverizer"
+    },
+    {
+      "mcat_id": "152127",
+      "mcat_name": "Chilli Grinding Machine"
+    },
+    {
+      "mcat_id": "215253",
+      "mcat_name": "Commercial Spice Grinder Machine"
+    }
+  ]
+}

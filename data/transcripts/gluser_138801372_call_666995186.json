@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "666995186",
+  "gluser_id": "138801372",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Mere Ram aayenge ma Sita sang aayenge bhata Lakshmi\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Hello? Haan Kishan ji Pawan baat kar raha tha India Mart se sir.\\nExecutive: Hello? Haan boliye sir.\\nExecutive: Sir Shashwat engineering ke naam se catalog running hai na sir isme sir aapka concern aaya hua tha bataiyega sir kya problem aa rahi hai?\\nCustomer: Bhai abhi main thoda kaam pe hu aur wo mujhe hai na mera refund refund chahiye.\\nExecutive: Sir refund ek bar kuch bataenge kya problem aa rahi hai sir?\\nCustomer: Problem mein ye hai ki man lo ki koi response hi nahi hai acha koi kisi bhi customer ka aur lead bhi nahi aati hai.\\nExecutive: abhi tak teen char lead aayi hai jaise dekhte ho jyada aayi hai.\\nCustomer: Lekin kya hai usme sabhi ko call karke main bolu na to koi bhi ache se koi jawab nahi deta aur man lo ki aisa bolte hai humne kaam de diya diya aur hum aise hi dekh rahe the aur aisa jawab mil raha tha.\\nExecutive: Haan.\\nCustomer: Isliye abhi mujhe apna refund chahiye.\\nExecutive: follow chal raha hai apna.\\nExecutive: Nahi nahi apna ye follow chal raha hai sir cliento ke sath isme na dekhna Junagarh mein bahut badi client base hai sir isi particular product.\\nCustomer: Baat sahi hai aapki sabhi sahi baat hai.\\nExecutive: Haan haan haan haan.\\nCustomer: Lekin abhi mujhe refund chahiye.\\nExecutive: Sir main refund ki baat main initiate karta hu lekin aap ek cheez samajhiye na investment aapne kiya hua hai output ke liye to aap aaye hue hai sir ek bar agar aap online aa jaye discussion ho jaye to dikha dete hai sir hum aapko.\\nCustomer: Koi baat nahi to abhi main thoda kaam pe hu baad me karunga main to.\\nExecutive: Achcha kab tak free ho jaoge sir aap?\\nCustomer: Aap mujhe 6:30 7 baje phone karna.\\nExecutive: 6:30 to nahi sir 5 baje kar le kya aapko ek bar?\\nCustomer: Nahi ye sir main 5 baje kaam nahi abhi kya hai sare aadmi mere yahi par ruke hue hai isliye haan.\\nExecutive: Achcha achcha achcha ruke hue hai. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a refund due to poor lead quality.\\n\n- No proper response from the customers.\\n\n\\n\nResolution:\\n\n- Executive offered a discussion to resolve the issue.\\n\n\\n\nNext Steps: \\n\n- Customer will connect at 6:30-7 PM.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, catalog\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3a158d9c-f165-467e-a30a-cffc68decc9a",
+  "ucid": "3a158d9c-f165-467e-a30a-cffc68decc9a",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "43251",
+      "mcat_name": "Neodymium Rod Magnet"
+    },
+    {
+      "mcat_id": "145239",
+      "mcat_name": "Screw Flights"
+    },
+    {
+      "mcat_id": "445748",
+      "mcat_name": "Alnico Rod Magnet"
+    }
+  ]
+}

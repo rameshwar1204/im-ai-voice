@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674827984",
+  "gluser_id": "256181627",
+  "vintage_months": 0,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708455",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Yeah, hi sir, speaking from IndiaMART.\\nCustomer: Ji boliye madam.\\nExecutive: Haan ji sir, aapki ek complaint raise thi IndiaMART se.\\nCustomer: Hello.\\nCustomer: Ji wo to ji madam wo to purani ho gayi complaint uske baad me live ka tha wo profile live nahi hui thi meri catalog.\\nExecutive: Live to ho gayi hai na sir service aapki. \\nCustomer: Haan ab live ho gayi. \\nExecutive: Haan, to abhi matlab iska kya matlab aapko kya issue aa raha tha sir?\\nCustomer: Nahi filhal ab koi issue nahi hai madam. Jo problem thi wo solve ho gayi.\\nExecutive: Jo problem thi wo solve ho chuki hai.\\nCustomer: Haan madam.\\nExecutive: Okay, to sir isko main close kar doon?\\nCustomer: Haan close kar dijiye. \\nExecutive: Ek mail jayega aapka feedback mein satisfied, not satisfied ka satisfied mark kar dijiyega sir.\\nCustomer: Okay madam kar dunga. Koi issue pending nahi hai na aapka sir?\\nCustomer: Nahi nahi filhal abhi to koi nahi hai.\\nExecutive: Okay, theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's profile was not live.\\n\n\\n\nResolution:\\n\n- Executive confirmed the profile is now live.\\n- Customer confirmed the issue is resolved.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback via email.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- profile, live, complaint, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ee6de185-9cfb-4289-824a-bce57d23d86e",
+  "ucid": "ee6de185-9cfb-4289-824a-bce57d23d86e",
+  "seller_categories": [
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "9866",
+      "mcat_name": "Marble Pillars"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "9850",
+      "mcat_name": "Marble Floor Tiles"
+    }
+  ]
+}

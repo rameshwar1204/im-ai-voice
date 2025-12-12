@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668128790",
+  "gluser_id": "82101709",
+  "vintage_months": 10,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Tirur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640266",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir, BSS se baat kar rahe hain, Sreejesh ji. Good afternoon sir, aapko call kar rahe hain.\\nCustomer: I am busy, aap some time please, I am busy please.\\nExecutive: Sir, main kab call kar lu? Aap ek baar time bata dijiye please sir. Aapka do minute sir aapne. Sir aap sir aapka call aapne call kiya tha mere number pe. To sir aapka kuch concern hai sir services ke liye? Aapka incoming call mujhse miss ho gaya tha. To aapka kuch concern hai ya aise hi aapne kiya tha normally?\\nCustomer: Theek hai. Haan haan.\\nExecutive: Aapne call kiya tha mujhe, theek hai?\\nCustomer: Okay. So mere number pe.\\nExecutive: Sorry?\\nCustomer: Aap to problem maaro na. Can you speak in English? I am not good in English.\\nExecutive: Okay. Okay ma'am, I will call you back in 4 o'clock this number, okay ma'am?\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the executive to call later.\\n\n- Customer requests to speak in English.\\n\n\\n\nResolution:\\n\n- Executive offered to call back at 4 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, language preference, callback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=13d67df1-423a-4a5b-98d6-b33dd6ba4385",
+  "ucid": "13d67df1-423a-4a5b-98d6-b33dd6ba4385",
+  "seller_categories": [
+    {
+      "mcat_id": "257861",
+      "mcat_name": "Mephentermine Sulphate Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "137953",
+      "mcat_name": "Erythropoietin Injection"
+    },
+    {
+      "mcat_id": "225029",
+      "mcat_name": "Renocrit Injection"
+    },
+    {
+      "mcat_id": "161859",
+      "mcat_name": "Enoxaparin Injection"
+    }
+  ]
+}

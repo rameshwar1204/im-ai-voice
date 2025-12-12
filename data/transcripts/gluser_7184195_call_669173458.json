@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669173458",
+  "gluser_id": "7184195",
+  "vintage_months": 108,
+  "bl_dau_oct": 20,
+  "customer_type": "LEADER",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675106",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [unintelligible]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Namaste sir.\\nCustomer: Namaste.\\nExecutive: Sir, mein IndiaMART se bol rahi hu, ${Exec_Name}.\\nCustomer: Haan.\\nExecutive: Sir, aapka jo payment pending dikha raha hai, aapko update karna hai kya?\\nCustomer: Haan, mein kar dunga, mein kar dunga.\\nExecutive: Kab tak karenge sir?\\nCustomer: Mein, mein kal tak kar dunga.\\nExecutive: Theek hai sir, kal tak aap payment kar dijiye.\\nCustomer: Haan.\\nExecutive: Theek hai sir, dhanyavad.\\nCustomer: Dhanyavad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive: Customer's payment is showing pending.\\n\n\\n\nResolution:\\n\n- Customer agreed to make the payment by tomorrow.\\n\n\\n\nNext Steps: \\n\n- Customer will make the payment by tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, pending, update\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b39e306a-2b98-452b-be1e-a4d0b87d3233",
+  "ucid": "b39e306a-2b98-452b-be1e-a4d0b87d3233",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    }
+  ]
+}

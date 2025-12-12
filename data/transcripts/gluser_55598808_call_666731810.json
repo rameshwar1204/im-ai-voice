@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666731810",
+  "gluser_id": "55598808",
+  "vintage_months": 75,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rishra",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628403",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Yes, good morning sir.\\nCustomer: Oh, good morning.\\nExecutive: Maine kaha sir jo issue tha aapka resolve ho gaya?\\nCustomer: Haan ho gaya sir.\\nExecutive: Concern close kar du main?\\nCustomer: Ji ji.\\nExecutive: Theek hai sir. Thank you so much.\\nCustomer: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on a previously raised issue.\\n\\n\\nResolution:\\n\\n- Customer confirmed the issue is resolved.\\n- Executive confirmed closing the concern.\\n\\n\\nNext Steps: \\nIssue resolved. The executive will close the concern.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Positive\\n\\n@@@Key Topics:\\n- issue resolution, concern closure, follow-up call\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f1f54ecf-72ac-4147-ae1e-8ba44ac24209",
+  "ucid": "f1f54ecf-72ac-4147-ae1e-8ba44ac24209",
+  "seller_categories": [
+    {
+      "mcat_id": "159892",
+      "mcat_name": "Steam Car Washer"
+    },
+    {
+      "mcat_id": "162461",
+      "mcat_name": "Engine Decarbonizing Machine"
+    },
+    {
+      "mcat_id": "134086",
+      "mcat_name": "High Pressure Car Washer"
+    },
+    {
+      "mcat_id": "139629",
+      "mcat_name": "Hydraulic Washing Lift"
+    },
+    {
+      "mcat_id": "15600",
+      "mcat_name": "Hydraulic Car Lift"
+    }
+  ]
+}

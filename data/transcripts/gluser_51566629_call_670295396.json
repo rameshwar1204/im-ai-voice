@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670295396",
+  "gluser_id": "51566629",
+  "vintage_months": 55,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Pollachi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666287",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Sir, Saraswati Traders and Exporter mein baat kar rahe hai sir?\\nExecutive: Yes, tell me in English, tell me regarding.\\nExecutive: Okay, sir you have you have just worked with Kavita your account manager from IndiaMART.\\nCustomer: Okay.\\nExecutive: You know I am I am her senior but you have gave her call not satisfied sir what is the reason you have not satisfied?\\nCustomer: I will update you sir wait sir whenever calling time some busy time Kavitaravat was calling. Today also we are going meeting but unfortunately it was cut down. So again we want to discuss for further sir that's all.\\nExecutive: No problem we can discuss but that's why I want to ask you call not satisfied so what is the reason of not satisfying so that we can help you out in there.\\nCustomer: Okay, okay sir.\\nExecutive: Right at what time I should call you?\\nCustomer: Sir you can call me after some time okay.\\nExecutive: After some time 3 o'clock should I call you?\\nCustomer: Yes sir yes sir.\\nExecutive: Okay sir I will call you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not satisfied with previous call.\\n\n\\n\nResolution:\\n\n- Executive asked the reason for dissatisfaction.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 3 o'clock.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, satisfaction, call time\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3016910f-b1f5-430d-9061-d6aa7ed72434",
+  "ucid": "3016910f-b1f5-430d-9061-d6aa7ed72434",
+  "seller_categories": [
+    {
+      "mcat_id": "156361",
+      "mcat_name": "Tender Coconut"
+    },
+    {
+      "mcat_id": "42014",
+      "mcat_name": "Coconut Copra"
+    },
+    {
+      "mcat_id": "156360",
+      "mcat_name": "Husked Coconut"
+    },
+    {
+      "mcat_id": "150726",
+      "mcat_name": "Dried Coconut"
+    },
+    {
+      "mcat_id": "101983",
+      "mcat_name": "Coconut"
+    }
+  ]
+}

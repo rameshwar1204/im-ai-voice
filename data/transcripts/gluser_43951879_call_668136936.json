@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668136936",
+  "gluser_id": "43951879",
+  "vintage_months": 4,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Gadchiroli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643398",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Sir, mai MM ke floor solution se bol raha hu.\\nCustomer: Ji sir.\\nExecutive: Ah, sir ye abhi jaisa mera leads khatam ho gaya.\\nCustomer: To aur leads chahiye to uske liye kya kar sakte hai sir?\\nExecutive: Sir kis mein the wo company company mein?\\nCustomer: MM ke floor solution hai sir mera company India mart mein.\\nExecutive: Accha MM ke floor solution.\\nCustomer: Ji.\\nExecutive: To sir uske liye purchase karna padta hai ya to sir ek kaam kariye abhi mai thoda sa lunch pe tha.\\nCustomer: Mai aapko abhi connect karta hu.\\nExecutive: Sir nahi hota hai na call kijiye.\\nCustomer: Thik hai sir.\\nExecutive: Ha mai lunch ke baad connect karta hu mai call karta hu.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's leads have finished.\\n\n- Wants to know how to get more leads.\\n\n\\n\nResolution:\\n\n- Executive said he is on lunch.\\n\n- Executive will call back after lunch.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, follow up\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9906b3fd-0c48-4f7e-8cb8-01b28de302da",
+  "ucid": "9906b3fd-0c48-4f7e-8cb8-01b28de302da",
+  "seller_categories": [
+    {
+      "mcat_id": "171906",
+      "mcat_name": "Industrial Epoxy Flooring Service"
+    },
+    {
+      "mcat_id": "165824",
+      "mcat_name": "Epoxy Floor Coating Services"
+    },
+    {
+      "mcat_id": "10992",
+      "mcat_name": "Industrial Epoxy Flooring"
+    },
+    {
+      "mcat_id": "120852",
+      "mcat_name": "Epoxy Flooring Services"
+    },
+    {
+      "mcat_id": "27939",
+      "mcat_name": "Epoxy Flooring"
+    }
+  ]
+}

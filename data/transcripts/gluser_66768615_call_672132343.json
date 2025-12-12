@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672132343",
+  "gluser_id": "66768615",
+  "vintage_months": 8,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Mansa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679669",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan ji. Haan Deepak sir Deepak sir aa gaye.\\nExecutive: Kitne time tak ho aap?\\nCustomer: Main hu sir 6 baje tak.\\nExecutive: Bas to abhi to main beech mein hu abhi 15 minute lage. 15 minute ha meri sun lijiye. Hello. Fir un waha se jo changes aaye the wo sare na isme production team se jo aaye the. Wo sab mein waise to mere ko aapko call pe video call pe leke chalne the. Waise maine kar diye sir.\\nExecutive: Theek hai.\\nCustomer: Haan to abhi aapke pass ek mail aayega sir to us pe aap yes kar dena satisfy kar dena tabhi wo map ho payenge.\\nExecutive: Theek hai.\\nCustomer: Theek hai aapki mail id pe hi aayega sir satisfy kijiye ga theek hai us pe.\\nExecutive: Theek hai theek hai main dekh lunga.\\nCustomer: Haan sir.\\nExecutive: Theek hai. Aur baki kal fir kitne baje call karu kya? Kal kal bhi nahi hua kal to nikal jaunga subah kal bhi.\\nCustomer: Achcha fir kitne baje kar lu?\\nExecutive: Kal to kal to sham hone wali hai kal bhi factory parso milunga budhwar ko abhi.\\nCustomer: Achcha to budhwar ko sir main kar lunga theek hai.\\nExecutive: Theek ha theek hai theek hai.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs customer to approve changes via email.\\n\n- Customer unavailable for calls until Wednesday.\\n\n\\n\nResolution:\\n\n- Executive explained the email verification process.\\n\n- Executive agreed to call the customer on Wednesday.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email verification, call scheduling, production team\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3911a0e7-ba68-4f3c-af09-86e401810c4f",
+  "ucid": "3911a0e7-ba68-4f3c-af09-86e401810c4f",
+  "seller_categories": [
+    {
+      "mcat_id": "139252",
+      "mcat_name": "Circle Cutting Machine"
+    },
+    {
+      "mcat_id": "222336",
+      "mcat_name": "Aluminium Idli Maker"
+    },
+    {
+      "mcat_id": "218525",
+      "mcat_name": "Aluminium Ghamela"
+    },
+    {
+      "mcat_id": "21475",
+      "mcat_name": "Aluminum Pot"
+    },
+    {
+      "mcat_id": "181381",
+      "mcat_name": "Idli Cooker"
+    }
+  ]
+}

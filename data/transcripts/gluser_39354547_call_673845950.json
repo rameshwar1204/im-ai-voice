@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673845950",
+  "gluser_id": "39354547",
+  "vintage_months": 40,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Samalkha",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9699237",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHello?\\nHanji.\\nEk second mam, good afternoon, main bol raha tha India mart se.\\nJi.\\nMam actually abhi aapka ek concern raise hua hai hamare paas kuch abhay traders ke upar kuch kya kuch problem hua hai kya? Haan haan sir wo chakshu ko pata hai actually mere ko puri baat nahi pata wo jo abhay traders wale hain na unhone kya kara hai hamare hi GST number pe portal bana rakha hai.\\nMatlab hamare GST number pe inhone India mart se portal vagera kuch banwa rakha hai aap ya to chakshu ko call kar lo wo aapko sahi se samjha degi mujhe bata to rahi thi problem hui hai par main actually us time busy thi to mujhe sahi se samajh nahi aayi usne fir complaint bhi dali thi.\\nHaan aap ek baar usko call kar lo wo bata degi aapko.\\nThik hai mam.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Someone created a portal using their GST number.\\n\n\\n\nResolution:\\n\n- Executive asked for details about the issue.\\n\n- Customer asked the executive to call Chakshu.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with Chakshu.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, portal, complaint\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a2a3380f-206b-4298-9ba0-9703d67b7338",
+  "ucid": "a2a3380f-206b-4298-9ba0-9703d67b7338",
+  "seller_categories": [
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "29005",
+      "mcat_name": "Foundation Bolts"
+    },
+    {
+      "mcat_id": "164041",
+      "mcat_name": "Mild Steel Hex Bolt"
+    },
+    {
+      "mcat_id": "10320",
+      "mcat_name": "J Bolts"
+    },
+    {
+      "mcat_id": "365230",
+      "mcat_name": "MS Foundation Bolt"
+    }
+  ]
+}

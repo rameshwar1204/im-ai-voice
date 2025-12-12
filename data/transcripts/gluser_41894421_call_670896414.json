@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670896414",
+  "gluser_id": "41894421",
+  "vintage_months": 4,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Hoshiarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ye in bhai sahab ne banaya tha.\\nCustomer: Kya baat hui?\\nCustomer: Iski lead mein iske main jo product hai usme lead nahi hai.\\nCustomer: Aur ye mera review dila dega? Ye mera review dilaega?\\nCustomer: [unintelligible]\\nExecutive: Hello.\\nCustomer: Haan ji sir, mera ek sir se baat hui thi wo bol rahe the ki koi call nahi thi.\\nExecutive: Nahi abhi calls aayi nahi wo bol rahe the ki kya hai kya nahi hai.\\nCustomer: Wo is samne se call jo hai na wo aati hai.\\nCustomer: Kaise sir?\\nExecutive: Bol rahe the ki wo samne se main call karke check karunga ki call mujhe receive ho rahi hai ki nahi ho rahi hai.\\nCustomer: India Mart mein aap mam kal jayengi na office?\\nCustomer: Kaise sir? Sir aapki na aawaz hi nahi aa rahi.\\nExecutive: Aap kal office jayengi na?\\nCustomer: Haan ji haan ji.\\nExecutive: To mam kal aapse connect karte hain, theek hai? Aapka network ka bhi issue bhi hai. Theek hai.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No leads in the main product.\\n\n- Wants review to be done.\\n\n- Not receiving calls.\\n\n\\n\nResolution:\\n\n- Executive will connect tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will connect tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, review, calls, network\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2beb178-c8e6-4ed0-a077-094376e3c4d9",
+  "ucid": "d2beb178-c8e6-4ed0-a077-094376e3c4d9",
+  "seller_categories": [
+    {
+      "mcat_id": "127535",
+      "mcat_name": "Multi Strand Wire"
+    },
+    {
+      "mcat_id": "138787",
+      "mcat_name": "Concealed Metal Boxes"
+    },
+    {
+      "mcat_id": "181017",
+      "mcat_name": "One Way Modular Switch"
+    },
+    {
+      "mcat_id": "226794",
+      "mcat_name": "3 Phase Motor Starter"
+    },
+    {
+      "mcat_id": "191137",
+      "mcat_name": "GI Modular Box"
+    }
+  ]
+}

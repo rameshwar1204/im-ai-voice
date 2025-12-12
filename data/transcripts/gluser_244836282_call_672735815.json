@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672735815",
+  "gluser_id": "244836282",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes, good morning.\\nExecutive: Yes, I'm Yoshika.\\nCustomer: Hello, Yashika, Sanket is speaking from Apina Automation.\\nExecutive: Okay, okay. Yes, sir.\\nCustomer: Yes, Yashika, actually last time there was a name discussion. Is it a good time to talk, Yashika?\\nExecutive: Yes, sir, yes, sir.\\nCustomer: Yes, okay. Can you open the seller profile on your backend once?\\nExecutive: Yes, I will open it. One minute.\\nCustomer: Yes, sir, I have opened it. Tell me.\\nExecutive: One minute, please.\\nCustomer: Is your other company registered maybe?\\nExecutive: Yes, ma'am. Techmont House name is my company registered in IndiaMART.\\nExecutive: Yes, ma'am. Your number is registered, it shows.\\nExecutive: Yes, ma'am. Actually, ma'am, there are no buyleads in this.\\nCustomer: Yes, there are no buyleads, sir.\\nCustomer: Now, let's see the buyleads. What is showing to you at your end?\\nExecutive: Right now, I am seeing the first buylead of Uttarakhand. And Bosh, Bosh is written, B O S H, Bosh.\\nCustomer: Yes, usually category, category we catch. We come straight to the category. It is written video recorders.\\nExecutive: Yes. Network video, that is NVR. Brand is here Bosh.\\nExecutive: Okay. Secondly, we come to after this video recorders.\\nCustomer: Okay.\\nExecutive: Brand is CP Plus.\\nCustomer: Hmm.\\nExecutive: Right. Third, we come to this boom barrier arm.\\nCustomer: Which one sir? Boom barrier.\\nExecutive: Yes, boom barrier. If you see below this.\\nCustomer: You are telling the name of boom barrier. Aluminium boom barrier arm. Three leads have come from this. Yes.\\nExecutive: Yes.\\nExecutive: After this, if you see, then there is video recorder.\\nExecutive: Actually, I want to explain this. I am showing you all these things because we have only NVR leads coming today if you see inside it.\\nExecutive: NVR key. Okay.\\nExecutive: Only NVR is coming and NVR is also that brand is coming in which we don't deal.\\nExecutive: So these products are in this category digital video recorder and network video recorder.\\nExecutive: Yes, this comes under NVR but challenge is that we don't deal in branded. So this is also not a concern.\\nExecutive: Second concern is that like we have a search bar above for buyleads.\\nCustomer: Yes, absolutely.\\nExecutive: Here like I flap barrier like our category is flap barrier key. Okay, or metal door detector we search.\\nCustomer: Metal.\\nExecutive: Door metal detector you search. Door metal detector.\\nCustomer: Door metal. Yes, searched.\\nExecutive: Your category will come automatically door frame metal detector.\\nCustomer: Yes, now I have a buylead showing metal detector gorge.\\nCustomer: Yes, sir.\\nExecutive: You will see here you will not show the lead.\\nCustomer: No, I am showing sir metal detector gorge is showing.\\nExecutive: We are not getting ma'am this lead.\\nCustomer: Metal detector gorge is showing and door metal detector.\\nExecutive: You have searched what?\\nCustomer: I have door metal.\\nExecutive: Door metal detector.\\nCustomer: Yes, detector is detector.\\nExecutive: Automatic ma'am its profile is in it.\\nCustomer: Hmm. Metal. We are not getting any buyleads ma'am its.\\nExecutive: This product key.\\nExecutive: Yes, means searching there is nothing coming its. Now same as it is if I search something else or I search like our one more product is flap barrier.\\nCustomer: Hmm.\\nExecutive: Now I flap barrier if I search. So flap barrier key also no lead is coming to us.\\nCustomer: One minute. First, I am this product key. Your same number is available on WhatsApp.\\nExecutive: Hmm. Okay. Just one minute.\\nCustomer: So I will send you its. I will send you its screenshot.\\nExecutive: I will give you a screenshot.\\nCustomer: Once you will recall your number sir.\\nExecutive: 7533\\n",
+  "summary": "\\n\nConcerns:\\n\n- No buyleads are showing for products.\\n\n- No leads for flap barrier.\\n\n\\n\nResolution:\\n\n- Executive asked to check buyleads for products.\\n\n- Executive asked to search for flap barrier.\\n\n- Customer agreed to send a screenshot.\\n\n\\n\nNext Steps: \\n\n- Customer will send a screenshot.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, products, search\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 315,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d03c9c4-1c35-48b4-b75d-30b3a9a9bfd3",
+  "ucid": "7d03c9c4-1c35-48b4-b75d-30b3a9a9bfd3",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "192697",
+      "mcat_name": "Honeywell Bullet Camera"
+    },
+    {
+      "mcat_id": "85186",
+      "mcat_name": "Bottle Labelling Machine"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    }
+  ]
+}

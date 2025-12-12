@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672969255",
+  "gluser_id": "21301030",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bikaner",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690576",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nExecutive: Hello. Good afternoon sir, Ashutosh baat kar raha hu India Mart se.\\nExecutive: Aapko call aaya sir? Ashutosh baat kar raha hu India Mart se. Ye aapka call aaya hai kabhi?\\nCustomer: Koi aaya hoga sir, abhi aapne drop kiya.\\nExecutive: Achha jaldi se lag gaya tha.\\nExecutive: Hain?\\nExecutive: Jaldi se call lag gaya tha. Abhi 2 baje kareeb aaya tha aapka call. Yaad nahi?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asks if the customer placed a call to India Mart earlier.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nindiamart, call\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8df0491c-8770-4a19-9a32-ab58ead5c2c7",
+  "ucid": "8df0491c-8770-4a19-9a32-ab58ead5c2c7",
+  "seller_categories": [
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "188933",
+      "mcat_name": "Steel Security Safe"
+    },
+    {
+      "mcat_id": "22828",
+      "mcat_name": "Bank Vaults"
+    },
+    {
+      "mcat_id": "149798",
+      "mcat_name": "Electronic Locker Safe"
+    }
+  ]
+}

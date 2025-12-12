@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676490520",
+  "gluser_id": "251848644",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723013",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Is this Universal Lab Technologies?\\nExecutive: Can I talk to Venu Priya?\\nCustomer: Tell me.\\nExecutive: Can I talk to Venu Priya?\\nCustomer: Who is this?\\nExecutive: Sir, this is Vishal from IndiaMART.\\nCustomer: Tell me. If you can if you convey that this message to her, she will recognize me. Can I talk to her? Okay, okay. Tell me what do you want? Your complaint has been raised you raised a complaint now because of your refund amount. Yeah, yes. So the process has been done from this side and the amount will be refunded on your the amount will be refunded on your the account on which you have with which you have did the payment ma'am.\\nCustomer: Okay.\\nExecutive: Okay ma'am. Okay. When can we expect this payment?\\nCustomer: I think it will be refunded in your account around four to five weeks, yes ma'am.\\nExecutive: Sure. Thank you.\\nExecutive: Okay. And sir one thing one more thing. There will be a feedback mail sent I think yesterday. Please do that please click the yes button on that feedback question.\\nCustomer: Theek hai. Okay ma'am.\\nExecutive: Okay. Okay. Thank you so much. I am closing your ticket from this side. Okay ma'am sir. Okay. Are you satisfied with the services sir?\\nCustomer: Yes, after receiving that amount I will send the feedback. Okay.\\nExecutive: Okay, okay, okay. Thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Venu Priya.\\n\n- Regarding refund amount.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund process initiated from their side.\\n\n- Refund will be credited in 4-5 weeks.\\n\n- Executive requested to click on the feedback mail.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback after refund.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- refund, feedback, payment\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a37b7ae8-020f-43d2-aca9-f00068509638",
+  "ucid": "a37b7ae8-020f-43d2-aca9-f00068509638",
+  "seller_categories": [
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "35976",
+      "mcat_name": "Residential Flats"
+    },
+    {
+      "mcat_id": "33307",
+      "mcat_name": "Mortgage Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "42771",
+      "mcat_name": "Residential Plots"
+    }
+  ]
+}

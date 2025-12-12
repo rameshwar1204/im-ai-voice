@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670394683",
+  "gluser_id": "4065457",
+  "vintage_months": 6,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666907",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Haanji Swati ji baat kar rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9b02d4b6-478b-4faa-9bf9-fd1028d6ee2b",
+  "ucid": "9b02d4b6-478b-4faa-9bf9-fd1028d6ee2b",
+  "seller_categories": [
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "13792",
+      "mcat_name": "Citrine Stone"
+    },
+    {
+      "mcat_id": "754",
+      "mcat_name": "Beaded Bracelet"
+    }
+  ]
+}

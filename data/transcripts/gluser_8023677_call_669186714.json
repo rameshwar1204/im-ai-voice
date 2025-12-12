@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669186714",
+  "gluser_id": "8023677",
+  "vintage_months": 33,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bengaluru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, good morning, sir. I am [Executive Name] speaking from IndiaMART. Am I speaking with Mr. [Customer Name]?\\nCustomer: Yes.\\nExecutive: Sir, I am calling regarding your IndiaMART portal. Sir, I see that you have made a payment of \u20b93000, but your Trust Seal is still pending. So, I wanted to confirm if you have received a call for Trust Seal verification or not.\\nCustomer: No, I haven't received any call yet.\\nExecutive: Okay, sir. So, sir, I will get your Trust Seal verification done today itself. Before that, can you please confirm your registered email ID with me?\\nCustomer: It's [Email ID].\\nExecutive: Okay, sir. And sir, what do you do in your company? What kind of work do you do?\\nCustomer: We manufacture all kinds of safety nets.\\nExecutive: Okay, sir. Safety nets. Okay, sir. So, sir, I will get your Trust Seal verification done today itself. You will receive a call within 2 to 3 hours. Is that okay?\\nCustomer: Okay.\\nExecutive: Okay, sir. And sir, do you have any other requirements or any other information you need from IndiaMART?\\nCustomer: No, I don't need anything else.\\nExecutive: Okay, sir. Thank you for your time, sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has paid for TrustSeal, verification pending.\\n\n- Customer has not received TrustSeal verification call.\\n\n\\n\nResolution:\\n\n- Executive assured TrustSeal verification will be done.\\n\n- Executive confirmed registered email ID.\\n\n- Executive confirmed the customer's business type.\\n\n- Executive confirmed a call within 2-3 hours.\\n\n\\n\nNext Steps: \\n\n- TrustSeal verification call in 2-3 hours.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, verification, payment\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a098e501-d388-4573-b608-5845690a998f",
+  "ucid": "a098e501-d388-4573-b608-5845690a998f",
+  "seller_categories": [
+    {
+      "mcat_id": "43595",
+      "mcat_name": "Areca Leaf Plates"
+    },
+    {
+      "mcat_id": "443440",
+      "mcat_name": "Sal Leaf Plate"
+    },
+    {
+      "mcat_id": "84225",
+      "mcat_name": "Leaf Plate"
+    },
+    {
+      "mcat_id": "235899",
+      "mcat_name": "Bagasse Disposable Plate"
+    },
+    {
+      "mcat_id": "159147",
+      "mcat_name": "Areca Leaf Bowl"
+    }
+  ]
+}

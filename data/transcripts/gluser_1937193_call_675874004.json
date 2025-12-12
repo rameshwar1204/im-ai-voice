@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675874004",
+  "gluser_id": "1937193",
+  "vintage_months": 84,
+  "bl_dau_oct": 15,
+  "customer_type": "STAR",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9718412",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha sir, good morning.\\nCustomer: Very good morning.\\nExecutive: Main Rishab baat kar raha hun IndiaMART se, main B.M. Water Meter ka account manager baat kar raha hun.\\nCustomer: Hmm.\\nExecutive: Sir, abhi actually aapki call aayi thi, aap bata rahe the kuch GST number se dusra account create karne ka.\\nCustomer: Nahi nahi nahi, maine bola ki hume IndiaMART pe ek aur account khulwana hai.\\nExecutive: Thik hai.\\nCustomer: Hmm.\\nExecutive: To uska GST apna zahir si baat hai dusra hi rahega hai na? B.M. Water Meter to alag account hai.\\nCustomer: GST GST ek hi hai hamara.\\nExecutive: Thik hai. Achcha number aapne same hi liya hai bas wo usme kya alag hai? Address alag hai, contact owner jo hai wo same hai.\\nCustomer: Kuch bhi nahi, kuch bhi nahi alag, kuch bhi nahi alag, number change ho jayega.\\nExecutive: Aur naam B.M. Water Meter hi rahega?\\nCustomer: Haan ji.\\nExecutive: Company ka naam B.M. Water Meter hi rahega?\\nCustomer: Company ka naam hum bhi hain jo GST pe hain ji.\\nExecutive: B.M. Water Meter.\\nExecutive: Aur address bhi same hai sir?\\nCustomer: Sab kuch same hai sir. Main aap pehle baat to suniye, maine kaha sab kuch same hai ek dusra account chahiye hume.\\nExecutive: Achcha.\\n\\nExecutive: Dusra account.\\nExecutive: Ek second sir call pe rukiye.\\n[Unintelligible]\\nExecutive: To yaha pe dusra account matlab ki open karna hai?\\nCustomer: Ek account chali raha hai apna same GST pe sara kuch.\\nExecutive: Bhai internal matter hai aap chhodiye is chij ko.\\nExecutive: To ye wala account chalta rahega ya band hoga ye jo abhi chal raha hai?\\nCustomer: Chalta rahega ye bhi.\\nExecutive: Same GST pe dusra account kaise khulwaunga? Wahi soch raha hun main. Kuch to alag hoga matlab uska kuch difference.\\nCustomer: Uska naam change kar dete hain GST pe meri baat suniye GST wahi rahega usko Blento Water Meter kar dete hain.\\nExecutive: Ek bar aap mujhe na uska PDF bhej dijiye mujhe bas. WhatsApp main aapko message kar raha hun GST ka jo aap same GST jo hai. Sir aap mujhe PDF bhej dijiye main check kar raha hun usko, thik hai.\\nCustomer: Are bhai GST jo meri baat suniye sir listen jo GST aapke pass hai wahi GST uska PDF kya bheju same address hai sab kuch sari documentation aapko submit hue hue hain.\\nExecutive: Haan.\\n\\nExecutive: Thik hai sir main ek bar dekhta hun.\\nCustomer: Okay ji okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to open another account.\\n\n- Wants to know if current account will be closed.\\n\n\\n\nResolution:\\n\n- Executive asked for the GST PDF.\\n\n- Executive said he will check the details.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, gst, pdf, details\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 182,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ed0a61e-6d7f-478c-b092-48690fca5636",
+  "ucid": "4ed0a61e-6d7f-478c-b092-48690fca5636",
+  "seller_categories": [
+    {
+      "mcat_id": "184896",
+      "mcat_name": "Kranti Water Meters"
+    },
+    {
+      "mcat_id": "78169",
+      "mcat_name": "Residential Water Meter"
+    },
+    {
+      "mcat_id": "39422",
+      "mcat_name": "Water Meters"
+    },
+    {
+      "mcat_id": "20077",
+      "mcat_name": "Water Flow Meter"
+    },
+    {
+      "mcat_id": "39451",
+      "mcat_name": "Water Strainers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668587553",
+  "gluser_id": "248229255",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647834",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Please tell me.\\nCustomer: Uh, yes sir, Avni baat kar rahi hu.\\nCustomer: Yesterday we have talked in the evening.\\nCustomer: No sir, not at all.\\nExecutive: Please tell me what you want.\\nCustomer: Uh, I am from IndiaMART your account manager.\\nCustomer: Okay, okay, thank you.\\nCustomer: In the evening\\nCustomer: I am enquiring in IndiaMART about silver extraction machines companies.\\nExecutive: Okay.\\nCustomer: Now till I am not receiving any reply from them.\\nExecutive: Okay, you can call them, we may be consumed your lead.\\nCustomer: No, no, I am not calling anyone.\\nExecutive: Why?\\nCustomer: I also send message to IndiaMART.\\nExecutive: No sir, but you have to call your buyers because if you will not call then other company will call them and convert them.\\nCustomer: No, no company can contact me now itself. By messages I want message please give me messages I am I tell to that person.\\nExecutive: Sir, it will not work like that if you will not approach to company.\\nCustomer: No, not at all. you will no one give me message.\\nCustomer: Okay, thank you madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received replies from companies.\\n\nResolution:\\n\n- Executive suggested calling the companies.\\n\n- Executive explained the importance of calling buyers.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, follow up, indiaMART\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4cbecb9b-159a-4190-b96a-dda29c0e1029",
+  "ucid": "4cbecb9b-159a-4190-b96a-dda29c0e1029",
+  "seller_categories": [
+    {
+      "mcat_id": "191138",
+      "mcat_name": "Aadhaar Card Making Services"
+    },
+    {
+      "mcat_id": "42044",
+      "mcat_name": "Licensing Services"
+    },
+    {
+      "mcat_id": "49652",
+      "mcat_name": "Business Consultant"
+    },
+    {
+      "mcat_id": "214836",
+      "mcat_name": "Rera Registration Service"
+    },
+    {
+      "mcat_id": "107233",
+      "mcat_name": "PAN Card Services"
+    }
+  ]
+}

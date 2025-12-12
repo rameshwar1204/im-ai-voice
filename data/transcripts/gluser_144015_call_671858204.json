@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671858204",
+  "gluser_id": "144015",
+  "vintage_months": 167,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bahadurgarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9686410",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji sir. India Mart se baat kar rahi hu Kashish sir kaise hain aap?\\nCustomer: Bas theek hai. Main na aapko lunch ji wo\\nExecutive: Haan ji.\\nCustomer: Haan main aapne jo mujhe wo bheja hai na catalog.\\nExecutive: Haan ji haan ji wo usme karwane the.\\nExecutive: Profile mein add karna hai na.\\nCustomer: Haan wo purane wala hata ke ye wala dal denge.\\nExecutive: Kya sir?\\nCustomer: Purane wala hata ke ye wala lagwa denge.\\nExecutive: Dono mein? Kis kis mein add karna hai? Kar de rahi hu main add iska bata dijiye aap mujhe.\\nExecutive: Jaise ki aapne mujhe do bheje hain Prime Rose launch chair theek hai aur dusra aapne bheja hai Prime Rose form catalog.\\nCustomer: Haan ji haan ji form wala jo hai wo wo pehle hoga wo purane wale ki jagah le lega.\\nExecutive: Theek hai.\\nCustomer: Aur jo ye launch wala hai ye bhi kahin pe agar ho sakta hai ya usi ke sath adjust ho jaye.\\nExecutive: Theek hai sir. Aur sir chair handle category ka na kuch buylead consume karni hai aapko. To ek bar aap dekh lijiyega sir.\\nCustomer: Haan ji.\\nCustomer: Haan main lunch ke baad abhi main office mein nahi hu lunch ke baad main karta hu consume.\\nExecutive: Theek hai. Haan sir main add karti hu profile mein. Okay sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to update catalog in profile.\\n\n- Customer needs to consume buyleads.\\n\n\\n\nResolution:\\n\n- Executive agreed to update the catalog.\\n\n- Executive asked customer to consume buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will consume buyleads after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, profile update, buyleads\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dcfb31f1-8266-44a7-a8b1-a497db975b27",
+  "ucid": "dcfb31f1-8266-44a7-a8b1-a497db975b27",
+  "seller_categories": [
+    {
+      "mcat_id": "21057",
+      "mcat_name": "Chair Armrests"
+    },
+    {
+      "mcat_id": "135904",
+      "mcat_name": "Chair Handle"
+    },
+    {
+      "mcat_id": "186374",
+      "mcat_name": "PU Moulded Foam"
+    },
+    {
+      "mcat_id": "32088",
+      "mcat_name": "Lounge Chair"
+    },
+    {
+      "mcat_id": "33248",
+      "mcat_name": "Moulded Foam"
+    }
+  ]
+}

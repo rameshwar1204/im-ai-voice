@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667032782",
+  "gluser_id": "118510278",
+  "vintage_months": 15,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632309",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji abhi call aaya tha mere paas abhi.\\nCustomer: Hello. Aapka naam jaan sakti hu?\\nExecutive: Ji main Prince Chaudhary baat kar raha hu IndiaMART se. Abhi secondary number se call aayi thi. Ji?\\nCustomer: Maine nahi kiya tha aapko call.\\nExecutive: Ji ji secondary number se call aayi thi. Okay ma'am.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive calling back regarding a missed call.\\n- Customer states she did not make the call.\\n\\n\\nResolution:\\n\\n- Executive introduced himself and his company.\\n- Acknowledged it was a mistaken call and ended the conversation.\\n\\n\\nNext Steps: \\nNone.\\n\\nAlert (If Any):\\nNone.\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call back, wrong number, verification\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=49904c2f-fa03-4f12-84db-0cf1d7d47248",
+  "ucid": "49904c2f-fa03-4f12-84db-0cf1d7d47248",
+  "seller_categories": [
+    {
+      "mcat_id": "149698",
+      "mcat_name": "Mild Steel Welding Rod"
+    },
+    {
+      "mcat_id": "2254",
+      "mcat_name": "Welding Rods"
+    },
+    {
+      "mcat_id": "183187",
+      "mcat_name": "Mangalam Mild Steel Welding Rod"
+    },
+    {
+      "mcat_id": "2253",
+      "mcat_name": "Welding Electrodes"
+    },
+    {
+      "mcat_id": "5102",
+      "mcat_name": "MIG Welding Wire"
+    }
+  ]
+}

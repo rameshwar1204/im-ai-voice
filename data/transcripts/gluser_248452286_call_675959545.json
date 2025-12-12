@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675959545",
+  "gluser_id": "248452286",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719069",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello\\nHello \u0939\u0947\u0932\u094b \u0939\u093e\u0902\\n\u0939\u093e\u0902 \u0917\u0941\u0921 \u0906\u092b\u094d\u091f\u0930\u0928\u0942\u0928 \u0938\u0930 \u0939\u093f\u092e\u093e\u0902\u0936\u0941 \u092c\u094b\u0932 \u0930\u0939\u093e \u0939\u0942\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0938\u0947 \u090f\u0915\u094d\u091a\u0941\u0905\u0932\u0940 \u092e\u0947\u0930\u0947 \u092a\u093e\u0938 \u0915\u0949\u0932 \u0906\u092f\u093e \u0925\u093e \u092f\u0947 8062871806 \u092f\u0947 \u0906\u092a\u0915\u093e \u0928\u0902\u092c\u0930 \u0939\u0948 \u0938\u0930 \u0906\u092a\u0915\u0947\\n\u0928\u0939\u0940\u0902 \u092e\u0947\u0930\u093e \u0928\u0902\u092c\u0930 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092e\u0948\u0921\u092e \u0915\u094b \u0915\u0949\u0932 \u0915\u0940\u091c\u093f\u090f \u0928\u093e\\n\u0920\u0940\u0915 \u0939\u0948 \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930 \u092e\u0948\u0902 \u0915\u0930 \u092e\u0948\u0921\u092e \u0915\u093e \u0928\u0902\u092c\u0930 \u0939\u094b\u0917\u093e \u0924\u094b \u0909\u0928\u0915\u094b \u0915\u0949\u0932 \u0915\u0940\u091c\u093f\u090f\\n\u0920\u0940\u0915 \u0939\u0948 \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930\\n",
+  "summary": "\\n\nConcerns:\\n\n- Caller from IndiaMART asking if the number 8062871806 belongs to the recipient.\\n\n\\n\nResolution:\\n\n- The recipient stated the number does not belong to him and asked the caller to call his wife instead.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Caller will call the recipient\u2019s wife.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, phone number verification\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=865d1458-3653-44fd-9f46-12a82a569f91",
+  "ucid": "865d1458-3653-44fd-9f46-12a82a569f91",
+  "seller_categories": [
+    {
+      "mcat_id": "246",
+      "mcat_name": "EOT Cranes"
+    },
+    {
+      "mcat_id": "179308",
+      "mcat_name": "Single Girder EOT Cranes"
+    },
+    {
+      "mcat_id": "179309",
+      "mcat_name": "Double Girder EOT Cranes"
+    },
+    {
+      "mcat_id": "127544",
+      "mcat_name": "Pillar Mounted Jib Crane"
+    },
+    {
+      "mcat_id": "1124",
+      "mcat_name": "Overhead Crane"
+    }
+  ]
+}

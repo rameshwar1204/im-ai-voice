@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675021600",
+  "gluser_id": "225795639",
+  "vintage_months": 8,
+  "bl_dau_oct": 1,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Latur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9653604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello?\\nExecutive: Haan. Hello, ji. Main India Mart se Nikki baat kar rahi hoon, aapke account manager, Jaipur aap.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive introduced herself as Nikki from India Mart, the customer's account manager from Jaipur.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nintroduction\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa8acda1-9055-410f-bda0-611d02406978",
+  "ucid": "aa8acda1-9055-410f-bda0-611d02406978",
+  "seller_categories": [
+    {
+      "mcat_id": "85002",
+      "mcat_name": "Colorful Cracker"
+    },
+    {
+      "mcat_id": "85000",
+      "mcat_name": "Celebration Firework"
+    },
+    {
+      "mcat_id": "235605",
+      "mcat_name": "Cold Fireworks"
+    },
+    {
+      "mcat_id": "651057",
+      "mcat_name": "Multi Shot Fireworks"
+    },
+    {
+      "mcat_id": "443018",
+      "mcat_name": "Colour Smoke Bomb"
+    }
+  ]
+}

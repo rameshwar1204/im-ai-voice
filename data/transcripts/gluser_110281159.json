@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672068826",
+  "gluser_id": "110281159",
+  "vintage_months": 6,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682971",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible] lo yaar tum yaar Rahul\\nExecutive: Hello\\nCustomer: Ji bataye.\\nExecutive: Ji sir aap ek baar whatsapp open kijiyega.\\nCustomer: Haan ji.\\nExecutive: Sir ko drop karo to.\\n\\nExecutive: Ek baar whatsapp check kijiyega sir.\\nCustomer: Whatsapp pe bhi kuch aaya? Achha haan abhi aaya.\\nExecutive: Sir ko housekeeping se related jitni keyword hai aur wo wo jitne keyword hai jo sir ke catalog mein add nahi hai aur is company mein hai wo sare keyword cross verify karke sir ko bhej do. Jis jis jis jis keyword pe sir click karenge na ki ye ye unse related hai wo naya keyword jo hai na tumhe add karna hai sir ke account mein. Right? Main aapke account manager ko sir guide kar diya hu. Right? To aap aise hi screenshot ke form mein aapko bhej denge sir. Right? Aap ek baar na confirm kar dijiye ki haan ye ye keyword hai aapko usme add on chahiye jo aapke catalog mein add nahi hai.\\nCustomer: Okay.\\nExecutive: Hello sir.\\nCustomer: Ji.\\nExecutive: Ji, to wo sare keyword ko aap confirm kar dijiyega sir.\\nCustomer: Ji ji main bhejta hu.\\n\\nExecutive: Hello sir.\\nCustomer: Ji ji bas ek minute send kar dijiye main bhejta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help adding keywords to catalog.\\n\n\\n\nResolution:\\n\n- Executive asked customer to confirm keywords on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, keywords, whatsapp\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe6d1dc0-8344-4d29-ac29-7122f2f7527a",
+  "ucid": "fe6d1dc0-8344-4d29-ac29-7122f2f7527a",
+  "seller_categories": [
+    {
+      "mcat_id": "69891",
+      "mcat_name": "Commercial Security Service"
+    },
+    {
+      "mcat_id": "131644",
+      "mcat_name": "Residence Security Services"
+    },
+    {
+      "mcat_id": "37943",
+      "mcat_name": "Security Guards"
+    },
+    {
+      "mcat_id": "117850",
+      "mcat_name": "Industrial Security Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

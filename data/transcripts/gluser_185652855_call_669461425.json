@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669461425",
+  "gluser_id": "185652855",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651641",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan boliye.\\nExecutive: Hello, Rajesh sir woh aapko videometic link bheja tha na, aap join kijiye.\\nCustomer: Bhejiye, bhejiye, bhejiye link bhejiye, matlab receive nahi hua hai.\\nExecutive: Bhej diya sir aapko, usi type se bhej diya tha.\\nCustomer: Ek minute, ek minute, just one minute. Main aapko ek baar.\\n\\nCustomer: Dekhiye phir se bheja hai aapko mail aaya hoga Brijesh Jaiswal ke naam se.\\nCustomer: Ek minute, ek minute, mat bhejiye abhi.\\nExecutive: Mera ID jo hai government teals double.\\nCustomer: Government haan haan government government se bolo sir government.\\nExecutive: Teals 66@gmail.com.\\nCustomer: Government bola sir.\\nExecutive: Accha oh sorry sir woh galti se nikal gaya hoga.\\nCustomer: Haan thik hai, thik hai. Ho gaya na. Dekhiye, call kya rahega, phir chaliye.\\nExecutive: Woh toh saamne hu sir.\\nCustomer: Haan dekhiye join ho gaya, haan sir bane.\\n\\n\\nExecutive: Ya sir voice pe baat karte, toh aawaz aayegi na aapko.\\nCustomer: Hello.\\nExecutive: Thik hai voice pe baat karte, thik hai.\\nCustomer: Nahi nahi aawaz nahi aayi, aawaz nahi aayi, phone me baat kijiye, aawaz nahi aayi.\\nExecutive: Toh ek second sir main aapko direct call karta hu, ek minute dekhiyega bas.\\nCustomer: Haan haan thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive the videometic link.\\n\n- Customer is not getting voice.\\n\n\\n\nResolution:\\n\n- Executive resent the videometic link.\\n\n- Executive offered to call directly.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- videometic link, joining, voice\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68fe7b18-17c1-4c13-b197-de8df9a39ccd",
+  "ucid": "68fe7b18-17c1-4c13-b197-de8df9a39ccd",
+  "seller_categories": [
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "181411",
+      "mcat_name": "Girls Frock"
+    },
+    {
+      "mcat_id": "184669",
+      "mcat_name": "Kids Baba Suit"
+    },
+    {
+      "mcat_id": "189102",
+      "mcat_name": "Newborn Baby Dress"
+    },
+    {
+      "mcat_id": "4171",
+      "mcat_name": "Baby Frocks"
+    }
+  ]
+}

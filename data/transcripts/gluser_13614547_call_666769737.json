@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666769737",
+  "gluser_id": "13614547",
+  "vintage_months": 96,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udhampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630299",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haanji sir, namaskar.\\nCustomer: Ji namaskar sir.\\nExecutive: Main Amit baat kar raha hun Nehru Solar Solution se.\\nCustomer: Amit ji baat kar rahe hain?\\nExecutive: Ji ji bataiye.\\nCustomer: Ji bataiye sir.\\nCustomer: Sir aapka app kyun nahi chal raha hai? Main pichle teen char dinon se dekh raha hun, aapka app properly chal hi nahi raha.\\nExecutive: App nahi chal raha hai?\\nCustomer: Ji.\\nExecutive: To aap login vagarah kaise kiye hain sir, main jaan sakta hun?\\nCustomer: Sir Nehru Solar Solution jo login mera login hai na number. Haan. Usi number se login kiya hai app pe. Aapko main aapke aapke jo primary number hai main usi pe aapko abhi again aapko call kar raha hun. Main aapko batata hun kaun sa aapka primary number hai sir, theek hai?\\nCustomer: Mujhe malum hai sir 96225520. Haan main usi pe abhi abhi mere side se call kar raha hun sir main aapko. Solution provide karta hun.\\nCustomer: Main wait kar raha hun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's app is not working properly.\\n\n\\n\nResolution:\\n\n- Executive assured to provide a solution.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- app, login, primary number, solution\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb547586-6b47-45e4-aea9-c57dea155621",
+  "ucid": "bb547586-6b47-45e4-aea9-c57dea155621",
+  "seller_categories": [
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    }
+  ]
+}

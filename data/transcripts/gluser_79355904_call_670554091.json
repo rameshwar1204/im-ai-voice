@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670554091",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji Sanjay ji, IndiaMART se baat kar rahi hu main aapke saath. Good morning sir kaise hain aap?\\nCustomer: Theek hai.\\nExecutive: Ji ji theek thaak. Haan sir kal wo maine jo aapko buyleads batai thi usse baat hui aapki?\\nCustomer: Message vgera to daal diya photo vgera daal diya maine unhone ok karke bol diya agar requirement rahi to bata dunga aage.\\nExecutive: Achha achha ok. Bangalore wale se baat nahi hui hai jo dusra wala tha unse baat hui aapki hai na?\\nCustomer: Haan dono ka ok mein reply aaya tha mere paas.\\nExecutive: Achha achha dono ka reply aa gaya chaliye badhiya theek hai. Along with that aapka ab granite vgera ke regarding mujhe aur aapke saath buyleads batani thi hai na?\\nCustomer: Haan.\\nExecutive: Aap please portal open karenge sir IndiaMART ka?\\nCustomer: Abhi pahucha nahi mujhe 10-15 minute lagenge abhi.\\nExecutive: Achha ji. Koi baat nahi jaise hi aap pahunch jaate hain na aap mujhe whatsapp pe ek baar text kar dijiyega main aapko call back karungi theek hai?\\nCustomer: Theek hai.\\nExecutive: Tab tak main aapke search kar leti hu alright?\\nCustomer: Theek hai.\\nExecutive: Theek hai ok.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss granite buyleads.\\n\n- Customer needs 10-15 minutes to open portal.\\n\n\\n\nResolution:\\n\n- Executive will call back after customer texts.\\n\n- Executive will search for buyleads meanwhile.\\n\n\\n\nNext Steps: \\n\n- Customer will text on WhatsApp after reaching.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, granite, portal, follow-up\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a3214257-7060-4a17-a6eb-0ac22f01128b",
+  "ucid": "a3214257-7060-4a17-a6eb-0ac22f01128b",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

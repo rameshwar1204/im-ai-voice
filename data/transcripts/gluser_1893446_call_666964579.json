@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666964579",
+  "gluser_id": "1893446",
+  "vintage_months": 142,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630832",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan, woh aap\\nExecutive: Haan sir, bataiye.\\nCustomer: Aap aapne kuch bheja tha kya feedback ke liye?\\nExecutive: Nahi nahi abhi nahi kahan bheja, abhi toh aapse baat hi kar raha hu. Bhej raha hu thodi der mein. Wahi toh confirm karna tha bas aapse ki agar jaise aap bol rahe ho na, ek aur baat, agar aap keh rahe ho ki\\nCustomer: Mere paas hai lekin woh dhoondne mein time lagega mujhe.\\nExecutive: Koi dikkat nahi hai. Hum yeh keh rahe hain Rakesh ji, agar kuch bhi raha kare toh aap bheja kariye. Kyunki dekhiye supplier ke end se hi toh pata chalta hai ki buylead aa kaise rahi hain. Hai na? Toh aap log jab bhejenge tab hum usko correct kara payenge. Hamare paas buylead ka data dikhta nahi hai. Har buyer ko hum connect kar nahi paate hain. Isliye na toh hamare paas data rehta hai. Toh aap log bheja kariye toh hum usko sahi karayenge taaki cheezein sahi ho jaye khud se. Hai na?\\nExecutive: Theek hai. Toh main abhi aapko is call ke baad ek feedback wala bhejunga. Aap usme yes kar dijiyega. Theek hai?\\nCustomer: Theek hai.\\nExecutive: Aur koi toh dikkat nahi hai na sir? Baaki aapko\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Inquired if a feedback link was sent.\\n- Mentioned having examples of irrelevant buyleads but would take time to find them.\\n\\n\\nResolution:\\n\\n- Explained the need for customer feedback to correct buylead quality.\\n- Stated that IndiaMART relies on supplier data for corrections.\\n- Promised to send a feedback link after the call.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive will send a feedback link after the call.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, feedback, data correction, supplier\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=89ac6038-46b7-455a-8a11-556ce73a8e90",
+  "ucid": "89ac6038-46b7-455a-8a11-556ce73a8e90",
+  "seller_categories": [
+    {
+      "mcat_id": "83980",
+      "mcat_name": "Micropipette"
+    },
+    {
+      "mcat_id": "183216",
+      "mcat_name": "Bottle Top Dispenser"
+    },
+    {
+      "mcat_id": "121344",
+      "mcat_name": "Pipette"
+    },
+    {
+      "mcat_id": "19041",
+      "mcat_name": "Single Channel Pipette"
+    },
+    {
+      "mcat_id": "17712",
+      "mcat_name": "Multichannel Pipette"
+    }
+  ]
+}

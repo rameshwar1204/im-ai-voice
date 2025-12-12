@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670346895",
+  "gluser_id": "127290249",
+  "vintage_months": 8,
+  "bl_dau_oct": 14,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666526",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Dekhiye aap jaise hi hello karenge aapko phone baat karenge aapke account manager.\\nCustomer: Sir please stay on the line.\\nExecutive: Ashutosh Pandey IndiaMART se.\\nCustomer: Hello.\\nExecutive: Ji sir good afternoon kaise hain?\\nCustomer: Hello.\\nExecutive: Haan ji good afternoon aawaz aa rahi hai meri?\\nCustomer: Haan ji.\\nExecutive: Ashutosh Pandey baat kar raha hu sir IndiaMART se aapke account manager.\\nCustomer: Haan ji.\\nExecutive: Haan ji abhi aapne concern raise kari thi 9696 pe kya problems aa rahi hain?\\nCustomer: Confirm kya hai?\\nExecutive: Haan ji?\\nCustomer: Confirm kya karna hai?\\nExecutive: Confirm nahi ki matlab aapne ye real stone industry se baat kar rahe hain na aap?\\nCustomer: Haan.\\nExecutive: Haan to abhi aapne 9696 pe concern raise kari thi.\\nCustomer: Haan.\\nExecutive: Kya problems aa rahi hain kya issue aa rahe hain sir?\\nCustomer: Ek bhi customer nahi juda abhi tak sab pagal banane ka kaam kar rahe hain.\\nExecutive: Haan haan haan to abhi abhi aapko main problems kya aa rahi hain abhi meri baat mein primary number pe aapke bhai ji se hui thi theek hai to usme unse meri baat ho gayi thi 15 minute baad meri meeting schedule hai unse theek hai kyunki aapke\\nCustomer: Sorry mere paas time kam hai baad mein baat kar lunga.\\nExecutive: To main ye concern close kar du aap aage se meri baat ho rahi hai.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No customers connected, everyone is fooling around.\\n\nResolution:\\n\n- Executive inquired about the issues faced by customer.\\n\nNext Steps: \\n\n- Issue not resolved. Customer will talk later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concerns, account manager, buyleads\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a25eae32-b539-423e-b4f9-a0aa9a0a2b3d",
+  "ucid": "a25eae32-b539-423e-b4f9-a0aa9a0a2b3d",
+  "seller_categories": [
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "113756",
+      "mcat_name": "Temple Domes"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "127348",
+      "mcat_name": "Traditional Kalash"
+    }
+  ]
+}

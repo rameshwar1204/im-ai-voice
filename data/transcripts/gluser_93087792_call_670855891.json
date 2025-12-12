@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670855891",
+  "gluser_id": "93087792",
+  "vintage_months": 30,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mayurbhanj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Sir, VIP order mujhe bhi lagwa doge mujhe lag raha tha.\\nExecutive: Hello.\\nCustomer: Ha se baat kar rahe ho?\\nExecutive: Hello.\\nCustomer: Ha boliye.\\nCustomer: Hello. Ha mujhe mera jo ye account section hai na manager ke sath baat karna hai thoda emergency.\\nExecutive: Company name batayenge mam?\\nCustomer: Mauranika Agri Hoti Services.\\nCustomer: Sir nahi to aap bol sakte hai ki sir ek na mujhe high court se Delhi se ek notice aaya hai. India mart me actually hum log agrobin gold bol ke ek dal diye the to uske vajah se shayad wo to delete ho gaya company se India mart se lekin mujhe bhi notice aaya hai.\\nExecutive: Natic global private limited se baat kar rahe hai na mam?\\nCustomer: Natic global.\\nExecutive: Natic global hai ye?\\nCustomer: Natic global private limited.\\nExecutive: Company se baat kar rahe ho?\\nCustomer: Mauranika Agri Hoti Services.\\nExecutive: Ha ek bar mam company name bataoge aap?\\nCustomer: Mauranika Monto.\\nExecutive: Mauranika Monto.\\nCustomer: Ha Mauranika S M A R A N I K A.\\nExecutive: S M A R\\nCustomer: K N I K A.\\nExecutive: S M A R ke baad kya bataya mam?\\nCustomer: K N I K A.\\nExecutive: Smanika.\\nExecutive: Aage bataiye mam.\\nCustomer: Agri Hoti Services.\\nExecutive: Agri\\nCustomer: Hoti H O T I.\\nExecutive: Mam aapko call karwa raha hu Aashutosh se.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a notice from Delhi High Court.\\n\n- Wants to talk to the manager of account section.\\n\n\\n\nResolution:\\n\n- Executive took the company name and details.\\n\n- Executive said he will connect the call to Aashutosh.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- notice, account section, company details\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3be9e908-dc51-4baf-8cd1-2b86e9c9265d",
+  "ucid": "3be9e908-dc51-4baf-8cd1-2b86e9c9265d",
+  "seller_categories": [
+    {
+      "mcat_id": "41063",
+      "mcat_name": "Hybrid Watermelon Seeds"
+    },
+    {
+      "mcat_id": "221781",
+      "mcat_name": "Marigold Seeds"
+    },
+    {
+      "mcat_id": "177872",
+      "mcat_name": "Hybrid Marigold Seeds"
+    },
+    {
+      "mcat_id": "1604",
+      "mcat_name": "Flower Seeds"
+    },
+    {
+      "mcat_id": "118704",
+      "mcat_name": "Seedling Trays"
+    }
+  ]
+}

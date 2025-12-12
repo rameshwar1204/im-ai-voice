@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667294058",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Madam number mila nahi me bhi nahi hai uska number to aur kisi ka number aa raha hai. Madam mere ko number is number me baat hui thi meri 804537 4537.\\nExecutive: Sir aap mujhe do minute ka time dega mai aapko abhi connect kar rahi hu, thik hai sir? Mai ek call karu mai aapko abhi connect kar rahi hu, thik hai?\\nCustomer: Thik hai madam.\\nExecutive: Thik hai madam. Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says the number is not in buyleads.\\n\n- Customer says the number belongs to someone else.\\n\n\\n\nResolution:\\n\n- Executive said she will connect the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, contact number, connection\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3fbb0bb0-83fe-4623-b175-753d99e42f9e",
+  "ucid": "3fbb0bb0-83fe-4623-b175-753d99e42f9e",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

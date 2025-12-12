@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675365295",
+  "gluser_id": "39426474",
+  "vintage_months": 12,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Mursan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9712136",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, good morning sir, main Akanksha IndiaMART se baat kar rahi hu. Wo kal aapka incoming call aaya tha na, to wo main receive nahi kar payi. To ticket open hua. To aapne wo check kiya leads wagera?\\nCustomer: Haan, abhi aaj sudhar hai.\\nExecutive: Theek hai, aa rahi hai enquiries? Matlab search karke purchase karne ke baad se aa raha tha ya phir aise hi aane laga uske baad?\\nCustomer: Abhi aise hi aa raha hai.\\nExecutive: Ab theek hai na pehle.\\nCustomer: Haan, lagbhag mujhe lag raha hai pehle jaisa ho gaya hai.\\nExecutive: To wo maine dusre ke account bhi check kiya na, wo leads available nahi tha, is wajah se nahi aa raha hoga.\\nCustomer: Ab pata nahi bas lekin aaj to mere paas do leads aayi hai.\\nExecutive: Consume kar li aapne?\\nCustomer: Haan, consume kar li. Choti hai but consume kar li. Kisi category hai isliye.\\nExecutive: Jo jo categories ka list maine bheja tha, usse search karke matlab check kiya aapne leads available hai ya nahi, saare keywords ke?\\nCustomer: Wo main abhi dopahar mein karunga, abhi nahi. Dopahar tak ki saare leads aana shuru ho jaati hai. 10-11 baje ke baad. Chalo tabhi karunga.\\nExecutive: Theek hai, phir main ye ticket close kar du na?\\nCustomer: Haan, abhi theek hai.\\nExecutive: Theek hai, aapko koi dikkat ho to please mujhe mere personal number pe call kar lijiyega, main close kar rahi hu. Aap feedback mujhe bhejiyega aapke paas message jo aayega direct.\\nCustomer: Theek hai.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not receiving leads.\\n\n\\n\nResolution:\\n\n- Executive checked the leads and informed customer.\\n- Customer confirmed leads are coming now.\\n\n\\n\nNext Steps: \\n\n- Executive closed the ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, ticket, feedback, categories\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ad969d6-4d4a-42e9-99f7-f693b86122a6",
+  "ucid": "2ad969d6-4d4a-42e9-99f7-f693b86122a6",
+  "seller_categories": [
+    {
+      "mcat_id": "9559",
+      "mcat_name": "SMPS Transformer"
+    },
+    {
+      "mcat_id": "135987",
+      "mcat_name": "Ferrite Transformer"
+    },
+    {
+      "mcat_id": "148633",
+      "mcat_name": "Drum Coil Inductor"
+    },
+    {
+      "mcat_id": "34754",
+      "mcat_name": "PCB Transformers"
+    },
+    {
+      "mcat_id": "13194",
+      "mcat_name": "Common-mode Choke"
+    }
+  ]
+}

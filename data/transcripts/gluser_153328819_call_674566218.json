@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674566218",
+  "gluser_id": "153328819",
+  "vintage_months": 7,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706702",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=df9f8b52-89a7-4d1b-a055-9418e8e6071a",
+  "ucid": "df9f8b52-89a7-4d1b-a055-9418e8e6071a",
+  "seller_categories": [
+    {
+      "mcat_id": "178024",
+      "mcat_name": "Black Marble Shivling"
+    },
+    {
+      "mcat_id": "11058",
+      "mcat_name": "God Statues"
+    },
+    {
+      "mcat_id": "191241",
+      "mcat_name": "Narmada Shivling"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    },
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    }
+  ]
+}

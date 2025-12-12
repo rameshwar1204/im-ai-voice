@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674500540",
+  "gluser_id": "101232670",
+  "vintage_months": 10,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sasni",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671418",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Group mein daal to sahi likhi hai number de customer ko yaar. Jagah upar ho daal dego. Hello.\\nExecutive: Hello, Mr. Dheeraj Sharma baat kar rahe hain?\\nCustomer: Haan ji.\\nExecutive: Shree Shakti sir, good morning. Main Reshu baat kar rahi hoon India Mart se sir.\\nCustomer: 10 minute mein call karta hoon madam main. Thoda kaam mein lag raha hoon.\\nExecutive: 10 minute mein baat ho sakti hai. Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call back in 10 minutes due to being busy.\\n\n\\n\nResolution:\\n\n- Agreed to call back in 10 minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will wait for the customer to call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, india mart\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4a9695c-f2c6-4865-b349-f5a9530d5ebe",
+  "ucid": "d4a9695c-f2c6-4865-b349-f5a9530d5ebe",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    },
+    {
+      "mcat_id": "193593",
+      "mcat_name": "TATA Solar Panels"
+    },
+    {
+      "mcat_id": "178988",
+      "mcat_name": "Luminous Inverter Battery"
+    }
+  ]
+}

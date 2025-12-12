@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670840386",
+  "gluser_id": "141537513",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, this is Shahnawaz Khan from IndiaMART, ma'am.\\nCustomer: Hmm, okay.\\nExecutive: IndiaMART se baat kar raha hu mai.\\nCustomer: Haan, boliye.\\nExecutive: Ji ma'am, Midcon pre-engineered building system se baat kar rahe hai aap?\\nCustomer: Hmm, okay.\\nExecutive: Ji ma'am, service chal rahi hai IndiaMART mein, usi ke liye call kiya ma'am.\\nCustomer: Kuch nahi hone chahiye humko.\\nExecutive: Ma'am, aapki service chal rahi hai IndiaMART pe.\\nCustomer: Kya?\\nExecutive: Ma'am, aapki service chal rahi hai IndiaMART pe.\\nExecutive: Usi ke liye call kiya hai, sir ne aaj service visit ke liye ek request raise kiya tha via mail pe.\\nCustomer: Aapka naam kya hai?\\nExecutive: Ma'am, mai Shahnawaz Khan baat kar raha hu, aapka account manager IndiaMART se.\\nExecutive: IndiaMART se baat kar raha hu ma'am, aapka account manager.\\nCustomer: Ji.\\nExecutive: IndiaMART ka toh naam suna hoga ma'am aapne?\\nCustomer: Haan, haan, magar mera husband nahi hai yaha pe, ghar ko jaane ke baad mai call karwati hu, thik hai?\\nExecutive: Thik hai ma'am, baki aap service aap bhi dekhte ho IndiaMART ki?\\nCustomer: Nahi.\\nExecutive: Aap service nahi dekhte na ma'am, aapka number registered tha sir ke usme.\\nExecutive: Ek number hai 99 karke starting hai, last mein 338 hai.\\nCustomer: Haan. Aur ek aapka number registered tha.\\nExecutive: Ji, aapka ek registered number tha.\\nCustomer: Woh permanent number hoti hai, wohi rehne do.\\nExecutive: Ma'am, yeh service service ke liye maine call kiya tha ma'am.\\nCustomer: Thik hai, mere pati se aap woh number hai na dusra wala 338 ka hai na, un usko phone karo.\\nExecutive: Ji.\\nCustomer: Haan.\\nExecutive: Ji ma'am. Toh ma'am aap log all India mein deal karte hai sirf limited state mein, jaise sirf Andhra Pradesh, AP Telangana mein?\\nCustomer: Haan, only Andhra Pradesh, AP Telangana mein.\\nCustomer: Kya?\\nExecutive: All India mein deal karte hai? Mere pati se baat karna hai toh mere pati se baat kar lo, thik hai? Woh number hai na 1338 ke hai na, usse baat kar lo, thik hai?\\nCustomer: Ji.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer stated they don't need anything.\\n\n- Wants executive to call her husband.\\n\n\\n\nResolution:\\n\n- Executive explained the purpose of the call.\\n\n- Executive asked about the area of operation.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with customer's husband.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, account manager, registered number, area of operation\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 183,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ceec696-7881-4376-9a36-71d33002c86c",
+  "ucid": "4ceec696-7881-4376-9a36-71d33002c86c",
+  "seller_categories": [
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671755668",
+  "gluser_id": "249069909",
+  "vintage_months": 2,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Dhar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681395",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Hanji\\nExecutive: Sir mai Jyoti Patidar baat kar rahi hu.\\nCustomer: Kaha se?\\nExecutive: Mere ko Bodhwada se Jyoti Patidar baat kar rahi hu. Maine reselling pe matlab payment kiya hai order ke liye par aaj tak mere do mahine ho gaye payment kiye hue 36000 par mere ko order ek bhi nahi mila hai.\\nCustomer: \\nCustomer: Aur jis apply ne mujhse baat kari thi Shajang sir ne aur Simran mam ne wo aaj mera phone hi nahi utha rahe. Mai 15 din se pareshan ho rahi hu ghar wale mere ko kha rahe hai ab.\\nExecutive: Aap kis aapki company ka naam kya hai ye batao?\\nCustomer: Sawariya.\\nExecutive: Okay. A mam abhi to mai office pahucha nahi hu mai office pahuch ke ek bar aapse discuss karta hu, thik hai?\\nCustomer: Thik hai sir.\\nExecutive: Okay mam okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment done for reselling, no order received.\\n\n- Shajang sir and Simran mam not answering calls.\\n\n- Payment of \u20b936,000 not resulting in orders.\\n\n\\n\nResolution:\\n\n- Executive assured to discuss after reaching office.\\n\n\\n\nNext Steps: \\n\n- Executive will discuss the issue after reaching office.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- reselling, payment, order, refund, follow-up\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=473a5e3c-4e31-42d9-a3c7-e5c9b1eaf845",
+  "ucid": "473a5e3c-4e31-42d9-a3c7-e5c9b1eaf845",
+  "seller_categories": [
+    {
+      "mcat_id": "175055",
+      "mcat_name": "Handmade Soaps"
+    },
+    {
+      "mcat_id": "182748",
+      "mcat_name": "Hair Growth Oil"
+    },
+    {
+      "mcat_id": "3275",
+      "mcat_name": "Aloe Vera Soap"
+    },
+    {
+      "mcat_id": "183786",
+      "mcat_name": "Multani Mitti Soap"
+    },
+    {
+      "mcat_id": "443596",
+      "mcat_name": "Organic Soap"
+    }
+  ]
+}

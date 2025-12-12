@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673229588",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Are are are, ye kya ho gaya? Hello?\\nExecutive: Hello?\\nCustomer: Haan ji good morning, main Naveen ji baat kar raha hoon.\\nExecutive: Ji good morning, kaise hain sir?\\nCustomer: Haan, thik thak hain. Main ye keh raha hoon ki mera abhi tak refund hua nahi bhai.\\nExecutive: Sir, sir hum refund ki baat chhod ke hum ye nahi baat kar sakte ki agar main aapko do chaar acche buyer dungi aap unse baat kariye.\\nCustomer: Nahi nahi, mujhe refund hi chahiye. Mujhe main aapse main ek bhi aapse koi acche buyer nahi hai, kuch bhi nahi hai sab fraud hai mera bhai. Aap ek baar baat to kariye na sir.\\nExecutive: Aap refund karwaiye mujhe. Main aapse ab kuch sunne ko tayar nahi hoon. Chaar paanch mahina ho gaya.\\nExecutive: Thik hai, thik hai, main keh rahi hoon kara dungi chaliye. Kara dungi lekin pehle mere kehne pe aap chaar paanch lead use kariye, buyer se baat kariye, mere samne baat kariye.\\nCustomer: Nahi nahi, aap kara dijiye bas usse jyada kuch baat nahi karna mujhe, mera aap refund karaiye.\\nExecutive: Sir bina bina\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund yet.\\n\n- Claims all buyers are fraud.\\n\n\\n\nResolution:\\n\n- Executive agreed to process the refund.\\n\n- Asked customer to use leads and talk to buyers.\\n\n\\n\nNext Steps: \\n\n- Executive will process the refund.\\n\n\\n\nAlert (If Any):\\n\nrefund, fraud\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, buyers\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=acf8169d-81b3-47e0-9e79-61f60e6da344",
+  "ucid": "acf8169d-81b3-47e0-9e79-61f60e6da344",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

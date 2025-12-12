@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668671529",
+  "gluser_id": "61290057",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647664",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- none\\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=019bf5a8-130f-4ec8-b08b-f8350dd9de17",
+  "ucid": "019bf5a8-130f-4ec8-b08b-f8350dd9de17",
+  "seller_categories": [
+    {
+      "mcat_id": "7544",
+      "mcat_name": "Optical Brighteners"
+    },
+    {
+      "mcat_id": "37783",
+      "mcat_name": "Silicone Softener"
+    },
+    {
+      "mcat_id": "27107",
+      "mcat_name": "Dye Fixing Agent"
+    },
+    {
+      "mcat_id": "2361",
+      "mcat_name": "Textile Chemical"
+    },
+    {
+      "mcat_id": "9357",
+      "mcat_name": "Silicone Textile Softeners"
+    }
+  ]
+}

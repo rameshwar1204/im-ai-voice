@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667144678",
+  "gluser_id": "181470779",
+  "vintage_months": 1,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Wai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710751",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: lead nahi hai kya regulation need\\nCustomer: lead nahi hai usi liye kiya hai ye\\nCustomer: keh raha hai mai\\nExecutive: Hello\\nExecutive: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello Avinash ji baat kar rahe hai sir?\\nCustomer: nahi hai sir\\nExecutive: Hello\\nExecutive: Padmavati Nutritech se baat kar rahi hai na mam?\\nExecutive: Hello\\nExecutive: Hello\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states there are no buyleads.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d820cfc1-e458-4880-ba17-52a2c26cecd2",
+  "ucid": "d820cfc1-e458-4880-ba17-52a2c26cecd2",
+  "seller_categories": [
+    {
+      "mcat_id": "113922",
+      "mcat_name": "Spirulina Powder"
+    },
+    {
+      "mcat_id": "650502",
+      "mcat_name": "Organic Spirulina Powder"
+    },
+    {
+      "mcat_id": "7727",
+      "mcat_name": "Spirulina Tablet"
+    },
+    {
+      "mcat_id": "7725",
+      "mcat_name": "Spirulina Capsule"
+    },
+    {
+      "mcat_id": "9206",
+      "mcat_name": "Herbal Powder"
+    }
+  ]
+}

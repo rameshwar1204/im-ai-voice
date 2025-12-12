@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671137836",
+  "gluser_id": "149984484",
+  "vintage_months": 1,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji. Hello.\\nExecutive: Haan ji bataiye.\\nCustomer: Hello. Actually sir mai TrustSeal problem hai.\\nExecutive: Hello.\\nCustomer: Hello. Hello. Haan to sir mai apne account manager ko call kar raha hu teen din se call nahi utha rahi hai mera.\\nExecutive: Ek baar bataiye naam bataiye sir.\\nCustomer: Priyanshu Gupta.\\nExecutive: Account manager ka naam?\\nCustomer: Accha Pooja Pooja Pooja.\\nExecutive: Haan ji haan ji. Accha. Actually sir Pooja na unka eye surgery hua hai sir to wo abhi to leave pe hai sir aap bataiye kya help kar sakte hai koi doubt hai koi issue hai to bataiye.\\nCustomer: Doubt bahut sare hai sir mere ko promise bahut kuch kiya gaya tha lekin service nahi mil rahi hai bilkul bhi aisi.\\nExecutive: Aap bataiye na Priyanshu sir kya help kar sakte hai bataiye.\\nCustomer: Sir mera na pehle to jinhone catalog banaya tha na unhone catalog galat se catalog nahi banaya unhone jaldi jaldi kuch bhi dal diya.\\nExecutive: Haan.\\nCustomer: To ab kya hai na mera ek product hai jaise aapko mai samjhaunga hamara transformer me lagne wala part hota hai transformer 11 KV ka hota hai 22 KV ka hota hai 33 KV ka hota hai. Thik hai? Alag alag product hote hai isme.\\nExecutive: Hmm.\\nCustomer: To jo mera main product hai uska naam bhi transformer bushing hai. Uska ek high capacity wala hai uska naam bhi transformer bushing hai. Maine unko ye bola tha ki transformer bushing ko search kare sabse pehle to mera main product show hona chahiye.\\nExecutive: Hmm.\\nCustomer: Aur wo main product show hota hi nahi hai dusra product show hota hai jo itna chalne wala nahi hai. Aur jo mere competitor hai unka main product show hota hai.\\nExecutive: Accha aapke competitor ka main product search hota hai aur aapka wo show nahi hota hai na sir?\\nCustomer: Haan.\\nExecutive: Accha. Thik hai to abhi possible hai kya ek baar hum over the video meeting connect kar le sir uske baad discussion sir ye kaha pe issue aa raha hai.\\nCustomer: Haan. Haan ji haan ji meeting schedule kara de. Mai ek meeting aapke registered aapke mail id pe share kar raha hu sir thik hai. Waha pe\\nExecutive: Thik hai. Pooja available nahi hai to mai Romi. Haan abhi abhi abhi turant kar raha hu Romi ke sath. Thik hai? Thik hai.\\nExecutive: Okay sir aap apna ek baar mail id open kijiyega aur ek baar meeting join kijiyega. Thik hai?\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account manager not answering calls.\\n\n- Catalog was not created correctly.\\n\n- Main product not showing in search results.\\n\n\\n\nResolution:\\n\n- Informed about account manager being on leave.\\n\n- Scheduled a video meeting to discuss the issue.\\n\n\\n\nNext Steps: \\n\n- Customer to open email and join meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, buyleads, trustseal, account manager\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 172,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c5e0a26-5dc8-4915-974d-a6813a28bbd3",
+  "ucid": "8c5e0a26-5dc8-4915-974d-a6813a28bbd3",
+  "seller_categories": [
+    {
+      "mcat_id": "805",
+      "mcat_name": "Ceramic Insulators"
+    },
+    {
+      "mcat_id": "90178",
+      "mcat_name": "Ceramic Incense Holder"
+    },
+    {
+      "mcat_id": "73937",
+      "mcat_name": "Ceramic Heating Element"
+    },
+    {
+      "mcat_id": "2543",
+      "mcat_name": "Transformer Bushing"
+    },
+    {
+      "mcat_id": "997",
+      "mcat_name": "Ceramic Beads"
+    }
+  ]
+}

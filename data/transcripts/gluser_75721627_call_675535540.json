@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675535540",
+  "gluser_id": "75721627",
+  "vintage_months": 48,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panvel",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686418",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan Vijay sir good afternoon.\\nExecutive: Haan good afternoon. \\nCustomer: Ji Praveen bol raha hu India Mart se.\\nExecutive: Haan boliye sir. \\nCustomer: Keh raha tha ki wo jo trust seal ka naam wala bol rahe the aap wo maine bheja tha wo varsa Vijay sunan sunavne ho gaya hai.\\nExecutive: Achcha, theek hai.\\nCustomer: Dekha tha aapne?\\nExecutive: Nahi abhi dekha nahi main baahar hu thoda.\\nCustomer: Haan ek baar whatsapp pe dobara bhej de raha hu.\\nExecutive: Hmm hmm.\\nCustomer: Naam maine update karwa diya theek hai.\\nExecutive: Theek hai sir. \\nCustomer: Abhi free nahi hai aap?\\nExecutive: Nahi nahi baahar baitha hu.\\nCustomer: Achcha achcha ye update ho gaya to iske regarding main sanction close kar de raha hu theek hai?\\nExecutive: Theek hai. \\nCustomer: Main bhej raha hu haan update karke.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Trust seal name update not yet seen.\\n\n\\n\nResolution:\\n\n- Customer will resend the updated name via WhatsApp.\\n\n- Sanction will be closed regarding the update.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will resend the updated name via WhatsApp.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ntrust seal, name update, whatsapp\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4b527e3-1a04-4f5f-8b6a-2630de708d87",
+  "ucid": "d4b527e3-1a04-4f5f-8b6a-2630de708d87",
+  "seller_categories": [
+    {
+      "mcat_id": "169392",
+      "mcat_name": "Hydro Testing Services"
+    },
+    {
+      "mcat_id": "653320",
+      "mcat_name": "PESO Certificate"
+    },
+    {
+      "mcat_id": "78488",
+      "mcat_name": "Third Party Inspection Service"
+    },
+    {
+      "mcat_id": "32329",
+      "mcat_name": "Lifting Tackles"
+    },
+    {
+      "mcat_id": "172243",
+      "mcat_name": "Load Testing Service"
+    }
+  ]
+}

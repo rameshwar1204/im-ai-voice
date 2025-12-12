@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668190454",
+  "gluser_id": "159273282",
+  "vintage_months": 2,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9645034",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [unintelligible]\\nExecutive: Haanji sir namaste, IndiaMART se bol raha hu ${Exec_Name} sir.\\nCustomer: Haan namaste.\\nExecutive: Haan sir, kya haal hai aapke?\\nCustomer: Bas theek hai.\\nExecutive: Sir, aapka jo payment pending dikha raha hai, aapne kiya nahi hai kya?\\nCustomer: Nahi, humne toh kar diya tha.\\nExecutive: Kab kiya tha sir aapne?\\nCustomer: Humne kiya tha 25 ko.\\nExecutive: 25 ko kiya tha? Theek hai sir, main check karwa leta hu, aapka company name bata dijiye ek baar.\\nCustomer: Shree Shyam Traders.\\nExecutive: Shree Shyam Traders, theek hai sir, main check karwa leta hu, aap line par rahiye.\\nCustomer: Haan.\\nExecutive: Thank you.\\n(silence)\\nExecutive: Haanji sir, aapka payment receive ho gaya hai, main abhi team ko bol deta hu, aapka service activate kar denge.\\nCustomer: Theek hai.\\nExecutive: Haanji sir, aur koi help chahiye aapko?\\nCustomer: Nahi, theek hai.\\nExecutive: Theek hai sir, dhanyavaad.\\nCustomer: Dhanyavaad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment showing pending despite customer having paid.\\n\n\\n\nResolution:\\n\n- Payment confirmed as received, service activation to be done.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- payment, subscription, activation\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ff3635a6-3a6c-45e2-b45f-7c5f772b9561",
+  "ucid": "ff3635a6-3a6c-45e2-b45f-7c5f772b9561",
+  "seller_categories": [
+    {
+      "mcat_id": "12324",
+      "mcat_name": "Ganesh Statue"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "178024",
+      "mcat_name": "Black Marble Shivling"
+    },
+    {
+      "mcat_id": "178192",
+      "mcat_name": "Marble Goddess Statue"
+    },
+    {
+      "mcat_id": "86105",
+      "mcat_name": "Human Statue & Sculpture"
+    }
+  ]
+}

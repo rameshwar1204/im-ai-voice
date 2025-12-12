@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675153024",
+  "gluser_id": "35300972",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710940",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930\\nExecutive: \u0905\u092d\u0940 \u0930\u0941\u0915\u094b \u090f\u0915 \u0926\u094b \u092e\u093f\u0928\u091f \u0915\u0949\u0932 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0906\u092a\u0915\u094b \u0926\u094b \u092e\u093f\u0928\u091f \u0930\u0941\u0915\u094b\\nCustomer: \u0905\u091a\u094d\u091b\u093e \u092d\u093e\u0908 \u092e\u0948\u0902 \u0906\u092a\u0915\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0906\u092a\u0928\u0947 \u0915\u093f\u092f\u093e \u0928\u0939\u0940\u0902 \u0915\u094d\u092f\u093e \u0928\u0939\u0940\u0902 \u0928\u0939\u0940\u0902 \u0905\u092d\u0940 \u0926\u094b \u092e\u093f\u0928\u091f \u0930\u0941\u0915\u094b\\nExecutive: \u0939\u093e\u0902 \u0905\u091a\u094d\u091b\u093e \u0905\u091a\u094d\u091b\u093e \u0915\u0930\u093f\u090f \u0915\u0930\u093f\u090f\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was waiting for a call.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to wait for two minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, waiting\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7133c31f-46a1-46f4-a089-4f6b0bc084a0",
+  "ucid": "7133c31f-46a1-46f4-a089-4f6b0bc084a0",
+  "seller_categories": [
+    {
+      "mcat_id": "126639",
+      "mcat_name": "Wedding Palki"
+    },
+    {
+      "mcat_id": "126640",
+      "mcat_name": "Wedding Stage"
+    },
+    {
+      "mcat_id": "126638",
+      "mcat_name": "Wedding Gate"
+    },
+    {
+      "mcat_id": "133074",
+      "mcat_name": "FRP Pillar"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    }
+  ]
+}

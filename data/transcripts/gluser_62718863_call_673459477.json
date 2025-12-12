@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673459477",
+  "gluser_id": "62718863",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Dharwad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hmm, hello sir.\\nCustomer: Manoj ji aap kya kar rahe ho sir, samajh mein nahi aa raha. Subah se try kar raha hun.\\nCustomer: Mere liye important hai sir na sir.\\nCustomer: Aap jo hai bina bataye call disconnect kar de rahe ho sari cheezein. Aap dekho mail open karo aap. Join kijiye aap.\\nCustomer: Okay sir, main...\\nCustomer: Mail aaya hua hai dekhiye aapko.\\nCustomer: [unintelligible]\\nCustomer: Awaaz aa rahi hai, unmute kijiye apne aapko. [unintelligible] [unintelligible] [unintelligible] [unintelligible].\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to connect.\\n\n- Executive disconnecting call without informing.\\n\n\\n\nResolution:\\n\n- Asked customer to check his mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- call disconnect, mail, join\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=35a4a196-e551-473b-9d02-7189a4ae4f17",
+  "ucid": "35a4a196-e551-473b-9d02-7189a4ae4f17",
+  "seller_categories": [
+    {
+      "mcat_id": "127388",
+      "mcat_name": "Corn DDGS"
+    },
+    {
+      "mcat_id": "127328",
+      "mcat_name": "Cottonseed Oil Cake"
+    },
+    {
+      "mcat_id": "3397",
+      "mcat_name": "Wheat Bran"
+    },
+    {
+      "mcat_id": "182636",
+      "mcat_name": "Rice Husk"
+    },
+    {
+      "mcat_id": "96272",
+      "mcat_name": "Cotton Seed Cake"
+    }
+  ]
+}

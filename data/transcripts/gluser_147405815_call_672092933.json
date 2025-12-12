@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672092933",
+  "gluser_id": "147405815",
+  "vintage_months": 6,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Hanumangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675318",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Suneel ji Pratiksha baat kar rahi hu IndiaMART se. Abhi free ho kya aap?\\nCustomer: Haan ji.\\nExecutive: Actually mujhe na thoda sa ye baat karni thi aapne call kari hogi mere paas. Hai na? To kab kal kari thi kal ya parso?\\nCustomer: Actually main na abhi morning mein attend nahi kar sakta IndiaMART ko attend 3 baje ke baad de sakta hu main yahi kehna chahta tha.\\nExecutive: Achcha achcha. To regular main aapse seekhna chahunga. Haan haan.\\nCustomer: Achcha regular aap matlab mere haan haan theek hai theek hai. Main yahi kehna chahta hu.\\nExecutive: Okay okay. To actually na aapne call kari thi to hamare paas concern aa gaya tha, theek hai? To main usko close kar du agar aap bolo to? Aap mere se connect hona hai to aap ho sakte ho aise bhi matlab ya to aap WhatsApp ke through ho sakte ho ya phir aap mere ko direct phone kar sakte ho but aapne 79696 pe call kar di hogi. Haan ji haan ji. Hai na? Haan to wo usse na query generate ho jati hai hamare paas. Theek hai? To main usko close kar du? 4 baje ka usko close karo 4 baje ka time wapis kar lo.\\nCustomer: Achcha achcha.\\nExecutive: Haan. Theek hai theek hai. Main apne paas reminder set kar le rahi hu. Theek hai?\\nCustomer: Theek hai.\\nExecutive: Haan jo bhi cheeze hongi hum discuss kar lenge. Theek hai? Main aapko call kar lungi. Ya meri call lagi bhi aati hai to usi bhi 4 baje ka jo TBR hota hai us time pe ho sakta hai main kisi aur call pe hu. To main 4 ke aas pass kar lungi aapko. Theek hai?\\nCustomer: Haan wo koi baat nahi theek hai.\\nExecutive: Okay abhi feedback ka message aayega usko yes kar dijiyega please.\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to attend call after 3 PM.\\n\n- Customer wants to learn regularly from executive.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back around 4 PM.\\n\n- Executive will set a reminder for the call.\\n\n- Executive requested to provide feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call time, feedback, reminder\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc051d17-1145-4fb3-b6fd-5bd1e1a7c301",
+  "ucid": "fc051d17-1145-4fb3-b6fd-5bd1e1a7c301",
+  "seller_categories": [
+    {
+      "mcat_id": "2093",
+      "mcat_name": "Basmati Rice"
+    },
+    {
+      "mcat_id": "3719",
+      "mcat_name": "Chana Dal"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    },
+    {
+      "mcat_id": "160090",
+      "mcat_name": "Kabuli Chana"
+    },
+    {
+      "mcat_id": "164859",
+      "mcat_name": "Golden Sella Basmati Rice"
+    }
+  ]
+}

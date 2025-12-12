@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670816190",
+  "gluser_id": "2224243",
+  "vintage_months": 25,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666118",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Haan ji. Hello. Ji Piyush sir. Good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Ji sir. Abhi connect kar lijiye sir ek baar Google Meet se.\\nCustomer: Aur are sir main thoda ek kaam ho raha tha yahan property pe to us vajah se yahi par hi tha main zara. Abhi main ho nahi paunga. Main aapko kuch time 6 baje ke baad dunga sir main 6 baje ke baad sham ko.\\nExecutive: 6 baje ke baad kitne baje exactly main aapko call karu sir?\\nCustomer: 7:00 7:30 baje ho jaye to easy ho jayega.\\nExecutive: 7:00 7:30 baje. Theek hai sir main aapko try karunga baat karne ka. Aur sir ye aapne concern raise kiya tha na. Hello.\\nCustomer: Hmm.\\nExecutive: To wo ticket hamara raise rehta hai to usko hum close kar de?\\nCustomer: Kar do.\\nExecutive: Theek hai sir. Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to connect on Google Meet now.\\n\n- Wants executive to call after 6 PM.\\n\n\\n\nResolution:\\n\n- Executive agreed to call at 7 or 7:30 PM.\\n\n- Closed the raised ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, call time, ticket closure\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=213aba6b-71a5-425c-8967-f2c2def87320",
+  "ucid": "213aba6b-71a5-425c-8967-f2c2def87320",
+  "seller_categories": [
+    {
+      "mcat_id": "186997",
+      "mcat_name": "School Belt Niwar"
+    },
+    {
+      "mcat_id": "182929",
+      "mcat_name": "Niwar"
+    },
+    {
+      "mcat_id": "141700",
+      "mcat_name": "School Belt"
+    },
+    {
+      "mcat_id": "6658",
+      "mcat_name": "Narrow Woven Fabrics"
+    },
+    {
+      "mcat_id": "442275",
+      "mcat_name": "Nylon Niwar Tapes"
+    }
+  ]
+}

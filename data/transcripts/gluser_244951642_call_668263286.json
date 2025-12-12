@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668263286",
+  "gluser_id": "244951642",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Patiala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\n[inaudible]\\nHello.\\nHello.\\nRavitaam naam hai mera.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer introduced herself as Ravitaam.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6fce1a42-ac09-4008-9cf7-fab854046f01",
+  "ucid": "6fce1a42-ac09-4008-9cf7-fab854046f01",
+  "seller_categories": [
+    {
+      "mcat_id": "23658",
+      "mcat_name": "Bulk Density Meter"
+    },
+    {
+      "mcat_id": "140409",
+      "mcat_name": "Tap Density Tester"
+    },
+    {
+      "mcat_id": "119115",
+      "mcat_name": "Bulk Density Apparatus"
+    },
+    {
+      "mcat_id": "22017",
+      "mcat_name": "Angle Measuring Instrument"
+    },
+    {
+      "mcat_id": "137486",
+      "mcat_name": "Portable Density Meter"
+    }
+  ]
+}

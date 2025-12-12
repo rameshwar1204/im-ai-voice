@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667529750",
+  "gluser_id": "113709",
+  "vintage_months": 113,
+  "bl_dau_oct": 27,
+  "customer_type": "LEADER",
+  "city_name": "Indore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9707511",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Counselor bhejiye thoda video.\\n\\nHello.\\nExecutive: Hello.\\nCustomer: Ji boliye.\\nExecutive: Madam mein baat kar raha hu mein baat ho rahi hai.\\nCustomer: Haan ji.\\nExecutive: Actually mein Sonu baat kar raha hu IndiaMART se actually maine jo call kiya hai na madam aapki jo paid service chal rahi hai na jis category mein usme leads consume hona bhi kuch time se band ho gaya hai madam.\\nCustomer: Usme consume hona band ho gaya hai.\\nExecutive: Ji ji madam isiliye.\\nCustomer: Main to roj hi de rahi hu.\\nExecutive: Watering can hai madam aapka.\\nCustomer: Haan water can ke aapke isme aati nahi hai wo peene wale pani ke aati hai jabki hume agriculture ke regarding chahiye.\\nExecutive: Thik hai aur dusra ek LDP pipe hai wo bhi.\\nCustomer: Wo humne band kar diya hai production abhi.\\nExecutive: Achcha production band kar diya hai to isko hum change kar denge madam ek kaam kare madam kal matlab sorry kal to hamari chutti hai parso ek baar hum log connect kare like video meeting pe to ek baar hum log changes kar le aapke seller ko.\\nCustomer: Aapko sir call karni hai jabhi bhi do se teen ke beech mein kariye mujhe.\\nExecutive: Do se teen ke beech mein.\\nCustomer: Haan ji.\\nExecutive: Thik hai parso karta hu madam aapko mein thik hai fir then connect thank you.\\nCustomer: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Leads consumption stopped in paid service.\\n\n- Watering can leads are not relevant.\\n\n- Production of LDP pipe is stopped.\\n\n\\n\nResolution:\\n\n- Executive agreed to change the product category.\\n\n- Executive will connect via video meeting day after tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call between 2-3 PM day after tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, product category, video meeting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d78d22c6-2c2f-412d-927f-0f1e493f9f1f",
+  "ucid": "d78d22c6-2c2f-412d-927f-0f1e493f9f1f",
+  "seller_categories": [
+    {
+      "mcat_id": "160028",
+      "mcat_name": "Plastic Ghamela"
+    },
+    {
+      "mcat_id": "164099",
+      "mcat_name": "Battery Spray Pump"
+    },
+    {
+      "mcat_id": "84872",
+      "mcat_name": "Plastic Flower Pot"
+    },
+    {
+      "mcat_id": "148451",
+      "mcat_name": "Battery Powered Knapsack Sprayer"
+    },
+    {
+      "mcat_id": "34995",
+      "mcat_name": "Plastic Pot"
+    }
+  ]
+}

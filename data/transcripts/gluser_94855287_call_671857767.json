@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671857767",
+  "gluser_id": "94855287",
+  "vintage_months": 46,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jagatsinghapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678200",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji boliye madam.\\nExecutive: Good morning sir, Satyadas ji baat kar rahe hain aap?\\nCustomer: Haan haan haan.\\nExecutive: Sir main Anshika baat kar rahi hu servicing ke regarding aapko ye call kiya. Aapne sir ek incoming call ki thi to uske regarding ek ticket open hui hai aapki.\\nCustomer: Incoming?\\nExecutive: Aapne ye call ki thi shayad hamare kisi account manager ko ya Vasundhara ji ko. Vasundhara ji se aapki aapki baat hui thi na?\\nCustomer: Nahi nahi madam nahi nahi nahi nahi maine kisi ko phone nahi kiya.\\nExecutive: Achha incoming ke regarding ek ticket open hui hai sir aapki.\\nCustomer: Nahi nahi.\\nExecutive: Achha, theek hai. To abhi services ko sir active kara rahe hain aap?\\nCustomer: Nahi nahi.\\nExecutive: Services to active nahi karaenge, theek hai. Kya issues aa rahe hain sir?\\nCustomer: Madam wo ye baar baar baat karna theek nahi rehta hai. Main wo mana kar diya to mana kar diya. Har baar wo teen baar baat karna theek nahi rehta.\\nExecutive: Theek hai sir koi baat nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states he did not make any call.\\n\n- Customer does not want to activate services.\\n\n- Customer does not want to be called repeatedly.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's concerns.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, activation, incoming call, repeated calls\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=11b9df9c-9d46-4df0-bcbe-9ea1559f145f",
+  "ucid": "11b9df9c-9d46-4df0-bcbe-9ea1559f145f",
+  "seller_categories": [
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "764",
+      "mcat_name": "Incense Sticks"
+    },
+    {
+      "mcat_id": "158304",
+      "mcat_name": "Incense Sticks Fragrances"
+    },
+    {
+      "mcat_id": "42112",
+      "mcat_name": "Floral Incense Sticks"
+    },
+    {
+      "mcat_id": "6683",
+      "mcat_name": "Natural Incense Stick"
+    }
+  ]
+}

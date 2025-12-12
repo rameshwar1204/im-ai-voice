@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672637812",
+  "gluser_id": "41090280",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687784",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nHello.\\nExecutive: Hello.\\nCustomer: Yes sir, IndiaMART se baat karu?\\nExecutive: Yes yes, IndiaMART se baat kar rahi hu main.\\nCustomer: Uh, ma'am, ek minute baat kar sakte ho barabar?\\nExecutive: Haan, bataiye.\\nCustomer: Uh, ma'am actually mera jo e-commerce ka account hai na, uske number mere do verified alag hai profile pe jaake aur main jo catalog share kar raha hu na kisi ko to usse number alag ja raha hai. To wo kya GST number se number linked ho jaata hai kya automatic?\\nExecutive: Uh, shayad sir GST se hi hota hai. GST se link hota hai na, number wahi aapka number se login wagaira hoga. Uh, sir main aapki profile login number alag hai ma'am. Login number alag hai, profile pe bhi maine number dono alag dale hue hai. Mujhe wohi number jab main kisi ko catalog share kar raha hu to mujhe wohi number chahiye lekin actually wo number koi aur hi number hai.\\nCustomer: [inaudible]\\nExecutive: Theek hai. Uh, sir main na abhi na office se nikal chuki hu. To iske regarding na main apni senior se baat kar leti hu aur aapko kal call kar lungi, theek hai?\\nCustomer: Theek hai, theek hai laga okay ma'am.\\nExecutive: Theek hai, theek hai laga okay ma'am.\\nCustomer: Okay sir, thank you.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has two different verified numbers.\\n\n- Different number is displayed when sharing catalog.\\n\n\\n\nResolution:\\n\n- Executive will discuss with senior and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, catalog, gst, number, verification\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=35de8a5d-e0ca-426e-ad05-bb05f4f0b68f",
+  "ucid": "35de8a5d-e0ca-426e-ad05-bb05f4f0b68f",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "24310",
+      "mcat_name": "Carbon Steel Plates"
+    },
+    {
+      "mcat_id": "44188",
+      "mcat_name": "MS Washer"
+    },
+    {
+      "mcat_id": "167392",
+      "mcat_name": "Boring Scrap"
+    },
+    {
+      "mcat_id": "194997",
+      "mcat_name": "Used Steel Plates"
+    }
+  ]
+}

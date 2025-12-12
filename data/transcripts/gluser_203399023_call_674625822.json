@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674625822",
+  "gluser_id": "203399023",
+  "vintage_months": 23,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Barbil",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9705678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello hello good afternoon sir.\\nExecutive: Hanji main Lakshman baat kar raha tha IndiaMART se.\\nCustomer: Kahan se bol rahe?\\nExecutive: IndiaMART se sir.\\nCustomer: Hello.\\nCustomer: [inaudible] nikal gaya.\\nExecutive: Kya sir?\\nCustomer: Mobile chhod ke Koda Handi nikal gaya.\\nCustomer: Koda Handi mein hai.\\nExecutive: Achcha to sir main ye puch raha tha aapka sir koi concern tha buyleads ke regarding.\\nExecutive: To aapne to mail kiya tha kuch leads vagaira ka problem hai.\\nExecutive: Aapki taraf se sir ek ticket raise hua hai jismein aapne bataya ki mujhe buyleads vagaira se related problem hai.\\nCustomer: Achcha aap raat ko 8:30 baje call kijiye wo manager aane ke baad aapko thoda denge.\\nExecutive: Sir actually problem actually sir sir sir actually actually.\\nCustomer: Unke pitaji bol rahe hain.\\nExecutive: Haan humko malum nahi hai.\\nExecutive: Sir actually problem kya hai ki ye problem humein vaise to jab ticket raise hui hoti hai na maan ke chalo aaj aapne koi dikkat batai humein to 4 ghante ke andar solve karni hoti hai lekin main subah se connect karne ki koshish kar raha hun.\\nExecutive: Mera sir se connect nahi ho paya hai.\\nExecutive: Jiski vajah se kya hai jiski vajah se sir kya hai main problem face kar raha hun ki mujhe ye ticket within hours ke andar ye close karni hai.\\nExecutive: To unhe kya problem aa rahi hai kya dikkat aa rahi hai mera unse baat karna bahut jaruri hai.\\nExecutive: To un wo call vagaira attend nahi kar rahe hain.\\nExecutive: To sir isi number pe jo maine number lagaya hai ye sir number bataenge 63 72 17 17 28 ye kiska number hai?\\nCustomer: Hello.\\nCustomer: 17 17 28.\\nCustomer: 17 17 28 to uska number nahi hai.\\nExecutive: Theek hai aapka 7:30 8:00 baje aane se usko baat karenge kiska number hai aapko malum nahi hai.\\nExecutive: To sir wo abhi call nahi uthayenge kya?\\nCustomer: Na na na call nahi uthayenge.\\nExecutive: Wo kahan pe busy hain sir matlab kahin meeting vagaira mein kahin party vagaira mein.\\nCustomer: Haan meeting mein hai.\\nCustomer: Company ka meeting mein hai.\\nCustomer: Wo 7:30 baje ka baad mein free honge.\\nExecutive: To sir main keh raha tha ki main aapke aapki matlab aap aapki kehne par ye ticket close kar dun kyunki kya hai ki aap main unse baat kar lunga unko kya problem hai kya problem nahi hai to main ye ticket close kar dun?\\nCustomer: Nahi abhi close mat kijiye wo aane se baat karunga. Sir 8:00 baje sir sir sir excuse me sir.\\nExecutive: 8:00 baje sir office khulti nahi hai sir band ho jati hai please problem to ye hai na.\\nCustomer: Wo 7:30 baje pahunch jayenge.\\nExecutive: Achcha wo 7:30 baje pahunchenge sir 6:00 baje se pehle nahi ho payega sir kyunki 6:00 baje tak main office mein rehta hun.\\nExecutive: Actually kya hai sir aap aapke pass mera number hai na aap mujhse contact kar lijiye kuch bhi problem hai lekin abhi ke liye main ticket close kar deta hun.\\nCustomer: Usko pass hum phone karenge udhar aane se wo phone karega isko hum bata denge.\\nExecutive: Wo to theek hai lekin sir ye 6:00 baje se pehle ticket bhi to close honi hai uska bhi to aap bataiye.\\nCustomer: Hum kaise karte hain humko kuch malum nahi hai.\\nExecutive: Nahi main main ye nahi bol raha aapko kuch malum nahi sir main ye bol raha hun aap mujhe call kar lena lekin aapki yes ya no se ye ticket close hogi ye ticket close ho jayegi abhi fir agar aapko koi dikkat hai sir se meri baat karwa dena main unse baat kar lunga lekin ye abhi ke liye sir ye ticket close karni hai.\\nCustomer: Theek hai kar dijiye.\\nExecutive: Theek hai sir main abhi ke liye ticket close kar deta hun aur main sir se baat kar lunga ki unhe kya dikkat hai theek theek hai sir theek hai theek hai sir theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has buylead related issues.\\n\n- Executive unable to connect with the customer.\\n\n- Ticket needs to be closed within hours.\\n\n\\n\nResolution:\\n\n- Executive offered to close the ticket.\\n\n- Executive will connect with the customer later.\\n\n\\n\nNext Steps: \\n\n- Ticket closed by the executive.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, ticket, closing, call\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 297,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cd24f1fa-f502-4248-bcd6-a37560d426bc",
+  "ucid": "cd24f1fa-f502-4248-bcd6-a37560d426bc",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "177908",
+      "mcat_name": "Raw Kurkure"
+    },
+    {
+      "mcat_id": "85357",
+      "mcat_name": "Fried Snack"
+    },
+    {
+      "mcat_id": "37",
+      "mcat_name": "Salted Snacks"
+    },
+    {
+      "mcat_id": "223186",
+      "mcat_name": "Corn Puff"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669164637",
+  "gluser_id": "1529311",
+  "vintage_months": 9,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Kannauj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9654753",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji sir namaskar.\\nCustomer: Namaskar.\\nCustomer: Namaskar sir, login kar raha hu apna number dal ke 8960719199 OTP nahi aa raha hai.\\nExecutive: OTP nahi aa raha hai sir. Ye kaunsi company hai sir?\\nCustomer: Ji?\\nExecutive: Company kaunsi hai aapka?\\nCustomer: Hello\\nCustomer: Mera mera number\\nExecutive: Nahi sir aapka company ka naam kya hai?\\nCustomer: Sai Export India.\\nExecutive: Sai Export India.\\nCustomer: Ji S A I Sai Export India.\\nExecutive: Ji sir.\\n\\nExecutive: Aap kaise mobile se kar rahe hai ya system se kar rahe hai sir kaise kar rahe hai?\\nCustomer: Mai laptop se kar raha hu sir.\\nExecutive: Laptop se kar rahe hai kya? haan\\nExecutive: Laptop pe sir Google pe type kijiyega sir seller.indiamart.com\\nCustomer: Ji?\\nExecutive: seller.indiamart.com\\nCustomer: Google pe Google pe\\nExecutive: seller.indiamart.com\\nExecutive: Sir mai aapko sir mai aapko call back kar raha hu just call back kar raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving OTP for login.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to login through laptop.\\n\n- Executive said he will call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, otp, seller.indiamart.com\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e1b6015c-8749-45c6-a29e-04dc736827a0",
+  "ucid": "e1b6015c-8749-45c6-a29e-04dc736827a0",
+  "seller_categories": [
+    {
+      "mcat_id": "136756",
+      "mcat_name": "Agarwood"
+    },
+    {
+      "mcat_id": "140739",
+      "mcat_name": "Oud Oil"
+    },
+    {
+      "mcat_id": "36866",
+      "mcat_name": "Rose Water"
+    },
+    {
+      "mcat_id": "140847",
+      "mcat_name": "Agarwood Chip"
+    },
+    {
+      "mcat_id": "136667",
+      "mcat_name": "Agarwood Oil"
+    }
+  ]
+}

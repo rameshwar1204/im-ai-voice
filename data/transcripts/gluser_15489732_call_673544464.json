@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673544464",
+  "gluser_id": "15489732",
+  "vintage_months": 33,
+  "bl_dau_oct": 24,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696004",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan sir, good evening.\\nExecutive: Hello.\\nExecutive: Good evening.\\nCustomer: Aashi baat kar rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fcb40988-bb43-4294-a848-50d4149724a2",
+  "ucid": "fcb40988-bb43-4294-a848-50d4149724a2",
+  "seller_categories": [
+    {
+      "mcat_id": "87797",
+      "mcat_name": "Metal Bunk Bed"
+    },
+    {
+      "mcat_id": "104746",
+      "mcat_name": "Garment Display Rack"
+    },
+    {
+      "mcat_id": "36364",
+      "mcat_name": "Retail Display Rack"
+    },
+    {
+      "mcat_id": "235626",
+      "mcat_name": "Metal Mobile Stands"
+    },
+    {
+      "mcat_id": "186610",
+      "mcat_name": "Shoe Display Rack For Shop"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667613153",
+  "gluser_id": "34937292",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638401",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Ji aawaz aa rahi hai aapko?\\nCustomer: Haan aa rahi hai bataiye. Hello.\\nExecutive: Haan bataiye bataiye sir.\\nCustomer: Aapke yaha pe aapne abhi maine abhi aapke yaha pe na apna ek matlab service kharidi hai. Guru Kant Consultancy ke naam se.\\nExecutive: Haan theek hai.\\nCustomer: Haan. Ji na actually sir aaj office band hai Guru Nanak Jayanti ki wajah se. To kal ka ek suitable time bata dijiye sir kal uske according main aapse baat kar lunga sir.\\n\\nCustomer: Hello. Agar chutti hai to jo aapke wo HR wagera hai jinhone jo agent the wo koi bhi call nahi uthayenge?\\nExecutive: Mam wo wo to main nahi bata sakta aapko but aaj hamari head office na band hai Guru Nanak Jayanti ki wajah se aur office band hai to hum bhi aapka kuch abhi tak help nahi kar payenge kyunki main bhi kahin bahar tha. To isiliye main ek suitable time aapse mang raha tha ki ek suitable time aap agar bata dete to kal main aapke account mein\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer purchased a service from IndiaMART.\\n\n- Wants to know if HR will answer calls on holiday.\\n\n- Asks for a suitable time to call back.\\n\n\\n\nResolution:\\n\n- Executive informed that office is closed.\\n\n- Asked customer to provide a suitable time to call.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at a suitable time.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, holiday, call back, guru nanak jayanti\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=afa986a1-1603-43ca-bf70-c04ecb2549dd",
+  "ucid": "afa986a1-1603-43ca-bf70-c04ecb2549dd",
+  "seller_categories": [
+    {
+      "mcat_id": "87923",
+      "mcat_name": "Placement Service"
+    },
+    {
+      "mcat_id": "101797",
+      "mcat_name": "Typing Services"
+    },
+    {
+      "mcat_id": "87924",
+      "mcat_name": "Recruitment Service"
+    },
+    {
+      "mcat_id": "132975",
+      "mcat_name": "Technical Support Service"
+    },
+    {
+      "mcat_id": "167900",
+      "mcat_name": "Account Management Service"
+    }
+  ]
+}

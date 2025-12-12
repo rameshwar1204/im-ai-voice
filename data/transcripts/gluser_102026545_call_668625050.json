@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668625050",
+  "gluser_id": "102026545",
+  "vintage_months": 68,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647603",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji sir, namaste IndiaMART se bol rahi hu, kya naam hai aapka?\\nCustomer: Mera naam [inaudible] hai.\\nExecutive: Ji, kya madad kar sakti hu main aapki?\\nCustomer: Maine kaha tha ki maine jo payment kiya tha, uska refund kab tak aayega?\\nExecutive: Sir, main aapko detail check karke batati hu, ek minute line par bane rahiye.\\nCustomer: Haan.\\nExecutive: Sir, aapka refund process ho gaya hai, aapko 7 se 10 working days mein aapko refund mil jayega.\\nCustomer: Kitne din mein?\\nExecutive: 7 se 10 working days mein sir.\\nCustomer: Theek hai.\\nExecutive: Aur koi madad kar sakti hu main aapki?\\nCustomer: Nahi, theek hai.\\nExecutive: Theek hai sir, dhanyavad.\\nCustomer: Dhanyavad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund of payment.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund is processed.\\n\n- Informed it will take 7-10 working days.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7fd66f98-1bed-41a4-975f-0d4fee799d9d",
+  "ucid": "7fd66f98-1bed-41a4-975f-0d4fee799d9d",
+  "seller_categories": [
+    {
+      "mcat_id": "107791",
+      "mcat_name": "FRP Square Tube"
+    },
+    {
+      "mcat_id": "145128",
+      "mcat_name": "FRP Channel"
+    },
+    {
+      "mcat_id": "65922",
+      "mcat_name": "Cast Iron Bench"
+    },
+    {
+      "mcat_id": "12332",
+      "mcat_name": "Garden Bench"
+    },
+    {
+      "mcat_id": "86320",
+      "mcat_name": "FRP Fencing"
+    }
+  ]
+}

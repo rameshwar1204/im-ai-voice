@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670224624",
+  "gluser_id": "250608031",
+  "vintage_months": 3,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665852",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes sir, Minakshi bol rahi hu IndiaMART se sir. Yes sir, Minakshi bol rahi hu IndiaMART se.\\nCustomer: Haan ji.\\nExecutive: Haan sir. Kaise hain sir aap?\\nCustomer: Ji mere ko.\\nExecutive: Sir main bhi achi hu sir, thank you. Sir Spark renewable se baat kar rahe hain?\\nCustomer: Haan ji.\\nExecutive: Sir bataiye kaise help kar sakti hu?\\nCustomer: Haan ji humne plan liya tha aur usse koi direct inquiry nahi aa rahi aur kya kehte hain jo leads buy karte hain usse kuch achcha response bhi nahi aa raha.\\nExecutive: Hmm hmm.\\nCustomer: To two months hone wale hain plan ko. Haan haan. Abhi tak ek deal bhi nahi hui.\\nExecutive: Achcha achcha. To sir plan mein jo by leads aur direct inquiry aur calls vagera aap jo attend kar rahe hain usme basically kya problem aa rahi hai matlab aapko leads mein dikkat aa rahi hai calls mein matlab buyer kya bol rahe hain?\\nCustomer: Leads mein dikkat aa rahi hai ki koi achcha response nahi aa raha koi phone uthata hai to kehta hai sham ko baat karunga ya.\\nExecutive: Hmm.\\nCustomer: Aur direct inquiry bhi koi nahi aa rahi.\\nExecutive: Haan haan haan haan.\\nCustomer: Two months ho gaye plan ko liye hue.\\nExecutive: Sir dekhiye wo main aapko bataungi but main but main sir bas aapse ye puchna chahti hu ki aapko problem kya aa rahi hai?\\nCustomer: Problem ye aa rahi hai ki koi ek to ek to call ki direct inquiry nahi aa rahi koi bhi aur jo leads buy karte hain haan haan usse kuch achcha achcha response bhi nahi aa raha.\\nExecutive: Achcha theek hai. Sir main na aapko ek video meeting ka link bhej rahi hu aap usse join kijiye.\\nCustomer: Haan ji.\\nExecutive: Maine aapko bhej diya link aap join kijiye zara.\\nExecutive: Dekhiye aapko Minakshi ke naam se calendar aaya hoga.\\nCustomer: Hmm dekh raha hu ek minute. Haan. Aapke registered email id jo hai usse maine bheja hai aapka hai sun spark renewable@gmail.com. Achcha theek hai.\\nExecutive: Haan ji. Isse join kariye aap.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No direct inquiries received.\\n\n- Poor response from purchased buyleads.\\n\n- No deals closed after two months.\\n\n\\n\nResolution:\\n\n- Executive shared a video meeting link.\\n\n\\n\nNext Steps: \\n\n- Customer to join the video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, video meeting, inquiries\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 204,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4883664a-309b-4b3c-bbf9-9f4578685d7d",
+  "ucid": "4883664a-309b-4b3c-bbf9-9f4578685d7d",
+  "seller_categories": [
+    {
+      "mcat_id": "177429",
+      "mcat_name": "Wedding Turban"
+    },
+    {
+      "mcat_id": "179279",
+      "mcat_name": "Safa"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

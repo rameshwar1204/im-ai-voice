@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666880450",
+  "gluser_id": "141828184",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677371",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Uh good morning, Aman baat kar raha tha IndiaMART se.\\nCustomer: Ji good morning.\\nExecutive: Uh ma'am, koi bhi buylead ka consumption nahi ho raha hai aapke end se, hum buylead bhi share kar raha hu, abhi video meeting me bhi connect kiya tha maine.\\nExecutive: Ma'am kya dikkat yahan par aa rahi hai?\\nCustomer: Abhi to uh darasal main abhi off duty hu, theek hai? To maine leave liya hua hai. Main ek baar office me baat karke puchti hu ki koi transaction kyu nahi ho raha ya contact kyu nahi ho raha hai.\\nExecutive: Ma'am aapne jo mujhe second number provide kiya tha, kya woh baat kar sakte hain matlab buyleads ke regarding hi?\\nCustomer: Ji ji ji bilkul. Main ek baar fir baat kar leti hu, aap us number pe baad me baat call kar lijiyega, theek hai?\\nExecutive: Theek hai.\\nCustomer: Theek hai.\\nExecutive: Please connect karaiye ek baar aur.",
+  "summary": "\\n\\nConcerns:\\n\\n- No buylead consumption from the customer's account.\\n- Buyleads shared are not being utilized.\\n\\n\\nResolution:\\n\\n- Informed that she is on leave and off-duty.\\n- Will check with the office about the issue.\\n- Advised to call the alternate number provided earlier.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call the alternate number after the customer speaks with them.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, consumption, off-duty, alternate number\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f4c30a4f-634e-4aea-9e3f-235dff368b5d",
+  "ucid": "f4c30a4f-634e-4aea-9e3f-235dff368b5d",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "31122",
+      "mcat_name": "Iron Scrap"
+    },
+    {
+      "mcat_id": "43846",
+      "mcat_name": "Coking Coal"
+    },
+    {
+      "mcat_id": "180300",
+      "mcat_name": "Black Coal"
+    },
+    {
+      "mcat_id": "113678",
+      "mcat_name": "ROM Coal"
+    }
+  ]
+}

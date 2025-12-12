@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667358266",
+  "gluser_id": "245633405",
+  "vintage_months": 3,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Modasa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634876",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nExecutive: MS International mein baat ho rahi hai Subhan ji se?\\nCustomer: Haan ji.\\nExecutive: Haan sir, main Aasim Khan bol raha tha Indiamart.com se business manager. Aap hi company register hai na Indiamart ke sath sir?\\nCustomer: Haan ji.\\nExecutive: Hello?\\nCustomer: Haan ji boliye.\\nExecutive: To aapke catalog ke service ke regarding maine call kiya tha jo Indiamart pe chal rahi hai aapki. Jaise main dekh raha tha sir aapki baat bhi hui thi aapke jo account manager hai Vishal Kumar ji se.\\nCustomer: Haan ji.\\nExecutive: To yaha sir jaise main dekh raha tha aapka ek feedback receive hua hua tha. Aapka discussion bhi hua tha aur fir feedback mein waha par aapne dissatisfied share kiya hua tha sir.\\nCustomer: Haan ji.\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: To main wahi jaanna chah raha tha sir jaise aap main dekh raha hu aap jis industry mein deal karte ho uski buyleads vagarah bhi aap consume kar rahe hai uski aa bhi rahi hai. To fir bhi dissatisfied sir aapka kis reason se aa raha tha ye jo aapne feedback diya hua hai sir?\\nCustomer: Hello?\\nExecutive: Haan ji sir.\\nCustomer: 2:30 baje call karega aap mujhe.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was dissatisfied with the service.\\n\n\\n\nResolution:\\n\n- Executive inquired about the reason for dissatisfaction.\\n\n\\n\nNext Steps: \\n\n- Customer requested a call back at 2:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, buyleads, catalog, dissatisfaction\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2daf8891-2553-47ee-9e2d-b410575256fd",
+  "ucid": "2daf8891-2553-47ee-9e2d-b410575256fd",
+  "seller_categories": [
+    {
+      "mcat_id": "114136",
+      "mcat_name": "Potato"
+    },
+    {
+      "mcat_id": "191172",
+      "mcat_name": "Red Potatoes"
+    },
+    {
+      "mcat_id": "169806",
+      "mcat_name": "Organic Potato"
+    },
+    {
+      "mcat_id": "191931",
+      "mcat_name": "Lady Rosetta Potato"
+    },
+    {
+      "mcat_id": "7229",
+      "mcat_name": "Potato Chips"
+    }
+  ]
+}

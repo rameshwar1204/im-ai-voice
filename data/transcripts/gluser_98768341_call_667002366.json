@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667002366",
+  "gluser_id": "98768341",
+  "vintage_months": 16,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631709",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Roshni Saini ji se baat ho rahi hai?\\nCustomer: Haan ji, haan ji.\\nExecutive: Haan ji sir, main Prachi baat kar rahi hu IndiaMART se, aapki account manager hu.\\nCustomer: Haan ji, bolo.\\nExecutive: Aapne complaint raise kiya tha buyleads ke regarding, right?\\nCustomer: Kya?\\nExecutive: Aapne complaint raise kiya tha buyleads ke regarding ki leads mein issue aa raha hai like.\\nCustomer: Bhaiya ne kar di hogi ma'am, mere ek minute, thoda bahar hu, main ghumne aaya hua hu.\\nExecutive: Okay, toh main abhi kis number pe, second number pe call connect karu?\\nCustomer: 9828\\nExecutive: Ek second. 9828\\nCustomer: 72\\nExecutive: Haan ji.\\nCustomer: 9931.\\nExecutive: Theek hai. Okay, ispe call kar leti hu.\\nCustomer: Okay. Jasmeen hai? Hmm, usko.",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a complaint about buyleads.\\n- Is currently outside and unable to talk.\\n- Provided an alternate number for a callback.\\n\\nResolution:\\n\\n- Called to address a complaint about buyleads.\\n- Noted the alternate contact number provided.\\n\\nNext Steps: \\nIssue not resolved. Executive will call back on the alternate number provided by the customer.\\n\\nAlert (If Any):\\ncomplaint\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- complaint, buyleads, alternate number, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33340245-abab-408d-a6b4-f2278dd3534a",
+  "ucid": "33340245-abab-408d-a6b4-f2278dd3534a",
+  "seller_categories": [
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "143856",
+      "mcat_name": "3D Wall Panel"
+    }
+  ]
+}

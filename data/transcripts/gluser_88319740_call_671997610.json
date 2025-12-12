@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671997610",
+  "gluser_id": "88319740",
+  "vintage_months": 10,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Mohali",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682893",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Ji.\\nExecutive: Hello.\\nCustomer: Aap Siemens ka PLC dekh rahe the Siemens ka?\\nExecutive: Kiska?\\nCustomer: Siemens ka PLC dekh rahe the.\\nExecutive: Siemens ka PLC? Haan ji, haan ji.\\nExecutive: Sir, main aapki company ka naam jaan sakta hu?\\nCustomer: Regal Automation.\\nExecutive: Sir, main Alankrit baat kar raha hu.\\nCustomer: Alankrit.\\nExecutive: Account manager aapka.\\nCustomer: Achcha, aap bata rahe hain.\\nExecutive: Ji, aapne customer care pe call laga diya hai.\\nCustomer: Achcha, nahi nahi IndiaMART pe aaya tha WhatsApp pe isiliye.\\nExecutive: Achcha.\\nCustomer: To isiliye mujhe number abhi maine number change kiya tha usme wo ho gaya. Nahi nahi wo aapne shayad waha pe galti se message kar diya. Abhi main aapko lunch kar raha hu, upar jaake phone karta hu, theek hai?\\nCustomer: Okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called on customer care by mistake.\\n\nResolution:\\n\n- Executive clarified the customer called customer care.\\n\n- Executive will call back after lunch.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, account manager, customer care\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dd90733b-c28c-4d8a-bed2-200333b4f056",
+  "ucid": "dd90733b-c28c-4d8a-bed2-200333b4f056",
+  "seller_categories": [
+    {
+      "mcat_id": "163226",
+      "mcat_name": "PLC Programming Services"
+    },
+    {
+      "mcat_id": "8417",
+      "mcat_name": "SCADA System"
+    },
+    {
+      "mcat_id": "172414",
+      "mcat_name": "PLC Automation Services"
+    },
+    {
+      "mcat_id": "192744",
+      "mcat_name": "Schneider PLC"
+    },
+    {
+      "mcat_id": "207444",
+      "mcat_name": "Schneider HMI"
+    }
+  ]
+}

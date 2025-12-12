@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672123252",
+  "gluser_id": "226246763",
+  "vintage_months": 16,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Samastipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9683198",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nExecutive: Hi, good evening, ma'am.\\nCustomer: Ji, good evening, boliye.\\nExecutive: Hello? Ji, ma'am, main India Mart se baat kar rahi thi. Aapki baat abhi Nitin se hui thi, right?\\nCustomer: Yes, ma'am. Nitin aapke account manager hain. Main unki manager Rakshita baat kar rahi thi, ma'am.\\nExecutive: To aapki call receive hui thi, to I think aapke Nitin ka communication ho gaya tha, ma'am, service ke regarding jo bhi doubts the.\\nCustomer: Yes, ma'am, ho gaya tha.\\nExecutive: Ab koi aur doubt to nahi hai abhi aapko?\\nCustomer: No, ma'am.\\nExecutive: Okay, to ma'am, main kya feedback close kar doon aapka?\\nCustomer: Yes, ma'am.\\nExecutive: Okay, thank you, ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive confirmed that the customer's concerns regarding service were addressed during a previous call with Nitin.\\n\n- Executive asked to close the feedback, and the customer agreed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, service, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9c1ccba3-4e5c-4550-9df0-383d265315ae",
+  "ucid": "9c1ccba3-4e5c-4550-9df0-383d265315ae",
+  "seller_categories": [
+    {
+      "mcat_id": "152189",
+      "mcat_name": "Sweet Display Counter"
+    },
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "167123",
+      "mcat_name": "SS Display Counter"
+    },
+    {
+      "mcat_id": "20930",
+      "mcat_name": "Kitchen Equipment"
+    },
+    {
+      "mcat_id": "183550",
+      "mcat_name": "Fast Food Stall"
+    }
+  ]
+}

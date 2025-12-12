@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667992366",
+  "gluser_id": "32391806",
+  "vintage_months": 45,
+  "bl_dau_oct": 5,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666702",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello? Hello?\\nExecutive: Haan ji sir, main Uday bol raha hun IndiaMART se.\\nCustomer: Haan ji sir, boliye.\\nExecutive: Sir aapne abhi document nahi send kiya yahan se hum log ke jo senior hai wo aapki service jo hai wo by conflict departure ki wajah se deboost kar de rahe hain.\\nExecutive: Sir aapki service band ho jayegi. Service jo hai na IndiaMART wo deboost kar denge. Aapse humne documents mange the na?\\nCustomer: Achcha achcha.\\nExecutive: Ji, wo send karne the aap abhi tak nahi send kiye ho iski wajah se aapki service deboost ho jayegi sir.\\nCustomer: Kab se ho jayegi?\\nExecutive: Band ho jayegi matlab IndiaMART mein aapki service sir.\\nCustomer: [inaudible] band ho jayegi.\\nCustomer: Hello?\\nExecutive: Haan ji sir.\\nCustomer: Main keh raha hun kab se band ho jayegi?\\nExecutive: Matlab yahan pe hum log ke paas mail aa gayi hai aapki service band hone ka ek do din mein band hi ho jayegi sir. Aap se documents mange the na sir.\\nCustomer: Hamare time kitna bacha?\\nExecutive: Sir aapka time to abhi kafi hai. January tak last January February tak hai.\\nCustomer: Last February tak?\\nExecutive: Ji.\\nCustomer: Abhi chal raha November, December, January, February.\\nCustomer: Yani teen mahine?\\nExecutive: Haan teen mahine pure pure hain sir abhi aapke.\\nCustomer: Teen teen \u20b99000 ka nuksan ho gaya na.\\nExecutive: Aap wo send kar dijiye sir documents aap.\\nExecutive: Documents jo humne aapko bheja tha wo send kar dijiye sir usko hum yahan se karwa denge. Document send karna padega na sir aapko. Aapne bola tha.\\nCustomer: Kya kya bola tha tumne?\\nExecutive: Sir humne whatsapp pe send kiya hai aapke.\\nCustomer: Whatsapp pe send kar diya tum is number pe send kar do na.\\nExecutive: Kya sir?\\nCustomer: Tum is dusre number pe send kara tum is number pe send kar do na main abhi karwa dunga. Tum is number pe ek baar send kar do kya naam hai iska.\\nExecutive: Theek hai, theek hai aapke number mein hum send karwa de rahe hain.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Service deboost due to not sending documents.\\n\n- Wants to know the last date of service.\\n\n\\n\nResolution:\\n\n- Executive informed the customer about deboost.\\n\n- Executive informed the customer about last date.\\n\n- Agreed to send documents on customer's number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- documents, deboost, last date\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dcb176c0-a619-4d8b-8715-9c5773cab5cc",
+  "ucid": "dcb176c0-a619-4d8b-8715-9c5773cab5cc",
+  "seller_categories": [
+    {
+      "mcat_id": "95834",
+      "mcat_name": "Hamper Basket"
+    },
+    {
+      "mcat_id": "44126",
+      "mcat_name": "Gift Hamper"
+    },
+    {
+      "mcat_id": "17268",
+      "mcat_name": "Jute Basket"
+    },
+    {
+      "mcat_id": "4256",
+      "mcat_name": "Gift Basket"
+    },
+    {
+      "mcat_id": "39185",
+      "mcat_name": "Swing Chair"
+    }
+  ]
+}

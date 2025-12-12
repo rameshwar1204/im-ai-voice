@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675788720",
+  "gluser_id": "25313215",
+  "vintage_months": 118,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710823",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan. Good morning sir, Rahul baat kar raha hu India WhatsApp account manager.\\nCustomer: Yaar abhi baat nahi kar paunga mai. Thodi der ke baad karenge? Ek aadha ghante ke baad call back kar lu sir?\\nExecutive: Ek dedh ghante ke baad baate karte hai hum log.\\nCustomer: Bilkul bilkul aapko 12 baje call karta hu sir.\\nExecutive: Haan mai abhi thoda dusre kaam me busy hu. Baad me phone karta hu. Haan mai aapko 12 baje call back karta hu sir.\\nCustomer: Haan thik hai try kar lo ek baar 12 baje mil jayenge. Thik hai. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and cannot talk immediately.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 12 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, time\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9030f23b-3e5f-4296-a109-7f1ab6da47e5",
+  "ucid": "9030f23b-3e5f-4296-a109-7f1ab6da47e5",
+  "seller_categories": [
+    {
+      "mcat_id": "166326",
+      "mcat_name": "Inverter ARC Welding Machine"
+    },
+    {
+      "mcat_id": "30353",
+      "mcat_name": "High Pressure Washer"
+    },
+    {
+      "mcat_id": "22092",
+      "mcat_name": "Arc Welding Machines"
+    },
+    {
+      "mcat_id": "24156",
+      "mcat_name": "Car Washer"
+    },
+    {
+      "mcat_id": "183102",
+      "mcat_name": "ESAB MIG Welding Machine"
+    }
+  ]
+}

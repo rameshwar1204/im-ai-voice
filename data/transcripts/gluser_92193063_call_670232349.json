@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670232349",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello ha madam.\\nExecutive: Uh sir ek baar aap mujhe apna zara number bataiye 94 jo aapka primary number hai 94\\nCustomer: 944\\nExecutive: ha\\nCustomer: 12\\nExecutive: ji\\nCustomer: 88\\nExecutive: ji 365\\nCustomer: 364 ji\\nExecutive: Okay okay main aapko link bhej rahi hu sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to provide primary number.\\n\n\\n\nResolution:\\n\n- Executive asked for and noted the customer's number.\\n\n- Executive said she is sending a link.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number verification, link\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d41cb86a-8c8a-4b96-a10b-25c9d0f435fa",
+  "ucid": "d41cb86a-8c8a-4b96-a10b-25c9d0f435fa",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

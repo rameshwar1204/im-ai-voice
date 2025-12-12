@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669956731",
+  "gluser_id": "93140970",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Kalol",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663093",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan bolo.\\nExecutive: Haanji sir, namaskar. Gaurav baat kar raha tha IndiaMART se.\\nCustomer: Bolo.\\nExecutive: Sir, abhi aapke Abhishek se baat ho rahi thi. I think leads vagarah koi aapne issue bataya hoga order value ka. To to unhone aapko discuss kiya hoga, aapko resolution diya hoga sir matlab leads worth ki jo aapko, kyuki aapne abhi main dekh raha tha aapne not satisfied mark kiya hua tha.\\nCustomer: Hello.\\nExecutive: Awaz aa rahi hai meri sir?\\nCustomer: Aapki awaz aa rahi hai but main\\nExecutive: Sir aapki break ho rahi hai ek minute. Ek kaam karo mujhe kal phone karna.\\nExecutive: Kal connect karu aapko?\\nCustomer: Haan kya Morning mein 11 baje kar leta hu kal sir aapko, theek hai sir?\\nExecutive: Theek hai.\\nCustomer: \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked 'not satisfied' for leads.\\n\n- Customer's voice was breaking.\\n\n\\n\nResolution:\\n\n- Executive offered to call back the next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, order value, not satisfied, callback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e218335a-4788-4450-be6c-9891fd327d98",
+  "ucid": "e218335a-4788-4450-be6c-9891fd327d98",
+  "seller_categories": [
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "150841",
+      "mcat_name": "EPE Foam Roll"
+    },
+    {
+      "mcat_id": "38778",
+      "mcat_name": "Stretch Film"
+    },
+    {
+      "mcat_id": "32930",
+      "mcat_name": "Nylon Cable Tie"
+    },
+    {
+      "mcat_id": "85843",
+      "mcat_name": "Air Bubble Roll"
+    }
+  ]
+}

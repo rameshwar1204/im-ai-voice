@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672141452",
+  "gluser_id": "92266515",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kurnool",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653022",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan ji Uday sir, Namaste.\\nExecutive: Hey, ek baat tera whatsapp number kar do ya tera number main call karta hu abhi. I tried before but ring ho raha tha koi phone hai kya se kya isse.\\nExecutive: Abhi busy hai aap sir?\\nCustomer: Driving mein hu, traffic mein hu isliye.\\nExecutive: Nahi nahi sir aap ek baar phone dijiye aaram se, main fir baad mein baat karta hu please.\\nCustomer: Please please.\\nExecutive: Ji baba, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is driving and in traffic.\\n\n\\n\nResolution:\\n\n- Executive offered to call back later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, driving, traffic\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ba5f9b9-630d-4fe4-8763-e2853b4c1d33",
+  "ucid": "6ba5f9b9-630d-4fe4-8763-e2853b4c1d33",
+  "seller_categories": [
+    {
+      "mcat_id": "181717",
+      "mcat_name": "UltraTech Cement"
+    }
+  ]
+}

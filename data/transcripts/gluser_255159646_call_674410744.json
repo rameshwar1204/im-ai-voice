@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674410744",
+  "gluser_id": "255159646",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Charkhi Dadri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700189",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: The person you have called is speaking to someone else. You can wait or call again later. Aapne jis\\n[inaudible]\\nHello.\\nHello.\\nExecutive: Harishyam Brand Atta Mill mein baat ho rahi hai meri?\\nCustomer: Haan ji.\\nExecutive: Namaskar, Shashank Tripathi baat kar raha hu, senior manager IndiaMART aapke liye se.\\nCustomer: Sir, actually aapka ek request raise hua tha services ko close karne ke liye. I think aapne request dala hoga.\\nExecutive: Right. Usi ke regarding maine call kiya hua tha. To services ye band kyu karna chah rahe hain aap?\\nCustomer: Sir, wo business hi band kar rahe hain hum. Yaat hai, mera kaam aur band kar rahe hain.\\nExecutive: Sorry?\\nCustomer: Partnership mein tha, sare band kar rahe hain business.\\nExecutive: Nahi, to aapne 11 November ko service li, 24 November ko business band ho raha hai, ye nahi thoda samajh aaya na hame. Ye matlab pehle to pata to 11 tarikh ko bhi hoga na jab aapne ye liya hoga.\\nCustomer: Nahi sir, beech mein baad mein koi baat hui.\\nExecutive: Haan? Expire. Dusre partner expire ho gaye sir, 17-18 tarikh ko.\\nExecutive: Achcha.\\nExecutive: Theek hai ji, main aapka sir ek concern jo hai na management ko raise kar deta hu. After that hame ek bar jo hai na aapko sham tak update de degi kya hai.\\nCustomer: Koi dikkat nahi sir.\\nExecutive: 18 tarikh ko accident mein death ho gayi unki. It's okay, theek hai, main aage ek bar concern aapka forward bhej deta hu.\\nCustomer: Okay sir.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close the services.\\n\nResolution:\\n\n- Executive assured to raise the concern to management.\\n\n- Executive will provide an update by evening.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service closure, business closure, partnership, death\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3ec1ed39-8e03-4df8-a765-0569ed8ee0a7",
+  "ucid": "3ec1ed39-8e03-4df8-a765-0569ed8ee0a7",
+  "seller_categories": [
+    {
+      "mcat_id": "3398",
+      "mcat_name": "Wheat Flour"
+    },
+    {
+      "mcat_id": "146881",
+      "mcat_name": "Organic Wheat Flour"
+    },
+    {
+      "mcat_id": "186214",
+      "mcat_name": "Makhana"
+    },
+    {
+      "mcat_id": "191119",
+      "mcat_name": "Whole Spices"
+    },
+    {
+      "mcat_id": "656202",
+      "mcat_name": "Chakki Fresh Atta"
+    }
+  ]
+}

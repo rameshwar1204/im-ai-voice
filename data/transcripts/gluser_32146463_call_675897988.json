@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675897988",
+  "gluser_id": "32146463",
+  "vintage_months": 82,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rewa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9704752",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Ji bataiye\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello ji ek complaint maine dali hui hai\\nCustomer: Theek hai\\nExecutive: Hello\\nCustomer: Ji ji sir bataiye complaint dali hui hai\\nCustomer: Aap Vindhya se baat kar rahe ho?\\nExecutive: Haan haan\\nCustomer: Hello\\nExecutive: Haan ji bataiye\\nCustomer: Sir aapka complaint na register ho chuka hai aapki ek mail aayi thi hamare paas raat ko\\nCustomer: Haan\\nExecutive: To hamari team usse follow kar rahi hai jo concern department hai unko mail kar rahi hai fir unki or se aapke paas call bhi aayega hai na hamari complaint team handle kar rahi hai usko\\nCustomer: Theek hai\\nExecutive: Further koi update hoga to main aapko call kar dungi\\nCustomer: Theek hai ji Nikki ji baat kar rahe ho?\\nExecutive: Haan haan main Nikki ji baat kar rahi hu mail aaya tha hamare paas\\nCustomer: Theek hai\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint was lodged.\\n\n\\n\nResolution:\\n\n- Complaint has been registered and the team is following up.\\n\n- The concerned department has been emailed.\\n\n- The customer will receive a call from the complaint team.\\n\n- Executive will call the customer if there are further updates.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. The customer will receive a call from the complaint team and the executive will provide further updates, if any.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncomplaint, follow-up, updates\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95dc4706-90d3-47ec-9690-4eeb7281691a",
+  "ucid": "95dc4706-90d3-47ec-9690-4eeb7281691a",
+  "seller_categories": [
+    {
+      "mcat_id": "182187",
+      "mcat_name": "Agarbatti Machine Spare Parts"
+    },
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "158304",
+      "mcat_name": "Incense Sticks Fragrances"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "28937",
+      "mcat_name": "Fragrance Perfume"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671322170",
+  "gluser_id": "20913752",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Rajouri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671545",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji bataiye. Haan ji, Neeraj sir baat kar rahe hain, Tara Enterprises se?\\nExecutive: Haan ji, haan ji.\\nExecutive: Sir, good afternoon. Main Reshu baat kar rahi hoon IndiaMART se. Actually sir, meri morning mein aapse baat hui thi na? Apne concern ko close karane ke feedback ke regarding IndiaMART se.\\nCustomer: Haan ji, haan ji.\\nExecutive: Hello. Sir, main ek cheez aapse confirm ye bhi karna chah rahi thi ki jo aapke account manager hain Shivam, right? So unse aapka last time video meeting ka bhi matlab hua tha. To unhone kya aapko sari cheeze during the video meeting ya cheeze explain ho gayi thi sir ya abhi kuch pending to nahi hai na welcome call se related ya kuch bhi matlab demo.\\nCustomer: Hmm.\\nCustomer: Unhone kar diya tha unhone na.\\nExecutive: Unhone kar diya tha na sir? Aapko samjha diya tha?\\nCustomer: Achcha achcha, theek hai. Sir, matlab aapka call unke number pe matlab do baar miss tha na, isiliye maine aapse pucha. Koi issue nahi hai sir, actually unke family mein kuch issue tha to aaj wo aaye nahi hai. Agar kuch bhi rahega to aap Monday unko fir se connect kar lijiyega ya fir mujhe aap connect kar lijiyega, theek hai na sir? Abhi ye concern aapke paas sir ek feedback aayega is concern ka. Aap please usko yes mark kar dena us feedback mein, theek hai sir?\\nCustomer: Theek hai, okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to confirm about video meeting.\\n\n\\n\nResolution:\\n\n- Customer confirmed account manager explained everything.\\n\n- Executive informed about account manager's absence.\\n\n- Executive asked to mark 'yes' on feedback form.\\n\n\\n\nNext Steps: \\n\n- Customer can connect on Monday if needed.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59a1ff1f-6e83-4bcc-8332-d9e2114f195d",
+  "ucid": "59a1ff1f-6e83-4bcc-8332-d9e2114f195d",
+  "seller_categories": [
+    {
+      "mcat_id": "141966",
+      "mcat_name": "Power Weeder"
+    },
+    {
+      "mcat_id": "35540",
+      "mcat_name": "Power Tiller"
+    },
+    {
+      "mcat_id": "139284",
+      "mcat_name": "Electric Chaff Cutter"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "655730",
+      "mcat_name": "Kirloskar Power Weeder"
+    }
+  ]
+}

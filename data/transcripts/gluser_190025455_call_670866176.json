@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670866176",
+  "gluser_id": "190025455",
+  "vintage_months": 30,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667840",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello sir Rashid ji baat kar rahe hain Rashid Kapoor se baat kar rahe hain ha ji bol raha hu sir Rashid sir abhi aap baat kar rahe the aap sir hum ek catalog correct kar rahe the and all\\n\\nCustomer: to ek pasta extruder machine karke aap machine hai sir pasta machine\\nExecutive: pasta extruder machine ji ji hai isko is product ko na sir aapne out of stock mark kar rakha hai aur ye iski aap kafi zyada buy consume karte hain to main janna chahunga aapki knowledge mein hai sir ye\\nCustomer: nahi meri knowledge mein nahi hai sir main khud hi hu yaar representative company se\\nExecutive: to in stock kar do sir agar aap deal karte hain na isko ha ha bilkul bilkul bilkul bilkul sir\\nCustomer: main isko main isko in stock mein abhi karta hu sir aur kuch baki kuch issue rahe to bataiyega theek hai\\nCustomer: bas thank you thank you sir\\nExecutive: thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive: Customer marked product out of stock.\\n\n\\n\nResolution:\\n\n- Customer agreed to mark the product in stock.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- out of stock, buyleads, catalog\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e24765a-3dba-44fb-be43-c0920af49d5d",
+  "ucid": "8e24765a-3dba-44fb-be43-c0920af49d5d",
+  "seller_categories": [
+    {
+      "mcat_id": "34571",
+      "mcat_name": "Pasta Making Machine"
+    },
+    {
+      "mcat_id": "141796",
+      "mcat_name": "Corn Flakes Machinery"
+    },
+    {
+      "mcat_id": "445832",
+      "mcat_name": "Fortified Rice Machine"
+    },
+    {
+      "mcat_id": "140742",
+      "mcat_name": "Pasta Extruder Machine"
+    },
+    {
+      "mcat_id": "34569",
+      "mcat_name": "Pasta Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674510756",
+  "gluser_id": "26387473",
+  "vintage_months": 79,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji\\nExecutive: Madam mujhe na jaise disco mein light hoti hai na\\nCustomer: Haan\\nExecutive: Vaisi lighting ka wo karwana hai, hall ready karwana hai. To kisi ka number mil jayega?\\nCustomer: Matlab kya karwana hai?\\nExecutive: Matlab jaise madam aapne bhi disco mein kaise lighting hoti hai.\\nCustomer: Aap apni company ka name batayenge mujhe kahan se baat kar rahe hain aap?\\nExecutive: Waise to mera IndiaMART pe Aroda Truck Tirpal ke naam se account bhi hai.\\nCustomer: Haan haan\\nExecutive: Lekin mujhe ye apne hotel ke liye ready karwana hai madam.\\nCustomer: Ah hotel ke liye ready karana hai to aapko isme kya chahiye?\\nExecutive: Isme madam jaise aap jaise Gurgaon mein disco wagera jaise Thailand mein hai.\\nCustomer: Haan\\nExecutive: Disco pub wagera usme lighting hoti hai na madam.\\nCustomer: Achcha\\nExecutive: Vaisi lighting wale hall ready karwane hain.\\nCustomer: To wo lights wo vaisi cheez aapko apne profile mein karwani hai?\\nExecutive: Profile mein nahi karwani madam. Mujhe apne hotel pe vaise hall ready karwane hai mere ko unke number chahiye.\\nCustomer: Okay okay.\\nExecutive: Jaise karte hain. Aapke aise koi number hai. Kisi ne aapke paas wo karwa rakha hai aisa kuch.\\nCustomer: Hmm hmm hmm IndiaMART pe.\\nExecutive: Hmm\\nCustomer: Main ek baar ye check karke fir main aapko bata deti hu, theek hai?\\nExecutive: Okay madam.\\nExecutive: Okay sir.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants disco-like lighting for his hotel hall.\\n\n- Needs contact numbers of relevant vendors.\\n\n\\n\nResolution:\\n\n- Executive will check and provide information.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after checking.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- lighting, hotel, vendors, contact details\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=37171442-c89b-4d5e-abd3-4019ac29f9f5",
+  "ucid": "37171442-c89b-4d5e-abd3-4019ac29f9f5",
+  "seller_categories": [
+    {
+      "mcat_id": "177486",
+      "mcat_name": "Industrial Water Storage Tank"
+    },
+    {
+      "mcat_id": "3367",
+      "mcat_name": "Water Storage Tanks"
+    },
+    {
+      "mcat_id": "100288",
+      "mcat_name": "Biogas Balloon"
+    },
+    {
+      "mcat_id": "23685",
+      "mcat_name": "Biogas Plant"
+    },
+    {
+      "mcat_id": "148621",
+      "mcat_name": "Portable Biogas Plant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668127024",
+  "gluser_id": "9204916",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710450",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello, haan ji.\\nExecutive: Haan, Universal Hydraulic se bol raha hu Belgaum se.\\nCustomer: Kya naam hai sir company ka?\\nExecutive: Universal Hydraulic.\\nExecutive: Ji bataiye.\\nCustomer: Subah madam se baat hua tha.\\nExecutive: Ji. Kya?\\nCustomer: Aapka naam kya hai? Actually madam ek meeting mein hai, toh mai aapko 10 minute mein call arrange karu iske baad 10-15 minute mein? Aapka kya naam hai?\\nExecutive: Mera naam Anurag Sharma hai sir.\\nCustomer: Anurag Sharma hai, mai unke senior manager baat kar raha hu.\\nCustomer: Wahi sir kya ho gaya leads ke bare mein mai phone kiya tha, kuch response nahi diya.\\nCustomer: Leads aa raha hi nahi hai apne ko.\\nCustomer: Leads ke regarding mai ek baar check karke aapko call back karu sir 5 minute mein? \\nCustomer: Theek hai, aapke catalog check karke call karta hu aapko.\\nExecutive: Theek hai.\\nCustomer: Theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called regarding leads, no response received.\\n\n- Leads are not coming.\\n\n\\n\nResolution:\\n\n- Executive offered to check and call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will check the catalog and call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, catalog, call back\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6430825b-eb7c-4190-8d92-634ab77db637",
+  "ucid": "6430825b-eb7c-4190-8d92-634ab77db637",
+  "seller_categories": [
+    {
+      "mcat_id": "69130",
+      "mcat_name": "Oil Filter Press"
+    },
+    {
+      "mcat_id": "6357",
+      "mcat_name": "Filter Press"
+    },
+    {
+      "mcat_id": "113954",
+      "mcat_name": "Polypropylene Filter Cloth"
+    },
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "42759",
+      "mcat_name": "Hydraulic Power Pack"
+    }
+  ]
+}

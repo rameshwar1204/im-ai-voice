@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672962116",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji sir boliye.\\nExecutive: Haan bataiye aap kya keh rahe the?\\nCustomer: Toh dekhiye aapki services June mein chalu hui thi. Mujhe dekhiye apna paisa wapas chahiye mujhe fraud logo ke sath nahi judna hai.\\nExecutive: Sir, sir ek baat bataiye June, July, August. Mere sath fraud ho raha hai aapke dwara, aapke sanstha ke dwara isliye mujhe paisa apna refund chahiye ek line ki baat hai.\\nCustomer: Mere itne interest request aa rahe hain main aap logo se abhi khush nahi rehta hun aap log apna samjhaye pade ho.\\nExecutive: Are agar interest se kuch paisa fayda hota toh main kyun paisa wapas mangta interest kiya tha kuch lalch mein na jab mera kuch kaam hi nahi hua toh mujhe paisa wapas chahiye. Sidhi si baat hai aur mujhe koi baat nahi karni hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund as no work is being done.\\n\n- Alleges fraud by the company.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nrefund, fraud\\n\n@@@Sentiment:\\n\n- Angry -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- refund, services, fraud\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=99ac79b2-ce53-4325-a365-1d1be82b67b5",
+  "ucid": "99ac79b2-ce53-4325-a365-1d1be82b67b5",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

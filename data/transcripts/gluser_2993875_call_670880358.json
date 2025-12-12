@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670880358",
+  "gluser_id": "2993875",
+  "vintage_months": 46,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruvalla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682688",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, good evening sir.\\nCustomer: Hello?\\nExecutive: Hello? Sir, main Gopal bol raha hun India Mart se sir, branch manager. Morning baat hui thi na aapse?\\nCustomer: Hello?\\nExecutive: Sir, this is Gopal. Hello? Sir, main aapko kal baat karunga sir. Kal baat karoge sir, maine aapko bheja hai proposal dega aapne Kipson ne bhi share kiya hai. Are proposal vagera haan isse pehle Kipson ne unse baat kiya tha.\\nExecutive: Achcha achcha Kipson ne bheja hai sir, mere ko call kiya tha, maine call karke Kipson ko bhi bola tha sir ko proposal bhejne ke liye. Wo teen saal ka bhi bheja hai, do saal ka bhi bheja hai. Aur usme achcha sa likha hai sir, bifurcation maine aapko diya hai ki MDC mein kya milega, verified supplier mein aur trusted supplier mein kya milega. Pura benefits maine aapko mention kiya hai usme.\\nCustomer: Okay.\\nExecutive: Theek hai sir. To abhi dekh lo sir thoda sa time nikal ke kuch baat ho jaye to badhiya hai sir abhi.\\nCustomer: To bata dunga bhai.\\nExecutive: To kab karu call? Thodi der mein kar lu kya call?\\nCustomer: Nahi aaj mat karna bhai, ghar ja raha hai.\\nExecutive: Kyunki bhai bhai hum log hai na 7:00 baje, 8:00 baje se shuru ho rahe hain hum log ka kaam, theek hai?\\nCustomer: Subah aur 5:00 baje chutti ho jata hai.\\nExecutive: Achcha 5:00 baje chutti ho jata hai?\\nCustomer: Haan. To fir aapne dekh liya to fir aapne samajh bhi liya hoga. Kal subah call karta hun fir payment kal subah hi kar lete hain sir.\\nCustomer: Nahi isse pehle mujhe do teen aur ek karna hai.\\nExecutive: Kya dekhna hai pehle?\\nCustomer: Pehle main aapko bata dunga, kal bata dunga, theek hai? Kal bataoge. Main ek bar dekhne do mujhe ghar ja ke ek bar study karne do, kya kya hai isme.\\nExecutive: Koi nahi sir, study karo. Us time aapko koi bhi doubt aata hai to aap same time call bhi kar sakte hain taki main aapko clear kara dunga. Main to office mein rahunga sir 8:00, 9:00 baje tak aaj.\\nCustomer: Haan haan haan. Theek hai. To ek bar aap free hoke na mujhe call kar lena sir.\\nExecutive: Theek hai sir. To baki sir us pe jo price bhi maine mention kiya hai kuch upar niche price ho jayega uski aap chinta mat kariyega. Wo premium plan hai aapka, theek hai?\\nCustomer: Chalo main dekh leta hun. Hmm. Theek hai. Okay sir, okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to study the proposal.\\n\n- Wants to check the details.\\n\n\\n\nResolution:\\n\n- Executive explained the benefits of the plan.\\n\n- Executive offered to clear doubts.\\n\n\\n\nNext Steps: \\n\n- Customer will call after reviewing the proposal.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- proposal, subscription, benefits, payment\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 156,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc2d44b9-4ee3-476f-90e9-43353204e377",
+  "ucid": "cc2d44b9-4ee3-476f-90e9-43353204e377",
+  "seller_categories": [
+    {
+      "mcat_id": "445494",
+      "mcat_name": "DTF Printer"
+    },
+    {
+      "mcat_id": "132951",
+      "mcat_name": "T-Shirt Printing Machine"
+    },
+    {
+      "mcat_id": "85329",
+      "mcat_name": "UV Flatbed Printer"
+    },
+    {
+      "mcat_id": "118788",
+      "mcat_name": "ECO Solvent Machine"
+    },
+    {
+      "mcat_id": "86362",
+      "mcat_name": "Flex Printing Machine"
+    }
+  ]
+}

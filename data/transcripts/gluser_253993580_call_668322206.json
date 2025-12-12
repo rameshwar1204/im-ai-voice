@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668322206",
+  "gluser_id": "253993580",
+  "vintage_months": 1,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9634527",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Good evening sir, Ashutosh baat kar raha hu IndiaMART se.\\nCustomer: Ha Ashutosh ji boliye.\\nExecutive: Sir actually mai ye keh raha tha ki ticket apna open hai na to abhi lead wala jo problem tha wo to solve ho gaya hai Telangana wala.\\nCustomer: Ha aap mujhe na ek baar Prashant se baat kara dijiye mere ko. Thik hai na?\\nExecutive: Mai unse ek baar baat karna chah raha hu kyuki usne ye lene ke time pe na ye itna kuch hai aisa hai.\\nCustomer: [inaudible]\\nCustomer: Kuch nahi bataya tha usne, thik hai. Uske baad bola tha aapko lead aayega ye lead paanch client ko jayega aapko ek minute 10 second ke andar kyuki lead aa raha hai. Aur reality ye hai ki lead paanch second ke andar khatam ho ja raha hai.\\nCustomer: Ha ha wahi. 10 second ke andar lead khatam ho ja raha hai. To ye ye to actual baat hai na ye batana chahiye tha usko ki aapko itna aise karna hoga lead aise khatam ho jayega aadha information nahi dena chahiye tha usko.\\nExecutive: Koi baat nahi maine already escalate kar diya hai unko. Maybe matlab shayad sir ne aapko call bhi kiya tha aaj baat nahi ho paayi aapki.\\nCustomer: Nahi kisi ne mujhe call nahi kiya tha agar unknown number se aayega to mai nahi uthaunga.\\nExecutive: Ha unknown number se aayega. Thik hai us Prashant se baat karna mujhe ek baar.\\nExecutive: Mai unse baat karwa dunga kal baat karwa dunga remaining baat karwa dunga mai baat kar leta hu unse fir mai karta hu.\\nCustomer: Thik hai.\\nExecutive: Ha isko close kar.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to Prashant regarding leads.\\n\n- Half information was provided about leads.\\n\n\\n\nResolution:\\n\n- Executive escalated the issue.\\n\n- Promised to arrange a call with Prashant tomorrow.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, call, escalation\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f95d50e-288e-4eba-88e7-e80e034c68e8",
+  "ucid": "1f95d50e-288e-4eba-88e7-e80e034c68e8",
+  "seller_categories": [
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "96541",
+      "mcat_name": "Mobile Containers"
+    },
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676069882",
+  "gluser_id": "142466446",
+  "vintage_months": 29,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719830",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Madam line pe rahiye jab ye ticket band hoga na, line pe rahiye aap. Ek second.\\n(silence)\\nExecutive: \\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked customer to stay on line.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, line\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=170f0941-0c57-488d-84df-7b89464ceb12",
+  "ucid": "170f0941-0c57-488d-84df-7b89464ceb12",
+  "seller_categories": [
+    {
+      "mcat_id": "22736",
+      "mcat_name": "Baby Wipe"
+    },
+    {
+      "mcat_id": "653677",
+      "mcat_name": "Little Angel Diaper"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "4167",
+      "mcat_name": "Baby Diapers"
+    },
+    {
+      "mcat_id": "277",
+      "mcat_name": "Sutures"
+    }
+  ]
+}

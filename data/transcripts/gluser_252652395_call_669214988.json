@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669214988",
+  "gluser_id": "252652395",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Jabalpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Main Ishan ji se baat kar raha hun.\\nCustomer: Ishan Aggarwal.\\nExecutive: Hello.\\nCustomer: Ishan Aggarwal ji se baat karna tha.\\nExecutive: Haan Ishan Aggarwal ji ki manager bol rahi hun actually wo aaj available nahi hai office mein bataiye na kya dikkat aa rahi hai.\\nCustomer: Actually maine IndiaMART mein ek website matlab website create karwaya tha.\\nExecutive: IndiaMART se okay.\\nCustomer: To mujhe thoda lead ke bare mein jankari chahiye thi matlab lead aa rahi hai ki samajh mein nahi aa raha hai.\\nExecutive: Haan koi baat nahi main ek kam karte hain abhi aap available hai na video meeting ka link aapko bhej dete hain fir main aapko samjha deti hun ki actually mein kaise hai theek hai aap mujhe 10-15 minute dijiye main aapko call back kar rahi hun usi number pe.\\nCustomer: Okay.\\nExecutive: Theek hai sir.\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants information about leads for website.\\n\n\\n\nResolution:\\n\n- Executive offered a video meeting to explain.\\n\n- Executive will call back in 10-15 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10-15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- website, leads, video meeting\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=60459f48-93eb-4d52-bcb3-26aacb7dce71",
+  "ucid": "60459f48-93eb-4d52-bcb3-26aacb7dce71",
+  "seller_categories": [
+    {
+      "mcat_id": "140259",
+      "mcat_name": "Clay Modifier"
+    },
+    {
+      "mcat_id": "36247",
+      "mcat_name": "Red Brick"
+    },
+    {
+      "mcat_id": "44158",
+      "mcat_name": "Chemical Hardener"
+    },
+    {
+      "mcat_id": "7635",
+      "mcat_name": "Soil Conditioner"
+    },
+    {
+      "mcat_id": "122123",
+      "mcat_name": "Cement Concrete Hardener"
+    }
+  ]
+}

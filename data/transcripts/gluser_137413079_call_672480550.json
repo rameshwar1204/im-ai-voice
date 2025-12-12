@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672480550",
+  "gluser_id": "137413079",
+  "vintage_months": 17,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bibinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720157",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b09e536-f872-45b1-940f-3ce50e8722a0",
+  "ucid": "6b09e536-f872-45b1-940f-3ce50e8722a0",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "24633",
+      "mcat_name": "Cement Pipes"
+    },
+    {
+      "mcat_id": "25693",
+      "mcat_name": "Concrete Pipes"
+    },
+    {
+      "mcat_id": "190163",
+      "mcat_name": "RCC Half Round Pipe"
+    }
+  ]
+}

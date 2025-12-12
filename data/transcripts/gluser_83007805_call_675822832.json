@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675822832",
+  "gluser_id": "83007805",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716338",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Yes sir, good morning. Komal baat kar rahi hu India Mart se.\\nCustomer: Ji madam.\\nExecutive: Ji sir, aapki service chal rahi hai na India Mart pe Shiv Shakti Automation and service ki. \\nExecutive: Call aaya tha sir aapka India Mart pe service ke regarding.\\nCustomer: Iske regarding mam?\\nExecutive: Sir India Mart se aapki service chal rahi hai Shiv Shakti Automation and service ki. Call aaya tha aapka India Mart par service ke regarding. Kuch issue aa raha hai service mein?\\nCustomer: Mam office ka number hai last mein 177 aap waha baat kar lijiye, theek hai?\\nExecutive: Sir actually aapke number se call aaya tha last mein 764 aapke aapne kal call kiya hoga na India Mart pe?\\nCustomer: Nahi nahi maine to nahi kiya hai. Ho sakta hai by mistake lag gaya ho.\\nExecutive: Okay, theek hai main ek baar secondary number pe connect kar leti hu. Baki aapko service se related koi problem to nahi aa rahi hai na abhi?\\nCustomer: Nahi nahi ek baar wahi baat kijiye office se hi operate ho raha hai office se to unko jyada knowledge hai mujhe is bare mein jankari abhi hai nahi.\\nCustomer: Agar koi issue aata hai to mujhe complaint karte but mere pass abhi\\nExecutive: Theek hai main aap\\nCustomer: Complaint hai.\\nExecutive: Theek hai sir, okay, thank you.\\nCustomer: Okay okay. Welcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding IndiaMART service.\\n\n- Customer states no issues, redirect to office.\\n\n\\n\nResolution:\\n\n- Executive offered to connect to secondary number.\\n\n- Executive thanked the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, indiamart, call\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a7c806b-5af8-45a5-ac51-c563ca6d1005",
+  "ucid": "6a7c806b-5af8-45a5-ac51-c563ca6d1005",
+  "seller_categories": [
+    {
+      "mcat_id": "69007",
+      "mcat_name": "DC Cooling Fan"
+    },
+    {
+      "mcat_id": "30670",
+      "mcat_name": "Inductive Proximity Sensor"
+    },
+    {
+      "mcat_id": "186521",
+      "mcat_name": "Kluber Grease"
+    },
+    {
+      "mcat_id": "38084",
+      "mcat_name": "Spindle Motors"
+    },
+    {
+      "mcat_id": "36883",
+      "mcat_name": "Rotary Encoders"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668311157",
+  "gluser_id": "128438579",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan sir, maine log out kar diya tha 6 baj gaye hain ab.\\nCustomer: Chalo subah baat karta hu sir is inke jo wo hai title vagaira kuch mein gadbad hoga sir isme ab aise clay Buddha statue likh raha hai.\\nExecutive: Aise aise hai na pura padh ke kariyega hai na. Main bhi aapke sath late ho gaya main aapko.\\nCustomer: Pura kya wo title jab aap galat aa raha hai mere pass likh ke to ye batao na.\\nExecutive: Nahi nahi aise mat kariyega marble wale mein to sir jo lead aa rahi thi.\\nCustomer: Are marble udhar aata nahi hai likha tabhi karta hu na main wo aapki galti hai wo kaise lead bana kar de rahe ho aap.\\nExecutive: Chalo theek hai. Main subah baat karta hu is cheez ke liye aap se.\\nCustomer: Subah main detail nikalwaunga inki jab main baat karta hu aap se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Title showing incorrectly as clay Buddha statue.\\n\n- Incorrect leads are being generated.\\n\n\\n\nResolution:\\n\n- Executive assured to resolve the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer in the morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, title, marble\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa72519d-86c7-4a92-853e-0e9d703eb1f3",
+  "ucid": "fa72519d-86c7-4a92-853e-0e9d703eb1f3",
+  "seller_categories": [
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "163243",
+      "mcat_name": "Ram Darbar Marble Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    },
+    {
+      "mcat_id": "177958",
+      "mcat_name": "God Stone Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    }
+  ]
+}

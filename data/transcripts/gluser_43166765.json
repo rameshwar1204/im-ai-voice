@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668757532",
+  "gluser_id": "43166765",
+  "vintage_months": 45,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648570",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji Ronak ji se baat ho rahi hai?\\nCustomer: Haan haan.\\nExecutive: Good evening sir, main IndiaMART se baat kar rahi hoon sir Shreeji Overseas ke liye. Aapka sir ek concern aaya hua hai ki aapke paas baar baar call aa raha hai.\\nCustomer: Hmm.\\nExecutive: To ji ji. To sir abhi yahan se update kar diya gaya hai aapke paas abhi koi call nahi aayega actually renewal ke liye sir aapke paas connect hua tha.\\nCustomer: Haan haan.\\nExecutive: To ji ji ji. To sir agar call ka issue hai to main yahan pe update kar deti hoon aapke jo bhi account manager hain aur yahan se ab calls nahi aayenge aapko.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai sir. Baki sir bas ek chota sa update lena tha zyada time main bhi nahi lungi aapka. Renewal ka sir mere ko bas ek baar status aap bata sakte hain to main ye update kar deti hoon yahan pe taki further koi call aapko na kare.\\nCustomer: Boliye.\\nExecutive: Main keh rahi hoon renewal ka sir ek baar aap mujhe status bata sakte hain taki main wo yahan pe update kar doon aur aapke paas aage se koi call na aaye isme.\\nCustomer: Abhi to sab January ka mahina mein aayega na mam tab mein sab.\\nExecutive: Ji ji ji. Chaliye sir. Abhi main baat hi nahi kar pa raha hoon.\\nExecutive: Theek hai. I am giving you assurance that you will not get any call now. Theek hai main ye purely yahan pe update kar rahi hoon to abhi concern main aapka band kar sakti hoon sir?\\nCustomer: Okay, haan kar dijiye band.\\nExecutive: Theek hai sir ek feedback aayega aap jaisa bol rahe hain main wahi update kar rahi hoon feedback aayega jo bhi aapka mere se discussion hua hai. Request hai feedback definitely dijiyega sir theek hai. Call aapke paas koi nahi aayega aapka renewal January mein hai aur January mein sir renewal dijiyega no problem.\\nCustomer: Theek hai.\\nExecutive: Theek hai sir. Baki sir in between service ke feedback ke liye ho sakta hai call aaye. To wo zyada nahi ek baar ek aad baar call aayega sir wo aap bas ek baar answer zaroor kar lijiyega. Wo basically aapke catalog ke liye rahega. Theek hai sir?\\nCustomer: Wo bhi nahi chahiye main hoga main call kar lunga main wo.\\nExecutive: Sir ye sir aapke paas number hai aapke paas number hai aapko kuch bhi issue hota hai aap directly call kar lijiyega. Theek hai. Okay thank you sir have a nice day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Receiving repeated calls.\\n\n- Does not want calls for catalog.\\n\n\\n\nResolution:\\n\n- Updated that customer will not receive calls.\\n\n- Assured no calls except for service feedback.\\n\n- Agreed to close the concern.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, calls, feedback, catalog\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bcebfe6a-a4a9-4faa-96a1-6e236c7cd9e1",
+  "ucid": "bcebfe6a-a4a9-4faa-96a1-6e236c7cd9e1",
+  "seller_categories": [
+    {
+      "mcat_id": "113776",
+      "mcat_name": "Super Poly Fabric"
+    },
+    {
+      "mcat_id": "9722",
+      "mcat_name": "Lycra Fabric"
+    },
+    {
+      "mcat_id": "2581",
+      "mcat_name": "Truck Tyres"
+    },
+    {
+      "mcat_id": "149838",
+      "mcat_name": "Truck Radial Tyres"
+    },
+    {
+      "mcat_id": "183899",
+      "mcat_name": "Polyester Lycra Fabric"
+    }
+  ]
+}

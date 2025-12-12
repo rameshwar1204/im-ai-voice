@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669311612",
+  "gluser_id": "119345030",
+  "vintage_months": 53,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhubri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655360",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Haan sir, ye aapne call kiya tha na feature page se?\\nCustomer: Haan haan.\\nExecutive: First pe to koi issue hai aapko?\\nCustomer: Nahi nahi nahi, aap close kar dijiye.\\nExecutive: Chaliye, theek hai sir. Baki rest aap kar lijiye unse deal, aisa kuch dikkat nahi hai. Theek hai? Aur baki cheeze sir dekho, paise dene se pehle na aap unse sari cheeze written mein le lena.\\nCustomer: Ji.\\nExecutive: Theek hai? Ki kaise wo aapko\\nCustomer: Ji. Return dega ki nahi wo to mere ko pata nahi hai. Return mangna padega.\\nExecutive: Aapne paisa de diya hai kya?\\nCustomer: Nahi nahi nahi.\\nExecutive: Haan, to pehle aap written mein le lijiye unse ki sir kaise aap mujhe maal bhejoge, kiske through aayega. Aur sabse important cheez, kya unhone ye kya bolte hain travelling ka charges usme dala hai? Kya bola hai aapko ki maal pahunchane tak ka kuch charge lagega? Delivery charges, transport ka kharcha?\\nCustomer: Haan haan.\\nExecutive: Bola hai unhone?\\nCustomer: Uska kaam hi hai transportation.\\nExecutive: Theek hai, uska kaam hai lekin specifically material ka charge, transportation ka charge, complete billing, invoicing ke sath hi aap deal karna. On paper sari cheeze.\\nCustomer: Haan.\\nExecutive: Theek hai? Ki itna GST laga hai, kyunki maine aapke sath dekha sir maine deal kari hai. To mujhe pata hai ki baad mein kya hota hai. Fir aap bolte ho aise bola tha, waise bola tha. Bolne pe mat jaiye. Aap unse sari cheeze written lijiye ki itna maal ki baat hui hai, itne mein final hua hai. Theek hai, itne amount mein, itne amount ka discount diya hai unhone, jo bhi XYZ hai. Plus kitna usme GST charge kar rahe hain, kya unka transport ka kharcha hai? Hai na, delivery charges kya alag se le rahe hain? Sari cheeze aap mention karwaiye unse ek paper mein. Kitna time lagega? 5 minute ka kaam hai. Ek paper mein ya mail pe aap leke photo rakhiye apne paas, taki aage aapko koi dikkat na ho.\\nCustomer: Achcha achcha.\\nExecutive: Ye karwaiye aap unse. Theek hai?\\nCustomer: Theek hai, theek hai. Thank you mam.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close the deal.\\n\nResolution:\\n\n- Executive advised to take everything in writing.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- transportation, gst, delivery charges, written agreement\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f2917e2e-1c85-4b17-9098-de86636a5389",
+  "ucid": "f2917e2e-1c85-4b17-9098-de86636a5389",
+  "seller_categories": [
+    {
+      "mcat_id": "215317",
+      "mcat_name": "Ortho Nil Powder"
+    },
+    {
+      "mcat_id": "655270",
+      "mcat_name": "Sandhi Sukh Powder"
+    },
+    {
+      "mcat_id": "246332",
+      "mcat_name": "Dard Mukti Powder"
+    },
+    {
+      "mcat_id": "280413",
+      "mcat_name": "Gopal Herbal Joint Pain Relief Powder"
+    },
+    {
+      "mcat_id": "206491",
+      "mcat_name": "Gopal Herbal Fitness Supplements"
+    }
+  ]
+}

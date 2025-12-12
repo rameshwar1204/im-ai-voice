@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675412806",
+  "gluser_id": "3761398",
+  "vintage_months": 40,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714568",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0099252b-bdba-4a34-a3a8-ac4e1b4b9977",
+  "ucid": "0099252b-bdba-4a34-a3a8-ac4e1b4b9977",
+  "seller_categories": [
+    {
+      "mcat_id": "10296",
+      "mcat_name": "Iron Removal Filters"
+    },
+    {
+      "mcat_id": "31121",
+      "mcat_name": "Iron Removal Systems"
+    },
+    {
+      "mcat_id": "181573",
+      "mcat_name": "SS RO Plant"
+    },
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "182664",
+      "mcat_name": "Water Plant Machinery"
+    }
+  ]
+}

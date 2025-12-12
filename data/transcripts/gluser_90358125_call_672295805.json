@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672295805",
+  "gluser_id": "90358125",
+  "vintage_months": 36,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Radaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684101",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan, sir, main ye keh raha tha aapki mail to aa gayi mere paas ye 53000 rupay wali.\\nCustomer: Haan ji.\\nExecutive: Isme koi image attach hoke nahi aayi hai lekin.\\nCustomer: Do mail bheji hai maine.\\nExecutive: Do mail bheji hai? Mail sir ek hi aayi hai mere paas lekin.\\nCustomer: Ek hi aayi hai. Koi nahi main abhi thodi der tak bhijwata hu dusri bhi.\\nExecutive: Theek hai sir, theek hai. \\nCustomer: Theek hai ya whatsapp kar du?\\nExecutive: Haan whatsapp kar diyo usse better kya hai.\\nCustomer: Ek baar mere ko isi number pe hi likhna main drive kar raha tha.\\nExecutive: Number bolna sir mujhe abhi aapka number show nahi hoga bolna ek baar. \\nCustomer: 8805\\nExecutive: 805\\nCustomer: 989\\nExecutive: 989\\nCustomer: 1111\\nExecutive: 1111\\nCustomer: Theek hai, main isme aapko sari detail whatsapp kar deta hu.\\nExecutive: Theek hai sir, okay.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received the image attachment.\\n\nResolution:\\n\n- Executive will send the details via WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail, whatsapp, details, image\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8fa37568-e665-4e10-8c81-106a9fc0739d",
+  "ucid": "8fa37568-e665-4e10-8c81-106a9fc0739d",
+  "seller_categories": [
+    {
+      "mcat_id": "188742",
+      "mcat_name": "Cattle Feed Supplement"
+    },
+    {
+      "mcat_id": "181647",
+      "mcat_name": "Animal Feed Supplement"
+    },
+    {
+      "mcat_id": "656463",
+      "mcat_name": "Veterinary Medicine Manufacturing Service"
+    },
+    {
+      "mcat_id": "7240",
+      "mcat_name": "Poultry Feed Supplements"
+    },
+    {
+      "mcat_id": "222851",
+      "mcat_name": "Pet Feed Supplements"
+    }
+  ]
+}

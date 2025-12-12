@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671828959",
+  "gluser_id": "249866172",
+  "vintage_months": 3,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Amravati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675159",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning sir.\\nCustomer: Good morning ma'am, boliye.\\nExecutive: Main Vaishnavi baat kar rahi hun IndiaMART head office Noida se.\\nCustomer: Haan haan.\\nExecutive: Sir aapse baat hui thi na sir Friday ko humne discuss kara tha kuch product add karna hai.\\nCustomer: Haan ji haan ji.\\nExecutive: Haan ji to kuch aapko products add karane the kuch aap aisa bol rahe the.\\nCustomer: Ma'am abhi to main busy hun thodi der baad sir main 12 baje call kiya chalega kya aapko?\\nExecutive: 12 baje, theek hai kar sakte hain aapne aapke number se mujhe whatsapp par haay bhej dijiye.\\nExecutive: Ji ji main aapko apne number se hi karungi abhi kya hai na ki ye main company ke number se recorded line pe kar rahi hun.\\nCustomer: Okay okay.\\nExecutive: Aapka na ek feedback hame aaya tha jaise meri jab baat chit hui thi na aapse to aapke paas ek whatsapp pe message aaya hoga ki aapki account manager se baat hui hai to aap satisfy hain ya not satisfy hain.\\nExecutive: To sir aapne matlab yahan pe not satisfy ka option choose kiya tha to main sir jaan sakti hun kya matlab kis reason se kiya tha sir.\\nCustomer: Sir leads hai waise aa nahi rahe ma'am hum kya kare leads ke liye dete hai na.\\nExecutive: Hmm hmm.\\nCustomer: Leads ke liye hum work ki leads ke liye na barabar hai.\\nExecutive: Hmm hmm.\\nCustomer: Leads nahi aati is vajah se maine non non satisfy kiya.\\nExecutive: Hmm hmm. Nahi sir leads ke liye to hum kaam kar hi rahe hain na aapko dekh hi rahe honge provide bhi kar rahe hain baki aap bhi sir active rahoge to ho jayega theek hai ek kaam karte hain sir aapko na connect karte hain 12 baje connect karna hai na.\\nCustomer: Okay 12 baje main 12 baje.\\nExecutive: Okay aur aapka jo concern tha na sir jo aapne feedback diya tha uske liye mere senior ka call aapko aayega to wo kab arrange kar raha hun sir.\\nCustomer: Haan ji na ma'am kya karte.\\nExecutive: 12 baje hi kar de.\\nCustomer: 12 baje hi kar de.\\nExecutive: Haan to aap receive kar lena theek hai sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving expected leads.\\n\n- Wants to know why customer marked 'not satisfied'.\\n\n\\n\nResolution:\\n\n- Executive assured they are working on leads.\\n\n- Senior executive will call to discuss feedback.\\n\n- Agreed to connect at 12 PM.\\n\n\\n\nNext Steps: \\n\n- Senior executive to call customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Negative -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, feedback, satisfaction, follow up\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=22113694-f5e7-4510-81e7-97cd7402b7fb",
+  "ucid": "22113694-f5e7-4510-81e7-97cd7402b7fb",
+  "seller_categories": [
+    {
+      "mcat_id": "214731",
+      "mcat_name": "Agricultural Drone"
+    },
+    {
+      "mcat_id": "446018",
+      "mcat_name": "Drone Battery"
+    },
+    {
+      "mcat_id": "444639",
+      "mcat_name": "Drone Accessories"
+    },
+    {
+      "mcat_id": "85406",
+      "mcat_name": "Electric Water Pump"
+    },
+    {
+      "mcat_id": "22553",
+      "mcat_name": "Battery Connectors"
+    }
+  ]
+}

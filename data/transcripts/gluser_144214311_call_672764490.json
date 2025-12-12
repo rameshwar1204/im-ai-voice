@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672764490",
+  "gluser_id": "144214311",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689629",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hi, if you record your name and reason for calling, I'll see if this person is available.\\n(silence)\\nExecutive: Thanks. Please stay on the line.\\n(silence)\\nExecutive: Hello?\\nCustomer: Hello.\\nCustomer: Hi, there is [inaudible] mai kya kare sir?\\nExecutive: Yes, sir?\\nCustomer: Ha sir fir\\nExecutive: Na, ek second sir hum aapko WhatsApp pe call kar rahe hain, WhatsApp pe call kar rahe hain.\\nCustomer: Okay.\\nExecutive: Ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about an inaudible issue.\\n\n\\n\nResolution:\\n\n- Executive offered to call the customer on WhatsApp.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call the customer on WhatsApp.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp call\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=42f833f8-252f-4fd7-aa85-a80ea60ccafe",
+  "ucid": "42f833f8-252f-4fd7-aa85-a80ea60ccafe",
+  "seller_categories": [
+    {
+      "mcat_id": "181226",
+      "mcat_name": "MYK Tile Adhesives"
+    },
+    {
+      "mcat_id": "156787",
+      "mcat_name": "Induction Cooktop"
+    },
+    {
+      "mcat_id": "187410",
+      "mcat_name": "Hindware Kitchen Chimney"
+    },
+    {
+      "mcat_id": "30669",
+      "mcat_name": "Induction Stove"
+    },
+    {
+      "mcat_id": "218843",
+      "mcat_name": "Latapoxy Epoxy Adhesives"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675107249",
+  "gluser_id": "252772156",
+  "vintage_months": 2,
+  "bl_dau_oct": 11,
+  "customer_type": "OthersPAID NoFCP",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710507",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nThis call is now being recorded.\\nHello?\\nHello?\\nHello?\\nOkay, who's speaking?\\nHello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Caller asking who is speaking.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b828131-a4d8-44be-a5b6-6fffb818cccb",
+  "ucid": "6b828131-a4d8-44be-a5b6-6fffb818cccb",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "1764",
+      "mcat_name": "Marble Tiles"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    }
+  ]
+}

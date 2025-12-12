@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669491570",
+  "gluser_id": "249817410",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: kya karu kaise ada kis karz ko kya karu kaise ada jo karz mujhpe mere maa ki hai\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Sir abhi aapki baat to samajh mein aa rahi hai. Mera network issue chal rahi thi idhar.\\nCustomer: Kya keh rahe ho?\\nExecutive: Mujhe lag raha hai sir aawaz kat rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not able to hear the executive.\\n\n\\n\nResolution:\\n\n- Executive mentioned network issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- network issue, voice\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d28b325f-be17-41fa-a8df-315081799768",
+  "ucid": "d28b325f-be17-41fa-a8df-315081799768",
+  "seller_categories": [
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "445685",
+      "mcat_name": "Mimbar"
+    },
+    {
+      "mcat_id": "139616",
+      "mcat_name": "Tulsi Pot"
+    }
+  ]
+}

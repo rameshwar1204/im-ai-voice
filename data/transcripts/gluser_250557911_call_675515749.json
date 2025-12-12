@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675515749",
+  "gluser_id": "250557911",
+  "vintage_months": 3,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701761",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Avni mam baat kar rahe ho kya?\\nExecutive: Ji ji.\\nCustomer: Mam wo main bol raha tha wo GST kaise claim karni hai?\\nExecutive: Ji aap kis company se bol rahe ho?\\nCustomer: Main Classic Marble se baat kar raha hun. Riyan.\\nExecutive: Classic Marble. Sir, aap thoda sa wait kar loge, main bas lunch kar rahi hun, main aapko upar jaake call karti hun, haan.\\nCustomer: Theek hai mam, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know how to claim GST.\\n\n\\n\nResolution:\\n\n- Executive asked for the company name.\\n\n- Executive requested to call back after lunch.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive will call back after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ngst claim\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=04fce7c7-095d-4e4f-bccf-b10d0cccd8b4",
+  "ucid": "04fce7c7-095d-4e4f-bccf-b10d0cccd8b4",
+  "seller_categories": [
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "166113",
+      "mcat_name": "Stone Carved Temple"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    }
+  ]
+}

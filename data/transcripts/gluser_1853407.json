@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671333048",
+  "gluser_id": "1853407",
+  "vintage_months": 17,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Faridabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674626",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Ji, good evening sir. Sir, main Ujjair baat kar raha hun IndiaMART se aapke account mein Niyer pe, hai na?\\nCustomer: Haan ji, haan ji, haan ji, boliye.\\nExecutive: Sir, apna subah baat hua tha to maine aapko sara kuch samjhaya tha. I think aap samajh gaye the. Lekin sir, ye feedback aapne unsatisfied kyun de diya? Ye kaun sa feedback?\\nCustomer: Kaun sa feedback?\\nExecutive: Ye WhatsApp pe sir aapne abhi feedback diya hai.\\nCustomer: Maine kaun sa feedback diya hai?\\nExecutive: Abhi mere paas ek mail aaya hai to usme aapne feedback diya tha unsatisfied ka. Chalo koi nahi. To us koi nahi to main usko close kar deta hun. Concern jo aaya hai aapka. Aap unko jo maine sari cheezein batai hain usse to aap satisfied hain na?\\nCustomer: Haan, haan, theek hai. Wo ab main abhi check karunga. Ye cheezein dekhunga abhi jo bhi cheez aapne bataya tha use.\\nExecutive: Haan. To main ye jo aapka concern hai open hua use close kar raha hun to aapke paas mail pe ek feedback aayega jo ki hum dono ke beech ka rahega to usme aap satisfied de dena, theek hai sir?\\nCustomer: Hmm hmm.\\nExecutive: Ji, please de dena kyunki aapka jo hai na, jo bhi dikkat hai problem hai rahega to uske sir main hi aapka entry karunga aage.\\nCustomer: Hmm. Theek hai. Aur main yaar wahi hai aapse request bhai wo file feed wagera aap thoda sa theek kijiye aapke end se.\\nExecutive: Haan to wo, wo to sir maine subah aapko bataya kitna kuch bataya. Agar aap us tarah se pattern se use karenge to aapka sara kuch theek ho jayega. Aapko buylead aana start ho jayenge. Jo cheez maine batai hai, I am interested mark karna.\\nCustomer: Chalo ek ghante mein main try karta hun usko agar theek nahi hua to fir main kuch nahi keh sakta hun fir iske bare mein ya to mere ko apna manager change chahiye, theek hai? Ya fir aap mere ko apne manager se baat karaenge jo aapke senior hain, theek hai?\\nExecutive: Haan wo, wo main kara dunga. Baki abhi ke liye main ye close kar raha hun aur aapke mail pe ek feedback ke liye mail aayega to wo aap de sakte hain, theek hai?\\nCustomer: Aur unsatisfied kisne diya? Mere paas to mail khuli rakhi hui hai. Maine to abhi tak even khol ke bhi nahi dekha.\\nExecutive: Nahi nahi, mail pe nahi hai WhatsApp pe, WhatsApp pe diya gaya hai, WhatsApp pe diya gaya hai.\\nCustomer: WhatsApp pe even mera ye personal WhatsApp hai. Ispe iske alawa to kuch aisa kuch aaya hi nahi hai.\\nExecutive: Pata nahi yahan pe mujhe diya WhatsApp pe?\\nCustomer: [unintelligible]\\nExecutive: Yahan pe mujhe ek concern raise hua hai. To uske regarding hua hai. Koi nahi main yahan se close kar de raha hun aap mujhe mail pe aayega to wo yes de dena, theek hai?\\nCustomer: [unintelligible]\\nExecutive: Okay sir?\\nCustomer: Chalo okay.\\nExecutive: Ji, ji, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave unsatisfied feedback.\\n\n- Wants file feed issue to be fixed.\\n\n- Wants to change manager or talk to senior.\\n\n\\n\nResolution:\\n\n- Executive explained about using pattern.\\n\n- Agreed to close concern and send feedback mail.\\n\n- Agreed to arrange a call with senior manager.\\n\n\\n\nNext Steps: \\n\n- Customer will try using the pattern.\\n\n- Customer will provide feedback on mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, buyleads, manager, file feed\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=31ba2d0b-914f-4072-a13e-794838d0c6ee",
+  "ucid": "31ba2d0b-914f-4072-a13e-794838d0c6ee",
+  "seller_categories": [
+    {
+      "mcat_id": "443176",
+      "mcat_name": "Volvo Truck Spare Parts"
+    },
+    {
+      "mcat_id": "155982",
+      "mcat_name": "Spring Leaf Bush"
+    },
+    {
+      "mcat_id": "189431",
+      "mcat_name": "Eicher Tractor Spare Parts"
+    },
+    {
+      "mcat_id": "148591",
+      "mcat_name": "Tipper Truck Spare Parts"
+    },
+    {
+      "mcat_id": "55528",
+      "mcat_name": "Silent Block Bushes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670341380",
+  "gluser_id": "3619939",
+  "vintage_months": 53,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Daman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661695",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Haan Ankita 9 bol raha hun.\\n\\nCustomer: Haan sir boliye main link share karu aapko.\\n\\nExecutive: Ek minute.\\n\\nCustomer: Kya tha?\\n\\nExecutive: Computer chalu kya hai ek minute.\\n\\nCustomer: Haan haan ek minute rukiye main abhi aapko link share kar rahi hun.\\n\\nExecutive: Matlab kahan pe link share kar rahi hai?\\n\\nCustomer: Mail pe link share karungi tabhi to aap join karoge na sir.\\n\\nExecutive: Achcha mail to hoga. Hmm. Bhej.\\n\\nCustomer: Aap aapke register mail id pe aap ek baar check kijiyega aapko ek mail mila hoga.\\n\\nExecutive: Wohi hai high tech for FRP wohi ek hi hai.\\n\\nCustomer: Ji sir mail gaya hoga sir. Ek second India Mart se. Bhej dijiye. Mail gaya hoga. Google meeting. Haan haan.\\n\\nExecutive: Kya hoga? Kya hua?\\n\\nCustomer: Usme ek Google meeting ka link hoga sir jab Google meeting aap join karenge na. Haan haan join karta hun. Main join karta hun. Main mail mail login karke fir se call karta hun.\\n\\nCustomer: Aap meeting join kijiyega sir usme hi discuss kar lenge. Aap meeting join kijiyega na usme hi discuss karenge.\\n\\nExecutive: Theek hai. Theek hai. Theek hai. Yes.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs the Google Meet link.\\n\n\\n\nResolution:\\n\n- Executive shared the Google Meet link on mail.\\n\n\\n\nNext Steps: \\n\n- Customer will join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, link, mail\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4f3bf620-7036-4a6a-88d0-7e105f74a221",
+  "ucid": "4f3bf620-7036-4a6a-88d0-7e105f74a221",
+  "seller_categories": [
+    {
+      "mcat_id": "164",
+      "mcat_name": "FRP Cooling Towers"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "162",
+      "mcat_name": "Cooling Towers"
+    },
+    {
+      "mcat_id": "25879",
+      "mcat_name": "Cooling Tower Fans"
+    },
+    {
+      "mcat_id": "30665",
+      "mcat_name": "Induced Draft Cooling Tower"
+    }
+  ]
+}

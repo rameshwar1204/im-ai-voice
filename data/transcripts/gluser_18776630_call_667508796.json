@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667508796",
+  "gluser_id": "18776630",
+  "vintage_months": 110,
+  "bl_dau_oct": 27,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Jagadhri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698708",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello? Are? Haanji.\\nExecutive: Ji, hi sir.\\nCustomer: Haanji, boliye.\\nExecutive: Uh, main Lal Rakesh Kumar se baat kar rahe the.\\nCustomer: Haanji. Haanji. Haanji.\\nExecutive: Main sir, hi main Ravi baat kar raha tha, senior manager IndiaMART se kaise hain aap?\\nCustomer: Badhiya. Lekin sir main na thoda sa busy hun. Parso aap phone milana, parso main aapka phone, parso baat kar leta hun main aapse. Aaj aur kal busy hun main.\\nExecutive: Achcha achcha. Thik hai.\\nCustomer: Haan, parso baat. Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and cannot talk now.\\n\n\\n\nResolution:\\n\n- Executive agreed to call the customer later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer day after tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call scheduling\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fbadb810-528e-4798-9a9c-de2712acc008",
+  "ucid": "fbadb810-528e-4798-9a9c-de2712acc008",
+  "seller_categories": [
+    {
+      "mcat_id": "39397",
+      "mcat_name": "Waffle Maker"
+    },
+    {
+      "mcat_id": "315646",
+      "mcat_name": "Egg Roll Making Machine"
+    },
+    {
+      "mcat_id": "20520",
+      "mcat_name": "Aluminium Milk Cans"
+    },
+    {
+      "mcat_id": "147114",
+      "mcat_name": "Softy Making Machine"
+    },
+    {
+      "mcat_id": "154773",
+      "mcat_name": "Chicken Cutting Machine"
+    }
+  ]
+}

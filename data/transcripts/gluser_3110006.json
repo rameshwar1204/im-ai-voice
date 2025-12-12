@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670009930",
+  "gluser_id": "3110006",
+  "vintage_months": 109,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Solan",
+  "iil_vertical_name": "KCD",
+  "customer_ticket_id": "9663446",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ha mam Roma pharmacy baat kar rahe hain?\\nCustomer: Ji ji bilkul.\\nExecutive: Ha mam actually main IndiaMART team se baat kar rahi thi. Abhi aapki baat agar Anam ji se hui thi hamare retention department se.\\nCustomer: To ha na to aapne unko whatsapp pe band ho gaya kal whatsapp kar sakte hain please?\\nExecutive: Ha ha kal kar sakti hu no issues. Baki main ye bol rahi thi aapne unko feedback diya hai na mam ek not satisfied whatsapp pe. To matlab kya aisi matlab baat kya hui thi mam main bas wohi jaanna chah rahi thi.\\nCustomer: Woh mam abhi main bata nahi sakti main na abhi chutti ho gayi office se main abhi ja rahi hu na. Main aapko sab bata dungi.\\nExecutive: Theek hai. Koi baat nahi. Theek hai mam.\\nCustomer: Okay mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know the reason for not satisfied feedback.\\n\nResolution:\\n\n- Executive asked the reason for the feedback.\\n\nNext Steps: \\n\n- Customer will inform later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, retention, whatsapp\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f9497b81-3a9c-4624-8e5a-3a2fe0cebe87",
+  "ucid": "f9497b81-3a9c-4624-8e5a-3a2fe0cebe87",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "179473",
+      "mcat_name": "Nandrolone Injection"
+    },
+    {
+      "mcat_id": "176143",
+      "mcat_name": "Hydroxyprogesterone Caproate Injection"
+    },
+    {
+      "mcat_id": "144767",
+      "mcat_name": "Diclofenac Sodium Injection"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

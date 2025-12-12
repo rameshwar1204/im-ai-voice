@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672978705",
+  "gluser_id": "210260415",
+  "vintage_months": 6,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656133",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan madam ji.\\nCustomer: Haan ji sir wo main aapko jo bheja hai na wo main aapko batana chah rahi thi ki jo bhi company hai na wo band ho chuki hai IndiaMART pe wo nahi hai verified supplier.\\nExecutive: Nahi to madam wo kya hai na IndiaMART pe agar unhone shayad ho sakta hai subscription band kar diya hoga magar 5 lakh ka maal mangwaya to company to chalu hogi na.\\nCustomer: Company to hai hi lekin IndiaMART pe nahi hai.\\nExecutive: Haan nahi theek hai madam dekho maine unka jab check kiya hai to bhai mere ko to dikha raha hai hai na kahin na kahin unka GST number chalu hi hai.\\nCustomer: Aur aur jo aapko screenshot leke bheja hai na.\\nExecutive: Haan.\\nCustomer: Aapne mujhe screenshot bheja hua hai wo screenshot app se nikala gaya hai.\\nExecutive: Achcha.\\nCustomer: Yani ki koi aur nahi nikal sakta aap jo third supplier third party bata rahe ho aap ki usne call karke aapko bhej diya unhone aapko bhej diya aise nahi hai ye company jisne bhi ye screenshot liya hai company ke andar se hi nikal sakta hai jiske paas ye hai.\\nExecutive: Nahi to wo to madam maine matlab maine nikal ke bheja hai aapko hai na.\\nCustomer: Hmm.\\nExecutive: Haan usko maine nikal ke bheja hai aapke paas ab.\\nCustomer: Ye aapne nikal ke bheja hai.\\nExecutive: Haan maine nikal ke bheja hai.\\nCustomer: Apni app ke through.\\nExecutive: Haan.\\nCustomer: Haan to wahi cheez main bol rahi hu ki ye app se nikali gayi hai ye aise nahi nikali ja sakti.\\nExecutive: Haan.\\nCustomer: Haan ji ka charger dena aap dekh lo usse jo bhi baat ho sakti hai kyuki agar ye third person wali cheez hai na to wo do person nahi kyuki usme kuch bhi action bhi lene ke liye khud se proof hona chahiye na.\\nExecutive: Haan haan.\\nCustomer: Ab main yaha pe to already aapki ticket complaint raise hai aur maine dekha bhi maine aapko call bhi kiya tha ki jo bhi baat hai at least pata to honi chahiye ki kya issue hua hai.\\nExecutive: Haan.\\nExecutive: Main na abhi thoda factory mein hu main na aapko thodi der baad lagata hu phone actually mein kuch sunai nahi de raha office jaunga na to main lagaunga ya to fir main aapko bataunga fir whatsapp mein main phone message karte rahunga aap apne company number se mujhe phone kar dijiye.\\nCustomer: Haan theek hai ji.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Company is closed and not verified on IndiaMART.\\n\n- Screenshot was taken from the app.\\n\n- Wants to know the issue with the ticket complaint.\\n\n\\n\nResolution:\\n\n- Executive confirmed GST number is active.\\n\n- Executive confirmed he sent the screenshot.\\n\n\\n\nNext Steps: \\n\n- Executive will call back from office later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verified supplier, screenshot, ticket complaint\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 146,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1e9eb0b3-17d4-4c9b-8a98-7cf25af709ad",
+  "ucid": "1e9eb0b3-17d4-4c9b-8a98-7cf25af709ad",
+  "seller_categories": [
+    {
+      "mcat_id": "168563",
+      "mcat_name": "Full Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "42703",
+      "mcat_name": "Transportation Services"
+    },
+    {
+      "mcat_id": "69543",
+      "mcat_name": "Goods Transport Services"
+    },
+    {
+      "mcat_id": "172377",
+      "mcat_name": "Part Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "167976",
+      "mcat_name": "Trailer Transport Services"
+    }
+  ]
+}

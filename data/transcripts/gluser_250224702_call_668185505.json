@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668185505",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Main aapko yahan pe yahi bolna chahta hun ki dono cheezein kammi hai. Pehle usko solve kar lete hain. Hello.\\nExecutive: Haan ji.\\nCustomer: Kammi ki kammi ke bare mein kya cheezein hai? Hello.\\nExecutive: Hello haan bataiye aap.\\nCustomer: Sir bol rahe hain.\\nExecutive: Haan sir main thoda sa busy hun. Haan haan bataiye aap.\\nCustomer: Haan main JC Textile se bol raha hun. Meri sir se baat hui thi aapke.\\nExecutive: Achcha sir.\\nCustomer: Haan unhone bola tha HOB se baat karao aur kuch mere ko buylead nahi mil rahi thi iske.\\nExecutive: Uh thoda sa sir paanch minute wait kar lijiye bas wo video meeting mein hai. Uh discussion bas end ho rahi hai fir wo aapko call back kar rahe hain.\\nCustomer: Theek hai call back kara dena mere ko. Aap kahan se bol rahe hain ye bata dijiyega ek bari.\\nExecutive: Main JC Textile, Byawar, Rajasthan se.\\nCustomer: JC Textile.\\nCustomer: Haan Byawar, Rajasthan.\\nExecutive: Okay okay okay.\\nCustomer: Okay.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting buyleads.\\n\n\\n\nResolution:\\n\n- Executive informed that the concerned person is busy.\\n- Assured a call back after the meeting.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, call back, meeting\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dd96ad5a-7881-47a5-aa64-88153c86a95e",
+  "ucid": "dd96ad5a-7881-47a5-aa64-88153c86a95e",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

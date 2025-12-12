@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669593381",
+  "gluser_id": "64433348",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jasrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Dekhiye.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello haan ji aap phone karne wale.\\nCustomer: Haan ji sir mera refund kara dijiye approval aaya nahi hai sir abhi aaj aayega aaj raat mein aa jayega.\\nCustomer: Achcha to kal transfer ho jayega sir.\\nExecutive: Transfer nahi hoga approval agar aapka aa gaya refund ka man lijiye tab char panch din lagenge approval refund ke liye bas maine do bar gaye the sir ke liye sir ne bola ki theek hai aaj kar dunga kar dunga bol raha hai to aaj ho jana chahiye par abhi aaya nahi approval.\\nCustomer: Yaar bada lamba system hai fir.\\nExecutive: Sir refund ke policy nahi main to kara raha hun fir aap apne hisab se jo date lag kar lijiye main wait kar lijiye try kar raha hun main to koshish kar hi raha hun sir.\\nCustomer: Kisi ko aaj ke kal kar raha hun aaj ke kal karte karte itne din ho gaye hain kisi ko dene mein.\\nExecutive: Are maine bhi kisi se utha ke lagaya tha na mere ko bhi maine fir usko wapas dene hai aapko pata nahi to abhi itna jaldi refund agar abhi man lijiye approval approval aane mein deri hai approval aane ke jis din approval man lijiye kal subah aata hai to usse char din aur le lijiye bas maximum one week ka time le lijiye aap.\\nCustomer: Samne wale ko main shukrawar ka time de du fir.\\nExecutive: Ab sir main ye kya bata du aap samne wale kab ka time dijiye main mera approval jahan tak kal aa gaya to main aapko char se panch din mein paisa wapas kara dunga.\\nCustomer: Hmm iska matlab kal pata lagega.\\nExecutive: Haan kal morning me pata chal jayega 11 baje tak 11 12 baje tak.\\nCustomer: Theek hai. Ya raat me bhi aayega haan theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants refund approval.\\n\n\\n\nResolution:\\n\n- Executive assured refund in 4-5 days after approval.\\n\n- Executive informed customer to wait for approval.\\n\n\\n\nNext Steps: \\n\n- Customer will get update by next morning.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, approval, transfer\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eec36431-f038-4b88-87de-696dcfa2c862",
+  "ucid": "eec36431-f038-4b88-87de-696dcfa2c862",
+  "seller_categories": [
+    {
+      "mcat_id": "78475",
+      "mcat_name": "HR Consultancy Services"
+    },
+    {
+      "mcat_id": "78448",
+      "mcat_name": "Payroll Services"
+    },
+    {
+      "mcat_id": "154135",
+      "mcat_name": "EPF Compliance"
+    },
+    {
+      "mcat_id": "174903",
+      "mcat_name": "Employee Provident Fund Services"
+    },
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    }
+  ]
+}

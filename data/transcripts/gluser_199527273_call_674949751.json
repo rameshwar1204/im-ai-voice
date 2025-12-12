@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674949751",
+  "gluser_id": "199527273",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709465",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ha sir, main Nancy baat kar rahi hu aapke account manager IndiaMART se. Subah call kiya tha aapne 9696 pe kiya tha kya?\\nCustomer: Ha ha ha.\\nExecutive: To abhi wo maine mam se baat kari to wo sir initiate kar diya hai. Ab accounts team aap dekh ke jitna bhi aapka amount baithega wo aapka refund aa jayega. Thik hai, 8-10 dino mein.\\nCustomer: To aur baki sir hai.\\nExecutive: Hai na? To abhi main yaha se ye wala 9696 pe aapne call kiya tha na to concern open ho jata hai.\\nExecutive: To aap ya to sir mere phone pe laga liya karo phone. Mera number bhi hai aapke pass. Main hi bata diya karungi, hai na?\\nCustomer: Aapka number mere ko bolna chahiye mam.\\nExecutive: 7610\\nCustomer: Ek second. 7610\\nExecutive: 28\\nCustomer: 28\\nExecutive: 1661\\nCustomer: 1661. Ha.\\nExecutive: Okay. Nancy ke naam se aap mera number save kar lo. Main yahi se wala concern close kar dungi, thik hai?\\nCustomer: Okay okay.\\nExecutive: Okay.\\nCustomer: [Unintelligible]",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested refund.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund has been initiated.\\n\n- Executive shared her direct contact number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, contact number, account\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=41e7ce30-1ecc-4398-9613-5952376c0250",
+  "ucid": "41e7ce30-1ecc-4398-9613-5952376c0250",
+  "seller_categories": [
+    {
+      "mcat_id": "80226",
+      "mcat_name": "Designer Blouse"
+    },
+    {
+      "mcat_id": "4478",
+      "mcat_name": "Blouse Pieces"
+    },
+    {
+      "mcat_id": "173806",
+      "mcat_name": "Aari Embroidery Work"
+    },
+    {
+      "mcat_id": "6911",
+      "mcat_name": "Embroidered Blouses"
+    },
+    {
+      "mcat_id": "68551",
+      "mcat_name": "Fashion Blouse"
+    }
+  ]
+}

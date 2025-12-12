@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672016877",
+  "gluser_id": "248600046",
+  "vintage_months": 4,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Daman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679454",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, haanji sir, namaskar kaise hain?\\nCustomer: Boliye boliye sir.\\nExecutive: Sir actually aapne mail kiya tha IndiaMART pe.\\nCustomer: Hmm.\\nExecutive: Aapko mail aaya tha? Aapne IndiaMART pe mail kiya tha na ki buylead ko leke?\\nCustomer: Haanji haanji.\\nExecutive: Hello.\\nCustomer: To main usi pe puch raha tha sir kaisa matlab main aapko share karta hu usme bilkul bhi kuch kaam ke nahi the.\\nExecutive: Sir dekho na, main ek baat bolu, faltu leads the.\\nCustomer: Kaam ke nahi hai mere bhi.\\nExecutive: Theek hai?\\nCustomer: Haan, na mere product specification ke hisab se na order quantity ke hisab se.\\nExecutive: Okay.\\nCustomer: Time waste karna hai to bata do aap, aap logo ko bol ke rakha algorithm wala aapka jo issue hai aap solve bhi nahi kar pa rahe.\\nExecutive: Sir algorithm set tab hoga na sir continue apan use karte rahe, ab jo matlab like month mein aap do teen char buylead use kar rahe ho.\\nCustomer: Ab main use kya karu jab kuch aayega tab use karega na aadmi ki kuch bhi faltu use karte rahega.\\nExecutive: Nahi main us cheez ke liye nahi keh raha ki like apne paas do teen hazaar ki to abhi aa rahi hai at least usko to consume kar sakte hain sir.\\nCustomer: Kya karunga uska main consume karke mere ko batao zara.\\nExecutive: Ab sir jaise ye cutting board ki hai jaise ye aa rahi hai ki 2000 pieces ki to isko to consume kar sakte hain na matlab kabhi kabhi aap bol ke aise aap consume.\\nCustomer: Cutting board hai lekin kaunsa cutting board hai wo bhi dekho na.\\nCustomer: Large plastic HPD aise karke hai.\\nCustomer: Mera kitchen wear mein wo electrical hai.\\nExecutive: Okay, time se cutting board hai.\\nCustomer: Large plastic HPD, ek second.\\nCustomer: Ye aapke relevant nahi hai, sorry sir main dekh dekhta hu ek baar rukiye.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer complains about receiving irrelevant buyleads.\\n\n- Dissatisfied with the quality of buyleads.\\n\n- States the algorithm issue is not resolved.\\n\n\\n\nResolution:\\n\n- Executive explained the importance of continuous usage.\\n\n- Executive tried to explain about available buyleads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, algorithm, product specification\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7f7937d-70b9-47d7-88f9-b8f06fc33b8a",
+  "ucid": "a7f7937d-70b9-47d7-88f9-b8f06fc33b8a",
+  "seller_categories": [
+    {
+      "mcat_id": "140749",
+      "mcat_name": "Plastic Cloth Clips"
+    },
+    {
+      "mcat_id": "218523",
+      "mcat_name": "Plastic Chopping Board"
+    },
+    {
+      "mcat_id": "6062",
+      "mcat_name": "Plastic Hangers"
+    },
+    {
+      "mcat_id": "181794",
+      "mcat_name": "Plastic Dustbin"
+    },
+    {
+      "mcat_id": "73890",
+      "mcat_name": "Plastic Clothes Hanger"
+    }
+  ]
+}

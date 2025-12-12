@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671232555",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? Haan ji, good afternoon, sir.\\nExecutive: Good afternoon, main sir bol raha hoon, main baad mein call karta hoon aapko, main matlab bike chala raha hoon sir.\\nCustomer: Kitni der mein sir?\\nExecutive: Paanch ya 10 minute mein call karta hoon return. Main bike chala raha hoon sir.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek?",
+  "summary": "\\n\nConcerns:\\n\n- Customer greeted the executive.\\n\n- Customer inquired how long it would take for the executive to call back.\\n\n\\n\nResolution:\\n\n- Executive stated he was driving a bike and would call back in 5 to 10 minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back in 5-10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, driving, timing\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f03c8c73-d51d-4251-be58-0181106c2947",
+  "ucid": "f03c8c73-d51d-4251-be58-0181106c2947",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

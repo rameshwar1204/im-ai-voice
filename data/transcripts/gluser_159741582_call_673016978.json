@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673016978",
+  "gluser_id": "159741582",
+  "vintage_months": 5,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690687",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haanji.\\nExecutive: Haanji, haanji. Suresh baat kar raha hu IndiaMART se, kaun bol rahe hai?\\nCustomer: Haanji, bol raha tha ki aap mein stone polishing, isme buylead consume ki thi, isme deal karte hai kya aap stone polishing mein?\\nExecutive: Stone polishing, sir stone polishing mein aa jata hai, usme marble mein aa jata hai stone.\\nCustomer: Achha marble mein hi aata hai, kyunki aapne iski buylead consume ki thi.\\nExecutive: Marble mein, stone mein bol dijiye, marble bol dijiye, pathar mein woh bhi.\\nExecutive: Toh usko aapki kya isme add kar do category stone polishing mein?\\nCustomer: Haan sir.\\nExecutive: Kya bol rahe hai?\\nCustomer: Kar dijiye, kar dijiye.\\nExecutive: Theek hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to add stone polishing category.\\n\n\\n\nResolution:\\n\n- Agreed to add stone polishing category.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- category, buyleads, stone polishing, marble\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=661a1412-d461-4b30-b658-091a07c8e644",
+  "ucid": "661a1412-d461-4b30-b658-091a07c8e644",
+  "seller_categories": [
+    {
+      "mcat_id": "150088",
+      "mcat_name": "Marble Polishing Services"
+    },
+    {
+      "mcat_id": "137283",
+      "mcat_name": "Marble Floor Polishing Services"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "170549",
+      "mcat_name": "Granite Polishing Services"
+    },
+    {
+      "mcat_id": "170499",
+      "mcat_name": "Floor Polishing Service"
+    }
+  ]
+}

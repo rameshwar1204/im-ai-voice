@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675595936",
+  "gluser_id": "91705414",
+  "vintage_months": 60,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9711404",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello.\\nYes.\\nHello.\\nHello, haa paranjukolu.\\nYes.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e649f851-caa1-4389-8d46-c730eeb75a2e",
+  "ucid": "e649f851-caa1-4389-8d46-c730eeb75a2e",
+  "seller_categories": [
+    {
+      "mcat_id": "24353",
+      "mcat_name": "Cold Storage Rooms"
+    },
+    {
+      "mcat_id": "179028",
+      "mcat_name": "Blue Star Water Cooler"
+    },
+    {
+      "mcat_id": "193607",
+      "mcat_name": "Aquaguard Water Cooler"
+    },
+    {
+      "mcat_id": "191554",
+      "mcat_name": "RO Water Cooler"
+    },
+    {
+      "mcat_id": "147334",
+      "mcat_name": "Mushroom Farming Services"
+    }
+  ]
+}

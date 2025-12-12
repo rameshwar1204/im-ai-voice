@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672499592",
+  "gluser_id": "248726302",
+  "vintage_months": 4,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683710",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji boliye mam.\\nExecutive: Haan sir good afternoon Anju baat kar rahi hu IndiaMART se.\\nCustomer: Kaun bol rahe hai aap Anju ji baat kar rahe hai.\\nExecutive: Haan Anju baat kar rahi hu account manager aapke.\\nExecutive: Haan ji haan boliye.\\nCustomer: Mujhe thoda aap se baat karni thi sir aapka concern aaya hua hai na catalog ke regarding thoda baat karna chah rahi thi.\\nExecutive: Haan.\\nCustomer: Abhi available hai aap baat kar payenge?\\nExecutive: Main abhi thoda bahar hu mam aap mam ke phone pe kar sakte hai.\\nCustomer: Ah.\\nCustomer: Mam se baat thoda sa mere baat sun aap aap main aapko 6 baje baad call kar sakta hu.\\nCustomer: 6 baje ke baad.\\nCustomer: Sir actually jo aapke concern regarding discussion hai wo sab system hona ke liye jaruri hai.\\nExecutive: To aap mam se baat kariye main actually driving mein hu.\\nCustomer: Achha nice.\\nCustomer: Haan. Fir pehle free nahi ho payenge kya?\\nExecutive: Haan ho jaunga to kar dunga 5:00 5:30 tak, theek hai?\\nCustomer: Haan haan bilkul ek baar 5:00 5:30 tak connect kar sakte hai, theek hai sir.\\nExecutive: Haan main connect karta hu.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss catalog related concern.\\n\nResolution:\\n\n- Executive will connect by 5:00-5:30 PM.\\n\nNext Steps: \\n\n- Executive will connect by 5:00-5:30 PM.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, concern, connect\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fce8f6f8-2e89-4193-9adb-4ac9e83616ae",
+  "ucid": "fce8f6f8-2e89-4193-9adb-4ac9e83616ae",
+  "seller_categories": [
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    },
+    {
+      "mcat_id": "226872",
+      "mcat_name": "Gemstone Tree"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "22131",
+      "mcat_name": "Artificial Trees"
+    },
+    {
+      "mcat_id": "190710",
+      "mcat_name": "Tiger Eye Bracelet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670980825",
+  "gluser_id": "65934471",
+  "vintage_months": 9,
+  "bl_dau_oct": 12,
+  "customer_type": "qgFCP with PNS",
+  "city_name": "Sakti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672731",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Good morning.\\nCustomer: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a9ea8a8-f032-4440-9479-b11118438af3",
+  "ucid": "2a9ea8a8-f032-4440-9479-b11118438af3",
+  "seller_categories": [
+    {
+      "mcat_id": "40012",
+      "mcat_name": "Tractor Trolleys"
+    },
+    {
+      "mcat_id": "182836",
+      "mcat_name": "Hydraulic Tractor Trolley"
+    },
+    {
+      "mcat_id": "175056",
+      "mcat_name": "Tractor Water Tanker"
+    },
+    {
+      "mcat_id": "43200",
+      "mcat_name": "Combine Harvester"
+    },
+    {
+      "mcat_id": "7463",
+      "mcat_name": "Disc Harrow"
+    }
+  ]
+}

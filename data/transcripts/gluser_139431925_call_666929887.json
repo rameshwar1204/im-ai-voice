@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666929887",
+  "gluser_id": "139431925",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631398",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Mangalam Bearing and Tools Company se baat ho rahi hai?\\nCustomer: Ji.\\nExecutive: Haanji sir, main Akashi baat kar rahi hu IndiaMART se.\\nCustomer: Haan. Ek, abhi thodi der baad baat kar dijiyega please.\\nExecutive: Ji?\\nCustomer: Thodi der baad phone kijiyega.\\nExecutive: Aapne abhi wo kiya tha na, complaint raise kari thi.\\nCustomer: Haan kiya tha, abhi main thoda busy hu, thodi der baad baat kijiye.\\nExecutive: Ji?\\nCustomer: Ma'am, baad mein phone kijiyega please.\\nExecutive: Okay, kis time main call karu, bata dijiye.\\nCustomer: Aaj ek ghante baad.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a complaint raised by the customer.\\n- Customer was busy and requested a callback.\\n\\n\\nResolution:\\n\\n- Agreed to call back after one hour.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call the customer back in one hour.\\n\\nAlert (If Any):\\ncomplaint\\n\\n@@@Sentiment:\\n- Neutral | Non-urgent -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- callback, complaint\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a25e12b0-52e1-4dce-a353-6488ca473a8a",
+  "ucid": "a25e12b0-52e1-4dce-a353-6488ca473a8a",
+  "seller_categories": [
+    {
+      "mcat_id": "16113",
+      "mcat_name": "Gazebo Tent"
+    },
+    {
+      "mcat_id": "1708",
+      "mcat_name": "Outdoor Tents"
+    },
+    {
+      "mcat_id": "85304",
+      "mcat_name": "Tent House"
+    },
+    {
+      "mcat_id": "20112",
+      "mcat_name": "Wedding Tent"
+    },
+    {
+      "mcat_id": "15505",
+      "mcat_name": "Camping Dome Tent"
+    }
+  ]
+}

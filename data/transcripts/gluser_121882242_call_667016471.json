@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667016471",
+  "gluser_id": "121882242",
+  "vintage_months": 57,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632204",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, IndiaMART se baat kar raha hu, Ankit. Kya meri baat Mr. Rakesh ji se ho rahi hai?\\nCustomer: Ji, Rakesh bol raha hu.\\nExecutive: Rakesh ji, aapki company hai, R K Enterprises, right?\\nCustomer: Ji.\\nExecutive: Sir, aapka jo IndiaMART pe account hai, usme aapka jo mobile number hai, wo update karwana tha aapko?\\nCustomer: Ji, ji, ji.\\nExecutive: Okay. To sir, aapka jo naya number hai, wo aap mujhe bata sakte hai?\\nCustomer: Ji, likhiye. 9810.\\nExecutive: Ji.\\nCustomer: 85.\\nExecutive: Ji.\\nCustomer: 29.\\nExecutive: Ji.\\nCustomer: 29.\\nExecutive: Okay. 9810852929.\\nCustomer: Ji.\\nExecutive: Okay. Sir, ye number aapke naam pe registered hai?\\nCustomer: Ji, ji, ji.\\nExecutive: Okay. Sir, is number pe ek OTP aayega, wo OTP aap mujhe bata dijiye.\\nCustomer: Okay.\\nExecutive: Ji.\\n(silence)\\nCustomer: 9578.\\nExecutive: 9578.\\nCustomer: Ji.\\nExecutive: Okay. Sir, aapka jo number hai, wo update ho gaya hai.\\nCustomer: Okay.\\nExecutive: Ji. Aur koi jaankari chahiye thi aapko?\\nCustomer: Nahi, bas yahi tha.\\nExecutive: Okay. IndiaMART pe call karne ke liye dhanyavaad. Aapka din shubh ho.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to update the registered mobile number.\\n\\n\\nResolution:\\n\\n- Verified the new mobile number via OTP.\\n- Confirmed that the number has been updated.\\n\\n\\nNext Steps: \\nIssue resolved.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- mobile number update, account verification, otp\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=14955e8d-28ce-4126-9c22-3a72bc67e543",
+  "ucid": "14955e8d-28ce-4126-9c22-3a72bc67e543",
+  "seller_categories": [
+    {
+      "mcat_id": "154403",
+      "mcat_name": "Color Spectrophotometer"
+    },
+    {
+      "mcat_id": "144187",
+      "mcat_name": "Whiteness Meter"
+    },
+    {
+      "mcat_id": "26598",
+      "mcat_name": "Digital Colorimeter"
+    },
+    {
+      "mcat_id": "167205",
+      "mcat_name": "Digital Moisture Meter"
+    },
+    {
+      "mcat_id": "123859",
+      "mcat_name": "Color Measuring Equipment"
+    }
+  ]
+}

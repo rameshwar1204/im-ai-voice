@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669369054",
+  "gluser_id": "35024942",
+  "vintage_months": 73,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655866",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Bol.\\n",
+  "summary": "\\n\nConcerns:\\n\n\\n\nResolution:\\n\n- Executive greeted the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- greetings\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3f357b7f-d18c-4dfa-925a-9e011e2a241c",
+  "ucid": "3f357b7f-d18c-4dfa-925a-9e011e2a241c",
+  "seller_categories": [
+    {
+      "mcat_id": "139766",
+      "mcat_name": "Butyl Tubes"
+    },
+    {
+      "mcat_id": "69553",
+      "mcat_name": "Motorcycle Tubes"
+    },
+    {
+      "mcat_id": "189447",
+      "mcat_name": "Motul Engine Oil"
+    },
+    {
+      "mcat_id": "184283",
+      "mcat_name": "Bike Engine Oil"
+    },
+    {
+      "mcat_id": "68284",
+      "mcat_name": "Motorcycle Brake Shoe"
+    }
+  ]
+}

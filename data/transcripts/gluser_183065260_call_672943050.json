@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672943050",
+  "gluser_id": "183065260",
+  "vintage_months": 14,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji sir.\\nExecutive: Hello\\nCustomer: Hello haan ji sir.\\nExecutive: Haan us din baat hua tha na sir.\\n\\nExecutive: Haan ji sir kis bare mein sir?\\nCustomer: Wo payment refund ke liye sir.\\n\\nExecutive: Ah sir aap wo Prayagraj se baat kar rahe hain?\\nCustomer: Haan?\\nExecutive: Kahan se baat kar rahe hain sir? Kis company se baat kar rahe hain aap?\\nCustomer: Main main Khamba se Khamba se baat kar raha hun Haider Agate se sir.\\n\\nExecutive: Khamba se?\\nCustomer: Haan.\\nExecutive: Kya company ka naam hai sir aapka?\\nCustomer: Haider Agate sir us din aapne bola tha maine bola tha to sahi aapko sir.\\nExecutive: Sir ji ek bar batayenge sir ek bar aap bata denge apne company ka naam to main search kar Haider Agate sahi se aap se puch raha hun.\\nCustomer: Haider Agate bola hai to sahi aap sir aapko Haider Agate.\\nExecutive: Haider Agate.\\nCustomer: Haan.\\n\\nExecutive: Haider Agate aisa kuch.\\n\\nExecutive: Ye aapka kam wo sab dekhte the kya sir?\\nCustomer: Haan?\\n\\nExecutive: Ye kam jo hai aapka.\\nCustomer: Haan.\\nExecutive: Ye Abdul dekhte the kya abhi? \\nCustomer: Haan haan bas wohi dekh rahe hain sir. Us din baat to hua tha sir aapse aapne bola refund karwa deta hun sir.\\nExecutive: Abdul se baat karwa deta hun main sir ek minute. Abdul hi kuch case ko dekh rahe hain ye sir mere paas lag gaya main aap abhi baat karwa deta hun aapko. Theek hai?\\nCustomer: Okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about payment refund.\\n\n- Customer wants to talk to Abdul regarding refund.\\n\n\\n\nResolution:\\n\n- Executive offered to connect the call to Abdul.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, company name\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=785c665f-c947-4adf-93c3-8c01d3425aae",
+  "ucid": "785c665f-c947-4adf-93c3-8c01d3425aae",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666920488",
+  "gluser_id": "228150473",
+  "vintage_months": 15,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Palwal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ji Ajit sir ji, hello.\\nCustomer: Haan ji.\\nExecutive: Ji Amrit baat kar raha hu, abhi aap se baat ho rahi thi. Ye bol raha hu sir, aapne customer care pe call kiya tha na, to ek concern open ho jata hai. To abhi hamara baat ho gaya to isko hum close kar dete hain, theek hai sir? Abhi aapke, uh, beti, matlab jo abhi sir baat kar rahe the, unke sath 4 baje meeting hai hamara. Hello?\\nCustomer: Achha.\\nExecutive: Aap kaun baat kar rahe hain? Ajit sir baat kar rahe hain na?\\nCustomer: Haan ji, haan ji.\\nExecutive: To 4 baje hum, uh, meeting schedule karaye hain, theek hai? Uspe matlab, uh, free rahiyega us time pe.\\nCustomer: Theek hai.\\nExecutive: Das minute ke liye, zyada nahi. Das minute me pura hum samjha denge aapko.\\nCustomer: Haan chalo, wo to aapse connectivity kar lenge.\\nExecutive: Hmm hmm. Uh, aur ye jo concern raise hua tha, isko hum close kar dete hain, theek hai?\\nCustomer: Theek hai.\\nExecutive: Hello?\\nCustomer: Haan boliye, boliye, boliye, sun raha hu.\\nExecutive: Ji, jo, uh, jo concern raise hua tha, jo problem aapko aa rahi thi, uske liye, uh, ticket raise hua tha, usko hum close kar dete hain abhi, theek hai?\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Seeking confirmation to close a previously raised ticket.\\n- Confirming a scheduled meeting with the customer.\\n\\n\\nResolution:\\n\\n- Informed the customer about closing the ticket.\\n- Confirmed a 10-minute meeting scheduled for 4 PM.\\n- Customer agreed to both the ticket closure and the meeting.\\n\\n\\nNext Steps: \\n\\nA 10-minute meeting is scheduled for 4 PM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- ticket closure, concern, meeting schedule, customer care\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c558607f-cd31-4412-9244-afa33f70c075",
+  "ucid": "c558607f-cd31-4412-9244-afa33f70c075",
+  "seller_categories": [
+    {
+      "mcat_id": "42064",
+      "mcat_name": "Landscaping Services"
+    },
+    {
+      "mcat_id": "29207",
+      "mcat_name": "Garden Developers"
+    },
+    {
+      "mcat_id": "168360",
+      "mcat_name": "Garden Landscaping Services"
+    },
+    {
+      "mcat_id": "31517",
+      "mcat_name": "Landscape Design"
+    },
+    {
+      "mcat_id": "171784",
+      "mcat_name": "Fountain Installation Service"
+    }
+  ]
+}

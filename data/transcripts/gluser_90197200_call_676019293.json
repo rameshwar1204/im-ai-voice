@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676019293",
+  "gluser_id": "90197200",
+  "vintage_months": 22,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719476",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello ha sir shubham bol raha hu sir ye bol raha tha ki abhi aapne jo call kiya tha na wo aapne kiya tha 9696 pe na?\\nCustomer: ha\\nExecutive: ha to abhi jo aapne call kiya tha na us sir\\nCustomer: bataye hello\\nExecutive: sir jo abhi aapka concern tha na aapne call kiya tha uske regarding ticket open ho gayi thi to abhi mai wo ye concern close kar raha hu na aapka\\nCustomer: ha\\nExecutive: aapke paas sir feedback feedback ke regarding mail jayega sir us pe sir positive aap wo de dijiyega\\nCustomer: hmm thik hai feedback de dijiyega\\nExecutive: thik hai sir mai close kar raha hu yaha se\\nCustomer: acha ok\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding the call, the executive is closing the ticket that was opened.\\n\n\\n\nResolution:\\n\n- The executive is closing the ticket.\\n\n- The customer will receive a feedback mail.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nticket closure, feedback\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a2ed2685-1282-4f4b-8f71-ddc9ce186b24",
+  "ucid": "a2ed2685-1282-4f4b-8f71-ddc9ce186b24",
+  "seller_categories": [
+    {
+      "mcat_id": "107038",
+      "mcat_name": "Cell Counter"
+    },
+    {
+      "mcat_id": "193157",
+      "mcat_name": "Mindray Cell Counter"
+    },
+    {
+      "mcat_id": "30267",
+      "mcat_name": "Hematology Analyzers"
+    },
+    {
+      "mcat_id": "347693",
+      "mcat_name": "Fully Automated Biochemistry Analyzer"
+    },
+    {
+      "mcat_id": "23424",
+      "mcat_name": "Biochemistry Analyzer"
+    }
+  ]
+}

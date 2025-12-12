@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670264696",
+  "gluser_id": "87488914",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666092",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nCustomer: Haan ji.\\n\\nExecutive: Sir, Awaz baat kar raha tha IndiaMART se.\\n\\nCustomer: Haan ji.\\n\\nExecutive: Ye maine aapko video meet ki link share kari hai.\\n\\nCustomer: Check kariye.\\n\\nExecutive: Yes sir.\\n\\nExecutive: Aapka t-shirt aaya tha na video meet ke liye?\\n\\nCustomer: [unintelligible]\\n\\nExecutive: [unintelligible] Agarwal 9271@gmail.com.\\n\\nCustomer: Mail receive hua sir aapko?\\n\\nExecutive: Nahi, ye sundar hai.\\n\\nCustomer: Sir, ho to gaya.\\n\\nCustomer: Hello.\\n\\nExecutive: Ji boliye.\\n\\nCustomer: Sir, ye whatsapp pe, message pe, mail pe, in total nahi ho pa raha hai.\\n\\nExecutive: Haan, mail pe.\\n\\nCustomer: Whatsapp me mujhe ek baar hi likhiye mere wale number pe.\\n\\nExecutive: Yes sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to access link on WhatsApp/mail.\\n\n\\n\nResolution:\\n\n- Executive asked customer to send 'Hi' on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, link, whatsapp, mail\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 301,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bff3e5ab-dd2d-4b86-b35d-3a8c40e16a9a",
+  "ucid": "bff3e5ab-dd2d-4b86-b35d-3a8c40e16a9a",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    },
+    {
+      "mcat_id": "146230",
+      "mcat_name": "Pickle Jars"
+    }
+  ]
+}

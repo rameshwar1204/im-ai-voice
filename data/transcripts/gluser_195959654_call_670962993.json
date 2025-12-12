@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670962993",
+  "gluser_id": "195959654",
+  "vintage_months": 19,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Deoband",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hi, if you rec sir, your name and reason for calling, I'll see if this person is available.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji aawaz aa rahi hai aapko?\\nExecutive: Haan ji, haan ji aa rahi hai sir, aa rahi hai.\\nCustomer: Aa rahi hai sir, aa rahi hai, ji bataiye.\\nCustomer: Mere ko ek cheez chahiye thi IndiaMART se.\\nExecutive: Ji.\\nCustomer: Power pack, ye power pack chahiye tha hydraulic power pack chahiye tha.\\nExecutive: Theek hai.\\nCustomer: To uske number chahiye the mere ko.\\nExecutive: To sir aap ek kaam kariye na, aap system ke samne hai?\\nCustomer: Nahi, system nahi hai, main phone pe hu.\\nExecutive: Phone pe hai, to aap phone pe na, ek buyer tools karke option aayega, left side mein jo three lines aa rahi hai na sir?\\nCustomer: Haan sir, haan sir aa raha hai, baki jo jo.\\nExecutive: Haan buyer tools mein jaake post your requirement ka option aayega, post your requirement.\\nCustomer: Hello, hello ji.\\nExecutive: Dikha sir aapko? Buyer tools post your requirement.\\nCustomer: Post your requirement pe click karke aap sabse pehle product ka naam daliye, kitna quantity hai kar dijiye aur aapka requirement post ho jayega aur automatically aapko supplier contact kar lenge.\\nCustomer: Medium size.\\nExecutive: Theek hai sir, in case kuch issue rahe to mujhe call kar lijiyega.\\nCustomer: Thank you sir.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs hydraulic power pack details.\\n\n\\n\nResolution:\\n\n- Executive guided to post requirement via buyer tools.\\n\n\\n\nNext Steps: \\n\n- Customer can call if any issue arises.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- hydraulic power pack, buyer tools, post requirement\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=829a21a7-d1f7-4efc-93c8-e0a8b6f2272c",
+  "ucid": "829a21a7-d1f7-4efc-93c8-e0a8b6f2272c",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "32949",
+      "mcat_name": "Nylon Rods"
+    },
+    {
+      "mcat_id": "95082",
+      "mcat_name": "Nylon Roller"
+    },
+    {
+      "mcat_id": "146543",
+      "mcat_name": "Conveyor Belt Joints"
+    },
+    {
+      "mcat_id": "150766",
+      "mcat_name": "Drum Pulley"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675649894",
+  "gluser_id": "155026144",
+  "vintage_months": 33,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello ha ji bataiye\\nExecutive: Good evening mam main India mart se baat kar rahi h\\nCustomer: Ji madam\\nExecutive: Mam aapki na ek ticket open hui hai India mart par feedback ko lekar ye negative feedback aapka aaya aur aapne update bhi kiya hai ki aapne ye by mistake diya hai\\nCustomer: Ji\\nExecutive: Ji main yahi confirm kar rahi thi jo service aapke India mart se ja rahi hai usme service ko lekar koi problem to nahi face kar rahe ho na aap abhi\\nCustomer: Nahi abhi koi problem to nahi hai\\nExecutive: Thik hai aur mam ye jo service aapki chal rahi hai jo direct calls aapke pass aa rahe hai na calls aap kafi jyada miss kar rahe ho almost 50% calls aap miss kar rahe ho\\nCustomer: Jaise ki suniye hota hai main bata rahi hu jaise jo call aa rahi hai na kuch gorakhpur ki nahi aa rahi hai mam baki hai jaise mujhe gorakhpur ka chahiye na gorakhpur ka nahi aa raha hai\\nExecutive: Mam aapka jo profile hai na ye sirf gorakhpur me show nahi karta ye aapke all over india me aur up me pura show karta hai thik hai na kyuki b to b platform hai ye to online customer agar aapke product ke bare me search kar raha hai usko aapka waha se directly aapki profile visible ho raha hai to wo call kar raha hai aap customer se connect karke agar aap waha pe delivery kar sakte ho aap customer se connect karo kyuki agar aap yaha pe call miss karoge na to aapki calls drop ho jayengi jaise aap dekhoge last 30 days me aapke pass 33 direct call gayi thi par abhi jo last seven days me aapke pass calls aayi hai na sirf 10 call aayi hai\\nCustomer: Ji\\nExecutive: Aur last 70 din me aapke pass 117 call gayi thi to wo aap hi ki visibility pe impact karega aapke pass direct call kam hoti jayengi\\nCustomer: Achcha thik hai mam main ispe aur direct call se mam sabse achcha response aata hai baki main ticket close kar du abhi ye\\nExecutive: Main jaise ki aap ha ha mam bataiye\\nExecutive: Main ye keh rahi thi ye jo hamare pass na for ticket open hua tha feedback ki wajah se to main ye ticket close kar deti hu aapke pass dobara feedback aayega to aap usko yes kar dijiyega thik hai\\nCustomer: Okay okay mam okay thank you\\nExecutive: Okay thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received negative feedback ticket by mistake.\\n\n- Customer is missing many direct calls.\\n\n- Customer is not receiving calls from Gorakhpur.\\n\n\\n\nResolution:\\n\n- Executive confirmed the feedback was a mistake.\\n\n- Executive explained profile visibility across India.\\n\n- Executive advised to connect with customers.\\n\n- Executive offered to close the feedback ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will close the feedback ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, direct calls, profile visibility\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=04ea8499-d20e-464b-bc47-ce7a314e0486",
+  "ucid": "04ea8499-d20e-464b-bc47-ce7a314e0486",
+  "seller_categories": [
+    {
+      "mcat_id": "183235",
+      "mcat_name": "E-Rickshaw Loader"
+    },
+    {
+      "mcat_id": "151173",
+      "mcat_name": "Battery Operated Rickshaw"
+    },
+    {
+      "mcat_id": "145630",
+      "mcat_name": "Electric Rickshaw Three Wheeler"
+    },
+    {
+      "mcat_id": "445384",
+      "mcat_name": "Electric Auto Rickshaw"
+    },
+    {
+      "mcat_id": "215070",
+      "mcat_name": "Mayuri Electric Rickshaw"
+    }
+  ]
+}

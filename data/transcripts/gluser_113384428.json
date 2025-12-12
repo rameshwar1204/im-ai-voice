@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674005891",
+  "gluser_id": "113384428",
+  "vintage_months": 9,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Madhawgdha",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682629",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nHelllo?\\nExecutive: Hanji?\\nCustomer: Han sir kaun aaya tha aapka?\\nExecutive: Kya baat kar rahe ho?\\nCustomer: Han IndiaMART se baat kar rahe ho?\\nExecutive: Han.\\nCustomer: IndiaMART se baat kar rahe the.\\nExecutive: Hello?\\nCustomer: Han sir bataiye na.\\nExecutive: Han sir jo aapka discussion hua tha na mera.\\nCustomer: Han Geeta Enterprise ke naam se hua tha.\\nExecutive: Ji.\\nExecutive: To aapka wapas se wo hamare paas feedback aaya tha na.\\nCustomer: Refund ke liye na sir aapke yahan se refund aaya.\\nExecutive: Refund ke liye kya hai?\\nCustomer: Refund ke liye aapne kiya tha sir.\\nExecutive: But maine aap apne senior se aapki baat karayi thi na last mein.\\nCustomer: Sir aapke paas jab koi resolution hi nahi hai to aap baat kara ke kya karoge?\\nExecutive: To resolution hai aap karenge business ke sath.\\nCustomer: Hum aapko teen din se connect karne ki koshish kar rahe hain.\\nCustomer: Connect ho gaya na sir?\\nConnect to main aapse kafi time se karne ki koshish kar raha hun lekin aapne refund abhi tak nahi kiya na abhi tak.\\nExecutive: Sir refund approve nahi ho raha to abhi.\\nCustomer: Refund approve kyun nahi ho raha sir mis-selling aapne ki hai aapki problem resolution kariye.\\nExecutive: Ji?\\nCustomer: Mis-selling aapne ki hai to aapki problem resolution kariye.\\nAapne kaha tha ki sir refund ho jayega, theek hai?\\nExecutive: Nahi.\\nCustomer: Nahi aapne kaha tha refund ho jayega.\\nExecutive: Maine ye baat mention hi nahi kari thi sir.\\nCustomer: Sir aapne kaha tha mere paas aapki team se aaya tha ki sir aapka refund ho jayega.\\nExecutive: Theek hai.\\nCustomer: Aap refund kariye apne paise kis liye?\\nExecutive: Ye ye aapke usne kaha tha jisne aapko services di thi.\\nCustomer: Han.\\nExecutive: Main servicing team se baat kar raha hun sir.\\nCustomer: Sir aapse hi baat hui thi pehle bhi last pehle bhi pehle bhi aapke yahan se kaha gaya tha mis-selling bhi kaha gaya tha.\\nExecutive: Sir hamare yahan se kisi ne aapko ye nahi kaha ki refund ho jayega aapka but problem jo aapki hai wo valuable hum acknowledge to kar rahe hain usko aap us us level pe aap use bhi kar rahe ho services buyleads ki aap use kar rahe ho aap refund bhi mang rahe ho aur baki ki services bhi use nahi kar rahe.\\nCustomer: Buyleads aap mere se le lo na main sirf aapko buyleads aapke yahan se mere ko ek rupaye ka dhandha nahi mila kya karunga main aapke 35000 aapne rupaye liye hain kis kis liye sir 11 mahine ki service aap kis liye liye hain sir aap bataiye na mere ko ek bar bhi itne customer dene ke liye aapne kiya nahi hua aapke yahan se customer aapke jo\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received a refund yet.\\n\n- Mis-selling was done by the company.\\n\n\\n\nResolution:\\n\n- Executive stated refund is not approved yet.\\n\n- Executive said customer is using buyleads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, mis-selling, services\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 183,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2c958b4e-d397-4608-83ef-1408761e357c",
+  "ucid": "2c958b4e-d397-4608-83ef-1408761e357c",
+  "seller_categories": [
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "442996",
+      "mcat_name": "LCD Writing Tablet"
+    },
+    {
+      "mcat_id": "25982",
+      "mcat_name": "Tamper Proof Courier Bags"
+    },
+    {
+      "mcat_id": "182619",
+      "mcat_name": "Live Earthworms for composting"
+    },
+    {
+      "mcat_id": "446297",
+      "mcat_name": "Temperature Water Bottle"
+    }
+  ]
+}

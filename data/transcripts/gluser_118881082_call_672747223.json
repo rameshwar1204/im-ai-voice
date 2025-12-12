@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672747223",
+  "gluser_id": "118881082",
+  "vintage_months": 29,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690150",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Hello.\\nCustomer: Hello. Good morning, Parvez bol raha hu India Mart se account manager aapke Mart Techno Plus ke regarding.\\nCustomer: Sir, main abhi on way pe hu traffic mein.\\nExecutive: Achha achha.\\nExecutive: Theek hai sir, main aapko baad mein karta hu sir aapko. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently in traffic.\\n\n\\n\nResolution:\\n\n- Executive will call the customer later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call the customer later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia mart, account manager, traffic\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=79b648ba-39af-4235-bfd6-1d64a05cea1f",
+  "ucid": "79b648ba-39af-4235-bfd6-1d64a05cea1f",
+  "seller_categories": [
+    {
+      "mcat_id": "84889",
+      "mcat_name": "Cast Iron Grill"
+    },
+    {
+      "mcat_id": "106967",
+      "mcat_name": "Cast Iron Railing"
+    },
+    {
+      "mcat_id": "102080",
+      "mcat_name": "Cast Iron Stairs"
+    },
+    {
+      "mcat_id": "184721",
+      "mcat_name": "Cast Iron Gate"
+    },
+    {
+      "mcat_id": "85142",
+      "mcat_name": "Cast Iron Ornament"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668050103",
+  "gluser_id": "82101709",
+  "vintage_months": 10,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Tirur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640266",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nCustomer: Hello.\\n\\nExecutive: Hello. Hello. Ha.\\n\\nExecutive: Aap BS Specialist se baat kar rahe hain, Srijesh ji?\\n\\nCustomer: Ha.\\n\\nExecutive: Sir aap Tanu baat kar rahi hu, good afternoon IndiaMART se account manager aapki. I am in a meeting.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to speak with the customer.\\n\n\\n\nResolution:\\n\n- Executive introduced herself as IndiaMART account manager.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, account manager\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3833a9db-86dd-489f-91e3-8cdb7bf48e95",
+  "ucid": "3833a9db-86dd-489f-91e3-8cdb7bf48e95",
+  "seller_categories": [
+    {
+      "mcat_id": "257861",
+      "mcat_name": "Mephentermine Sulphate Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "137953",
+      "mcat_name": "Erythropoietin Injection"
+    },
+    {
+      "mcat_id": "225029",
+      "mcat_name": "Renocrit Injection"
+    },
+    {
+      "mcat_id": "161859",
+      "mcat_name": "Enoxaparin Injection"
+    }
+  ]
+}

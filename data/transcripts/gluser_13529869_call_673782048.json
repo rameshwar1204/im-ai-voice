@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673782048",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nCustomer: Dhai baje call karo dhai baje.\\nExecutive: Hello.\\nCustomer: Dhai baje dhai baje call kariye.\\nExecutive: Theek hai sir. Dhai baje bhi karta hu. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call at 2:30.\\n\n\\n\nResolution:\\n\n- Agreed to call at 2:30.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall time\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fb32738f-fa5a-4591-8e07-4cc611cefc28",
+  "ucid": "fb32738f-fa5a-4591-8e07-4cc611cefc28",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

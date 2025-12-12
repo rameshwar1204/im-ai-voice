@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674603907",
+  "gluser_id": "102080408",
+  "vintage_months": 68,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Silvassa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHmm.\\nUh, good afternoon sir. Mere pass Sakshi ji se ho sakti hai? Main Ashraf baat kar raha tha India Mart se.\\nHello.\\nSir, woh abhi lunch pe gayi hai. Aadhe ghante mein phone karegi.\\nAchha achha. Haan haan, sure sure sure. Karta hoon main.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to speak with Sakshi.\\n\n\\n\nResolution:\\n\n- Sakshi is at lunch and will call back in half an hour.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Will call again later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, lunch\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=915e759f-96d1-423e-b673-5689819d59f6",
+  "ucid": "915e759f-96d1-423e-b673-5689819d59f6",
+  "seller_categories": [
+    {
+      "mcat_id": "78132",
+      "mcat_name": "Forklift Parts"
+    },
+    {
+      "mcat_id": "95543",
+      "mcat_name": "LED Beacon"
+    },
+    {
+      "mcat_id": "185459",
+      "mcat_name": "Forklift Hydraulic Pump"
+    },
+    {
+      "mcat_id": "191438",
+      "mcat_name": "Forklift Battery Connectors"
+    },
+    {
+      "mcat_id": "155367",
+      "mcat_name": "Forklift Brake Parts"
+    }
+  ]
+}

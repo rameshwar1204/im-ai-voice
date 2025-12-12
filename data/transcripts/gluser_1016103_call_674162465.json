@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674162465",
+  "gluser_id": "1016103",
+  "vintage_months": 211,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Amritsar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701962",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: \u0939\u0947\u0932\u094b \u0939\u0947\u0932\u094b\\n\\n\u0939\u0947\u0932\u094b\\nExecutive: \u0939\u093e\u0902 \u0917\u0941\u0921 \u0906\u092b\u094d\u091f\u0930\u0928\u0942\u0928 \u0915\u0936\u093f\u0936 \u092c\u094b\u0932 \u0930\u0939\u0940 \u0939\u0942\u0902\\nCustomer: \u0939\u093e\u0902 \u092e\u0948\u092e \u092e\u0948\u0902 \u0936\u093e\u0930\u0926\u093e \u092c\u094b\u0932 \u0930\u0939\u0940 \u0939\u0942\u0902 \u0915\u0936\u093f\u0936 \u0915\u0940 \u092e\u0948\u0928\u0947\u091c\u0930\\nExecutive: \u0939\u093e\u0902 \u092e\u0948\u0902 \u0936\u093e\u0930\u0926\u093e \u092c\u094b\u0932 \u0930\u0939\u0940 \u0939\u0942\u0902 \u0915\u0936\u093f\u0936 \u0915\u0940 \u092e\u0948\u0928\u0947\u091c\u0930 \u0939\u0942\u0902\\nCustomer: \u0939\u093e\u0902 \u0939\u093e\u0902 \u092e\u0948\u092e \u092e\u0948\u0902 \u0915\u0936\u093f\u0936 \u0915\u0940 \u092e\u0948\u0928\u0947\u091c\u0930 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0942\u0902 \u0906\u091c \u0911\u092b\u093f\u0938 \u0915\u094d\u0932\u094b\u091c \u0939\u0948 \u092e\u0948\u092e\\n\u092e\u0948\u0902 \u0915\u0936\u093f\u0936 \u0915\u094b \u092c\u094b\u0932\u0924\u0940 \u0939\u0942\u0902 \u0906\u092a\u0915\u094b \u0915\u0949\u0932 \u0915\u0930 \u0932\u0947\u0902\u0917\u0947 \u0920\u0940\u0915 \u0939\u0948 \u092e\u0948\u092e\\n",
+  "summary": "\\n\nConcerns:\\n\n- Office is closed today.\\n\n- Request for Kashish to call back.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Kashish will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\noffice closure, call back\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d36359a5-8a65-47e1-8835-821dd159a60b",
+  "ucid": "d36359a5-8a65-47e1-8835-821dd159a60b",
+  "seller_categories": [
+    {
+      "mcat_id": "148982",
+      "mcat_name": "Wood Cutting Blade"
+    },
+    {
+      "mcat_id": "68518",
+      "mcat_name": "TCT Saw Blade"
+    },
+    {
+      "mcat_id": "39129",
+      "mcat_name": "Surface Grinding Machine"
+    },
+    {
+      "mcat_id": "33955",
+      "mcat_name": "Industrial Paper Cutting Blade"
+    },
+    {
+      "mcat_id": "24922",
+      "mcat_name": "Circular Saw Blades"
+    }
+  ]
+}

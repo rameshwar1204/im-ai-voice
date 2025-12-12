@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669266881",
+  "gluser_id": "130374449",
+  "vintage_months": 18,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello?\\nHello.\\nHello.\\nHaan.\\nHaan good morning sir.\\nBolo hello.\\nBolo bolo.\\nIndia Mart se Vikas ji baat kar rahe hain.\\nHan madam bolo.\\nJi actually sir aapko services regarding maine connect kiya koi issue ho to bataiye kyunki aapko. \\nAre yaar bahut issue hai aapko har din bata raha hu main wahi problem hai ek hi din se bata raha hu to aap mahine ke liye call kar dete sirf aapki formality puri kar dete.\\nApke manager se bolo baat karne ke liye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Issue with services; same problem for a month.\\n\n- Wants to speak to the manager.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- services, issue, manager, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c779e3f-b535-496a-9b84-0ef2cf21847a",
+  "ucid": "7c779e3f-b535-496a-9b84-0ef2cf21847a",
+  "seller_categories": [
+    {
+      "mcat_id": "87382",
+      "mcat_name": "Hexagon Socket Head Cap Screw"
+    },
+    {
+      "mcat_id": "25976",
+      "mcat_name": "Countersunk Bolts"
+    },
+    {
+      "mcat_id": "182802",
+      "mcat_name": "Hex Nylock Nut"
+    },
+    {
+      "mcat_id": "32261",
+      "mcat_name": "Machine Washers"
+    },
+    {
+      "mcat_id": "194527",
+      "mcat_name": "Unbrako Screws"
+    }
+  ]
+}

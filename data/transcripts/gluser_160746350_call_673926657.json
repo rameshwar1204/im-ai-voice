@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673926657",
+  "gluser_id": "160746350",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699624",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nExecutive: Hello. Suraj Kidhan ji baat kar rahe hain sir? Haanji Suraj ji baat kar rahe hain sir, Supreme Tour and Travel?\\nCustomer: Yes sir.\\nExecutive: Anurag baat kar raha tha main senior manager Indiamart.com se. Sir aapne call kiya tha 9696 customer care pe?\\nCustomer: Sir actually [inaudible]\\nCustomer: Hello?\\nExecutive: Yes sir, please sir. Sir my signal was not good I call you back give me a small time.\\nExecutive: Okay sir you can call on the same number sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called customer care.\\n\n- Executive's signal was not good.\\n\n\\n\nResolution:\\n\n- Executive will call back after some time.\\n\n\\n\nNext Steps: \\n\n- Customer will call back on the same number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, signal issue, callback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b4047387-eb3b-4cbf-a408-3d5870bdb8b0",
+  "ucid": "b4047387-eb3b-4cbf-a408-3d5870bdb8b0",
+  "seller_categories": [
+    {
+      "mcat_id": "23388",
+      "mcat_name": "Car Rental"
+    },
+    {
+      "mcat_id": "217147",
+      "mcat_name": "Corporate Taxi Services"
+    },
+    {
+      "mcat_id": "651677",
+      "mcat_name": "Jeep Rental"
+    },
+    {
+      "mcat_id": "209084",
+      "mcat_name": "Tata Safari Rental"
+    },
+    {
+      "mcat_id": "653559",
+      "mcat_name": "Mahindra Bolero Car Rental"
+    }
+  ]
+}

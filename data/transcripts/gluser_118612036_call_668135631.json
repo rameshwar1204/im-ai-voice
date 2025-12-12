@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668135631",
+  "gluser_id": "118612036",
+  "vintage_months": 14,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jabalpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639776",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nBatao bhaiya.\\nHello?\\nHan bhaiya aapko share kar raha hu mai link aap aa jayenge join kar lijiye.\\nHao hao, bhejiye.\\nThik hai sir mai aapko is number pe bhi whatsapp kar raha hu wohi link, thik hai sir.\\nHan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the link to join.\\n\n\\n\nResolution:\\n\n- Executive shared the link with the customer.\\n\n- Executive will share the link on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, whatsapp, join\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7135ff12-d786-443c-b9a2-fe503a54e74d",
+  "ucid": "7135ff12-d786-443c-b9a2-fe503a54e74d",
+  "seller_categories": [
+    {
+      "mcat_id": "7635",
+      "mcat_name": "Soil Conditioner"
+    },
+    {
+      "mcat_id": "139254",
+      "mcat_name": "Clay Brick Making Machine"
+    },
+    {
+      "mcat_id": "140259",
+      "mcat_name": "Clay Modifier"
+    },
+    {
+      "mcat_id": "25000",
+      "mcat_name": "Clay Mixers"
+    },
+    {
+      "mcat_id": "44158",
+      "mcat_name": "Chemical Hardener"
+    }
+  ]
+}

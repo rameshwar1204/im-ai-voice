@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667157010",
+  "gluser_id": "283627",
+  "vintage_months": 104,
+  "bl_dau_oct": 2,
+  "customer_type": "STAR",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636610",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir bataye.\\nExecutive: Haan ji sir good morning.\\nCustomer: Good morning, bataiye.\\nExecutive: Bol raha hu hai kya online.\\nExecutive: Haan ji.\\nCustomer: Haan haan. Mai online hu koi dikkat. Haan haan.\\nExecutive: Ek minute.\\n\\nExecutive: Sir link bheja join karenge toh aapko whatsapp pe kiya hai.\\nCustomer: Ji.\\n\\n\\nExecutive: Kariye rahe sir.\\nCustomer: Hello.\\nExecutive: Laptop pe thoda aawaz ja rahi hai sir.\\nCustomer: Mai connect matlab mai connect kar chuka hu apne side se aap accept daliye na.\\nExecutive: Ji.\\nCustomer: Aawaz ja rahi hai kya meri laptop ke side se?\\nExecutive: Haan toh voice call cut karu?\\nCustomer: Haan matlab aawaz ja rahi hai na meri?\\nExecutive: Haan aa rahi hai mujhe.\\nCustomer: Ek minute. Aapka side mute pe hai.\\nCustomer: Nahi toh call cut karna padega na phir mujhe.\\nExecutive: Wait. Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir aap mute pe ho shayad ek baar aap boliyega toh whatsapp ke through. Sorry laptop ke through.\\nCustomer: Laptop ke through connect kar raha hu ek minute ruko.\\n\\nCustomer: Hello.\\nExecutive: Haan ji sir abhi aawaz aa rahi hai. Theek hai mai phone\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is trying to connect via laptop.\\n\nResolution:\\n\n- Executive sent a link on WhatsApp to connect.\\n- Executive confirmed voice is coming through laptop.\\n\nNext Steps: \\n\n- Executive will call on phone.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- connection, laptop, whatsapp, voice\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 216,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e928fd65-8e33-4a5f-a0d1-ab8d06c2139c",
+  "ucid": "e928fd65-8e33-4a5f-a0d1-ab8d06c2139c",
+  "seller_categories": [
+    {
+      "mcat_id": "154704",
+      "mcat_name": "Compressor Nebulizer"
+    },
+    {
+      "mcat_id": "1149",
+      "mcat_name": "Surgical Gloves"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "23497",
+      "mcat_name": "Blood Pressure Machine"
+    },
+    {
+      "mcat_id": "2836",
+      "mcat_name": "Surgical Dressing"
+    }
+  ]
+}

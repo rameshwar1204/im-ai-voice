@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666999795",
+  "gluser_id": "54813913",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangrur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nCustomer: Haanji ma'am, GR Fabric se bol raha hoon.\\nExecutive: Achha sir, main paanch minute mein call back kar rahi hoon aapko.\\nExecutive: Sir, ek minute call pe rahiyega. Main paanch minute mein GR sir call karti hoon abhi aapko.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Customer identified himself and his company.\\n\\nResolution:\\n\\n- Informed the customer about a callback in five minutes.\\n\\nNext Steps: \\n- Executive will call the customer back in five minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8f745e24-ee80-4fb9-ab3f-0e3a4e062a93",
+  "ucid": "8f745e24-ee80-4fb9-ab3f-0e3a4e062a93",
+  "seller_categories": [
+    {
+      "mcat_id": "34915",
+      "mcat_name": "PVC Solvent Cement"
+    },
+    {
+      "mcat_id": "138334",
+      "mcat_name": "CPVC Cement"
+    },
+    {
+      "mcat_id": "11332",
+      "mcat_name": "Lamination Adhesive"
+    },
+    {
+      "mcat_id": "37381",
+      "mcat_name": "Solvent Cements"
+    },
+    {
+      "mcat_id": "446247",
+      "mcat_name": "Solvent Cement Tin Can"
+    }
+  ]
+}

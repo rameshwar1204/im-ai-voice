@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675351404",
+  "gluser_id": "191475859",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? Hello? Haan ji?\\nExecutive: Haan ji sir, Madhiya bol rahi hu India Mart head office se.\\nCustomer: Haan ji boliye madam.\\nExecutive: Sir kal maine aapko backend team se call karai thi toh aapne aaj unhe 10:30 ke baad ka time diya tha, hai na?\\nCustomer: Haan ji.\\nExecutive: Toh phir aapki baat hui kisi se?\\nCustomer: Nahi, abhi nahi hui.\\nExecutive: Main bolu unko aapko call karne ke liye? Aap free hai abhi?\\nCustomer: Haan ji, haan ji.\\nExecutive: Ah, theek hai, main unko bolti hu aapko connect karenge, theek hai?\\nCustomer: Haan.\\nExecutive: Aap unka call receive kar lijiyega.\\nCustomer: Ji.",
+  "summary": "\\n\nConcerns:\\n\n- Whether the customer received a call from the backend team.\\n\n\\n\nResolution:\\n\n- The executive offered to have the backend team call the customer.\\n\n\\n\nNext Steps: \\n\n- The executive will ask the backend team to connect with the customer, and the customer will receive the call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nbackend team, call\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b962edc-d81c-44dc-8ec1-f2a4fa839ea7",
+  "ucid": "7b962edc-d81c-44dc-8ec1-f2a4fa839ea7",
+  "seller_categories": [
+    {
+      "mcat_id": "134125",
+      "mcat_name": "Xanthan Gum"
+    },
+    {
+      "mcat_id": "44668",
+      "mcat_name": "Caramel Color"
+    },
+    {
+      "mcat_id": "167106",
+      "mcat_name": "Modified Starch"
+    },
+    {
+      "mcat_id": "111358",
+      "mcat_name": "Soya Lecithin"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    }
+  ]
+}

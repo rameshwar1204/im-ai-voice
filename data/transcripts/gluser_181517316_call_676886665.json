@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676886665",
+  "gluser_id": "181517316",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Tanuku",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan Aadarsh ji aapko mail kiya gaya tha aapne kya cancel kiya?\\nCustomer: Haan sir maine wo cancel cancel check jo aapka hai na wo aage forward kar diya hai. Jo hamari team hai rukiye main aapko padh ke batata hu maine kya kiya hai pura aapka so that aapko clear pata rahe.\\nExecutive: Refund team ki taraf se fir mail aaya hai ki cancel check.\\nCustomer: Haan refund refund help desk ko maine mail kiya hai ki jo hai aapki taraf se fir dobara 10 baje 11 baje fir mail aaya 11 baje mail aaya hai fir.\\nExecutive: Haan. To unhone kya kaha?\\nCustomer: Fir wahi same mail bheja hai there is refund due to your INR 14755 from IndiaMART to process the same please help in providing image of cancel check ya passbook of your.\\nCustomer: Cancel check dekhiye maine yaha pe aapne jo bheja tha yaha pe maine likha hai refund help desk please find attached cancel check provided by the client please confirm once the refund has been initiated. Wo Aadarsh Jaiswal aur attach kar diya aapka cancel check theek hai. Iske baad mujhe ispe abhi reply aaya nahi hai waise.\\nExecutive: Accha.\\nCustomer: Haan. Theek hai to hum log fir help desk wale ko refund help desk wale ko bhi mail kar diya same cheeze.\\nExecutive: Mail kar mail kar do ki maine jo hai executive ko ya jo hamare account manager hai unko cancel check provide kara diya hai. Wo sari cheeze aap kar do.\\nCustomer: Theek hai sir.\\nExecutive: Theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund.\\n\n\\n\nResolution:\\n\n- Customer forwarded the cancelled check to refund helpdesk.\\n- Executive asked the customer to mail executive about cancelled check.\\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, cancelled check, mail\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e1aec108-6e59-422c-8c8c-5f5bc85ecbee",
+  "ucid": "e1aec108-6e59-422c-8c8c-5f5bc85ecbee",
+  "seller_categories": [
+    {
+      "mcat_id": "167982",
+      "mcat_name": "Unsecured Personal Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "170840",
+      "mcat_name": "Small Business Loans"
+    },
+    {
+      "mcat_id": "29446",
+      "mcat_name": "Home Loan"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677019091",
+  "gluser_id": "184764163",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720551",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nExecutive: Hello?\\nExecutive: Uh sir, aapki na mujhe aawaz nahi aa rahi hai sir bilkul bhi sir. Hello?\\nExecutive: Hello?\\nExecutive: Hello?\\nExecutive: Hello?\\nExecutive: Uh sir, mai aapko call back karu?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to hear the customer.\\n\n\\n\nResolution:\\n\n- Offered to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall connection, audio issue\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=96e9c4fa-d8de-48aa-8dfc-4f93baff6457",
+  "ucid": "96e9c4fa-d8de-48aa-8dfc-4f93baff6457",
+  "seller_categories": [
+    {
+      "mcat_id": "658652",
+      "mcat_name": "Eroxon Stimgel"
+    },
+    {
+      "mcat_id": "445917",
+      "mcat_name": "Erectile Dysfunction injection"
+    },
+    {
+      "mcat_id": "444742",
+      "mcat_name": "Erectile Dysfunction Medicine"
+    },
+    {
+      "mcat_id": "650202",
+      "mcat_name": "Personal Vibrators and Massagers for Women"
+    },
+    {
+      "mcat_id": "446198",
+      "mcat_name": "Phentolamine Injection"
+    }
+  ]
+}

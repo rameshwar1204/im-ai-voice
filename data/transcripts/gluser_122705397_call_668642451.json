@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668642451",
+  "gluser_id": "122705397",
+  "vintage_months": 57,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Gopalganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647310",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji, Manish sir, good afternoon.\\nCustomer: Good afternoon, sir.\\nExecutive: Rishabh baat kar raha hu sir, IndiaMART se aapka account mein.\\nCustomer: Haan, sir ji, good afternoon. Sir, woh ho gaya. Actually, humne payment kar diya tha, theek hai?\\nExecutive: Okay.\\nCustomer: Aur woh call, call receive nahi kar rahe the, nahi reply kar rahe the. Toh main kaha tha ki IndiaMART se hi humne unka contact liya, toh ek baar IndiaMART se hi call kar le. Toh directly customer care ka number de diya, isiliye main call kar liya. Baaki ho gaya unse baat, woh payment aaj material bhej denge. Kal bhej denge, isiliye main call kar liya tha. Haan, haan.\\nExecutive: Samajh gaya sir. Koi issue nahi tha. Waise main mail hi karwane wala tha legal team se. Maine bola ek baar baat karu. Main period se aapke liye laga hua tha. Maine udhar bhi kara tha Mumbai wale company ke liye.\\nCustomer: Haan, haan. Abhi kuch nahi karna hai, koi dikkat nahi hai. Haan.\\nExecutive: Koi baat nahi sir. Aapke paas na phir matlab kyuki aapne na customer care pe call kara tha na, toh concern raise ho gaya tha wohi buyer supplier wala.\\nCustomer: Haan.\\nExecutive: Toh main yaha se close dal de raha hu sir. Aapke paas ek feedback aayega mere liye sir. Toh please usme apna valuable feedback dijiyega ki meri baat.\\nCustomer: Theek hai sir. Yeh mail pe, mail pe aayega kya? Mere mail pe aayega kya?\\nExecutive: Haan, aapke registered mail pe aata hai sir.\\nCustomer: Theek hai, theek hai. Dekhta hu main kara deta hu. Ji, theek hai.\\nExecutive: Bilkul sir, okay. Thank you for your time.\\nCustomer: Theek, theek, theek hai. Thank you sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment made, supplier not responding earlier.\\n\n- Called customer care, concern raised.\\n\n\\n\nResolution:\\n\n- Supplier will send material today/tomorrow.\\n\n- Executive will close the raised concern.\\n\n- Executive requested valuable feedback.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- payment, feedback, supplier, customer care\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7dddb809-463a-4030-a3d5-c03017615c2c",
+  "ucid": "7dddb809-463a-4030-a3d5-c03017615c2c",
+  "seller_categories": [
+    {
+      "mcat_id": "41048",
+      "mcat_name": "Water Leak Detectors"
+    },
+    {
+      "mcat_id": "40479",
+      "mcat_name": "Ultrasonic Flaw Detectors"
+    },
+    {
+      "mcat_id": "182672",
+      "mcat_name": "Hart Communicators"
+    },
+    {
+      "mcat_id": "176582",
+      "mcat_name": "Rebar Detection System"
+    },
+    {
+      "mcat_id": "164224",
+      "mcat_name": "Rebound Hammer"
+    }
+  ]
+}

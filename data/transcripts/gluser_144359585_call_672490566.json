@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672490566",
+  "gluser_id": "144359585",
+  "vintage_months": 41,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Chitradurga",
+  "iil_vertical_name": "CSD",
+  "customer_ticket_id": "9686427",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3ba84f3d-4667-4748-8274-a3d4a959c57d",
+  "ucid": "3ba84f3d-4667-4748-8274-a3d4a959c57d",
+  "seller_categories": [
+    {
+      "mcat_id": "187904",
+      "mcat_name": "Arecanut Plant"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "118493",
+      "mcat_name": "Banana Tissue Culture Plants"
+    },
+    {
+      "mcat_id": "122614",
+      "mcat_name": "Banana Plant"
+    },
+    {
+      "mcat_id": "122251",
+      "mcat_name": "Farming Consultants"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673026994",
+  "gluser_id": "135162620",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Gautam Buddha Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682799",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir dekha aapne?\\nCustomer: Maine tabhi dekha tha is time pe.\\nExecutive: By lead wala IndiaMART se baat kar raha hu main.\\nCustomer: Nahi nahi kisi ne nahi khaya hai, kisi ne by lead consume nahi kari hai aur woh jo aapke sath woh upar woh hai woh aise waise bhi hai woh acha hai, yeh koi change nahi hai.\\nExecutive: By lead kisne consume kiya?\\nCustomer: Nahi.\\nExecutive: Aapne try kiya consume karne ki koshish ki?\\nCustomer: Nahi kuch nahi ho raha hai abhi wohi sahi hai block hai.\\nExecutive: Ek second ab aapka yahi number hai na WhatsApp pe?\\nCustomer: Mera bhi number hai.\\nExecutive: Ek second.\\nCustomer: Kisi bhi number le phone kiya hoga na.\\nExecutive: Number se kiya hoga.\\nCustomer: 81 wala number hai na aapka?\\nExecutive: Hmm 81.\\nExecutive: 92 wala?\\nCustomer: 8181.\\nExecutive: Dekho maine aapko WhatsApp kiya.\\nCustomer: Ek minute.\\nExecutive: Hmm ek WhatsApp aaya aapko.\\nExecutive: Yeh dekho screenshot diya aapko.\\nCustomer: Yeh hai.\\nCustomer: 18 hi toh aayi hai mere khayal se.\\nExecutive: 18 kal hi tha.\\nCustomer: Kis number se uthaya hai by lead? App se hi uthaya.\\nExecutive: Kis kis number se uthaya hoga? Yeh dekho phir bheja hai aapko. Woh nahi pata chalta.\\nCustomer: Theek hai phir sakte hai. Yeh toh marker se sir dikhai karte hai ki nahi dikhaya humne.\\nExecutive: Yeh dekho maine aapko. Uske baad main aapko screenshot bhej deta hu ruko ek minute ruko.\\nExecutive: Nahi usko refresh kar lijiye na matlab yeh keh raha hu ki consume kar paoge yeh main keh raha hu.\\nCustomer: Kaise refresh hoga batao na koi tarika batao refresh kaise hota hai isme.\\nExecutive: Aapne system se login kiya tha?\\nCustomer: Nahi maine computer se isse kar rakha hai mobile se.\\nExecutive: Ji?\\nCustomer: Ji bhai mobile se login kar rakha hai.\\nExecutive: Ek minute notification matlab mobile se hi consume hua hai sir aapka lead.\\nCustomer: Nahi dekho bhai abhi do din waise hi hai. Do din se mangwa deta hu aapke liye phone karke.\\nCustomer: Yeh dekho maine isse kar deta hu main piche yeh dusra number use kar raha hu usse bhi karwa deta hu aapko ek baar.\\nExecutive: Consume toh kiya hai kisne sir aapne kiya agar nahi kiya toh kisi aur. Isme isko ek baar scroll kijiye na aise scroll karke dekhiye. Hat jayega.\\nCustomer: Nahi ho raha hai kuch bhi nahi ho raha hai refresh nahi ho raha hai.\\nExecutive: Sir isme kuch dal nahi sakte kuch aur bhi apna.\\nCustomer: Hmm?\\nCustomer: Chaliye main dekhta hu kal dekhta hu phir kal karta hu.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says no buyleads have been consumed.\\n\n- Customer unable to refresh the buyleads.\\n\n\\n\nResolution:\\n\n- Executive sent a screenshot of the buylead.\\n\n- Executive asked customer to refresh the app.\\n\n\\n\nNext Steps: \\n\n- Customer will check again tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, consume, refresh, whatsapp\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 206,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=67fe905b-387d-4757-be47-f3839d83e36c",
+  "ucid": "67fe905b-387d-4757-be47-f3839d83e36c",
+  "seller_categories": [
+    {
+      "mcat_id": "106023",
+      "mcat_name": "Micro Concrete"
+    },
+    {
+      "mcat_id": "165817",
+      "mcat_name": "Structural Repair Services"
+    },
+    {
+      "mcat_id": "95058",
+      "mcat_name": "Carbon Fiber Sheet"
+    },
+    {
+      "mcat_id": "85081",
+      "mcat_name": "Retrofitting Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

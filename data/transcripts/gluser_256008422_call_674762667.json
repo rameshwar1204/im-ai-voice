@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674762667",
+  "gluser_id": "256008422",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Warangal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659537",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Yes sir.\\n\\nExecutive: One minute hello.\\n\\nCustomer: Yeah hello.\\n\\nExecutive: This is speaking from IndiaMART.\\n\\nCustomer: Yes yes please.\\n\\nExecutive: Madam regarding a call from registered.\\n\\nCustomer: Okay so what can we do?\\n\\nExecutive: Madam she said two weeks amount. Two weeks amount used the amount and rest of the amount you will get refund.\\n\\nCustomer: Yes.\\n\\nExecutive: Two weeks used amount she will deduct and remaining amount she will amount she will refund.\\n\\nCustomer: Yes yes sir told me.\\n\\nExecutive: Aur any other concern sir?\\n\\nCustomer: Hello madam actually it will take one week again.\\n\\nExecutive: Okay.\\n\\nCustomer: She said approximately one week it will take so how much amount it will get refund same as madam.\\n\\nExecutive: Yeah kindly confirm me tomorrow sir.\\n\\nCustomer: Okay fine.\\n\\nExecutive: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Refund amount and time confirmation.\\n\n- Wants to know the exact refund amount.\\n\n\\n\nResolution:\\n\n- Explained refund process and timeline.\\n\n- Asked to confirm the refund amount tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will confirm the refund amount tomorrow.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, amount, timeline\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b598a990-ba09-4d20-af80-4f6350a3afa3",
+  "ucid": "b598a990-ba09-4d20-af80-4f6350a3afa3",
+  "seller_categories": [
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "190906",
+      "mcat_name": "W180 Cashew Nuts"
+    },
+    {
+      "mcat_id": "183067",
+      "mcat_name": "Brown Basmati Rice"
+    },
+    {
+      "mcat_id": "26940",
+      "mcat_name": "Dry Figs"
+    }
+  ]
+}

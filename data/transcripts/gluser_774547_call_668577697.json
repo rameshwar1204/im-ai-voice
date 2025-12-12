@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668577697",
+  "gluser_id": "774547",
+  "vintage_months": 3,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Mahilpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644329",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Om bhur bhuva swaha tatsaviturvarenyam bhargo devasya dhimahi dhiyo\\nExecutive: Hello hello ha ji sir.\\nCustomer: Ha sir ha ji sir.\\nExecutive: Ha ji ha ji.\\nCustomer: Sir aap time nahi de rahe hain Meenakshi bol rahi hu sir aap time nahi denge aap complaint open karenge to sir hum aapko solution kaise denge mam ko kuch pata nahi hai.\\nCustomer: Achcha.\\nExecutive: To sir aapne bola tha ki aaj to busy hu grahak mere samne khade hain kal baat kijiyega sir aaj to maine subah hi subah aapko approach kiya sir.\\nCustomer: Ha ji.\\nExecutive: To sir isko aaiye video call pe discuss karte hain na sir.\\nCustomer: Video call.\\nExecutive: Ha Raman sir video call pe aayenge tabhi to main guide karungi na sir aapko.\\nExecutive: Hello wo time do main apne aap kar lunga na.\\nExecutive: Are sir aapki complaint open hai sir apne aap kaise karenge sir complaint open hai to sir mujhe permission dijiye fir close karne ka agar aap abhi nahi time de rahe hain.\\nCustomer: Koi baat nahi kar do.\\nExecutive: To sir main close karungi to aapke pass feedback aayega.\\nCustomer: Koi baat nahi.\\nExecutive: Mere liye feedback satisfied kariye kariiyega sir aur mera naam main aapko whatsapp pe ping kar rahi hu theek hai aapko mam add karke whatsapp ka group bana rahi hu jisme main aur Sanjiv add rahenge theek hai aur main aapko whatsapp pe apna pura details bhej rahi hu mujhe aap mujhe call kariiyega sir.\\nCustomer: Okay.\\nExecutive: Sir please call kariiyega agar aap kal free hai Sunday ko bhi free hai aap jis time pe bhi free honge aap mujhe call kariiyega sir main aapko services ke liye guide karungi sir.\\nCustomer: Okay.\\nExecutive: Abhi main close kar du na.\\nCustomer: Ha ji ha ji.\\nExecutive: Thank you sir kuch kuch bhi isse karna hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not giving time for resolution.\\n\n- Customer wants to resolve the issue himself.\\n\n\\n\nResolution:\\n\n- Executive offered a video call for discussion.\\n\n- Executive explained the feedback process after closure.\\n\n- Executive will create a WhatsApp group for communication.\\n\n\\n\nNext Steps: \\n\n- Customer to call the executive when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- complaint, video call, whatsapp, feedback, services\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 129,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b0cf8290-5df4-4c01-96c4-24fd4a711b73",
+  "ucid": "b0cf8290-5df4-4c01-96c4-24fd4a711b73",
+  "seller_categories": [
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    },
+    {
+      "mcat_id": "22802",
+      "mcat_name": "Apple Cider Vinegar"
+    },
+    {
+      "mcat_id": "161340",
+      "mcat_name": "Alcohol De Addiction Medicine"
+    },
+    {
+      "mcat_id": "445376",
+      "mcat_name": "Diabetic Herbal Tablets & Capsules"
+    }
+  ]
+}

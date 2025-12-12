@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669387473",
+  "gluser_id": "3580741",
+  "vintage_months": 97,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Gaurela",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Raghunandan Raghav\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Lokesh ji.\\nCustomer: Haan boliye.\\nExecutive: Haan sir ye keh raha tha sir maine apne senior se bhi baat kari hai sari cheeze baat kari hai.\\nCustomer: To wo to yahi keh rahe the ki ye jo package hum jo badha sakte hain na wo package ko badha karke hi ek option hai hai na jisme hum buylead ko increase kar sakte hain number of hum category increase kar sakte hain jyada se jyada hai na add on kara sakte hain.\\nCustomer: To uske basis pe hum 21 lenge to matlab uske against me apne ko 20 buylead milegi 21 buylead aur weekly yahi suna hai na.\\nExecutive: Haan haan 21 buylead aapko extra add on hoti chali jayegi.\\nCustomer: Bas bas yahi ek option hai.\\nExecutive: Haan sir yahi ek option hai baki kuch packages aur bhi hain jo hai wo agar aap kaho to main ek bar sham ko sir jo hai mere jo manager to manager hai wo baat kar lenge aap se ek bar.\\nCustomer: Hai na yaha package badha kar sir package unke level pe hi hote hain to ek bar aap unse connect kar lena main aapko aapki baat kara dunga.\\nCustomer: Hai na aap mujhe batao sham ko kitne baje kareeb aapko connect kar lu.\\nExecutive: Sham ko dekhna 4:00 baje.\\nCustomer: 4:00 baje kareeb kar leta hu theek hai sir abhi abhi ke liye jo apne ticket abhi ke liye jo ticket open hui thi sir isko close kar de raha hu main theek hai.\\nCustomer: Are mere invoice dilwa do.\\nExecutive: Invoice ke liye sir kar rakha hai maine wo main aapko dilwa dunga uske liye kyu pareshan ho rahe hain aap wo main karwa dunga.\\nCustomer: Nahi matlab aap samajhiye na aap baat samajhna mere kehne ka jaise agar in time me bhi humne koi wo matlab jo TDS return nahi jama hota hai na usme penalty lagti hai be matlab ki ye kehne ka matlab hai.\\nExecutive: Nahi nahi main samajh raha hu sir main samajh raha hu main jaldi se jaldi karunga.\\nCustomer: Haan isliye main thoda pareshan hu uske liye aur koi baat thodi na hai.\\nExecutive: Nahi nahi main isko karwa dunga sir uske liye aap nishchint raho baki filhal jo ye concern tha aapka iske liye to sir package hi increase kar sakte hain aur koi.\\nCustomer: Chalo theek hai dekhenge isko.\\nExecutive: Theek hai baki aapki baat karata hu ek bar baat kar lena baki ye concern close kar de raha hu sir abhi hai na.\\nCustomer: Haan kar do.\\nExecutive: Theek hai theek hai sir theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants invoice to be delivered.\\n\n- TDS return penalty concern.\\n\n- Enquiring about increasing buyleads.\\n\n\\n\nResolution:\\n\n- Informed about package upgrade for buylead increase.\\n\n- Executive will arrange a call with manager.\\n\n- Assured invoice delivery.\\n\n- Ticket will be closed.\\n\n\\n\nNext Steps: \\n\n- Executive will arrange a call at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- invoice, tds return, buyleads, package\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 143,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8045f25-49e7-449a-9765-2313a953aa6a",
+  "ucid": "e8045f25-49e7-449a-9765-2313a953aa6a",
+  "seller_categories": [
+    {
+      "mcat_id": "184934",
+      "mcat_name": "Riso Digital Duplicator"
+    },
+    {
+      "mcat_id": "96517",
+      "mcat_name": "Digital Duplicator"
+    },
+    {
+      "mcat_id": "163575",
+      "mcat_name": "Wedding Card Printing Machine"
+    },
+    {
+      "mcat_id": "139847",
+      "mcat_name": "Label Cutting Machine"
+    },
+    {
+      "mcat_id": "142686",
+      "mcat_name": "Thermal Lamination Machine"
+    }
+  ]
+}

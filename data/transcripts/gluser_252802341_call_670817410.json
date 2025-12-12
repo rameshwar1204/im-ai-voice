@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670817410",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello?\\nExecutive: Haanji boliye.\\nCustomer: Ji mai Vanshika bol rahi hu mai.\\nExecutive: Hello. Haanji mam. Haan haan. Mam Vanshika bol rahi hu mam aapne login kar liya?\\nCustomer: Haan login kar liya hai. Maine aapko call kiya tha aapne call receive nahi kiya.\\nExecutive: Mam maine to call aapka call abhi aaya hi nahi hai na mere paas. Aapne mere purane wale number pe kiya hai kya?\\nCustomer: Nahi maine isi par kiya tha.\\nExecutive: Mam mere paas koi call nahi aayi hai is number pe mam. Agar aati mam to mai receive karti.\\nCustomer: Nahi aapne mere sath wo\\nExecutive: Suniye suniye aapne mujhe lag raha hai aapne mere pehle wale number pe kiya hai call kyuki usme call aayi thi but maine receive nahi ki thi.\\nCustomer: Maine aapko 2:22 pe call kiya hai maine.\\nExecutive: Haan mam aapne mere primary number pehle sorry pehle wale number pe kiya hoga call.\\nCustomer: Ye to 243 hai na last me us par kiya tha maine.\\nExecutive: Nahi nahi mam mera jo number hai wo 88279914 wala hai mam.\\nCustomer: Nahi aapka jo ye wala jo number hai na is par hi kiya tha maine aapne dekha nahi hoga.\\nExecutive: Aap ye wala number jo hai na\\nCustomer: Haan mai aapko karti hu login kar liya.\\nExecutive: Haan mai aapko karti hu login kar liya.\\nCustomer: Haan mere ko kuch samajhna tha mai karti hu aapko call. Hai na? Mam dekhiye aaj hi mujhe concern close karna hai mam to kab tak ho payega aap batao aap.\\nCustomer: Madam mai aapko 4:30 tak call karti hu. Maine aapko samay bola bilkul free thi mai karti hu call.\\nExecutive: Ji. Thik hai thik hai mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says she called but executive didn't receive.\\n\n- Customer needs help understanding something.\\n\n\\n\nResolution:\\n\n- Executive clarified her current contact number.\\n\n- Customer will call back later to discuss her concern.\\n\n\\n\nNext Steps: \\n\n- Customer will call back by 4:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, login, contact number\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=248878ff-a06e-4411-a00c-445eb9a622e1",
+  "ucid": "248878ff-a06e-4411-a00c-445eb9a622e1",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

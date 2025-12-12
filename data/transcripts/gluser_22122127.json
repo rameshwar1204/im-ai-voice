@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676445667",
+  "gluser_id": "22122127",
+  "vintage_months": 12,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723172",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haanji.\\nCustomer: Haanji.\\nExecutive: Phone ki the aap?\\nCustomer: Aapko sir?\\nExecutive: Kab call aaya?\\nCustomer: Abhi aaya tha just.\\nExecutive: Ek minute mai check kar leta hu.\\nExecutive: Mai IndiaMART se baat kar raha hu basically sir.\\nCustomer: Ji ji.\\nExecutive: Ji. Mai ek baar check kar leta hu exactly kis reason ke karan maine aapko call kiya.\\nCustomer: Cut kyu gaya?\\n(silence)\\nThe person you are speaking with has put your call on hold. Please stay on the line.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know why he received a call.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold to check.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, verification, reason\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=60e58821-bed3-4341-b26e-8e9c1ec7d4d2",
+  "ucid": "60e58821-bed3-4341-b26e-8e9c1ec7d4d2",
+  "seller_categories": [
+    {
+      "mcat_id": "144677",
+      "mcat_name": "Hot Dip Galvanizing"
+    },
+    {
+      "mcat_id": "141382",
+      "mcat_name": "Solar Panel Mounting Structure"
+    },
+    {
+      "mcat_id": "113737",
+      "mcat_name": "Galvanizing Services"
+    },
+    {
+      "mcat_id": "40161",
+      "mcat_name": "Transmission Lines"
+    },
+    {
+      "mcat_id": "29161",
+      "mcat_name": "Galvanized Iron Pipes"
+    }
+  ]
+}

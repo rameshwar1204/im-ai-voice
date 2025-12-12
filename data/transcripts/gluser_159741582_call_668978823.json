@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668978823",
+  "gluser_id": "159741582",
+  "vintage_months": 5,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690687",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ji.\\n\\nCustomer: Harender baat kar raha hu sir.\\n\\nExecutive: Ji ji sir.\\n\\nCustomer: Package chala mera IndiaMART pe, Harinder Mart ke naam se.\\n\\nExecutive: Ji ji sir.\\n\\nCustomer: To sir lead me dikkat aa rahi hai mujhe. Maine pehle complaint ki thi to to theek aayi thi beech mein fir dikkat hone lagi Diwali ke baad.\\n\\nExecutive: Okay. To sir actually aaj jo hai na hamara off hai. Main aapse Monday connect kar lu sir agar aap allow karo to.\\n\\nCustomer: Koi dikkat nahi sir.\\n\\nExecutive: Theek hai. Monday Monday connect jarur kar lijiye aap theek hai is tarike se. For sure for sure sir. Sure main aapko connect karta hu.\\n\\nCustomer: Okay.\\n\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issues with buyleads after Diwali.\\n\n\\n\nResolution:\\n\n- Executive informed that today is an off day.\\n- Executive will connect on Monday.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, package, support\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a08169e9-8909-4013-ad25-a1f5c1d22cdc",
+  "ucid": "a08169e9-8909-4013-ad25-a1f5c1d22cdc",
+  "seller_categories": [
+    {
+      "mcat_id": "150088",
+      "mcat_name": "Marble Polishing Services"
+    },
+    {
+      "mcat_id": "137283",
+      "mcat_name": "Marble Floor Polishing Services"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "170549",
+      "mcat_name": "Granite Polishing Services"
+    },
+    {
+      "mcat_id": "170499",
+      "mcat_name": "Floor Polishing Service"
+    }
+  ]
+}

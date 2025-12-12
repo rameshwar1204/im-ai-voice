@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671940696",
+  "gluser_id": "38856469",
+  "vintage_months": 46,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Robertsganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9682156",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Usse koi negative impact nahi nahi nahi negative impact nahi hai wo bas keh raha hai ki review kar lo kyuki jaise ab dekho aapki exact category mil gayi rot iron chandelier mil gayi lekin aapne chandelier bhi lagaya. \\nExecutive: Suno suno suno meri baat is cheez ko wind up karo hota kya hai agar jo hai na mujhe response better chahiye. \\nCustomer: Hai na?\\nExecutive: Hmm hmm hmm uske baad baat karte hai theek hai?\\nCustomer: Okay.\\nExecutive: Theek hai to abhi ye jo feedback aaya tha sir na India Mart ke customer care se wo mai close karunga.\\nCustomer: Baki aapko WhatsApp pe mai jo bhi mujhe chahiye detail detail aap se mangta rahunga yaha pe hai na?\\nExecutive: Okay.\\nCustomer: Hai na aur saat aath din ke andar uske pehle mai khud hi aapko contact karta rahunga uske liye koi problem nahi hai aur aapko jab dikhe response to theek hai nahi dikhega to aap mujhe bataiyega jaisa ki aapne bola hai sir mai uska pura process karata hu na.\\nExecutive: Okay.\\nCustomer: Okay thank you thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Review the category of rot iron chandelier.\\n\n- Customer will send details via WhatsApp.\\n\n- Customer will contact in 7-8 days.\\n\n\\n\nResolution:\\n\n- Executive will close the feedback from India Mart customer care.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will contact in 7-8 days.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, feedback, category, whatsapp\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=10b5a513-989f-4f7a-abfb-d783c482c272",
+  "ucid": "10b5a513-989f-4f7a-abfb-d783c482c272",
+  "seller_categories": [
+    {
+      "mcat_id": "53759",
+      "mcat_name": "Bamboo Lamp"
+    },
+    {
+      "mcat_id": "9046",
+      "mcat_name": "Hanging Lamps"
+    },
+    {
+      "mcat_id": "33887",
+      "mcat_name": "Pendant Light"
+    },
+    {
+      "mcat_id": "224512",
+      "mcat_name": "Bamboo Lamp Shade"
+    },
+    {
+      "mcat_id": "74236",
+      "mcat_name": "Hanging Light"
+    }
+  ]
+}

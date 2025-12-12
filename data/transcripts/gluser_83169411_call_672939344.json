@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672939344",
+  "gluser_id": "83169411",
+  "vintage_months": 5,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Palwal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Namaskar sir.\\nCustomer: Namaskar.\\nExecutive: Sunil sir aapse baat kar raha hun Class India GRC se.\\nCustomer: Haan ji haan ji Sunil sir ji.\\nExecutive: Ji sir wo iske regarding baat karni hai ki maine na India mart se mera apne India mart se maine kisi jaise ki personal ya yaar dost ke khulwa khulwa rakha hai sir maine OTP deke na.\\nExecutive: Achcha.\\nCustomer: To uske phone band karna hai mujhe sir kaise band hoga ye?\\nExecutive: Main samjha nahi.\\nExecutive: Aapko kya karna hai?\\nCustomer: Mera matlab mera na ek friend hai uske phone me maine khulwa uske phone me maine khulwa rakha hai India mart apna OTP deke.\\nExecutive: Achcha achcha achcha.\\nCustomer: Ab wo band karna hai kaise band hoga sir?\\nExecutive: Ek second main aapko pata karke aapke wale number pe call karu main aapko do minute dijiye mujhe zara pata karke 83 wale number pe hai na.\\nCustomer: Haan sir.\\nExecutive: Theek hai theek hai main pata karta hun.\\nCustomer: Okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to close IndiaMART account opened on friend's phone.\\n\n\\n\nResolution:\\n\n- Executive will check and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in two minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account closure, otp, friend's account\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e5f26185-1f0d-4877-9d31-bd9044ac133d",
+  "ucid": "e5f26185-1f0d-4877-9d31-bd9044ac133d",
+  "seller_categories": [
+    {
+      "mcat_id": "151431",
+      "mcat_name": "GRC Jali"
+    },
+    {
+      "mcat_id": "178208",
+      "mcat_name": "GRC Columns"
+    },
+    {
+      "mcat_id": "186673",
+      "mcat_name": "GRC Cornices"
+    },
+    {
+      "mcat_id": "151480",
+      "mcat_name": "GFRC Baluster"
+    },
+    {
+      "mcat_id": "183602",
+      "mcat_name": "GRC Cladding"
+    }
+  ]
+}

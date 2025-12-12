@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674130577",
+  "gluser_id": "12302018",
+  "vintage_months": 7,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701519",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji.\\nCustomer: Hello\\nExecutive: Ji sir, good morning.\\nCustomer: Haan sir, namaste sir.\\nExecutive: Kumar ji bol rahe hain sir progressive se?\\nCustomer: Haan ji, haan ji, aap?\\nExecutive: Ji sir, main Praveen bol raha hun IndiaMART head office account manager.\\nCustomer: Haan bataiye.\\nExecutive: Haan sir, aapne ek request dali thi. Aap mail bhej dijiye na, ye phone mein baat nahi honge, aap mail bhej dijiye, mail mein hum log next karenge.\\nCustomer: Matlab mail mein kya cheez?\\nCustomer: Aap kuch kya cheez baat karne wala hai, woh cheez aap bhej dijiye, apna dikkat kya hai, hum log usme mail mein bhejenge, agar woh set hoga, nahi hoga, phir aap dekh lena.\\nExecutive: Sir, uske liye aapko ek video meet connect karna padega na, buylead aur inquiry ka issue hai.\\nCustomer: Itna time nahi hai, itna time invest karne ke baad kuch ho raha hai kya, positive kuch ho nahi raha hai na, apna time kyun barbaad kar rahe hain? Aap mail bhejo, main mail mein bhej deta hun, kya hai, kya nahi mil raha hai.\\nExecutive: Kya\\nCustomer: Sir\\nExecutive: Sir\\nCustomer: Kya milne wala tha, kuch nahi mil raha hai, toh hum log mail mein bhejenge na.\\nExecutive: Sir, bilkul aap bhejoge mail mein, main mana nahi kar raha hun. Aap mail bhej dijiye bhai. Par video meet pe connect\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to communicate via mail, not phone.\\n\n- States nothing positive is happening.\\n\n- States not receiving expected benefits.\\n\n\\n\nResolution:\\n\n- Executive agreed to receive the customer's concerns via mail.\\n\n\\n\nNext Steps: \\n\n- Customer will send their concerns via mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiry, mail communication\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f51def07-e44f-4f5d-9ad5-5f8ba197d556",
+  "ucid": "f51def07-e44f-4f5d-9ad5-5f8ba197d556",
+  "seller_categories": [
+    {
+      "mcat_id": "29006",
+      "mcat_name": "Freight Forwarding Services"
+    },
+    {
+      "mcat_id": "41987",
+      "mcat_name": "Shipping Services"
+    },
+    {
+      "mcat_id": "84088",
+      "mcat_name": "Air Cargo Service"
+    },
+    {
+      "mcat_id": "31768",
+      "mcat_name": "Marine Engine"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    }
+  ]
+}

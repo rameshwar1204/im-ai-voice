@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676752367",
+  "gluser_id": "36052873",
+  "vintage_months": 6,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir, good morning.\\nCustomer: Good morning madam, bolana.\\nExecutive: Ji, mai Swati bol rahi hu IndiaMART se aapke account manager, kaise hai sir aap?\\nCustomer: Ha madam, ekdam badhiya.\\nExecutive: Very good sir. Sir bataiye, ye aapne bataya nahi kuch, aap to keh rahe the 30 tarikh ke baad aap TS TrustSeal service final kar lenge.\\nCustomer: Ha madam, karna hai. Karna hai thoda funding ka chalu hai abhi.\\nExecutive: Sir dekh lijiye agar do bar mein payment kara sake to do bar mein kar lijiye isko. Kyunki agar aap karte ho, aaj aap kar do fir 30 din ke andar kar dena. Kyunki aise kya hoga ki aapko jo price hum de rahe hain, wahi aapko mil jayega. Month end ke baad agar aap karte ho jaise next month agar aap sochte ho ki hum TrustSeal mein move kare, to usme fir wahi hai ki aapko 50000 plus GST padega 59000.\\nCustomer: Thik hai, mai karta hu kuch.\\nExecutive: To abhi aapka kuch ho nahi paya Diwali, aapne to bola tha Diwali ke baad aap kar loge plan. Diwali ke pehle se hamari baat ho rahi hai.\\nCustomer: Wo aapko bhi pada isliye abhi clear nahi hua tha abhi bhi.\\nExecutive: Ha, abhi clear hai na sir aapka?\\nCustomer: Sir, abhi thoda dikkat hai.\\nExecutive: Accha, fir sir agar mai call karta hu thode time mein ek call karta hu aapko.\\nExecutive: Accha, thik hai. Ek call jarur kijiyega, thik hai? Jo thik hoga wo mai batati hu fir aapko.\\nExecutive: Sir mai, hello?\\nExecutive: Hello sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired about TrustSeal service finalization.\\n\n- Customer mentioned funding issues for TrustSeal service.\\n\n\\n\nResolution:\\n\n- Executive suggested payment in two installments.\\n\n- Executive explained price increase after month-end.\\n\n- Executive offered to call back later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, payment, funding, subscription\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8483dd3-e8e8-4a02-a5b7-5d0a4a86c690",
+  "ucid": "e8483dd3-e8e8-4a02-a5b7-5d0a4a86c690",
+  "seller_categories": [
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "223258",
+      "mcat_name": "Tissue Culture Pomegranate Plants"
+    }
+  ]
+}

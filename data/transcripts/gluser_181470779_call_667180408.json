@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667180408",
+  "gluser_id": "181470779",
+  "vintage_months": 1,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Wai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710751",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haanji sir connect kar le.\\nCustomer: Haan kar raha hu bluetooth connect kar raha hu. Ji kya maine already meeting mein mai join kar chuki hu aap bhi join kar lo.\\nCustomer: Haan haan haan haan.\\nExecutive: Okay.\\nCustomer: Toh bluetooth hi connect kar raha hu.\\n(silence)",
+  "summary": "\\n\nConcerns:\\n\n- Customer is connecting to the meeting via Bluetooth.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to connect to the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, bluetooth, connection\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a9062de4-64f7-4709-b52c-28abf79b8684",
+  "ucid": "a9062de4-64f7-4709-b52c-28abf79b8684",
+  "seller_categories": [
+    {
+      "mcat_id": "113922",
+      "mcat_name": "Spirulina Powder"
+    },
+    {
+      "mcat_id": "650502",
+      "mcat_name": "Organic Spirulina Powder"
+    },
+    {
+      "mcat_id": "7727",
+      "mcat_name": "Spirulina Tablet"
+    },
+    {
+      "mcat_id": "7725",
+      "mcat_name": "Spirulina Capsule"
+    },
+    {
+      "mcat_id": "9206",
+      "mcat_name": "Herbal Powder"
+    }
+  ]
+}

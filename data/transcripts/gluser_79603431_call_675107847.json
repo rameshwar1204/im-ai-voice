@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675107847",
+  "gluser_id": "79603431",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: if you record your LinkedIn\\n",
+  "summary": "\\n\nConcerns:\\n\n- Recording LinkedIn.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nlinkedin, recording\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e1b7a1d7-9404-41a1-8773-1c835174f969",
+  "ucid": "e1b7a1d7-9404-41a1-8773-1c835174f969",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "44612",
+      "mcat_name": "LED TV"
+    },
+    {
+      "mcat_id": "178011",
+      "mcat_name": "4K TV"
+    },
+    {
+      "mcat_id": "184302",
+      "mcat_name": "LG LED TV"
+    },
+    {
+      "mcat_id": "203328",
+      "mcat_name": "Bush LED TV"
+    }
+  ]
+}

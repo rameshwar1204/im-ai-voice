@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667436376",
+  "gluser_id": "18888",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kala Amb",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good morning, IndiaMART se [inaudible] baat kar raha hu.\\nCustomer: Ha good morning sir, main bol raha hu [inaudible] se.\\nExecutive: Ha sir bataiye kya help kar sakta hu main aapki?\\nCustomer: Sir maine aapko bola tha ki maine payment kiya tha, uska refund kab tak aayega?\\nExecutive: Sir refund ke liye aapne baat kiya tha kya pehle?\\nCustomer: Ha baat kiya tha maine.\\nExecutive: Kab baat kiya tha sir aapne?\\nCustomer: Maine baat kiya tha 2 din pehle.\\nExecutive: 2 din pehle baat kiya tha, aapka company name bata sakte hai sir?\\nCustomer: [inaudible].\\nExecutive: [inaudible] aapka naam kya hai sir?\\nCustomer: [inaudible].\\nExecutive: Ek minute hold karega sir main check kar leta hu.\\nCustomer: Ha.\\n(silence)\\nExecutive: Sir aapne jo payment kiya tha woh kiya tha 17 tarikh ko, theek hai?\\nCustomer: Ha.\\nExecutive: Aur aapka jo refund hai woh process ho gaya hai, aapko 7 se 10 working days mein aa jayega.\\nCustomer: Kitna din lagega?\\nExecutive: 7 se 10 working days lagega sir.\\nCustomer: 7 se 10 din lagega?\\nExecutive: Ha sir.\\nCustomer: Okay.\\nExecutive: Aur kuch help chahiye sir aapko?\\nCustomer: Nahi nahi thank you.\\nExecutive: Thank you sir, have a nice day.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquired about refund of payment.\\n\n\\n\nResolution:\\n\n- Informed refund has been processed.\\n\n- Refund will be received in 7-10 working days.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, working days\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ce01b472-afaf-43f7-a187-a8d15e123d15",
+  "ucid": "ce01b472-afaf-43f7-a187-a8d15e123d15",
+  "seller_categories": [
+    {
+      "mcat_id": "138936",
+      "mcat_name": "Aluminum Roofing Sheet"
+    },
+    {
+      "mcat_id": "55116",
+      "mcat_name": "Color Coated Aluminum Coils"
+    },
+    {
+      "mcat_id": "215926",
+      "mcat_name": "Aluminium Sublimation Sheet"
+    },
+    {
+      "mcat_id": "161802",
+      "mcat_name": "Aluminum Fan Blades"
+    },
+    {
+      "mcat_id": "21758",
+      "mcat_name": "Aluminium Profiles"
+    }
+  ]
+}

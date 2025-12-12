@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667131235",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji Satish ji baat kar rahe hain?\\nCustomer: Haan.\\nExecutive: Haan Satish ji Amita baat kar rahi thi. Actually aapki baat hui thi senior manager se team se. Regarding services aapka group wagera initiate kar diya gaya hai.\\nCustomer: Haan.\\nExecutive: Haan. Toh mujhe yeh bataiye buyleads wagera jo aapko bhejni hai, woh aapko kal se video meeting ek baar join kar lenge. Video meeting pe reh ke saari cheezein ek baar discuss karenge. Toh kal ka mujhe time bata do kitne baje available rahoge uss time pe yeh cheezein karke close karte hain.\\nCustomer: Main kal toh sir baahar rehne wala hai mera jo repair se isko leke jaana hai mere ko 10 baje aa jayega airport par. Toh meeting mein teen chaar toh baj jayegi mere ko.\\nExecutive: Teen chaar baj jayenge. Uske baad kitne baje tak free ho jaoge? Kuch idea de paoge?\\nCustomer: Main call kar dunga aapko jaise hi free hota hoon.\\nExecutive: Aapne bola tha. Theek hai koi baat nahi. Ya toh aap apne manager ko call kar dijiyega nahi toh Ekta ko call karke bata dijiyega.\\nCustomer: Theek hai.\\nExecutive: Theek hai? Okay okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Scheduling a video meeting to discuss buyleads.\\n- Customer is unavailable the next day until late afternoon.\\n\\n\\nResolution:\\n\\n- Executive proposed a video meeting for the next day.\\n- Customer stated he would be busy until 3-4 PM.\\n- Customer agreed to call back once he is free.\\n- Advised to call either the manager or Ekta to inform them of his availability.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will call back to schedule the meeting.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, video meeting, scheduling, availability\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=942079a8-a990-45f9-9752-df214f39b2c8",
+  "ucid": "942079a8-a990-45f9-9752-df214f39b2c8",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

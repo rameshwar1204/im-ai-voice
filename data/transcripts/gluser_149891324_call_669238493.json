@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669238493",
+  "gluser_id": "149891324",
+  "vintage_months": 12,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650341",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHello? Haan boliye.\\nHaan boliye.\\nMai Vaishnavi baat kar rahi hu IndiaMART head office se.\\nVishnu sir thoda bahar gaye hue hai, aane ke baad karwate hai na.\\nAchha Vishnu sir hai nahi?\\nVishnu sir thoda bahar gaye hue hai, abhi aa jayenge 15-20 minute se.\\nAchha achha, aapko iske bare mein pata hoga kya, inhone Vishnu sir ne abhi do din pehle IndiaMART pe phone number change karane ka request diya.\\nHan han wo aayenge na tabhi aapse baat karwate hai hum.\\nAchha, kya wohi jante hai toh.\\nHan han.\\nThik hai thik hai toh, mai 15-20 minute mein aapko phone karwati hu.\\nThik hai thik hai, isi number pe aap call kar dijiye.\\nHan han isi isi number pe, thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to speak with Vishnu regarding request.\\n\n- Customer states Vishnu is currently out of office.\\n\n\\n\nResolution:\\n\n- Executive will call back in 15-20 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 15-20 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- phone number change, indiaMART, call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e37dcc41-5449-436a-8354-293ad6b2ae6c",
+  "ucid": "e37dcc41-5449-436a-8354-293ad6b2ae6c",
+  "seller_categories": [
+    {
+      "mcat_id": "68836",
+      "mcat_name": "Writing Notebook"
+    },
+    {
+      "mcat_id": "181508",
+      "mcat_name": "School Notebook"
+    },
+    {
+      "mcat_id": "224009",
+      "mcat_name": "A4 Notebook"
+    },
+    {
+      "mcat_id": "68322",
+      "mcat_name": "Exercise Note Books"
+    },
+    {
+      "mcat_id": "95205",
+      "mcat_name": "Student Notebook"
+    }
+  ]
+}

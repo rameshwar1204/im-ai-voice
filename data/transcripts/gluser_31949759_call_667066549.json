@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667066549",
+  "gluser_id": "31949759",
+  "vintage_months": 17,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631105",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, kaun?\\nExecutive: Uh ma'am Rajneesh ji se baat ho jayegi Rajneesh ji se?\\nCustomer: Haan, theek hai. Main baat karati hu.\\nExecutive: Theek hai.\\nCustomer: Hello.\\nExecutive: Rajneesh ji, Rukhsar baat kar rahi hu IndiaMART se.\\nCustomer: Haan boliye.\\nExecutive: Sir, baat ho gayi aapki Anand se?\\nCustomer: Nahi karunga main baat karunga. Aap close kar do koi dikkat nahi hai usko. Meri kuch aur baat karni hai uske liye. Wo to ho gaya solve ki nahi mereko copy paste hi maarna padega.\\nExecutive: Theek hai. To main isko close kar deti hu. Baaki aapne shayad request bhi, request hi raise ki hai ki aapko Anand wapis se apna account manager chahiye.\\nCustomer: Haan main Anand ji se baat kar lunga. Us samay to network nahi tha. Tab baat kar lunga unse.\\nExecutive: Theek hai. Aap baat kar lijiyega. Okay, thank you so much.\\nCustomer: Okay. Thank you.\\nExecutive: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Requested to close the current ticket.\\n- Wants Anand back as the account manager.\\n\\n\\nResolution:\\n\\n- Confirmed the previous issue's resolution was to copy-paste.\\n- Agreed to close the current ticket as requested.\\n\\n\\nNext Steps: \\nIssue resolved. The customer will speak to Anand regarding other matters.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- ticket closure, account manager, follow-up\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eac2fa2b-abc1-41a1-b38b-bced97465436",
+  "ucid": "eac2fa2b-abc1-41a1-b38b-bced97465436",
+  "seller_categories": [
+    {
+      "mcat_id": "137788",
+      "mcat_name": "CFC Zipper"
+    },
+    {
+      "mcat_id": "875",
+      "mcat_name": "Zippers"
+    },
+    {
+      "mcat_id": "176794",
+      "mcat_name": "Colored Zippers"
+    },
+    {
+      "mcat_id": "50616",
+      "mcat_name": "Luggage Zipper"
+    },
+    {
+      "mcat_id": "5059",
+      "mcat_name": "Plastic Zippers"
+    }
+  ]
+}

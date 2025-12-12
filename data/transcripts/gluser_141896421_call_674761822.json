@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674761822",
+  "gluser_id": "141896421",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Wadhwan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703136",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Namaste, Gaurav baat kar raha hu IndiaMART se.\\nCustomer: Boliye.\\nExecutive: Sir apni company se related aapke regarding connect kiya hua tha.\\nCustomer: Haan.\\nExecutive: Jo apni company IndiaMART pe chal rahi hai na uske feedback ke liye connect kiya hua tha ek ticket open ho gaya tha sir. Matlab aapko hamari team ne call kiya hoga to aapne call back kiya tha to aap utha nahi paye the.\\nCustomer: Haan haan.\\nExecutive: Sir aap haan to abhi sir koi service me issue aa raha hai IndiaMART ki ki sahi chal rahi hai sir service vagera?\\nCustomer: Nahi nahi wo to sahi chal raha hai sahi.\\nExecutive: Achcha achcha matlab response vagera abhi abhi thoda kam hai aap kal baat kar sakte hai hum?\\nExecutive: Achcha achcha thik hai kal aap bataye mai kitne baje kar lu?\\nCustomer: Ah kal 1:30 baje ke aas pass.\\nExecutive: Achcha chaliye 1:00 baje ka thik hai baki sir ek ticket open ho gaya tha mai isko close kar du sir?\\nCustomer: Haan close karoge to kar do koi baat nahi lekin baat haan haan thik hai thik hai mai 1:00 baje kar leta hu aapko sir.\\nCustomer: Okay okay ticket close kar dijiye okay.\\nExecutive: Okay sir okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called for feedback regarding IndiaMART services.\\n\n- Customer mentioned response is a little less.\\n\n\\n\nResolution:\\n\n- Executive agreed to call the customer next day.\\n\n- Executive closed the ticket as requested.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day at 1:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, ticket, call back, services\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c42ad7ac-f7a7-4616-a7ef-d497c113201d",
+  "ucid": "c42ad7ac-f7a7-4616-a7ef-d497c113201d",
+  "seller_categories": [
+    {
+      "mcat_id": "179913",
+      "mcat_name": "Shaving Gel"
+    },
+    {
+      "mcat_id": "32134",
+      "mcat_name": "Massage Creams"
+    },
+    {
+      "mcat_id": "22970",
+      "mcat_name": "Body Lotions"
+    },
+    {
+      "mcat_id": "3267",
+      "mcat_name": "Aloe Vera Gel"
+    },
+    {
+      "mcat_id": "6221",
+      "mcat_name": "Face Scrub"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675894910",
+  "gluser_id": "91711062",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718520",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Haan ji sir, namaskar.\\nCustomer: Haan ji boliye.\\nExecutive: Haan ji, haan ji. Bataye sir kya issue aa raha hai?\\nCustomer: Mere ko ye chalu karna tha India mart.\\nExecutive: Sir, jo Annu Marble ke naam se\\nCustomer: Kabhi register karaya hua hai isme pehle apne?\\nCustomer: Haan.\\nExecutive: Ji, aapki services already yahan pe start ho gayi hai. Guide ke liye already Anisha ne aapko abhi shayad call bhi kiya hoga.\\nCustomer: Haan, maine wapis phone kiya phone nahi lag raha unke.\\nExecutive: Achcha wo dusri call pe honge is wajah se nahi lag raha. Main ek bar bol deta hu aapko connect kar lenge. Main proper aapko services guide. Phone kar lenge mere ko.\\nCustomer: Haan main bol deta hu aapko call karke proper guide kar denge kaise use karna hai services India mart ki.\\nExecutive: Okay, okay.\\nExecutive: Okay, main paanch minute dijiye main inko bolta hu.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to start using IndiaMART services.\\n\n- Unable to connect with Anisha for guidance.\\n\n\\n\nResolution:\\n\n- Executive confirmed services are already active.\\n\n- Executive assured Anisha will call back to guide.\\n\n\\n\nNext Steps: \\n\n- Anisha will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, services, guidance, call\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a32fd6e0-024c-408d-9568-6d919607e503",
+  "ucid": "a32fd6e0-024c-408d-9568-6d919607e503",
+  "seller_categories": [
+    {
+      "mcat_id": "25424",
+      "mcat_name": "Decorative Fountain"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    },
+    {
+      "mcat_id": "43175",
+      "mcat_name": "Floating Fountains"
+    },
+    {
+      "mcat_id": "166111",
+      "mcat_name": "Teak Wood Temple"
+    },
+    {
+      "mcat_id": "2297",
+      "mcat_name": "Garden Fountains"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669417685",
+  "gluser_id": "98983350",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Jetpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656237",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha ji sir, good afternoon.\\nExecutive: Good afternoon.\\nCustomer: Kya issue aa raha hai sir?\\nExecutive: Kon aman ji bol rahe hai?\\nCustomer: Ji sir.\\nExecutive: Wo bol raha tha apne ko ye IndiaMART ke package ke sath wo vyapar ne wo kuch tha na 6 mahine ke liye subscription free of.\\nExecutive: Ji.\\nCustomer: Uska abhi message nahi mila hai whatsapp me kuch.\\nExecutive: Theek hai.\\n(silence)\\nCustomer: Hello.\\n(silence)\\nCustomer: Hello.\\n(silence)\\nExecutive: Hello.\\nCustomer: Ha, ji bhaiya.\\nExecutive: Ha wo bol raha hai sir uska subscription ka message nahi mila uska kya hai?\\nExecutive: Ji, do minute line pe rahiye aap mai bata raha hu abhi.\\nCustomer: Theek hai.\\nExecutive: Do minute hold kar raha hu ha na sir, line pe rahiyega.\\nCustomer: Koi dikkat nahi.\\n(silence)\\nExecutive: Nahi wo rate se to banao.\\n(silence)\\nExecutive: Aalo banao do.\\n(silence)\\nExecutive: Hello.\\nExecutive: Hello, sir kya bola gaya tha aapko? Kya bola gaya tha vyapar ka aapko, vyapar ka kya bola tha?\\nCustomer: Vyapar ya wo koi aur se konsa ek do do application me se koi ek istemal kar sakte hai na 6 mahine ke liye?\\nExecutive: Nahi mujhe to aisa kuch bhi abhi jankari prapt nahi hui. Kya bola tha aapko batao aap?\\nCustomer: Are 6 mahine ka subscription free of milega aisa bola gaya mere ko. Kis chiz ka sir, kis chiz ka aap batao?\\nCustomer: Ek vyapar bola gaya tha aur ek dusra koi application dono me se koi ek chun sakte hai aisa bola gaya hai.\\nExecutive: Accha chalo sir aap mujhe ek kam karo abhi ek ghante ka time do mai aapko call back karke bata raha hu.\\nCustomer: Koi dikkat nahi aap Rajkot hai na aapka office?\\nExecutive: Ha ha 6:30 baje tak, 6 baje tak rehta hai, theek hai, 6 baje ke andar\\nCustomer: Pehle bata dunga mai aapko.\\nCustomer: Koi dikkat nahi waha aap call karke baat kar lijiye.\\nExecutive: Theek hai, theek hai.\\nCustomer: Ha ji.",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received subscription message.\\n\n- Enquired about 6 months free subscription.\\n\n\\n\nResolution:\\n\n- Executive asked for an hour to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- subscription, free subscription, call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 372,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a23ade25-35eb-428e-85d3-d8658ac9a0e9",
+  "ucid": "a23ade25-35eb-428e-85d3-d8658ac9a0e9",
+  "seller_categories": [
+    {
+      "mcat_id": "186034",
+      "mcat_name": "Pure Cotton Saree"
+    },
+    {
+      "mcat_id": "153122",
+      "mcat_name": "Printed Cotton Saree"
+    },
+    {
+      "mcat_id": "2114",
+      "mcat_name": "Cotton Sarees"
+    },
+    {
+      "mcat_id": "220558",
+      "mcat_name": "Hand Batik Sarees"
+    },
+    {
+      "mcat_id": "186036",
+      "mcat_name": "Cotton Hand Block Printed Saree"
+    }
+  ]
+}

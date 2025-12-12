@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676045884",
+  "gluser_id": "213093846",
+  "vintage_months": 4,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Greater Noida",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701966",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2df8448-67e0-4ab6-8b34-dde031d9525d",
+  "ucid": "d2df8448-67e0-4ab6-8b34-dde031d9525d",
+  "seller_categories": [
+    {
+      "mcat_id": "182955",
+      "mcat_name": "Allen Cooper Safety Shoes"
+    },
+    {
+      "mcat_id": "8367",
+      "mcat_name": "Safety Shoes"
+    },
+    {
+      "mcat_id": "189356",
+      "mcat_name": "Tiger Safety Shoes"
+    },
+    {
+      "mcat_id": "81086",
+      "mcat_name": "Safety Jacket"
+    },
+    {
+      "mcat_id": "8305",
+      "mcat_name": "Rubber Hand Gloves"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675403481",
+  "gluser_id": "102938522",
+  "vintage_months": 7,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Rajnandgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello? \\nExecutive: Hi, ab awaz aa rahi hai sir aapko?\\nCustomer: Haan, awaz aa rahi hai.\\nExecutive: Main aapse ye puch rahi thi sir kal na aapke IndiaMART pe jo aapko account manager assign kiye gaye hain, unse baat hui hogi buyleads ko use karne ke bare mein aur category theek karne ke bare mein aur kaafi kuch discussion hua hoga shaam ke time.\\nCustomer: Actually mam kya hua na mera ye jo number hai na agriculture ka ye second number hai. Main abhi IndiaMART mein sales mein kaam kar raha tha us samay unke paas second number nahi tha to mera number add karwa diya tha isme. Agriculture dekhne.\\nExecutive: To aapne na whatsapp pe feedback diya tha sir not satisfied ka to main jaanna chah rahi thi aapko account manager se koi dikkat hai kya? Koi problem hai account manager ke behaviour se ya baat karne ke ya samjhane ke tarike mein?\\nCustomer: Mam aap meri baat samajhiye bhai sahab na actually jo number hai na\\nExecutive: Haan haan.\\nCustomer: Ye number mera hai matlab mera personal number hai agriculture ka nahi hai na ye main bhi IndiaMART mein kaam karta tha sales mein.\\nExecutive: Okay.\\nCustomer: Haan ji to jab unke paas jab wo onboard ho rahe the to unke paas second number nahi tha to us samay hamari team ne mera number add kar diya tha. Taki matlab time de dijiye. Abhi unka jo training number tha jo hai second number mera dala tha but abhi mere ko call aa rahe hain usme har baar.\\nExecutive: Call calling mein dikkat aa rahi hai aapko customers ke jo call and all agar aa rahe hain to. Dekhiye main aapko batati hu isme aapko main ek cheez batati hu abhi aapke catalog ki jo visibility hai wo badh gayi hai yahi reason hai ki pehle aapko do teen call aate the ab aapko 11, 12, 13 call bhi aa rahe hain. Lekin kuch call is mahine aur pichle mahine miss hue hain. Iska reason saaf saaf ye hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving calls on personal number.\\n\nResolution:\\n\n- Executive explained increased catalog visibility.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- calls, account manager, catalog, visibility\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7dbfa66e-bb00-46ab-a397-2ee3284c9f76",
+  "ucid": "7dbfa66e-bb00-46ab-a397-2ee3284c9f76",
+  "seller_categories": [
+    {
+      "mcat_id": "43200",
+      "mcat_name": "Combine Harvester"
+    },
+    {
+      "mcat_id": "192898",
+      "mcat_name": "Kubota Harvester"
+    },
+    {
+      "mcat_id": "650409",
+      "mcat_name": "Track Combine Harvester"
+    },
+    {
+      "mcat_id": "139361",
+      "mcat_name": "Paddy Harvester"
+    },
+    {
+      "mcat_id": "139374",
+      "mcat_name": "Power Reaper"
+    }
+  ]
+}

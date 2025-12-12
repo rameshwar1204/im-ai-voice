@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674741563",
+  "gluser_id": "27100783",
+  "vintage_months": 14,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Bidasar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702421",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello? Hello?\\nExecutive: Haan ji IndiaMART se bol raha hu, kaise ho sir?\\nCustomer: Haan badhiya badhiya alhamdulillah. Hello? Ji sir aapka jo na call aaya tha IndiaMART mein jisme aapne ek concern raise kiya hai. Ki aapko thoda sa bahar aaye hain, bahar aaye ho bhaiya hum Abdul bhai baat kar rahe hain?\\nExecutive: Haan Abdul bol raha hu main.\\nCustomer: Haan sana kal call kijiye inshallah hum baat karenge. Baithe system ke samne hum aaj subah se nikle hue hain bhaiya. Theek hai?\\nExecutive: Achcha aap kitne baje aap available rahenge us waqt mein call kar lunga. Kal kal subah kal subah subah subah aap 10:30 baje ke baad kabhi bhi call kar lena inshallah hum mil jayenge aapko. Theek hai aap system pe aa jayiyega sir kyunki mujhe kuch correction usme bhi karna hai. Main chah raha tha aapse coordinate karna Saddam sir kuch woh Jahangir hai na woh kuch bata hi nahi pa rahe hain toh usko correction kar lenge kuch.\\nExecutive: Theek hai sir. Theek hai theek hai. Theek hai theek hai. Okay haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to coordinate for corrections.\\n\n\\n\nResolution:\\n\n- Executive asked to call after 10:30 AM tomorrow.\\n\n\\n\nNext Steps: \\n\n- Customer will call after 10:30 AM tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- correction, coordination, call schedule\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8a52721f-29d6-43b1-84a2-f3313082e283",
+  "ucid": "8a52721f-29d6-43b1-84a2-f3313082e283",
+  "seller_categories": [
+    {
+      "mcat_id": "44914",
+      "mcat_name": "Bajra"
+    },
+    {
+      "mcat_id": "148158",
+      "mcat_name": "Aloe Vera Leaf"
+    },
+    {
+      "mcat_id": "180387",
+      "mcat_name": "Nagarmotha"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "106964",
+      "mcat_name": "Amla"
+    }
+  ]
+}

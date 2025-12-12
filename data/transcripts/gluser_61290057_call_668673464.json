@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668673464",
+  "gluser_id": "61290057",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647664",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, haan ji.\\nCustomer: Aap customer care number laga ke baat ki thi 14 minute time.\\nExecutive: Hmm?\\nCustomer: Jab mujhe call kiya tha tumne customer care call kiya tha kya India mart se?\\nExecutive: Haan haan.\\nCustomer: To maine tumhara number save karaya to hai yaar tum mujhe call kar liya karo.\\nExecutive: Achcha achcha sorry sir wo dhyan nahi rehta mujhe.\\nCustomer: Ab concern raise ho jayega na apna mujhe ticket close karna hoga maine ticket open kar di na.\\nExecutive: Kyunki ek do baar maine tumse bola maine bola tha ki jab by lead related me koi dikkat ho na mujhe direct call karo.\\nCustomer: Haan.\\nExecutive: Achcha.\\nCustomer: To fir tumhara concern raise ho gaya abhi concern me.\\nExecutive: Theek hai sir aage se dhyan rakhunga sir.\\nCustomer: Isme wahi hai na tumhara by lead ka jo by lead tumhara short short aa rahi hai delivery nahi aa rahi hai.\\nExecutive: Sahi hai sahi hai.\\nCustomer: Haan jab tum free ho jao to mujhe bata dena video call laga ke tumhe ek baar fir se tumhara keyword dekh lunga maine abhi check kiya keyword sare theek hai tumhara jo hand wash kar do product tha wo maine hata hi diya hai wo.\\nExecutive: Theek hai.\\nCustomer: Theek hai main fir concern close kar de raha hu hai na.\\nExecutive: Theek hai sir.\\nCustomer: Aur wo not satisfied aur satisfied aayega to satisfied kar dena fir.\\nExecutive: Theek hai sir.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues with buyleads.\\n\n- Customer wants direct calls for buylead issues.\\n\n\\n\nResolution:\\n\n- Executive checked and corrected the keywords.\\n\n- Executive removed the handwash product.\\n\n- Executive will close the concern.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, keywords, product, concern\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa438a4c-3198-461d-ab79-2c5f733bab30",
+  "ucid": "aa438a4c-3198-461d-ab79-2c5f733bab30",
+  "seller_categories": [
+    {
+      "mcat_id": "7544",
+      "mcat_name": "Optical Brighteners"
+    },
+    {
+      "mcat_id": "37783",
+      "mcat_name": "Silicone Softener"
+    },
+    {
+      "mcat_id": "27107",
+      "mcat_name": "Dye Fixing Agent"
+    },
+    {
+      "mcat_id": "2361",
+      "mcat_name": "Textile Chemical"
+    },
+    {
+      "mcat_id": "9357",
+      "mcat_name": "Silicone Textile Softeners"
+    }
+  ]
+}

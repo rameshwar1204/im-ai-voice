@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671251916",
+  "gluser_id": "102388388",
+  "vintage_months": 8,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Panaji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hi ma'am, good afternoon. This is Ashu Khanna from IndiaMART.\\nCustomer: Ha, it's been You have requested na for the company name change. So please check your WhatsApp ma'am. It's been already updated ma'am as per your GST certificate ma'am. Diwar Dwip Global Market.\\nCustomer: Ha ha. Okay. So I have sent you the screenshot also for your request ma'am.\\nCustomer: No no, it's okay. I will check on the app.\\nExecutive: You you can check ma'am. I have updated some products on my on my app. So can you check check it.\\nExecutive: Ma'am you you just refresh your you ma'am you because your app was already installed. So that is why it was showing the old name. You can do one thing. You can reinstall the application of IndiaMART. So it will be visible. But if you check on the portal of IndiaMART or on your catalog which is created by IndiaMART, it is already been updated which already I have shared the screenshot also on your WhatsApp ma'am.\\nCustomer: Okay.\\nExecutive: Still if you have any query, so you can ask for it. May I know my manager contact details?\\nExecutive: Pardon, could you repeat?\\nCustomer: Can I know my manager contact details? I have to discuss Manager contact details. Yes, product listing and all.\\nExecutive: Product listing. You just be on call ma'am. I just I want to discuss product listing.\\nExecutive: I I can understand you. You just be on call. I'm just giving the call to your account manager. I'm the business manager of your account manager. That time she wasn't available. Sakshi. Oh ma'am ka catalog jo ticket aayega Divakar Dwip.\\nCustomer: Will send it to my page my ID.\\nExecutive: Sakshi Mishra is the name of your account manager.\\nCustomer: Hello?\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Company name not updated on the app.\\n\n- Wants to discuss product listing with manager.\\n\n\\n\nResolution:\\n\n- Company name updated as per GST certificate.\\n\n- Asked to refresh or reinstall the app.\\n\n- Executive connected the call to account manager.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- company name change, product listing, account manager\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 167,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3f6588d0-43b7-4b26-9f92-2147e142345c",
+  "ucid": "3f6588d0-43b7-4b26-9f92-2147e142345c",
+  "seller_categories": [
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "127",
+      "mcat_name": "Christmas Stars"
+    },
+    {
+      "mcat_id": "218580",
+      "mcat_name": "Clay Tea Cup"
+    },
+    {
+      "mcat_id": "28284",
+      "mcat_name": "Fish Masala Mix"
+    },
+    {
+      "mcat_id": "9050",
+      "mcat_name": "Hanging Star"
+    }
+  ]
+}

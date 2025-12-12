@@ -1,0 +1,119 @@
+,Definitions of KPIs in tab 'Nov '25 Customer Profile - Tickets'
+complainant_glusr_id,seller identifier
+customer_ticket_id,ticket identifier in which customer concern has been captured
+vintage_months,customer since in indiamart
+highest_service,highest service taken by the seller
+bl_active_days,days for which seller consumed buylead in previous month since the month ticket was opened i.e Oct '25
+lms_active_days,days for which seller was actively using lead manager in previous month since the month ticket was opened
+pns_calls_ans,pns calls answered by seller
+pns_calls_recd,pns calls made by the buyer to the seller
+inbound_call_attempt,call attempt by seller on 9696
+inbound_call_answered,call answered by executive when seller called on 9696
+call_attempt,call attempt by executive to seller
+call_connect,call connected between executive and seller
+call_connect_gt5min,call connected between executive and seller with more than 5 min conversation
+video_meet,verified video meeting between executive and seller
+meeting,physical meeting between executive and seller
+meet_gt20min,physical meeting between executive and seller with more than 20 min duration
+deleted_products,count of products deleted in prev month since the month ticket was opened i.e Oct '25
+modified_products,count of products modified in prev month since the month ticket was opened
+prd_added,count of products modified in prev month since the month ticket was opened
+location_preference,location preference of the seller
+live_prd_cnt_open,count of products live on seller catalog before ticket was opened
+live_prd_cnt_close,count of products live on seller catalog after ticket was closed
+a_rank_mcats_open,a rank mcats of seller when ticket was opened
+a_rank_mcats_close,a rank mcats of seller when ticket was closed
+d_rank_mcats_open,d rank mcats of seller when ticket was opened
+d_rank_mcats_close,d rank mcats of seller when ticket was closed
+category_count_open,count of mcats of seller when ticket was opened
+category_count_close,count of mcats of seller when ticket was closed
+total_bl,bl consumed in previous month since the month in which ticket was opened i.e Oct '25
+hyperlocal_bl,bl consumed in previous month since the month in which ticket was opened i.e Oct '25
+local_bl,bl consumed in previous month since the month in which ticket was opened i.e Oct '25
+customer_ticket_status,If ticket is wip or closed
+customer_type,customer type
+iil_vertical_name,vertical of seller
+city_name,city of seller
+customer_ticket_closedate,date of closing ticket
+customer_ticket_issuedate,date of issuing ticket
+tat,days taken to close the ticket
+appendum_count,count of customer calling for issues since ticket is already wip
+source_name,"source from where customer raised the concern - 9696, Email, Help, App etc"
+ticket_type,issue classification category 
+category,issue classification category 
+action_taken,action taken on the ticket
+reason,reason of facing the issue by the seller
+feedback_source,Channel (Email or App) through which seller submitted feedback for ticket. 
+customer_satisfaction,Yes (positive) or No (negative) feedback given by the seller on the ticket closure
+ticket_closedby_emp_id,Details of employee who has closed the ticket
+emp_name,Details of employee who has closed the ticket
+emp_grade,Details of employee who has closed the ticket
+iil_func_area_name,Details of employee who has closed the ticket
+is_priority_ticket,flag=2 means this ticket was escalated to L2 manager. flag=Blank/Null means not escalated.
+ticket_assigne_id,executive to whom ticket has been assigned
+ticket_assigne_name,executive to whom ticket has been assigned
+tele_l1_id,employee hierarchy of tele assignee of STS
+tele_l1_name,employee hierarchy of tele assignee of STS
+tele_l2_id,employee hierarchy of tele assignee of STS
+tele_l2_name,employee hierarchy of tele assignee of STS
+tele_l3_id,employee hierarchy of tele assignee of STS
+tele_l3_name,employee hierarchy of tele assignee of STS
+tele_l4_id,employee hierarchy of tele assignee of STS
+tele_l4_name,employee hierarchy of tele assignee of STS
+sales_l1_id,employee hierarchy of sales assignee of STS
+sales_l1_name,employee hierarchy of sales assignee of STS
+sales_l2_id,employee hierarchy of sales assignee of STS
+sales_l2_name,employee hierarchy of sales assignee of STS
+sales_l3_id,employee hierarchy of sales assignee of STS
+sales_l3_name,employee hierarchy of sales assignee of STS
+sales_l4_id,employee hierarchy of sales assignee of STS
+sales_l4_name,employee hierarchy of sales assignee of STS
+sales_l5_id,employee hierarchy of sales assignee of STS
+sales_l5_name,employee hierarchy of sales assignee of STS
+repeat30d,flag to know if the ticket is a repeat ticket in last 30 days from the same customer
+repeat60d,flag to know if the ticket is a repeat ticket in last 60 days from the same customer
+is_ticket_by_sts_owner,flag to identify self ticket which are opened by a process and not due to a customer call 
+feedback_date,date of submitting feedback by customer for the ticket resolution after ticket closure
+old_tele,employee to whom customer was assigned before current assignee
+old_sale,employee to whom customer was assigned before current assignee
+old_tele_name,employee to whom customer was assigned before current assignee
+old_sale_name,employee to whom customer was assigned before current assignee
+fk_group_id,"group id to differentiate tickets into Sales & Service, Legal and Operations"
+fk_iil_vertical_id,vertical id
+is_irate_complaint,flag to know if customer is irated
+cc_hod,employee hierarchy
+cc_hod_id,employee hierarchy
+hod_id,employee hierarchy
+hod_name,employee hierarchy
+rm,Current relationship mgr
+ch,Current cluster head
+zm,Current zonal mgr
+rd,Current regional director
+rm_name,Employee Name of Current relationship mgr
+ch_name,Employee Name of Current cluster head
+zm_name,Employee Name of Current zonal mgr
+rd_name,Employee Name of Current regional director
+first_call_attempt,"Timestamp of first outbound call attempt made by IM employe to the customer (Attempt=Yes, if call was either Answered or Not Answered"
+first_call_connect,"Timestamp of first outbound call connect done by IM employe to the customer. Connect=Yes, if call was Answered by customer"
+first_call_attempt_frm_tkts,Duration between ticket issuance and first outbound call attempt in xD yM zH format (for example: 0D 2H 27M means after 2hr 27min)
+first_call_connect_frm_tkts,Duration between ticket issuance and first outbound call connect in xD yM zH format (for example: 1D 4H 56M)
+first_call_attempt_bucket,"bucket of call attempt TAT (<15min, 16 to 60 min, 61 min - 2hr, 2 to 4hr, 4+ to 24hr (i.e same day), 1-2 day, 2-3d, 3d+)"
+first_call_connect_bucket,"bucket of call connect TAT (<15min, 16 to 60 min, 61 min - 2hr, 2 to 4hr, 4+ to 24hr (i.e same day), 1-2 day, 2-3d, 3d+)"
+l2_plus_connect,flag=Y/N if any customer connect (on call or meet) was done by L2 or above employee after ticket issuance
+custtype_name,"custtype of Glid (Catalog, Star, Leader etc)"
+bm,Current Business Manager (L3 Emp_Id from Sales Hierarchy of glid)
+bm_name,Name of Business Manager
+sm,Current Sales Manager (L2 Emp_Id from Sales Hierarchy of glid)
+sm_name,Name of Sales Manager
+fsf_l1,Current L1 Emp_Id from Sales Hierarchy of glid
+fsf_name,Employee Name of Sales L1
+ccm,Current L3 Emp_Id from Tele Hierarchy of glid
+ccm_name,Employee Name of CCM
+cc_l2,Current L2 Emp_Id from Tele Hierarchy of glid
+cc_l2_name,Employee Name of CC L2
+cc_l1,Current L1 Emp_Id from Tele Hierarchy of glid
+cc_l1_name,Employee Name of CC L1
+ticketissuetime,time of issuing ticket
+ticketclosetime,time of closing ticket
+repeat7d,flag to know if the ticket is a repeat ticket in last 7 days from the same customer
+repeat15d,flag to know if the ticket is a repeat ticket in last 15 days from the same customer

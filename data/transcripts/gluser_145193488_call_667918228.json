@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667918228",
+  "gluser_id": "145193488",
+  "vintage_months": 15,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Rampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639270",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji Mohammad Gulab sir baat kar rahe hain GS Gooda baya se?\\nExecutive: Ji.\\nExecutive: Good morning sir, Amit baat kar raha hun IndiaMART se.\\nExecutive: Mun ka team mate baat kar raha hun sir aapke account manager ka.\\nExecutive: Abhi so rahe hain kya sir?\\nCustomer: Haan sir abhi.\\nExecutive: Theek theek. Kitne baje main call karun?\\nCustomer: Theek hai 12 baje tak baat kar lenge.\\nExecutive: Theek hai. Okay okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if the customer was sleeping.\\n\n\\n\nResolution:\\n\n- Call rescheduled for 12 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, reschedule, account manager\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f35abd7e-8031-48eb-b042-93adecce5e33",
+  "ucid": "f35abd7e-8031-48eb-b042-93adecce5e33",
+  "seller_categories": [
+    {
+      "mcat_id": "42034",
+      "mcat_name": "Islamic Abaya"
+    },
+    {
+      "mcat_id": "186606",
+      "mcat_name": "Burkha"
+    },
+    {
+      "mcat_id": "174565",
+      "mcat_name": "Men Tailor Services"
+    },
+    {
+      "mcat_id": "173007",
+      "mcat_name": "Garment Stitching Service"
+    },
+    {
+      "mcat_id": "175728",
+      "mcat_name": "Ladies Clothes Stitching Services"
+    }
+  ]
+}

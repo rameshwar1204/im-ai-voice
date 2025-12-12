@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666791107",
+  "gluser_id": "180450703",
+  "vintage_months": 3,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644027",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Very good morning Abhi ji.\\nCustomer: Haan ji boliye.\\nExecutive: IndiaMART se baat kar rahi thi.\\nCustomer: Madam, I am in Mangalore.\\nExecutive: Okay.\\nCustomer: I am in a meeting, I'll call you.\\nExecutive: Okay.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Customer was in a meeting and unable to talk.\\n\\n\\nResolution:\\n\\n- Customer stated he would call back.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will call back.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call back, meeting, introduction\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aefc4c0b-9148-4784-a08a-2d25195ca104",
+  "ucid": "aefc4c0b-9148-4784-a08a-2d25195ca104",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "182498",
+      "mcat_name": "Cummins Diesel Generator & DG set"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "184158",
+      "mcat_name": "Kirloskar Silent Generators"
+    }
+  ]
+}

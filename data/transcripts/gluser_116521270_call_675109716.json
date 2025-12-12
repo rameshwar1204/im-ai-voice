@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675109716",
+  "gluser_id": "116521270",
+  "vintage_months": 14,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Natepute",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710900",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible] is tarike se.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji sir aapka call aaya tha bataiye.\\nCustomer: Ji mam kaun baat kar rahe hain?\\nExecutive: Kya?\\nExecutive: Hello.\\nExecutive: Hello.\\nCustomer: Haan bolo kaun baat kar rahe hain?\\nExecutive: Mai aapni bol rahi hu IndiaMART se aapka incoming call aaya tha bataiye kya baat hai?\\nCustomer: Ji wohi na aap bol rahe the na plan ke bare mein pichli baar bata rahe the.\\nExecutive: Ji abhi aapka MDC chal raha hai.\\nExecutive: Maine aapko TrustSeal bhi years bataya tha jisme aapka jo amount hai woh adjust hota.\\nCustomer: Madam.\\nExecutive: Haan.\\nCustomer: Hello.\\nExecutive: Haan haan bataiye bataiye.\\nCustomer: Plan mein wohi kaam kar rahe hain.\\nCustomer: Yeh kar raha tha.\\nCustomer: Is tarike se IndiaMART product deta hai badi lead deta hai badi query deta hai woh sabse bada fayda yeh hota hai ki IndiaMART se.\\nCustomer: [inaudible]\\nCustomer: Hello.\\nExecutive: Yeh aapka basic catalog hai. TrustSeal ke plan mein dekhiye yaha pe TrustSeal milta hai aur yeh TrustSeal ka ek badge milta hai yeh yellow color ka ki koi bhi hamare specified.\\nExecutive: Jaise is page pe click karta hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about the plan.\\n\n\\n\nResolution:\\n\n- Executive explained about TrustSeal plan.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- plan, trustseal, catalog\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=65887ee6-98da-4919-9020-a82448689cdd",
+  "ucid": "65887ee6-98da-4919-9020-a82448689cdd",
+  "seller_categories": [
+    {
+      "mcat_id": "10992",
+      "mcat_name": "Industrial Epoxy Flooring"
+    },
+    {
+      "mcat_id": "171906",
+      "mcat_name": "Industrial Epoxy Flooring Service"
+    },
+    {
+      "mcat_id": "27939",
+      "mcat_name": "Epoxy Flooring"
+    },
+    {
+      "mcat_id": "120852",
+      "mcat_name": "Epoxy Flooring Services"
+    },
+    {
+      "mcat_id": "165824",
+      "mcat_name": "Epoxy Floor Coating Services"
+    }
+  ]
+}

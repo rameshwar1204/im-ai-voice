@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670071266",
+  "gluser_id": "41374398",
+  "vintage_months": 34,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661433",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji, meri ye Mr. Rajesh ji se baat ho rahi hai na?\\nCustomer: Ji.\\nExecutive: Rajesh sir, mai Vishal baat kar raha hu IndiaMART se. Good evening sir, kaise hai?\\nCustomer: Hello?\\nExecutive: Ji, ji, ji. Haan, thik hai sir.\\nExecutive: Sir, actual me na aapka hamare paas ek concern raise hua tha. Shayad aapne hamare customer care wale number pe call kiya hoga.\\nCustomer: No, no, wo humne raise through to humne finally kara diya, usko close kar dijiye sir.\\nExecutive: Achha, koi concern to nahi hai na? Pending to nahi hai?\\nCustomer: Nahi, nahi, ho gaya close. Jo bhi sab problem thi solve ho gayi.\\nExecutive: Thik hai, thik hai. Further sir koi bhi aapko requirement rahe na kisi chiz ko leke.\\nCustomer: Thik hai.\\nExecutive: Please aap hame same number pe jarur contact kariyega. Sir, please karoge, mera number bhi aap save kar sakte hai.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised a concern earlier.\\n\n\\n\nResolution:\\n\n- Customer confirms the issue is resolved and closed.\\n\n- Executive offered further assistance if needed.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- concern, resolution, customer support\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=893fa3fc-2817-460f-99c9-4317c17e2515",
+  "ucid": "893fa3fc-2817-460f-99c9-4317c17e2515",
+  "seller_categories": [
+    {
+      "mcat_id": "42998",
+      "mcat_name": "Milk Analyzer"
+    },
+    {
+      "mcat_id": "139363",
+      "mcat_name": "Paneer Making Machine"
+    },
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    },
+    {
+      "mcat_id": "11225",
+      "mcat_name": "Cream Separator"
+    },
+    {
+      "mcat_id": "180568",
+      "mcat_name": "Bulk Milk Cooler"
+    }
+  ]
+}

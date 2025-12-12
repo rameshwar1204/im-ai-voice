@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670189011",
+  "gluser_id": "53020106",
+  "vintage_months": 19,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jaunpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690405",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan sir ji koi wo nursery wala hai grass ka dealer Navsari ke nazdeek mein?\\nCustomer: Kya cheez?\\nCustomer: Hume jo ghaas garden hota hai na garden.\\nExecutive: Hmm.\\nCustomer: Grass ka dealer chahiye Navsari Gujarat mein hai koi?\\nExecutive: Kis company se baat kar rahe hain sir aap?\\nCustomer: Hum to\\nExecutive: Aapke yahan package mera chalta hai.\\nExecutive: Company ka naam bataiye sir.\\nCustomer: Himalaya krishak parivar.\\nExecutive: To aap jo hai IndiaMART ki directory pe jaate hue product search kijiye wahan pe related supplier aapko sare mil jayenge sir.\\nCustomer: Achcha.\\nExecutive: Haan ji.\\nExecutive: Google pe jo aapko product chahiye na aap wo Google pe uska naam dalna IndiaMART ke link pe click karna sare suppliers ki contact detail samne aa jayegi.\\nCustomer: Theek hai.\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs a grass dealer in Navsari, Gujarat.\\n\n\\n\nResolution:\\n\n- Executive advised to search on IndiaMART directory.\\n- Executive explained how to find suppliers on Google.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- grass dealer, directory, google search\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3db6f9d0-d8b2-4c9c-9af5-49da0ba2342d",
+  "ucid": "3db6f9d0-d8b2-4c9c-9af5-49da0ba2342d",
+  "seller_categories": [
+    {
+      "mcat_id": "154572",
+      "mcat_name": "Eucalyptus Clone Plants"
+    },
+    {
+      "mcat_id": "186261",
+      "mcat_name": "Eucalyptus Plant"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "183065",
+      "mcat_name": "Papaya Plant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676301561",
+  "gluser_id": "9285337",
+  "vintage_months": 11,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Morena",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720629",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nCustomer: Sir, good morning.\\nExecutive: Good morning, ji.\\nCustomer: Sir, ji, main Polyplex Anurag sir baat kar rahe hain?\\nExecutive: Ji.\\nCustomer: Sir ji, mera naam Saransh hai. Business manager baat kar raha tha Noida se, ILM ki head office se baat kar raha tha. Kaise hain? Free ho ke baat karenge sir, thoda busy. Sir, bas ek cheez inform.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm he is speaking with Anurag.\\n\n- Customer wants to inform him of something.\\n\n\\n\nResolution:\\n\n- Executive confirms he is Anurag.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nintroduction, confirmation\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=752ed127-0778-4d1f-b49e-c1b364e4fe3f",
+  "ucid": "752ed127-0778-4d1f-b49e-c1b364e4fe3f",
+  "seller_categories": [
+    {
+      "mcat_id": "16759",
+      "mcat_name": "Pet Preform"
+    },
+    {
+      "mcat_id": "162024",
+      "mcat_name": "LDPE Roll"
+    },
+    {
+      "mcat_id": "80785",
+      "mcat_name": "Pet Bottle Preform"
+    },
+    {
+      "mcat_id": "153483",
+      "mcat_name": "Water Pouch"
+    },
+    {
+      "mcat_id": "177056",
+      "mcat_name": "LDPE Shrink Film"
+    }
+  ]
+}

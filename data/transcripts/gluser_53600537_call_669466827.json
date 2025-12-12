@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669466827",
+  "gluser_id": "53600537",
+  "vintage_months": 6,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Guna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656350",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, haanji sir kya issue aa raha hai bataiye fatafat. Hello hello aawaz aa rahi hai?\\nCustomer: Mai ye keh raha hu ye\\nExecutive: Aa rahi hai aa rahi hai mam aa rahi hai.\\nCustomer: Bataiye sir. Ab toh aa rahi hai?\\nExecutive: Haanji haanji aawaz aa rahi hai. Mai ye toh mail pe mail mail pe kar raha hu na toh ye verify nahi ho raha hai.\\nExecutive: Matlab mail pe jo OTP aa raha hai wahi aap laga rahe ho?\\nCustomer: Haan. Hello?\\nExecutive: Aap keh rahe ho ki aap wahi laga raha hu par verify haan haan verify OTP kar raha hu toh verify OTP nahi ho raha hai.\\nExecutive: Sir ho sakta hai ki time me aapke thoda sa aage piche ho raha ho aur aap dusra OTP dal de rahe ho kyuki aapne kaafi baar click kar diya hoga OTP me aage aap aage piche ho gaya hoga. Matlab aise hota hai na kai baar hum click kar dete hai toh OTP aapke mail pe kitne OTP aaye hai aapne sare aapne time nahi dala hoga na toh sir OTP verified nahi ho pa raha hoga matlab ki jo aapne kaafi baar click kiya hua sir kaafi attempts kiye honge na toh usse OTP jo hai aa gaya hoga aur aapne short short time ke liye rehta hai ki 10 minute ke liye rehta hai na OTP toh ye wala. Nahi nahi ho sakta hai sir ye issue ho mai confirm nahi hu sir lekin ho sakta hai ye issue otherwise toh ye issue ye issue hoga ki aapne chaliye mai aapko mai ek baar ek baar check karunga ya one to one one to one me jaakar check karunga end to end OTP dalunga mai ek baar.\\nExecutive: Sir ho sakta hai ye server issue ho sakta hai. Phone pe lene me time phone pe lene me time lag raha ho mai one to one baith ke kar lenge sath me.\\nExecutive: Sir meri baat bhi sun lijiye aap. Mai mai ye keh rahi hu mai ye keh rahi hu ki sir ho sakta hai jo maine aapko issue bataya after so much attempts ye ho sakta hai ki dikkat aa rahi ho otherwise sir ye issue ho sakta hai ki server issue ho kyuki sir agar aapka aadhar card verified ho gaya mail issue ho raha hai toh ho sakta hai sir server issue ho aap raat me ek baar try karna kyuki raat me thoda internet connection thoda sa sahi rehta hai. Thik hai raat me ek baar try kar lena.\\nCustomer: Raat me raat me hum dono alag alag ho jate hai bhaiya mai morning me karta hu kal morning me.\\nExecutive: Toh sir raat me kar lijiye na aur haan kaafi time baad kuch der baad try abhi abhi abhi chhod dijiye abhi try mat kariye sir nahi toh fir kuch aur jyada faltu ka issue aayega thik hai.\\nCustomer: Oh okay okay mai kal call karta hu aapko.\\nExecutive: Ji ji ji. Okay thank you mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to verify OTP on mail.\\n\n\\n\nResolution:\\n\n- Executive suggested possible reasons for OTP verification failure.\\n\n- Executive advised trying again at night.\\n\n\\n\nNext Steps: \\n\n- Customer will try again later or tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- otp, verification, server issue\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 151,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a1957206-2d37-4df1-a297-ed7815112d0e",
+  "ucid": "a1957206-2d37-4df1-a297-ed7815112d0e",
+  "seller_categories": [
+    {
+      "mcat_id": "139904",
+      "mcat_name": "Compostable Bags"
+    },
+    {
+      "mcat_id": "50110",
+      "mcat_name": "Biodegradable Plastic Bag"
+    },
+    {
+      "mcat_id": "4415",
+      "mcat_name": "Biodegradable and Compostable Bags"
+    },
+    {
+      "mcat_id": "158217",
+      "mcat_name": "D-Cut Non Woven Bags"
+    },
+    {
+      "mcat_id": "215305",
+      "mcat_name": "Corn Starch Bags"
+    }
+  ]
+}

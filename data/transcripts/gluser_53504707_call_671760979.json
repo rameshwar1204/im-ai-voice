@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671760979",
+  "gluser_id": "53504707",
+  "vintage_months": 5,
+  "bl_dau_oct": 24,
+  "customer_type": "FREELIST",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677183",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hi Pappu ji se baat ho rahi hai?\\nCustomer: Ji.\\nExecutive: Hi Pappu sir good morning main Hemant baat kar raha hu sir senior manager India Mart se.\\nCustomer: Ji sir bataiye.\\nExecutive: Aapka call karne ka purpose ye tha ki aapne hamare customer care number pe phone kiya tha right sir aapka call aaya tha hame aapke concern ke regarding ki abhi panch mahine ho gaye hain aapko bhi ek bhi business nahi mila hai right sir to hum ek video meeting karna chahte hain aapke sath theek hai hamari video meeting already hui thi aapse 6 November ko hamari team ne aap se kiya bhi tha.\\nExecutive: Right baki dobara ek bar hum karte hain ki ha kya leads mein dikkat aa rahi hai kyu nahi convert ho raha hai to iske liye koi suitable time sir aapka?\\nCustomer: Uh 4 baje ke baad.\\nExecutive: 4 baje ke baad theek hai sir please usse pehle agar time mile to ek bar connect kara dunga team se but 4 baje aap available rahiye ga thoda 5-10 minute time nikal lijiyega ki dekhe kahan pe dikkat aa rahi hai sir theek hai kuch by leads pe bhi discuss karenge aap se ki kyu nahi by leads convert ho rahi hai aapko direct calls aa rahi is pe discuss karenge to please sir time thoda manage kar lijiyega theek hai Pappu sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received business in five months.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meeting to discuss the issue.\\n\n\\n\nNext Steps: \\n\n- Customer to be available at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, video meeting, subscription\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1e3d84b5-3aa9-4119-a01a-bab7ee1b7e10",
+  "ucid": "1e3d84b5-3aa9-4119-a01a-bab7ee1b7e10",
+  "seller_categories": [
+    {
+      "mcat_id": "106132",
+      "mcat_name": "Multani Mitti"
+    },
+    {
+      "mcat_id": "190267",
+      "mcat_name": "Pitambari Powder"
+    },
+    {
+      "mcat_id": "159196",
+      "mcat_name": "Fullers Earth Powder"
+    },
+    {
+      "mcat_id": "33751",
+      "mcat_name": "Naphthalene Balls"
+    },
+    {
+      "mcat_id": "49941",
+      "mcat_name": "Rangoli Color"
+    }
+  ]
+}

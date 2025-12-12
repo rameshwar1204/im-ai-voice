@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675186520",
+  "gluser_id": "70110723",
+  "vintage_months": 55,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710221",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, good evening, ma'am.\\nCustomer: Haan, boliye.\\nExecutive: Ji, main Ravi baat kar raha hun, ma'am, IndiaMART se, doctor se, ma'am. Aapne ek concern raise kiya tha 9696 pe call karne kiya tha aapne?\\nCustomer: Haan, haan, ji, sir.\\nExecutive: Haan, kya kya concern tha ma'am apna?\\nCustomer: Haan, sir, Ravi ke liye mane www.saptarishi.com.\\nExecutive: Okay.\\nCustomer: Ye website four to five month ho gaya hai, sir, deactivate ho gaya hai. Activate karna padega.\\nExecutive: Jo apna www apna khud ka own domain tha, usme kya karna hai aapko?\\nCustomer: Wo sir pehle se visible ho raha tha, theek hai. Abhi four to five month ho gaya hai, abhi kuch bhi wo www.saptarishi.com marne se koi bhi hum bhi nahi dekh pa rahe, koi customer bhi wo website check nahi kar pa rahe.\\nExecutive: Aur yahi apna main concern hai aur ye last apna four to five months se hi ho raha hai.\\nCustomer: Haan, haan, ji.\\nExecutive: Theek hai. Main aisa karta hun ma'am, within five minutes, call escalate kara deta hun, escalate kar deta hun ma'am call senior ke saath mein, theek hai?\\nCustomer: Ji, ji, theek hai, okay, sir.\\nExecutive: Abhi toh aap office mein hoge na ma'am abhi?\\nCustomer: Nahi, nahi, office mein hun sir abhi.\\nExecutive: Theek hai, main within five minutes aapko call escalate kara raha hun main.\\nCustomer: Achha, theek hai, okay, okay, sir.\\nExecutive: Theek hai ma'am, thank you so much.\\nCustomer: Ji, sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's website is deactivated for 4-5 months.\\n\n- Unable to view website by typing the URL.\\n\n\\n\nResolution:\\n\n- Executive assured to escalate the call to senior.\\n\n\\n\nNext Steps: \\n\n- Executive will escalate the call within 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- website, domain, deactivation, escalation\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca5594db-c670-4aa7-9213-237f94734056",
+  "ucid": "ca5594db-c670-4aa7-9213-237f94734056",
+  "seller_categories": [
+    {
+      "mcat_id": "158612",
+      "mcat_name": "Disulfiram Tablet"
+    },
+    {
+      "mcat_id": "161340",
+      "mcat_name": "Alcohol De Addiction Medicine"
+    },
+    {
+      "mcat_id": "182338",
+      "mcat_name": "Height Increaser Tablet"
+    },
+    {
+      "mcat_id": "121266",
+      "mcat_name": "Yellow Sapphire"
+    },
+    {
+      "mcat_id": "8336",
+      "mcat_name": "Ruby Gemstone"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673774303",
+  "gluser_id": "28105612",
+  "vintage_months": 17,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698420",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji. Hello. Sir Durgesh bol raha hu India Mart se. Hello?\\nCustomer: Hello?\\nExecutive: Hello. Yes sir, aawaz aa rahi hai?\\nExecutive: Sir Durgesh bol raha hu India Mart se.\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia mart, introduction\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=42db7cc1-7880-4f8b-a065-d3d114e6dc3b",
+  "ucid": "42db7cc1-7880-4f8b-a065-d3d114e6dc3b",
+  "seller_categories": [
+    {
+      "mcat_id": "12225",
+      "mcat_name": "FRP Mold"
+    },
+    {
+      "mcat_id": "70048",
+      "mcat_name": "FRP Products"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "159316",
+      "mcat_name": "FRP Canopy"
+    },
+    {
+      "mcat_id": "19146",
+      "mcat_name": "Shower Tray"
+    }
+  ]
+}

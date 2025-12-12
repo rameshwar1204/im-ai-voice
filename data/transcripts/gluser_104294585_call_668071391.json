@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668071391",
+  "gluser_id": "104294585",
+  "vintage_months": 0,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639486",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Ritika ji se baat ho rahi hai na?\\n\\nCustomer: Hello.\\nExecutive: Ritika ji se baat ho rahi hai na?\\n\\nCustomer: Sir Ritika se baat ho rahi hai?\\n\\nCustomer: Haanji woh meeting ke liye wapas call nahi aaya.\\n\\nExecutive: Hello hello. Sir usse baat kar rahe hain Garlic Enterprise se?\\n\\nCustomer: Haanji.\\nExecutive: Ji ji. Sir bas aap dijiye main abhi meeting schedule karke aapko call kar rahi hu five minutes.\\n\\nCustomer: Theek hai.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he didn't receive a call back.\\n\n\\n\nResolution:\\n\n- Executive will schedule a meeting and call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, call schedule, follow up\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=157c15a8-d2f5-4e5c-9336-80069b84f7d9",
+  "ucid": "157c15a8-d2f5-4e5c-9336-80069b84f7d9",
+  "seller_categories": [
+    {
+      "mcat_id": "69245",
+      "mcat_name": "Fresh Garlic"
+    },
+    {
+      "mcat_id": "42518",
+      "mcat_name": "Garlic"
+    },
+    {
+      "mcat_id": "187693",
+      "mcat_name": "Organic Garlic"
+    },
+    {
+      "mcat_id": "179852",
+      "mcat_name": "Peeled Garlic"
+    },
+    {
+      "mcat_id": "216871",
+      "mcat_name": "Black Garlic"
+    }
+  ]
+}

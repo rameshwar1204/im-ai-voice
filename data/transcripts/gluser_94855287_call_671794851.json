@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671794851",
+  "gluser_id": "94855287",
+  "vintage_months": 46,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jagatsinghapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678200",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=92810796-16dc-41dc-bdcc-07f6efe805b5",
+  "ucid": "92810796-16dc-41dc-bdcc-07f6efe805b5",
+  "seller_categories": [
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "764",
+      "mcat_name": "Incense Sticks"
+    },
+    {
+      "mcat_id": "158304",
+      "mcat_name": "Incense Sticks Fragrances"
+    },
+    {
+      "mcat_id": "42112",
+      "mcat_name": "Floral Incense Sticks"
+    },
+    {
+      "mcat_id": "6683",
+      "mcat_name": "Natural Incense Stick"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671268805",
+  "gluser_id": "48746687",
+  "vintage_months": 96,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9684362",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b?\\nCustomer: \u0939\u0947\u0932\u094b \u0938\u0930 \u0939\u093e\u092f \u092a\u0932\u094d\u0932\u0935\u0940 \u092c\u094b\u0932 \u0930\u0939\u0940 \u0939\u0942\u0902 \u092e\u0948\u0902 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u0938\u0947\\nExecutive: \u0905 \u092e\u0948\u0902 \u092e\u0948\u0902 \u092a\u093e\u092a\u093e \u0915\u0947 \u0930\u093e\u0907\u0938 \u092e\u0947\u0902 \u0939\u0942\u0902 \u0905\u092d\u0940 \u0921\u093f\u0938\u094d\u091a\u093e\u0930\u094d\u091c \u0915\u0930 \u0930\u0939\u0947 \u0915\u0930\u0924\u093e \u0939\u0942\u0902 \u092e\u0948\u0902 \u0906\u092a\u0915\u094b\\nCustomer: \u0905\u091a\u094d\u091b\u093e \u0913\u0915\u0947 \u0939\u093e\u0902 \u091c\u0940 \u0939\u093e\u0902 \u091c\u0940 \u0924\u094b \u092a\u094d\u0932\u0940\u091c \u091f\u0947\u0915 \u0915\u0947\u092f\u0930 \u091c\u0940\\n",
+  "summary": "\\n\nConcerns:\\n\n- Pallavi calling from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive is at hospital and will call back later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, callback\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4677a67e-2f5d-4631-8df8-7a2edd50544f",
+  "ucid": "4677a67e-2f5d-4631-8df8-7a2edd50544f",
+  "seller_categories": [
+    {
+      "mcat_id": "6138",
+      "mcat_name": "Epoxy Floor Coating"
+    },
+    {
+      "mcat_id": "27939",
+      "mcat_name": "Epoxy Flooring"
+    },
+    {
+      "mcat_id": "28316",
+      "mcat_name": "Floor Coatings"
+    },
+    {
+      "mcat_id": "1435",
+      "mcat_name": "Epoxy Coatings"
+    },
+    {
+      "mcat_id": "120852",
+      "mcat_name": "Epoxy Flooring Services"
+    }
+  ]
+}

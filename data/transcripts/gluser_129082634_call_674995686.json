@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674995686",
+  "gluser_id": "129082634",
+  "vintage_months": 53,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698727",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, Nitesh se good afternoon.\\nExecutive: Ji, good afternoon.\\nCustomer: Sunna ji se baat kar rahi hu India Mart se, kaise hai aap?\\nExecutive: Ji, theek hu boliye.\\nCustomer: Sir mera aapke sath discussion hua tha direct query se related.\\nExecutive: Dekhiye isme jo dusra number hai na us pe aap baat kar lijiye na, wo ladka dekhta hai office mein, main to bahar rehta hu.\\nCustomer: Theek hai.\\nExecutive: Dusra number diya hua hai usme aap baat kar lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Discussion about direct query.\\n\n\\n\nResolution:\\n\n- Asked to call another number to discuss the query.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer was asked to call another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ndirect query, call transfer\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45afa890-b062-469f-b3f4-e2d4eed6028f",
+  "ucid": "45afa890-b062-469f-b3f4-e2d4eed6028f",
+  "seller_categories": [
+    {
+      "mcat_id": "222754",
+      "mcat_name": "Phosphate Rich Organic Manure (PROM)"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "215886",
+      "mcat_name": "Bio Potash"
+    },
+    {
+      "mcat_id": "141258",
+      "mcat_name": "Bentonite Granules"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    }
+  ]
+}

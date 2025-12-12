@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674670096",
+  "gluser_id": "254905452",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Jalgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644129",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Bolo?\\nCustomer: Haan, good afternoon, ma'am.\\nExecutive: Haan, bolo sir.\\nExecutive: Haan, Vivek baat kar raha hu IndiaMART office se.\\nCustomer: Okay.\\nExecutive: Ji, sir se baat ho jayegi kya?\\nCustomer: Aapne pehle call kiya tha kya?\\nExecutive: Ji, ji, morning call call kiya tha.\\nCustomer: Okay, sir, aapka number spam karke show ho raha hai, sir.\\nExecutive: Ah, woh company ka number hai, ma'am, isliye show ho raha hoga.\\nCustomer: Okay, sir, thoda mein thoda der baad aa jayenge toh baat karungi sir.\\nExecutive: Achha, achha, kab tak aa jayenge? Kuch idea hai, ma'am?\\nCustomer: Ah, sir, abhi 15 ek minute mein.\\nExecutive: Theek hai, theek hai, okay.\\nCustomer: Aapka naam kya hai?\\nExecutive: Mera naam Vivek hai.\\nCustomer: Okay, subah aap se hi baat hui thi kya?\\nExecutive: Haan, subah meri baat, haan, maine hi karwaya tha, baat hui thi. Ah, Tannu jo aapke account manager hai, unhone profile share kiya tha.\\nCustomer: Okay, okay, sir.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's number is showing as spam.\\n\n- Wants to talk to the concerned person.\\n\n\\n\nResolution:\\n\n- Executive informed it is company number.\\n\n- Executive asked when the concerned person will be available.\\n\n\\n\nNext Steps: \\n\n- Executive will call after 15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, spam, profile, account manager\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8400b394-c216-4f0f-8fb1-a55211fad7bd",
+  "ucid": "8400b394-c216-4f0f-8fb1-a55211fad7bd",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "215042",
+      "mcat_name": "Ram Darbar Coin"
+    },
+    {
+      "mcat_id": "35656",
+      "mcat_name": "Powder Coating"
+    },
+    {
+      "mcat_id": "2944",
+      "mcat_name": "Cosmetic Talcum Powder"
+    },
+    {
+      "mcat_id": "33198",
+      "mcat_name": "Metal Cleaners"
+    }
+  ]
+}

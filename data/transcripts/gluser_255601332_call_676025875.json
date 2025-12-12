@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676025875",
+  "gluser_id": "255601332",
+  "vintage_months": 0,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719566",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHaan ji.\\nHanji madam, Sri Nang Industries se bol raha hu mai.\\nRukiye mai call back karti hu. \\nMai video call pe hu, do minute me call back karti hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Caller is from Sri Nang Industries.\\n\n\\n\nResolution:\\n\n- Executive will call back in two minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back in two minutes.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, industries\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f99bfcd2-ceaf-43ba-8d51-f870da2f278d",
+  "ucid": "f99bfcd2-ceaf-43ba-8d51-f870da2f278d",
+  "seller_categories": [
+    {
+      "mcat_id": "5781",
+      "mcat_name": "Patchwork Fabrics"
+    },
+    {
+      "mcat_id": "74676",
+      "mcat_name": "Silk Kaftan"
+    },
+    {
+      "mcat_id": "10618",
+      "mcat_name": "Ladies Jacket"
+    },
+    {
+      "mcat_id": "3465",
+      "mcat_name": "Women Cotton Tops"
+    },
+    {
+      "mcat_id": "6742",
+      "mcat_name": "Dupioni Fabric"
+    }
+  ]
+}

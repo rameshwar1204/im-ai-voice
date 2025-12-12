@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674145449",
+  "gluser_id": "30629787",
+  "vintage_months": 22,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello. Saini ji baat kar rahe hain Shree Ram Stone Crusher se?\\nCustomer: Haan ji.\\nExecutive: Main Rupal baat kar rahi hun senior manager IndiaMART se. Kaise hain aap?\\nCustomer: Badhiya mam.\\nExecutive: Actually hamare paas mere paas na aapka ek feedback aaya tha. Kal aapki baat hui hogi na Manish se jo aapke account mein handle kar rahe hain unse discussion hua hai aapka?\\nCustomer: Nahi mam main abhi kya hai ki actually mam main kahin bahar aaya hua hun meeting ke silsile mein.\\nExecutive: Hmm.\\nCustomer: To abhi main factory pahunchunga, kal pahunchunga tab baat kar paunga.\\nExecutive: Kal baat hogi.\\nCustomer: Maine unse yehi bola tha. Haan haan.\\nExecutive: Manish ji se aapne ye bola tha kal?\\nCustomer: Nahi kal meri baat nahi hui unse.\\nExecutive: Ye primary number pe kaun hai jiske last mein 091 hai?\\nCustomer: Ye factory ke number hai.\\nExecutive: To ye kaun attend karta hai?\\nCustomer: Ye bhai attend karte hain.\\nExecutive: Matlab kaun hai person naam kya hai unka?\\nCustomer: Father sahab karte honge ya koi other karte honge.\\nExecutive: Okay. Kyunki yahan pe na kal us number pe discussion hua hai. Discussion to bahut achcha update hua hai that satisfied with the services. Aur baad mein uska ek feedback aaya hai hamare paas mein not satisfied ka. To wo maine usi discussion ke liye call kiya tha. Ki aap hamari services se satisfied hain ya nahi hain?\\nCustomer: Theek hai kal baat karna is.\\nExecutive: Baad mein baat karun? Chaliye theek hai.\\nCustomer: Theek hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive received a feedback of customer not satisfied.\\n\nResolution:\\n\n- Executive called to verify customer satisfaction.\\n\nNext Steps: \\n\n- Customer will discuss it tomorrow.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, services\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eff3ab01-bd09-41ec-9a5c-ac226da159cc",
+  "ucid": "eff3ab01-bd09-41ec-9a5c-ac226da159cc",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "216789",
+      "mcat_name": "Sandstone Jali"
+    },
+    {
+      "mcat_id": "8004",
+      "mcat_name": "Stone Grills"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    }
+  ]
+}

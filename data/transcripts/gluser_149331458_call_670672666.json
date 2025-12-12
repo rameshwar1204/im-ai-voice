@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670672666",
+  "gluser_id": "149331458",
+  "vintage_months": 41,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662110",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan sir bole.\\nExecutive: Main Vishal baat kar raha hun IndiaMART office se sir kaise hain aap?\\nCustomer: Bolo na theek hai gadi chala raha tha kal aapke gadi chalate time bhi phone aa raha tha kal.\\nExecutive: I'm really sorry sir maine agar aapko disturb kiya ho. Main bas itna puch raha tha sir wo aapka concern aaya tha na wo resolve ho gaya hai?\\nCustomer: Haan. Suniye na main ye number pe aapko ek ghante mein number phone karta hun ye isi number pe.\\nExecutive: Theek hai sir main baat kar lunga aapse. Bas puch raha tha wo concern to resolve hai na usme kuch pending to nahi hai na?\\nCustomer: Haan pending?\\nExecutive: Main keh raha tha jo aapka complain aaya tha yahan par concern aaya tha na feedback aaya tha.\\nCustomer: Nahi wo ho gaya wo ho gaya complete.\\nExecutive: To usko main close kar du?\\nCustomer: Haan kal kiya tha na close wo madam ka phone aaya tha na.\\nExecutive: Theek hai to close kar dena sir isko theek hai further agar koi assistant required ho sir please hume connect karega sir same number pe theek hai baki aapke catalog mein kuch missing hai sir. Kuch specification mein kuch product ki image missing hai kuch sir matlab price missing hai kisi mein product ka naam bhi missing kar rakha hai sir matlab proper tarike se pura naam nahi likha hua.\\nCustomer: To aap kar rahe the kya meri jarurat kya hai na?\\nExecutive: Nahi sir aapki requirement padti hai main aapke main aapke catalog mein kuch changes nahi kar sakta without any confirmation sir.\\nCustomer: Haan. Aur jo bhi kar do kya changes karna hai kar do mujhe kuch nahi mujhe khali kaam milna mangta hai.\\nExecutive: Ji ji ji sir usi ke liye main keh raha hun aapka catalog mein kuch missing hai na mere ko aap jo bhi change karenge udhar se mujhe kuch ye nahi hai magar udhar se khali mere ko kya hai taklif hai ki kaam milna mangta hai baki kuch nahi.\\nExecutive: Nahi nahi. Theek hai sir wo to main baat janta hun but aapse na bina kisi cheez discuss kare hum kuch bhi edit nahi kar sakte hain sir.\\nCustomer: Haan. Theek hai. Baki mujhe price bata sakte hain sir ye blinds ka kya price hoga?\\nCustomer: Blinds ka?\\nExecutive: Price kya rehta hai aapka? Haan roller blind jo plain colour ka rehta hai blackout.\\nExecutive: Ye khali aapne blind karke naam likha hua hai sir iska kya rahega?\\nCustomer: Haan. Nahi nahi kaisa blind mein teen char prakar ke rehte hain.\\nExecutive: Ji.\\nCustomer: Printed rehta hai plain rehta hai.\\nExecutive: Isme khali khali product ka naam aapne blind likha hua hai to isko correct kare kya? Roller blind likh de isko?\\nCustomer: Roller blind plain colour mein aate hain blackout karke aata hai 80 square feet.\\nExecutive: Ji roller blind 80 ka hai?\\nCustomer: Haan matlab plain colour blackout.\\nExecutive: Ek minute plain plain roller blind kar du?\\nCustomer: Haan plain kar do. Plain kar deta hun plain roller blind ke naam se theek hai. Haan blackout isme blackout. Haan blackout bolte hain pura andhera hone ke liye.\\nExecutive: Ek minute. 80 square feet aata hai wo.\\nCustomer: Ek minute rukiye na.\\nExecutive: Iska rehta hai aapka 80 na square feet.\\nCustomer: Haan.\\nExecutive: Theek hai main ek minute ye bhi add kar deta hun iska price bhi. 80 square feet ke naam se theek hai. Dusra aapka product hai sir ye bambu roll roll up blind ke naam se iska kya rahega?\\nCustomer: Bambu nahi hai bambu ka natural bambu rehta hai wo 250 square feet aata hai.\\nExecutive: Ye 250 hai?\\nCustomer: Haan bambu natural bambu.\\nExecutive: Main aapko product ka naam bata raha hun. Ye hai bambu roll up blind ke naam se theek hai ye?\\nCustomer: Nahi kaise hai sir bambu mein do do type ke rehte hain.\\nExecutive: Ji.\\nCustomer: Bambu mein bhi do type rehta hai. Main aapko phone main aapko ek ghante mein phone karta hun sir gadi chala raha hun main sab system deta hun okay.\\nExecutive: Theek hai sir catalog ke liye main aapko connect kar leta hun jo concern tha main ek bari close karta hun yahan par theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a previously raised concern.\\n\n- Catalog has missing specifications, images, prices, names.\\n\n- Wants to know the price of blinds.\\n\n\\n\nResolution:\\n\n- Executive confirmed the previous concern was resolved.\\n\n- Executive offered to correct the catalog issues.\\n\n- Executive updated the product name and price.\\n\n- Executive will connect for catalog updates.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, price, blinds, product update\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 244,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78cfb091-f27a-4b7b-acd0-ce4e5b817aa4",
+  "ucid": "78cfb091-f27a-4b7b-acd0-ce4e5b817aa4",
+  "seller_categories": [
+    {
+      "mcat_id": "218452",
+      "mcat_name": "Invisible Grill"
+    },
+    {
+      "mcat_id": "186452",
+      "mcat_name": "Sliding Mosquito Net"
+    },
+    {
+      "mcat_id": "3419",
+      "mcat_name": "Window Blinds"
+    },
+    {
+      "mcat_id": "117492",
+      "mcat_name": "Window Roller Blind"
+    },
+    {
+      "mcat_id": "127591",
+      "mcat_name": "Zebra Blinds"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676679532",
+  "gluser_id": "148932995",
+  "vintage_months": 3,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698346",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan\\nExecutive: Ya hello sir very good morning aap kaun baat kar rahe hain sir?\\nCustomer: Main Vinod Gouri baat kar raha hun.\\nExecutive: Aap Sikandar baat kar rahe hain?\\nCustomer: Sikandar ka bhai.\\nExecutive: Accha accha. Ek second sir aap call par hi rahiye theek hai main ek second ruk jaaiye.\\nCustomer: Haan.\\nExecutive: Main aapka profile open kar leti hun one second.\\nCustomer: Kahan se bol rahe ho?\\nExecutive: Main Kajal baat kar rahi hun sir IndiaMART se call kar rahi thi actually main aapke baare aap Gouri Art Udyog se baat kar rahe hain na?\\nCustomer: Haan Genuine Handicraft.\\nExecutive: Gouri Art band kar diya humne Genuine Handicraft se bol raha hun.\\nExecutive: Accha to sir bataiye kuch kaam tha sir aapko?\\nCustomer: Mere ko to wo to maine phone kiya tha wo ek photo dala tha abhi tha maine.\\nExecutive: Kya sir?\\nCustomer: Ek dore aata hai dore aata hai ek tarike us tarike karke ujala tangus.\\nCustomer: Wo photo dala tha maine uske mamle mein baat kar rahe ho kya aap?\\nExecutive: Aapne sir photo dala hua hai kahan pe dala hua hai?\\nCustomer: IndiaMART WhatsApp pe.\\nCustomer: Ek koi item chahiye tha mere ko maine haan ji?\\nExecutive: IndiaMART pe aapne photo dala hua hai.\\nCustomer: Haan ek koi item chahiye tha mere ko pallu dore ka item hota hai dora hota hai dore ki gattiya hoti hai uske andar.\\nExecutive: Accha.\\nExecutive: Ek second sir main aapko ji ek second main aapka profile open karke ek bari aapko call back karti hun theek hai sir?\\nCustomer: Theek hai.\\nExecutive: Theek hai sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs information about a photo he uploaded.\\n\n\\n\nResolution:\\n\n- Executive will check the profile and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photo, profile, callback, item\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa1de8f8-2d83-402e-8ca1-6a69b23306fd",
+  "ucid": "fa1de8f8-2d83-402e-8ca1-6a69b23306fd",
+  "seller_categories": [
+    {
+      "mcat_id": "10263",
+      "mcat_name": "Iron Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "11884",
+      "mcat_name": "Garden Chairs"
+    },
+    {
+      "mcat_id": "15859",
+      "mcat_name": "Iron Stool"
+    },
+    {
+      "mcat_id": "15855",
+      "mcat_name": "Iron Sofa"
+    }
+  ]
+}

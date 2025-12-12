@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673886311",
+  "gluser_id": "228202395",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699352",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Haan Pushkar ji.\\n\\nCustomer: Ji.\\n\\nExecutive: Haan Pranshu bol raha hu sir IndiaMART se.\\n\\nCustomer: Ji bhaiya boliye.\\n\\nExecutive: Haan ye keh raha tha sir tabiyat theek hai aapki?\\n\\nCustomer: Kal subah bhi call kiya tha sir.\\n\\nExecutive: Haan ji? Haan.\\n\\nCustomer: Theek hai bhaiya. Chaliye. Chaliye achi baat hai. Ye keh raha tha actually maine ek feedback abhi aapko bheja tha WhatsApp pe usko not satisfied aapne kyu kar diya?\\n\\nCustomer: Maine nahi kiya yaar. One bola maine kiya not satisfied.\\n\\nExecutive: Actually maine apne liye matlab bheja tha maine aapko matlab jo hamari baat hui thi parso.\\n\\nCustomer: Uske baad maine to click kiya wo galti se click ho gaya tha dobara se bhejo.\\n\\nExecutive: Aise galti se ho gaya. Koi na mai ek closing aapki ye kar raha hu mai mail pe ek bhej raha hu aapko usko yes kar dijiyega please. Theek hai?\\n\\nCustomer: Maine yes kiya tha. Satisfied click karne wala tha wo ho gaya hoga.\\n\\nExecutive: Haan wo actually aapke profile me ticket open ho gaya hai to mai close kar raha hu isko. Theek hai? Aur mai WhatsApp pe bhi message kar dunga aapko mail aayega aapke pass. Theek hai? Uspe yes reply kar dijiyega please. Theek hai? Wo mere liye feedback jaa ke aaya hai.\\n\\nCustomer: Nahi yaar. Theek hai? Tum dekhoge WhatsApp dekhoge maine satisfied hi click kiya hai.\\n\\nExecutive: Haan acha wo ho sakta hai not satisfied me click ho gaya hoga aapka.\\n\\nCustomer: Haan wo baad me ho gaya hoga.\\n\\nExecutive: Haan. Koi na mai abhi ek bhejta hu aapko. Theek hai? Wo mail pe abhi aayega aapke pass uspe yes kar dijiyega. Theek hai?\\n\\nCustomer: Theek hai okay.\\n\\nExecutive: Theek hai mai bhej raha hu. Do minute dijiye mai bhejta hu abhi. Theek hai? Okay okay. Okay sir okay sir. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer accidentally marked feedback as not satisfied.\\n\n\\n\nResolution:\\n\n- Executive will send a new feedback form via mail.\\n\n- Customer agreed to mark it as satisfied.\\n\n- Executive is closing the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer to reply 'yes' to the email.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfied, not satisfied, ticket\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=253fc91b-1beb-4aba-969d-d689d4b52dfb",
+  "ucid": "253fc91b-1beb-4aba-969d-d689d4b52dfb",
+  "seller_categories": [
+    {
+      "mcat_id": "78263",
+      "mcat_name": "Round Neck T Shirt"
+    },
+    {
+      "mcat_id": "650440",
+      "mcat_name": "Oversized T Shirt"
+    },
+    {
+      "mcat_id": "654845",
+      "mcat_name": "DTF Printing Services"
+    },
+    {
+      "mcat_id": "139794",
+      "mcat_name": "T-Shirt Printing Services"
+    },
+    {
+      "mcat_id": "11198",
+      "mcat_name": "Cotton T-shirts"
+    }
+  ]
+}

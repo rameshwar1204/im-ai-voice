@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670281788",
+  "gluser_id": "105707675",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Cuddalore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666245",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Madam vanakkam madam.\\nCustomer: Sir sollunga sir.\\nExecutive: Madam ippo India Martla irunthu namma idhu eduthukuren madam package eduthukuren.\\nCustomer: Okay.\\nExecutive: Ippo indha package madam one year mudiyapothu adhu stop pannum madam adhukagathan call pannikiren madam.\\nCustomer: Appdingala oru nimisham irunga.\\nExecutive: Aa.\\nExecutive: Ore nimisham sir.\\nCustomer: Idhaye continue pannalingala neenga?\\nExecutive: Illa madam ippo odittu irukudhu.\\nCustomer: Okay.\\nExecutive: Adhu stop pannum madam. Enna issue sir edhunala stop panreenga?\\nCustomer: Lead eh illa madam suthama one year ivlo wait pannunga wait pannunga oru moonu maasam wait pannunga appdi ippdinnu sonnaanga. Wait pannikitte thaan irukken lead eh kidayadhu madam. Suthama lead illa.\\nCustomer: Okay.\\nExecutive: Delhi, Maharashtra, Gujarat idhula avarukku adiyadhu andha idhu thaan varudhu. Tamilnadu fulla panra Tamilnadu fullathukume lead eh kidayadhu.\\nCustomer: Buyleads thaan appdi irukkunga direct calls ippothaikku eppdi irukkunga sir?\\nExecutive: Ethana vandhirukku paaringa madam neenga direct calls.\\nCustomer: Idhu varaikum enakk ethana direct calls vandhirukku paaringa.\\nCustomer: Ore nimisham naan check panren.\\nExecutive: Aa seri madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to stop the package.\\n\n- Not getting leads from Tamil Nadu.\\n\n- Asked about the number of direct calls.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold to check.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- package, leads, direct calls, tamil nadu\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6f9e2ce0-d687-478f-909a-a6fc38610d26",
+  "ucid": "6f9e2ce0-d687-478f-909a-a6fc38610d26",
+  "seller_categories": [
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "13675",
+      "mcat_name": "Chain Link Fencing"
+    },
+    {
+      "mcat_id": "120754",
+      "mcat_name": "Concrete Compound Wall"
+    }
+  ]
+}

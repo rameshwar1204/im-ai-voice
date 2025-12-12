@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673247699",
+  "gluser_id": "55077311",
+  "vintage_months": 56,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694372",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\nCustomer: Hello meri aawaz aa rahi hai madam aapko?\\nExecutive: Haan ji. Hello.\\nCustomer: Hello.\\nExecutive: Vidhyanshi ji bol rahi hain?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is checking if the executive can hear them.\\n\n\\n\nResolution:\\n\n- The executive confirmed they can hear the customer.\\n\n- The executive asked if they are speaking with Vidhyanshi ji.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall connection, identity verification\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d016c10-7332-483a-bb64-1e470d33a1ef",
+  "ucid": "8d016c10-7332-483a-bb64-1e470d33a1ef",
+  "seller_categories": [
+    {
+      "mcat_id": "10479",
+      "mcat_name": "Kids School Uniforms"
+    },
+    {
+      "mcat_id": "1941",
+      "mcat_name": "School Uniforms"
+    },
+    {
+      "mcat_id": "133123",
+      "mcat_name": "School T Shirts"
+    },
+    {
+      "mcat_id": "86285",
+      "mcat_name": "School Uniform Shirt"
+    },
+    {
+      "mcat_id": "167700",
+      "mcat_name": "School Sweater"
+    }
+  ]
+}

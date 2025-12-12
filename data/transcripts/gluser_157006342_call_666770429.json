@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666770429",
+  "gluser_id": "157006342",
+  "vintage_months": 26,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gaya",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626303",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Namaskar IndiaMART me aapka swagat hai. Main Shubham aapki kis prakar sahayata kar sakta hu?\\nCustomer: Sir maine one nine nine nine ka payment kiya tha TrustSeal ke liye.\\nExecutive: Ji.\\nCustomer: To wo abhi tak activate nahi hua hai.\\nExecutive: Okay. Sir, aapka mobile number confirm kar dijiye jis number se aapne payment kiya hai.\\nCustomer: Eight zero eight five.\\nExecutive: Ji.\\nCustomer: Seven six.\\nExecutive: Ji.\\nCustomer: Four nine.\\nExecutive: Ji.\\nCustomer: Five nine.\\nExecutive: Okay. Sir, line pe bane rahiye main check kar leta hu.\\nCustomer: Okay.\\nExecutive: Sir, aapki company ka naam hai A K Enterprises, right?\\nCustomer: Ji.\\nExecutive: Okay. Sir, aapne jo payment kiya hai one nine nine nine ka wo hume receive ho chuka hai. Aur aapka jo TrustSeal ka process hai wo start ho chuka hai. Sir, TrustSeal ke verification ke liye twenty four to forty eight working hours ka time lagta hai.\\nCustomer: Okay.\\nExecutive: Jisme hamari verification team aapko call karegi aur aapse aapke documents collect karegi jaise ki aapka GST, PAN card, aadhar card. Jaise hi aapke documents verify ho jayenge aapka TrustSeal activate ho jayega.\\nCustomer: Okay okay.\\nExecutive: Okay? Aur koi sahayata kar sakta hu sir?\\nCustomer: Nahi sir, bas yahi janna tha.\\nExecutive: Okay sir. IndiaMART me call karne ke liye dhanyawad. Aapka din shubh ho.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Paid for TrustSeal but service is not yet active.\\n\\n\\nResolution:\\n\\n- Confirmed the payment of 1999 was received.\\n- Informed that the TrustSeal process has been initiated.\\n- Explained the verification process takes 24-48 working hours.\\n- Stated a verification team will call to collect documents (GST, PAN, etc.).\\n\\n\\nNext Steps: \\nIssue not resolved. The verification team will call the customer within 24-48 working hours for document collection.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Satisfied\\n\\n@@@Key Topics:\\n- trustseal, payment, service activation, verification process, documents\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc80af31-57ec-430d-aa73-4a0b72344d97",
+  "ucid": "fc80af31-57ec-430d-aa73-4a0b72344d97",
+  "seller_categories": [
+    {
+      "mcat_id": "139241",
+      "mcat_name": "Car Scanner"
+    },
+    {
+      "mcat_id": "445729",
+      "mcat_name": "Truck Scanner"
+    },
+    {
+      "mcat_id": "98888",
+      "mcat_name": "Auto Diagnostic Tools"
+    },
+    {
+      "mcat_id": "163464",
+      "mcat_name": "Key Programming Machine"
+    },
+    {
+      "mcat_id": "222684",
+      "mcat_name": "OBD Scanner"
+    }
+  ]
+}

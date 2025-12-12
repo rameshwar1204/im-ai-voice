@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670724467",
+  "gluser_id": "160938257",
+  "vintage_months": 38,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667836",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nExecutive: Hmm, hello.\\nCustomer: Ji sir. \\nExecutive: Ha sir, kal call kiye the, ji Himanshu baat kar raha hu Vindhya Mart se.\\nCustomer: Ji sir.\\nExecutive: Ji. \\nExecutive: Bataiye Maurya sahab, matlab thoda sa to aap amount badhaiye sir, aap wohi pe aapne ek 50 aur 60 ka woh apne slab book kar diya ki chalo itna hi isse jyada nahi, thoda sa aap badhao aur dono mein sir do saal mein to do do saal ki hi baat karunga jo chal raha hai, usme ek mahine ka aur service extra bhi de dunga to uska jo costing aap dekhoge to \u20b93000 aata hai to 3 53000 to aise hi ho gaya. To hamare aur aapke beech mein jyada difference hai nahi pricing ka sir.\\nCustomer: Hmm.\\nCustomer: Ji. \\nCustomer: Jab koi dikkat nahi hai to fir badho na aage.\\nExecutive: Matlab jyada difference nahi hai to main itna keh raha tha ki final price diya hai Maurya sahab karao isko, last bar jo bhi experience tha waisa hoga nahi sir, jo bhi hoga aapko pura performa jayega aur woh aapko within seven days aapko complete milega duration ho ya fir services jo de raha hu dono cheez. Koi gap nahi aayega.\\nCustomer: Abhi to main kaha raha hu, ha, main gap ki kaha kar raha hu, gap to main jo hai hathodi mein se nikal deta hu, aisa nahi hai. Aap samjhe nahi. Mujhe to woh chahiye ki jo maine maine jo quote kara hai, ha, woh theek kara. Ha, ab isme ye batao kitni der karoge aap?\\nExecutive: Matlab?\\nCustomer: Isko kal karna hai subah morning mein?\\nExecutive: Theek hai.\\nCustomer: Aapke koi final figure to hai nahi.\\nExecutive: Nahi main whatsapp kar de raha hu na final figure hi kal. \\nCustomer: Ha, kar lena. \\nExecutive: Kal kitne baje call karu aapko?\\nCustomer: Kal karna aaj thoda main kahi bahar nikal gaya. \\nExecutive: Kal kal kab call kar lu aapko ye puch raha hu.\\nCustomer: Kar lena 11 12 baje tak kar lena.\\nExecutive: Theek hai, ye na aapka call aaya tha isme se concern open ho gayi thi to main isko band.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to finalize the deal.\\n\n- Customer asks about the time to call.\\n\n\\n\nResolution:\\n\n- Executive agreed to send the final figure on WhatsApp.\\n\n- Executive agreed to call the customer next day.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pricing, final figure, call time\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a2e3b96-b202-4295-bcc8-aea9f9b4b472",
+  "ucid": "6a2e3b96-b202-4295-bcc8-aea9f9b4b472",
+  "seller_categories": [
+    {
+      "mcat_id": "5809",
+      "mcat_name": "Pedestal Fan"
+    },
+    {
+      "mcat_id": "436",
+      "mcat_name": "Ceiling Fans"
+    },
+    {
+      "mcat_id": "191475",
+      "mcat_name": "Lassi Machine"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "6837",
+      "mcat_name": "Electric Table Fans"
+    }
+  ]
+}

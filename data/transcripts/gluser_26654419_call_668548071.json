@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668548071",
+  "gluser_id": "26654419",
+  "vintage_months": 15,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Hindupur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nAdi sir, sir main Nitish baat kar raha hun IndiaMART se.\\nHan Nitish boliye.\\nSir ye main aapki jo concern open ho gayi thi 96 call kiye the na sir jo receive nahi hua tha call aapka to main close kar do na. \\nMai to ha close kar lo, thik hai.\\nOkay okay sir, thik hai sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's concern was not resolved earlier.\\n\n\\n\nResolution:\\n\n- Executive asked to close the concern.\\n\n- Customer agreed to close the concern.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, concern, closure\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bdcbe00-b4bf-4049-9428-c45b526e0c33",
+  "ucid": "0bdcbe00-b4bf-4049-9428-c45b526e0c33",
+  "seller_categories": [
+    {
+      "mcat_id": "2046",
+      "mcat_name": "Underground HDPE Pipes"
+    },
+    {
+      "mcat_id": "215274",
+      "mcat_name": "PUF Insulated Roofing Panel"
+    },
+    {
+      "mcat_id": "42921",
+      "mcat_name": "Pipe Insulation Sections"
+    },
+    {
+      "mcat_id": "222298",
+      "mcat_name": "HDPE Pipe"
+    },
+    {
+      "mcat_id": "159887",
+      "mcat_name": "PUF Pipe Section"
+    }
+  ]
+}

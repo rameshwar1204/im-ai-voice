@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669319248",
+  "gluser_id": "241131569",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689490",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Namaskar sir.\\nExecutive: Haan ji main Pallavi baat kar rahi hun India Mart se.\\nCustomer: Haan bataiye.\\nExecutive: Haan ji haan ji. To mam aapne whatsapp kiya tha na baat karne ke liye.\\nCustomer: Haan main soch rahi hun complaint resolve hua hai ya nahi.\\nExecutive: Nahi mam abhi bhi complaint wo Shiv Shankar ji ki to complaint abhi bhi chal hi rahi hai na.\\nCustomer: Achcha aur aur koi complaint aaya hai wo jo wo jo ek aur complaint thi wo complaint to I think meri team ne close kar di hai kyuki unhone hame documents kuch nahi diye hain dekhiye koi bhi buyer complaint karta hai theek hai hum uske documents vagera mangte hain to unhone kuch documents nahi diye to unhone humne unki complaint close kar di hai theek hai abhi jo complaint pending hai wo ye wali hai Shiv Shankar wali.\\nCustomer: Theek hai. Shiv Shankar ka mam amount bhi to bada hai na aap dekhiye na unka dedh lakh ka amount hai itni aasani se wo complaint kaise close ho jayegi.\\nCustomer: Theek hai mam.\\nExecutive: Theek hai to ye Shiv Shankar ji wala complaint hai aap thoda dekhiye kya ho sakta hai isme se theek hai baki meri team to wo bhi baat kar hi rahi hai buyer se aap bhi baat karke resolve karaiye theek hai.\\nCustomer: Theek hai aur koi complaint nahi aaya hai na.\\nExecutive: Nahi nahi aur koi complaint nahi hai.\\nCustomer: Theek hai theek hai okay mam thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquires about complaint resolution status.\\n\n\\n\nResolution:\\n\n- Executive confirmed Shiv Shankar complaint is pending.\\n\n- Informed another complaint was closed due to missing documents.\\n\n- Advised customer to resolve Shiv Shankar complaint.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, resolution, documents, pending\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc626001-9b86-4fda-a055-dccc575cb26d",
+  "ucid": "fc626001-9b86-4fda-a055-dccc575cb26d",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "186990",
+      "mcat_name": "Powder Coating Powder"
+    },
+    {
+      "mcat_id": "188894",
+      "mcat_name": "MS Powder Coating"
+    },
+    {
+      "mcat_id": "117876",
+      "mcat_name": "Mould Release Spray"
+    },
+    {
+      "mcat_id": "35656",
+      "mcat_name": "Powder Coating"
+    }
+  ]
+}

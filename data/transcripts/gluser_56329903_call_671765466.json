@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671765466",
+  "gluser_id": "56329903",
+  "vintage_months": 28,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nExecutive: Sir, please join the link again.\\n\\nExecutive: Same link, sir.\\nCustomer: Ji, wohi link hai jo bheja tha na mail pe, us pe join kar lijiye.\\nCustomer: Done.\\nExecutive: Ho gaya sir?\\n(silence)\\nThe person you are speaking with has",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to connect to the call.\\n\n\\n\nResolution:\\n\n- Executive asked to join the link again.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, link\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ecb8c29f-cab8-40c8-b81b-a1eaacbac4dd",
+  "ucid": "ecb8c29f-cab8-40c8-b81b-a1eaacbac4dd",
+  "seller_categories": [
+    {
+      "mcat_id": "191018",
+      "mcat_name": "Printed Rayon Fabric"
+    },
+    {
+      "mcat_id": "222113",
+      "mcat_name": "Plain Rayon Fabric"
+    },
+    {
+      "mcat_id": "8980",
+      "mcat_name": "Rayon Fabrics"
+    },
+    {
+      "mcat_id": "1318",
+      "mcat_name": "Cotton Fabric"
+    },
+    {
+      "mcat_id": "35731",
+      "mcat_name": "Printed Cotton Fabric"
+    }
+  ]
+}

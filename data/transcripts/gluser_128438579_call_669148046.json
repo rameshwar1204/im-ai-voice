@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669148046",
+  "gluser_id": "128438579",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji sir. Main bol raha tha inka aap online aa jao to apan dekh lete hain ek baar sari cheeze.\\nExecutive: Sir abhi main kya dukaan pe hoon ghar pe laptop hai main dopahar ko karta hoon.\\nExecutive: Koi time fix kar lo sir fir to badhiya rahega. Main bhi fir us time pe free rahunga aap bhi free rahna.\\nCustomer: Batao aap aap hi bata do main us time chala jaunga.\\nExecutive: Nahi nahi aap bata do sir dekho main to 9:00 se 6:00 meri duty rehti hai.\\nCustomer: 12:00 baje tak.\\nExecutive: Kitne baje?\\nCustomer: 12:00 baje tak kar lo.\\nExecutive: 12:00 baje tak ya 12:00 baje kitne call kitne baje karna hai aap wo batao mujhe.\\nCustomer: Haan 12:00 baje kar lena. Nahi to main khud kar lunga.\\nExecutive: Theek hai sir.\\nCustomer: Hmm.\\nExecutive: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to come online and check things.\\n\n- Customer is at shop, laptop is at home.\\n\n\\n\nResolution:\\n\n- Executive and customer decided to connect at 12:00 PM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- online, laptop, time\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=542e4d6d-871c-4569-8a3f-fa6bccec3145",
+  "ucid": "542e4d6d-871c-4569-8a3f-fa6bccec3145",
+  "seller_categories": [
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "163243",
+      "mcat_name": "Ram Darbar Marble Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    },
+    {
+      "mcat_id": "177958",
+      "mcat_name": "God Stone Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    }
+  ]
+}

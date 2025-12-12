@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "670006572",
+  "gluser_id": "211419914",
+  "vintage_months": 21,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696425",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Hello sir namaste sir main Om baat kar raha hun sir India Mart se aapka account manager.\\nCustomer: Boliye recharge main nahi karvata chahe kuch hi kar lo.\\nExecutive: Ji.\\nCustomer: Main renew nahi karvata chahe kuch hi karo uske alava koi baat hai to batao.\\nExecutive: Nahi sir main renewal ke liye nahi de raha sir aapko.\\nCustomer: Nahi char din baad keh doge.\\nExecutive: Haan to sir.\\nCustomer: Nahi nahi sir main nahi bol raha sir aapko renewal ka abhi to main bilkul nahi bol raha jab tak aapko sir main nahi dekh leta ki business nahi mila.\\nCustomer: Na mere ko koi interest hai na mere ko koi interest hai.\\nExecutive: Ji sir main usi ke to regarding baat kar raha tha sir maine aapko aapke whatsapp pe hi sir guide share kari aap sir agar main aap bole to main dobara se aapko share karni shuru kar dunga sir kal se aap consume to kariye usko.\\nCustomer: Kyunki hum sir bilkul bhi nahi hai.\\nExecutive: Koi baat nahi sir.\\nCustomer: Koi baat nahi karna fir main abhi abhi baat nahi karta hun aapke sath.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want to renew subscription.\\n\n\\n\nResolution:\\n\n- Executive offered to reshare guide on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, subscription, whatsapp, guide\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8fe47e21-1b0e-4060-8831-c0eb9d1d9ca6",
+  "ucid": "8fe47e21-1b0e-4060-8831-c0eb9d1d9ca6",
+  "seller_categories": [
+    {
+      "mcat_id": "7888",
+      "mcat_name": "Steel Door Frames"
+    },
+    {
+      "mcat_id": "11681",
+      "mcat_name": "Door Frames"
+    },
+    {
+      "mcat_id": "94911",
+      "mcat_name": "Entrance Steel Door"
+    },
+    {
+      "mcat_id": "38287",
+      "mcat_name": "Stainless Steel Doors"
+    }
+  ]
+}

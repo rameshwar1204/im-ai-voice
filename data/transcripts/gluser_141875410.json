@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668566719",
+  "gluser_id": "141875410",
+  "vintage_months": 18,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Daman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646982",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Pranshu bol raha hu India Mart se mai.\\nCustomer: Ha bolo na.\\nExecutive: Ha mai ye bol raha hu aapne kya isse 9696 se call kiya tha ye matlab pehle pehle isko call kiya fir aapne customer care pe call kiya tha kya India Mart pe.\\nCustomer: Ha actually maine na customer care pe call kiya tha cause mere ko aapka number mil nahi raha tha. Arvind sir se meri baat hui maine bola ki yaar kya karu kya karu karke. To maine direct customer care pe call kar liya.\\nExecutive: Nahi nahi actually hota kya hai na jab aap customer care pe call karte ho to ek hamare paas concern aa jata hai ki pehle aap customer care pe call karte ho.\\nCustomer: Mere ko diya hai number diya hai unhone.\\nExecutive: To aap number save kar lo aur ek cheez aur mai ye concern close kar raha hu aapka. Thik hai uske baad aapke paas mail pe. Hello.\\nCustomer: Hello.\\nExecutive: Close kiye de raha hu aapke paas mail pe ek feedback jayega usse yes kar dijiyega thik hai. Dhyan se.\\nCustomer: Okay okay thank you. Ha ha ha okay okay.\\nExecutive: Okay madam.\\nCustomer: Hmm hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was unable to reach executive.\\n\nResolution:\\n\n- Executive provided his direct contact number.\\n- Executive closed the concern.\\n- Executive asked to provide feedback.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- contact, feedback, concern, customer care\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c53c09c-7cdd-4c92-96a2-30d3623d9f9d",
+  "ucid": "7c53c09c-7cdd-4c92-96a2-30d3623d9f9d",
+  "seller_categories": [
+    {
+      "mcat_id": "3371",
+      "mcat_name": "Waterproof Coatings"
+    },
+    {
+      "mcat_id": "35210",
+      "mcat_name": "Polyurethane Sealants"
+    },
+    {
+      "mcat_id": "2091",
+      "mcat_name": "Epoxy Resins"
+    },
+    {
+      "mcat_id": "209025",
+      "mcat_name": "Wall Tile Adhesive"
+    },
+    {
+      "mcat_id": "181249",
+      "mcat_name": "Dr Fixit Waterproofing Chemicals"
+    }
+  ]
+}

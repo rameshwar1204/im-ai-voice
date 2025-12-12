@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673909920",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello\\nCustomer: Ranjeet bhai hello.\\nExecutive: Haan sir, mai isliye bas aapko call kiya tha ki jo maine category add karne ke liye bola tha, maine category aapke catalog me add kar diya hai. Thik hai, total ab aapki catalog me jo category hai sir, wo total aapki ho gayi hai 59. Thik hai, matlab ki lagbhag 59 category.\\nCustomer: Actually actually actually hum kahi traffic me fasa hua hai aapko ek aad ghante baad phone milaega ha.\\nExecutive: Thik hai, aap tab tak sir mera ek request hai, aap service ko use karna proper tarike se apne chhote bhai ko bol do ki proper tarike se consume kare kahi bhi gap aaye mujhe bas ek baar aap whatsapp message dal dena, thik hai.\\nCustomer: Thik hai, thik hai.\\nExecutive: Aur hello.\\nCustomer: Hello.\\nExecutive: Haan sir, aur aapse ek request tha sir mere feedback ke liye aapke mail pe ek mail aayega usme please mere liye feedback dijiye.\\nCustomer: Achha ha feedback hum chalo koi nahi kar dega hum aaram se kal baith ke kar dega. Inka size ka ek nikal ke dena please. Hello.\\nExecutive: To sir aap meri baat to suniye sir do minute. Ranjeet bhai hum na ghar ja pahuch ke aapko lagne se whatsapp karta hai ha.\\nExecutive: Do minute do minute sun lijiye do minute.\\nCustomer: Ha ha ha bata dijiye.\\nExecutive: Mai bol raha hu sir ek mere feedback ke liye aapke mail pe ek form jayega aap usme please satisfied mark kar dena aur mere liye.\\nCustomer: Kar dega bhai kar dega utna to humko bhi pata hai kar dega bhai bharosa rakho hum par thik.\\nExecutive: Thik hai sir thik hai abhi do minute me aapke pass aa jayega mail sir thik hai.\\nCustomer: Ha ha ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is stuck in traffic.\\n\n- Executive requests feedback.\\n\n\\n\nResolution:\\n\n- Executive added the requested category to catalog.\\n\n- Customer assured to provide feedback later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- category, catalog, feedback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12fa24b5-ac62-4784-919e-1b972346b6e2",
+  "ucid": "12fa24b5-ac62-4784-919e-1b972346b6e2",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

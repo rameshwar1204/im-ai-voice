@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668967667",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Main Sunil Sunil Dutt Sharma bol raha hu Bhavnagar se.\\n\\nExecutive: Haan Sunil ji bol rahe ho sir. Main\\n\\nCustomer: Haan?\\n\\nExecutive: Namaskar Sunil ji, Amit baat kar raha hu IndiaMART se kaise hai aap sir?\\n\\nCustomer: Ji, ji, ji.\\n\\nExecutive: Ji ji. Kya hua sir?\\n\\nCustomer: Kar rahe the uske bare mein baat. Bhai sahab aap continue karo to jyada better rahega sir.\\n\\nCustomer: Mujhe bhi nikal jana hai bas.\\n\\nExecutive: Main aapko call karta hu sir, main thoda sa bahar tha abhi.\\n\\nCustomer: Haan haan koi baat nahi. Next time se mere sath dekhenge char chhe mahine ke baad agar kuch banega to sahi. Main contact karunga aapme.\\n\\nExecutive: Thik hai sir.\\n\\n(silence)\\n\\nExecutive: The person you are speaking with has put your call on hold.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss something with the executive.\\n\n- Customer has to leave.\\n\n\\n\nResolution:\\n\n- Executive offered to call back later.\\n\n\\n\nNext Steps: \\n\n- Customer will contact the executive later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, follow-up, availability\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1cc59ed0-b0e3-4b1e-bf44-45b76dca37cb",
+  "ucid": "1cc59ed0-b0e3-4b1e-bf44-45b76dca37cb",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

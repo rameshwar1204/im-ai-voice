@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674460626",
+  "gluser_id": "210591859",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9697954",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji kaun?\\nExecutive: Haan ji kaun bol rahe hain?\\nCustomer: Rudra sir, aawaz aa rahi hai? Rudra sir, Manish baat kar raha hu IndiaMART ke office se. \\nExecutive: Kaise hain sir?\\nCustomer: Haan ji, abhi tak.\\nExecutive: Sir, aapki baat ho gayi brother unse baat ho gayi Prashant ji se, theek hai? Unko maine aaj team ka OTP liya tha, theek hai?\\nOTP leke jo correction wo required the IndiaMART unke system pe maine login karwa diya hai. Jo correction required the, jo glitches aa rahe the wo maine remove karwa diya. Jo bhi de-rank the na sir, unused category the wo maine remove karwa diya hai, theek hai? Iske alawa jo usko as a primary category bana ke maine apne account pe bhi add karwa diya hai Rudra Sanitary Wire pe, theek hai? Ab kya hoga koi bhi direct inquiry aayegi, wo hamare paas bhi aayenge, theek hai brother?\\nCustomer: Okay.\\nExecutive: Theek hai? Ab ye bhi number aap save kar lijiyega. Saath hi saath mera direct number hai na aapke paas 7011.\\nHaan.\\nExecutive: 7011967485 ye number hai na aapke paas Rudra ji?\\nCustomer: Haan, haan hai.\\nExecutive: Haan, ye mera direct number hai. Maine unko bhi apna number de diya hai Rudra ji ko, sorry Prashant ji ko ki agar kabhi help support ya koi aisi samasya hai mujhe direct karo kyunki mujhe sari cheeze handle karni hai, theek hai? Rudra sir ek feedback jaayega mera aapko Manish Sharma ke regarding, theek hai? Satisfied, not satisfied karke aap maine jo correction support kiya usse aap satisfied hai ya nahi hai, mera feedback dijiyega, theek hai? Theek hai Rudra ji?\\nCustomer: Okay, okay.\\nExecutive: Okay sir, thank you very much sir.\\nCustomer: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needed corrections on IndiaMART system.\\n\n\\n\nResolution:\\n\n- Executive logged in and made corrections.\\n\n- Glitches and unused categories were removed.\\n\n- Added as primary category on account.\\n\n- Executive shared direct contact number.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on support.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- correction, support, feedback, category\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=54f9279c-acdb-4d19-9458-2798e13b216e",
+  "ucid": "54f9279c-acdb-4d19-9458-2798e13b216e",
+  "seller_categories": [
+    {
+      "mcat_id": "6497",
+      "mcat_name": "Flush Valve"
+    },
+    {
+      "mcat_id": "178825",
+      "mcat_name": "Brass Angle Cocks"
+    },
+    {
+      "mcat_id": "146977",
+      "mcat_name": "Brass Bib Tap"
+    },
+    {
+      "mcat_id": "188461",
+      "mcat_name": "3 in 1 Wall Mixer"
+    },
+    {
+      "mcat_id": "183704",
+      "mcat_name": "CP Bathroom Fittings"
+    }
+  ]
+}

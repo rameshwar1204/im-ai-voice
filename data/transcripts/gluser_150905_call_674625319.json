@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674625319",
+  "gluser_id": "150905",
+  "vintage_months": 228,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Ji, sir, Dheeraj bol raha tha India Mart se.\\nCustomer: Haan ji, haan ji, haan ji.\\nExecutive: Sir ji, abhi link share kar sakta hu? Abhi connect kar le?\\nCustomer: Nahi, abhi nahi sir, abhi dusri jagah mein ek baar busy hu. Free hoke mein aapko call kar sakta hu.\\nExecutive: Kitna time lagega sir ji, lagbhag one hour mein bhi?\\nCustomer: Aadha ghanta lag sakta hai. Dusri jagah mein meeting hai.\\nExecutive: Free hoke mujhe ek baar bataiyega, hai na? Call kijiyega.\\nCustomer: Theek hai ji, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked to share a link and connect.\\n\n\\n\nResolution:\\n\n- Customer said he is busy and will call back after getting free.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, link, busy, meeting\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4384ee0-4944-47cf-bc12-78477aa7448b",
+  "ucid": "c4384ee0-4944-47cf-bc12-78477aa7448b",
+  "seller_categories": [
+    {
+      "mcat_id": "183737",
+      "mcat_name": "HDPE Water Pipe"
+    },
+    {
+      "mcat_id": "222298",
+      "mcat_name": "HDPE Pipe"
+    },
+    {
+      "mcat_id": "2046",
+      "mcat_name": "Underground HDPE Pipes"
+    },
+    {
+      "mcat_id": "158581",
+      "mcat_name": "Double Wall Corrugated Pipes"
+    },
+    {
+      "mcat_id": "80415",
+      "mcat_name": "HDPE Double Wall Corrugated Pipe"
+    }
+  ]
+}

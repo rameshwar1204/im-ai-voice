@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669078310",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, Namaste. Haan.\\nCustomer: Rishi Textile se bol raha hu.\\nExecutive: Namaste.\\nCustomer: Baat hui thi apni. Rishi Textile se. Haan sir, bataiye. Haan sir, aapka lead nahi mil pa raha toh.\\nExecutive: Haan sir, maine wait kar diya hai sir iske liye.\\nCustomer: Haan sir, agar wahi option hai fir, jaisa humne discuss kiya tha. Ki agar nahi ho pa raha toh fir.\\nCustomer: Nahi, nahi, ye hai. Agar matlab hai nahi.\\nCustomer: Matlab kab tak mere ko milega?\\nExecutive: Sir, Monday tak ruk jaaiye.\\nCustomer: Monday. Monday sir, Monday.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to wait till Monday.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=378aaef9-ee42-4021-80a0-061c506353f2",
+  "ucid": "378aaef9-ee42-4021-80a0-061c506353f2",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

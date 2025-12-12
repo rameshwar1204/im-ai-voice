@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675397977",
+  "gluser_id": "3366278",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhinmal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9714502",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Hello?\\nCustomer: Ji sir.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c0fa51e-2c8f-4383-98b6-2de674ffd717",
+  "ucid": "7c0fa51e-2c8f-4383-98b6-2de674ffd717",
+  "seller_categories": [
+    {
+      "mcat_id": "127377",
+      "mcat_name": "Desiccated Coconut Powder"
+    },
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "25126",
+      "mcat_name": "Coconut Flakes"
+    },
+    {
+      "mcat_id": "126167",
+      "mcat_name": "Coconut Powder"
+    },
+    {
+      "mcat_id": "216251",
+      "mcat_name": "Refined Coconut Oil"
+    }
+  ]
+}

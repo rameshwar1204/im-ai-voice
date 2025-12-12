@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666922816",
+  "gluser_id": "244943047",
+  "vintage_months": 7,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716293",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haanji kaun?\\nCustomer: Are main Vipul baat kar raha hu Mogul waterproofing se aap call karne wale the call aaya nahi aapka.\\nExecutive: Achha Mogul waterproofing se. Sir ek video meet pe hu abhi karti hu aapko bas pandrah minute do video meet pe hu ek.\\nCustomer: Theek hai.\\nExecutive: Karti karti aapko karti.",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a missed scheduled call from the executive.\\n\\n\\nResolution:\\n\\n- Explained being in a video meeting.\\n- Promised to call back in 15 minutes.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive will call the customer back in 15 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- scheduled call, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2a77464-5178-4690-847f-5207aec81e4c",
+  "ucid": "d2a77464-5178-4690-847f-5207aec81e4c",
+  "seller_categories": [
+    {
+      "mcat_id": "3354",
+      "mcat_name": "Waterproof Membranes"
+    },
+    {
+      "mcat_id": "192606",
+      "mcat_name": "APP Membrane"
+    },
+    {
+      "mcat_id": "169709",
+      "mcat_name": "Terrace Water Proofing Services"
+    },
+    {
+      "mcat_id": "43869",
+      "mcat_name": "Waterproofing Service"
+    },
+    {
+      "mcat_id": "177916",
+      "mcat_name": "Bitumen Sheet"
+    }
+  ]
+}

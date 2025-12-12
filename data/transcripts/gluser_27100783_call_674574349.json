@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674574349",
+  "gluser_id": "27100783",
+  "vintage_months": 14,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Bidasar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702421",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello haji.\\nExecutive: Ha sir mai IndiaMART se baat kar raha hu sir aapke against ek concern raise hua tha sir IndiaMART me.\\nCustomer: [inaudible]\\nExecutive: Indrayani pal ke regarding aapko inquiry nahi aari hai.\\nCustomer: Hmm hmm.\\nExecutive: Indrayani Indrayani fruit [inaudible].\\nCustomer: Hmm.\\nExecutive: To ye jo aapne yaha pe update kiya hua hai product me aapne apne catalog me dala hai.\\nCustomer: Kya hai na.\\nExecutive: Ha.\\nCustomer: [inaudible] dried aapne dala hua hai. To aap sirf dried me deal karte hai ya fir iska sweets bhi hai aapke paas sweets aapne nahi dala hai yaha pe.\\nCustomer: Sweets bhi hai sir isme dono hai.\\nExecutive: Hmm.\\nCustomer: Mai aapko call karta hu ghanta bhar baad me na mai thoda sa system ke samne nahi hu mai aapko ghanta bhar baad karta hu theek hai ghanta le.\\nExecutive: Theek hai.\\nCustomer: Ek ghante baad.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving inquiries for Indrayani pal.\\n\n- Executive inquired about dried and sweets availability.\\n\n\\n\nResolution:\\n\n- Customer confirmed sweets are also available.\\n\n- Customer will call back in an hour.\\n\n\\n\nNext Steps: \\n\n- Customer to call back in an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, product update\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8bd713ec-7383-4364-8079-8084a53d1f89",
+  "ucid": "8bd713ec-7383-4364-8079-8084a53d1f89",
+  "seller_categories": [
+    {
+      "mcat_id": "44914",
+      "mcat_name": "Bajra"
+    },
+    {
+      "mcat_id": "148158",
+      "mcat_name": "Aloe Vera Leaf"
+    },
+    {
+      "mcat_id": "180387",
+      "mcat_name": "Nagarmotha"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "106964",
+      "mcat_name": "Amla"
+    }
+  ]
+}

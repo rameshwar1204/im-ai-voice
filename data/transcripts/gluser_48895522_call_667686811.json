@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667686811",
+  "gluser_id": "48895522",
+  "vintage_months": 88,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638683",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Yes.\\nExecutive: Ha, madam Kashmir se baat kar raha hun Munna Gani dry fruit se.\\nCustomer: Hanji hanji sir.\\nExecutive: Ji, wo IndiaMART ka page open nahi ho raha hai char panch din se.\\nCustomer: Accha, mai sir check karti hun koi glitch aa gaya hoga is vajah se maybe ek bar google pe dal ke try kariye.\\nCustomer: Nahi kyuki nahi wo page to open ho raha hai magar usme jo buyleads hai na buyleads open nahi ho rahi hai.\\nExecutive: Consume nahi kar pa rahe ho?\\nCustomer: Mai buyleads pe click kar raha hun to wo page open nahi ho raha wo wo wo na upload nahi ho raha hai.\\nCustomer: Wo dikha nahi raha hai kuch.\\nCustomer: Panch che din se ye problem magar ye khali mere ko hi problem nahi hai bahut sare logo ko problem hai.\\nExecutive: Mai ek bar sir check kar deti hun actually aaj to close hai mai ek bar kal ye aapka check karwa deti hun sir.\\nCustomer: Zara aap check kara dijiye.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART page is not opening.\\n\n- Buyleads are not opening on the page.\\n\n\\n\nResolution:\\n\n- Executive assured to check the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will check the issue next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, page opening issue, technical issue\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68a42309-211f-463d-931b-796a9212d4e2",
+  "ucid": "68a42309-211f-463d-931b-796a9212d4e2",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "157608",
+      "mcat_name": "Dried Blueberries"
+    }
+  ]
+}

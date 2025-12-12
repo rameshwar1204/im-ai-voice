@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670530712",
+  "gluser_id": "68896557",
+  "vintage_months": 18,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Contai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667729",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan madam.\\nCustomer: Haan ji sir. Main aapko main Roshan bol raha hu Odisha se.\\nCustomer: Kahan se bol baat kar rahe hain sir?\\nExecutive: Odisha se.\\nCustomer: Company name bata sakte hain aap? Customer care ka number hai na?\\nCustomer: India Mart se haan ji haan ji.\\nExecutive: Haan ji mera ek call aaya tha 742 mein normally ye customer ka call ka koi mail mail mein aa jata hai unka number ya mera jo bhi aapka app hai usme dikhai deta hai.\\nCustomer: Sir app mein dikhai deta hai jo lead manager hai na usme dikhai deta hai.\\nExecutive: Lead manager pe hum dekh bhi nahi de mil raha hai ye lead manager pe jab jayenge na.\\nExecutive: Haan to waha par haan calls ke option mein dikh jayega aapko.\\nExecutive: Lekin usme nahi aa raha hai kal ka aa raha hai yesterday ka last aa raha hai aaj ka nahi hai 745 evening mein aaya hai 742.\\nExecutive: Usme nahi aa raha hai to ye first time nahi hai mere sath isse pehle bhi complaint hum kar chuke hain do teen mahine pehle.\\nCustomer: Sir abhi to matlab office mein to hum hai nahi kyuki time hamara 6 baje tak ka hi hota hai.\\nExecutive: Okay.\\nCustomer: Ya to aap kal morning tak wait kal morning tak aap wait kar lijiye 9:30 hum office pahunch jate hain to hum main aapko 9:30 call kar lungi same time pe na.\\nExecutive: Okay okay mam. Thank you.\\nCustomer: Ok okay sir okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive is not receiving call details in app.\\n\nResolution:\\n\n- Customer asked to wait till next day.\\n\n\\n\nNext Steps: \\n\n- Executive will receive a call next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, app, lead manager\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=34b7ebba-60fa-4987-b3ad-0713631f52c0",
+  "ucid": "34b7ebba-60fa-4987-b3ad-0713631f52c0",
+  "seller_categories": [
+    {
+      "mcat_id": "181498",
+      "mcat_name": "Kyocera Multifunction Printer"
+    },
+    {
+      "mcat_id": "41536",
+      "mcat_name": "Xerox Machines"
+    },
+    {
+      "mcat_id": "178728",
+      "mcat_name": "Kyocera Photocopy Machine"
+    },
+    {
+      "mcat_id": "178726",
+      "mcat_name": "Canon Photocopy Machine"
+    },
+    {
+      "mcat_id": "178733",
+      "mcat_name": "Konica Minolta Photocopy Machine"
+    }
+  ]
+}

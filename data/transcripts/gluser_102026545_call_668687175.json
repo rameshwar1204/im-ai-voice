@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668687175",
+  "gluser_id": "102026545",
+  "vintage_months": 68,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647603",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7bd4dc22-fd31-4655-b054-948c6039286f",
+  "ucid": "7bd4dc22-fd31-4655-b054-948c6039286f",
+  "seller_categories": [
+    {
+      "mcat_id": "107791",
+      "mcat_name": "FRP Square Tube"
+    },
+    {
+      "mcat_id": "145128",
+      "mcat_name": "FRP Channel"
+    },
+    {
+      "mcat_id": "65922",
+      "mcat_name": "Cast Iron Bench"
+    },
+    {
+      "mcat_id": "12332",
+      "mcat_name": "Garden Bench"
+    },
+    {
+      "mcat_id": "86320",
+      "mcat_name": "FRP Fencing"
+    }
+  ]
+}

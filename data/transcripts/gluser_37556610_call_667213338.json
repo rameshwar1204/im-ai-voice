@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667213338",
+  "gluser_id": "37556610",
+  "vintage_months": 0,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Thane",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9640262",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Mayur sir good morning Parvez bol raha hu.\\nCustomer: Good morning boliye Parvez ji boliye.\\nExecutive: Sir wo aapki material handling trolley wali category abhi tak hatayi nahi hai aapne sir matlab aur\\nCustomer: Theek hai ek aadha ghanta dijiye karwa deta hu mai aapko phone karta nahi to mujhe aap phone kare thoda aadhe ghante baad karwa deta hu.\\nExecutive: Theek hai sir mai aadhe ghante baad.\\nCustomer: Ha aadhe ghante baad phone.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Category of material handling trolley not removed.\\n\n\\n\nResolution:\\n\n- Executive will get it done in half an hour.\\n\n\\n\nNext Steps: \\n\n- Customer will call after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- category, material handling trolley, removal\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c90d3bd3-51cc-47d9-a028-f4eb8aa299b7",
+  "ucid": "c90d3bd3-51cc-47d9-a028-f4eb8aa299b7",
+  "seller_categories": [
+    {
+      "mcat_id": "10124",
+      "mcat_name": "Industrial Vacuum Cleaner"
+    },
+    {
+      "mcat_id": "224420",
+      "mcat_name": "Wet-Dry Vacuum Cleaner"
+    },
+    {
+      "mcat_id": "30243",
+      "mcat_name": "Heavy Duty Racks"
+    },
+    {
+      "mcat_id": "42706",
+      "mcat_name": "Scrubber Driers"
+    },
+    {
+      "mcat_id": "37653",
+      "mcat_name": "Floor Scrubber"
+    }
+  ]
+}

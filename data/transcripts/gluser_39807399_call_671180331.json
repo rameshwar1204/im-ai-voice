@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671180331",
+  "gluser_id": "39807399",
+  "vintage_months": 52,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Panipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655665",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Hi ma'am, main Sunita IndiaMART se aapse baat kar raha hu. Kaise hain aap?\\nCustomer: Main theek hu sir, aap batao.\\nExecutive: Haan, badhiya badhiya. Ma'am, wo connect karne ke liye aise teen din se hum approach kar rahe the aapko meet ke liye.\\nCustomer: Sir, maine Kriti ka bola tha aapko.\\nExecutive: Ma'am, Kriti ne bola ki aapko connect kar lo. Maine to subah unko WhatsApp dal diya tha. To unhone bola, theek hai, 12 baje connect karte hain. Fir unhone bola ki ma'am aage...\\n(silence)\\nExecutive: Aap jis vyakti se baat kar rahe hain, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call...\\nCustomer: Mere paas bhi to theek hai.\\nExecutive: Ma'am, ye Arif sir hain line pe.\\nCustomer: Hello.\\nExecutive: Hello. Haan, yes ma'am.\\nCustomer: Hello?\\nExecutive: Hello. Haan, ma'am, Kriti ma'am bol rahe hain?\\nCustomer: Vidya ma'am baat kar rahi hu.\\nExecutive: Haan, ma'am, main",
+  "summary": "\\n\nConcerns:\\n\n- Customer was expecting a call at 12 PM.\\n\n\\n\nResolution:\\n\n- Executive called to connect for a meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, connect, call\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8745655a-2a8c-43de-80ac-029e4188445c",
+  "ucid": "8745655a-2a8c-43de-80ac-029e4188445c",
+  "seller_categories": [
+    {
+      "mcat_id": "852",
+      "mcat_name": "Cotton Yarn"
+    },
+    {
+      "mcat_id": "139784",
+      "mcat_name": "Open End Yarn"
+    },
+    {
+      "mcat_id": "154477",
+      "mcat_name": "Open End Cotton Yarn"
+    },
+    {
+      "mcat_id": "137538",
+      "mcat_name": "Polyester Cotton Yarn"
+    },
+    {
+      "mcat_id": "153534",
+      "mcat_name": "Recycled Cotton Yarn"
+    }
+  ]
+}

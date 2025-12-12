@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674441942",
+  "gluser_id": "148490173",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sheorinarayan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9703137",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Hello. Sukhdev ji baat kar rahe hai, Chitra Digi showroom?\\nCustomer: Ji.\\nExecutive: Ji, sir Anurag baat kar raha tha India mart.com se aapne call kiya tha kal India mart par?\\nCustomer: Haan.\\nExecutive: India mart par?\\nCustomer: Haan ji.\\nExecutive: Chaliye main lagata hu main thoda sa abhi kahin baitha hu.\\nCustomer: Achcha.\\nExecutive: Main lagata hu thodi der mein. Services mein koi issue to nahi hai na sir? Matlab kuch concern tha ya aise hi matlab lag gaya tha call?\\nCustomer: Haan services ke liye baat karna hai main lagata hu aapko thodi der mein.\\nExecutive: Theek hai, theek hai. Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss services.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, services\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d9554423-95cc-4247-a5b6-5f57c0f0e688",
+  "ucid": "d9554423-95cc-4247-a5b6-5f57c0f0e688",
+  "seller_categories": [
+    {
+      "mcat_id": "22408",
+      "mcat_name": "Audio Power Amplifier"
+    },
+    {
+      "mcat_id": "126301",
+      "mcat_name": "Pro Audio Speaker"
+    },
+    {
+      "mcat_id": "190770",
+      "mcat_name": "DJ Speaker"
+    },
+    {
+      "mcat_id": "222643",
+      "mcat_name": "Stranger PA Amplifier"
+    },
+    {
+      "mcat_id": "26733",
+      "mcat_name": "DJ System"
+    }
+  ]
+}

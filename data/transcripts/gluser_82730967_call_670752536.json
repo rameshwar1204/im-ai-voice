@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670752536",
+  "gluser_id": "82730967",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669690",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Uh, mam, this is Channel International Company.\\nCustomer: Sorry?\\nExecutive: Is it Channel International Company?\\nCustomer: Ha sir.\\nExecutive: Uh, mam, Pravesh Sharma this side from IndiaMART office Noida senior manager.\\nCustomer: Ha ha.\\nExecutive: Uh, mam, you called us uh, some time back like you were getting issue in direct calls that buyer calls which you were receiving which you were getting in IndiaMART.\\nCustomer: Yes yes I ha yes yes already that is Yashika only that is spoken with you morning is the mobile only switch off ho gaya so that's the problem. Okay right sir. Today actually I'm sort of busy. No no no no hold it. Actually that is today I'm busy. After two days I will call you back. This one issues are running so we have to solve it.\\nExecutive: No problem. I'll do one thing mam I'll do one thing like I'm just creating one WhatsApp group with you in which Yashika and Yashika's manager only. So I'll be I'll be there in that WhatsApp group whenever you are free just message us we will help you. Right?\\nCustomer: Okay right. Okay right. And meanwhile I'm closing this concern I'm just messaging you on your number mam please save our number. IndiaMART help. Okay right.\\nExecutive: Right mam. You will get one feedback email mam please give feedback if you are satisfied with the service. I'll call we will call you back after two days. Right mam.\\nCustomer: Okay right right right. Thank you.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issue with direct buyer calls.\\n\n- Customer is busy and will call back.\\n\n\\n\nResolution:\\n\n- Executive created a WhatsApp group for support.\\n\n- Asked to save the IndiaMART help number.\\n\n- Requested feedback via email.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after two days.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp group, feedback\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78212dde-c3aa-4820-8a00-2f4bd43fc00c",
+  "ucid": "78212dde-c3aa-4820-8a00-2f4bd43fc00c",
+  "seller_categories": [
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    },
+    {
+      "mcat_id": "10296",
+      "mcat_name": "Iron Removal Filters"
+    },
+    {
+      "mcat_id": "138130",
+      "mcat_name": "Water Bottle Making Machine"
+    }
+  ]
+}

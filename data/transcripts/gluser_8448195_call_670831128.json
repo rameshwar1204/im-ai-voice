@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670831128",
+  "gluser_id": "8448195",
+  "vintage_months": 39,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Navsari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]\\nHello.\\nHello.\\nJi\\nTechno service se baat kar rahe hain mam.\\nHan ji.\\nMam main India mart se baat kar raha hun mam.\\nJi. Ye aapka Tannu ke sath conversation hua tha mam.\\nVijay sir baat kar rahe ho na aap.\\nHan han Vijay bol raha hun mam.\\nHan bolo na. Main aapko karti hun panch minute dijiye na mujhe main call karti hun. \\nPaanch minute mein. Theek hai theek hai theek hai okay. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call back in five minutes.\\n\n\\n\nResolution:\\n\n- Agreed to call back in five minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back in five minutes.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\ncall, india mart, tannu, vijay\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=83a2cc9e-7fe9-4498-bf60-aa54ed2566ca",
+  "ucid": "83a2cc9e-7fe9-4498-bf60-aa54ed2566ca",
+  "seller_categories": [
+    {
+      "mcat_id": "38280",
+      "mcat_name": "Stainless Steel Cleaners"
+    },
+    {
+      "mcat_id": "78854",
+      "mcat_name": "Welding Accessories"
+    },
+    {
+      "mcat_id": "119227",
+      "mcat_name": "Pickling Paste"
+    },
+    {
+      "mcat_id": "148708",
+      "mcat_name": "Pickling Passivation Chemicals"
+    },
+    {
+      "mcat_id": "119274",
+      "mcat_name": "Stainless Steel Pickling Paste"
+    }
+  ]
+}

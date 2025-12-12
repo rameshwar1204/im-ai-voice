@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670639308",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello. Hello. Haan sir, Sunny Prakash ji bol rahe hain.\\nExecutive: Sir, main Shahnawaz bol raha hun IndiaMART se.\\nCustomer: Achcha.\\nExecutive: Ji, to Sunny Prakash ji se baat ki thi maine. Unhone raise kiya tha refund ka issue.\\nCustomer: Haan, rukiye ek second zara line par rahiye zara.\\nExecutive: Theek hai.\\n\\n\\nCustomer: Bataiye na sir. Kal main bhi kiya tha. Hello.\\nCustomer: Hello.\\nCustomer: Hello. Ji sir. Haan sir.\\nCustomer: Sir, Sunny Prakash baat kar raha hun. IndiaMART se.\\nExecutive: Haan sir, IndiaMART se. Aapki baat hui thi sir, main kal aapko fir haan, wo nahi kar paya. Sir, main isliye na aapko jaisa bataya tha na, apne senior se baat kar chuka hun. Unko samjha chuka hun ki aapka specific material hai jo hamare IndiaMART ke lead uska inquiry vagaira nahi aa pa raha hai. Isliye baat ho gayi hai. Haan, ab ab aapne mujhe ache se samjhaya tha, maine koshish ki nahi ho paya tha. Maine same cheez apne senior ko bata diya sir.\\nCustomer: Haan sir, theek hai.\\nExecutive: Bas main aap revert back ka wait kar raha tha unke side se ki thoda sa wo busy ho gaye the. Aaj mujhe unse mil jayega. Aaj main for sure ja kar ke aapka jo agar services ka jaisa maine baat kiya tha agar us par provision hai hi nahi agar sir ke paas bhi nahi hai to main aapka service deactivation ka aaj process pakka kar dunga.\\nCustomer: Theek hai. To refund to mil jayega na mere ko?\\nExecutive: Refund milega sir. Refund jo milega na aapko wo kya rahega bas jitne din tak hamara services use hua hai utne din ka amount deduct hoga.\\nCustomer: Bas sir yahi hoga baki aapka sara jitna amount hai.\\nExecutive: Sir yaha pe apna hamara kariban\\nCustomer: Kitna theek hai?\\nExecutive: Sir ek bar na mujhe uska calculation na wo account team se hi lena padega. Matlab main exactly nahi bata sakta par aap kam se kam nahi karana kya mera sale isme 500 ki hui hai bas.\\nCustomer: Ji ji ji.\\nExecutive: 500 ki sale hui hai. Sir main bilkul sir main as it is main to chahunga ki aap aapka main problem solve kar dun aur aap mere sath continue hi kar le sir. But agar nahi ho payega to main wo baat hai ki aapka jitna bhi amount vagaira ban raha hoga na main aapko mail karwa dunga.\\nCustomer: Main aapko bata dun 50 meter ka kapda maine do dinon ko 5-5 meter bheja hai sample ka.\\nCustomer: Ji ji. Haan. Bas mera 500 ki sale hui hai IndiaMART pe isliye. To aap jiska jyada se jyada ho sake refund utna karana.\\nExecutive: Theek hai sir. Hello. Theek hai sir. Maine bhi mere dada ko keh ke bola tha ki IndiaMART pe aap invest karo.\\nCustomer: Hmm hmm. To agli bar fir dada mere vishwas karenge nahi mere pe. Aap bhi samajh sakte ho.\\nExecutive: Nahi sir dekhiye hum log us cheez ko bilkul main samajh raha hun. Main make sure karunga theek hai ki sara cheez aapke ekdam aapke satisfaction level ke hisab se hi hota hai. Isi ke liye kam kar rahe hain hum log bhi. Hai na ki aapka is cheez ka achcha rahe. Utna kam se kam ho utna kam se kam katwana.\\nCustomer: Utna kam se kam ho utna kam se kam katwana.\\nExecutive: Theek hai sir.\\nCustomer: Theek.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for his subscription.\\n\n- Customer's sales were only \u20b9500 on IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive assured to process service deactivation.\\n\n- Executive confirmed refund after deducting service usage amount.\\n\n- Executive will mail the final refund amount.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, deactivation, sales\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 213,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=10eb2112-9d7e-42aa-8b24-8dea139feabe",
+  "ucid": "10eb2112-9d7e-42aa-8b24-8dea139feabe",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

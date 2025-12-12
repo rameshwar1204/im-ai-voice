@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671004449",
+  "gluser_id": "217796870",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Tiptur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672883",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello sir, aap mujhe apna naam bata sakte hain, kya naam hai aapka?\\nCustomer: Ha mera naam Rohit hai.\\nExecutive: Ji sir aap Kalpavriksh Agro Products ki baat kar rahe the?\\nCustomer: Ha ha.\\nExecutive: Thik hai sir, main aapko ek aadhe ghante baad connect karu, sir main meeting mein hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk about Kalpavriksh Agro Products.\\n\n- Executive is in a meeting.\\n\n\\n\nResolution:\\n\n- Executive offered to connect after half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will connect after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- agro products, meeting, follow up\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=479a39c2-06d6-4d6a-86c3-68ff07dadfc5",
+  "ucid": "479a39c2-06d6-4d6a-86c3-68ff07dadfc5",
+  "seller_categories": [
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "152111",
+      "mcat_name": "Virgin Coconut Oil"
+    },
+    {
+      "mcat_id": "189263",
+      "mcat_name": "Cold Pressed Coconut Oil"
+    },
+    {
+      "mcat_id": "191527",
+      "mcat_name": "Organic Coconut Oil"
+    },
+    {
+      "mcat_id": "186143",
+      "mcat_name": "Coconut Cooking Oil"
+    }
+  ]
+}

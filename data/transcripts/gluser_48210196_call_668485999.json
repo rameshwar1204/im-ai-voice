@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668485999",
+  "gluser_id": "48210196",
+  "vintage_months": 39,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Agartala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724247",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji.\\n\\nExecutive: A, mam aap mere account manager baat kar rahe hai kya?\\n\\nExecutive: Bataiye sir, kaun si company se baat kar rahe hai aap?\\n\\nCustomer: Shaintular se baat kar raha hu.\\n\\nExecutive: Kahan se?\\n\\nCustomer: Shaintular solution Agartala se baat kar raha hu Tripura.\\n\\nExecutive: Okay, okay. Hanji bataiye.\\n\\nCustomer: A, mam mujhe na thoda product ke relating thoda help chahiye tha aapse.\\n\\nExecutive: Okay, aap sir ek baar please apna register number bata dijiye mujhe.\\n\\nCustomer: 700537254.\\n\\nExecutive: 700 5372 5372 54 964 54 ha 54.\\n\\nExecutive: Okay, Shine Solar. Just a second.\\n\\nExecutive: Line pe rahiye sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help regarding the product.\\n\n\\n\nResolution:\\n\n- Executive asked for the registered number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product, registration, help\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=618fe5a1-ce7b-4d16-a9a9-b1d1a191518b",
+  "ucid": "618fe5a1-ce7b-4d16-a9a9-b1d1a191518b",
+  "seller_categories": [
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    }
+  ]
+}

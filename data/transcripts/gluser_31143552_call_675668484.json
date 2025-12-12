@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675668484",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ji sir, kaun mein jinse baat ho rahi hai?\\nCustomer: Hmm.\\nExecutive: Abhi aapki baat hui hogi Nancy ji se IndiaMART ke regarding, to kuch products aapne add karwaye hain.\\nCustomer: Haan, haan, haan, karwaya hai na madam add.\\nExecutive: To aap dekh lijiye uska score wagera to theek se add hai.\\nCustomer: Ek minute, ek.\\nCustomer: Score add bhi kiya ki nahi ek baar dekh lete hai, kya score hai.\\nExecutive: Haan, main aapke liye score dekhti hu.\\nCustomer: Data.\\nExecutive: Ek baar dekh lijiye.\\nCustomer: Ye thoda picture-vichure lagaao, ye to kuch bhi nahi lagaya madam aapne. Matlab thoda proper karo usko, PDF-PDF aur sab photos wagera lagaao. Haan, thoda picture-vichure laga do. Hmm.\\nExecutive: Picture wagera thoda laga do.\\nCustomer: Picture wagera thoda laga do.\\nExecutive: Service mein aapka option nahi de raha hai.\\nCustomer: Hmm?\\nExecutive: De raha hai?\\nCustomer: Hmm, de raha hai, de raha hai, kar do.\\nExecutive: Nahi de raha hai sir, aap bhi, aap bhi check kijiye ek baar. Data wale mein to nahi de raha hai. Jis mein dekhiye IMB mein de raha tha usme add kar dijiye sir ji.\\nCustomer: Data last prevention service.\\nExecutive: Add photos dikha raha hai madam.\\nExecutive: Sir, ek screenshot bhejiye Nancy ko kaha pe jaha pe dikha raha ho.\\nCustomer: Hmm.\\nExecutive: Kyuki no photo mein aapka ek bhi product nahi hai. 45 products hai to no score mein nahi dikha raha.\\nCustomer: Are yehi wala data, data loss wala mein prevention mein photo nahi hai na?\\nExecutive: Haan, nahi sir ji, option auto aata hai na to isme aa nahi raha hai. This is because ye service hai na. To is particularly option nahi aa raha hai.\\nCustomer: Accha.\\nExecutive: Haan ji, haan ji.\\nExecutive: Baki score aap overall dekh rahe ho to 85 aa raha hai, barabar?\\nCustomer: Nahi nahi isko to add karna padega na madam kya nahi karoge aisa bol rahe ho. Ek baar kar do.\\nExecutive: Karenge wali baat nahi hai sir, auto nahi aa raha hai. Backend se hi ispe option nahi aa raha hai.\\nCustomer: Ek minute ruko, main idhar open karta hu ek baar dikha deta hu. Data mein.\\nExecutive: Haan, haan, lijiye.\\nCustomer: Data last prevention. Profile to kaafi accha bana hai sir dekha jaaye to.\\nCustomer: Accha idhar nahi aa raha hai, aisa hai.\\nExecutive: Haan ji, haan ji, thik hai. Baki kuch bhi rehta hai to aap Nancy ko bata dijiye.\\nCustomer: Data list mein, thik hai, thik hai, thik hai, thik hai. Nancy ka number.\\nCustomer: Data DLP photo bana, haan thik hai, thik hai. DLP photo bana.\\nExecutive: Koi problem to nahi hai sir?\\nCustomer: Nahi nahi nahi.\\nExecutive: Thik hai sir, main aapka concern yaha se close hai. Baki koi problem ho to Nancy ko bata dijiyega, thik hai?\\nCustomer: Haan thik hai, samajh gaya.\\nExecutive: Thank you, thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add pictures to his profile.\\n\n- Customer says the option is not available.\\n\n\\n\nResolution:\\n\n- Executive checked and confirmed the option unavailable.\\n\n- Executive suggested contacting Nancy for further assistance.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- profile, pictures, service, score\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 171,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=29c70ea2-3139-4628-84ec-9f291248a76f",
+  "ucid": "29c70ea2-3139-4628-84ec-9f291248a76f",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

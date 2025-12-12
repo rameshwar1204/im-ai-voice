@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675237678",
+  "gluser_id": "30728128",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711415",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Bharat sir?\\nCustomer: Hello\\nExecutive: Hello?\\nCustomer: Ji Bharat sir, main Shivam baat kar raha tha, abhi baat hui thi na aap se?\\nCustomer: Haan haan haan, haan haan bilkul hui thi.\\nExecutive: Ji, theek hai sir, abhi aapka issue resolve ho gaya tha, toh abhi problem nahi hai na?\\nCustomer: Nahi nahi koi nahi hai, abhi nahi hai.\\nExecutive: Theek hai, toh sir basically jo hamare paas concern aaya tha, woh close kar de na aap se immediately basis pe aapne bola tha account manager se connect karne ke liye.\\nCustomer: Haan haan haan.\\nExecutive: Theek hai, woh concern close kar de aapka?\\nCustomer: Haan nahi abhi abhi koi issue nahi hai, woh bas aagaye the na apne beje the.\\nExecutive: Hello?\\nCustomer: Abhi koi issue nahi hai.\\nCustomer: Abhi koi issue nahi hai.\\nExecutive: Theek hai, toh sir woh jo concern tha na woh hum close kar rahe hain aapka, theek hai? Aapke paas ek feedback aayega mail par, toh sir use ek baar consider kar dijiyega, theek hai? Baaki maine na aapko sir detail mein whatsapp kar di, kabhi bhi koi dikkat aaye aap mere se directly connect kar sakte hain.\\nCustomer: Bilkul bilkul bilkul sir bilkul.\\nExecutive: Theek hai na sir? Bilkul, sir woh mail pe feedback aayega, please use zarur consider kijiyega, theek hai na sir?\\nCustomer: Theek hai, theek hai, theek hai.\\nExecutive: Okay sir, thank you so much sir.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's issue was not resolved earlier.\\n\n\\n\nResolution:\\n\n- Executive confirmed issue is resolved.\\n\n- Executive will close the concern.\\n\n- Executive requested to consider feedback form.\\n\n- Executive shared contact details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- issue resolution, feedback, concern\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=034c57b6-f5d8-49fb-a701-cf35df752466",
+  "ucid": "034c57b6-f5d8-49fb-a701-cf35df752466",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "114352",
+      "mcat_name": "Italian Marble"
+    },
+    {
+      "mcat_id": "73701",
+      "mcat_name": "Polished Granite Slab"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "186745",
+      "mcat_name": "Toronto Marble"
+    }
+  ]
+}

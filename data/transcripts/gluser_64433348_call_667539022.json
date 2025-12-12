@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667539022",
+  "gluser_id": "64433348",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jasrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Haanji.\\nCustomer: Hello sir. Haan. Main Ravinder bol raha hun. Sir mere ko apni service deactivate karani thi aur uska jo hamara aapke paas paisa hai usko refund karana hai. Uske liye hamare mail baazi chal rahi thi, call chal rahi thi.\\nExecutive: Thik hai. To sir aapka do at least process fill ho gaya hai. Main aapko update kar dunga ek bari. Is aapke process hoga. Kya karoge?\\nCustomer: Aapko refund karane ke liye bol rahe ho aap na?\\nExecutive: Ji.\\nExecutive: Thik hai. Main check kar leta hun. Aap checklist mein bhi fill ho chuki hai.\\n\\nExecutive: Under process mein hai sir aapka. Thik hai jaise clear out hoga main aapko bata dunga.\\nCustomer: Thik hai? To kitne din mein refund ho jayega?\\nExecutive: Main bata raha hun sir aapka jaise review vagarah jo hota hai na review hum log ka ho chuka hai. Thik hai na? Ab mujhe ek bari dijiye samay aaj ka main ek bari aapko baat karke confirm bata dunga aapke is number se.\\nCustomer: Kal?\\nExecutive: Haan, main aapko kal hi bata dunga. Thik hai. Kal to sir hamara office close hai.\\nExecutive: Thik hai? Hmm. Thik hai. Kal hamara office close hai. Main aapko 6 tarikh ko main aapko update kar dunga iske regarding sir.\\nCustomer: 6 tarikh yani ki kal 5. Thik hai. To aap apne number se call karke bataoge na?\\nExecutive: Main bilkul sir main aapko apne end se hi pehle hi call kar bataunga. Aapko call karne ki zarurat bhi nahi padegi.\\nCustomer: Thik hai? Thik hai. Kya naam hai aapka?\\nExecutive: Haan. Mera naam hai sir Bhanu Pratap. Kya naam hai?\\nCustomer: Bhanu Pratap Singh.\\nExecutive: Thik hai ji. Thik hai, thik hai ji. Thik hai na? Aapko kabhi aap bilkul nishchint rahiye sir. Thik hai na? Ab aage Ravinder ji.\\nCustomer: Hello.\\nCustomer: Hello. Haanji haanji bolna. Ji sunna hai na? Aapne haan arey aapne jo abhi call kiya tha 9696 pe na to wo actually ek iska ticket raise ho jata hai. Thik hai? To wo wala ticket main abhi aapko close kar de raha hun. Aapka already refund jo wala hai na wo chal raha hai hamare paas. Thik hai? To ye wala ticket main aapko close kar deta hun. Thik hai? Aapke paas ek feedback jayega usme thik hai please satisfy mark kar dijiyega.\\nCustomer: Okay.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to deactivate service and get refund.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund process is underway.\\n\n- Executive assured customer of an update by 6th.\\n\n- Executive closed the ticket and requested feedback.\\n\n\\n\nNext Steps: \\n\n- Executive will provide an update by 6th.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, service deactivation, ticket closure\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 154,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8bb299a2-4444-451b-97d3-a461c72c780f",
+  "ucid": "8bb299a2-4444-451b-97d3-a461c72c780f",
+  "seller_categories": [
+    {
+      "mcat_id": "78475",
+      "mcat_name": "HR Consultancy Services"
+    },
+    {
+      "mcat_id": "78448",
+      "mcat_name": "Payroll Services"
+    },
+    {
+      "mcat_id": "154135",
+      "mcat_name": "EPF Compliance"
+    },
+    {
+      "mcat_id": "174903",
+      "mcat_name": "Employee Provident Fund Services"
+    },
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    }
+  ]
+}

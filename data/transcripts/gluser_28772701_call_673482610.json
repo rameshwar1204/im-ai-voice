@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673482610",
+  "gluser_id": "28772701",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha sir main Pallavi bol rahi hu sir.\\nExecutive: Ha Pallavi boliye boliye.\\nCustomer: Ha sir aapka kuch concern aaya tha koi random number se aapko call aa rahe the aur live keeping bataya na main unko ha.\\nExecutive: Ha ha sir wo na number humne na aage matlab jaise India mart ke until wo ek zero se ya India mart help karke likh ke nahi aayega na wo number ko please aap avoid kijiyega wo kya hota hai ki bahut sare cases me kabhi aapko just dial keh ke bol dega kyuki account manager aur unke manager senior level priority koi call nahi aata to koi aapka sir third party aapko call nahi kar sakta hai.\\nCustomer: Hmm hmm nahi tabhi maine kya unko bola tha India mart ke number se aap call karo to us number se kiya nahi mujhe random number se call kar rahe hai baar baar.\\nExecutive: Nahi nahi sir wo aap keh rahe na ki aapka aap aise unko ye kar sakte ho threaten kar sakte ho ki aapka number hum report karenge police me aise karke aapko call cut kar dijiyega aur sir India mart me sirf mere aur aapke level pe mere aur abhi jo Ravi hai naye account manager unke level pe call jayega sir aap na mera number save kar lijiye na usi pe directly call kijiye kya hota hai na.\\nCustomer: Ye wala.\\nExecutive: Sir ye wala number aap 720 se ek mera number hai na aap usko note kar lo 72092 wala number sir.\\nCustomer: Aap mujhe mis call message kar sakte hai ek baar us number pe.\\nExecutive: Ha main abhi aapko message kar de rahi hu theek hai.\\nCustomer: Message save kar deta hu.\\nExecutive: Ha usse kya hota hai sir aap customer care pe call karte ho na to ticket open ho jata hai concern open ho jata hai sir.\\nCustomer: Okay okay samajh gaya theek hai.\\nExecutive: Theek hai abhi main aapko sir mail bhej rahi hu closure lagakar wo aap please uthaiyega mat phone aur matlab agar until ek zero se nahi aa raha hai ya fir aap account manager call nahi kar raha to wo number sir fraud hi hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai to wo aap avoid kijiyega aur baki na hum sir abhi isko close kar dete hai please usse yes me reply kar dijiyega.\\nCustomer: Theek hai theek hai okay.\\nExecutive: Theek hai ha main bhijwati hu sir ji.\\nCustomer: Ha ha.\\nExecutive: Okay sir thank you.\\nCustomer: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Receiving random calls not from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive advised to avoid suspicious numbers.\\n\n- Executive shared her direct contact number.\\n\n- Executive will send a closure mail.\\n\n\\n\nNext Steps: \\n\n- Customer to reply 'yes' to closure mail.\\n\n\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- spam calls, account manager, closure, fraud\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9ff62667-2822-4da8-92a9-ddfc1d38e5d0",
+  "ucid": "9ff62667-2822-4da8-92a9-ddfc1d38e5d0",
+  "seller_categories": [
+    {
+      "mcat_id": "167696",
+      "mcat_name": "Pagoda Tent"
+    },
+    {
+      "mcat_id": "41970",
+      "mcat_name": "Resort Tents"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "100516",
+      "mcat_name": "Swiss Cottage Tent"
+    }
+  ]
+}

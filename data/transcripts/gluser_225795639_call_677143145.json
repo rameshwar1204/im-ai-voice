@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677143145",
+  "gluser_id": "225795639",
+  "vintage_months": 8,
+  "bl_dau_oct": 1,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Latur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9653604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bf877ceb-ff14-4b6b-a2ed-5700c0bc4697",
+  "ucid": "bf877ceb-ff14-4b6b-a2ed-5700c0bc4697",
+  "seller_categories": [
+    {
+      "mcat_id": "85002",
+      "mcat_name": "Colorful Cracker"
+    },
+    {
+      "mcat_id": "85000",
+      "mcat_name": "Celebration Firework"
+    },
+    {
+      "mcat_id": "235605",
+      "mcat_name": "Cold Fireworks"
+    },
+    {
+      "mcat_id": "651057",
+      "mcat_name": "Multi Shot Fireworks"
+    },
+    {
+      "mcat_id": "443018",
+      "mcat_name": "Colour Smoke Bomb"
+    }
+  ]
+}

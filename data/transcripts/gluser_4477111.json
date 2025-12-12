@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671000691",
+  "gluser_id": "4477111",
+  "vintage_months": 55,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Rangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672856",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello sir, Namaskaram cheppandi sir.\\nCustomer: India mart lo nenu idi vere number tho login avudam ante avvatledu.\\nExecutive: E X K Born Industries sir.\\nCustomer: Avunandi.\\nExecutive: Vere system lo login ayitunnara?\\nCustomer: Ha open avuthundi naaku OTP vastaledu sir.\\nExecutive: OTP raleda, meeku OTP vachi login avvaleda sir?\\nCustomer: Ravadam ledu OTP. Enno sarlu kottina.\\nExecutive: 020 number ka pettiri?\\nCustomer: A?\\nExecutive: Number ending with 020 primary number adhe pettira sir?\\nCustomer: A kaadu vere cheppara 431 adhi ippudu use cheyatledu sir.\\nExecutive: Okka nimisham sir. Sir primary number vachi 98 nunchi start ayyi 020 ani end ayyi kada.\\nCustomer: Adhi oddu ippudu.\\nExecutive: Adhi oddu anna sir.\\nCustomer: Hmm.\\nExecutive: Actually aa number first aa number meeru change cheyali sir, daniki anakuda meeku OTP aa 431 number ki vachchu. Ippudu daaka primary lo 020 undedhi kada. So daniki OTP lekunda cheppandi.\\nCustomer: Ok daniki eppudu mari ippudu daniki OTP ravadam cheyanna?\\nExecutive: A yes sir. 020 number ku okka 2 3 OTPs raavali primary number change chesinduku. Account change cheste anakuda mana login vachi 431 number lo chesukovacchu.\\nCustomer: Aa number meeku pettundera ippudu handle la 020 number?\\nExecutive: Okka nimisham.\\nExecutive: Ok.\\nCustomer: Meeru naaku guide chestara nenu okala login cheste?\\nExecutive: A login cheyandi sir nenu cheptanu meeku. Meeru just first google open chesukuni seller.indiamart.com pettandi.\\nCustomer: Okka nimisham.\\nExecutive: Ok. Ha seller.indiamart.com ne pettanu.\\nExecutive: Enter mobile number adugutundi kada?\\nCustomer: Okka nimisham.\\nCustomer: Ha okla vastundi ok.\\nExecutive: So daantla 9849581020 aa number pettandi sir.\\nCustomer: Okka nimisham.\\nExecutive: Ok.\\nCustomer: Okka nimisham nenu call cut chesi cheyalsostundi.\\nExecutive: A danlo OTP aa number\\nCustomer: Me number edhi andi?\\nExecutive: A sir ippudu meeku whatsapp pettundaali chudandi.\\nCustomer: Ok 7673 aa?\\nExecutive: A yes correct sir.\\nCustomer: Ok aa number call chesta ippudu.\\nExecutive: A cheyandi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to log in with a different number.\\n\n- Not receiving OTP on the registered number.\\n\n\\n\nResolution:\\n\n- Executive explained the process to change primary number.\\n\n- Provided guidance on how to log in.\\n\n\\n\nNext Steps: \\n\n- Customer will call on the provided WhatsApp number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- login, otp, primary number, change number\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 208,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2e0dffb3-7ffc-415b-9b29-85bbc3bdaf7a",
+  "ucid": "2e0dffb3-7ffc-415b-9b29-85bbc3bdaf7a",
+  "seller_categories": [
+    {
+      "mcat_id": "181454",
+      "mcat_name": "LED COB Light"
+    },
+    {
+      "mcat_id": "95592",
+      "mcat_name": "LED Tube Light"
+    },
+    {
+      "mcat_id": "181802",
+      "mcat_name": "LED Surface Mounted Light"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "2587",
+      "mcat_name": "Tube Light"
+    }
+  ]
+}

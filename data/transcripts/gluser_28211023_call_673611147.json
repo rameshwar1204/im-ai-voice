@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673611147",
+  "gluser_id": "28211023",
+  "vintage_months": 21,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686921",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hanji sir.\\nCustomer: Hello.\\nExecutive: Hello, hanji sir Sandhya bol rahi thi IndiaMART se, pahuch gaye aap?\\nCustomer: Aabhi se gadi chala raha hai, mai bol raha hu na aake phone karega.\\nExecutive: Thik hai, jaise hi aap pahuch jate hai mujhe samne se call kariye sir.\\nExecutive: Thik hai?\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called to check if customer reached.\\n\n\\n\nResolution:\\n\n- Customer said he is driving, will call later.\\n\n\\n\nNext Steps: \\n\n- Customer will call after reaching.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call, indiaMART\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5d7d91d8-959e-4cde-852a-9e0ea171b1ce",
+  "ucid": "5d7d91d8-959e-4cde-852a-9e0ea171b1ce",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    },
+    {
+      "mcat_id": "221165",
+      "mcat_name": "Cosmic Paver Block"
+    },
+    {
+      "mcat_id": "651864",
+      "mcat_name": "Zigzag Paver Block"
+    }
+  ]
+}

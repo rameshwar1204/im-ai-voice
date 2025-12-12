@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672838593",
+  "gluser_id": "236584514",
+  "vintage_months": 5,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello?\\nExecutive: Haan ji sir.\\nExecutive: Hai na to baki theek.\\nCustomer: Hello, aawaz aa rahi hai sir?\\nCustomer: Haan ji ji aa rahi hai aa rahi hai.\\nExecutive: Baki aap sab save kar lena sare filter filter, theek hai? Isko proper aise hi follow karna to aapko alag response dikhne lagega ispe.\\nCustomer: Achha achha achha.\\nExecutive: Theek hai, baki ticket close, main aapko ye keh raha tha main aapki na ticket close karunga. To\\nCustomer: Haan.\\nExecutive: Feedback aayega to please mujhe matlab de dena achha hai na just.\\nCustomer: Nahi theek hai na sir.\\nExecutive: Hello. Haan sir.\\nExecutive: Hello. Haan, hello, main hello sir.\\nCustomer: Haan ji ji ji boliye na.\\nExecutive: Hai na wohi main aapko keh raha aapko feedback aapke mail pe hi aayega to use yes de dena matlab jo bhi hamara video meeting kara gaya achha raha sari cheeze usme aap likhna hoga to likh bhi sakte hai sari cheeze aur kisi cheez pe.\\nCustomer: Okay.\\nExecutive: Theek hai? Theek hai sir main aapka na kar deta hu close.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs feedback after ticket closure.\\n\n\\n\nResolution:\\n\n- Executive explained about feedback process.\\n\n- Executive is closing the ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, ticket closure, video meeting\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1790868e-0829-4d3a-9b8c-581acecb008d",
+  "ucid": "1790868e-0829-4d3a-9b8c-581acecb008d",
+  "seller_categories": [
+    {
+      "mcat_id": "193165",
+      "mcat_name": "Mantra Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "193164",
+      "mcat_name": "SecuGen Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "189719",
+      "mcat_name": "Morpho Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "4421",
+      "mcat_name": "Biometric Fingerprint Scanners"
+    }
+  ]
+}

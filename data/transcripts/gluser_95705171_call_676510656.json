@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676510656",
+  "gluser_id": "95705171",
+  "vintage_months": 0,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bachhraon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648208",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ek call aa rahi hai.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan, Javed sir baat kar rahe hain?\\nCustomer: Ji ji boliye sir.\\nExecutive: Ji woh process jo bataya tha woh kar diya tha sir aapne?\\nCustomer: Ji woh kar diya maine.\\nExecutive: PDF pe se number hatwa diya tha jo number aapka aa raha tha?\\nCustomer: Nahi sir woh nahi hat payega ab.\\nExecutive: Ek baar ek baar baat kar lijiye koi dikkat toh aati nahi hai sir kitna rupya liya tha unhone design karte samay?\\nCustomer: Sir 700 rupya liya tha woh.\\nExecutive: 700 rupya?\\nCustomer: Haan haan.\\nExecutive: Mujhe bataye hote maine aapse kaha tha sir ki 80 90 rupya jyada se jyada 100 mujhe de diye hote sir 500 mein karwa deta. Haan khul ke ek baar bolte toh sahi sir.\\nCustomer: 700 rupya liya.\\nExecutive: Nahi sir itna toh 700 mein toh aapka sara kaam karke dega sir. Itna thodi manga lagta hai sir. Theek hai main na ek ek ek main Armaan ji ke saath ek customer ke saath meeting mein hu main turant aapko Javed ji call karta hu theek hai.\\nCustomer: Okay.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was charged \u20b9700 for designing.\\n\n\\n\nResolution:\\n\n- Executive said he would have done it for \u20b9500.\\n- Executive will call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- designing, pdf, call back\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=478e5071-3edb-4c9a-a90c-8e853f8d74f0",
+  "ucid": "478e5071-3edb-4c9a-a90c-8e853f8d74f0",
+  "seller_categories": [
+    {
+      "mcat_id": "140396",
+      "mcat_name": "Retractable Roof"
+    },
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "135895",
+      "mcat_name": "Car Parking Tensile Structure"
+    }
+  ]
+}

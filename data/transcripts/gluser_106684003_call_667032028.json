@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667032028",
+  "gluser_id": "106684003",
+  "vintage_months": 48,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Budgam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9627040",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes, good evening sir, may Kadhir bol raha tha, Rishabh ka manager. WhatsApp pe.\\nCustomer: Bataye, bataye sir.\\nExecutive: Abhi maine woh technical team se bhi baat kiya tha, abhi woh aapka kuch network change hone mein issue nahi aa raha hai na abhi?\\nCustomer: Network change karne ke baad nahi hota sir problem.\\nExecutive: Accha network change karne ke baad. Jio mein toh ho sakta hai, maybe kuch dikkat aa rahi hai iski wajah se ho raha hai. Ho sakta hai ki woh jitni jaldi sort out ho jayega na, toh issue aapka woh Jio mein bhi khatam ho jayega. Filhal ke liye sir dusre network vagera ka use karte hai na, apna use kijiye service ko.\\nCustomer: Ji, ji, ji, ji.\\nExecutive: Aur kuch bhi agar issue agar aur bhi kuch aata hai na, toh Rishabh Rishabh ne apna number share kiya kya aapko?\\nCustomer: Haan ji, haan ji, haan ji.\\nExecutive: Theek hai na, kuch bhi agar issue hota hai na sir ya toh WhatsApp pe update kijiyega na toh bhi woh call kar lega. Theek hai? Nahi toh mera bhi number aap note karna chahte ho toh kar sakte ho.\\nCustomer: Theek hai sir, theek hai.\\nExecutive: Theek hai na? Baaki main aapka woh request request tha woh network ke leke toh usko main filhal ke liye close kar deta hu. Kuch bhi issue further agar hota hai aap mujhe call kar lijiye, mujhe call kar lijiye ya Rishabh ko update kar dijiyega, hum fir se connect kar lenge aapko. Theek hai?\\nCustomer: Koi issue nahi sir.\\nExecutive: Theek hai na? Baaki sir aur bhi kuch agar issue hai service se regarding ya inquiry ko leke kuch bhi agar hai toh aap bata sakte ho.\\nCustomer: Nahi nahi, baaki koi dikkat nahi hai, yahi ek dikkat hai bas.\\nExecutive: Baaki theek hai. Accha, baaki sir yeh flour mill vagera mein hum deal karte hai na?\\nCustomer: Sir woh baad mein dekhenge pehle yeh wala issue khatam kar do aap sir.\\nExecutive: Sir yeh toh sir aapko sir pata hai ki woh Reliance wale ke end mein hai, ab usme main kya kar sakta hu?\\nExecutive: Ab usme toh baaki jo dusra network hai usme toh kaam aa raha hai, usme koi dikkat nahi aa raha hai.\\nExecutive: Theek hai na? Toh filhal ke liye kuch din ke liye aap dusra network ko use kar lijiye aur jaise hi woh kuch theek aa jata hai fir aap usme shift ho jayenge, koi dikkat nahi hai sir.\\nExecutive: Ab jo bhi hamare end mein hai sir ji woh toh maine find out kar liya ki kya issue hai, kiski wajah se woh ho raha hai. Theek hai na? Baaki woh cheez aapko maine update kar diya hai.\\nExecutive: Theek hai na?\\nExecutive: Baaki agar further kuch agar issue hota hai toh fir main aapko update kar dijiyega. Theek hai sir?\\nCustomer: Koi issue nahi, okay, okay.\\nExecutive: Chaliye, theek hai sir ji, main aapka request close karta hu. Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing network issues with Jio.\\n\nResolution:\\n\n- Executive explained the issue is from Reliance end.\\n\n- Suggested using another network temporarily.\\n\n- Executive shared Rishabh's and his contact number.\\n\n\\n\nNext Steps: \\n\n- Customer can contact Rishabh or the executive.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- network issue, jio, reliance, technical support\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0dc8fa87-d4d5-4f14-8101-69f6be7a5c82",
+  "ucid": "0dc8fa87-d4d5-4f14-8101-69f6be7a5c82",
+  "seller_categories": [
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "28610",
+      "mcat_name": "Flour Mill"
+    },
+    {
+      "mcat_id": "44751",
+      "mcat_name": "Disposable Glass Making Machine"
+    },
+    {
+      "mcat_id": "175385",
+      "mcat_name": "Detergent Formulation Consulting"
+    }
+  ]
+}

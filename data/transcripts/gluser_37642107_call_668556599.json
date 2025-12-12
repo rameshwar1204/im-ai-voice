@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668556599",
+  "gluser_id": "37642107",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji ATS construction se baat ho rahi hai Sarfaraz ji se?\\nCustomer: Haan Sarfaraz ji se baat ho rahi hai sir.\\nExecutive: Haan Sarfaraz ji namaskar main Vivek Mishra baat kar raha hun business manager from IndiaMART.\\nCustomer: Ji bataiye sir.\\nExecutive: Haan sir aapko inform karna tha ki aapka jo refund hai wo humne initiate kar diya hai sir.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inquiring about refund status.\\n\n\\n\nResolution:\\n\n- Executive informed refund has been initiated.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, indiaMART\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=04989c89-4c31-4296-a8cd-c9e32ca4d2c6",
+  "ucid": "04989c89-4c31-4296-a8cd-c9e32ca4d2c6",
+  "seller_categories": [
+    {
+      "mcat_id": "43386",
+      "mcat_name": "Road Construction"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "175580",
+      "mcat_name": "Boundary Walls Construction Services"
+    },
+    {
+      "mcat_id": "167404",
+      "mcat_name": "Hydraulic Floor Spring"
+    },
+    {
+      "mcat_id": "110077",
+      "mcat_name": "Fiber Cement Tile"
+    }
+  ]
+}

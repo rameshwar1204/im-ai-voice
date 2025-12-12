@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675605644",
+  "gluser_id": "15062134",
+  "vintage_months": 41,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Malegaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708224",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Ji Rahul sir very good evening.\\nCustomer: Good evening bolo.\\nExecutive: Aman baat kar raha tha IndiaMART se account manager kaise hain sir?\\nCustomer: Ye theek hai bolo bolo.\\nExecutive: Aapne parso aap se mera discussion hua tha uske baad aapne feedback diya hai not satisfied ke liye.\\nCustomer: Haan.\\nExecutive: Kya karan tha sir bataiye thoda kya issue hai?\\nCustomer: Ka pe hai?\\nExecutive: Aapne whatsapp ke through feedback diya hai parso ke din.\\nCustomer: Whatsapp ke through.\\nExecutive: Ji.\\nCustomer: Aapke paas message aaya hoga whatsapp pe isi number pe. Hmm hmm nahi nahi nahi.\\nExecutive: IndiaMART feedback karke.\\nCustomer: Galti se kuch ho gaya hoga.\\nExecutive: Not satisfied mark kar diya. Nahi thi yaar nahi nahi nahi nahi hoga.\\n(silence)\\n(Call Hold Music)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asks about the 'not satisfied' feedback.\\n\nResolution:\\n\n- Customer says it was a mistake.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, not satisfied, mistake\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 332,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=53836953-ff71-45aa-84d4-e12f3f97c58a",
+  "ucid": "53836953-ff71-45aa-84d4-e12f3f97c58a",
+  "seller_categories": [
+    {
+      "mcat_id": "43202",
+      "mcat_name": "Rotavator"
+    },
+    {
+      "mcat_id": "7463",
+      "mcat_name": "Disc Harrow"
+    },
+    {
+      "mcat_id": "164251",
+      "mcat_name": "Multi Speed Rotavator"
+    },
+    {
+      "mcat_id": "20908",
+      "mcat_name": "Seed Drills"
+    },
+    {
+      "mcat_id": "180646",
+      "mcat_name": "Bund Maker"
+    }
+  ]
+}

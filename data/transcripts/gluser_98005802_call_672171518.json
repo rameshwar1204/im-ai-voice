@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672171518",
+  "gluser_id": "98005802",
+  "vintage_months": 6,
+  "bl_dau_oct": 15,
+  "customer_type": "vgFCP with PNS",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667653",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji?\\nExecutive: Ha ji sir Pallavi baat kar rahi hu IndiaMART se.\\nCustomer: Ha Pallavi ji kya ho gaya?\\nExecutive: Sir wo by lead ki details bhej dijiyega na wo ek bar check karwana hai.\\nCustomer: Mere isliye sir ek bhej dijiye already abhi abhi hamara jo discussion hua tha na uske hisab se jo naya leads aayega.\\nExecutive: Ha.\\nCustomer: Usme se aapko de rahe hai screenshot nikal ke.\\nExecutive: Sir mere ko do teen bhejne padenge na unko ek ke paise abhi mere ko.\\nCustomer: Abhi maine consume nahi ki kisi se call nahi pehle ka jo aap complaint kar rahe the sir unka bata rahi hu jo aapne pehle ke by leads ka complaint kiya tha unki details bhej dijiye sir wo main ek bar check karwa leti hu kahan problem aa rahi hai.\\nCustomer: Ha thik hai dekhta hu main mujhe bhi dekh ke usko call karna padega dekh ke.\\nExecutive: Sir dekh ke mujhe aap kal priority pe bata dijiye hai na.\\nCustomer: Thik hai thik hai.\\nCustomer: Hmm thik hai.\\nExecutive: Okay sir okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants buylead details to be checked.\\n\n- Wants to know about new leads.\\n\n\\n\nResolution:\\n\n- Executive asked for details of previous complaint.\\n\n- Executive will check where the problem is.\\n\n\\n\nNext Steps: \\n\n- Executive will inform customer on priority tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, check, priority\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=885994f3-0b65-4c84-8737-57222381ab10",
+  "ucid": "885994f3-0b65-4c84-8737-57222381ab10",
+  "seller_categories": [
+    {
+      "mcat_id": "143842",
+      "mcat_name": "Polyester Yarn Waste"
+    },
+    {
+      "mcat_id": "84622",
+      "mcat_name": "Tyre Cord Fabric"
+    },
+    {
+      "mcat_id": "222471",
+      "mcat_name": "High Tenacity Polyester Yarn"
+    },
+    {
+      "mcat_id": "141859",
+      "mcat_name": "HD Plastic Granules"
+    },
+    {
+      "mcat_id": "7120",
+      "mcat_name": "Polyester Cord"
+    }
+  ]
+}

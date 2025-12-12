@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669582984",
+  "gluser_id": "227511296",
+  "vintage_months": 15,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tonk",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. \\nExecutive: Ji Ramchandra ji baat kar rahe hai right sir?\\nCustomer: Ji Ramchandra ji baat kar rahe hai kya sir?\\nExecutive: Sir mai Sunil Prakash baat kar raha hu branch manager IndiaMART se.\\nCustomer: Ha boliye.\\nExecutive: Sir aapne inquiry buyleads ke liye yaha pe complaint raise kiya tha sir isiliye call kiya mai.\\nCustomer: Ha ha.\\nExecutive: Maine complaint ki aapko October ko.\\nCustomer: Sir bataiye matlab service kaun use karega aap use karenge kaun use karega service?\\nExecutive: Mai use karunga mai.\\nExecutive: Aap hi use karenge sir?\\nCustomer: Thik hai.\\nExecutive: To to sir ye mujhe bataiye aapko IndiaMART aapke mobile app pe hai ya nahi hai? Aap kaise chalayenge mobile se chalayenge ya laptop pe chalayenge?\\nCustomer: Mobile se mobile se mobile se.\\nExecutive: Mobile se chalayenge? Thik hai sir. Mobile open kariye ek baar sir aap apna.\\nCustomer: Sir mai abhi khana kha raha hu sir 15 minute baad call karo sir aap. Promotion.\\nExecutive: Kab call karu aapko?\\nCustomer: 10 minute baad mai khana kha raha hu abhi to 10 minute baad call kariye aap thoda.\\nExecutive: Thik hai sir 10 minute baad call kar leta hu aapko.\\nCustomer: Ha thik hai 10 minute baad khana mai kha raha hu sir.\\nExecutive: Sahi hai sahi hai kha lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised a complaint for inquiry buyleads.\\n\n- Wants to know who will use the service.\\n\n- Customer is currently eating food.\\n\n\\n\nResolution:\\n\n- Executive confirmed customer will use the service.\\n\n- Executive asked customer to open the mobile app.\\n\n- Agreed to call back after 10 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, mobile app\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=be5b3c33-185e-42e6-81dd-bd7e7ea2b4d0",
+  "ucid": "be5b3c33-185e-42e6-81dd-bd7e7ea2b4d0",
+  "seller_categories": [
+    {
+      "mcat_id": "3036",
+      "mcat_name": "Terracotta Pots"
+    },
+    {
+      "mcat_id": "213448",
+      "mcat_name": "Clay Water Bottle"
+    },
+    {
+      "mcat_id": "177428",
+      "mcat_name": "Terracotta Diya"
+    },
+    {
+      "mcat_id": "73393",
+      "mcat_name": "Terracotta Vase"
+    },
+    {
+      "mcat_id": "187122",
+      "mcat_name": "Clay Diya"
+    }
+  ]
+}

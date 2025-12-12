@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676495134",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji, call aa raha tha aapka. \\nCustomer: Haan sir, aawaj nahi aa rahi.\\nExecutive: Nahi aa rahi hai?\\nCustomer: Haan sir service vagaira kaise chal rahi hai?\\nExecutive: Abhi mai free hoke call karunga sir aapko.\\nCustomer: Theek hai, theek hai kar lena.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting voice.\\n\n- Customer asked about the service.\\n\n\\n\nResolution:\\n\n- Executive will call the customer back after getting free.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back the customer.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvoice issue, service\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=856eda3c-b0ff-4683-950f-f92b8adf7cf9",
+  "ucid": "856eda3c-b0ff-4683-950f-f92b8adf7cf9",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

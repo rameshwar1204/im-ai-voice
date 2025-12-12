@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669709046",
+  "gluser_id": "159340100",
+  "vintage_months": 11,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Yes sir.\\n\\nExecutive: Ji good morning madam.\\n\\nCustomer: Good morning sir.\\n\\nExecutive: India Mart se bol rahe hain.\\n\\nCustomer: Ji bilkul sir bataiye.\\n\\nCustomer: Madam ek help chahiye tha apne ko India Mart ka login karna tha.\\n\\nExecutive: Sir aap company ka naam bata dijiyega.\\n\\nCustomer: Engineers Machinery and Services Private Limited.\\n\\nExecutive: Hum kaun se baat kar rahe hain kya?\\n\\nCustomer: Ji ji ji.\\n\\nExecutive: To kya dikkat aa raha hai sir login nahi ho raha hai aapka?\\n\\nCustomer: Nahi agar main isko madam ye chah raha hu ki agar isko password ke through agar main login kar sakta hu kya isko?\\n\\nExecutive: Kya kar sakta hu sir?\\n\\nCustomer: Password ke through main login kar sakta hu kya?\\n\\nExecutive: Password primary number dalenge uske through aapko ek mail sorry OTP receive hoga uske through karna hota hai.\\n\\nCustomer: Accha without OTP nahi kar payenge na?\\n\\nExecutive: Nahi nahi wo direct password se nahi kar sakte OTP primary number dal kar ke primary number pe aapko OTP jata hai fir usse OTP ko mention karna matlab type karke fir ye ho sakta hai.\\n\\nCustomer: Okay.\\n\\nCustomer: Pehle main karta tha isko login ha password ke through karta tha main.\\n\\nExecutive: Accha accha.\\n\\nExecutive: Sir aapke paas mera number nahi hai kya?\\n\\nCustomer: Aapka naam kya hua madam?\\n\\nExecutive: Hello. Haan? Haan haan aapke paas mera number Divya Singh baat kar rahi hu main.\\n\\nCustomer: Nahi aapka aapka number nahi hai mere paas.\\n\\nExecutive: Accha accha.\\n\\nExecutive: To abhi aap kis mein login karna chahte hain aap?\\n\\nCustomer: Main desktop pe main main nahi main OTP wala system hatana chah raha tha main samjhe kya?\\n\\nExecutive: Nahi nahi nahi OTP wala nahi hatata hai sir kyuki sir aise to rahega to koi bhi kar leta hai na to isliye hum primary number se ek verified OTP dete hain taki jo buyer genuine jo seller hai unhi ka rahe kyuki aise to aapki tarah bahut sare staff hai jo agar aap nahi hoge to wo aake handle karenge fir aise to dikkat ho jata hai na sir security purpose ke liye humne ye facility kiya hua hai.\\n\\nCustomer: Chaliye theek hai theek hai wahi main puch raha tha jab puch raha tha ki hota hai kya aisa.\\n\\nExecutive: Accha accha to sir abhi na abhi meri side se mam aapko ek bar connect karenge aap baat kar lijiyega kyuki aapne customer care number pe call kiya hai sir.\\n\\nCustomer: Chaliye theek hai koi baat nahi. Abhi ab kya baat karna madam?\\n\\nExecutive: Baat basically aapne customer care ke number pe call kiya to usse regarding mam baat karenge aur koi nahi hoga dikkat.\\n\\nExecutive: Lekin main abhi kar leti hu abhi main hi kar lungi sir fir aap mujhe bata dijiyega theek hai sir?\\n\\nCustomer: Okay.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to log in to IndiaMART.\\n\n- Wants to log in through password, not OTP.\\n\n\\n\nResolution:\\n\n- Explained OTP is required for security reasons.\\n\n- Executive offered to connect customer with someone.\\n\n- Executive decided to handle the call herself.\\n\n\\n\nNext Steps: \\n\n- Customer will inform executive if any issues.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, otp, password, security\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 181,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3356bd17-bbf4-4a4c-b267-01e73ccfa6eb",
+  "ucid": "3356bd17-bbf4-4a4c-b267-01e73ccfa6eb",
+  "seller_categories": [
+    {
+      "mcat_id": "27668",
+      "mcat_name": "Electronic Torque Wrench"
+    },
+    {
+      "mcat_id": "29684",
+      "mcat_name": "Hydraulic Torque Wrenches"
+    },
+    {
+      "mcat_id": "656652",
+      "mcat_name": "Electric Torque Wrench"
+    },
+    {
+      "mcat_id": "2507",
+      "mcat_name": "Torque Wrench"
+    },
+    {
+      "mcat_id": "176267",
+      "mcat_name": "Bolting Services"
+    }
+  ]
+}

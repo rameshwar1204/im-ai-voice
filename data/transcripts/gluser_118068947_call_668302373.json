@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668302373",
+  "gluser_id": "118068947",
+  "vintage_months": 24,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9643261",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Nishchint ho ye re mana nirbhay.\\nHalo.\\nExecutive: Hello.\\nCustomer: Yes ma'am.\\nExecutive: Sir Chetna baat kar rahe ho IndiaMART se.\\nCustomer: Bolie. Bolie na.\\nExecutive: Ji wo aapne morning me jo concern raise kiya tha na wo aapko OTP nahi aa raha tha. To mujhe bataye wo abhi login ho gaya?\\nCustomer: Ho gaya solve ho gaya. Solve ho gaya wo issue.\\nExecutive: Achcha to mai yaha se aapka concern close kar sakti hu?\\nCustomer: Ha kar do close kar do.\\nExecutive: Ha aapke paas ek feedback mail aayega sir. Please aap waha pe positive feedback dijiyega. Thik hai?\\nCustomer: Okay. Okay okay. Thank you.\\nExecutive: Bar bar login na karna pade usko kya karna padega?\\nCustomer: Kya sir?\\nCustomer: Bar bar login na karna pade uske liye kya karna padega?\\nExecutive: Aap na password change kar lijiye.\\nCustomer: Okay.\\nExecutive: Ya fir IndiaMART ka to application download rehta hai na phone me. Agar aap phone se use karte hai to ek bar login kijiye wo to login hi rehta hai.\\nCustomer: Ha login hi rehta hai wo. Wo login hi rehta hai hamesha.\\nExecutive: Ha wo hamesha login rehta hai. By chance agar desktop pe login karne wali baat hai to password change kar lijiye. To agar by chance aapka koi staff hai aur use karna chahta hai wo usko login karna rahega wo password ke through login kar lega.\\nCustomer: Thik hai thik hai chalega thank you. Thank you.\\nExecutive: Thik hai. Mai na close karungi to aap please feedback de dijiyega. Aapko sorry mail se aayega feedback. Thik hai na?\\nCustomer: Ji aa jayega. Okay okay.\\nExecutive: Okay thik hai sir. Thank you for time sir. Thank you.\\nCustomer: Yeah.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not receiving OTP.\\n\n- Wants to avoid repeated logins.\\n\n\\n\nResolution:\\n\n- OTP issue resolved.\\n\n- Suggested changing password or using app.\\n\n\\n\nNext Steps: \\n\n- Customer will receive feedback mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- otp, login, password, feedback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=71360a27-57fb-4da1-9e08-c729b21f84bf",
+  "ucid": "71360a27-57fb-4da1-9e08-c729b21f84bf",
+  "seller_categories": [
+    {
+      "mcat_id": "166148",
+      "mcat_name": "Acrylic Trophies"
+    },
+    {
+      "mcat_id": "132574",
+      "mcat_name": "Award Trophies"
+    },
+    {
+      "mcat_id": "43269",
+      "mcat_name": "Crystal Trophies"
+    },
+    {
+      "mcat_id": "11348",
+      "mcat_name": "Lapel Pins"
+    },
+    {
+      "mcat_id": "43268",
+      "mcat_name": "Metal Trophies"
+    }
+  ]
+}

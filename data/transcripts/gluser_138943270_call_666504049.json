@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666504049",
+  "gluser_id": "138943270",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9725813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ji\\nExecutive: Abhi bhi abhi bhi problem resolve nahi hua.\\nCustomer: Abhi bhi dikkat aa rahi hai sir.\\nExecutive: Bilkul.\\n\\nExecutive: Sahi hui hai? Ek bari page hi nahi khul raha hai, page hi nahi khul raha hai.\\nCustomer: Ek bari fir se main team se update leta hu.\\nCustomer: Aapko 24 ghante ho gaye bhai, hamara sara kaam pada hai.\\nExecutive: Main update leta hu sir, team mein sampark karta hu.\\nCustomer: 24 ghante mein koi koi call bhi nahi kar pa rahe hai, main lead check kar raha hu.\\nExecutive: I'm so sorry for the inconvenience sir.\\n\\nCustomer: Aap isko dekh lijiye, thoda jaldi dekh lenge mere bhai.\\nExecutive: Ji ji thik hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- The customer's issue is still not resolved.\\n\n- The customer is unable to make calls.\\n\n- The customer's work is stuck.\\n\n\\n\nResolution:\\n\n- Executive assured to take update from the team.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- issue resolution, buyleads, inconvenience\\n\n\\n",
+  "call_entered_on": "11/1/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e431f8d-5608-4dee-a794-144f853ab14d",
+  "ucid": "8e431f8d-5608-4dee-a794-144f853ab14d",
+  "seller_categories": [
+    {
+      "mcat_id": "441885",
+      "mcat_name": "Shilajit Resin"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "177417",
+      "mcat_name": "Shilajit Extract"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    }
+  ]
+}

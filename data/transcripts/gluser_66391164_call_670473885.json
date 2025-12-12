@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670473885",
+  "gluser_id": "66391164",
+  "vintage_months": 25,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Satara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656438",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan boliye.\\nExecutive: Hello yes sir good evening.\\nCustomer: Haan boliye.\\nExecutive: Haan sir namaste mai aapse baat kar rahi thi.\\nCustomer: Haan bol raha hu.\\nExecutive: Haan sir regarding services aapko phone kiya tha IndiaMART se mai Vanshika baat kar rahi thi account manager sir.\\nCustomer: Hmm.\\nExecutive: Haan sir aapka yaha pe ticket ticket raise hua tha aapne customer ke number pe call kar diya tha.\\nCustomer: Haan.\\nExecutive: Haan sir to aapka kya concern tha jo aapne customer ke number pe phone kiya tha?\\nCustomer: Mera irrelevant leads vagera bahut si aa rahi hai fake leads hai aur IndiaMART se business nahi ho raha tha uske regarding maine phone kiya tha aur bar bar ye cheez ho rahi hai.\\nExecutive: Haan.\\nCustomer: Matlab pichle saal se jab se maine package kharida hai to tab se koi improvement nahi hai usme.\\nExecutive: Hmm.\\nCustomer: Aur sab matlab har mahine me wohi cheez mai experience kar raha hu aur mera business nahi ho pa raha hai jitna IndiaMART se ROI nikalna chahiye utna bhi nahi ho pa raha hai.\\nExecutive: Accha.\\nExecutive: To sir mai aapko ek video meet ka link share karti hu aap usko join kar lijiye.\\nCustomer: Hmm.\\nExecutive: Uske sath hum discussion kar lenge thik hai. Thik hai mai aapko ek video link aaya hoga aapke pass.\\nCustomer: Mujhe abhi kisi IndiaMART se call aaya tha to unka catalog catalog se catalog ki wajah se kuch ye karna tha woh bol rahi thi.\\nExecutive: Haan.\\nCustomer: Aisa hai to unka bhi video meeting ka link abhi aane wala hai mujhe to kiske sath matlab join karna hai?\\nExecutive: Mera mera aap mera join kar lijiye sir Vanshika ke naam se aapke pass video meet gaya hoga aap usko join kar lijiye.\\nCustomer: Thik hai.\\nExecutive: Mai aapka thik hai haa usko join kariye sir.\\nCustomer: Thik hai.\\nExecutive: Thik hai.\\nExecutive: Kariye sir abhi call pe hi.\\nCustomer: Kispe bheja hai aapne?\\nExecutive: Aapki jo mail id hai na.\\nCustomer: Hmm.\\nCustomer: Kon sa wala Nutri Globe ya Namit.\\nExecutive: Ek minute.\\nExecutive: Aapki jo Namit Patel karke mail id hai.\\nCustomer: Yes okay thik hai mai join kar raha hu.\\nExecutive: Haan kariye.\\n[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\n- Irrelevant and fake buyleads are being received.\\n\n- Business is not happening through IndiaMART.\\n\n- No improvement since purchasing the package last year.\\n\n- ROI is not as expected.\\n\n\\n\nResolution:\\n\n- Executive shared a video meet link.\\n\n- Customer agreed to join the video meet.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, roi, catalog, video meet\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=01881ec8-7563-4eee-b423-caccc6d61a4e",
+  "ucid": "01881ec8-7563-4eee-b423-caccc6d61a4e",
+  "seller_categories": [
+    {
+      "mcat_id": "113922",
+      "mcat_name": "Spirulina Powder"
+    },
+    {
+      "mcat_id": "137938",
+      "mcat_name": "Moringa Capsules"
+    },
+    {
+      "mcat_id": "180384",
+      "mcat_name": "Spirulina Juice"
+    },
+    {
+      "mcat_id": "7727",
+      "mcat_name": "Spirulina Tablet"
+    },
+    {
+      "mcat_id": "4936",
+      "mcat_name": "Ashwagandha Tablets"
+    }
+  ]
+}

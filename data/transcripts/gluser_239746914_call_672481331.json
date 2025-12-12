@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672481331",
+  "gluser_id": "239746914",
+  "vintage_months": 3,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681973",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Sir, DD Brothers se baat kar raha hu.\\nExecutive: Ji ji ji sir ji sir. Haan sir meri baat haan haan sir meri baat hui thi sir se to sir to sir mana kar rahe hain ki aise refund to wapas nahi ho payega sir.\\nCustomer: Sir meri jab baat hui thi mujhe to bola gaya tha starting mein ki aisa jab bhi aapko do teen Meraji oh exact mujhe yaad nahi lekin jisne mera karwaya na isme login wo sab\\nExecutive: Ji ji.\\nCustomer: Haan unhi unhi ne bola tha.\\nExecutive: Bilkul.\\nCustomer: Haan sir abhi main aapko ek video link ka link bhej raha hu please usse aa jaiye aap. Ah usse hum discuss kar lete hain sir refund ke liye to sir ne bilkul mana kar diya refund to nahi ho payega.\\nExecutive: Main link bhej raha hu sir abhi aapko.\\nCustomer: To uska karna hai kya ab hame ye continue karna hi nahi hai tisri baar humne aapne bola hai ki bhai kuch change karte hain change karte hain lekin abhi bhi kuch hua nahi hai.\\nExecutive: Sir abhi aap unse baat kar rahe ho na jisme mera naam add ho jisne mujhe add kiya order mein IndiaMART mein.\\nExecutive: Sir wo to main nahi bata sakta hu kyuki uska to detail hamare paas nahi rehta hai wo to sir aapko pata hoga na kiski call aati thi sir us time pe aapke paas.\\nCustomer: Okay. Maine na abhi aapko ek link bheja hai. Mail pe aaya hoga.\\nCustomer: Okay.\\nExecutive: Please ek baar use zara join kijiye.\\nCustomer: Haan theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states refund was promised initially.\\n\n- Wants to know who added him to IndiaMART.\\n\n- Wants to discontinue services due to lack of progress.\\n\n\\n\nResolution:\\n\n- Executive said refund is not possible.\\n\n- Executive sent a video link to discuss the issue.\\n\n- Executive unable to provide details of who added customer.\\n\n\\n\nNext Steps: \\n\n- Customer will join the video call.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, video link, add, order\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a5ef5397-dafe-485c-8bbb-a2186cb7885e",
+  "ucid": "a5ef5397-dafe-485c-8bbb-a2186cb7885e",
+  "seller_categories": [
+    {
+      "mcat_id": "6222",
+      "mcat_name": "Face Wash"
+    },
+    {
+      "mcat_id": "39114",
+      "mcat_name": "Sunscreen"
+    },
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "650981",
+      "mcat_name": "Vitamin C Serum"
+    },
+    {
+      "mcat_id": "205607",
+      "mcat_name": "Acne Face Wash"
+    }
+  ]
+}

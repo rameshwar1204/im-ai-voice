@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673487395",
+  "gluser_id": "249462066",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Ghazipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694019",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, good evening sir, Qadir bol raha tha IndiaMART se.\\nCustomer: Boliye.\\nExecutive: Ji sir, woh approval mil gaya, dekhiye maine aapko WhatsApp pe bhi share kar diya hai.\\nCustomer: Hmm.\\nExecutive: Theek hai na? Ab hum process mein woh kar denge. Theek hai na? Aapne customer care se jo call kiya hai na, toh woh ek request aa gaya hai na, hamare paas complaint ki taraf se. Theek hai na?\\nCustomer: Hmm.\\nExecutive: Toh usko main filhaal close kar deta hu, tabhi woh service live kar payenge. Theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek hai na? Actually main aapko share kar diya hai ki dekhiye approval mil gaya. Woh issue kya tha, dikkat hai sir, woh ek number pe karte nahi hai. Theek hai na? Wahi kayi saare approval lene ke baad phir jaakar toh phir abhi approve kiye hai. Toh woh aaj thoda sa kar denge, toh kal tak service live ho jayega aapka. Theek hai na?\\nCustomer: Hmm.\\nExecutive: Theek hai na? Chalo ek baar unko bhi bata deta hu, engineer waale ko bhi. Theek hai na?\\nCustomer: Chaliye.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised a complaint.\\n\n\\n\nResolution:\\n\n- Executive informed approval received and shared on WhatsApp.\\n\n- Executive will close the complaint.\\n\n- Service will be live by tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will inform the engineer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- approval, complaint, service\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=539d9ee9-53bc-4f17-bfcb-deafe857000c",
+  "ucid": "539d9ee9-53bc-4f17-bfcb-deafe857000c",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "148874",
+      "mcat_name": "Water Tank Construction Services"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168570",
+      "mcat_name": "Unskilled Labour Service"
+    }
+  ]
+}

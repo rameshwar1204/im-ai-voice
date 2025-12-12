@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668133624",
+  "gluser_id": "113472551",
+  "vintage_months": 22,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Balotra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637142",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [Music]\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Sir, Namaste, main Minakshi bol rahi hu Harish sir, kaise hain aap?\\n\\nCustomer: Bas thik hai, bolo.\\n\\nExecutive: Harish sir, aapki profile mere IndiaMART pe registered hai. Main head office Noida se baat kar rahi thi. Aapne hume call kiya tha sir kal.\\n\\nCustomer: Hmm.\\n\\nExecutive: Toh hum log kal call utha nahi paaye the. Toh usi ke regarding aapko maine call back kiya hai. Ki sir kal off tha toh hum call aapka pick nahi kar paaye the. Toh woh missed call ho gaya tha. Toh Harish sir, maine call kiya hai aapke account mein hi dekhti hu. Toh aapko koi problem aa rahi hai in terms of services?\\n\\nCustomer: Mujhe ek ghanta, ek ghante ke baad call karna wapas.\\n\\nExecutive: 3 baje karu?\\n\\nCustomer: Haan.\\n\\nExecutive: Thik hai sir. Main 3 baje karti hu.\\n\\nCustomer: Thik hai.\\n\\nExecutive: [Silence]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a call back after one hour.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, profile, services\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e0a01dc4-0efa-4546-a3a8-1bee8ee82855",
+  "ucid": "e0a01dc4-0efa-4546-a3a8-1bee8ee82855",
+  "seller_categories": [
+    {
+      "mcat_id": "189241",
+      "mcat_name": "Roto Fabric"
+    },
+    {
+      "mcat_id": "7123",
+      "mcat_name": "Polyester Fabric"
+    },
+    {
+      "mcat_id": "84594",
+      "mcat_name": "Micro Polyester Fabric"
+    },
+    {
+      "mcat_id": "184549",
+      "mcat_name": "Petticoat Fabric"
+    },
+    {
+      "mcat_id": "185200",
+      "mcat_name": "Cotton Petticoat"
+    }
+  ]
+}

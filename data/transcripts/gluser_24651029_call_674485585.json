@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674485585",
+  "gluser_id": "24651029",
+  "vintage_months": 29,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706170",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Hello?\\n\\nCustomer: Hello?\\n\\nExecutive: Hello.\\n\\nExecutive: Hello haanji sir.\\n\\nExecutive: Haanji main Basant Kumar baat kar raha hu.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello. Sir kya aawaz haanji madam aawaz aa rahi hai.\\n\\nExecutive: Haanji sir bataiye.\\n\\nExecutive: Madam aawaz aa rahi hai aapko.\\nCustomer: Haanji aawaz aa rahi hai sir.\\n\\nCustomer: Hello?\\n\\nCustomer: Hello.\\nCustomer: Sir aawaz aapki bahut dheere bahut dheere aawaz aa rahi hai aapki taraf se.\\n\\nCustomer: Ek minute.\\n\\nCustomer: Sir aapki aawaz bahut dheere aa rahi hai main aapko call back karti hu.\\n\\nExecutive: Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive clearly.\\n\n\\n\nResolution:\\n\n- Customer said she will call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice issue, callback\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=160483d5-fc5d-4388-80f5-e32670382e14",
+  "ucid": "160483d5-fc5d-4388-80f5-e32670382e14",
+  "seller_categories": [
+    {
+      "mcat_id": "50504",
+      "mcat_name": "Wooden Educational Toy"
+    },
+    {
+      "mcat_id": "20593",
+      "mcat_name": "Educational Toys"
+    },
+    {
+      "mcat_id": "41376",
+      "mcat_name": "Wooden Puzzle"
+    },
+    {
+      "mcat_id": "4187",
+      "mcat_name": "Baby Toys"
+    },
+    {
+      "mcat_id": "50266",
+      "mcat_name": "Alphabet Puzzle"
+    }
+  ]
+}

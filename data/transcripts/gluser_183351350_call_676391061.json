@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676391061",
+  "gluser_id": "183351350",
+  "vintage_months": 33,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Vijayapura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: India madam.\\nExecutive: Chair Infinity Private Limited se baat ho rahi hai. Ye hai kya naam se baat kar rahi hai?\\nCustomer: Madam mujhe kya ho raha hai main search kar raha hun buyers ke liye leads ka.\\nExecutive: Okay. For example maze buyers ka main search kar raha hun lekin wo sellers ka details aa raha hai idhar.\\nCustomer: Sellers ka detail aa raha hai sir I am not able to understand. Kitna by leads kiya ho na kal se main search kar raha hun. Idhar se maze buyers karke search kar search kar raha hun. Jab main call kar raha hun wo wo bhi wo sellers hai.\\nExecutive: Okay. Mere pass hai aapke maze karke wo kaisa filter mein kya hai idhar kuch. Filter change. Let me check sir. Let me check.\\nCustomer: Sir kabhi kabhi kya hota hai na matlab as a aap as a supplier aap as a buyer bhi apni inquiry apni requirement post kar sakte ho to might be ye ho sakta hai ki supplier ne as a buyer ban ke kuch apni requirement post kari ho that's why wo by aapne consume kari aur fir wo bol rahe hai ki hum supplier hai. To aisa bhi ho jata hai sir.\\nCustomer: Kitni valid aapne consume ki kitni valid ke sang feedback aaya hai. Ruko Manoj karke abhi kiya hun wo bhi seller hi hai. Abhishek karke wo bhi seller hi hai.\\nExecutive: Okay.\\nCustomer: Do abhi just kiya hun dekho 254 pe ek hai Abhishek aur Manoj. Do bhi main buyers ka sell ka ye kar raha hun. Lekin wo seller hai.\\nExecutive: Nahi hamare pass hai karke. Ha.\\nExecutive: Ek kam karti hun main Tohid se bolti hun aapke jo account manager hai wo aapko message karegi aap ek bar contact details de dijiye unki ek bar hum cross check kara lete hai. Thik hai?\\nCustomer: Nahi nahi madam abhi idhar kuch settings hai kya seller aur buyers select karne ka. Nahi nahi aisa nahi nahi nahi nahi nahi aisa koi setting nahi hai sir.\\nCustomer: Aap cross check kara lete hai. Ji bataiye.\\nCustomer: Lekin main idhar dikha raha hun. Ha idhar lead manager by leads hai manage products seller ko kuch bhi nahi hai. Kahan pe dikha raha hai?\\nCustomer: Ha sirf main maze buyers karke search kar raha hun.\\nExecutive: Ha. Sir by leads mein jaiye aur maze buyers mat daliye sirf jo product ki by lead aapko requirement hai aap wo product ka naam daliye bas wo aapko by lead waha pe show ho jayengi.\\nCustomer: Nahi nahi madam kya ho raha hai hamare pass abhi maze hai.\\nExecutive: Okay.\\nCustomer: Maze ko abhi sell karna hai. Abhi maze buyers ko hi search karna hai na.\\nExecutive: Nahi ji aap buyers mat daliye sir aap sirf maze daliye to maze ke according jisne bhi requirement post kari hongi jinko maze chahiye wo automatically by lead aapko show ho jayengi.\\nCustomer: Acha acha sirf bas dalo. Ha ha ji ha ji ha ji. Aap ek bar ye karke dekho baki main Tohid ko bol deti hun wo aapko ek bar message kar lengi. Thik hai? Ki aap unka ek bar jo aap bata rahe ho ki kuch buyers hai jo supplier unhone inquiry post kari hai aapko supplier ki by lead aa rahi hai. To wo bhi hum cross check kara lete hai might be ye bhi problem ho sakta hai kuch hamari taraf se problem aa raha ho ya. Kabhi mila web lead click kiya hun puchta hun unko kya hai. Dekhta hun mallar karke vegetables dekhta hun. Ji okay. Okay. Dekho aisa hai to call karta chodo bye.\\nExecutive: Thik hai sir. Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting seller details instead of buyers.\\n\n- Wants to search for maze buyers to sell maze.\\n\n\\n\nResolution:\\n\n- Executive suggested searching only for 'maze'.\\n\n- Executive will ask account manager to cross-check the issue.\\n\n\\n\nNext Steps: \\n\n- Account manager will message the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, sellers, buyers, search\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 211,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe118dd2-1105-4fde-b9b9-92a7379bdde2",
+  "ucid": "fe118dd2-1105-4fde-b9b9-92a7379bdde2",
+  "seller_categories": [
+    {
+      "mcat_id": "39112",
+      "mcat_name": "Sunflower Seeds"
+    },
+    {
+      "mcat_id": "113722",
+      "mcat_name": "Maize"
+    },
+    {
+      "mcat_id": "218530",
+      "mcat_name": "Organic Sunflower Seeds"
+    },
+    {
+      "mcat_id": "41550",
+      "mcat_name": "Yellow Corn"
+    },
+    {
+      "mcat_id": "36709",
+      "mcat_name": "Safflower Seeds"
+    }
+  ]
+}

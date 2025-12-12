@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670410686",
+  "gluser_id": "68534822",
+  "vintage_months": 82,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677623",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan sir, namaskar, main Reena baat kar rahi hu IndiaMART se, Priyanshu ke senior.\\nCustomer: Haan boliye.\\nExecutive: Haan, main ye keh rahi thi ki aapka ek category hai white marble, ek second, temple ke naam se.\\nCustomer: Haan.\\nExecutive: Haan, to isme hamare paas na buylead to aa rahi hai but ye pichhle ek mahine se aapke yahan se purchase nahi hua hai. To kya wo lead aapko visible nahi ho rahi isliye aap purchase nahi kar rahe ho ya apne kaam ki nahi aa rahi?\\nCustomer: Nahi, aa rahi hai, aa rahi hai meri lead tumhare paas.\\nExecutive: Haan haan, white marble temple ki buyleads aa rahi hai lekin purchase aapne nahi kiya hai sir.\\nCustomer: Nahi aa rahi hai madam, mujhe wo lead, humne complete kai baar tumko bol diya lead aa rahi nahi hai. Main khud purchase kar raha hu, kuch bhi nahi aa raha, aaj ek bhi lead nahi hai.\\nExecutive: Main, main batati hu, ek second. Abhi aap\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he is not receiving buyleads.\\n\n- Executive says buyleads are being generated.\\n\n\\n\nResolution:\\n\n- Executive offered to check the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, purchase, visibility\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=80c37bf9-1fd1-4906-81fc-758acb90f368",
+  "ucid": "80c37bf9-1fd1-4906-81fc-758acb90f368",
+  "seller_categories": [
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

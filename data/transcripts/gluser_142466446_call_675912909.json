@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675912909",
+  "gluser_id": "142466446",
+  "vintage_months": 29,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719830",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji boliye.\\nExecutive: Yes ma'am, Abaz is speaking from IndiaMART.\\nCustomer: Kal kaafi call kiye the mujhe. Kya karu?\\nExecutive: [inaudible] ho raha hai ma'am aapko. Ye IndiaMART ka IndiaMART mein aapne video meet ke liye dala tha ma'am?\\nCustomer: Ji kal dala tha maine. Abhi 3 baje baad hi ho payegi wapas.\\nExecutive: 3 baje baad? To main schedule kar lu 3 baje baad ki meeting ek?\\nCustomer: Ji ji ji.\\nExecutive: 3:30 ka kar lo aap.\\nExecutive: 3:30 ka na?\\nCustomer: Ji.\\nExecutive: Maine 3:30 ka ek meeting schedule kar liya. Aapko mail aa gaya hoga ma'am.\\nExecutive: Theek hai na?\\nCustomer: Okay, main check kar lunga. Please join kar lijiyega na?\\nCustomer: Ji ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Received multiple calls.\\n\n- Wants to schedule a video meet regarding IndiaMART.\\n\n- Can only do the meeting after 3 PM.\\n\n\\n\nResolution:\\n\n- Scheduled a meeting for 3:30 PM.\\n\n- Sent a meeting invite via mail.\\n\n\\n\nNext Steps: \\n\n- Customer will check the mail and join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, video meet, schedule, meeting\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4b0e1165-c7bc-409a-90b9-3198abc28e63",
+  "ucid": "4b0e1165-c7bc-409a-90b9-3198abc28e63",
+  "seller_categories": [
+    {
+      "mcat_id": "22736",
+      "mcat_name": "Baby Wipe"
+    },
+    {
+      "mcat_id": "653677",
+      "mcat_name": "Little Angel Diaper"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "4167",
+      "mcat_name": "Baby Diapers"
+    },
+    {
+      "mcat_id": "277",
+      "mcat_name": "Sutures"
+    }
+  ]
+}

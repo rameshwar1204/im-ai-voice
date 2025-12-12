@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667982713",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello Komal madam?\\nExecutive: Hanji sir.\\nCustomer: Ha abhi se na madam wo mai market me wo thoda kaam me dabi ja raha hu aapke product ke liye. To mai aapko market se aane ke baad call back kar.\\nExecutive: Hanji hanji ya to aap call back kar lena mujhe WhatsApp pe message kar dena mai aapko connect kar lungi.\\nCustomer: Ha okay okay madam okay thank you madam.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy in the market.\\n\n- Wants to call back later.\\n\n\\n\nResolution:\\n\n- Executive asked to call back or message on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, whatsapp, product\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1cd00cbd-aec8-46ac-9253-32f59d2d496c",
+  "ucid": "1cd00cbd-aec8-46ac-9253-32f59d2d496c",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

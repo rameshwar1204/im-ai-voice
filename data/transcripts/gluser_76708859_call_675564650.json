@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675564650",
+  "gluser_id": "76708859",
+  "vintage_months": 77,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715538",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello ji.\\nCustomer: Hello?\\nExecutive: Hello.\\nCustomer: Hanji.\\nCustomer: Mere jo account manage karte hain unko zara call mila denge Abhishek naam hai unka.\\nExecutive: Han sir main aap kahan se baat kar rahe hain sir?\\nCustomer: Akola Maharashtra.\\nExecutive: Akola Maharashtra apni firm ka naam batayenge sir?\\nCustomer: Maruti advertising.\\nExecutive: Maruti advertising.\\nCustomer: Han.\\nExecutive: Okay.\\nExecutive: Abhi main\\nExecutive: call back karata hun.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to connect with the account manager, Abhishek.\\n\n\\n\nResolution:\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nconnect account manager\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d9cb1fcc-12dd-4e8a-8e69-fb8d06a87a3a",
+  "ucid": "d9cb1fcc-12dd-4e8a-8e69-fb8d06a87a3a",
+  "seller_categories": [
+    {
+      "mcat_id": "168765",
+      "mcat_name": "Auto Rickshaw Advertising Services"
+    },
+    {
+      "mcat_id": "184321",
+      "mcat_name": "Digital Wall Paintings"
+    },
+    {
+      "mcat_id": "187889",
+      "mcat_name": "Wall Painting Advertising"
+    },
+    {
+      "mcat_id": "34110",
+      "mcat_name": "Outdoor Advertising"
+    },
+    {
+      "mcat_id": "165134",
+      "mcat_name": "Foam Banner"
+    }
+  ]
+}

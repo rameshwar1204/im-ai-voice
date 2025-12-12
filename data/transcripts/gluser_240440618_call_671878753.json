@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671878753",
+  "gluser_id": "240440618",
+  "vintage_months": 7,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675322",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan boliye sir ji.\\nCustomer: Haan haan. Hello.\\nExecutive: Haan boliye sir ji.\\nCustomer: Haan main Aamin bhai abhi available nahi hai kya?\\nCustomer: Haan available hai boliye na. Haan baat karwaiye ek baar.\\nExecutive: Sorry bhai inquiry alag se.\\nCustomer: Haan?\\nExecutive: Nahi nahi main aapki baat galat nahi kar raha. Main keh raha hun Aamin bhai aap abhi baat kar rahe the IndiaMART se jo Greenwell wala aapka account hai na usme kuch non genuine rating aayi thi I think aap bahar se karwa rahe the kya kisi se rating reviews to remove karne ke liye ye jo Greenwell wala account hai Greenwell automation to usme jo rating review buyer dalte hain na aapke profile pe ek star do star hai na to usme kuch non genuine rating thi jo AI ne remove kar di hai. Shayad bahar I think wo kar rahe the mujhe nahi idea hai jo aapke employee use kar rahe honge na Greenwell ka account wo bahar se rating dalwa rahe honge to wo AI remove kar deta hai. To aage se jab bhi aap rating rating review ka jo link aap bhijwao na IndiaMART ke buyer ko hi bhijwao lead manager se hai na wo rating nahi remove hogi par par bahar se agar koi karne ki koshish karega to AI remove kar deta hai. Abhi jaise mere paas mail aaya hai to maine kaha ek baar aapko inform kar deta hun.\\nCustomer: Haan.\\nExecutive: Baki miss miss call aapka pada tha maine call back aapko kar hi diya tha. Abhi aapke paas na feedback pe feedback mail jayega IndiaMART se to usko please satisfied mark kar dijiyega. Theek hai?\\nCustomer: Theek hai.\\nExecutive: Aur Aadhar card aap mere ko bhej do na main baat kar raha hun uske liye.\\nCustomer: Haan bhejta hun main. Ji ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Aamin bhai.\\n\n- Executive informed about non-genuine ratings on Greenwell account.\\n\n- Customer needs to send Aadhar card.\\n\n\\n\nResolution:\\n\n- Executive explained AI removes non-genuine ratings.\\n\n- Executive asked to send rating review link to IndiaMART buyer.\\n\n- Executive asked to mark feedback mail as satisfied.\\n\n\\n\nNext Steps: \\n\n- Customer will send Aadhar card.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ratings, account, aadhar card, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c9430c5c-6ce6-4f9a-8156-d7cbec14aee7",
+  "ucid": "c9430c5c-6ce6-4f9a-8156-d7cbec14aee7",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "207464",
+      "mcat_name": "Siemens HMI"
+    },
+    {
+      "mcat_id": "220187",
+      "mcat_name": "Allen Bradley HMI"
+    },
+    {
+      "mcat_id": "207435",
+      "mcat_name": "Mitsubishi PLC"
+    }
+  ]
+}

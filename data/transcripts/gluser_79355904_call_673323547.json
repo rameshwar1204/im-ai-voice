@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673323547",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello.\\nExecutive: Haan ji Sanjay ji.\\nCustomer: Hello.\\nExecutive: Ji Sanjay ji main abhi call back kar rahi hu aapko ek minute main call pe hu bas abhi kar rahi hu. \\nCustomer: Phone to aapko ek ghanta ho gaya uske baad mein abhi bhi thodi aap phone par.\\nExecutive: Sir mera discussion hua na abhi sir se main abhi call pe hu main karti hu aapko call mujhe bas do minute dijiye.\\nCustomer: Mere unko unko bolo ki mere ko phone kare number do unko main baat karta hu unse.\\nExecutive: Haan ji sir main karwa rahi hu baat rukiye abhi ek minute.\\nCustomer: \\n",
+  "summary": "\\n\nConcerns:\\n\n- Delay in callback despite waiting for an hour.\\n\n- Request to speak directly with the executive's superior.\\n\n\\n\nResolution:\\n\n- Assurance of immediate callback in two minutes.\\n\n- Offer to connect the customer with the executive's superior.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nFrustrated to assertive.\\n\n\\n\n@@@Key Topics:\\n\ncallback, delay, superior\n\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f50df3bc-c322-4122-b5a5-e97827338338",
+  "ucid": "f50df3bc-c322-4122-b5a5-e97827338338",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673582864",
+  "gluser_id": "91189828",
+  "vintage_months": 12,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9697738",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: This call is now being recorded.\\nExecutive: Hello\\nExecutive: Rehman ji hello sir India Mart se call hai aapke liye.\\nCustomer: Kyun?\\nExecutive: Ji sir aapka kal ek feedback bhi aaya hua tha aur MR Fabricator jo aapki company chal rahi hai.\\nCustomer: Haan.\\nExecutive: Ji to sir kal aapki services ka end date bhi tha ye to abhi sir bataye sir kya issue hai abhi kya problem aa rahi hai aap thoda sa detail batayenge to main aapko assist kar paungi.\\nCustomer: Theek hai bataunga baad mein.\\nExecutive: Haan ji?\\nCustomer: Baad mein bataunga.\\nExecutive: Nahi sir feedback aaya hua hai mujhe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Issue with services for MR Fabricator.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will provide details later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, feedback, services, mr fabricator\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=336a0c62-75da-41cf-aa8e-86b6557eeee3",
+  "ucid": "336a0c62-75da-41cf-aa8e-86b6557eeee3",
+  "seller_categories": [
+    {
+      "mcat_id": "184220",
+      "mcat_name": "Commercial Kitchen Chimney"
+    },
+    {
+      "mcat_id": "43434",
+      "mcat_name": "Commercial Kitchen Equipments"
+    },
+    {
+      "mcat_id": "4133",
+      "mcat_name": "Axial Flow Fans"
+    },
+    {
+      "mcat_id": "28079",
+      "mcat_name": "Exhaust Ducts"
+    },
+    {
+      "mcat_id": "144677",
+      "mcat_name": "Hot Dip Galvanizing"
+    }
+  ]
+}

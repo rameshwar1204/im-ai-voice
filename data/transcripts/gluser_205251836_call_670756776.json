@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670756776",
+  "gluser_id": "205251836",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nHalo.\\nHalo.\\nExecutive: Haan sir.\\nCustomer: Savere call kiya tha.\\nExecutive: Aapke pass call kiya tha maine.\\nCustomer: Haan Sahil bol raha hun Makrana se.\\nCustomer: Hello.\\nExecutive: Haan ji boliye.\\nCustomer: Awaaz aa rahi hai sir aapko.\\nExecutive: Haan aa rahi hai aa rahi hai awaaz aa rahi hai.\\nCustomer: Sir wo Tausif baat kar raha tha sir main Haryana se.\\nExecutive: Haan.\\nCustomer: Ji ji. Sir ye aapko sunna ye wale number pe jo hai number save nahi hai. Number company ka naam bataiyega ek baar aap apne.\\nExecutive: Samon Marble Supplier.\\nCustomer: Samon Marble Supplier. Accha accha.\\nExecutive: Ji.\\nExecutive: Aapka call aaya tha subah mere pass mein.\\nCustomer: Subah. Accha accha maine call kiya tha aapko ek minute. Shadab ne kiya tha aapko jo aapka account manager hai na Shadab.\\nExecutive: Haan Shadab Shadab Shadab.\\nCustomer: Ji ji main uska manager baat kar raha hun. Unke main aapko Shadab se call karwa raha hun ek second.\\nExecutive: Theek hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know who called him.\\n\nResolution:\\n\n- Executive is Shadab's manager.\\n- Executive will connect customer to Shadab.\\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, account manager, company name\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=357fd918-bd85-4f3b-9157-028bc62418f1",
+  "ucid": "357fd918-bd85-4f3b-9157-028bc62418f1",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "72798",
+      "mcat_name": "Wall Fountain"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

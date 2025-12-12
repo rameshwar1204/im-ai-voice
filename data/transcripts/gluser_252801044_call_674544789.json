@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674544789",
+  "gluser_id": "252801044",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706399",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ya, good afternoon ma'am, mai Shivani baat kar rahi hu IndiaMART se. Ma'am please hold on. Haanji? Okay.\\nCustomer: Hello?\\nExecutive: Yes ma'am. Actually ma'am aapka na ticket raise hua hai to usi ke regarding call kiya tha aapko. Ma'am ek baat bataiye aapne account Vidushi se leke do din aap bhi active rahe uske baad aap bhi gayab.\\nExecutive: Nahi ma'am dekho aisa nahi hai ki hum gayab ho jate hai. Ma'am aap agar ek baar bhi batao ki apna issue. Ma'am aapka number hi nahi tha mere paas. Aapka WhatsApp pe ek baar baat hui hogi uske baad wo aapka number hi nahi tha. Aur aapka koi call back mai wait kar rahi hu ki aapko koi call back kare to mujhe.\\nCustomer: Nahi nahi maine. Nahi nahi aisa nahi hai ma'am maine to call bhi ki thi ek baar.\\nExecutive: Ma'am aapne ki hui. Aap to mere WhatsApp pe available ho. Aap aapne mere. Ma'am mai houngi wo number se hoga na.\\nCustomer: Wahi number. Kyunki IndiaMART ke IndiaMART ke itne sare number hai. Aap ek baar to call back karoge ma'am mai pichle kam se kam hafte bhar se aapke phone ka wait kar rahi hu.\\nExecutive: Chalo I am really sorry ma'am uske liye. Maine dhyan nahi raha. Koi baat nahi mai abhi bataiye aap mujhe kya kya issue hai. Mai ek na high ka message bhej rahi hu.\\nCustomer: Haanji please aap ek baar high ka message bhej dijiye to. Aur ek second hold karengi ma'am. Ek second.\\nExecutive: Sure sure sure.\\n\\nCustomer: Hello?\\nExecutive: Yes ma'am.\\nCustomer: Yes ma'am. Ma'am mai ye keh rahi hu aapka ek to please aap mere account ko open karenge please.\\nExecutive: Ma'am wo maine open kiya hua hai ma'am.\\nCustomer: Isme abhi mera koi bhi aisa to nahi hai na ki like mere hath se query chhut rahi ho ki matlab mujhe ma'am weekly kitni milti hai?\\nExecutive: Ek minute mai batati hu aapko. Weekly aapko jo hai 17 buyleads milti hai. Theek hai usme se ek aapko daily bonus pe milti hai. To daily bonus wali jaise aaj raat ko aapko ek to lapse ho jayegi agar aap consume nahi karoge aur ek aapko 12 baje ke baad aapko lapse ho jayegi.\\nCustomer: To maine mujhe waise kaise pata chalega ki meri koi chhutti hui hai ya sari consume ho jati hai kaise pata chalega?\\nExecutive: Aap jab buyleads wale session pe jaoge na.\\nCustomer: Ma'am mai hu mai transaction history pe hu.\\nExecutive: Aap transaction history pe mat jaiye. Ek minute rukiye mai screenshot bhej rahi hu.\\n\\nExecutive: Dekho. Abhi screenshot aaya hoga aapke paas.\\nCustomer: Yes.\\nExecutive: Theek hai. Ab mai yaha pe na ek cursor pe click kiya hua tha balance wale pe. Indian balance India balance. Theek hai. To usme aap dekho daily bonus zero yaani ki aaj aapne ek consume kar liya apni. Weekly aapki nau ek aapne weekly me se consume kar li. Yearly wali jo thi wo aapne already consume kar li to wo zero ho gaya hai.\\nCustomer: Mai ye puchna chah rahi hu aapse ki abhi tak koi bhi aapki pending matlab meri koi bhi hai ki jo skip hui ho.\\nExecutive: Wo to ma'am dekho aise nahi hota pata chalta hai. Wo aapko hi pata chal payega ki kitni skip hui hai.\\nCustomer: Manisha ji if you don't mind I'm really sorry sorry your good name is Shivani sorry right?\\nExecutive: Yes yes yes.\\nCustomer: If you don't mind please can I call you back in within five minutes. Within five minutes.\\nExecutive: Haan. Koi baat nahi koi baat nahi.\\nCustomer: Thank you ma'am. Thank you. Okay. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account was inactive after two days.\\n\n- Wants to know weekly buylead consumption details.\\n\n- Wants to know if any buyleads were skipped.\\n\n\\n\nResolution:\\n\n- Executive apologized for the delayed callback.\\n\n- Executive sent a screenshot of the buylead balance.\\n\n- Explained how to check buylead consumption.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in five minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account, consumption, pending\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 258,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7ab83178-e5f6-4f5f-b1ba-b1fd287511ba",
+  "ucid": "7ab83178-e5f6-4f5f-b1ba-b1fd287511ba",
+  "seller_categories": [
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "157346",
+      "mcat_name": "Stainless Steel Vacuum Flask"
+    },
+    {
+      "mcat_id": "142132",
+      "mcat_name": "Insulated Steel Water Bottle"
+    },
+    {
+      "mcat_id": "192421",
+      "mcat_name": "Stainless Steel Shaker"
+    },
+    {
+      "mcat_id": "178811",
+      "mcat_name": "Steel Sipper Bottle"
+    }
+  ]
+}

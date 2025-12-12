@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675835741",
+  "gluser_id": "10293098",
+  "vintage_months": 87,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=702b389a-14cc-4487-a8de-bc0f0e7342a7",
+  "ucid": "702b389a-14cc-4487-a8de-bc0f0e7342a7",
+  "seller_categories": [
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    }
+  ]
+}

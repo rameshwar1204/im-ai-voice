@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675062119",
+  "gluser_id": "25313215",
+  "vintage_months": 118,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710823",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir. Haan Yogita Enterprises Nasik se bol raha hu.\\nExecutive: Haan ji sir bataiye.\\nCustomer: Ye aapka hello. Haan boliye. Apna jo package hai, apna jo package hai. Haan haan. Package jo liya na hum logo ne uske hisab se saal ka jo package tha usi hisab se humko actually jo service chahiye na us hisab se milti nahi hai aapki to hume koi virtual aapka yaha pe visit karne ke liye koi mil sakta hai. To local service provider humko bhejiye na yaha pe jo humko samjhaye. Aapka whatsapp number kya hai? Main chal raha hai main aapko abhi within half an hour revert karta hu. Whatsapp number kya hai tera?\\nCustomer: Kya? Kya? Whatsapp number?\\nExecutive: Haan ji haan ji sir.\\nCustomer: Haan mera whatsapp number hai 93\\nExecutive: 93\\nCustomer: 71\\nExecutive: 71\\nCustomer: 53\\nExecutive: 53\\nCustomer: 62\\nExecutive: 62\\nCustomer: 42\\nExecutive: 42\\nCustomer: 42 42\\nExecutive: 42. Business name kya bataya sir aapne?\\nCustomer: Yogita Enterprises.\\nExecutive: Yogita Y double E T. Haan Y O G. Okay sir. I'll call you back within half an hour sir. Yogita Enterprises. Thik hai?\\nCustomer: Yes sir yes sir.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants service as per the package.\\n\n- Wants a local service provider to visit.\\n\n\\n\nResolution:\\n\n- Executive assured a call back in half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- package, service, visit, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=62442ba6-b194-4e94-b1b1-eb81ca08d8f7",
+  "ucid": "62442ba6-b194-4e94-b1b1-eb81ca08d8f7",
+  "seller_categories": [
+    {
+      "mcat_id": "166326",
+      "mcat_name": "Inverter ARC Welding Machine"
+    },
+    {
+      "mcat_id": "30353",
+      "mcat_name": "High Pressure Washer"
+    },
+    {
+      "mcat_id": "22092",
+      "mcat_name": "Arc Welding Machines"
+    },
+    {
+      "mcat_id": "24156",
+      "mcat_name": "Car Washer"
+    },
+    {
+      "mcat_id": "183102",
+      "mcat_name": "ESAB MIG Welding Machine"
+    }
+  ]
+}

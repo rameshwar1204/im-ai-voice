@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671792634",
+  "gluser_id": "31824072",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Patan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? Haan ji, main keh rahi hu aapke paas mail gaya hai kya meeting ko?\\nExecutive: Mail mail aaya hai mere paas. Ek minute mera ye laptop restart ho raha hai isliye isme join kar raha hu. \\nCustomer: Haan haan koi nahi koi nahi. Main bas confirm kar rahi hu. Koi nahi main meeting mein hi hu aap join kar lo phir.\\nExecutive: Theek hai theek hai.\\nCustomer: Haan ji, okay.",
+  "summary": "\\n\nConcerns:\\n\n- Confirming if the executive received the meeting mail.\\n\n\\n\nResolution:\\n\n- Executive confirmed receiving the mail and mentioned joining from laptop after restart.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive to join the meeting after laptop restarts.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive.\\n\n\\n\n@@@Key Topics:\\n\nmeeting confirmation, joining\n\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=abd8e517-9f36-4cb2-bfa2-ebec3665e57e",
+  "ucid": "abd8e517-9f36-4cb2-bfa2-ebec3665e57e",
+  "seller_categories": [
+    {
+      "mcat_id": "143956",
+      "mcat_name": "Car Washing Lift"
+    },
+    {
+      "mcat_id": "139629",
+      "mcat_name": "Hydraulic Washing Lift"
+    },
+    {
+      "mcat_id": "15600",
+      "mcat_name": "Hydraulic Car Lift"
+    },
+    {
+      "mcat_id": "141772",
+      "mcat_name": "Car Washing Pump"
+    },
+    {
+      "mcat_id": "23370",
+      "mcat_name": "Car Lift"
+    }
+  ]
+}

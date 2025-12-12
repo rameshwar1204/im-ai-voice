@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677156852",
+  "gluser_id": "120595518",
+  "vintage_months": 34,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669080",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Is number ke andar 284 tha na?\\nExecutive: Hello.\\nCustomer: Us time normal call karna, bas ye bol dena sir, ek baar whatsapp pe hi dekh lena, aap google search pe iska first number pe aa raha hai.\\nCustomer: Wo sab khatam ho jayega.\\nCustomer: Google ke first page pe aa raha hai, 30 words.\\nCustomer: Bataye na.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Mukesh sir good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Sir main Risha baat kar rahi hu IndiaMART se, kaise hain aap?\\nCustomer: Ji, theek hai.\\nExecutive: Aap export ki buyleads lene ka try kar rahe the sir?\\nCustomer: Kya?\\nExecutive: Export ki buyleads le rahe the aap?\\nCustomer: Are ha yaar wo check kar raha hu ya India me to kaam hi nahi hai, sab se koi matlab nahi aa raha hai, log ek dusre ke taange khichne me pade hai, koi si buylead uthate hai to baat wahi ho rahi hai, maine kaha kahi se bahar ki lead accept karta hu tujhe, par wo nahi ho rahi.\\nExecutive: Aapki aawaz break ho rahi hai sir.\\nCustomer: Nahi, aisa kyu?\\nExecutive: Samajh nahi aa rahi sir.\\nCustomer: Nahi, ye ye isme kyu nahi hai mujhe? Wo kyu nahi open ho sakti?\\nExecutive: Sir aapki voice mujhe nahi aa rahi bilkul.\\nCustomer: Kya?\\nExecutive: Hello.\\nCustomer: Are wo buylead kyu nahi open ho sakti? puchna chah raha hu.\\nExecutive: Sir main aapko dobara call karungi, aapki voice nahi aa rahi ekdam clear.\\nCustomer: Oh, nahi aa rahi to?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to open buyleads.\\n\n- Customer complains about domestic leads.\\n\n\\n\nResolution:\\n\n- Executive will call back due to voice issues.\\n\n\\n\nNext Steps: \\n\n- Executive to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, export, voice issue\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a783883-0860-44b2-98ca-9da48379ce9a",
+  "ucid": "7a783883-0860-44b2-98ca-9da48379ce9a",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "11097",
+      "mcat_name": "Grain Cleaners"
+    },
+    {
+      "mcat_id": "227089",
+      "mcat_name": "Magnetic Destoner"
+    }
+  ]
+}

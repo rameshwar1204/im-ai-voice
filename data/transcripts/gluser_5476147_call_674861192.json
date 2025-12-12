@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674861192",
+  "gluser_id": "5476147",
+  "vintage_months": 79,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706512",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Haan ji sir mera baat to do minute suniye sir.\\nExecutive: Sir main mujhe kuch nahi karna hai aapke sath aap phone rakh dijiye sir please. \\nCustomer: Sir do minute phone to lijiye sir.\\nExecutive: Aap phone rakh dijiye aap bar bar mera time kharab kar rahe hai sir aap phone rakh dijiye mujhe kuch bhi nahi karna hai. \\nCustomer: Koi baat nahi hai sir agar aapko jo karna hai karne do meri company bhi aap le lo aap chala lo koi baat nahi.\\nExecutive: Sir wo baat nahi hai sir main.\\nExecutive: Main itne proof wagera nahi de sakta hu sir. \\nExecutive: Main proof wagera believe hai aapko believe hai aap kijiye nahi to aap chod dijiye resolve bol ke chod dijiye. \\nExecutive: Mujhe aainda call mat kijiye please.\\nCustomer: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants the executive to listen for two minutes.\\n\n- Offered the executive to take over and run his company.\\n\n\\n\nResolution:\\n\n- The executive refused to listen.\\n\n- The executive stated he cannot provide proof.\\n\n- The executive asked the customer not to call again.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nFrustrated to resigned.\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=428df3d1-bb53-4000-8181-6a9cf6f6b9e6",
+  "ucid": "428df3d1-bb53-4000-8181-6a9cf6f6b9e6",
+  "seller_categories": [
+    {
+      "mcat_id": "85382",
+      "mcat_name": "Air Grease Pump"
+    },
+    {
+      "mcat_id": "35166",
+      "mcat_name": "Pneumatic Grease Gun"
+    },
+    {
+      "mcat_id": "148814",
+      "mcat_name": "Belt Tension Meter"
+    },
+    {
+      "mcat_id": "156055",
+      "mcat_name": "Hand Operated Grease Pumps"
+    },
+    {
+      "mcat_id": "29803",
+      "mcat_name": "Grease Pumps"
+    }
+  ]
+}

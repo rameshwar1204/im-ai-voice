@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666909129",
+  "gluser_id": "125127774",
+  "vintage_months": 18,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Poonch",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan good afternoon Shaanwar ji se baat ho rahi hai?\\nExecutive: Ji ji.\\nCustomer: Sir main Akanksha IndiaMART se aapke account manager, kaise hain?\\nExecutive: Bas theek thaak.\\nCustomer: Sir ye aapne ek tarikh ko customer care pe call kiya tha na?\\nExecutive: Haan ye mera IndiaMART chal hi nahi raha hai. Ye app nahi chal rahi hai to mujhe Chrome se jaake chalana pad raha hai.\\nCustomer: Abhi chal rahi hai ya nahi chal rahi hai sir?\\nExecutive: Nahi nahi, nahi chal rahi hai. buyleads bhi nahi show kar rahi hai.\\nCustomer: Hmm.\\nExecutive: Aur\\nCustomer: Aapne app reinstall kiya? Reinstall?\\nExecutive: Sab kuch, sab kuch kar liya. Update kar liya, reinstall kar liya, A to Z jo kuch ho sakta tha.\\nCustomer: To aisa kya issue ho sakta hai sir aur to koi\\nExecutive: Lead manager aur buyleads, kuch bhi nahi chal raha hai ye.\\nCustomer: Achha. Google Meet se join karenge?\\nExecutive: Ki bas chal raha hai.\\nCustomer: Google Meet ka link bheju main?\\nExecutive: Haan, mere uss pe bhej dijiye, kya naam hai, mail pe.\\nCustomer: Aapke registered email ID pe?\\nExecutive: Ji ji.\\nCustomer: Theek hai, aapke registered mail pe bhej rahe hain abhi, aap join kar lena paanch minute mein.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- IndiaMART app is not working.\\n- Forced to use Chrome to access the platform.\\n- Buyleads and Lead Manager are not functioning in the app.\\n- Basic troubleshooting (reinstall, update) has failed.\\n\\n\\nResolution:\\n\\n- Offered to troubleshoot the issue via a Google Meet call.\\n- Confirmed sending the meeting link to the customer's registered email.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- Executive to send a Google Meet link for a screen-sharing session.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- app not working, buyleads, lead manager, technical issue, google meet, troubleshooting\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fbeb0ad2-47d5-4da0-9515-868de705a56a",
+  "ucid": "fbeb0ad2-47d5-4da0-9515-868de705a56a",
+  "seller_categories": [
+    {
+      "mcat_id": "214916",
+      "mcat_name": "Saffron Bulbs"
+    },
+    {
+      "mcat_id": "83940",
+      "mcat_name": "Pecan Nuts"
+    },
+    {
+      "mcat_id": "1253",
+      "mcat_name": "Walnut"
+    },
+    {
+      "mcat_id": "236782",
+      "mcat_name": "Kesar Seeds"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    }
+  ]
+}

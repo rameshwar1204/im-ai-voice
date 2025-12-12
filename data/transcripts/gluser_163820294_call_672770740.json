@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "672770740",
+  "gluser_id": "163820294",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ea3de6e9-5e7c-49d0-8387-d24fd86ef66e",
+  "ucid": "ea3de6e9-5e7c-49d0-8387-d24fd86ef66e",
+  "seller_categories": [
+    {
+      "mcat_id": "167399",
+      "mcat_name": "Chapati Tawa"
+    },
+    {
+      "mcat_id": "183986",
+      "mcat_name": "Iron Tawa"
+    },
+    {
+      "mcat_id": "11901",
+      "mcat_name": "Garden Spades"
+    }
+  ]
+}

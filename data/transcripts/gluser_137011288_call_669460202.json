@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669460202",
+  "gluser_id": "137011288",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656506",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, main aapko IndiaMART se baat kar rahi hu.\\nCustomer: Haan.\\nExecutive: Haan ji.\\nCustomer: Haan.\\nExecutive: Main aapko bata deti hu sir, IndiaMART mein na aapko ek minute hold karo do minute ke liye.\\nCustomer: Haan ji.\\nCustomer: Ek minute hold karna.\\nExecutive: Theek hai.\\nCustomer: Hello?\\nExecutive: Hello, hello sir. Mere ko konsi party ka bill banna hai, do naam aa rahe hai.\\nCustomer: Main keh raha hu madam ye number kahe ka hai, ye kiska number hai ye?\\nExecutive: Haan, main aapko bata deti hu sir. Jo left hand side par hai, wo to pura buyer ki details hai aapke paas.\\nCustomer: Theek hai. Jo blue mein hai, jaise Bareilly.\\nExecutive: Awaaz aa rahi hai sir?\\nCustomer: Madam aapki voice clear nahi aati.\\nExecutive: Abhi clear aa rahi hai? Disturbance aapka bahut jyada.\\nCustomer: Nahi madam.\\nExecutive: Sir abhi clear aa rahi hai?\\nCustomer: Hello?\\nExecutive: Hello? Abhi clear aa rahi hai sir?\\nCustomer: Haan ji.\\nExecutive: Haan ji, main aapko bol rahi thi sir jo left hand side mein hai, jo dark blue color mein hai na, wo sara ka sara aapka buyer ka detail hai.\\nCustomer: Theek hai.\\nExecutive: Haan ji.\\nCustomer: Jo left side mein hai sir, wo buyer ki details hai sari.\\nCustomer: Madam message wala puch raha hu, madam message jo maine aapko blue laga rakha hai. Main aapko, main aapko bata deti hu sir, jo number aapko dikh raha hai na, jo aapne yellow color mark karke bheja hai, wo number aap matlab aapke buyer aapko us number pe contact karte hai. IndiaMART ne na aapko virtual number de rakha hai. Aapka number display nahi karti hai.\\nExecutive: Haan.\\nCustomer: Mam aapki na voice clear nahi aa rahi hai aapki taraf se.\\nExecutive: Aap ek second hold kariye sir. Pata nahi awaaz kyun nahi aa rahi hai. Ek second sir line pe rahiye aap. Kyunki maine wo wifi band kar leti hu. Abhi theek aa rahi hai sir?\\nCustomer: Hello?\\nExecutive: Haan aa rahi hai ab bolo. Haan.\\nCustomer: Gate band kar diye gate. Gate gate band kar diye. Sir main aapko ye bol rahi hu.\\nExecutive: Haan.\\nExecutive: Aapko virtual number de rakha hai. Buyer koi bhi aapko contact karta hai to is number pe call karega.\\nCustomer: Madam ye number to lagta hi nahi hai aapka ye.\\nExecutive: Sir aap thodi lagaoge, buyer ispe call karega to aapke paas call aayegi na.\\nCustomer: Ye samajh mein nahi aa raha number to kaam hi nahi kar raha.\\nExecutive: Kya keh rahe ho dobara bolna.\\nExecutive: Main aapko bata rahi hu IndiaMART aapka number display nahi karta hai catalog pe. IndiaMART ne aapko ek virtual number de rakha hai. Koi bhi buyer contact karega, is number pe call karega. Buyer call karega ispe. Aap isko IndiaMART buyer ke naam se save kar lo.\\nCustomer: Achha samajh gaya. Matlab koi bhi customer agar call karta hai to wo is number pe call karega.\\nExecutive: Haan aur aapke paas call aayegi phir.\\nCustomer: Aapka. Achha matlab is number se call aayegi aapke paas. Aur agar hum is number pe call kare, sir virtual to hamara hai to hum kaise kar denge uspe. Aap sir ke liye to sir aapke is number aapke paas se link na.\\nExecutive: Hello.\\nCustomer: Mam abhi awaaz clear nahi aa rahi hai. Aap mujhe koi time batao jis samay main aapko sahi time pe call kar saku. Ya to abhi dobara ek baar kaat ke call karo mujhe.\\nExecutive: Sir wo to sahi hai. Awaaz abhi bhi nahi aa rahi hai kya clear aapko?\\nCustomer: Matlab fat fat ke aa rahi hai awaaz aapki.\\nExecutive: Madam aapki awaaz clear nahi aa rahi hai. Aapko hamari awaaz clear ho rahi hai magar aapki awaaz clear nahi aa rahi hai.\\nExecutive: Pata nahi. Ye dikkat aa rahi hai awaaz mein hum samajh nahi pa rahe aap kya keh rahe ho.\\nExecutive: Sir.\\nExecutive: Sir sare customer. Nahi aa rahi madam aap aap jab marzi karte raho usse koi fayda koi nahi hai madam.\\nExecutive: Aap mere ko koi phone number denge aap?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about bill details.\\n\n- Customer wants to know about the number.\\n\n- Customer complains about voice clarity issues.\\n\n- Customer says the virtual number is not working.\\n\n\\n\nResolution:\\n\n- Executive explained buyer details on the left side.\\n\n- Executive explained the virtual number concept.\\n\n- Executive asked to save the number as IndiaMART buyer.\\n\n\\n\nNext Steps: \\n\n- Executive asked the customer to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Negative | Non-urgent -> Urgent\\n\n\\n\n@@@Key Topics:\\n\n- virtual number, buyer details, voice issue, catalog\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 250,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9a1bb824-7ea6-4568-b993-1e7720fecef5",
+  "ucid": "9a1bb824-7ea6-4568-b993-1e7720fecef5",
+  "seller_categories": [
+    {
+      "mcat_id": "109094",
+      "mcat_name": "Sulphur Powder"
+    },
+    {
+      "mcat_id": "113798",
+      "mcat_name": "Sulphur"
+    },
+    {
+      "mcat_id": "177370",
+      "mcat_name": "Lambda Cyhalothrin"
+    },
+    {
+      "mcat_id": "149651",
+      "mcat_name": "Copper Oxychloride"
+    },
+    {
+      "mcat_id": "6013",
+      "mcat_name": "Plant Growth Regulators"
+    }
+  ]
+}

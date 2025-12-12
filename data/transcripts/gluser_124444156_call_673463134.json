@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673463134",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nHello?\\nHello?\\nHello.\\nRanjit bhai, hum aapko 10-15 minute mein phone mila rahe hain, haan?\\n10-15 minute mein. Theek hai sir, main wait hi kar raha tha. Is vajah se mujhe laga aadha ghanta ho gaya aapne call nahi kiya isliye main socha main hi call kar lu aapko.\\nMaximum 20 minute.\\nThik hai, no problem.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Waited for a call for half an hour and initiated a call.\\n\n\\n\nResolution:\\n\n- Assured that a call will be made in a maximum of 20 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, time\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7575bcad-2ede-412f-8d66-27e9b5eba62d",
+  "ucid": "7575bcad-2ede-412f-8d66-27e9b5eba62d",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

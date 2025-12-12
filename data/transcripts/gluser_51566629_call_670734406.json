@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670734406",
+  "gluser_id": "51566629",
+  "vintage_months": 55,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Pollachi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666287",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, good evening.\\nExecutive: Good afternoon sir. Good afternoon sir, Shubham baat kar raha hu Cinema India Mart se. Kal aap se baat ki ho paayi thi sir.\\nCustomer: Good evening sir.\\nExecutive: Sir I don't know Hindi sir, tell me sir.\\nCustomer: Okay, you tell me sir. What is your concern sir? You asked now that you have given not satisfied to the call. So what is your concern?\\nCustomer: Sir that thing that is right now not time sir. You able to speak. I am in outside in home. Okay. So you can call me after two days morning 10 to 11 that time I will answer you in front of my system. Okay sir.\\nExecutive: Okay after after two days I will call you hai na. Till then we are closing your till then we are closing your ticket. Okay sir we are setting the reminder for that. Okay.\\nCustomer: Thank you sir.\\nExecutive: Okay please give a positive feedback on that hai na.\\nCustomer: Thank you sir. Thank you.\\nExecutive: Sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave a not satisfied rating to call.\\n\n- Customer is currently outside and unable to speak.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after two days.\\n\n- Executive will close the ticket and set a reminder.\\n\n\\n\nNext Steps: \\n\n- Executive will call after two days.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, call, reminder\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ac8b3ad-0ad9-4f0f-af19-af40bb4e28ad",
+  "ucid": "2ac8b3ad-0ad9-4f0f-af19-af40bb4e28ad",
+  "seller_categories": [
+    {
+      "mcat_id": "156361",
+      "mcat_name": "Tender Coconut"
+    },
+    {
+      "mcat_id": "42014",
+      "mcat_name": "Coconut Copra"
+    },
+    {
+      "mcat_id": "156360",
+      "mcat_name": "Husked Coconut"
+    },
+    {
+      "mcat_id": "150726",
+      "mcat_name": "Dried Coconut"
+    },
+    {
+      "mcat_id": "101983",
+      "mcat_name": "Coconut"
+    }
+  ]
+}

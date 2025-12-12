@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670205875",
+  "gluser_id": "191497722",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Rishikesh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665716",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Good morning sir.\\nCustomer: Good morning sir, good morning.\\nExecutive: Sir, Ankit baat kar raha tha India Mart se. Aapki baat hui hogi Deep sir se.\\nCustomer: Haan ji, haan ji.\\nExecutive: Haan, toh video meeting connect karke mujhe aapka catalog aap discuss karna hai, so aur aapko kaise use karna hai, ye sab saari cheeze discuss karni hai. Theek hai?\\nCustomer: To aapne India Mart app login kar liya hai?\\nExecutive: Haan, India Mart app.\\nCustomer: Login hai mere paas.\\nExecutive: Theek hai. Toh sir aapne jo wo de rakha hai email ID aap hi ka hai ya sir ka email ID hai jo India India Mart pe diya hua hai?\\nCustomer: India Mart pe kaun sa wala hai sir, Tudariya?\\nExecutive: Main aapko bata deta hu ek second.\\nExecutive: Ji haan, Tudariya humpipe@hotmail.com.\\nCustomer: Ye hotmail wala toh ye toh firm ka hai sir but ye kispe meeting kispe honi hai?\\nExecutive: Meeting honi hai Gmail pe.\\nCustomer: Gmail ID? Nahi nahi Google Meet pe hogi na matlab?\\nExecutive: Haan, Google Meet pe. Main ek kaam kar raha hu, hi likh ke send kar raha hu.\\nCustomer: Haan haan.\\nExecutive: Theek hai? Toh aap apna Gmail mujhe bhej dijiye jo aapke phone mein login hai. Theek hai?\\nCustomer: Ji, theek hai.\\nExecutive: Gmail ID ek second rukna sir. Maine hi likh ke bheja hai aapko.\\nCustomer: Aagaya sir.\\nCustomer: Haan ji.\\nExecutive: Aapka naam Mukesh hai?\\nCustomer: Haan ji, Mukesh Maurya.\\nExecutive: Theek hai, theek hai. Ek second dena sir.\\n\\nExecutive: Apne mail open kariye sir.\\nCustomer: Gmail pe abhi toh kuch aaya nahi hai.\\nExecutive: Ek second.\\n\\nExecutive: Toh sir India Mart service aap use karenge na?\\nCustomer: Haan.\\nExecutive: Theek hai, aap ek baar check kariye, aap refresh kariye.\\nExecutive: Thoda internet ka issue chal raha tha is wajah se nahi shayad pahuch gaya hoga.\\nCustomer: Hmm, theek hai.\\n\\nCustomer: Abhi toh nahi aaya, aa gaya aa gaya.\\nExecutive: Hmm. Usme join with Google Meet ka option aa raha hoga. Theek hai?\\nCustomer: Haan.\\nExecutive: The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold pe rakha hai. Kripya line par bane rahe.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to connect via video meeting.\\n\n- Wants to discuss catalog and its usage.\\n\n\\n\nResolution:\\n\n- Executive sent a 'Hi' on Gmail.\\n\n- Asked to check and refresh the mail.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Call put on hold.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, video meeting, gmail, google meet\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 264,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d283e775-bb82-4e8c-8d34-12b2476003d4",
+  "ucid": "d283e775-bb82-4e8c-8d34-12b2476003d4",
+  "seller_categories": [
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "3755",
+      "mcat_name": "Chequered Tiles"
+    },
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "222143",
+      "mcat_name": "Cement Interlocking Tiles"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    }
+  ]
+}

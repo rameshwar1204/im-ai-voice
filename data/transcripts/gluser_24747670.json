@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672268914",
+  "gluser_id": "24747670",
+  "vintage_months": 101,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chhatral",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684360",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha ji sir. \\nCustomer: Hasmukh ji kaise ho very good morning.\\nExecutive: Very morning very morning boliye boliye. \\nCustomer: Ji ji ji ji. Abhi maine is check kiya hai sir. Abhi aapne bylets check ki sir recent pe click karke.\\nCustomer: Maine nahi actually mera ek viewer se call chal raha tha tab ka. \\nExecutive: Hmm hmm hmm hmm. \\nCustomer: Wahi pe laga hua tha. \\nExecutive: Achcha achcha achcha. Recent pe click karke hai na sir aap apna byled check karna. Theek hai. \\nCustomer: Okay.\\nExecutive: Abhi maine bhi aapka profile check kiya tha. Abhi bylets to mujhe dikhai de rahi hai. Recent pe click karna hai lekin. Recent pe click karoge na to fresh bylets jo bhi aa rahi hai na wo aapko dikhai degi sir bylets. Okay. Theek hai na usko aap consume karna. Theek hai. Done sir. Aur ek ek cheez aur hai Hasmukh ji. Mera na sir ek feedback ho raha hai aapke liye wo please ek share kar dijiye ek positive feedback share kar dijiye. Theek hai matlab sir. \\nCustomer: Mera ek feedback aayega sir aapki mail pe jo hai wo please ek positive feedback share kar dijiye sir aur koi bhi issue aata hai to direct mujhse connect kar lena aap theek hai. \\nExecutive: Done done done done. Okay thank you sir thank you. Welcome welcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to check buyleads.\\n\n- Executive requested for positive feedback.\\n\n\\n\nResolution:\\n\n- Executive guided to check buyleads by clicking recent.\\n\n- Executive requested to share positive feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, profile\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c355feee-d50e-467c-891d-2d51e4921a21",
+  "ucid": "c355feee-d50e-467c-891d-2d51e4921a21",
+  "seller_categories": [
+    {
+      "mcat_id": "192075",
+      "mcat_name": "CTC Caps"
+    },
+    {
+      "mcat_id": "192076",
+      "mcat_name": "Spout Caps"
+    },
+    {
+      "mcat_id": "6036",
+      "mcat_name": "Plastic Bottle Cap"
+    },
+    {
+      "mcat_id": "1503",
+      "mcat_name": "Plastic Caps"
+    },
+    {
+      "mcat_id": "146509",
+      "mcat_name": "Plastic Jar Caps"
+    }
+  ]
+}

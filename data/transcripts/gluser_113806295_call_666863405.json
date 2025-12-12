@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666863405",
+  "gluser_id": "113806295",
+  "vintage_months": 59,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625922",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Yes, good afternoon. Apeksha mein Kazi bol raha hu IndiaMART se.\\nCustomer: Haan ji bataiye, good afternoon.\\nExecutive: Aapki call aayi thi na, wo mail ke regarding, aapko login nahi ho pa raha tha.\\nCustomer: Haan ji, haan ji.\\nExecutive: Wo aapka wo password wagera humne share kar diya tha. Abhi koi dikkat to nahi aa rahi hai na?\\nCustomer: Abhi sir maine wo aapki mail hi nahi check kari hai. Main aapko check karke 10 minute mein revert karti hu, theek hai sir?\\nExecutive: Ek baar check kar lijiye, aapko password na humne share kiya hai.\\nCustomer: Achha theek hai.\\nExecutive: Theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek hai, ek baar login karke na mujhe update kar dijiye.\\nCustomer: Theek hai ji, sure, sure.\\nExecutive: Okay, thank you.",
+  "summary": "\\n\\nConcerns:\\n\\n- Was previously unable to log in.\\n\\n\\nResolution:\\n\\n- Followed up on the login issue.\\n- Informed that the password was shared via email.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will check the email, attempt to log in, and revert in 10 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- login issue, password, email, follow-up\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4536fbe-de8d-451f-b68a-d8b17101a2dd",
+  "ucid": "d4536fbe-de8d-451f-b68a-d8b17101a2dd",
+  "seller_categories": [
+    {
+      "mcat_id": "183988",
+      "mcat_name": "Wooden Spice Box"
+    },
+    {
+      "mcat_id": "20240",
+      "mcat_name": "Wooden Tray"
+    },
+    {
+      "mcat_id": "1585",
+      "mcat_name": "Wooden Jewelry Box"
+    },
+    {
+      "mcat_id": "154338",
+      "mcat_name": "Wooden Incense Burners"
+    },
+    {
+      "mcat_id": "156252",
+      "mcat_name": "Wooden Incense Holder"
+    }
+  ]
+}

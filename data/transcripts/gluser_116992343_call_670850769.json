@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670850769",
+  "gluser_id": "116992343",
+  "vintage_months": 57,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669999",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello Namaskar sir.\\nCustomer: Boliye.\\nExecutive: I am audible to you sir.\\nCustomer: Ha boliye.\\nExecutive: Actually sir, Vinay Singh baat kar raha hu sir senior manager India Mart se.\\nCustomer: Aapka jo concern tha sir.\\nCustomer: Baat hui hai madam se.\\nCustomer: Are abhi bhi baat hui hai madam se.\\nExecutive: Kar sakta hu.\\nExecutive: Aaram se sir.\\nExecutive: Ye bahut important hota hai jo aapke account manager hai unke liye bhi sir. So kindly\\nExecutive: Right.\\nExecutive: Hello.\\nCustomer: Ha boliye.\\nExecutive: Ji sir, mai aapka concern yaha se close kar raha hu aap.\\nCustomer: Abhi machine ke paas hai ja nahi sakta hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a concern.\\n\n- Customer spoke to a madam recently.\\n\n- Customer is near a machine and cannot go.\\n\n\\n\nResolution:\\n\n- Executive is closing the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, account manager\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a14f326a-9102-4b0d-8363-7c4dce365300",
+  "ucid": "a14f326a-9102-4b0d-8363-7c4dce365300",
+  "seller_categories": [
+    {
+      "mcat_id": "30770",
+      "mcat_name": "Ice Cream Machines"
+    },
+    {
+      "mcat_id": "20547",
+      "mcat_name": "Ice Gel Packs"
+    },
+    {
+      "mcat_id": "193962",
+      "mcat_name": "Nilkamal Plastic Crates"
+    },
+    {
+      "mcat_id": "139363",
+      "mcat_name": "Paneer Making Machine"
+    },
+    {
+      "mcat_id": "148103",
+      "mcat_name": "Water Pouch Packing Machine"
+    }
+  ]
+}

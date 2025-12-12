@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674184139",
+  "gluser_id": "20910965",
+  "vintage_months": 34,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagrota Bagwan",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702114",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cdd4ba1f-d722-45ed-bef9-e2439d5ddc9c",
+  "ucid": "cdd4ba1f-d722-45ed-bef9-e2439d5ddc9c",
+  "seller_categories": [
+    {
+      "mcat_id": "138301",
+      "mcat_name": "Portable X Ray Machines"
+    },
+    {
+      "mcat_id": "184128",
+      "mcat_name": "GE Ultrasound Machine"
+    },
+    {
+      "mcat_id": "145256",
+      "mcat_name": "Digital X Ray Machine"
+    },
+    {
+      "mcat_id": "40493",
+      "mcat_name": "Ultrasound Machines"
+    },
+    {
+      "mcat_id": "41758",
+      "mcat_name": "X Ray Films"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674410009",
+  "gluser_id": "230723544",
+  "vintage_months": 14,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mansa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nCustomer: Haan bolo.\\nExecutive: Good morning sir, Anisha baat kar rahi hu Indiamart se. Aapne call kiya hua tha 96 se. Bataye sir kya issue aa raha hai?\\nCustomer: Aaj ki date me?\\nExecutive: Ji sir?\\nCustomer: Kab mam call kiya tha?\\nExecutive: A, aapne Saturday call kiya hua tha.\\nCustomer: Saturday pata nahi. Excuse me.\\nExecutive: Kuch issue aa raha tha video meet pe connect karne ke liye complaint kiya hua tha ki video meet pe connect karna hai to aap bata dijiye mujhe kya problem aa raha hai, mai ek bari aapko guide karti hu.\\nCustomer: Us din mai office nahi tha mai to kis reason ke karan call kiya tha.\\nExecutive: Koi aur bhi dekhta hai sir Indiamart website pe?\\nCustomer: Nahi mai us din nahi tha but mere friend wo partners wo baithe honge shayad unse ki.\\nExecutive: To ek bari aap apni team se puch lijiye.\\nCustomer: Haan mai unse discuss karke aapko inform kar deta hu uske regarding.\\nExecutive: Haan ya kitni der me call back karenge sir?\\nCustomer: Mai aapko free hoke unse baat karke call back karunga mai.\\nExecutive: Okay sure.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know the reason for the call.\\n\n\\n\nResolution:\\n\n- Executive asked to confirm the issue.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after discussing with team.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, call back, issue\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ab309d3-09e9-480e-806d-1b7ac2e838b0",
+  "ucid": "0ab309d3-09e9-480e-806d-1b7ac2e838b0",
+  "seller_categories": [
+    {
+      "mcat_id": "651654",
+      "mcat_name": "Mycorrhizal Bio Fertilizer"
+    },
+    {
+      "mcat_id": "156355",
+      "mcat_name": "Vesicular Arbuscular Mycorrhiza"
+    },
+    {
+      "mcat_id": "222754",
+      "mcat_name": "Phosphate Rich Organic Manure (PROM)"
+    },
+    {
+      "mcat_id": "157681",
+      "mcat_name": "Zyme Granules and Liquid"
+    },
+    {
+      "mcat_id": "144417",
+      "mcat_name": "Phosphate Solubilizing Bacteria"
+    }
+  ]
+}

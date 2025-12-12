@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670709753",
+  "gluser_id": "185476526",
+  "vintage_months": 32,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669761",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Ji sir.\\nExecutive: Haan ji sir aawaz aa rahi hai aapko. Hello.\\nCustomer: Hello aawaz aa rahi hai aapko?\\nExecutive: Main Sonu baat kar raha hu. Sorry sir kaun bol rahe ho?\\nCustomer: Sonu yaar mujhe call hi karna ek baar. Main isme baat kar raha hu. Main kar raha hu sir ek minute hai na?\\nExecutive: Ek minute ek minute karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants Sonu to call him back.\\n\n\\n\nResolution:\\n\n- Executive put the customer on hold to connect with Sonu.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall connection, callback request\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe9a27b8-69fa-439e-90c8-dd3506fdf45d",
+  "ucid": "fe9a27b8-69fa-439e-90c8-dd3506fdf45d",
+  "seller_categories": [
+    {
+      "mcat_id": "9335",
+      "mcat_name": "Silica Gel"
+    },
+    {
+      "mcat_id": "192138",
+      "mcat_name": "White Silica Gel"
+    },
+    {
+      "mcat_id": "651414",
+      "mcat_name": "Silica Gel Packets"
+    },
+    {
+      "mcat_id": "192139",
+      "mcat_name": "Blue Silica Gel"
+    },
+    {
+      "mcat_id": "164325",
+      "mcat_name": "Silica Gel Crystals"
+    }
+  ]
+}

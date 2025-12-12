@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670607852",
+  "gluser_id": "39245547",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nHello\\n\\n\\nHello\\nExecutive: Hello\\nCustomer: Haan ji namaskar sir.\\nExecutive: Haan namaste namaste boliye.\\nCustomer: Wo kal WhatsApp se baat hui thi na aapki video meeting ke liye to join kar lenge ki aap?\\nExecutive: Haan haan haan.\\nCustomer: Theek hai main abhi paanch minute mein aapko message karta hoon. Theek hai. Gautam sir ko main bol ke phir join karta hoon saath mein.\\nExecutive: Haan haan main aap 20 minute ke baad kariye main pahunch jata hoon office.\\nExecutive: Main office se bahar hoon.\\nExecutive: Haan 20 minute baat kariye main office pahunch jaunga.\\nCustomer: Theek hai.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked about joining the video meeting.\\n\n\\n\nResolution:\\n\n- Executive said to call after 20 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will join the meeting after 20 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, follow up, joining\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6af89395-dc37-42ca-9008-e2bd82a46a7d",
+  "ucid": "6af89395-dc37-42ca-9008-e2bd82a46a7d",
+  "seller_categories": [
+    {
+      "mcat_id": "56246",
+      "mcat_name": "Discharge Rods"
+    },
+    {
+      "mcat_id": "40841",
+      "mcat_name": "Voltage Detectors"
+    },
+    {
+      "mcat_id": "186240",
+      "mcat_name": "Rescue Hook"
+    },
+    {
+      "mcat_id": "56009",
+      "mcat_name": "Hot Stick"
+    },
+    {
+      "mcat_id": "155378",
+      "mcat_name": "Earthing Rod"
+    }
+  ]
+}

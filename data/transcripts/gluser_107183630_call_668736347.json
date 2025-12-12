@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668736347",
+  "gluser_id": "107183630",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9642008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Kal good evening.\\nCustomer: Good evening.\\nExecutive: Ji Anand baat kar raha hu sir. Coordinator ho paye sir aapke response nahi aaya sir wapas.\\nCustomer: To aap bataiye mere ko meeting ke liye.\\nExecutive: To abhi kar sakte hain?\\nCustomer: Abhi hai aapke boss available?\\nExecutive: Haan nahi abhi kar sakte hain. Koi problem nahi hai.\\nCustomer: Achcha.\\nExecutive: Aur ya aap mere ko kal subah 11 baje connect kar loge to better rahega.\\nExecutive: Sir kal to Saturday hai aur Sunday weekend rahega sir.\\nCustomer: To kal to Saturday Saturday aapka off rehta hai kya?\\nExecutive: Ji ji ji.\\nCustomer: Abhi agar aap 10 minute leke bhi connect karenge na koi problem nahi hai. Matlab abhi hum hai office mein aaj ek ghante tak to hai. Agar koi possibility banti hai to dekh lijiye ki.\\nExecutive: Theek hai.\\nCustomer: Theek hai.\\nCustomer: Haan main available hu. Aap mujhe call bhi karenge na main pick kar lunga. Aisa mujhe text message karenge. Main ek kaam karta hu. Aap link bhej dijiye main deta hu.\\nExecutive: Haan main link bhej deta hu.\\nCustomer: Theek hai theek hai theek hai.\\nExecutive: Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer did not receive a response.\\n\nResolution:\\n\n- Executive asked if they can connect now.\\n- Executive offered to send a meeting link.\\n\n\\n\nNext Steps: \\n\n- Executive will send the meeting link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, follow-up, availability\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c6154fc2-0706-4785-bd40-1ae4768ffd14",
+  "ucid": "c6154fc2-0706-4785-bd40-1ae4768ffd14",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "180834",
+      "mcat_name": "Marble Bowl"
+    },
+    {
+      "mcat_id": "9877",
+      "mcat_name": "Marble Table"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    }
+  ]
+}

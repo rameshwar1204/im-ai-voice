@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673344151",
+  "gluser_id": "156908950",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Aap Cambay Art se baat kar rahe hain sir?\\nExecutive: Haan boliye.\\nCustomer: Sir Juhi baat kar rahi thi IndiaMART se, subah baat hui thi na aap se?\\nExecutive: Haan haan.\\nCustomer: Sir services ke liye aapne no kyun diya hai? Matlab aapke sath discussion hua tha aapne WhatsApp pe no no de diya.\\nExecutive: Kya hua?\\nCustomer: Service pe aapne no kyun diya hai sir feedback?\\nExecutive: To no hi do na. Satisfaction nahi hai to.\\nCustomer: Sir wo service satisfaction ke liye tha. Hum mere uske liye nahi hai sorry mere aur aapka jo conversation hua tha uske liye wo feedback aapko diya gaya tha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked why customer gave negative feedback.\\n\n\\n\nResolution:\\n\n- Executive clarified feedback was for service satisfaction.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, service, satisfaction\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6f6835ca-520f-450f-9b0a-328bbc0212ed",
+  "ucid": "6f6835ca-520f-450f-9b0a-328bbc0212ed",
+  "seller_categories": [
+    {
+      "mcat_id": "3417",
+      "mcat_name": "Wind Chime"
+    },
+    {
+      "mcat_id": "178023",
+      "mcat_name": "Crystal Shivling"
+    },
+    {
+      "mcat_id": "18414",
+      "mcat_name": "Quartz Crystal"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "13083",
+      "mcat_name": "Quartz Stone"
+    }
+  ]
+}

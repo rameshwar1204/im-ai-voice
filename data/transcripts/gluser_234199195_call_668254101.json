@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668254101",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan sir abhi jo buylead aayi hui hai do ghante pehle breathing air compressor ki wo aapne dekh li?\\nCustomer: Haan wo air compressor ki ek li maine wo ek se baat hui wo usme phone cut kar diya usme baat aawaz nahi aa rahi thi wo clear wo phone cut kar diya aur fir call back karunga usse.\\nExecutive: Achcha matlab abhi usse bas baat cheet chal rahi hai matlab baat chal rahi hai aapki right?\\nCustomer: Haan haan do do buylead aayi thi compressor ki ek li maine ek abhi nahi li wo bhi buylead padi hui hai waise.\\nExecutive: Theek hai aapka na ek product tha ye jo aap gun bata rahe the na fire safety gun.\\nCustomer: Haan haan.\\nExecutive: Uska price uska jo price hai wo incorrect show ho raha hai yaha par aap ek baar mujhe confirm kar denge kyunki yaha pe jo price dala hua hai wo 5999 hai 5999 hai.\\nCustomer: 6000 rupaye.\\nExecutive: 6000 hai ek minute sir ek minute. Kyunki ye aapke mein incorrect show ho raha hai 6000 square feet square inch karke kuch aa raha hai.\\nCustomer: Ye to I think piece wise hoga shayad.\\nExecutive: Price kam karna hai kya?\\nExecutive: Nahi nahi main puch rahi hu ye per piece wise hai na price.\\nCustomer: 5900 6000 price rakhi hui hai maine.\\nExecutive: 6000 price hai aur iski unit hai per piece.\\nCustomer: Per piece hai na iski unit.\\nCustomer: Ek minute ek minute aapko batata hu.\\nExecutive: Ek baar iska ye fire safety gun wale ka check kar lijiye.\\nCustomer: Haan main abhi check kar leta hu abhi.\\nExecutive: Theek hai ek do baar fire safety wale ka check karke iska price theek se mention kar dijiyega.\\nCustomer: Haan haan main main price mention kar dunga yes.\\nExecutive: Theek hai okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about buylead of air compressor.\\n\n- Price of fire safety gun showing incorrect.\\n\n\\n\nResolution:\\n\n- Executive confirmed about the buylead.\\n\n- Executive asked to check and correct price.\\n\n\\n\nNext Steps: \\n\n- Customer will check and correct the price.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, price, fire safety gun\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ece6845-c093-4669-b036-3bdee05045a0",
+  "ucid": "2ece6845-c093-4669-b036-3bdee05045a0",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675470971",
+  "gluser_id": "250592328",
+  "vintage_months": 3,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello.\\n\\nCustomer: Ha sir, Himanshu baat kar raha hu sir aapne bola tha do din mein bataoge IndiaMART se.\\n\\nExecutive: Abhi confirm nahi hua hai mujhse.\\n\\nCustomer: Kya?\\n\\nExecutive: Boss bahar gaye rahe hain, abhi confirm nahi hua hai.\\n\\nCustomer: Sir, 1 tarikh se hamara jo lead jo hai na sir allocation wo 30% kam ho jayega. Hmm. 1 tarikh se jo bhi hai na charge dete hai agar abhi agar main 58 category mein preferred mein aapka 58 valid de raha hu to next 30% baat aisa hai Himanshu ji main utna force boss ko nahi kar sakta paise unko lagane hai.\\n\\nCustomer: Ha nahi force ka ho raha hai sir ek mahine baad baat kar raha hu aapse.\\n\\nExecutive: Ha wahi main bol raha hu main utna force nahi kar paunga unko ki aap lagao ye lagao abhi.\\n\\nExecutive: Theek hai. Boss ko bata diya hai ab unka decision hai maine do teen baar reminder bhi dal diya.\\n\\nExecutive: Theek hai. Ab unka decision hai main bar bar unko ye nahi follow up nahi kar sakta hu uske liye.\\n\\nExecutive: Main ek bar jaise hi confirmation aayega main ek bar aur remind karaunga agar aata hai to fir aage baat karenge. Theek hai?\\n\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about subscription confirmation.\\n\n- Lead allocation will decrease by 30%.\\n\n\\n\nResolution:\\n\n- Executive informed boss is out of town.\\n\n- Executive will remind once confirmation is received.\\n\n\\n\nNext Steps: \\n\n- Executive will remind once confirmation is received.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, lead allocation, confirmation\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=475b12c9-4637-4384-af98-367858f6e529",
+  "ucid": "475b12c9-4637-4384-af98-367858f6e529",
+  "seller_categories": [
+    {
+      "mcat_id": "65436",
+      "mcat_name": "Tower Crane"
+    },
+    {
+      "mcat_id": "211901",
+      "mcat_name": "Potain Tower Crane"
+    },
+    {
+      "mcat_id": "25694",
+      "mcat_name": "Concrete Placing Boom"
+    },
+    {
+      "mcat_id": "143721",
+      "mcat_name": "Mobile Tower Crane"
+    },
+    {
+      "mcat_id": "195013",
+      "mcat_name": "Used Tower Crane"
+    }
+  ]
+}

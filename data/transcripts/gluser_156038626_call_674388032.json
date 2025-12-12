@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674388032",
+  "gluser_id": "156038626",
+  "vintage_months": 24,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699203",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nExecutive: Namaste sir, good morning. Mai Shreya baat kar rahi hu India Mart se.\\nOkay ji, mai aap se baat kar raha hu.\\nExecutive: Haanji. Sir actually na bas mujhe ek minute chahiye tha aapka. Us din jo aapne concern raise kiya tha na video meet ke regarding. To wo close nahi ho paya sir. Wo mai abhi close kar rahi hu. Ek baar aapke mail id pe na satisfied ke liye jayega. To aap ek baar yes kar dena.\\nOkay.\\nExecutive: Theek hai. Baki aap kab free honge sir?\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Concern raised regarding a video meet.\\n\n\\n\nResolution:\\n\n- Executive is closing the concern raised regarding the video meet.\\n\n- A link will be sent to the customer's email ID for confirmation.\\n\n\\n\nNext Steps: \\n\n- Customer needs to click 'yes' on the link sent to their email ID.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meet, concern, email\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1a790a68-cb5b-4225-ac00-33c3a29e4276",
+  "ucid": "1a790a68-cb5b-4225-ac00-33c3a29e4276",
+  "seller_categories": [
+    {
+      "mcat_id": "88308",
+      "mcat_name": "Tea Cup Set"
+    },
+    {
+      "mcat_id": "29411",
+      "mcat_name": "Gift Sets"
+    },
+    {
+      "mcat_id": "90434",
+      "mcat_name": "Ceramic Tea Cup"
+    },
+    {
+      "mcat_id": "144867",
+      "mcat_name": "Kitchen Crockery"
+    },
+    {
+      "mcat_id": "188892",
+      "mcat_name": "Ceramic Tea Set"
+    }
+  ]
+}

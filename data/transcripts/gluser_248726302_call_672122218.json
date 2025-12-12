@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672122218",
+  "gluser_id": "248726302",
+  "vintage_months": 4,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683710",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji sir.\\nCustomer: Ha ji main aisa bol raha hu sir mujhe ab hai na ye band hi karwa dena hai.\\nCustomer: Thik hai?\\nCustomer: Hello\\nExecutive: Ha sir main samajh raha hu problem generate ho rahi hai.\\nCustomer: Ha aapko karne ki jarurat hai.\\nExecutive: Ha?\\nCustomer: Nahi ek bar to pehle aapka jo problem hai sir agar usko resolve kar lete to badhiya is cheez kya hogi aapke liye bhi aur sabke liye bhi.\\nCustomer: Problem nahi mujhe problem solve nahi karna main koi aur site se kaam kar lunga.\\nExecutive: Okay thik hai.\\nExecutive: Sir refund nahi possible hai na to kafi din beet gaye hai sari cheeze ho chuki hai.\\nExecutive: To refund possible nahi hai isliye main keh raha hu pehle to ek bar baat kar lete hai.\\nCustomer: Baki to main main aage aapko customer care mein main complaint kar sakta hu thik hai refund possible nahi hai mujhe to waha customer care pe hi call kiya tha aapne aapka complaint register hua tabhi to call kiya maine.\\nExecutive: Ek bar baat kar lene dijiye mujhe na.\\nExecutive: Jo best possible solution hoga.\\nCustomer: Kaisa hota hai kya refund possible nahi hai.\\nExecutive: Hmm.\\nCustomer: Aapko aapka jo hum dena tha wo de ke aapka jo char mahina hua hai ki panch mahina hua hai aap wo kaat lijiye.\\nExecutive: Main ek bar baat karke na agar product list available karwa paya na to definitely main pehle wo karne ki koshish karunga sir.\\nExecutive: Thik hai na?\\nCustomer: Nahi mujhe karwana hi nahi hai ab aage baat hi nahi karni aap ho gaya ke to band kar dijiye mujhe koi nahi mujhe mera package band kar dijiye.\\nExecutive: Hmm thik hai.\\nCustomer: Aapne pehle hi bola hota main mujhe ki aap trusted account hi chalu karo to main wohi chalu karwata.\\nExecutive: Thik hai sir main pehle dekhta hu kya possibility hai.\\nCustomer: Thik hai ek bar main customer care mein complaint online mail se bhi kar deta hu.\\nExecutive: Nahi aapka complaint already consumer court mein bhi kar deta hu aap jo aisa bol raha hai kya possible nahi hai to.\\nExecutive: Ek bar pehle aapka jo complaint hai wo services se related hai uske baad aap refund chahte hain right?\\nCustomer: Complaint to aapka services se related jo problem hai pehle wo solve karne ki koshish karte hain.\\nCustomer: Nahi refund refund ke upar baat karte hain hum pehle do mahine se baat kar rahe hain hum log wo ho nahi raha hai aapka kitna wait kar rahe hain waise bhi to hamare bache ab char mahine to ho gaye aur dusre do aath mahine nikal jayenge to aapka nahi solve karne mein humko business milne wala nahi hai aur ab hamara bhi patience khatam ho raha hai aapko refund karna hai to karo nahi karna hai to hum fir directly ja rahe consumer court mein thik hai.\\nExecutive: I'll get back to you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to cancel the subscription.\\n\n- Wants a refund for the remaining period.\\n\n- States that the services are not helpful.\\n\n\\n\nResolution:\\n\n- Executive tried to resolve the issue.\\n\n- Executive said refund is not possible.\\n\n- Executive assured to get back to the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will get back to the customer.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, cancellation, subscription, consumer court\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b55540b6-0e8b-4dd9-abd2-50f2031e2b73",
+  "ucid": "b55540b6-0e8b-4dd9-abd2-50f2031e2b73",
+  "seller_categories": [
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    },
+    {
+      "mcat_id": "226872",
+      "mcat_name": "Gemstone Tree"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "22131",
+      "mcat_name": "Artificial Trees"
+    },
+    {
+      "mcat_id": "190710",
+      "mcat_name": "Tiger Eye Bracelet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668441107",
+  "gluser_id": "26654419",
+  "vintage_months": 15,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Hindupur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Aashish sir, good morning sir.\\nCustomer: Ya good morning, kaun hai?\\nExecutive: Sir, main Nitish baat kar raha hun IndiaMART ke survey department se sir, aapka account me Nitish sir se, haan sir, kal aapko Vijay sir se baat hui thi na?\\nCustomer: Hello?\\nExecutive: Pardon?\\nCustomer: Haan, toh kya sir main video meet abhi connect karenge sir, main link share kar dunga aapko. Ek minute, ek minute, ek minute, 10 minute time de de, main laptop open karta.\\nExecutive: 10 minute ka time, main link share kar du sir, join karne waqt mujhe WhatsApp kijiye ga sir. Haan, theek hai, save kar lo, share karo.\\nExecutive: 10 minute mein karte hain. Theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to connect on a video meet.\\n\n\\n\nResolution:\\n\n- Executive will share the video meet link.\\n\n- Customer asked for 10 minutes to open laptop.\\n\n\\n\nNext Steps: \\n\n- Executive will share the link, customer will join.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, link sharing, follow up\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f6f2de19-ae29-4ada-97a6-69d48bef1de8",
+  "ucid": "f6f2de19-ae29-4ada-97a6-69d48bef1de8",
+  "seller_categories": [
+    {
+      "mcat_id": "2046",
+      "mcat_name": "Underground HDPE Pipes"
+    },
+    {
+      "mcat_id": "215274",
+      "mcat_name": "PUF Insulated Roofing Panel"
+    },
+    {
+      "mcat_id": "42921",
+      "mcat_name": "Pipe Insulation Sections"
+    },
+    {
+      "mcat_id": "222298",
+      "mcat_name": "HDPE Pipe"
+    },
+    {
+      "mcat_id": "159887",
+      "mcat_name": "PUF Pipe Section"
+    }
+  ]
+}

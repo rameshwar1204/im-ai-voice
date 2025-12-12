@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670179558",
+  "gluser_id": "120426127",
+  "vintage_months": 33,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9653024",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\n\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Haan ji Noman bhai boliye.\\nCustomer: Ji sir, ab main keh raha hu aap phone bhi nahi receive kar rahe.\\nExecutive: Kaha hai?\\nExecutive: Are wo thoda bahar gaya hua tha ji, bas toh.\\nCustomer: Meeting pe aa jayenge abhi?\\nExecutive: Abhi aapko 10 minute mein karu main aapko office se hai na?\\nCustomer: Chaliye ho jayega.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Phone not being received.\\n\n- Meeting availability.\\n\n\\n\nResolution:\\n\n- Executive will call back in 10 minutes.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, call back\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=77249185-38d6-4f72-adba-53ed8e5a51e2",
+  "ucid": "77249185-38d6-4f72-adba-53ed8e5a51e2",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "114352",
+      "mcat_name": "Italian Marble"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    }
+  ]
+}

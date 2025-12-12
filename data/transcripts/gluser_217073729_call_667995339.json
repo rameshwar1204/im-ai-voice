@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667995339",
+  "gluser_id": "217073729",
+  "vintage_months": 19,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Serampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639766",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Wo nahi karte madam iska matlab hai. Hello.\\nExecutive: Hello Ajay sir baat kar rahe hain? IndiaMART se kuch jante hain.\\nCustomer: Haan ji boliye.\\nExecutive: Ji Ajay sir main IndiaMART se baat kar raha hun Noida se Deepak bol raha hun.\\nCustomer: Boliye boliye.\\nExecutive: Ji sir aapka jo hai na aapki side se concern raise hua tha IndiaMART mein customer care pe kal ki date mein call aayi thi.\\nCustomer: Haan.\\nExecutive: Jisme aapne ye update kiya tha ki aapko call back chahiye IndiaMART se. Sir aapko jo hai na random koi link aa raha hai IndiaMART ki side se. To isliye maine call kiya sir ki kaun sa link. Hello.\\nCustomer: Haan boliye.\\nExecutive: Ji aapne sir kal ek concern raise. Ji aawaz aa rahi hai sir meri?\\nCustomer: Aa rahi hai aa rahi hai.\\nExecutive: Hello. Sir kal jo hai na aapki side se ek concern raise hua tha sir customer care pe. Jisme aapne concern raise kiya tha aur ye aapne bataya tha ki aapko jo hai na random aapne call back ka request raise kiya tha.\\nCustomer: Haan.\\nExecutive: Aur isme ye mention kiya ki aapko random koi link aa raha hai IndiaMART ki side se. To isliye maine call kiya sir ki kaun sa link aa raha hai kis source se aa raha hai sir?\\nCustomer: Wo jo call kiye aapko wahi batayega.\\nExecutive: Nahi wo number sir main call kar raha hun to ek mam ne phone uthaya wo keh rahi hai Bihar mein hai fir aapka number mila hai koi person person nahi jisse number baat ho paye.\\nCustomer: Achcha.\\nExecutive: To aapka naam yahan pe mention kiya aapki side se call aayi.\\nCustomer: 79 koi aur person hai suniye sir.\\nExecutive: Ek minute dijiye 789\\nCustomer: 78900\\nExecutive: 78900\\nCustomer: 78921\\nExecutive: 3121\\nCustomer: 3131 sorry 31\\nExecutive: 31 283\\nCustomer: 283\\nExecutive: Main repeat kar raha hun 7890031283 yahi hai?\\nCustomer: Haan haan yes.\\nExecutive: Thank you sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported receiving random links from IndiaMART.\\n\n- Customer unable to connect with the caller.\\n\n\\n\nResolution:\\n\n- Executive verified the customer's contact number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- random links, call back, customer care\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c1a0e0f3-7abc-47c5-8c49-77f0ee097578",
+  "ucid": "c1a0e0f3-7abc-47c5-8c49-77f0ee097578",
+  "seller_categories": [
+    {
+      "mcat_id": "181508",
+      "mcat_name": "School Notebook"
+    },
+    {
+      "mcat_id": "32856",
+      "mcat_name": "Notebook"
+    },
+    {
+      "mcat_id": "41521",
+      "mcat_name": "Writing Paper"
+    },
+    {
+      "mcat_id": "68836",
+      "mcat_name": "Writing Notebook"
+    },
+    {
+      "mcat_id": "184972",
+      "mcat_name": "Classmate Notebook"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667497100",
+  "gluser_id": "141934109",
+  "vintage_months": 33,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sambhal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636372",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Good evening mam.\\nExecutive: Hello.\\nCustomer: Haanji mam.\\nExecutive: Hello, aawaz aa rahi hai.\\nCustomer: Haanji mam boliye.\\nExecutive: Good evening sir, main humara baat karegi thi IndiaMART head office se senior manager.\\nCustomer: Mam ek ekra ko call laga lijiye abhi enter kar rahe hai team class.\\nExecutive: Kya keh rahe hain aap?\\nCustomer: Ekra ko call laga lijiye mam ekra gate me karte hain account.\\nExecutive: Achcha dusre number pe laga lu?\\nCustomer: Nahi dusre number pe nahi ekra ko call laga lijiye ekra ka number hai aapke pass?\\nExecutive: Achcha ekra to wo to second number pe hi hai na 70 pe.\\nCustomer: Nahi 70 pe mera ye dusra wala hai. Usko main bata usko main aapko whatsapp hai aapke number pe whatsapp number hai aapka?\\nCustomer: Hello.\\nExecutive: Konse number pe lagau main ekra mam ko number call bata dijiye.\\nCustomer: Mujhe main ek minute ruko main laga raha hu.\\nExecutive: Haanji mam bataiye.\\nCustomer: Ekra mam ko number lagaiye mam.\\nCustomer: 63\\nCustomer: 63 98\\nExecutive: 6398\\nCustomer: 57\\nExecutive: 57\\nCustomer: 30\\nExecutive: 30\\nCustomer: 48\\nExecutive: 30 ke baad kya hai?\\nCustomer: 480\\nExecutive: 30 ke baad kya number nahi aa raha sir.\\nCustomer: Iske baad mam 48 48 30 ke baad 48 ji ji ji mam 48.\\nExecutive: Haanji sir kar le rahi hu call abhi laga le rahi hu have a good day.\\nCustomer: Okay mam. Chaliye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to connect the call to Ekra.\\n\n\\n\nResolution:\\n\n- Executive asked for Ekra's number.\\n\n\\n\nNext Steps: \\n\n- Executive will connect the call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, number verification\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6055d74d-5a7b-4916-af8e-f20223e0c5fc",
+  "ucid": "6055d74d-5a7b-4916-af8e-f20223e0c5fc",
+  "seller_categories": [
+    {
+      "mcat_id": "20240",
+      "mcat_name": "Wooden Tray"
+    },
+    {
+      "mcat_id": "19397",
+      "mcat_name": "Wooden Bowl"
+    },
+    {
+      "mcat_id": "183172",
+      "mcat_name": "Copper Water Bottle"
+    },
+    {
+      "mcat_id": "41373",
+      "mcat_name": "Wooden Photo Frames"
+    },
+    {
+      "mcat_id": "149888",
+      "mcat_name": "Buffalo Horn"
+    }
+  ]
+}

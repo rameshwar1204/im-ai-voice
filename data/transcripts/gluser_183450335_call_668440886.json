@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668440886",
+  "gluser_id": "183450335",
+  "vintage_months": 32,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji Sonali ji, kaise hain aap?\\nCustomer: Hello.\\nExecutive: Haan ji Sonali ji, kaise hain aap?\\nCustomer: Ji sir boliye.\\nExecutive: Are kal maine baat kiya darshak ji se wo unko dikkat aa rahi thi na buyleads wagairah ki unhone mujhe hi negative feedback de diya.\\nExecutive: Uh just a moment sir abhi currently actually Sonali mam available nahi hai aapki problem kya hai aap mujhe wo bata sakte hain sir?\\nCustomer: Are main IndiaMART se baat kar raha hun Sonali mam Sonali ji kahan hai?\\nExecutive: Sonali ji abhi available nahi hai wo 11:30 12 o'clock around available honge to aisa ho to main aapko call back karwaun?\\nCustomer: Aur darshak ji?\\nExecutive: Darshak ji bhi currently nahi hai office mein available.\\nCustomer: To theek hai jab ek baar Sonali ji aa jati hai to aap mujhe unse baat kara dijiyega theek hai.\\nExecutive: Sure sure okay alright.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received negative feedback from Darshak.\\n\n- Wants to talk to Sonali and Darshak.\\n\n\\n\nResolution:\\n\n- Executive informed Sonali and Darshak are unavailable.\\n\n- Executive offered a call back.\\n\n\\n\nNext Steps: \\n\n- Executive will arrange a call with Sonali.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, call back\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=13fcb247-e29b-4df7-81ef-86957d8d23b9",
+  "ucid": "13fcb247-e29b-4df7-81ef-86957d8d23b9",
+  "seller_categories": [
+    {
+      "mcat_id": "129909",
+      "mcat_name": "USB Smart Token"
+    },
+    {
+      "mcat_id": "445844",
+      "mcat_name": "Tally Prime Software"
+    },
+    {
+      "mcat_id": "140808",
+      "mcat_name": "Tally Software"
+    },
+    {
+      "mcat_id": "173934",
+      "mcat_name": "Digital Signature Certification"
+    },
+    {
+      "mcat_id": "185210",
+      "mcat_name": "Tally ERP 9 Software"
+    }
+  ]
+}

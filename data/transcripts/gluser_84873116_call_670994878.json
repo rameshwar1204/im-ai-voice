@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670994878",
+  "gluser_id": "84873116",
+  "vintage_months": 3,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669072",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji sir, namaskar, Ujjwal baat kar raha tha.\\nCustomer: [inaudible]\\nExecutive: Sir, aapki maang se aawaz kaafi aa rahi hai.\\nCustomer: Hello sir, main aapko dukan pe jaake phone karta hu.\\nExecutive: Kya cheez?\\nCustomer: Dukan pe jaake phone karta hu.\\nExecutive: Kitni der mein dukan pahuchoge aap?\\nCustomer: Ek ghanta.\\nExecutive: Ek ghanta lag jayega? Haan, phone kar dijiye.\\nExecutive: Accha accha. Kya kehte hai, jo aap, jo aapko maine apna number diya tha na, haan, usse call kijiyega. Aur sir aapko na baar baar aap log 99 wale pe call kar dete hai, sabse concentrate ho jata hai. Aapko maine last time jo apna number register karwaya tha. Ji, kya number ek baar phir se? Number ek baar phir se main aapko bata raha, 99.\\nCustomer: 99.\\nExecutive: 718.\\nCustomer: 718.\\nExecutive: 700, haan ji, 7004 tha woh. Haan, ab yeh jo teen ticket hai na, jo aapka concentrate, isse main close kar de raha, aap mere ko call kariyega, aapki sari problem resolve kar de raha, theek hai? Okay, okay, okay. Ab feedback aayega, feedback de dijiye.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing noise issues on call.\\n\n- Customer calls on the wrong number.\\n\n\\n\nResolution:\\n\n- Executive asked to call back from shop.\\n\n- Executive provided correct contact number.\\n\n- Executive assured resolution of all issues.\\n\n- Executive will close the tickets.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after reaching shop.\\n\n- Customer to provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- call, number, feedback, tickets\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=686a9e18-66a9-468f-9492-1c051799e549",
+  "ucid": "686a9e18-66a9-468f-9492-1c051799e549",
+  "seller_categories": [
+    {
+      "mcat_id": "149181",
+      "mcat_name": "Aluminium Armoured Cable"
+    },
+    {
+      "mcat_id": "150067",
+      "mcat_name": "Copper Armoured Cable"
+    },
+    {
+      "mcat_id": "208737",
+      "mcat_name": "Polycab House Wire"
+    },
+    {
+      "mcat_id": "193867",
+      "mcat_name": "Polycab Armoured Cable"
+    },
+    {
+      "mcat_id": "214690",
+      "mcat_name": "Polycab Power Cable"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672918994",
+  "gluser_id": "138717611",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718386",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a6a8980-703d-4003-b3f6-fc67dcf5bad8",
+  "ucid": "2a6a8980-703d-4003-b3f6-fc67dcf5bad8",
+  "seller_categories": [
+    {
+      "mcat_id": "108093",
+      "mcat_name": "Electric Scooter Batteries"
+    },
+    {
+      "mcat_id": "165696",
+      "mcat_name": "Rechargeable Li-ion Battery"
+    },
+    {
+      "mcat_id": "17193",
+      "mcat_name": "Lithium Ion Battery"
+    },
+    {
+      "mcat_id": "228298",
+      "mcat_name": "Lithium Iron Phosphate Battery"
+    },
+    {
+      "mcat_id": "64935",
+      "mcat_name": "Electric Vehicle Battery"
+    }
+  ]
+}

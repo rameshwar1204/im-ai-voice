@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667425763",
+  "gluser_id": "8911279",
+  "vintage_months": 1,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadravati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630559",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ah ha sir, G bol rahi thi IndiaMART se.\\nCustomer: Ha boliye madam.\\nExecutive: Ye na sir, maine matlab aapka jo mail tha wo aage mere sir ko bhi forward kar diya hai.\\nCustomer: Ha madam. Ha.\\nExecutive: Abhi kya wo sir wo kya karenge na aapko ek bar jo hai iska deactivation ka mail aayega aapke paas mein service deletion ke liye, thik hai?\\nCustomer: Thik hai.\\nExecutive: To aapka hum refund initiate karenge.\\nCustomer: Okay.\\nExecutive: Yahi concern tha na main aapka refund refund chahiye aapko na? Thik hai. To main aapka yahi concern close kar rahi hu abhi. Aapne jo yaha pe open kiya tha refund wala kyuki abhi agar ye concern open rahega to dusra ticket main khol nahi paungi aapke aapke liye.\\nCustomer: Thik hai. Ha.\\nExecutive: To aapke paas ek feedback aayega sir mere meri services se related matlab maine aap se jo baat kari hai jo bhi mera feedback aayega aapke liye.\\nCustomer: Thik hai ab kya karna hai hame main kya karna hai ab isme?\\nExecutive: Sir aap satisfied mark kar dijiyega aapke mail pe aayega feedback na. Ek second aap line pe rahiyega main batati hu aapko. Ek minute line pe rahiyega.\\nCustomer: Ha.\\nExecutive: Service deactivation concern dal.\\nCustomer: Ha main nahi madam main bahar hu main jaake main mail dekhta hu main confirm karta hu baad mein.\\nExecutive: To main na aapko jo hai ek mail bhej rahi hu abhi. Aap please us pe sir positive feedback de dijiyega kyuki wo mere performance mein count hoga.\\nCustomer: Ha thik hai.\\nCustomer: Ha wahi main main abhi bahar hu na main udhar jaake main kar lunga main thik hai.\\nExecutive: Koi baat nahi aap jaake kar dijiyega but kar dijiyega sir.\\nCustomer: Ab kya karega madam ab ye ab kab ye refund hoga?\\nExecutive: Abhi sir ko maine aapka ek main aapka ek aur concern open karungi. Jaise hi ye concern aap close karoge aur feedback doge na aapka ek aur concern open hoga service deletion ke liye.\\nCustomer: Ha thik hai. Ha.\\nExecutive: Uske baad jo hai meri team iska process kara degi aapke account mein refund aa jayega sir within 15 days.\\nCustomer: Ha. Aur kaise refund hoga madam?\\nExecutive: Jis mode se aapne kiya hai usi mode se jayega.\\nCustomer: Okay thik hai thik hai. Thik hai main karunga.\\nExecutive: Isiliye main aapko feedback ke liye bol rahi thi ki agar aap feedback de doge to wo instantly main open kar paungi. Abhi mere paas access nahi aa raha usko open karne ke liye.\\nCustomer: Okay thik hai thik hai thik hai. Aur ek ha madam aur ek ab main refund se aapko pura ye service pura delete karte hai na aap mera hamara subscription?\\nExecutive: Ha ji ha ji ha ji ha ji.\\nCustomer: Aur thik hai main usko main main ek minute main kabhi chahta hu main usko main monthly aapka option hai na aapka?\\nExecutive: Nahi sir monthly nahi hai abhi. Monthly hum logo ka band ho chuka hai abhi yearly plan chalta hai hamara.\\nCustomer: Ha.\\nCustomer: Ha monthly nahi rehta.\\nCustomer: Ha thik hai thik hai madam okay right.\\nExecutive: Maine na dekho aapke paas mein ek second.\\nExecutive: Maine dekhiye aapka concern close kiya hai aapka jo mail id hai jisse aapne mujhe mail bheja tha.\\nCustomer: Ha madam. Thik hai.\\nExecutive: Usi mail se agar aap open karenge na to IndiaMART feedback karke aaya hoga ek mail abhi aapko.\\nCustomer: Thik hai thik hai main dekhta hu main okay jaake main dekh kar baad mein aapko kya karna hai.\\nExecutive: Ha usko please sir okay kar dijiyega.\\nCustomer: Thik hai thik hai main karunga kya karta hu thik hai.\\nExecutive: Okay okay sir.\\nCustomer: Okay.",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a refund for the subscription.\\n\n- Customer inquired about monthly subscription option.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund process initiated.\\n\n- Informed customer about service deletion process.\\n\n- Clarified refund will be processed in 15 days.\\n\n- Clarified only yearly subscription plan available.\\n\n\\n\nNext Steps: \\n\n- Customer to provide positive feedback on mail.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, feedback, service deletion\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 215,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=797f12fb-a3b2-4dc7-b974-2319af1a58c8",
+  "ucid": "797f12fb-a3b2-4dc7-b974-2319af1a58c8",
+  "seller_categories": [
+    {
+      "mcat_id": "42618",
+      "mcat_name": "AMF Panels"
+    },
+    {
+      "mcat_id": "186873",
+      "mcat_name": "ATS Control Panel"
+    },
+    {
+      "mcat_id": "137566",
+      "mcat_name": "Meter Panel Board"
+    },
+    {
+      "mcat_id": "41791",
+      "mcat_name": "Bus Ducts"
+    },
+    {
+      "mcat_id": "187901",
+      "mcat_name": "Sandwich Bus Duct"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671874968",
+  "gluser_id": "240440618",
+  "vintage_months": 7,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675322",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u091c\u0940 \u0939\u0947\u0932\u094b \u0939\u0947\u0932\u094b \u0939\u093e\u0902 \u091c\u0940 \u0939\u0947\u0932\u094b \u092e\u094b\u0939\u092e\u094d\u092e\u0926 \u092d\u093e\u0908 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902\\nCustomer: \u092c\u0924\u093e\u0913 \u0928\u093e\\nExecutive: \u0939\u093e\u0902 \u0905\u0930\u0947 \u0935\u094b \u092b\u094d\u0930\u0940\u0921\u092e \u092e\u093f\u0938 \u0915\u0949\u0932 \u092a\u0921\u093c\u093e \u0925\u093e \u0928\u093e \u0906\u092a\u0915\u093e \u0924\u094b \u0907\u0938\u0940\u0932\u093f\u090f \u091f\u093f\u0915\u091f \u0913\u092a\u0928 \u0939\u094b \u091c\u093e\u0924\u093e \u0939\u0948 \u0907\u0938\u0932\u093f\u090f \u092e\u0948\u0902\u0928\u0947 \u0915\u0949\u0932 \u0915\u093f\u092f\u093e \u0925\u093e \u0905\u0930\u0947 \u0906\u092a\u0915\u093e \u092e\u093f\u0938 \u0915\u0949\u0932 \u092a\u0921\u093c\u093e \u0925\u093e \u0928\u093e \u092b\u093f\u0930 \u092c\u093e\u0926 \u092e\u0947\u0902 \u092e\u0948\u0902\u0928\u0947 \u0915\u0949\u0932 \u092c\u0948\u0915 \u0915\u0930 \u0939\u0940 \u0926\u093f\u092f\u093e \u0925\u093e \u0906\u092a\u0915\u0947 \u0928\u0902\u092c\u0930 \u092a\u0947 \u0924\u094b \u092c\u093e\u0924 \u0939\u0941\u0908 \u0906\u092a \u092c\u093e\u0926 \u092e\u0947\u0902 \u0915\u0949\u0932 \u0915\u0940\u091c\u093f\u090f \u092e\u0948\u0902 \u092c\u093f\u091c\u0940 \u0939\u0942\u0902 \u0906\u092a\\nCustomer: \u0905\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive called back due to a missed call and an opened ticket.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer said to call later as they are busy.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmissed call, ticket\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f45917f3-c6c1-41ca-ab52-02a4c20d7577",
+  "ucid": "f45917f3-c6c1-41ca-ab52-02a4c20d7577",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "207464",
+      "mcat_name": "Siemens HMI"
+    },
+    {
+      "mcat_id": "220187",
+      "mcat_name": "Allen Bradley HMI"
+    },
+    {
+      "mcat_id": "207435",
+      "mcat_name": "Mitsubishi PLC"
+    }
+  ]
+}

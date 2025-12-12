@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669234826",
+  "gluser_id": "28840653",
+  "vintage_months": 4,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Devanahalli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647055",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No transcript available]",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6c4b9bad-e9c1-4130-8251-e93c9f1ba93e",
+  "ucid": "6c4b9bad-e9c1-4130-8251-e93c9f1ba93e",
+  "seller_categories": [
+    {
+      "mcat_id": "167435",
+      "mcat_name": "ETC Solar Water Heater"
+    },
+    {
+      "mcat_id": "204123",
+      "mcat_name": "Supreme Solar Water Heater"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    }
+  ]
+}

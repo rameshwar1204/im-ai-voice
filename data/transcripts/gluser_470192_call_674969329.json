@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674969329",
+  "gluser_id": "470192",
+  "vintage_months": 114,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Deepak ji good morning sir.\\nCustomer: Very good morning.\\nExecutive: Raju Prajapati bol raha tha IndiaMART se.\\nCustomer: Boliye.\\nExecutive: Kuch theek hua sir matlab kafi maine changes kiya tha I think calls bhi bade hain aapke.\\nCustomer: Haan theek ho raha hai thoda thoda theek ho raha hai.\\nExecutive: Theek ho raha hai matlab matlab jo kar raha hoon theek ho raha hai na.\\nCustomer: Theek ho raha hai haan theek ho raha hai.\\nExecutive: Okay koi changes karne isme.\\nCustomer: Nahi abhi kuch nahi karna.\\nExecutive: Koi naya product ya fir kuch.\\nCustomer: Na na koi nahi koi kuch koi nahi.\\nExecutive: Haan.\\nCustomer: Kuch nahi karna. Ek aapki ek thoda sa bas isme changes ek karna tha jo ki mistake hai aapke side se.\\nExecutive: Ah ek minute thoda sa line par rahenge bas katiyega mat ek second ruk jaiye. \\nCustomer: Nahi mai to lunch abhi lunch me jane ke liye nikla hoon.\\nExecutive: Achcha lunch pe kitne baje free hote hain aap bata do.\\nCustomer: 12 se 1:30 baje tak mera lunch.\\nExecutive: To 2 baje 3 baje laga loon free ho.\\nCustomer: Dekh le laga lena agar free hoga to baat chit kar lenge.\\nExecutive: Theek hai 3 baje kar lunga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states he is going for lunch.\\n\n- Executive wants to make changes to the account.\\n\n\\n\nResolution:\\n\n- Call will be scheduled at 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, changes, buyleads\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=85d95d6f-2695-402a-b2c9-652cef990e7b",
+  "ucid": "85d95d6f-2695-402a-b2c9-652cef990e7b",
+  "seller_categories": [
+    {
+      "mcat_id": "158941",
+      "mcat_name": "Wood Fired Water Heater"
+    },
+    {
+      "mcat_id": "68",
+      "mcat_name": "Industrial Hot Water Boilers"
+    },
+    {
+      "mcat_id": "121388",
+      "mcat_name": "Wood Fired Steam Boilers"
+    },
+    {
+      "mcat_id": "29264",
+      "mcat_name": "Gas Fired Heaters"
+    },
+    {
+      "mcat_id": "159550",
+      "mcat_name": "Water Boilers"
+    }
+  ]
+}

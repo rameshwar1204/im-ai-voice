@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669945687",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello?\\nJi.\\nJi, aap Vijay Agrawal se baat kar rahe ho?\\nJi.\\nAchha, mai Vijay Agrawal bol raha tha IndiaMART se sir.\\nJi boliye.\\nBas badhiya, bas mai ek to ye keh raha tha ki wo bhaiya ke paas na call aaya tha IndiaMART se.\\nHello?\\nHan boliye.\\nMai keh raha hu ji bhaiya ke paas call aaya tha IndiaMART se na, wo hosting ke jo aapne Maximizer ka liya tha na aapne payment kiya tha Maximizer ka.\\nKya kya cheez ka? Domain wala.\\nAap logo ne jo abhi liya hai na plan domain wala.\\nHan.\\nTo uski hosting ke liye jo aapki email ID hai na.\\nAchha.\\nUsse mail gaya hai.\\nHosting ke liye.\\nMalum nahi sir, hame aapko thoda baad me call karu, mai kaam me hu.\\nWo Sabir ji kaha hai?\\nWo to mai bahar hu market par hu, wo ghar pe honge shayad.\\nAchha, maine call kiya tha uthaye nahi call unhone bhi abhi.\\nMai pata karta hu han.\\nThik, thik hai.\\nThik hai. Han udhar bhai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding hosting for domain plan.\\n\n- Customer is currently busy with work.\\n\n\\n\nResolution:\\n\n- Executive informed about the hosting email.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- hosting, domain, email, maximizer\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa76e02e-39a7-4de6-8179-e4bf81175a48",
+  "ucid": "aa76e02e-39a7-4de6-8179-e4bf81175a48",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

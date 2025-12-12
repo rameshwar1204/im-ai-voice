@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667497750",
+  "gluser_id": "210528210",
+  "vintage_months": 14,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636533",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji.\\nCustomer: IndiaMART head office se very good evening.\\nExecutive: Haan. Ji ji good evening. Ye jo primary number hai mera usko change karna hai na?\\nCustomer: Change karna hai na? Maine aapke pehle haan ji.\\nExecutive: Maine aapke jo email ID hai na service@hp us pe jo hai maine video meeting link share kiya hai. Aap usko join kar lijiye, main guide kar deti hu. Kyunki ye total process aapke hi side pe hona hai, ho jayega ek do minute mein.\\nCustomer: Main call bhi try kar raha hu, ho nahi pa raha tha isliye fir main aapko call kiya.\\nExecutive: Koi baat nahi, isi koi issue nahi hai. Aap ek baar join kar dijiye. Ji ji. Haan, join with the Google Meet, main guide kar deti hu aapko.\\nCustomer: Ji ji.\\n[inaudible]\\nCustomer: [inaudible]\\nExecutive: Net bahut slow hai madam aaj, baarish ki wajah se.\\nCustomer: Net slow hai? Koi dikkat nahi hai. Aap ek baar open kariye IndiaMART.\\nCustomer: Ji ji kar diya.\\nExecutive: Haan, ab aap us pe jayiyega, setting mein jaiye.\\nCustomer: Ji setting mein. Haan.\\nExecutive: Aur uske setting mein gaya na aapne apna dono number alag alag rakhna hai ya sequence wise change karna hai?\\nCustomer: Alag alag rakhna hai. Hmm. Theek hai. Jo pehle primary tha, haan.\\nExecutive: Koi dikkat nahi hai. Secondary hai usko primary karna hai, jo primary hai usko secondary karna hai.\\nCustomer: Theek hai, koi dikkat nahi hai. Abhi jo alternate number hai na jisme green tick laga hua hai, usko bhi disable kar dijiye. Unko usko bhi inactive kariye.\\nExecutive: Ek second. Kahan gaya re?\\nExecutive: Jaiye setting mein jaiye.\\nCustomer: Haan, usko bhi disable kar diya.\\nExecutive: Haan, disable kar diya? Ek baar check kar leti hu refresh karke.\\nCustomer: Nahi hua abhi tak.\\nExecutive: Nahi ho raha hai.\\nCustomer: Ho jayega. Nahi hua?\\nCustomer: Ek minute try kar raha hu.\\nCustomer: Ho gaya?\\nCustomer: Nahi madam, bahut bahut slow hai net. Wo abhi read kar raha hai.\\nExecutive: Net bahut slow hai.\\nCustomer: Baarish baarish jyada hua na madam yahan par, server ka problem.\\nExecutive: Ek minute sir. Main hold ki hu. Ek minute sir. Hmm.\\nCustomer: Open hua kya?\\nCustomer: Nahi madam, abhi wait kar raha hu. Hote mein khud bolta hu aapko.\\nExecutive: Achha ek minute.\\nCustomer: Aa raha hai madam, thoda thoda aa raha hai isme.\\nExecutive: Achha slow hai thoda. Bahut slow hai sir. Haan.\\nCustomer: 5G speed hai.\\nExecutive: 5G speed hai? Baarish ho rahi hai kya? Hamare office bahut bhayankar baarish ho raha hai, tufani baarish.\\nExecutive: Achha achha achha achha.\\nExecutive: Theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change primary number.\\n\n- Customer is facing issues joining video meeting.\\n\n- Customer reports slow internet speed.\\n\n\\n\nResolution:\\n\n- Executive shared a video meeting link.\\n\n- Executive guided customer to change primary number.\\n\n- Executive asked customer to disable alternate number.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive is waiting for the changes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- primary number, video meeting, internet, settings\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 313,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b2b5ac8d-3c97-4f11-a7cf-ce186cbf20a4",
+  "ucid": "b2b5ac8d-3c97-4f11-a7cf-ce186cbf20a4",
+  "seller_categories": [
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "150852",
+      "mcat_name": "MS Porta Cabin"
+    },
+    {
+      "mcat_id": "135712",
+      "mcat_name": "Prefabricated Cabin"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670678430",
+  "gluser_id": "21281016",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669315",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Hello. \\nExecutive: Good morning sir, Vivek bol raha hun IndiaMART se.\\nCustomer: Boliye.\\nExecutive: Ji, aapne customer care helpline pe call kiya tha IndiaMART ke?\\nCustomer: Ha, maine subscription liya hai uska koi actually lead nahi hai, na kuch call aata hai.\\nExecutive: Okay. Matlab kya hai kya nahi?\\nExecutive: Sir which phone use karte hai sir IndiaMART ki?\\nCustomer: Are wo main ID to mujhe whatsapp se mail pe aana chahiye na mail pe aana chahiye ya nahi by lead sir mail pe nahi aati hai by leads to aapko khud hi consume karna padega.\\nCustomer: Kis se?\\nExecutive: By leads jo hoti hai na jo by leads aap aap hamare yahan se aap matlab jati hai to jo by leads hai wo aapko khud hi login karke aapko consume karna padega sir.\\nCustomer: To by leads login me to dikhna chahiye na.\\nExecutive: Haan, bilkul. To abhi kitna ha to kahan dikh raha hai? Abhi nahi dikh rahi, abhi leads nahi dikh rahi. Nahi dikh rahi. Nahi kuch nahi dikh raha.\\nExecutive: Aapka location kya pan India level pe hai ya phir kisi particular location me deal karte hai aap?\\nCustomer: Maharashtra ke liye.\\nExecutive: Kahan pe?\\nCustomer: Maharashtra.\\nExecutive: Sirf Maharashtra me deal karte hai? Haan sirf Maharashtra.\\nExecutive: Sirf ek location me Manesar me?\\nCustomer: Are Maharashtra. Pura Maharashtra. Okay haan.\\nExecutive: To hai to Maharashtra ke lead to dikh rahi hai sir. Flex printing services services ki Thane se lead aayi hui hai. Kyun nahi dikh rahi?\\nCustomer: Aap ek baar IndiaMART open kariye. Aapka service barabar nahi hai ya mera hi galti hoga ki maine le liya aapka service. Ha ha ha. Nahi lenge aur to sir.\\nExecutive: Koi ek kaam karte hai sir aap system pe hai abhi available? \\nCustomer: Main abhi available nahi hun main.\\nExecutive: Okay kab tak aap aa jayenge system pe available? Main phone kiya tab aapne koi uthaya nahi phone.\\nExecutive: Haan actually customer care pe aapne call kiya hai na to customer care pe call agar aap karte hai to pehle se phone hai mera lead manager kaun hai usko usko call karo. Lead manager kaun hai?\\nExecutive: Lakshman Lakshman. Haan. Haan usko usko call karne ke liye bolo.\\nExecutive: Theek hai main aapko call back arrange karwa deta hun Lakshman se theek hai. Theek hai. Theek. Theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No leads or calls after subscription.\\n\n- Unable to see buyleads in login.\\n\n\\n\nResolution:\\n\n- Explained buyleads need to be consumed by logging in.\\n\n- Executive offered a call back from lead manager Lakshman.\\n\n\\n\nNext Steps: \\n\n- Executive will arrange a call back from Lakshman.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, lead manager, call back\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dea1d8c3-f6b6-4069-9cee-a5e5bf74ff5b",
+  "ucid": "dea1d8c3-f6b6-4069-9cee-a5e5bf74ff5b",
+  "seller_categories": [
+    {
+      "mcat_id": "43936",
+      "mcat_name": "Calendar Printing"
+    },
+    {
+      "mcat_id": "152649",
+      "mcat_name": "Pamphlet Printing Service"
+    },
+    {
+      "mcat_id": "42029",
+      "mcat_name": "Book Printing"
+    },
+    {
+      "mcat_id": "41737",
+      "mcat_name": "Flyers Printing"
+    },
+    {
+      "mcat_id": "138425",
+      "mcat_name": "Certificate Printing Services"
+    }
+  ]
+}

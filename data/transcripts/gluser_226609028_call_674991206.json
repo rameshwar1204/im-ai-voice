@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674991206",
+  "gluser_id": "226609028",
+  "vintage_months": 16,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panna",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701957",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Sir ek cheez aur main aapse keh raha tha.\\nCustomer: Ji.\\nExecutive: Maine abhi apne senior se discuss bhi kara hai.\\nCustomer: To uske accordingly hum na har ek agle teen hafte ka video meeting schedule karke rakh lete hain. 25 tarikh se do tarikh maine bola, do tarikh ke baad 10 tarikh maine bola, right?\\nExecutive: Schedule karke rakh lete hain. Hum weekly basis pe ek bar ko jo data aa raha hai, jaisa response aa raha hai, us accordingly hum ek bar ko baith ke discuss kar liya karenge.\\nCustomer: Theek hai sir, okay.\\nExecutive: Theek hai? Taki aapka jo feedback rahega, us feedback mein agle hafte humne kya kaam kara, hum do teen discuss karenge kya kaam kara aur kaisa kya response tha aur kya nikla aapne jo bhi hume feedback diya usse kya nikla. Fir uske agle hafte naya feedback leke fir us feedback pe kaam karenge, right?\\nCustomer: Theek hai.\\nExecutive: To main calendar schedule karke rakh leta hu. Abhi next wala jo hai wo do tarikh ko hai. Aap please data maintain acche se rakhiyega. We will discuss on the data.\\nCustomer: Okay.\\nExecutive: Theek hai?\\nCustomer: Okay sir. Thank you sir.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Schedule video meetings for the next three weeks.\\n\n\\n\nResolution:\\n\n- Scheduled video meetings for the next three weeks.\\n- Will discuss the data on a weekly basis.\\n\n\\n\nNext Steps: \\n\n- Next meeting is scheduled for the 2nd.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, feedback, data\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=293940ab-4309-478e-a9ab-6e9d37d65f51",
+  "ucid": "293940ab-4309-478e-a9ab-6e9d37d65f51",
+  "seller_categories": [
+    {
+      "mcat_id": "25348",
+      "mcat_name": "Data Provider"
+    },
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "117637",
+      "mcat_name": "Stock Market Tips"
+    },
+    {
+      "mcat_id": "45924",
+      "mcat_name": "Database Services"
+    },
+    {
+      "mcat_id": "445939",
+      "mcat_name": "Vyapar Billing Software"
+    }
+  ]
+}

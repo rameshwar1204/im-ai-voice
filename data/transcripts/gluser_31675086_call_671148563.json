@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671148563",
+  "gluser_id": "31675086",
+  "vintage_months": 14,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Tanda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir, Syed ji Vikrant bol raha hu yahan se. Haan.\\nCustomer: Haan bataiye. Aur bataiye kaise hain aap sir? Badhiya badhiya sir.\\nExecutive: Aur sir koi problem hai kya sir? Nahi koi dikkat nahi hai sir badhiya. Actually mein sir kal feedback pe aapne kuch likha tha WhatsApp pe. Haan maine haan likha tha satisfied likha tha.\\nExecutive: Satisfied badhiya haan. Actually mein sir woh chala gaya actually mein aapko likhna chahiye aap apne ek baar check kariye kya likha hai. Sir satisfied likha tha uske baad. Maine yaar account maine best. Oh sir, toh spelling pe toh thoda woh mistake ho gaya.\\nCustomer: Tha. V ki jagah V ho gaya hai. Thik hai. Best best likha tha. Haan haan nahi sir woh ek minute sir main ek minute.\\nExecutive: Sir main sir drive kar raha hu baad mein call karna aap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asks about feedback written on WhatsApp.\\n\n- Customer says he wrote 'satisfied'.\\n\n\\n\nResolution:\\n\n- Executive says there was a spelling mistake.\\n\n- Customer says he wrote 'best'.\\n\n\\n\nNext Steps: \\n\n- Customer will call later as he is driving.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, whatsapp, satisfied, spelling\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=be39dc1e-ac24-45b4-9fdc-88083c66a598",
+  "ucid": "be39dc1e-ac24-45b4-9fdc-88083c66a598",
+  "seller_categories": [
+    {
+      "mcat_id": "215902",
+      "mcat_name": "Agricultural Gypsum Powder"
+    },
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "145645",
+      "mcat_name": "Neem Cake Fertilizer"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "10805",
+      "mcat_name": "Humic Acid"
+    }
+  ]
+}

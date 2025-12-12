@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668757468",
+  "gluser_id": "158479532",
+  "vintage_months": 2,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Karad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648524",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, sir, I am speaking from [inaudible].\\nCustomer: Hello?\\nExecutive: Haan. Sir, you have given a feedback on WhatsApp just now.\\nCustomer: WhatsApp satisfied ka.\\nExecutive: Woh aata hai aapke paas feedback jaata hai na call ka.\\nCustomer: Achha, arre arre arre, sorry sorry sorry, woh galti se ho gaya tha sir.\\nExecutive: Achha.\\nCustomer: Padhai nahi tha yeh, galti se woh click ho gaya tha. Satisfied kar lega tha.\\nExecutive: Haan haan.\\nCustomer: Woh galti se not satisfied ho gaya. Toh koi baat nahi sir dekhiye. Haan sir aapke paas dobara se na abhi mail pe jayega aapke registered mail ID pe and aapke na app pe bhi jayega. Toh main isko jab close karunga na again dobara se, toh aap us pe satisfied yes kar dijiyega.\\nCustomer: Chalega, chalega.\\nExecutive: Theek hai, main close kar raha hu isko sir.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer mistakenly gave negative feedback.\\n\n\\n\nResolution:\\n\n- Executive will resend the feedback form.\\n\n- Customer agreed to provide positive feedback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, mistake\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0358135e-96c1-4c88-a65b-e99939423761",
+  "ucid": "0358135e-96c1-4c88-a65b-e99939423761",
+  "seller_categories": [
+    {
+      "mcat_id": "29161",
+      "mcat_name": "Galvanized Iron Pipes"
+    },
+    {
+      "mcat_id": "181333",
+      "mcat_name": "Jindal GI Pipe"
+    },
+    {
+      "mcat_id": "193725",
+      "mcat_name": "APL Apollo MS Pipe"
+    },
+    {
+      "mcat_id": "31116",
+      "mcat_name": "Iron Pipe"
+    },
+    {
+      "mcat_id": "185527",
+      "mcat_name": "GI square Pipe"
+    }
+  ]
+}

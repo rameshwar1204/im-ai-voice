@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670218007",
+  "gluser_id": "15843407",
+  "vintage_months": 30,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Bilaspur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello? Good afternoon sir, ye Battery Trading Company se baat kar rahe hain?\\nCustomer: Haan haan bataiye.\\nExecutive: Sir, this is sir Ansh here, I am IndiaMART se baat kar raha tha sir.\\nCustomer: Haan haan.\\nExecutive: Sir, kaise hain aap? Dekhiye, ye visibility chal raha hai Battery Trading Company ka, Abhinav ji se baat kar rahe the aap, right sir?\\nCustomer: Kisse kisse?\\nExecutive: Abhinav ji se baat kar rahe the na matlab.\\nCustomer: Haan haan bilkul ho rahi hai sir.\\nExecutive: Ji ji, sir mere paas ek update aaya tha regarding your visibility. Jab aapne mention kiya tha ki kuch inquiries vagera ka kuch issue face kar rahe the. Last time meri shayad aapke builder se baat hui thi.\\nCustomer: Uh.\\nExecutive: Right?\\nCustomer: Mere khayal se mere owner ki baat hui thi, hamare owner jo hain.\\nExecutive: Rajat Malhotra ji, right?\\nCustomer: Haan Rajat Malhotra ji.\\nExecutive: Okay okay, so actually maine sir ko bhi bola tha ki jo buyleads ka jo unhe na regular calls chahiye the apne RM se, Shri Aji se. Toh maine sir ko ye bola tha.\\nCustomer: Uh.\\nExecutive: Uh, sir mujhe 5 minute denge kya? Main traffic mein tha. Main bas jaise hi free hoke phone call kar raha hu aapko, isi number pe.\\nExecutive: Aap please mujhe call back kar lijiyega, so that we can discuss.\\nCustomer: Haan haan karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issues with inquiries.\\n\n- Wants regular calls from RM regarding buyleads.\\n\n\\n\nResolution:\\n\n- Executive informed about the update regarding visibility.\\n\n- Executive asked to call back to discuss further.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- visibility, buyleads, inquiries, rm call\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a63c2929-9eda-4438-b37f-4fb9e084978e",
+  "ucid": "a63c2929-9eda-4438-b37f-4fb9e084978e",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    }
+  ]
+}

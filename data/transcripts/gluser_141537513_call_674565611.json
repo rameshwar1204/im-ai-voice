@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674565611",
+  "gluser_id": "141537513",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sir, good morning sir. Shahnawaz sir speaking from IndiaMART.\\nCustomer: Hmm, sir how are you sir?\\nExecutive: I am fine, fine, boliye.\\nExecutive: Sir, main yeh keh raha tha ke yeh aapke buylead ke regarding aapne complaint dali thi na sir, ke aapko satisfaction. \\nCustomer: Are woh woh dekho baar baar call nako karo. Main poocha service person ko bhijaane ke liye. Woh bhija hai toh bhijao nahi toh nahi chhod do. Pura chhod do main. Main IndiaMART ko chhod de tum paisa tumhare ko phokat mein de diya bolke so jao tum. Chhod do. Abhi tumhare ko service person bhijaana hai hai toh main kitna baar poochna service person ko bhijao bhijao bolke. Abhi tum call kar rahe baar baar kai ko call kar rahe?\\nCustomer: Call nako karo service person ko poocho.\\nCustomer: Please send me service person. If not, don't call me.\\nExecutive: Hmm nako nako call karo sir service person regarding.\\nCustomer: Service person regarding.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding buylead, customer had filed a complaint.\\n\n- Wants a service person to visit.\\n\n- Does not want repeated calls.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's concern.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, service person, complaint, calls\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef90ca85-4eba-442a-b4fc-b0f04651a175",
+  "ucid": "ef90ca85-4eba-442a-b4fc-b0f04651a175",
+  "seller_categories": [
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

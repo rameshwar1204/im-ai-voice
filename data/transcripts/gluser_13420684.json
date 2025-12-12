@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668743815",
+  "gluser_id": "13420684",
+  "vintage_months": 27,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643667",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan good evening ma'am, main Aasim Khan bol raha tha IndiaMART se ma'am.\\nCustomer: Ji.\\nExecutive: Haan ma'am woh maine aapko mail par reply bhi kiya tha, jo products aapne send kiye the Sarvesh ko, woh saare hi isme add karwa diye gaye ma'am.\\nCustomer: Main ek baar check kar lungi.\\nExecutive: Aap please ma'am ek baar check kar lo, agar phir bhi agar aapko lagta hai kuch reh gaye, toh aap mujhe bata sakte hain, main woh bhi add karwa dunga, koi usme dikkat wali baat nahi hai. Aur aap kyun bol rahe the account manager ke liye, toh woh bhi maine change kar diya hai. Geetika aapki account manager hai, woh aapko connect bhi kar degi.\\nCustomer: Theek hai.\\nExecutive: Aur kuch ma'am agar aapko mere se ma'am kuch aur puchna chahte ho, jaanna chahte ho?\\nCustomer: Nahi, bas main aapko bata dungi.\\nExecutive: Toh yeh complaint main aapki close kar sakta hu ma'am?\\nCustomer: Hello?\\nExecutive: Ji ji.\\nExecutive: Hello?\\nCustomer: Ji ji bhaiya ji.\\nExecutive: Theek hai ma'am, main aapki yeh complaint close kar raha hu. Baaki koi issue rehta hai aap mujhe call kar lijiyega. Aapke paas feedback mail aayega, please ma'am positive feedback de dijiyega aap. Thank you ma'am, take care.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Products were not added to the catalog.\\n\n- Wanted to change the account manager.\\n\n\\n\nResolution:\\n\n- Products added to the catalog.\\n\n- Account manager has been changed.\\n\n\\n\nNext Steps: \\n\n- Customer to provide positive feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- catalog, account manager, feedback\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d345f794-f159-4ba7-9b95-2b6cc1ad5535",
+  "ucid": "d345f794-f159-4ba7-9b95-2b6cc1ad5535",
+  "seller_categories": [
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "162382",
+      "mcat_name": "Darbepoetin Alfa Injection"
+    },
+    {
+      "mcat_id": "163720",
+      "mcat_name": "Normal Immunoglobulin Injection"
+    },
+    {
+      "mcat_id": "224667",
+      "mcat_name": "Teriparatide Injection"
+    },
+    {
+      "mcat_id": "161859",
+      "mcat_name": "Enoxaparin Injection"
+    }
+  ]
+}

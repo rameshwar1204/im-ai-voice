@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673344803",
+  "gluser_id": "98274109",
+  "vintage_months": 66,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Paradwip",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681417",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji boliye.\\nExecutive: Good afternoon sir, Mayank baat kar raha hu IndiaMART se.\\nCustomer: Ji.\\nExecutive: Haan ji sir ye aapke jo aapne mere ko ye bheja hai na aapka master ka. \\nCustomer: Sir dekho waha search karne se pichle bar us state ka sabhi bylead aate the.\\nCustomer: Jo city me search karne se us state ka sabhi aate the.\\nExecutive: Haan ji.\\nCustomer: Okay abhi dekho mai search kiya hu kuch aa raha hai kya aisa?\\nExecutive: Sir main sir search karne se nahi aapne jo filter lagaya tha na abhi maine bhi same wahi filter laga ke aapko dekhiye maine aapko screenshot bheja hai na ye do teen ye dekhiye aapke screenshot se lagate hi maine wo filter aapko share kare.\\nCustomer: Sir mai aap aapko kya mai bol raha hu aap samajh me nahi aa raha.\\nExecutive: Haan ji ji bataiye ek bar.\\nCustomer: Mai wahi bol raha hu jab search me mai mar raha hu specific city specific state to state ka sabhi bylead aana chahiye pehle aate the update wagera kuch aaye kya hai aaye kya kiye mere ko pata nahi lekin search karne se jo display me jo dikh raha hai na bas wahi dikh raha hai wo change nahi ho raha accordingly state nahi aa raha.\\nExecutive: Accha ek minute sir hold kijiye aap.\\nExecutive: Hold kijiye.\\n(silence)\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, hi sir, Shreya baat kar rahi hu senior manager IndiaMART se.\\nCustomer: Ji boliye.\\nExecutive: Haan ji bataiye sir kya problem face kar rahe hai aap?\\nCustomer: Abhi sir ko bol raha hu.\\nExecutive: Yes city ka sir kya matlab aapko us city ka bylead chahiye aapko wo kaise dekhna hai wo pata karna hai.\\nCustomer: Ji abhi search me search me ek state marta hu na accordingly bylead sabhi aate the pehle.\\nExecutive: Haan haan.\\nCustomer: Okay aur abhi jo mai search me mar raha hu na aisa specific city hai specific ye hai wo hai karke to fir wo nahi aa raha show nahi kar raha waha.\\nExecutive: Sir ek bar aap apne bylead ke section me aap jaiye bylead ke portal pe jaiye aap.\\n(silence)\\nCustomer: Aa gaya sir bolo.\\nExecutive: Hello.\\nCustomer: Hello, haan ji.\\nExecutive: Haan ji bolo haan.\\nExecutive: Aur search option me dalna ek bar.\\nCustomer: Yaha dekho bylead ka jo state ka hai na state ka search option pe jata hu search near city karke hai na dekho yaha andhra pradesh karke marta hu yaha to dekho yahi hai bas.\\nCustomer: Andhra.\\nCustomer: Ha dusra.\\nExecutive: Bylead sir aapko apne product ki bylead search karni hai na yahi bol rahe ho na aap sir.\\nCustomer: Haan ji accordingly state wise.\\nExecutive: Aapki aawaz clear nahi aa rahi hai mai ek bar call cut karke aapko kar rahi hu sir aawaz nahi aa rahi hai sir.\\nCustomer: Accordingly accordingly state wise madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to search state wise buyleads.\\n\n- Wants to know how to search buyleads.\\n\n\\n\nResolution:\\n\n- Executive asked to go to buylead section.\\n\n- Executive disconnected the call due to voice issue.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, search, state\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 216,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=70edf4ed-8aea-4388-9248-44eb3a6bbab0",
+  "ucid": "70edf4ed-8aea-4388-9248-44eb3a6bbab0",
+  "seller_categories": [
+    {
+      "mcat_id": "183305",
+      "mcat_name": "Water ATM"
+    },
+    {
+      "mcat_id": "20513",
+      "mcat_name": "RO Membranes"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    },
+    {
+      "mcat_id": "204197",
+      "mcat_name": "CRI High Pressure Pumps"
+    },
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    }
+  ]
+}

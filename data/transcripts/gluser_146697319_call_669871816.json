@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669871816",
+  "gluser_id": "146697319",
+  "vintage_months": 1,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Himatnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651589",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello bolna.\\nExecutive: Mane aap aadhe ghante mein phone kijiye na aadhe ghante ek ghante mein.\\nCustomer: Achcha. Theek hai saab.\\nExecutive: Haan. Theek theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to talk.\\n\n\\n\nResolution:\\n\n- Executive asked to call back in half an hour.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, time\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f0daa12-74d3-468d-87b0-a4fa755d2642",
+  "ucid": "1f0daa12-74d3-468d-87b0-a4fa755d2642",
+  "seller_categories": [
+    {
+      "mcat_id": "189353",
+      "mcat_name": "Apollo Car Tyres"
+    },
+    {
+      "mcat_id": "2581",
+      "mcat_name": "Truck Tyres"
+    },
+    {
+      "mcat_id": "149838",
+      "mcat_name": "Truck Radial Tyres"
+    },
+    {
+      "mcat_id": "215334",
+      "mcat_name": "Apollo Bike Tyres"
+    },
+    {
+      "mcat_id": "183872",
+      "mcat_name": "Block Jointing Mortar"
+    }
+  ]
+}

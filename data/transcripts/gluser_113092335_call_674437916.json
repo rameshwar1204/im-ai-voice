@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674437916",
+  "gluser_id": "113092335",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan boliye madam.\\nCustomer: Hello\\nHanji good morning sir, se baat kare.\\nExecutive: Good morning boliye. Haan mujhe malum malum hai boliye. Boliye madam.\\nCustomer: Accha accha. Theek hai sir aap mujhe ek baar jo aapne apna executive appoint kiya hai aap mere unse baat kara doge ek baar.\\nExecutive: Main aapko ek kaam karo. 10:30 ke aas paas call kar do barabar yahi number pe lagega na call ye number pe.\\nCustomer: Haan nahi nahi main aapko message kar rahi hu. Hello. Main aapko WhatsApp pe message kar rahi hu us number pe call karana hai.\\nExecutive: Okay theek hai karwata hu theek hai. Okay.\\nCustomer: Haan haan main theek hai theek hai kab kara doge time bata sakte ho?\\nExecutive: 10:30 10:30 ke aas paas call kar dunga main aapko barabar hai na haan.\\nCustomer: Accha accha theek hai sir okay theek hai.\\nExecutive: Okay theek hai okay.\\nCustomer: Okay sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to the appointed executive.\\n\n\\n\nResolution:\\n\n- Executive assured to call around 10:30 AM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- executive, call, whatsapp\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68b56973-cf96-4b47-938d-191239519e62",
+  "ucid": "68b56973-cf96-4b47-938d-191239519e62",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "1686",
+      "mcat_name": "Safety Relays"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "167489",
+      "mcat_name": "Bus Coupler"
+    },
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    }
+  ]
+}

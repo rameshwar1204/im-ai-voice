@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669438921",
+  "gluser_id": "27100783",
+  "vintage_months": 14,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Bidasar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702421",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Ji.\\nCustomer: Haan ji sir.\\nCustomer: Hello, aawaz aa rahi hai?\\nExecutive: Aa rahi hai.\\nCustomer: Haan ji. Ji ji. Main ye keh rahi hu ki aapne bola tha aapko groundnut seeds ki buyleads nahi aa rahi hai, right?\\nExecutive: Ji.\\nExecutive: Ji. Aap amla ki, aloe vera leads ki baaki products ki leads ko consume karenge toh waisa hi aapka preference banta jayega. Abhi aap groundnut seeds ki leads jab consume karne lagenge toh aapka usme preference ban jayega. Maine aapko starting me bhi bataya tha jab welcome call diya tha ki aap jo buyleads zyada consume karenge aapko usi se related buyleads zyada se zyada provide hongi.\\nExecutive: Jaise aap turmeric leads consume kar rahe the aapko turmeric leads aane lagi. Aap amla ki leads to amla ki leads aane lagi hai.\\nExecutive: Waise groundnut seeds ki jo leads ka aapka issue hai.\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads for groundnut seeds.\\n\n\\n\nResolution:\\n\n- Explained that consuming specific leads increases their frequency.\\n\n- Explained that consuming more buyleads will provide more leads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, groundnut seeds, preference\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fe701164-e73f-40ef-8229-bffd3510cf3e",
+  "ucid": "fe701164-e73f-40ef-8229-bffd3510cf3e",
+  "seller_categories": [
+    {
+      "mcat_id": "44914",
+      "mcat_name": "Bajra"
+    },
+    {
+      "mcat_id": "148158",
+      "mcat_name": "Aloe Vera Leaf"
+    },
+    {
+      "mcat_id": "180387",
+      "mcat_name": "Nagarmotha"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "106964",
+      "mcat_name": "Amla"
+    }
+  ]
+}

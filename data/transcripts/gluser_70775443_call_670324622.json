@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670324622",
+  "gluser_id": "70775443",
+  "vintage_months": 50,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: India Mart se baat kar rahi hai mam?\\n\\nCustomer: Haan ji.\\nExecutive: Hello.\\nCustomer: India Mart se baat kar rahi hai.\\nExecutive: Ji sir.\\nCustomer: Haan ji haan ji sir. account hai. Mera ek account hai 9219632516 number se export logs ke naam se.\\n\\nExecutive: Achha.\\nCustomer: Okay. To usme kal humne payment kal humne payment kari hai 37120 ki ek year MDC ki.\\nExecutive: Okay.\\nCustomer: Wo credit card se process ho gaya hai aapki taraf payment bhi shayad pata nahi kya ho gaya hai par mere ko bank se call aa raha hai ki bank ne payment release kar diya par aapke India Mart ne claim nahi kara hai wo amount.\\n\\nExecutive: Sir aap main abhi lunch pe hu. Main aapko 10 se 15 minute pe call back karti hu aur ek bar check kar leti hu ki aapka kis account pe payment aayi hai, theek hai? Okay.\\nCustomer: Ji ji ji okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment of \u20b937,120 not reflected in IndiaMART account.\\n\n\\n\nResolution:\\n\n- Executive will call back in 10-15 minutes.\\n\n- Executive will check payment status.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, account, mdc\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3a2b6428-5447-4556-95f0-aea801fc3fa4",
+  "ucid": "3a2b6428-5447-4556-95f0-aea801fc3fa4",
+  "seller_categories": [
+    {
+      "mcat_id": "445546",
+      "mcat_name": "Matcha Tea"
+    },
+    {
+      "mcat_id": "651249",
+      "mcat_name": "Ramen Noodle"
+    },
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "139050",
+      "mcat_name": "Green Tea Leaves Powder"
+    },
+    {
+      "mcat_id": "74504",
+      "mcat_name": "Paper Coffee Bag"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668094037",
+  "gluser_id": "48895522",
+  "vintage_months": 88,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638683",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, haan ji sir.\\nCustomer: Haan madam boliye.\\nExecutive: Haan ji sir bataiye.\\nCustomer: Dekho main aapko bata raha hun.\\nExecutive: Meeting pe aa sakte ho sir aise nahi samajh aa payega na ki mujhe.\\nCustomer: Chalo main main video meeting pe hi aa raha hun magar usme pata hai kya hai mera dusra phone nahi hai yahi phone hai isi phone pe main kar sakta hun bolo.\\nExecutive: Isi phone se join kar lo sir main to vaise bhi link share karungi na.\\nCustomer: Theek hai, theek hai, theek hai. Bhejo bhejo mere ko link main main karta hun.\\nExecutive: Main aapko main apne manager ko bhi le leti hun na to vo bhi aapko bata denge ki matlab kya hai.\\nCustomer: Theek hai aap jaldi jaldi karo jaldi mera itna time nahi hai mere paas jaldi aap karo.\\nExecutive: Maine share kar diya hai sir aap join kar lijiye.\\nCustomer: Ek minute ek minute main main karta hun.\\nExecutive: Haan.\\nCustomer: [Unintelligible]\\nExecutive: Sir ek minute bata do.\\nCustomer: [Unintelligible]\\nExecutive: Haan bhai bol.\\nCustomer: [Unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help understanding something.\\n\n- Customer has limited time.\\n\n\\n\nResolution:\\n\n- Executive shared a meeting link with the customer.\\n\n- Executive offered to include manager in meeting.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, link, manager\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ce771bc-2000-4045-acd3-d45485395d22",
+  "ucid": "0ce771bc-2000-4045-acd3-d45485395d22",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "157608",
+      "mcat_name": "Dried Blueberries"
+    }
+  ]
+}

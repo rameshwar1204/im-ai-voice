@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670352699",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello madam.\\nCustomer: Haan ji madam, aaiye.\\nExecutive: Sir abhi main link bheju aapko?\\nCustomer: Haan. Kis mein bhejte ho? Whatsapp? Link nahi toh text message.\\nExecutive: Hello.\\nCustomer: Haan, link kaise bhejte hain madam?\\nExecutive: Sir main aapko link bhej rahi hoon whatsapp pe, aap join kariye.\\nCustomer: Ji.\\nExecutive: Haan, main aapko link bhej rahi hoon whatsapp pe, theek hai?\\nCustomer: Okay, okay.\\nExecutive: Haan, join kariye aap.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks how the link will be sent.\\n\n\\n\nResolution:\\n\n- Executive will send the link via WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp link\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=571f1e5a-ba31-44b5-a09d-ce816d9e6234",
+  "ucid": "571f1e5a-ba31-44b5-a09d-ce816d9e6234",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

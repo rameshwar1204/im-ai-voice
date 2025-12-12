@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670396857",
+  "gluser_id": "25081246",
+  "vintage_months": 12,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661526",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nHello.\\nHello.\\nHello.\\nHaan ji Monu ji.\\nHaan ji. Haan namaskar Aadarsh bol raha hu sir India Mart se. Kal baat hui thi aapse yaad hoga.\\nJi.\\nKal discussion ho nahi paya tha aap online aa nahi paye the. Aapne morning mein time diya tha morning pe bhi aapse baat ho nahi payi. To abhi aap online aap aaoge sir?\\nAbhi main aapko thodi der mein karta hu call aadhe ghante mein.\\nMain abhi thoda sa gaadi pe hu.\\nKoi nahi aadhe ghante aadhe ghante mein time nikal lena sir 5 minute ka theek hai.\\nThik hai.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive was unavailable for a scheduled discussion and could not be reached in the morning.\\n\n\\n\nResolution:\\n\n- A call is scheduled in half an hour.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, follow up, call schedule\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9932d2be-8b9f-479f-8fb9-495421663efd",
+  "ucid": "9932d2be-8b9f-479f-8fb9-495421663efd",
+  "seller_categories": [
+    {
+      "mcat_id": "179202",
+      "mcat_name": "Marble Hanuman Statue"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "163243",
+      "mcat_name": "Ram Darbar Marble Statue"
+    },
+    {
+      "mcat_id": "656092",
+      "mcat_name": "Marble Khatu Shyam Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    }
+  ]
+}

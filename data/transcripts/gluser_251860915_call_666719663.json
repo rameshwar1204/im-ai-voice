@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666719663",
+  "gluser_id": "251860915",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Jaunpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9721206",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji good morning sir, mai Oza Raza baat kar raha hu IndiaMART se aapka account manager.\\nCustomer: Ha ha.\\nExecutive: Congratulations sir, aapki services first ho gayi hai. Aapko malum hi hoga sir IndiaMART pe. To uske liye aapne complaint raise kiya tha sir video meet ka. Yaad hoga sir ek aapke October ko.\\nCustomer: Kaise complaint?\\nExecutive: Jo ki aapne video meet ka raise kiya tha aapne app pe jaake shayad raise kiya hoga. Aur kuch samajhna tha aapke bare me isliye kiya tha.\\nCustomer: Achha ji ji. To mai aapka account manager baat kar raha hu to mai aapko ek welcome call first lunga jisme mai aapko sara kuch sikhaunga, right?\\nCustomer: Aap mujhe 11 baje phone karoge?\\nExecutive: 11 baje okay. To thik hai to 11 baje aap thik hai? Thik hai to 11 baje aap free reh jayega okay sir.\\nCustomer: Ha ha.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the complaint raised.\\n\n\\n\nResolution:\\n\n- Executive will take a welcome call to explain services.\\n\n- Agreed to connect at 11:00 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 11:00 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account management, welcome call, video meet\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e0a043e8-632a-45d5-be83-04640cc1bd6e",
+  "ucid": "e0a043e8-632a-45d5-be83-04640cc1bd6e",
+  "seller_categories": [
+    {
+      "mcat_id": "3719",
+      "mcat_name": "Chana Dal"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "186119",
+      "mcat_name": "Jeera Biscuit"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668739818",
+  "gluser_id": "183065260",
+  "vintage_months": 14,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, sir aapse PMO baat kar raha hu sir, mai keh raha hu baat ho gayi aapki manager se?\\nExecutive: Haan, ho gayi sir.\\nCustomer: Theek hai, maine jaise baat ho gayi.\\nCustomer: Haan, toh sir vahi hai aapka refund ke liye unhone bata diya hoga ki.\\nExecutive: Jo bhi service use hui hai aapki utne din ka katega. Baki jo bhi hoga aapka refund ke liye.\\nCustomer: Haan. Toh tab tak toh chalu rahega na aisa bolta hu.\\nExecutive: Haan, jab tak agar close nahi hogi hamare yaha se tab tak chalu rahega.\\nCustomer: Aisa refund nahi aayenge tab tak toh chalu rahega hai na?\\nExecutive: Haan tab tak chalu rahega bilkul bilkul. Haan aur inquiry bhi chalu rahegi na sir?\\nExecutive: Haan tab tak rahegi sir. Inquiry toh lifetime rahegi na woh?\\nExecutive: Inquiry lifetime kaise rahegi sir woh toh aapke baat hui hogi na.\\nCustomer: Haan.\\nExecutive: Free mein jitni inquiry agar aati hogi toh aayenge free mein inquiry ki guarantee kaun dete hai hum.\\nCustomer: Hmm. Aisa hai.\\nExecutive: Theek hai sir aap yeh aa jayega aapke bank mein dekhiye 10-15 din lagenge. Abhi fir mai aapke isko ticket close kar deta hu uske baad hum log initiate refund initiate kar dete hai aapke, theek hai?\\nCustomer: Haan haan.\\nCustomer: Koi baat nahi kara do refund, theek hai?\\nExecutive: Haan mai isko ticket close kar raha hu aap isko dekh lijiyega theek hai aapke paas close ka section mein woh aayega aapko dekh lijiyega theek hai sir.\\nCustomer: Okay okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the refund status.\\n\n- Customer asked about the inquiry validity.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund will be initiated.\\n\n- Executive confirmed account will be active till refund.\\n\n- Executive clarified inquiry validity is not lifetime.\\n\n- Executive will close the ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, inquiry, subscription\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=607fdab2-f49d-49c9-8381-2aba95903a20",
+  "ucid": "607fdab2-f49d-49c9-8381-2aba95903a20",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    }
+  ]
+}

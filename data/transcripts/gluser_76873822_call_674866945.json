@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674866945",
+  "gluser_id": "76873822",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722581",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello.\\nHello, good morning sir.\\nGood morning.\\nHello, good morning sir, Pooja this side from India Mart.\\nMadam, the problem is I'm with office office is very very busy. I cannot even talk also. This is the biggest problem with India Mart is now. I'm very busy. I'm not able to spare time.\\nOkay, but aapne mujhe morning ka call kiya tha na?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and cannot talk.\\n\n- Customer states that not being able to spare time is the biggest problem with India Mart.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to frustrated.\\n\n\\n\n\\n\n@@@Key Topics:\\n\nbusy, time, india mart\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f16dded6-c051-4082-a27e-b5c1fba57dec",
+  "ucid": "f16dded6-c051-4082-a27e-b5c1fba57dec",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "444098",
+      "mcat_name": "Ertapenem Injection"
+    },
+    {
+      "mcat_id": "162286",
+      "mcat_name": "Tenofovir Tablet"
+    },
+    {
+      "mcat_id": "445971",
+      "mcat_name": "Ferric Carboxymaltose injection"
+    }
+  ]
+}

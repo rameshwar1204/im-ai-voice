@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669666454",
+  "gluser_id": "5251387",
+  "vintage_months": 49,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656336",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hi, good morning, sir. ${Exec_Name} speaking, I was talking from IndiaMART. How are you?\\nExecutive: Good, ma'am. Very good, sir, very good.\\nCustomer: I was saying that yesterday you had called, right? That regarding...\\nCustomer: Ha, yesterday I had called. Sir, my concern was a little bit this, right?\\nExecutive: Okay, okay. Hello.\\nCustomer: Yes, sir, tell me.\\nExecutive: Yes.\\nCustomer: Yes, a little bit concern was this, sir, like suppose, suppose, for any specific day or particular day, I want to know.\\nExecutive: Hmm, hmm, hmm.\\nCustomer: Hello, sir, in which per day, how many inquiries have come?\\nExecutive: Okay.\\nCustomer: How many inquiries have come, right?\\nExecutive: Hmm, hmm.\\nCustomer: So, its data comes, but if I want to export it in Excel or in my own, like in that.\\nExecutive: Hmm.\\nCustomer: So, how can it be done?\\nExecutive: Sir, I had told you yesterday that for that, we either through API key, we can have our CRM, if we have, so on that directly, it will go to our side. Otherwise, there is no way that we can directly accept forward it.\\nCustomer: Import, can we import? Can't we import like any date's data or something?\\nExecutive: Sir, that import happens, but it happens through CRM only.\\nCustomer: CRM through will happen?\\nExecutive: Yes, yes.\\nCustomer: Because earlier we used to import it, right?\\nExecutive: Earlier also, if you are doing, sir, then you would be doing through CRM only.\\nCustomer: Starting through it happens, right? Okay.\\nCustomer: Okay, sir, I wanted to ask this a little bit.\\nExecutive: Okay, okay. So, now the filter that I told you yesterday, so after applying that, you have checked your data of specific date?\\nCustomer: Check, we are checking, but in that what is happening is that single single, we have to copy and pick it up.\\nExecutive: Yes, yes. So, do you have any CRM that you use?\\nCustomer: CRM, we used to use it.\\nExecutive: So, you can tell me.\\nCustomer: We used to use it.\\nExecutive: You are not using it now?\\nCustomer: No, now we are not using it.\\nExecutive: Okay, okay. But in case if you use CRM in future, then you tell me, I will add API key on your profile. I will provide you so that you can use it directly.\\nCustomer: Okay, I will do like this.\\nExecutive: Okay.\\nCustomer: The ma'am in our team who handles these things, right?\\nExecutive: Yes, yes.\\nCustomer: So, I will share your number to them once.\\nExecutive: You give my this number, sir. I, Krishna sir has my number and Saurav sir also has my number. I am telling you my number, you note down.\\nCustomer: Tell me.\\nExecutive: You had called on our customer care number, right? 88.\\nCustomer: Yes, because I was not able to note down your number. Tell me, sir.\\nExecutive: You save, you save my number. 8871.\\nCustomer: Uh-huh.\\nExecutive: 78\\nCustomer: Ji.\\nExecutive: 0043.\\nCustomer: Okay, sir, if something happens, then I will get you called.\\nExecutive: If something happens to you, then you can call on this number. Second, I wanted to ask this on your profile, there are many, four categories are there in our profile which are D rank categories.\\nCustomer: Yeah, we are doing that in our team, we are doing that, I will get it done today.\\nExecutive: No, no, I am not talking about rating, sir. Like air compressor.\\nCustomer: Rating, category, category add on karne ke liye na?\\nExecutive: No, no, these categories are like air compression repair, do you work on it?\\nCustomer: Ha ji.\\nExecutive: Air compressor repair pe kaam karte ho aap?\\nCustomer: Nahi nahi us par nahi karte sir usko change karwa raha hu.\\nExecutive: Change karwa rahe ho? Air compressor spare pe?\\nCustomer: Nahi nahi usko thoda kam kar diya abhi humne na.\\nExecutive: To aap ek kaam kariye sir, char categories hain aapki. Ek air compressor repair hai, dusra Kirloskar compressor spare hai, teesra compressor oil hai, chautha exhaust filter hai. Ye char category ki na aapki team ne lead to consume ki hai but hamare profile pe ye add nahi hai.\\nExecutive: To main screenshot aapko whatsapp kar deta hu. Aap setting pe jaake ise ya to remove kar lena agar aap deal karte ho to ise add kar sakte ho aap profile pe.\\nCustomer: Chalo main karwata hu sir isko aaj. Ek bar karunga to main aapko call karunga sir ispe ek bar na.\\nExecutive: Aap ha mere number pe call kar lena. Dusra aapne na 9696 hamare customer care pe call kiya tha to hamari taraf se ek internal ticket open ho gayi hai. Use hum yaha se close kar de rahe hain. Aapke pass ek feedback aayega sir usme feedback mein aap provide kar dena hume.\\nCustomer: Thik hai thik hai done sir done done.\\nExecutive: Okay okay thank you sir.\\nCustomer: Krishna sir aa gaye kya office abhi?\\nExecutive: Krishna sir?\\nCustomer: Krishna sir office aa gaye hain abhi?\\nExecutive: Nahi abhi nahi sir abhi nahi aaye wo.\\nExecutive: Achha achha abhi nahi aaye. Chaliye thik hai sir.\\nCustomer: Thik hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to export data in excel.\\n\n- Wants to know if Krishna sir is available.\\n\n- Wants to change the category.\\n\n\\n\nResolution:\\n\n- Informed CRM is needed for data export.\\n\n- Executive shared his contact number.\\n\n- Agreed to share the feedback.\\n\n- Executive shared screenshot of categories to remove.\\n\n\\n\nNext Steps: \\n\n- Customer will call after checking categories.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- crm, data export, categories, api key\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 303,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6ab4037-d42d-4b58-9ac7-311238c15b34",
+  "ucid": "d6ab4037-d42d-4b58-9ac7-311238c15b34",
+  "seller_categories": [
+    {
+      "mcat_id": "1322",
+      "mcat_name": "Hydraulic Filters"
+    },
+    {
+      "mcat_id": "3196",
+      "mcat_name": "Air Compressor Spares"
+    },
+    {
+      "mcat_id": "539",
+      "mcat_name": "Air Filters"
+    },
+    {
+      "mcat_id": "184758",
+      "mcat_name": "Screw Compressor Spare"
+    },
+    {
+      "mcat_id": "547",
+      "mcat_name": "Oil Filters"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673139798",
+  "gluser_id": "249462066",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Ghazipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694019",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Mai Giriraj Apsu.\\nCustomer: Hanji good morning sir.\\nExecutive: Mai construction se bol raha hu.\\nCustomer: Construction se bol raha hu. Mera service abhi tak live nahi hai.\\nCustomer: KGM construction sir. KGM construction se.\\nExecutive: Ha.\\nExecutive: Accha accha ha bataiye sir.\\nCustomer: Mai preferred star liya hai mera service abhi tak live nahi hai.\\nExecutive: Accha aapne preferred star service li hai aur aapki services live nahi hui aap ye keh rahe ho.\\nExecutive: Sir aapka na PNS number add nahi hai. That's why aapki services live nahi ho pa rahi hai. Call kar rahi hai aapko team backend ki hamare yaha se jo production team hai.\\nCustomer: Mera ek hi number hai agar service live karna hai to kariye nahi to paisa refund kar dijiye.\\nExecutive: Sir ek number koi aapka matlab koi additional as a marketing person ya koi aapka secondary number hai to aapko add hi to karna hai friend ya family jo bhi aapka matlab services.\\nCustomer: Nahi karega. Mera number nahi hai. Hai to mera paisa refund kar dijiye.\\nExecutive: Sir abhi aisa karo theek hai koi nahi koi nahi aap aisa karo abhi temporary basis pe add kar do fir aapka jo account manager hai wo add karwa dega. Ji number hai.\\nCustomer: Sir bina ek number ke aap ek hi number tha to ek me ek number dene ke liye.\\nExecutive: Mai aapko batata hu sir mai actually batata hu kya hota hai dekho star me kya hai na jab services live hoti hai.\\nCustomer: Mere ko itna baat sunne ka time nahi hai agar hota hai to karwao nahi to paisa refund kar dijiye.\\nExecutive: Sir ek cheez batata hu dikkat kya aayegi dekho sir jab call aayegi na customer ki jab preferred star ko customer dekhta hai na.\\nCustomer: Wo call aayega mera kam aayega mai sambhal lenge. Usme koi dikkat nahi.\\nExecutive: Theek hai koi nahi. Koi nahi mai fir senior se unki baat karata hu abhi aapki.\\nCustomer: Itna din ke liye mera paisa aaj tak aaj refund kar dijiye. Mai abhi kar.\\nExecutive: Mai sabse badhiya bata raha hu aap ek number add karo services abhi live ho jayegi aap to kaam badha rahe ho aap.\\nCustomer: Nahi nahi koi service live add karne wala nahi hai number itna nahi hai. Vijay man ne ka itna paisa nahi hai.\\nExecutive: Nahi recharge karna nahi hai bilkul band wala number bhi.\\nCustomer: Abhi koi mera number ek hi number mai use karta hu.\\nExecutive: Theek hai mai ek bar discuss karta hu. Theek hai fir aapko update karta hu.\\nCustomer: Aap kaun bol rahe hai?\\nExecutive: Mai matlab ye matlab India Mart se hi baat kar raha hu sir customer care team se.\\nCustomer: Naam naam bolne ke liye kya dikkat aa raha hai?\\nExecutive: Nitin hai sir naam dikkat kya aayegi sir.\\nCustomer: Naam to batao.\\nExecutive: Ha bata to diya Nitin hai sir.\\nCustomer: Nitin.\\nExecutive: Hanji hanji.\\nCustomer: Abhi tak service live nahi ho raha hai 15 din.\\nExecutive: Mai samajh gaya aapki problem samajh gaya aapki services live nahi hai abhi mai discuss karke fir aapko aapko unke senior call karte hai abhi. Actually morning me office open hota hai na to abhi koi matlab itni jaldi call nahi utha pata. That's why mere pe call aayi hai. Koi dikkat nahi.\\nCustomer: 15 din se service live nahi ho raha hai samajh me nahi aa raha hai.\\nExecutive: Baki ek bas aaya to aapko ek concern jo mujhe dikha aapka PNS number ek number aur add ho jayega chahe aap band wala number laga do koi bhi number laga do X Y Z apni wife ka apne bete ka koi bhi.\\nCustomer: Koi number nahi hai aisa.\\nExecutive: Sir ghar me phone number to hote hai do teen number aise thodi hai ki number nahi hai.\\nCustomer: Phone to aap hi aayegi. Phone to aap hi aayega sir.\\nCustomer: Jarurat nahi hai mere ko paisa refund hi kar dijiye.\\nExecutive: Theek hai mai ek bar baat kar leta hu fir aapko update karta hu sir.\\nExecutive: Theek hai. Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Service not live after taking preferred star.\\n\n- Wants refund if service cannot be activated.\\n\n- Refuses to add another number for verification.\\n\n\\n\nResolution:\\n\n- Executive explained PNS number needed for activation.\\n\n- Executive offered temporary number addition.\\n\n- Executive will discuss with senior and update customer.\\n\n\\n\nNext Steps: \\n\n- Executive will discuss with senior and update customer.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- preferred star, pns number, service activation, refund\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 199,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=34cb8911-cd26-47da-84eb-cca261d2a4ef",
+  "ucid": "34cb8911-cd26-47da-84eb-cca261d2a4ef",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "148874",
+      "mcat_name": "Water Tank Construction Services"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168570",
+      "mcat_name": "Unskilled Labour Service"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675033924",
+  "gluser_id": "53667749",
+  "vintage_months": 38,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jamshedpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Haan sir call kiya tha aapne?\\nCustomer: Nahi nahi is number se nahi hai kaun number se kiya hua hai.\\nExecutive: Ah acha ye kisi ka number hai 180 wala.\\nCustomer: Haan 180 wala usse kiya.\\nExecutive: Aap kiska number hai sir ye?\\nCustomer: Ye mera naam Aditya hua.\\nExecutive: Inka ye kiska number hai 180 wala is number se.\\nCustomer: Ho sakta hai sir.\\nExecutive: To sir ne call kiya hai kya India Mart ko? Ho sakta hai wahi kiye honge hum to nahi kiye.\\nExecutive: Achcha achcha theek hai theek hai.\\nExecutive: Theek hai thank you.",
+  "summary": "\\n\nConcerns:\\n\n- Call received from an unknown number.\\n\n\\n\nResolution:\\n\n- Executive confirmed the call might have been made to India Mart.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nunknown caller, india mart\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=35567819-2b41-430d-afb5-c005a87c81e2",
+  "ucid": "35567819-2b41-430d-afb5-c005a87c81e2",
+  "seller_categories": [
+    {
+      "mcat_id": "156193",
+      "mcat_name": "Colour Coated Roofing Sheet"
+    },
+    {
+      "mcat_id": "182945",
+      "mcat_name": "TATA Galvanized Roofing Sheets"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "2475",
+      "mcat_name": "TMT Bars"
+    },
+    {
+      "mcat_id": "138468",
+      "mcat_name": "MS Square Pipe"
+    }
+  ]
+}

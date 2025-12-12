@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674699562",
+  "gluser_id": "73521768",
+  "vintage_months": 1,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? \\nExecutive: Haan, kaun? Haan boliye. \\nCustomer: Shivam baat kar raha hun Karnal se IndiaMART se. \\nExecutive: Haan boliye, boliye Shivam ji. \\nCustomer: Haan haan, isme sir hamara ye chal raha tha na cover mold ka cover ka conversation jo. \\nCustomer: Usi ke related maine call kiya hai. \\nCustomer: To abhi hum thoda online connect kar le kya? \\nExecutive: Uh, abhi kar le online? \\nCustomer: Kya? \\nExecutive: Ek minute dekh lete hai, chalu karo. \\nCustomer: Haan haan, thik hai, thik hai. \\nExecutive: Online meeting ek minute me mere sir ko connect karke aapko paanch minute me call karta hun. \\nCustomer: Thik hai, thik hai, okay, okay. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect online regarding cover mold.\\n\n\\n\nResolution:\\n\n- Executive said he will connect with his sir.\\n- Executive will call back in five minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in five minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- online meeting, cover mold, call back\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9da602f0-1722-41f6-817e-e1ba7d45db88",
+  "ucid": "9da602f0-1722-41f6-817e-e1ba7d45db88",
+  "seller_categories": [
+    {
+      "mcat_id": "161156",
+      "mcat_name": "Box Culvert"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "221075",
+      "mcat_name": "Precast Concrete Machine"
+    },
+    {
+      "mcat_id": "36374",
+      "mcat_name": "Retaining Walls"
+    },
+    {
+      "mcat_id": "84185",
+      "mcat_name": "Column Mould"
+    }
+  ]
+}

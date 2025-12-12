@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671860666",
+  "gluser_id": "34937292",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638401",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji boliye madam.\\nCustomer: Ji good morning mam.\\nExecutive: Good morning. Good morning kaise hai aap?\\nCustomer: Good morning. Main achi hu aap bataiye aap kaise hai? Call karti hu to call kyu nahi lagti aapki?\\nExecutive: Hanji.\\nCustomer: Jab main aapko call karti hu to call kyu nahi lagti? Arshika ji baat kar rahi hai na?\\nCustomer: Hanji hanji is wale number pe hi karte ho aap call?\\nExecutive: Ji ha jo aapko usme de bhi rakha hai. Ye India Mart help main aap is number se milaungi na meri call lagegi hi nahi. Do teen din ho gaye call karte hue.\\nExecutive: Achcha maine to kal bhi aapko call ki thi aap na number mera likh lo ya fir main whatsapp pe aapko message kar dungi apne number se dusre wale se aap number likh lo aap.\\nCustomer: Ha theek hai.\\nExecutive: Abhi ye keh rahi thi ki mera wo ek to wo chal raha hai na ha boliye boliye aap.\\nCustomer: Ji main puch rahi hu abhi kya hua mam aapka uska approval ka aur kya aapne socha hai?\\nExecutive: Result aaya hai result aa gaya hai. Minimum hai lekin full aapki ye bhi result kafi hai agar dheere dheere badhegi ye cheeze. Hai na to ek complaint chal rahi hai aap usko close kar dijiye I am satisfied with the result.\\nCustomer: Okay mam okay. Achcha achcha okay mam thank you mam aur koi issue?\\nExecutive: Nahi filhal to nahi hai abhi main aaj thoda work nahi kar payi hu aaj main work try karungi agar mujhe koi bhi issue aata hai to mujhe whatsapp number jarur dijiye please taki main call kar saku.\\nCustomer: Hanji ha main dekh kar ke aapko message kar rahi hu apne number se. Okay mam okay theek hai. Thank you mam. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's calls not connecting.\\n\n- Enquired about approval status.\\n\n\\n\nResolution:\\n\n- Executive will share WhatsApp number.\\n\n- Informed about result and closing complaint.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connectivity, approval, result, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=74d37855-ba4c-4723-b183-55c4f298763e",
+  "ucid": "74d37855-ba4c-4723-b183-55c4f298763e",
+  "seller_categories": [
+    {
+      "mcat_id": "87923",
+      "mcat_name": "Placement Service"
+    },
+    {
+      "mcat_id": "101797",
+      "mcat_name": "Typing Services"
+    },
+    {
+      "mcat_id": "87924",
+      "mcat_name": "Recruitment Service"
+    },
+    {
+      "mcat_id": "132975",
+      "mcat_name": "Technical Support Service"
+    },
+    {
+      "mcat_id": "167900",
+      "mcat_name": "Account Management Service"
+    }
+  ]
+}

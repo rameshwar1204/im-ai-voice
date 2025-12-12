@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671343959",
+  "gluser_id": "45985092",
+  "vintage_months": 46,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, ek cheez aur mujhe bata dijiye bas.\\nCustomer: Ha bataiye.\\nExecutive: Customer mein hu customer mein hu mera rajesh bol raha hu.\\nExecutive: Ek minute aap used industrial motor mein deal karte hai ya nahi karte hai?\\nCustomer: Ha karta hu.\\nExecutive: Aur Bharat bijli AC motor mein isme bhi karte hai?\\nCustomer: Nahi Bharat bijli mein nahi.\\nExecutive: Thik hai used industrial motor kyuki iski lead consume kiya tha to main ye keyword aapke catalog mein add kara deta hu, thik hai?\\nCustomer: Used electric motor hai three phase hai old and used hai.\\nExecutive: Ha samajh gaya main used industrial motor.\\nCustomer: Ha.\\nExecutive: Thik hai add kara deta hu. electric motor keyword hai.\\nExecutive: Samajh gaya wo sare added hai.\\nExecutive: Wo sare added hai yahi ek keyword tha jiske ki aap lead lete hai lekin ye catalog mein add nahi tha isliye maine bola hai, thik hai?\\nCustomer: Ji, ji, ji.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to confirm about industrial motor.\\n\n\\n\nResolution:\\n\n- Executive confirmed to add the keyword in catalog.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, keyword, industrial motor\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=458d67c5-a23f-4d79-b3fc-f734bc03c8aa",
+  "ucid": "458d67c5-a23f-4d79-b3fc-f734bc03c8aa",
+  "seller_categories": [
+    {
+      "mcat_id": "126348",
+      "mcat_name": "Crompton Greaves Motor"
+    },
+    {
+      "mcat_id": "53817",
+      "mcat_name": "Used Electric Motor"
+    },
+    {
+      "mcat_id": "1274",
+      "mcat_name": "Electric Motor"
+    },
+    {
+      "mcat_id": "52930",
+      "mcat_name": "Three Phase Electric Motor"
+    },
+    {
+      "mcat_id": "2415",
+      "mcat_name": "Three Phase Motor"
+    }
+  ]
+}

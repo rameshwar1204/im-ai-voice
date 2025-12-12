@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666900873",
+  "gluser_id": "223004178",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji sir, main Akanksha, IndiaMART se baat kar rahi hoon.\\nCustomer: Bataiye ma'am. Hello, thoda jaldi.\\nExecutive: Main haan main yeh bol rahi hoon aapka catalog jo aapne bataya tha woh saara maine update kar diya hai. Description wagera bhi nahi dala tha kisi pe woh bhi maine daal diya hai, theek hai? Proper update kar diya hai. Baaki images main baad mein dekh lungi. Toh main ticket close kar rahi hoon abhi ke liye. Aapko koi cross check karke mujhe call back kar lijiyega. Abhi mere personal number pe.\\nCustomer: Abhi close kijiye. Haan haan main waise kar lunga. Aap close kijiye main kisi ke saath baitha hoon main abhi.\\nExecutive: Theek hai na? Aapko jo theek lag raha hai woh kar dijiye. Sir, mere personal number pe call kar dijiyega koi dikkat ho toh.\\nCustomer: Ji ji ji ji ma'am ji ma'am.\\nExecutive: Aur sir, abhi ek feedback ka message aayega aapko, uss pe mujhe positive rating de dijiyega. Okay?\\nCustomer: Theek hai, badhiya. Woh aap chinta mat kijiye sir, woh main dekh lunga.\\nExecutive: Okay, sir. Theek hai. Thank you.\\n",
+  "summary": "\\n\\nConcerns:\\n- Customer was in a hurry and wanted the call to be quick.\\n\\nResolution:\\n- Informed that the catalog and product descriptions have been updated as requested.\\n- Stated that images would be checked later.\\n- Closed the ticket for the time being.\\n- Provided a personal number for any further issues.\\n- Requested a positive rating on the feedback survey.\\n\\nNext Steps: \\nIssue resolved. The customer will cross-check the updates and provide feedback.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- catalog update, product description, ticket closure, feedback request\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59d5f283-a7d2-42f1-970e-6305d014baed",
+  "ucid": "59d5f283-a7d2-42f1-970e-6305d014baed",
+  "seller_categories": [
+    {
+      "mcat_id": "106593",
+      "mcat_name": "FRP Pot"
+    },
+    {
+      "mcat_id": "84854",
+      "mcat_name": "Fiberglass Planter"
+    },
+    {
+      "mcat_id": "187053",
+      "mcat_name": "Fiber Flower Pot"
+    },
+    {
+      "mcat_id": "25563",
+      "mcat_name": "Decorative Planter"
+    },
+    {
+      "mcat_id": "34995",
+      "mcat_name": "Plastic Pot"
+    }
+  ]
+}

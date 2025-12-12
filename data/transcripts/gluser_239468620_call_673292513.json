@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673292513",
+  "gluser_id": "239468620",
+  "vintage_months": 10,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hmm.\\nExecutive: Piyush ji link share kiya hai maine aapko whatsapp pe.\\nCustomer: Kis par?\\nExecutive: Sir video meet ka request dala hai na aapne complaint ticket raise kiya hai.\\nCustomer: Hmm.\\nExecutive: Dikkate kya wo issue hai wo category chali ja rahi hai iska kya karna.\\nExecutive: Sir aapne khud bhi dekha hoga Piyush sir ki aapki lagbhag kam se kam aapne jo photos bhi mere ko bheje wo 8 10 12 15 products ke bheje hain.\\nExecutive: Aur uske alava bhi aapke lagbhag 30 se 40 product ke categories vagaira missing the.\\nExecutive: Maine sara kuch add kiya sir ek do product aapki kuch kuch product reh ja rahi hai.\\nExecutive: Ab wo aapke sath ek do teen nahi hai bhai main niche niche ja raha hu to sab aa rahi hai maine to ye aayi isliye photo dala.\\nCustomer: Ruko main dalta hu dusra photo.\\nCustomer: Aisa nahi hai do panch 15 hai aisa thoda hai.\\nExecutive: Sir maine kal kam se kam aapki 25 se 30 categories mein ye categories add kari hai 25 se 30 aapne bhi check kiya hoga sir ki pehle jyada aapko dikh rahi hogi kal bhi maine 25 30 categories aapki add kari hai sir.\\nCustomer: Iska issue kya hai wo nikal ja rahi hai iska kuch solution to hona chahiye na main aisa bata raha hu.\\nExecutive: Yes sir solutions bilkul hai.\\nExecutive: Wo hota kya hai ki categories vagaira jaise ki aapki product ke according agar categories vagaira map nahi hoti hai to wo system already matlab automatically reject kar deta hai usko to usko product ke accordingly categories map karna hota hai to wo maine kal product ke according aapki baat kar rahe ho abhi abhi nikal aaye hai nikala hi nahi hai wo puraani listing thi abhi system ko pata chali.\\nCustomer: Oh.\\nCustomer: Voucher khatam hone varsh hone wale the tab pata chala ye category add nahi ho rahi hai.\\nExecutive: Nahi sir categories vagaira to aapki add hogi aisa nahi hai.\\nExecutive: Aap sir dekhiye hota kya hai aap samajh rahe ho na category abhi alag ho rahi hai isliye nahi ho raha hai aisa bata rahe ho na.\\nCustomer: Sir main ye dekho kitni category aisi hai sab sab mein wo nikal gaye hai iska solution laiye pehle.\\nExecutive: Bilkul main aapko chahiye to main dusra photo dalta hu mere pass bahut hai aisa.\\nExecutive: Sir aapko 10 15 aisi hi hai.\\nCustomer: Ye photo dalna chalu karta hu dekho aap pehle aap bata rahe ho na 10 15 hi baki hai dekho kitni ho rahi hai.\\nExecutive: Sir to aap photo dalne mein jitna aapne aur video meet ki hi wo daliye to aap aa jaiye video call pe aap mere ko main bhi rahunga sir aur usme hi main aapke samne hi add kar dunga aapko lag raha hoga kal aapne khud bhi dekha hoga sir ki maine 30 se 40 product ki kal add kari hai.\\nCustomer: Ha aap aa jao meeting pe aa jao dekh lete hai.\\nExecutive: Ji.\\nExecutive: Aap usko wo jo link aapko whatsapp pe bhi share kiya hoga maine aur aapke mail id pe bhi gayi hogi registered wali jo mail id hai us pe bhi gayi hogi.\\nCustomer: Start do minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's product categories are disappearing.\\n\nResolution:\\n\n- Executive explained the category mapping process.\\n\n- Executive offered to add categories during a video call.\\n\n\\n\nNext Steps: \\n\n- Customer agreed to join the video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- categories, video meet, product listing, solution\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 201,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=39fadea6-4bcb-419f-8d3c-4f1713d11440",
+  "ucid": "39fadea6-4bcb-419f-8d3c-4f1713d11440",
+  "seller_categories": [
+    {
+      "mcat_id": "30144",
+      "mcat_name": "Head Massager"
+    },
+    {
+      "mcat_id": "209032",
+      "mcat_name": "Eyebrow Trimmer"
+    },
+    {
+      "mcat_id": "30019",
+      "mcat_name": "Hand Tally Counter"
+    },
+    {
+      "mcat_id": "3323",
+      "mcat_name": "Wall Hooks"
+    },
+    {
+      "mcat_id": "17057",
+      "mcat_name": "Leather Jewelry Box"
+    }
+  ]
+}

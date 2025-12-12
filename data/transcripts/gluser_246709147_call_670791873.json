@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670791873",
+  "gluser_id": "246709147",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669840",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan hello\\nExecutive: Madam main Sandeep baat kar raha tha awaz aa rahi hai madam aapko\\nCustomer: Hello sorry\\nExecutive: Haan madam main Sandeep baat kar raha tha India Mart se Nilesh sir honge waha\\nCustomer: Actually wo abhi nahi hai available\\nExecutive: Achcha achcha nahi actually wo na wo complaint kuch raise kiye the India Mart pe ki unko business wagera nahi ja raha hai matlab aur south se jyada ja raha hai to unse discussion hua tha but ha bas uske baad ek video meeting pe maine kaha tha kyuki jo cheeze hai na wo video meeting pe hi main action wagera karane the kyuki wo kuch unka preferred location ho rakha tha wo hatwani thi mujhe but uske baad se wo fir call pe kahin aur busy ho gaye to aap bhi madam dekhte hai na ise\\nCustomer: Main dekhti hu par jyada to daddy dekhte hai to wo uthne ke baad main aapko call kar sakti hu a little busy right now and\\nExecutive: Achcha achcha sir so rahe hai kya abhi\\nCustomer: Haan haan to fir time lagega\\nExecutive: Kitna der mein kar lo aap ye batao\\nCustomer: Ek ghanta to lagega dopahar ki time hai wo phone off karke sote hai\\nExecutive: 4 baje wo free rahenge 4 4:30 kitna baje kar exact bata do aap\\nCustomer: 4:30 kar do call\\nExecutive: 4:30 theek hai madam ok ha ok fine thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting enough business.\\n\n- Preferred location needs to be removed.\\n\n\\n\nResolution:\\n\n- Executive asked to call back at 4:30 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 4:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, preferred location, follow up\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eace3522-87aa-47fb-84fe-8d878bb63a9b",
+  "ucid": "eace3522-87aa-47fb-84fe-8d878bb63a9b",
+  "seller_categories": [
+    {
+      "mcat_id": "152152",
+      "mcat_name": "Cotton Dhoti"
+    },
+    {
+      "mcat_id": "186426",
+      "mcat_name": "Cotton Printed Bed Sheet"
+    },
+    {
+      "mcat_id": "31958",
+      "mcat_name": "Men Kurtas"
+    },
+    {
+      "mcat_id": "177906",
+      "mcat_name": "King Size Bed Sheets"
+    },
+    {
+      "mcat_id": "8404",
+      "mcat_name": "Satin Bed Sheets"
+    }
+  ]
+}

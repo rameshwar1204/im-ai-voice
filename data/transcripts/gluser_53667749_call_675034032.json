@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675034032",
+  "gluser_id": "53667749",
+  "vintage_months": 38,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jamshedpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji India Mart se koi inquiry aapne bheja hai?\\nCustomer: Hello\\nExecutive: Yes.\\nExecutive: Hello.\\nCustomer: Hello, ji bataiye.\\nCustomer: India Mart se koi inquiry aapne bheja hai?\\nCustomer: India Mart se inquiry bheja hai?\\nCustomer: Ha.\\nCustomer: Aap India Mart se bol rahe the?\\nExecutive: Ji mai India Mart se bol rahi hu.\\nCustomer: To ek inquiry mere mail pe aayi thi.\\nCustomer: Aapke mail pe\\nCustomer: Aapka sir ek voice record kya aaya tha sir?\\nCustomer: 10:15 PM pe sir aaya.\\nExecutive: India Mart se sir waise call aaya hoga Aditya ji Sri Durga Iron and Steel ke regarding aapki baat hui hogi.\\nCustomer: Mai mail me aaya tha to isiliye mai puch raha tha ki ye kya hai kyuki wo\\nCustomer: Mo Mumun Rashid bolte koi hai.\\nExecutive: Thik hai.\\nCustomer: Mohammad Rashid\\nCustomer: Isko material parts\\nCustomer: Mo Mumun Rashid.\\nCustomer: Mohammad Rashid.\\nExecutive: Ek minute sir call hold pe rakhna aapko check karke.\\nExecutive: Ek minute, just call karte hai aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received an inquiry in his mail.\\n\n- Wants to verify the inquiry's authenticity.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold to check.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after verification.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry, verification, mail\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 122,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f604dc44-3287-4b10-a11b-10171f2190b5",
+  "ucid": "f604dc44-3287-4b10-a11b-10171f2190b5",
+  "seller_categories": [
+    {
+      "mcat_id": "156193",
+      "mcat_name": "Colour Coated Roofing Sheet"
+    },
+    {
+      "mcat_id": "182945",
+      "mcat_name": "TATA Galvanized Roofing Sheets"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "2475",
+      "mcat_name": "TMT Bars"
+    },
+    {
+      "mcat_id": "138468",
+      "mcat_name": "MS Square Pipe"
+    }
+  ]
+}

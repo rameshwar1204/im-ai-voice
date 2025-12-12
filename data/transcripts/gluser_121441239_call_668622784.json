@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668622784",
+  "gluser_id": "121441239",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Darbhanga",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647569",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji.\\nCustomer: Aryaman.\\nExecutive: Ji boliye. Avneesh baat kar raha hu Aryaman IndiaMART se.\\nCustomer: Avneesh bhai aap kahan the aap to bole Diwali ke baad hi chuttiyan khatam hone ke baad connect karenge. Are bhai sara catalog. Main is month aaya abhi haan. Aapko WhatsApp pe mujhe message karna chahiye tha ek bari. Mere paas number bhi nahi hai yaar save bhi nahi mere paas.\\nExecutive: Koi baat nahi. Oh.\\nCustomer: Haan bilkul aur batao kaise ho sir aap?\\nExecutive: Theek hu yaar bahut gandi ho rahi hai bhai aaja aaja pehle call pe aao. Aaja.\\nExecutive: Kya ho gaya?\\nCustomer: Lead nahi aa rahi hai yaar sahi batau. Lead nahi aa rahi hai? Achchi lead nahi aa rahi hai jo hamare products hai uske relevant nahi aa rahi hai. NFC business card ki ek lead aayi hai. NFC NFC hai hi nahi hamare paas. NFC hum log karna hi nahi chahte. Jo karna hai hume na RFID isme karna hai.\\nExecutive: NFC nahi karna chahte?\\nCustomer: Nahi chahte. NFC main usko na irrelevant bhi nahi karna chahta na hi reject but usko lena nahi chahta.\\nExecutive: Are to category ki mapping hui hai to category hai agar NFC ki to leads to aayengi na sir.\\nCustomer: Dekho aap ek baar kuch batao na. Aao na andar meeting mein meeting mein aao. Ek second aap line pe raho. Aap online line pe raho complaint aap apne complaint dala tha kya 9696 pe?\\nCustomer: Customer care number. Customer care number pe complaint dala tha kya aapne?\\nCustomer: Complaint nahi dala tha aapko direct profile mein jaake aapko request video pe click kiya tha.\\nExecutive: Kya?\\nCustomer: Request video pe click kiya tha. Wahan pe likhta hai na aapko dashboard pe.\\nExecutive: Achcha achcha. Main samajh gaya us pe kya hota hai na wo ek complaint open ho jati hai iske regarding aapke behalf pe.\\nCustomer: Batayiye agar main aise karunga tab aap mere ko call karoge na aap to call bhi nahi kiye matlab.\\nExecutive: Are main kya bolta hu thoda dhyan se hat jata hai Aryaman bhai uske liye sorry yaar. Ah maine aapke na registered mail pe ek link bheja hua hai.\\nCustomer: Hmm. Haan. Ek APM industries karke hai. APM industries nahi sorry. APM industries ka hai. Haan. Haan Aryaman889@gmail.com pe hai.\\nExecutive: Main check kar raha hu.\\nExecutive: Ek second sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving relevant buyleads.\\n\n- Wants resolution for the issue.\\n\n- Expressed dissatisfaction for not receiving a call.\\n\n\\n\nResolution:\\n\n- Executive apologized for the delay in calling.\\n\n- Executive sent a link to the customer's registered email.\\n\n\\n\nNext Steps: \\n\n- Customer will check the link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral | Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, nfc, rfid, complaint\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 161,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=23c668dd-ed0a-4143-ba77-6c22f1824fd3",
+  "ucid": "23c668dd-ed0a-4143-ba77-6c22f1824fd3",
+  "seller_categories": [
+    {
+      "mcat_id": "36401",
+      "mcat_name": "RFID Tag"
+    },
+    {
+      "mcat_id": "69908",
+      "mcat_name": "RFID Wristband"
+    },
+    {
+      "mcat_id": "36400",
+      "mcat_name": "RFID Card"
+    },
+    {
+      "mcat_id": "53080",
+      "mcat_name": "UHF Tag"
+    },
+    {
+      "mcat_id": "81020",
+      "mcat_name": "RFID Label"
+    }
+  ]
+}

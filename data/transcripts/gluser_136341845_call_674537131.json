@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674537131",
+  "gluser_id": "136341845",
+  "vintage_months": 2,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699764",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nCustomer: Sir, hi, kaise ho? Hi sir, kaise ho aap?\\nExecutive: Main achcha hoon, mam. Boliye mam.\\nCustomer: Aap aap meri call answer nahi kar rahe the sir actually.\\nExecutive: Main on the way hoon mam. Gaadi par hoon, drive kar raha hoon. To ek aad ghanta mujhe lagega pahunchne mein. Mujhe do 2:00 baje ke baad aap connect kariye mam.\\nCustomer: Theek hai, theek hai, main 2:00 baje ke baad karti hoon. Okay sir, bye bye.\\nExecutive: Okay mam, bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call was not answered.\\n\n\\n\nResolution:\\n\n- Executive stated they were driving and would be available after 2:00 PM.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 2:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ncall answer, availability\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=66a4007d-e214-47ef-a587-8f9b8f6be85d",
+  "ucid": "66a4007d-e214-47ef-a587-8f9b8f6be85d",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "88195",
+      "mcat_name": "Portable House"
+    },
+    {
+      "mcat_id": "315617",
+      "mcat_name": "Mild Steel Portable House"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

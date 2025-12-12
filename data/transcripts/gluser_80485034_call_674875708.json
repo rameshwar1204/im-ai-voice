@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674875708",
+  "gluser_id": "80485034",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Samastipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709990",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Sir aapne call disconnect kar di thi.\\nCustomer: Haan ji woh by mistake ho gayi.\\nExecutive: Ji?\\nCustomer: Ji theek hai ye main join karta hu zoom zoom.\\nExecutive: Ek second sir line pe rahe please.\\nCustomer: Okay.\\n\\nExecutive: Sir apna WhatsApp number bata de please.\\nCustomer: Eight ye WhatsApp number\\nExecutive: Eight\\nCustomer: Ek minute aap line pe WhatsApp number chahiye.\\nExecutive: 99\\nCustomer: 99\\nExecutive: 39 39 haan ji.\\nCustomer: 81\\nExecutive: 81\\nCustomer: 3141\\nExecutive: 31\\nCustomer: 3141\\nExecutive: Sir 9939813141.\\nCustomer: Haan ji.\\nExecutive: Sir ye WhatsApp pe number hai?\\nCustomer: Haan ji haan ji.\\n\\nExecutive: Ek bari hello reply kare sir mujhe.\\nCustomer: Theek hai ye number aapka hai na WhatsApp pe by the way.\\nExecutive: Ji haan ye mera hi number hai sir.\\nCustomer: Theek hai hello sir reply kar dena.\\nExecutive: Theek hai.\\n\\nExecutive: Ek second sir.\\nExecutive: Line pe dijiyega.\\nCustomer: Hello sir reply karna.\\nCustomer: Aap karo na.\\nCustomer: Haan ji haan ji aa gaya.\\nExecutive: Ek second sir.\\n\\nCustomer: Kya aawaj nahi aa rahi hai aapki phone mein phone mein.\\nCustomer: [unintelligible]\\nCustomer: Mere to aage piche hai lekin\\nCustomer: Apne aapke paas aapke account manager ka number nahi hai sir?\\nCustomer: Ji bataiye.\\nExecutive: Account manager ka number hai aapke paas?\\nCustomer: Account manager ka number?\\nExecutive: Haan ji jo aapka account handle karta hai sir IndiaMART se.\\nCustomer: Achcha account manager ka number hai? Haan hai.\\nExecutive: Unhone respond nahi kiya sir aapko?\\nCustomer: Na na main batata hu main ab maine call le li hai to main hi connect karta hu sir.\\nCustomer: Theek hai.\\n\\nExecutive: Video meeting ka ek link bheja hai sir.\\nCustomer: Ek second isme kya kya check kar lete hai. Ek bari check kariye please.\\n\\nCustomer: Ye hai?\\n\\nCustomer: Woh lagao na. Aap log wholesaling karte hai sir aap wholesaling karte hai manufacturing unit hai aapki?\\nCustomer: Ye dono karte hai wholesaling bhi karte hai aur manufacturing bhi hai.\\nExecutive: Achcha achcha achcha. Haan ji.\\n\\nExecutive: Aur aapko Gujarat se kis suppliers ko dekhna hai Gujarat mein kaun kaun suppliers hai ye cheez na unka number chahiye aapko.\\nCustomer: Haan ji haan ji.\\nExecutive: Waha ke jo suppliers hai manufacturers hai unka contact details chahiye.\\nExecutive: Ek bari aapne check kara WhatsApp pe jo maine bheja hai aapko?\\nCustomer: WhatsApp pe ek second main check karta hu.\\nCustomer: WhatsApp.\\nExecutive: Teen number is pe hai sir jisne aapne hello kara tha.\\nCustomer: Achcha theek hai.\\nCustomer: Haan maine join kar liya. Join kar liya meeting mein discussion kar rahe hai sir main call disconnect kar raha hu theek hai.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer disconnected the call by mistake.\\n\n- Needs Gujarat suppliers and manufacturers contact details.\\n\n\\n\nResolution:\\n\n- Executive shared WhatsApp number with customer.\\n\n- Executive sent a video meeting link on WhatsApp.\\n\n- Executive confirmed customer has account manager number.\\n\n\\n\nNext Steps: \\n\n- Customer joined the meeting; executive disconnected call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, video meeting, suppliers, account manager\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 318,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cb28cb81-5b6d-4aa9-a257-746ed82de448",
+  "ucid": "cb28cb81-5b6d-4aa9-a257-746ed82de448",
+  "seller_categories": [
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "139916",
+      "mcat_name": "Men Cotton Pant"
+    },
+    {
+      "mcat_id": "185217",
+      "mcat_name": "Men Printed Shirt"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674516256",
+  "gluser_id": "249079193",
+  "vintage_months": 2,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan, ye matam\\nExecutive: Ji haan.\\nCustomer: Hai na, Universal Engineers se baat kar raha hu.\\nExecutive: Kahan se sir?\\nCustomer: Universal Engineers.\\nExecutive: Ji bataye.\\nCustomer: Okay. Sir mere ko account ke related query thi. Isme mere ko sirf retail lead hi aa rahi hai maximum.\\nExecutive: Sir aap apna vo wala number batayenge jo aapne IndiaMART pe lagwa rakha hai?\\nCustomer: IndiaMART pe lagwa rakha hai yehi number hai. Mere teenon number hai mere paas. Par aapka kya naam hai? First wala batao na.\\nExecutive: Haan first wala.\\nCustomer: First wala number hai na mere paas. Ye chaar number kuch bhi.\\nCustomer: 99\\nExecutive: 99\\nCustomer: 0\\nExecutive: 0\\nCustomer: 95\\nExecutive: 95\\nCustomer: 0\\nExecutive: 0\\nCustomer: 0\\nCustomer: 27\\nExecutive: 27\\nCustomer: 76\\nExecutive: 76\\nCustomer: 76. Haan.\\n\\nExecutive: Hello\\nCustomer: Haan bataye.\\nExecutive: Universal Engineers se baat kar rahe hai aap?\\nCustomer: Haan haan.\\nExecutive: Ek second.\\nExecutive: Kya problem face kar rahe hai sir aap?\\nCustomer: Isme mere ko hai na matlab maximum retail lead hi aa rahi hai. Ek quantity, do quantity, paanch quantity. Haan. Matlab ye IndiaMART hai jo B to B ka hi hai to fir ye B to C ki requirement hi nahi aani chahiye na.\\nExecutive: Ek second sir.\\n\\nExecutive: Haan video call pe connect kar sakta hu sir mai aapke saath?\\nCustomer: Kya? Haan video call pe connect. Aisa hai to mai aapko evidence kar de du?\\nExecutive: Ji?\\nCustomer: Evidence chahiye to evidence de deta hu.\\nExecutive: Nahi nahi mai aapko sir Google Meet pe connect karunga.\\nCustomer: Okay okay Google Meet pe connect karenge na aap?\\nExecutive: Ji ji.\\nExecutive: Ek baar aapne jis number se dial kiya mere ko vo number bhi bol denge sir?\\nCustomer: Hmm. Haan rukiye 81\\nExecutive: 81\\nCustomer: Hello. 4073\\nExecutive: 4073\\nCustomer: 40734092\\nExecutive: 4092\\nCustomer: Hmm. Ho gaya na 4092 wala number hai na.\\nCustomer: Haan.\\nExecutive: Theek hai mai bas link bhej ke aapko phone kar raha hu.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Getting retail leads instead of B2B leads.\\n\n- Wants to provide evidence of the issue.\\n\n\\n\nResolution:\\n\n- Executive asked for registered mobile number.\\n\n- Executive offered to connect via Google Meet.\\n\n\\n\nNext Steps: \\n\n- Executive will send a Google Meet link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, b2b, b2c, google meet\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 233,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f0ffa6d-88d3-478c-8061-6e7b31c4700c",
+  "ucid": "7f0ffa6d-88d3-478c-8061-6e7b31c4700c",
+  "seller_categories": [
+    {
+      "mcat_id": "190723",
+      "mcat_name": "Fire Hose Box"
+    },
+    {
+      "mcat_id": "27565",
+      "mcat_name": "Fire Hose Reels"
+    },
+    {
+      "mcat_id": "186628",
+      "mcat_name": "RRL Hose Pipe"
+    },
+    {
+      "mcat_id": "156783",
+      "mcat_name": "Hose Reel Drum"
+    },
+    {
+      "mcat_id": "27561",
+      "mcat_name": "Fire Fighting Equipments"
+    }
+  ]
+}

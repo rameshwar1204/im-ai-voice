@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671925494",
+  "gluser_id": "256025272",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678229",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello aunty madam.\\nCustomer: Haan ji sir, pahunch gaye office aap?\\nExecutive: Ji madam pahunch gaya pahunch gaya bas.\\nCustomer: Hello.\\nExecutive: Ji madam.\\nCustomer: Keh rahi thi aap office pahunch gaye?\\nExecutive: Ji ji pahunch gaya hu bilkul.\\nCustomer: Haan to main aapko connect karu, fir main aapko sari cheeze one by one samjha deti hu, fir usme jo aapka query hoga aap mujhe bata dena.\\nCustomer: Matlab kya batana hai ye bataiye pahle to aap.\\nExecutive: Jaise aapko buyleads me issue aa raha tha ki aapko jo buyleads aa rahi hai.\\nCustomer: Ji ji usme aapko issue aa raha hai. To main abhi aapko connect karungi aur mera pura online service demo rahega. Actually hamare yaha ye hota hai ki agar koi first time onboard hota hai to hum usko welcome call ke through connect karte hai aur usko video feed se service ki sari demo dete hai.\\nCustomer: Dekhiye madam ye jo IndiaMART hai maine pahle jab restart karaya tha isme, theek hai na? To usme matlab jaise lead vagarah girti hai ekdam aake message aata hai is tarah koi message nahi aa raha hai.\\nExecutive: Ji ji.\\nCustomer: Maine pahle ke bhaiya ko phone ki thi bhaiya aa rahe hai mere paas IndiaMART maan ke hai sir. Naam Pradeep hai unka, wo bol rahe hai main aa raha hu ghante ke main fir wo keh rahe hai main samjha dunga aake.\\nExecutive: Achha wo jo aa rahe hai sales wale.\\nCustomer: Ji ji IndiaMART wale.\\nExecutive: Oh. Okay sir no issue wo aa karke agar aapko samjha dete hai to well and good. But is baar aapko fir bhi call connect hona hoga as per process.\\nExecutive: To uske liye hum aapko connect karenge jab hamara aapke paas aayega welcome call ke liye na. Abhi aapko wo jo aayenge na IndiaMART se sales wale wo aapko sari cheeze samjha denge. Uske baad fir aapko hum ek do din me aapki welcome call generate ho jayegi fir hum aapko welcome call ke through connect karenge aur fir service ki aur bhi hai paper denge jo cheeze ho sakta hai unse rah gayi ho batane ko. Usse related sari information hum aapko provide karayenge.\\nCustomer: Theek hai to madam pahle unse mil lu main jo aa rahe hai IndiaMART wale bhaiya. Haan haan pahle aap unse mil lijiye fir aapki jo call miss out ho jayegi agar karenge fir main aapko call karungi.\\nCustomer: Ji ji.\\nCustomer: Fir main aapko cheeze hai to main call kar dunga aapko theek hai madam.\\nExecutive: Theek hai bilkul bilkul.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving lead notifications.\\n\n- Sales representative is visiting to explain.\\n\n\\n\nResolution:\\n\n- Executive offered a welcome call and service demo.\\n\n- Executive explained the process of welcome call.\\n\n- Executive will connect after sales visit.\\n\n\\n\nNext Steps: \\n\n- Customer will meet with sales representative first.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, notification, welcome call, sales visit\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 160,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ab7e811c-f6d3-4233-a90b-422245fec2a3",
+  "ucid": "ab7e811c-f6d3-4233-a90b-422245fec2a3",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "7781",
+      "mcat_name": "Stainless Steel Chafing Dish"
+    },
+    {
+      "mcat_id": "78113",
+      "mcat_name": "Brass Chafing Dishes"
+    },
+    {
+      "mcat_id": "315639",
+      "mcat_name": "Second Hand Catering Counter"
+    },
+    {
+      "mcat_id": "3700",
+      "mcat_name": "Chafing Dishes"
+    }
+  ]
+}

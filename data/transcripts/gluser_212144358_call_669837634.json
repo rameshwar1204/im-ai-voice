@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669837634",
+  "gluser_id": "212144358",
+  "vintage_months": 18,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662394",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan hello.\\nCustomer: Hello\\nExecutive: Ji sir ye Simran ek second baat kariye.\\nExecutive: Sorry?\\nCustomer: Simran interior se baat ho rahi hai meri sir?\\nExecutive: Ji sir.\\nExecutive: Aawaz aa rahi hai aapko sir meri?\\nCustomer: Break break aawaz aa rahi hai.\\nExecutive: Main dobara call back karun?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Break in the audio.\\n\n\\n\nResolution:\\n\n- Offered to call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- audio quality, callback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=29c6988b-b255-4eef-b67a-fe91c17d570e",
+  "ucid": "29c6988b-b255-4eef-b67a-fe91c17d570e",
+  "seller_categories": [
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    },
+    {
+      "mcat_id": "150642",
+      "mcat_name": "Aluminum Sliding Door"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    }
+  ]
+}

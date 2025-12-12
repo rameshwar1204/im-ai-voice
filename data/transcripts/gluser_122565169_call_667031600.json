@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667031600",
+  "gluser_id": "122565169",
+  "vintage_months": 18,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632306",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ek minute dijiyega mam bas.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji sir aap Hello.\\nCustomer: Hello.\\nCustomer: Haan ji.\\nExecutive: Sir give me a second main aapko abhi call kar rahi hu thodi der mein.\\nCustomer: Hello. \\nCustomer: Ye to customer care ke number hai na.\\nExecutive: Haan haan customer care ka hai aap apni company ka name batayenge sir?\\nCustomer: Haan.\\nCustomer: Abhinav.\\nExecutive: Okay.\\nExecutive: Hello. \\nExecutive: Sir bataiye kya problem hai?\\nCustomer: Problem ye aa rahi hai mam mujhe char month ho chuke hain abhi tak koi lead nahi aaya. \\nExecutive: Sir aapko humne ek dedicated account manager mere paas nahi hai sir aapko humne ek dedicated account manager diya hai aap please unse connect kariye unka phone number hoga na aapke paas kyuki sara resolution jo hai na wohi aapko dete hain kya aap mujhe panch 10 minute ka time dijiye sir tab main aapko call karti hu kyuki abhi unse baat kar unse baat hoti hai woh koi response nahi karte resolution nahi dete koi woh aise hi bolte hain ho jayega ho jayega woh recharge karao upgrade karo fana karo bas yahi hai chalta hai. \\nExecutive: Sir upgrade karne ke liye to hum apni taraf se bolte hi nahi hai agar aap interested hote hain tabhi hum aapko suggest karte hain.\\nCustomer: Woh bolte hain upgrade karo bolte hain woh.\\nExecutive: Accha aap mujhe 10 minute dijiye sir abhi 10 minute dijiye abhi ek important manager jo bhi bol raha hai meri baat to suniye aap.\\nExecutive: Haan haan main sun rahi hu aapki baat.\\nCustomer: Haan bataiye aap kya bol rahe the bataiye. \\nExecutive: Main ye keh rahi hu main aapko 10 minute mein call karungi sir thoda time dijiye abhi important call ek client ke sath main attend kar rahi hu matlab unke kuch problem hai catalog mein to aapko main 5:15 tak call kar rahi hu theek hai.\\nCustomer: Itna time aap mujhe dijiye main abhi call karti hu aapko haan.\\nCustomer: Theek hai okay theek hai main wait karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received any buyleads in 4 months.\\n\n- Account manager is not providing resolution.\\n\n\\n\nResolution:\\n\n- Executive asked for 10 minutes to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back by 5:15 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, resolution, callback\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 143,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=afa01788-b554-4030-9968-78a88a8ba92c",
+  "ucid": "afa01788-b554-4030-9968-78a88a8ba92c",
+  "seller_categories": [
+    {
+      "mcat_id": "9866",
+      "mcat_name": "Marble Pillars"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

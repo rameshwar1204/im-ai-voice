@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671174832",
+  "gluser_id": "80004739",
+  "vintage_months": 17,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671097",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji. Haan sir, namaskar. Himanshu baat kar raha hu aapke business manager IndiaMART se. Kaise hain aap?\\nCustomer: Boli mein hospital mein tha sir. Jaldi se do minute mein baat short kar dijiye zara.\\nExecutive: Achcha achcha. Nahi nahi, wo keh rahe hain services ka feedback. Wo khushi ji sahi se handle kar rahi hain. Koi problem toh nahi aa raha hai kahin pe? Koi dikkat services mein?\\nCustomer: Haan sir, problem kya hai wo business jitna achcha milna chahiye tha wo nahi mil pa raha.\\nExecutive: Toh uske kam kam karenge kab aap free honge hospital se matlab kab aayenge wapas?\\nCustomer: Main sham tak aa paunga. Kal baat karta hu main aapse phir.\\nExecutive: Kal toh off rehta hai na actually Saturday Sunday toh Monday ko Monday Monday ko haan Monday ko main call kar leta hu. Feedback de dijiyega is call ka sir bas. Theek hai?\\nCustomer: Haan chalo.\\nExecutive: Theek hai sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting enough business.\\n\n\\n\nResolution:\\n\n- Executive offered to call back on Monday.\\n\n\\n\nNext Steps: \\n\n- Executive will call back on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, follow up\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=09362946-9a2a-442b-8727-3a860d97f425",
+  "ucid": "09362946-9a2a-442b-8727-3a860d97f425",
+  "seller_categories": [
+    {
+      "mcat_id": "24669",
+      "mcat_name": "Ceramic Coffee Mug"
+    },
+    {
+      "mcat_id": "42877",
+      "mcat_name": "Ceramic Pots"
+    },
+    {
+      "mcat_id": "90434",
+      "mcat_name": "Ceramic Tea Cup"
+    },
+    {
+      "mcat_id": "187122",
+      "mcat_name": "Clay Diya"
+    },
+    {
+      "mcat_id": "223879",
+      "mcat_name": "Ceramic Pickle Jar"
+    }
+  ]
+}

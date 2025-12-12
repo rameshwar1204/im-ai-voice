@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676335389",
+  "gluser_id": "54153492",
+  "vintage_months": 41,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677848",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji sir namaskar, Abhishek baat kar raha hu IndiaMART se kya baat?\\nExecutive: Ji boliye Abhishek.\\nCustomer: Sir asal mein main aapko call kar raha tha, maine aapko WhatsApp pe kuch cheeze bhi share ki thi sir, us pe aapne call kiya tha sir?\\nExecutive: Kya cheeze bole?\\nExecutive: Maine WhatsApp WhatsApp group banaya tha na sir, yaad hai aapko maine bola tha main ek WhatsApp group banaunga sir aapke company ke regarding aisa karke. To maine sir usme aapko kuch cheeze share ki thi sir, jaise kuch byleads share ki thi, teen char byleads ka link bhi share kiya tha sir, to aapne unse baat kiya tha sir?\\nExecutive: Aap jis cheez ka deal karte ho sir, wahi maine aapko bheja tha. Bihar ka tha tha aur Bihar ke do teen hazar cases the, Jharkhand ka bhi tha sir.\\nExecutive: Aapne consume kiya tha sir?\\nCustomer: Call kiya tha, phone nahi laga.\\nExecutive: Ji sir?\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asks if customer contacted the buyleads.\\n\nResolution:\\n\n- Customer says he called but the phone didn't connect.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp group, follow up\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f5307ead-7bef-415c-8d79-36fe74c360a5",
+  "ucid": "f5307ead-7bef-415c-8d79-36fe74c360a5",
+  "seller_categories": [
+    {
+      "mcat_id": "181452",
+      "mcat_name": "LED Sign Board"
+    },
+    {
+      "mcat_id": "181453",
+      "mcat_name": "Acrylic LED Sign Board"
+    },
+    {
+      "mcat_id": "169854",
+      "mcat_name": "ACP Structural Works"
+    },
+    {
+      "mcat_id": "184373",
+      "mcat_name": "3D Sign Boards"
+    },
+    {
+      "mcat_id": "160818",
+      "mcat_name": "Scrolling LED Display"
+    }
+  ]
+}

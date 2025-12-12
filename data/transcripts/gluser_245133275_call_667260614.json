@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667260614",
+  "gluser_id": "245133275",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Sir, good morning. I am Sneha speaking from IndiaMART head office. Sahil India Stonex company is registered with us. So, do you handle all these things, sir?\\nCustomer: Uh, me and my\\nExecutive: Like buylead consumption and products. So, sir, one thing I needed to confirm with you, like it's been a month, not even a month, it's just starting, but we are connecting with you, calling you multiple times, but no one is picking up the phone. If they do pick up, sir, then\\nCustomer: Madam, there was a little bit of a wedding at our house, that's why we were busy.\\nExecutive: Okay. That's why I couldn't talk to you.\\nCustomer: Okay. Sir, still I called Sahil sir, but he got busy, so that's why he listened to the conversation, but the call got disconnected in the middle. So, then in this way, sir, we couldn't help you.\\nCustomer: Yes, yes. We were busy with the wedding. No, he will seriously do it.\\nExecutive: So, now, sir, how do you both see it together, Sahil sir and you?\\nCustomer: Yes, together.\\nExecutive: Buyleads etc. you have consumed till now. Sir, your work is, see, what happens when the company is onboarded on IndiaMART for the first time, then the entire product line is reviewed. Meaning, you deal in marble products, right? Marble wall panels, all these things. So, all this means that the review has not been done, nor have we been able to tell you about buyleads, how to use them. You are using them at your end, as you understand. So, these things are very important for me, which is not happening. So, sir, please tell me some things today, and then when you are free, I will call you at your time, whatever time you give me, next week or last week, whenever you tell me, I will call you at that time.\\nCustomer: Uh, so I have your number, right? I will call you.\\nExecutive: I will call you.\\nCustomer: I have your number, right? When I am free, I will call you.\\nExecutive: Okay. You will call me today because sir, it was a little necessary, that's why I called you.\\nCustomer: I will call you in two-three days.\\nExecutive: Two-three days. Okay. But if it won't be possible now, sir.\\nCustomer: No, it won't be possible now. I will call you when I am free.\\nExecutive: Okay sir, please I\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to connect with the customer earlier.\\n\n- Product line review and buylead usage not explained.\\n\n- Customer is busy due to a wedding.\\n\n\\n\nResolution:\\n\n- Executive explained the importance of product review.\\n\n- Executive offered to call back at customer's convenience.\\n\n\\n\nNext Steps: \\n\n- Customer will call the executive in 2-3 days.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product review, onboarding, follow up\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 151,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=32716435-7e94-4edd-b7ad-ac1f44c1c2e5",
+  "ucid": "32716435-7e94-4edd-b7ad-ac1f44c1c2e5",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "38607",
+      "mcat_name": "Wall Decor"
+    },
+    {
+      "mcat_id": "224235",
+      "mcat_name": "Marble Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    }
+  ]
+}

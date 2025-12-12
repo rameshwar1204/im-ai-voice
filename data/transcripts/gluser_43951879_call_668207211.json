@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668207211",
+  "gluser_id": "43951879",
+  "vintage_months": 4,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Gadchiroli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643398",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji boliye. Hello.\\nExecutive: Ji sir Prashant.\\nCustomer: Haan bol raha hu sir.\\nExecutive: Sir thoda meeting mein hu, thoda baad mein kar sakte hai sir. Ja raha hu iske liye mein call nahi utha raha hu sir.\\nCustomer: Achcha koi baat nahi, kab tak convenient karenge sir?\\nExecutive: Haan dekhiye na sir evening tak ho sake toh.\\nCustomer: Haan baaki sir ek kaam karta hu, woh price ka discuss karna tha. Yeh concern jo tha na abhi price matlab kaise buy lead purchase karte hai. Woh kar lenge sir thoda do teen din mujhe bhi time hai. Thoda abhi kya hai thoda meeting mein ja raha hu sir iske liye. Woh thoda planning meeting hai client ke saath mein company mein pharma chemical mein.\\nExecutive: Ji ji ji.\\nCustomer: Toh abhi thoda baat nahi kar sakta sir. Idhar thoda phone ka bhi allowed problem hai iske liye.\\nExecutive: Haan toh koi baat nahi sir yeh jo concern tha na, maine aapko guide kar diya hai. Isko mein close kar deta hu.\\nCustomer: Theek hai, theek hai no problem sir. Mein yeh close kar dijiye woh do teen din mein woh mein yeh kar denge close isko pura. Theek hai?\\nExecutive: Theek hai, theek hai.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss price and buylead purchase.\\n\n\\n\nResolution:\\n\n- Executive guided on buylead purchase process.\\n\n- Agreed to close the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will close the issue in 2-3 days.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, price, meeting, purchase\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=10dbb377-cc0f-45aa-b483-b55fd3457d1b",
+  "ucid": "10dbb377-cc0f-45aa-b483-b55fd3457d1b",
+  "seller_categories": [
+    {
+      "mcat_id": "171906",
+      "mcat_name": "Industrial Epoxy Flooring Service"
+    },
+    {
+      "mcat_id": "165824",
+      "mcat_name": "Epoxy Floor Coating Services"
+    },
+    {
+      "mcat_id": "10992",
+      "mcat_name": "Industrial Epoxy Flooring"
+    },
+    {
+      "mcat_id": "120852",
+      "mcat_name": "Epoxy Flooring Services"
+    },
+    {
+      "mcat_id": "27939",
+      "mcat_name": "Epoxy Flooring"
+    }
+  ]
+}

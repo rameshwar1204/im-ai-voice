@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667690201",
+  "gluser_id": "146697319",
+  "vintage_months": 1,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Himatnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651589",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello IndiaMART se bol rahe hain.\\nCustomer: Haan ji.\\nExecutive: Uh mere Dwija Sales sir ji subscriber hai IndiaMART mein.\\nCustomer: Haan ji.\\nExecutive: Toh uska subscription cancel karna hai, refund karna hai payment ka.\\nExecutive: Cancel nahi hota hai maine abhi aapko bataya hai aapke paas koi cheez written mein hai toh aap ek baar hi mujhe de dijiye main aage baat karwa dungi.\\nCustomer: Main kya du woh toh waha pe Chandan ji ne baat ki thi ki main mail kar dunga toh Chandan ji se baat Chandan ji se baat karwao mujhe.\\nExecutive: Mail dijiye mujhe mail provide kar dijiye.\\nCustomer: Are Chandan ji bol rahe the main mail kar dunga aapko.\\nExecutive: Kya karu aap service use toh karo aap service use kyun nahi karte.\\nCustomer: Nahi nahi nahi use nahi karna hai jo requirement chahiye woh requirement nahi aa rahi hai aur dusri dusri requirement aa rahi hai.\\nExecutive: Sir ek din mein aapko nahi dikh sakta hai na business sir abhi aapko ek.\\nCustomer: Do din nahi yaar ek hafta ho gaya hai ek hafte mein bas fir toh jo dhandha nahi kar raha hu uska hi record. Meri baat suniye madam jo main dhandha nahi kar raha hu woh ek wohi bari lekar main kya karu meri baat suniye aap samjhiye. Pehle aap meri baat suniye meri baat suniye aap IndiaMART ka dhandha kar rahe hain aur aapko fonde ka dhandha aayega thodi fonde ka dhandha karenge kya.\\nExecutive: Sir aap dekho aapne jo dal rakha hai uske according by lead wagera.\\nCustomer: Sidhi si baat hai jo main kaam nahi kar raha hu.\\nExecutive: By lead ka kya kar rahe ho aap nahi ho rahe ho IndiaMART pe inquiries bhi nahi dekh rahe ho aap ek bari pehle use toh karo.\\nCustomer: Are inquiry sab mein meri baat meri baat suniye meri baat inquiry sabhi dekh raha hu jo truck ka hai ka main dhandha nahi kar raha hu uska hi requirement aa rahi hai main kya karu uska dhandha hi nahi kar raha hu main.\\nExecutive: Aapne dal rakha hai usi ki hi aapke paas by lead wagera aayengi aur kuch nahi aayega jo aapne catalog mein dala hai usi se related by lead aa rahi hai.\\nCustomer: Toh catalog toh delete karwa rahe hai toh bhi wohi aa rahi hai na.\\nExecutive: Sir kaha kuch delete hua hai.\\nCustomer: Mujhe Chandan ji se baat karwao jo unhone commitment ki toh commitment nahi mili.\\nExecutive: Mere paas unka koi woh nahi hai aap Chandan ji se ek baar baat kar lijiye aur ek baar aaj toh office close hai kal ek baar dekhte hain.\\nCustomer: Haan toh mujhe karwao kyunki woh phone nahi utha rahe mere.\\nExecutive: Meri toh nahi baat ho aapko hi unse baat karni padegi mere paas number nahi hai.\\nCustomer: Haan toh mujhe baat karwao ya toh account mere account manager se baat karwao mujhe.\\nExecutive: Sir aapke account manager main hi aapko call back karwao aapko call back karwana padega arrange karwana padega.\\nCustomer: Main hi aapke account manager hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to cancel subscription and refund payment.\\n\n- States wrong buyleads are being received.\\n\n- Wants to speak with Chandan regarding commitment.\\n\n\\n\nResolution:\\n\n- Executive stated cancellation is not possible.\\n\n- Asked for written commitment for cancellation.\\n\n- Advised to use the service.\\n\n- Advised to call Chandan directly.\\n\n\\n\nNext Steps: \\n\n- Executive will check on the issue tomorrow.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, buyleads, cancellation\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 166,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=581d8678-d55b-4331-96c3-1ea9b159f36a",
+  "ucid": "581d8678-d55b-4331-96c3-1ea9b159f36a",
+  "seller_categories": [
+    {
+      "mcat_id": "189353",
+      "mcat_name": "Apollo Car Tyres"
+    },
+    {
+      "mcat_id": "2581",
+      "mcat_name": "Truck Tyres"
+    },
+    {
+      "mcat_id": "149838",
+      "mcat_name": "Truck Radial Tyres"
+    },
+    {
+      "mcat_id": "215334",
+      "mcat_name": "Apollo Bike Tyres"
+    },
+    {
+      "mcat_id": "183872",
+      "mcat_name": "Block Jointing Mortar"
+    }
+  ]
+}

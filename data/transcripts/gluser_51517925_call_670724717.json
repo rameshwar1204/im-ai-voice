@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670724717",
+  "gluser_id": "51517925",
+  "vintage_months": 95,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651003",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Pen toh mera hai hi nahi pata nahi kaun le gaya.\\nCustomer: Yehi wala toh tha mere paas.\\nCustomer: Deepak ne maanga tha.\\nCustomer: Abhi woh utha ke le gaya hoga. Deepak, Deepak ne diya tumhe? Haan toh yehi rakha tha mere paas. Yehi se utha le jaate hai mere table se.\\n\\nCustomer: Do ticket dusri kiski thi?\\nCustomer: Ek do ticket tumhare APN mein kiski thi?\\nCustomer: Rishi wale ka payment kiya tha? Usme wale ka payment nahi tha, usko KYC verify nahi kara tha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is missing a pen.\\n\n- Enquiring about two tickets.\\n\n- Payment and KYC verification issues for Rishi.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\n- None\\n\n\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- missing pen, tickets, payment, kyc verification\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fbcaaefa-c0c5-4d07-9eaf-aa415ce40031",
+  "ucid": "fbcaaefa-c0c5-4d07-9eaf-aa415ce40031",
+  "seller_categories": [
+    {
+      "mcat_id": "202022",
+      "mcat_name": "Gym Setup"
+    },
+    {
+      "mcat_id": "126829",
+      "mcat_name": "Multi Gym"
+    },
+    {
+      "mcat_id": "181826",
+      "mcat_name": "Functional Trainer Machine"
+    },
+    {
+      "mcat_id": "23912",
+      "mcat_name": "Bus Stop Shelters"
+    },
+    {
+      "mcat_id": "168444",
+      "mcat_name": "MS Laser Cutting Services"
+    }
+  ]
+}

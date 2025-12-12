@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672301801",
+  "gluser_id": "138562464",
+  "vintage_months": 49,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bharuch",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9683122",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Aap boliye.\\nExecutive: Sir, good morning.\\nCustomer: Good morning, boliye.\\nExecutive: Ji, Anand baat kar raha hu sir India Mart se.\\nExecutive: Boliye.\\nCustomer: Ji, sir kal maine manager se bhi baat hui thi aapki kal dekh kar se. Ek bar connect kar le sir video call pe mai bheju link aapko?\\nExecutive: Bhej dijiye.\\nCustomer: Mai bhejta hu aapko mai sir ko bhi connect karta hu mai bhi connect hota hu sir. Whatsapp pe share kar raha hu aapko. Whatsapp pe bhej raha hu na. Ha, thik hai. Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to connect on a video call.\\n\n\\n\nResolution:\\n\n- Executive agreed to connect via video call.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will share a link on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo call, whatsapp, connect\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28e0dca3-1c43-4aca-8af3-4f5ad0a5bd84",
+  "ucid": "28e0dca3-1c43-4aca-8af3-4f5ad0a5bd84",
+  "seller_categories": [
+    {
+      "mcat_id": "2663",
+      "mcat_name": "Urea"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    },
+    {
+      "mcat_id": "105996",
+      "mcat_name": "Chloroform"
+    },
+    {
+      "mcat_id": "138305",
+      "mcat_name": "4 Amino 1 2 4-Triazole"
+    },
+    {
+      "mcat_id": "3736",
+      "mcat_name": "Chemical Intermediates"
+    }
+  ]
+}

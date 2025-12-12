@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668536791",
+  "gluser_id": "28772701",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nBhai Alpine aur ye ticket dekh lo jiska bhi hai. Meri call record hai to batao.\\nHello.\\nUh, hi sir Pallavi bol rahi hu India Mart se.\\nHaa Pallavi ji.\\nSir aapne Anju ji ki apni like customer care pe call kiya tha. Anju ji ke number pe call kara tha sir incoming call aayi thi aapki to call reason open ho gaya tha. Batayenge please kya problem aa rahi hai sir?\\nNahi wo lead ko leke tha wo Vishal se shayad baat ho gayi unki.\\nAchcha okay. Theek hai to abhi to sir aap leads vagaira bhi kar rahe hain pehle se to better hi hua hai sir inquiries vagaira. Calls bhi badhi hai pehle se aapki.\\nNahi actually wo Vishal se baat ho raha tha sab kuch Vishal hi karta hai na main to bahut kam dekhta hu.\\nAchcha okay. Theek hai to baat ho gayi na sab?\\nHaa ho gayi ho gayi sab ho gayi sab clear hai. Theek hai to abhi confirm kar main close kar du sir? Haa close kar dijiye. Sir meri aapse ye dheere se ek request rahegi abhi na is meri na meri call ke liye ek field back jayega. Please us pe aap reply kar dijiyega yes satisfied bhi dijiyega. Theek hai main aapko WhatsApp pe link karti hu bhej ke sir. Thank you. Thank you. Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue regarding buyleads.\\n\n\\n\nResolution:\\n\n- Executive confirmed the issue was resolved with Vishal.\\n- Executive requested for positive feedback.\\n\n\\n\nNext Steps: \\n\n- Executive will share feedback link on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, customer care\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=79d22a41-19ad-4aeb-917b-6af09976daf4",
+  "ucid": "79d22a41-19ad-4aeb-917b-6af09976daf4",
+  "seller_categories": [
+    {
+      "mcat_id": "167696",
+      "mcat_name": "Pagoda Tent"
+    },
+    {
+      "mcat_id": "41970",
+      "mcat_name": "Resort Tents"
+    },
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "100516",
+      "mcat_name": "Swiss Cottage Tent"
+    }
+  ]
+}

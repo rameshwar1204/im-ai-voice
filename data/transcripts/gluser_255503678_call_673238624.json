@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673238624",
+  "gluser_id": "255503678",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Sitapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691823",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan, kaun?\\nCustomer: Sir, good morning.\\nExecutive: Good morning. Bhumika baat kar rahi hu IndiaMART se, account manager.\\nCustomer: Haan, bataiye, bataiye.\\nExecutive: Ji. Sir, aapne mail kiya hai yaha pe ki aapko leads nahi aa rahi hai, jin-jin location se aapko chahiye, ji.\\nCustomer: Haan.\\nExecutive: Sir, abhi actually me baat ye hai ki abhi aapka account new hai. Jis hisab se aap leads uthayenge, vaise hi leads aapko in future aayengi.\\nCustomer: Maine shuruat me hi bola gaya tha ki hame is location ki chahiye, hame pure India ki nahi chahiye. Jahan ki hame chahiye, vahan ki mil nahi rahi hai. Jahan nahi chahiye, vahan ki hum kya karenge, bataiye.\\nExecutive: Sir, vo baat aapki thik hai, but maine aapko location ka filter bataya tha na, vahan se aap jo hai filter bhi laga sakte hain.\\nCustomer: Uttar Pradesh se. Aap utna area set karke dijiye, hame uske other leads ekko nahi chahiye.\\nExecutive: Okay sir.\\nCustomer: Baaki hum thodi der me baat karenge, abhi hum side pe hain.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads from desired locations.\\n\nResolution:\\n\n- Executive stated account is new, leads will increase.\\n\n- Executive suggested using location filter.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, filter\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=92cb1e88-2c99-414c-b246-2d369eab76b9",
+  "ucid": "92cb1e88-2c99-414c-b246-2d369eab76b9",
+  "seller_categories": [
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "180824",
+      "mcat_name": "Sliding Wardrobe"
+    },
+    {
+      "mcat_id": "154084",
+      "mcat_name": "Wooden Modular Kitchen"
+    },
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "106724",
+      "mcat_name": "Furniture Design Service"
+    }
+  ]
+}

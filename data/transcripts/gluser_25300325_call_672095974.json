@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672095974",
+  "gluser_id": "25300325",
+  "vintage_months": 42,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683595",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Haan ji.\\nHello.\\nHello.\\nHan main ye bol raha tha ye bol raha tha aap aapko ye requirement apni side se post karni hogi aap ek bar aa jaye online main aapko guide kar dunga sir.\\nAbhi to main aa nahi sakta main market mein hu.\\nAchcha to kis time aap free ki line hai sir.\\nMain kal subah karta hu fir aap subah isi number se.\\nThik hai na.\\nThik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Requirement to post from the customer's side.\\n\n- Customer is currently in the market and unavailable.\\n\n\\n\nResolution:\\n\n- Offer to guide the customer if they come online.\\n\n- Suggested to connect tomorrow morning.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will call tomorrow morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nrequirement, online guide, unavailable\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=11e2874b-9a00-4559-933b-30e4655d29bb",
+  "ucid": "11e2874b-9a00-4559-933b-30e4655d29bb",
+  "seller_categories": [
+    {
+      "mcat_id": "69870",
+      "mcat_name": "Panel Lock"
+    },
+    {
+      "mcat_id": "189938",
+      "mcat_name": "UPVC Door Locks"
+    },
+    {
+      "mcat_id": "187057",
+      "mcat_name": "UPVC Window Handle"
+    },
+    {
+      "mcat_id": "65522",
+      "mcat_name": "Sliding Window Roller"
+    },
+    {
+      "mcat_id": "706",
+      "mcat_name": "Window Fittings"
+    }
+  ]
+}

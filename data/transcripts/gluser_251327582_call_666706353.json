@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666706353",
+  "gluser_id": "251327582",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Kathua",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628615",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji.\\nExecutive: Haanji sir.\\nCustomer: IndiaMART ke upar jo meri shop ka wo tha na jaise matlab ke notification aati hai hum usko receive karte hain na uske aage kuch bhi nahi dikha raha hai na.\\nExecutive: Uske aage kuch nahi dikha raha?\\nCustomer: Maine bheja tha screenshot bhi bheja tha bhi IndiaMART help center pe.\\nExecutive: Achha ek minute mujhe send kar dijiye ek bari.\\nCustomer: Thik hai ye number hai na WhatsApp pe?\\nExecutive: Nahi ye jo mera WhatsApp wala number hai maine aapko send kiya tha tha.\\nCustomer: A aap aapka naam?\\nExecutive: Surbhi Surbhi Singh.\\nCustomer: Haan to maine bheja na aapke WhatsApp pe.\\nExecutive: Achha achha.\\nCustomer: Aapka wo data band tha na maine do do screenshot bheje hue hain.\\nExecutive: Hmm hmm hmm. Web page is not available dikha raha hai.\\nCustomer: Haan.\\nExecutive: Isme aap kya aapka account open nahi ho raha hai sir?\\nCustomer: Haan nahi ho raha hai na bas yahi aa raha hai.\\nExecutive: A aap app wo seller wala download kiya hoga aapne?\\nCustomer: Nahi wahi hai jo pehle tha wahi chal raha tha continue isme se maine isko delete bhi nahi kiya hua hai.\\nExecutive: Jo aapka registered number hai aapne haan haan bataiye.\\nCustomer: Ye kal sham se nahi ho raha hai fir maine sham ko rehne diya maine socha abhi sabhi chutti pe honge to kya agle ko bhi tang karna.\\nExecutive: A ye bataye ki aap apne registered number se login kar rahe hain na?\\nCustomer: Haan haan.\\nExecutive: Tab bhi aise hi aa raha hai?\\nCustomer: Bilkul aise hi aa raha hai.\\nExecutive: Ek minute dijiyega mujhe isko main check kara ke fir aapko batati hu.\\nCustomer: Thik hai thik hai.\\nExecutive: Thik hai.\\nCustomer: Haanji thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART shop notifications not showing.\\n\n- Customer unable to open account.\\n\n\\n\nResolution:\\n\n- Executive asked customer to send screenshot on WhatsApp.\\n\n- Executive will check and inform the customer.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will check and inform customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- notification, account, login, app\\n\n\\n",
+  "call_entered_on": "11/2/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=242b7c7b-b79a-4628-890e-61645764aa58",
+  "ucid": "242b7c7b-b79a-4628-890e-61645764aa58",
+  "seller_categories": [
+    {
+      "mcat_id": "186395",
+      "mcat_name": "Mata Ki Chunari"
+    },
+    {
+      "mcat_id": "167660",
+      "mcat_name": "Gota Patti Border"
+    },
+    {
+      "mcat_id": "180012",
+      "mcat_name": "Gota Laces"
+    },
+    {
+      "mcat_id": "36186",
+      "mcat_name": "Religious Flags"
+    },
+    {
+      "mcat_id": "43609",
+      "mcat_name": "Puja Accessories"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671234548",
+  "gluser_id": "203515125",
+  "vintage_months": 23,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9674200",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello Bhaaji\\nCustomer: haan Dev Vatsal bol rahe ho?\\nExecutive: haan bataiye\\nCustomer: Dev Vatsal main ye puchna chah raha hu ye se machine se baat kar raha hu main?\\nExecutive: haan haan main jaan gaya\\nCustomer: main puch raha tha yaar ki call check karte hai wo kaha check karte hai dikhai nahi de raha kahin\\nExecutive: kya cheez?\\nCustomer: call aati hai na wo check karte hai kis kis ki call aayi hai\\nExecutive: kiski call aayi hai incoming call na?\\nCustomer: ji haan haan wo yaar dikh nahi raha mujhe kahin\\nExecutive: lead manager mein lead manager mein dikhega\\nCustomer: lead manager mein gaya haan theek hai\\nExecutive: aap suno na desktop se hai?\\nCustomer: laptop se hu main\\nExecutive: to usme upar dekhiye filters bane honge hai na?\\nCustomer: haan filter ka sign bana hai\\nExecutive: filter pe click kariye\\nCustomer: kar diya\\nExecutive: to isme dekhiye source mein likha hua hai all direct buyleads calls catalog views hai na?\\nCustomer: haan haan\\nExecutive: all pe click karke apply kariye aapko incoming jitni calls aayi hui hai IndiaMART se wo alag se aa jayegi aapko\\nCustomer: calls pe karu all pe kar du?\\nExecutive: calls calls calls c c se calls\\nCustomer: calls theek hai abhi dikh raha hai aapko?\\nCustomer: yaha to koi hai\\nExecutive: haan ji\\nCustomer: mila sir?\\nExecutive: haan theek hai mil gaya mil gaya\\nExecutive: theek hai?\\nCustomer: haan theek hai bhaiji\\nExecutive: okay\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to check incoming calls.\\n\nResolution:\\n\n- Executive guided to check calls in lead manager.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, calls, lead manager, filters\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=82892ecc-fd94-4099-8588-5ce290290dcb",
+  "ucid": "82892ecc-fd94-4099-8588-5ce290290dcb",
+  "seller_categories": [
+    {
+      "mcat_id": "164243",
+      "mcat_name": "UPVC Window Making Machine"
+    },
+    {
+      "mcat_id": "159218",
+      "mcat_name": "UPVC Welding Machine"
+    },
+    {
+      "mcat_id": "126216",
+      "mcat_name": "UPVC Profile"
+    },
+    {
+      "mcat_id": "158874",
+      "mcat_name": "UPVC Window Cutting Machine"
+    },
+    {
+      "mcat_id": "164714",
+      "mcat_name": "Seamless Welding Machine"
+    }
+  ]
+}

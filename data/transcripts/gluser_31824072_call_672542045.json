@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672542045",
+  "gluser_id": "31824072",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Patan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, Sakshi ji?\\nCustomer: Haan ji sir.\\nExecutive: Haan, Ronak baat kar raha hu. Mujhe ek image change karni thi. Jo mere ye infrastructure wale mein jo images hai na.\\nCustomer: Haan ji.\\nExecutive: Aur about us mein. Wo wo mere ghar ki images hai. To uski jagah pe maine jo last WhatsApp message kiya hai na image ka, wo mujhe change karna hai.\\nCustomer: WhatsApp message matlab aapne kaha WhatsApp kiya hai?\\nCustomer: IndiaMART pe. IndiaMART ka jo wo.\\nExecutive: Haan, IndiaMART ka jo WhatsApp.\\nCustomer: Aap mere number pe kar dete, okay, main. Okay.\\nCustomer: Theek hai, ye number pe WhatsApp kar du main?\\nExecutive: Haan, nahi is number pe nahi. Main hi karke message kar rahi hu aapke ghar. Kyuki mera number hai aap us pe kar do.\\nCustomer: Theek hai, main kar deta hu us pe. Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change images in infrastructure section.\\n\n- Images in 'About Us' section are of his house.\\n\n\\n\nResolution:\\n\n- Executive asked to send image on her WhatsApp number.\\n\n\\n\nNext Steps: \\n\n- Customer will send image on executive's WhatsApp number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- image change, whatsapp, infrastructure, about us\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=110d58de-411e-4555-9e11-fed07125fe45",
+  "ucid": "110d58de-411e-4555-9e11-fed07125fe45",
+  "seller_categories": [
+    {
+      "mcat_id": "143956",
+      "mcat_name": "Car Washing Lift"
+    },
+    {
+      "mcat_id": "139629",
+      "mcat_name": "Hydraulic Washing Lift"
+    },
+    {
+      "mcat_id": "15600",
+      "mcat_name": "Hydraulic Car Lift"
+    },
+    {
+      "mcat_id": "141772",
+      "mcat_name": "Car Washing Pump"
+    },
+    {
+      "mcat_id": "23370",
+      "mcat_name": "Car Lift"
+    }
+  ]
+}

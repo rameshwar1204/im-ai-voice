@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672606567",
+  "gluser_id": "155333307",
+  "vintage_months": 4,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Rajpur Sonarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello ha sir India Mart se bol rahe hain?\\nExecutive: ha boliye sir wo aapka jo correction tha wo maine kar diya hai, done hua hai add bhi kar diya hai wo link aapka aapke profile pe.\\nCustomer: theek hai.\\nExecutive: Hello\\nCustomer: theek hai to baki jo aapka concern tha sir isko fir main\\nCustomer: main sir wo aap check kar lijiye kal se main aapko update kar raha hu sir but koi response nahi mil raha hai.\\nExecutive: aap log dekhiye wahi hai na jab\\nCustomer: ji kya bol rahe hain jab aapka ticket number open tha pending\\nExecutive: sir usme to humne call bhi kiya tha na aapko aur guide bhi kiya tha sir ki wo link ke liye hi hai.\\nCustomer: main mana nahi kar raha main keh raha hu main check kar lunga mera concern ye hai jab ticket open tha to kisi close ho gaya aap jaisa bol rahe ho to pichle 24 ghante mein 24 call aa chuke hain main pahunch ke update de dunga main showroom nahi pahunch pa raha hu.\\nExecutive: maine aapko screenshot bhi bhej diya sir do minute lagega aap ek bar open karke aap check kar sakte hain aapke liye update\\nCustomer: main jab tak system pe check nahi system pe check karke aapko update de dunga aap befikar rahiye.\\nExecutive: aap sir mail pe update kar dijiye kyuki hamara bhi ek track hota hai na sir usme aapko solution provide abhi time ho gaya aur resolve karne ka time nahi tha kya aap logo ka?\\nCustomer: wo to resolve kar diya tha sir kal resolve kitne din se sir ticket kitne din se open hai?\\nExecutive: sir aapke side se response hoga tabhi to sir aap response hi nahi kare to sir bataiye isme hamara kya aap logo ne video bheja tha mere pass proof hai aur dusre is tarah se video ab sir agar aapko kisi ne help kar diya kaise link banta hai to wo koi sir ideally aapke side se link aana chahiye na sir aapko jo link add karna hai sir to wo ideally aap create karke hame denge hum usko add karenge hai na sir agar aapko usme kisi bhi person ne ek\\n",
+  "summary": "\\n\nConcerns:\\n\n- Correction requested not reflecting on profile.\\n\n- Ticket closed despite pending resolution.\\n\n- Receiving excessive calls without resolution.\\n\n\\n\nResolution:\\n\n- Executive confirmed correction was done.\\n\n- Asked to check and update via mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- correction, ticket, link, update, profile\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c35bb190-f0a5-40e8-ac12-d99777759703",
+  "ucid": "c35bb190-f0a5-40e8-ac12-d99777759703",
+  "seller_categories": [
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "143856",
+      "mcat_name": "3D Wall Panel"
+    },
+    {
+      "mcat_id": "166726",
+      "mcat_name": "Elevation Tile"
+    }
+  ]
+}

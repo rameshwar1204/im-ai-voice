@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675038761",
+  "gluser_id": "53667749",
+  "vintage_months": 38,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jamshedpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Aapne jis vyakti ko call kiya hai, woh abhi dusre call par vyast hai.\\n\\nExecutive: Hello\\nCustomer: Namaskar ji.\\nExecutive: Haan sir, Smrita baat kar rahi hu IndiaMART ke office se, aapne call kiya tha sir?\\nCustomer: Sir call kiye the, baat hui hai. Woh kisi ka ek inquiry aapki taraf se aaya tha.\\nExecutive: Ji.\\nCustomer: Raashi ka koi party hai.\\nExecutive: Accha.\\nCustomer: Mamun Raashi, Mamun Raashi.\\nExecutive: Isiliye puch rahe the aap log jo bheje hai woh Mamun Raashi ka detail kuch bhejiye kya?\\nExecutive: Toh aapke paas kaisa inquiry kaha pe dikh raha tha sir yeh?\\nCustomer: Yeh dikh raha hai Raashi ka.\\nExecutive: Thik hai toh buylead se uthaya hai aapne ya lead manager mein dikh raha hai, lead manager mein?\\nCustomer: Buylead.\\nExecutive: Buylead mein hai? Toh aapne buylead abhi consume kiya hai?\\nCustomer: Hmm.\\nExecutive: Consume kiya na toh waha pe number hoga sir uska, number nahi hai?\\nCustomer: Hai lekin woh toh band aa raha hai sir.\\nExecutive: Accha number band aa raha hai, ek baar usko WhatsApp pe dekhiyega.\\nCustomer: Ya phir number dijiye hum baat karte hai buyer se.\\nCustomer: 82\\nExecutive: Haan ek second sir, 82\\nCustomer: 92\\nExecutive: 92\\nCustomer: 88\\nCustomer: 8292\\nExecutive: 8292 aap bata rahe hai.\\nExecutive: Haan isko na thoda aap jo hai na WhatsApp pe ek baar connect kariye na, WhatsApp pe.\\nCustomer: WhatsApp usko bhej diya woh uska band hai na.\\nExecutive: Accha WhatsApp bhi band hai sir?\\nCustomer: 8292780133.\\nExecutive: 0133 right?\\nCustomer: 8292780133.\\nCustomer: Waise main kar diya hai.\\nExecutive: Accha, kiye hai na ek baar main bhi connect karke dekhti hu, jaise hi baat hota hai aapko batati hu phir aap usko connect kariye, thik hai?\\nCustomer: Aap kaun bol rahe hai?\\nExecutive: Smrita baat kar rahi hu, aapne IndiaMART pe call kiya tha na sir? Toh apna catalog mere paas hai.\\nCustomer: Nahi nahi Smrita ji toh aapse toh pehle bhi baat hua hai.\\nExecutive: Haan mera pehle aapse baat hua hai woh jo lamba wala problem tha aapne mujhe bataya tha usko discuss bhi kiya tha humne woh sab haan. Actually catalog aapka hamare paas hai na sir toh woh jo bhi problem dikkat aata hai woh direct mere paas hi phone aata hai aapka, thik hai? Toh woh cheez hai. Toh ek kaam karte hai hum khud try karte hai is number pe, thik hai? Jaise hi baat hota hai hum aapko batate hai sir. Thik hai?\\nCustomer: Thik hai, mere kar dena.\\nExecutive: Thik hai aur aapne baki detail bhej diya na WhatsApp wagera pe?\\nCustomer: Haan bheja hu, dekhe tab toh uska toh band hi aa raha hai toh woh bhi next band hai.\\nExecutive: Accha thik hai, thik hai sir hum dekhte hai isko, thik hai ek baar connect ho jata hai toh hum aapko batate hai.\\nExecutive: Thik hai, thik hai sir, thik hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received an inquiry with buyer's number.\\n\n- Buyer's number is switched off.\\n\n\\n\nResolution:\\n\n- Executive took alternate number to connect buyer.\\n\n- Executive assured to connect with buyer.\\n\n\\n\nNext Steps: \\n\n- Executive will try to connect with buyer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiry, catalog, whatsapp\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 177,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59969c58-cdba-4a3c-9af7-5e5d99887654",
+  "ucid": "59969c58-cdba-4a3c-9af7-5e5d99887654",
+  "seller_categories": [
+    {
+      "mcat_id": "156193",
+      "mcat_name": "Colour Coated Roofing Sheet"
+    },
+    {
+      "mcat_id": "182945",
+      "mcat_name": "TATA Galvanized Roofing Sheets"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "2475",
+      "mcat_name": "TMT Bars"
+    },
+    {
+      "mcat_id": "138468",
+      "mcat_name": "MS Square Pipe"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669463029",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha Ilma ji? \\nCustomer: Ji sir.\\nExecutive: Accha Ilma ji jaisa aaj main aaj sham ko ya kal subah agar main karwata hu to ye mera hindu kab se shuru hoga konsi tarikh se?\\nCustomer: Sir jis din se aapka khatam hogi services usi din se aapka fir se shuru hoga main bata deti hu ek second.\\nExecutive: Ha chalu rakho phone.\\nExecutive: Ha ha sir bata rahi hu aapko.\\nCustomer: Ha ha.\\nExecutive: Uh sir ye jo aapki services hai na ye aapki sir 30 30 30 se 30th December se shuru hogi sir.\\nCustomer: Ha 30 December 2025 se shuru hogi.\\nExecutive: Ha aur 29 December ko chalegi.\\nCustomer: Ha lagbhag 29 December 2025 ko 30 ko puri hogi.\\nCustomer: Ha matlab ek saal ka.\\nCustomer: Thik hai main abhi karwa raha hu aapko ye payment.\\nExecutive: Thik hai sir. 50444 aapko bhej rahi hu aap approve bhi kar dijiye account department ko share karna hota hai invoice generate karwane ke liye.\\nCustomer: To approve karne ke baad mein payment karu?\\nExecutive: Nahi pehle aap payment kaise kar rahe ho mujhe ye bata do pehle sir. NEFT.\\nExecutive: Ha nahi to NEFT karke aap bhej dijiye mujhe proposal main aapko bhejti hu whatsapp pe aur mail pe.\\nCustomer: Thik hai apna dekho maine mere mera jo questions tha sab aa gaya amount ka jo leke questions tha 50445 ek ye tha wo aapne bol diya yahi rahega aur kab shuru kab hoga to apna jo khatam hota hai 29 ko khatam hota hai na December.\\nExecutive: Ji sir. 30 December.\\nExecutive: Ji sir. matlab last 30th December ko aapka khatam ho jayega sir to 30th start se fir aapke ha matlab wahi se 31st se lekar next year tak aapki service chalegi.\\nCustomer: Okay bas to main abhi karwa raha hu chalo.\\nExecutive: Okay.\\nExecutive: Thik hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- When will the customer's subscription start?\\n\n- Amount of the subscription.\\n\n\\n\nResolution:\\n\n- Subscription will start from 30th December 2025.\\n\n- Subscription amount is \u20b950,445.\\n\n\\n\nNext Steps: \\n\n- Customer will make the payment via NEFT.\\n\n- Executive will send the proposal on WhatsApp and mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- subscription, payment, neft\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 161,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d753dd24-feb9-41f8-8a7f-d101ae9709fb",
+  "ucid": "d753dd24-feb9-41f8-8a7f-d101ae9709fb",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

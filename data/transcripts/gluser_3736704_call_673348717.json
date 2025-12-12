@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673348717",
+  "gluser_id": "3736704",
+  "vintage_months": 75,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Amravati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694941",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Amol ji, good afternoon.\\nCustomer: Very good afternoon ji, kaun bol rahe ho?\\nExecutive: Amol sir, Suraj baat kar raha hu, Siriya ka senior.\\nCustomer: \\nExecutive: Aap listing mein kuch problem bata rahe the, usi ke liye maine call kiya hai ke bataye sir thoda sa kaha pe problem aa rahi hai. Main online hi tha.\\nCustomer: Hello?\\nExecutive: Ji, ji sir, Amol ji.\\nCustomer: Haan ji.\\nExecutive: Listing mein kya problem aa rahi hai? Aap ladki bata rahi thi inko sir ko listing mein problem aa rahi hai, to maine kaha main baat kar leta hu.\\nCustomer: Listing mein dekhte hai na kuch bhi ye nahi hai aapka, sabke baki jo customer hai sab upar dikhte hai.\\nExecutive: \\nCustomer: Mai video bhi abhi dal raha hu, aapko video dekhe.\\nExecutive: Video bhi dekh lunga, koi baat nahi hai.\\nCustomer: Haan. Abhi aisa nahi aana chahiye, aisa jitna matlab ye karke bhi paisa kharcha karke bhi aap aisa niche rakhenge.\\nExecutive: Haan.\\nCustomer: Sab jaisa dekho abhi.\\nExecutive: Sir, aap pareshan mat ho Amol ji, main ye keh raha tha aapne account login kar rakha hai is time pe apna?\\nCustomer: Kya?\\nExecutive: Aap matlab kaha pe dekh rahe hai? Mobile pe dekh rahe ho, laptop pe dekh rahe ho?\\nCustomer: Mobile pe, mobile pe dekh rahe hai.\\nExecutive: Accha, mobile pe dekh rahe hai aap.\\nExecutive: Ek second.\\nCustomer: Ji.\\nCustomer: Ye video bhi aapko bhej raha hu.\\nCustomer: Ye main hi dal raha hu.\\nExecutive: Jaise main check kar raha hu yaha pe.\\nCustomer: Hello? Ruko main ek aapko video bhejta hu, fir baat karenge uske upar, dekh lo aap.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Listing is not showing up properly.\\n\n- Other customers are showing up on top.\\n\n\\n\nResolution:\\n\n- Executive assured to check the listing issue.\\n\n- Executive asked if customer logged in account.\\n\n\\n\nNext Steps: \\n\n- Customer will send a video for reference.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- listing, visibility, account, mobile\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 122,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=13bc0dbd-8752-44ac-b95d-71ebd66ffc65",
+  "ucid": "13bc0dbd-8752-44ac-b95d-71ebd66ffc65",
+  "seller_categories": [
+    {
+      "mcat_id": "137680",
+      "mcat_name": "Abacus Book"
+    },
+    {
+      "mcat_id": "140000",
+      "mcat_name": "Teacher Abacus"
+    },
+    {
+      "mcat_id": "140001",
+      "mcat_name": "Student Abacus"
+    },
+    {
+      "mcat_id": "137745",
+      "mcat_name": "Abacus Kit"
+    },
+    {
+      "mcat_id": "41625",
+      "mcat_name": "Abacus"
+    }
+  ]
+}

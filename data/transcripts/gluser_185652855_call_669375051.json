@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669375051",
+  "gluser_id": "185652855",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651641",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haji sir.\\nCustomer: Ha sir boliye.\\nExecutive: Sir Vinay bol raha tha IndiaMART se.\\nCustomer: Are sir aapko kitna baar request bheja aap phone kiya ekdam busy. \\nExecutive: Sir request aapka aaya tha Saturday ko. Saturday Sunday off rehta hai office.\\nCustomer: Aur koi baat nahi sir.\\nExecutive: Oh acha acha acha acha acha. Ha aur Saturday aapne bheja bhi tha to main tha nahi main Lucknow mein tha. Aksar main chutti wale din mein aapko call kar leta hu. Mera actually waha pe doctor ka sath appointment tha is wajah se main nahi tha.\\nCustomer: Acha acha thik hai suniye na main abhi ek kaam kar launch kar raha hu thik hai. Aah main aapko contact karna thodi der baad mein. Aapse kaam hai thoda.\\nExecutive: Aapne video meeting ka request dala hua tha. Bataiye kitne der kitne baje connect calendar book kar du main aapka calendar.\\nCustomer: Aah main abhi jis main abhi thoda kaam se ek thoda bahar jaunga. 4:00 baje ke baad hoga.\\nExecutive: Kitne baje connect karenge bataiye mujhe.\\nCustomer: 4:00 4:00 4:00 baje baad.\\nExecutive: 4:00 baje connect kar le.\\nCustomer: Ha ha ha thik hai thik hai. Thik hai main 4:00 baje aapse connect karta hu thik hai.\\nExecutive: Ok ok ok. Main aapka calendar book kar de raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says executive called when he was busy.\\n\n- Customer wants to connect later for some work.\\n\n\\n\nResolution:\\n\n- Executive said he was off on Saturday and Sunday.\\n\n- Executive will connect at 4:00 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will connect at 4:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, connect, calendar\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=34e55ed4-7c86-4ab6-aa33-03db975ac906",
+  "ucid": "34e55ed4-7c86-4ab6-aa33-03db975ac906",
+  "seller_categories": [
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "181411",
+      "mcat_name": "Girls Frock"
+    },
+    {
+      "mcat_id": "184669",
+      "mcat_name": "Kids Baba Suit"
+    },
+    {
+      "mcat_id": "189102",
+      "mcat_name": "Newborn Baby Dress"
+    },
+    {
+      "mcat_id": "4171",
+      "mcat_name": "Baby Frocks"
+    }
+  ]
+}

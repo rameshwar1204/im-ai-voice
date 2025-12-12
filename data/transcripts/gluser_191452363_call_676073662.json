@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676073662",
+  "gluser_id": "191452363",
+  "vintage_months": 2,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello? Ji very good afternoon sir.\\nExecutive: Good afternoon mam. Kaun baat kar rahe hain? Pooja mam baat kar rahi hain?\\nCustomer: Ji sir Pooja baat kar rahi hu IndiaMART se.\\nCustomer: Baat hui aapke abhi mere se concern bataya tha maine aapko abhi aapke senior se baat karwate hain. Call nahi aayi abhi tak?\\nExecutive: Ji sir maine aapne jo manager hai unko bata diya hai. Abhi actually wo thoda sa busy hai call pe. Unhone bola hai mai free hoke call back karta hu thodi der mein. Satya Prakash ji baat kar rahe hain na sir aap?\\nCustomer: Haan ji haan ji.\\nExecutive: Ji ji sir maine unko bol diya hai. Abhi wo thodi der pehle hi bola hai unhone ki Pooja mai free hoke na call karta hu. Inka actually yehi number aapka yehi hai kya ye 8047258147?\\nCustomer: Yes sir. Isko aaya hua hai kya pata unka hi number hoga. Ye 8047248147.\\nExecutive: Ji sir abhi 4:28 pe call kiya tha sir aapko. Aapne shayad uthaya nahi.\\nCustomer: Haan mai pick nahi kar paya. Jara dobara karwaiye aap unse baat kare mai line pe hi hu abhi.\\nExecutive: Ji sir mai unko bol deti hu. Thik hai wo aapko abhi recording line se call back karte hain thodi der mein. Thik hai sir?\\nCustomer: Okay okay okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received a call back.\\n\nResolution:\\n\n- Executive assured a call back shortly.\\n\n\\n\nNext Steps: \\n\n- Executive will inform manager for call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, manager, follow up\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f8ae80f0-972e-4c97-923d-c4387414cd88",
+  "ucid": "f8ae80f0-972e-4c97-923d-c4387414cd88",
+  "seller_categories": [
+    {
+      "mcat_id": "215117",
+      "mcat_name": "Cordyceps Militaris"
+    },
+    {
+      "mcat_id": "654333",
+      "mcat_name": "Dried Cordyceps Sinensis"
+    },
+    {
+      "mcat_id": "186214",
+      "mcat_name": "Makhana"
+    },
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "26879",
+      "mcat_name": "Dried Mushroom"
+    }
+  ]
+}

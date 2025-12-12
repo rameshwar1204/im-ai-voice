@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "675623799",
+  "gluser_id": "27692601",
+  "vintage_months": 1,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681464",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Good evening.\\nExecutive: Good evening. Rishma baat kar rahi hu, Mac Engineer se baat ho rahi hai?\\nCustomer: Haan ji madam.\\nExecutive: Aap bhi IndiaMART ki services ko use kar rahe hain?\\nCustomer: Haan madam, tabhi to use kar rahe hain.\\nExecutive: Haan, to woh abhi available nahi hai kya?\\nCustomer: Madam, yaha mai thoda bahar aayi hui thi woh dusra number hai na aap unpe kar dijiye.\\nExecutive: Sure, okay woh phone, otherwise woh phone to receive kar lete hain.\\nExecutive: Ek minute madam, mai aapko number batati hu. 78777\\nCustomer: 78777\\nExecutive: 83\\nCustomer: 538\\nExecutive: Haan ji.\\nCustomer: Theek hai, mai is baar coordinate kar leti hu.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to connect with Mac Engineer.\\n\n\\n\nResolution:\\n\n- Executive provided an alternate number to connect.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- alternate number, coordination, availability\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=16d71497-c48f-4dee-aacc-aacee117e5d8",
+  "ucid": "16d71497-c48f-4dee-aacc-aacee117e5d8",
+  "seller_categories": [
+    {
+      "mcat_id": "161395",
+      "mcat_name": "Flame Spray Guns"
+    },
+    {
+      "mcat_id": "84372",
+      "mcat_name": "Aluminium Bottle Cap"
+    },
+    {
+      "mcat_id": "42640",
+      "mcat_name": "Thermal Spray Coating Services"
+    },
+    {
+      "mcat_id": "33403",
+      "mcat_name": "Metal Spray Coating"
+    }
+  ]
+}

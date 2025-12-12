@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667414614",
+  "gluser_id": "135162620",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Gautam Buddha Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682799",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan, hello baat kar.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Se dekhiye main aapko abhi unse baat ho rahi hai.\\nCustomer: Ji?\\nExecutive: Sir main pehle ki baat kar rahi hu, subah baat hui thi meri aapse?\\nCustomer: Haan, bataiye na.\\nExecutive: Achha suniye.\\nExecutive: Aapne jo complaint raise kiya tha uske regarding discussion karne ke liye call kiya. Aapka jo issue tha na buyleads ke regarding, buyleads nahi aa rahi hai.\\nCustomer: Hmm hmm hmm.\\nExecutive: To main aapko iska explain kar deti hu. Google Meet ke liye available hai? Aapne login kiya hua hai?\\nCustomer: Matlab?\\nExecutive: Agar main aapko Google Meet ki link, haan, abhi login nahi kar rakha. Main jaise kar raha hu, thoda kaam wagera tha, yaha wo beta. Mujhe aapka phone pick nahi kar raha.\\nCustomer: Achha sir, jaise aapne complaint raise kari hui hai, to uske liye to hum call kar rahe hai. Agar aap receive hi nahi karenge to discussion kaise hoga?\\nCustomer: Main abhi free nahi hu madam, free hoke to karunga aapse.\\nExecutive: Free kis time honge aap?\\nCustomer: Main ab bata raha hu aapko.\\nExecutive: Sir subah se main aapko itni baar call kar chuki hu, ab bataiye.\\nCustomer: Madam main aa hi nahi, main bata deta hu free nahi ho pa raha. Jaise thodi na mujhe maja thodi na aa raha aapko pareshan karne mein.\\nExecutive: Nahi nahi, samajh rahi hu but complaint raise kari hai na aapne uske against mujhe karna padega call.\\nCustomer: Okay, theek hai, theek hai, haan theek hai, sahi hai. Main batata hu aapko.\\nCustomer: Main bhi call karta hu aapko, theek hai na?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n- Executive wants to discuss the issue via Google Meet.\\n\n\\n\nResolution:\\n\n- Executive explained the reason for the call.\\n\n- Customer said he is currently busy.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, google meet, call back\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4a66ae0-5987-4f36-a5c9-17bb1a51da88",
+  "ucid": "c4a66ae0-5987-4f36-a5c9-17bb1a51da88",
+  "seller_categories": [
+    {
+      "mcat_id": "106023",
+      "mcat_name": "Micro Concrete"
+    },
+    {
+      "mcat_id": "165817",
+      "mcat_name": "Structural Repair Services"
+    },
+    {
+      "mcat_id": "95058",
+      "mcat_name": "Carbon Fiber Sheet"
+    },
+    {
+      "mcat_id": "85081",
+      "mcat_name": "Retrofitting Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

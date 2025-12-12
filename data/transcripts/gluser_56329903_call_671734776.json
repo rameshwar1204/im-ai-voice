@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671734776",
+  "gluser_id": "56329903",
+  "vintage_months": 28,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji.\\n\\nCustomer: Hello Sapna account se baat kar rahe hain?\\n\\nExecutive: Sapna Enterprises.\\n\\nCustomer: Sir mere paas koi inquiries nahi aa rahi sir aap log bolenge by lead sir kaise use kare?\\n\\nExecutive: Sir kaun si company se baat kar rahe hain Sapna Enterprises?\\n\\nCustomer: Sir dhang se lead nahi aa rahi revenue service ke andar mein Karan service ke andar.\\n\\nExecutive: Sir Avneesh hai kya aapke account manager?\\n\\nCustomer: Mere paas last account manager ne bola tha kal message aaya tha mere paas ki unhone chhod diya hai kaam.\\n\\nExecutive: Yogendra Yogendra ne?\\n\\nCustomer: Unka naam nahi pata sir mujhe.\\n\\nExecutive: Sir main ek bar kal aapse connect karta hu actually aaj to off hai sir Sunday chutti hai aaj to koi bhi available nahi hai office mein abhi bhi hu.\\n\\nCustomer: Hmm.\\n\\nExecutive: Kal ek bar baat kar leta hu main aapse.\\n\\nCustomer: Theek hai sir.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving inquiries; wants to know how to use buyleads.\\n\n- Dissatisfied with lead quality in revenue service.\\n\n\\n\nResolution:\\n\n- Executive said he will connect next day.\\n\n\\n\nNext Steps: \\n\n- Executive will connect the next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiries, account manager\\n\n\\n",
+  "call_entered_on": "11/16/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f0863625-4e56-4bc6-a281-0a8c5f38a278",
+  "ucid": "f0863625-4e56-4bc6-a281-0a8c5f38a278",
+  "seller_categories": [
+    {
+      "mcat_id": "191018",
+      "mcat_name": "Printed Rayon Fabric"
+    },
+    {
+      "mcat_id": "222113",
+      "mcat_name": "Plain Rayon Fabric"
+    },
+    {
+      "mcat_id": "8980",
+      "mcat_name": "Rayon Fabrics"
+    },
+    {
+      "mcat_id": "1318",
+      "mcat_name": "Cotton Fabric"
+    },
+    {
+      "mcat_id": "35731",
+      "mcat_name": "Printed Cotton Fabric"
+    }
+  ]
+}

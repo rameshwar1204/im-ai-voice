@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "666902467",
+  "gluser_id": "16692281",
+  "vintage_months": 9,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631040",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Uh good afternoon. Komal baat kar rahi hu IndiaMART se. Pradeep ji se baat ho jayegi Harsh Product par?\\nExecutive: Sir to nahi hai.\\nCustomer: Sir nahi hai. Baad me aayenge.\\nExecutive: Haan ma'am abhi aapka na discussion hua tha IndiaMART pe service ke regarding Harsh Product ke liye.\\nCustomer: Haan jhalele. Sir nahi hai. Aata var call kara tumhi return. Jhalela. \\nExecutive: Kya keh rahe hai ma'am aap?\\nCustomer: Abhi sir nahi hai. Wo aa jayenge to bata denge. Call kar.\\nExecutive: Theek hai. Aap mere ko sir ka number share kar sakte ho? To main directly sir ke number pe call kar leti hu.\\nCustomer: Nahi.\\nExecutive: Nahi nahi. Sir aayenge tab hum batayenge unko.\\nCustomer: Theek hai. Main kab tak call back kar lu fir aapko?\\nExecutive: (background conversation) Aadha paun ghante baad.\\nCustomer: Aadha paun ghante baad karo.\\nExecutive: Aadhe paun ghante me. Theek hai ma'am. Thank you.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to speak with Pradeep ji from Harsh Product.\\n- Pradeep ji was unavailable.\\n\\n\\nResolution:\\n\\n- Informed that the concerned person was not available.\\n- Refused to share the contact number.\\n- Advised to call back in 30-45 minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back in 30-45 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback, contact person unavailable, service discussion\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e47437a2-23af-44f9-b66a-2f84edfd7a14",
+  "ucid": "e47437a2-23af-44f9-b66a-2f84edfd7a14",
+  "seller_categories": [
+    {
+      "mcat_id": "162721",
+      "mcat_name": "Prostate Care Capsules"
+    },
+    {
+      "mcat_id": "226816",
+      "mcat_name": "Ayurvedic Thyroid Capsules Tablets"
+    },
+    {
+      "mcat_id": "245803",
+      "mcat_name": "Ayurvedic Fever Tablet"
+    },
+    {
+      "mcat_id": "172045",
+      "mcat_name": "Varicose Veins Treatment"
+    }
+  ]
+}

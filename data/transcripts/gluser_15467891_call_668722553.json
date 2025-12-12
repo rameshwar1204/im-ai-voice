@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668722553",
+  "gluser_id": "15467891",
+  "vintage_months": 88,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638907",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello. Hello. Hanji.\\nCustomer: Main bhi use kar raha hun.\\nCustomer: Hanji boliye.\\nExecutive: Mam ho gayi aapki unse baat?\\nCustomer: Nahi abhi baat nahi hui main dobara call karke ek bar bolti hun.\\nExecutive: Mam kar lijiye mere ko ek concern close karke jana hai kyuki isme hum kuch nahi kar sakte concern hum log ki vajah se vaise bhi band kar denge kyuki aap usme koi wo hai nahi to ek bar aap unse baat kar lo hum sare mutually resolve ho jaye.\\nCustomer: Thik hai main baat karti hun.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to speak with someone else.\\n\n- Executive needs to close a concern.\\n\n\\n\nResolution:\\n\n- Customer agreed to call again and speak.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, call, resolve\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=665ffa4f-183a-483e-8c20-5e1c04579ca0",
+  "ucid": "665ffa4f-183a-483e-8c20-5e1c04579ca0",
+  "seller_categories": [
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "30661",
+      "mcat_name": "Indoor Fountain"
+    },
+    {
+      "mcat_id": "14098",
+      "mcat_name": "Fiberglass Fountain"
+    },
+    {
+      "mcat_id": "165907",
+      "mcat_name": "FRP Fountains"
+    },
+    {
+      "mcat_id": "72799",
+      "mcat_name": "Water Fountain"
+    }
+  ]
+}

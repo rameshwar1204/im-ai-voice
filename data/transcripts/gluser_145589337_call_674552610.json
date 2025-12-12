@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674552610",
+  "gluser_id": "145589337",
+  "vintage_months": 45,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702731",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji Roshan bhai?\\nCustomer: Hello?\\nExecutive: Ji Roshan bhai?\\nCustomer: Aap kaun si company se baat kar rahe ho sir?\\nExecutive: Sir, main SM Creation se bol raha hu.\\nCustomer: Achha ha ha ha sir ha ha ha.\\nExecutive: Ye customer care wala number hai na?\\nCustomer: Haan?\\nExecutive: Ye customer care wala number hai na?\\nExecutive: Baat to ho gayi, baat to ho gayi na sir humari. Main dobara call aa raha tha isliye maine call back kiya.\\nCustomer: Achha achha wo by mistake gayi hogi. Ek bari ko sir 3:00-3:30 baje na main aapko connect karta hu.\\nKyuki hume aur bhi bahut sari discuss karni hai, humari call miss ho rahi hai bahut sari.\\nHai na?\\nCustomer: Haan yaar wo asal mein bas thodi si samasya chal rahi hai sab focus karna hai mujhe in cheezon pe.\\nExecutive: Haan 50-60% humara call response rate hai, ye kaafi kam hai. Humara catalog quality score thoda kam hai.\\nRight?\\nCustomer: Haan.\\nExecutive: To do-char cheeze hume discuss karni hai to aap batao kab discuss kar sakte ho? Kya aapki tabiyat kharab hai to main zyada aapko disturb nahi karna chahta.\\nCustomer: Nahi Roshan bhai main aapko 4:00 baje aas pass karta hu. 10 minute mein, 10 minute mein sir no problem. Okay okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss catalog quality score.\\n\n- Wants to discuss call response rate.\\n\n\\n\nResolution:\\n\n- Executive will call back at 3:00-3:30 PM.\\n\n- Customer will call back around 4:00 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog quality, call response, follow up\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ed1ce1ae-7b11-4b74-bf11-0a328690eb73",
+  "ucid": "ed1ce1ae-7b11-4b74-bf11-0a328690eb73",
+  "seller_categories": [
+    {
+      "mcat_id": "188975",
+      "mcat_name": "Bronze Dinner Set"
+    },
+    {
+      "mcat_id": "320",
+      "mcat_name": "Bronze Serving Plate"
+    },
+    {
+      "mcat_id": "183172",
+      "mcat_name": "Copper Water Bottle"
+    },
+    {
+      "mcat_id": "55427",
+      "mcat_name": "Copper Bathtubs"
+    },
+    {
+      "mcat_id": "226855",
+      "mcat_name": "Copper Bottle Gift Set"
+    }
+  ]
+}

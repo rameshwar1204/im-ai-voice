@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673202106",
+  "gluser_id": "22802321",
+  "vintage_months": 6,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691382",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Uh.\\nExecutive: Sir, video meeting ka link bhej diya maine WhatsApp pe.\\nExecutive: Theek hai, mai karwata hu aapko back call ek aadhe ghante mein.\\nCustomer: Theek hai. Achha unhone Aziz bola tha join ke liye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Link for video meeting not received on WhatsApp.\\n\n- Aziz was supposed to help with joining.\\n\n\\n\nResolution:\\n\n- Executive will arrange a callback in half an hour.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will arrange a callback in half an hour.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meeting link, whatsapp, callback, joining\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ff4365f5-e8f3-4738-948f-ddfef426ac01",
+  "ucid": "ff4365f5-e8f3-4738-948f-ddfef426ac01",
+  "seller_categories": [
+    {
+      "mcat_id": "177511",
+      "mcat_name": "Brass Ganesha Statue"
+    },
+    {
+      "mcat_id": "123850",
+      "mcat_name": "Brass Diya"
+    },
+    {
+      "mcat_id": "4662",
+      "mcat_name": "Brass God Statues"
+    },
+    {
+      "mcat_id": "23806",
+      "mcat_name": "Brass Statues"
+    },
+    {
+      "mcat_id": "349962",
+      "mcat_name": "Dhokra Art"
+    }
+  ]
+}

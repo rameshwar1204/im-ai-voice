@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676765208",
+  "gluser_id": "7184195",
+  "vintage_months": 108,
+  "bl_dau_oct": 20,
+  "customer_type": "LEADER",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675106",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Sapna mam Chetna baat kar rahi hu India Mart se.\\nCustomer: Ha mam bataiye.\\nExecutive: Ji mam wo na mere jo senior manager hai unki sir se baat ho chuki hai. In fact aaj morning me bhi baat hui hai. Sir ne kaha ki isko next month hum finalize karte hai. To is vajah se mai aapka concern yaha se close kar rahi hu, thik hai?\\nCustomer: Mam abhi mujhe kuch update nahi hai is topic pe sir ki aaj do din aap sir se baat kar lijiye.\\nExecutive: Nahi nahi matlab aaj morning me hi sir se baat hui hai. To aapka kisi aapko doubt tha wo pehle bhi sir se baat ho chuki thi unki. Aapne kaha ki nahi sir se to koi nahi discussion hua hai but abhi wapis se sir se baat hui hai unhone bola ki isko next month hum isko finalize karenge abhi bahar hai. To us vajah se fir aapka feedback yaha se aap confirmation le lijiye sir se I think baat to kar hi lenge wo. Thik hai?\\nCustomer: Thik hai. Thik hai confirm kar lijiye.\\nExecutive: The aur baki mai usko yaha se close kar chuki hu. Thank you mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has no updates on the topic.\\n\n\\n\nResolution:\\n\n- Executive informed that senior manager already discussed.\\n- Executive said they will finalize next month.\\n\n\\n\nNext Steps: \\n\n- Customer will confirm with the senior manager.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- senior manager, finalize, discussion, updates\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=31d476cf-779b-4df0-b4a5-6d709c1c86ea",
+  "ucid": "31d476cf-779b-4df0-b4a5-6d709c1c86ea",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    }
+  ]
+}

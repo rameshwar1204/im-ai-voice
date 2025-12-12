@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668364304",
+  "gluser_id": "45681197",
+  "vintage_months": 1,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kanke",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan sir boliye.\\n\\nExecutive: Good morning sir, aap se baat kar raha hu IndiaMART head office se, kaise hain aap?\\n\\nCustomer: Ji sir bataiye.\\n\\nExecutive: Sir, maine last time aapki profile mein changes vagera kare the, uske baad na leads bhi dikhai thi. I think Khushboo mam thi ek toh maine unko show kari thi leads vagera. But consume consumption ko baat karwa raha hu.\\n\\nCustomer: Okay.\\n\\nExecutive: IndiaMART bol ji.\\n\\nCustomer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Ji sir.\\n\\nExecutive: Hello, hi good morning mam, Arpit this side.\\n\\nCustomer: Good morning.\\n\\nExecutive: Um, mam maine aapko isliye bola tha leads consume kar lena aapne leads.\\n\\nCustomer: Ab main aapko thodi der baad call karti hu actually main abhi thoda sa hamara busy schedule hai sir.\\n\\nExecutive: Okay. Main thodi der mein aapse baat karti hu.\\n\\nCustomer: Call leta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss lead consumption.\\n\n- Customer says she has a busy schedule.\\n\n\\n\nResolution:\\n\n- Executive offered to discuss lead consumption.\\n\n- Executive will call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, consumption, schedule\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fac82f4d-5bcc-4c2f-a425-58cfdb750cf6",
+  "ucid": "fac82f4d-5bcc-4c2f-a425-58cfdb750cf6",
+  "seller_categories": [
+    {
+      "mcat_id": "126208",
+      "mcat_name": "HDPE Granules"
+    },
+    {
+      "mcat_id": "153076",
+      "mcat_name": "Natural PP Granule"
+    },
+    {
+      "mcat_id": "42009",
+      "mcat_name": "PP Granules"
+    },
+    {
+      "mcat_id": "153092",
+      "mcat_name": "Reprocessed PP Granules"
+    },
+    {
+      "mcat_id": "186645",
+      "mcat_name": "Pp Milky Granules"
+    }
+  ]
+}

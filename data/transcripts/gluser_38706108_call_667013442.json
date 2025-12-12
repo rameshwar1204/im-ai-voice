@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667013442",
+  "gluser_id": "38706108",
+  "vintage_months": 80,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706183",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ha ma'am.\\nExecutive: Sir main Ritika baat kar rahi hu IndiaMART se, sir check kiya aapne?\\nCustomer: Nahi ma'am woh main puchta hu sir se puchna padega woh number badalne ke liye.\\nExecutive: Ha sir number nahi badalna pehle login toh karke dekho.\\nCustomer: Nahi nahi number woh number change karna hai na uska login pe.\\nExecutive: Login number change karna hai jo primary number hai 89 wala woh kiske paas hai?\\nCustomer: Woh dusra banda hai uske paas hai woh.\\nExecutive: Achha, maine shaayad subah unko phone bhi kiya toh unhone bola tha aaj meeting mein hu kal baat karna.\\nCustomer: Ha woh puchna padega mujhe thodi der mein aapko kal main call karta hu.\\nExecutive: Kal mein?\\nCustomer: Hmm kal karta hu.\\nExecutive: Theek hai.\\nCustomer: Yahi number hai na aapka?\\nExecutive: Ha ha sir yeh wala bhi hai dusre number mein aapko WhatsApp pe hi bhej dungi aap usme kar lena koi dikkat nahi hai.\\nCustomer: Theek, theek, theek, theek hai.\\nExecutive: Aap hai na sabse pehle wohi number ka issue hai aap hai na kyunki aap bol rahe ho baar baar ki 99 se aap login kar rahe ho jabki aapka primary number 99 se hai hi nahi aapka primary number 89 se hi start hai.\\nCustomer: Ha.\\nExecutive: Toh iska matlab hai ki aap kisi galat page par matlab galat jaise free accounts ban jaate hai usme check kar rahe ho aap.\\nCustomer: Theek hai main woh number sir se puchta hu ek baar aur badalna chahunga phir.\\nExecutive: Theek hai toh abhi ke liye jaise aapne call kiya tha toh main bhi abhi close kar du?\\nCustomer: Yes ma'am.\\nExecutive: Jaise subah aapne mujhe call kiya hai toh main close kar du?\\nCustomer: Ha aapka number bhejiye mujhe pehle phir baat karunga.\\nExecutive: Main aapko abhi WhatsApp pe apna number bhej rahi hu aap mujhse kal ispe baat kar lijiyega kyunki yeh toh actually mein concern aapke liye woh bhi clear hai by the way kyunki hum bhi aur ek baar check kar rahe hai lekin main aapko number de rahi hu aap usme call kar sakte hai aapko help milega.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change the login number.\\n\n- Customer is unable to login.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to login first.\\n\n- Executive shared her WhatsApp number with the customer.\\n\n\\n\nNext Steps: \\n\n- Customer will call the executive tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, number change, whatsapp\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 140,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=80562187-ffee-4306-94a4-0628e97ad63c",
+  "ucid": "80562187-ffee-4306-94a4-0628e97ad63c",
+  "seller_categories": [
+    {
+      "mcat_id": "53385",
+      "mcat_name": "Hydraulic Quick Coupler"
+    },
+    {
+      "mcat_id": "184525",
+      "mcat_name": "Male Female coupling"
+    },
+    {
+      "mcat_id": "53592",
+      "mcat_name": "Quick Couplings"
+    },
+    {
+      "mcat_id": "23786",
+      "mcat_name": "Brass Couplings"
+    },
+    {
+      "mcat_id": "8926",
+      "mcat_name": "Quick Release Couplings"
+    }
+  ]
+}

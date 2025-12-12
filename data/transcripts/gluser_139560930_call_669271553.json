@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669271553",
+  "gluser_id": "139560930",
+  "vintage_months": 49,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadohi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of \u20b9499 for subscription.\\n\n- States money was deducted without consent.\\n\n\\n\nResolution:\\n\n- Subscription cancelled.\\n\n- Refund of \u20b9499 initiated; will reflect in 5-7 days.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f424549-8b84-42dd-b3a0-07dcf09f2c47",
+  "ucid": "2f424549-8b84-42dd-b3a0-07dcf09f2c47",
+  "seller_categories": [
+    {
+      "mcat_id": "6453",
+      "mcat_name": "Room Carpet"
+    },
+    {
+      "mcat_id": "132774",
+      "mcat_name": "Designer Carpet"
+    },
+    {
+      "mcat_id": "102",
+      "mcat_name": "Hand Tufted Carpets"
+    },
+    {
+      "mcat_id": "19525",
+      "mcat_name": "Hand Tufted Wool Carpet"
+    },
+    {
+      "mcat_id": "3327",
+      "mcat_name": "Wall To Wall Carpets"
+    }
+  ]
+}

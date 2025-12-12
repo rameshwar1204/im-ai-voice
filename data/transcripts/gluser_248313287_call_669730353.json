@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669730353",
+  "gluser_id": "248313287",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Memari",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651927",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ma'am, abhi Google Meet join karna hai?\\nExecutive: Haan ji sir, maine aapko Google Meet ka link share kar diya hai.\\nCustomer: Kar diya na aap already?\\nExecutive: Haan ji, mail maine mail pe kar diya hu sir.\\nCustomer: Hmm. To join kar raha hu.\\nExecutive: Haan ji sir, join kar lo. Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to join Google Meet.\\n\n\\n\nResolution:\\n\n- Executive shared Google Meet link via mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- google meet, link, mail\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=be8812f0-10c7-4237-b854-22f7d2639d81",
+  "ucid": "be8812f0-10c7-4237-b854-22f7d2639d81",
+  "seller_categories": [
+    {
+      "mcat_id": "95695",
+      "mcat_name": "Turning Holder"
+    },
+    {
+      "mcat_id": "27904",
+      "mcat_name": "Engraving Tools"
+    },
+    {
+      "mcat_id": "24684",
+      "mcat_name": "Ceramic Inserts"
+    },
+    {
+      "mcat_id": "29841",
+      "mcat_name": "Grooving Tools"
+    },
+    {
+      "mcat_id": "184759",
+      "mcat_name": "CBN Inserts"
+    }
+  ]
+}

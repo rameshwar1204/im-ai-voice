@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670014056",
+  "gluser_id": "86533302",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Patiala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672736",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hi sir, main Ashya bol rahi hoon. Kaise hain aap?\\nExecutive: Bahut badhiya ji kahan ja rahe ho se?\\nCustomer: Yes sir, main Noida head office se India Mart ke main.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- noida head office, india mart\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a9365d64-edcd-4b66-907f-8c554d161b87",
+  "ucid": "a9365d64-edcd-4b66-907f-8c554d161b87",
+  "seller_categories": [
+    {
+      "mcat_id": "143598",
+      "mcat_name": "RCC Garden Bench"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    }
+  ]
+}

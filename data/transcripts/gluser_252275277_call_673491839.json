@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673491839",
+  "gluser_id": "252275277",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Tamluk",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello? Haan.\\nExecutive: Haan, Ramji se Sadik bol raha tha yahan par.\\nCustomer: Haan, boliye.\\nExecutive: Maine WhatsApp pe maine bheja bhi approval mil gaya hai ki single number pe matlab service ko live karne ke liye. Achcha.\\nExecutive: Maine aapko WhatsApp pe bhej bhi diya hai, theek hai na, approval aa gaya hai. Theek hai na, to service aaj process ho jayega, kal tak hume dikh jayega live, theek hai na. Achcha, haan.\\nExecutive: Theek hai na, to woh aapne jo call kiya tha na customer care pe, to woh hamare paas ek request aa gaya hai complaint ke liye, theek hai na. To woh service hamara live karna padega to woh complaint pehle close karna padega, to complaint close kar dete hain, theek hai na. Kyunki approval aa gaya, woh service live ho jayega.\\nCustomer: Achcha. Maine bhej diya dekho WhatsApp pe aapko, ek baar WhatsApp open karo aap. Theek hai, main bhaiya ke paas jaake main baat kara deta hoon, theek hai?\\nExecutive: Theek hai, to main woh request ko close kar deta hoon, theek hai?\\nCustomer: Theek hai, main bhaiya se baat kara deta hoon, theek hai?\\nExecutive: Bhaiya se?\\nCustomer: Hmm hmm hmm.\\nExecutive: Kaun bhaiya?\\nCustomer: Hello.\\nExecutive: Hello, haan. Haan, bhaiya se baat kara de raha hoon main, theek hai?\\nExecutive: Achcha, bhaiya se baat karaiye. Hmm hmm, theek hai, main thodi der mein karaata hoon.\\nExecutive: Abhi nahi hai kya wahan pe? Abhi nahi hai, haan.\\nExecutive: Achcha. To maine unko WhatsApp aapko bhej diya hai, ek baar dekh lijiyega nahi to phir chahiye to phir se. Haan, unko bol deta hoon main, theek hai, woh aane ke baad bol deta hoon.\\nExecutive: Haan, to phir request ko close karna padega, nahi to service kaise live karenge hum isko? Haan, theek hai, mere ko aadha ghanta dijiye, main baat kara de raha hoon.\\nExecutive: Theek hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's service needs to be activated.\\n\n- A complaint needs to be closed first.\\n\n\\n\nResolution:\\n\n- Executive sent approval on WhatsApp.\\n\n- Executive offered to close the request.\\n\n\\n\nNext Steps: \\n\n- Customer will connect with his brother.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service activation, whatsapp, approval, complaint\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e49b0768-68a2-45c3-8256-3c1c8315cf0a",
+  "ucid": "e49b0768-68a2-45c3-8256-3c1c8315cf0a",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

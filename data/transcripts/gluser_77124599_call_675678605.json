@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675678605",
+  "gluser_id": "77124599",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Borsad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669133",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Hello, awaz aa rahi hai sir?\\n\\nCustomer: Ha sir boliye boliye.\\n\\nExecutive: Ji sir, actually maine abhi apne senior se bhi discuss kiya sir, maine unko aapka product bhi dikhaya. Thik hai? To sir jo aapka product reject hua hai uska reason aapka jo hai wo mobile number hi hai sir. Jo mobile number mention hai wahi reason hai sir. Aapka company mention hai koi dikkat nahi hai, company mention ho sakta hai, brand mention ho sakta hai. Lekin mobile number jo mention hai uski wajah se wo product reject hua hai. Agar aapko believe nahi ho raha hai, aap ek wahi product delete karke wahi product aap update karo bina mobile number ke sath. Dekhiyega wo product aapka reject nahi hoga sir.\\n\\nCustomer: Thik hai, abhi to mai bike chala raha hu to mai jaise hi office pahuchta hu to mai update karke dekhta hu. Thik hai.\\n\\nExecutive: Sure, sure. Thik hai, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's product is getting rejected.\\n\n\\n\nResolution:\\n\n- Executive informed the reason for product rejection.\\n\n- Executive suggested removing mobile number from product.\\n\n\\n\nNext Steps: \\n\n- Customer will update the product after reaching office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product rejection, mobile number, update\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3d0c6fa1-9301-472a-ba26-1a7aefae7e1f",
+  "ucid": "3d0c6fa1-9301-472a-ba26-1a7aefae7e1f",
+  "seller_categories": [
+    {
+      "mcat_id": "12767",
+      "mcat_name": "Detergent Powder"
+    },
+    {
+      "mcat_id": "26352",
+      "mcat_name": "Detergent Cake"
+    },
+    {
+      "mcat_id": "190267",
+      "mcat_name": "Pitambari Powder"
+    },
+    {
+      "mcat_id": "221163",
+      "mcat_name": "Loose Detergent Powder"
+    },
+    {
+      "mcat_id": "1891",
+      "mcat_name": "Industrial Detergent"
+    }
+  ]
+}

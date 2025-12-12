@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670653147",
+  "gluser_id": "185551037",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Chengalpattu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9721947",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8526a646-dde5-4a0a-819c-41c5fc86b2bf",
+  "ucid": "8526a646-dde5-4a0a-819c-41c5fc86b2bf",
+  "seller_categories": [
+    {
+      "mcat_id": "113940",
+      "mcat_name": "Biomass Briquettes"
+    },
+    {
+      "mcat_id": "90018",
+      "mcat_name": "Cotton Knitted Glove"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    },
+    {
+      "mcat_id": "3054",
+      "mcat_name": "Cotton Gloves"
+    },
+    {
+      "mcat_id": "114087",
+      "mcat_name": "Firewoods"
+    }
+  ]
+}

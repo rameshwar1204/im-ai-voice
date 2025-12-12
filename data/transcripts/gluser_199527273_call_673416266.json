@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673416266",
+  "gluser_id": "199527273",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709465",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [unintelligible]\\nExecutive: Hello sir, Rakhi bol baat kar rahe hain na?\\nCustomer: Haan.\\nExecutive: Sir, main Rakhi baat kar rahi hoon IndiaMART head office se aapke account manager.\\nCustomer: Haan.\\nExecutive: Uh sir, main keh rahi thi ke abhi meri manager ne aap se baat kari hogi, right?\\nCustomer: Haan, haan, haan.\\nExecutive: Toh sir, eh woh maine baat kari toh sir refund possible nahi hai, IndiaMART sir refund allow nahi karti hai.\\nCustomer: Nahi, mere ko bola hai.\\nExecutive: Kisne bola hai refund ka aapko?\\nCustomer: Nasim.\\nExecutive: Nasim ne kaise bol diya sir refund policy nahi hai IndiaMART mein aur dusri baat hai aap ek baat batao na mujhe, aap kahin pe IndiaMART toh aapko service de rahi hai na.\\nCustomer: [unintelligible]\\nExecutive: Is case mein sir bol sakte hain ke chalo hamare paas toh business hi nahi hai aapke liye.\\nCustomer: [unintelligible]\\nExecutive: Ab aapka sir koi bhi issue hai is case mein hum refund nahi karte hain.\\nExecutive: Agar hum business de pa rahe hain toh hum kyun sir refund karenge aap bataiye.\\nExecutive: Aapka yeh issue hai south wala, toh iske liye main aa jaaiye sir not preferred location mein mark kara deti hoon. Daily daily aap usko mark karenge south ki sari locations ko toh sir aap waha ka buylead hi nahi uthayenge, customer hi nahi uthayegi toh waha pe aapko company bhi visible nahi hoga.\\nCustomer: Dekhiye ma'am, main pehle bhi bol chuka hoon, ab bhi main bol raha hoon, theek hai?\\nExecutive: Hmm.\\nCustomer: Mere ko Nasim ne pura ullu bana ke gaya.\\nCustomer: Abhi woh bola refund hai.\\nExecutive: Aap Nasim ko mere saath line pe lijiye.\\nCustomer: Woh mera call nahi uthayega ma'am.\\nExecutive: Aap mere ko number dijiye unka bataiye unka.\\nCustomer: Theek.\\nCustomer: Ek minute ma'am de raha hoon.\\nCustomer: 70013\\nExecutive: Seven?\\nCustomer: 70013\\nExecutive: Hmm.\\nCustomer: 85147\\nExecutive: 147, ek minute main inko na line pe le rahi hoon aapke saath.\\nCustomer: Theek hai.\\nExecutive: Ek minute rukiye call pe aap.\\nExecutive: [unintelligible]\\n(silence)\\nExecutive: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line.\\nExecutive: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line.\\nCustomer: [unintelligible]\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Haan, Rafiqullah.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was promised a refund by Nasim.\\n\n- Customer states Nasim is not answering calls.\\n\n\\n\nResolution:\\n\n- Executive stated refund is not possible.\\n\n- Executive put the call on hold.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, not preferred location\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 261,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f2df2f5-8c44-4ffb-bea1-4afad95e01af",
+  "ucid": "5f2df2f5-8c44-4ffb-bea1-4afad95e01af",
+  "seller_categories": [
+    {
+      "mcat_id": "80226",
+      "mcat_name": "Designer Blouse"
+    },
+    {
+      "mcat_id": "4478",
+      "mcat_name": "Blouse Pieces"
+    },
+    {
+      "mcat_id": "173806",
+      "mcat_name": "Aari Embroidery Work"
+    },
+    {
+      "mcat_id": "6911",
+      "mcat_name": "Embroidered Blouses"
+    },
+    {
+      "mcat_id": "68551",
+      "mcat_name": "Fashion Blouse"
+    }
+  ]
+}

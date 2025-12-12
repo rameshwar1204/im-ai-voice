@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673613792",
+  "gluser_id": "79229906",
+  "vintage_months": 11,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719867",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Mam please hold baat kar rahi hai aapki aawaz nahi aa rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is not audible.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvoice issue\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=37bdbf80-3ac6-439e-b83c-54cc75c2c152",
+  "ucid": "37bdbf80-3ac6-439e-b83c-54cc75c2c152",
+  "seller_categories": [
+    {
+      "mcat_id": "3725",
+      "mcat_name": "Chaat Masala"
+    },
+    {
+      "mcat_id": "77635",
+      "mcat_name": "Food Seasoning"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "122728",
+      "mcat_name": "Masala"
+    },
+    {
+      "mcat_id": "183965",
+      "mcat_name": "Sabji Masala"
+    }
+  ]
+}

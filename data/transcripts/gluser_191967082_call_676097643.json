@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676097643",
+  "gluser_id": "191967082",
+  "vintage_months": 27,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Recording bheji maine aapko.\\nExecutive: Haan.\\nCustomer: Bhej dijiye aap legal team ko bhej dijiye.\\nExecutive: Haan.\\nCustomer: Mujhe thoda jaldi karwa dijiye aap uska.\\nExecutive: Nahi nahi bilkul bilkul bilkul isko mai karwata hu isko jald se jald hai na.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to send the recording to the legal team.\\n\n- Request to expedite the process.\\n\n\\n\nResolution:\\n\n- Assurance to expedite the process.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to slightly urgent.\\n\n\\n\n@@@Key Topics:\\n\nrecording, legal team, expedite\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ee8ab1e-6a65-4c43-b7a1-499fce11754d",
+  "ucid": "4ee8ab1e-6a65-4c43-b7a1-499fce11754d",
+  "seller_categories": [
+    {
+      "mcat_id": "40361",
+      "mcat_name": "Tube Cleaners"
+    },
+    {
+      "mcat_id": "132537",
+      "mcat_name": "Tube Cleaning Brush"
+    },
+    {
+      "mcat_id": "42067",
+      "mcat_name": "Tube Expanders"
+    },
+    {
+      "mcat_id": "136243",
+      "mcat_name": "Boiler Brush"
+    },
+    {
+      "mcat_id": "28585",
+      "mcat_name": "Flexible Shafts"
+    }
+  ]
+}

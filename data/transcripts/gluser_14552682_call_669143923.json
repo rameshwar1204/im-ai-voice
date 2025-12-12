@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669143923",
+  "gluser_id": "14552682",
+  "vintage_months": 12,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bahadurgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650738",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello hello.\\nExecutive: Hello, hello.\\nCustomer: Haan ji. \\nExecutive: Keh raha tha good morning sir.\\nCustomer: Good morning.\\nExecutive: Vimal bol raha hu sir India Mart se.\\nCustomer: Ji ha ji.\\nExecutive: Ji ji bol raha hu sir office pahuch gaye aap sir?\\nCustomer: Nahi pahucha nahi ji abhi mai.\\nExecutive: Kitne time pahuch jayenge aap?\\nCustomer: Abhi aadha ghanta.\\nExecutive: Achcha achcha mai aadha ghante me lagata hu ek baar system pe ek baar aaiye na system pe ek baar connect kar lete hai sir.\\nCustomer: Thik hai.\\nExecutive: Thik hai sir thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired if customer reached office.\\n\n\\n\nResolution:\\n\n- Executive will call in half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, connect, office\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4799c02a-65c6-48aa-bf49-c17b9fe1d153",
+  "ucid": "4799c02a-65c6-48aa-bf49-c17b9fe1d153",
+  "seller_categories": [
+    {
+      "mcat_id": "136846",
+      "mcat_name": "BOPP Tape Slitting Machine"
+    },
+    {
+      "mcat_id": "136732",
+      "mcat_name": "Adhesive Tape Making Machine"
+    },
+    {
+      "mcat_id": "141629",
+      "mcat_name": "Bopp Self Adhesive Tape Machine"
+    },
+    {
+      "mcat_id": "101968",
+      "mcat_name": "Cello Tape Machine"
+    },
+    {
+      "mcat_id": "150529",
+      "mcat_name": "Tape Cutting Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676450001",
+  "gluser_id": "243496478",
+  "vintage_months": 7,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Chandrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715605",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Bharat ji main hello Bharat ji Tanay Prakash baat kar raha hoon business manager India Mart se. Aapse baat hui thi sir aapne kya bola tha ki unauthorized device se kuch login vagaira ka problem aaya tha aapko right?\\nCustomer: Ji ji ji.\\nExecutive: To wo wo cheeze humne solve ki thi log out karke to I guess wo cheez solve ho gayi abhi aur koi unauthorized device ya kisi bhi koi misuse nahi ho raha aapke aapka.\\nCustomer: Itna mere ko kuch aaya nahi update.\\nExecutive: Main karta hu phone thodi der mein aapko. Mujhe ek cheez bata denge bas. Main karta hu na thodi der mein baat karta hu aapse.\\nCustomer: Chaliye theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unauthorized device login issue.\\n\n\\n\nResolution:\\n\n- Logout done to resolve the unauthorized device issue.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back shortly.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nunauthorized device, login issue, logout\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef3fb6cd-67fa-457e-90c4-61d259bdb1ae",
+  "ucid": "ef3fb6cd-67fa-457e-90c4-61d259bdb1ae",
+  "seller_categories": [
+    {
+      "mcat_id": "193973",
+      "mcat_name": "Waaree Solar Panels"
+    },
+    {
+      "mcat_id": "193593",
+      "mcat_name": "TATA Solar Panels"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    },
+    {
+      "mcat_id": "149832",
+      "mcat_name": "Solar Grid Tie Inverter"
+    }
+  ]
+}

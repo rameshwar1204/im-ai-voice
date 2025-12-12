@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669882966",
+  "gluser_id": "113092335",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know about the verification call.\\n\n\\n\nResolution:\\n\n- Explained about the subscription amount deduction.\\n\n- Refund of the subscription amount initiated.\\n\n- Explained about the verification call process.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d0822142-4814-43d3-9313-8a8b2fa6b0a0",
+  "ucid": "d0822142-4814-43d3-9313-8a8b2fa6b0a0",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "1686",
+      "mcat_name": "Safety Relays"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "167489",
+      "mcat_name": "Bus Coupler"
+    },
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    }
+  ]
+}

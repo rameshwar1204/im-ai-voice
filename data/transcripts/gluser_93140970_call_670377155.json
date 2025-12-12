@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670377155",
+  "gluser_id": "93140970",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Kalol",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663093",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nBolo.\\nHa ji sir namaskar. Gaurav baat kar raha tha India Mart se.\\nSir main na aapko 11 baje call karne ke liye kiya tha aap kitne baje call kar rahe ho?\\nSir maine 11 baje aap check kariye maine kiya tha do bar kiya tha aapka aur fir aapne phone hi nahi uthaya sir.\\nSir screenshot bhej do mobile ka.\\nSir main main bhej deta hu aapka ye number hai na WhatsApp pe aap dekhiye abhi abhi main hospital nikla hu theek hai aapko service lena hai do nahi to baad me jao nahi chahiye aapki service rakho theek hai waise bhi aap chutiye bana rahe ho sab customer ko rakh do.\\nSir dekho service ke aap phone uthaoge tabhi to hum service denge na aapne aap pehle phone dekhiye na maine kiya hai ki nahi kiya aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive was supposed to receive a call at 11 AM but received it later.\\n\n- Executive claims the caller did not call at the scheduled time.\\n\n- Executive accuses the caller of deceiving customers and does not want the service.\\n\n\\n\nResolution:\\n\n- Caller offered to send a screenshot as proof of the call made at 11 AM.\\n\n- Caller stated that service can only be provided if the phone is answered.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive rejected the service.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNegative: The executive is initially frustrated, then becomes accusatory and dismissive.\\n\n\\n\n@@@Key Topics:\\n\nmissed call, scheduled call, customer service, accusation, rejection\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eacad96b-f76d-45da-8810-0d51e11ee617",
+  "ucid": "eacad96b-f76d-45da-8810-0d51e11ee617",
+  "seller_categories": [
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "150841",
+      "mcat_name": "EPE Foam Roll"
+    },
+    {
+      "mcat_id": "38778",
+      "mcat_name": "Stretch Film"
+    },
+    {
+      "mcat_id": "32930",
+      "mcat_name": "Nylon Cable Tie"
+    },
+    {
+      "mcat_id": "85843",
+      "mcat_name": "Air Bubble Roll"
+    }
+  ]
+}

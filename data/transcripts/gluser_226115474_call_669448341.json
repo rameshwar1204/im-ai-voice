@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669448341",
+  "gluser_id": "226115474",
+  "vintage_months": 12,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chharra Rafatpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656248",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan, hello.\\nCustomer: Mafi sir.\\nExecutive: Haan, Kanhaiya ji.\\nCustomer: Ji sir.\\nExecutive: Haan, Virendra sir se baat ho gayi hai meri, theek hai?\\nCustomer: Achcha achcha.\\nExecutive: Sara kuch unko bata diya hai, haan, aap pareshan mat hoen. Haan, kal tak aapka jo service hai na preferred star ka.\\nCustomer: Ji sir. Kal haan, Tuesday morning tak aapka sab kuch ready ho jayega, sab kuch okay ho jayega. Profile aapki update ho jayegi, theek hai?\\nCustomer: Achcha achcha.\\nExecutive: Haan, aur kal se aapko us tarike ki leads kal se kal tak agar live ho gayi, kal tak live ho jayegi, parso se aapko us tarike ki leads dikhne lagenge jis tarike ki required hai aapko, theek hai?\\nCustomer: Theek hai, okay sir. Haan.\\nExecutive: Kanhaiya ji aapne na haan.\\nCustomer: Jo hamare service ka naam kya hai sir?\\nExecutive: Preferred star. Sir ye said preferred star, preferred star. Preferred. Ji ji sir preferred star hai na. Ji ek cheez aur bata raha hu sir aapse ye kehna tha ki aapne jo customer care number pe call kar diya tha na to ek complaint aayi thi uske liye ki aap connect karna chahte hain mere se. Us complaint ko main close karne ja raha hu, theek hai?\\nCustomer: Okay okay.\\nExecutive: Kyunki apna discussion ho gaya hai to abhi main complaint close kar raha hu. Mail pe na ek feedback jayega wo mere liye hoga sir. Ki aap abhi se satisfy hai nahi hai. Theek hai? Ji sir okay okay. To wo mere liye aap sir satisfy not satisfy jo bhi lage aap de dena ek bar, theek hai? Wo mere liye hoga sir. Okay okay okay. Theek sir. Main yahan se close kar raha hu complaint sir, theek? Ji ji sir okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about preferred star service.\\n\n- Customer had raised a complaint earlier.\\n\n\\n\nResolution:\\n\n- Executive confirmed preferred star service will be live.\\n\n- Executive will close the customer's complaint.\\n\n- Executive requested feedback on mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- preferred star, complaint, feedback, service\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a641df0-d0f9-4dc5-9304-62d59405cd69",
+  "ucid": "6a641df0-d0f9-4dc5-9304-62d59405cd69",
+  "seller_categories": [
+    {
+      "mcat_id": "208837",
+      "mcat_name": "Flour Mill Plant"
+    },
+    {
+      "mcat_id": "28610",
+      "mcat_name": "Flour Mill"
+    },
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "176585",
+      "mcat_name": "Automatic Atta Chakki"
+    },
+    {
+      "mcat_id": "216186",
+      "mcat_name": "Roller Flour Mill"
+    }
+  ]
+}

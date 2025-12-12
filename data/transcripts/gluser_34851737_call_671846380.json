@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671846380",
+  "gluser_id": "34851737",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Thoothukudi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello, good morning.\\nCustomer: Good morning, Mr. Rajan. Rajesh here again. I to connect with you. Actually regarding the same concern which you are talking in WhatsApp chat. It is taking too much time to connect and reply by my end your your end.\\nExecutive: to call soon, correct?\\nExecutive: What do you want actually?\\nCustomer: Uh, I wanted to connect on online over the video meet sir. So that we can solve the issue.\\nExecutive: See, what what is the issue actually?\\nCustomer: The issue is you have given the feedback like you want preferred manufacturers.\\nExecutive: So really I asked you we need the material from manufacturer. Okay, I don't Is there any problem?\\nCustomer: We want material from manufacturer.\\nExecutive: Direct manufacturer I am on the other bulk supplier that is one I give you. Okay, just leave it. This is not serious matter. Is there anything else?\\nCustomer: it's Monday we are in office work. So we are not able to do any other thing, please.\\nExecutive: Sir, regarding the same like you have given the feedback right now. So concern is raised. So I am closing the same, sir.\\nCustomer: closing. Okay. Okay. Okay. Thank you. Thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect over video call.\\n\n- Customer wants material from manufacturers only.\\n\n\\n\nResolution:\\n\n- Executive said he is a bulk supplier.\\n\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, manufacturer, bulk supplier\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ded73cc2-ea2e-417a-adde-37c3bb4cab53",
+  "ucid": "ded73cc2-ea2e-417a-adde-37c3bb4cab53",
+  "seller_categories": [
+    {
+      "mcat_id": "43607",
+      "mcat_name": "Laterite Stone Block"
+    },
+    {
+      "mcat_id": "31110",
+      "mcat_name": "Iron Ore Pellets"
+    },
+    {
+      "mcat_id": "215902",
+      "mcat_name": "Agricultural Gypsum Powder"
+    },
+    {
+      "mcat_id": "122168",
+      "mcat_name": "Copper Slag"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    }
+  ]
+}

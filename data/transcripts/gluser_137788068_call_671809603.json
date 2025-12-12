@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671809603",
+  "gluser_id": "137788068",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Hasanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679350",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Hello\\nExecutive: Good morning sir, main Margita baat kar rahi hoon India Mart se.\\nCustomer: Main baat kar raha hoon Kashmir plant house se.\\nExecutive: Hello\\nCustomer: Kashmir plant house se.\\nExecutive: Sir your voice is not clear. Hello.\\nCustomer: Hello\\nExecutive: Haan ji sir bataye.\\nCustomer: Main aapke dusre number pe call karu? Jo aapka dusra wala number hai?\\nExecutive: Ji ji aap dusre pe call kar lijiyega.\\nCustomer: Sir aapki company ka naam kya hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is not clear.\\n\n- Wants to call on the other number.\\n\n- Asks the company name.\\n\n\\n\nResolution:\\n\n- Executive asks to call on the other number.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, number, company name\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e99e40ac-e6b0-4bcd-8756-b8d71147118d",
+  "ucid": "e99e40ac-e6b0-4bcd-8756-b8d71147118d",
+  "seller_categories": [
+    {
+      "mcat_id": "23709",
+      "mcat_name": "Bonsai Plants"
+    },
+    {
+      "mcat_id": "193190",
+      "mcat_name": "Plant Nursery"
+    },
+    {
+      "mcat_id": "25357",
+      "mcat_name": "Date Palm Trees"
+    },
+    {
+      "mcat_id": "122335",
+      "mcat_name": "Rose Tree"
+    },
+    {
+      "mcat_id": "28638",
+      "mcat_name": "Flowering Plant"
+    }
+  ]
+}

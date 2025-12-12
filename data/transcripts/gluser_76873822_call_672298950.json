@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672298950",
+  "gluser_id": "76873822",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722581",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes Prakash ji good morning.\\nCustomer: Good morning sir.\\nExecutive: Imran this side calling from IndiaMART. How are you sir?\\nCustomer: I'm fine sir.\\nExecutive: Actually sir can we connect today sir?\\nCustomer: Sir the problem is I'm attending for a green card interview in Mumbai tomorrow. So I'm busy with the process preparing the file taking the documents and everything.\\nSo only after that only I can attend because you know I'm leaving tomorrow morning by flight 9 o'clock flight so I'll come back on Saturday only after Saturday I'll be free.\\nExecutive: Okay. So it is not possible is this not possible sir so that we can connect about the meeting for 10 to 15 minutes only sir.\\nCustomer: Today today is not possible sir today.\\nExecutive: Okay. Then can we connect tomorrow sir?\\nCustomer: No sir tomorrow I'm in Mumbai I'm leaving to green card interview. So until Saturday I'll be busy after Saturday anytime you can call me.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has a green card interview in Mumbai.\\n\n- Customer is busy preparing for the interview.\\n\n\\n\nResolution:\\n\n- Executive asked to connect later after Saturday.\\n\n\\n\nNext Steps: \\n\n- Executive will call after Saturday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- green card, interview, follow up\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=129bf3ab-8d6c-4c4b-b399-a3cc03b0d473",
+  "ucid": "129bf3ab-8d6c-4c4b-b399-a3cc03b0d473",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "444098",
+      "mcat_name": "Ertapenem Injection"
+    },
+    {
+      "mcat_id": "162286",
+      "mcat_name": "Tenofovir Tablet"
+    },
+    {
+      "mcat_id": "445971",
+      "mcat_name": "Ferric Carboxymaltose injection"
+    }
+  ]
+}

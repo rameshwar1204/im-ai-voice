@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667466977",
+  "gluser_id": "121249502",
+  "vintage_months": 21,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636273",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello? Abhi maine call lagaya uska number hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants the number of the person called.\\n\n\\n\nResolution:\\n\n- Not applicable\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b4f2345d-37cc-43d9-b5a0-9f52aa2b04bf",
+  "ucid": "b4f2345d-37cc-43d9-b5a0-9f52aa2b04bf",
+  "seller_categories": [
+    {
+      "mcat_id": "16441",
+      "mcat_name": "Kali Statue"
+    },
+    {
+      "mcat_id": "15539",
+      "mcat_name": "Durga Statue"
+    },
+    {
+      "mcat_id": "11058",
+      "mcat_name": "God Statues"
+    },
+    {
+      "mcat_id": "191753",
+      "mcat_name": "Bhim Rao Ambedkar Statue"
+    },
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    }
+  ]
+}

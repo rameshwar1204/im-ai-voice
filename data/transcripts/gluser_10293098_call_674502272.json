@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674502272",
+  "gluser_id": "10293098",
+  "vintage_months": 87,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan ji Abhishek ji Star Pi se bol rahe hain.\\nCustomer: Haan ji mam good morning mam.\\nExecutive: Good morning. Aapke IndiaMART mein kuch nahi aa raha.\\nCustomer: Achcha mam actually na main thoda bahar aaya hua tha.\\nExecutive: Call unhe deal karega please call karaye hume. Haan main number de do ya fir mujhe bhi isse baat kar lo.\\nCustomer: Achcha aap number note kare.\\nExecutive: Bolo.\\nExecutive: Ek minute.\\nExecutive: Haan 720\\nCustomer: 720\\nExecutive: 720 isko fenk do. 720 isko fenk do.\\nExecutive: 92\\nCustomer: 92\\nExecutive: 83353\\nCustomer: Kaun hai ye?\\nExecutive: Ye Pallavi hai meri manager.\\nCustomer: Ye karegi help tumhare ko koi bhi NCR ki inquiry aa rahi hai sab bahar se aa rahi hai. Hamare useless hai bilkul IndiaMART.\\nCustomer: Achcha sir theek mam ek baar aap baat kar lo mam se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Nothing is coming from IndiaMART.\\n\n- All NCR inquiries are coming from outside.\\n\n- IndiaMART is completely useless.\\n\n\\n\nResolution:\\n\n- Executive provided manager's number.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to the manager.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- incomings, ncr inquiry, manager number\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=71aed5fc-a06c-4ae5-b1cf-e6ac0e23a654",
+  "ucid": "71aed5fc-a06c-4ae5-b1cf-e6ac0e23a654",
+  "seller_categories": [
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    }
+  ]
+}

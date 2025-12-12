@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668636534",
+  "gluser_id": "28840653",
+  "vintage_months": 4,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Devanahalli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647055",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: pata hai\\n(silence)\\nCustomer: Hi, if you record your name and reason for calling, I'll see if this person is available.\\n\\nCustomer: Hello.\\n\\nCustomer: Thanks. Please stay on the line.\\n\\nCustomer: Accha hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello. Repeat se kya matlab hai?\\nCustomer: Hello.\\nCustomer: Very good afternoon sir.\\nCustomer: Hello aapko meri voice aa rahi hai hello.\\nCustomer: ha ke ke\\nExecutive: Sir main ye keh raha tha aapne abhi jo hamara interaction hua tha usme aapne sir not satisfied diya hai is specific reason hai sir kya issue aa raha hai aapko.\\nCustomer: Hello.\\nCustomer: ha ha.\\nCustomer: Hello.\\nExecutive: Main ye keh raha hu abhi hamara jo interaction hua tha sir us interaction ke base pe sir aapne not satisfied mark kiya hai to us specific reason hai sir please bataye.\\nCustomer: India mart\\nExecutive: Ji ji India mart se hi bol raha hu hello.\\nCustomer: Enquiry nahi aa raha hai yaar kuch\\nExecutive: Sir maine enquiry ka aapko bataya tha na sir dekhiye hame uske liye apni listing visibility pe kam karna padega.\\nCustomer: aap kya karte hai kya karne ki koshish karte hai na humko humko hi samjhane ke liye koshish karte hai udhar enquiry kuch dete nahi hai udhar udhar aath das jane ko deke fir baad me hame dete ho enquiry se kya fayda mujhe.\\nExecutive: Sir sir enquiry hum nahi dete hai pehli baat sahi hai enquiry hoti hai wo baad me call karta hu.\\nCustomer: Sir ek minute baat sir ek minute baat sun lijiye sir hello.\\nExecutive: nahi nahi thoda busy hu abhi.\\nExecutive: Sir ek minute baat sun lijiye bas main aapko bas seedha\\n\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Main ek minute dusre taraf hu main call.\\nExecutive: Main keh raha hu sir ji ji bilkul aapke paas sir ek call aayega abhi please aap usko answer kar dijiyega bas itni request hai aap se.\\nCustomer: theek hai\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked 'not satisfied' after interaction.\\n\n- Customer is not receiving enough inquiries.\\n\n\\n\nResolution:\\n\n- Executive stated inquiries are not manually distributed.\\n\n- Executive said customer will receive a call soon.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, satisfaction, listing, visibility\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=83c38a88-c034-4a58-8ba1-8fd7c6288437",
+  "ucid": "83c38a88-c034-4a58-8ba1-8fd7c6288437",
+  "seller_categories": [
+    {
+      "mcat_id": "167435",
+      "mcat_name": "ETC Solar Water Heater"
+    },
+    {
+      "mcat_id": "204123",
+      "mcat_name": "Supreme Solar Water Heater"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    }
+  ]
+}

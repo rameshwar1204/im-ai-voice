@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675180114",
+  "gluser_id": "86207943",
+  "vintage_months": 4,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Silvassa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ma'am.\\nExecutive: Haan ma'am, main ye bol rahi hu ki aapne ye 9696 pe call kiya tha to ye concern raise ho gaya tha aapka.\\nCustomer: To abhi isko main close kar du agar clarify ho gaya hai isko.\\nExecutive: Verify aap bol rahe hain ki isme kuch hum isme verify direct call aayega to isme shayad verification ka kuch nahi hai, hai na?\\nCustomer: Ab online koi search karke aapko direct call kar raha hai IndiaMART ke portal pe jaake.\\nHmm.\\nExecutive: Aur wo aapke requirement kis kiski maang raha hai.\\nCustomer: Aur wo fraud person hai to wo kaise matlab agar by lead wo post kar raha hai to waha pe possible hai jaise wo GST verified ka sign aa jata hai.\\nExecutive: Hai na?\\nCustomer: Hmm hmm.\\nExecutive: Waha pe OTP work wagera dal ke number dal ke fir by lead post karta hai to usme ho sakta hai.\\nCustomer: Jo direct calls aate hain usme ye cheez possible nahi hai na? Kyunki wo to directly koi kar raha hai apni location se baith ke aapko.\\nExecutive: Wahi puchna tha mujhe.\\nCustomer: Theek hai, theek hai ma'am aap close kar do.\\nCustomer: Haan baki aap isko pehchan gaye ho to isko aap wo kar sakte ho block wagera baki.\\nExecutive: Theek hai.\\nCustomer: Agar jaise wagera zyada nahi aayenge ye koi aapko mujhe lagta hai kyunki apne number wagera to aur bhi jagah pe rehte hain na?\\nExecutive: Hmm.\\nCustomer: To waha se bhi data leak ho jata hai.\\nExecutive: Theek hai.\\nCustomer: Theek hai, koi baat nahi abhi jo purane record hai ek lead wala mere staff ko bola tha unhone shayad kuch acche se aapko bataya nahi hoga.\\nExecutive: Abhi wo mujhe mil nahi raha hai to theek hai abhi close karo hopefully future mein kuch na ho.\\nCustomer: Haan haan kyunki wo feedback ke liye mail aayega na isliye main puch rahi hu.\\nExecutive: Theek hai okay.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about direct calls and verification.\\n\nResolution:\\n\n- Executive clarified process for posting buyleads.\\n- Executive offered to block suspicious contacts.\\n\nNext Steps: \\n\n- Issue resolved.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, verification, direct calls\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3f094429-8d62-41a9-b93c-a87aea74d77c",
+  "ucid": "3f094429-8d62-41a9-b93c-a87aea74d77c",
+  "seller_categories": [
+    {
+      "mcat_id": "2386",
+      "mcat_name": "Thermal Transfer Ribbons"
+    },
+    {
+      "mcat_id": "72754",
+      "mcat_name": "Wax Ribbon"
+    },
+    {
+      "mcat_id": "22855",
+      "mcat_name": "Barcode Ribbons"
+    },
+    {
+      "mcat_id": "444509",
+      "mcat_name": "Wax Resin Ribbon"
+    },
+    {
+      "mcat_id": "144",
+      "mcat_name": "Printer Ribbons"
+    }
+  ]
+}

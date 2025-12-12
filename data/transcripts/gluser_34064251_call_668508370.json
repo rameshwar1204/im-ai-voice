@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668508370",
+  "gluser_id": "34064251",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Ratnagiri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646495",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Nikhil ji, good morning.\\nCustomer: Haan ji, haan ji. So actually, I have shared the link with you. You can join in 5 minutes because I am on a video meet right now, okay?\\nExecutive: Okay, but my PC does not have a webcam, so I cannot come on video.\\nCustomer: Kya bol rahe hain sir?\\nExecutive: Mere PC PC ko webcam nahi hai.\\nExecutive: To koi dikkat aayega?\\nCustomer: No issue. If you click directly on the video meet link I have shared, you will join directly. There will be no issue.\\nExecutive: Okay. Okay.\\nExecutive: Okay. Theek hai. Join in 5 minutes. As soon as this video meet ends, I will join.\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's PC does not have a webcam.\\n\n\\n\nResolution:\\n\n- Executive said customer can join without webcam.\\n\n\\n\nNext Steps: \\n\n- Executive will join after current video meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, webcam, joining\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=30b99029-073f-4393-a333-536a0dc9bc24",
+  "ucid": "30b99029-073f-4393-a333-536a0dc9bc24",
+  "seller_categories": [
+    {
+      "mcat_id": "181669",
+      "mcat_name": "Hotel Soap"
+    },
+    {
+      "mcat_id": "143667",
+      "mcat_name": "Hotel Guest Toiletries"
+    },
+    {
+      "mcat_id": "189954",
+      "mcat_name": "Hotel Dental Kit"
+    },
+    {
+      "mcat_id": "189931",
+      "mcat_name": "Hotel Amenity Kit"
+    },
+    {
+      "mcat_id": "105335",
+      "mcat_name": "Guest Amenities"
+    }
+  ]
+}

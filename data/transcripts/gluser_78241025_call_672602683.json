@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672602683",
+  "gluser_id": "78241025",
+  "vintage_months": 4,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jalgaon",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Chalo aap mujhe call kar lo na.\\nExecutive: Hello.\\nCustomer: Haan bolo. Hello. Sir aapka call disconnect ho gaya tha.\\nCustomer: Haan haan.\\nExecutive: Main aapse jo maine aapko related categories aapse discuss kari hain. Kya wo related categories hum add kar sakte hain aapke product mein? Nahi mam nahi supplement nahi aata hai mere isme.\\nCustomer: Achcha supplements hai. Supplements nahi kar sakte. Ab jaise aapne likha Mazi cattle feed. Mazi cattle feed kya hota hai sir? Mazi Mazi cattle feed kya hota hai sir wo?\\nCustomer: Nahi maine nahi likha wo.\\nExecutive: Aapke product mein aa raha hai Mazi cattle feed.\\nCustomer: Mazi cattle feed?\\nExecutive: M A I Z E D E Mazi karke.\\nCustomer: Nahi mam aisa koi add nahi kiya maine.\\nExecutive: Okay add nahi kiya hai aapne. Mera aapse ek request hai. Aapko agar koi query hai.\\nCustomer: Agar kal morning mein free ho. To mujhe Google meet par thoda sa time de do. Hum aapka catalog bhi aapko dikha denge. Kuch agar aisa product hai jisme aap deal nahi kar rahe ho. Wo hum remove kar denge aur sari aur in details discuss kar lenge hum aapse. Nahi mam catalog mera right hai. Catalog mein jo bhi product hai usme main deal karta hu.\\nExecutive: Jo product hai usme aap deal kar rahe ho. To jo ye category maine aapko batai hai.\\nCustomer: Haan.\\nExecutive: Us category mein aap kya deal kar rahe ho?\\nCustomer: Abhi aapne main main dunga main wo. Makka chunni hunga wo.\\nExecutive: Sir aapki voice nahi aa rahi kya keh rahe hain?\\nCustomer: Nahi hai. Theek hai mam kal bolta hu main aapko.\\nExecutive: Morning mein 10 baje connect karti hu kal main aapko theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call was disconnected.\\n\n- Customer is unsure about 'Mazi cattle feed' category.\\n\n- Executive wants to discuss catalog via Google Meet.\\n\n\\n\nResolution:\\n\n- Executive offered to review catalog on Google Meet.\\n\n- Customer said he deals with all products in catalog.\\n\n- Agreed to connect next day at 10 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will connect next day at 10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, categories, google meet, product\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fef48810-2fa1-4066-9362-5670ab70a805",
+  "ucid": "fef48810-2fa1-4066-9362-5670ab70a805",
+  "seller_categories": [
+    {
+      "mcat_id": "96272",
+      "mcat_name": "Cotton Seed Cake"
+    },
+    {
+      "mcat_id": "127328",
+      "mcat_name": "Cottonseed Oil Cake"
+    },
+    {
+      "mcat_id": "9792",
+      "mcat_name": "Maize Cattle Feed"
+    },
+    {
+      "mcat_id": "115",
+      "mcat_name": "Cattle Feed"
+    },
+    {
+      "mcat_id": "192161",
+      "mcat_name": "Maize Bran"
+    }
+  ]
+}

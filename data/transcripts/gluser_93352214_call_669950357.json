@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669950357",
+  "gluser_id": "93352214",
+  "vintage_months": 11,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671548",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji, Saurabh Tiwari ji se baat ho rahi hai kya?\\nCustomer: Ji.\\nExecutive: Ah, Mr. Tiwari, main Suraj Dubey baat kar raha tha IndiaMART se, business ke liye meri baat hui thi aapse sir, video meeting mein. \\nCustomer: Sir, woh aaj aapne usme cucumber ka seed ka add kar diya hai, jabki woh hamare paas abhi seed ka koi bhi, koi business hamara seed ka nahi hai.\\nExecutive: Haan ji. Actually sir aapne photos vagera whatsapp mein share ki thi iski bhi. \\nCustomer: Woh humne is vajah se share ki, is vajah se share kiya tha mujhe seed ka jarurat tha uska, loose mein bulk mein, maine madam se bhi bola tha ki aap hume kuch contact bhej do. Aur aapne use as a buylead mein dal diya.\\nExecutive: Haan ji, haan ji, actually aap, sir woh jab bhi aap usme share, share karte hai na sir, toh woh hamare paas hi aata hai, aap hume direct number par se bhi call kar sakte the. Actually usme hume laga ki aapko\\nCustomer: Seed ke kuch bulk ke, bulk ke seller chahiye.\\nExecutive: Hmm. Matlab seed ke bulk ke seller chahiye aapko?\\nCustomer: Haan, jo loose mein de sake hume.\\nExecutive: Accha, accha, toh ek kaam kar sakta hu sir, main abhi aap agar google mein aa sakte hai right, toh main aapko guide kar de raha hu kaise number nikalna hai vagera, agar aap\\nCustomer: Ji, ji bataiye.\\nCustomer: Sir, abhi nahi, toh aap phir kal 10 baje ka time fix kar lijiye.\\nExecutive: Haan ji, haan ji, koi, koi, koi dikkat nahi hai. Main isko pehle deactivate kara raha hu sir, accha hua aapne bata diya, warna aapke paas mein inquiry vagera badh jati hai uski.\\nCustomer: Haan. Toh sir deactivate kara dijiye. Toh yeh humne abhi aaj dekha tha toh humne aapko phone karna tha hume.\\nExecutive: Ji, ji, free ho gaya aapko kal lagte the. \\nCustomer: Koi nahi sir, main kal ek baar morning mein coordinate karta hu. Theek hai, theek hai. \\nExecutive: Maneesha?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Cucumber seed added, but not their business.\\n\nResolution:\\n\n- Executive will deactivate the cucumber seed listing.\\n\n\\n\nNext Steps: \\n\n- Executive will coordinate in the morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, deactivation, seed\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33caff9e-c00a-4104-ba4c-ce2cdf5c5b94",
+  "ucid": "33caff9e-c00a-4104-ba4c-ce2cdf5c5b94",
+  "seller_categories": [
+    {
+      "mcat_id": "3179",
+      "mcat_name": "Agricultural Pesticides"
+    },
+    {
+      "mcat_id": "4414",
+      "mcat_name": "Biopesticides"
+    },
+    {
+      "mcat_id": "34465",
+      "mcat_name": "Plant Growth Promoters"
+    },
+    {
+      "mcat_id": "10805",
+      "mcat_name": "Humic Acid"
+    },
+    {
+      "mcat_id": "137380",
+      "mcat_name": "Nitrobenzene"
+    }
+  ]
+}

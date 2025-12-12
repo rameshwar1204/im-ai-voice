@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672497248",
+  "gluser_id": "31248782",
+  "vintage_months": 7,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682462",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello. Haan Shivansh India Mart se baat kar raha hu sir. Kaise ho sir aap?\\nCustomer: Ji badhiya.\\nExecutive: Ji ji. Shivansh sir aapka ek feedback aaya tha sir isliye maine call kiya hai sir. To aapki discussion hui hogi sir mere colleague Shashi ke sath sir. To usme aapne feedback diya hai not satisfied sir. To just main jaana chahta tha sir ki aapna sir issue batayenge sir kya issue aap face kar rahe the so that I will be able to give you a solution.\\nCustomer: Mere se by mistake click ho gaya tha maine unhe bhi bataya tha.\\nExecutive: Ji. Achcha by mistake ho gaya.\\nCustomer: Ji.\\nExecutive: Okay okay. To aapko koi issue nahi hai sir?\\nCustomer: Nahi nahi nahi koi issue nahi.\\nExecutive: Theek hai sir to sir main abhi jo hai na aapka tension close kar raha hu sir. Aapke paas jo hai na ek feedback ka link jayega sir to usme aap feedback de dijiyega. Hamari side se aapko already maine aapko call kar liya hai as per sir your confirmation ki aapko koi issue nahi hai by mistakely aapne wo feedback de diya. Right sir?\\nCustomer: Theek hai. Theek hai bhaiya.\\nExecutive: Theek hai. Theek hai. Baki ye number save kar lijiye sir future mein koi bhi problem aati hai kisi bhi type ki India Mart se related sir aap please call me.\\nCustomer: Bilkul bilkul.\\nExecutive: Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had given a 'not satisfied' feedback.\\n\n\\n\nResolution:\\n\n- Customer said it was a mistake.\\n- Executive confirmed no issue and closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback link.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- feedback, issue, call\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3b4dca70-bcd4-416b-89fd-18076ed41001",
+  "ucid": "3b4dca70-bcd4-416b-89fd-18076ed41001",
+  "seller_categories": [
+    {
+      "mcat_id": "5240",
+      "mcat_name": "Mortise Handle"
+    },
+    {
+      "mcat_id": "65523",
+      "mcat_name": "Stainless Steel Door Handles"
+    },
+    {
+      "mcat_id": "69868",
+      "mcat_name": "Mortise Door Lock"
+    },
+    {
+      "mcat_id": "44055",
+      "mcat_name": "Stainless Steel Aldrop"
+    },
+    {
+      "mcat_id": "20275",
+      "mcat_name": "Zinc Door Handle"
+    }
+  ]
+}

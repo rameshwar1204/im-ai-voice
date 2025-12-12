@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674557088",
+  "gluser_id": "32146463",
+  "vintage_months": 82,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rewa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9704752",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello.\\nCustomer: Hanji sir.\\nExecutive: Hanji sir. Aabhi call aaya tha.\\nCustomer: Uh sir aap ek second Vindhya Industries se baat kar rahe hain?\\nHello?\\nCustomer: Hanji.\\nVindhya Industries se baat kar rahe hain sir aap? Haan.\\nExecutive: Sir main Roshan baat kar raha hun Nikki ka manager India Mart office se. Actually aapne Nikki ko call kara hua tha.\\nHan han. To Nikki se shayad aapki baat ho nahi payi thi.\\nHan. Wahi mere paas notification. Ji. Han actually kya India Mart se customer mere apne Gwalior ke hain. To unhone thoda galat tarike se material mangwa liya aur payment wo dal nahi rahe hain. To isliye kya India Mart ke through kuch ho sakta hai kya?\\nExecutive: Sir wo paid customer of India Mart hai?\\nCustomer: Ab ye to nahi pata mere ko.\\nExecutive: Aap company unka koi company hai ya kuch hai aap bata sakte hain? Company hai GST to hai unka halaki. Main detail aapko dalta hun.\\nExecutive: Aapko na iske baad main aapko WhatsApp karta hun apne number se. Aap mujhe detail dal dijiye. Agar paid supplier of India Mart honge. Han. Right? To we can raise a complaint against him. Han han. Aur agar paid nahi hote hain. Hmm. To sir aisa kuch opportunity ya aisa kuch probability hamare paas mein banta nahi hai. Kyunki man lijiye ki aap paid client hai aapke against mein koi complaint karta hai na. Hmm hmm. To aapka account hamare paas mein registered hai right? Han. Aur aap mere sector mein ya India Mart ke sector mein aapka koi na koi ek impact hum dal sakte hain aapke business line mein. Han han. Hai na? To hum agar aapke against mein koi complaint aata hai to hum us buyer ki help kar sakte hain because you have something something with us. Han han. Right? Ab randomly ek bar customer koi customer aapke paas mein aaya aapki koi discussion hui kuch hua uske baad wo random rehta hai to hamara usme matlab hamara aisa kuch banta nahi hai kyuki us customer ka hamare paas mein kuch nahi hai na. Hmm hmm hmm bilkul. To hum uske against mein kis cheez ka action lenge? Theek hai. Ek bar check kar lijiye. Aapka paid account rahega to we can block. Han please ek bari aap mujhe bhej dijiye main check kar leta hun fir main aapko aadhe ek ghante mein call back karta hun. Theek hai.\\nExecutive: Okay. WhatsApp pe kar rahi hai aap. Sorry?\\nCustomer: WhatsApp pe hello karke dal diya mere ko. Han han main hello kar raha hun sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help with payment from a buyer.\\n\n- Buyer ordered material incorrectly and isn't paying.\\n\n\\n\nResolution:\\n\n- Executive asked if the buyer is a paid customer.\\n\n- Executive requested details via WhatsApp to check.\\n\n- Explained action possible only for paid customers.\\n\n\\n\nNext Steps: \\n\n- Customer will send details via WhatsApp.\\n\n- Executive will check and call back in 30 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, buyleads, india mart, complaint\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 164,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3659caad-a07d-4eb2-b86f-cc9c1d04aafd",
+  "ucid": "3659caad-a07d-4eb2-b86f-cc9c1d04aafd",
+  "seller_categories": [
+    {
+      "mcat_id": "182187",
+      "mcat_name": "Agarbatti Machine Spare Parts"
+    },
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "158304",
+      "mcat_name": "Incense Sticks Fragrances"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "28937",
+      "mcat_name": "Fragrance Perfume"
+    }
+  ]
+}

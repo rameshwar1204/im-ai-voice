@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675754631",
+  "gluser_id": "24651029",
+  "vintage_months": 29,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706170",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Sir aapko aawaz aa rahi hai?\\nCustomer: Hello.\\nExecutive: Haan ji. Hello sir. Sir main Arunima bol rahi hu. Sir pichle aapne wo ek photo aapko upload karne ke liye uske regarding baat kari thi na. Sir wo problem solve ho gayi thi aapki? Matlab aapne kar diya tha?\\nCustomer: Haan ji. Haan ji, haan ji, kar diya.\\nExecutive: Okay sir. Koi aur problem? Any problem uske alawa kuch aapko? Baki ek baar aap check kar lijiye madam. Koi dikkat pareshani hai to kar dijiye uska solve.\\nExecutive: Nahi aapko hatana tha wo hat to gayi hai. I think ab wo visible nahi hai jo aapko hatani thi na. Koi add wagera bhi karni thi kya uske matlab alawa? Jo aapko hatani thi wo to first pe nahi dikh rahi hai.\\nCustomer: Haan wo to nahi hai lekin iske niche jo hai na aur photos hai.\\nExecutive: Haan wire se ek table ki bhi hai isme about the owner wagera mein.\\nCustomer: Nahi nahi wo nahi uske baad.\\nCustomer: Thoda sa usme jo bhi correction hai wo dekh lo aap.\\nCustomer: Thik hai.\\nExecutive: Haan ji sir. Aur sir aapka ek aur product hai waise. Ek baar main aapko name batati hu rukiye. Aap isme buylead consume kar rahe hain ye wooden stand karke hai sir. Wahi aapke usme product list mein added nahi hai. Aap iski buylead consume kar rahe hain to sir we will suggest ki aap isme add bhi kar sakte hain. You will get inquiry and call is also in. Aap isme add kar dijiye and focus.\\nCustomer: Haan ji sir.\\nCustomer: Koi nahi madam, main kar lunga.\\nExecutive: Bilkul sir. Kyunki isme aapko na inquiry and call aani shuru ho jayegi. Aap buylead consume kar rahe hain to it will be more beneficial na?\\nCustomer: Thik hai, main kar lunga.\\nExecutive: Okay. Anything else sir?\\nCustomer: No, thank you.\\nExecutive: Thank you sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue with photo upload.\\n\n- Wants executive to check for corrections.\\n\n\\n\nResolution:\\n\n- Executive confirmed the photo was removed.\\n\n- Suggested adding wooden stand to product list.\\n\n\\n\nNext Steps: \\n\n- Customer will add the product himself.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photo upload, product list, buyleads, wooden stand\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e390369-19fa-4371-83aa-b177b18799c5",
+  "ucid": "6e390369-19fa-4371-83aa-b177b18799c5",
+  "seller_categories": [
+    {
+      "mcat_id": "50504",
+      "mcat_name": "Wooden Educational Toy"
+    },
+    {
+      "mcat_id": "20593",
+      "mcat_name": "Educational Toys"
+    },
+    {
+      "mcat_id": "41376",
+      "mcat_name": "Wooden Puzzle"
+    },
+    {
+      "mcat_id": "4187",
+      "mcat_name": "Baby Toys"
+    },
+    {
+      "mcat_id": "50266",
+      "mcat_name": "Alphabet Puzzle"
+    }
+  ]
+}

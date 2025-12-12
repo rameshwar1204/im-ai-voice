@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675094402",
+  "gluser_id": "2536169",
+  "vintage_months": 170,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701739",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hi sir, Pravesh bol raha hu IndiaMART se.\\nCustomer: Nahi ho raha sir, wo karke dekh liya.\\nExecutive: Nahi ho raha hai?\\nCustomer: Nahi.\\nExecutive: Achcha, to wo logout hi ho raha hai?\\nCustomer: Haan ji.\\nExecutive: Kyunki ek baar aapke paas na option aata hai wo save karke rakhne ka, jabhi aap kabhi bhi Chrome naya kholte ho.\\nCustomer: Shayad.\\nExecutive: Kyunki mujhe jo\\nCustomer: Main aapko na\\nExecutive: Ek detail share kar deta hu.\\nExecutive: Jinhone mere ko\\nExecutive: To ye sare process follow karne ke baad aap keh rahe hai wo bhi phir bhi nahi aa raha hai?\\nCustomer: Haan.\\nExecutive: Chal chal main browser setting main setting karunga.\\nExecutive: Achcha ek minute.\\nExecutive: Sir wo silent hai.\\nCustomer: Mobile number de dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to login.\\n\n\\n\nResolution:\\n\n- Executive offered to share details.\\n\n\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, browser, settings\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d61a732-a29b-42b8-b932-a9045ba46ce2",
+  "ucid": "7d61a732-a29b-42b8-b932-a9045ba46ce2",
+  "seller_categories": [
+    {
+      "mcat_id": "21078",
+      "mcat_name": "Brake Motors"
+    },
+    {
+      "mcat_id": "8786",
+      "mcat_name": "Electromagnetic Brakes"
+    },
+    {
+      "mcat_id": "166869",
+      "mcat_name": "Brake Rectifier"
+    },
+    {
+      "mcat_id": "186631",
+      "mcat_name": "Solid State Rectifier"
+    },
+    {
+      "mcat_id": "41500",
+      "mcat_name": "Worm Geared Motor"
+    }
+  ]
+}

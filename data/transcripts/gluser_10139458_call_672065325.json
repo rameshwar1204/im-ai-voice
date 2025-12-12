@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672065325",
+  "gluser_id": "10139458",
+  "vintage_months": 5,
+  "bl_dau_oct": 3,
+  "customer_type": "FREELIST",
+  "city_name": "Bhilai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682885",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Haan boliye.\\nExecutive: Sanjay Industrial mein baat kar rahe hain?\\nCustomer: Haan.\\nExecutive: Very good afternoon sir, main Asif Khan bol raha tha India Mart se. Concept business manager. Aapki company registered hai India Mart ke saath mein Sanjay Industrial Traders ke naam se sir.\\nCustomer: Hello.\\nExecutive: To abhi sir hum\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive Asif Khan from India Mart is calling Sanjay Industrial Traders.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, introduction\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ffe308f5-82dc-476a-bde6-50a9423112f0",
+  "ucid": "ffe308f5-82dc-476a-bde6-50a9423112f0",
+  "seller_categories": [
+    {
+      "mcat_id": "40997",
+      "mcat_name": "Welding Machine"
+    },
+    {
+      "mcat_id": "27998",
+      "mcat_name": "Electric Winch"
+    },
+    {
+      "mcat_id": "3706",
+      "mcat_name": "Chain Pulley Block"
+    },
+    {
+      "mcat_id": "126608",
+      "mcat_name": "Single Wheel Barrow"
+    },
+    {
+      "mcat_id": "10971",
+      "mcat_name": "Induction Motors"
+    }
+  ]
+}

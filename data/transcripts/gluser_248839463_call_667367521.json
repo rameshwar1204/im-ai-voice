@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667367521",
+  "gluser_id": "248839463",
+  "vintage_months": 4,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635511",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ha ji, who call?\\nCustomer: Hello.\\nExecutive: Hello. Ha ji kaun?\\nCustomer: Avik Mondol baat kar raha hun Power Ledger Technology se.\\nExecutive: Accha accha. Ha sir bataiye.\\nCustomer: Mera IndiaMART mein thoda dikkat ho raha hai, ek bhi lead nahi mil raha hai. Main jara mera location pe.\\nExecutive: Accha. Check kariye na kya dikkat ho raha hai. Do mahine se nahi mil raha hai.\\nCustomer: Thik hai sir. Sahi hai.\\nExecutive: Thik hai. Sir main na abhi lunch ke liye.\\nCustomer: Thik hai. Lunch ke baad call kariye na.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving any buyleads on IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive asked to call back after lunch.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, technical issue\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ed4be9d5-e0ab-403c-b394-3442d3d0040f",
+  "ucid": "ed4be9d5-e0ab-403c-b394-3442d3d0040f",
+  "seller_categories": [
+    {
+      "mcat_id": "151565",
+      "mcat_name": "Laser Process Heads"
+    },
+    {
+      "mcat_id": "37825",
+      "mcat_name": "Sheet Cutting Machine"
+    },
+    {
+      "mcat_id": "132940",
+      "mcat_name": "Screw Air Compressor"
+    },
+    {
+      "mcat_id": "3878",
+      "mcat_name": "CNC Machines"
+    },
+    {
+      "mcat_id": "84368",
+      "mcat_name": "Optical Laser Source"
+    }
+  ]
+}

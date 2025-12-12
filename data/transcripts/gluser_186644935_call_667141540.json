@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667141540",
+  "gluser_id": "186644935",
+  "vintage_months": 14,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Unjha",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632592",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f6527be4-0753-4f8a-b393-37810aeaffb3",
+  "ucid": "f6527be4-0753-4f8a-b393-37810aeaffb3",
+  "seller_categories": [
+    {
+      "mcat_id": "11270",
+      "mcat_name": "Cumin Seeds"
+    },
+    {
+      "mcat_id": "6281",
+      "mcat_name": "Fennel Seed"
+    },
+    {
+      "mcat_id": "3223",
+      "mcat_name": "Ajwain"
+    },
+    {
+      "mcat_id": "4070",
+      "mcat_name": "Coriander Seed"
+    },
+    {
+      "mcat_id": "8539",
+      "mcat_name": "Sesame Seed"
+    }
+  ]
+}

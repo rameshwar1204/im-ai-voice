@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674218617",
+  "gluser_id": "210591859",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9697954",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello Rudra bhai.\\nExecutive: Ha Rudra bhai. Ha ye mera company ka number hai, theek hai bhai. Isme kya hai na brother jaise ki bathroom fitting hai, lodi bo bhi pick hai, twin wall mixer hai, ye sab hum log ki requirement main category hai aur ye abhi out of category ho gayi hai, theek hai? Isko main correct karwa dunga, theek hai Rudra bhai?\\nCustomer: Theek hai bhai.\\nExecutive: Okay bhai. Abhi ke liye concern close kar du na sir?\\n\\nCustomer: Hello?\\nExecutive: Ha ji, ha ji, ha ji. Ha theek hai. Feedback jayega Rudra bhai. Apna feedback dijiyega mail ID pe, theek hai Rudra bhai?\\nCustomer: Okay, okay.\\nExecutive: Baki na Ridhi mam ka bhi aap number de dijiye agar wo IndiaMART chalati hai to. Prashant ji to chalate hi chalate hain. Agar unke alawa Prashant ji ke alawa aur koi chalata hai to unka bhi number de dijiye sir ki agar aapka busy schedule ho.\\nCustomer: 37 se dono ka contact ho payega, 37 wale number se.\\nExecutive: Okay, okay. 338 aapka hai, 37 se koi bhi call receive kar lega, theek hai? Unko agar bata dijiyega ki sir Monday ko Manish sir call karenge to kisi bhi matlab duty period mein call receive karke proper tarike se wo correction correction karwane ke liye call kar rahe hain, wo log call nahi utha rahe hain sir, theek hai?\\nCustomer: Koi baat nahi, chalo baat karenge.\\nExecutive: Okay Rudra bhai, thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Category is out of the main category.\\n\n- Correction call not being received.\\n\n\\n\nResolution:\\n\n- Executive assured to correct the category.\\n\n- Asked to inform about Manish Sir's call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- category, correction, feedback, contact\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a494a57d-ea2a-4137-b12c-c7435c1e498b",
+  "ucid": "a494a57d-ea2a-4137-b12c-c7435c1e498b",
+  "seller_categories": [
+    {
+      "mcat_id": "6497",
+      "mcat_name": "Flush Valve"
+    },
+    {
+      "mcat_id": "178825",
+      "mcat_name": "Brass Angle Cocks"
+    },
+    {
+      "mcat_id": "146977",
+      "mcat_name": "Brass Bib Tap"
+    },
+    {
+      "mcat_id": "188461",
+      "mcat_name": "3 in 1 Wall Mixer"
+    },
+    {
+      "mcat_id": "183704",
+      "mcat_name": "CP Bathroom Fittings"
+    }
+  ]
+}

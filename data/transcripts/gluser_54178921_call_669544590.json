@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669544590",
+  "gluser_id": "54178921",
+  "vintage_months": 17,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646628",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello ji, good evening sir.\\nCustomer: Good evening.\\nExecutive: Sir, Dimart ji baat kar rahe hain?\\nCustomer: Haan, aap kaun baat kar rahe hain?\\nExecutive: Sir, main IndiaMART se baat kar rahi hoon, Priyanka, senior manager. Kaise hain aap?\\nCustomer: Main theek hoon, aap batao.\\nExecutive: Main bhi ekdum theek hoon. Thank you so much sir. Sir, main na subah se aapko connect karne ka try kar rahi thi but aapse na discussion nahi ho pa raha tha hamara. Actually sir, aapne ek concern raise kiya tha IndiaMART mein. Ki aapke Mac book mein application nahi chal raha hai sir IndiaMART ka, right?\\nCustomer: Hmm hmm.\\nExecutive: To uske regarding sir Suryavansh ne aapko kuch steps bheje the whatsapp pe. Wo sir mujhe follow karane the. Agar aap abhi available hai to sir main abhi guide kar sakti hoon aapko?\\nCustomer: Kal subah karwaye madam.\\nExecutive: Sir, abhi nahi ho payega kya?\\nCustomer: Abhi nahi ho payega. Main thoda ek dusri jagah hai, relative ke yahan.\\nExecutive: Theek hai, to bataiye sir main kal kitne baje connect karun aapko?\\nCustomer: 10 o clock.\\nExecutive: Theek hai, theek hai, koi problem nahi hai sir. Main kal aapko dekhungi. Theek hai, thank you.\\nCustomer: Theek hai, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART application not working on Macbook.\\n\n- Executive wants to guide customer through troubleshooting steps.\\n\n\\n\nResolution:\\n\n- Executive offered guidance on the call.\\n\n- Customer requested to postpone the call to the next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day at 10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- application issue, macbook, follow up\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e241966-5e88-42bf-a1da-bee8b997a456",
+  "ucid": "6e241966-5e88-42bf-a1da-bee8b997a456",
+  "seller_categories": [
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "38698",
+      "mcat_name": "Stain Removers"
+    },
+    {
+      "mcat_id": "65193",
+      "mcat_name": "Industrial Cleaning Chemical"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

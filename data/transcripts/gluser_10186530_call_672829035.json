@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672829035",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Monday morning ka dalu.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Avikant ji.\\nCustomer: Ji Vishal se baat karni hai sir.\\nExecutive: Haan ji.\\nCustomer: Kaushik office se bol rahe hai sir.\\nExecutive: Attech Industries se baat kar raha hu.\\nCustomer: Sir wo ek meeting mein hai bas aap mujhe paanch se 10 minute dijiye main aapko call back karati hu.\\nExecutive: Thik hai mam, thank you.\\nCustomer: Ji, ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Vishal.\\n\n\\n\nResolution:\\n\n- Executive informed Vishal is in a meeting.\\n\n- Executive will receive a call back in 5-10 minutes.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, meeting\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f84d1002-ca81-48fd-a9cf-172701835b9d",
+  "ucid": "f84d1002-ca81-48fd-a9cf-172701835b9d",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

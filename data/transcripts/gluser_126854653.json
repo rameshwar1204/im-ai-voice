@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675233973",
+  "gluser_id": "126854653",
+  "vintage_months": 1,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Gaya",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710569",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello?\\nCustomer: Haan?\\nExecutive: Haan sir, maine sir yaha pe image aapka add kar diya hai. To 24 se 48 ghante mein wo aapka show hone lagega.\\nCustomer: Ji.\\nExecutive: Ji. Dekha ya to aap matlab batao fir main concern close kar du?\\nCustomer: Ji.\\nExecutive: Main bol rahi hu ki main apna concern close kar du? Kyuki aapne mere number pe call nahi kiya tha na?\\nCustomer: Ji.\\n\\nExecutive: Thik hai kar dijiye na.\\nExecutive: Thik hai, main close kar de rahi hu. Aapke pass ho sakta hai feedback ke liye koi mail aaye.\\nCustomer: Ji.\\nExecutive: Ji. To waha pe yes kar dijiyega.\\nCustomer: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to close the concern.\\n\n\\n\nResolution:\\n\n- Executive added the image and closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer may receive a feedback mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- image, concern, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4c4add50-c5d6-4bf0-a287-47eca9255c75",
+  "ucid": "4c4add50-c5d6-4bf0-a287-47eca9255c75",
+  "seller_categories": [
+    {
+      "mcat_id": "78320",
+      "mcat_name": "Mosquito Repellent Stick"
+    },
+    {
+      "mcat_id": "113880",
+      "mcat_name": "Agarbatti Powder"
+    },
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "764",
+      "mcat_name": "Incense Sticks"
+    },
+    {
+      "mcat_id": "141759",
+      "mcat_name": "Bamboo Incense Stick"
+    }
+  ]
+}

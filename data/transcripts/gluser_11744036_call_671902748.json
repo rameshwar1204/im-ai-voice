@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671902748",
+  "gluser_id": "11744036",
+  "vintage_months": 51,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674995",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c12e216e-e2e5-433c-b8cb-0f9855c66ccd",
+  "ucid": "c12e216e-e2e5-433c-b8cb-0f9855c66ccd",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "114283",
+      "mcat_name": "Coal"
+    },
+    {
+      "mcat_id": "180300",
+      "mcat_name": "Black Coal"
+    },
+    {
+      "mcat_id": "3890",
+      "mcat_name": "Coal Dust"
+    },
+    {
+      "mcat_id": "113678",
+      "mcat_name": "ROM Coal"
+    }
+  ]
+}

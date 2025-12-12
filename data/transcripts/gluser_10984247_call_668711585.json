@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668711585",
+  "gluser_id": "10984247",
+  "vintage_months": 132,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sirmaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646264",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHanji Joshi ji se baat ho rahi hai?\\nJi bol raha hu sir.\\nJoshi ji aap Medi soft pharma se baat kar rahe hain?\\nJi bol raha hu.\\nActually sir ek zaruri baat karni thi aapse, mai business manager baat kar raha hu sir Vivek Mishra from IndiaMART.\\nJi Mishra ji boliye.\\nHan sir aapka discussion hua hoga Tausif ji se.\\nJi.\\nRight and I hope wo aapke touch mein hai already jo aapki services chal rahi hai uske regarding.\\nJi.\\nOkay to I believe sir aap hi dekhte hain jo bhi IndiaMART ka jo bhi services dekhna hota hai buyleads se queries ya jo bhi operational work hai right?\\nJi.\\nTo mai dekh raha hu sir abhi kitna ek second mai count batata hu.\\nAbhi jaise last month sir jo aapke pass direct calls land ho rahi thi wo sir thoda sa drop hua tha.\\nMatlab jo pick up rate hai.\\nHm hm.\\nHai na? Aur wo same is month bhi hai. To isliye maine socha ek bar mai connect karu samjhu ki kya challenge aa raha hai. Mere khyal se pichle mahine sir Diwali wagera ka bhi time tha.\\nHan kai cheeze rahi sir kuch ek aur bhi do teen project chale hue the uske kar mein.\\nAchcha. Bas chalo isko kar rahe hain hang it back aisa koi dikkat nahi hai.\\nAchcha. Theek hai. To ek cheez aur sir aapne na matlab ek feedback diya hua tha apna. Mai kar raha hu abhi aapko get back abhi mai thoda sa abhi kahin engage hu kar raha hu.\\nAchcha achcha sir koi dikkat nahi hai aap kar lo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call pickup rate has dropped.\\n\n- Customer has to provide feedback.\\n\n\\n\nResolution:\\n\n- Executive inquired about the drop in call pickup rate.\\n\n- Customer said he will provide feedback later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, services, feedback, calls\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=90547370-2ce7-4a52-b5c1-f6157a608da7",
+  "ucid": "90547370-2ce7-4a52-b5c1-f6157a608da7",
+  "seller_categories": [
+    {
+      "mcat_id": "127494",
+      "mcat_name": "Facial Kit"
+    },
+    {
+      "mcat_id": "11137",
+      "mcat_name": "Green Herbal Tea"
+    },
+    {
+      "mcat_id": "2820",
+      "mcat_name": "Sunscreen Gel"
+    },
+    {
+      "mcat_id": "39114",
+      "mcat_name": "Sunscreen"
+    },
+    {
+      "mcat_id": "2822",
+      "mcat_name": "Sunscreen Lotion"
+    }
+  ]
+}

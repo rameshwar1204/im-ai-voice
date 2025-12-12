@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673434931",
+  "gluser_id": "12605674",
+  "vintage_months": 59,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Balotra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha ji.\\nCustomer: Hello\\nExecutive: Ha ji. Haan sir Vikrant Kumar bol raha hun India Mart se.\\nCustomer: Vikrant ji bol rahe hain. Haan.\\nExecutive: Theek hai sir. Sir, kaafi time se aapko kaafi time sir aapko call kar raha tha.\\nCustomer: Haan sir?\\nExecutive: Kaafi time sir aapko call kar raha tha aap receive nahi kar rahe the.\\nCustomer: Haan haan haan. Kaam mere ko yaad nahi hai ki kaun the.\\nExecutive: Kal aapke father ji se bhi baat hui thi.\\nCustomer: Kisse baat kar rahe hain sir aap?\\nExecutive: Kya sir?\\nCustomer: Aap kisse baat kar rahe hain?\\nExecutive: Ek minute sir main aapko back call karta hun. Back call karke phir aapko batata hun, theek hai? Catalog open kar lun aapka.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive was trying to reach the customer.\\n\nResolution:\\n\n- Executive will call back after opening catalog.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, catalog, call back\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ead1f982-f2e3-4a7f-81e2-669f40ed500b",
+  "ucid": "ead1f982-f2e3-4a7f-81e2-669f40ed500b",
+  "seller_categories": [
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    },
+    {
+      "mcat_id": "181573",
+      "mcat_name": "SS RO Plant"
+    },
+    {
+      "mcat_id": "187709",
+      "mcat_name": "Industrial RO Membranes"
+    },
+    {
+      "mcat_id": "20513",
+      "mcat_name": "RO Membranes"
+    }
+  ]
+}

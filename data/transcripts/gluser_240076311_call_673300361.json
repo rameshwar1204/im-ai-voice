@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673300361",
+  "gluser_id": "240076311",
+  "vintage_months": 6,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Mohit bhai kya kar rahe ho?\\n\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Yes sir, Alankrit baat kar raha tha. Aapse baat hui thi na us din 18th ko?\\nCustomer: Omkesh ji, bataiye.\\nExecutive: Sir IndiaMART se baat kar raha tha. Haan ji, haan ji, bataiye.\\nExecutive: Ji, ji sir actually maine connect kiya tha wohi jo aapko us din batana tha na sir services jo use nahi kar rahe the hum.\\nCustomer: Hmm.\\nExecutive: Ji sir usi ke regarding connect kiya tha sir aapse.\\nCustomer: Maine aapko bataya na ki sir actually thoda material busy chal rahe hain.\\nExecutive: Ji.\\nCustomer: Aapko wohi bata payenge.\\nExecutive: Kya keh rahe ho aap?\\nCustomer: Aapko wohi bata payenge last mein double eight wala number hai.\\nExecutive: Achcha aap kyunki baat aapse hui thi na us time pe.\\nCustomer: Miss call aaya tha maine iske liye aapko call back kiya tha.\\nExecutive: Achcha achcha achcha.\\nCustomer: To unse hi baat karni hogi. Haan haan unse hi baat karna padega aapko.\\nCustomer: Wohi aapko batayenge.\\nExecutive: Actually sir phone nahi uthate na sir se jab bhi ek bar do bar jo bhi sir se connect hue woh kehte the aapse hi connect karo. Isi wajah se aapko call kiya tha.\\n\\nCustomer: Hello.\\nExecutive: Ek bar baat kar lijiye aap nahi hota fir inme dekhta hu baat karta hu na.\\nExecutive: Achcha nahi actually aapko bhi to seekhna tha na sir services ke bare mein.\\nCustomer: Haan haan main samajh gaya hu woh aap iski baat kar rahe ho na ki jaise kisi ka call aa gaya to mujhe mere paas number nahi hai vaise baat kar rahe ho na.\\nExecutive: Ji. Ji. Haan to theek hai woh to main aapse baat karne kar lunga us cheez ke bare mein. Filhal aap service ke bare mein unse baat kar lijiye.\\nExecutive: Achcha services ke bare mein unse hi connect karu main?\\nCustomer: Haan unse baat karna padega aapko.\\nExecutive: Achcha achcha aapki baat hui thi kuch aapne application install kiya jo us din baat hui thi?\\nCustomer: Haan abhi to filhal kuch nahi kiya maine.\\nExecutive: Achcha. Hmm.\\nExecutive: Ek minute sir. To main fir karta hu ek bar unse baat karta hu. Theek hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss unused services.\\n\n- Customer says his colleague can explain better.\\n\n- Executive says colleague doesn't answer calls.\\n\n\\n\nResolution:\\n\n- Executive will connect with the colleague.\\n\n\\n\nNext Steps: \\n\n- Executive will call the colleague.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, follow up, application\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 148,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5dfe61f7-4561-4cf9-aeb1-0dd16f332eaa",
+  "ucid": "5dfe61f7-4561-4cf9-aeb1-0dd16f332eaa",
+  "seller_categories": [
+    {
+      "mcat_id": "69352",
+      "mcat_name": "DC Drive Control Card"
+    },
+    {
+      "mcat_id": "16769",
+      "mcat_name": "Photoelectric Sensor"
+    },
+    {
+      "mcat_id": "149071",
+      "mcat_name": "Microwave Stand"
+    },
+    {
+      "mcat_id": "140943",
+      "mcat_name": "Industrial Control Panel"
+    },
+    {
+      "mcat_id": "31556",
+      "mcat_name": "Laser Displacement Sensor"
+    }
+  ]
+}

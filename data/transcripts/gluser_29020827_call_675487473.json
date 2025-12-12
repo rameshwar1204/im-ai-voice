@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675487473",
+  "gluser_id": "29020827",
+  "vintage_months": 86,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710600",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Mana toh kiya hai, maine khud hi tumhe one year mujhe adjustment nahi lena hai.\\nHello.\\nCustomer: Nahi hai.\\nHello?\\nCustomer: Haan, kaun?\\nExecutive: Haan sir, good afternoon, kaise hain?\\nCustomer: Ji, kaun baat kar rahe hain?\\nExecutive: Haan sir, Saransh baat kar raha hun, business manager IndiaMART se. Kendra Enterprises se baat kar rahe hain, Harshil ji se?\\nCustomer: Haan.\\nExecutive: Ji, Harshil ji, actually mere paas yahan update aaya hua tha regarding the services ki aapka actually complaint aaya tha. Jismein aapne mention kiya tha ki Shriya ne aur maine kuch misbehave kiya hai aap logon ke saath regarding the renewable amount. Main wohi cheez jaanna chahta tha ki sir kahan par issue raha aap mujhe bataiye.\\nCustomer: Ji, sir, main unse hi baat karunga aapke team se.\\nExecutive: Ji, sir.\\nCustomer: Aapke sir, aapki company se call aayega toh unse hi baat karunga main directly.\\nExecutive: Sir, toh main company se hi call kar raha hun, recorded line par hi aapko.\\nCustomer: Nahi, nahi, aap se baat hi nahi karni, mere ko aap se baat hi nahi karni hai toh aap se baat karke fayda kya hai? Maine complaint dala aapko.\\nExecutive: Baat hi theek hai, dekhiye, last time jo meri aapse jab discussion hui thi aapne mujhe yeh bola tha.\\nCustomer: Nahi, nahi, mere ko baat hi karna nahi sir aap se. Mujhe baat hi nahi karna hai aap se. Main mera baat kar lunga directly. Company se call aayega tab.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want to talk to executive.\\n\n- Customer filed a complaint regarding misbehavior.\\n\n\\n\nResolution:\\n\n- Executive tried to understand the issue.\\n\n- Executive stated he was calling from the company.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will talk when company calls.\\n\n\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- complaint, misbehave, renewable amount\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=54c73ffd-7e7f-49f1-b928-661367885eee",
+  "ucid": "54c73ffd-7e7f-49f1-b928-661367885eee",
+  "seller_categories": [
+    {
+      "mcat_id": "186256",
+      "mcat_name": "Agricultural Power Sprayer"
+    },
+    {
+      "mcat_id": "188855",
+      "mcat_name": "Petrol Brush Cutter"
+    },
+    {
+      "mcat_id": "164099",
+      "mcat_name": "Battery Spray Pump"
+    },
+    {
+      "mcat_id": "155463",
+      "mcat_name": "Agricultural Sprayer Pump"
+    },
+    {
+      "mcat_id": "35529",
+      "mcat_name": "Power Sprayer"
+    }
+  ]
+}

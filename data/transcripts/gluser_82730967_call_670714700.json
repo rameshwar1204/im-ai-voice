@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670714700",
+  "gluser_id": "82730967",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669690",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHellow.\\nHello, yes.\\nUh yeah, ma'am, Yashika this side.\\nSorry?\\nYashika this side from India Mart.\\nHa ha, yes, tell me.\\nUh ma'am, I have already sent you the Google Meet link on your WhatsApp number. Kindly join please.\\nOkay, fine. I'll start joining. Okay. Yeah, yeah.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Google Meet link sent to customer's WhatsApp number.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will join the Google Meet.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngoogle meet link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3132a3f1-e9b2-4f95-bdf1-6cae640b6073",
+  "ucid": "3132a3f1-e9b2-4f95-bdf1-6cae640b6073",
+  "seller_categories": [
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    },
+    {
+      "mcat_id": "167125",
+      "mcat_name": "Stainless Steel Water Tank"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    },
+    {
+      "mcat_id": "10296",
+      "mcat_name": "Iron Removal Filters"
+    },
+    {
+      "mcat_id": "138130",
+      "mcat_name": "Water Bottle Making Machine"
+    }
+  ]
+}

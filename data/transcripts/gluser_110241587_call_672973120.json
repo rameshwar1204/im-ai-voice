@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672973120",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello ji free hue aap nahi hue\\nCustomer: Are main to free tha wo whatsapp ko leke pareshan hu yaar account close dikha raha hai wo band dikha raha hai\\nExecutive: Koi nahi to aap ek kam kijiye dusre ke se join kar lijiye na\\nCustomer: to mail karo mere ko link mail karo\\nExecutive: Link to maine mail kar diya tha tabhi ab ye bataye dusre ke se join karenge ya fir dusra join karu mera number note karo tum boliye sir\\nCustomer: mera number note karo tum boliye sir\\nExecutive: Number hai 95\\nCustomer: 95\\nExecutive: 20\\nCustomer: 9520\\nExecutive: 64\\nCustomer: 6422\\nExecutive: 22\\nCustomer: 94\\n\\nCustomer: 94\\nCustomer: Call karo is number pe call lagao\\nExecutive: Ye wali call chalne dijiye main kar raha hu\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account showing closed on WhatsApp.\\n\n- Wants the link to be mailed.\\n\n\\n\nResolution:\\n\n- Asked to join from another link.\\n\n- Executive is trying to call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, link, call, account\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a79a41fc-3df4-4269-a995-821c2094d57a",
+  "ucid": "a79a41fc-3df4-4269-a995-821c2094d57a",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668642956",
+  "gluser_id": "57703255",
+  "vintage_months": 77,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gajraula",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647917",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Haan ji good afternoon sir.\\nCustomer: Hello\\nExecutive: Good afternoon.\\nCustomer: Haan ji bataiye sir.\\nCustomer: Haan ji haan ji.\\nCustomer: Haan ji sir bataiye. Mai keh raha hu awaz aa rahi hai aapko meri?\\nCustomer: Phone me\\nCustomer: Thoda jara tarike se phone kariye awaz kam aa rahi hai mere ko.\\nExecutive: Ek second sir mai aapko ab aapki company ka name ek bar batayenge mujhe?\\nCustomer: The Golden Advertising.\\nExecutive: Kaunsi?\\nCustomer: The Golden Advertising.\\nExecutive: Okay sir mai abhi aapko ek minute me call back karti hu ek second na.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting low voice.\\n\n- Wants to confirm company name.\\n\n\\n\nResolution:\\n\n- Executive said she will call back in a minute.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice issue, company name, callback\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b543e1b5-52a9-48a8-917e-9feeb885773a",
+  "ucid": "b543e1b5-52a9-48a8-917e-9feeb885773a",
+  "seller_categories": [
+    {
+      "mcat_id": "167429",
+      "mcat_name": "Stainless Steel Letter"
+    },
+    {
+      "mcat_id": "38727",
+      "mcat_name": "Steel Letters"
+    },
+    {
+      "mcat_id": "68629",
+      "mcat_name": "Acrylic Letter"
+    },
+    {
+      "mcat_id": "95424",
+      "mcat_name": "LED Display Board"
+    },
+    {
+      "mcat_id": "68630",
+      "mcat_name": "LED Acrylic Letter"
+    }
+  ]
+}

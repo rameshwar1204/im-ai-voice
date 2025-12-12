@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673865260",
+  "gluser_id": "159460178",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ghaziabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan ji.\\nExecutive: Haan ji, good afternoon sir.\\nCustomer: Haan, good afternoon.\\nExecutive: Main Kaan bol rahi hu sir.\\nCustomer: Boliye madam.\\nExecutive: Ji, abhi Nitin ji ka mere paas call aaya tha sir. Aapne bola hoga unko call karne ke liye.\\nCustomer: Barcode bhej do madam aap.\\nExecutive: Kitne ka?\\nCustomer: \u20b912600 ka bola tha na unhone.\\nExecutive: Ek minute line par rahiye.\\n\\nCustomer: Hello.\\nExecutive: Hello, sir check kiye aapke paas aaya kya?\\nCustomer: Aap check karo madam.\\nExecutive: Haan ji sir aa gaya.\\nCustomer: Theek hai, sir ye aa gaya.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the barcode.\\n\n\\n\nResolution:\\n\n- Barcode sent to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- barcode, payment, subscription\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3a55e6f7-ffa9-40f1-ac2b-3a99782905c1",
+  "ucid": "3a55e6f7-ffa9-40f1-ac2b-3a99782905c1",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "154583",
+      "mcat_name": "Monkey Hoist Machines"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "144455",
+      "mcat_name": "Bar Bending Machine"
+    }
+  ]
+}

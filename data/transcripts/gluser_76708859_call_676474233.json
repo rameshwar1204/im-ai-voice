@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676474233",
+  "gluser_id": "76708859",
+  "vintage_months": 77,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Akola",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715538",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1381a4ad-4b94-4f15-a346-02897329b407",
+  "ucid": "1381a4ad-4b94-4f15-a346-02897329b407",
+  "seller_categories": [
+    {
+      "mcat_id": "168765",
+      "mcat_name": "Auto Rickshaw Advertising Services"
+    },
+    {
+      "mcat_id": "184321",
+      "mcat_name": "Digital Wall Paintings"
+    },
+    {
+      "mcat_id": "187889",
+      "mcat_name": "Wall Painting Advertising"
+    },
+    {
+      "mcat_id": "34110",
+      "mcat_name": "Outdoor Advertising"
+    },
+    {
+      "mcat_id": "165134",
+      "mcat_name": "Foam Banner"
+    }
+  ]
+}

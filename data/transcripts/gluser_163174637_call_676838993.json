@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676838993",
+  "gluser_id": "163174637",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baidyabati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9700375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2cb2ca21-690e-4cf9-9b7e-6b7d1b6621b5",
+  "ucid": "2cb2ca21-690e-4cf9-9b7e-6b7d1b6621b5",
+  "seller_categories": [
+    {
+      "mcat_id": "187435",
+      "mcat_name": "GI Pole"
+    },
+    {
+      "mcat_id": "20565",
+      "mcat_name": "Solar Street Lights"
+    },
+    {
+      "mcat_id": "137974",
+      "mcat_name": "Octagonal Pole"
+    },
+    {
+      "mcat_id": "153868",
+      "mcat_name": "High Mast Lighting Pole"
+    },
+    {
+      "mcat_id": "226874",
+      "mcat_name": "GI Octagonal Pole"
+    }
+  ]
+}

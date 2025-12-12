@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674661985",
+  "gluser_id": "1752714",
+  "vintage_months": 179,
+  "bl_dau_oct": 6,
+  "customer_type": "TSCATALOG",
+  "city_name": "Amravati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670856",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: kya bol raha hai abhinav\\nmana kar raha hai\\nhello\\nhello\\nExecutive: yes abhinav sir very good evening himanshu this side how are you sir\\nCustomer: i am good sir\\nExecutive: yeah thoda sa baat ho gayi hai sir suniye na mera se baat ho gayi hai unko jo mera id chahiye tha maine provide kar diya hai wo baat kar\\nCustomer: kya ho gaya kya ho gaya kya ho gaya fraud\\nmail id chahiye tha main de diya hai\\nsar ka\\nhaan\\nacha acha\\nExecutive: kya hua mana kar diya kya sir ne\\nCustomer: haan sir ne mana kiya jo rate 50000 maine bataya hai usme agar aap karwa sakte hain last service to aap karwa lijiye kitne me kitne me\\nExecutive: 50 50\\nCustomer: sir 50 me to boss ek saal ka kar lijiye fir aap\\nExecutive: nahi na sir wo last service hi required hai mujhe\\nExecutive: wo possible hi nahi hai sir\\nCustomer: theek hai chod dijiye to koi dikkat nahi\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs last service, not yearly subscription.\\n\nResolution:\\n\n- Executive said last service is not possible.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, last service, pricing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b21a56d6-8aba-4da7-809a-c752f76d2a05",
+  "ucid": "b21a56d6-8aba-4da7-809a-c752f76d2a05",
+  "seller_categories": [
+    {
+      "mcat_id": "186459",
+      "mcat_name": "N95 Mask"
+    },
+    {
+      "mcat_id": "216615",
+      "mcat_name": "3 Ply Face Mask"
+    },
+    {
+      "mcat_id": "150442",
+      "mcat_name": "Hospital Bed Sheet"
+    },
+    {
+      "mcat_id": "26687",
+      "mcat_name": "Disposable Plastic Gloves"
+    },
+    {
+      "mcat_id": "444090",
+      "mcat_name": "PPE Kits"
+    }
+  ]
+}

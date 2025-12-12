@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671758362",
+  "gluser_id": "141828184",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677371",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Good morning ma'am, main Aman baat kar raha tha IndiaMART se.\\nCustomer: Haan ji boliye.\\nExecutive: Uh, ma'am aapne aapke jo 15 tarikh ko baat hui hogi services ke liye.\\nCustomer: Ek minute rukiye, ek minute rukiye.\\nCustomer: Boliye.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji boliye.\\nExecutive: Ya, good morning ma'am, main Aman baat kar raha tha IndiaMART se.\\nCustomer: Haan boliye, aapka number hai mere paas.\\nExecutive: Ji ma'am, wo services ke regarding hume baat karni thi. To jo mere services vagera hai aapke available rahenge us time pe. Ek video meeting schedule karni thi.\\nCustomer: Aapka aawaz bahut low aa raha hai. Thoda jo boliye.\\nExecutive: Abhi clear hai?\\nCustomer: Haan, abhi to hum office mein nahi hai. Aap office jaane ke baad call kar sakte hai 11 baje aap.\\nExecutive: Ma'am kab tak pahunch payenge aap office?\\nCustomer: 11 baje.\\nExecutive: 11 baje. Theek hai ma'am, main ek meeting schedule kar deta hu. 11:15 ki please ma'am join kijiyega, theek hai?\\nCustomer: Okay.\\nExecutive: Thank you ma'am, thank you so much.\\nCustomer: You're welcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer complained about low voice.\\n\n\\n\nResolution:\\n\n- Meeting scheduled for 11:15 AM.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- services, video meeting, schedule\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=252aa22e-8ef9-40ca-a3f4-25990028361f",
+  "ucid": "252aa22e-8ef9-40ca-a3f4-25990028361f",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "31122",
+      "mcat_name": "Iron Scrap"
+    },
+    {
+      "mcat_id": "43846",
+      "mcat_name": "Coking Coal"
+    },
+    {
+      "mcat_id": "180300",
+      "mcat_name": "Black Coal"
+    },
+    {
+      "mcat_id": "113678",
+      "mcat_name": "ROM Coal"
+    }
+  ]
+}

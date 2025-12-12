@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666790443",
+  "gluser_id": "251860915",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Jaunpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9721206",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji sir.\\nExecutive: Aap system pe hi hai?\\nCustomer: Ji ji.\\nExecutive: Main aapko link bhej raha hu sir.\\nCustomer: Haan.\\nExecutive: Uzair baat kar raha hu sir IndiaMART se aapka account manager, pehchana aapne?\\nCustomer: Haan haan pehchana pehchana.\\nExecutive: Ji ji. Main aapko ek link bhej raha hu, aap system pe hi hai?\\nCustomer: Paanch minute ruko, paanch minute, ek call chal rahi hai. Thoda extend ho gayi thi, paanch minute ki thi. Main abhi paanch minute mein call back karta hu jaise hi call khatam hoti hai. Theek hai?\\nExecutive: To aap paanch minute mein please kar lijiye kyunki maine schedule kar liya hai aapka. Theek hai? Main wait kar raha hu aapka.\\nCustomer: Ek call chal rahi hai, main jaise hi khatam hota hai main turant call back karta hu.\\nExecutive: Theek hai, okay. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Currently on another call.\\n- Requested a callback in five minutes.\\n\\n\\nResolution:\\n\\n- Executive introduced himself as the account manager.\\n- Informed about sending a link.\\n- Agreed to wait for the customer's callback.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will call back in five minutes after his current call ends.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback, account manager, system link\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=102487a4-c49c-4fad-86f2-36b48c559dc9",
+  "ucid": "102487a4-c49c-4fad-86f2-36b48c559dc9",
+  "seller_categories": [
+    {
+      "mcat_id": "3719",
+      "mcat_name": "Chana Dal"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "186119",
+      "mcat_name": "Jeera Biscuit"
+    }
+  ]
+}

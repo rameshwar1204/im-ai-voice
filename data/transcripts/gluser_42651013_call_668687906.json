@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668687906",
+  "gluser_id": "42651013",
+  "vintage_months": 2,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647607",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- No concerns expressed.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=53ea3dd6-cab4-46c8-8de9-ffc378b61b18",
+  "ucid": "53ea3dd6-cab4-46c8-8de9-ffc378b61b18",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "56027",
+      "mcat_name": "RCC Manhole Cover"
+    },
+    {
+      "mcat_id": "156668",
+      "mcat_name": "SFRC Manhole Covers"
+    },
+    {
+      "mcat_id": "143954",
+      "mcat_name": "RCC Chamber"
+    }
+  ]
+}

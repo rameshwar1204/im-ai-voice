@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669999669",
+  "gluser_id": "85600239",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, mam Sushmita mam bol rahe hai na?\\nCustomer: Ji.\\nExecutive: Haan, mai abhi baat hui thi meri Patel Timber se.\\nCustomer: Haan haan haan sir haan sir.\\nExecutive: Mai abhi hai na usko delete karke aur wapas se install bhi kar liya maine.\\nCustomer: Theek hai.\\nExecutive: Ab usme ho kya raha hai pata hai ki jab mai usko location pe ja raha hu na Madhya Pradesh pe to mai Madhya Pradesh ja raha hu to wo waise hi dikh raha hai matlab usme lead nahi dikha rahi hai. Aur fir fir mai usko wapas se ek do baar correct kar raha hu to fir wo lead to dikha rahi hai fir saari saare Pradesh ki dikha rahi hai Madhya Pradesh pure India ki dikha rahi hai. Keval MP me haan pure usme keval Madhya Pradesh select kar raha hu Madhya Pradesh ki dikha hi nahi rahi hai.\\nAisa ho raha hai.\\nExecutive: Mai abhi ek baar check karwa leti hu mai aapke, theek hai?\\nCheck karwa ke mai aapko message karti hu.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads from Madhya Pradesh.\\n\nResolution:\\n\n- Executive assured to check the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will message the customer after checking.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, technical issue\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7baa5553-67ec-42a4-9407-e1a2559d9efc",
+  "ucid": "7baa5553-67ec-42a4-9407-e1a2559d9efc",
+  "seller_categories": [
+    {
+      "mcat_id": "178220",
+      "mcat_name": "Industrial Wooden Pallets"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "3531",
+      "mcat_name": "Wooden Crates"
+    },
+    {
+      "mcat_id": "148704",
+      "mcat_name": "Pine Wood Runners"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    }
+  ]
+}

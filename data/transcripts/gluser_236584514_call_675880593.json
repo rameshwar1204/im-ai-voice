@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675880593",
+  "gluser_id": "236584514",
+  "vintage_months": 5,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b7546348-27d6-4a71-aef6-52f603a52cd3",
+  "ucid": "b7546348-27d6-4a71-aef6-52f603a52cd3",
+  "seller_categories": [
+    {
+      "mcat_id": "193165",
+      "mcat_name": "Mantra Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "193164",
+      "mcat_name": "SecuGen Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "189719",
+      "mcat_name": "Morpho Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "4421",
+      "mcat_name": "Biometric Fingerprint Scanners"
+    }
+  ]
+}

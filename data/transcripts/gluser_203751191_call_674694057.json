@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674694057",
+  "gluser_id": "203751191",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Bardhaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698307",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan bolun.\\nCustomer: Ji, Subir sir se baat ho sakti hai?\\nExecutive: Baat toh hai.\\nCustomer: Subir Sarkar sir Google se bol raha tha.\\nExecutive: Kya bol rahe the?\\nCustomer: Main India Mart se baat kar rahi hoon.\\nExecutive: Hello.\\nExecutive: Fir se boliye samajh mein nahi aaya. Haan boliye.\\nCustomer: Main India Mart se baat kar rahi hoon.\\nExecutive: Haan ji boliye.\\nExecutive: Sir aapki taraf se ek mail aaya tha na.\\nCustomer: Haan. India Mart ki leads ke regarding.\\nExecutive: Haan haan.\\nExecutive: To aap ek kaam kijiye na, suniye suniye na, mera jo dusra jo number hai na, aapke paas hai?\\nCustomer: Haan haan.\\nExecutive: Us number pe call kijiye.\\nExecutive: Wahi karte hai kya, 49 ka.\\nCustomer: Haan haan haan, is number pe call kijiye. 82 jaise number start hota hai na, 8250.\\nCustomer: Ek minute.\\nExecutive: Us number mein call kijiye.\\nCustomer: Dekhiye ek dusra number hai.\\nExecutive: Haan haan haan. Us number se call kijiye ek baar.\\nExecutive: Is number pe thoda network ka issue hota hai, thik hai?\\nExecutive: Hello.\\nExecutive: Hello.\\nCustomer: Haan sun rahi hoon, aap speaking with?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Subir Sarkar.\\n\n- Executive has network issues on current number.\\n\n\\n\nResolution:\\n\n- Executive asked customer to call on another number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, network issue, leads\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=30e33603-8fd1-4457-89d7-9bf21c4fbb47",
+  "ucid": "30e33603-8fd1-4457-89d7-9bf21c4fbb47",
+  "seller_categories": [
+    {
+      "mcat_id": "168563",
+      "mcat_name": "Full Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "13675",
+      "mcat_name": "Chain Link Fencing"
+    },
+    {
+      "mcat_id": "42703",
+      "mcat_name": "Transportation Services"
+    },
+    {
+      "mcat_id": "69543",
+      "mcat_name": "Goods Transport Services"
+    },
+    {
+      "mcat_id": "147225",
+      "mcat_name": "Generator Repair Services"
+    }
+  ]
+}

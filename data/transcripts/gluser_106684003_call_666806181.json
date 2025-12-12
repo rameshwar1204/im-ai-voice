@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666806181",
+  "gluser_id": "106684003",
+  "vintage_months": 48,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Budgam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9627040",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan Manjusha good morning.\\nCustomer: Haan ji good morning.\\nExecutive: Sir ek second baat kar raha tha India Mart se aapka account me kaise hai?\\nCustomer: Bataiye bataiye.\\nExecutive: Sir wo aapka resolve ho gaya hoga I think aapne check kara hoga.\\nCustomer: [inaudible]\\nExecutive: Theek chal raha hai sir abhi?\\nCustomer: Ek minute.\\nExecutive: Usme kuch issue to nahi hai abhi? Haan check kar lijiye.\\nCustomer: Nahi sir abhi bhi waisa hi dikha raha hai sir.\\nExecutive: Abhi waisa hi dikha raha hai matlab blank dikha raha hai?\\nCustomer: Haan bilkul wahi blank dikha raha hai wo ye lead manager pe jaate hai to idhar dikha raha hai error connection aborted.\\nExecutive: Samajh gaya matlab wahi purana wala hoga ek second error connection ka main dekh ke.\\nCustomer: Haan ji haan ji.\\nExecutive: Error connection aborted karke hoga theek hai.\\nCustomer: Ji ji ji ji.\\nExecutive: Theek hai koi issue nahi sir ek baar na sir is possible ek baar log out karke ek baar login karega ye aur last me to confirm kar dijiye sir main ek aur baar dobara mail karta hu un logo ko.\\nCustomer: Koi dikkat nahi hai sir maine ek do baar waise matlab apne hisab se hi na log out login kiya tha application ko bhi uninstall install kiya tha lekin kuch hua nahi sir fir bhi main aapke kehne pe ek baar karta hu sir.\\nExecutive: Ji please ek baar check karke bataiyega.\\nCustomer: Ek minute sir ek minute main karta hu.\\nCustomer: [inaudible]\\nCustomer: Setting bhi nahi dikha raha hai na kuch bhi sir.\\nExecutive: Settings bhi nahi open ho raha hai.\\nCustomer: Setting bhi nahi open ho raha hai sir.\\nExecutive: Theek hai. Theek hai koi nahi sir main ek mail karta hu dono tera team ke liye. Thoda sa time dijiye. Ji okay sir thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's lead manager showing error connection aborted.\\n\n- Settings are also not opening.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to log out and log in.\\n\n- Executive informed he will mail the tech team.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- lead manager, error, settings\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=de35cdd7-9ff0-4e56-925c-eaf1576bd00f",
+  "ucid": "de35cdd7-9ff0-4e56-925c-eaf1576bd00f",
+  "seller_categories": [
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "28610",
+      "mcat_name": "Flour Mill"
+    },
+    {
+      "mcat_id": "44751",
+      "mcat_name": "Disposable Glass Making Machine"
+    },
+    {
+      "mcat_id": "175385",
+      "mcat_name": "Detergent Formulation Consulting"
+    }
+  ]
+}

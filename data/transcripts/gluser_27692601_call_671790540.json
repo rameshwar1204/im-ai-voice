@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "671790540",
+  "gluser_id": "27692601",
+  "vintage_months": 1,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681464",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Saala engineering se piyar bhejiye.\\nExecutive: Hello. Hello.\\nCustomer: Hello.\\nExecutive: Sir mujhe thoda sa time dijiye main bolna hai na sir aapko call back karti hu. Call karvati hu main ek minute se aapko. Macking engineering. Abhi call abhi aa jayega sir abhi do minute dijiye aapko bas, theek hai?\\nCustomer: Ye daily daily na.\\nExecutive: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a call from Sheshna of Macking engineering.\\n\n- Customer complains about daily calls.\\n\n\\n\nResolution:\\n\n- Executive asked for two minutes to call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- callback, engineering, daily calls\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b58a1edc-908a-4ef5-99cc-45f775dd8df5",
+  "ucid": "b58a1edc-908a-4ef5-99cc-45f775dd8df5",
+  "seller_categories": [
+    {
+      "mcat_id": "161395",
+      "mcat_name": "Flame Spray Guns"
+    },
+    {
+      "mcat_id": "84372",
+      "mcat_name": "Aluminium Bottle Cap"
+    },
+    {
+      "mcat_id": "42640",
+      "mcat_name": "Thermal Spray Coating Services"
+    },
+    {
+      "mcat_id": "33403",
+      "mcat_name": "Metal Spray Coating"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668173395",
+  "gluser_id": "470192",
+  "vintage_months": 114,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Amar sir good afternoon sir.\\nCustomer: Good afternoon.\\nExecutive: Raju Prajapati bol raha tha India Mart se sir.\\nCustomer: Boliye sir boliye.\\nExecutive: Kaisa chal raha hai sir kuch improvement hua?\\nCustomer: Main notice kar raha hu calls thode badhe hai calls to thode badhe hai maine check kiya tha.\\nExecutive: Haan calls badhe hai yes yes.\\nExecutive: Okay.\\nExecutive: Aur isme fir kya change karo batao aapke hisab se location ya fir quantity.\\nCustomer: Quantity.\\nExecutive: Meri location ka issue aa raha hai aapko location ka issue aa raha hai aapko?\\nCustomer: Location ka issue sir main party ke sath baitha hu aapko karta hu phone thodi der mein.\\nExecutive: Theek hai theek hai theek hai.\\nCustomer: Haan okay.",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing location issues.\\n\n\\n\nResolution:\\n\n- Executive asked for feedback on improvement.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- location, buyleads, improvement\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b8a2d7e4-0d64-4986-a1f1-e6fa7c4ab034",
+  "ucid": "b8a2d7e4-0d64-4986-a1f1-e6fa7c4ab034",
+  "seller_categories": [
+    {
+      "mcat_id": "158941",
+      "mcat_name": "Wood Fired Water Heater"
+    },
+    {
+      "mcat_id": "68",
+      "mcat_name": "Industrial Hot Water Boilers"
+    },
+    {
+      "mcat_id": "121388",
+      "mcat_name": "Wood Fired Steam Boilers"
+    },
+    {
+      "mcat_id": "29264",
+      "mcat_name": "Gas Fired Heaters"
+    },
+    {
+      "mcat_id": "159550",
+      "mcat_name": "Water Boilers"
+    }
+  ]
+}

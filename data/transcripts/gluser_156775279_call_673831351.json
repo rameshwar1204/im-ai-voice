@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673831351",
+  "gluser_id": "156775279",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9699164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33f048c8-4c5e-41aa-9cc8-4bd272914491",
+  "ucid": "33f048c8-4c5e-41aa-9cc8-4bd272914491",
+  "seller_categories": [
+    {
+      "mcat_id": "443773",
+      "mcat_name": "Drum Unit"
+    },
+    {
+      "mcat_id": "184991",
+      "mcat_name": "Canon Toner Cartridges"
+    },
+    {
+      "mcat_id": "184949",
+      "mcat_name": "HP Toner Cartridges"
+    },
+    {
+      "mcat_id": "38981",
+      "mcat_name": "Toner Cartridges"
+    },
+    {
+      "mcat_id": "187596",
+      "mcat_name": "HP Black Ink Cartridge"
+    }
+  ]
+}

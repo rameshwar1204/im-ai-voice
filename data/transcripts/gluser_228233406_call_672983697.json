@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672983697",
+  "gluser_id": "228233406",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Haveri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [unintelligible] you have called speaking to someone else. You can wait or call.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Boliye boliye sir.\\nCustomer: Ha ji sir ha ji sir. Ye aapne jo complaint kiya na address ko lekar ke service ko lekar ke.\\nExecutive: Ha lead nahi ho raha hai. Wo change ho gaya. Near places ka lead nahi ho raha hai sir.\\nExecutive: Sir near places to maine kar diya sir maine aapko filter bataya na filter udhar location ka filter aata hai na.\\nCustomer: Ab usme dekhiye na location ka option hai. Wo filter lagao haveri abhi haveri ka lead udhar dikhta hai aapko.\\nCustomer: Ha haveri.\\nExecutive: Wo hindi wali madam available hota?\\nCustomer: Nahi nahi hota.\\nExecutive: Nahi hota wo kab aate office?\\nCustomer: Ha sir.\\nExecutive: Hindi wali madam kab aate office?\\nCustomer: Ek ghante ek ghanta mein aata.\\nExecutive: Ek ghanta mein aata na.\\nCustomer: Aapna ek ghanta aap mere ko call karo main us madam se madam ko samjhata hu wo aapko aapko samjha deta hu wo.\\nExecutive: Okay.\\nExecutive: Okay abhi 4:30 hota hai na 4:35 main 5:30 ko call karta hu aapko.\\nCustomer: 5:30 okay.\\nExecutive: Okay ye aap pehle aate madam to aap mere ko call karo sir.\\nCustomer: Okay okay sir.\\nExecutive: Okay sir okay okay.\\nCustomer: Contact by now.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads from near places.\\n\n- Wants to talk to the Hindi speaking executive.\\n\n\\n\nResolution:\\n\n- Executive explained about applying location filter.\\n\n- Executive will call back at 5:30 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 5:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location filter, hindi executive\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76fb37d8-cb65-4336-bff7-5111adcc3eb5",
+  "ucid": "76fb37d8-cb65-4336-bff7-5111adcc3eb5",
+  "seller_categories": [
+    {
+      "mcat_id": "162792",
+      "mcat_name": "Refurbished Laptops"
+    },
+    {
+      "mcat_id": "105926",
+      "mcat_name": "Second Hand Laptop"
+    },
+    {
+      "mcat_id": "181435",
+      "mcat_name": "Dell Laptops"
+    },
+    {
+      "mcat_id": "181436",
+      "mcat_name": "HP Laptop"
+    },
+    {
+      "mcat_id": "11352",
+      "mcat_name": "Laptops"
+    }
+  ]
+}

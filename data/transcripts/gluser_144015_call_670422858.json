@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670422858",
+  "gluser_id": "144015",
+  "vintage_months": 167,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bahadurgarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9686410",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Good evening, sir.\\nCustomer: Haan ji, good evening.\\nExecutive: IndiaMART se baat kar rahi hu, kash kar rahi hu aap. Sir, actually recently aapne chair arm set ke bare me consume kari hai, theek hai? To ye category aapki live ho gayi hai aur PM module form ki sir. Lekin chair handle category ki consumption nahi hua sir abhi.\\nCustomer: Haan madam actually kya hai, mai abhi na mere paas system bhi nahi tha. System pehle tha to kharab wo kharab ho gaya to wo maine theek karne bheja hua hai. To mobile pe to mai jaise field pe hota hu to mobile pe to ho nahi paati. Yaha aata hu tab jaake ho paati hai, baki mai kar lunga ab ab shuru kar dunga usko na.\\nExecutive: Haan abhi aapne sir consume to kari hai phone se hi sir do din hai na?\\nCustomer: Haan ji, haan ji, haan ji.\\nExecutive: To abhi jaise ki do do call bhi is mahine aayi hai sir. To kuch baat ho rahi hai buyer se aapki?\\nCustomer: Haan hui hai baki abhi koi wo order vagera nahi mila.\\nExecutive: Halaki consumption bahut kam hai na hamara sir. Aur hamari activity utni nahi ho paati hai to hamari listing bhi nahi ho paati proper sir.\\nCustomer: Haan mere paas aaj system shayad aa jayega. Mai abhi aap phone rakhoge to mai phone se baat karta hu delivery se ki system bhijwa denge. Ye system mere paas.\\nExecutive: Theek hai is phone ke baad na aap ek kaam karna. Phone me hi chair handle search karna buyer section me aur kuch buyer consume karna sir aap waha se chair handle category ke liye.\\nCustomer: Theek hai mai wahi karunga jo hamare material me hai baki jo plastic wali hai wo\\nExecutive: Haan sir bilkul.\\nCustomer: Haan, theek hai.\\nExecutive: Jo kaam ka nahi hai na to aap usko not interested mark karna sir.\\nCustomer: Theek hai ji, theek hai.\\nExecutive: Okay sir, theek hai, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Chair handle category consumption not done yet.\\n\n- Listing not happening properly.\\n\n\\n\nResolution:\\n\n- Executive suggested to consume from phone.\\n\n- Executive suggested to mark not interested.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- consumption, category, listing, buyleads\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=74168348-f434-4708-8c95-9ab94dacb88b",
+  "ucid": "74168348-f434-4708-8c95-9ab94dacb88b",
+  "seller_categories": [
+    {
+      "mcat_id": "21057",
+      "mcat_name": "Chair Armrests"
+    },
+    {
+      "mcat_id": "135904",
+      "mcat_name": "Chair Handle"
+    },
+    {
+      "mcat_id": "186374",
+      "mcat_name": "PU Moulded Foam"
+    },
+    {
+      "mcat_id": "32088",
+      "mcat_name": "Lounge Chair"
+    },
+    {
+      "mcat_id": "33248",
+      "mcat_name": "Moulded Foam"
+    }
+  ]
+}

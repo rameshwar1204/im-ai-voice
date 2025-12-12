@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675189486",
+  "gluser_id": "143529138",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Chengamanad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686191",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Namaskaram, namakku oru call undayirunnu.\\nCustomer: Harish Electronics?\\nExecutive: Athe. Contact cheythaale. Actually call cheythu regarding IndiaMART.\\nCustomer: Okay.\\nExecutive: So can you speak for two minutes?\\nCustomer: Okay.\\nExecutive: Just actually we received a mail from your side on IndiaMART, right?\\nCustomer: Hello.\\nExecutive: Yes, madam. Hello.\\nCustomer: Yes.\\nExecutive: Oh yeah, actually we got a mail from your side that you were saying you were asking for monthly visit, right?\\nCustomer: Okay.\\nExecutive: So, which we already conveyed to your staff. You are the owner, right?\\nCustomer: Ma'am, I told you, right? Owner is out of station. So this is our office number only. So they are not available. So they are in some other, they are not coming to this.\\nExecutive: So I think our executive has spoken. That's what our executive has informed you, right?\\nCustomer: How to inform?\\nExecutive: So if you are the owner then you, we want to know from you only.\\nCustomer: That's what our, I'm not the owner. I'm on the staff over here. They are not available. So I can, I can't disturb them right now. Give me a minute.\\nExecutive: Okay. Okay, no issues. Thank you.\\nCustomer: So I will check with them. Can I get the number?\\nExecutive: Ma'am, we are not supposed to give them. Right now they are not available to take their calls. So I will check with them. I will inform you guys. I told you that I think their staff would have told you. They will revert you back after confirming with them whether what to say. So I will just check with them. I will get.\\nCustomer: Ah, that's what we are not able to contact them right now. They are not in a status where they can't update right now.\\nExecutive: So I'll check with them and then we will get back to you.\\nCustomer: Actually I am already in touch with your team members but the thing is I just wanted to communicate with your owner also.\\nExecutive: So I'll just check out. We will check if they are saying to provide the number, we will provide you the number so you can directly get a contact from them. Okay? And put the details from them. I'll just check with them and we will get back to you.\\nCustomer: Or can we get the number that we can call you guys back?\\nExecutive: Okay, okay, okay.\\nExecutive: Okay.\\n[inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to communicate with the owner.\\n\nResolution:\\n\n- Executive said they will check and revert back.\\n\n- Executive said they are not supposed to give number.\\n\nNext Steps: \\n\n- Executive will check and revert back.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- monthly visit, owner, contact\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 172,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7291a2fc-202d-48fa-953c-514877f27843",
+  "ucid": "7291a2fc-202d-48fa-953c-514877f27843",
+  "seller_categories": [
+    {
+      "mcat_id": "183343",
+      "mcat_name": "Smart LED TV"
+    },
+    {
+      "mcat_id": "44612",
+      "mcat_name": "LED TV"
+    },
+    {
+      "mcat_id": "178011",
+      "mcat_name": "4K TV"
+    },
+    {
+      "mcat_id": "95323",
+      "mcat_name": "Semi Automatic Washing Machine"
+    },
+    {
+      "mcat_id": "179884",
+      "mcat_name": "Android Television"
+    }
+  ]
+}

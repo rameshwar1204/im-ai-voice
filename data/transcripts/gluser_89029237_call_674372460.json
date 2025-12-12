@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674372460",
+  "gluser_id": "89029237",
+  "vintage_months": 68,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Nimesh ji good morning sir Shubham this side calling from IndiaMART how are you sir?\\nCustomer: Hi\\nExecutive: Yeah actually sir I am calling you regarding I got a complaint from your side I think you are facing some issue with your invoices that's why I am calling you.\\nCustomer: Yes sir yes sir.\\nExecutive: Yeah yeah please sir.\\nCustomer: Sir in the month of August we have upgraded this sir sir okay.\\nExecutive: One second sir let me let me open this the panel just give me one second.\\nCustomer: Okay.\\nCustomer: Yes sir yeah please tell me sir in the month of August as you made the payment around on the 12th of August right?\\nCustomer: Yes sir we have made the payment and IndiaMART has also given the invoice for that I think we have made around 72000 rupees I guess I guess.\\nExecutive: Yeah 72865 72865 yeah yeah for that IndiaMART has given us the invoices and they have also and they have also filed the GST not a big problem okay but in the month of September they have revoked the invoice I don't know why.\\nCustomer: And now what is happening is in my GST portal in the month of September it is showing minus 11000 rupees like the 11000 rupees is the GST amount which we have paid to IndiaMART and IndiaMART has paid to GST okay but in the month of September they are revoking the invoice and you know they are taking a credit note so why is it so?\\nExecutive: Sir do you have do you have a credit note with you actually IndiaMART shared any credit note with you?\\nCustomer: No no one has shared me.\\nExecutive: How is it showing in your portal but in my GST portal it is showing.\\nCustomer: Yeah I have like I have the screenshot if you can see me high in WhatsApp I can send you please please please give me give me your number actually kindly confirm your WhatsApp number please.\\nCustomer: What\\nCustomer: Okay give me a minute no yeah yes yes I can share it with you.\\nCustomer: Maybe after this call can I share it with you?\\nExecutive: Can you confirm me your can you confirm me your WhatsApp number please?\\nCustomer: 9176361319 one sec one second 91 76 9176 yes 361319\\nExecutive: 97 9176361319 right sir?\\nCustomer: Yes yes.\\nExecutive: One second sir.\\nExecutive: I just sent a message of hello on your WhatsApp kindly check.\\nCustomer: Okay I got it I got it I got it.\\nExecutive: Yeah so give me some two three minutes and I'll yeah please please share the screenshot with me so I will discuss with my accounts team and give you clarity on this.\\nCustomer: Okay okay okay okay sir please share the screenshot thank you so much sir thank you.\\nExecutive: Sure sure thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issues with invoices.\\n\n- GST portal showing -11000 rupees.\\n\n- IndiaMART revoked the invoice.\\n\n\\n\nResolution:\\n\n- Executive asked to share screenshot on WhatsApp.\\n\n- Executive will discuss with accounts team.\\n\n\\n\nNext Steps: \\n\n- Customer will share screenshot on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- invoices, gst, credit note, payment\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 208,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f5c9c96d-f892-4e47-94c3-aa5019a964f4",
+  "ucid": "f5c9c96d-f892-4e47-94c3-aa5019a964f4",
+  "seller_categories": [
+    {
+      "mcat_id": "36941",
+      "mcat_name": "Snack Vending Machine"
+    },
+    {
+      "mcat_id": "126667",
+      "mcat_name": "Automatic Vending Machine"
+    },
+    {
+      "mcat_id": "2724",
+      "mcat_name": "Vending Machine"
+    },
+    {
+      "mcat_id": "138732",
+      "mcat_name": "Sanitary Napkin Vending Machine"
+    },
+    {
+      "mcat_id": "22324",
+      "mcat_name": "Beverage Vending Machines"
+    }
+  ]
+}

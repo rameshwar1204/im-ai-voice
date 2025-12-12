@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672477926",
+  "gluser_id": "90358125",
+  "vintage_months": 36,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Radaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684101",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, good afternoon. Main [Executive Name] se baat kar raha tha.\\nCustomer: Haan ji, haan ji.\\nExecutive: Haan, main keh raha tha sir, maine na aapke kehne pe woh wala jo aapne bataya tha ki buyer supplier wala, maine unke against mein ticket raise kar diya hai, theek hai na?\\nCustomer: Hmm.\\nExecutive: Ticket ki reference ID maine aapko WhatsApp kar di hai sir.\\nCustomer: Theek hai.\\nExecutive: Theek hai. Ab hamari jo IndiaMART ki buyer supplier team hai, woh aap se contact kar legi. Aaj shaam tak most probably kar legi woh aap se, theek hai na?\\nCustomer: Theek hai.\\nExecutive: Bas dhyaan yeh rakhna sir, jo aapka primary wala number hai, uske upar call aayega jismein last mein 150 hai.\\nCustomer: Achha.\\nExecutive: Theek hai na? Uske upar call aa jayega aapke paas. Toh ab main aapka yeh wala concern band kar raha hoon, theek hai na?\\nCustomer: Theek hai sir, theek hai.\\nExecutive: Woh wala concern chalega aapka.\\nCustomer: Theek hai ji.\\nExecutive: Aur abhi jab main concern close karunga na sir, toh aapke paas ek mail aayega. Toh usme sir satisfied mark karna padega aapko, theek hai na?\\nCustomer: Theek hai ji.\\nExecutive: Theek hai sir. Main karta hoon aapko close perfect.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported an issue with a buyer/supplier.\\n\n\\n\nResolution:\\n\n- Executive raised a ticket against the buyer/supplier.\\n\n- Executive shared the ticket reference ID via WhatsApp.\\n\n- Executive informed the customer that the buyer/supplier team will contact.\\n\n- Executive requested the customer to mark as satisfied.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, ticket, whatsapp, reference id\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3db37f6f-80e1-46a4-b513-72bfac736565",
+  "ucid": "3db37f6f-80e1-46a4-b513-72bfac736565",
+  "seller_categories": [
+    {
+      "mcat_id": "188742",
+      "mcat_name": "Cattle Feed Supplement"
+    },
+    {
+      "mcat_id": "181647",
+      "mcat_name": "Animal Feed Supplement"
+    },
+    {
+      "mcat_id": "656463",
+      "mcat_name": "Veterinary Medicine Manufacturing Service"
+    },
+    {
+      "mcat_id": "7240",
+      "mcat_name": "Poultry Feed Supplements"
+    },
+    {
+      "mcat_id": "222851",
+      "mcat_name": "Pet Feed Supplements"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672574322",
+  "gluser_id": "34623073",
+  "vintage_months": 74,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9687469",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello. Hello. Hello. Haan, haan Himanshu ji, Anurag baat kar raha tha IndiaMART se.\\nExecutive: Haan ji, haan ji.\\nCustomer: Haan aapka call aaya tha sir dusre wale number se.\\nExecutive: Call aaya tha?\\nCustomer: Ji, ji, ji woh jo primary number hai na aapka 462 wala, woh aap hi ka hai na abhi?\\nExecutive: Haan, lekin.\\nCustomer: Kaun, kab aaya tha?\\nExecutive: Just abhi aaya hai, thodi der pehle customer care pe call aayi hai aapki.\\nCustomer: Nahi, nahi, maine call nahi kiya tha.\\nCustomer: Aap hi ki usse call dial hui sir, mere paas toh ticket bhi raise ho gayi hai.\\nExecutive: Sorry, sorry, maine call nahi kiya tha. Mera number toh office mein hai.\\nCustomer: Haan, toh yeh number use hua bhi nahi hai?\\nCustomer: Nahi, 5:15 pe call aayi hai, toh kahi ticket open hui hai.\\nExecutive: Abhi, abhi, abhi just, abhi dekhte hai. Dekh ke bata rahe hai aapko.\\nCustomer: Haan sir, mujhe jaldi se bata dijiye, nahi puchhenge kya dikkat hai.\\nCustomer: Hai na?\\nExecutive: Main batata hu. Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he did not make the call.\\n\n- A ticket was raised from customer's number.\\n\n\\n\nResolution:\\n\n- Executive will check and inform the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, ticket, verification, number\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fcc4a2fc-fb0d-443a-85d9-d8495189073b",
+  "ucid": "fcc4a2fc-fb0d-443a-85d9-d8495189073b",
+  "seller_categories": [
+    {
+      "mcat_id": "9496",
+      "mcat_name": "Skimmed Milk Powder"
+    },
+    {
+      "mcat_id": "145584",
+      "mcat_name": "Toor Dal"
+    },
+    {
+      "mcat_id": "3092",
+      "mcat_name": "A4 Size Paper"
+    },
+    {
+      "mcat_id": "25884",
+      "mcat_name": "Copier Paper"
+    },
+    {
+      "mcat_id": "184920",
+      "mcat_name": "JK Copier Paper"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670107693",
+  "gluser_id": "62694105",
+  "vintage_months": 73,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Koderma",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663581",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Good morning.\\nCustomer: Ha madam. Ah, mai aapse ye bol rahi hu jo maine abhi internal ticket raise kiya hai sir, buyer supply conflict ka, usme na aapko buyer agar call aata hai hamari team ka to aap unko screen shot vagera bhej dena aur sab maine bhej diya hai, thik hai?\\nExecutive: Aur aapne jo kal customer care ko call kiya tha na sir? To wo service ka ticket open hai isliye matlab mere liye. To kya mai wo ticket ko band kar du abhi?\\nCustomer: Ha thik hai aapko aap dekh samajh lijiye kya karna hai.\\nExecutive: Open hi hai aapka ticket sir buyer supply conflict ka but jo ek ticket kal mere liye aaya tha us ticket ki puch rahi hu aapse.\\nCustomer: Thik hai to usko kar dijiye band.\\nExecutive: Thik hai aapko na ek mail aayega satisfaction ke liye matlab wo mere liye rahega mail, thik hai sir?\\nCustomer: Thik hai. Ha. Aur aapka wo buyer sub supply ka ticket to open hi hai abhi.\\nExecutive: Thik hai. Abhi baat ki aapne kya usko?\\nCustomer: Ab maine jo hamari team hai na Rahul\\nExecutive: Ha. Jisko jo ticket mila hai, maine Rahul se baat kari hai to Rahul ko sara samjha ek\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised an internal ticket.\\n\n- Executive asking about closing customer care ticket.\\n\n\\n\nResolution:\\n\n- Executive asked to send screenshot to team.\\n\n- Customer agreed to close the customer care ticket.\\n\n- Executive informed about satisfaction mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, buyer supply conflict, satisfaction mail\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ae0eb753-0368-4322-89a9-5f7fa413b4bb",
+  "ucid": "ae0eb753-0368-4322-89a9-5f7fa413b4bb",
+  "seller_categories": [
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "118733",
+      "mcat_name": "Texture Painting Service"
+    },
+    {
+      "mcat_id": "88392",
+      "mcat_name": "Decorative Mural"
+    },
+    {
+      "mcat_id": "38613",
+      "mcat_name": "Wall Textures"
+    },
+    {
+      "mcat_id": "25568",
+      "mcat_name": "Decorative Wall Art"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671772067",
+  "gluser_id": "256025272",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678229",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\nExecutive: Good morning sir, mai Shashi bol rahi hu IndiaMART se.\\nCustomer: Good morning madam, humji bol rahe hai.\\nExecutive: Ji aapka call aaya tha kal ke date mein aapne sales person ko call kiya tha, koi issue aa raha tha?\\nCustomer: Ji madam wo leads vagera ke bare mein puchna tha matlab leads to aa rahi mai keh raha search mar ke nikal lo.\\nExecutive: Accha leads vagera ke bare mein aapko janna tha.\\nCustomer: Ji.\\nExecutive: Matlab jaise koi message aata hai na jaise ki leads aati hai ekdam bolte hai wo nahi ho raha wo bol rahe the mujhe unhone kaha aap matlab jo hai wo vaise utha do aap matlab jaake leads uthani hai.\\nCustomer: [inaudible]\\nCustomer: Mujhe unhone kaha tha maine kaha ji.\\nExecutive: Location ka aapko dekhna hai.\\nCustomer: Ji.\\nCustomer: Matlab sari matlab leads aa rahi hai to Saharanpur ki aa rahi hai madam Saharanpur mein to kaam itna hai ye.\\nExecutive: Kaam ki nahi aa rahi aapke.\\nCustomer: Bahar ki aani chahiye na madam lead to Hyderabad ho gayi Karnataka ho gayi is tarah ki side ki.\\nExecutive: To aapne usi filter apply kiya tha jaise hi sir abhi na aapke service onboard hui hai IndiaMART se to abhi hum na aapko ek welcome call ke through connect karenge usme aapko na service ke pure demo rahenge like ki aap kaise filter apply kar sakte hai kaise buyer se contact kar sakte hai aur baki sari cheeze ki leads mein agar aapko koi issue aa raha hai jaise abhi aap bata rahe ho to aap hume batao hum us cheezon ko aap sari cheezon ko resolve karenge aapko batayenge ki ha ye.\\nCustomer: Chaliye thik hai madam.\\nCustomer: Kar lunga mai thik hai na thodi der ruk jaiye mai factory jaake phir call karta hu.\\nExecutive: Ha thik hai jab aap free ho jate hai ek bar call kariega to aapke sath.\\nCustomer: Thik hai.\\nExecutive: Okay madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants leads from outside Saharanpur.\\n\n- Leads are not instantly available.\\n\n\\n\nResolution:\\n\n- Executive will connect via welcome call.\\n\n- Executive will provide service demo.\\n\n- Executive will explain filter application process.\\n\n\\n\nNext Steps: \\n\n- Customer will call after reaching factory.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, filter, welcome call\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2be47c7c-c0d7-4300-8126-e465f992ab90",
+  "ucid": "2be47c7c-c0d7-4300-8126-e465f992ab90",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "7781",
+      "mcat_name": "Stainless Steel Chafing Dish"
+    },
+    {
+      "mcat_id": "78113",
+      "mcat_name": "Brass Chafing Dishes"
+    },
+    {
+      "mcat_id": "315639",
+      "mcat_name": "Second Hand Catering Counter"
+    },
+    {
+      "mcat_id": "3700",
+      "mcat_name": "Chafing Dishes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667329595",
+  "gluser_id": "65202078",
+  "vintage_months": 7,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Wada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, haan ji.\\nExecutive: IndiaMART bol rahe ho?\\nCustomer: Haan ji, IndiaMART se baat kar raha hu.\\nExecutive: Haan, main Colors se bol raha hu.\\nCustomer: Kahan se?\\nExecutive: Colors se bol raha hu, Colors.\\nCustomer: Colors, hum ek baar register number bataiye.\\nExecutive: Ji madam, number boliye. 866\\nExecutive: 946\\nCustomer: 942\\nExecutive: 5521\\nCustomer: 5521?\\nExecutive: Haan.\\nCustomer: Colors and Paint Industry se bol rahe ho?\\nExecutive: Haan.\\nCustomer: Theek hai ye. Wo actually mera relationship manager kaun the abhi?\\nExecutive: Ah, filhaal to pehle to Vivek Sharma the, abhi wo change ho gaya, main aapko batata hu.\\nCustomer: Unko jara follow call karne ke liye, kyunki wo mera bhi company\\nExecutive: Jo matlab Colors Industry thi na, usko bhi private limited kar diya hai.\\nCustomer: Achha. To GST ke ek baar unko call karwata hu. Private limited ho gaya aapka?\\nCustomer: Haan, private limited ho gaya abhi.\\nExecutive: To GST bhi updated hai na? Aap updated GST bhej do. Main Vivek ji ko bolta hu call karne ke liye.\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know his relationship manager.\\n\n- Wants a follow-up call regarding company updates.\\n\n\\n\nResolution:\\n\n- Executive informed about previous relationship manager.\\n\n- Executive asked to share updated GST details.\\n\n- Executive assured a call from Vivek.\\n\n\\n\nNext Steps: \\n\n- Executive will arrange a call from Vivek.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- relationship manager, gst, private limited company\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc411bc9-9e84-4f98-a96b-23a3b3f80998",
+  "ucid": "fc411bc9-9e84-4f98-a96b-23a3b3f80998",
+  "seller_categories": [
+    {
+      "mcat_id": "3343",
+      "mcat_name": "Water Based Inks"
+    },
+    {
+      "mcat_id": "280918",
+      "mcat_name": "Texcron Pigment Emulsion"
+    },
+    {
+      "mcat_id": "191771",
+      "mcat_name": "Water Based Screen Printing Inks"
+    },
+    {
+      "mcat_id": "34329",
+      "mcat_name": "Pigment Powders"
+    },
+    {
+      "mcat_id": "5935",
+      "mcat_name": "Pigment Emulsion"
+    }
+  ]
+}

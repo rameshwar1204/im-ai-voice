@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669509022",
+  "gluser_id": "191967082",
+  "vintage_months": 27,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ji, Kolkata bol raha hu aapka.\\nCustomer: Ha ha apne aap hi drop ho gayi sir.\\nExecutive: Matlab mai samajh nahi paya aapki baat sir ki company band ho jayegi.\\nExecutive: Wind up ji wind up kar rahe hai hum log. Closure kar rahe hai company ko hi.\\nCustomer: Achcha achcha.\\nExecutive: Ji.\\nExecutive: To uska ye mera jo plan hai wo October 2026 tak ka plan hai sir wo.\\nCustomer: Ha to GST aapki cancel ho gayi hai kya?\\nExecutive: Sir ye kya bol rahe hai sir?\\nCustomer: GST GST aapki cancel ho gayi hai kya?\\nExecutive: Sir aapki aawaz break ho rahi hai. [unintelligible] ek minute ek minute.\\nCustomer: Mai ye keh raha hu sir.\\nExecutive: Ji.\\nCustomer: GST aapki cancel ho rahi hai?\\nExecutive: Ha ji. Surrender kar raha hu mai GST pe.\\nCustomer: GST aapke surrender hoti hai ek baar aap mujhe de dijiye sir. Sure mai bilkul baat kar leta hu company me.\\nCustomer: Kar diya hai maine. Ji kar diya hai.\\nCustomer: Ha to usse fir kya rahega process hai fir?\\nExecutive: Sir yaha pe company me baat\\nCustomer: nahi hai bhai GST surrender ho gaya aap client jo hai service reduce nahi karega to fir kaise anyhow.\\nCustomer: To mai wahi janna chah raha hu sir ki wo aap agar pehle baat kar lenge to better rahega na sir ki wo maine process aaj karwa diya hai usme I think so 10 din lagenge.\\nExecutive: Dal diya hai already.\\nCustomer: Ji surrender kar diya.\\nExecutive: Thik hai sir thik hai thik hai. To jaise hi GST surrender wala aapka jo aa jata hai ki GST jo hai aapki cancel hoti hai ki band hoti hai to kuch kya likha surrender hoti hai.\\nCustomer: Ji.\\nExecutive: Surrendered by customer likha hua hai. Sir aise achanak se ye sab aisa kyu?\\nCustomer: Kyuki sir do teen hazar ke chakkar me kamane ka matlab nahi hai sir. Faltu interest ghumane ka matlab nahi hai sir koi sense nahi hai.\\nExecutive: Achcha achcha.\\nCustomer: Competition itna badh gaya sir kya karenge bataye.\\nExecutive: Lekin business to sir aapko IndiaMART se aata hai na sir hai ki nahi?\\nCustomer: Business samajh me nahi aa raha sir. Jisko aise ko mai 40000 me de raha hu usi ko protect wale ye perfect wale ye 32000 me de denge.\\nExecutive: Matlab other log other log.\\nCustomer: Ha ha. To ye aapke naye naye registered hue hai is time pe registered hue hai aapke IndiaMART pe last month hi 31st tarikh ko.\\nExecutive: Ha ha. Achcha achcha. Achcha. To wo wo wo insan 38000 me de raha hai.\\nCustomer: To hum kaise adjust karenge bataye fir aap. Kaha 40000 kaha 38000. Itna to customer baat\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's GST is being cancelled.\\n\n- Wants to know the process after GST surrender.\\n\n- Business is affected due to high competition.\\n\n\\n\nResolution:\\n\n- Executive asked to provide GST surrender details.\\n\n- Executive assured to discuss with the company.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, surrender, business, competition\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 140,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=89dc2a7e-6505-4f54-b92a-96d64a8bc0d5",
+  "ucid": "89dc2a7e-6505-4f54-b92a-96d64a8bc0d5",
+  "seller_categories": [
+    {
+      "mcat_id": "40361",
+      "mcat_name": "Tube Cleaners"
+    },
+    {
+      "mcat_id": "132537",
+      "mcat_name": "Tube Cleaning Brush"
+    },
+    {
+      "mcat_id": "42067",
+      "mcat_name": "Tube Expanders"
+    },
+    {
+      "mcat_id": "136243",
+      "mcat_name": "Boiler Brush"
+    },
+    {
+      "mcat_id": "28585",
+      "mcat_name": "Flexible Shafts"
+    }
+  ]
+}

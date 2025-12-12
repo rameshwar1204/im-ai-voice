@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673806683",
+  "gluser_id": "255459812",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Ji very good afternoon, Ankush ji.\\nCustomer: Ha ji.\\nExecutive: Sir, Pooja Sharma baat kar rahi hu IndiaMART head office se, aapke account manager.\\nCustomer: Ha.\\nExecutive: Sir, abhi to mai nikal gaya hu idhar\\nCustomer: Delhi bus se.\\nCustomer: To\\nExecutive: Okay.\\nCustomer: Ek baar mai aapko sham ko call back karta hu na.\\nExecutive: Sham ko kitne baje call back kar sakte hai sir?\\nCustomer: 5 baje ke aas paas.\\nExecutive: 5 baje ke aas paas. Thik hai sir, thik hai. Okay.\\nCustomer: Ya phir ya phir jaise hi mere ko time milega aaj kal parso me mai phir call pe kar lunga aapko hai na.\\nExecutive: Actually sir aapka na ek ticket open hua hai, aapne IndiaMART ke customer care pe call kiya tha na. To aap bataiye sir abhi\\nCustomer: To humne meeting ki thi, agar kuch concern aa raha hai to bataiye sir.\\nCustomer: Ha.\\nCustomer: Wo wahi keh raha hu mai, abhi to system se nikal gaya hu mai.\\nCustomer: Bahar to jaise bhi mere ko availability rahegi mai call kar lunga.\\nExecutive: Sir dekhiye 5 baje aap bol rahe ho ki 5 baje aap baat kar sakte hai to mai ek baar aapko 5 baje call kar deti hu.\\nCustomer: Mai wahi keh raha hu timing timing aage piche ho jayega to mai aapko call back kar lunga na.\\nExecutive: Thik hai. Sir service me aapko kuch concern aa raha hai jo abhi aap customer care pe call kiya tha.\\nCustomer: Kuch samajhna tha mujhe. Kuch samajhna tha to wo kuch cheez mai aapko puch lunga na.\\nExecutive: Koi baat nahi sir aap jo hai ek baar free ho jaiye, free hoke aap mujhe call kar sakte hai. Mai aapko WhatsApp pe message bhi kar deti hu. Baki mai aapko ek baar 5 baje call back karti hu. Thik hai sir?\\nCustomer: Okay, okay.\\nExecutive: Okay, okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to understand something about service.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 5 PM.\\n- Executive will send a WhatsApp message.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, customer care, service\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=daae68ca-8422-40a0-b8fe-bea78533c863",
+  "ucid": "daae68ca-8422-40a0-b8fe-bea78533c863",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "132183",
+      "mcat_name": "AAC Siporex Block"
+    },
+    {
+      "mcat_id": "42157",
+      "mcat_name": "Concrete Cover Blocks"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666878280",
+  "gluser_id": "115121575",
+  "vintage_months": 1,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9725846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji sir, main abhi na ek meeting mein hoon, usko finish karke call back kar raha hoon aapko.\\nExecutive: Ji.\\nCustomer: Theek hai?\\nExecutive: Theek.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Unable to talk due to being in a meeting.\\n\\n\\nResolution:\\n\\n- Agreed to call back after the meeting.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will call back later.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call back, meeting\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8829e950-6d4d-4398-a96e-9226cba9445a",
+  "ucid": "8829e950-6d4d-4398-a96e-9226cba9445a",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "146449",
+      "mcat_name": "Marble Mortar"
+    },
+    {
+      "mcat_id": "55402",
+      "mcat_name": "Marble Bathroom Accessories"
+    },
+    {
+      "mcat_id": "445189",
+      "mcat_name": "Marble Urli"
+    },
+    {
+      "mcat_id": "180427",
+      "mcat_name": "Marble Pooja Thali"
+    }
+  ]
+}

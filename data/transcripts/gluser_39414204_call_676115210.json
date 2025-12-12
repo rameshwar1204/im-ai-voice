@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676115210",
+  "gluser_id": "39414204",
+  "vintage_months": 18,
+  "bl_dau_oct": 24,
+  "customer_type": "STAR",
+  "city_name": "Madhubani",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji sir, namaskar sir.\\nCustomer: Namaskar, ye Heta Solanki, Bhaanti ka Solanki baat kar rahi hai aap?\\nExecutive: Haan ji, haan ji, haan ji, main hi baat kar rahi hu, bataiye.\\nCustomer: Ye mera account aapke paas hai, kisi aur ke paas gaya?\\nExecutive: Mere paas hi hai sir, bataiye kya issue hai?\\nCustomer: Madam, ek bhi ka lead nahi aa raha hai. Ye hum kya isko achar dalenge kya 2-400, 1000 ke lead ke? Mera abhi 50 lead pada hua hai 60 se upar mein, wo consume nahi kar pa raha hu, lead nahi dhang ka aa raha hai. Pure din mein 4-5 lead show karte hain, main kaha se consume karunga bataiye?\\nExecutive: Lead mein Ek to ye baat, haan aur dhang ka lead nahi aa raha hai, dusri baat ye ki jo lead bach jayega mera is week mein, wo agle week add hoga ya collapse ho jayega? Left ho jayega?\\nExecutive: Sir dekhiye abhi jo aapke paas lead aa rahi hai, aapko koi koi lead aapke topic se related nahi hai. Hmm. To thoda time dijiye sir, lead aayengi aapki. Aur fir jaise aap bata rahe hain, to thodi quantity badhiye aap, pehle wo wali quantity kis hisab se unki category mein aapki aur aaye work mein. Baki main check kar rahi hu aapki lead wait kijiye. Aur do minute, main dusra ye keh raha hu ki mera jo lead bach jayega is week, wo agle week add hoga, add hoke rahega ya fir wo hat jayega? Left kar jayega?\\nExecutive: Sir wo lead aapka add hota rahega.\\nCustomer: Add aur lead aayenge aapke paas, koi lead matlab usi tarah ki lead nahi aayegi.\\nCustomer: Ek baar mujhe apna personal number dena isse baat nahi yaar.\\nExecutive: Kya keh rahe hain?\\nCustomer: Personal number batana apna aap ek baar.\\nExecutive: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving enough quality buyleads.\\n\n- Enquires about lead rollover to next week.\\n\n- Wants personal number of the executive.\\n\n\\n\nResolution:\\n\n- Asked to wait for sometime for leads.\\n\n- Confirmed that remaining leads will be added.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, lead quality\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1bc8bc6c-75bb-4e26-94d2-9b7251241894",
+  "ucid": "1bc8bc6c-75bb-4e26-94d2-9b7251241894",
+  "seller_categories": [
+    {
+      "mcat_id": "181453",
+      "mcat_name": "Acrylic LED Sign Board"
+    },
+    {
+      "mcat_id": "181713",
+      "mcat_name": "Promotional Canopy"
+    },
+    {
+      "mcat_id": "181452",
+      "mcat_name": "LED Sign Board"
+    },
+    {
+      "mcat_id": "126276",
+      "mcat_name": "Roll Up Standee"
+    },
+    {
+      "mcat_id": "133009",
+      "mcat_name": "ACP Cladding"
+    }
+  ]
+}

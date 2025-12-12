@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "668591237",
+  "gluser_id": "127966298",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- No concerns expressed.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f099c52-a7d2-4a9b-840e-c0f690614099",
+  "ucid": "9f099c52-a7d2-4a9b-840e-c0f690614099",
+  "seller_categories": [
+    {
+      "mcat_id": "20595",
+      "mcat_name": "Kids Toys"
+    },
+    {
+      "mcat_id": "50431",
+      "mcat_name": "Rocking Horse"
+    },
+    {
+      "mcat_id": "50432",
+      "mcat_name": "Rocking Toy"
+    }
+  ]
+}

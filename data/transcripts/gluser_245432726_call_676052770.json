@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676052770",
+  "gluser_id": "245432726",
+  "vintage_months": 1,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mahuva",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hi, main hu mera baat kar rahi thi bataiye\\n\\nCustomer: Main next export se baat kar raha hu Milan apni last time baat hui thi na\\n\\nExecutive: Yaad hai sir mujhe main bhulungi kaise export se bol rahe hain na\\n\\nCustomer: Haan to mam abhi bhi wo mere ko wohi problem same dikat aa rahi hai to uska kya solution kare mere ko apna account manager change karna hai\\n\\nExecutive: Account manager change karna hai aapne\\n\\nCustomer: Haan\\n\\nExecutive: Achcha okay\\n\\nExecutive: Okay ek second dijiye zara\\n\\nExecutive: Ankur to achche help karte hain thoda sa kyu kuch problem aa rahi hai aapko unke side se kya dikkat aa rahi hai batao na mujhe thoda sa\\n\\nCustomer: Mam jo main unko meri problem bata raha hu wo samajh hi nahi pa rahe ki main kya bol raha hu aur kya kar raha hu aur maine abhi usko ek problem batai na to wo bol rahe the aap apne hisab se ye change kar do wo change kar do maine abhi ek mere ko kya hai buyer buyer ka call wagera aata hai to usme mera secondary number pe hi call aata hai maine bola ki mera ye primary number hai isme se business bill wagera sab hoti hai to is number pe call aana chahiye to wo bol rahe the aap ek bar wo kar dijiye wo kar dijiye mere ko perfect solution wagera kuch nahi mil raha unke bihaf se\\n\\nCustomer: Abhi abhi abhi maine unko ek dusra problem bataya ki main lead manager par jisne inquiry ki hai wo to usko main product wagera share kar raha hu to uske hisab uske sath maine teen product share ki to teen bar mera catalog share ho ja raha hai to main unko bata raha tha ki wo jo aapne set as default kiya hua hai na catalog ja raha hai product ke hisab se wo band karna hai to wo bol rahe hai wo band nahi hota hai aapke catalog delete karna padega aisa bata rahe hai to wo mere ko problem solve nahi ho pa rahi aur wo samajh nahi pa rahe main kya kehna chahta hu\\n\\nExecutive: Okay achcha aap mujhe bataiye abhi aapko kya help chahiye abhi aapko kya changes wagera mein ya\\n\\nCustomer: Abhi to maine aapko ye jo problem dono problem batayi na wo abhi aise hi hai uska koi solution wagera nahi aaya aur ek to ye hai ki mere ko abhi abhi nahi mila uska sath jamega kyuki wo meri baat samajh hi nahi raha hai main uske sath 5-10 minute uske sath magajmari karu fir bhi nahi samajh pa rahe to uska kya karenge hum\\n\\nExecutive: Okay to aapko matlab kuch help chahiye to mujhe bata dijiye ya sirf account manager change ki dikkat hai aur kuch issue nahi hai\\n\\nCustomer: Do problem to maine aapko batayi jaise main bol raha hu ki lead manager mein main jis client ko mera product share kar raha hu price ke sath jo product jata hai na aapko pata hai\\n\\nExecutive: Ek second dijiye sir thoda voice issue aa raha hai ek bar call back laga lu aapko isi number pe\\n\\nCustomer: Haan koi baat nahi ek second dijiye\\n\\nExecutive: Koi baat nahi\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change account manager.\\n\n- Issue with secondary number receiving calls.\\n\n- Catalog sharing multiple times.\\n\n- No proper solution from account manager.\\n\n\\n\nResolution:\\n\n- Executive listened to the customer's issues.\\n\n- Executive offered a call back due to voice issue.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, buyleads, catalog, solution\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 179,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=92804886-d3c5-4966-aa3b-14b7532cc9e2",
+  "ucid": "92804886-d3c5-4966-aa3b-14b7532cc9e2",
+  "seller_categories": [
+    {
+      "mcat_id": "7518",
+      "mcat_name": "Onion Powder"
+    },
+    {
+      "mcat_id": "26446",
+      "mcat_name": "Dehydrated Onion"
+    },
+    {
+      "mcat_id": "84758",
+      "mcat_name": "Dehydrated Onion Flake"
+    },
+    {
+      "mcat_id": "11917",
+      "mcat_name": "Garlic Powder"
+    },
+    {
+      "mcat_id": "147472",
+      "mcat_name": "Tomato Powder"
+    }
+  ]
+}

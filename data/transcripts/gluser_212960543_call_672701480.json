@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "672701480",
+  "gluser_id": "212960543",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Hingoli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689385",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Aapka call ke liye hai, di sathya itar kunashi bolat hai. Aap pratishtha karu sakta.\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello Pawan ji.\\nCustomer: Ha ji. Hello.\\nExecutive: Pawan sir Karina ka reporting manager.\\nCustomer: Sir aawaz aa rahi hai aapko meri?\\nExecutive: Ha ji ha ji aa rahi hai.\\nExecutive: Main ye keh raha tha sir main main Pawan baat kar raha hun Karina ka reporting manager India Mart se. Sir actually na aapne customer care pe call kiya hua tha. Abhi aapka na welcome call jo demo call hai na wo pending hai to acha complete ho gaya sir aur dusra point ye hai ki na aapke pass Karina ji ka whatsapp number hai sir inhone aapko sath kiya tha.\\nCustomer: Ha ji.\\nExecutive: Theek hai wo number aap save kar lijiyega Karina ji aapke account manager rahenge India Mart se theek hai sir in future koi bhi problem aati hai aap directly whatsapp pe bhi connect kar sakte hain Karina waha se response karenge agar busy honge to fir aapko contact kar lenge theek hai sir aur abhi aapki services jaise live hai to jaise Karina ji ne bataya na waise aap use kijiyega services ko koi bhi doubt aata hai to aap unse connect kar lijiyega sir main na aapki complain ek open ho gayi thi aapne customer care pe call kiya tha na to Karina ji ke liye complain ek open ho gayi thi to main wo close karunga to aapke pass email id ka access hai na sir aap hi ke pass hai na kisi aur ke pass to nahi hai email id ka access.\\nCustomer: Nahi nahi mere pass hi hai mere pass.\\nExecutive: Acha aapke pass to usme feedback jayega sir Karina ke liye jayega aur mere liye bhi jayega ki aapke sath main baat ki.\\nCustomer: Theek hai aap usko revert kar dijiyega theek hai sir.\\nExecutive: Okay okay thank you sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called customer care.\\n\n- Welcome call/demo call was pending.\\n\n- Complaint was opened for Karina.\\n\n\\n\nResolution:\\n\n- Executive informed that welcome call is complete.\\n\n- Executive provided Karina's WhatsApp number.\\n\n- Executive will close the complaint.\\n\n- Executive asked for email ID access confirmation.\\n\n\\n\nNext Steps: \\n\n- Customer to revert on the feedback email.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- welcome call, whatsapp, complaint, feedback\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a12479df-189c-43fa-9c9d-f1519aaae878",
+  "ucid": "a12479df-189c-43fa-9c9d-f1519aaae878",
+  "seller_categories": [
+    {
+      "mcat_id": "69958",
+      "mcat_name": "Turmeric Finger"
+    },
+    {
+      "mcat_id": "186492",
+      "mcat_name": "Organic Turmeric Powder"
+    },
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "2603",
+      "mcat_name": "Turmeric Products"
+    }
+  ]
+}

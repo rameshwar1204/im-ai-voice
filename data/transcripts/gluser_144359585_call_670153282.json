@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670153282",
+  "gluser_id": "144359585",
+  "vintage_months": 41,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Chitradurga",
+  "iil_vertical_name": "CSD",
+  "customer_ticket_id": "9686427",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan.\\nCustomer: Hello?\\nExecutive: Yeah, hi. Ankita this side from IndiaMART. Is it Mr. Ramesh?\\nCustomer: Haan, boliye madam.\\nExecutive: Actually, actually we had a, you know, discussion like whatever you opened a concern regarding the case also. You are already informed you that because of GST address, but you can connect with Mr. Santosh if he will get approval. We don't have any issues to transfer that case.\\nOkay. So there will be, hello?\\nCustomer: Haan, tell me.\\nExecutive: So there will be no issue in transferring the case, but if Santosh will get the approval. That all everything will based on him only. So we are closing out this concern as of now. If you want any update, please take an update with Santosh.\\nCustomer: Okay.\\nExecutive: Hello, fine?\\nCustomer: Okay.\\nExecutive: And if you want any help regarding services, we are there to help you out. You have my number, you can connect me directly. Okay. By the way, let me know what's the issue? Why you want a local guy to, you know, guide you about this? It's because of the personal term with Santosh, right?\\nCustomer: No, no, no. It's near to me actually in our office to Bangalore, it's near me actually. So we want to discuss immediately. I have to go to there and discuss and whatever. Okay. But I need local people.\\nExecutive: But sir, try to understand. I want, I want, I want Santosh, not, not only Santosh. You can give me anyone person in Bangalore.\\nCustomer: Okay.\\nExecutive: But sir, try to understand. See, we do have some limits. Try to understand madam.\\nCustomer: Sir, why don't, you are ready to you to understand like there will be some logic behind everything.\\nCustomer: Haan.\\nExecutive: So that's why because I'm, I'm ready to give the case. I don't have any issue, but as per process, this is not allowed. That's why I told Santosh, if he will get the approval, we don't have any group to transfer the case to him.\\nCustomer: No madam, you have to transfer the case in Bangalore, Bangalore local anyone.\\nExecutive: It's not, it's not in our hand. We need to have a different team who used to deal cases in each region. Who will, who will the incharge, main incharge?\\nCustomer: Please ask Santosh. He know everything. He'll guide you up. He is already doing a mail for that. That's why I'm telling you only he can take the case. I will talk to Santosh right now.\\nExecutive: Yes, yes. Please talk to him and we are just because what happened now, you just raised the concern on us.\\nExecutive: It will, it will not help you out in that. So we are closing this concern. Please do contact with Santosh. He will do the case transfer and everything because he is doing that. We don't have any authority to do this. Okay?\\nCustomer: Okay, okay.\\nExecutive: Fine, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a local representative in Bangalore.\\n\nResolution:\\n\n- Executive stated to contact Santosh for case transfer.\\n\nNext Steps: \\n\n- Customer will contact Santosh.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- case transfer, bangalore, local representative\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 202,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7fd373e7-3aa2-464f-9db8-b1280e9ee37d",
+  "ucid": "7fd373e7-3aa2-464f-9db8-b1280e9ee37d",
+  "seller_categories": [
+    {
+      "mcat_id": "187904",
+      "mcat_name": "Arecanut Plant"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "118493",
+      "mcat_name": "Banana Tissue Culture Plants"
+    },
+    {
+      "mcat_id": "122614",
+      "mcat_name": "Banana Plant"
+    },
+    {
+      "mcat_id": "122251",
+      "mcat_name": "Farming Consultants"
+    }
+  ]
+}

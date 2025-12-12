@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674373749",
+  "gluser_id": "102080408",
+  "vintage_months": 68,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Silvassa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji, good morning sir.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Good morning. Sir, meri aawaz aa rahi hai aapke paas?\\nCustomer: Haan bolo.\\nExecutive: Ji sir, main Ashraf baat kar raha hun IndiaMART ke head office se. Kaise hain sir aap?\\nCustomer: Ji actually mein sir ek feedback aaya tha ki 15-20 dinon se koi zyada achi lead inquiries nahi aa rahi hai. Aisa ek mail aaya tha mere paas.\\nCustomer: Hmm. Number likh.\\nExecutive: Haan, number bataiye mujhe ek minute.\\nExecutive: Ji sir.\\nCustomer: Bataiye. 9714.\\nCustomer: 9714.\\nCustomer: 9 9 55552.\\nExecutive: 55552.\\nCustomer: Haan bolo.\\nCustomer: Haan. 971. Aadhe ghante mein phone karna sir.\\nExecutive: Theek hai, theek hai, theek hai. 55552. Good name sir?\\nCustomer: Sakshi.\\nExecutive: Sakshi ji. Theek hai, theek hai. Main inse baat karta hun aadhe ghante baad. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No good lead inquiries in the last 15-20 days.\\n\n\\n\nResolution:\\n\n- Executive took the contact number to investigate.\\n\n\\n\nNext Steps: \\n\n- Executive will call after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiries, feedback\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1d57aa59-0ca6-4ec4-82af-b0681bcec048",
+  "ucid": "1d57aa59-0ca6-4ec4-82af-b0681bcec048",
+  "seller_categories": [
+    {
+      "mcat_id": "78132",
+      "mcat_name": "Forklift Parts"
+    },
+    {
+      "mcat_id": "95543",
+      "mcat_name": "LED Beacon"
+    },
+    {
+      "mcat_id": "185459",
+      "mcat_name": "Forklift Hydraulic Pump"
+    },
+    {
+      "mcat_id": "191438",
+      "mcat_name": "Forklift Battery Connectors"
+    },
+    {
+      "mcat_id": "155367",
+      "mcat_name": "Forklift Brake Parts"
+    }
+  ]
+}

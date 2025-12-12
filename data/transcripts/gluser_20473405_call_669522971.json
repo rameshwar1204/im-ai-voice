@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669522971",
+  "gluser_id": "20473405",
+  "vintage_months": 6,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sujangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656943",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello? Meri voice aa rahi hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not applicable, as conversation is incomplete.\\n\n\\n\nResolution:\\n\n- Not applicable, as conversation is incomplete.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=01eae471-4594-45bf-bb70-fd14c64f508b",
+  "ucid": "01eae471-4594-45bf-bb70-fd14c64f508b",
+  "seller_categories": [
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "173258",
+      "mcat_name": "Shades Fabrication Services"
+    },
+    {
+      "mcat_id": "56268",
+      "mcat_name": "False Ceiling Services"
+    },
+    {
+      "mcat_id": "28191",
+      "mcat_name": "Fabrication Works"
+    },
+    {
+      "mcat_id": "220929",
+      "mcat_name": "Tin Shed"
+    }
+  ]
+}

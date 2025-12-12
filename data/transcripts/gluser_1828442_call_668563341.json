@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668563341",
+  "gluser_id": "1828442",
+  "vintage_months": 32,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646676",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\nResolution:\\n\\nNext Steps: \\n[No transcript available]\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\nNeutral -> Neutral\\n\\n@@@Key Topics:\\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4dc04b2e-9d87-4949-ad8c-362487a88148",
+  "ucid": "4dc04b2e-9d87-4949-ad8c-362487a88148",
+  "seller_categories": [
+    {
+      "mcat_id": "5052",
+      "mcat_name": "Office Chairs"
+    },
+    {
+      "mcat_id": "204437",
+      "mcat_name": "Geeken Office Chairs"
+    },
+    {
+      "mcat_id": "35998",
+      "mcat_name": "Revolving Chair"
+    },
+    {
+      "mcat_id": "184588",
+      "mcat_name": "Mesh Executive Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    }
+  ]
+}

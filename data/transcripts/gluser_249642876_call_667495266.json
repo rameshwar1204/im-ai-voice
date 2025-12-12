@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667495266",
+  "gluser_id": "249642876",
+  "vintage_months": 4,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dumri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Call toh ja rahi hai isko?\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Aah, yeh Mr. Kamlesh baat kar rahe hain?\\nCustomer: Haan, haan.\\nExecutive: Kamlesh ji kaise hain? Namaskar.\\nCustomer: Haan, namaskar. Boliye, kaun company se? Ji Suraj baat kar rahe the senior manager IndiaMART se.\\nCustomer: Hain?\\nExecutive: IndiaMART se Suraj baat kar rahe hain senior manager.\\nCustomer: Are IndiaMART\\nCustomer: wale se koi matlab nahi rakhe na boliye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want to engage with IndiaMART.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Negative\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, call, senior manager\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bf6681a6-464c-4bae-8c06-67e70e6fdefd",
+  "ucid": "bf6681a6-464c-4bae-8c06-67e70e6fdefd",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    }
+  ]
+}

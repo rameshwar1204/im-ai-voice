@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666929803",
+  "gluser_id": "76430875",
+  "vintage_months": 60,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631408",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Haan madam\\nExecutive: Haan ji, good morning ma'am. Shraddha baat kar rahi hu IndiaMART se. Aapka concern raise hua hai ma'am IndiaMART pe.\\nCustomer: Haan madam boliye na.\\nExecutive: Ji ji bataiye ma'am.\\nCustomer: Ma'am mera na ek profile mein number hai na wo erase karna matlab nikalna tha.\\nExecutive: Okay. Aap bataiye kaunsa remove karna hai?\\nCustomer: Nine zero\\nExecutive: Haan, last mein kya hai? Seven zero nine hai kya?\\nCustomer: Haan haan correct ma'am.\\nExecutive: Okay, inko remove karna hai.\\nCustomer: Aur jo madam MD Impact ka ID hai na mail ID wo change karke MD Impact ka dalna tha.\\nExecutive: Achha. Okay. Actually ma'am ye na aapko guide karna padega, aapke end se hi hoga. Toh iske regarding teen baje ek baar meeting rakh lein kya hum?\\nCustomer: Ah, chalega ma'am.\\nExecutive: Theek hai. Teen baje main isi number pe connect karu aapko?\\nCustomer: Haan.\\nExecutive: Theek hai theek hai. Sure ma'am. Main teen baje aapko call call back karti hu.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants to remove a phone number from the profile.\\n- Wants to change the email ID on the profile.\\n\\n\\nResolution:\\n\\n- Confirmed the phone number to be removed.\\n- Informed that profile changes must be done from the customer's end.\\n- Scheduled a guided call at 3 PM to assist with the process.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back at 3 PM to guide the customer.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- profile update, phone number removal, email id change, scheduled callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0d07ca4e-1431-4b26-a9da-784b98bb26c2",
+  "ucid": "0d07ca4e-1431-4b26-a9da-784b98bb26c2",
+  "seller_categories": [
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    },
+    {
+      "mcat_id": "133063",
+      "mcat_name": "Sodium Gluconate"
+    },
+    {
+      "mcat_id": "3630",
+      "mcat_name": "Caustic Soda"
+    },
+    {
+      "mcat_id": "154962",
+      "mcat_name": "Superplasticizer Admixture"
+    }
+  ]
+}

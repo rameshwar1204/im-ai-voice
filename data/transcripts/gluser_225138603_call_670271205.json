@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670271205",
+  "gluser_id": "225138603",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Satna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: The person you have called is speaking to someone else. You can wait or call again.\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello. Haanji sir, ye kehna hai ki aapka na jo ek abhi concern jo aapne 9696 pe call karke nahi pucha tha ki matlab aapki services kab kab tak running rahegi chalu hogi?\\nCustomer: Haan.\\nExecutive: To abhi maine baat kiya hai jo ye aapka active karenge unse to unhone ye kaha hai ki aapka agar koi bhi concern open rahega to hum work order issue nahi kar sakte hain matlab aapka live nahi ho sakta. To uske regarding sir mujhe aapka ye concern jo hai wo close karna padega.\\nCustomer: Haan kar do madam.\\nExecutive: Theek hai. Main ye close kar de rahi hu fir.\\nCustomer: Okay. To open to ho jayega na?\\nExecutive: Haan just jaise hi main ye aapka concern close karungi main unko message kar dungi kyuki unka just abhi mere paas message aaya hai ki aap ye WIP ticket close karke batao live kar denge. Unhone ye message kiya hai. To ab jaise hi wo concern aapka main close karungi apne end se theek hai to wo turant main unko message kar dungi fir wo aapka live kar denge.\\nCustomer: Theek hai madam aap kar do close.\\nExecutive: Theek hai jaise hi fir live hota hai na aapko inform kar de rahi hu.\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's account is not live.\\n\n- Executive needs to close concern to make live.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the concern.\\n\n- Executive will inform once account is live.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- account, live, concern, close\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9593ff3c-c24f-40cc-b794-aafe3e6d2c08",
+  "ucid": "9593ff3c-c24f-40cc-b794-aafe3e6d2c08",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    }
+  ]
+}

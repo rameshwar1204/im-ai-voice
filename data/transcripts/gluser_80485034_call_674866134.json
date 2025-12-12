@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674866134",
+  "gluser_id": "80485034",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Samastipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709990",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=09e27aa0-8c0d-4068-9b55-c66591933466",
+  "ucid": "09e27aa0-8c0d-4068-9b55-c66591933466",
+  "seller_categories": [
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "139916",
+      "mcat_name": "Men Cotton Pant"
+    },
+    {
+      "mcat_id": "185217",
+      "mcat_name": "Men Printed Shirt"
+    }
+  ]
+}

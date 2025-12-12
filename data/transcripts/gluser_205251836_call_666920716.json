@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666920716",
+  "gluser_id": "205251836",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji sir, Manju baat kar rahi hu IndiaMART se.\\nCustomer: Ji.\\nExecutive: Ji, video meeting ke liye schedule tha na time dedh baje ka bola tha aapne.\\nCustomer: Ji ji ji ji.\\nExecutive: Ji, toh abhi kar lete hain sir connect.\\nCustomer: Main bas paanch minute mein karta hu, thoda khaana kha raha hu. Bas paanch minute ke liye karta hu aapko.\\nExecutive: Achcha.\\nCustomer: Theek hai. Isi number pe call laga lu aapko?\\nExecutive: Haan haan ji bilkul.\\nCustomer: Theek hai.\\nExecutive: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up for a scheduled video meeting.\\n- Customer was having food and couldn't connect.\\n\\n\\nResolution:\\n\\n- Customer requested to connect after 5 minutes.\\n- Agreed that the customer will call back on the same number.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will call back in 5 minutes for the video meeting.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- video meeting, schedule, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3832b70e-d4e2-404d-aa81-e348ce6b0dd7",
+  "ucid": "3832b70e-d4e2-404d-aa81-e348ce6b0dd7",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "72798",
+      "mcat_name": "Wall Fountain"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

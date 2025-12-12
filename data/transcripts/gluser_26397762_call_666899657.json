@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "666899657",
+  "gluser_id": "26397762",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628350",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji?\\nExecutive: Haan Renuka Clothing Company na?\\nCustomer: Ji?\\nExecutive: Akshay ji baat kar rahe hai?\\nCustomer: Haan bol raha hu.\\nExecutive: Avnish baat kar raha hu sir IndiaMART se.\\nCustomer: Abhi thoda busy tha baad me baat karta hu.\\nExecutive: Haan haan wo theek hai aap busy hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Stated being busy and wanted to talk later.\\n\\n\\nResolution:\\n\\n- None, the call ended abruptly.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer stated they would talk later.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- introduction, verification, customer busy\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=84aef8cf-5560-408a-aa17-c3c7b1e73790",
+  "ucid": "84aef8cf-5560-408a-aa17-c3c7b1e73790",
+  "seller_categories": [
+    {
+      "mcat_id": "50179",
+      "mcat_name": "Track Pant"
+    },
+    {
+      "mcat_id": "9288",
+      "mcat_name": "Shoe Upper"
+    },
+    {
+      "mcat_id": "192675",
+      "mcat_name": "Adidas Track Pants"
+    }
+  ]
+}

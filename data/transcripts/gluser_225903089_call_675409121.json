@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675409121",
+  "gluser_id": "225903089",
+  "vintage_months": 3,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Barabanki",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ji hello sir, very good afternoon. Kaise ho sir aap?\\nCustomer: Thik hai.\\nExecutive: Ji. Sir abhi aap Ajay ji baat kar rahe hai na?\\nCustomer: Ji ji Ajay baat kar raha hu.\\nExecutive: To sir aapka number kaise change ho gaya? Ek second.\\nCustomer: Ji?\\nExecutive: Aapka number change dikha raha hai sir. Aapka yahi hai na number shuru mein 97 hai last mein 4620 hai.\\nCustomer: Ji ji ji.\\nExecutive: Sir aapka number last mein ek second sir call par rahiye main aapko batati hu ek second.\\nCustomer: [inaudible]\\nExecutive: First minute\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive noticed a change in customer's number.\\n\n\\n\nResolution:\\n\n- Executive put the customer on hold to verify.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number verification, profile update\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e5396570-93a2-471b-b47e-36e579fc6fb4",
+  "ucid": "e5396570-93a2-471b-b47e-36e579fc6fb4",
+  "seller_categories": [
+    {
+      "mcat_id": "154572",
+      "mcat_name": "Eucalyptus Clone Plants"
+    },
+    {
+      "mcat_id": "186261",
+      "mcat_name": "Eucalyptus Plant"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "74006",
+      "mcat_name": "Sanitary Pad"
+    },
+    {
+      "mcat_id": "8396",
+      "mcat_name": "Sanitary Napkins"
+    }
+  ]
+}

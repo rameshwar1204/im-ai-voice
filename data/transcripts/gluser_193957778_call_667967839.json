@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667967839",
+  "gluser_id": "193957778",
+  "vintage_months": 6,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639435",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ah, ha Javed sir, Daud bol raha hu IndiaMART se.\\nExecutive: Ji sir boliye.\\nCustomer: Main bolna sir woh theek hua abhi ki nahi?\\nExecutive: Nahi kaha hua sir.\\nCustomer: Achcha toh mere sir na engineering team jo hai aapse video meet pe connect karna chah rahi hai. Toh aap abhi kab available hai?\\nExecutive: Abhi toh sir main bahar hi hu toh main lagbhag 12:00 baje ke baad.\\nCustomer: 12:00 baje ek fix time bataiye kyunki sir na woh fix time pe hi aayenge woh log aise free nahi rehte hain. Engineering team jo hamari hoti hai na sir woh aapko connect karegi video meet pe toh bataiye ek fix time bata de kab aap available hai sir.\\nExecutive: 12:30 barabar aaunga usme.\\nCustomer: Barabar 12:30?\\nExecutive: Ji sir.\\nCustomer: Okay, theek hai.\\nCustomer: Main kara deta hu, theek hai sir?\\nExecutive: Theek hai sir, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks if the issue is resolved.\\n\n- Executive says the issue is not resolved.\\n\n- Customer needs a fixed time for a video meet.\\n\n\\n\nResolution:\\n\n- Executive will be available at 12:30 PM.\\n\n- Customer will arrange the video meet.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- issue resolution, video meet, engineering team\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=86d3f8e9-fa21-4b3c-bade-79052798b1c6",
+  "ucid": "86d3f8e9-fa21-4b3c-bade-79052798b1c6",
+  "seller_categories": [
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127342",
+      "mcat_name": "Natural Saffron"
+    },
+    {
+      "mcat_id": "441885",
+      "mcat_name": "Shilajit Resin"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    }
+  ]
+}

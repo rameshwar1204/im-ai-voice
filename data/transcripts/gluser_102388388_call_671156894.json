@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671156894",
+  "gluser_id": "102388388",
+  "vintage_months": 8,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Panaji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning ma'am, I am Aashish speaking from IndiaMART. Your company name is Diwar Dwip Spices, right?\\nCustomer: Haan.\\nExecutive: So, just now your call was received by our customer care number 96969696 per ma'am.\\nCustomer: Haan, haan, haan.\\nExecutive: So, regarding that, I wanted to talk to you ma'am, how can I help you?\\nCustomer: Haan, mujhe form name change karna tha.\\nExecutive: Kya change karna tha ma'am?\\nCustomer: Haan?\\nExecutive: Aapko kya raise karna tha ma'am?\\nCustomer: Form form form name mujhe change karna hai.\\nExecutive: Aapko apni company ka naam change karna hai.\\nCustomer: Accha. Change karna hai.\\nExecutive: To aapka ma'am jaise, accha okay okay, mai samajh gaya. To aapka jo GST certificate hai, usme aapne ma'am update karwa diya apne company ka naam?\\nCustomer: Haan, haan, kar diya hai.\\nExecutive: To GST number same hai ya different hai ma'am?\\nCustomer: Haan GST par update kar diya hai new name.\\nExecutive: Nahi nahi, mai ye puchh GST number aapka isme hai mention 30 ESY ye same hi rahega ya ye bhi different hai? GST number bhi change hua hai aur wo bhi change hua hai, mai ye puchh raha hu aapse.\\nCustomer: Nahi, GST number same hai.\\nExecutive: Accha GST number to koi baat nahi ma'am, mai aapko na apne whatsapp pe add karke hi likh raha hu. Aap mujhe apni company ka jo updated GST certificate aapko mila hoga, wo mujhe send kar dijiye, mai aage team ko bolke aapka ye abhi ek do ghante me karwa deta hu ma'am.\\nCustomer: Okay, thik hai.\\nExecutive: Thik hai, aapko yani ki jo GST certificate mila hoga na updated naam ke sath me, aap mera number likh lijiye ma'am 9891.\\nCustomer: One minute. 9891 45\\nCustomer: 45\\nExecutive: 4229.\\nCustomer: Phir se mai bolti hu 989145\\nExecutive: Haan.\\nCustomer: Baad me kya hai?\\nExecutive: 4229.\\nCustomer: Kya? Haan, okay, likh diya hai.\\nExecutive: Is number pe aap mere ko apna GST certificate bhej do, mai abhi yani ki team ko bolke karwa deta hu.\\nCustomer: Okay, thik hai.\\nExecutive: Thik hai?\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change the company name.\\n\nResolution:\\n\n- Executive asked to share updated GST certificate on WhatsApp.\\n\n- Executive assured to get it done in 1-2 hours.\\n\n\\n\nNext Steps: \\n\n- Customer will send the GST certificate on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- company name change, gst certificate, whatsapp\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a5beab47-e87f-40ce-b2e1-cdcecd1cf36a",
+  "ucid": "a5beab47-e87f-40ce-b2e1-cdcecd1cf36a",
+  "seller_categories": [
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "127",
+      "mcat_name": "Christmas Stars"
+    },
+    {
+      "mcat_id": "218580",
+      "mcat_name": "Clay Tea Cup"
+    },
+    {
+      "mcat_id": "28284",
+      "mcat_name": "Fish Masala Mix"
+    },
+    {
+      "mcat_id": "9050",
+      "mcat_name": "Hanging Star"
+    }
+  ]
+}

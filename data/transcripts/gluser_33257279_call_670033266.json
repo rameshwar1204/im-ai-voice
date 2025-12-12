@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670033266",
+  "gluser_id": "33257279",
+  "vintage_months": 79,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nExecutive: Hello.\\nExecutive: Haan sir aaj to kya late ho gaye fir kal karenge apan.\\nCustomer: Chaliye koi issue nahi hai fir main aapko na apne personal number se aapko whatsapp pe message dal de raha hu theek hai.\\nExecutive: Theek hai aap kya karega mujhe jab aap free hote hain to aap mujhe waha pe message dal dena whatsapp pe main aapko us time connect kar lunga theek hai.\\nCustomer: Theek hai theek hai aur aapka jo request tha sir video meeting ka ye main close kar deta hu sir theek hai.\\nExecutive: Okay. Kyunki already hum connect kar chuke hain main aapko aap mujhe directly connect kar lijiyega sir like whatsapp pe.\\nCustomer: Theek hai theek hai.\\nExecutive: Okay. To mail pe ek aapko satisfy ka option aayega use kar dijiyega na ho gaya.\\nExecutive: Thank you.\\nExecutive: Likhiyega.",
+  "summary": "\\n\nConcerns:\\n\n- Customer was late, will connect later.\\n\n\\n\nResolution:\\n\n- Customer will message on WhatsApp when free.\\n\n- Executive will connect at that time.\\n\n- Video meeting request closed as already connected.\\n\n- Executive requested customer to mark satisfaction on mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, video meeting, satisfaction\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=29135731-6fa5-40d3-88fe-a27487ab7a96",
+  "ucid": "29135731-6fa5-40d3-88fe-a27487ab7a96",
+  "seller_categories": [
+    {
+      "mcat_id": "31985",
+      "mcat_name": "Men Wig"
+    },
+    {
+      "mcat_id": "42099",
+      "mcat_name": "Human Hair Wigs"
+    },
+    {
+      "mcat_id": "206895",
+      "mcat_name": "Mirage Hair Wig"
+    },
+    {
+      "mcat_id": "29957",
+      "mcat_name": "Hair Wig"
+    },
+    {
+      "mcat_id": "42931",
+      "mcat_name": "Natural Hair Wigs"
+    }
+  ]
+}

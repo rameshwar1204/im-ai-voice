@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669546787",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Tumhare paas abhi ghode nahi hai bhai. Tumhare paas abhi\\nInko dekho inka call hi nahi khatam ho raha hai.\\nHello?\\nHello.\\nHello?\\nHanji.\\nSir, main dobara kar raha hun aapki call, aawaz na bahut\\ngadgada ke aa rahi hai, main ruk ke call kar raha hun aapko. Accha accha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice was distorted during the call.\\n\n\\n\nResolution:\\n\n- Executive redialed the call.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- redial, voice quality\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b053da2c-fe42-42a8-b22d-631c4b53357b",
+  "ucid": "b053da2c-fe42-42a8-b22d-631c4b53357b",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

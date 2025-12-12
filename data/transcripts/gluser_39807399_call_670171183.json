@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670171183",
+  "gluser_id": "39807399",
+  "vintage_months": 52,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Panipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655665",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hi ma'am, good morning. Manish baat kar raha tha IndiaMART office Noida se.\\nCustomer: Good morning sir.\\nExecutive: Haan haan haan haan. Kaise hain aap?\\nCustomer: Theek hai sir, aap bataye.\\nExecutive: Okay, okay.\\nExecutive: Main abhi baat karna chah raha tha, ek meeting mein thoda sa kuch category wise bhi discussion karna tha. Ki kuch categories mein kam traffic hai to agar hum categories wise bhi change kar sakte hain. To usi regarding thoda.\\nCustomer: Accha zoom meeting kaise kya kar rahe ho aap?\\nExecutive: Haan bhai google meeting.\\nCustomer: Aaj actually main available nahi hun. Aap hai na Kirti ko connect kar lo. Aap group mein ek number hoga.\\nExecutive: Haan haan.\\nCustomer: Main aapko bata deti hun, usko connect kar lo aap.\\nExecutive: Accha.\\nCustomer: Haan jo categories hain wo. Aap available nahi hain? Aap available nahi hain?\\nExecutive: Ab aap aap already kafi dino se hain na to aapko knowledge hai in cheezon ki to bahut sari categories sub categories bhi hain. To ek baar wo bhi discuss kar lete hain to ek baar aap online bhi nahi ho sakte?\\nCustomer: Usko baithe wo bhi kar legi usko aware hain in sab cheezon se.\\nExecutive: Haan.\\nCustomer: Wo kar legi aap 930 note down kar lo uska number.\\nExecutive: Ye 9306211829 na? Yehi number hai?\\nCustomer: Alternative ji ji ji ji.\\nExecutive: Theek hai, ek baar main connect kar lunga.\\nCustomer: Haan okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss category traffic.\\n\n\\n\nResolution:\\n\n- Customer asked to connect with Kirti.\\n- Executive noted Kirti's number.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with Kirti.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- categories, meeting, connect\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=659acc3e-dafd-4eef-8ca9-f362cb373c6c",
+  "ucid": "659acc3e-dafd-4eef-8ca9-f362cb373c6c",
+  "seller_categories": [
+    {
+      "mcat_id": "852",
+      "mcat_name": "Cotton Yarn"
+    },
+    {
+      "mcat_id": "139784",
+      "mcat_name": "Open End Yarn"
+    },
+    {
+      "mcat_id": "154477",
+      "mcat_name": "Open End Cotton Yarn"
+    },
+    {
+      "mcat_id": "137538",
+      "mcat_name": "Polyester Cotton Yarn"
+    },
+    {
+      "mcat_id": "153534",
+      "mcat_name": "Recycled Cotton Yarn"
+    }
+  ]
+}

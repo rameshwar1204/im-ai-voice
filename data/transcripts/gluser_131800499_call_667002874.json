@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667002874",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji madam.\\nCustomer: Haan sir Jahangir se good evening sir Rani baat kar India Mart se.\\nExecutive: Good evening.\\nCustomer: Haan ji ha ji sir main ye puch rahi thi ki abhi abhi aapka wo hua kya problem solve solve hua kya\\nExecutive: Madam keh rahi koi nahi\\nCustomer: Are waisa hi waisa hi hai\\nExecutive: Waisa hi hai\\nCustomer: Theek hai hamare side se to maine pura maine check to kara liya hai sir mere mere side se yehi aa raha hai ki like aapke yahan connect ka issue aa raha hai to nahi open ho pa raha hai sir.\\nExecutive: Madam jab home me ja rahe hai na home me jo home screen hoti hai wahan pe chal raha hai.\\nCustomer: Home screen pe chal raha hai aap aap aap kaun sa mobile application aapne India Mart ka India Mart B to B aapne install kiya hai na\\nExecutive: India Mart B to B hi chal raha hai na\\nCustomer: Achcha ek kaam karoge aap ek baar laptop wagera aap ek baar dekhoge ki wahan on ho raha hai ki nahi\\nExecutive: Laptop pe kahan dekhunga main to abhi bahar hoon.\\nCustomer: Achcha to fir batao aap kab tak aap aaoge\\nExecutive: Ab kya karenge ye to mujhe lagta hai ye nahi chalega wahan pe bhi nahi chalega.\\nCustomer: Nahi nahi sir aisa nahi hai wahi to main dekhna chah rahi hoon aisa ho hi nahi sakta hai ki na chale sir mere ko to wahi pe matlab dekhna hai ha mere ko dekhna hai kya system\\nExecutive: ye to yada aata hai ye to achanak se ho gaya\\nCustomer: Sir wahi to mere ko bhi lag raha hai ki aisa ye jo side me add product aa raha hai na hmm hmm ye bhi chal raha hai add product bhi chal raha hai aap dekh nahi pa rahe ho aap ye keh rahe ho\\nExecutive: Ek ek to by lead nahi chal raha hai dusra jo ye jo aa raha hai ye bhi nahi chal raha hai ye do nahi chal raha hai\\nCustomer: Sir ye to aap ek kaam karo aap na aap isko delete karo mobile application jo hai na aapne jo application wo kiya install delete karo aapko main ek link share karu usko install karo aap\\nExecutive: Zara mujhe dijiye theek hai\\nCustomer: Haan\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's IndiaMART application not working properly.\\n\n- Buyleads and lead manager not functioning.\\n\n\\n\nResolution:\\n\n- Executive suggested deleting and reinstalling the application.\\n\n- Executive offered to share a link for reinstallation.\\n\n\\n\nNext Steps: \\n\n- Executive to share link for app re-installation.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- application, buyleads, lead manager, installation\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 125,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e8291bd-22aa-463d-8ecf-2d5e2a41ebf7",
+  "ucid": "6e8291bd-22aa-463d-8ecf-2d5e2a41ebf7",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

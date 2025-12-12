@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673913302",
+  "gluser_id": "142822028",
+  "vintage_months": 5,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699667",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji sir. Aaiye good evening, main baat kar raha hun Ranjeet aapke account manager.\\nCustomer: Ji ji ji.\\nExecutive: Ji aapka jo concern tha sir wo complete ho gaya hai matlab aapka name aapne change karne ke liye mail kiya tha. Wo name aapka change ho gaya ek baar check kar lijiye sir profile par.\\nCustomer: Wo maine check kar liya lekin abhi matlab wo profile me to show ho raha hai lekin profile pe click karne ke baad wo old name hi dikha raha hai abhi.\\nExecutive: Nahi wo change ho jayega aap wo issue nahi hai wo aapka abhi jo profile pe aapko shayad mail bhi receive hua hoga aap check kariye ek baar. Iske regarding aur mail to aapka mail aa gaya hai.\\nCustomer: Mail aa gaya hai.\\nExecutive: Haan aapka jo concern tha wo change ho gaya hai, theek hai name. Theek hai to abhi is concern ko close kar sakta hun?\\nCustomer: Bilkul bilkul 100%.\\nExecutive: Theek hai sir theek hai okay. Aur aapne feedback jayega iske regarding to aap usko feedback de dijiyega mail par, theek hai?\\nCustomer: Okay.\\nExecutive: Theek hai thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Name change request not reflecting on profile.\\n\nResolution:\\n\n- Executive confirmed name change completed.\\n\n- Asked customer to check mail for confirmation.\\n\n\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- name change, profile update, feedback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b331972-48b4-4b26-983a-5bbe32f603bb",
+  "ucid": "6b331972-48b4-4b26-983a-5bbe32f603bb",
+  "seller_categories": [
+    {
+      "mcat_id": "190991",
+      "mcat_name": "Air Conditioner Copper Pipe"
+    },
+    {
+      "mcat_id": "127560",
+      "mcat_name": "Shade Awnings"
+    },
+    {
+      "mcat_id": "20165",
+      "mcat_name": "Window Awning"
+    },
+    {
+      "mcat_id": "140004",
+      "mcat_name": "Air Conditioner Installation Services"
+    },
+    {
+      "mcat_id": "50671",
+      "mcat_name": "Air Conditioner Pipe"
+    }
+  ]
+}

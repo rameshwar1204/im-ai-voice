@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670672793",
+  "gluser_id": "254545000",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Talala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669481",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Hello.\\nExecutive: Ji good good afternoon good morning sir Shahnawaz baat kar raha hun India Mart se.\\nCustomer: Haan product ka kya hua?\\nExecutive: Ji sir changes photo ka.\\nCustomer: Changes photo ka kya hua aisa bol raha hun.\\nExecutive: Aap type kar dijiye.\\nExecutive: Ji kya?\\nCustomer: Ek minute dijiye main aapko abhi call karta hun.\\nExecutive: Ek minute dijiye main aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquired about the product.\\n\n- Enquired about changes to the photo.\\n\n\\n\nResolution:\\n\n- Asked to type.\\n\n\\n\nNext Steps: \\n\n- Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nproduct, photo, changes\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d695dadd-3058-45dc-88fd-01eafa475b47",
+  "ucid": "d695dadd-3058-45dc-88fd-01eafa475b47",
+  "seller_categories": [
+    {
+      "mcat_id": "187897",
+      "mcat_name": "Filtered Groundnut Oil"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "190873",
+      "mcat_name": "Refined Groundnut Oil"
+    },
+    {
+      "mcat_id": "191583",
+      "mcat_name": "Cold Pressed Peanut Oil"
+    },
+    {
+      "mcat_id": "205381",
+      "mcat_name": "Gulab Refined Oil"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669682400",
+  "gluser_id": "80360409",
+  "vintage_months": 6,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Srinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628883",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Dil mat chaho khuda se meri mushkile badi hai.\\nCustomer: Hello.\\nExecutive: Vishwas ji hello.\\nCustomer: Haan ji.\\nExecutive: Good morning sir aur sab theek?\\nCustomer: Bas theek.\\nExecutive: Amit baat kar raha hu sir IndiaMART se aapka account manager.\\nCustomer: Haan haan boliye.\\nExecutive: Sir services use kar rahe hain abhi problem nahi aa rahi hai na seller panel mein.\\nCustomer: Are do din se wo problem solve ho gayi hai.\\nExecutive: Achcha matlab abhi nahi aa rahi hai na problem.\\nCustomer: Kal kal morning se maine dekha problem solve ho gayi hai.\\nExecutive: Hmm hmm hmm. To list vagerah use kar rahe hain aap consume kar rahe hain?\\nCustomer: Haan haan ab dekh raha hu.\\nExecutive: Aur sir do minute baat karna tha aap se list ko lekar ke hi jo consume kar rahe hain uske baad thoda sa mujhe feedback aap batayenge kya kya customer kya bol rahe hain.\\nCustomer: Jaise list use karte ho to call karte hain unko na.\\nExecutive: Sir jaise hi main free hota hu main aapke number pe call karunga to aaram se baat karte hain.\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a problem in the seller panel.\\n\n- Executive wants feedback on buyleads consumption.\\n\n\\n\nResolution:\\n\n- Customer confirms seller panel issue is resolved.\\n\n- Executive will call later to discuss buyleads feedback.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- seller panel, buyleads, feedback, follow up\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c3687d2f-4c4e-4a2e-8455-105b4ebbf30d",
+  "ucid": "c3687d2f-4c4e-4a2e-8455-105b4ebbf30d",
+  "seller_categories": [
+    {
+      "mcat_id": "73955",
+      "mcat_name": "Heat Pump Water Heater"
+    },
+    {
+      "mcat_id": "30193",
+      "mcat_name": "Heat Pumps"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    }
+  ]
+}

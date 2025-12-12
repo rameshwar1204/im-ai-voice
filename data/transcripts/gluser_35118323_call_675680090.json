@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675680090",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Har Har Shambhu Shambhu Shiva Mahadeva Shambhu Shambhu Shambhu Shiva Mahadeva Shambhu Shambhu Shambhu Shiva Mahadeva.\\nHello.\\nHello.\\nHanji.\\nHanji Jatin sir Anshika baat kar rahi hu IndiaMART se.\\nHanji mam.\\nSir aapka wo process ho gaya hai complete. Sir ne aaj me aapko bata diya hoga. Hamare paas UTR vagera receive ho gaya hai. Aapka ye jo hai na kal se I think ispe update hona shuru ho jayega. Team aapko connect karegi. Baki ispe jo aapka sir jo pehle aapne concern raise kiya tha na ki by leads vagera proper nahi aa rahe hain, leads nahi aa rahe the sahi. To wo concern abhi hum isko close kar de?\\nHanji kar dijiye. \\nKyunki ab service hai na ab aapki service abhi aapne upgrade karaya hai plan to ye service abhi live hogi. To wo uska jaise live hogi uske baad me hum dekhenge kaisa leads vagera aa raha hai. To ye aapka pehle ka matlab jab aapne raise kiya tha. Isko mai close kar de rahi hu. Aap aapke paas feedback jayega sir to please feedback zarur dijiyega.\\nTo aap thik hai. \\nThik hai sir ok thank you. Thank you. Ye bhi verification wale ke sath hi aata hai ye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buyleads were not coming properly.\\n\n\\n\nResolution:\\n\n- Executive confirmed the process is complete.\\n\n- Executive confirmed UTR is received.\\n\n- Executive confirmed the service will be live soon.\\n\n- Executive closed the previous concern regarding buyleads.\\n\n- Executive requested the customer to provide feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, feedback, utr\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ceed2e3-cbae-4bb4-ad8a-45b6bb43f224",
+  "ucid": "6ceed2e3-cbae-4bb4-ad8a-45b6bb43f224",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675354528",
+  "gluser_id": "218548243",
+  "vintage_months": 9,
+  "bl_dau_oct": 6,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9712146",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1df6fa59-de8f-4d5e-a2e8-6952d6b1427f",
+  "ucid": "1df6fa59-de8f-4d5e-a2e8-6952d6b1427f",
+  "seller_categories": [
+    {
+      "mcat_id": "174884",
+      "mcat_name": "RCC Chimney Construction"
+    },
+    {
+      "mcat_id": "26197",
+      "mcat_name": "Digester Tanks"
+    },
+    {
+      "mcat_id": "121272",
+      "mcat_name": "Biogas Digester"
+    },
+    {
+      "mcat_id": "168517",
+      "mcat_name": "Silo Constructions Services"
+    },
+    {
+      "mcat_id": "171381",
+      "mcat_name": "Chimney Painting Service"
+    }
+  ]
+}

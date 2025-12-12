@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670331436",
+  "gluser_id": "2527418",
+  "vintage_months": 21,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663371",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]\\nExecutive: [inaudible] iska reason kya hai agent?\\n[ Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji. Haan ji Shyamlal ji baat kar rahe hain.\\nCustomer: Haan ji.\\nExecutive: Aapke service ke regarding kuch discussion hua tha mera. Haan ji. Haan ji main Suraj baat kar raha tha business mall se India mart se.\\nCustomer: Bolo ji.\\nExecutive: Ye aapke service ke regarding kuch discussion hua tha bhai. Ye India mart se. Haan ji. Kal aapka India mart pe discussion hua hoga service ke regarding.\\nAawaz aa rahi hai sir aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding service discussion.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nservice, india mart\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=278f48fe-9f2c-4a9a-9cdf-231a17ca2449",
+  "ucid": "278f48fe-9f2c-4a9a-9cdf-231a17ca2449",
+  "seller_categories": [
+    {
+      "mcat_id": "156441",
+      "mcat_name": "Tiles Display Stand"
+    },
+    {
+      "mcat_id": "219284",
+      "mcat_name": "GI Door Frame"
+    },
+    {
+      "mcat_id": "151278",
+      "mcat_name": "Mild Steel Door Frames"
+    },
+    {
+      "mcat_id": "30762",
+      "mcat_name": "Ice Cans"
+    },
+    {
+      "mcat_id": "7888",
+      "mcat_name": "Steel Door Frames"
+    }
+  ]
+}

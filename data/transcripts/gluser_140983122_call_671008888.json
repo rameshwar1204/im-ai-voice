@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671008888",
+  "gluser_id": "140983122",
+  "vintage_months": 48,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9644309",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u092f\u0938 \u092e\u0948\u092e\u0964\\nExecutive: \u0905 \u092e\u0948\u092e \u0909\u0938\u092a\u0947 \u0928\u093e \u0938\u094d\u091f\u093e\u0930 \u0935\u093e\u0932\u0947 \u0926\u094b \u0926\u094b \u0915\u0948\u091f\u0947\u0917\u0930\u0940 \u0915\u0947 \u0915\u0930 \u0926\u093f\u090f \u0909\u0938\u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u092d\u0940 \u0915\u093f\u092f\u093e \u0939\u0941\u0906 \u0939\u0948 \u0924\u094b \u0914\u0930 \u0915\u0932 \u091c\u094b \u092e\u0948\u0902\u0928\u0947 \u0915\u093f\u092f\u093e \u0925\u093e\u0964\\nExecutive: \u0939\u0947\u0932\u094b\u0964\\nExecutive: \u0939\u0947\u0932\u094b\u0964\\nExecutive: \u0939\u0947\u0932\u094b\u0964\\nExecutive: \u0939\u094b \u091c\u093e\u090f\u0917\u093e \u092e\u0948\u092e\u0964\\nExecutive: \u0939\u0947\u0932\u094b\u0964\\nExecutive: \u0939\u0947\u0932\u094b\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Star category.\\n\n- Work done yesterday.\\n\n\\n\nResolution:\\n\n- Will be done.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nstar category, yesterday work\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fd1ef90e-be5d-4b65-b538-c8f974ef17c6",
+  "ucid": "fd1ef90e-be5d-4b65-b538-c8f974ef17c6",
+  "seller_categories": [
+    {
+      "mcat_id": "177157",
+      "mcat_name": "Air Filter Foam"
+    },
+    {
+      "mcat_id": "122544",
+      "mcat_name": "Reticulated Foam"
+    },
+    {
+      "mcat_id": "180790",
+      "mcat_name": "Memory Foam"
+    },
+    {
+      "mcat_id": "112544",
+      "mcat_name": "Memory Foam Mattress"
+    },
+    {
+      "mcat_id": "151309",
+      "mcat_name": "Scooter Air Filter"
+    }
+  ]
+}

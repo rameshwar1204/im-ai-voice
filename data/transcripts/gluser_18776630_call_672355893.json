@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672355893",
+  "gluser_id": "18776630",
+  "vintage_months": 110,
+  "bl_dau_oct": 27,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Jagadhri",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698708",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello ha ji\\nCustomer: ha ji hi good morning mai ang ji baat kare\\nExecutive: ha ji\\nCustomer: ang ji mai navin baat kar raha tha senior manager India mart se kaise hai sir\\nExecutive: badhiya sir sir mai na abhi pesh karke khana khane wala hu mai thoda late utha hu mai thodi der me baat kar lu aap mere ko na aadhe ghante baad kar lena phone pure aadhe ghante baad\\nExecutive: aadhe ghante thik hai 12:30 baje karte hai sir ek minute 11:30 baje karna abhi to pesh karna hai mai pesh karne ja raha 12:00 baje 12:40 12:40 pe kar lena 12:40 ya 45 pe\\nCustomer: pura free ho jaiye to ek baar isko final karte hai na\\nExecutive: 12:40 me ha 12:40 me aap mere ko reply karna phone karna\\nExecutive: thik hai mai wait kar raha hu sir\\nCustomer: ha\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a call after half an hour.\\n\n\\n\nResolution:\\n\n- Executive agreed to call at 12:40 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call schedule, follow up\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c1d2308f-810e-43b7-99e3-1c04b4014396",
+  "ucid": "c1d2308f-810e-43b7-99e3-1c04b4014396",
+  "seller_categories": [
+    {
+      "mcat_id": "39397",
+      "mcat_name": "Waffle Maker"
+    },
+    {
+      "mcat_id": "315646",
+      "mcat_name": "Egg Roll Making Machine"
+    },
+    {
+      "mcat_id": "20520",
+      "mcat_name": "Aluminium Milk Cans"
+    },
+    {
+      "mcat_id": "147114",
+      "mcat_name": "Softy Making Machine"
+    },
+    {
+      "mcat_id": "154773",
+      "mcat_name": "Chicken Cutting Machine"
+    }
+  ]
+}

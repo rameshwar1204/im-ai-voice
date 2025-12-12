@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672056203",
+  "gluser_id": "11744036",
+  "vintage_months": 51,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674995",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Very good afternoon. Samek Gyan ji baat kar rahe Talwala Enterprises mein?\\nCustomer: Haan.\\nExecutive: Haan sir, main Vidhi baat kar rahi thi IndiaMART se. Bhanu ki manager. Actually aapka sir ek cheez matlab wo aaya tha call aaya tha parso.\\nCustomer: Parso aaya tha.\\nExecutive: Aapko calls receive nahi ho rahe the bad se.\\nCustomer: Haan, nahi wo problem solve ho gayi hai mam.\\nExecutive: Ho gayi to abhi calls vagera aane lag gaye hain aapke paas?\\nCustomer: Haan.\\nExecutive: Theek hai aur iske alava koi issue face kar rahe hain sir services ke regarding?\\nCustomer: Nahi mam. Nahi mam.\\nExecutive: Okay so main aapke concern close kar do sir apne end se?\\nCustomer: Haan.\\nExecutive: Theek hai aapke paas na ek feedback mail aayega sir Bhanu ke liye. Please usse satisfied kar dijiyega. And ek cheez aur mujhe discuss karni thi kuch products hain aapke jo ki out of stock aapne shayad mark kar rakhe hain right?\\nCustomer: Hmm hmm.\\nExecutive: Like cooking coal hai, non cooking coal hai to in sab mein deal nahi kar rahe hain kya aap abhi?\\nCustomer: Nahi main kar raha hu abhi to. Main ek minute main dekh leta hu ek baar.\\nExecutive: Haan because ye sare product as a buyer wale jo bol rahe hain aap.\\nCustomer: Haan ji haan ji haan ji.\\nCustomer: Achcha.\\nExecutive: Agar aap isme deal karte hain to aap inhe activate kar dijiye aur if in case nahi karte hain to aap please inhe delete kar dijiye baad mein agar kabhi aapko add karna hoga to hum dobara se add kara sakte hain.\\nCustomer: Theek hai.\\n\\nExecutive: Theek hai.\\nExecutive: Theek hai sir and please satisfied kar dijiyega.\\nCustomer: Ji.\\nExecutive: Okay sir okay. Thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not receiving calls properly.\\n\n- Executive wants to discuss out-of-stock products.\\n\n\\n\nResolution:\\n\n- Customer confirmed the call issue is resolved.\\n\n- Executive asked to activate or delete out-of-stock products.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, out of stock, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f710604c-c31d-415e-b4af-994861c98d9a",
+  "ucid": "f710604c-c31d-415e-b4af-994861c98d9a",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "114283",
+      "mcat_name": "Coal"
+    },
+    {
+      "mcat_id": "180300",
+      "mcat_name": "Black Coal"
+    },
+    {
+      "mcat_id": "3890",
+      "mcat_name": "Coal Dust"
+    },
+    {
+      "mcat_id": "113678",
+      "mcat_name": "ROM Coal"
+    }
+  ]
+}

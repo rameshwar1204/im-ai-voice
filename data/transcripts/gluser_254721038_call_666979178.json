@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666979178",
+  "gluser_id": "254721038",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9627185",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji kaun?\\nExecutive: Ji uh good evening sir main Tohid baat kar rahi hu IndiaMART se.\\nExecutive: Haan.\\nExecutive: Right IndiaMART ki team se. Toh sir aap like kya Sudhansh se baat karna chah rahe hain ya urgently kuch hai kya? Ya koi problem bata sakte hain aap mujhe bhi.\\nCustomer: Ji main sun nahi paa raha hu. Ek kaam kijiyega aap mujhe kal lagaiyega. Kis baare mein baat karni hai aapko?\\nExecutive: IndiaMART ke regarding sir. Actually aapki call aayi thi like Sudhansh ke paas. Toh main ye kaha aapki baat ho gayi hai ya pending hai, koi issue urgently aa raha hai toh bataiye main help out kar sakti hu.\\nCustomer: Nahi, woh live aapne kiya hai abhi tak nahi kiya mera?\\nExecutive: Aap buyleads consume kar paa rahe hain ki nahi sir, export ke?\\nCustomer: Nahi, export ke buyleads abhi nahi aa rahi hain abhi.\\nExecutive: Haan, ek minute rukie main aapka aap kitne baje tak free hote ho? Main ek baar check karke aapko bata deti hu.\\nCustomer: Nahi, aap main lagata hu.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants to know if his profile is live.\\n- Not receiving export buyleads.\\n\\n\\nResolution:\\n\\n- Executive offered to check the account status.\\n- Customer disconnected before any resolution was provided.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer stated he would call back.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Annoyed\\n\\n@@@Key Topics:\\n- buyleads, export buyleads, profile status, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9528bd04-908f-4905-9c5d-ebc5f8e05ea0",
+  "ucid": "9528bd04-908f-4905-9c5d-ebc5f8e05ea0",
+  "seller_categories": [
+    {
+      "mcat_id": "37424",
+      "mcat_name": "Soybean Meal"
+    },
+    {
+      "mcat_id": "3398",
+      "mcat_name": "Wheat Flour"
+    },
+    {
+      "mcat_id": "160555",
+      "mcat_name": "Sea Buckthorn Juice"
+    },
+    {
+      "mcat_id": "8516",
+      "mcat_name": "Senna Leaves"
+    },
+    {
+      "mcat_id": "20462",
+      "mcat_name": "Moringa Leaves Powder"
+    }
+  ]
+}

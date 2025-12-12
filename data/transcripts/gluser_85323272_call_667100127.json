@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667100127",
+  "gluser_id": "85323272",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bankra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693919",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello. Ha boliye.\\nCustomer: Good evening, good evening. Main Humera baat kar rahi hu IndiaMART head office se.\\nExecutive: Ji boliye.\\n\\nCustomer: Hello.\\nExecutive: Hello. Hello.\\nExecutive: Ji boliye. Hello. Sir main IndiaMART se aapko baat kar rahi hu. Humera baat kar rahi hu. Service ke liye maine aapko connect kiya tha na.\\nCustomer: Hello. Ha ha. Main pehchan raha hu. Aap boliye na. Aage boliye. Main aapki aawaz aa rahi hai.\\nExecutive: Achha achha. Aa rahi hai aawaz aa rahi hai. Okay. Vahi main services ka hi keh rahi thi sir uses ka ki ek baar apan baith jaate video meeting pe aap join kar dijiye sir main hum baat kar lete hai service ke liye. Kya aap free ho gaye? Kyunki aap keh rahe the aap free honge to phir baat karenge is cheez ko leke. Vahi wali baat hai sir.\\nCustomer: Nahi abhi uske baad hogi aap rehne dijiye koi baat nahi hai. Ab mujhko use nahi karna hai chhod dijiye.\\nExecutive: Kis se baat hui hai sir aapki?\\nCustomer: Abhi do din pehle bhi baat hui thi to unko bhi maine yahi bola tha aur aap kya main aapse baat karu. Dekhiye achha nahi lag raha hai ye.\\nCustomer: Time barbaad ho raha hai mera aap rehne dijiye koi baat nahi hai.\\nExecutive: Time barbaad ki nahi hai pata hai.\\nCustomer: Suno na sir. Achha suniye na aap.\\nExecutive: Nahi hai.\\nCustomer: Aap aap nahi karwa rahe refund to aap kya kar sakte ho bataiye mujhe.\\nExecutive: Sir kam se kam aap service ka ek bari baith jaaiye to hum kam se kam aapka ROI jo hai service hai uska benefit to ho paaye at least.\\nCustomer: Kyunki ab dekhiye aage continue karna hi hai to kam se kam use karke hi kare to jyada behtar hai na.\\nExecutive: Nahi mujhe nahi karna hai. Mujhe continue bhi nahi karna hai, use bhi nahi karna hai. Main bas ek samjhu ki ek business loss hota hai na bas mera vahi ek loss tha ye business mein loss tha.\\nExecutive: Sir initially initially do mahine teen mahine hue hai abhi to pattern set bhi nahi ho paaya theek se. Aap bhi jaante hai us cheez ko.\\nCustomer: Aur teen mahine mein ho jaayenge matlab service ka aap aadha chala jaayega to ye bhi to dekhiye. Ye service to mera bas 12 mahine ka hai na.\\nExecutive: 12 saal 12 mahine ki service zaroor hai. 25% use. Main vahi bol raha hu ki 25% to already used ho chuka hai consume ho chuka hai. Ab main karu na karu mera to consume ho chuka hai na. Ab itna aap logo ko phone kar raha hu.\\nCustomer: Dekho aap bhi jaante ho ki initially abhi buyleads ka aapne bhi dekha hai is month aapne bilkul hi nahi use kara hai last month bhi bahut kam hua hai. Aapne first highest jo kara hai pure mahine mein 10 din 11 din kara hai. Aap ye cheez ko samjhiye sir agar company kisi tarah se kare is tarah se use kariye aur usko use karne ke baad bhi nahi aa raha hai tab tak main jaanta hu ki aap keh rahe ho ki.\\nCustomer: Chhod dijiye chhod dijiye nahi aap kya bolna clarity dena hai rehne dijiye aap apna kaam aap kijiye aap log chhod dijiye. Nahi chahiye mujhe. Thank you.\\nCustomer: Wo use nahi bhi hoga kya kar sakte hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the subscription.\\n\n- Customer does not want to continue the service.\\n\n\\n\nResolution:\\n\n- Executive explained the benefits of using service.\\n\n- Executive mentioned that 25% of service is consumed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, buyleads, service\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 170,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=74ff8ea5-e903-4b44-bff3-c248fe975cc3",
+  "ucid": "74ff8ea5-e903-4b44-bff3-c248fe975cc3",
+  "seller_categories": [
+    {
+      "mcat_id": "42035",
+      "mcat_name": "Islamic Hijab"
+    },
+    {
+      "mcat_id": "42034",
+      "mcat_name": "Islamic Abaya"
+    },
+    {
+      "mcat_id": "186606",
+      "mcat_name": "Burkha"
+    },
+    {
+      "mcat_id": "42033",
+      "mcat_name": "Islamic Clothing"
+    },
+    {
+      "mcat_id": "185618",
+      "mcat_name": "Printed Hijab"
+    }
+  ]
+}

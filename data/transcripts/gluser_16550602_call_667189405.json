@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667189405",
+  "gluser_id": "16550602",
+  "vintage_months": 25,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706167",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- None\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cb93affa-a314-494a-8c9f-208b8deee78d",
+  "ucid": "cb93affa-a314-494a-8c9f-208b8deee78d",
+  "seller_categories": [
+    {
+      "mcat_id": "166927",
+      "mcat_name": "Trailer King Pins"
+    },
+    {
+      "mcat_id": "64732",
+      "mcat_name": "Trailer Spare Parts"
+    },
+    {
+      "mcat_id": "80169",
+      "mcat_name": "Container Lock"
+    },
+    {
+      "mcat_id": "68944",
+      "mcat_name": "Truck Trailer"
+    },
+    {
+      "mcat_id": "53706",
+      "mcat_name": "Container Twist Lock"
+    }
+  ]
+}

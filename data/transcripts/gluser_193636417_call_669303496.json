@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669303496",
+  "gluser_id": "193636417",
+  "vintage_months": 2,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Villupuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686440",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Sollunga sir India Martilendu\\nExecutive: haa vanakam sir maari pesuren voice break aaguthu hello\\nExecutive: sir ippo clear ah irukku pesalama sir\\nCustomer: sollunga sir\\nCustomer: one year back subscribe panni iruntha sir\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: sir mam meeting la irukanga two minutes la call panna sollattuma\\nCustomer: Hello\\nCustomer: India Mart thana ithu\\nExecutive: aama sir aama\\nCustomer: ok sollunga sir\\nExecutive: India Mart than sir customer care\\nCustomer: ya sir ya sir ok ok oru two minutes sir naan call back panna solren\\nCustomer: ya sari panna sollunga\\nExecutive: ya sir\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he subscribed one year back.\\n\n- Wants to talk to the executive.\\n\n\\n\nResolution:\\n\n- Executive informed that the executive is in meeting.\\n\n- Executive offered to have the executive call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in two minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, callback, meeting\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eef9ddae-1465-4c3e-8c70-624da32e1b5f",
+  "ucid": "eef9ddae-1465-4c3e-8c70-624da32e1b5f",
+  "seller_categories": [
+    {
+      "mcat_id": "176223",
+      "mcat_name": "Sambrani Cup"
+    },
+    {
+      "mcat_id": "191244",
+      "mcat_name": "Sambrani Dhoop"
+    },
+    {
+      "mcat_id": "113722",
+      "mcat_name": "Maize"
+    },
+    {
+      "mcat_id": "166061",
+      "mcat_name": "Loban"
+    },
+    {
+      "mcat_id": "152163",
+      "mcat_name": "Sambrani Making Machine"
+    }
+  ]
+}

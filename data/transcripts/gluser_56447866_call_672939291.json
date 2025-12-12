@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672939291",
+  "gluser_id": "56447866",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683381",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello, Namaskar sir.\\nExecutive: Haan Namaskar, Munish ji.\\nCustomer: Haan Naveen sir baat kar rahe hain?\\nExecutive: Ji.\\nCustomer: Haan Naveen sir woh maine escalate kar diya hai case sir. Aapko main mail thread hai na usko bhej bhi de raha hu uska proper tarike se. Uspe proper aapka woh chal raha hai sir matlab discussion chal raha hai aapke hi case pe ki kya kya cheeze hain, root cause kya hai, iska hamare paas kya solution hai. Hum kar payenge ya nahi kar payenge mujhe pata.\\nCustomer: Ji kal jo baat hui thi meri.\\nCustomer: Hello?\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Hello, aawaz aa rahi hai?\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the status of escalated case.\\n\n\\n\nResolution:\\n\n- Executive confirms case escalated and mail sent.\\n\n- Executive confirms discussion is in progress.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nescalation\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- escalation, case status, discussion\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3eea402c-8567-4670-8849-77c652c09f2e",
+  "ucid": "3eea402c-8567-4670-8849-77c652c09f2e",
+  "seller_categories": [
+    {
+      "mcat_id": "78888",
+      "mcat_name": "Hospital Interior Designers"
+    }
+  ]
+}

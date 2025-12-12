@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670979858",
+  "gluser_id": "101232670",
+  "vintage_months": 10,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sasni",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671418",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Karte kya aana padega na tumko.\\n(silence)\\nHello.\\nExecutive: Ji sir bataye kya kuch concern tha aapka?\\nCustomer: Ye puchna chah raha tha jo customer ek hai wo hamare QR code me na dal ke wo chah raha hai ki very IndiaMART ka kuch account number de do.\\nExecutive: Nahi sir actually kya hota hai na ki IndiaMART ke account me matlab wo customer pay nahi karta hai. Thik hai jo bhi aapka customer ke beech jo bhi transaction hota hai na wo aapke beech me rehti hai usme IndiaMART involve nahi hota. To aap matlab ha agar in case koi bhi dispute raise hota hai usme aapke IndiaMART ki jo legal team wo help karegi but aapka jo payment ya fir jo bhi queries hai na usme aapke IndiaMART interfere nahi karega. Jo bhi aapke deal hai aap deal close kariye. Kal ko kuch issue hoti hai isme to usme hum aapki help karenge.\\nCustomer: Isi jaise?\\nExecutive: Jaise issue in the sense ki agar client jo hai matlab jo bhi customer hai aapka uske end se kuch paise ka kuch dikkat ho raha ho ya fir jo maal nahi pahucha uske pass. Thik hai agar aisa kuch complaint wagera aati hai to isme aapki IndiaMART interfere karega baki aapka jo deal kaisi ho rahi hai thik hai usme IndiaMART interfere nahi karta. Aap deal close kariye uske baad kuch bhi issue hoti hai after sales then hum discuss karenge isme.\\nCustomer: Thik hai.\\nExecutive: Thik hai, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants IndiaMART account number for payment.\\n\n\\n\nResolution:\\n\n- Explained IndiaMART is not involved in transactions.\\n\n- IndiaMART legal team will help in disputes.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, account number, dispute, legal team\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a2d08d4-e5b8-407f-b1d7-f5a6481c97dc",
+  "ucid": "4a2d08d4-e5b8-407f-b1d7-f5a6481c97dc",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    },
+    {
+      "mcat_id": "193593",
+      "mcat_name": "TATA Solar Panels"
+    },
+    {
+      "mcat_id": "178988",
+      "mcat_name": "Luminous Inverter Battery"
+    }
+  ]
+}

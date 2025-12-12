@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669871124",
+  "gluser_id": "190290461",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9632734",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan ji bhai.\\nCustomer: Haan ji sir.\\nExecutive: Main Shubham bol raha tha pehle baat hai.\\nCustomer: Main keh raha hu filhaal tum wo concern close kar do actually main bahar hu abhi kuch nahi hai time lagega tumhara open hai.\\nExecutive: Toh main tumhe na shaam ko call karunga khud se 6 baje theek hai filhaal tum kar do please abhi.\\nCustomer: Koi baat nahi ab close kar deta hu agar sir.\\nExecutive: Tumse direct coordinate kar lunga phone utha lena filhaal.\\nCustomer: Aap mujhe direct kar lena sir baki main connect already hu team se toh aap jo bhi connect karenge main aage kar dunga baki sir direct aa jayega sir.\\nExecutive: Woh main kar dunga theek hai aap shaam shaam mein mujhe call kar lijiyega koi dikkat nahi theek hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants concern to be closed.\\n\n- Will need time as currently outside.\\n\n\\n\nResolution:\\n\n- Agreed to close the concern.\\n\n- Executive will call at 6 PM.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, call, coordinate\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7202d674-6100-401c-b934-958c3b643f35",
+  "ucid": "7202d674-6100-401c-b934-958c3b643f35",
+  "seller_categories": [
+    {
+      "mcat_id": "25982",
+      "mcat_name": "Tamper Proof Courier Bags"
+    },
+    {
+      "mcat_id": "184284",
+      "mcat_name": "Printed Courier Bag"
+    },
+    {
+      "mcat_id": "74486",
+      "mcat_name": "Slider Zip Bag"
+    },
+    {
+      "mcat_id": "445006",
+      "mcat_name": "Paper Courier Bag"
+    },
+    {
+      "mcat_id": "5709",
+      "mcat_name": "Paper Carry Bags"
+    }
+  ]
+}

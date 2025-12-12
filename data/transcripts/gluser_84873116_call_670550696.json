@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670550696",
+  "gluser_id": "84873116",
+  "vintage_months": 3,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669072",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji sir namaskar.\\nCustomer: ji baat kar rahe hai kya?\\nExecutive: Nahi nahi wo abhi sir busy hai is vajah se aapki call mere pe divert ho gayi. Bataiye sir kya baat hai?\\nCustomer: Main enterprises se bol raha tha.\\nExecutive: Haan haan haan.\\nCustomer: Haan to aap jo profile hai to ko kuch call hi nahi aa rahi sir.\\nExecutive: Aapko call hi nahi aa rahi.\\nCustomer: Call hi nahi aa rahi sir. Jo hum jo dekh rahe hai na meri jo hum list dekh rahe hai na uske hi call aa rahi hai baki kisi ke call nahi aa rahi. Aisa kya hai sir?\\nExecutive: Accha ek minute main dekh leta hu sir. Kya kya issue aa raha hai. Ek minute. Haan ji haan ji ek minute dijiyega sir.\\nCustomer: Okay.\\nExecutive: Sir main 10 minute mein aapko call karta hu theek hai. Main dekh leta hu main backend pe check karta hu main aapko call karta hu theek hai.\\nCustomer: Okay. Okay.\\nExecutive: Theek hai solve kar dijiye sir aap.\\nExecutive: Haan ji sir.\\nExecutive: Main Ujjwal ji se call back karata hu theek hai.\\nCustomer: Okay okay call kar sakte hai. Okay sir okay thank you.\\nExecutive: Okay. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads.\\n\n- Receiving calls only from the viewed list.\\n\n\\n\nResolution:\\n\n- Executive assured to check the issue.\\n\n- Executive will call back in 10 minutes.\\n\n- Executive will have Ujjwal call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, call issue\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a326a07-242b-49a1-9019-b5b9b5c28ce9",
+  "ucid": "4a326a07-242b-49a1-9019-b5b9b5c28ce9",
+  "seller_categories": [
+    {
+      "mcat_id": "149181",
+      "mcat_name": "Aluminium Armoured Cable"
+    },
+    {
+      "mcat_id": "150067",
+      "mcat_name": "Copper Armoured Cable"
+    },
+    {
+      "mcat_id": "208737",
+      "mcat_name": "Polycab House Wire"
+    },
+    {
+      "mcat_id": "193867",
+      "mcat_name": "Polycab Armoured Cable"
+    },
+    {
+      "mcat_id": "214690",
+      "mcat_name": "Polycab Power Cable"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675897060",
+  "gluser_id": "66205603",
+  "vintage_months": 4,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716245",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Wo le add kar di usme kaun se system me jana hai?\\nExecutive: Ab upar three line pe pehle click karenge tab dekhenge niche kuch features aa rahe hain.\\nCustomer: Haan.\\nExecutive: Ab usme se account manager wale pe click kariye.\\nCustomer: Account manager?\\nExecutive: Haan.\\nCustomer: Hmm hmm.\\nExecutive: Chauthe number pe hai.\\nCustomer: Dobara karna hoga abhi wo.\\nCustomer: Ek, do, teen, char. Account manager haan kar diya madam.\\nExecutive: Ab usme click karne ke baad me ab jo option aa raha hai aapke paas me waha dekhiye share screen karne ka option aa raha hai teesre number pe.\\nCustomer: To ye to ek jese hi system hai ek, do, teen.\\nExecutive: Haan. Share kya hai usme?\\nExecutive: Haan, us pe click kariye.\\nCustomer: Teen number wala ko?\\nExecutive: Haan, teen number wala dabaiye.\\nCustomer: Ye to price wais mang raha hai kuch. Share good and ye mang raha hai likha hua hai.\\nExecutive: Kya mang raha hai?\\nCustomer: Ye share ka photo.\\nCustomer: Share ka hai photo. Haan haan.\\nCustomer: Share good and ye likha hua hai aise furniture.\\nCustomer: Kaun se function me jana hai isme?\\nExecutive: Sir, this is likh ke aa rahi hai share karne ke liye aa raha hoga, apni screen share karne ke liye aa raha hoga.\\nCustomer: Abhi mere se to samajh me nahi aayega.\\nExecutive: Abhi aapne baad me jab aapne teesre number pe click kiya to kya aa raha hai?\\nCustomer: Kya likha hua hai ye to kursiyon ka photo likha hua hai dining hai table wagera. Upar camere ka nishan hai sabse pehle.\\nExecutive: Haan, to camere ka nishan usi pe click kariye na, usko allow kariye.\\nCustomer: Camere wale ko?\\nExecutive: Haan.\\nCustomer: Ye to photo dikh raha hai isme to kuch nahi hai.\\nCustomer: Aise samajh ye mere wale hi photo chade hue hai wo dikh rahe hai.\\nExecutive: Haan, usko aapne pehle se.\\nCustomer: Isme kya karna hai?\\nExecutive: Kahi ek jagah likh ke aa raha hoga jaari kare karke.\\nCustomer: Thoda mere se samay kharab karne se samajh me aayega nahi.\\nExecutive: Sir, to aapko phone use karna nahi aata to mai kya karu?\\nCustomer: Meri meri galti hai.\\nCustomer: Ghar aake thodi na sikhaungi chalo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance with screen sharing.\\n\nResolution:\\n\n- Executive guided the customer to share screen.\\n\nNext Steps: \\n\n- Issue not resolved.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Negative | Annoyed -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- screen sharing, account manager, furniture\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 169,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3a1ef1d7-fa59-4526-8af5-890d05aab4c2",
+  "ucid": "3a1ef1d7-fa59-4526-8af5-890d05aab4c2",
+  "seller_categories": [
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "18984",
+      "mcat_name": "Teak Wood Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "120890",
+      "mcat_name": "Sheesham Dining Table"
+    },
+    {
+      "mcat_id": "190162",
+      "mcat_name": "Wooden Sofa Chair"
+    }
+  ]
+}

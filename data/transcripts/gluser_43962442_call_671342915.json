@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671342915",
+  "gluser_id": "43962442",
+  "vintage_months": 41,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665646",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir, ye Vishal ji se baat ho rahi hai, Unicorn Industries se?\\nCustomer: Haan boliye.\\nExecutive: Haan Vishal ji, very good evening, main Richa Agarwal baat kar rahi hu sir, main IndiaMART Noida head office se baat kar rahi hu.\\nCustomer: Hmm.\\nExecutive: Haan main senior head hu yaha pe. Sir actually aapka na 12 tarikh ko conversation hua tha with your account manager Abhishek Kumar, right sir?\\nCustomer: Mam mera ispe already baat ho gaya hai.\\nExecutive: Haan haan aapka baat ho gaya hai wo, mam that was not a fruitful discussion sir, right? \\nCustomer: Nahi main wahi bol raha hu dekho, fruitful discussion already ho gaya hai, aap aaoge, fir stop karoge, matlab nahi usse, mujhe farak nahi padta hai, maine mera decision de diya hai, aapke jo isse pehle wale jo executive the, unse baat kijiye.\\nExecutive: Vishal ji aapki unse last baat hui thi, haan ji?\\nCustomer: Unke saath baat kijiye.\\nExecutive: Sir mujhe aapka voice nahi aa raha hai, haan boliye.\\nCustomer: Haan, unke saath baat kijiye, maine mujhe mera decision unko de diya hai, us hisab se agar kaam ho raha hai to karte hai, nahi to call mat kijiye please. Theek hai? Main agle call pe, agle call pe itne pyar se baat nahi karunga, main pehle hi bol deta hu aapko.\\nExecutive: Sir main do minute baat kar sakti hu?\\nCustomer: Main nahi kar sakte ho aap madam baat.\\nExecutive: Theek hai.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not want to be contacted again.\\n\n- Customer already made a decision.\\n\n\\n\nResolution:\\n\n- Executive ended the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, decision, call\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9053cd86-34d0-40aa-a009-ba3a9d8e0e7c",
+  "ucid": "9053cd86-34d0-40aa-a009-ba3a9d8e0e7c",
+  "seller_categories": [
+    {
+      "mcat_id": "185180",
+      "mcat_name": "Zinc Flake Coating"
+    },
+    {
+      "mcat_id": "144677",
+      "mcat_name": "Hot Dip Galvanizing"
+    },
+    {
+      "mcat_id": "153541",
+      "mcat_name": "PTFE Coating Services"
+    },
+    {
+      "mcat_id": "102044",
+      "mcat_name": "Metal Coating Services"
+    },
+    {
+      "mcat_id": "74435",
+      "mcat_name": "Iron Screw"
+    }
+  ]
+}

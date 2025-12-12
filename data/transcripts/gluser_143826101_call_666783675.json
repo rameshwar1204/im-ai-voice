@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666783675",
+  "gluser_id": "143826101",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626275",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello Reddy sir, good morning.\\nCustomer: Good morning, good morning.\\nExecutive: Manish Sharma sir, this side, your account manager from IndiaMART.\\nCustomer: Ji boliye sahab. Abhi main aap aap log ko baar baar phone karne ka mere ko time nahi rehta hai. Aap aapko bataya na dekhiye. Wo jab se humne package liya tab se wo relevant to buylead wo dikhata hi nahi hai. Kabhi wo wahi main ek hi message dikhata hai ki.\\nExecutive: Haan.\\nCustomer: Haan.\\nExecutive: Haan, abhi aap kahan hai? Office mein hai ya ghar pe?\\nCustomer: Main main busy mein. Main ruko thoda main call back karta hu main. Thoda rukna padega. Mere ko main meeting mein hu, theek hai?\\nExecutive: Kitna kitna der time lagega meeting mein abhi?\\nCustomer: Ek aadha ghanta lagega. Main call back karta hu. Aap mere ko WhatsApp mein hi kijiye. Main call back karta hu.\\nExecutive: Theek hai to mera number hai aapke paas 7070\\nCustomer: Number nahi hai, nahi hai, nahi hai. Nahi hai, nahi hai. Nahi hai, nahi hai. Aap hi hi karo ek baar.\\nExecutive: Haan, WhatsApp pe hi daal deta hu. Theek hai?\\nCustomer: Haan. Haan.\\nExecutive: Okay, okay.\\nCustomer: Haan.",
+  "summary": "\\n\\nConcerns:\\n\\n- Not receiving relevant buyleads after taking a package.\\n- Does not have time for repeated calls.\\n- Was busy in a meeting and could not talk.\\n\\nResolution:\\n\\n- Agreed to connect after half an hour.\\n- Executive will send a 'hi' on WhatsApp for the customer to call back.\\n\\nNext Steps: \\nIssue not resolved. Executive will send a WhatsApp message, and the customer will call back in half an hour.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, package, callback, meeting, whatsapp\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cd2aa43c-a51d-48dd-8e2c-21024593a40e",
+  "ucid": "cd2aa43c-a51d-48dd-8e2c-21024593a40e",
+  "seller_categories": [
+    {
+      "mcat_id": "39173",
+      "mcat_name": "Swimming Pool Construction"
+    },
+    {
+      "mcat_id": "88527",
+      "mcat_name": "Readymade Swimming Pools"
+    },
+    {
+      "mcat_id": "175152",
+      "mcat_name": "Swimming Pool Repair Service"
+    },
+    {
+      "mcat_id": "39180",
+      "mcat_name": "Swimming Pool Pumps"
+    },
+    {
+      "mcat_id": "8381",
+      "mcat_name": "Sand Filters"
+    }
+  ]
+}

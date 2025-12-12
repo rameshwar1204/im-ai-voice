@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673442371",
+  "gluser_id": "44927047",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695615",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Haan ji.\\nExecutive: Hello. Haan main sir se bol raha hun wo abhi tak mera naam change nahi hua India Mart pe ye mera GST number hai na.\\nExecutive: Haan haan sir aap Chaudhary ji bol rahe hain na.\\nCustomer: Haan haan.\\nExecutive: Haan sir uski main request mein dalunga tab then change hoga na sir maine aapki request kar di thoda time lagta hai usme.\\nCustomer: Okay isme isme bhi jo naam ye Chandra Chaudhary ki jagah change nahi kar sakte kya profile mein jo sambhalta hai uska naam nahi dal sakte kya lead manager ka.\\nExecutive: Nahi sir jisme GST ka naam hoga sir GST ke according hota hai sir.\\nCustomer: Achcha GST wale lenge theek hai.\\nExecutive: Achcha main ja ke abhi check karke.\\nCustomer: Haan ja ke abhi check karke update de deta hun aapko theek hai sir.\\nCustomer: Haan ji check karke update theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Name change not reflected on IndiaMART profile.\\n\n- Wants to change name to lead manager's name.\\n\n\\n\nResolution:\\n\n- Name change done as per GST details.\\n\n- Executive will check and provide an update.\\n\n\\n\nNext Steps: \\n\n- Executive will check and provide an update.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- name change, gst, profile update\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e4500b7e-7dfc-4521-87b0-f8e1704c7b20",
+  "ucid": "e4500b7e-7dfc-4521-87b0-f8e1704c7b20",
+  "seller_categories": [
+    {
+      "mcat_id": "25508",
+      "mcat_name": "CPVC Pipe"
+    },
+    {
+      "mcat_id": "145698",
+      "mcat_name": "CPVC Pipe Fittings"
+    },
+    {
+      "mcat_id": "178088",
+      "mcat_name": "CPVC Elbow"
+    },
+    {
+      "mcat_id": "185622",
+      "mcat_name": "CPVC Tee"
+    },
+    {
+      "mcat_id": "157303",
+      "mcat_name": "CPVC Ball Valve"
+    }
+  ]
+}

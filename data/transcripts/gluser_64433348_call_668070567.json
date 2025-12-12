@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668070567",
+  "gluser_id": "64433348",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jasrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, aawaz aa rahi hai?\\nCustomer: Haan ji aa rahi hai aawaz, kaun?\\nExecutive: Main bol sakta hu.\\nCustomer: Aapka humne subscription liya tha.\\nExecutive: Haan ji.\\nExecutive: Abhi pichle mahine to wo kya hai ki humne deactivate karwa diya tha. \\nCustomer: Haan.\\nExecutive: To abhi to wo refund ki baat chal rahi thi to uska kya update hai sir?\\nExecutive: Achcha Ravindra Ravindra Singh wala?\\nCustomer: Ji ji.\\nExecutive: Haan haan us pe hi baat chal rahi hai actually sham us din hi aapki samne call aayi thi. Achcha aap\\nCustomer: Mera personal number lijiye bar bar aap 9696 pe kyun call karte ho? Jab aapke pass personal number hai.\\nExecutive: To aapne personal number mere ko diya kaha tha kya rakhunga bol raha hu.\\nHaan?\\nExecutive: Aapka naam kya tha personal number diya tha?\\nExecutive: Main Pranshu bol raha hu. Nahi nahi personal number maine aapko diya to tha aapko aap us pe kar sakte ho.\\nCustomer: Pranshu.\\nExecutive: Haan Pranshu Gupta bol raha hu aapka process ho gaya hai aapka refund ka pura pass ho rahi hai aapka bas last review pe pada hua hai. Last review jaise complete hoga to aap uska refund agar ho payega to ho jayega.\\nExecutive: Theek hai?\\nCustomer: Aayega ho jayega to aise to koi baat nahi. Hello.\\nExecutive: Ho payega ho jayega sir ye to baat hai.\\nExecutive: Haan matlab isiliye main keh to raha hu sir aapka review pe hai ho jayega sir.\\nCustomer: To kitna time lagta hai usme?\\nExecutive: Sir time to lagta hai kam se kam 10 din 20 10 se 15 din to lagte hi hai usme sir kyunki hamare sath pura process hota hai sir aisa nahi hai na sir aaj aapne bola refund ke liye to kal hum refund kara de uska.\\nCustomer: Nahi mere khayal se 10 din 15 din se to matter chali raha hai par ki jyada din ho gaye.\\nExecutive: Sir 10 din se ab ab start hua hai uski checklist wagera hui hai sir kuch hota hai norms hote hain ki pura sab sara kuch data bana ke dena hota hai ki is plan ka kyun refund ja raha hai.\\nExecutive: Aapne to bol diya ki aapne bas liya tha service ko but ab beta use nahi kar raha hai to ab band karana hai but hame to pura sawal jawab karna padta hai na sir. But ho jayega sir don't worry don't worry.\\nCustomer: 10 15 din se to main Pushpal Singh ki bol raha hu 10 15 din ka to 10 din to mere khayal se ek week.\\nExecutive: Haan to 10 din ho gaye sir thoda sa aur time dijiye usko aur ho sir keh to raha hu sir time lag raha hai ho jayega sir don't worry.\\nExecutive: Theek hai? Main bol to raha hu aapka karwa process mein hai last review pe hi pada hai maine even aaj aap call se karne se pehle aap manoge nahi maine subah hi subah apne jo head hai jis jo iska refund wagera dekhte hain unko maine aapki profile escalate fir se morning mein hi kar di hai.\\nExecutive: Kyunki iska jitna jaldi ho sake jo hona hai usko karana hi hai waise bhi jab aapko service use nahi karna hai.\\nCustomer: To phir.\\nExecutive: Hmm?\\nCustomer: Monday ko call karo phir.\\nExecutive: Aap haan Monday call kariye aap ek bar theek hai aur main number whatsapp message kiye de raha hu ab personal number pe hota kya hai na aap 9696 pe kar dete ho phir mujhe RC wagera close karna padta hai ticket open ho jata hai.\\nExecutive: Theek hai main personal number bhi diye de raha hu aap ek bar Monday ko.\\nCustomer: Ha personal number main ye ticket close kar raha hu us pe yes karne ka aayega yes kar dijiyega theek hai aur main personal number de raha hu aapko theek hai whatsapp pe likh lijiye note down kar lijiye note down kar lijiye.\\nCustomer: Nahi aapka number hai Pranshu bataya na Pranshu Gupta.\\nExecutive: Pranshu 9129 karke hoga 9129106822.\\nCustomer: Hmm. Hai kya number aise?\\nExecutive: Achcha ye number hai naam se hai mere pass ek.\\nExecutive: Nine haan us pe call kar lijiyega baki main ticket close kar raha hu us pe yes kar dijiyega ek bar Monday call kariye theek hai.\\nCustomer: Theek hai.\\nExecutive: Okay ji okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquires about refund status.\\n\n- Customer questions calling on general number.\\n\n\\n\nResolution:\\n\n- Executive informed refund is in last review.\\n\n- Executive provided personal number for contact.\\n\n- Executive escalated profile to head in morning.\\n\n\\n\nNext Steps: \\n\n- Customer to call on Monday.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, personal number, review\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 212,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a60bb193-a502-418c-ab6b-667f5a51f442",
+  "ucid": "a60bb193-a502-418c-ab6b-667f5a51f442",
+  "seller_categories": [
+    {
+      "mcat_id": "78475",
+      "mcat_name": "HR Consultancy Services"
+    },
+    {
+      "mcat_id": "78448",
+      "mcat_name": "Payroll Services"
+    },
+    {
+      "mcat_id": "154135",
+      "mcat_name": "EPF Compliance"
+    },
+    {
+      "mcat_id": "174903",
+      "mcat_name": "Employee Provident Fund Services"
+    },
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    }
+  ]
+}

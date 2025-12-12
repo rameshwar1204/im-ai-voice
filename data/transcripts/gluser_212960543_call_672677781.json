@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "672677781",
+  "gluser_id": "212960543",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Hingoli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689385",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Aur yeh sir good morning.\\nCustomer: Haan good morning madam. \\nCustomer: Meri baat Haider Abbas ji se karatiye.\\nCustomer: Yes sir.\\nCustomer: Madam meri baat Haider Abbas ji se karatiye.\\nExecutive: Kisse sir aap baat kar rahe hai.\\nCustomer: Haider Abbas.\\nExecutive: Sir aawaz clear nahi aa rahi aapki. Voice clear nahi aa rahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Haider Abbas.\\n\n\\n\nResolution:\\n\n- Executive said customer's voice is not clear.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- connection, voice clarity\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cb0c6e85-97b7-4fd9-8e37-cb2b82134260",
+  "ucid": "cb0c6e85-97b7-4fd9-8e37-cb2b82134260",
+  "seller_categories": [
+    {
+      "mcat_id": "69958",
+      "mcat_name": "Turmeric Finger"
+    },
+    {
+      "mcat_id": "186492",
+      "mcat_name": "Organic Turmeric Powder"
+    },
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "2603",
+      "mcat_name": "Turmeric Products"
+    }
+  ]
+}

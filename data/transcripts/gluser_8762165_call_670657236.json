@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670657236",
+  "gluser_id": "8762165",
+  "vintage_months": 14,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667195",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello, good morning sir.\\nExecutive: Sir, main Malvika baat kar rahi hu IndiaMART se.\\nCustomer: Hello?\\nExecutive: Haan ji boliye.\\nExecutive: Haan ji sir, actually mein sir kal meri kal mere senior se aapki baat hui thi na?\\nCustomer: To video meeting schedule karti hu, discuss kar lete hai jo issues aapke hai.\\nCustomer: Hmm hmm.\\nExecutive: Sir, main schedule karu video meeting?\\nCustomer: Main aapko time bata dunga baad mein.\\nExecutive: Sir, kitne time mein connect kar lu?\\nCustomer: Batata hu main aapko.\\nExecutive: Sir, aap bata dijiye kyuki main baar baar call karungi to phir aap bhi pareshan hoge, aap bata do mujhko main uss time pe connect kar lungi.\\nCustomer: Abhi baat karunga, ek ghante tak mujhe lagi hai.\\nExecutive: Sir, sir your voice is not clear. What sir?\\nCustomer: Call mat karna.\\nExecutive: Main aapko 1 baje call kar lu?\\nCustomer: 2 baje kar lena.\\nExecutive: Theek hai, main aapko 2 baje connect kar leti hu. Theek hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to schedule a video meeting.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meeting for 2 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, follow-up\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=be65f13c-25e2-431e-bf2d-cbf44e151940",
+  "ucid": "be65f13c-25e2-431e-bf2d-cbf44e151940",
+  "seller_categories": [
+    {
+      "mcat_id": "184250",
+      "mcat_name": "Metal Air Cooler"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    },
+    {
+      "mcat_id": "136701",
+      "mcat_name": "Paving Block Moulds"
+    },
+    {
+      "mcat_id": "182766",
+      "mcat_name": "Cooler Grill"
+    },
+    {
+      "mcat_id": "34903",
+      "mcat_name": "PVC Moulding"
+    }
+  ]
+}

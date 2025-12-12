@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674932833",
+  "gluser_id": "733080",
+  "vintage_months": 143,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f895444-cd5e-48cc-88f5-9f48f8fff8f2",
+  "ucid": "5f895444-cd5e-48cc-88f5-9f48f8fff8f2",
+  "seller_categories": [
+    {
+      "mcat_id": "169820",
+      "mcat_name": "Dry Dates Powder"
+    },
+    {
+      "mcat_id": "441808",
+      "mcat_name": "Almond Slice"
+    },
+    {
+      "mcat_id": "147161",
+      "mcat_name": "Almond Powder"
+    },
+    {
+      "mcat_id": "153505",
+      "mcat_name": "Celery Powder"
+    },
+    {
+      "mcat_id": "246350",
+      "mcat_name": "Mulberry Powder"
+    }
+  ]
+}

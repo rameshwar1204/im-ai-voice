@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670723785",
+  "gluser_id": "6845945",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Thanjavur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9713924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Good morning. IndiaMART la irundhu Sujitha sir. \\nCustomer: Ji sollunga madam.\\nExecutive: Neti meeting connect pannirundhom update pannirundhom illingala?\\nCustomer: Aamanga madam.\\nExecutive: Photo vandhu neenga indha 96 numberku vandhu actually send pannirukinga. Edhavadhu catalog updation pending la irukingala?\\nCustomer: Illa madam adhu pudhusa adhe cleaning liquid endhi vera color la add panna.\\nExecutive: Puriyala sir.\\nCustomer: General purpose cleaning liquid vandhu adhu vera color la upload panna adhanga madam.\\nExecutive: Adhunala theriyama poiruchingala?\\nCustomer: Illa adhu dhan upload pannirukindhen madam.\\nExecutive: Ippo ippo kekuringala? Sari pudhusa edhavadhu add pannunuma?\\nCustomer: Aama madam add pannuren madam.\\nExecutive: Add panringala?\\nCustomer: Aama madam.\\nExecutive: Sari pudhusa venumna add pannunga. Idhu vandhu oru concern maari raise aayirukku idha naan close pannikattuma? Close pannidren.\\nCustomer: Close pannidunga madam neenga whatsapp number save pannirukingala?\\nExecutive: Close pannidunga madam.\\nCustomer: Aama neti pesuna madam save pannirukingala?\\nCustomer: Save pannirukingala?\\nExecutive: Save pannirukingala neti neenga information koduthadhu ellam naan konjam follow pannirukken madam oru moonu product add pannirukken.\\nCustomer: Aama.\\nCustomer: Adhu rate packing charge illama transport charge illama adhellam add pannirukkennga. Aduthapla vandhu return guarantee guarantee supply within a week idhellam naan add pannirukken madam adhu oru moonu productla.\\nExecutive: Pudhusa pannirukingala? Aama madam.\\nExecutive: Neenga information koduthadhukku apram adha follow panni oru moonu productla serthirukken madam.\\nExecutive: Hmm.\\nExecutive: Adhanga.\\nExecutive: Okay.\\nExecutive: Thank you.\\nExecutive: Sari naan idha ippo close pannuren sir ungalukku edhavadhu doubts irundha enakke call pannunga.\\nCustomer: Okay madam okay thank you.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer added new cleaning liquid in different color.\\n\nResolution:\\n\n- Executive offered to close the concern.\\n- Executive confirmed customer added details to three products.\\n\n\\n\nNext Steps: \\n\n- Customer can call if they have any doubts.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, updation, product details, follow up\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 139,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=20b34b89-41eb-4291-9a8f-5c11a898e2f8",
+  "ucid": "20b34b89-41eb-4291-9a8f-5c11a898e2f8",
+  "seller_categories": [
+    {
+      "mcat_id": "2140",
+      "mcat_name": "Liquid Detergent"
+    },
+    {
+      "mcat_id": "22534",
+      "mcat_name": "Bathroom Cleaners"
+    },
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "216653",
+      "mcat_name": "Multi Purpose Cleaner"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

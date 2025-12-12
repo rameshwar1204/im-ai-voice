@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675451149",
+  "gluser_id": "73266394",
+  "vintage_months": 1,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello. Ji sir, very good afternoon.\\n\\nCustomer: Hello madam. Bol sakte hai na?\\n\\nExecutive: Haan haan.\\n\\nCustomer: Madam, hamara IndiaMART pe account hai. Request karunga main IndiaMART pe. Gulab Kulkarni ke naam se hai.\\n\\nExecutive: Ji ji.\\n\\nCustomer: Haan ji madam, mujhe query thi.\\n\\nExecutive: Haan bataiye.\\n\\nCustomer: Hamari query thi ek customer the.\\n\\nCustomer: Unko buy karne ka ya sell karne ka hai. Aisa kuch pata nahi chal raha hai. Wo baar baar call kar raha hai. Kya aap unke bare mein help kar sakte ho?\\n\\nExecutive: Hello.\\n\\nCustomer: Haan ji.\\n\\nExecutive: Haan ji sir. Sir, pehli baat toh matlab mera number save nahi kiya hai kya aapne? Pooja baat kar rahi thi sir IndiaMART se.\\n\\nCustomer: Haan ji, haan ji, kiya hai.\\n\\nExecutive: Toh sir aap mujhse directly mere number pe call karte na? Aapne 9696 pe call kar diya.\\n\\nCustomer: Ye bhi number usi ka hai.\\n\\nExecutive: Matlab sir main aapko bata deti hu. Agar aap customer care pe bhi call karte hai na, toh wo call mere paas aati hai. But isme problem ye hota hai na ki haan number visible nahi hota hai, dusri cheeze hai ki pata nahi chal pata hai.\\n\\nCustomer: Ek minute madam, ek minute. Ek minute madam, ek minute. Ek customer hai.\\n\\nExecutive: Haan.\\n\\nCustomer: Unko buy karne ka ya sell karne ka unke bare mein kuch knowledge pata hi nahi chal raha unko buy karne ka.\\n\\nExecutive: Thoda sa sir please bolenge kyunki voice hai na break hoke aa rahi hai aapki. Kya keh rahe hai?\\n\\nCustomer: Ek minute.\\n\\nCustomer: Ek minute madam.\\n\\nExecutive: Theek hai. Call kar rahi hu.\\n\\nExecutive: Haan haan, thoda network mein aa jaiye please.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has a client unsure how to buy/sell.\\n\n- Customer called on the customer care number.\\n\\n\nResolution:\\n\n- Executive asked to call on direct number.\\n\n- Executive asked to speak clearly due to voice breaking.\\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, query, customer care, network\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=800fc892-60a4-4ea5-bfbb-fb82ee94aefb",
+  "ucid": "800fc892-60a4-4ea5-bfbb-fb82ee94aefb",
+  "seller_categories": [
+    {
+      "mcat_id": "148266",
+      "mcat_name": "Glass Powder"
+    },
+    {
+      "mcat_id": "138194",
+      "mcat_name": "Cullet Glass Scrap"
+    },
+    {
+      "mcat_id": "84918",
+      "mcat_name": "Scrap Glass"
+    },
+    {
+      "mcat_id": "190415",
+      "mcat_name": "Whiting Powder"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    }
+  ]
+}

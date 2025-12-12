@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669474586",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, haanji sir.\\nCustomer: Boliye kaun?\\nExecutive: Gitika baat kar rahi hu sir India Mart head office se.\\nCustomer: Haan Gitika ji.\\nExecutive: Aap free hai sir aapne aapko Google meet ke link share kar du aap join kar payenge?\\nCustomer: Nahi mam abhi to nahi main bike chala raha hu.\\nExecutive: Achcha aapne call kara tha mere ko laga aap pahunch gaye isliye aapne call kara hai mere ko.\\nCustomer: Nahi aapka call aaya tha isliye maine socha kiska call aa gaya isliye lagaya.\\nExecutive: Achcha achcha achcha achcha kitne baje tak sir pahunch jayenge aap 5 baje tak pahunch jayenge?\\nCustomer: Shaam ko nahi ho sakta kya?\\nExecutive: Sir hamara working hours hi 6 baje tak of matlab office ka jo hamari.\\nCustomer: To fir kal morning me karenge mam.\\nExecutive: Sir evening me time de dijiye sir jyada kuch aapka time nahi lungi bas jaise aapne abhi hamare customer care pe bhi call kara tha ki kuch by lead ka issue aa raha hai to yaha pe concern raise ho rakha hai. Isiliye aapko connect karne ka try kar rahi thi mere ko 10 se 15 minute de dijiyega aap jab bhi aap free hote hain aap 6 baje se pahle 5 baje 5:30 baje aap mere ko bata dijiye kab free honge.\\nCustomer: Thik hai thik hai.\\nExecutive: Kitne baje tak sir connect karu fir?\\nCustomer: 6 baje se pahle main message kar dunga ek bar aapko.\\nExecutive: Achcha thik hai thik hai sir.\\nCustomer: Okay.\\nExecutive: Accounting dekhna padega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to resolve buylead issue.\\n\n- Executive wants to connect on Google Meet.\\n\n\\n\nResolution:\\n\n- Customer will connect before 6 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, connect, working hours\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f74dbb07-0013-493b-aebf-823b2f420a7f",
+  "ucid": "f74dbb07-0013-493b-aebf-823b2f420a7f",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673348392",
+  "gluser_id": "204426014",
+  "vintage_months": 23,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663739",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan ji.\\nExecutive: Hello?\\n[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=141b9e8e-a28b-4046-a33e-8587b72002f6",
+  "ucid": "141b9e8e-a28b-4046-a33e-8587b72002f6",
+  "seller_categories": [
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "9859",
+      "mcat_name": "Marble Inlay Flooring"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666925296",
+  "gluser_id": "76430875",
+  "vintage_months": 60,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631408",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\n\\nConcerns:\\n- None\\n\\nResolution:\\n- None\\n\\nNext Steps: \\n- None\\n\\nAlert (If Any):\\n- None\\n\\n@@@Sentiment:\\n- N/A\\n\\n@@@Key Topics:\\n- N/A\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=604b24e5-9ca4-47e6-848d-f4a0aa7e8709",
+  "ucid": "604b24e5-9ca4-47e6-848d-f4a0aa7e8709",
+  "seller_categories": [
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    },
+    {
+      "mcat_id": "133063",
+      "mcat_name": "Sodium Gluconate"
+    },
+    {
+      "mcat_id": "3630",
+      "mcat_name": "Caustic Soda"
+    },
+    {
+      "mcat_id": "154962",
+      "mcat_name": "Superplasticizer Admixture"
+    }
+  ]
+}

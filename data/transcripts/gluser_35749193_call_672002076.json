@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672002076",
+  "gluser_id": "35749193",
+  "vintage_months": 3,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Karwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678190",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Baitho. \\nCustomer: Bas tumhare paas baitho. Baitho na.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f2e271ae-c386-4b48-8a0a-1523aac14e70",
+  "ucid": "f2e271ae-c386-4b48-8a0a-1523aac14e70",
+  "seller_categories": [
+    {
+      "mcat_id": "21187",
+      "mcat_name": "Aluminum Foil Containers"
+    },
+    {
+      "mcat_id": "1411",
+      "mcat_name": "Aluminum Foils"
+    },
+    {
+      "mcat_id": "143646",
+      "mcat_name": "Aluminium Foil Jumbo Rolls"
+    },
+    {
+      "mcat_id": "9417",
+      "mcat_name": "Silver Container"
+    },
+    {
+      "mcat_id": "11647",
+      "mcat_name": "Disposable Food Containers"
+    }
+  ]
+}

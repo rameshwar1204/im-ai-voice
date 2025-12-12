@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670666620",
+  "gluser_id": "8488004",
+  "vintage_months": 117,
+  "bl_dau_oct": 11,
+  "customer_type": "STAR",
+  "city_name": "Himatnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669368",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hi, if you record your name and reason for calling, I'll see if this person is available.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Record name and reason for calling.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=52a79e74-3cc9-4aff-8562-1aaf955f5435",
+  "ucid": "52a79e74-3cc9-4aff-8562-1aaf955f5435",
+  "seller_categories": [
+    {
+      "mcat_id": "166520",
+      "mcat_name": "Dialysis Fluid"
+    },
+    {
+      "mcat_id": "215777",
+      "mcat_name": "Fresenius Dialysis Machine"
+    },
+    {
+      "mcat_id": "178319",
+      "mcat_name": "Dialyzer"
+    },
+    {
+      "mcat_id": "166775",
+      "mcat_name": "Hemodialysis Machine"
+    },
+    {
+      "mcat_id": "20465",
+      "mcat_name": "Condoms"
+    }
+  ]
+}

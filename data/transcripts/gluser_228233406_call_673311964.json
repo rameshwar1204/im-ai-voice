@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673311964",
+  "gluser_id": "228233406",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Haveri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "The person you have called is speaking to someone else. You can wait or call again later.\\nNeevu kare maduttiruva vyaktiyu mattondu kareyalli\\nHello matadalri\\nHello\\nHello\\nHello\\nHello\\nGrace ji\\nHello ha sir\\nAdish good afternoon\\nSir mai bola aapne customer care me call kiya india mart sa\\nHa bolo bolo sir ye kya sir ek bhi lead nahi aa raha hai\\nSir lead kya sir mai iske liye to bola na ki aapka jo location change ho gaya address change ho gaya aap filter use karo sir location filter use karte hain to aapke haveri ka bilagavi ka aapke pass lead show hota udhar\\nO gire hege sangti heli aamele filter use madbeku aamele lead barthavu antale\\nEnanta\\nAlle field use madbeku anta location field\\nEnu idu nangirilla\\nHa\\nAa field use madi aamele location check madalla yavaga bandavu lead sir\\nEe bandilla kuda aamele location yavadu illa\\nAa sir ek bhi nahi aa raha hai sir haveri ka location\\nSir haveri ka aayega sir haveri haveri belagavi aapka location hai na local\\nHa\\nUsko aap upper me location location aata na udhar\\nUpper me location aata kiya tha usme bilagavi\\nUdhar udhar hindi wali madam available hai kya\\n5 minute sir 5 minute\\nYes sir yes sir line ko so line ko mai\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n\\n\nResolution:\\n\n- Executive explained to use location filter.\\n\n- Executive put the call on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, location, filter\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=382f9e67-5299-4ebf-bb6b-3912275dd778",
+  "ucid": "382f9e67-5299-4ebf-bb6b-3912275dd778",
+  "seller_categories": [
+    {
+      "mcat_id": "162792",
+      "mcat_name": "Refurbished Laptops"
+    },
+    {
+      "mcat_id": "105926",
+      "mcat_name": "Second Hand Laptop"
+    },
+    {
+      "mcat_id": "181435",
+      "mcat_name": "Dell Laptops"
+    },
+    {
+      "mcat_id": "181436",
+      "mcat_name": "HP Laptop"
+    },
+    {
+      "mcat_id": "11352",
+      "mcat_name": "Laptops"
+    }
+  ]
+}

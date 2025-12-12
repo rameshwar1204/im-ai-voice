@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672265583",
+  "gluser_id": "31248782",
+  "vintage_months": 7,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682462",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Sir usme bhi mere ko pehle time batana pata chale time level video aap.\\nHello.\\nHello.\\nHello sir good morning sir main Inmar se baat kar raha hu sir. Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to know the time level video.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ntime, video\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=316d37ba-845a-4f89-be89-439367b29662",
+  "ucid": "316d37ba-845a-4f89-be89-439367b29662",
+  "seller_categories": [
+    {
+      "mcat_id": "5240",
+      "mcat_name": "Mortise Handle"
+    },
+    {
+      "mcat_id": "65523",
+      "mcat_name": "Stainless Steel Door Handles"
+    },
+    {
+      "mcat_id": "69868",
+      "mcat_name": "Mortise Door Lock"
+    },
+    {
+      "mcat_id": "44055",
+      "mcat_name": "Stainless Steel Aldrop"
+    },
+    {
+      "mcat_id": "20275",
+      "mcat_name": "Zinc Door Handle"
+    }
+  ]
+}

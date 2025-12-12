@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676075969",
+  "gluser_id": "163256160",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwandi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719303",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji madam India Mart se baat kar rahe hain free hue hain aap?\\nCustomer: Bolo madam.\\nExecutive: Aap online aa sakte hain aapne bola tha na online aa jayenge to aa sakte hain kya?\\nCustomer: Haan wait main aa rahi.\\nExecutive: Madam lekin main 4:30 baje bola tha aapko call karungi.\\nExecutive: 4:30 baje aapne bola tha na 4:30 baje ek bar maine call kiya tha I don't know aapka phone ja nahi raha tha ring.\\nCustomer: Kya aapka madam.\\nExecutive: Haan maine kiya tha aapko.\\nCustomer: Kya ho gaya nahi join kar sakti hain kya?\\nExecutive: Beta main aapko call kar rahi hoon.\\nExecutive: Aap mujhe message kar do main aapko message kar dungi abhi main kar rahi hoon.\\nExecutive: Sorry main 5 minute mein join kar rahi hoon.\\nCustomer: 5 minute mein kar rahi hain okay okay jab join karna hai to bata dena aap theek hai.\\nCustomer: Hmm.\\nCustomer: Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was expected to be online.\\n\n- Executive mentioned calling at 4:30 but couldn't reach the customer.\\n\n- Customer asked if she cannot join.\\n\n\\n\nResolution:\\n\n- Executive will message the customer and join in 5 minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will message the customer and join in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Agreeable\\n\n\\n\n@@@Key Topics:\\n\nindiamart, online, call, join\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a733caf0-27ba-402a-aa20-92a16e377ba6",
+  "ucid": "a733caf0-27ba-402a-aa20-92a16e377ba6",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "178021",
+      "mcat_name": "Strip Seal Expansion Joint"
+    },
+    {
+      "mcat_id": "186373",
+      "mcat_name": "Indef Chain Pulley Block"
+    },
+    {
+      "mcat_id": "3706",
+      "mcat_name": "Chain Pulley Block"
+    },
+    {
+      "mcat_id": "8367",
+      "mcat_name": "Safety Shoes"
+    }
+  ]
+}

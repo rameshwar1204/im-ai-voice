@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671187113",
+  "gluser_id": "195959654",
+  "vintage_months": 19,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Deoband",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello\\nCall aapka kaun baat kar raha hai?\\nJi ji ji sir Pravesh Sharma baat kar raha tha kal aap se baat hui thi na wo aapko ek product post karna tha.\\nTo wo product aapka post ho gaya tha requirement?\\nHan han han.\\nUske alava na sir ek cheez mujhe aap se aur puchni thi main na aapke pure catalog pe work kar raha tha morning se.\\nTo sir aapke na kafi product hai jahan pe na information kafi kam hai matlab 32% aapka catalog quality score hai sirf.\\nTo usme dal do na aap.\\nMai dalwa du?\\nAur kya bhaiya aur dalwa do.\\nSir main whatsapp pe aap mujhe ek do item ek do item mujhe hatani hai ek bar whatsapp pe a jao aap main free hoke whatsapp pe connect karta hu aapko.\\nMai ek kam karta hu main ek whatsapp group aapke sath bana leta hu theek hai sir jin jin products ka information kam hai jitna mujhe milta hai main dalwa deta hu baki jo mujhe aap se required hoga main aap se kar baki aur kuch problem to nahi sir sab.\\nNahi nahi.\\nNahi.\\nSir ye concern main close kar raha hu aapka ek feedback mil aayega feedback dijiyega theek hai sir.\\nAa aap concern to close kar rahe ho lekin wo mere jo concern hai wo to solve nahi hua na abhi.\\nKaunsa concern sir?\\nBataya na abhi aapko mujhe ek do item hatwane hai.\\nOkay main wait kar leta hu sir aap abhi aayenge to abhi kar lete mere ko mere ko main wo wala concern keh raha tha main wo wala concern keh raha tha jo aapne post requirement.\\nKar do kar do kar do call aa rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to remove items from catalog.\\n\n- Catalog quality score is low.\\n\n\\n\nResolution:\\n\n- Executive offered to create a WhatsApp group.\\n\n- Executive will add information to products.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive will wait for customer on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, whatsapp, products, information\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=77afa946-3551-4c9e-9570-52449eb492a7",
+  "ucid": "77afa946-3551-4c9e-9570-52449eb492a7",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "32949",
+      "mcat_name": "Nylon Rods"
+    },
+    {
+      "mcat_id": "95082",
+      "mcat_name": "Nylon Roller"
+    },
+    {
+      "mcat_id": "146543",
+      "mcat_name": "Conveyor Belt Joints"
+    },
+    {
+      "mcat_id": "150766",
+      "mcat_name": "Drum Pulley"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667154316",
+  "gluser_id": "205251836",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Hello good morning sir.\\nCustomer: Good morning.\\nExecutive: Sir Shadab bol raha hu sir IndiaMART se account manager.\\nCustomer: Ji.\\nExecutive: Sir Sahil ji se baat ho rahi hai.\\nCustomer: Ji.\\nExecutive: Ji Sahil ji aapne IndiaMART ka subscription liya hai na sir pichle din starting call kiya tha.\\nCustomer: Ji.\\nExecutive: Sir abhi aap so rahe hai kya?\\nCustomer: Haan bhaiya thodi der baad me call kijiye na.\\nExecutive: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding IndiaMART subscription.\\n\n- Customer was sleeping and asked to call later.\\n\n\\n\nResolution:\\n\n- Executive agreed to call later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, follow up, call\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=889e948e-b5ba-4646-8473-ee4260ad39ee",
+  "ucid": "889e948e-b5ba-4646-8473-ee4260ad39ee",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "72798",
+      "mcat_name": "Wall Fountain"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

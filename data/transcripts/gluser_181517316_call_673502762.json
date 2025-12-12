@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673502762",
+  "gluser_id": "181517316",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Tanuku",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji Adarsh ji boliye.\\nExecutive: Namaskar Adarsh baat kar raha hu.\\nCustomer: Ji ji.\\nExecutive: Ji sir aap jo hai refund sir initiate ho gaya hai aapke mail pe sari details chali gayi hongi. Shayad aapka payment bhi account mein pahunch gaya hoga na sir.\\nCustomer: Hum sir aapko services de bhi nahi paye wo kuch issues ki wajah se uske liye main bahut sorry hu sir us cheez ke liye. But sir wo company ka process tha hum non GST based site ko nahi rakh sakte aur kafi sara jo hai company ke liye jo wo cheez to hum usko jo hai run nahi kar sake aage. Theek hai? Aur wo cheez ke liye jaise jo aapke pehle bhi account manager the wo unhone bhi aapko update kiya tha main bhi sir bar bar aapko update kar raha tha. But wo ho nahi payi. But main aapse ye kehna chahta hu sir ki future mein jab kabhi bhi aapka GST active ho jaye aur uska puri tarike se aapko access rahe aur aapko IndiaMART pe sir aana ho business karne ke liye to aap please mera number save kar lijiye mujhe aap anytime aap jo hai connect kar sakte hain aur hum aapka naye GST pe ya usi GST pe jis pe aapka access ho aapka firm waha pe sir registered kar denge hosting kar denge. Theek hai sir?\\nCustomer: Koi nahi payment to aaya nahi hai mail se bhi related mail bhi kuch nahi aaya hai aapke end se.\\nExecutive: Abhi mail aur wo bhi nahi aaya hai jo hai. Ek minute ruk jaiye. Ek minute rahiye call pe hi rahiye.\\n\\n\\nExecutive: Hello?\\nCustomer: Hmm.\\nExecutive: Haan sir wo mail abhi yaha se aapko ja raha hai aur refund jo hai na aapka jis khata sa jis khate se aapne payment kiya tha sir usi khate mein jayega 7 din ka process hai sir 7 din ke andar andar wo cheez ho jayegi. Agar 7 din ke andar andar nahi hoti hai to aap dobara se mujhe jo hai connect kar lijiyega theek hai sir. Mail abhi aapko chala jayega aap is bar sir aap feedback mat dijiyega theek hai nahi to wo cheeze fir se open ho jayegi ticket wagera fir usme aapko bhi sir asuvidha hogi mujhe bhi asuvidha hogi. Kya aapka jo mail jaise main keh raha hu usme ab aap dobara se sir wo sab cheeze mat kijiyega. Theek hai ki asuvidha ho aapko bhi ya humko bhi. Theek hai sir? Kaun si cheeze hai main nahi samjha.\\nExecutive: Main feedback ke regarding keh raha hu na aap bar bar jo hai jab hamari baat cheet ho rahi thi to aap bar bar wo jo hai feedback de rahe the na sir not satisfied ka. Hmm. Us cheez ke liye main keh raha hu usi ki wajah se sir problem hoti hai fir humko aapko call karna padta hai managers ko call karna padta hai. To wo cheeze jo hai dono taraf ke liye kharab si hoti hai. To abhi yaha se aapka sara sab kuch ho gaya hai wo process mein thoda sa refund ka time lagega baki mail aapko abhi chala jayega theek hai. To abhi main sir aapka jo concern hai wo close kar de raha hu theek hai?\\nCustomer: To abhi open rakhiye na jab payment aa jayega reverse uske baad hi close karenge na abhi close kar dijiyega.\\nExecutive: Nahi concern close kar raha hu aapka account wo sari cheeze nahi close hoga.\\nCustomer: To close ho hi gayi hai account to maine dekha tha close ho gayi hai.\\nExecutive: Haan theek hai sir.\\nCustomer: Achcha jo data hai wo",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund or email.\\n\n- Customer's account is closed.\\n\n\\n\nResolution:\\n\n- Refund initiated to the original payment account.\\n\n- Mail will be sent to the customer.\\n\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer to connect if refund not received in 7 days.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, gst, account closure, feedback\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 234,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=75e1e4c1-e093-439a-addb-68f65211509d",
+  "ucid": "75e1e4c1-e093-439a-addb-68f65211509d",
+  "seller_categories": [
+    {
+      "mcat_id": "167982",
+      "mcat_name": "Unsecured Personal Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "170840",
+      "mcat_name": "Small Business Loans"
+    },
+    {
+      "mcat_id": "29446",
+      "mcat_name": "Home Loan"
+    }
+  ]
+}

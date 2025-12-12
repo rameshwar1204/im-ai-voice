@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669413038",
+  "gluser_id": "255811969",
+  "vintage_months": 0,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Kollam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Thangal vilikkunna vyakthi ippol mattoru callil thirakkilaanu. Hold cheyyuka.\\nExecutive: Hello.\\nCustomer: Hello. Yeah hi good afternoon. Here I'm talking to Mr. Hasnam from Emic Premium Foods.\\nExecutive: Yeah.\\nCustomer: Yeah hi Mr. Hasnam. This is Amita relationship manager from IndiaMART head office. How are you sir?\\nCustomer: I'm good.\\nExecutive: That's really nice to hear this. Uh yeah sir actually I make you call reason behind that you put the request that you want to do a video meeting regarding your seller uh depression right?\\nCustomer: Seller?\\nExecutive: You can I can I call you after some time?\\nExecutive: Sir I just need one minute of you not more than that.\\nCustomer: Okay because I'm driving in the city.\\nExecutive: Hardly hardly one minute not more than that sir. I just wanted to confirm as you put the request for the video meeting regarding your seller is it okay is it clear now your issue is resolved?\\nCustomer: Yeah it's clear it's clear.\\nExecutive: Now you got to know how you need to use your seller how you need to consume the buylead how you need to share the feedback.\\nCustomer: Yeah I will try I just don't try it.\\nExecutive: Uh it's okay she told me like.\\nExecutive: Okay so you do have your account manager number in future if you found any kind of difficulty while using your seller account please do connect with her she'll again arrange a video meeting to guide you how you need to use these services to enhance your business. Okay?\\nCustomer: Okay thank you.\\nExecutive: So shall I close the concern from my end?\\nCustomer: Yeah you can close the concern.\\nExecutive: Okay I'll close the concern apart from this sir would request you if you are okay with the services I hope you are satisfied with the resolution which has been provided by your account manager please share the positive response on mail okay sir.\\nCustomer: Okay.\\nExecutive: Okay thank you so much Mr. Haslam thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a video meeting regarding seller.\\n\n\\n\nResolution:\\n\n- Executive confirmed the issue is resolved.\\n- Executive shared account manager number for future assistance.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, seller, buyleads, account manager\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bdbe55c1-a032-4fac-b1f9-b43f22e70538",
+  "ucid": "bdbe55c1-a032-4fac-b1f9-b43f22e70538",
+  "seller_categories": [
+    {
+      "mcat_id": "2093",
+      "mcat_name": "Basmati Rice"
+    },
+    {
+      "mcat_id": "178221",
+      "mcat_name": "1121 Basmati Rice"
+    },
+    {
+      "mcat_id": "219133",
+      "mcat_name": "India Gate Golden Sella Rice"
+    },
+    {
+      "mcat_id": "9647",
+      "mcat_name": "Long Grain Rice"
+    },
+    {
+      "mcat_id": "152944",
+      "mcat_name": "Golden Sella Rice"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676354442",
+  "gluser_id": "245633405",
+  "vintage_months": 3,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Modasa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634876",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hanji Subhash sir.\\nExecutive: Hello.\\nCustomer: Hello. Sir aawaz aa rahi hai na?\\nExecutive: Aap sir wo Friday hai na to baad mein call.\\nCustomer: Ha wohi main soch raha tha. Sir namaz wagaira bhi padhne jayenge sir abhi to time hoga na aadha ghanta.\\nExecutive: Main abhi execution mein ghoom raha tha. Idhar se Friday ke liye.\\nCustomer: Chaliye fir koi nahi aap kar lijiye aap lead jarur consume kar lena thik hai?\\nExecutive: Kya?\\nCustomer: Main keh raha hu lead jarur consume kar lena apni.\\nExecutive: Ha to main kar leta hu dopahar ko dopahar ko dekh leta hu.\\nCustomer: Thik hai bhai.",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired if the executive is available to talk, considering it's Friday and time for prayers.\\n\n\\n\nResolution:\\n\n- Executive mentioned being busy with execution work and suggested calling later in the afternoon.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will check the lead in the afternoon.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfriday, prayers, lead consumption\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f68efabc-e07f-4f88-9986-0c4daca7642b",
+  "ucid": "f68efabc-e07f-4f88-9986-0c4daca7642b",
+  "seller_categories": [
+    {
+      "mcat_id": "114136",
+      "mcat_name": "Potato"
+    },
+    {
+      "mcat_id": "191172",
+      "mcat_name": "Red Potatoes"
+    },
+    {
+      "mcat_id": "169806",
+      "mcat_name": "Organic Potato"
+    },
+    {
+      "mcat_id": "191931",
+      "mcat_name": "Lady Rosetta Potato"
+    },
+    {
+      "mcat_id": "7229",
+      "mcat_name": "Potato Chips"
+    }
+  ]
+}

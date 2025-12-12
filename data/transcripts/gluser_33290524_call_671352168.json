@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671352168",
+  "gluser_id": "33290524",
+  "vintage_months": 25,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Vidisha",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673952",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\nExecutive: Ha bataye.\\nCustomer: Haan ji sir, bataye matlab kya issue aa raha hai sir? Maine aapka kiya toh tha sir.\\nCustomer: Nahi mam mere ko mere related inquiry nahi aa rahi hai, do mahina ho gaya hai.\\nExecutive: Sir by lead start hue hai matlab.\\nCustomer: Ki jo maine aapko bola tha pole erection machine ki thoda mai dekh lungi sir ek bari khud se. Usme kahi toh wo manually aa jati hai, kahi kuch aa jata hai, kahi kuch aa jata hai. Aapko kya hai ke wo\\nExecutive: Ji sir.\\nCustomer: Are madam mai toh aapko explain nahi kar sakta mera dimag waise thoda sa kharab hai.\\nExecutive: Sir dekhiye aisa nahi hai aapko jo bol rahe the na pole erection machine ki toh usme na thoda by lead hai jo aa. Are aap log ne wo post old digger most old digger kar diye na.\\nCustomer: Haan.\\nCustomer: Toh uske keyword me hoti hai hamare kyun nahi hota hai sir? Wo jo aapke aapke jo pehli baar catalog bana hoga na sir wo tabse hi add hai. Agar aapko wo lag raha hai ki wo hum hata de toh wo hum hata denge sir. Wahi mai keh rahi hu agar aapko lag raha hai ki bhi uske related mujhe inquiry nahi chahiye toh wo hum hata denge sir. Aap batayenge toh sir ki mujhe ye nahi chahiye, wo nahi chahiye.\\nCustomer: Aisa nahi hai ki matlab aur baki jo dekhiye maine aapko isme jo add kiya tha wo Mahindra pole erection machine maine khud aapko jo maine. Mam mai kal baat karta hu aap se hai na.\\nExecutive: Abhi sir time nahi hoga ek minute toh only.\\nCustomer: Nahi, nahi.\\nExecutive: Okay, baki thik hai mai aapko kal ek minute ke time dungi sir bas ek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving relevant buyleads.\\n\n- Customer is facing issues with keywords.\\n\n\\n\nResolution:\\n\n- Executive offered to remove unwanted keywords.\\n\n- Executive offered to call back next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, keywords, catalog\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f4c474c0-c0ee-415b-bad8-b0264e49c81e",
+  "ucid": "f4c474c0-c0ee-415b-bad8-b0264e49c81e",
+  "seller_categories": [
+    {
+      "mcat_id": "143452",
+      "mcat_name": "Pole Erection Machine"
+    },
+    {
+      "mcat_id": "35446",
+      "mcat_name": "Post Hole Diggers"
+    },
+    {
+      "mcat_id": "185657",
+      "mcat_name": "Tractor Front End Loader"
+    },
+    {
+      "mcat_id": "137950",
+      "mcat_name": "Piling Machine"
+    },
+    {
+      "mcat_id": "114132",
+      "mcat_name": "Mini Loaders"
+    }
+  ]
+}

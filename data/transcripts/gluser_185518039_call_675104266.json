@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675104266",
+  "gluser_id": "185518039",
+  "vintage_months": 32,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kurukshetra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709841",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello, a very good afternoon. Main Kavita baat kar rahi thi. Meri baat Vaishnavi se ho rahi hai?\\nExecutive: Haan ji. Main main Kavita baat kar rahi thi IndiaMART head office se.\\nCustomer: Suniye aapka number hello. Voice aa rahi hai na aapko?\\nExecutive: Haan ji bolo.\\nCustomer: Hello.\\nExecutive: Yes mam. Bolo bolo. Aapne jo hai ek concern raise kiya hai matlab aapko jo hai kuch products vgera add karne hai apne catalog mein, right? Uske regarding aapko thoda assistance chahiye.\\nCustomer: Add nahi karna hai mam. Add to kiye hue hai mam. Hamare paas inquiry nahi aa rahi aa rahi hai jo humne product add kiye. Inquiry nahi aa rahi hai.\\nExecutive: Yes. Hamare paas aa rahi hai repairing ki.\\nExecutive: Okay. Mam aisa possible hai ki main aap aapne se Google Meet ke through connect kar le. Maine jo hai aapko mail kiya hua hai Google Meet ke link. Because main aapko Google Meet pe bata dijiye na mam.\\nCustomer: Mam actually dekhiye abhi sir se baat hui thi meri. Abhi jo Devender sir hai meri unse baat hui. Theek hai. Unhone kaha tha ki kuch product add karne hai aur byleeds ka concern hai. Dono hi unhone concern bataya aur byleeds ke concern ke liye bhi pehle catalog pe discussion karna ek pehle zaruri hai mam. Then usi ke according jo hai byleeds aayenge, right? Ki aapke catalog mein kya kya product add hai uski mapping kya ho rakhi hai. Uske accordingly aapko jo hai byleeds aayenge.\\nCustomer: [inaudible]\\nExecutive: Tabhi main jo hai aap se keh rahi hu ki aap Google Meet pe connect kar le so that aap mere ko bhi dikha dijiyega ki aapko bulk wali byleeds aa rahi hai.\\nCustomer: [inaudible]\\nExecutive: Then main aapki requirement ke according unko map kar dungi jo products hai aapke, right?\\nCustomer: Ek minute main on kar rahi hu.\\nExecutive: Okay.\\nExecutive: Then\\nCustomer: Uh\\nExecutive: Maine aapko mail kiya hua hai ek baar check kijiye aap.\\nCustomer: Haan ji. Aur agar aap kahe to main WhatsApp kar deti hu aapko.\\nCustomer: I am okay kar dijiye mam.\\nExecutive: Okay. 865478 aap line pe rahiyega main aapko WhatsApp kar rahi hu. Customer WhatsApp number 865478. I will let you know when I am available I will call you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving inquiries for added products.\\n\n- Receiving inquiries only for repairing services.\\n\n\\n\nResolution:\\n\n- Executive suggested connecting via Google Meet.\\n\n- Executive offered to map products based on requirements.\\n\n- Executive offered to share the link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will share the Google Meet link on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, google meet, whatsapp\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=42bda5c8-82e6-4ec2-9f32-25df17f53672",
+  "ucid": "42bda5c8-82e6-4ec2-9f32-25df17f53672",
+  "seller_categories": [
+    {
+      "mcat_id": "8163",
+      "mcat_name": "Rice Mill"
+    },
+    {
+      "mcat_id": "3933",
+      "mcat_name": "Color Sorting Equipment"
+    },
+    {
+      "mcat_id": "155639",
+      "mcat_name": "Rice Color Sorter Machine"
+    },
+    {
+      "mcat_id": "44746",
+      "mcat_name": "Sortex Machine"
+    },
+    {
+      "mcat_id": "36429",
+      "mcat_name": "Rice Mill Machinery"
+    }
+  ]
+}

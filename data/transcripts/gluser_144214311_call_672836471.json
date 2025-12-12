@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672836471",
+  "gluser_id": "144214311",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689629",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, Sriram agency se.\\nCustomer: Ji ji bataye.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Ek minute, ek minute dijiye call kar raha hu, ek minute dijiye call kar raha hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5fefec9c-43a5-4572-bc05-5975d38ae064",
+  "ucid": "5fefec9c-43a5-4572-bc05-5975d38ae064",
+  "seller_categories": [
+    {
+      "mcat_id": "181226",
+      "mcat_name": "MYK Tile Adhesives"
+    },
+    {
+      "mcat_id": "156787",
+      "mcat_name": "Induction Cooktop"
+    },
+    {
+      "mcat_id": "187410",
+      "mcat_name": "Hindware Kitchen Chimney"
+    },
+    {
+      "mcat_id": "30669",
+      "mcat_name": "Induction Stove"
+    },
+    {
+      "mcat_id": "218843",
+      "mcat_name": "Latapoxy Epoxy Adhesives"
+    }
+  ]
+}

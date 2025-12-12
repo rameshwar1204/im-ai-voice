@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667492372",
+  "gluser_id": "8406701",
+  "vintage_months": 101,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Bhupendra sir namaskar Abhishek baat kar raha hu.\\nExecutive: Ha Abhishek ji namaste.\\nCustomer: Sir call aayi thi aapki Gaurav sir kuch meeting me the to unhone call a raha tha unka aapse baat karne ke liye kya wajah rahi thi bataiye.\\nCustomer: Mere call kiya?\\nExecutive: Nahi aapka incoming call tha.\\nCustomer: Ha usse pehle aapka aa raha tha na us number se mere paas India mart se waiting me.\\nExecutive: Nahi kyuki ye tha na Manisha ko shayad aapne call kiya tha to usne call call back usne pick nahi kara hoga call back nahi kiya hoga to ticket open ho gaya tha incoming call ka.\\nCustomer: Ha thik hai uske liye hum connect kar rahe the kya dikkat aa rahi bataiye Manisha ko aap contact kar rahe the.\\nCustomer: Wahi wahi same sir kal to madam ko maine bata bhi diya link ke sare.\\nExecutive: Abhi ek lead aayi hui hai dekhiye abhi open nahi kiya shayad aapne abhi Banswara se lead aayi hui hai.\\nCustomer: Baki to maine consume kar li jitni abhi aayi hogi to pata nahi ghante bhar se.\\nExecutive: Abhi abhi abhi teen minute hua hai ek baar opening kar lo aap consume kar lo aap.\\nCustomer: Abhi to ha karta hu mai try kar raha hu karta hu thik hai sir.\\nExecutive: Ha abhi expire ho jayega na fir aap agar free ho to kar lo aap.\\nCustomer: Nahi nahi abhi to mai try kar raha hu city me hi hu.\\nExecutive: Achha achha thik thik thik thik thik thik.\\nCustomer: Thik hai thik hai thik hai.\\nCustomer: Okay okay.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about the reason for the call.\\n\n- Customer mentioned about link issues.\\n\n- Customer informed about consuming all leads.\\n\n\\n\nResolution:\\n\n- Executive explained the reason for the call.\\n\n- Executive informed about a new lead from Banswara.\\n\n- Executive asked to consume the lead.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, follow up\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8727d9c-b3b2-4874-87ba-cfe880e27a3d",
+  "ucid": "a8727d9c-b3b2-4874-87ba-cfe880e27a3d",
+  "seller_categories": [
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "100322",
+      "mcat_name": "Solar LED Street Light"
+    },
+    {
+      "mcat_id": "178988",
+      "mcat_name": "Luminous Inverter Battery"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    }
+  ]
+}

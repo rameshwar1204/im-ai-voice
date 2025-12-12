@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675085482",
+  "gluser_id": "26211304",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nHanji baat karwa ji.\\nHanji.\\nSenior se baat karwaiye aap apne senior se baat karwaiye. \\nSir abhi wo aapko call back kar lenge bol to diya aapne sir aap khud hi bar bar phone kar rahe hain fir bolenge ki main mere pass kya karenge fir hath se hath rakh ke baithe rahenge hum aapka intezar karenge. \\nAapka to payment ka time hoga usi samay hath faila doge fir. \\nPayment to teen teen account kar rahe hain. \\nHath faila denge ye ye sab bol. \\nAur kya hai to yahi yahi hai aur kya hai. \\nSir aise baat karenge. \\nAap majbur kar dete ho hume bolne ke liye. \\nMain baat nahi kar paunga sorry sir.\\nBaat karo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to speak with a senior.\\n\n- Expressed frustration about waiting and payment issues.\\n\n- Accusation of extending hands during payment time.\\n\n\\n\nResolution:\\n\n- Assurance of a call back from a senior.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\n- Payment\\n\n- Account\\n\n- Hath faila denge\\n\n\\n\n@@@Sentiment:\\n\nAngry, Frustrated.\\n\n\\n\n@@@Key Topics:\\n\nsenior, callback, payment, account\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a7bc256-2240-4a25-8e8a-2c8aa45051b1",
+  "ucid": "7a7bc256-2240-4a25-8e8a-2c8aa45051b1",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "17395",
+      "mcat_name": "Marble Stool"
+    },
+    {
+      "mcat_id": "77994",
+      "mcat_name": "Stone Ball"
+    }
+  ]
+}

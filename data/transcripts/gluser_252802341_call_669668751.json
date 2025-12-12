@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669668751",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\n \u0939\u093e\u0902 \u092c\u094b\u0932\u093f\u090f \u0935\u0902\u0936\u093f\u0915\u093e \u091c\u0940\u0964\\n\u091c\u0940 \u092e\u0948\u092e \u0935\u0902\u0936\u093f\u0915\u093e \u092c\u094b\u0932 \u0930\u0939\u0940 \u092e\u0948\u092e \u0905\u0917\u0930 \u0905\u092d\u0940 \u092b\u094d\u0930\u0940 \u0939\u094b \u0924\u094b \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u092e\u0948\u092e \u0906\u092a\u0915\u094b \u0917\u093e\u0907\u0921 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f\u0964\\n\u092e\u0948\u092e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b 5 \u092e\u093f\u0928\u091f \u092e\u0947\u0902 \u0915\u0949\u0932 \u0915\u0930\u0942\u0902?\\n\u091c\u0940 \u091c\u0940 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092e\u0948\u092e\u0964\\n\u0913\u0915\u0947 \u092e\u0948\u092e\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to guide the caller.\\n\n\\n\nResolution:\\n\n- Asked if can call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, guidance\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e6bea29f-9840-445a-adb6-34f601e03fd3",
+  "ucid": "e6bea29f-9840-445a-adb6-34f601e03fd3",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

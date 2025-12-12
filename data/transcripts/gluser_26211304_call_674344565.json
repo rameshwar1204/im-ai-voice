@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674344565",
+  "gluser_id": "26211304",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9710950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello? Hello?\\nCustomer: Haan ji. Haan ji sir. Namaskar ji sir.\\nExecutive: Ji.\\nCustomer: Ji sir. Sir mujhe buylead jo hai mil nahi rahi hai. Aur jo kuch mil bhi rahi hai wo product se related 1% bhi nahi aa rahi sir.\\nExecutive: Sir aap se hamari baat hui to thi aapne bola tha Monday baat karenge.\\nCustomer: Lekin aaj suno meri baat. Numan bol rahe hain kya aap?\\nExecutive: Haan ji.\\nCustomer: Achcha night mein mil jati hai. Matlab Sunday ki night mein 12 baje Ravivar nikalte hi 12 baje baad mein buylead new mil jati hai. Ye dashboard jo hai khali pada hai. Aur abhi subah maine check kiya tab to theek chal rahi thi. Lekin usme bhi product se related nahi thi aur abhi maine dekha to ekdam saaf hai. Kyunki kuch mistakes bahut sari mistake thi to maine unko kareeb kareeb sabko delete maar di ki hame ye chahiye nahi, na ye hamara ye product hai.\\nExecutive: Sir humne aap se kal baat kari thi to humne aap se bola. Nahi to abhi aaj ka kya kare fir aaj ka kya kare batao aap.\\nExecutive: Kal to sir aap bol rahe the. Buylead to aani chahiye na. Buylead to aani chahiye na.\\nExecutive: Sir jab hum system pe jayenge tabhi to hum aapko batayenge. Kal aapke paas sham ko phone aaya to humne aapko bata diya ki Monday baat karenge aapne kaha theek hai.\\nCustomer: Achcha maine socha customer care pe koi dusra uthayega to usse baat ho jayegi. Sir aap isliye maine call kiya. Mujhe kya pata aapke paas mein aayega ye.\\nExecutive: Aap itne time se IndiaMART mein aapko pata hai ki jiske paas account usi ke paas jata hai customer care pe bhi call karne ka. Maine pehle to nahi tha ye system.\\nExecutive: Pehle bhi tha sir aap jab se IndiaMART mein tab se hai.\\nCustomer: To fir aaj ka kaise kare batao aap kaise buylead milegi hame. Hamara to per day ka paisa hai na isme.\\nExecutive: Wo sari baat aapki theek hai sir hum kal office jayenge kal sabse pehle aapko 10 baje call karte hain.\\nCustomer: Theek hai. Theek hai. Abhi ho sakta hai kya kuch?\\nExecutive: Nahi sir abhi kaise ho payega.\\nCustomer: Buylead nahi aa rahi hai. Main to. Abhi chalo product se related nahi aaye tab to main phone nahi karta aapko lekin bilkul nahi aa rahi hai to kaise kare. Dashboard bilkul saaf ho rakha hai.\\nExecutive: Ab theek hai sir jo bhi hai kal ja ke dekhte hain ek baar aapko.\\nCustomer: Agar agar main yahan se koi agar wahan se aap bata de mujhe ke aise aise karo aap to main kar sakta hu agar mere hath mein ho to.\\nExecutive: Dekhiye usme bas refresh hi karna hai baki aapke hath mein aur kuch nahi hai.\\nCustomer: Refresh hi karna hai. Achcha refresh karu main?\\nExecutive: Haan.\\nCustomer: Theek hai kal 10 baje phone karo aap mujhe.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads; not product related.\\n\n- Dashboard is empty.\\n\n\\n\nResolution:\\n\n- Executive will check the issue next day.\\n\n- Asked customer to refresh the page.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, dashboard, refresh, product\\n\n\\n",
+  "call_entered_on": "11/23/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 185,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc819451-7bfc-43ac-b8e8-e8e87cd010af",
+  "ucid": "cc819451-7bfc-43ac-b8e8-e8e87cd010af",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "17395",
+      "mcat_name": "Marble Stool"
+    },
+    {
+      "mcat_id": "77994",
+      "mcat_name": "Stone Ball"
+    }
+  ]
+}

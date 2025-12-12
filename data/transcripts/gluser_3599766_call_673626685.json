@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673626685",
+  "gluser_id": "3599766",
+  "vintage_months": 4,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Rajsamand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Very good morning, sir.\\nCustomer: Good morning madam, Pooja madam bol rahe ho?\\nExecutive: Hello.\\nCustomer: Pooja madam bol rahi ho na madam?\\nExecutive: Ji ji, mai Pooja baat kar rahi hu sir IndiaMART se.\\nCustomer: Ha ab free hu madam 15 minute ke liye bol bataiye madam.\\nExecutive: Ji kya keh rahe hai sir aap?\\nCustomer: Mai keh raha hu ki mai ab free hu 10 se 15 minute ke liye ab batao kya keh rahe the aapka kal se phone aa raha hai.\\nExecutive: Mai aapko pehle na sir yaha pe jo bhi aapne concern aapka open hai, mai meeting ki link aapko share kar rahi hu, thik hai?\\nCustomer: Thik hai.\\nExecutive: Please aap isse join kar lijiye aur jo bhi aapka concern tha aapne Devpreet minerals ke regarding, toh aap matlab yaha pe hum discuss kar lenge further jo bhi aapne feedback share kiya hai. Okay?\\nCustomer: Thik hai mujhe dedijiye link dedijiye.\\nExecutive: Mai share kar rahi hu aapko.\\nExecutive: Aap ek baar apni register email id check karungi?\\nCustomer: Devpreet minerals@gmail.com.\\nCustomer: Ye invitation link aa gaya aapka?\\nCustomer: Meeting join kar li?\\nCustomer: Ha meeting join kar li madam maine.\\nExecutive: Ji kya keh rahe hai aap?\\nCustomer: Meeting join kar li hai maine.\\nExecutive: Accha thik hai, meeting me aap join kar lijiye ye call aap disconnect kar lijiye, thik hai?\\nCustomer: Thik hai.\\nExecutive: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss his concerns.\\n\n\\n\nResolution:\\n\n- Executive shared meeting link to discuss concerns.\\n\n\\n\nNext Steps: \\n\n- Customer will join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting link, concerns, discussion\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ada61b6e-409b-413c-adfe-ab67d870752a",
+  "ucid": "ada61b6e-409b-413c-adfe-ab67d870752a",
+  "seller_categories": [
+    {
+      "mcat_id": "11673",
+      "mcat_name": "Dolomite Powder"
+    },
+    {
+      "mcat_id": "127548",
+      "mcat_name": "Potash Feldspar Powder"
+    },
+    {
+      "mcat_id": "127567",
+      "mcat_name": "Soda Feldspar Powder"
+    },
+    {
+      "mcat_id": "111300",
+      "mcat_name": "Feldspar Powder"
+    },
+    {
+      "mcat_id": "8923",
+      "mcat_name": "Quartz Powder"
+    }
+  ]
+}

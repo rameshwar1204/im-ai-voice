@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671252176",
+  "gluser_id": "28076712",
+  "vintage_months": 77,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670917",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello, uh sir,\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76d86407-58e0-4dd0-94c9-2f90fbcec482",
+  "ucid": "76d86407-58e0-4dd0-94c9-2f90fbcec482",
+  "seller_categories": [
+    {
+      "mcat_id": "10976",
+      "mcat_name": "Industrial Air Compressors"
+    },
+    {
+      "mcat_id": "132940",
+      "mcat_name": "Screw Air Compressor"
+    },
+    {
+      "mcat_id": "16797",
+      "mcat_name": "Piston Air Compressor"
+    },
+    {
+      "mcat_id": "18504",
+      "mcat_name": "Reciprocating Air Compressor"
+    },
+    {
+      "mcat_id": "53817",
+      "mcat_name": "Used Electric Motor"
+    }
+  ]
+}

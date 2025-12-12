@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675112638",
+  "gluser_id": "116521270",
+  "vintage_months": 14,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Natepute",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710900",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nExecutive: Hello, awaz aa rahi hai sir aapko?\\n\\nCustomer: Haan ji aa rahi hai.\\n\\nExecutive: Vijay sir bol rahe hain?\\n\\nCustomer: Haan ji.\\n\\nExecutive: Vijay sir, Humera baat kar rahi hu IndiaMART head office se, kaise hain aap?\\n\\nCustomer: Bas badhiya madam ji, aur sunao baat karo.\\n\\nExecutive: Badhiya. Maine dekha ki sir kafi time se call kar rahe hain customer care pe, maine call utha bhi rahi thi par voice issue aa raha tha bar bar. Call pe awaz hi nahi aa rahi thi. Bataiye kya dikkat aa rahi hai? Haan.\\n\\nCustomer: [inaudible]\\n\\nExecutive: Kya jaanna chah rahe the?\\n\\nCustomer: [inaudible]\\n\\nExecutive: Awaz kat rahi hai. Mai normal call kar lu aapko matlab plan ke bare mein jaanna hai na aapko bas?\\n\\nCustomer: Ji ji ji.\\n\\nExecutive: Thik hai, matlab aage ka TrustSeal vagaira ka jo last time bataya tha vahi jaanna hai na aapko?\\n\\nCustomer: Haan haan yes yes.\\n\\nExecutive: Accha okay, abhi jo apna services chal raha hai sir, vo chal raha hai basic mein. October, November, thik hai?\\n\\nCustomer: Hmm.\\n\\nExecutive: Aa rahi hai awaz? Ek second ruko mai aapko normal call laga rahi hu, thik hai sir? Ek second rukiye.\\n\\nCustomer: Haan ji aa rahi hai. Okay.\\n\\nExecutive: Haan haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about TrustSeal plan.\\n\n- Customer was facing voice issues on call.\\n\n\\n\nResolution:\\n\n- Executive confirmed customer's plan details.\\n\n- Executive offered to make a normal call.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, plan, voice issue, subscription\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=41ab68c4-60f6-412e-88b3-540104efb770",
+  "ucid": "41ab68c4-60f6-412e-88b3-540104efb770",
+  "seller_categories": [
+    {
+      "mcat_id": "10992",
+      "mcat_name": "Industrial Epoxy Flooring"
+    },
+    {
+      "mcat_id": "171906",
+      "mcat_name": "Industrial Epoxy Flooring Service"
+    },
+    {
+      "mcat_id": "27939",
+      "mcat_name": "Epoxy Flooring"
+    },
+    {
+      "mcat_id": "120852",
+      "mcat_name": "Epoxy Flooring Services"
+    },
+    {
+      "mcat_id": "165824",
+      "mcat_name": "Epoxy Floor Coating Services"
+    }
+  ]
+}

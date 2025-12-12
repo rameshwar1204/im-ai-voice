@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671280772",
+  "gluser_id": "119954092",
+  "vintage_months": 59,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666358",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, Gopal ji se baat ho rahi hai?\\nExecutive: Haan ji.\\nCustomer: Haan ji sir, ji mai Riya bol rahi hu IndiaMART head office se, kal baat hui thi na aapki.\\nExecutive: Mam maine aapko abhi bataya tha na hum customer team hai, thoda sa baad me baat kar lenge mam.\\nCustomer: Kab call karu sir?\\nExecutive: Abhi kal ke din ek baar aur, kal ke din.\\nCustomer: Sir but ye kab se aapka ye open hai concerned, ye bina aap bata abhi isko close karna hai kya karna hai aap bata dijiye.\\nExecutive: Abhi maine bola na aapko kal baat karte hai uske baare me.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know when the issue will be resolved.\\n\n\\n\nResolution:\\n\n- Executive said they will discuss it tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, issue, resolution\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f548bad-b379-4bdb-9dd5-ac17aa3dc939",
+  "ucid": "7f548bad-b379-4bdb-9dd5-ac17aa3dc939",
+  "seller_categories": [
+    {
+      "mcat_id": "142388",
+      "mcat_name": "Mini Offset Printing Machine"
+    },
+    {
+      "mcat_id": "142603",
+      "mcat_name": "Offset Color Printing Machine"
+    },
+    {
+      "mcat_id": "2072",
+      "mcat_name": "Offset Printing Machines"
+    },
+    {
+      "mcat_id": "182632",
+      "mcat_name": "Used Offset Printing Machine"
+    },
+    {
+      "mcat_id": "142389",
+      "mcat_name": "Single Color Offset Printers"
+    }
+  ]
+}

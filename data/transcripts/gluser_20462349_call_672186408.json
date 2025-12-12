@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672186408",
+  "gluser_id": "20462349",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Gadag",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674871",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Anirudh sir namaste.\\nExecutive: Ha namaste bolo ji.\\nCustomer: Ji kaise hai aap Prashant baat kar raha hu India Mart head office se senior manager.\\nExecutive: Ha bolo.\\nCustomer: Ji ji ji aapki baat mere manager se bhi hui thi right head of the department jo hai matlab head of the department business manager right ha ji.\\nCustomer: Ha ha.\\nExecutive: To mai keh raha hu ki aapki jo services ki deactivation ki request thi na sir.\\nCustomer: Ha.\\nExecutive: Wo accept ho gayi hai and we are processing for the deactivation aur maine aapko subah bataya tha ki aapka jo bhi services ka utilization hua hai lagbhag 55 din 56 din ke aas pass ka.\\nCustomer: Ji ha right 56 din ke aas pass ka hua hai uske basis pe aapka paisa kaat ke baki ka paisa aapke source account me refund kar diya jayega theek hai aur by most probably aapka parso tak refund ho jayega kal aapki services deactivate ho jayegi.\\nCustomer: Theek hai.\\nExecutive: Theek hai aur aapne jo last time payment kiya tha wo apne UPI se kiya tha theek hai.\\nCustomer: Ha ji.\\nExecutive: Ha to aap wo aapka hi UPI tha na sir ya kisi aur ke UPI se kiya tha.\\nCustomer: Ha ha mera UPI tha.\\nExecutive: Aapka UPI hai na kyuki as per policy jis account se payment aata hai usi UPI mode se usi account me wapas chala jayega.\\nCustomer: Theek hai aap payment kaise dalte the UPI se dalte hai.\\nExecutive: Ha ha matlab jis mode se agar aapne bank transfer kiya hota to seedha bank account me jata aapne credit card se kiya hota to credit card me jata aapne UPI kiya hai aap UPI wale account me jayega UPI se aata hai ha theek hai ha ha ha waise hi jayega theek hai.\\nCustomer: Theek hai.\\nExecutive: To aapki company by tomorrow morning ye aapki close ho jayegi koi aur concern ho to bataiye services se related.\\nCustomer: Bolta hu bolta hu bolta hu.\\nExecutive: Theek hai theek hai theek hai to mai filhal aapka ye jo company ka concern tha complaint tha wo close kar raha hu theek hai ek aapne complaint register karwai thi na customer care number se call karke to wo mai aapki complaint close karwa de raha hu wo wo aapka complaint mai aapka complaint close karwa raha hu aur ab to aapko resolution aapke according mila hai to ek feedback mil jayega theek hai close karne pe satisfied hai na abhi.\\nCustomer: Ha okay okay okay okay.\\nExecutive: Ha to feedback de dijiyega jo bhi aapko best lage theek hai.\\nCustomer: Ha baki koi aur bhi concern ho to bataiye.\\nCustomer: Nahi nahi kuch nahi theek theek theek.\\nExecutive: Okay okay theek hai theek hai ye feedback ja raha hai sir feedback share kar dijiyega theek hai thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about service deactivation and refund.\\n\n- Needed confirmation on the refund method.\\n\n\\n\nResolution:\\n\n- Executive confirmed deactivation request was accepted.\\n\n- Explained refund would be processed to source account.\\n\n- Confirmed the closure of the complaint.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, deactivation, upi, feedback, complaint\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 160,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5e4155b2-7ddc-4876-b8a7-b1a3e3c2d12c",
+  "ucid": "5e4155b2-7ddc-4876-b8a7-b1a3e3c2d12c",
+  "seller_categories": [
+    {
+      "mcat_id": "27068",
+      "mcat_name": "Dustless chalk"
+    },
+    {
+      "mcat_id": "43571",
+      "mcat_name": "Blackboard Chalk"
+    },
+    {
+      "mcat_id": "22389",
+      "mcat_name": "Modelling Clay"
+    },
+    {
+      "mcat_id": "69671",
+      "mcat_name": "School Chalk"
+    },
+    {
+      "mcat_id": "181320",
+      "mcat_name": "Office File"
+    }
+  ]
+}

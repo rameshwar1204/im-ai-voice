@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672512513",
+  "gluser_id": "7203620",
+  "vintage_months": 125,
+  "bl_dau_oct": 27,
+  "customer_type": "LEADER",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9640251",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nExecutive: Namaste, main Reena baat kar rahi hu India Mart se.\\nExecutive: Hello.\\nCustomer: Haan. Haan main ye keh rahi thi sir wo kal kal aayega.\\nExecutive: Kal aayega kal. Aur ho sakta hai sham tak kar sakta hu aayega to.\\nExecutive: Sham ko kar dena aap sham ko kar dena kyunki na dekho main aa raha tha hamare paas accounting se.\\nCustomer: Hmm hmm.\\nExecutive: Nahi aaya. Aaj nahi aaya to kal karunga fir.\\nExecutive: Theek hai chaliye ek baar sham ko hum dekh lenge baki nahi aaya to kal kar dena aap theek hai sir.\\nCustomer: Theek theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding something that will arrive tomorrow.\\n\n\\n\nResolution:\\n\n- Executive suggests doing it in the evening.\\n\n- If it doesn't arrive today, do it tomorrow.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will check in the evening, otherwise customer will do it tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\narrival, accounting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8be69f63-2d48-4aa4-8e07-7e0fadb0c708",
+  "ucid": "8be69f63-2d48-4aa4-8e07-7e0fadb0c708",
+  "seller_categories": [
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "178191",
+      "mcat_name": "Marble Radha Krishna Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    },
+    {
+      "mcat_id": "180344",
+      "mcat_name": "Marble Kali Mata Statue"
+    },
+    {
+      "mcat_id": "179202",
+      "mcat_name": "Marble Hanuman Statue"
+    }
+  ]
+}

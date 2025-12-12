@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "670192210",
+  "gluser_id": "227341775",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Manjalumoodu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665663",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Sir?\\n\\nExecutive: Hello?\\nCustomer: Hello? Aa sir sollunga sir.\\n\\nExecutive: Hello?\\nCustomer: Aa hello. Ketudungala?\\nExecutive: Aa sir. Aa Highfacil-la irunthu pesurom.\\nCustomer: Engirunthu sir?\\nExecutive: Highfacil, Highfacil.\\nCustomer: Aama aama aama sollunga sollunga sir sollunga sir.\\nExecutive: Unga software installation aaga illa. Athu pathi pesalamnu.\\nCustomer: Aama aama.\\nExecutive: Sir, naanga thaan sir ungalukku number kodutha, antha number-ku call panni sir.\\n\\nCustomer: Ayyo. Marupadi enakke call pannirukinga.\\nExecutive: Antha number-ku podunga sir.\\nExecutive: Number correct-a thaan potruken.\\nCustomer: Appadingala?\\nCustomer: Antha anna. Athu kidayathu, athu kidayathu, athu kidayathu sir. 933911911. Ithu thaan ungaloda number. Antha number mattum ungalukku naan separate-aave anuppuren.\\n\\nCustomer: Vanthurucha paarunga.\\n\\nExecutive: WhatsApp-la anuppirukken. Aa, intha number-ku neenga call pannunga.\\nExecutive: Aa ok ok.\\nExecutive: Ok sir.\\nExecutive: Call pannittu enakku call pannunga sir.\\nExecutive: Aa ok.\\nExecutive: Ok sir ok.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's software installation not done.\\n\n- Customer is calling the wrong number.\\n\n\\n\nResolution:\\n\n- Executive provided the correct number to customer.\\n\n- Executive sent the number via WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will call on the provided number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- software installation, number verification, whatsapp\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dc3ff2bd-e542-4c4c-a756-6cef4a391186",
+  "ucid": "dc3ff2bd-e542-4c4c-a756-6cef4a391186",
+  "seller_categories": [
+    {
+      "mcat_id": "114345",
+      "mcat_name": "Wood Chips"
+    },
+    {
+      "mcat_id": "140847",
+      "mcat_name": "Agarwood Chip"
+    },
+    {
+      "mcat_id": "445353",
+      "mcat_name": "Banana Silk Saree"
+    }
+  ]
+}

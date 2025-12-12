@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677291802",
+  "gluser_id": "236584514",
+  "vintage_months": 5,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan hello.\\nExecutive: Namaste sir ji, namaskar. Kaise hain aap?\\nCustomer: Haan namaskar sir ji, badhiya. Shubham baat kar raha tha cinema India Mart se.\\nExecutive: India Mart se. Haan ji bataiye. Haan. Wo kal aapne call bhi kiya tha na ki aapka bylead balance wo khatam ho gaya tha is wajah se aap consume nahi kar pa rahe the sir wo.\\nCustomer: Acha. Aapka call aaya tha ki wo consume nahi kar pa raha zero kyuki aapka bylead balance jo 17 hota hai wo khatam ho gaya tha.\\nExecutive: Haan haan haan haan. Haan nahi wo dekha maine.\\nCustomer: Haan to usi wajah se. Baki to badhwa lo na sir usko jo hamari baat hui thi wo karwa lo jyada better rahega aapko bhi.\\nCustomer: Haan nahi wo sahi hai baki thoda sa abhi payment ka thoda sa laga hua hai. Abhi kya hai ki kisto me mera chal raha hai actually.\\nExecutive: Achcha. Fir kab tak lagega kyuki fir wo rate badhta chala jayega jaise sir maine aapko bataya tha.\\nCustomer: Haan nahi theek hai na agar thoda sa hota hai to hum karenge sir lekin plan karenge.\\nExecutive: Kya chahiye?\\nCustomer: Ji sir bilkul plan karenge hum thoda sa payment jo hamara kya hai ki abhi loan me chal raha hai jo aapka pehle wala hi tha na kisto me chal raha tha to ye mere ko payment dena padta hai.\\nExecutive: Okay okay.\\nCustomer: To thoda bahut jaise jo humne diya tha us din aap mang rahe the hum 34 de sakte the theek hai.\\nExecutive: Haan haan. To aap bol rahe the nahi ye mera 30 kar do 30 to possible nahi tha isliye aapko bata bhi diya tha humne clear. Aur abhi bhi kya hai jitna aap le jitna aap late karoge utna price wo 500000 ka difference badhta chala jayega.\\nCustomer: Nahi nahi nahi nahi.\\nExecutive: Nahi isme nahi hai. Theek hai. To aisa nahi hai ki aap bologe usi haan.\\nCustomer: Haan haan haan.\\nExecutive: To jitna hamara late hoga teen din char din panch din utna hi aapka 1500000 badh ja badhta chala jayega 2000 ka aise. Kyunki wo adjustment amount rehta hai date ke hisab se change hota rehta hai. To kab tak kab ki kab tak plan karenge sir?\\nCustomer: Ah kab tak sir is bar to is mahine ka to tarike se end ka hi ho payega. End tak sir waha to end tak aur mahanga ho jayega sir wo jyada badh jayega fir end tak kya karoge?\\nExecutive: Nahi wo baat sahi hai baki abhi abhi kya hai hamara payment wagera fasa hua hai aur ye sari kiste wagera dena hai. To sir isliye thoda sa delay lag raha hai.\\nCustomer: Dekh lena end tak to sir 4000 ka difference aa jayega isliye pehle hi bata raha hu fir aapko kahin aap baad me bolo to ki bataya nahi tha mere ko to utna diya gaya tha. To wo change hota rehta hai isliye aapko clear kar raha hu pehle hi.\\nExecutive: To fir jo hai dekh lenge sir kuch ho sakta hai beech me to kara jayega.\\nCustomer: Theek hai sir.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buylead balance was exhausted.\\n\n- Customer has payment issues due to ongoing loans.\\n\n- Concerned about price increase due to payment delay.\\n\n\\n\nResolution:\\n\n- Executive explained price increase with payment delay.\\n\n- Executive clarified price changes with time.\\n\n\\n\nNext Steps: \\n\n- Customer will plan payment by month end.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, payment, subscription, price\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 156,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=64529e0e-c1c3-4cc2-aa1b-296bd9ae6749",
+  "ucid": "64529e0e-c1c3-4cc2-aa1b-296bd9ae6749",
+  "seller_categories": [
+    {
+      "mcat_id": "193165",
+      "mcat_name": "Mantra Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "193164",
+      "mcat_name": "SecuGen Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "189719",
+      "mcat_name": "Morpho Fingerprint Scanner"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "4421",
+      "mcat_name": "Biometric Fingerprint Scanners"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672323542",
+  "gluser_id": "48210196",
+  "vintage_months": 39,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Agartala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724247",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji. \\nCustomer: Ah, madam, aapne kya karna hai, jara bolna.\\nExecutive: Haan ji, haan ji, bataiye.\\nCustomer: Ah, madam, main bol raha tha, ye mere account se account pe abhi ek matlab inquiry aaya tha, theek hai? \\nExecutive: Haan.\\nCustomer: Ah, unka naam, uska profile mein dikha raha tha Asmita Models bolke kuch.\\nExecutive: Haan.\\nCustomer: Madam, ye in logo ka na matlab ye hamare Tripura side se hai. Ye matlab madam scammer hai na scammer type ke hai. Unko to lena kuch nahi hota hai aur unse matlab call karke miscall dalte hai ya fir matlab call karte hai call requirement dalte hai. Jab hum log ghuma ke call karte hai to bolte hai, bolte hai ki nahi hamara aisa to kuch nahi hai. Hamara khud ka manufacturing hai. Hum rate dekhne ke liye matlab call kar rahe hai. Matlab vagaira vagaira matlab faltu ka matlab ye karte rehte hai, disturb karte rehte hai. Inko block kiya ja sakta hai kya?\\nExecutive: Main ek kaam karti hu, abhi sir main meeting mein hu. Main aapko ek baar detail mein discussion karke\\nCustomer: Haan.\\nExecutive: Main aapko\\nCustomer: Theek hai, theek hai. Usse connection ho chuka hu.\\nExecutive: Theek hai, theek hai.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a fake inquiry.\\n\n- Wants to block scammer from Tripura.\\n\n\\n\nResolution:\\n\n- Executive said she is in a meeting.\\n\n- Will discuss the issue in detail later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nscammer\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, scammer, block account\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=32513ca6-372d-4eb5-b2bc-65ed4de46a21",
+  "ucid": "32513ca6-372d-4eb5-b2bc-65ed4de46a21",
+  "seller_categories": [
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    }
+  ]
+}

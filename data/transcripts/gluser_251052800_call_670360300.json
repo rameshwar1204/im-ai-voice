@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670360300",
+  "gluser_id": "251052800",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666489",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ji sir.\\nExecutive: Sir maine senior se baat ki hai, mai aapko reply de dungi.\\nCustomer: Nahi nahi mujhe aapke senior se hi baat karni hai, aap hi baat kar rahi thi mujhse?\\nExecutive: Haan mai wahi bol rahi hu na, ki maine apne senior se baat ki hai. Aap abhi abhi, aapka naam kya hai madam?\\nCustomer: Muskaan baat kar rahi hu.\\nExecutive: Okay madam, aap senior se baat karaiye abhi ke abhi.\\nExecutive: Haan mai baat karati hu. Conference pe leke baat karaiye, mujhe call transfer kijiye abhi ke abhi.\\nExecutive: Sir mai aapko 5 se 10 minute baad hi call karungi.\\nCustomer: No no no no no, nahi nahi nahi madam nahi, mujhe abhi karna hai, mujhe abhi paas time nahi hai, mujhe abhi call transfer kijiye.\\nExecutive: Sir abhi woh available nahi hai, toh mai aapki kaise baat karau, aap mujhe batao. Aap mujhe 5-10 minute do.\\nCustomer: Abhi inse do ghante pehle bhi yahi bola gaya tha, aadhe ghante me back call aa jayega. Mujhe paas time pe baat kiya tha.\\nCustomer: No no no no no madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak to the senior executive.\\n\n\\n\nResolution:\\n\n- Executive said she will call back in 5-10 minutes.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. None.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- senior executive, call transfer, availability\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9c78536a-d73a-4e6b-bdfe-2aab6ac7651e",
+  "ucid": "9c78536a-d73a-4e6b-bdfe-2aab6ac7651e",
+  "seller_categories": [
+    {
+      "mcat_id": "481",
+      "mcat_name": "Fire Proof Safes"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "187375",
+      "mcat_name": "Jewellery Locker"
+    },
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "1305",
+      "mcat_name": "Security Safes"
+    }
+  ]
+}

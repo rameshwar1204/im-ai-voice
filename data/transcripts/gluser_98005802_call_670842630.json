@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670842630",
+  "gluser_id": "98005802",
+  "vintage_months": 6,
+  "bl_dau_oct": 15,
+  "customer_type": "vgFCP with PNS",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667653",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello. Good evening sir.\\nSir good evening madam, main thodi meeting mein baitha hu. \\nUh, abhi free ho sir aap?\\n",
+  "summary": "\\n\nConcerns:\\n\n- If the person is free to talk.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmeeting, availability\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1657e573-0cc6-4d82-afe5-08fac4d45546",
+  "ucid": "1657e573-0cc6-4d82-afe5-08fac4d45546",
+  "seller_categories": [
+    {
+      "mcat_id": "143842",
+      "mcat_name": "Polyester Yarn Waste"
+    },
+    {
+      "mcat_id": "84622",
+      "mcat_name": "Tyre Cord Fabric"
+    },
+    {
+      "mcat_id": "222471",
+      "mcat_name": "High Tenacity Polyester Yarn"
+    },
+    {
+      "mcat_id": "141859",
+      "mcat_name": "HD Plastic Granules"
+    },
+    {
+      "mcat_id": "7120",
+      "mcat_name": "Polyester Cord"
+    }
+  ]
+}

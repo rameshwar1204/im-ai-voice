@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675655989",
+  "gluser_id": "107735322",
+  "vintage_months": 32,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Murshidabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715889",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello. Hello. Hello. Awaz aa rahi hai aapko mam?\\nCustomer: Ha ke bolchen?\\nExecutive: Uh, are you comfortable in Hindi or English, ma'am?\\nCustomer: Yes, speaking in in Hindi.\\nExecutive: Hindi?\\nCustomer: Ji.\\nExecutive: Okay. Ma'am, abhi sir se meri baat hui thi. Matlab aap IndiaMART ka account dekhti hai, ma'am?\\nCustomer: Nahi.\\nExecutive: Okay. Woh primary number aapka add tha na, toh sir se baat karni thi. But sir phone nahi utha rahe the, toh isliye aapko kiya.\\nCustomer: Uh, sir jab available honge tab contact kar lenge.\\nExecutive: Okay, ma'am, okay, ma'am. Thank you, ma'am. Bol dijiyega ek baar aap.\\nCustomer: Okay, ma'am. Okay, thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needed to speak to the account holder.\\n\n\\n\nResolution:\\n\n- Customer said the account holder will contact later.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account, contact, hindi\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6d4b68f9-8173-4c33-b362-deff674f84a3",
+  "ucid": "6d4b68f9-8173-4c33-b362-deff674f84a3",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    },
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    }
+  ]
+}

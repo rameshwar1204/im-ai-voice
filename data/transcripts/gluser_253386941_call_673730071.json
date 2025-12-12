@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673730071",
+  "gluser_id": "253386941",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Chapra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello? Shree Traders mein baat ho rahi hai?\\n\\nCustomer: Hello.\\nExecutive: Sir, main Aasim Khan bol raha tha IndiaMART. Sir, main Aasim Khan bol raha tha IndiaMART se. Aapki company register hai IndiaMART ke saath mein, sir?\\n\\nCustomer: Hmm.\\nExecutive: To aapko call aaya hua tha, sir, aapki side se IndiaMART ke customer care ke number par 969696 par, sir?\\n\\nCustomer: Pata nahi.\\nExecutive: Ye sir, last mein 941 kiska number hai? Starting mein 70, last mein 941?\\n\\nCustomer: Hai sir ka hi wo number.\\nExecutive: Haan, to is number se call aaya tha, but actually kya hota hai, security purpose se hame ye pura number visible hota nahi hai. Isliye sir, hum us pe call nahi kar pa rahe. Agar aap ya to unka number provide karwa de ya hamari baat karwa de sir unse.\\n\\nCustomer: Ussi number pe call kar lijiye, 700 wale se.\\nExecutive: Sir, maine wahi bataya, security purpose se hamare paas sirf paanch digit dikhti hain. Starting ke do digit 70 aur last ke 941.\\nCustomer: Theek hai, likhiye number, main bata deta hu.\\nExecutive: Bataiye sir aap number.\\nCustomer: 700\\nExecutive: 700\\nCustomer: 452\\n\\nExecutive: 452\\nCustomer: 3941\\nExecutive: 3941. Abhe naam hai na inka sir ka?\\nCustomer: Abhinav, Abhinav.\\nExecutive: Abhinav Vikas?\\nCustomer: Haan, Abhinav Vikas.\\nExecutive: Theek hai sir, main inse ek baar baat kar leta hu. Thank you sir, main inse baat karta hu.\\nCustomer: Theek hai, theek hai. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive unable to call back due to security.\\n\n- Wants to connect with Abhinav Vikas.\\n\n\\n\nResolution:\\n\n- Customer provided the full phone number.\\n\n\\n\nNext Steps: \\n\n- Executive will contact Abhinav Vikas.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, contact details, security\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c8426c3b-5546-447c-811b-25087e34c340",
+  "ucid": "c8426c3b-5546-447c-811b-25087e34c340",
+  "seller_categories": [
+    {
+      "mcat_id": "11938",
+      "mcat_name": "Gas Lighters"
+    },
+    {
+      "mcat_id": "85179",
+      "mcat_name": "Hand Chopper"
+    },
+    {
+      "mcat_id": "43199",
+      "mcat_name": "Potato Peeler"
+    },
+    {
+      "mcat_id": "31319",
+      "mcat_name": "Kitchen Cleavers"
+    },
+    {
+      "mcat_id": "84245",
+      "mcat_name": "Plastic Water Jug"
+    }
+  ]
+}

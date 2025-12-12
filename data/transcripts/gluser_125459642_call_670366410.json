@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670366410",
+  "gluser_id": "125459642",
+  "vintage_months": 34,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659398",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello sir Raju Maurya baat kar raha hun India Mart se.\\nExecutive: Haan ji boliye.\\nCustomer: Sir just panch minute time lena chahunga sir aapka. Maine just isliye Saturday ko second half mein call kariye Saturday ko second half mein.\\nCustomer: Sir thoda sa bas time lunga sir. Thoda sa mein office mein hi nahi hun mere bhai mein office mein hi nahi hun.\\nExecutive: Sir to chaliye aap sun lijiye na kya aapko batana tha sir ye jo rating aapki site pe jo show kar raha hai India Mart pe.\\nCustomer: Hmm.\\nExecutive: To sir isme isme sir kuch aise ratings hai na jo jinse aapki baat nahi hui hai unhone rate kiya hua hai. Actually ye cheeze track hoti hai sir lead manager ke through cheeze track hoti hai agar man lijiye lead manager ne us bande ka naam nahi hai usse koi conversation nahi hua hai to wo cheez agar wo rating karte hain to wo cheeze track ho jati hai sir. To aapke naam se ticket raise hua tha ki jo hai ki rating pe aapko thoda dhyan dena hai genuine rating hogi to sir jyada sahi rahega.\\nCustomer: Hmm hmm hmm. Theek hai.\\nExecutive: Theek hai sir bas bas is cheez ka sir aap dhyan rakhiyega ki ratings wagera jo bhi ho wo genuine rating ho sir jinse aapki baat hui hai lead manager ke through wo track hoti hai cheeze sir.\\nCustomer: Theek, theek.\\nExecutive: Haan. To sir isi ke bare mein aap se baat karni thi. Sir main abhi ticket close kar de raha hun lekin next time sir isi cheez ka sir dhyan rakhiyega please.\\nCustomer: Theek hai, theek hai.\\nExecutive: Okay. Thank you. Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Ratings on the site are not genuine.\\n\n\\n\nResolution:\\n\n- Executive explained about genuine ratings.\\n\n- Executive informed that the ticket is being closed.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ratings, lead manager, ticket\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc999ec0-1bc6-4c28-8e82-5786e00ba6e7",
+  "ucid": "cc999ec0-1bc6-4c28-8e82-5786e00ba6e7",
+  "seller_categories": [
+    {
+      "mcat_id": "150839",
+      "mcat_name": "HIV Test Kit"
+    },
+    {
+      "mcat_id": "143490",
+      "mcat_name": "Rapid Test Kit"
+    },
+    {
+      "mcat_id": "162267",
+      "mcat_name": "Malaria Test Kits"
+    },
+    {
+      "mcat_id": "8633",
+      "mcat_name": "Pregnancy Test Kits"
+    },
+    {
+      "mcat_id": "164399",
+      "mcat_name": "Typhoid Test Kit"
+    }
+  ]
+}

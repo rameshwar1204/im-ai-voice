@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668055129",
+  "gluser_id": "21085985",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [Music]\\nCustomer: Hello.\\nExecutive: Haan.\\nCustomer: Sir, can you join the meeting?\\nExecutive: Kahan se join karna hai?\\nCustomer: Sir, aapke na mail pe link aaya hoga.\\nExecutive: Computer se.\\nCustomer: SriShyam09@rediffmail.com pe aapke paas ek mail aaya hoga, Nidhi Gupta ke naam se.\\nCustomer: Achha, idhar se Akshay sir ko join hona padega kya?\\nCustomer: Haan.\\nExecutive: Haan, Akshay sir ko join hona padega.\\nExecutive: Ji haan.\\nExecutive: Main aapko WhatsApp pe link bhi share karun, aap usse bhi join kar sakte hain.\\nCustomer: Haan, aap WhatsApp pe link share kar dijiye.\\nExecutive: Achha.\\nExecutive: Haan ji, ek baar WhatsApp.\\nCustomer: Achha, Google mein download karna padega kya?\\nExecutive: Nahi sir, aap usko direct join kar sakte hain.\\nCustomer: Ji, aap kis sanghe apni kotha bolchen, tini?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance joining a meeting.\\n\nResolution:\\n\n- Executive provided the meeting link on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, link, whatsapp, email\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=783b7595-ed10-40c6-8bed-2e7da7c26df2",
+  "ucid": "783b7595-ed10-40c6-8bed-2e7da7c26df2",
+  "seller_categories": [
+    {
+      "mcat_id": "2475",
+      "mcat_name": "TMT Bars"
+    },
+    {
+      "mcat_id": "182501",
+      "mcat_name": "Kamdhenu TMT Bars"
+    },
+    {
+      "mcat_id": "182502",
+      "mcat_name": "SAIL TMT Bars"
+    },
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "218671",
+      "mcat_name": "Star Cement Cement"
+    }
+  ]
+}

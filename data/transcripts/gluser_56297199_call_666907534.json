@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666907534",
+  "gluser_id": "56297199",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Palwal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631205",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji, IndiaMART se baat kar raha hu, Ankit naam hai mera. Kya meri baat Mr. Rakesh ji se ho rahi hai?\\nCustomer: Haan ji, Rakesh bol raha hu.\\nExecutive: Rakesh ji, aapki company hai, R K Hydraulics ke naam se. Correct sir?\\nCustomer: Haan ji.\\nExecutive: Sir, isme aap hydraulic cylinder mein deal karte hain?\\nCustomer: Haan ji.\\nExecutive: Okay. Sir, abhi aap IndiaMART pe as a free member listed hain. To koi business leads wagaireh aa rahi hain aapko IndiaMART se?\\nCustomer: Nahi, aati to hain par wo relevant nahi hoti hain.\\nExecutive: Relevant nahi hoti hain. Okay. Sir, basically kya hai na, free listing mein aapko limited services milti hain. Aapko pata hi hoga, sir. Isme aapko jo leads aati hain, wo bhi limited aati hain aur thodi si irrelevant ho sakti hain kyunki wo pehle paid members ko jaati hain.\\nCustomer: Achha.\\nExecutive: Haan. To agar aap chahte hain ki aapko relevant leads milen, aapka business grow kare, to uske liye aapko hamara paid subscription lena padega, sir.\\nCustomer: Kitne ka hai wo?\\nExecutive: Sir, alag-alag packages hain. Aapke business ke hisaab se, jo best package rahega, wo hamare senior manager aapko explain karenge. Usme aapko TrustSeal verification milta hai, jisse customer ka trust badhta hai. Aapko ek preferred number service milti hai, aur aapki listing upar dikhti hai.\\nCustomer: Achha. To kab call karenge wo?\\nExecutive: Main aapki request daal deta hu. Aapko 24 se 48 ghante mein call aa jayega unka.\\nCustomer: Theek hai, karwa dijiye.\\nExecutive: Ji, bilkul. Aur koi jaankari chahiye thi, sir?\\nCustomer: Nahi, bas yahi tha.\\nExecutive: Theek hai, sir. IndiaMART mein call karne ke liye dhanyawaad. Aapka din shubh ho.\\nCustomer: Okay, thank you.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Receiving irrelevant buyleads on a free account.\\n- Inquiring about the cost of a paid subscription.\\n\\n\\nResolution:\\n\\n- Explained that free listings have limited services and leads.\\n- Detailed the benefits of a paid subscription (TrustSeal, preferred number, better visibility).\\n- Arranged a callback from a senior manager to discuss packages.\\n\\n\\nNext Steps: \\n\\n- Issue not resolved.\\n- A senior manager will call the customer within 24-48 hours to discuss paid packages.\\n\\nAlert (If Any):\\n\\nNone\\n\\n@@@Sentiment:\\n\\n- Neutral -> Interested\\n\\n\\n@@@Key Topics:\\n\\n- buyleads, free account, paid subscription, TrustSeal, business growth\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b3b70ca1-e316-43a9-886f-36363240e487",
+  "ucid": "b3b70ca1-e316-43a9-886f-36363240e487",
+  "seller_categories": [
+    {
+      "mcat_id": "25000",
+      "mcat_name": "Clay Mixers"
+    },
+    {
+      "mcat_id": "137578",
+      "mcat_name": "Pug Mill"
+    },
+    {
+      "mcat_id": "139254",
+      "mcat_name": "Clay Brick Making Machine"
+    },
+    {
+      "mcat_id": "139637",
+      "mcat_name": "Double Shaft U Mixture Machine"
+    },
+    {
+      "mcat_id": "30666",
+      "mcat_name": "Induced Draft Fans"
+    }
+  ]
+}

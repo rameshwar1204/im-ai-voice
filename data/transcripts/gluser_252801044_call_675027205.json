@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675027205",
+  "gluser_id": "252801044",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706399",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello?\\nHello.\\nHi, good afternoon ma'am, Vasundhara bol rahi hu India Mart se. Kaise hai aap?\\nGood afternoon.\\nMa'am Vasundhara bol rahi hu Vasundhara.\\nJi bataiye.\\nMa'am wo aapne ek feedback aaya tha Shivani se aapka discussion bhi hua tha iske regarding mein. To kuch leads mein issue aaya tha quantity. Can you can you call me within 10 minutes please?\\nOkay ma'am.\\nThank you.\\nThank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Issue with leads quantity.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Executive will call back within 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nleads, quantity, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d41fadf8-cf89-4e04-8204-6384ef62b7f3",
+  "ucid": "d41fadf8-cf89-4e04-8204-6384ef62b7f3",
+  "seller_categories": [
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "157346",
+      "mcat_name": "Stainless Steel Vacuum Flask"
+    },
+    {
+      "mcat_id": "142132",
+      "mcat_name": "Insulated Steel Water Bottle"
+    },
+    {
+      "mcat_id": "192421",
+      "mcat_name": "Stainless Steel Shaker"
+    },
+    {
+      "mcat_id": "178811",
+      "mcat_name": "Steel Sipper Bottle"
+    }
+  ]
+}

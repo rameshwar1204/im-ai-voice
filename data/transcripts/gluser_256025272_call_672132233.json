@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672132233",
+  "gluser_id": "256025272",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678229",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? IndiaMART se baat kar raha hu sir. Hello?\\nCustomer: Ji sir boliye. Ji boliye.\\nExecutive: Mai IndiaMART ke service division se baat kar raha hu sir. Sir aapne ek concern raise kiya tha IndiaMART me. Isliye maine call kiya. In fact aapne call kiya hoga Manish ko. To wo concern aapka raise ho gaya IndiaMART ki taraf se. To aapko issue kya problem face kar rahe the sir?\\nCustomer: Ji ji wo samjha diya gaya tha bhaiya mere paas. Thik hai na?\\nExecutive: Oh. To ho gaya issue resolve aapka?\\nCustomer: Ji ji unhone ji samjha diya. Wo samajh gaya na. Thoda sa mujhe bhi tha wo.\\nExecutive: Okay.\\nExecutive: Thik hai sir. Mai baki aapka jo concern hai isko close kar raha hu sir. Aapko fir se ek call aayegi. Sir parso mai message karunga aapko demo ke liye. Thik hai sir?\\nCustomer: Achha.\\nExecutive: Baki aapko mai fir se guide kar dunga kaise use karna hai, kya use karna hai. Thik hai. Aur aap fir proper tarike se use kar sakte hai. Already aapko guide kar diya gaya hai. Thik thik.\\nExecutive: To abhi aapke paas hai na sir ek mail jayegi. Uspe aap ek feedback de dijiye.\\nCustomer: Thik hai na?\\nExecutive: Chaliye thik hai bhaiya. Thik hai.\\nCustomer: Thank you.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised a concern with IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive called to check on the concern.\\n\n- Customer confirmed the issue was resolved.\\n\n- Executive offered further guidance on using IndiaMART.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback email.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, resolution, feedback, guidance\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e2d4b3ce-aee6-4ee6-a50b-c991d20f89dd",
+  "ucid": "e2d4b3ce-aee6-4ee6-a50b-c991d20f89dd",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "7781",
+      "mcat_name": "Stainless Steel Chafing Dish"
+    },
+    {
+      "mcat_id": "78113",
+      "mcat_name": "Brass Chafing Dishes"
+    },
+    {
+      "mcat_id": "315639",
+      "mcat_name": "Second Hand Catering Counter"
+    },
+    {
+      "mcat_id": "3700",
+      "mcat_name": "Chafing Dishes"
+    }
+  ]
+}

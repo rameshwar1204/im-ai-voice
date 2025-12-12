@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669206033",
+  "gluser_id": "253275008",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650396",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "I'm if you record your name and reason for calling, I'll see if this person is available.\\n\\n\\nI'm sorry, this person is not available. If you would like to leave an additional message, please reply after the tone.\\n",
+  "summary": "\\n\nConcerns:\\n\n- The person is not available.\\n\n\\n\nResolution:\\n\n- Suggested to leave a message after the tone.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voicemail, unavailable\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3e3d2920-bf4f-478a-ab96-e6ac2922fd3a",
+  "ucid": "3e3d2920-bf4f-478a-ab96-e6ac2922fd3a",
+  "seller_categories": [
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "243",
+      "mcat_name": "Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "19129",
+      "mcat_name": "Shiva Statue"
+    },
+    {
+      "mcat_id": "15246",
+      "mcat_name": "Buddha Statue"
+    }
+  ]
+}

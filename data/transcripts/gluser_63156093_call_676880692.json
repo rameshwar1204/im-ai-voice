@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676880692",
+  "gluser_id": "63156093",
+  "vintage_months": 34,
+  "bl_dau_oct": 11,
+  "customer_type": "BL Paid VFCP",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello. \\n\\nCustomer: Haan ji. Hello.\\n\\nExecutive: Haan sir good afternoon. Main IndiaMART se ${Exec_Name} se baat kar rahi hu. Aapka ek sir concern raise tha jisme aapne bataya tha ki aapko URL change karwana hai. Jaise ki abhi jo naam aa raha hai aapka yaha pe wo dikha raha hai sir slotan natural products enterprises. Iski jagah pe sir kya aap wo karwana ek baar bata denge to exact main aage sir aap kar du.\\n\\nCustomer: Slotan solution hai.\\n\\nExecutive: Slotan solution enterprises.\\n\\nCustomer: Enterprises haan. Thik hai ye bhi thik hai.\\n\\nExecutive: Slotan solution enterprises right sir. Natural hatana hai bas.\\n\\nCustomer: Achha thik hai. Aur solution haan ji haan boliye.\\n\\nExecutive: Haan to ye slotan solution enterprises karwa deti hu sir.\\n\\nCustomer: Thik hai na. Haan chaliye. Ji aur sir aap kuch keh rahe the?\\n\\nCustomer: Bas thik hai aur kaise baki sab thik hai aur thik hai abhi to. Hmm aur kuch hoga to.\\n\\nExecutive: Thik hai sir isko aage main karwa de rahi hu process.\\n\\nCustomer: Ji ji thik hai. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change the URL.\\n\n\\n\nResolution:\\n\n- Executive agreed to change URL to Slotan Solution Enterprises.\\n\n\\n\nNext Steps: \\n\n- Executive will process the URL change request.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- url, change, slotan solution enterprises\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=93eeadba-92e1-4fa5-b0e1-d03b2b819b10",
+  "ucid": "93eeadba-92e1-4fa5-b0e1-d03b2b819b10",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "8486",
+      "mcat_name": "Seed Cleaning Machine"
+    },
+    {
+      "mcat_id": "146226",
+      "mcat_name": "Food Grading Machine"
+    }
+  ]
+}

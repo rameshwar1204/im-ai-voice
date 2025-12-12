@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "673567287",
+  "gluser_id": "149964757",
+  "vintage_months": 42,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kottayam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Hello. Hello? Sir, good evening. Vedarmat Solution LLP, sir.\\nExecutive: Yes.\\nCustomer: India Mart catalog team, we are calling, sir.\\nExecutive: Oh, India Mart. Can you call, can you call me on tomorrow morning, please?\\nCustomer: Okay, sir.\\nExecutive: Thank you.\\nCustomer: Sir, timing?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive requested a call tomorrow morning.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, catalog, call scheduling\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a1fd3b0-c316-4f7b-85e3-18542dfd8df6",
+  "ucid": "2a1fd3b0-c316-4f7b-85e3-18542dfd8df6",
+  "seller_categories": [
+    {
+      "mcat_id": "2727",
+      "mcat_name": "Ventilation Fans"
+    }
+  ]
+}

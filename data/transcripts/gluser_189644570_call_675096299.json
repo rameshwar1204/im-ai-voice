@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675096299",
+  "gluser_id": "189644570",
+  "vintage_months": 13,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707980",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hmm?\\nExecutive: Hello, good afternoon sir.\\nCustomer: Bol\u093f\u090f\u0964\\nExecutive: Sir, [inaudible] India Mart se. Kal aapki Vijay sir se mein jo baat hui thi na sir aapki?\\nCustomer: Hmm.\\nExecutive: Ji, to main wahi aapse ke liye matlab aapko call kiya tha ki sir main kab se close kar de raha hu na aapki baat ho\\nExecutive: gayi thi na kal unse?\\nCustomer: Hmm.\\nExecutive: Theek hai, theek hai, mujhe bhai aapse.\\n(silence)",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding a previous conversation between the customer and Vijay from India Mart.\\n\n- Executive wants to know when to close the matter discussed with Vijay.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, previous conversation, closing matter\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=173f9c19-f820-4e0c-ba47-a91509d10f36",
+  "ucid": "173f9c19-f820-4e0c-ba47-a91509d10f36",
+  "seller_categories": [
+    {
+      "mcat_id": "235443",
+      "mcat_name": "Rock Breaker Machine Rental Service"
+    },
+    {
+      "mcat_id": "215426",
+      "mcat_name": "JCB Excavator Rental"
+    },
+    {
+      "mcat_id": "148565",
+      "mcat_name": "Hydraulic Rock Breaker"
+    },
+    {
+      "mcat_id": "23643",
+      "mcat_name": "Building Demolition"
+    },
+    {
+      "mcat_id": "215397",
+      "mcat_name": "JCB Backhoe Loader Rental"
+    }
+  ]
+}

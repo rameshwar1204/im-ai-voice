@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671914424",
+  "gluser_id": "52902335",
+  "vintage_months": 37,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Billawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674393",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji.\\nExecutive: Hi sir, very good morning.\\nCustomer: Good morning.\\nExecutive: Manisha baat kar rahi hu sir main IndiaMART head office se baat kar rahi hu. Sir aapki company registered hai Growit International right?\\nCustomer: Ji.\\nExecutive: Okay. Sir actually aapke na staff se hamari baat ho gayi hai but unka na jo number hai wo thoda restricted dikha raha hai kyuki multiple HCs mein na abhi companies mein updated hai. To unhone customer care pe call kiya tha but wo galti se hua tha sir. Fir bhi hum logo ne pura explain kar diya hai kaise leads ko use karna hai, kaise sari cheeze use karni hai. To jo secondary number hai hamare paas wahi number hai jo actively use hota hai.\\nCustomer: Ji.\\nExecutive: Okay. Aap mujhe check karte hain.\\nExecutive: 527 se end hota hai right?\\nCustomer: Ji.\\nExecutive: Okay. To main na abhi aapke aapka jo concern raise hua tha na sir wo main aapka close kar rahi hu kyuki hamara pura discussion ho gaya but aap se closer chahiye tha. To main aapka concern close kar rahi hu. In case agar aisa hota hai ki aapke staff ko koi bhi requirement hoti hai to wo directly hame reach out kar sakte hain hamare number pe. Hum logo ne aapko apna direct number share kar diya hai sir IndiaMART ka.\\nCustomer: Theek hai.\\nExecutive: Theek hai. Main aapka ticket yaha pe raise ho jata hai wo main close kar rahi hu aapke paas na ek mail aayega sir CLM ka. To aap us pe yes de dijiyega wo feedback ke liye hi hota hai. To kyuki hamara discussion ho gaya hai to aap use please mark kar dijiyega us pe.\\nCustomer: Theek hai.\\nExecutive: Theek hai. Okay sir thank you so much. Kuch aur concern to nahi hai sir aapka jo share karna chahe?\\nCustomer: Ek baar baat kar leta hu team se.\\nExecutive: Haan ek baar baat kar lijiye aur fir uske baad main aapka clear ticket close kar dungi. Aur aap CLM bhi de dijiyega. Theek hai ek baar aapko connect karna hai to aap karke mujhe ek baar update kar dijiyega.\\nCustomer: Theek hai.\\nExecutive: Okay sir thank you so much for your time sir. Have a good day sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's staff number showing restricted.\\n\n- Needed closer on raised concern.\\n\n\\n\nResolution:\\n\n- Explained how to use leads and other features.\\n\n- Shared direct number for future requirements.\\n\n- Closing the ticket and sending a CLM mail.\\n\n\\n\nNext Steps: \\n\n- Customer will discuss with team and update.\\n\n- Customer to provide feedback on CLM mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, clm, ticket closure, contact number\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33989741-07be-46f1-af58-2bc89c87a754",
+  "ucid": "33989741-07be-46f1-af58-2bc89c87a754",
+  "seller_categories": [
+    {
+      "mcat_id": "7240",
+      "mcat_name": "Poultry Feed Supplements"
+    },
+    {
+      "mcat_id": "188742",
+      "mcat_name": "Cattle Feed Supplement"
+    },
+    {
+      "mcat_id": "7242",
+      "mcat_name": "Poultry Medicines"
+    },
+    {
+      "mcat_id": "140311",
+      "mcat_name": "Mineral Mixture"
+    },
+    {
+      "mcat_id": "289290",
+      "mcat_name": "Poultry Disinfectant"
+    }
+  ]
+}

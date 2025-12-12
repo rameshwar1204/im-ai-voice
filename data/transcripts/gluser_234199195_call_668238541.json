@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668238541",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [inaudible]\\nExecutive: Haan Komal madam.\\nCustomer: Hello.\\nExecutive: Haan Komal madam. Haan Komal madam. Sir aapki ye miss call maine pehle miss kar di thi to aapki ticket open ho gayi thi, mai isko close kar du, thik hai?\\nCustomer: Haan, haan woh thank you close kar dijiye okay.\\nExecutive: Thik hai mai isko close kar rahi hu. Aapke paas ek mail par aayega, aap satisfied usko mark kar dena if you are satisfied, thik hai?\\nCustomer: Haan haan mai kar dunga. Mail mein aayega na?\\nExecutive: Haan ji haan ji mail pe aayega.\\nCustomer: Okay.\\nExecutive: Okay okay mai kar deti hu.\\nCustomer: Thank you sir. Ab aapko koi bhi concerned ho aap mujhe WhatsApp pe connect kar sakte hai, thik hai?\\nCustomer: Okay okay madam thank you.\\nExecutive: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's ticket was opened due to a missed call.\\n\n\\n\nResolution:\\n\n- Executive closed the ticket.\\n\n- Executive asked to mark as satisfied in mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, mail, whatsapp\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7bd27586-ade3-4cf3-84ad-d89e90c58ac2",
+  "ucid": "7bd27586-ade3-4cf3-84ad-d89e90c58ac2",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

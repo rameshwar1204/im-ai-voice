@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671907058",
+  "gluser_id": "12734284",
+  "vintage_months": 103,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Vadodara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674798",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Yes sir.\\nCustomer: Ha namaskar sir, mai Ajay ka manager baat kar raha tha Indiamart.com se.\\nExecutive: Ji Ajay ji.\\nCustomer: Wo sir jo aapne GST bheja tha na, wo aage GST ki team ko humne bheja tha aur aapka wo Ahmedabad wala GIDC wala jo aapne address bheja tha, wo bhi share kiya tha update karne ke liye.\\nExecutive: Ji.\\nExecutive: To unka update aaya sir, wo address jab tak GST me nahi hoga hum usko change nahi kar sakte main address me. Ab jo aapka jo address hai Ahmedabad wala usko hum additional contact detail me as an head office ya main office additional contact detail me add kar sakte hai taki buyer ko aapke India mart ke catalog pe Vadodara ke sath sath Ahmedabad wala address bhi dikh jaye.\\nCustomer: Kar dijiye kar sakte hai to lekin abhi dekhenge aage renewal fir nahi kar payenge hum log. Koi baat nahi wo aap additional me dal dijiye. Additional me to mai dal hi de raha hu wo to renewal karna hai nahi karna hai wo to company ka protocol hai aur company agar nahi change kar rahi hai aapko usme rakhna hoga to wo to obviously aapka decision hai. Ab mere ko aap na wo dekhiye wo aap abhi bhi assign kar dijiye.\\nCustomer: Kyuki jab tak tab tak chalu rakhenge koi issue nahi hai.\\nExecutive: Ha nahi thik hai. Mere ko ek bar aap pura address bata paoge Ahmedabad wala ya bhej paoge ya fir usme keval GIDC Ahmedabad likha hai?\\nCustomer: GIDC Ahmedabad hi likha hai na usme wo hamara rented jagah hai sir.\\nExecutive: To uska keval itna hi location hai bas?\\nCustomer: Ha wo fir\\n\\nExecutive: Ab wo hai kya rented jagah wo hai kya corporate office hai head office hai kya hai wo?\\nCustomer: Head office hai sales office.\\nExecutive: Achcha head office aur sales office.\\nCustomer: Hmm.\\nCustomer: Kyuki waha hum log hai ki alag type ke jo heat exchanger aate hai na shell and tube wale.\\nExecutive: Hmm.\\nCustomer: Uska manufacturing kar rahe hai aur plate wala Baroda me kar rahe hai. To ye hamare liye segregate ho jata hai.\\nExecutive: Samajh gaya.\\nCustomer: Aur ab ye nahi hoga to koi kam ka nahi hai.\\nExecutive: Ha nahi samajh gaya. Ab ye Ahmedabad wala address jo hai na ye meri taraf se access denied hai kyuki ye jo address addition hai ye keval client side se hi ho sakta hai. To ye India mart aap hi login karte ho ya koi aur hai apne yaha pe jo dekhta hai?\\nCustomer: Dekhte hai do teen bande hai ek ladki hai.\\nExecutive: Unka number de paoge kya?\\nExecutive: Ek bar unko mai phone karke unko guide karke ye add karwa du.\\nCustomer: Mai kar dunga wo malum hai.\\nExecutive: Wo additional wala add kaise hota hai. usko hum log nahi dete ha authority. Kyuki isme already ek Pune wala additional wale me added hai pehle se.\\nCustomer: Ha Pune wala bhi koi address hai na Bhosari colony wala. Wo added hai. Aapka 350 GIDC Vadodara wala added hai thik hai. Ek aapka Padmavati Nagar Pune wala bhi added hai. Ye teen char already added hai.\\nCustomer: Ek Makar Pura wala nahi hoga na Makar Pura wala bhi aapne nikal diya hai bahut ghatiya kam kiya hai sir aapke waha se.\\nExecutive: Thik hai chhod dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants Ahmedabad address on IndiaMART catalog.\\n\n- Dissatisfied with removal of Makar Pura address.\\n\n\\n\nResolution:\\n\n- Ahmedabad address added as additional contact detail.\\n\n- Executive unable to add address from their end.\\n\n\\n\nNext Steps: \\n\n- Customer will add the address themselves.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- address, gst, catalog, additional contact\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 250,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68076942-dc79-4cda-8a89-bdf6e1a28406",
+  "ucid": "68076942-dc79-4cda-8a89-bdf6e1a28406",
+  "seller_categories": [
+    {
+      "mcat_id": "547",
+      "mcat_name": "Oil Filters"
+    },
+    {
+      "mcat_id": "3974",
+      "mcat_name": "Condensers"
+    },
+    {
+      "mcat_id": "161802",
+      "mcat_name": "Aluminum Fan Blades"
+    },
+    {
+      "mcat_id": "11947",
+      "mcat_name": "Gas Heat Exchanger"
+    },
+    {
+      "mcat_id": "180188",
+      "mcat_name": "Cooling Tower Fan Blade"
+    }
+  ]
+}

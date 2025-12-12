@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675050489",
+  "gluser_id": "233222323",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710702",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello good afternoon, main baat kar raha hu IndiaMART se.\\nCustomer: Good afternoon sir. Sir maine na ek package liya tha aapka IndiaMART se.\\nExecutive: Ji bataiye.\\nCustomer: To company company nahi bata sakte aap.\\nExecutive: Vishwa IT solution.\\nCustomer: Okay.\\nExecutive: Sir aapki voice nahi aa rahi hai.\\nCustomer: Hello.\\nExecutive: Rukiye sir main abhi main abhi apni or se karta hu. Ek minute rukiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is not audible to the executive.\\n\n- Customer wants to know about the company name.\\n\n\\n\nResolution:\\n\n- Executive confirmed the company name.\\n\n- Executive said he will try from his side.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- package, company name, voice issue\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5c0d9007-212e-4de4-b589-01206fb90c93",
+  "ucid": "5c0d9007-212e-4de4-b589-01206fb90c93",
+  "seller_categories": [
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "181036",
+      "mcat_name": "Facebook Marketing"
+    },
+    {
+      "mcat_id": "98547",
+      "mcat_name": "Business Marketing Service"
+    },
+    {
+      "mcat_id": "168845",
+      "mcat_name": "Digital Marketing Services"
+    },
+    {
+      "mcat_id": "174487",
+      "mcat_name": "Social Media Marketing"
+    }
+  ]
+}

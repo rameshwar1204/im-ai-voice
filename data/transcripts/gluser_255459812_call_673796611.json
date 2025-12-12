@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673796611",
+  "gluser_id": "255459812",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Ji good afternoon.\\nExecutive: Ji sir, mai Pooja Sharma baat kar rahi hu IndiaMART head office se.\\nCustomer: Pooja mam, mai apne account me products dekh raha hu.\\n\\nExecutive: Okay.\\n\\nCustomer: Wo products me\\njitne bhi humne uh photos banaye hai products ke photos.\\nExecutive: Okay.\\nCustomer: Hello.\\nCustomer: Wo sare front side me dikhai nahi de rahe.\\nCustomer: Wo background me kahi chip gaye.\\nCustomer: To aap dekh sakte hai.\\nExecutive: Kya naam hai sir aapki company ka?\\nCustomer: PLC Private Limited, The Next Private Limited. Abhi humne just meeting ki.\\n\\nExecutive: Accha accha.\\nExecutive: Okay.\\n\\nExecutive: Thik hai sir, mai na aapko back call karti hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Product photos not visible on front side.\\n\n\\n\nResolution:\\n\n- Executive will call back.\\n\n\\n\nNext Steps: \\n\n- Executive to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product photos, account, visibility, call back\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b859110-f069-4729-ac46-e4a1b8002f91",
+  "ucid": "6b859110-f069-4729-ac46-e4a1b8002f91",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "132183",
+      "mcat_name": "AAC Siporex Block"
+    },
+    {
+      "mcat_id": "42157",
+      "mcat_name": "Concrete Cover Blocks"
+    }
+  ]
+}

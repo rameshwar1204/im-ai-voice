@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672770595",
+  "gluser_id": "241131569",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689490",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan mam good morning main Rahil baat kar raha hun India Mart se aapka account manager. \\nCustomer: Haan ji. \\nExecutive: Mam koi issue hua tha kya aapne koi call vagaira lagaya tha? \\nCustomer: Haan ji sir call issue ki baat nahi hai matlab kya ho gaya tha na data vagaira usme nahi aa raha tha to sir ne bola tha aap se baat kar lijiye. \\nCustomer: Data vagaira increase karwa dijiye aur parameters vagaira dekh lijiyega thoda. \\nExecutive: Achcha data nahi aa raha tha. \\nCustomer: To mam wo by lead vagaira consume kar rahi thi kya aap? \\nCustomer: Haan haan by lead vagaira dekh rahi thi aur jo bhi aata hai dekhiye. \\nExecutive: Haan. \\nCustomer: Main dekh ke bata rahi hu ek minute. \\nExecutive: Mam abhi aap abhi aap laptop par hi ho matlab laptop se hi karte ho na ya desktop se karte ho? \\nCustomer: Desktop pe bhi karte hai phone pe bhi karte hai dono system pe bhi hai list pe bhi hai. \\nExecutive: Abhi kaise handle kar rahe ho abhi abhi just? \\nCustomer: Abhi just to abhi phone pe hai. \\nCustomer: Kyunki actually main bahar hu na isliye haan. \\nExecutive: Achcha achcha bahar hai. \\nExecutive: To mam keh raha hu na ki ek time aap de dijiye us time main aapko dikha dunga ki kaise filter vagaira lagana hai aapko theek hai. \\nExecutive: Aap bas apna screen share kar dijiyega us time abhi agar kar sakte ho to abhi bhi kar lenge do char minute ke liye agar aap kar sakte ho to in case. \\nCustomer: Haan. \\nCustomer: Abhi to thoda main office pahunch ke karu sir aaram se aap. \\nExecutive: Haan. \\nExecutive: Kitni kitne baje tak pahunchoge aap office? \\nCustomer: Bas mujhe time dijiye 10 se 15 minute ka time dijiye office pahunch ke then main aapko call haan ji. \\nExecutive: Theek theek okay okay okay office pahunch ke kariye okay. \\nCustomer: Haan ji. \\nExecutive: Isi number pe kar lijiye ye number save kar lijiye aap theek hai. \\nCustomer: Theek hai sir main save kar. \\nExecutive: Ya rukiye main ek us number se message kar de raha hu jispe main available rahunga na whatsapp kar de raha hu us number se. \\nCustomer: Haan ye whatsapp haan haan ji. \\nExecutive: Theek hai whatsapp number aapko kar de raha hu okay okay mam okay theek hai. \\nCustomer: Okay theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Data was not showing in the IndiaMART account.\\n\n- Wants to increase data and check parameters.\\n\n\\n\nResolution:\\n\n- Executive offered to show how to apply filters.\\n\n- Executive shared his WhatsApp number.\\n\n\\n\nNext Steps: \\n\n- Customer will call after reaching the office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- data, buyleads, filters, whatsapp\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=10d7632d-5411-4141-9302-fb05a7a3d55e",
+  "ucid": "10d7632d-5411-4141-9302-fb05a7a3d55e",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "186990",
+      "mcat_name": "Powder Coating Powder"
+    },
+    {
+      "mcat_id": "188894",
+      "mcat_name": "MS Powder Coating"
+    },
+    {
+      "mcat_id": "117876",
+      "mcat_name": "Mould Release Spray"
+    },
+    {
+      "mcat_id": "35656",
+      "mcat_name": "Powder Coating"
+    }
+  ]
+}

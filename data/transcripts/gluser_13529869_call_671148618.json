@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671148618",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\n\\nExecutive: Hello.\\n\\nExecutive: Hello.\\n\\nExecutive: Hello.\\nExecutive: Aapki aawaz hi nahi aa rahi hai. Aap call mobile se laga dijiye aisa kar rahe hai.\\nExecutive: Aapki aawaz bilkul\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice is not audible.\\n\n- Request to connect the call via mobile.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\naudio issue, mobile call\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7a69cf3-f7f7-43be-bceb-6f9d988c6c38",
+  "ucid": "a7a69cf3-f7f7-43be-bceb-6f9d988c6c38",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

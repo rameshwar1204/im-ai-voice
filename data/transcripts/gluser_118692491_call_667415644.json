@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667415644",
+  "gluser_id": "118692491",
+  "vintage_months": 2,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Guwahati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663830",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ji.\\nCustomer: Mainakshi bol rahi thi IndiaMART se sir, kaise hai aap? Amar Singh Enterprises.\\nExecutive: Ji ji.\\nCustomer: Sir bataiye kaise aapko matlab mere IndiaMART customer sir.\\nCustomer: Ek number lijiye to usme phone kariye.\\nExecutive: Bataiye sir number.\\nCustomer: 96128\\nExecutive: Lekin customer me to\\nCustomer: Number pe call karna hai.\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Kis number pe call karna hai sir?\\nCustomer: Wo mera hi wo bhi mera hi number hai mera dusra number hai.\\nExecutive: Achha theek hai bataiye sir.\\nCustomer: 96128\\nExecutive: 96\\nCustomer: 128\\nExecutive: 96128\\nCustomer: Haan 69712\\nExecutive: 69\\nCustomer: 712\\nExecutive: 69712 aapki is number pe call karu?\\nCustomer: Haan haan theek hai abhi jo diya na wo number me call kariye haan.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the executive to call on another number.\\n\n\\n\nResolution:\\n\n- Executive noted the alternate number.\\n\n\\n\nNext Steps: \\n\n- Executive will call on the provided number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- alternate number, call, customer support\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c023d2f-d573-45c4-bac8-e5f79838c693",
+  "ucid": "7c023d2f-d573-45c4-bac8-e5f79838c693",
+  "seller_categories": [
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "21852",
+      "mcat_name": "Banana Chips"
+    },
+    {
+      "mcat_id": "38",
+      "mcat_name": "Biscuit"
+    },
+    {
+      "mcat_id": "141780",
+      "mcat_name": "Cheese Balls"
+    },
+    {
+      "mcat_id": "139186",
+      "mcat_name": "Wafer Biscuits"
+    }
+  ]
+}

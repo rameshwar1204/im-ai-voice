@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672930052",
+  "gluser_id": "3325436",
+  "vintage_months": 105,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ratlam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9687111",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Shree Plastic Industries sir?\\nCustomer: Ha boliye.\\nExecutive: Sir, good afternoon, Manish baat kar raha tha IndiaMART office Noida se.\\nCustomer: Hmm.\\nExecutive: Aapka concern aaya tha kal TDS regarding. Already aapne dekha hoga hamari team se na aapko TDS ki invoice gayi hai.\\nHmm.\\nExecutive: Theek hai, toh already aapne jo hamare sath recent deal kari thi na, usme hum already TDS deduct kar diye the aapka, theek hai, proposal mein hi. Aur aapko uski invoice de diya tha humne.\\nCustomer: Achha.\\nExecutive: Theek hai, aur rahi baat purane ki, toh purana jo tha aapka, I think purane ka bhi tha aapko TDS ke regarding issue. Toh aap uska na jab aap pay kiya tha jinhone jitne bhi team ka, woh uska form 16 de dijiyega hume, toh hum uska bhi karwa denge, aisa koi dikkat nahi hai.\\nCustomer: Diya hua hai na maine form 16 aur ye sab pehle bhi diya hua hai.\\nExecutive: Haan, iska toh humne isme toh already isme koi issue jo humne recent kara tha, recent wala toh aapko clear ho gaya na, humka aapko TDS ki invoice de diya hai humne aapko.\\nCustomer: Haan, mai check karwa leta hu accounts mein aur phir aapse baat karta hu.\\nExecutive: Haan haan. Haan bilkul aap check karwa lijiye. Mai aapko lagata hu 5:30, 5:00 baje tak, 5:00 baje tak lagata hu.\\nCustomer: Theek hai sir, theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had concerns regarding TDS.\\n\n\\n\nResolution:\\n\n- Executive clarified TDS was deducted in recent deal.\\n\n- Executive asked for Form 16 for old TDS issues.\\n\n\\n\nNext Steps: \\n\n- Customer will check with accounts and revert.\\n\n- Executive will call back by 5:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- tds, invoice, form 16, accounts\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a34e387c-ff14-47e6-a99f-c1011307b8b3",
+  "ucid": "a34e387c-ff14-47e6-a99f-c1011307b8b3",
+  "seller_categories": [
+    {
+      "mcat_id": "2152",
+      "mcat_name": "Polypropylene Rope"
+    },
+    {
+      "mcat_id": "35182",
+      "mcat_name": "Polyester Rope"
+    },
+    {
+      "mcat_id": "5054",
+      "mcat_name": "Plastic Twine"
+    },
+    {
+      "mcat_id": "142705",
+      "mcat_name": "Fibre Rope"
+    },
+    {
+      "mcat_id": "7166",
+      "mcat_name": "Polypropylene Twine"
+    }
+  ]
+}

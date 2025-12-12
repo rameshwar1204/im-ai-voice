@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673592345",
+  "gluser_id": "29512510",
+  "vintage_months": 6,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648188",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: \u091c\u092f \u092e\u093e\u0928 \u091c\u0940 \u0928\u092e\u0938\u094d\u0915\u093e\u0930\u0964\\nCustomer: \u0928\u092e\u0938\u094d\u0915\u093e\u0930 \u0938\u0930\u0964\\nExecutive: \u0936\u0941\u092d\u092e \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0938\u093f\u0928\u0947\u092e\u093e \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0938\u094d\u091f\u0930 \u0938\u0930 \u0932\u093e\u0938\u094d\u091f \u091f\u093e\u0907\u092e \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0939\u0941\u0908 \u0925\u0940 \u0928\u093e\u0964\\nCustomer: \u0939\u093e\u0902 \u0938\u0930 \u0939\u093e\u0902 \u0938\u0930 \u092c\u093e\u0926 \u092e\u0947\u0902 \u0915\u0930\u093f\u090f 4:00 \u092c\u091c\u0947 \u0915\u0947 \u0935\u0915\u094d\u0924 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u094b \u0906\u092a\u0964\\nExecutive: \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930 \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requests a call back at 4:00 PM.\\n\n\\n\nResolution:\\n\n- Executive agrees to call back at the requested time.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back at 4:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\ncallback request\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bcb504b1-c178-41fe-9f66-542abf0eb0ac",
+  "ucid": "bcb504b1-c178-41fe-9f66-542abf0eb0ac",
+  "seller_categories": [
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "24934",
+      "mcat_name": "Civil Construction"
+    },
+    {
+      "mcat_id": "78462",
+      "mcat_name": "Building Construction Project"
+    }
+  ]
+}

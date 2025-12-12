@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676365887",
+  "gluser_id": "137456074",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Srikakulam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722688",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Madam Namaste madam.\\nCustomer: Namaste sir.\\nExecutive: Madam main Krishna baat kar raha hun. Main Krishna baat kar raha hun madam.\\nCustomer: Ek minute ek minute sir abhi call aapki ID se sir call kiya aap?\\nExecutive: Haan main call kiya tha aap utha nahi the.\\nCustomer: Achcha achcha achcha achcha. Achcha ji sir madam ye isme aapke madam month ho gaya hoga madam ye package hai na band kar dijiye madam nahi to continue hone se kya mera payment bhi cut ho jayega. Haan ji sir baat hui hai aap baat hui hai isme sir 31 turant nahi band ho pata na sir is process hota hai uska.\\nCustomer: Main process matlab ek month do month to chalega.\\nExecutive: Haan tab tak package payment to cut ho jayega na.\\nCustomer: Nahi nahi payment nahi cut hoga sir aapko milega pura amount milega aap uski chinta mat kariye. Jo milega amount aapko wo pura milega. Refund ka process maine already apne senior ko escalate kar diya hai aur unhone bhi shayad aap se baat ki.\\nCustomer: Leads to madam koi bhi lead matlab business karne wala aadmi leads ke liye intzar karta hai matlab mere ko nahi mil raha haan.\\nExecutive: Sir samajh rahe hain sir do call gayi thi na aapke paas?\\nCustomer: Haan madam.\\nExecutive: Do call gayi thi na aapke paas senior ki mere?\\nCustomer: Haan us time pe aaya tha matlab wo pata nahi kya baat hai.\\nExecutive: Haan haan to wo process mein chal raha hai sir wo process mein chal raha hai.\\nCustomer: Haan wo log pucha tha sir aapne call kiya matlab maine socha aap hi ki matlab sir aise aap log.\\nExecutive: Nahi nahi maine maine iski wajah se haan haan iski wajah se main call kiya aise nahi bola. Sir sabse sare hierarchy se baat nahi ho jati na to wo refund nahi hota hai aur usme bhi sir humne ek hafte ka time liya tha.\\nCustomer: Haan haan.\\nExecutive: Ek hafte ka time liya tha but ho jayega sir aap iski chinta mat kariye wo process mein chal raha hai sir lekin aap iski chinta mat kariye paisa aapko pura milega.\\nCustomer: Theek hai madam theek hai thank you thank you.\\nExecutive: And sir aapne ye customer care pe call kiya hai jo direct mere paas aaya hai to mere upar ek concern open ho gaya ki meri baat hui ya nahi aap se. To baat to ho gayi sir to ek main iska concern bhi close kar de rahi hun. Ek mail jayega aapke paas us pe yes kar dijiyega ki haan baat ho gayi.\\nCustomer: Aapke paas matlab abhi kya karna hai yes dabana hai.\\nExecutive: Haan haan bas mail jayega us pe yes kar dijiyega aap.\\nCustomer: Theek hai. Matlab abhi mail aayega to yes karna hai.\\nExecutive: Haan haan wo mere liye hoga ki baat hui ya nahi hui.\\nCustomer: Okay matlab baat hua bol ke message aayega usko yes karna hai.\\nExecutive: Nahi haan wahi concern closing ka rahega.\\nCustomer: Theek hai theek hai.\\nExecutive: Okay sir ji. Okay theek hai thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to close the package to avoid payment deduction.\\n\n- Not receiving buyleads.\\n\n\\n\nResolution:\\n\n- Assured full refund; escalated to senior.\\n\n- Explained the refund process takes time.\\n\n- Executive will close the concern.\\n\n\\n\nNext Steps: \\n\n- Customer needs to reply 'yes' to the email.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, subscription, payment\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 159,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b058dd15-0f34-489d-b99b-154a71aa4741",
+  "ucid": "b058dd15-0f34-489d-b99b-154a71aa4741",
+  "seller_categories": [
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "8538",
+      "mcat_name": "Sesame Oil"
+    },
+    {
+      "mcat_id": "216788",
+      "mcat_name": "Wood Pressed Groundnut Oil"
+    },
+    {
+      "mcat_id": "216251",
+      "mcat_name": "Refined Coconut Oil"
+    }
+  ]
+}

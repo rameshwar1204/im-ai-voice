@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672086671",
+  "gluser_id": "54813913",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangrur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Awaz aa rahi hai?\\nCustomer: Sir abhi mai ek ticket close karke ek aur ticket open kar rahi hu. Feedback dena aur meri senior abhi aapko call kar lengi.\\nExecutive: Thik hai.\\nCustomer: Thik hai thik hai. To aap ek minute call kariye. Sir pehle to aapke paas ek ticket ka feedback aaya hoga mail pe usko please satisfied mark kar dijiye.\\nCustomer: Haan ji mai kar dunga.\\nExecutive: Abhi aap ek baar check to karo mail to check karo.\\nExecutive: Fir ek open bhi karani hai na ticket bas ek minute ka hi kaam rahega.\\nExecutive: Mail check karo aapke paas feedback aaya hoga.\\nExecutive: Dekho maine likh bhi diya hai usme he want refund.\\nExecutive: Isko please satisfied kar dijiye.\\nCustomer: Maine kar diya.\\nExecutive: Thik hai ab mai na ek aur ticket open kar rahi hu. Wait karo. Ji aap ticket karwa rahe ho lekin ho jayega na mera kaam?\\nExecutive: Are sir ek minute ruko mai aap hi ke samne ticket open kar rahi hu.\\n\\nExecutive: Wait karo. Ashina.\\nExecutive: Want refund as business closed.\\nExecutive: Thik hai sir mai aapko 5-10 minute me update karti hu same number pe.\\nCustomer: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants refund as business is closed.\\n\n- Customer wants to know if his work will be done.\\n\n\\n\nResolution:\\n\n- Executive closed one ticket and opened another.\\n\n- Executive assured customer that she is opening ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will update customer in 5-10 minutes.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, ticket, business closed\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 156,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e9dbbf81-1b9b-458f-bc5a-7f6a9d6ca853",
+  "ucid": "e9dbbf81-1b9b-458f-bc5a-7f6a9d6ca853",
+  "seller_categories": [
+    {
+      "mcat_id": "34915",
+      "mcat_name": "PVC Solvent Cement"
+    },
+    {
+      "mcat_id": "138334",
+      "mcat_name": "CPVC Cement"
+    },
+    {
+      "mcat_id": "11332",
+      "mcat_name": "Lamination Adhesive"
+    },
+    {
+      "mcat_id": "37381",
+      "mcat_name": "Solvent Cements"
+    },
+    {
+      "mcat_id": "446247",
+      "mcat_name": "Solvent Cement Tin Can"
+    }
+  ]
+}

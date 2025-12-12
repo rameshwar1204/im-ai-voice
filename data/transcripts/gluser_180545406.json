@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "670340009",
+  "gluser_id": "180545406",
+  "vintage_months": 0,
+  "bl_dau_oct": 0,
+  "customer_type": "gFCP",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662380",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ram mangal bhavan ya amangal haari.\\nHello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Uh, Sanjay sir, good afternoon, Sakshi baat kar rahi hu IndiaMART se.\\nCustomer: Haan boliye.\\nExecutive: Haan ji sir, mai ye keh rahi thi ye jo Shree Bhagwati Textile Mills ka jo aapne customer care pe ticket open kari thi na regarding the aapka number aur jo aapki email ID thi.\\nCustomer: Haan.\\nExecutive: To ab workable ho gayi hai. To aap ek baar na check kar lena. Login karoge na sir same number se jispe maine call kiya hai.\\nCustomer: Hmm hmm.\\nExecutive: To wo aapko company dikh jayegi aur usme jo products vagera add karne hai wo as same products rahenge na sir jo aapke Surgeon Syntex company ke hai?\\nCustomer: Uh, change bhi kar sakte hai.\\nExecutive: Achha okay. To aap products aap mere ko ya to bhej dijiyega ya phir aap mujhe bata dijiyega jaise bhi add karne hai isme.\\nCustomer: Haan chalega.\\nExecutive: Thik hai, to ab ye ho gaya hai workable. To aapke paas naam ne wo proposal share kiya final wala, please aap usko check kar lijiye.\\nCustomer: Haan.\\nCustomer: Thik hai, thik hai madam, mai thodi der baad dekhte hai abhi 5 baje ke aas paas.\\nExecutive: Haan ji, haan ji, thik hai, mai ye close kar de rahi hu aapka Sanjay sir.\\nCustomer: Thik hai, thik hai, okay chalega.\\nExecutive: Okay sir, thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's Shree Bhagwati Textile Mills account issue.\\n\n\\n\nResolution:\\n\n- Executive informed the customer the issue is resolved.\\n\n- Executive asked to check the final proposal.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account issue, workable, proposal\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d872d55-f9d3-4235-bf3a-0c972abdeb50",
+  "ucid": "7d872d55-f9d3-4235-bf3a-0c972abdeb50",
+  "seller_categories": [
+    {
+      "mcat_id": "87642",
+      "mcat_name": "Necktie Fabric"
+    },
+    {
+      "mcat_id": "189482",
+      "mcat_name": "School Band Uniform"
+    },
+    {
+      "mcat_id": "190413",
+      "mcat_name": "School Uniform Fabric"
+    },
+    {
+      "mcat_id": "7103",
+      "mcat_name": "Polycotton Fabric"
+    }
+  ]
+}

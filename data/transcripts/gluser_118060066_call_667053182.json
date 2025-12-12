@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667053182",
+  "gluser_id": "118060066",
+  "vintage_months": 30,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9625948",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Ji?\\nExecutive: Hi sir, good evening. Jyoti this side from IndiaMART, sir.\\nCustomer: Madam, busy hai aaj. Kal dekhe, kal baat karenge.\\nExecutive: Kal kitne baje call karein, sir?",
+  "summary": "\\n\\nConcerns:\\n\\n- Customer is busy and requested a callback.\\n\\n\\nResolution:\\n\\n- Executive agreed to call back.\\n\\n\\nNext Steps: \\n- Issue not resolved. The call disconnected before a callback time could be scheduled.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent -> Non-urgent\\n\\n@@@Key Topics:\\n- callback, scheduling\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b824ae30-2459-4333-9e96-f33213bc1a72",
+  "ucid": "b824ae30-2459-4333-9e96-f33213bc1a72",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "24633",
+      "mcat_name": "Cement Pipes"
+    },
+    {
+      "mcat_id": "38247",
+      "mcat_name": "Spun Pipes"
+    },
+    {
+      "mcat_id": "190163",
+      "mcat_name": "RCC Half Round Pipe"
+    }
+  ]
+}

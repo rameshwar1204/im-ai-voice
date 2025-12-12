@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673020264",
+  "gluser_id": "145432970",
+  "vintage_months": 4,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Giridih",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690289",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[inaudible]\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nHello.\\nAwaz nahi aa rahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear anything.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Negative | Annoyed -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- voice issue, connectivity\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6d0e5c3d-052f-449d-88c8-03667e430514",
+  "ucid": "6d0e5c3d-052f-449d-88c8-03667e430514",
+  "seller_categories": [
+    {
+      "mcat_id": "23855",
+      "mcat_name": "Broken Rice"
+    },
+    {
+      "mcat_id": "5056",
+      "mcat_name": "Plastic Empty Water Bottle"
+    },
+    {
+      "mcat_id": "139360",
+      "mcat_name": "Bottled Water"
+    },
+    {
+      "mcat_id": "146858",
+      "mcat_name": "Masoor Dal"
+    },
+    {
+      "mcat_id": "36270",
+      "mcat_name": "Refined Sugar"
+    }
+  ]
+}

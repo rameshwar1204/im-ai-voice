@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672990478",
+  "gluser_id": "21301030",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bikaner",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690576",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nSir, ek minute, ek minute do, ek minute do. Ek minute do.\\nThik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request for one minute.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3b912e92-fb1b-4605-88cf-b13e93fbc40e",
+  "ucid": "3b912e92-fb1b-4605-88cf-b13e93fbc40e",
+  "seller_categories": [
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "188933",
+      "mcat_name": "Steel Security Safe"
+    },
+    {
+      "mcat_id": "22828",
+      "mcat_name": "Bank Vaults"
+    },
+    {
+      "mcat_id": "149798",
+      "mcat_name": "Electronic Locker Safe"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673584463",
+  "gluser_id": "130374449",
+  "vintage_months": 18,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello?\\nHaa?\\nHaa, Mr. Vikas baat kar rahe hain?\\nYes sir.\\nHaa, good morning Mr. Vikas, main Suresh baat kar raha hun business manager India Mart se.\\nBolo.\\nJi aapko sir ek call ka feedback aaya tha kal Dipanjali ke saath aapka discussion hua tha.\\nSir aap bhi call mat karo, veh ke do ghante ke baad call karo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call back after two hours.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\ncall feedback, business manager\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ed867f71-6f86-470c-81cc-d9bba2fbcc00",
+  "ucid": "ed867f71-6f86-470c-81cc-d9bba2fbcc00",
+  "seller_categories": [
+    {
+      "mcat_id": "87382",
+      "mcat_name": "Hexagon Socket Head Cap Screw"
+    },
+    {
+      "mcat_id": "25976",
+      "mcat_name": "Countersunk Bolts"
+    },
+    {
+      "mcat_id": "182802",
+      "mcat_name": "Hex Nylock Nut"
+    },
+    {
+      "mcat_id": "32261",
+      "mcat_name": "Machine Washers"
+    },
+    {
+      "mcat_id": "194527",
+      "mcat_name": "Unbrako Screws"
+    }
+  ]
+}

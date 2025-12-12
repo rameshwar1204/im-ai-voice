@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675429079",
+  "gluser_id": "90814859",
+  "vintage_months": 5,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Durg",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631594",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb9944a3-9888-4455-adea-6bff352eb0e7",
+  "ucid": "bb9944a3-9888-4455-adea-6bff352eb0e7",
+  "seller_categories": [
+    {
+      "mcat_id": "131728",
+      "mcat_name": "Potassium Humate"
+    },
+    {
+      "mcat_id": "6222",
+      "mcat_name": "Face Wash"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    },
+    {
+      "mcat_id": "34465",
+      "mcat_name": "Plant Growth Promoters"
+    },
+    {
+      "mcat_id": "10805",
+      "mcat_name": "Humic Acid"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672070297",
+  "gluser_id": "9030237",
+  "vintage_months": 114,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jamnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675174",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji madam boliye.\\nCustomer: Ji boliye boliye madam ji.\\nExecutive: Haan actually madam morning mein maine aapko call kiya tha na close ke regarding connect kiya tha maine.\\nCustomer: Aawaz nahi aa rahi aapki.\\nExecutive: Abhi aapko meri voice aa rahi hai?\\nCustomer: Aapki aawaz nahi aa rahi hai mujhe.\\nExecutive: Ek minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to hear the executive\u2019s voice.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, voice issue\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bcbb0a69-b565-4fdd-bf33-9d219b0a7389",
+  "ucid": "bcbb0a69-b565-4fdd-bf33-9d219b0a7389",
+  "seller_categories": [
+    {
+      "mcat_id": "184824",
+      "mcat_name": "Heavy Duty Impact Wrench"
+    },
+    {
+      "mcat_id": "27668",
+      "mcat_name": "Electronic Torque Wrench"
+    },
+    {
+      "mcat_id": "53028",
+      "mcat_name": "Electric Impact Wrench"
+    },
+    {
+      "mcat_id": "2507",
+      "mcat_name": "Torque Wrench"
+    },
+    {
+      "mcat_id": "29684",
+      "mcat_name": "Hydraulic Torque Wrenches"
+    }
+  ]
+}

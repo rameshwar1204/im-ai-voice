@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675085920",
+  "gluser_id": "191475859",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hallo?\\nExecutive: Hello.\\nCustomer: Haan ji?\\nExecutive: Ji sir, jo aapne mujhe woh screenshots bheje hain woh kaunse waali mail aap open kar rahe the? Woh mujhe mail ID bataenge? Back end team wale pooch rahe hain ki jo aap mail login kar rahe hain woh ID bata dijiye.\\nCustomer: Purchase purchase@shreenath.com.\\nExecutive: Sir spelling bolenge?\\nCustomer: Main aapko type karke bhejta hoon.\\nExecutive: Theek hai, theek hai, aap bhejiye, main inko bhej deti hoon.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Which mail ID was used to open the screenshots sent.\\n\n\\n\nResolution:\\n\n- Customer provided the email ID: purchase@shreenath.com.\\n\n- Customer will type and send the email ID.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will forward the email ID to the back-end team.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nemail id, screenshots\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5bde7b16-68ce-44a6-8236-8d2e2f6b6137",
+  "ucid": "5bde7b16-68ce-44a6-8236-8d2e2f6b6137",
+  "seller_categories": [
+    {
+      "mcat_id": "134125",
+      "mcat_name": "Xanthan Gum"
+    },
+    {
+      "mcat_id": "44668",
+      "mcat_name": "Caramel Color"
+    },
+    {
+      "mcat_id": "167106",
+      "mcat_name": "Modified Starch"
+    },
+    {
+      "mcat_id": "111358",
+      "mcat_name": "Soya Lecithin"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    }
+  ]
+}

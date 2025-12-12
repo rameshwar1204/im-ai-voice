@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667711189",
+  "gluser_id": "163531580",
+  "vintage_months": 31,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636821",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan?\\nExecutive: Sir, mai Govind bol raha hu, Govind Kushwaha.\\nCustomer: Haan ji, bataiye.\\nCustomer: Aapke bhi alag phone jaati hai kya? Haan?\\nExecutive: Complaint wale to alag hote hain.\\nCustomer: Mere paas hi call aayega aapka, tabhi to maine detail li hai na aap se complaint open karne ke liye.\\nExecutive: Aur kuch hai detail mein, kya chahiye aapko?\\nExecutive: Nahi, aur kuch nahi hai. Hum hi complaint open karenge aapki.\\nCustomer: Theek hai, theek hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer questioned about different phone numbers for complaints.\\n\nResolution:\\n\n- Executive clarified complaint department is separate.\\n\n- Executive confirmed they will open the complaint.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, details, phone numbers\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=473d74ab-e2e6-4591-bb7f-027429cd9dcd",
+  "ucid": "473d74ab-e2e6-4591-bb7f-027429cd9dcd",
+  "seller_categories": [
+    {
+      "mcat_id": "87759",
+      "mcat_name": "Liquid Nitrogen Container"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "162880",
+      "mcat_name": "Frozen Animal Semen"
+    },
+    {
+      "mcat_id": "89955",
+      "mcat_name": "Veterinary Glove"
+    },
+    {
+      "mcat_id": "148162",
+      "mcat_name": "Artificial Insemination Sheaths"
+    }
+  ]
+}

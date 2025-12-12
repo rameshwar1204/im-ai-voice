@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668161490",
+  "gluser_id": "100424701",
+  "vintage_months": 2,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Palasbari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643647",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hanji.\\nCustomer: India mart ka number hai?\\nExecutive: Ji.\\nCustomer: Product service chahiye tha India mart se isliye phone kiye hain.\\nExecutive: Kya ho gaya?\\nCustomer: India mart ka subscription lena tha uske liye phone kiya hai.\\nExecutive: Okay.\\nCustomer: Haan.\\nExecutive: Kis company se baat kar rahe hain aap?\\nCustomer: Main Guwahati se bol raha hun aapka Guwahati mein koi office hai?\\nExecutive: Kahan pe sir?\\nCustomer: Guwahati.\\nExecutive: Guwahati mein mujhe details check karni padegi ek bar aap mujhe apna whatsapp number de do main ek bar check kar leti hun details fir aapse main baat kar leti hun abhi lunch bhi chal raha hai.\\nCustomer: 88767\\nExecutive: Ek minute.\\nExecutive: 88767\\nCustomer: 14001\\nExecutive: 140018876714001 yahi hai?\\nCustomer: Ji.\\nExecutive: 78876714001 theek hai?\\nCustomer: Ji ji ji theek hai.\\nExecutive: Main whatsapp pe hi likh ke bhej rahi hun apne apni company ka naam aur jo aapka number to a gaya mere pass ek email address bhej dijiye main details check kar leti hun fir main aapko call karke bata deti hun sir theek hai?\\nCustomer: Theek hai.\\nExecutive: Ji thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to take IndiaMART subscription.\\n\n- Customer asks if there is an office in Guwahati.\\n\n\\n\nResolution:\\n\n- Executive asked for WhatsApp number to check details.\\n\n- Executive asked for company name and email address.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after checking details.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, whatsapp, email, guwahati\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78b090b6-280a-4c7f-8712-27043deee9d8",
+  "ucid": "78b090b6-280a-4c7f-8712-27043deee9d8",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "24633",
+      "mcat_name": "Cement Pipes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671934099",
+  "gluser_id": "15741212",
+  "vintage_months": 55,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Talegaon Dabhade",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9630090",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, haan ji sir, good morning, Preeti baat kar rahi hoon.\\nCustomer: Yes, good morning.\\nExecutive: Sir, Preeti Rathore baat kar rahi hoon, IndiaMART head office se, kaise ho aap?\\nCustomer: Haan, haan, bilkul, bilkul, humne itni baat kar li hai ki main samajh sakta hoon. Yes, please tell me. Main bahut achcha hoon, bahut badhiya hoon, main ekdam.\\nExecutive: Koi baat nahi sir, maine actually isliye call kiya tha, aapka entire jo corrections hai na, pure catalog ka, wo sara kuch ho gaya hai. Wo maine aapko Friday bataya tha. Maine aapko ye bhi bataya tha ki sir abhi usme the na modified wali list mein ki cron chalta hai tab approve hote hain, to sare approve ho chuke hain. Sare corrections dikh rahe hain, sare groups correct kara diye hain. Pura maine subah morning mein baith ke go through kar liye the. To baki ka kuch hai to fir matlab maine aapko bataya tha ki regular intervals mein hum log aapko connect karte rahenge in terms of jo bhi review karna hai ya jo bhi corrections the ya fir uske results matlab pura jo review type hota hai catalog ka that we will be doing in a regular intervals ki hum har char panch din ke gap mein saat din ke gap mein aapko connect kar le rolling days mein.\\nExecutive: To wo karte rahenge. Ab mere end se kuch bhi pending nahi hai. To abhi main call se aapka close karungi aur jo leads vagera hai, jo servicing vagera hai wo Ranjit hai hi group pe hai hi to waha pe we can coordinate now. Thik hai sir?\\nCustomer: Thik, thik, it's okay.\\nExecutive: Thik hai sir. Aur aap mera na number save kar lijiyega taki whatsapp pe hai mera number ye wala to abhi IVR wala ja raha hoga wo whatsapp group jo bana hua hai na waha pe mera number hai direct wala jo whatsapp pe available hai. To wo group mein hai hi to aapko service mein jo bhi guidance hai ya meeting hai timely review hai for better investment and enhancement of the over the product to sab hum waha pe karte rahenge. Thik hai sir?\\nCustomer: Thik, thik, thik, okay.\\nExecutive: Okay sir, alright, thank you so much, have a nice day.\\nCustomer: \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needed corrections in the catalog.\\n\n\\n\nResolution:\\n\n- Executive confirmed corrections are done.\\n\n- Executive confirmed all groups are corrected.\\n\n- Executive shared WhatsApp number for guidance.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, corrections, whatsapp, servicing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dd0f281b-816e-4cc8-b758-e18c697ce48c",
+  "ucid": "dd0f281b-816e-4cc8-b758-e18c697ce48c",
+  "seller_categories": [
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "481",
+      "mcat_name": "Fire Proof Safes"
+    },
+    {
+      "mcat_id": "187375",
+      "mcat_name": "Jewellery Locker"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "188933",
+      "mcat_name": "Steel Security Safe"
+    }
+  ]
+}

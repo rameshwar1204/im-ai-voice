@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670716099",
+  "gluser_id": "118791071",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kosi Kalan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Namaste Mohan ji.\\nExecutive: Namaste.\\nCustomer: Se baat kar rahe the Namaste.\\nCustomer: Bataye ji.\\nExecutive: Ji sir, hum kaise ho?\\nCustomer: Badhiya hai aap bataye aap.\\nExecutive: Bas aap call nikaloge sir jo aap se baat hui thi last time use update karne ke liye karne ke liye.\\nCustomer: Yatra chal rahi hai abhi apne unke khane peene mein lag rahe hain hum.\\nExecutive: Achcha hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Update on the last call.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer is busy with travel arrangements.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall update, travel\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=144bf3a3-2a3c-4227-ae7d-7f7a45a44eb1",
+  "ucid": "144bf3a3-2a3c-4227-ae7d-7f7a45a44eb1",
+  "seller_categories": [
+    {
+      "mcat_id": "651654",
+      "mcat_name": "Mycorrhizal Bio Fertilizer"
+    },
+    {
+      "mcat_id": "527",
+      "mcat_name": "Bio Fertilizers"
+    },
+    {
+      "mcat_id": "43849",
+      "mcat_name": "NPK Fertilizer"
+    },
+    {
+      "mcat_id": "187345",
+      "mcat_name": "Zinc Fertilizers"
+    },
+    {
+      "mcat_id": "177810",
+      "mcat_name": "Flowering Stimulant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666736329",
+  "gluser_id": "134703934",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635861",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nExecutive: Sir main Swastik Industries se.\\nCustomer: Haan bol raha hu.\\nExecutive: Sir main IndiaMART se baat kar raha hu. Saturday ko baat hui thi hamari.\\nCustomer: Haan haan haan sir.\\nExecutive: Ji sir. Sir toh maine apne senior se baat karke dekhi thi aapke matlab pause wala aap keh rahe the.\\nCustomer: Haan.\\nExecutive: Sir toh matlab meri mam toh keh rahi hai ki matlab aisa kuch nahi possible hai matlab pause wala kuch waisa nahi hai.\\nCustomer: Arre sir maine karwaya hai pehle isliye bol raha hu main.\\nExecutive: Pehle karwaya hai. 15 din 20 din ke liye bhi kar denge na toh mera kaam ho jayega. Nahi toh unnecessary mera nuksan hi ho raha hai bas. Zyada bhi nahi bol raha hu ek mahine ke liye bol raha hu main. Ek mahine ke liye bhi kar denge na toh jab tak mera production-wroduction ispe dhyan de paunga main thoda sa.\\nExecutive: Ji ji. Sir main aapki baat kara deta hu ek baar apne mam se.\\nCustomer: Haan karaiye.\\n(silence)\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji sir. Hello. Haan ji namaste.\\nCustomer: Haan.\\nExecutive: Haan sir. Sir woh mam connect kar rahi hai aapko thodi der me aap unse baat kar lijiyega ek baar. How how how.\\nCustomer: Ji.\\nExecutive: Ji.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants to pause the service for one month.\\n- Claims to have paused the service in the past.\\n- Needs to focus on production activities.\\n- Facing unnecessary loss without the pause.\\n\\n\\nResolution:\\n\\n- Initially informed that pausing the service is not possible.\\n- Offered to connect the call to a senior manager for further discussion.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive is connecting the call to a senior manager.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- service pause, subscription, production issues, senior manager call\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c095e176-8e98-48d3-8f07-6b2c58f7342e",
+  "ucid": "c095e176-8e98-48d3-8f07-6b2c58f7342e",
+  "seller_categories": [
+    {
+      "mcat_id": "18981",
+      "mcat_name": "Tea Light Candle"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "180915",
+      "mcat_name": "Supreme PVC Pipes"
+    },
+    {
+      "mcat_id": "923",
+      "mcat_name": "Wax Candles"
+    },
+    {
+      "mcat_id": "36451",
+      "mcat_name": "Rigid PVC Pipes"
+    }
+  ]
+}

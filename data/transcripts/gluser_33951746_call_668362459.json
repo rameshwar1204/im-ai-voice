@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668362459",
+  "gluser_id": "33951746",
+  "vintage_months": 74,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646347",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Yes. Hello.\\nCustomer: Hello. Madam, mujhe buy jo leads rehte hai, buy leads rehte hai, woh kam aa rahi hai, matlab aa hi nahi rahi.\\nExecutive: Accha, company ka naam bataiye apna?\\nCustomer: Smart Printers and Manufacturers.\\nExecutive: Smart Printers and Manufacturer Kolhapur se bol rahe?\\nCustomer: Yes sir, yes mam.\\nExecutive: Okay, line pe rahiyega.\\nCustomer: Kaise buy leads aari hai sir aapke paas?\\nExecutive: Nahi aa hi nahi rahi hai.\\nExecutive: Aa hi nahi rahi hai?\\nCustomer: Haan.\\nExecutive: Ek second.\\n\\nExecutive: Thik hai sir, mujhe aap ek minute dijiye, line pe rahiyega, mai check karke batati hu.\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold to check.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, company name\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9b6c8f14-da2b-4538-bea0-d96966f1f6e4",
+  "ucid": "9b6c8f14-da2b-4538-bea0-d96966f1f6e4",
+  "seller_categories": [
+    {
+      "mcat_id": "137680",
+      "mcat_name": "Abacus Book"
+    },
+    {
+      "mcat_id": "140001",
+      "mcat_name": "Student Abacus"
+    },
+    {
+      "mcat_id": "140000",
+      "mcat_name": "Teacher Abacus"
+    },
+    {
+      "mcat_id": "137745",
+      "mcat_name": "Abacus Kit"
+    },
+    {
+      "mcat_id": "41625",
+      "mcat_name": "Abacus"
+    }
+  ]
+}

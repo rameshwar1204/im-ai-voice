@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674224144",
+  "gluser_id": "89029237",
+  "vintage_months": 68,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nHello\\nExecutive: Hello sir good evening.\\nCustomer: Good evening sir good evening sir how are you sir?\\nExecutive: Fine sir how are you?\\nCustomer: I am also fine sir bataye sir.\\nExecutive: Sir I am Nivesh calling you from Ventures okay.\\nCustomer: Ha I know sir I know you know right okay.\\nExecutive: Right sir we have I have got your number from India you are like you are our account manager right?\\nCustomer: Right right right.\\nExecutive: Perfect perfect sir. Sir we have an issue sir like you know last two months back we have upgraded the India Mart services okay.\\nCustomer: Okay.\\nExecutive: So we have paid the full money to you and you have you have also given us the invoice right?\\nCustomer: Okay but now you know backtracking we have just seen that India Mart has taken a credit note on the GST portal.\\nCustomer: Aha.\\nExecutive: you know what is credit note right?\\nCustomer: Okay just a minute sir.\\nExecutive: No no I am asking you like you know what is credit note right?\\nCustomer: Hello\\nExecutive: Sir you know what is credit note right?\\nCustomer: Yes.\\nExecutive: Okay so India Mart has take so India Mart has taken a credit note okay of that particular invoice they have reversed that particular invoice I don't know why sir.\\nCustomer: Sir we are when you are making the payment sir?\\nExecutive: What sir?\\nCustomer: you are asking for the your payment invoice right now sir?\\nExecutive: Sir you have given us the payment invoice already sir. That is fine. But what happened is in that 11000 rupees GST money is there okay. Yes that particular money India Mart has paid to GST portal not an issue right?\\nExecutive: But after paying again they are taking the credit note they are they are reverting back the invoice I don't know why now in our GST portal it is showing minus 11000 rupees.\\nCustomer: Okay okay okay I understand sir. Sir please give me time for Monday sir actually today is Saturday is not working day so we are not in office. Your problem will be solved by Monday sir.\\nExecutive: Sure sure. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- IndiaMART has taken a credit note on GST portal.\\n\n- GST portal showing minus \u20b911,000.\\n\n\\n\nResolution:\\n\n- Customer asked for time till Monday.\\n\n- Assured the issue will be resolved by Monday.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- credit note, gst, payment, invoice\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 160,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=52d614d5-abf0-4aba-8f78-2b037c0f0223",
+  "ucid": "52d614d5-abf0-4aba-8f78-2b037c0f0223",
+  "seller_categories": [
+    {
+      "mcat_id": "36941",
+      "mcat_name": "Snack Vending Machine"
+    },
+    {
+      "mcat_id": "126667",
+      "mcat_name": "Automatic Vending Machine"
+    },
+    {
+      "mcat_id": "2724",
+      "mcat_name": "Vending Machine"
+    },
+    {
+      "mcat_id": "138732",
+      "mcat_name": "Sanitary Napkin Vending Machine"
+    },
+    {
+      "mcat_id": "22324",
+      "mcat_name": "Beverage Vending Machines"
+    }
+  ]
+}

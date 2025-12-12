@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669927854",
+  "gluser_id": "36615928",
+  "vintage_months": 7,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Karari Chandpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662968",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello.\\nCustomer: Haan. \\nExecutive: Sir ho gaya uska wo solution jo aap keh rahe the wo contact number.\\nCustomer: Haan ji.\\nCustomer: Haan, bataiye.\\nExecutive: Sir search kar liya aapne wo seller ka wo contact number.\\nCustomer: Haan search kar liya wo contact number par chal raha hai wo bhej raha hai humko.\\nExecutive: To aap ek kaam karna sir na aapko aage se koi bhi dikkat ho mera ye number save kar lo. Theek hai?\\nCustomer: Theek.\\nExecutive: Aap mujhe direct call kijiyega kisi bhi cheez ki requirement ho theek hai na?\\nCustomer: Theek hai.\\nExecutive: Haan ji to abhi aapko ye jo aapka concern raise hua tha iske liye sir mere liye feedback aayega aapko mail pe. Theek hai?\\nCustomer: Hmm.\\nExecutive: To uska revert back kar dijiyega aap sir.\\nCustomer: Theek hai kar denge.\\nExecutive: Haan ji theek hai.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about the solution for contact number.\\n\n\\n\nResolution:\\n\n- Executive confirmed the solution for contact number.\\n\n- Executive asked to save her number for future assistance.\\n\n- Executive requested to revert back to the feedback mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- contact number, solution, feedback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aade4f80-5897-444b-96bb-93a541646955",
+  "ucid": "aade4f80-5897-444b-96bb-93a541646955",
+  "seller_categories": [
+    {
+      "mcat_id": "224145",
+      "mcat_name": "Medical Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "56254",
+      "mcat_name": "Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "136956",
+      "mcat_name": "Empty Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "73809",
+      "mcat_name": "Double Open End Spanner"
+    }
+  ]
+}

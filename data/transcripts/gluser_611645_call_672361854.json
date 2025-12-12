@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672361854",
+  "gluser_id": "611645",
+  "vintage_months": 238,
+  "bl_dau_oct": 10,
+  "customer_type": "STAR",
+  "city_name": "Indore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677480",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan Rana ji namaskar.\\nExecutive: Haan ji namaste Ashutosh ji, main shuru thodi der se baat karu main. \\nCustomer: Koi nahi, koi nahi, okay fine. \\nExecutive: Mail kar diya tha bas maine, ye inform kar do bas. Kya mail kar diya tha?\\nCustomer: Theek hai, mail kar diya. \\nExecutive: Main, haan main check kar leta hu.\\nCustomer: Okay.\\nExecutive: Okay, thank you, alright, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer to check the mail.\\n\n\\n\nResolution:\\n\n- Executive informed that a mail has been sent.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmail\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a57674a-6c03-40c6-a400-2af34b3fcadc",
+  "ucid": "4a57674a-6c03-40c6-a400-2af34b3fcadc",
+  "seller_categories": [
+    {
+      "mcat_id": "14668",
+      "mcat_name": "Butyl Tape"
+    },
+    {
+      "mcat_id": "17873",
+      "mcat_name": "Rubber Tape"
+    },
+    {
+      "mcat_id": "204978",
+      "mcat_name": "Waterproof Tapes"
+    },
+    {
+      "mcat_id": "8292",
+      "mcat_name": "Rubber Compound"
+    },
+    {
+      "mcat_id": "21188",
+      "mcat_name": "Aluminum Foil Tape"
+    }
+  ]
+}

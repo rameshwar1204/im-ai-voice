@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675325145",
+  "gluser_id": "113092335",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ji good morning sir. Ankita baat kar rahi hu idhar aap se.\\nCustomer: Accha sir aapki aawaz mujhe matlab sahi nahi aa rahi hai voice break ho rahi hai.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Sir mai aapko fir se call karti hu ek second. Haanji haanji aapki aawaz nahi aa rahi hai sir.\\nExecutive: Mai aapko back call kar rahi hu sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice breaking.\\n\n\\n\nResolution:\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nvoice quality, call connection\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=068328ec-0e2c-4653-b657-0359ec17e264",
+  "ucid": "068328ec-0e2c-4653-b657-0359ec17e264",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "1686",
+      "mcat_name": "Safety Relays"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "167489",
+      "mcat_name": "Bus Coupler"
+    },
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    }
+  ]
+}

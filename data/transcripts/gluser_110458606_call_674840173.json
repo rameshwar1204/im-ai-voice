@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674840173",
+  "gluser_id": "110458606",
+  "vintage_months": 6,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Rakesh ji se baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Rakesh ji namaskar, main aapka account manager baat kar raha hun IndiaMART office se. Kaise hain aap?\\nCustomer: Ji. Ji ji.\\nExecutive: Sir aapki inquiry raise hui thi regarding the notification delay ho raha hai aapka aur mobile application.\\nCustomer: Wo delay pehli baar nahi, ye hamesha hota hai.\\nExecutive: Hmm.\\nCustomer: Ki aapka requirement pehle rehta hai aur aata hai ek dedh ghanta baad jab client already kisi aur ko order de diya hota hai.\\nExecutive: Theek hai. Theek hai. Got it sir. Ye shayad aapne mujhe last time bhi mention kiya tha. Puchna chahunga sir jo byleeds aapki is baar miss hui hai wo kitne ghante pehle post hui thi? Recent byleeds thi ya purani wali byleeds thi? Koi idea agar aapko ho? Do ghante pehle ki thi, ek din purani thi, ghante purani thi.\\nCustomer: Aaj ka aaj hi ka dekhiye na aap. Aadha ghanta pehle maine call kiya tha kuch. Haan haan. Kisi Malik ko na kya naam hai.\\nExecutive: Theek hai.\\nCustomer: Yaad nahi hai. Haan. Theek hai. Sir ispe do cheez hai. Maine abhi aapki actually baat kya ho rahi hai maine abhi aapki notification settings change kari. Check kariye jo aapke seller panel pe added hai. Usme sir apni do notification settings enable nahi hai aapke end se. Pehle main aapko wo enable karaunga jiski wajah se humse thodi byleed miss ho rahi hai ya wo notification humko late receive ho rahe hain. Uske do karan hai. Pehla.\\nCustomer: Thodi der baad phir kijiye main puja kar raha hun to phir wo karke. Achcha puja kar rahe hain. Haan haan. Wo theek hai phir notification off kar do.\\nExecutive: Right sir. 10:15 ho raha hai main 11 baje laga lu aapko?\\nCustomer: Ji ji ji.\\nExecutive: Perfect hai. Aur koi issue sir iske alawa? Ye to main aapka karwa dunga.\\nCustomer: Main issue yahi hai aapka. Theek hai aap puja kar lijiye phir main 11 baje se aapko detail mein discuss karta hun.\\nExecutive: Right sir.\\nCustomer: Ji.\\nExecutive: Okay sir. All right. Have a nice day.\\nCustomer: Thanks.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Notification delay in the mobile application.\\n\n- Missed buyleads due to delayed notifications.\\n\n\\n\nResolution:\\n\n- Executive checked customer's notification settings.\\n\n- Found two notification settings disabled.\\n\n- Agreed to call back at 11:00 AM to resolve.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 11:00 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- notification, buyleads, delay, settings, puja\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f90cb9b7-41b1-497a-aae0-ff00121ac459",
+  "ucid": "f90cb9b7-41b1-497a-aae0-ff00121ac459",
+  "seller_categories": [
+    {
+      "mcat_id": "15693",
+      "mcat_name": "Influenza Vaccine"
+    },
+    {
+      "mcat_id": "162382",
+      "mcat_name": "Darbepoetin Alfa Injection"
+    },
+    {
+      "mcat_id": "137953",
+      "mcat_name": "Erythropoietin Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "225029",
+      "mcat_name": "Renocrit Injection"
+    }
+  ]
+}

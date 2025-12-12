@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675467221",
+  "gluser_id": "56620584",
+  "vintage_months": 44,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9714011",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fd38cdc8-7335-41cd-9f5d-a40315c10771",
+  "ucid": "fd38cdc8-7335-41cd-9f5d-a40315c10771",
+  "seller_categories": [
+    {
+      "mcat_id": "36835",
+      "mcat_name": "Rain Poncho"
+    },
+    {
+      "mcat_id": "2646",
+      "mcat_name": "Umbrella"
+    },
+    {
+      "mcat_id": "656235",
+      "mcat_name": "Rain Coat"
+    },
+    {
+      "mcat_id": "145619",
+      "mcat_name": "Wedding Umbrella"
+    },
+    {
+      "mcat_id": "24065",
+      "mcat_name": "Children Umbrella"
+    }
+  ]
+}

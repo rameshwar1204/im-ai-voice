@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674671771",
+  "gluser_id": "62962914",
+  "vintage_months": 88,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ludhiana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702505",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji sir, Ratna baat kar rahi hu IndiaMART se.\\nCustomer: Hmm, woh subah bhi phone kiya tha main raste mein tha fir main bhool gaya aake.\\nExecutive: Koi baat nahi sir, sir ye keh rahi thi ek baar Truecaller hata ke bhi dekh lete hai sir.\\nCustomer: Aapke end se nahi hota ye?\\nExecutive: Nahi nahi sir, ye cheez toh matlab dekhiye pehle aapke side se block ho gayi. Fir uske baad ho sakta hai Truecaller issue ho. Isliye main ek baar check kar leti hu isko. Agar ye aisa kuch uske baad bhi koi issue hai tab toh sir main apni team mein baat karungi ki kya problem aa rahi hai. But ye main aapko yahi bol rahi hu. Truecaller uninstall kar diya.\\nCustomer: Hmm.\\nExecutive: Abhi main apna number dial karke dekhu kaise chalega?\\nExecutive: Nahi nahi ab aap apna matlab apne number se mat kijiyega kisi aur ke number se apna PNS number jo maine bataya tha na usko call karke dekhiye ek baar.\\nCustomer: Achha mere do number hai na madam dusre wale number se mobile se karke dekhu woh wala number?\\nExecutive: Haan haan haan haan.\\nCustomer: Eh, main wohi dekh raha tha main kitna number hai uska. Aapko number yaad hai mera kya number tha? 80\\nExecutive: Ek minute sir. Aapka number dekhna hai kahan pe hai.\\nExecutive: Jo IndiaMART buyer likh ke aata hai na aapne check kiya hoga.\\nCustomer: Haan wohi dekh raha hu wohi dekh raha hu.\\nCustomer: Aapne dala hai na number 80 pata nahi kitna number hai. Isme mere se pata lag jayega na. Hello.\\nExecutive: Haan ji.\\nCustomer: Mera profile mein bhi aa jayega na pata lag jayega. Dash box mein mera kitna number hai?\\nCustomer: Hello.\\nExecutive: Haan ji haan ji sir.\\nCustomer: Main kaha ye mera number isme folder mein nazar aa jayega IndiaMART ke setting mein ya buyer leads profile mein aa jayega pata lag jayega?\\nExecutive: Haan aapka 8047 main batau number aapko? Haan boliye 8047\\nCustomer: 6340\\nExecutive: 6340 78\\nCustomer: 78 Lekin sir ye aap us matlab aapka toh sara number hi hai na ye aise kariye jo IndiaMART mein add na ho.\\nCustomer: Woh meri kripa number bhi jaach kar lo.\\nExecutive: Ji. Achha dusre wale se karwaun fir?\\nCustomer: Haan haan.\\nCustomer: Chaliye theek hai ek baar karwa ke dekhta hu fir aur kya. Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving calls.\\n\n- Wants to check if Truecaller is the issue.\\n\n- Wants to know his number in IndiaMART profile.\\n\n\\n\nResolution:\\n\n- Executive suggested uninstalling Truecaller.\\n\n- Executive provided PNS number to call and check.\\n\n- Executive provided the customer's registered number.\\n\n\\n\nNext Steps: \\n\n- Customer will check by calling from another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, truecaller, pns number, profile\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 179,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=77a36322-069f-4572-a5f5-40b988972570",
+  "ucid": "77a36322-069f-4572-a5f5-40b988972570",
+  "seller_categories": [
+    {
+      "mcat_id": "15785",
+      "mcat_name": "Iron Bolt"
+    },
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "1341",
+      "mcat_name": "Bolts"
+    },
+    {
+      "mcat_id": "33373",
+      "mcat_name": "Metal Nuts"
+    },
+    {
+      "mcat_id": "221304",
+      "mcat_name": "Iron Threaded Rods"
+    }
+  ]
+}

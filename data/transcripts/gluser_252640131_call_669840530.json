@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669840530",
+  "gluser_id": "252640131",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Sitamarhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648299",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Mangal Bhavan Amangal Hari\\nTravahu Sudasrath Ajir Bihari\\nHello\\nExecutive: Bolo\\nCustomer: Hello ha mai sir Ramu\\nExecutive: Bolo\\nCustomer: Ha Ramu sir very good afternoon maine aap se kal baat ki thi na director baat kar rahi hu sir India Mart se\\nExecutive: Bolo\\nCustomer: Haan ji to kal meri aapse baat hui thi sir maine aapko bola tha ki mai aapko sham tak batati hu ki refund ka kya status hai right sir aapne mujhse refund ke liye bola tha na\\nExecutive: Ha bolo\\nCustomer: Hello\\nExecutive: Ha ha mai sun raha hu bolo na\\nCustomer: Ha ha to actually sir hum karte to nahi hai refund but kyuki aapne mujhe bola to mere ko aaj morning me hi uska approval mila ki yes hum kar rahe hai aur uske baad sir jab mere ko approval mila to 10:30 ke aas pass Imran ne aapko phone bhi kiya ki sir hum aapka ye service band kar rahe hai aur aap\\nJaise ki aapka aur mera discussion hua tha ki jo bhi service aapne chalaya wo deduct karke baki amount ka kar de rahe hai refund aapka to wo mai initiate kara rahi hu sir\\nHmm\\nCustomer: Hello\\nExecutive: Ha boliye mai sun raha hu\\nCustomer: Ha ha to bas maine aapko sir yahi batane ke liye phone kiya tha do hum aise refund nahi karte but aapne mujhe bataya lead nahi hai hamare pass aur aapne mujhe apni problem batai sir maine approval liya aaj subah aur mai aapki service aaj band kara ke refund initiate kara dungi aur aapke pass refund sir five to six working days me aapke source account me credit ho jayega matlab jis account se aapne hame paisa diya tha IndiaMART ko usi account me aapka paisa refund ho jayega sir\\nCustomer: Chalo thik hai\\nCustomer: Aap bataiye sir kya aur mai aapki help kar sakti hu\\nCustomer: Nahi nahi bas bas mujhe sone do\\nExecutive: Thik hai sir to mai ye ticket abhi complaint close kar du sir aapka dekho aapne request kiya sir maine samjha mai aapka paisa refund kar rahi hu but sir jo service chal chuka hai na wo to deduct karna hoyega na kyuki IndiaMART ki bhi costing lagti hai Ramuji isme\\nCustomer: Kaise costing lagega galti kiska hai\\nCustomer: Ah galti\\nCustomer: Sir dekho service to\\nCustomer: Galti isme kiska hai\\nCustomer: Sir dekho galti to aisa nahi contract to dekho sir aapne sign kiya hai sir hai na\\nCustomer: Contract kisko bolta hai IndiaMART ko pehle pata hai\\nCustomer: Mai bhi contract ek deta hu contract ek paper banta hai thik hai\\nExecutive: Hmm\\nCustomer: Muh se bolne se contract nahi ban jata hai\\nExecutive: Sir mai aapki baat samajh rahi hu lead aapne li hai do mahine me kam li hai nahi ho paya conversion hai na sir to lekin humne ye pura design kiya hai na kahi na kahi sir dekho aap\\nCustomer: Madam wo galti IndiaMART ki hai mera nahi hai thik hai\\nCustomer: Usne design kare ya mai hi kisi kisi ko plant bechenge thik hai agar wo plant fail ho jayega to hum bolenge client ko ki nahi mai to aapka aake dunga paisa to chalega\\nExecutive: Sir aapki baat\\nCustomer: Ye to sara galat hai\\nExecutive: Ha mai samajh rahi hu lekin sir dekho pehle to dekho ye refund hota bhi nahi tha aapne mujhe bola mujhe uska approval aaj subah mila sir I am sorry mai aapko maine aapko sir sham ko bola tha sham ko nahi ho paya sir mai aapko sorry bolti hu is chiz ke liye aaj subah hi mujhe approval mila aur maine immediately Imran ko bol bol ke ki sir ko bol do hum kar rahe hai refund process aaj hi karwa denge refund process sir iska jo time leta hai wo lega sir\\nCustomer: Madam itna time leta hai\\nCustomer: Meri baat suno phone aaj ke baad nahi aana chahiye jo refund karna hai kar do mai kuch nahi bolunga aaj ke baad mere pass phone hi nahi aana chahiye aap log\\nExecutive: Sir aapki koi query hai to aap phone kar lijiyega\\nCustomer: Chalo thik hai\\nExecutive: Thank you sir\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the service.\\n\n- Customer questions the deduction for service usage.\\n\n- Customer does not want any calls in future.\\n\n\\n\nResolution:\\n\n- Executive approved the refund request.\\n\n- Executive will initiate the refund process.\\n\n- Executive assured refund in 5-6 working days.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, service, costing\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 225,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e7c263fa-9610-41c3-8b39-4a6b0ea180bf",
+  "ucid": "e7c263fa-9610-41c3-8b39-4a6b0ea180bf",
+  "seller_categories": [
+    {
+      "mcat_id": "3349",
+      "mcat_name": "Water Filtration Plant"
+    },
+    {
+      "mcat_id": "182664",
+      "mcat_name": "Water Plant Machinery"
+    },
+    {
+      "mcat_id": "20507",
+      "mcat_name": "Ultrafiltration Membranes"
+    },
+    {
+      "mcat_id": "21376",
+      "mcat_name": "Air Compressor Motor"
+    },
+    {
+      "mcat_id": "40475",
+      "mcat_name": "Ultrafiltration System"
+    }
+  ]
+}

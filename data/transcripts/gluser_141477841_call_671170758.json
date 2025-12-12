@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671170758",
+  "gluser_id": "141477841",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673313",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\n\\n\\nHello.\\nCustomer: Hello? Sir.\\nExecutive: Namaste sir, ji sir.\\nCustomer: Haan ji sir, ye Greater Noida ki, haan Greater Noida ki thi na ye aapki jo, bhai ji iski Greater Noida. Ji.\\nExecutive: Ji sir, ji sir.\\nCustomer: 25 KV ki thi ji, haan. To aapne iske baare mein kya hua?\\nExecutive: Inse call kiya tha sir maine?\\nCustomer: Haan haan, kya hua?\\nExecutive: To maine ki sir aapko 25 KV transformer ki requirement thi, na hame koi transformer ki requirement na hai. Maine aapne IndiaMART pe daal rakha tha. Kena humne koi na daala IndiaMART pe kuch bhi.\\nCustomer: Ye chalo aapki ek ye ho gayi, aur company ek ek aur bata rahe the.\\nExecutive: Ek to maine kal parso daala tha wo kal parso ki baat hai, maine to kal se meri to lead hi expire hone wali hai, 6-7 lead padi hai khatam hone wali hai. Kyunki wo inquiry aa na rahi hai.\\nCustomer: To aapko inquiry mil jaayengi na.\\nExecutive: Haan jab inquiry aa hi na rahi to call kaha karu sir? Isliye lead kharab ho jaayengi, abhi option aaya tha inquiry lead expire hone wali hai. Kaha call karu jab inquiry na aaye to sir?\\nCustomer: Inquiry mein ek second mein check kar raha hu. Aur lo ab to mujhe complaint hai na, aap jo bata rahe the mujhe do do-char baar aapse baat hui hai. Bas aapka complaint yahi rehta hai na ki aapko fake lead aa rahe hai.\\nExecutive: Thik hai.\\nCustomer: Hai na? Ye sun lo, hello. Sun lo mamme apni baat.\\nExecutive: Fake lead bahut hai sir mere paas.\\nCustomer: Haan to main isliye main bhi baat kara raha hu, unko ye ki pura complaint batao. Suno sir baat.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving fake leads.\\n\n- Leads are expiring due to no inquiries.\\n\n\\n\nResolution:\\n\n- Executive is checking the inquiry details.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, expiring leads, fake leads\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 101,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76a76ef0-8c5d-4d5e-adaf-4def2e700e16",
+  "ucid": "76a76ef0-8c5d-4d5e-adaf-4def2e700e16",
+  "seller_categories": [
+    {
+      "mcat_id": "2416",
+      "mcat_name": "Three Phase Distribution Transformers"
+    },
+    {
+      "mcat_id": "140821",
+      "mcat_name": "Used Transformer"
+    },
+    {
+      "mcat_id": "27622",
+      "mcat_name": "Electrical Transformer"
+    },
+    {
+      "mcat_id": "11667",
+      "mcat_name": "Distribution Transformer"
+    },
+    {
+      "mcat_id": "17854",
+      "mcat_name": "Oil-Cooled Distribution Transformer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668194528",
+  "gluser_id": "118060066",
+  "vintage_months": 30,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9625948",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Madam thoda der mein call karta hu madam.\\nExecutive: Thik hai sir, kisi pe bhi aap kar sakte hai. Sir main kar rahi thi but ye ha kisi se bhi kar sakte hai. Wo direct number hai WhatsApp pe bhi hai. Kisi pe bhi kar sakte ho aap.\\nCustomer: Achcha achcha okay okay aur direct aapka number hai?\\nExecutive: Ha direct number hai wo mera. Thik hai.\\nCustomer: Okay okay main karta hu main karta hu.\\nExecutive: Okay bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call later.\\n\n\\n\nResolution:\\n\n- Executive confirmed customer can call on direct number.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- direct number, whatsapp\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=190609d9-239d-4197-84fb-34df5d4d5db7",
+  "ucid": "190609d9-239d-4197-84fb-34df5d4d5db7",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "24633",
+      "mcat_name": "Cement Pipes"
+    },
+    {
+      "mcat_id": "38247",
+      "mcat_name": "Spun Pipes"
+    },
+    {
+      "mcat_id": "190163",
+      "mcat_name": "RCC Half Round Pipe"
+    }
+  ]
+}

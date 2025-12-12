@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666874173",
+  "gluser_id": "46924328",
+  "vintage_months": 10,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Jaitu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9624696",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji. Ji namaskar sir, Prabhat baat kar raha hu IndiaMART se, premium manager.\\nCustomer: Haan ji.\\nExecutive: Ji main dekh raha tha aapka ek profile chal raha hai sir IndiaMART par, Velco Laboratory ke naam se, correct?\\nCustomer: Haan ji.\\nExecutive: Toh, ji ji. Batayiye sir isme aapka profile Smita ji dekh rahi hain. Kya issue aa raha hai koi service me dikkat aa rahi hai?\\nCustomer: Haan ji?\\nExecutive: Sir aapki services chal rahi hai IndiaMART par na Velco Velco Laboratory.\\nCustomer: Sir main drive kar raha hu sir, drive kar raha hu main ruk ke karta hu aapko.\\nExecutive: Theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Inquiring about service-related issues.\\n- Unable to talk while driving.\\n\\n\\nResolution:\\n\\n- None, as the customer was driving.\\n\\n\\nNext Steps: \\nCustomer will call back after stopping.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent -> Non-urgent\\n\\n@@@Key Topics:\\n- service inquiry, profile check, driving\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1282de0b-cbcd-4fef-9971-940ee5a99521",
+  "ucid": "1282de0b-cbcd-4fef-9971-940ee5a99521",
+  "seller_categories": [
+    {
+      "mcat_id": "192608",
+      "mcat_name": "Floor Tile Adhesive"
+    },
+    {
+      "mcat_id": "27940",
+      "mcat_name": "Epoxy Grout"
+    },
+    {
+      "mcat_id": "38944",
+      "mcat_name": "Tile Adhesives"
+    },
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "189085",
+      "mcat_name": "Ceramic Tile Adhesives"
+    }
+  ]
+}

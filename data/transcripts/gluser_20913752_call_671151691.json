@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671151691",
+  "gluser_id": "20913752",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Rajouri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671545",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a16f6123-649c-439d-898f-12f7327f57b9",
+  "ucid": "a16f6123-649c-439d-898f-12f7327f57b9",
+  "seller_categories": [
+    {
+      "mcat_id": "141966",
+      "mcat_name": "Power Weeder"
+    },
+    {
+      "mcat_id": "35540",
+      "mcat_name": "Power Tiller"
+    },
+    {
+      "mcat_id": "139284",
+      "mcat_name": "Electric Chaff Cutter"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "655730",
+      "mcat_name": "Kirloskar Power Weeder"
+    }
+  ]
+}

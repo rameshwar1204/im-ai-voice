@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670419607",
+  "gluser_id": "13082969",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Modinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628437",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello.\\nCustomer: Hello. Haan ji.\\nExecutive: Haan ji sir. Sir, main IndiaMART se Sweta baat kar rahi hu, aapke account manager.\\nCustomer: Ji, ma'am.\\nExecutive: Haan ji. Sir, isme kuch doubts the, sir ne isliye bola call back karne ko.\\nCustomer: Mujhe iske bare mein jankari nahi hai. Thoda to mujhe guide kar dijiye kaise-kaise karna hai isme. Kahan par, maaliye photo vagera dalni hai ya party kahan se milengi mujhe isme? Unse baat kaise ho payegi? Thoda sa mujhe ye bata do. Abhi to login to main ho gaya hu ispe. Maine email ID vagera bhi set kar li hai.\\nExecutive: Aapki voice break ho rahi hai.\\nExecutive: Aapki voice break. Hello.\\nCustomer: Ab aa rahi hai ji?\\nExecutive: Main call pe karti hu.\\nCustomer: Karo.\\nExecutive: Sir, main na number WhatsApp kar rahi hu, aap us pe call back kar lijiye because number aapki na voice break ho rahi hai sir.\\nCustomer: Theek hai ji.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs guidance on using IndiaMART.\\n\n- Customer wants to know how to upload photos.\\n\n- Customer wants to know how to find parties.\\n\n- Customer wants to know how to contact them.\\n\n\\n\nResolution:\\n\n- Executive will WhatsApp number for callback due to voice break.\\n\n\\n\nNext Steps: \\n\n- Customer will call back on the provided number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- guidance, account, callback, voice break\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5989d428-161d-41ee-a518-f96b1ff16dd6",
+  "ucid": "5989d428-161d-41ee-a518-f96b1ff16dd6",
+  "seller_categories": [
+    {
+      "mcat_id": "7627",
+      "mcat_name": "Sofa Covers"
+    },
+    {
+      "mcat_id": "185588",
+      "mcat_name": "Designer Lehenga Choli"
+    },
+    {
+      "mcat_id": "5763",
+      "mcat_name": "Party Gowns"
+    },
+    {
+      "mcat_id": "184596",
+      "mcat_name": "Velvet Bed Sheet"
+    },
+    {
+      "mcat_id": "185568",
+      "mcat_name": "Designer Lehenga"
+    }
+  ]
+}

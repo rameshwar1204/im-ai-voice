@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673237256",
+  "gluser_id": "255503678",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Sitapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691823",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=be82114b-8e77-4003-8c18-6c219f2a0d0e",
+  "ucid": "be82114b-8e77-4003-8c18-6c219f2a0d0e",
+  "seller_categories": [
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "180824",
+      "mcat_name": "Sliding Wardrobe"
+    },
+    {
+      "mcat_id": "154084",
+      "mcat_name": "Wooden Modular Kitchen"
+    },
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "106724",
+      "mcat_name": "Furniture Design Service"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668037038",
+  "gluser_id": "30690760",
+  "vintage_months": 16,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalitpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636897",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ye mere ko bol de rahe na ye phone nahi de rahe.\\n\\nHello? Hello? Haan sir login kar liya hai aap aa jao meeting mein. Join kar lo.\\nExecutive: Ji sir.\\nCustomer: Sir aaiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is complaining about not receiving a phone.\\n\n- Customer asks the executive to join.\\n\n\\n\nResolution:\\n\n- Executive confirmed that he has logged in.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, login, phone\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=15ae9586-9134-450d-aa45-524d9e9766f1",
+  "ucid": "15ae9586-9134-450d-aa45-524d9e9766f1",
+  "seller_categories": [
+    {
+      "mcat_id": "182871",
+      "mcat_name": "Brother Multifunction Printer"
+    },
+    {
+      "mcat_id": "184886",
+      "mcat_name": "HP Laserjet Printer"
+    },
+    {
+      "mcat_id": "180965",
+      "mcat_name": "Brother Laser Printer"
+    },
+    {
+      "mcat_id": "182129",
+      "mcat_name": "Epson Photo Printer"
+    },
+    {
+      "mcat_id": "182397",
+      "mcat_name": "HP Multifunction Printer"
+    }
+  ]
+}

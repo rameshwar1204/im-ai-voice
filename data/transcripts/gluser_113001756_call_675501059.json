@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675501059",
+  "gluser_id": "113001756",
+  "vintage_months": 7,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715038",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello?\\nCustomer: Ha sir suniye main na thoda bahar nikli hu aap mujhe 4 baje call kar sakte ho kya main thoda aaram se baat kar paungi.\\nExecutive: Theek hai main aapko 4 baje call karunga mam ye bata raha hu ki main aapka ticket close kar de raha hu yaha se theek hai na.\\nCustomer: Ha main aapko feedback provide kar dungi.\\nExecutive: Email pe jayega feedback to usme aapko option aayega jo bhi valuable hoga satisfy ho gaya us number pe jayega.\\nCustomer: Ji ji main aapko ha ha aapko bata dungi theek hai.\\nExecutive: Theek hai 4 baje tak.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back at 4 PM due to being outside.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 4 PM.\\n\n- Executive will close the ticket.\\n\n- Customer will provide feedback via email.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, feedback, ticket closure\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a2c1d0d5-94ac-4a12-94e9-651a061de28e",
+  "ucid": "a2c1d0d5-94ac-4a12-94e9-651a061de28e",
+  "seller_categories": [
+    {
+      "mcat_id": "56268",
+      "mcat_name": "False Ceiling Services"
+    },
+    {
+      "mcat_id": "170749",
+      "mcat_name": "Shop Interior Designing"
+    },
+    {
+      "mcat_id": "31028",
+      "mcat_name": "Interior Decorators"
+    },
+    {
+      "mcat_id": "167910",
+      "mcat_name": "False Ceiling Designing"
+    },
+    {
+      "mcat_id": "147295",
+      "mcat_name": "Showroom Interior Designing"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673013436",
+  "gluser_id": "155333307",
+  "vintage_months": 4,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Rajpur Sonarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan sir, India Mart se bol raha hu sir.\\nExecutive: [inaudible] sir. Haan haan. 10 minute mein call kariye sir, aa gaya hu, kar deta hu. Ek customer hai, kar deta hu.\\nCustomer: Theek hai, toh 10 minute mein main aapko call kar aapke.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is calling from India Mart.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back in 10 minutes.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia mart, callback\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76cdd8e9-a491-4ed3-885f-3aac02f0da3e",
+  "ucid": "76cdd8e9-a491-4ed3-885f-3aac02f0da3e",
+  "seller_categories": [
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "143856",
+      "mcat_name": "3D Wall Panel"
+    },
+    {
+      "mcat_id": "166726",
+      "mcat_name": "Elevation Tile"
+    }
+  ]
+}

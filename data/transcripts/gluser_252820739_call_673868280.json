@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673868280",
+  "gluser_id": "252820739",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Aska",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689596",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji.\\n\\nExecutive: Ha me ye mai Tushar bol raha tha ye\\n\\nCustomer: Hello\\n\\nCustomer: Hanji hanji bataiye.\\n\\nExecutive: Ha ye mera jo catalog hai na usme se jo construction ka kam jo hai wo hata dijiye.\\n\\nExecutive: Kaunsi company se baat kar rahe ho sir?\\n\\nCustomer: Hello\\n\\nExecutive: Kaunsi company se baat kar rahe hai aap?\\n\\nCustomer: Mai Tushar bol raha hu ye jo India Mart se maine jo open nahi kiya tha maine.\\n\\nExecutive: Sir apni company ka naam bata denge aap ek baar mujhe?\\n\\nCustomer: Tushar Kant company ka naam to aise dala nahi hai.\\n\\nExecutive: Ha?\\n\\nCustomer: Company ka naam to dala nahi hai aisa kuch.\\n\\nExecutive: Aapki company ka naam nahi hai koi?\\n\\nCustomer: Nahi nahi company ka naam to kuch nahi hai.\\n\\nExecutive: Tushar Kant\\n\\nExecutive: Accha registered number bata dijiye apna ek.\\n\\nCustomer: 9035\\n\\nExecutive: 9035\\n\\nCustomer: 277\\n\\nExecutive: 277\\n\\nCustomer: 931\\n\\nExecutive: Tushar Kant Pradhan.\\n\\nCustomer: Ji ji.\\n\\nExecutive: Bataye sir bataye kya dikkat aa raha hai?\\n\\nCustomer: Ye ye jo ye jo construction ka hai na hamara jo product me.\\n\\nExecutive: Ji ji ji.\\n\\nCustomer: Wo construction ka pura hata dijiye sab kuch.\\n\\nExecutive: Matlab remove kar de?\\n\\nCustomer: Ha remove kar dijiye.\\n\\nExecutive: Thik hai sir thik hai mai kar deti hu sir thik hai.\\n\\nCustomer: Ha wo sab kar dijiye.\\n\\nExecutive: Kar dijiye thik hai mai kar deti hu sir thik hai.\\n\\nCustomer: Thik thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to remove construction work from catalog.\\n\n\\n\nResolution:\\n\n- Executive agreed to remove construction work.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, remove, construction\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a72a7a3-f3d1-4ae1-be5d-04a44e18179c",
+  "ucid": "7a72a7a3-f3d1-4ae1-be5d-04a44e18179c",
+  "seller_categories": [
+    {
+      "mcat_id": "23855",
+      "mcat_name": "Broken Rice"
+    },
+    {
+      "mcat_id": "5758",
+      "mcat_name": "Parboiled Rice"
+    },
+    {
+      "mcat_id": "217092",
+      "mcat_name": "IR-64 Rice"
+    },
+    {
+      "mcat_id": "218456",
+      "mcat_name": "IR 36 Rice"
+    },
+    {
+      "mcat_id": "152943",
+      "mcat_name": "Sona Masoori Rice"
+    }
+  ]
+}

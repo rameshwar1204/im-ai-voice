@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676631973",
+  "gluser_id": "249462066",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Ghazipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694019",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Kaun Kadir sahab bol raha hai?\\n\\nExecutive: Nahi IndiaMART se laga hai aapne bataiye sir kya help kar sakte hai.\\n\\nCustomer: Kaun bol raha hai?\\n\\nExecutive: Aapne sir kaha lagaya call?\\n\\nCustomer: Mai IndiaMART me lagaya mera account manager ko laga kya puch raha hai mujhe.\\n\\nExecutive: Uh sir ye account manager number nahi hai ye IndiaMART ka number hai sir.\\nAapke dashboard pe account manager ka number likha hoga aap waha call kar lijiyega.\\n\\nCustomer: Hello.\\n\\nExecutive: Ha.\\n\\nCustomer: Hello.\\n\\nExecutive: Sir aapke dashboard pe ek bar click kar lijiye waha pe account manager.\\n\\nCustomer: Nahi dashboard pe click karega to mai call lagayega to uske paas hi lagega na.\\n\\nExecutive: Hanji sir wahi call lagega.\\n\\nCustomer: Lekin kyu nahi lag raha hai abhi?\\n\\nExecutive: Sir 6 baje ke baad office off ho jata hai aap message dal dijiye agar nahi lag raha hai call to.\\n\\nExecutive: Ya aap bata dijiye kya concern hai mai aage mail dal deta hu wo call kar lenge aapko.\\n\\nCustomer: Complaint nahi hai mera ticket star liya hai ticket star lene ke baad mera char panch inquiry aa raha hai mai itna paisa invest karne ke baad.\\n\\nExecutive: Sir company ka naam ek bar bata denge mere ko.\\n\\nCustomer: Sashtri Enterprise.\\n\\nExecutive: Sashtri Enterprise?\\n\\nCustomer: Hmm.\\n\\nExecutive: Thik hai.\\n\\nCustomer: Itna paisa invest karne ke baad inquiry itna slow kyu aa rahi hai?\\n\\nExecutive: Koi baat nahi sir check karwa leta hu mail dal deta hu ek bar.\\nWo check kar lenge aur aapko call back kar lenge sir. Thik hai?\\n\\nCustomer: Kab call back karega?\\n\\nExecutive: Sir subah 10 baje se 6 baje tak ka office hota hai aapko call back subah hi morning me aa jayega.\\n\\nCustomer: Mera itna call itna aap dekho ek bar check karo to aaj ka din me kitna inquiry aaya.\\n\\n(silence)\\n\\nExecutive: Hello.\\n\\nExecutive: Sir maine concern aapka mention kar liya hai mai mail kar deta hu aapke paas subah connect ho jayega call aa jayega wo definitely aap.\\n\\nCustomer: Check kiya inquiry kitna aaya?\\n\\nExecutive: Sir office off ho rakha hai sir.\\n\\nCustomer: Are aap to check kar sakte hai na.\\n\\nExecutive: Sir office off ho rakha hai sir hum check nahi kar sakte aapka account manager check kar sakta hai sir.\\n\\nCustomer: Thik hai ji kya chal raha hai. Mail maine mail matlab dal deta hu.\\nAapke paas ek bar Kadir ji phone kar lenge sir thik hai?\\n\\nCustomer: Kadir ji kya phone karega itna din se bol raha hai paisa do paisa de raha hai to inquiry nahi badh raha hai ye kya chal raha hai samajh me nahi aa rahi hai.\\n\\nExecutive: Sir ek ek din ka time de dijiye bas mai subah aapko call arrange karata hu please sir.\\n\\nCustomer: Thik hai phir.\\n\\nExecutive: Ji sir good night sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting low buyleads after subscription.\\n\n- Wants to know the number of inquiries today.\\n\n\\n\nResolution:\\n\n- Executive assured to forward the concern via mail.\\n\n- Executive informed about office timings.\\n\n\\n\nNext Steps: \\n\n- Executive will arrange a call in the morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, account manager\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 204,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ce17db3-0cbf-496f-9239-e6df49a3b639",
+  "ucid": "4ce17db3-0cbf-496f-9239-e6df49a3b639",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "148874",
+      "mcat_name": "Water Tank Construction Services"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168570",
+      "mcat_name": "Unskilled Labour Service"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668026574",
+  "gluser_id": "30690760",
+  "vintage_months": 16,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalitpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636897",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Anand ji baat kar rahe ho sir?\\nCustomer: Ha ji.\\nExecutive: Namaskar sir, mai Adarsh baat kar raha hu. Kaise ho aap?\\nCustomer: Kaha se?\\nExecutive: Sir IndiaMART head office se.\\nAapki company hai na Galaxy computer karke.\\nCustomer: Ek minute baat kar raha hu bhaiya.\\nExecutive: Thik hai.\\nCustomer: Hello.\\nExecutive: Ji sir aapne kal call kiya tha 5 tarikh ko tender ke regarding information ke liye.\\nCustomer: Yes sir yes sir maine call kiya tha aapko.\\nExecutive: Wo ho gaya sir?\\nCustomer: Nahi sir wo show nahi kar raha hai.\\nExecutive: To ek bar aap meeting me aa jao.\\nEk bar mail open kar lijiye sir aap.\\nCustomer: Ha, mai mail open kar raha hu sir, ek second. Invitation gaya hoga aapko Adarsh.jaiswal.indiamart ke name se.\\nCustomer: Registered mail pe na sir?\\nExecutive: Ha, mai kis pe gaya mai bata de raha hu.\\nHa aa gayi sir aapki invitation aa gayi sir ispe. Open karke join kar lijiye.\\nCustomer: Ek second sir.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says tender is not showing.\\n\n\\n\nResolution:\\n\n- Executive asked customer to join meeting.\\n- Executive asked customer to open mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tender, meeting, invitation\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0121e60a-f383-490a-8b05-8604a7c4b303",
+  "ucid": "0121e60a-f383-490a-8b05-8604a7c4b303",
+  "seller_categories": [
+    {
+      "mcat_id": "182871",
+      "mcat_name": "Brother Multifunction Printer"
+    },
+    {
+      "mcat_id": "184886",
+      "mcat_name": "HP Laserjet Printer"
+    },
+    {
+      "mcat_id": "180965",
+      "mcat_name": "Brother Laser Printer"
+    },
+    {
+      "mcat_id": "182129",
+      "mcat_name": "Epson Photo Printer"
+    },
+    {
+      "mcat_id": "182397",
+      "mcat_name": "HP Multifunction Printer"
+    }
+  ]
+}

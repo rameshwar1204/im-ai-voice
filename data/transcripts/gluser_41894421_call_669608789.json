@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669608789",
+  "gluser_id": "41894421",
+  "vintage_months": 4,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Hoshiarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nHello\\nCustomer: Haanji.\\nExecutive: Ji sir.\\nCustomer: Haanji sir kal call aayi si.\\nExecutive: Haan sir mein sada balance amount account bol raha tha.\\nCustomer: Haanji haanji.\\nCustomer: Toh unhone bataya tha ki hamare yahan se na call attend nahi ho rahi customer ki.\\n\\nExecutive: Toh kaise kya tha sir ek baar bataiye na dobara.\\nCustomer: Phone aaya tha ki hamare yahan se call attend nahi ho rahi customer se.\\nExecutive: Ji ji ji.\\nExecutive: Ji ji. Toh abhi maine sara record check karwaya hai hamare ko call nahi aa rahi.\\nExecutive: Message aa raha hai customer ka inquiry ka uska hum reply kar rahe hain lekin call nahi aa rahi kisi bhi number pe.\\nCustomer: Ji.\\nExecutive: Matlab sirf message aa raha hai ki woh aapke paas call aaya.\\nCustomer: Aur baki aapke paas call nahi aata.\\nExecutive: Call nahi aa rahi.\\nExecutive: Sir kal aapko main abhi main bol raha hu ki aapne bola tha na ki main employee rakha hu aur main check karwati hu.\\nExecutive: Haan nahi maine sara check karwaya hai call nahi aa rahi.\\nExecutive: Message unhone dikhaye hume jitne customer message karte hain inquiry ke liye toh unko humne reply bhi kara hua hai lekin hume call nahi aa raha koi aap apni taraf se check karwaiye ki hume call aa kyun nahi raha.\\nCustomer: Ji.\\nExecutive: Toh sir se true caller toh nahi hai.\\nCustomer: Haanji.\\nExecutive: Jis mobile pe call aati hai usme true caller toh nahi hai.\\nCustomer: Hai hai.\\nExecutive: Sir kyunki true caller jo hota hai na ye jo call aati hai na ek single number se hi aati hai aapke paas aur woh aapke spam show karta hai.\\nCustomer: Toh woh hata dunga.\\nExecutive: Haan true caller aap hata dijiye baki sir ek baar mujhe whatsapp pe text kar dijiye main aaj thoda sa chutti pe tha sir mein shadi thi toh kal mein dobara jaunga office.\\nExecutive: Toh dobara mein kal aapse connect karta hu aur jo basically cheeze aur hoti hai jiski wajah se call nahi aati woh sari cheeze check kar leta hu.\\nCustomer: Theek hai aap mere ko ek aur message kar doge ki ye number dusra hai na.\\nCustomer: Ab ek aur mere ko whatsapp message kar do.\\nExecutive: Haan aap mujhe company name bata dijiye.\\nCustomer: Kirpos switch gear.\\nExecutive: Kya sir?\\nCustomer: Kirpos switch gear.\\nExecutive: Oh oh okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving calls from IndiaMART.\\n\n- Only receiving messages from customers.\\n\n\\n\nResolution:\\n\n- Executive checked records, no calls received.\\n\n- Suggested removing Truecaller app.\\n\n- Executive will check other possible causes.\\n\n\\n\nNext Steps: \\n\n- Customer to send a WhatsApp message.\\n\n- Executive will call back tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, calls not receiving, truecaller\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 166,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=afbdcc11-17a9-4f2d-bbf1-19cc29f2166b",
+  "ucid": "afbdcc11-17a9-4f2d-bbf1-19cc29f2166b",
+  "seller_categories": [
+    {
+      "mcat_id": "127535",
+      "mcat_name": "Multi Strand Wire"
+    },
+    {
+      "mcat_id": "138787",
+      "mcat_name": "Concealed Metal Boxes"
+    },
+    {
+      "mcat_id": "181017",
+      "mcat_name": "One Way Modular Switch"
+    },
+    {
+      "mcat_id": "226794",
+      "mcat_name": "3 Phase Motor Starter"
+    },
+    {
+      "mcat_id": "191137",
+      "mcat_name": "GI Modular Box"
+    }
+  ]
+}

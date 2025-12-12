@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666784186",
+  "gluser_id": "136696088",
+  "vintage_months": 3,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9713939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello.\\nExecutive: Haan boliye bhaiya.\\nCustomer: Sir namaskar Abhishek baat kar raha hu IndiaMART se. Kaise hain aap sir?\\nExecutive: Ji ji boliye bhaiya.\\nCustomer: Sir wo service use nahi ho raha tha aap se aap se baat karne ke baad bhi wo bhi unhone kaha tha ki phone karenge mere paas phone kuch nahi aa raha phone kaat bhi rahe hain wo.\\nExecutive: Theek hai hum baat ko bolte hain unko.\\nCustomer: Bol rahe hain bhaiya.\\nExecutive: Boliye unko.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Service is not being used.\\n- Promised callback was not received.\\n- Calls are being disconnected by the support team.\\n\\n\\nResolution:\\n\\n- Promised to inform the concerned team about the issue.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will pass the information to the relevant team.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Annoyed | Risk of churn\\n\\n@@@Key Topics:\\n- service issue, callback, complaint, call disconnection\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d0c066a8-3d32-4869-8cc3-74ee3a9fbfa4",
+  "ucid": "d0c066a8-3d32-4869-8cc3-74ee3a9fbfa4",
+  "seller_categories": [
+    {
+      "mcat_id": "165819",
+      "mcat_name": "Home Painting Services"
+    },
+    {
+      "mcat_id": "118733",
+      "mcat_name": "Texture Painting Service"
+    },
+    {
+      "mcat_id": "118735",
+      "mcat_name": "Epoxy Painting Service"
+    },
+    {
+      "mcat_id": "118740",
+      "mcat_name": "Commercial Painting Service"
+    },
+    {
+      "mcat_id": "42853",
+      "mcat_name": "Interior and Exterior Painting Service"
+    }
+  ]
+}

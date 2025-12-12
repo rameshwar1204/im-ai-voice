@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669797111",
+  "gluser_id": "149331458",
+  "vintage_months": 41,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662110",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan madam, mujhe hai na Pune mein, mosquitonet wholesaler ko hai kya Pune mein?\\nExecutive: Aapke company se, sir aap konsi company se baat kar rahe hain?\\nCustomer: Ansh carpet.\\nExecutive: Ji bataye.\\nCustomer: Mujhe na Pune mein jo Arkage company hai na Arkage.\\nExecutive: Okay.\\nCustomer: Haan, unka number chahiye tha, mosquitonet banate hai na wo.\\nExecutive: Okay, sir, ek minute.\\nExecutive: Sir aap mere ko ek minute ka time dijiye, main check karke call back kar dunga aapko, theek hai? \\nCustomer: Haan, Pune mein Arkage karke hai, mosquitonet banate, unka number chahiye.\\nExecutive: Theek hai sir, ek minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Needs contact number of Arkage company in Pune.\\n\n- Arkage manufactures mosquito nets.\\n\n\\n\nResolution:\\n\n- Executive asked for a minute to check.\\n\n- Executive will call back after checking.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- contact details, mosquito net, wholesaler\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3ba2e6db-4b2c-4a39-b509-0f483a425b64",
+  "ucid": "3ba2e6db-4b2c-4a39-b509-0f483a425b64",
+  "seller_categories": [
+    {
+      "mcat_id": "218452",
+      "mcat_name": "Invisible Grill"
+    },
+    {
+      "mcat_id": "186452",
+      "mcat_name": "Sliding Mosquito Net"
+    },
+    {
+      "mcat_id": "3419",
+      "mcat_name": "Window Blinds"
+    },
+    {
+      "mcat_id": "117492",
+      "mcat_name": "Window Roller Blind"
+    },
+    {
+      "mcat_id": "127591",
+      "mcat_name": "Zebra Blinds"
+    }
+  ]
+}

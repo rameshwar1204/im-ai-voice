@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670853424",
+  "gluser_id": "246709147",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669840",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Haan ji sir so gaye the kya?\\nCustomer: Hello.\\nCustomer: Are sota hu ek se do ek se char chutti rehta hai lekin abhi main travelling mein hu sahab. Main wapis contact karta hu aapko.\\nExecutive: Please please. Are abhi nahi ho payega sir?\\nCustomer: Nahi nahi main abhi driving driving pe hu abhi do teen din nahi ho sakta.\\nExecutive: Achha driving pe ho aap? Do teen din tak nahi ho payega.\\nExecutive: To sir ye jo ticket jo raise ho rakha hai sir ise main abhi wo kar du close kar du sir? Kyunki aapka jo hai na wo video meeting se hi ho payega.\\nCustomer: Haan close close. Close close kar do.\\nExecutive: Theek hai ek sir wahi dikkat hai na aapko sir location ka?\\nCustomer: Haan barabar hai wahi tha.\\nExecutive: To wo to sir aaoge tabhi ho payega theek hai wo main kar lunga. Theek hai?\\nCustomer: Okay okay sir. Thank you.\\nExecutive: Call pe rehna sir mere ko main aapko whatsapp kar deta hu apna number theek hai ye se. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently driving and unavailable.\\n\n- Wants to resolve location issue.\\n\n\\n\nResolution:\\n\n- Executive offered to close the raised ticket.\\n\n- Executive will resolve location issue later.\\n\n\\n\nNext Steps: \\n\n- Executive will WhatsApp his number to customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, location, driving, video meeting\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=131f66c3-582e-48c3-b8ca-5ef4aaad9312",
+  "ucid": "131f66c3-582e-48c3-b8ca-5ef4aaad9312",
+  "seller_categories": [
+    {
+      "mcat_id": "152152",
+      "mcat_name": "Cotton Dhoti"
+    },
+    {
+      "mcat_id": "186426",
+      "mcat_name": "Cotton Printed Bed Sheet"
+    },
+    {
+      "mcat_id": "31958",
+      "mcat_name": "Men Kurtas"
+    },
+    {
+      "mcat_id": "177906",
+      "mcat_name": "King Size Bed Sheets"
+    },
+    {
+      "mcat_id": "8404",
+      "mcat_name": "Satin Bed Sheets"
+    }
+  ]
+}

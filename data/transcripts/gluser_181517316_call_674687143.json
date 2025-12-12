@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674687143",
+  "gluser_id": "181517316",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Tanuku",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji aapne phone kiya tha aapne?\\nCustomer: Ji, kis company se baat kar rahe hain sir?\\nExecutive: Kalyani, Kalyani, Kalyani.\\nCustomer: Ji ji sir baat karna chahte hain aapse ek minute sir.\\n\\nExecutive: Sir do minute baad main aapko call back kar raha hoon, theek hai?\\nCustomer: Achcha theek hai.\\nExecutive: Woh sir thoda sa busy hain.\\nCustomer: Achcha theek hai.\\nExecutive: Haan wohi refund vagera ko leke kuch updates hain woh sir aapko batayenge proper.\\nCustomer: Theek hai sir.\\nExecutive: Achcha do minute mein main kar raha hoon wapas call back. Matlab refund toh gaya na hath se nahi abhi?\\nCustomer: Refund aaya nahi hai abhi aapko mila nahi hai?\\nExecutive: Nahi nahi.\\nExecutive: Aap jis account se payment kiye the us us account mein check kar liya aapne?\\nCustomer: Jis account se payment bank of Baroda se kiya gaya tha abhi is baat.\\nExecutive: Dekhiye abhi do minute mein main do minute baad main wapas se call kar raha hoon abhi aapko jo hamare senior manager hai woh bata denge ki kis account se payment hua tha aur kis account mein gaya hua hai sari cheeze theek hai.\\nCustomer: Achcha theek hai theek hai okay.\\nExecutive: Aap please call receive kar lijiyega.\\nCustomer: Haan nahi main outside office hoon isi wajah se driving kar raha tha toh abhi main abhi free ho ke aapko phone kiya hoon abhi bhi driving nahi hoon main isliye main bol raha tha ki aap baat karwa dete toh jyada behtar hota.\\nExecutive: Woh call pe hain bas sir call disconnect ho unki toh karwa de achcha lijiye lijiye.\\nCustomer: Haan baat.\\n\\nExecutive: Hello\\nCustomer: Haan sunaiye sir.\\nExecutive: Ji sir. Sir woh aapka refund process ho gaya tha aapke account mein reflect kar diya tha ek baar aap check karwa lijiye apne account se aapke paas access hai toh aap ek baar check kar lijiye.\\nCustomer: Theek hai.\\nExecutive: Aapke paas message bhi aaya hoga sir. Haan haan.\\nCustomer: Mail aaya hua tha ki refund initiate ho gaya hai but matlab ki char panch din ka time diya gaya tha but uske baad hum logo ne dekha nahi hai kal tak koi credit aaya nahi tha lekin kahin aa gaya ho toh phir hum koi confirmation nahi kar sakte aap ek baar confirm karega kaun se account mein state bank ka account hai ya bank of Baroda mein gaya hai in dono mein se jo aapne last time receive.\\nExecutive: Ek minute check kar raha hoon ek minute rukiye. Haan.\\n\\nExecutive: Normally aap log isi account se payment karte hain na sir IndiaMART ko?\\nCustomer: Ji. Ji bhi clear hua tha ji bhi clear hua tha IndiaMART account ke fund net banking hai 3340. Haan sir ye aapka jo bank tha.\\nExecutive: SBI tha sir shayad SBI SBI.\\nCustomer: Kaun tha SBI State Bank of India.\\nExecutive: State Bank of India mein gaya hai?\\nExecutive: Ji.\\nCustomer: Oh State Bank of India mein gaya hua hai achcha ek minute ek minute 24 May mein aapne debit card se payment kiya tha 18000 debit debit debit card se kiya gaya tha State Bank ka India mein toh nahi hoga.\\nExecutive: Rukiye rukiye debit card wala chahiye. Bilkul bilkul bank of Baroda se tha bilkul sahi debit card se kiya tha bank of Baroda. Hame payment ek baar kiya tha aapne April 2024 mein woh SBI se tha phir baki jo aapne May mein kiya tha woh debit card se kiya tha 18285 ka.\\nCustomer: Toh bank of Baroda mein gaya last feed wala.\\nExecutive: Haan last 25 wala 1 May 25 ko 1 May ko. Haan 1 May 2025 ko payment kiya tha aapne debit card bank of Baroda se.\\nCustomer: Haan 1 May 2025 ko bank of Baroda se hai na? Ji bilkul sahi sir. Nahi toh kal tak toh kal tak toh refund nahi aaya hai.\\nExecutive: Thodi der aap check kar lijiye. Hmm. Aaj aaya ho toh nahi keh sakte lekin kal tak toh koi refund aaya nahi hai.\\nCustomer: Theek hai sir aap check kar lena woh bas jab aa jaye toh phir hum tabhi wapas check karenge vagera phone karenge isliye bas main follow up le raha tha theek hua hai ki nahi.\\nExecutive: Theek hai. Theek hai okay hum aapko update kar denge okay. Theek hai. Okay thank you so much thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund status.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund was initiated.\\n\n- Executive asked customer to check bank account.\\n\n- Executive clarified payment method and bank details.\\n\n\\n\nNext Steps: \\n\n- Customer will check and confirm.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, bank details, debit card\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 260,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=74843cfa-eef7-466b-8ec3-a223746841db",
+  "ucid": "74843cfa-eef7-466b-8ec3-a223746841db",
+  "seller_categories": [
+    {
+      "mcat_id": "167982",
+      "mcat_name": "Unsecured Personal Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "170840",
+      "mcat_name": "Small Business Loans"
+    },
+    {
+      "mcat_id": "29446",
+      "mcat_name": "Home Loan"
+    }
+  ]
+}

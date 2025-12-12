@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673860962",
+  "gluser_id": "120595518",
+  "vintage_months": 34,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669080",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan.\\nExecutive: Hello. Bolo.\\nCustomer: Haan, hello.\\nExecutive: Hello, Mukesh ji, good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Hello.\\nCustomer: Haan, bol raha hu.\\nExecutive: Hello.\\nCustomer: Sir, voice aa rahi hai aapko clear?\\nCustomer: Haan, aawaz aa rahi hai.\\nExecutive: Ghusse mein kyun bol rahe ho sir, kya baat ho gayi?\\nCustomer: Yaar mind kharab ho raha hai yaar.\\nExecutive: Hello.\\nCustomer: Kuch nahi hai.\\nExecutive: Busy ho kya sir abhi?\\nCustomer: Bolo na.\\nExecutive: Kya keh rahe hai?\\nExecutive: Sir, aapki voice na mujhe bahut dheere aa rahi hai, sunai nahi de raha hai sir mujhe kuch bhi.\\nCustomer: Bol toh raha hu main.\\nCustomer: Bol raha hu, haan.\\nExecutive: Haan.\\nExecutive: Theek hai, theek hai, theek hai Mukesh ji, no issue.\\nExecutive: Sir, calls vagerah jo aapne, sir, calls vagerah kyun nahi utha rahe ho sir aap, PNS calls?\\nCustomer: Madam, pata nahi yaar.\\nExecutive: Kya keh rahe hai sir?\\nCustomer: Pata nahi hai.\\nExecutive: Pata nahi hai sir, aapne isme do number registered hai na aapke, 375, 5966, toh inhi dono pe call aati hogi na sir aapke.\\nCustomer: Toh woh aaye toh na.\\nCustomer: Hmm.\\nCustomer: Nahi pata yaar.\\nExecutive: Sir, abhi agar aap busy hai toh baad mein baat kar lenge, no issue, but aap kuch bol nahi rahe ho sir.\\nCustomer: Bol toh raha hu main.\\nExecutive: Clear nahi aa rahi hai na, sir, voice clear nahi aa rahi hai mere ko, aap bahut dheere bol rahe ho.\\nCustomer: Actually,\\nCustomer: Thoda mind disturb hai yaar aur kuch nahi hai.\\nExecutive: Achha, theek hai sir, aapko kuch problem hai toh main aapko call baad mein kar lungi, theek hai sir?\\nCustomer: Aap toh jaante hi ho ke.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving PNS calls.\\n\n- Customer's voice is very low and unclear.\\n\n\\n\nResolution:\\n\n- Executive offered to call later due to customer's issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pns calls, voice issue, follow up\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 139,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=793ca3df-04aa-47ab-831d-73eef63d41c6",
+  "ucid": "793ca3df-04aa-47ab-831d-73eef63d41c6",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "11097",
+      "mcat_name": "Grain Cleaners"
+    },
+    {
+      "mcat_id": "227089",
+      "mcat_name": "Magnetic Destoner"
+    }
+  ]
+}

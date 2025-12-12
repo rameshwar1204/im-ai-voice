@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674778200",
+  "gluser_id": "18211578",
+  "vintage_months": 3,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708006",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Sir good evening sir.\\nCustomer: Good evening.\\nExecutive: Na Krishna pesranga India martla irunthu manager pesranga eppidi irukinga?\\nCustomer: Nalla irukku sir sollunga sir.\\nExecutive: Thank you sir eppidi poittu irukku sir business la?\\nCustomer: Sir edho order convert aagala sir call pandranga enquiry mattum poittu irukku sir.\\nExecutive: Okay ippo namma company vandhu paathinga na namma leads edukkura edukkuroam illanga.\\nCustomer: Oh.\\nExecutive: Leads edukkura ella location layum project aaga arambichiruchu ippo right now namma company chennai la irukkom correct ungala?\\nCustomer: Aama sir.\\nExecutive: Aana vandhu namma leads multiple location eduthuttu irukkom.\\nCustomer: Okay.\\nExecutive: Ippo namma vera location la branch illama India martla poi enna panniruvom appidina neenga leads edukkura location layellaam top la illanalum atleast oru andha andha location la project panni namakku vandhu enquiry vara project aayiduchu okay ungala?\\nCustomer: Okay.\\nExecutive: Appo neenga pan india follow pandra maathiri thaane namma.\\nCustomer: Aama sir india fulla pandradhukku ready sir.\\nExecutive: Okay appo neenga enna pandreenga na naan konjam catalog review pannikla konjam ensure pandren okay ungala?\\nCustomer: Saringa sir naan ippo oru company la irundhu ippodhaan driving la irukka naan.\\nExecutive: Okay.\\nCustomer: Okay call pannunga naan kandippa innoru time ready oru konjam free aayittu pesalaam sir oru 7:30 ku mela kuppittingala oru oru mannaeram kalichi.\\nExecutive: Okay sir okay sure sir.\\nCustomer: Enna neenga customer care kuppittirundhingala 96 ku?\\nExecutive: Puriyala sir.\\nCustomer: Customer care ku call pannirundhingala?\\nCustomer: Illa sir call laam pannala sir oru customer call pannaru oru meeting la irundhen.\\nExecutive: Aama.\\nCustomer: Just veliyila vandhu edukkirathukkulla cut aayiduchu adhukkappuram marubadiyum call panna customer care ku poyiduchu india martla irundhu.\\nExecutive: Appdingala seri sir okay okay.\\nCustomer: Okay naan complaint raise pannirukken.\\nExecutive: Ithu close pannikkalaama naan.\\nCustomer: Sir close panninga sir close panninga.\\nExecutive: Enna pathina feedback kum varum adhu mattum kodunga.\\nCustomer: Okay sir okay okay thank you sir anga satisfied na varum neenga free aayittu kuppittinga namakku whatsapp pandra aama okay.\\nExecutive: Thank you thank you.\\nCustomer: Thank you sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Order not converting, only enquiries coming.\\n\n- Customer was in a meeting when call came.\\n\n\\n\nResolution:\\n\n- Executive explained about lead projection in different locations.\\n\n- Executive offered to review the catalog.\\n\n- Executive will close the call.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after 7:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, pan india, enquiry\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ab9085a7-99cb-439b-abdb-956c6ee28c18",
+  "ucid": "ab9085a7-99cb-439b-abdb-956c6ee28c18",
+  "seller_categories": [
+    {
+      "mcat_id": "6048",
+      "mcat_name": "Plastic Crates"
+    },
+    {
+      "mcat_id": "6033",
+      "mcat_name": "Plastic Bins"
+    },
+    {
+      "mcat_id": "178133",
+      "mcat_name": "Polypropylene Corrugated Box"
+    },
+    {
+      "mcat_id": "209584",
+      "mcat_name": "Aristo Plastic Crates"
+    },
+    {
+      "mcat_id": "94738",
+      "mcat_name": "Plastic Storage Bin"
+    }
+  ]
+}

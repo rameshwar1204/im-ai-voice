@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670242392",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ilma ji?\\nCustomer: Hello. Ji Shrivastav.\\nExecutive: Ha Ilma ji. Ha Ilma ji mujhe ek cheez ek bataiye aap. Ke ye 9 tarikh ki jo lead hai mujhe 9 tarikh ko jo lead mili, thik hai?\\nCustomer: Hmm.\\nExecutive: Hello. 9 tarikh ko to wo lead actually to lagbhag 15 din pehle ki wo party mere ko bol rahi hai ki sir humko 15-20 din pehle ki hamari lead hai ye aur humko aap aaj phone kar rahe ho.\\nExecutive: To aapne wo lead aaj consume ki hai ya kab ka hai sir?\\nCustomer: 9 tarikh, 9 tarikh ko maine ki Sunday ko.\\nExecutive: Aapne 9 tarikh ko consume ki.\\nCustomer: Ha aur unka to [unintelligible] se dala hai.\\nCustomer: Ha wo bolna hai ki 15 din pehle hamara requirement tha koi kisi ka phone nahi aaya. To maine lead abhi li 9 tarikh ko hi li lead to. Aur ye dusri cheez ki ye jo bhi lead meri abhi aa rahi hai na jo lead hua hai na wo is a one time requirement is a user not a seller.\\nExecutive: Achha aisa hai?\\nCustomer: Kyuki buylead jo aati hai to humko sir aapko ha.\\nCustomer: Hmm.\\nCustomer: Madam mera actually samjho agar ha. Hmm.\\nCustomer: Mera actually kya hai mera ek hi hai ki agar ekadu aati hai to main samajh sakta hu. Ye main aaj main do-teen maine call kiya usme sab one time requirement wali aayi hai aur user hi hai. Main seller nahi hai seller hota hai to repeat business hone ka sambhavna rehta hai.\\nCustomer: Hmm. Aap bhi samajh sakte ho.\\nExecutive: Thik hai. Ji sir. To aisa karti hu main ek bar aapke account manager se bolti hu aapko call kare aap ek video meet aapke sath wo karwati hu schedule aur ek bar aap unse connect kijiye aur jo bhi cheeze hai wo rectify wo karengi usme aapke profile mein.\\nCustomer: Okay to abhi aap nahi aapka naam kya hai isme? karne ko. Thik hai aap mere ko bolo aur dusra wo dekhiye. Ha. Wo maine bheja tha wo dekha aapne? pucha abhi. Ha maine aapka check kiya sir. Ek bar ke liye wo maine bola hai team ko ek bar check karne ke liye hum kya kar sakte hai usme. Thik hai? To fir main aapko batati hu unki taraf se reply aaye to main fir aapko batati hu.\\nCustomer: Thik hai, okay.\\nExecutive: Thik hai main bolti hu aapke account manager se baat karwaiye. abhi manager kaun hai? aisa ha abhi available hu main abhi wo sab lead leke hi sab baat kar raha hu. Ha.\\nExecutive: Thik hai chaliye main unko bol rahi hu. abhi Okay abhi to account manager kaun hai to abhi kya naam hai unka?\\nExecutive: Bhumika Bhumika Bhumika Arora.\\nCustomer: Bhumika Arora. Thik hai aap mere ko baat karwaiye unse.\\nExecutive: Ji, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Lead received was 15-20 days old.\\n\n- Leads are one-time requirements, users, not sellers.\\n\n\\n\nResolution:\\n\n- Executive will schedule a video meet.\\n\n- Account manager will rectify profile issues.\\n\n\\n\nNext Steps: \\n\n- Executive will inform customer about team's reply.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, profile, one-time requirement\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 167,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7b1bcfef-fa25-45aa-a434-9b169c1018fa",
+  "ucid": "7b1bcfef-fa25-45aa-a434-9b169c1018fa",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

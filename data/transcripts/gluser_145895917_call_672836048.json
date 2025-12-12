@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672836048",
+  "gluser_id": "145895917",
+  "vintage_months": 18,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Pimpri Chinchwad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690017",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello yes sir.\\nCustomer: Haanji sir bataiye.\\nExecutive: Uh sir main green automation se bol raha hu.\\nCustomer: Okay.\\nExecutive: Uh main account mein dekh raha hu laptop mein open kiya hai to mujhe product add ka option hi nahi dikh raha hai.\\nExecutive: Ye aap\\nCustomer: Abhi khul gaya.\\nExecutive: Haan haan aap aap Nav Green isse bol rahe hai na Navratan Green Green Green automation and controls.\\nExecutive: Navratan Green Agro industry right.\\nCustomer: Nahi nahi nahi nahi Green automation.\\nExecutive: Okay Green automation please wait.\\nExecutive: Let me check.\\n\\nExecutive: Ye sir ye hai na Jio Green vermi compost.\\nCustomer: Hain?\\nExecutive: Sir aapke aapka jo industrial name hai wo yaha pe kya hai India mart par kya hai.\\nCustomer: Green automation and controls.\\nExecutive: Okay Green automation.\\nExecutive: And controls.\\nExecutive: Sir ek baar aap apna number batayenge.\\nCustomer: 98\\nExecutive: 98\\nCustomer: 34\\nExecutive: 34\\nCustomer: 07\\nExecutive: 07\\nCustomer: 47\\nExecutive: 47\\nCustomer: 29\\nExecutive: 29 Okay GAC engineering right.\\nCustomer: Hmm kya kya ha.\\nExecutive: GAC engineering nahi nahi nahi nahi sir wo alag company hai ek green automation and controls bhi registered hai.\\nExecutive: Okay green automation and control bhi registered hai.\\nExecutive: Sir usme jo aapka registered number hai primary number jo hai wo wo ek baar batayenge.\\nCustomer: Wahi hai sir 98 wala abhi jo bataya wo green automation and controls.\\nExecutive: And controls.\\nExecutive: Okay.\\n\\nExecutive: Ab ab sir bataye cheeze.\\nCustomer: Aage ab to mujhe product add karne ka option nahi mil raha hai sir.\\nExecutive: Sir lekin jitna main dekh pa raha hu iski to services hi nahi hai chalu ye to band hai.\\nCustomer: Haan lekin kuch product main add karna chahta hu samjho to kahan se karenge.\\nExecutive: Abhi okay sir main abhi batata hu.\\nExecutive: Abhi configure sir.\\nCustomer: Kya kya?\\n\\nExecutive: Hello.\\nCustomer: Haan boliye na.\\nExecutive: Achcha dekhiye agar aapko product add karne hai kuch to aapko apna seller panel open karna padega right.\\nCustomer: Seller tool mein jau kya.\\nExecutive: Haan seller panel open kariye sir.\\nExecutive: Okay aap use kaise karte hain aap use kaise karte hain phone se karte hain ya app ke through karte hain ya website chalate hain.\\nCustomer: Laptop laptop pe tha to wo nahi dikh raha tha theek hai abhi aa gaya sir theek hai theek hai.\\nExecutive: Lekin sir product add karke fayda to nahi hai kyuki dekhiye aap services use nahi hai matlab aapka to download ho chuka hai dekh raha tha.\\nCustomer: dekh raha tha.\\nExecutive: Haan.\\nCustomer: Sir ek ek cheez batayenge chalu karna hai service.\\nExecutive: Achcha ise chalu karana hai aapko.\\nCustomer: Haan haan haan.\\nExecutive: Okay to sir suno na ha ek cheez aur hai jaise aap isme deal kar rahe hain right.\\nCustomer: Kya sir?\\nExecutive: Haan ye inverter mein deal karte hain sir aap.\\nCustomer: Haan kar rahe kar rahe.\\nExecutive: Theek hai aur sir dusri services aapki chal rahi hai right.\\nCustomer: Haan dusri iske already chal rahi hai.\\nExecutive: Okay to sir isme pehle karaya tha aapne iska plan liya tha pehle kabhi isme green automation and controls sir ek bar pehle ek bar kiya hai na isse.\\nExecutive: Okay sir dekho main ek cheez batau aapko.\\nCustomer: Hmm ab jaise aap plan kar rahe hain ki services leni hai service loge theek baat hai lekin aapko na sir band nahi karni chahiye thi jo aapka pattern create hua hoga na wo fir aapko dobara se karni padegi cheeze wahi cheeze isliye to resume kaha tha.\\nExecutive: Haan sir jaise aap ab service bhi lenge.\\nExecutive: Jaise aap pehle services use karte the right sir aage bahut aawaz aa raha hai.\\nExecutive: Okay sir chalo dobara call karte hain.\\nExecutive: Chaliye sir theek hai theek hai.\\nExecutive: Theek theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to add products.\\n\n- Wants to restart services.\\n\n\\n\nResolution:\\n\n- Executive asked customer to open seller panel.\\n\n- Executive explained the need to resume services.\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product add, seller panel, services, resume\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 323,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=15e9f77c-2fe5-413c-bf6d-f8a48e8157c0",
+  "ucid": "15e9f77c-2fe5-413c-bf6d-f8a48e8157c0",
+  "seller_categories": [
+    {
+      "mcat_id": "216030",
+      "mcat_name": "Inovance VFD"
+    },
+    {
+      "mcat_id": "163226",
+      "mcat_name": "PLC Programming Services"
+    },
+    {
+      "mcat_id": "448",
+      "mcat_name": "Servo Motor"
+    },
+    {
+      "mcat_id": "14970",
+      "mcat_name": "AC Servo Motor"
+    },
+    {
+      "mcat_id": "85086",
+      "mcat_name": "AC Servo Drives"
+    }
+  ]
+}

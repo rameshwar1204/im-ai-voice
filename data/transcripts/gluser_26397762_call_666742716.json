@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "666742716",
+  "gluser_id": "26397762",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628350",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: [unintelligible]\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan?\\nExecutive: Hello.\\nExecutive: Haan Renuka company?\\nCustomer: Haan hello.\\nCustomer: Ji ji.\\nExecutive: Haan Abhishek baat kar raha hu sir IndiaMART head office se.\\nCustomer: Kahan se?\\nExecutive: IndiaMART head office se maine call kara hai sir.\\nCustomer: Ji ji boliye na.\\nExecutive: Sir kai dino se [unintelligible]\\nCustomer: Awaaz nahi aa rahi hai sir aapki.\\nExecutive: [unintelligible]\\nCustomer: Hello.\\nExecutive: Abhi awaaz jaa rahi hai sir?",
+  "summary": "\\n\\nConcerns:\\n\\n- Unable to hear the executive's voice.\\n\\n\\nResolution:\\n\\n- None, call ended due to poor audio quality.\\n\\n\\nNext Steps: \\n\\n- Issue not resolved.\\n\\nAlert (If Any):\\n\\nNone\\n\\n@@@Sentiment:\\n\\n- Neutral -> Annoyed\\n\\n@@@Key Topics:\\n\\n- introductory call, audio issue, network problem\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d5b70cc5-72e5-446d-8148-b2ad2277c944",
+  "ucid": "d5b70cc5-72e5-446d-8148-b2ad2277c944",
+  "seller_categories": [
+    {
+      "mcat_id": "50179",
+      "mcat_name": "Track Pant"
+    },
+    {
+      "mcat_id": "9288",
+      "mcat_name": "Shoe Upper"
+    },
+    {
+      "mcat_id": "192675",
+      "mcat_name": "Adidas Track Pants"
+    }
+  ]
+}

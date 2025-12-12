@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671965310",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHalo.\\nHi sir, Vishal baat kar raha hu India Mart se aap kaise hain?\\nIndia Mart se Vishal?\\nJi, pehchana?\\nhaan baat hui thi sir hamari site pe toh.\\nhaan haan haan haan.\\nhmm kya keh rahe the sir abhi bhi na mai usko work kar raha hu, mai team ke saath cross check kar raha hu kya issue hai exactly usko identify karne ke liye hum kar rahe hain. toh usi ke liye mai keh raha tha ki aap aisa mat sochiyega ki mai us pe koi work nahi kar raha, theek hai?\\nhan han.\\nto please aap mujhe time allow karega na shaam ne ki aapko connect karta hu sir.\\ntheek theek.\\ntheek hai?\\nokay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Issue identification and resolution.\\n\n\\n\nResolution:\\n\n- Working on the issue with the team and cross-checking to identify the exact problem.\\n\n\\n\nNext Steps: \\n\n- Will connect in the evening.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindia mart, issue, team, cross check, identify, time\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e0a4aa6a-d721-4e1d-ab44-82b21830d19e",
+  "ucid": "e0a4aa6a-d721-4e1d-ab44-82b21830d19e",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

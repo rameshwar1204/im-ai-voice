@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675134445",
+  "gluser_id": "152986674",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Deulgaon Raja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan. Good afternoon sir. IndiaMART se happiness industries se ho gaya.\\nCustomer: Haan.\\nExecutive: Sir main Nazli baat kar rahi IndiaMART se.\\nCustomer: Hello.\\nExecutive: Haan boliye na boliye na.\\nCustomer: Sir main janna chah rahi thi ki hamari services kaise chal rahi hai aapko koi problem to nahi aa raha.\\nExecutive: Problem matlab customer ke liye thoda hai.\\nExecutive: Koi leads vagaira by leads vagaira delivery entry aisa kuch to nahi hai sab kuch theek leads vagaira sab kuch theek aa raha hai.\\nCustomer: Nahi nahi by leads me mujhe problem hota hai by leads matlab mere mere milte nahi aur bulk me order nahi mil rahi kuch aisa problem ho rahi hai.\\nExecutive: Account manager manager aap ho gaye kya mere kyun ho gaye kya.\\nCustomer: Account manager aap ho gaye kya mere abhi.\\nExecutive: Aap kya keh rahe hai mujhe samajh nahi aa raha aap keh rahe hai ki mere manager se aapki baat nahi.\\nCustomer: Nahi nahi account manager jo hai aap ho gaye kya mere mere.\\nExecutive: Haan ji sir main hi hu aapke account manager.\\nCustomer: Theek hai theek hai nahi aap Shubham Kumar the na pehle.\\nExecutive: Haan ji aapki Shubham sir se baat hui thi mujhe pata hai maine check kiya tha to aapki unse hi baat chal rahi thi to meri shayad aap se first time baat ho rahi hai.\\nCustomer: Hmm.\\nExecutive: Theek hai fir main aapko baad me call karunga.\\nCustomer: Theek hai main aapko kab call karu aap mujhe time bata dijiye.\\nCustomer: 8 baje call kar dijiye aapko.\\nExecutive: 8 baje sham me.\\nCustomer: Haan.\\nExecutive: Sir kal din me baat ho sakti hai kisi bhi time.\\nExecutive: Theek hai chalega din me kar lijiye.\\nCustomer: Raat ko kar 7 baje kar lijiye.\\nExecutive: Theek hai 6 7 baje call kijiye milte hai 6 7 baje.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issues with buyleads.\\n\n- Not receiving bulk orders.\\n\n\\n\nResolution:\\n\n- Executive assured to resolve the issue.\\n\n- Agreed to connect later to discuss further.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, services\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=71951df8-53f5-4a97-830c-6eb0428c494b",
+  "ucid": "71951df8-53f5-4a97-830c-6eb0428c494b",
+  "seller_categories": [
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "149032",
+      "mcat_name": "Cello Tape"
+    },
+    {
+      "mcat_id": "1997",
+      "mcat_name": "Self Adhesive Tapes"
+    },
+    {
+      "mcat_id": "182328",
+      "mcat_name": "Brown Tape"
+    },
+    {
+      "mcat_id": "35735",
+      "mcat_name": "Printed Tapes"
+    }
+  ]
+}

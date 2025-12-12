@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666887642",
+  "gluser_id": "13082969",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Modinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628437",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Sir ye Hanumat Handloom company sir?\\nCustomer: Ji\\nExecutive: Sir very good afternoon Pravesh Sharma baat kar raha tha senior manager India Mart se office se. Bhaiya main abhi bahar aaya hua tha aap mujhe ya to sham ko phone kar lo ya kal phone kar lo.\\nExecutive: Main bhi zara shop par tha. Ji ji. Kaise beta nahi kal hi kar lena aap aaj to fir main poore din shop par hi rahunga.\\nExecutive: Sir aapne kuch bola tha ki itne galat number dal diye to matlab thoda. Haan ji haan ji haan ji haan ji haan ji haan ji haan haan. Mujhe uske sir number change karane hai wo. Apne number dalne hai dusre.\\nExecutive: Sir number to main change kara dunga ye number hai kiska ye 80 se start kiye last me. Mujhe mujhe mujhe nahi pata ji kiska number hai ye.\\nExecutive: Aapko pata hi nahi hai?\\nCustomer: Nahi.\\nExecutive: Okay to. Isliye to phone kara maine aapko.\\nExecutive: Nahi wo to main samajh gaya aapne phone kara hai. Ye GST number Hanumat Handloom company ke malik aap hi hai right sir owner aap hi hai. Haan ji haan ji haan ji.\\nExecutive: Okay aur aapka service start hua tha jo main dekh raha hu yaha pe 9th September ko. Haan ji. Aaj 3 November hai to aapko kab pata laga ki galat number dala hua hai matlab. Sir mujhe 15-20 din ho gaye jab pata chala tha.\\nExecutive: Aur ye aisa hua kaise sir matlab aapka jab GST number. Koi bol raha main main zara shop par aaya hua hu. Aaj se jo hai free hoke phone kar lunga.\\nExecutive: Mujhe kariyega sir thoda serious hai tabhi main kuch karwa paunga isme. Thik hai sir. GST number pe call kijiye ga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change the registered number.\\n\n\\n\nResolution:\\n\n- Executive assured to change the number.\\n\n\\n\nNext Steps: \\n\n- Customer will call executive after getting free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number change, gst, hanumat handloom\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=82322e6a-3f1f-4430-82e0-fc7a7e803658",
+  "ucid": "82322e6a-3f1f-4430-82e0-fc7a7e803658",
+  "seller_categories": [
+    {
+      "mcat_id": "7627",
+      "mcat_name": "Sofa Covers"
+    },
+    {
+      "mcat_id": "185588",
+      "mcat_name": "Designer Lehenga Choli"
+    },
+    {
+      "mcat_id": "5763",
+      "mcat_name": "Party Gowns"
+    },
+    {
+      "mcat_id": "184596",
+      "mcat_name": "Velvet Bed Sheet"
+    },
+    {
+      "mcat_id": "185568",
+      "mcat_name": "Designer Lehenga"
+    }
+  ]
+}

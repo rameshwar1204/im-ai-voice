@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668073397",
+  "gluser_id": "28314571",
+  "vintage_months": 6,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Miraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639141",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ji sir, main bol raha hun.\\nExecutive: Hello.\\nCustomer: Okay, haan.\\nExecutive: Haan.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Thik hai, aa jaiye, kabhi bhi aa jaiye, chalega, koi problem nahi.\\nCustomer: Haan, haan.\\nCustomer: Haan, haan.\\nCustomer: Thik, bol bol bol.\\nCustomer: Thik hai, thik hai, okay.\\nCustomer: Raw material sir mere paas mein ready hai, koi issue nahi hai. Aapko main main dekh bhi dikha bhi sakta hun.\\nExecutive: Hello.\\nCustomer: Haan, aayega na sir.\\nCustomer: Nahi sir, kyon sa aata hai, 14 SWG 2 mm ka thickness actually mein nahi hota hai.\\nCustomer: Haan, woh sab sheet aata hai, SWG mein aata hai.\\nCustomer: Haan, matlab thickness 2 mm mein thickness aisa nahi aata hai.\\nCustomer: Haan, SWG mein aata hai, matlab iska yahan pe gauge main check karwa ke main aapko material dunga. Aisa nahi ki pehle main simple sample sheet yahan pe mere sheet supplier hai, wahan unke paas mein jaake bhi main aapko dikha dunga.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer discussing material thickness and availability.\\n\n\\n\nResolution:\\n\n- Customer assured executive about material availability.\\n\n- Customer offered to show material and check gauge.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- raw material, thickness, swg, sheet\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=40f26b61-b2c2-4753-87f2-d64fd39ee096",
+  "ucid": "40f26b61-b2c2-4753-87f2-d64fd39ee096",
+  "seller_categories": [
+    {
+      "mcat_id": "187941",
+      "mcat_name": "Slotted C Channel"
+    },
+    {
+      "mcat_id": "178462",
+      "mcat_name": "GI Perforated Cable Trays"
+    },
+    {
+      "mcat_id": "138197",
+      "mcat_name": "Slotted Channel"
+    },
+    {
+      "mcat_id": "155378",
+      "mcat_name": "Earthing Rod"
+    },
+    {
+      "mcat_id": "147349",
+      "mcat_name": "Bullet Fastener"
+    }
+  ]
+}

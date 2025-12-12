@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667805595",
+  "gluser_id": "195163893",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Virudhunagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Madam, that is, I am checking, I am checking sir. We are checking. It will get updated sir, okay?\\nCustomer: Ah, okay.\\nExecutive: Okay sir, okay. Thank you sir.\\nCustomer: Okay sir, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about an update.\\n\n\\n\nResolution:\\n\n- Executive confirmed they are checking and will update.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- update, checking\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=73a1dade-2506-442f-bfcc-6a55cd6842f7",
+  "ucid": "73a1dade-2506-442f-bfcc-6a55cd6842f7",
+  "seller_categories": [
+    {
+      "mcat_id": "29938",
+      "mcat_name": "Gypsum Plaster"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    },
+    {
+      "mcat_id": "34485",
+      "mcat_name": "Plaster Of Paris"
+    },
+    {
+      "mcat_id": "351503",
+      "mcat_name": "Bentonite Earthing Powder"
+    },
+    {
+      "mcat_id": "177015",
+      "mcat_name": "Earthing Powder"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666907787",
+  "gluser_id": "250224702",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Beawar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Namaskar sir, IndiaMART se mai baat kar raha hu, Sahu Engineering Works se Sahu ji se baat ho rahi hai meri?\\nCustomer: Ha Sahu bol raha hu.\\nExecutive: Ji Sahu ji, aapne IndiaMART pe paid service liya hua hai na sir?\\nCustomer: Ha liya hai. To kya hua? Ek bhi enquiry nahi hai. Kya service hai tum logo ka?\\nExecutive: Sir, aapka service to abhi baais tarikh ko hi chalu hua hai na sir?\\nCustomer: Ha to baais tarikh ko chalu hua to ek bhi enquiry nahi aayega kya? Paisa leke thag rahe ho kya tum log?\\nExecutive: Nahi nahi sir, thagne wali baat nahi hai. Aapka service chalu hai sir. Aapko ek buylead bhi aaya hua hai sir.\\nCustomer: Kaha aaya hai? Kuch nahi aaya hai. Fraud company hai tum logo ka. Mera paisa wapas karo.\\nExecutive: Sir, aisi baat nahi hai. Mai check kar pa raha hu, aapko teiis tarikh ko ek buylead aaya hai, hydraulic cylinder ka.\\nCustomer: Nahi aaya hai. Jhooth mat bolo. Mujhe koi lead nahi mila. Mujhe bola tha mahine ka chalees-pachas lead aayega.\\nExecutive: Sir, lead ka flow to buyer ke requirement pe depend karta hai. Hum log guarantee nahi de sakte hai. Par aapka profile hum optimize kar denge.\\nCustomer: Mujhe kuch nahi sunna. Mera paisa wapas chahiye. Chaubees hazar rupaye diya hai maine. Fraud karte ho tum log.\\nExecutive: Sir, dekhiye, policy ke hisab se amount non-refundable hota hai. Par aap itna pareshan hai to mai aapki baat samajh sakta hu.\\nCustomer: To fir kya? Mai consumer court me jaunga. Tum logo ko aise nahi chhodunga.\\nExecutive: Sir, aapse request hai, aap shant ho jaiye. Mai aapki request ko apne senior manager ko escalate kar deta hu. Wo aapse refund ke regarding baat karenge.\\nCustomer: Kab call karega tumhara senior?\\nExecutive: Sir, agle chaubees se adtalis ghante me aapko unka call aa jayega.\\nCustomer: Theek hai. Call nahi aaya to mai complaint karunga.\\nExecutive: Ji sir, bilkul. Aapko call aa jayega. Dhanyawad.\\nCustomer: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Not receiving any buyleads since service activation.\\n- Believes the company is fraudulent and has cheated him.\\n- Demanding a full refund of the subscription fee.\\n- Was allegedly promised 40-50 leads per month.\\n- Threatening to go to the consumer court.\\n\\n\\nResolution:\\n\\n- Informed that one buylead for a hydraulic cylinder was sent.\\n- Explained that lead flow depends on buyer requirements and isn't guaranteed.\\n- Stated that the amount is non-refundable as per policy.\\n- Escalated the refund request to a senior manager.\\n\\n\\nNext Steps: \\nIssue not resolved. A senior manager will call the customer within 24-48 hours to discuss the refund.\\n\\nAlert (If Any):\\nrefund\\ncheating\\nfraud\\nconsumer court\\ncomplaint\\nescalate\\n\\n@@@Sentiment:\\n- Angry -> Annoyed\\n\\n@@@Key Topics:\\n- buyleads, refund, subscription, complaint, escalation, service activation\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ecaae84-4116-4205-a31c-aa4533f81924",
+  "ucid": "0ecaae84-4116-4205-a31c-aa4533f81924",
+  "seller_categories": [
+    {
+      "mcat_id": "155486",
+      "mcat_name": "Foil Fabric"
+    },
+    {
+      "mcat_id": "224515",
+      "mcat_name": "Printed French Crepe Fabric"
+    },
+    {
+      "mcat_id": "84574",
+      "mcat_name": "Digital Printed Fabric"
+    },
+    {
+      "mcat_id": "2298",
+      "mcat_name": "Printed Fabrics"
+    },
+    {
+      "mcat_id": "159644",
+      "mcat_name": "Polyester Silk Fabric"
+    }
+  ]
+}

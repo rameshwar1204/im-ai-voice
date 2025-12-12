@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671950835",
+  "gluser_id": "113147",
+  "vintage_months": 157,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669285",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji, good afternoon.\\nCustomer: Haan ji, good afternoon ji.\\nExecutive: Ah, main keh raha hu Lovepreet mam us pe kaam kar rahe hai kya abhi catalog pe?\\nCustomer: Haan, nahi aise toh nahi kar rahe, ek do items unhone woh kari thi lekin woh kuch items price ke bina utha rahe the.\\nExecutive: Nahi nahi, aisa nahi hai na.\\nCustomer: Band nahi utha rahe the, fir usme kuch kuch add karna pada tha iska na.\\nExecutive: Nahi nahi, price mat, aapko nahi add karna hai price toh mat add kariye. Bina price ke sab cheez sara details add ho jayega. Jaise inhone uska \u20b9210 per piece Unison pipe prong cultivator ka dala hua hai product ka.\\nCustomer: Haan ji, haan ji, haan ji.\\nExecutive: Toh price dalne se 20 point mila hai waha pe alag se. Toh par mam price hum aisa dal nahi sakte hai jo humare dealer ko bhi help ho jaye, hume bhi help ho jaye?\\nCustomer: Hmm, sir toh yeh hai ki uske ki hum MRP add karwa sakte hai.\\nExecutive: Aapko main batau kyun bol raha hu main itne time se? Kyunki yeh hai na woh bahut jyada price mein woh karte hai.\\nCustomer: Accha accha. Nahi nahi actually kya hai ki main aapko isliye bol raha hu na kyunki isse visibility kaafi jyada boost hogi. Toh jo hume inquiry ka problem itna jyada face kar rahe hai na, aap ek mahine mein samajh jayenge ki main prices ke liye kyun itna jyada force kar raha hu aapko.\\nCustomer: Sir yeh koi baat nahi sir main MRP list jo hai woh add karwa dungi.\\nExecutive: Haan aap standard pricing dalwa dijiye na, koi dikkat nahi.\\nCustomer: Haan ji.\\nExecutive: Kyunki dekhiye abhi aapka product suppose kijiye lawn mower kisi ne search kiya, theek hai? Sir aap mujhe bataiye ki corrections aap kar rahe ho ki main yaha se karwaun?\\nExecutive: Aap mujhe dijiye toh detail main correction main khud kar lunga. Main kaha, aap waha se karwana chahe waha se kar lijiye, mujhe dijiye main kar lunga. Nahi nahi yaha humara bahut time waste hota hai sir.\\nExecutive: Toh mujhe bhej dijiye na, main toh aapko, aapka mail ID mujhe bataiye aap ek baar, mail ID bataiye aap mujhe jo use kar rahe hai aap.\\nCustomer: Mail ID director@lawnmowerindia.com.\\nExecutive: Accha woh director wala mail ID aapke paas hai?\\nCustomer: Haan ji, haan ji mere paas hai, aap usme bhej dijiye.\\nExecutive: Haan main aapko us pe mail kar deta hu jo usme aapko ek ek product ka dekhna nahi padega ki kaun sa product ka kami hai. Usme sare product maine mention kiye hai bas unhi unhi product ke images mujhe bhej dijiye aap.\\nCustomer: Theek, theek, theek hai.\\nExecutive: Theek hai? Aur ah, ek minute mam. Prices toh aap apne end se kar hi loge.\\nCustomer: Ah, ji.\\nExecutive: Haan aap mujhe bas images bhej dijiye, description baki sara detail sab cheez catalog mein mention hai toh uske liye toh koi problem nahi hai. Grouping maine theek kar di thi aapke catalog mein? Ah, mapping bhi correct kar diya mam maine aapke catalog mein. PDF wagera pura catalog mein laga diya tha. Video jis mein.\\nCustomer: Main woh sab ek baar check karke batati hu, aaj thoda main bahar hu.\\nExecutive: Accha accha accha bahar. Kuch changes honge toh main aapko bata dungi.\\nExecutive: Done done done, main aapko mail kar de raha hu us pe hai na, lawn director wale pe. Ji ji.\\nCustomer: Theek hai sir, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's catalog items picked without price.\\n\n- Wants a price that helps dealer and them.\\n\n- Time waste in corrections from their end.\\n\n\\n\nResolution:\\n\n- Executive suggested adding MRP.\\n\n- Executive offered to make corrections.\\n\n- Executive will email product details.\\n\n\\n\nNext Steps: \\n\n- Customer will check and inform about changes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, price, corrections, email\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 182,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bd14b289-e566-4e96-9516-79bf0a3b7e9f",
+  "ucid": "bd14b289-e566-4e96-9516-79bf0a3b7e9f",
+  "seller_categories": [
+    {
+      "mcat_id": "167255",
+      "mcat_name": "Rotary Slasher"
+    },
+    {
+      "mcat_id": "11126",
+      "mcat_name": "Grass Cutting Machine"
+    },
+    {
+      "mcat_id": "68987",
+      "mcat_name": "Pitch Roller"
+    },
+    {
+      "mcat_id": "161510",
+      "mcat_name": "Lawn Tractor Mower"
+    },
+    {
+      "mcat_id": "55921",
+      "mcat_name": "Electric Lawn Mower"
+    }
+  ]
+}

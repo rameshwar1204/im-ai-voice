@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669583531",
+  "gluser_id": "8018522",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687857",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Good evening sir.\\n\\nExecutive: Good evening. Ji sir, abhi aapki meri senior se baat hui hogi.\\n\\nCustomer: Haan baat ho gayi hai mujhe.\\n\\nExecutive: Haan, mai bol rahi thi ki abhi aapka concern aapko kuch toh mil hi gaya hoga, baki resolution aapko kal video meeting pe mil jayega.\\n\\nCustomer: Theek hai.\\n\\nExecutive: Haan, mai ye bol rahi thi ki aap sir ye apni side se mai isko close karu fir aapke concern ko kal video meet pe dobara se discussion kar lenge.\\n\\nCustomer: Theek hai aap close kijiye.\\n\\nExecutive: Haan sir meri side se na ek mail jayega aapko. Aap please us pe satisfied mark kar dena. Meri mam ke liye jayega.\\n\\nCustomer: Theek hai. Under observation rahega teen din abhi.\\n\\nExecutive: Haan please aap abhi do se teen minute me aa jayega aap wo satisfied mark kar dena kal aapki video meet schedule kar denge.\\n\\nCustomer: Abhi nahi, abhi nahi, abhi aap kar do close. Under observation me rahega ek week ke baad karenge.\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji. Accha aap abhi bol rahe ho ki abhi video meet video meeting ke liye aap thoda time lenge?\\n\\nCustomer: Aapne jo concern close kiya na usme feedback ke liye under observation rahega.\\n\\nExecutive: Sir wo toh waise bhi under observation hi rahega usme koi issue nahi hai.\\n\\nCustomer: Theek hai. Haan wo toh aap mera personal number note kar lo agar koi bhi issue aata hai aap is pe call kar sakte ho aur mam ka number toh aapke paas chala hi gaya hai.\\n\\nCustomer: Bolu sir mai apna number?\\n\\nCustomer: Ye theek hai, theek hai, theek hai.\\n\\nExecutive: Theek hai sir abhi aapko mail aayegi aap wo mark kar dena satisfied.\\n\\nCustomer: Okay. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to keep the concern under observation.\\n\n- Customer needs time for the video meeting.\\n\n\\n\nResolution:\\n\n- Executive said the concern will be under observation.\\n\n- Executive shared her personal number.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a mail to mark satisfied.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, observation, feedback, resolution\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f620d018-74ff-4f6f-896b-da0fc6bf6d72",
+  "ucid": "f620d018-74ff-4f6f-896b-da0fc6bf6d72",
+  "seller_categories": [
+    {
+      "mcat_id": "160705",
+      "mcat_name": "Medical Shop Software"
+    },
+    {
+      "mcat_id": "43594",
+      "mcat_name": "Hotel Software"
+    },
+    {
+      "mcat_id": "221427",
+      "mcat_name": "Pathology Lab Software"
+    },
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "179146",
+      "mcat_name": "Laboratory Management Software"
+    }
+  ]
+}

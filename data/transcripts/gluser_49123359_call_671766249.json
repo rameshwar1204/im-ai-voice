@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671766249",
+  "gluser_id": "49123359",
+  "vintage_months": 26,
+  "bl_dau_oct": 28,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657024",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nHello\\nExecutive: Ji, Namaskar sir.\\nCustomer: Namaskar.\\nExecutive: Ji, kaise hain ji sir?\\nCustomer: Thik hai sir.\\nExecutive: Ji, bahut badhiya ji. Main aapse keh raha tha sir aapki jo ek email ID hai na hamare paas jo registered hai.\\nCustomer: Haan.\\nExecutive: Ye email ID ka hai na inbox full ho chuka hai. Ye aapki jo\\nCustomer: [inaudible] kar diya. Kal khali kar diya. Kal khali kar diya ji.\\nExecutive: Kar diya tha kal khali?\\nCustomer: Achcha kal khali kar diya tha na aapne?\\nExecutive: Hmm. Okay, okay. Chalo main ek text mail send kar raha hun. Please ek baar aap check kar lijiyega isko. Thik hai sir?\\nCustomer: Thik hai.\\nExecutive: To mail vagarah aa rahi hai vaise aapne check kiya hoga sir?\\nCustomer: Aa rahi hai.\\nExecutive: Aa rahi hai na? Chalo koi nahi, ye confirmation ke liye maine phone kiya tha. Aur sir aur bataiye aur kaisa chal raha kaam apna?\\nCustomer: Thik chal raha hai.\\nExecutive: Chalo bahut badhiya. Aur thoda ke bare mein aap keh rahe the ki kuch abhi thoda time lagega usme kuch kiya aapne?\\nCustomer: Abhi nahi sir, main bata dunga aapko.\\nExecutive: Achcha achcha. Koi baat nahi jab bhi hai apna bata dijiyega. Closing ho jayega na fir koi dikkat nahi hai.\\nCustomer: Hai ji?\\nExecutive: Closing ho jaye na fir koi dikkat nahi hai sir.\\nExecutive: Achcha achcha koi baat nahi to closing kab tak hogi aapki vaise?\\nCustomer: Laga hua hun sir main khud karne mein close. Collections vagarah bhi badhiya aa rahi hai. To ye school college ka kaam hai ya kaise ya koi matlab corporate kaam hai sir apna?\\n\\nCustomer: School, college, corporate sabka kaam hai sir bilkul.\\nExecutive: Achcha sabka kaam hai jo matlab abhi tak\\nCustomer: Kuch nahi chhuta sab kuch.\\nExecutive: Hai ji? Har tarah ke client har tarah ke client hai sir mere paas.\\nCustomer: Achcha har tarah ke har tarah ke client hai.\\nExecutive: Hmm. Okay. Koi baat nahi baki isko aap dekh lijiyega aapne kar diya hai. Maine text mail send kar diya hai aap check kar lijiyega isko. Thik hai sir?\\nCustomer: Thik hai sir.\\nExecutive: Thik hai. Thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's email ID inbox was full.\\n\n- Executive inquired about the customer's work progress.\\n\n\\n\nResolution:\\n\n- Customer confirmed emptying the inbox.\\n\n- Executive sent a test mail for confirmation.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, inbox, work progress, closing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0f83627f-9003-44fd-ab8c-00b0fdb0e053",
+  "ucid": "0f83627f-9003-44fd-ab8c-00b0fdb0e053",
+  "seller_categories": [
+    {
+      "mcat_id": "181380",
+      "mcat_name": "School ID Card"
+    },
+    {
+      "mcat_id": "74725",
+      "mcat_name": "ID Card Lanyard"
+    },
+    {
+      "mcat_id": "18339",
+      "mcat_name": "Printed Lanyard"
+    },
+    {
+      "mcat_id": "162521",
+      "mcat_name": "Acrylic Badges"
+    },
+    {
+      "mcat_id": "169427",
+      "mcat_name": "Lanyard Printing Service"
+    }
+  ]
+}

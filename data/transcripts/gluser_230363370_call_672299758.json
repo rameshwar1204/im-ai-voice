@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672299758",
+  "gluser_id": "230363370",
+  "vintage_months": 8,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mavelikara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685622",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello?\\nHello?\\nYes sir, Chandan this side from IndiaMART sir. I'm just calling regarding some concern sir, daily other issues you are facing right now. Or tell me tell me tell me.\\nNo no no sir. I'm just talking about the concern concern that I have right now.\\nSo yeah, so mail then great job.\\nSo can I close now sir? Just because I have connected regarding the feed guys. Yeah yeah please close it, please close it.\\nOkay sir. Just just take it once. I will do it within the 10 minutes within 10 minutes. If if if for this just one request. If you face any issue, I will just WhatsApp my number. You can just call call on that number sir. Yeah yeah. So so I will I will just WhatsApp my number.\\nYeah. Yeah.\\nOkay.\\nOkay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the executive to close the call.\\n\n\\n\nResolution:\\n\n- Executive will resolve the issue within 10 minutes.\\n\n- Executive will WhatsApp his number for further assistance.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concerns, resolution, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7703cc12-f2c7-4d26-9a16-3feac16511c2",
+  "ucid": "7703cc12-f2c7-4d26-9a16-3feac16511c2",
+  "seller_categories": [
+    {
+      "mcat_id": "40671",
+      "mcat_name": "Varsity Jackets"
+    },
+    {
+      "mcat_id": "78239",
+      "mcat_name": "Man Hoodies"
+    },
+    {
+      "mcat_id": "78240",
+      "mcat_name": "Men Denim Jacket"
+    },
+    {
+      "mcat_id": "12749",
+      "mcat_name": "Denim Jackets"
+    },
+    {
+      "mcat_id": "10001",
+      "mcat_name": "Men Jackets"
+    }
+  ]
+}

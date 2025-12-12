@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674151685",
+  "gluser_id": "25422525",
+  "vintage_months": 4,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Pudukkottai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701867",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa55492b-6bd2-47ad-97bc-cecca2e42256",
+  "ucid": "fa55492b-6bd2-47ad-97bc-cecca2e42256",
+  "seller_categories": [
+    {
+      "mcat_id": "180095",
+      "mcat_name": "Idli Rice"
+    },
+    {
+      "mcat_id": "187136",
+      "mcat_name": "Ragi"
+    },
+    {
+      "mcat_id": "166489",
+      "mcat_name": "Black Rice"
+    },
+    {
+      "mcat_id": "80360",
+      "mcat_name": "Foxtail Millet"
+    },
+    {
+      "mcat_id": "40440",
+      "mcat_name": "Urad Dal"
+    }
+  ]
+}

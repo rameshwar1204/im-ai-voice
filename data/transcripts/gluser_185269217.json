@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669546970",
+  "gluser_id": "185269217",
+  "vintage_months": 33,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Naihati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656500",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Eh.\\nExecutive: Haanji namaste, Shweta baat kar rahi thi IndiaMART se.\\nCustomer: Haan boliye na.\\nExecutive: Ji sir, actually kya tha na wo ek baar hame configuration chahiye tha kyuki hamara video meeting ho gaya tha na par mera call nahi hua ek baar bhi. To iski wajah se ko wapas se reconnect karna tha. Aap se pehle 12 minutes pehle bhi open ho gayi but kya hai ki ek baar connect karna rehta hai. Hai na? To iski wajah se.\\nCustomer: Haan, theek hai, theek hai.\\nExecutive: Theek hai, to main ticket close kar rahi hu aapko. Theek hai? Please uske yes ka feedback dijiyega, theek hai? Aur aur hamara jo discussion hua tha na catalog scope ka, please usko improve kar dijiyega aaj. Hai na? Aaj hi kar dijiyega sara.\\nCustomer: Kya kya karega?\\nExecutive: Jo hamara discussion hua tha na product pe jo jo changes karne hai catalog price wagera photo wagera dalna hai.\\nCustomer: Haan.\\nExecutive: To aaj hi price aur photo dono dal dijiyega. Description maine dal diya hai. Specification bhi main dal de rahi hu, theek hai? Aap please bas photo aur price aaj hi dal dijiyega, theek hai?\\nCustomer: Theek hai.\\nCustomer: Theek hai, main aaj hi dal dunga.\\nExecutive: Theek hai sir, chaliye. Okay sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to reconnect as call not received.\\n\n- Wants catalog scope improved today.\\n\n- Wants price and photo to be added today.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the ticket.\\n\n- Executive requested feedback.\\n\n- Customer agreed to add price and photo today.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- configuration, video meeting, catalog, price, photo\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e08dd911-9a35-4677-8753-579454258650",
+  "ucid": "e08dd911-9a35-4677-8753-579454258650",
+  "seller_categories": [
+    {
+      "mcat_id": "140720",
+      "mcat_name": "Masala Making Machine"
+    },
+    {
+      "mcat_id": "32851",
+      "mcat_name": "Noodle Machine"
+    },
+    {
+      "mcat_id": "191486",
+      "mcat_name": "Automatic Chapati Making Machine"
+    },
+    {
+      "mcat_id": "140733",
+      "mcat_name": "Noodle Extruder Machine"
+    },
+    {
+      "mcat_id": "3723",
+      "mcat_name": "Chapati Making Machine"
+    }
+  ]
+}

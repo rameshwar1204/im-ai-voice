@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669742528",
+  "gluser_id": "47983915",
+  "vintage_months": 37,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Malappuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661757",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Aap sir, kis language me baat kar rahe ho?\\n\\nExecutive: Haan ji?\\n\\nCustomer: Kis language me baat kar rahe ho language?\\n\\nExecutive: Hmm, kaha, kaun, kaha se baat kar rahe ho aap?\\n\\nCustomer: Which language you are using? Hindi or English?\\n\\nExecutive: Awaaz aapki saaf nahi aa rahi hai, ek minute ruko mai aapko call karta hu.\\n\\nExecutive: Okay, I know. I wanted to Guwahati area, Tirka Sande dealers.\\n\\nExecutive: [inaudible] properly actually I am in meeting then call you just in five minutes. Your WhatsApp call is sleeping on. Please.\\n\\nExecutive: Then call start this.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants Guwahati area Tirka Sande dealers.\\n\n- Executive's voice was not clear.\\n\n\\n\nResolution:\\n\n- Executive said he is in a meeting.\\n\n- Executive said he will call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- language, dealers, call back\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e113c2b-3be7-498c-8f5b-8e9d7de46c9b",
+  "ucid": "9e113c2b-3be7-498c-8f5b-8e9d7de46c9b",
+  "seller_categories": [
+    {
+      "mcat_id": "186238",
+      "mcat_name": "Football Turf"
+    },
+    {
+      "mcat_id": "155285",
+      "mcat_name": "Artificial Cricket Pitch"
+    },
+    {
+      "mcat_id": "43597",
+      "mcat_name": "Artificial Turf"
+    },
+    {
+      "mcat_id": "28883",
+      "mcat_name": "Football Nets"
+    },
+    {
+      "mcat_id": "180688",
+      "mcat_name": "Cricket Net"
+    }
+  ]
+}

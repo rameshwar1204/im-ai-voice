@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675921428",
+  "gluser_id": "24595101",
+  "vintage_months": 51,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9643163",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji. \\nExecutive: Ji Maitri export se baat ho raha hai?\\nCustomer: Ji boliye.\\nExecutive: Ji Vaibhav Mishra bol raha hu sir India Mart account manager.\\nCustomer: Hmm hmm boliye boliye.\\nExecutive: Ji morning matlab kuch din pehle ek complaint aayi thi jisme ye likha gaya tha ki not able to raise complaint something right?\\nCustomer: Haan wo system issue aa raha tha.\\nExecutive: So wo abhi matlab lekin uske baad fir complaint aayi hai to matlab abhi wo issue resolve ho gaya hai complaint aap raise kar pa rahe ho?\\nCustomer: Actually I am not part of this aapki Maitri se baat hui thi meri jo sister hai theek hai to unka number hai 81 jo aapke paas 8185 so unse hi baat karna padega right?\\nExecutive: Haan yes yes.\\nExecutive: Okay ek baar unse baat kar sakte hai.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not able to raise complaint.\\n\n- Wants to talk to his sister.\\n\n\\n\nResolution:\\n\n- Executive asked if the issue was resolved.\\n\n- Executive agreed to talk to his sister.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, system issue, account manager\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=01f6813e-da2c-4783-a99e-942b0b0323a2",
+  "ucid": "01f6813e-da2c-4783-a99e-942b0b0323a2",
+  "seller_categories": [
+    {
+      "mcat_id": "68802",
+      "mcat_name": "Vastu Accessories"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25166",
+      "mcat_name": "Crystal Stone"
+    },
+    {
+      "mcat_id": "13083",
+      "mcat_name": "Quartz Stone"
+    }
+  ]
+}

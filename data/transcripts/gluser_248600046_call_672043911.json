@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672043911",
+  "gluser_id": "248600046",
+  "vintage_months": 4,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Daman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679454",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Yaar woh sold ho gaya yeh wala set. Haan.\\nExecutive: Pyara set tha woh wala na.\\nExecutive: Mujhe woh nahi pasand. Hello.\\nCustomer: Hello.\\nExecutive: Ji main India Mart se Samik ke manager\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59ddd9f9-e8a3-41d9-bce7-fe2fbf0bab26",
+  "ucid": "59ddd9f9-e8a3-41d9-bce7-fe2fbf0bab26",
+  "seller_categories": [
+    {
+      "mcat_id": "140749",
+      "mcat_name": "Plastic Cloth Clips"
+    },
+    {
+      "mcat_id": "218523",
+      "mcat_name": "Plastic Chopping Board"
+    },
+    {
+      "mcat_id": "6062",
+      "mcat_name": "Plastic Hangers"
+    },
+    {
+      "mcat_id": "181794",
+      "mcat_name": "Plastic Dustbin"
+    },
+    {
+      "mcat_id": "73890",
+      "mcat_name": "Plastic Clothes Hanger"
+    }
+  ]
+}

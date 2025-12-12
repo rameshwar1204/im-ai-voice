@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676918483",
+  "gluser_id": "470192",
+  "vintage_months": 114,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Bolo.\\nCustomer: Namaste sir.\\nExecutive: Namaste, bolo, bolo. Ji thoda sa time chahiye tha aap keh rahe the koi concern aapne raise kiya tha kya IndiaMART se phir se?\\nCustomer: Kya?\\nExecutive: Koi concern hai aapko aur bhi matlab koi profile ke regarding matlab?\\nCustomer: Na na na matlab kuch nahi kuch nahi. \\nExecutive: Sab okay hai na?\\nCustomer: Haan theek hai. \\nExecutive: Aur baki apne Amar ji se baat kiya tha renewal ka?\\nCustomer: Baat toh kar rakha hai.\\nExecutive: Kya bola unhone?\\nCustomer: Woh toh aapse baat karenge main iske liye.\\nExecutive: Achha main isse baat karenge woh. Theek aap kar lo na unko phone.\\nCustomer: Achha nahi achha kal maine ek baar try kiya tha but woh party mein tha toh maine nahi kuch bola theek hai. Koi nahi woh party se aaj aane dijiye main baat karta hu.\\nExecutive: Achha theek hai.\\nCustomer: Theek theek theek.\\nExecutive: Aur aapko ek matlab feedback mail aaj jayega abhi jayega theek hai main band kar raha hu jayega theek hai. Please satisfied mark kar dijiyega hai na?\\nCustomer: Hmm.\\nExecutive: Theek hai, theek hai, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised a concern with IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive inquired about the customer's concern.\\n\n- Customer stated that everything is okay.\\n\n- Executive asked about renewal discussion with Amar ji.\\n\n- Executive mentioned sending a feedback mail.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to Amar regarding renewal.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, profile, renewal, feedback\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=609bbe19-0bad-4752-a0a8-102037e7981b",
+  "ucid": "609bbe19-0bad-4752-a0a8-102037e7981b",
+  "seller_categories": [
+    {
+      "mcat_id": "158941",
+      "mcat_name": "Wood Fired Water Heater"
+    },
+    {
+      "mcat_id": "68",
+      "mcat_name": "Industrial Hot Water Boilers"
+    },
+    {
+      "mcat_id": "121388",
+      "mcat_name": "Wood Fired Steam Boilers"
+    },
+    {
+      "mcat_id": "29264",
+      "mcat_name": "Gas Fired Heaters"
+    },
+    {
+      "mcat_id": "159550",
+      "mcat_name": "Water Boilers"
+    }
+  ]
+}

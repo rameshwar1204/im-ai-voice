@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670213277",
+  "gluser_id": "212144358",
+  "vintage_months": 18,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662394",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHan sir, Ankita baat kar rahi hu IndiaMART se.\\nThe person you are speaking with has put your call on hold. Please stay on the line. Apni je bekti shonge kotha bolchen, tini apnar call ti holde rekhechen. Doya kore line e thakun. Jis vyakti se baat kar rahe hain, usne aapki call ko hold pe rakha hai. Kripya line par bane rahe.\\nThe person you are speaking with has put your call\\nHello?\\nHello?\\nHello?\\nHello? Haan ji. Sir, Ankita baat kar rahi hu IndiaMART se.\\nSuniye. Awaz aa rahi hai, hello?\\nJi haan, boliye na. Hello, main keh rahi hu aapko maine mail kar diya hai. Aapka catalog aur usme jo jo keyword added hai na, un sabka mail kar diya hai maine. Kis naam se product add hai, kaunsa keyword added hai. Thik hai? Aur catalog bhi bhej diya hai taki aap sara ekdum ache se padh le aur dekh le ki kaunsa hatana hai, kaunsa rakhna hai. Thik hai?\\nThik hai.\\nThik hai. Aur koi issue sir?\\nBas ye issue problem solve ho, uske baad aage batayenge. Agar isse nahi hua toh nahi batayenge.\\nHan, wahi hum keh rahe hain. Abhi toh koi dikkat nahi hai na? Iske alawa ye toh dekhiye solve ho hi jayega.\\nThik hai. Aap solve ho jayega toh koi dikkat hi nahi hai.\\nKya?\\nProblem solve ho gaya toh koi baat hi nahi hai.\\nWahi hum keh rahe hain na sir. Aur suniye, ek mail jayega aapko abhi. Woh mail dekhiye IndiaMART ka nahi hai, service ka nahi hai, kisi ka nahi hai. Woh mail humari aur aapki jo video meeting mein baat chit aur aapki problem ka jaise kaise handle kiya tha na, woh sabka mail hoga. Thik hai? Toh please usko positive kar dijiyega sir. Dekhiye hum log itna hi madad karte hain aapka.\\nThik hai?\\nThik hai.\\nAur aap mujhe bata dijiye, jaise hi aap bata denge, main update kar dungi. Thik hai?\\nThik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants his issue to be resolved.\\n\n\\n\nResolution:\\n\n- Executive has mailed the catalog to the customer.\\n- Executive asked the customer to give positive feedback.\\n\n\\n\nNext Steps: \\n\n- Executive will update as customer informs her.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, keywords, mail, feedback\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cc03ee98-f7b7-4591-af6f-0d03b0979137",
+  "ucid": "cc03ee98-f7b7-4591-af6f-0d03b0979137",
+  "seller_categories": [
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    },
+    {
+      "mcat_id": "150642",
+      "mcat_name": "Aluminum Sliding Door"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669904694",
+  "gluser_id": "147911950",
+  "vintage_months": 5,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Kollam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello ji, good afternoon sir.\\nCustomer: Yeah, Deepanshi Deepanshi see I through IndiaMART I have contacted one verified person, verified dealer.\\nExecutive: Okay.\\nCustomer: Before Diwali. And I have done the payment before Diwali also. And still no like his item didn't dispatch. After Diwali and after the payment of no like this you know like four to five days of payment I have called him and then like we had a talk and then no like talk went in a different way because he told I have to go to you know like I have to go for prayers so don't call me and all these things after five days of payment.\\nCustomer: Okay, so my client is waiting from past one week.\\nCustomer: And now now like\\nCustomer: Uh?\\nExecutive: [unintelligible]\\nCustomer: Okay.\\nCustomer: I can I give his GST number?\\nExecutive: Buyer GST number, supplier GST number?\\nCustomer: It is it is a supplier he is.\\nExecutive: Okay, you paid the amount to the supplier but you but they did not get the product for you.\\nCustomer: Yeah, they have given me a postal you know like courier number. But when I inquired with the head office of post office here, no like and even I have gone through online that is a fake ID. Fake number.\\nCustomer: It is not showing. And when I am asking him and in that IndiaMART it is showing that he is a no like from past many years he is into this IndiaMART.\\nExecutive: Okay sir, I will talk to senior manager. Okay. Yeah.\\nExecutive: Okay, I will talk to senior manager and okay I okay.\\nCustomer: Just get back to me and meanwhile in your WhatsApp I will give you the details.\\nCustomer: Of my payment his no like bill number his IndiaMART ka this thing and everything I will give you.\\nExecutive: Okay. You have screenshot regarding the payment any proofs.\\nCustomer: And he is telling Pardon me?\\nExecutive: You have screenshot regarding the payment any proofs.\\nCustomer: Yeah yeah I have I yes yes everything I have.\\nExecutive: Okay, share me on WhatsApp.\\nCustomer: Yeah, I will share it on your WhatsApp.\\nExecutive: Okay. And one thing I will talk to you the senior manager I will call you.\\nCustomer: Yeah yeah yeah fine fine fine fine.\\nExecutive: Okay okay.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer paid a supplier before Diwali.\\n\n- Supplier has not dispatched the item yet.\\n\n- Provided courier number is fake.\\n\n- Supplier asked not to be called due to prayers.\\n\n\\n\nResolution:\\n\n- Executive assured to talk to senior manager.\\n\n- Customer will share payment details on WhatsApp.\\n\n- Executive will call the customer back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- supplier, payment, dispatch, gst, courier, indiamart\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 204,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c1788f25-87ff-4f55-9566-382ab1040819",
+  "ucid": "c1788f25-87ff-4f55-9566-382ab1040819",
+  "seller_categories": [
+    {
+      "mcat_id": "41842",
+      "mcat_name": "Semi Fowler Beds"
+    },
+    {
+      "mcat_id": "224145",
+      "mcat_name": "Medical Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "10889",
+      "mcat_name": "ICU Beds"
+    },
+    {
+      "mcat_id": "56254",
+      "mcat_name": "Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "31717",
+      "mcat_name": "Manual Wheelchairs"
+    }
+  ]
+}

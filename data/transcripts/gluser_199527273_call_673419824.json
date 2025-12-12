@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673419824",
+  "gluser_id": "199527273",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709465",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan sir aap call hi cut kar dete ho Naseem sir se\\n\\nExecutive: Nahi maine call nahi cut kiya aap logo ne call cut kar diya mam maine call kiya hoga maine unse baat kar li hai sir wo ye keh rahe hain ki aapki baat hui hai unse wo bol rahe hain ki aap refund nahi mang rahe ho\\n\\nCustomer: Main mam wo pura jhoot bol raha hai mam main itna paisa deke main itna paisa deke main ek mahina nahi hua main refund nahi mangunga kaise hoga boliye mam\\n\\nExecutive: To jhoot aap se meri unki baat hui hai\\n\\nCustomer: Wo mere ko wo nahi aaya wo aadmi bheja mere ko\\n\\nExecutive: Aadmi bheja na to\\n\\nCustomer: Haan wo nahi aaya mam\\n\\nExecutive: Wo nahi aaya to dekho sir main aapko bata deti hoon ki dekho ye to Noida head office se refund ki koi policy nahi hai aapko chahiye south ke customer na aaye south mein aap na dekho to aapko uske liye south ka customer bhi customer nahi mila 20 din mein jo bhi mal tha ek bhi customer nahi mila mam use hi nahi kar rahe ho sir aap 15 din mein aap to isi ke piche pade rahe na ki mera to south ka location nahi dekhna chahiye location nahi dekhna chahiye\\n\\nCustomer: Mam Naseem phone kar raha hai main call uthata hoon ek minute ruko merge kariye call ko\\n\\nExecutive: Haan\\n\\nExecutive: Call ko conference kariye\\n\\nCustomer: Ek minute\\n\\nExecutive: Kya ho raha hai\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states executive keeps cutting the call.\\n\n- Customer says he is not getting any leads.\\n\n- Customer wants a refund.\\n\n\\n\nResolution:\\n\n- Executive stated there is no refund policy.\\n\n- Executive said customer should target south customers.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, policy\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 141,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=707c90cd-428a-442c-9cc1-7ac944e4b733",
+  "ucid": "707c90cd-428a-442c-9cc1-7ac944e4b733",
+  "seller_categories": [
+    {
+      "mcat_id": "80226",
+      "mcat_name": "Designer Blouse"
+    },
+    {
+      "mcat_id": "4478",
+      "mcat_name": "Blouse Pieces"
+    },
+    {
+      "mcat_id": "173806",
+      "mcat_name": "Aari Embroidery Work"
+    },
+    {
+      "mcat_id": "6911",
+      "mcat_name": "Embroidered Blouses"
+    },
+    {
+      "mcat_id": "68551",
+      "mcat_name": "Fashion Blouse"
+    }
+  ]
+}

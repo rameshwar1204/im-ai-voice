@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671367698",
+  "gluser_id": "181773233",
+  "vintage_months": 32,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9671555",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nExecutive: Haan Sharma ji namaskar.\\n\\nCustomer: Namaskar.\\n\\nExecutive: Sharma mai Alok Pandey baat kar raha hu sir, Babbyakant ka manager IndiaMART se.\\n\\nCustomer: Haan ji bataiye.\\n\\nExecutive: Sir aapne unko call kiya tha mere khayal se aaj kal me kabhi.\\n\\nCustomer: Hmm.\\n\\nExecutive: Kal kiya tha shayad wo uthaye unse aap se baat hui thi unki?\\n\\nCustomer: Haan baat ho gayi.\\n\\nExecutive: Shayad unhone offline call kar diya sir hamare ERP ke through nahi kiya.\\n\\nCustomer: Kya kuch issue aa raha tha sir aap bataye agar resolve ho gaya ho to koi issue nahi hai.\\n\\nCustomer: Nahi nahi koi issue nahi hai wo kuch se meeting ke liye kuch discussion karna tha to abhi Tuesday ko aa jayenge to tab kar lenge discussion.\\n\\nExecutive: Accha accha nahi sir wo kya hota hai na ki agar wo system ke through call nahi karte hai na agar call back mobile ke through bhi ya hamari ERP hoti hai uske through agar call nahi karte hai to yaha pe auto system generated ek complaint khul jati hai client matlab executive ke khilaf ki executive ne customer ke call ko miss kar diya.\\n\\nCustomer: Accha.\\n\\nExecutive: To hamare pass complaint khuli hui hai sir unke naam ki mere pass ki Babbya ne aapki call nahi uthai. To ise mai close kar du sir? Koi issue to hoga na?\\n\\nCustomer: Haan close kar dijiye. Close kar dijiye.\\n\\nExecutive: Sir aapke pass dekhiyega abhi Ronti Kishan jayega satisfaction ka. Please usko satisfied kar dijiyega sir. Thik hai?\\n\\nCustomer: Haan.\\n\\nExecutive: Dhyan se sir usko mark kar dijiyega satisfied. Taki ye band ho jaye jaldi, thik hai?\\n\\nCustomer: Thik hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive: Customer's call marked as missed.\\n\n\\n\nResolution:\\n\n- Executive: Will close the complaint.\\n\n- Executive: Requested to mark satisfaction feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- erp, complaint, satisfaction\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=106a12d8-9a33-46f9-a91f-8992cdb0f6dc",
+  "ucid": "106a12d8-9a33-46f9-a91f-8992cdb0f6dc",
+  "seller_categories": [
+    {
+      "mcat_id": "87465",
+      "mcat_name": "Stainless Steel Hex Bolt"
+    },
+    {
+      "mcat_id": "1359",
+      "mcat_name": "Stainless Steel Bolts"
+    },
+    {
+      "mcat_id": "181527",
+      "mcat_name": "SS Plain Washer"
+    },
+    {
+      "mcat_id": "38167",
+      "mcat_name": "Stainless Steel Washers"
+    },
+    {
+      "mcat_id": "223254",
+      "mcat_name": "304 Stainless Steel Nuts"
+    }
+  ]
+}

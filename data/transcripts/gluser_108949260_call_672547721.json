@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672547721",
+  "gluser_id": "108949260",
+  "vintage_months": 11,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Surendranagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687388",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e599c54d-c9bb-414d-90b6-22f7ce2547cf",
+  "ucid": "e599c54d-c9bb-414d-90b6-22f7ce2547cf",
+  "seller_categories": [
+    {
+      "mcat_id": "6042",
+      "mcat_name": "Plastic Chairs"
+    },
+    {
+      "mcat_id": "184389",
+      "mcat_name": "Nilkamal Plastic Chairs"
+    },
+    {
+      "mcat_id": "35998",
+      "mcat_name": "Revolving Chair"
+    },
+    {
+      "mcat_id": "181865",
+      "mcat_name": "Plastic Arm Chair"
+    },
+    {
+      "mcat_id": "145359",
+      "mcat_name": "Three Seater Waiting Chair"
+    }
+  ]
+}

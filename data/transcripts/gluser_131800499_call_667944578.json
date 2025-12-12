@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667944578",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan Jahangir sir. Haan mai ye puch rahi hu aapka jo wifi hai Jio wifi hai kya?\\nCustomer: Haan Jio wifi hai.\\nExecutive: Jio wifi mam. Haan to Jio me problem hai isliye nahi khul raha. Achcha. Actually kya hai na sir abhi just maine pucha mam se, thik hai? To aapka jaise jo Jio wala jo wifi hai na usme sir kuch problem aa raha hai.\\nCustomer: Iski wajah se open nahi ho pa raha hai sir.\\nExecutive: To apna internet hai na mujhe 5G phone hai.\\nCustomer: Haan haan.\\nCustomer: To apna internet to chal raha hai na mujhe.\\nExecutive: Achcha, ek second na. Haan.\\nExecutive: Ek minute ruko.\\n\\n\\n\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Hello, haan sir abhi na actually kya backend thing na technical glitch chal raha hai sir. Already escalated hai problem, thik hai? To thoda sa samay lagega sir.\\nCustomer: Thik hai koi baat nahi.\\nExecutive: Thik hai sir. Ji sir.\\nExecutive: Haan actually aapne ye customer care pe call kiya tha na sir, thik hai? To abhi isko na mai ek new concern raise ho jata hai, thik hai? Isko mai abhi mai close kar rahi hu. Baki isko mai hum internal hum mai khud hi aapko mai dekh rahi hu sir. Koi bhi dikkat ho to number to hai hi sir mera, thik hai? Directly aap mere ko connect kar lijiyega, thik hai sir?\\nCustomer: Okay madam, okay.\\nExecutive: Haan, okay. Haan, thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's Jio wifi is not working.\\n\n- Executive informed about technical glitch.\\n\n\\n\nResolution:\\n\n- Executive informed issue is escalated.\\n\n- Executive will personally look into the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- wifi, technical issue, customer care\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7bd7d5a-66a2-41eb-8df6-d833a3fee8db",
+  "ucid": "a7bd7d5a-66a2-41eb-8df6-d833a3fee8db",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

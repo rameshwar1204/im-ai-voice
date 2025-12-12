@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668469189",
+  "gluser_id": "183065260",
+  "vintage_months": 14,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello, IndiaMART se [inaudible] baat kar raha hu.\\nCustomer: Haan, sir main bol raha hu, mera paisa refund kab tak aayega?\\nExecutive: Sir, aapka company name confirm kar sakte hai?\\nCustomer: [inaudible]\\nExecutive: Ek minute sir, main check kar leta hu. Sir, aapka refund process ho gaya hai, aapko 7 se 10 working days mein aa jayega.\\nCustomer: Kitna din ho gaya process hue?\\nExecutive: Sir, process hue aapko 2 din ho gaya hai.\\nCustomer: Do din ho gaya, kab tak aayega?\\nExecutive: Sir, 7 se 10 working days lagta hai, aapko wait karna padega.\\nCustomer: Theek hai.\\nExecutive: Aur koi help chahiye sir?\\nCustomer: Nahi, theek hai.\\nExecutive: Thank you sir, IndiaMART mein call karne ke liye dhanyavad.\\nCustomer: Dhanyavad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know refund status.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund is processed.\\n\n- Executive informed it will take 7-10 working days.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, status, verification\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c92e8011-44ee-4794-afc9-dbb2877fd720",
+  "ucid": "c92e8011-44ee-4794-afc9-dbb2877fd720",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    }
+  ]
+}

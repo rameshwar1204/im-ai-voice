@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676046060",
+  "gluser_id": "204532864",
+  "vintage_months": 16,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir bataiye.\\nCustomer: Sir 172000 ka bill tha party ne 1 lakh kar diya 72000 abhi bhi baki hai.\\nExecutive: Sir to isme jab dekho sir aapko hamari team ne pehle bhi bataya hoga mai abhi batata hu hum isme buyer ka agar IndiaMART ko registered hoga sir. \\nExecutive: Theek hai agar jaise aap IndiaMART ki service chala rahe ho agar wo registered hai sir. Registered hai wo.\\nExecutive: Wo registered hai sir? \\nCustomer: Haan.\\nExecutive: But jo aapne number diya us number se to koi company nahi aa rahi hai sir aap GST number do jisse wo registered ho mai dekh pau. Kyuki maine dekha to company.\\nCustomer: To unko GST number do aapko?\\nExecutive: Ek baar GST number whatsapp pe ya ek minute sir ek ek minute sir ye mai aapko na whatsapp pe hi karata hu ek minute. \\nExecutive: Ye aap wait karke sir ke whatsapp pe hi dalo whatsapp number pe hi dalo.\\n\\n\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Hello\\nCustomer: Haan.\\nExecutive: Madhav ji mai na aapko sir whatsapp pe message dal rahi hu aap mujhe GST number vagera share kar do aur mai aapko apne end se call karungi sir theek hai.\\nCustomer: Theek hai theek hai.\\nExecutive: Accha theek hai sir mai check karke na isko ek baar update kar deti hu theek hai aap.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says party paid only 1 lakh out of 172000.\\n\n- Wants to know why the remaining amount is pending.\\n\\n\nResolution:\\n\n- Executive asked for GST number to verify details.\\n\n- Executive will check and update the customer.\\n\\n\nNext Steps: \\n\n- Customer will share GST number on WhatsApp.\\n\n- Executive will call back after verification.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- bill, payment, gst number, verification\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1aace774-4341-4984-834a-774f98d8cc37",
+  "ucid": "1aace774-4341-4984-834a-774f98d8cc37",
+  "seller_categories": [
+    {
+      "mcat_id": "11144",
+      "mcat_name": "Grey Fabric"
+    },
+    {
+      "mcat_id": "84565",
+      "mcat_name": "Cotton Grey Fabric"
+    },
+    {
+      "mcat_id": "1318",
+      "mcat_name": "Cotton Fabric"
+    },
+    {
+      "mcat_id": "84571",
+      "mcat_name": "Cotton Twill Fabric"
+    },
+    {
+      "mcat_id": "6716",
+      "mcat_name": "Drill Fabric"
+    }
+  ]
+}

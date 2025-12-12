@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668221058",
+  "gluser_id": "183192727",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638858",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? H.G. Furniture and H.G. se baat ho rahi hai sir?\\nCustomer: Ha ji.\\nExecutive: Kaatil se mai Priyanka baat kar rahi hu sir IndiaMART se kaise hai aap?\\nCustomer: Ha ji.\\nExecutive: Sir aapne na IndiaMART ki customer care pe phone kiya tha aapko kuch problem aa raha tha sir aapke catalog mein.\\nExecutive: Aap bataoge sir kya problem aa rahe ho?\\nCustomer: Wo bache ko bata rahi wo dusra number hai ek aur usko kar lete phone.\\nExecutive: Sir wo to phone hi nahi utha rahe subah se.\\nCustomer: Achcha. Chalo mai bol raha hu.\\nExecutive: Isliye maine aapke number pe kiya aap ek baar ya to baat kar lijiye bol dijiye aap back call kar le ya fir mai ek baar call kar lungi aap unse baat kar lo.\\nCustomer: Theek hai mai bol raha hu.\\nExecutive: Theek hai ji theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer having issues with their catalog.\\n\n\\n\nResolution:\\n\n- Executive offered to call back.\\n\n\\n\nNext Steps: \\n\n- Customer will inform the concerned person.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, customer care, callback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a805366c-86f3-44cb-a0e4-3929a718edf4",
+  "ucid": "a805366c-86f3-44cb-a0e4-3929a718edf4",
+  "seller_categories": [
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "18983",
+      "mcat_name": "Teak Wood Bed"
+    },
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "173148",
+      "mcat_name": "Wooden Carved Sofa Set"
+    }
+  ]
+}

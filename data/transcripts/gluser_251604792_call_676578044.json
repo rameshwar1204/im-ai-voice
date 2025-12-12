@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676578044",
+  "gluser_id": "251604792",
+  "vintage_months": 3,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello haan ji haan ji sir.\\n\\nCustomer: Hello namaste sir Mahendra Bhatta.\\n\\nExecutive: Ji ji ji ji Raksha Enterprise sir.\\n\\nCustomer: Haan.\\n\\nExecutive: Haan ji haan ji Kannada aata hai Kannada aata hai. Nahi sir Kannada to nahi aata comfortable in English or Hindi sir.\\n\\nExecutive: Are you comfortable in which language aapko kaunsa language mein comfortable hai sir?\\n\\nCustomer: Sir onde Kannada but Kannada language little bit Hindi sir.\\n\\nExecutive: Little bit Hindi.\\n\\nCustomer: Aapka naam kya hai?\\n\\nExecutive: Bharatdwaj kar raha hu sir main aapka account manager sir mere paas hi call aata hai aapka na maine aapko number bhi diya hai sir whatsapp pe gaya tha maine mail gaya tha sir aap phir bhi dusre number pe call kar rahe hain sir.\\n\\nExecutive: Maine aapko number diya tha na sir mera ki koi issue aata to direct aap mujhpe connect kar lijiye directly phir bhi aapne dusre number pe connect kiya sir kya hai koi issue aapko.\\n\\nCustomer: Nahi hua tha to isliye to aapko bol ji sir main issue bataiye na sir aap maine direct number diya aap mujhe bataiye na direct issue kya dikkat aa raha hai sir aapko.\\n\\nExecutive: Bataiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called on a different number.\\n\n- Wants to discuss an issue.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to state the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, issue, language\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=408d713c-bcc2-495b-94a1-e48b99b1744f",
+  "ucid": "408d713c-bcc2-495b-94a1-e48b99b1744f",
+  "seller_categories": [
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    },
+    {
+      "mcat_id": "36737",
+      "mcat_name": "Sambar Powder"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "36845",
+      "mcat_name": "Rasam Powder"
+    },
+    {
+      "mcat_id": "8066",
+      "mcat_name": "Red Chilli"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667301447",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Haanji.\\nExecutive: Hello good morning sir, mai Malvika baat kar rahi hu.\\nCustomer: Hello.\\nCustomer: Haan dusre number pe baat kariye aap unse.\\nExecutive: Sir wo call pick nahi kar rahe wo na call.\\nCustomer: Abhi wo baat\\nExecutive: Ek minute us number pe mam baat chal rahi hai ji. Abhi kar dete hai baat karata hu ji.\\nCustomer: Accha accha thik hai thik hai mai kar leti hu connect.\\nExecutive: Thik hai ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to someone on another number.\\n\n\\n\nResolution:\\n\n- Executive informed that they are on another call.\\n\n\\n\nNext Steps: \\n\n- Customer will connect themselves.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, other number\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2076e98e-0ee4-4c8b-ae7a-a8450ba0da2b",
+  "ucid": "2076e98e-0ee4-4c8b-ae7a-a8450ba0da2b",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

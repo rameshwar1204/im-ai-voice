@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "666729551",
+  "gluser_id": "5420991",
+  "vintage_months": 122,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Palghar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626101",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ji, IndiaMART se baat kar raha hu, sir. Aapki taraf se call request aayi thi. Kya mai aapka naam jaan sakta hu?\\nCustomer: Ji, mera naam hai Rakesh Kumar.\\nExecutive: Okay. Rakesh ji, bataye kya jaankari chahiye thi aapko?\\nCustomer: Sir, mera account block kar diya gaya hai. Maine payment bhi kiya tha.\\nExecutive: Okay. Sir, ek baar mobile number confirm kar dijiye apna.\\nCustomer: Ji, 9811223344.\\nExecutive: 9811223344. Sir, line pe bane rahiye, mai check kar leta hu.\\nCustomer: Ji.\\nExecutive: (silence) Sir, aapka account to active show kar raha hai. Block nahi hai.\\nCustomer: Active hai? To fir mujhe buyleads kyu nahi aa rahe hai?\\nExecutive: Sir, aapka catalog abhi live nahi hua hai. Isliye aapko buyleads nahi mil rahe hai.\\nCustomer: Catalog live kyu nahi hua? Maine to saare documents de diye the.\\nExecutive: Sir, aapka GST verification pending hai. Aapne jo GST number provide kiya tha, wo government portal pe cancelled show ho raha hai.\\nCustomer: Cancelled? Aisa kaise ho sakta hai? Mera GST to active hai.\\nExecutive: Sir, ho sakta hai aapne purana wala certificate upload kar diya ho. Aap ek baar GST portal pe check kar lijiye. Aur jo active GST certificate hai, usko aap seller panel me jaake dobara upload kar dijiye.\\nCustomer: Achha. Seller panel me kaha pe upload karna hai?\\nExecutive: Sir, aap seller.indiamart.com pe login karenge. Waha pe 'My Profile' section me 'Business Profile' ka option aayega. Usme aapko GST details update karne ka option mil jayega.\\nCustomer: Theek hai, mai check karta hu. To jaise hi mai upload karunga, kitni der me live ho jayega?\\nExecutive: Sir, jaise hi aap upload karenge, hamari team usko verify karegi. Verification me 24 se 48 ghante ka samay lagta hai. Uske baad aapka catalog live ho jayega aur aapko buyleads aane shuru ho jayenge.\\nCustomer: Theek hai sir. Dhanyavaad.\\nExecutive: Welcome, sir. IndiaMART me call karne ke liye dhanyavaad.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Account blocked despite payment.\\n- Not receiving buyleads.\\n- Catalog not live.\\n- GST showing as cancelled.\\n\\n\\nResolution:\\n\\n- Confirmed account is active, not blocked.\\n- Explained catalog is not live due to pending GST verification.\\n- Informed that the provided GST shows as 'cancelled' on the portal.\\n- Guided on how to re-upload the active GST certificate via the seller panel.\\n- Stated verification takes 24-48 hours post-upload.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer needs to re-upload the active GST certificate for verification.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- account blocked, buyleads, gst verification, catalog, seller panel, payment\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=00282533-dd80-4363-908d-8156e97f6369",
+  "ucid": "00282533-dd80-4363-908d-8156e97f6369",
+  "seller_categories": [
+    {
+      "mcat_id": "177228",
+      "mcat_name": "TMT Steel Bars"
+    },
+    {
+      "mcat_id": "182501",
+      "mcat_name": "Kamdhenu TMT Bars"
+    }
+  ]
+}

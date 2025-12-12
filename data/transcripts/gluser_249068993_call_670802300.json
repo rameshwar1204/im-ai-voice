@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670802300",
+  "gluser_id": "249068993",
+  "vintage_months": 4,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Kendrapara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9681489",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1c8a6453-6220-4b5b-972f-c885d4ac2988",
+  "ucid": "1c8a6453-6220-4b5b-972f-c885d4ac2988",
+  "seller_categories": [
+    {
+      "mcat_id": "12324",
+      "mcat_name": "Ganesh Statue"
+    },
+    {
+      "mcat_id": "177958",
+      "mcat_name": "God Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "191376",
+      "mcat_name": "Stone Buddha Statue"
+    }
+  ]
+}

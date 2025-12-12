@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667368799",
+  "gluser_id": "152986674",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Deulgaon Raja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello, aawaz aa rahi hai kya sir?\\n\\nExecutive: Ji sir, aa rahi hai, aawaz aa rahi hai.\\n\\nCustomer: Uh, sir, Fenix se baat kar raha hu mai.\\n\\nExecutive: Ji bataiye sir.\\n\\nCustomer: Uh, mera na jo matlab aapka kya naam hai sir aapka?\\n\\nExecutive: Kya keh rahe hai sir?\\n\\nCustomer: Aapka naam kya hai sir, shubham?\\n\\nExecutive: Sir, Shubham naam hai, Shubham Kumar sir.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Haan sir, aawaz aa rahi hai. Shubham bol raha tha sir IndiaMART se.\\n\\nCustomer: Uh, sir, mai Fenix se baat kar raha hu.\\n\\nExecutive: Kahan se? Fenix se?\\n\\nCustomer: Abhi, abhi baat hui thi meri complaint ke bare mein.\\n\\nExecutive: Sir, aapka, aapko kisi ne bataya customer care pe call karne se mere paas hi aata hai.\\n\\nCustomer: Aapke paas aata hai kya?\\n\\nExecutive: Yes sir, wo hamare liye to hota hi hai ki executive connect kare wo. Koi alag team thodi baithti hai uske liye sir. Uh, ab aapka ticket open ho gaya hoga, wo se complaint open ho gaya. Isliye laga hua hu mai, aapka phir bhi complaint open ho gayi sir.\\n\\nCustomer: Theek hai.\\n\\nExecutive: Nahi, nahi, nahi. Customer, customer, customer care pe kiya hoga na sir aapne?\\n\\nCustomer: Haan.\\n\\nExecutive: Haan, usse se kuch nahi, wo to sir mai kara raha hu wahi hoga. Process mein utna time lagega hi. Theek hai sir? Isko to phir mai close kara hi raha hu sir, wo to hoga sir, theek hai utna time. Mai baat kar raha hu sir mai, theek hai na? Isko close kar du na ticket ko to sir mai?\\n\\nCustomer: Theek hai, theek hai sir, lijiye lekin.\\n\\nExecutive: Haan, isko, ye to mere connect ke liye hi hota hai sir, mai to connect kar hi raha hu na, aapse baat ho hi rahi hai meri subah se.\\n\\nCustomer: Haan.\\n\\nExecutive: Theek hai sir?\\n\\nCustomer: Okay.\\n\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the executive's name.\\n\n- Customer called regarding a previous complaint.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's complaint was open.\\n\n- Executive assured the customer he was handling the issue.\\n\n- Executive offered to close the ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will close the ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, customer care, ticket, connect\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ce47e22-f3f6-4c45-8668-894a185c46df",
+  "ucid": "4ce47e22-f3f6-4c45-8668-894a185c46df",
+  "seller_categories": [
+    {
+      "mcat_id": "4548",
+      "mcat_name": "BOPP Tapes"
+    },
+    {
+      "mcat_id": "149032",
+      "mcat_name": "Cello Tape"
+    },
+    {
+      "mcat_id": "1997",
+      "mcat_name": "Self Adhesive Tapes"
+    },
+    {
+      "mcat_id": "182328",
+      "mcat_name": "Brown Tape"
+    },
+    {
+      "mcat_id": "35735",
+      "mcat_name": "Printed Tapes"
+    }
+  ]
+}

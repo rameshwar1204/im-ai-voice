@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668684922",
+  "gluser_id": "10293098",
+  "vintage_months": 87,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hanji bataiye.\\nCustomer: Ji mam. Mam actually na menu mam ne kisi ka mujhe number diya hua tha. Maine unpe baat bhi ki thi to ek hi meeting hui. Dusri meeting me unhone bola ki unhone koi dusra shayad aap hi ka number diya tha ki aap inse baat kar lo.\\nExecutive: Hmm.\\nCustomer: Fir maine phone kiya to I think aapse baat hui thi ya kis se baat hui thi to us samay shayad baat apni nahi ho payi thi itna mujhe yaad hai. But isko mujhe karana hi hai. Aap log ka kaam karana hi hai mam. To abhi abhi aap online hai kya?\\nExecutive: Hanji bataiye online hai.\\nCustomer: Thik hai. Mai ek bar fir se aapko bhi guide kar deta hu kya matlab ye mam aap yakin mano mai tisri bar batane ja raha hu ki ye issue hai.\\nExecutive: Hmm.\\nCustomer: Rukiye zara. Aapko mai isi number pe whatsapp kar du link?\\nExecutive: Ha link.\\nCustomer: Ek minute line pe rahiye.\\n\\nCustomer: Mam aapko maine whatsapp pe hi likha hai ek bar reply dijiyega.\\n\\nCustomer: Ji ye link mam join kar lo aap.\\n\\nCustomer: Hello.\\nExecutive: Hanji hanji karungi ji.\\nCustomer: Ji thik hai.\\n\\nCustomer: Hmm?\\nExecutive: Join ho gaya hai sir.\\nCustomer: Thik hai.\\nCustomer: Mam laptop ke through meri aawaz ja rahi hai kya?\\nExecutive: Ha aa rahi hai.\\nCustomer: Thik hai. Mam mai phone cut kar deta hu thik hai.\\nExecutive: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance with a pending issue.\\n\n- Customer wants to join the meeting link.\\n\n\\n\nResolution:\\n\n- Executive shared the meeting link on WhatsApp.\\n\n- Customer joined the meeting through the link.\\n\n\\n\nNext Steps: \\n\n- Executive will assist further via the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- meeting link, whatsapp, issue\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 303,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d74530e7-6ef8-4904-881b-89f53b66b8de",
+  "ucid": "d74530e7-6ef8-4904-881b-89f53b66b8de",
+  "seller_categories": [
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    }
+  ]
+}

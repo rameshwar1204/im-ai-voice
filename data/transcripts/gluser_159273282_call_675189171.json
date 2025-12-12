@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675189171",
+  "gluser_id": "159273282",
+  "vintage_months": 2,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9645034",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Good evening.\\nExecutive: Good evening. So bhai ji, thoda inke saath thoda dhyan se baat kijiye.\\nCustomer: Hello\\nExecutive: Haan ji boliye. Abhi mai gaadi chala raha hu thoda. Abhi mai phone karta hu.\\nCustomer: Acha ji boliye. Ye batana tha wo Sudhanshu aapka account manager sign kiya tha maine.\\nExecutive: Haan ji.\\nCustomer: To uska mere paas request aaya tha aap logo ki services pe wo working kar raha tha, right? To kuch kuch catalog me keywords wagera wo add karne ke liye permission le raha tha. To mai puch raha tha ki wo aap hi ne usko bola hai permission wagera lene ke liye ki wo matlab khud se kar raha hai?\\nExecutive: Kya keh rahe ho?\\nCustomer: Aapko irrelevant buyleads wagera ke liye kuch issue aa raha tha na to Sudhanshu ka mere paas request aaya tha.\\nExecutive: Achha.\\nCustomer: To wo mujhse aapke catalog pe kaam karne ke liye permission le raha tha. Mujhe maine usko allocate kiya tha na last call pe aap se baat hui thi.\\nExecutive: Haan.\\nCustomer: Aur maine kaha theek karne ki. Ji ji.\\nCustomer: To mai wahi puch raha tha ki wo permission wo unse de raha tha. Aapne bola hai kaam karne ke liye ya wo khud se hi kar raha hai abhi?\\nExecutive: Khud se hi kar lega.\\nCustomer: Khud se karega na? Theek hai to mai aapko update kar de raha hu. Usko permission de de raha hu mai. Theek hai? Wo aapke catalog pe working kar lega. Aap usko entertain kar lijiyega fir. Theek hai?\\nCustomer: Haan ji update kar rahe ho aap?\\nExecutive: Update nahi, aapke catalog pe hi jo catalog me keywords wagera pe kaam hona hai. Haan, kar dega.\\nExecutive: Wo karke de dega ye bol raha hu. Sudhanshu naam hai unse.\\nCustomer: Sudhanshu naam hai unse? Haan bilkul.\\nExecutive: Theek hai? Abhi wo aapko call karega to aap baat kar lena usse.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked if executive told Sudhanshu to work.\\n\n\\n\nResolution:\\n\n- Executive confirmed Sudhanshu will do it himself.\\n\n- Executive will give Sudhanshu permission to work.\\n\n\\n\nNext Steps: \\n\n- Sudhanshu will call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, buyleads, permission, keywords\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c05d387-9f6a-452f-916a-a3a0b48c72f5",
+  "ucid": "8c05d387-9f6a-452f-916a-a3a0b48c72f5",
+  "seller_categories": [
+    {
+      "mcat_id": "12324",
+      "mcat_name": "Ganesh Statue"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "178024",
+      "mcat_name": "Black Marble Shivling"
+    },
+    {
+      "mcat_id": "178192",
+      "mcat_name": "Marble Goddess Statue"
+    },
+    {
+      "mcat_id": "86105",
+      "mcat_name": "Human Statue & Sculpture"
+    }
+  ]
+}

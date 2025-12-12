@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668238565",
+  "gluser_id": "145349607",
+  "vintage_months": 11,
+  "bl_dau_oct": 3,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643277",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Siya Ram Jai\\n\\nCustomer: Hello?\\nExecutive: Hello?\\nExecutive: Ji Namaskar sir.\\nCustomer: Hanji?\\nExecutive: Namaskar abhi main baat kar raha hun sir IndiaMART se.\\nCustomer: Hello.\\nExecutive: Hello, I am audible to you sir. Meri awaz aa rahi hai aapko?\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive.\\n\n\\n\nResolution:\\n\n- Executive is trying to confirm audibility with the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, audibility\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a8d75fd-dc2c-4ac4-9b40-3f9d39711c0f",
+  "ucid": "6a8d75fd-dc2c-4ac4-9b40-3f9d39711c0f",
+  "seller_categories": [
+    {
+      "mcat_id": "105933",
+      "mcat_name": "Women Clothes"
+    },
+    {
+      "mcat_id": "95708",
+      "mcat_name": "Fridge Magnet"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "650573",
+      "mcat_name": "Women Co-Ord Set"
+    },
+    {
+      "mcat_id": "214734",
+      "mcat_name": "Kids Sharara"
+    }
+  ]
+}

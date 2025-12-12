@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674859904",
+  "gluser_id": "5476147",
+  "vintage_months": 79,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706512",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [Music]\\n\\nExecutive: Hello\\nCustomer: Haan ji good morning sir.\\nExecutive: Good morning.\\nCustomer: Haan Mukesh ji Imran baat kar raha tha main senior manager India Mart se kaise sir aap?\\nExecutive: Haan actually sir maine actually aapko call kiya tha sir maine aapka jo issue tha na uske regarding discuss kiya tha sir apne cluster head se theek hai.\\nCustomer: Haan haan.\\nExecutive: To unka kehna hai ki jaise aap keh rahe ho na sir ki aapke product ka detail woh kara unhone add karke rakha hua hai hai na.\\nCustomer: Haan.\\nExecutive: To aap mujhe kya matlab uska yeh de sakte hain ki ki matlab yeh jo product unhone add kiya hua hai sir uska kya aap aapka matlab khud ka brand hai ya kuch aisa hame mail pe de sakte hain so that main legally uska open kar do sir yahan pe.\\nCustomer: Ek kam kijiye aap support nahi karte hain close kar dijiye mera theek hai.\\nExecutive: Kya support sir?\\nCustomer: Support nahi karta.\\nExecutive: Theek hai sir nahi nahi mujhe ho gaya sir mujhe please bar bar phone mat kijiye abhi theek hai.\\nCustomer: Mukesh ji mera aapko sun\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close his account.\\n\n- Customer does not want to receive calls.\\n\n\\n\nResolution:\\n\n- Executive asked about the product details.\\n\n- Executive asked if the product is customer's brand.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- support, product details, brand\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e4b9dfa-2ad0-409a-9394-05cb8b208ccf",
+  "ucid": "8e4b9dfa-2ad0-409a-9394-05cb8b208ccf",
+  "seller_categories": [
+    {
+      "mcat_id": "85382",
+      "mcat_name": "Air Grease Pump"
+    },
+    {
+      "mcat_id": "35166",
+      "mcat_name": "Pneumatic Grease Gun"
+    },
+    {
+      "mcat_id": "148814",
+      "mcat_name": "Belt Tension Meter"
+    },
+    {
+      "mcat_id": "156055",
+      "mcat_name": "Hand Operated Grease Pumps"
+    },
+    {
+      "mcat_id": "29803",
+      "mcat_name": "Grease Pumps"
+    }
+  ]
+}

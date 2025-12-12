@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672377629",
+  "gluser_id": "215044629",
+  "vintage_months": 17,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Vellore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686139",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello, K and N Enterprises?\\nExecutive: Haan, K and N Enterprises sonna ma'am.\\nCustomer: Aama sir, sollunga.\\nExecutive: India Mart la irunthu call pannirundha ma'am.\\nCustomer: Haan, sollunga.\\nExecutive: Actually, customer care call pannirundhinga, athu regarding naan actually call pannirundha. Sollunga ma'am, enna issue?\\nCustomer: Puriyalaing sir.\\nExecutive: Customer care ku call pannirundhinga ma'am, athukaga call pannirundha. Edhachum issue irukula ma'am?\\nCustomer: Aaha, illaing sir, naanga edhum call pannalaing sir.\\nExecutive: Ungaloda idhula irundha ma'am vandhurukku.\\nCustomer: India Mart la irundhu customer care ku call pannirundhinga. Naan onnum edhume pannala.\\nExecutive: Illaing sir.\\nCustomer: Neenga edhum pannalaingala?\\nExecutive: Seri, indha idhu yaaru ma'am use pannittu irukku? Landline number enga irukkaradhu? Indha Chennai la irukkaradhungala illa Bangalore la irukkaradhungala? 736 mudiyara landline number.\\nCustomer: 736 aa? 736 mudiyara landline number ingeya illa Bangalore aa nu kekkare.\\nCustomer: 736 Chennai thaan illa Bangalore thaan kekkare.\\nCustomer: Ingedhaan sir, Chennai thaan sir.\\nExecutive: Ingeyirundhu thaan ma'am call vandhurukku customer care ku. So, adhanala thaan ketten.\\nCustomer: Naanga ippo edhum pannalaing sir.\\nExecutive: Neenga edhum pannala. Okay, appo indha concern naan close pannikattumgala?\\nCustomer: Haan, idhu okay sir, avlodhaan.\\nExecutive: Seringa ma'am, seri okay, thank you ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about the customer care call.\\n\nResolution:\\n\n- Customer denied calling customer care.\\n- Executive offered to close the concern.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, call, landline\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f2fc573-f7a8-4c66-b825-f7d94eb47996",
+  "ucid": "2f2fc573-f7a8-4c66-b825-f7d94eb47996",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "56027",
+      "mcat_name": "RCC Manhole Cover"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    }
+  ]
+}

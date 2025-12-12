@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675314223",
+  "gluser_id": "73521768",
+  "vintage_months": 1,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nH Executive: Hello\\nCustomer: Hello\\nExecutive: Haan, haan bolo.\\nCustomer: Haan sir Shivam baat kar raha hun main IndiaMART se.\\nExecutive: Haan bolo Shivam ji.\\nExecutive: Haan main ye keh raha tha sir abhi aapne baat kiya jo aap bata rahe the ki aap baat karne wale ho.\\nCustomer: Haan, theek hai sir jo refund ke liye.\\nCustomer: Mera baat ho gaya.\\nExecutive: Haan refund ke liye procedure kar do hai na.\\nExecutive: Theek hai, theek hai. To baki sir aapka ye jo concern chal raha tha.\\nExecutive: Isko abhi main aaj close kar raha hun aur aapka jo refund hai na wo paanch, paanch se saat din mein matlab reflect ho jayega aapke account mein. Jo aapne pay kiya tha jis account se.\\nCustomer: Okay.\\nExecutive: Haan working day mein hota hai matlab abhi Saturday chala jayega usme se Sunday chala jayega.\\nExecutive: Ho jayega matlab jaldi aapko reflect ho jayega. Main aapko confirm kar dunga aapko theek hai.\\nCustomer: Okay, okay, theek hai. Mail bhi kar dijiyega ek baar hai na ki paanch chhe din mein aa jayega.\\nExecutive: Haan haan mail aa jayega. Haan haan mail aa jayega aapke paas.\\nCustomer: Okay. Maine aapko WhatsApp pe message bhi kiya hai to main aapko waha bhi bata dunga theek hai.\\nExecutive: Okay, okay, okay, theek hai, okay, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants refund procedure to be initiated.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund will reflect in 5-7 days.\\n\n- Executive will close the concern today.\\n\n- Executive will confirm on call and WhatsApp.\\n\n- Executive will send a mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, account, mail, whatsapp\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3fc23a18-5a30-45af-8e63-5901419514d7",
+  "ucid": "3fc23a18-5a30-45af-8e63-5901419514d7",
+  "seller_categories": [
+    {
+      "mcat_id": "161156",
+      "mcat_name": "Box Culvert"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "221075",
+      "mcat_name": "Precast Concrete Machine"
+    },
+    {
+      "mcat_id": "36374",
+      "mcat_name": "Retaining Walls"
+    },
+    {
+      "mcat_id": "84185",
+      "mcat_name": "Column Mould"
+    }
+  ]
+}

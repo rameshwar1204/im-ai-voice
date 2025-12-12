@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676454661",
+  "gluser_id": "8973940",
+  "vintage_months": 50,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dindigul",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716543",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hi sir.\\nExecutive: Sir good afternoon. Vishal baat kar raha tha India Mart se.\\nCustomer: Haan main bol raha hoon.\\nExecutive: Sir RK export and import se baat ho rahi hai meri?\\nCustomer: Yes sir, no requirements.\\nExecutive: Ji sir?\\nCustomer: No requirements.\\nExecutive: Sir aapki voice clear hai no sir I am not talking about requirement sir. To main services se regarding call kari thi aapko.\\nCustomer: Which point you want?\\nExecutive: Ji sir?\\nCustomer: Which point you want?\\nExecutive: Sir I am from India Mart.\\nCustomer: No no need kuch nahi.\\nExecutive: No sir I just called you regarding your services.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No requirements.\\n\n- Does not need services.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral to dismissive.\\n\n\\n\n@@@Key Topics:\\n\nindiamart, services, requirements\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9106940d-585e-43ca-9f85-8acf4b54359f",
+  "ucid": "9106940d-585e-43ca-9f85-8acf4b54359f",
+  "seller_categories": [
+    {
+      "mcat_id": "20460",
+      "mcat_name": "Moringa Seeds"
+    },
+    {
+      "mcat_id": "7338",
+      "mcat_name": "Neem Seed"
+    },
+    {
+      "mcat_id": "20463",
+      "mcat_name": "Moringa Leaves"
+    },
+    {
+      "mcat_id": "96273",
+      "mcat_name": "Drumstick Seed"
+    },
+    {
+      "mcat_id": "179410",
+      "mcat_name": "Moringa Dried Leaves"
+    }
+  ]
+}

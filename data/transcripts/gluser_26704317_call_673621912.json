@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673621912",
+  "gluser_id": "26704317",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Bokaro",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696322",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Ji, ma'am.\\nCustomer: Hello.\\nExecutive: Haan, ma'am.\\nExecutive: Haan ji sir, good morning.\\nCustomer: Morning, ma'am. Ji, kal aapne call ji aapne call kiya tha na raat mein aapko. Haan, raat mein maine call kiya tha.\\nExecutive: Ji, ji. Customer care pe call kar diya tha.\\nExecutive: To abhi main aapna ticket solve karke. Ji, ji.\\nExecutive: Aapko na sir mere number pe call kiya kariye. Jo isme mera number hai na, last mein 02110 hai. Haan, haan, theek, theek, haan, haan, haan.\\nExecutive: Yeh aap next time se usi pe call kar lijiyega. Abhi ke liye main yeh concern aapka close kar doon. Isliye aapne usse call kiya tha na, to concern raise ho gaya yeh.\\nCustomer: Theek hai, ma'am.\\nCustomer: Hello.\\nExecutive: Ji, ma'am. Woh aap maine ki haan, key ke liye maine requirement dala tha aapko. To jo manufacturer hai uske thoda sa koi number hai to mujhe ek baar send kariye na.\\nExecutive: Uh, number to sir main dekhti hoon. Possible to uske number to hum nahi bol paate hain. But uski profile pe main abhi na check kar leti hoon. Hamare yaha pe manufacturer only key ring ke. Main unki detail aapko bhej dungi, okay? Theek hai. Ji, theek, theek, theek, theek, theek, theek. Main aapke WhatsApp pe send kar deti hoon. Haan, WhatsApp pe send kar dijiyega. Ji.\\nExecutive: Aur koi concern to nahi hai abhi aapka? Nahi, nahi, nahi, nahi, koi bhi abhi problem nahi hai.\\nExecutive: Achha, theek hai. To jo aapne customer care pe call kiya tha main woh concern close kar doon aapka?\\nCustomer: Haan, haan, woh close kar dijiye aap.\\nCustomer: Aur aap mujhe WhatsApp pe bhej dijiye.\\nExecutive: Ji, ji, main aapke WhatsApp pe bhej deti hoon. Main concern close karke, theek hai sir? Theek, theek, theek, theek, theek.\\nCustomer: Okay, sir.\\nExecutive: Okay, thank you, ma'am. Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants manufacturer number for key requirement.\\n\n\\n\nResolution:\\n\n- Executive agreed to send details on WhatsApp.\\n\n- Closed customer care concern.\\n\n\\n\nNext Steps: \\n\n- Executive will send details on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- manufacturer, whatsapp, key requirement, concern\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=17e116a7-49c9-47ba-8fc8-45ef1c3d1524",
+  "ucid": "17e116a7-49c9-47ba-8fc8-45ef1c3d1524",
+  "seller_categories": [
+    {
+      "mcat_id": "23326",
+      "mcat_name": "Car Air Freshener"
+    },
+    {
+      "mcat_id": "134086",
+      "mcat_name": "High Pressure Car Washer"
+    },
+    {
+      "mcat_id": "5526",
+      "mcat_name": "Car Shampoos"
+    },
+    {
+      "mcat_id": "138096",
+      "mcat_name": "Rubbing Compound"
+    },
+    {
+      "mcat_id": "29",
+      "mcat_name": "Fog Lamp"
+    }
+  ]
+}

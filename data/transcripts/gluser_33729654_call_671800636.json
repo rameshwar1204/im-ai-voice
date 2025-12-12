@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671800636",
+  "gluser_id": "33729654",
+  "vintage_months": 49,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: \u0939\u0947\u0932\u094b\u0964\\nCustomer: \u0939\u0947\u0932\u094b\u0964\\nExecutive: \u0939\u0947\u0932\u094b \u0938\u0930 \u090f\u0932\u092e\u093e \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0941 \u0905\u092d\u0940 \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0939\u0941\u0908 \u0925\u0940 \u0928\u093e \u0915\u0939 \u0930\u0939\u0940 \u0925\u0940 \u0915\u093f \u0935\u0940\u0921\u093f\u092f\u094b \u092e\u0940\u091f \u092a\u0947 \u0906 \u091c\u093e\u0907\u090f \u0938\u0930\u0964\\nCustomer: \u0939\u093e \u090f\u0915 \u092e\u093f\u0928\u091f\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to join a video meeting.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meet\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1d2c9af9-f9fe-48c8-850a-e7d82b913bfb",
+  "ucid": "1d2c9af9-f9fe-48c8-850a-e7d82b913bfb",
+  "seller_categories": [
+    {
+      "mcat_id": "2903",
+      "mcat_name": "Earth Rammer"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "157442",
+      "mcat_name": "Mini Cranes"
+    },
+    {
+      "mcat_id": "42647",
+      "mcat_name": "Earth Compactor"
+    }
+  ]
+}

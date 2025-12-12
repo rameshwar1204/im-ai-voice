@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676911305",
+  "gluser_id": "163269031",
+  "vintage_months": 1,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Bholar Dabri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9724052",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello. Haanji good afternoon sir.\\nCustomer: Haan. Ye ye sab phone kiya tha.\\nExecutive: Kaunsi company se baat kar rahe hain sir?\\nCustomer: Matlab ye sab mein phone kiya tha ye aapka IndiaMART ka hi hai. Haan. Mein haan. Kya bata rahe the humko samajh mein nahi aa raha hai.\\nExecutive: Sir aap kaunsi company se baat kar rahe hain?\\nCustomer: Uttam furniture.\\nExecutive: Haan?\\nCustomer: Uttam furniture house ka.\\nExecutive: Dekho sign up ki baat nahi hai sir. Is baar pehli baar to hum aapko khud hi bata denge.\\nExecutive: Sir Uttam furniture sir aapki meri morning mein baat hui thi na maine aapko kaha tha ki Anshika ka number save kar lijiye wo jo aapke account manager hai. Wahi aapko service ke liye guide karti hai. Aapne uska number save nahi kiya?\\nCustomer: Agar save kar haan save kiya hai.\\nExecutive: Haan to sir koi bhi dikkat aati hai koi bhi query hai to aap apne account manager ko hi call kariyega. Wo aapko acche se guide karegi sir. Haan.\\nExecutive: Theek hai sir.\\nCustomer: Hmm.\\nExecutive: Mein ek baar Anshika ko bol deti hu aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer could not understand the information.\\n\nResolution:\\n\n- Executive confirmed the customer has account manager.\\n\n- Executive advised to contact account manager for queries.\\n\n\\n\nNext Steps: \\n\n- Executive will inform Anshika to call customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, service, queries\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b6da9313-0ed9-4e4d-9de6-53fdf58f2996",
+  "ucid": "b6da9313-0ed9-4e4d-9de6-53fdf58f2996",
+  "seller_categories": [
+    {
+      "mcat_id": "154081",
+      "mcat_name": "Wooden Double Bed"
+    },
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "18983",
+      "mcat_name": "Teak Wood Bed"
+    },
+    {
+      "mcat_id": "100096",
+      "mcat_name": "Wooden Dining Table & Chair"
+    }
+  ]
+}

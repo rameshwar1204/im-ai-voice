@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677194405",
+  "gluser_id": "9378354",
+  "vintage_months": 10,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642155",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Nahi hai beta.\\nCustomer: 0.7 degree ka nikalte yaar.\\nCustomer: Ha waise recording se daaliye. Hello.\\nExecutive: Ha bolo.\\nCustomer: Hello.\\nExecutive: Zakeer bhai, assalam walekum. Ashma baat kar rahi thi main IndiaMART se. Kaise hain aap?\\nCustomer: Aap offline achha kaam karoge but IndiaMART pe bhi aap all.\\nExecutive: Bolo bolo madam.\\nCustomer: Hello. Sir aapse do minute baat karni thi please.\\nExecutive: Koshish kar rahi thi ki sir aapka kya.\\nCustomer: Bolo na.\\nCustomer: Sir aapke renewal ke liye Himani ke sath discussion chal raha tha. Kya hua kuch confirm nahi\\nhua abhi tak sir?\\nExecutive: Aapka kahin had tak kuch.\\nCustomer: Abhi kaha renewal karaya renewal karayenge na.\\nExecutive: Time karwa sakte hain.\\nCustomer: Ha sir usi ke liye puchh rahi hu. Kya problem aa raha abhi tak karaya kyu nahi aapne sir?\\nCustomer: Abhi nahi karayenge next week mein karayenge.\\nExecutive: Aapka plan hai koi IndiaMART ko.\\nCustomer: Next week mein lekin next week aapko bataya hoga na Himani ne sare naye prices milenge fir aapko.\\nExecutive: Aapki lead.\\nCustomer: Abhi karoge to abhi aapko discount offer mil raha hai sir. Old price mil raha hai abhi.\\nCustomer: Hongi sir wo best hongi.\\nCustomer: Aapne dekha hoga pichhle pehle humne aapko 65000 plus ek saal ka bataya tha.\\nCustomer: Abhi wahi 65000 ek 75 ka 76000 ka ho gaya sir.\\nExecutive: Call karna mujhe.\\nCustomer: Aap mujhe batao main kitni der mein aapko call back kar lu sir?\\nExecutive: Se baat nahi kar pa rahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not renewed subscription yet.\\n\n\\n\nResolution:\\n\n- Executive inquired about renewal and discount offers.\\n\n\\n\nNext Steps: \\n\n- Customer will renew next week.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, subscription, discount\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2fa939c6-9877-4f50-8961-02daef6bd504",
+  "ucid": "2fa939c6-9877-4f50-8961-02daef6bd504",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "21693",
+      "mcat_name": "Air Quality Monitors"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "143428",
+      "mcat_name": "Reverse Drum Mixer"
+    }
+  ]
+}

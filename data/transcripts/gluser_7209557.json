@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669874822",
+  "gluser_id": "7209557",
+  "vintage_months": 131,
+  "bl_dau_oct": 9,
+  "customer_type": "ExportTS",
+  "city_name": "Jamnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662433",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nExecutive: Haan hello, haan ji madam aap se video meeting ke liye baat hui thi na?\\nCustomer: Ji ji bataiye.\\nExecutive: Haan to free hai aap?\\nCustomer: Ji main free hoon.\\nExecutive: Kya to aap mujhe mail id de do. \\nExecutive: Koi jo aapne login kar rakhi hai koi bhi.\\nCustomer: Ah main abhi bhejti hoon. Abhi isi call pe doon ya main aapko message kar sakti hoon?\\nExecutive: Aap mujhe call kar lo, aap mujhe call kar lo.\\nCustomer: Theek hai, main abhi call karti hoon aapko.\\nExecutive: Theek, theek, okay.\\nCustomer: Okay, okay, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to provide email ID.\\n\n\\n\nResolution:\\n\n- Asked to call back with email ID.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, email id\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=08d4577a-bec8-49a7-9cfa-97c4028bcafb",
+  "ucid": "08d4577a-bec8-49a7-9cfa-97c4028bcafb",
+  "seller_categories": [
+    {
+      "mcat_id": "156184",
+      "mcat_name": "Brass Battery Terminal"
+    },
+    {
+      "mcat_id": "118263",
+      "mcat_name": "Brass Electrical Pin"
+    },
+    {
+      "mcat_id": "168",
+      "mcat_name": "Brass Inserts"
+    },
+    {
+      "mcat_id": "52846",
+      "mcat_name": "Electrical Pin"
+    },
+    {
+      "mcat_id": "47",
+      "mcat_name": "Battery Terminals"
+    }
+  ]
+}

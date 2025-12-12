@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667761431",
+  "gluser_id": "68011014",
+  "vintage_months": 15,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Hathras",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639272",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Yes\\n\\nExecutive: Namaste IndiaMART se mai bol raha tha.\\n\\nCustomer: Haanji?\\n\\nExecutive: Aapka naam?\\n\\nCustomer: Hello.\\n\\nExecutive: Awaz aa rahi hai meri?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not audible.\\n\n\\n\nResolution:\\n\n- Executive inquired about the customer's name.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, name\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9523dded-bf48-4c6e-a748-7f2a8464a87a",
+  "ucid": "9523dded-bf48-4c6e-a748-7f2a8464a87a",
+  "seller_categories": [
+    {
+      "mcat_id": "998",
+      "mcat_name": "Glass Beads"
+    },
+    {
+      "mcat_id": "165357",
+      "mcat_name": "Evil Eye Protection Pendant"
+    },
+    {
+      "mcat_id": "129491",
+      "mcat_name": "Tasbih Prayer Beads"
+    },
+    {
+      "mcat_id": "446283",
+      "mcat_name": "Evil Eye Bracelet"
+    },
+    {
+      "mcat_id": "104054",
+      "mcat_name": "Colored Glass Beads"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667565289",
+  "gluser_id": "61065959",
+  "vintage_months": 12,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Yeah, who's this?\\n\\nCustomer: Hello.\\nCustomer: Hello, who's this?\\n\\nCustomer: Hello.\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know who is calling.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, call\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0e44ca64-8b1e-4a1f-b1dd-618c74aa210b",
+  "ucid": "0e44ca64-8b1e-4a1f-b1dd-618c74aa210b",
+  "seller_categories": [
+    {
+      "mcat_id": "184336",
+      "mcat_name": "Tipper Truck Rental Services"
+    },
+    {
+      "mcat_id": "181819",
+      "mcat_name": "JCB Backhoe Loader"
+    },
+    {
+      "mcat_id": "215426",
+      "mcat_name": "JCB Excavator Rental"
+    },
+    {
+      "mcat_id": "42923",
+      "mcat_name": "River Sand"
+    },
+    {
+      "mcat_id": "169391",
+      "mcat_name": "Hydra Crane Rental Service"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670128612",
+  "gluser_id": "7046670",
+  "vintage_months": 71,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Chittoor",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665447",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hanji sir aapne company name batayenge please?\\nCustomer: Hello I am trying to login second number.\\nExecutive: Okay. Hello.\\nCustomer: Yeah. Hello. Sir can you tell me please first your company number company name?\\nCustomer: Vrindavan Kalankari craft.\\nExecutive: What sir?\\nCustomer: Vrindavan Kalankari Vrindavan Kalankari craft.\\nExecutive: Vrindavan Kalankari okay okay give me a minute give me a minute sir.\\n\\nExecutive: Yeah just tell me the company please.\\nCustomer: Sorry?\\nExecutive: Just tell me the company please.\\n\\nCustomer: Company ta?\\nExecutive: Yeah you have called on customer care number.\\nCustomer: So\\nExecutive: Yeah yeah yeah. Why you called that number?\\nCustomer: Yeah yeah I already second number but I am not to login unable to login the second number.\\nExecutive: Sir actually for login you have to login with your primary number only because the access for login is only on primary number not on secondary number.\\nCustomer: Only primary ta?\\nExecutive: Yeah for login only you have to login with the your primary number only.\\nYou have not able to login with your secondary number.\\nCustomer: Okay okay okay okay.\\nExecutive: One more thing sir you have called on customer care but you don't have to call on customer care you just save me my number you just save my number and whenever you feel any issue regarding the services or you are not able to see anything on your system so you can simply call me.\\nCustomer: Okay I will try I will try.\\nExecutive: Okay okay okay sir sir one more thing.\\nYou have connected with customer care I am closing the concern as of now. Please after after closing the concern please give me the positive response on mail as well.\\nCustomer: Okay okay sure sure sure sure sure.\\nExecutive: Sure one more thing sir you are hello hello one more thing sir.\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: ha\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to login with the secondary number.\\n\n\\n\nResolution:\\n\n- Informed that login is only possible with primary number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- login, primary number, secondary number\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 155,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eae85e70-f6bf-4135-b90b-a1c1e8fe89f8",
+  "ucid": "eae85e70-f6bf-4135-b90b-a1c1e8fe89f8",
+  "seller_categories": [
+    {
+      "mcat_id": "181315",
+      "mcat_name": "Kalamkari Saree"
+    },
+    {
+      "mcat_id": "177668",
+      "mcat_name": "Kalamkari Dupatta"
+    },
+    {
+      "mcat_id": "182206",
+      "mcat_name": "Hand Painted Saree"
+    },
+    {
+      "mcat_id": "44211",
+      "mcat_name": "Suit Dupatta"
+    },
+    {
+      "mcat_id": "1594",
+      "mcat_name": "Silk Sarees"
+    }
+  ]
+}

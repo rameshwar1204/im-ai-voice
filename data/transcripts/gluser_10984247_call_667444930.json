@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667444930",
+  "gluser_id": "10984247",
+  "vintage_months": 132,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sirmaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646264",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ji Joshi sir ko napak hu.\\nCustomer: Haan ji sir namaskar.\\nExecutive: Namaskar namaskar. Tausif baat kar raha hu sir IndiaMART se relationship manager.\\nCustomer: Ah, thodi der mein baat kar sakte hain sir?\\nExecutive: Kitni der mein? Main is number pe revert karwata hu.\\nCustomer: Haan Joshi sir nahi hai kya?\\nExecutive: Haan haan office pe nahi hai abhi.\\nCustomer: Achcha achcha to kitni der mein connect kar lu main sir to baat ho payegi?\\nExecutive: Main 15-15, 20 minute ke baad karwata hu.\\nCustomer: Theek hai sir.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak with Mr. Joshi.\\n\n\\n\nResolution:\\n\n- Executive informed Joshi is not in office.\\n\n- Executive will have Joshi call back in 15-20 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will have Joshi call back in 15-20 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, relationship manager, connect\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6783ffc1-0cc3-4e04-b139-54672cebdcb1",
+  "ucid": "6783ffc1-0cc3-4e04-b139-54672cebdcb1",
+  "seller_categories": [
+    {
+      "mcat_id": "127494",
+      "mcat_name": "Facial Kit"
+    },
+    {
+      "mcat_id": "11137",
+      "mcat_name": "Green Herbal Tea"
+    },
+    {
+      "mcat_id": "2820",
+      "mcat_name": "Sunscreen Gel"
+    },
+    {
+      "mcat_id": "39114",
+      "mcat_name": "Sunscreen"
+    },
+    {
+      "mcat_id": "2822",
+      "mcat_name": "Sunscreen Lotion"
+    }
+  ]
+}

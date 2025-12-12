@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667909368",
+  "gluser_id": "61366492",
+  "vintage_months": 1,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639361",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Yeah Jagdish sir, very good morning.\\nCustomer: Good morning ji, good morning.\\nExecutive: Jagdish sir, Namaskar, aapka na ek call aaya tha hamare ek DID number pe, kuch issue face kar rahe hai kya IndiaMART ki side se?\\nCustomer: Main thoda gaadi chala raha hu madam, main wapas bolte hai aapko.\\nExecutive: Achha, waise koi dikkat face kar rahe hai, by mistakely call kar diya tha?\\nCustomer: Haan.\\nExecutive: Haan sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if customer facing issue with IndiaMART.\\n\nResolution:\\n\n- Customer said he is driving, will call back.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, issue, driving\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=27951d4e-3f2d-4af3-9459-00a5fdb2520e",
+  "ucid": "27951d4e-3f2d-4af3-9459-00a5fdb2520e",
+  "seller_categories": [
+    {
+      "mcat_id": "146449",
+      "mcat_name": "Marble Mortar"
+    },
+    {
+      "mcat_id": "220079",
+      "mcat_name": "Marble Chakla"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "146450",
+      "mcat_name": "Pestle"
+    },
+    {
+      "mcat_id": "9866",
+      "mcat_name": "Marble Pillars"
+    }
+  ]
+}

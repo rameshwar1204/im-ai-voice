@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667976288",
+  "gluser_id": "193957778",
+  "vintage_months": 6,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639435",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji sir.\\nCustomer: Uh sir, mai bol raha ki ye jo meeting hai uh uh 12:30 baje 12:45 ke baad 12:45 ke baad ho sakti hai na?\\nExecutive: Ji sir, uske baad kabhi bhi kisi bhi time.\\nCustomer: Mai kitne baje 1:00 baje kara du?\\nExecutive: Jo aapki sir marzi.\\nCustomer: 1:00 baje kara deta hu, thik hai sir? Kyuki unhone ek fix time manga hai, toh bol rahe hai ki 12:30 pe mai thoda sa busy hu, toh aap 12:45 ke se 1:00 baje ke beech kara do aap.\\nExecutive: Thik hai sir.\\nCustomer: 1:00 baje kara du?\\nExecutive: Thik hai sir.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to schedule meeting at 1 PM.\\n\n\\n\nResolution:\\n\n- Executive agreed to schedule meeting at 1 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, schedule, time\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ac96dac9-e686-4bdd-9dd5-b7f950f406b3",
+  "ucid": "ac96dac9-e686-4bdd-9dd5-b7f950f406b3",
+  "seller_categories": [
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127342",
+      "mcat_name": "Natural Saffron"
+    },
+    {
+      "mcat_id": "441885",
+      "mcat_name": "Shilajit Resin"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    }
+  ]
+}

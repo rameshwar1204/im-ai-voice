@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674009121",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [unintelligible]\\n\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haanji haanji, Suraj ji baat kar rahe hai, Trade Mix se?\\nCustomer: Haan.\\nExecutive: Haanji haanji, sir main woh bol raha tha account manager change kar diya hai aapka, theek hai?\\nCustomer: Theek hai.\\nExecutive: Phone aa gaya tha aapke paas? Abhi account manager aapka Armaan hai. Maine badhiya se sir samjha bhi diya usko saari cheezein. Theek hai? Aapki baat bhi hui thi abhi toh mere paas mail aaya tha sir ka. Theek hai, toh saari cheezein update karwa di hai maine. Ek baar Armaan ko bhi samjha diya, baaki maine bol diya Monday ek baar aake aapko call karke apna number bhi share kar dega toh aap apna number share bhi kar le, uska save bhi kar lena. Theek hai? Baaki aapke paas number hai hi, koi dikkat nahi hai. Badhiya se sir is baar karwate hai aapka bhi jo discussion hua hai saari cheezein.\\nCustomer: Ji.\\nExecutive: Theek hai sir, baaki kuch bhi rehta hai toh bataiyega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's account manager has been changed.\\n\n\\n\nResolution:\\n\n- Executive confirmed account manager is Armaan.\\n\n- Executive updated all the details.\\n\n- Armaan will call on Monday and share number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, update, contact\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf5145fa-12e2-41bb-9d31-2ed2db0bae9f",
+  "ucid": "cf5145fa-12e2-41bb-9d31-2ed2db0bae9f",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

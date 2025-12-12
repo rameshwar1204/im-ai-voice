@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671156474",
+  "gluser_id": "251848644",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723013",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello.\\nCustomer: Hello?\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12bff0e5-734a-4696-8ea3-f5bc246e555c",
+  "ucid": "12bff0e5-734a-4696-8ea3-f5bc246e555c",
+  "seller_categories": [
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "35976",
+      "mcat_name": "Residential Flats"
+    },
+    {
+      "mcat_id": "33307",
+      "mcat_name": "Mortgage Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "42771",
+      "mcat_name": "Residential Plots"
+    }
+  ]
+}

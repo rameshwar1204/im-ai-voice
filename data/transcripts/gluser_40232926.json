@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672360897",
+  "gluser_id": "40232926",
+  "vintage_months": 55,
+  "bl_dau_oct": 6,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685810",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, Namaskar ma'am, Shahnawaz baat kar raha hu IndiaMART se.\\nCustomer: Haan boliye.\\nExecutive: Ji ma'am, main Quality Science se baat kar raha hu ma'am, main Ritu ji baat kar rahe ho aap?\\nCustomer: Haan, haan.\\nExecutive: Ji ma'am, actually ma'am ek aapne complaint raise kiya tha iske liye. Tab woh sahi ho gaya, sahi ho gaya ab toh.\\nExecutive: Sahi ho gaya ma'am. Aur aap toh ma'am aur service ke bataiye ma'am kaise chal rahi hai service?\\nCustomer: Service sahi hai season ke hisab se.\\nExecutive: Season ke hisab se ma'am aur service call kar rahe hai aapko. Actually sir abhi main hi. Kar rahe hai. Aap hi dekhte ho.\\nCustomer: Haan.\\nExecutive: Service aap hi dekhte ho. Service ke regarding toh baat kar sakte ho aap aise.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Had raised a complaint, now resolved.\\n\n- Enquires about service performance.\\n\n\\n\nResolution:\\n\n- Executive confirmed the complaint is resolved.\\n\n- Executive asked about service performance.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, service, resolution\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=758bfb09-0e10-45a3-924b-0afe7fe09b47",
+  "ucid": "758bfb09-0e10-45a3-924b-0afe7fe09b47",
+  "seller_categories": [
+    {
+      "mcat_id": "183305",
+      "mcat_name": "Water ATM"
+    },
+    {
+      "mcat_id": "118728",
+      "mcat_name": "Water Jars"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    },
+    {
+      "mcat_id": "181574",
+      "mcat_name": "FRP RO Plant"
+    },
+    {
+      "mcat_id": "88491",
+      "mcat_name": "Water Campers"
+    }
+  ]
+}

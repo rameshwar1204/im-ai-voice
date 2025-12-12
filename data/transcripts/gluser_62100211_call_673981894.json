@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673981894",
+  "gluser_id": "62100211",
+  "vintage_months": 33,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sitamarhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9693935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji bataiye sir.\\nCustomer: Haan sir main keh raha tha sir isme GN tiles mein aapko sir kaise login nahi kar pa rahe the solve ho gaya issue aapke wo wala?\\nExecutive: Haan wo wala solve ho gaya app wala solve ho chuka wo.\\nCustomer: Haan sir please keh raha tha sir isme bhi proper app se aur mobile dono se login kar pa rahe hain na aap?\\nExecutive: Haan haan dono dono ho ja ho gaya wo login nahi ho raha tha.\\nCustomer: Theek hai, theek hai, theek hai. To sir services vagarah sir kaise chal rahi hai use kar rahe hain proper IndiaMART ko?\\nExecutive: Aati baat sir baad mein baat karenge sir driving kar rahe hain.\\nCustomer: Haan sir bas ek minute sir chahiye tha aapko bas zyada nahi main aapka uske liye nahi bolta main bolta sir aapka na ek concern open tha to ek baar mera number aapko main WhatsApp kar raha hu save kar lijiye. Monday ek baar detail mein baat kar lete hain aur bhi jo issue hota hai. Abhi tab tak aapka ye sir ek concern ek feedback aaya tha sir usko band karwa deta hu tabhi sir wo satisfy karna padega na kyuki technical mein dala tha maine.\\nExecutive: Theek hai.\\nCustomer: Theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was unable to login to GN tiles.\\n\n- Executive is currently driving.\\n\n\\n\nResolution:\\n\n- Login issue has been resolved.\\n\n- Executive will WhatsApp number to discuss further.\\n\n\\n\nNext Steps: \\n\n- Executive will save number and discuss on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, gn tiles, follow up\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7f31de35-2d0c-4731-9de5-f1dfdc1ee0fa",
+  "ucid": "7f31de35-2d0c-4731-9de5-f1dfdc1ee0fa",
+  "seller_categories": [
+    {
+      "mcat_id": "132943",
+      "mcat_name": "Shuttering Plywood"
+    },
+    {
+      "mcat_id": "139254",
+      "mcat_name": "Clay Brick Making Machine"
+    },
+    {
+      "mcat_id": "27483",
+      "mcat_name": "Film Faced Plywood"
+    },
+    {
+      "mcat_id": "43023",
+      "mcat_name": "Fly Ash Brick Making Machine"
+    },
+    {
+      "mcat_id": "181473",
+      "mcat_name": "MR Grade Plywood"
+    }
+  ]
+}

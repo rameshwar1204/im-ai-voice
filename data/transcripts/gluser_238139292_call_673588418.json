@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673588418",
+  "gluser_id": "238139292",
+  "vintage_months": 10,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Neyyattinkara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687126",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nExecutive: Hello sir, good morning.\\nCustomer: Oh, good morning.\\nExecutive: Uh, actually sir, Gaurav was trying to connect with you over the video meeting, sir. So what is the problem and discuss further things. \\nCustomer: Abhi thoda busy hai, main call karta hu sir.\\nExecutive: Sir, aapka feedback tha uske regarding humne aapko details share kari thi sir. Your end date will remain same, right?\\nExecutive: Abhi aur koi concern toh nahi hai apart from this?\\nCustomer: Hello?\\nCustomer: Uh, 3:00, 3:00 clock mein fix karo.\\nExecutive: Actually kal bhi schedule tha. Are you available for 10 minutes, aap available hai abhi sir? We can discuss now. Not more than 10 minutes.\\nCustomer: Ha, mere paas humne abhi customer padi hai.\\nExecutive: Accha.\\nExecutive: 3 baje abhi\\n",
+  "summary": "\\n\nConcerns:\\n\n- Gaurav trying to connect over video meeting.\\n\n- Feedback details shared; confirmation on end date.\\n\n- Customer to fix meeting at 3:00.\\n\n\\n\nResolution:\\n\n- Executive asked if customer is available for 10 minutes to discuss.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive asked customer to confirm availability to discuss the issue.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meeting, feedback, schedule, availability\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2949812b-9ab7-40ff-b423-cb0bd2f3c737",
+  "ucid": "2949812b-9ab7-40ff-b423-cb0bd2f3c737",
+  "seller_categories": [
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    },
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "24750",
+      "mcat_name": "Chaff Cutter"
+    },
+    {
+      "mcat_id": "139284",
+      "mcat_name": "Electric Chaff Cutter"
+    }
+  ]
+}

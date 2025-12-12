@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668621094",
+  "gluser_id": "54178921",
+  "vintage_months": 17,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646628",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ha\\nExecutive: Ha ji good afternoon sir.\\nCustomer: Ha ma'am Vaishali\\nExecutive: Sir main sir main Priyanka baat kar rahi hu sir India Mart se senior manager kaise hain aap?\\nCustomer: Ha ha main theek hu bataiye.\\nExecutive: Actually sir aapne na recently mein ek concern raise kiya hai India Mart pe aap batayenge sir kya issue aa raha hai?\\nCustomer: Ha main mere main when I log in product list mere ko highlight hi nahi ho raha hai mera aur ye bol ke main almost bahut din ho gaye aapke manager account manager ko.\\nExecutive: Mujhe bataiye sir kya column aapko highlight karana hai product mein jo nahi ho pa raha hai?\\nCustomer: Matlab mere ko wo visible hi nahi ho raha hai baki sab mere ko open ho raha hai like buyer ye buy list ye wo sab ho raha hai abhi agar main naya product dalna chahta hu ya fir if I want to edit a previous product so mere ko wo dikhe dikh\\nCustomer: Dikhai nahi de screen mein maine uska screenshot bhi bheja tha aapke account manager ko but unfortunately kuch ho nahi raha hai it's already been month I guess now.\\nExecutive: Okay to sir sirf product ke base pe issue aa raha hai ya pure application mein problem aa raha hai?\\nCustomer: Are ma'am pura pura isme application mein ek bhi product display nahi ho raha hai wo bol raha hu main.\\nExecutive: Okay phone mein aap check kar rahe ho sir ya system wise aap check kar rahe hain?\\nCustomer: System system system.\\nExecutive: Aap thoda unse puchiye na main thoda main thoda bahar hu aap unse puch lijiye kya issue hai unko exactly pata hai he will be able to let you know na uske baad aap mere ko bata do solve karke.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Product list is not highlighted after login.\\n\n- No product is displayed in the application.\\n\n\\n\nResolution:\\n\n- Executive asked if issue is product or application based.\\n\n- Executive asked to get details from account manager.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product list, application, account manager\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=753e4d6b-a554-431d-aa40-9506094bac11",
+  "ucid": "753e4d6b-a554-431d-aa40-9506094bac11",
+  "seller_categories": [
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "38698",
+      "mcat_name": "Stain Removers"
+    },
+    {
+      "mcat_id": "65193",
+      "mcat_name": "Industrial Cleaning Chemical"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

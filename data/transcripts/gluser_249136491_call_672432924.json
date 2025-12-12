@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672432924",
+  "gluser_id": "249136491",
+  "vintage_months": 4,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panchla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686154",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan. Sir, main ye cheez keh rahi thi ki aap logo ko koi bhi concern raha kare, koi bhi aapko discussion karna ho, toh aap seedha mere number pe hi contact kar liya karo. Aapke paas mera number bhi hai aur main ek baar aapko WhatsApp pe bhi hello message drop kar deti hu. Aap number ko apne paas, theek hai, save karna chahe toh. Theek hai? Baaki jaise customer care number jo hamara hai na, 96969696 wala, aap\\nExecutive: Haan.\\nExecutive: agar helpline number pe call karenge, unko apna concern bataenge, fir call fir mere pe transfer hogi, toh fir mere ko aapka aapko concern batana padega, toh aap hi ke liye thoda process bahut lamba ho jaega. Behtar hai aap mujhe hi direct contact kar liya karo. Toh abhi filhaal woh direct number kaunsi hai? Yehi wala na?\\nCustomer: Ye number nahi hai sir. Main aapko WhatsApp pe hello message drop kar rahi hu. Aap us number ko save kar lena, theek hai?\\nExecutive: Ji, ji. Okay, okay.\\nCustomer: Haan. Ye number WhatsApp pe hai aapka?\\nExecutive: Haan.\\nCustomer: Theek hai. Aur abhi kya hai na sir, aapka na ek concern khul gaya hai. Matlab 96 number pe aapne call kiya hai na, helpline number pe, toh aapka ek concern open ho gaya hai. Main us concern ko filhaal close kar rahi hu. Aapke paas mail par, jo aapki registered mail ID hai, us pe ek feedback ke liye na mail aayega, mere behavior aur resolution ko lekar. Theek hai? Toh aap usko waha pe satisfied ya yes ka option rahega, toh us pe aap click kar dena, theek hai sir?\\nExecutive: Achha, achha.\\nExecutive: Ji, okay.\\nCustomer: Theek hai. Baaki jaise hi aapke brother aa jaate hain, fir meri baat kara dijiye, theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants direct contact number.\\n\n- Customer has a concern opened on helpline.\\n\n\\n\nResolution:\\n\n- Executive shared direct contact number on WhatsApp.\\n\n- Executive is closing the concern.\\n\n- Executive asked for feedback on mail.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- direct contact, feedback, concern\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dd89bdee-3967-4233-a5b3-8406fc79272d",
+  "ucid": "dd89bdee-3967-4233-a5b3-8406fc79272d",
+  "seller_categories": [
+    {
+      "mcat_id": "8288",
+      "mcat_name": "Rubber Bushings"
+    },
+    {
+      "mcat_id": "8317",
+      "mcat_name": "Rubber O Ring"
+    },
+    {
+      "mcat_id": "9346",
+      "mcat_name": "Silicon O Rings"
+    },
+    {
+      "mcat_id": "191812",
+      "mcat_name": "Hydraulic Jack Seal"
+    },
+    {
+      "mcat_id": "8318",
+      "mcat_name": "Rubber Oil Seal"
+    }
+  ]
+}

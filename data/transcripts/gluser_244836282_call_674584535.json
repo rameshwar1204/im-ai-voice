@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674584535",
+  "gluser_id": "244836282",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Ji, good afternoon.\\nHello?\\nExecutive: Haan ji good afternoon, Amit ji.\\nExecutive: Uh, sir, uh\\nExecutive: Madam se baat kar lenge, meeting mein tha, aapko madam ka number diya tha last time.\\nCustomer: Achcha okay, okay, thank you, thank you.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive provided madam's number to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, madam number\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ddda155-8bd2-4fe9-a7b3-4056e2e956eb",
+  "ucid": "6ddda155-8bd2-4fe9-a7b3-4056e2e956eb",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "192697",
+      "mcat_name": "Honeywell Bullet Camera"
+    },
+    {
+      "mcat_id": "85186",
+      "mcat_name": "Bottle Labelling Machine"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669712171",
+  "gluser_id": "180450703",
+  "vintage_months": 3,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644027",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Abdul ji se baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Very good morning. Senior manager baat kar raha hu sir IndiaMART se.\\nCustomer: Thoda main gaon se bahar hu sir. Main subah puja mein.\\nExecutive: Sir aapka concern open hai. Aap samajhiye sir, hamara bhi tight count hota hai sir.\\nCustomer: Suniye sir, mere pass time nahi hai, close kar dijiye sir. No business is important for me.\\nExecutive: Okay. Okay. Main aapka ye concern close kar.\\nCustomer: Close kar dijiye. Bilkul bilkul.\\nExecutive: Main ise close kara deta hu sir aur jab aap available sir aap.\\nCustomer: You have to wait sir. You have to wait.\\nExecutive: Hmm.\\nCustomer: Ji. Sir aisa hai ki main aap jo\\nCustomer: Hello.\\nExecutive: Haan.\\nExecutive: Main sir ye keh raha hu ki main aapka concern close karta hu aur jab bhi aap available ho aaj kal ya any day aap sir.\\nCustomer: Text kiya hu na puja madam ko. Once when I am back I'll call you. Okay.\\nExecutive: Okay, to jo aapka ticket hai sir main wo close kar raha hu sir. Right. Kyunki sir ticket to utna long time tak nahi chal payega sir. Right.\\nCustomer: [unintelligible]\\nExecutive: Okay okay sure sir. So I will close.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close the open concern.\\n\nResolution:\\n\n- Executive agreed to close the concern ticket.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, ticket, close\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa81c81d-944b-437a-bbd9-4ca9eaee766f",
+  "ucid": "fa81c81d-944b-437a-bbd9-4ca9eaee766f",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "182498",
+      "mcat_name": "Cummins Diesel Generator & DG set"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "184158",
+      "mcat_name": "Kirloskar Silent Generators"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674754887",
+  "gluser_id": "226609028",
+  "vintage_months": 16,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panna",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701957",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji sir.\\nExecutive: Roshan baat kar raha hu IndiaMART se.\\nCustomer: Haan ji sir good evening Roshan baat kar raha hu IndiaMART se. Main aapko call karne hi wala tha thodi der se.\\nExecutive: Haan haan koi nahi sir baat kar sakte hai abhi?\\nCustomer: Hmm hmm hmm.\\nExecutive: Samajh gaya. 6:00 pm. Sir morning mein connect kar lu kya aapko? Morning mein aapko 11:00 baje. Discussion hai agar possible hai thoda sa. Baitha hu na main ek jagah pe. Achha achha. Koi nahi sir kal morning mein kar lete hai sir. Main aap bata di main aapko kal kya end kare theek kar lunga hai na?\\nExecutive: Theek hai theek hai sir no problem.\\nCustomer: Theek hai mujhe 11:00 baje kabhi connect kar lijiye theek hai sir?\\nExecutive: Theek hai theek hai sir done.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss something with customer.\\n\n\\n\nResolution:\\n\n- Call rescheduled for the next morning at 11:00 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, reschedule, discussion\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6db1c2b5-d570-4f34-8896-eaceb08c2d89",
+  "ucid": "6db1c2b5-d570-4f34-8896-eaceb08c2d89",
+  "seller_categories": [
+    {
+      "mcat_id": "25348",
+      "mcat_name": "Data Provider"
+    },
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "117637",
+      "mcat_name": "Stock Market Tips"
+    },
+    {
+      "mcat_id": "45924",
+      "mcat_name": "Database Services"
+    },
+    {
+      "mcat_id": "445939",
+      "mcat_name": "Vyapar Billing Software"
+    }
+  ]
+}

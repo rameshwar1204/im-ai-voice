@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672039881",
+  "gluser_id": "678735",
+  "vintage_months": 99,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Aluva",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677668",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: haa ingottu vilichayirunnilla\\n\\nExecutive: aa yes sir this is from IndiaMART sir.\\n\\nExecutive: You just called me from me\\n\\nCustomer: Yeah yeah actually I I have already sent you sir some buyleads related to your product sir.\\n\\nCustomer: Pardon.\\n\\nExecutive: Hello\\n\\nExecutive: Sir I have already sent you some buyleads related to your product sir.\\n\\nCustomer: haa okay okay okay I will printed.\\n\\nExecutive: Okay. Uh\\n\\nExecutive: you can check currently is available only three buyleads after okay I will do that after all buyleads I will share you yeah sir.\\n\\nCustomer: Okay. Okay. Okay I will do that.\\n\\nExecutive: Okay.\\n\\nExecutive: Sir can I close this?\\n\\nExecutive: Hello\\n\\nExecutive: Can I close your feedback sir?\\n\\nCustomer: Okay okay.\\n\\nExecutive: Currently can I close?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about the buyleads.\\n\n\\n\nResolution:\\n\n- Executive confirmed sending buyleads related to product.\\n\n- Executive said currently 3 buyleads are available.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cfa9439f-c1c8-4047-8df8-cabf4b03dda9",
+  "ucid": "cfa9439f-c1c8-4047-8df8-cabf4b03dda9",
+  "seller_categories": [
+    {
+      "mcat_id": "154241",
+      "mcat_name": "Coconut Milk Extractor"
+    },
+    {
+      "mcat_id": "142276",
+      "mcat_name": "Coconut Deshelling Machine"
+    },
+    {
+      "mcat_id": "20774",
+      "mcat_name": "Oil Expellers"
+    },
+    {
+      "mcat_id": "141270",
+      "mcat_name": "Coconut Processing Machinery"
+    },
+    {
+      "mcat_id": "138647",
+      "mcat_name": "Coconut Dehusking Machine"
+    }
+  ]
+}

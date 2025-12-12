@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670248282",
+  "gluser_id": "160938257",
+  "vintage_months": 38,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Muradnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667836",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello ha Maurya sahab Himanshu baat kar raha hun India Mart se kaise hain aap?\\nCustomer: Theek hai sir.\\nExecutive: Ji ji sir ye renewal aapne karaya nahi abhi tak kahan pe gap aa raha hai sir ji?\\nCustomer: India Mart ka renewal hamara kahan karoge?\\nExecutive: Ji?\\nCustomer: Date nikal gaya hamara renewal.\\nExecutive: Sir last bar 2 November ko hi ho gaya tha 2023 mein do saal pehle.\\nCustomer: Hmm. Ji sir.\\nExecutive: To isko kar dijiye sir.\\nCustomer: Hain?\\nExecutive: Haan ji sir.\\nExecutive: Keh rahe karaiye isko sir last bar 2 November ko hi kiya tha tab to date bhi nikal gaya apna grace period ka time bhi apna khatam ho raha hai sir aapko date nikal gaya sir.\\nCustomer: Matlab last bar second of November ko kiya tha na aaj 11 tarikh ho gaya already 12 tarikh sorry.\\nCustomer: Achcha achcha achcha.\\nCustomer: Hmm.\\nCustomer: Waise to ye galat hai sir. Due date khatam ho gayi kya hamari?\\nExecutive: Nahi due date khatam nahi hogi last payment ki baat kar raha hun 2 November ko kiya tha aapne to due date mein to abhi thoda bahut time hai bacha hua hai but isko kara dijiye sir amount pe aap sir Vivek se baat hui thi to aap 50000 inclusive GST mein mang rahe hain aisa kuch.\\nCustomer: Vivek se baat hui thi aap aap se bhi to baat hui thi meri.\\nExecutive: Mere se?\\nCustomer: Ek second.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's renewal date has passed.\\n\n- Customer mentions amount of 50000 inclusive of GST.\\n\n\\n\nResolution:\\n\n- Executive confirmed due date has not expired.\\n\n- Executive asked customer to renew the subscription.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, subscription, due date\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=928b3a5a-1408-4d89-af19-7da5335adc38",
+  "ucid": "928b3a5a-1408-4d89-af19-7da5335adc38",
+  "seller_categories": [
+    {
+      "mcat_id": "5809",
+      "mcat_name": "Pedestal Fan"
+    },
+    {
+      "mcat_id": "436",
+      "mcat_name": "Ceiling Fans"
+    },
+    {
+      "mcat_id": "191475",
+      "mcat_name": "Lassi Machine"
+    },
+    {
+      "mcat_id": "73948",
+      "mcat_name": "Electric Room Heater"
+    },
+    {
+      "mcat_id": "6837",
+      "mcat_name": "Electric Table Fans"
+    }
+  ]
+}

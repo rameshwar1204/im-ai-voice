@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666965917",
+  "gluser_id": "110194670",
+  "vintage_months": 11,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630042",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji, aawaz sun rahe hain.\\nCustomer: Hello.\\nExecutive: Ji, main bol rahi hu.\\nCustomer: Ji, good evening ma'am.\\nExecutive: Good evening, ma'am.\\nExecutive: Haan ma'am, main Pooja baat kar rahi hu IndiaMART se.\\nCustomer: Hm hm.\\nExecutive: Aur aapke number pe IndiaMART ke services ke regarding hi call kiya hai jo lifetime bhi aap use kar rahe ho.\\nCustomer: Ji.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Ji boliye na ma'am.\\nExecutive: Ji ma'am, aawaz aa rahi hai?\\nCustomer: Ji boliye.\\nExecutive: Haan ma'am, main keh rahi hu maine IndiaMART ke regarding call kiya hai. Kya ma'am jo issue hai aapka resolve nahi hua? Aapko contracts mein problem face ho rahi hai kya buyleads mein IndiaMART mein buyleads mein?\\nCustomer: Koi bhi different nahi aaya ma'am. Aisa hi hai.\\nExecutive: Achha, toh buyleads mein, toh buyleads bilkul aapke, isse pehle tha ki buyleads aapke products aa rahi thi but conversion nahi ho raha tha. Abhi kya buyleads bhi aapke product ke relevant nahi aa rahi hai kya?\\nCustomer: Nahi, conversation toh hoti hai. Woh log ko hum phone kar dete hai ki dekhiye, humein yeh suitable rate lagta hai.\\nExecutive: Hm hm.\\nCustomer: Phir woh log reply nahi karte. Phone pe toh haan bolte.\\n(Call disconnected sound)",
+  "summary": "\\n\\nConcerns:\\n\\n- No improvement in service experience.\\n- Buyleads are not converting into business.\\n- Potential buyers agree on the phone but don't reply later.\\n\\n\\nResolution:\\n\\n- Executive called to follow up on the customer's service experience.\\n- Tried to understand the specific issue with buylead conversion.\\n\\n\\nNext Steps: \\nIssue not resolved. The call disconnected abruptly before a solution could be discussed.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, conversion, customer follow-up, call disconnection\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d5462233-aa58-4212-be46-dbfce9842795",
+  "ucid": "d5462233-aa58-4212-be46-dbfce9842795",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "185997",
+      "mcat_name": "White Pebble"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "226872",
+      "mcat_name": "Gemstone Tree"
+    }
+  ]
+}

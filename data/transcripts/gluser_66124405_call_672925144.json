@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672925144",
+  "gluser_id": "66124405",
+  "vintage_months": 7,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Kashipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690426",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Good afternoon sir, VK food product se baat kar rahi hu, Vikesh Kumar ji.\\nCustomer: Haan ji, haan ji, haan ji.\\nExecutive: Sir, kab baat kar rahi hu IndiaMART team, account team se, aapke account manager.\\nCustomer: Haan haan.\\nExecutive: Aapne ek ticket open kiya hai sir abhi 9696.\\nCustomer: Haan haan.\\nExecutive: Ji ji, kya issue face kar rahe hai sir?\\nCustomer: Lead vagera aa hi nahi rahi hai kuch.\\nExecutive: Kya ho raha hai sir?\\nCustomer: Lead aa hi nahi rahi maine kaha kuch na.\\nExecutive: Buy lead aapko nahi aa rahi hai ek bhi.\\nCustomer: Kabhi kabhi ek aa jaati hai, kabhi koi nahi hai, kabhi do aa jaati hai, bas aise hi chal raha hai. Shuru shuru mein baat thi.\\nExecutive: Main dekh rahi hu.\\nExecutive: Aapko main video call ki link bhej rahi hu, aap connect kariyega na sir.\\nCustomer: Nahi abhi abhi toh possible nahi hai.\\nExecutive: Kya bol rahe hai sir?\\nCustomer: Nahi, abhi possible nahi hai is samay na video.\\nExecutive: Achha aur hume jo, achha achha koi baat nahi aap five minute ka time de dijiye main aapko aise hi bata deti hu call pe.\\nCustomer: Aap 4:30 baje ka schedule fix kar lijiye.\\nExecutive: 4:30 ka schedule kar du. Theek hai main ek toh 4:30 ka schedule kar deti hu. Abhi aap mujhe ye bata dijiye toh main ticket pe update kar dungi ki kya kya problem aa rahi hai. Keval aapko buy lead related hi issues hai?\\nCustomer: Haan bas, haan buy lead related hi hai.\\nExecutive: Buy lead toh sir bahut saari panel pe padi hui hai.\\nCustomer: Nahi nahi.\\nExecutive: Theek hai ek baar hum baat kar lete hai ispe. Shayad aapko haan.\\nCustomer: Theek hai, okay.\\nExecutive: Ji ji.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving buyleads.\\n\n- Wants to schedule a call at 4:30.\\n\n\\n\nResolution:\\n\n- Executive scheduled a call at 4:30.\\n\n- Executive asked about the issues to update the ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, schedule, ticket\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=234bb1da-b502-45ac-bf5a-c4a778d7b566",
+  "ucid": "234bb1da-b502-45ac-bf5a-c4a778d7b566",
+  "seller_categories": [
+    {
+      "mcat_id": "38980",
+      "mcat_name": "Tomato Sauce"
+    },
+    {
+      "mcat_id": "192597",
+      "mcat_name": "White Vinegar"
+    },
+    {
+      "mcat_id": "37419",
+      "mcat_name": "Soya Sauce"
+    },
+    {
+      "mcat_id": "2491",
+      "mcat_name": "Tomato Ketchup"
+    },
+    {
+      "mcat_id": "188862",
+      "mcat_name": "Green Chilli Sauce"
+    }
+  ]
+}

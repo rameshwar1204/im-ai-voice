@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674569268",
+  "gluser_id": "7993872",
+  "vintage_months": 131,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708422",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nCustomer: Hello?\\n\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Haan Vikas sir, good afternoon.\\nExecutive: Good afternoon.\\nCustomer: Ji Praveen bol raha hu sir Indiamart se.\\nExecutive: Haan Praveen ji.\\nCustomer: Haan, keh raha hu sir ye thoda apna catalog theek karwa lijiye sir.\\nCustomer: Wo madam se baat karu na?\\nExecutive: Mam phone nahi utha rahi hai aaj kal.\\nCustomer: Achha aaj kahi busy honge. Chalo main bolta hu baat karne.\\nExecutive: Achha. Kya sir koi banda rakha aapne?\\nCustomer: Na abhi kaha koi.\\nExecutive: Sir isko karwaiye sir.\\n\\nCustomer: Hello?\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to fix his catalog.\\n\n- Wants to talk to the madam.\\n\n\\n\nResolution:\\n\n- Executive informed customer to get catalog fixed.\\n\n- Executive will inform madam to call customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, follow up, profile\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dc784c33-3692-474b-82c1-dbb308fb5d50",
+  "ucid": "dc784c33-3692-474b-82c1-dbb308fb5d50",
+  "seller_categories": [
+    {
+      "mcat_id": "6041",
+      "mcat_name": "Plastic Carry Bag"
+    },
+    {
+      "mcat_id": "140760",
+      "mcat_name": "Printed Non Woven Bags"
+    },
+    {
+      "mcat_id": "7283",
+      "mcat_name": "PP Woven Bags"
+    },
+    {
+      "mcat_id": "185147",
+      "mcat_name": "Transparent PP Bag"
+    },
+    {
+      "mcat_id": "1484",
+      "mcat_name": "Plastic Bags"
+    }
+  ]
+}

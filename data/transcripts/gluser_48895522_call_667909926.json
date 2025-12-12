@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667909926",
+  "gluser_id": "48895522",
+  "vintage_months": 88,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638683",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan.\\nExecutive: Haanji sir good morning.\\nCustomer: Good morning.\\nExecutive: Sir main IndiaMART se baat kar rahi thi actually kal aapne call kara tha na to aapka thoda sa open nahi tha due to some reason.\\nCustomer: Madam wo to kuch bhi open nahi ho raha hai IndiaMART ka.\\nExecutive: Wahi main keh rahi hu sir kya issue aa raha hai video meeting pe sir aa sakte ho aap abhi.\\nCustomer: Madam buyleads open nahi ho rahe.\\nExecutive: Buylead open nahi ho raha sir matlab aapka catalog open ho raha hai.\\nCustomer: Meri baat suniye catalog open ho raha hai magar jab buylead pe click karte hai na.\\nHmm hmm.\\nCustomer: Buylead pe click karte hai to wo kuch bhi show nahi dikha raha hai.\\nUspe usse aa raha hai baad me last me aa raha hai aborted.\\nExecutive: Kab se sir ye ho raha hai.\\nCustomer: Madam ye che saat din se ho raha hai khali mere ko hi nahi balki bahut sare yaha pe panch che bande hai unko ho raha hai.\\nExecutive: Aap ek baar sir abhi IndiaMART me login karna ek baar log out karke fir se login kariye ek baar.\\nOn call hi kariye ek baar.\\nCustomer: Thik hai main aapko main gaadi chala raha hu main baad me karta hu.\\nExecutive: Kab call kar paoge sir ek baar main ye dekh lu aapka kya issue hai.\\nCustomer: Madam aap aap na mere ko ek ghante ke baad call karna.\\nExecutive: 11 baje kar lu sir.\\nCustomer: Aaa abhi kitna bajega 10 baj raha hai sir. Saade saade 11 karna call.\\nExecutive: Chalo thik hai main aapko 11:30 baje. Okay mam okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buyleads are not opening in IndiaMART.\\n\n- Issue occurring for the past 6-7 days.\\n\n- Issue is not isolated; affecting 5-6 others.\\n\n\\n\nResolution:\\n\n- Executive asked to log out and log in again.\\n\n- Executive suggested doing it on the call.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, login, technical issue\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 113,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cfc1c5f7-231d-4e0f-ac4f-311d0219d3b3",
+  "ucid": "cfc1c5f7-231d-4e0f-ac4f-311d0219d3b3",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "157608",
+      "mcat_name": "Dried Blueberries"
+    }
+  ]
+}

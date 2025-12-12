@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668078977",
+  "gluser_id": "51027251",
+  "vintage_months": 53,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Surat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Ji sir Rahul baat kar raha hun IndiaMART se.\\nCustomer: Ek second.\\nExecutive: 5 minute mein call kijiye.\\nCustomer: Theek hai sir, theek hai. Do minute pura kar lijiye, 5 minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back in 5 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back in 5 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, timing\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=846dbad7-cfcb-40cd-9ff3-2b762c1bf707",
+  "ucid": "846dbad7-cfcb-40cd-9ff3-2b762c1bf707",
+  "seller_categories": [
+    {
+      "mcat_id": "9722",
+      "mcat_name": "Lycra Fabric"
+    },
+    {
+      "mcat_id": "101825",
+      "mcat_name": "Tencel Fabric"
+    },
+    {
+      "mcat_id": "12747",
+      "mcat_name": "Denim Fabric"
+    },
+    {
+      "mcat_id": "656189",
+      "mcat_name": "Popcorn Fabric"
+    },
+    {
+      "mcat_id": "19775",
+      "mcat_name": "Twill Fabric"
+    }
+  ]
+}

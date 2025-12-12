@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670633458",
+  "gluser_id": "61425935",
+  "vintage_months": 14,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Jasdan",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667745",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan, good morning sir, main Akanksha IndiaMART se baat kar rahi hu. Aapne ye kal app pe video meet pe click kiya hua tha.\\nCustomer: Haan ji.\\nExecutive: Video meeting pe.\\nCustomer: Achha, aapko kuch required nahi hai sir services related?\\nCustomer: Nahi nahi, kuch nahi hai sir.\\nExecutive: Fir isko close kar du main?\\nCustomer: Haan, kar do, close kar do.\\nExecutive: Theek hai, baki sir wo maine aapko rates vgera bhej diya hai sir, uska kya finalize kiya, do saal ya teen saal ka?\\nCustomer: Dekhta hu main. Ek minute ke baad main aapko batata hu, theek hai?\\nExecutive: Kya?\\nCustomer: Dekh leta hu, dekhne ke baad main batata hu aapko.\\nExecutive: Maine aapko proposal ka wo TrustSeal mein kya benefits milega wo sara kuch likh ke maine bheja tha, wo aapne shayad padh liya hoga na sara kuch.\\nCustomer: Wo TrustSeal wala hai na, wo calculation ke saath jo aapne mujhe do saal ka jo bheja tha na, usi tarah se mujhe ab teen saal ka bhi bhej do. TrustSeal wala teen saal wala.\\nExecutive: Usme usme na 1 lakh ka deal, theek hai, main bhej deti hu, bhejne mein koi dikkat nahi hai, theek hai. Baki isko kab finalize karenge sir?\\nCustomer: Aap bhej to do pehle.\\nExecutive: Bhej to main do minute mein. Bhejne ke baad hi main aapko batata hu. Bhej do.\\nExecutive: Aap line pe rahiye, main aapko bhej rahi hu.\\nCustomer: Theek hai.\\nExecutive: Chalo, ek minute line pe rahiye.\\nCustomer: Ye kaunse number pe dal rahi hai aap?\\nExecutive: Kya?\\nCustomer: Yahi number pe dal rahe ho na?\\nExecutive: Aapko WhatsApp pe bhej rahe hai.\\nCustomer: Theek hai.\\nExecutive: Ek minute. Bhej do.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants TrustSeal plan for 3 years.\\n\nResolution:\\n\n- Executive agreed to send the 3-year plan.\\n\n\\n\nNext Steps: \\n\n- Executive will send the plan on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, subscription, proposal\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3bbaeda5-4e9b-4102-9a32-ea74a98fcba3",
+  "ucid": "3bbaeda5-4e9b-4102-9a32-ea74a98fcba3",
+  "seller_categories": [
+    {
+      "mcat_id": "167578",
+      "mcat_name": "Pooja Chowki"
+    },
+    {
+      "mcat_id": "166769",
+      "mcat_name": "Krishna Swing"
+    },
+    {
+      "mcat_id": "182145",
+      "mcat_name": "Meenakari Box"
+    },
+    {
+      "mcat_id": "177981",
+      "mcat_name": "Wooden Dry Fruit Box"
+    },
+    {
+      "mcat_id": "185509",
+      "mcat_name": "Wooden Chowki"
+    }
+  ]
+}

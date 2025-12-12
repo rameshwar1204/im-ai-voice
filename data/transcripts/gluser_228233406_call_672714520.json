@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672714520",
+  "gluser_id": "228233406",
+  "vintage_months": 5,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Haveri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687044",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c662fde7-a021-416a-819b-9df352f7bfa3",
+  "ucid": "c662fde7-a021-416a-819b-9df352f7bfa3",
+  "seller_categories": [
+    {
+      "mcat_id": "162792",
+      "mcat_name": "Refurbished Laptops"
+    },
+    {
+      "mcat_id": "105926",
+      "mcat_name": "Second Hand Laptop"
+    },
+    {
+      "mcat_id": "181435",
+      "mcat_name": "Dell Laptops"
+    },
+    {
+      "mcat_id": "181436",
+      "mcat_name": "HP Laptop"
+    },
+    {
+      "mcat_id": "11352",
+      "mcat_name": "Laptops"
+    }
+  ]
+}

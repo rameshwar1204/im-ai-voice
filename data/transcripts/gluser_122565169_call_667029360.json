@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667029360",
+  "gluser_id": "122565169",
+  "vintage_months": 18,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632306",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Ek minute dijiyega ma'am.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji ma'am.\\nExecutive: Haan ji. Sir, aap mujhe paanch minute denge? Main abhi just aapko call kar rahi hoon.\\nCustomer: Theek hai.\\nExecutive: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive was busy and requested to call back.\\n\\n\\nResolution:\\n\\n- Arranged a callback in 5 minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back in 5 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n\\n@@@Key Topics:\\n- callback request\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e2902efe-f484-48c0-818f-42bf4f45ea92",
+  "ucid": "e2902efe-f484-48c0-818f-42bf4f45ea92",
+  "seller_categories": [
+    {
+      "mcat_id": "9866",
+      "mcat_name": "Marble Pillars"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "650973",
+      "mcat_name": "Stone Tulsi Pot"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667078947",
+  "gluser_id": "51690634",
+  "vintage_months": 5,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632583",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Namaste ma'am, main Vikas bol raha hoon.\\nCustomer: Ji ji.\\nExecutive: Vikas bol raha hoon. Keh raha hoon ki ma'am abhi call kiya tha kya aapne 9696 wale number pe?\\nCustomer: Woh galti se kar diya tha maine.\\nExecutive: Achha galti se lag gaya tha. Toh main close kar de raha hoon ticket, theek hai na? Koi ticket generate ho jaata hai jaise hi aap click karte ho.\\nCustomer: Actually main woh customer ko call kar rahi thi, aapne woh bola tha na Ram unko, toh maine galti se woh call list mein aapka number dikha.\\nExecutive: Nahi nahi, koi issue nahi hai, koi issue nahi hai. Main isko close kar de raha hoon, theek hai? Feedback jayega, feedback mein yes kar dijiyega ma'am, theek hai?\\nCustomer: Hmm.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Called IndiaMART support by mistake.\\n\\n\\nResolution:\\n\\n- Confirmed the call was a mistake.\\n- Informed that the auto-generated ticket will be closed.\\n- Requested to provide positive feedback.\\n\\n\\nNext Steps: \\nIssue resolved. Executive to close the ticket.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- mistaken call, ticket closure, feedback request\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f1e83e08-1caa-401d-b10e-027a9691efb0",
+  "ucid": "f1e83e08-1caa-401d-b10e-027a9691efb0",
+  "seller_categories": [
+    {
+      "mcat_id": "185017",
+      "mcat_name": "Asian Emulsion Paints"
+    },
+    {
+      "mcat_id": "1207",
+      "mcat_name": "Bathroom Fittings"
+    },
+    {
+      "mcat_id": "189717",
+      "mcat_name": "Berger Emulsion Paints"
+    },
+    {
+      "mcat_id": "178938",
+      "mcat_name": "Exterior Emulsion Paint"
+    },
+    {
+      "mcat_id": "180593",
+      "mcat_name": "Jaquar Shower"
+    }
+  ]
+}

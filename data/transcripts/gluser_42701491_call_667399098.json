@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667399098",
+  "gluser_id": "42701491",
+  "vintage_months": 57,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635370",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ha hello.\\nExecutive: Ha ji mai Avnish baat kar raha hu IndiaMART se kaise hai aap sir?\\nCustomer: Bolo bolo bolo.\\nExecutive: Ji ji ji aapne wo concern raise kiya tha na apne taraf se by mistake se ticket open ho gaya tha wo 969 se aapne call kiya tha na sir.\\nCustomer: Theek hai to ye concern aapka close kar du fir mai.\\nCustomer: Ha ye close kar do aur wo wala jo subah hamara morning me baat hua na wo mai ticket karke aapko batata hu.\\nExecutive: Ha wo to sir maine karwa diya ek baar check kar lo fir uska mujhe bata do sir aap. Aur mai sir ye keh raha hu Kayur ji.\\nCustomer: Hello.\\nExecutive: Ha ha.\\nExecutive: Ha mai apni jo mail id hai sir ye mail id aap.\\nCustomer: Achha theek hai sir.\\nExecutive: Kya bol rahe hai?\\nExecutive: Mai sir ye keh raha hu apni mail id hai na kkeautomation1177@yahoo.in.\\nCustomer: Theek hai bol rahi hai.\\nExecutive: Theek hai sir ye mail id ke pass ye mail id aapki hai na sir.\\nCustomer: Ha ha.\\nExecutive: Isme sir dekhna ek baar sir wo ek mail aayega feedback ka mere regarding aayega aapke pass IndiaMART se sir theek hai usme please satisfy mark kar dijiyega aap.\\nCustomer: Ha but wo kiske regarding feedback aayega?\\nExecutive: Wo mere regarding aayega sir. Mere feedback jo aapne jo kal aapke regarding kis kaam ke regarding?\\nExecutive: Jo abhi aapne 969 se jo call kiya tha na sir aapne.\\nCustomer: Ha ha ha ha.\\nExecutive: Ha to ye aapne closure de diya aur ha iska solution ho gaya isme aapko koi concern nahi tha aapka sir. Theek hai. Isme please satisfy mark kar dijiyega sir aap. Uske us book me QR code ek aata hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants executive to close ticket.\\n\n- Customer wants executive to check on morning issue.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the ticket.\\n\n- Executive informed the customer about feedback mail.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- ticket, feedback, closure, mail\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f1331d4-bb9d-498f-b7e4-5d5a12cc2224",
+  "ucid": "2f1331d4-bb9d-498f-b7e4-5d5a12cc2224",
+  "seller_categories": [
+    {
+      "mcat_id": "1913",
+      "mcat_name": "Digital Temperature Controller"
+    },
+    {
+      "mcat_id": "5927",
+      "mcat_name": "PID Temperature Controller"
+    },
+    {
+      "mcat_id": "12854",
+      "mcat_name": "Digital Panel Meter"
+    },
+    {
+      "mcat_id": "25555",
+      "mcat_name": "DC Drives"
+    },
+    {
+      "mcat_id": "37481",
+      "mcat_name": "Speed Sensors"
+    }
+  ]
+}

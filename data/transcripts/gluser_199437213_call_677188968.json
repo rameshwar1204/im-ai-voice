@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677188968",
+  "gluser_id": "199437213",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kannauj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663130",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello? Aapki aawaz, haanji, hello.\\nExecutive: Sir aawaz aa rahi hai meri?\\nCustomer: Haan bataiye sir.\\nExecutive: Ji. Main keh raha tha sir ye aapka ye Maurya fragrance ka profile chal raha tha sir. Isme sir aapne wahi bola tha refund ke liye sir. Humne aapko phir bataya tha refund ki policy hai hi nahi sir. Aapko clearly pehle bhi kar chuke hain sir aapko dobara bhi kar rahe hain.\\nExecutive: Okay sir, kahin bhi refund ki policy\\nExecutive: Sir main IndiaMART se baat kar raha hun.\\nCustomer: Pehle to Parmar ji koi thi wo baat kar rahi thi is bare mein mere se.\\nExecutive: Haan Karuna ji baat kar rahi. Karuna ji aapke account mein nazar aa rahe hain. Matlab Karuna ji TL hain. Uske neeche hain Shivam. Shivam ke upar Karuna ji hain.\\nExecutive: Wahi profile dekh rahi hain aapka.\\nCustomer: Haan to unhone bata diya aapko kyunki dekhiye haan wahi unhone bata diya aapko. Actually meri unki ye baat hui thi ki wo video call pe kuch batayengi uske baad phir wo decision lengi. Ye baat hui thi meri unse.\\nExecutive: Video call pe batayengi?\\nCustomer: Unhone kaha tha main video call pe aapko profile ke bare mein bataungi kaise lead ban sakta hai, kaise aap improve kar sakte ho, kaise aapka business ban sakta hai uske baad ye baat hui thi meri unse. Lekin unhone abhi meri bare baat\\nExecutive: Main kal ek baar aapki call kara deta hun video meeting par. Theek hai? Kal morning mein ya parson ek baar video meeting par aap dekhiye, samjhiye uske baad aap decide kijiyega. Aaj free hain to aaj karwa dijiye call ek baar bataiye. Kaafi tools wagera hain wo aapko batayenge uske bare mein.\\nCustomer: Actually abhi sir busy hain na chutti pe main bahar hun. Abhi to main office laptop nahi open kar paunga lekin main unhi se baat unhone kaha tha aap mere number baat kar lena to maine kahin office baat hi nahi kar paya.\\nExecutive: Haan theek hai main aapko callback karata hun, theek hai? Chaliye. Okay sir.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a refund.\\n\n- Customer wants a video call for profile explanation.\\n\n\\n\nResolution:\\n\n- Executive reiterated no refund policy.\\n\n- Executive offered to arrange a video meeting.\\n\n\\n\nNext Steps: \\n\n- Executive will call back to schedule video meeting.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, profile, video call, policy\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=545a54ab-b303-40f2-b469-782ddc2e2816",
+  "ucid": "545a54ab-b303-40f2-b469-782ddc2e2816",
+  "seller_categories": [
+    {
+      "mcat_id": "346997",
+      "mcat_name": "Oudh Attar"
+    },
+    {
+      "mcat_id": "4949",
+      "mcat_name": "Attar"
+    },
+    {
+      "mcat_id": "181650",
+      "mcat_name": "Rose Attar"
+    },
+    {
+      "mcat_id": "28936",
+      "mcat_name": "Fragrance Oil"
+    },
+    {
+      "mcat_id": "177634",
+      "mcat_name": "Mitti Attar"
+    }
+  ]
+}

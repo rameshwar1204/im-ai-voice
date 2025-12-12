@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670793409",
+  "gluser_id": "93811958",
+  "vintage_months": 14,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ganaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718019",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Yes\\n\\nExecutive: Anil ji baat kar rahe the Dream Home se?\\n\\nCustomer: Dream Home se. Accha accha accha.\\n\\nExecutive: Haan sir Anil se baat Anil sir.\\n\\nCustomer: Haan ji kaise hain?\\n\\nCustomer: Haan sir maine aapko itni call ki thi ki aap mujhse baat kara dijiye. Kis ko aap. Mummy ke sath baitha hua hun. Mummy ke sath baitha hua hun. Picture humne picture add kar rahe the product jo naye the wo add bhi kar rahe the.\\n\\nCustomer: To maine abhi Tatanic Pharma Flex add kiya hai lekin usme picture jo maine add ki wo show nahi kar rahi jo pehle wali picture hai bas wohi show kar rahi hai woh tani kyon?\\n\\nExecutive: Accha, theek hai. Aap mujhe do minute dijiye, main account open karke aapko call back karti hun.\\n\\nCustomer: Bilkul bilkul.\\n\\nExecutive: Theek hai sir, aap mujhe bas do minute dijiye, aapko call back karti hun, theek hai?\\n\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Picture not showing after adding product.\\n\n\\n\nResolution:\\n\n- Executive will check the account and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in two minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product, picture, account, call back\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ec33fded-6bfa-43c3-a17e-a8f2a6f41601",
+  "ucid": "ec33fded-6bfa-43c3-a17e-a8f2a6f41601",
+  "seller_categories": [
+    {
+      "mcat_id": "133933",
+      "mcat_name": "Synthetic Thickener"
+    },
+    {
+      "mcat_id": "9615",
+      "mcat_name": "Liquid Toilet Cleaners"
+    },
+    {
+      "mcat_id": "167127",
+      "mcat_name": "Release Agent"
+    },
+    {
+      "mcat_id": "2483",
+      "mcat_name": "Toilet Cleaners"
+    },
+    {
+      "mcat_id": "2663",
+      "mcat_name": "Urea"
+    }
+  ]
+}

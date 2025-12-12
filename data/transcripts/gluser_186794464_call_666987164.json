@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666987164",
+  "gluser_id": "186794464",
+  "vintage_months": 18,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Rangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666805",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Haan, good afternoon sir. Juhi baat kar rahi thi IndiaMART se.\\nCustomer: Haan boliye madam.\\nExecutive: Haan sir, just abhi main free hui thi.\\nCustomer: Main thoda bahar hu madam, thoda baad me baat karta hu.\\nExecutive: Ji?\\nCustomer: Thoda bahar hu main. Baad me, thoda one hour ke baad baat karta hu.\\nExecutive: Achha ye bataiye, aapka na subah Sindhu ke sath baat hui thi.\\nCustomer: Haan.\\nExecutive: Toh Sindhu ne aapki problem ka resolution nahi diya tha kya? Aapne to usko no diya hai, satisfied nahi kiya hai.\\nCustomer: Nahi nahi diya madam, isliye main aapko... main main solution kya hai madam uska, main leads kuch bhi nahi aa rahe, aa rahe to jaise hi aa rahe hain, aise aa rahe hain, chale jaa rahe hain.\\nExecutive: Hmm. Isi liye na, isi liye main aapko meeting ke liye bol rahi thi. Actually main just abhi free hui hu sir. Aap ek ghante baad free rahoge na, aap bol rahe ho.\\nCustomer: Haan theek hai ma'am. Main baat karta hu main aapse.\\nExecutive: Haan haan, ek ghante me aap mujhe call back kar dijiyega. Theek hai?\\nCustomer: Haan theek hai. Theek hai.\\nExecutive: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Not receiving any buyleads.\\n- Received buyleads are irrelevant.\\n- Previous issue was not resolved by another executive.\\n- Gave negative feedback on a previous call.\\n\\nResolution:\\n\\n- Followed up on the negative feedback.\\n- Scheduled a callback in one hour to discuss the issue.\\n\\nNext Steps: \\n- Issue not resolved.\\n- Customer will call the executive back in one hour.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Negative | Risk of churn -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, negative feedback, callback, resolution\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4468a135-52fe-47d2-91a9-a04b977ca13a",
+  "ucid": "4468a135-52fe-47d2-91a9-a04b977ca13a",
+  "seller_categories": [
+    {
+      "mcat_id": "192412",
+      "mcat_name": "EPDM Flooring"
+    },
+    {
+      "mcat_id": "101844",
+      "mcat_name": "Sports Floorings"
+    },
+    {
+      "mcat_id": "188825",
+      "mcat_name": "Synthetic Basketball Court"
+    },
+    {
+      "mcat_id": "22916",
+      "mcat_name": "Basketball Court Construction"
+    },
+    {
+      "mcat_id": "200118",
+      "mcat_name": "Kids Playground Flooring"
+    }
+  ]
+}

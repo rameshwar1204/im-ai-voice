@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672394386",
+  "gluser_id": "251482310",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bavla",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685957",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan hello boliye. Hello Vishal sir Ilma baat kar rahi hu IndiaMART se.\\nExecutive: Ji mam boliye.\\nCustomer: Sir aapka customer care pe call aaya tha na?\\nCustomer: Haan wo mai check kar raha tha bas aise hi chala gaya.\\nExecutive: Achcha check kar rahe the achcha. Thik hai. Thik hai wo na customer care pe chala gaya tha to complaint open ho gayi hai sir. Thik hai? To mai isko close kar deti hu aap feedback please yes kar dijiyega sir.\\nCustomer: Thik hai mai bol raha tha mam ki apna activate kab tak ho jayega pura?\\nExecutive: Process me hai sir. Ek process chal raha hai production me chal raha hai. To aane wale ek hafte ke andar to active ho jayegi services sir. Ye jo domain website jab ban jayega to direct call inquiries aayenge na mere ko?\\nCustomer: Haan sir.\\nExecutive: Okay mam kyuki abhi aa nahi rahe hai jaise isliye mai bol raha tha ki kitne din lagenge.\\nExecutive: Haan dheere dheere fir aapko us pe bhi speed up ho ke aane lag jayega profile pe. Thik hai? Aur thik hai sir mai ye close kar deti hu aap please is pe feedback yes kar dijiyega. Thik hai?\\nCustomer: Okay. Okay.\\nExecutive: Okay sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- When will the account be fully activated?\\n\n- Will get direct call inquiries after website creation?\\n\n\\n\nResolution:\\n\n- Informed that the account is in process.\\n\n- Account will be activated within a week.\\n\n- Direct call inquiries will come after website creation.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- activation, customer care, feedback, website\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f4e21585-b7f1-4ac6-a14c-af6791a5d8de",
+  "ucid": "f4e21585-b7f1-4ac6-a14c-af6791a5d8de",
+  "seller_categories": [
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "150852",
+      "mcat_name": "MS Porta Cabin"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    },
+    {
+      "mcat_id": "145136",
+      "mcat_name": "FRP Portable Toilet"
+    },
+    {
+      "mcat_id": "185338",
+      "mcat_name": "GI Portable Cabin"
+    }
+  ]
+}

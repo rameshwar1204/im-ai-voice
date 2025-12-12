@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674496165",
+  "gluser_id": "73521768",
+  "vintage_months": 1,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan sir aapne IndiaMART se call kar rahi hu aap bole the na team se discuss karke update denge sir.\\nCustomer: Haan boliye.\\nExecutive: Aap bole the na team se discuss karke update denge to update to aapko manually search karke bhi nikalne ke liye bola hua hai to aap wo bhi kar sakte ho.\\nCustomer: Haan matlab hamara team se discuss hua hai management team se to final decision aaj sham tak wo log de denge.\\nExecutive: To kitne baje main aapko call.\\nCustomer: Haan.\\nExecutive: Aapko fir kitne baje connect karu?\\nCustomer: A samjho na 4-5 baje wo log bata denge hamare management team main aapko bhi uske sath mere conference mein bhi le lunga aapka team rahega ya aapka jo bhi management hai wo mera team rahega hum log sath milke uska decision le lete hai na.\\nExecutive: Sir aaj ho jayega na final kyuki bahut din se pending hai na to 4 baje main aapko puch lu?\\nCustomer: Haan 4-5 baje ginti rakho chala jayega. Theek hai.\\nExecutive: Theek hai.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs an update on a pending decision.\\n\n\\n\nResolution:\\n\n- Customer will get back by evening.\\n\n- Executive will be included in the conference call.\\n\n\\n\nNext Steps: \\n\n- Executive to call customer at 4-5 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pending decision, conference call, update\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ce4ff84-af01-4972-af97-d0c3d73202fc",
+  "ucid": "2ce4ff84-af01-4972-af97-d0c3d73202fc",
+  "seller_categories": [
+    {
+      "mcat_id": "161156",
+      "mcat_name": "Box Culvert"
+    },
+    {
+      "mcat_id": "139715",
+      "mcat_name": "Precast U Drain"
+    },
+    {
+      "mcat_id": "221075",
+      "mcat_name": "Precast Concrete Machine"
+    },
+    {
+      "mcat_id": "36374",
+      "mcat_name": "Retaining Walls"
+    },
+    {
+      "mcat_id": "84185",
+      "mcat_name": "Column Mould"
+    }
+  ]
+}

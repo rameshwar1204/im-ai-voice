@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667003162",
+  "gluser_id": "241324329",
+  "vintage_months": 4,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Buldana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683096",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: main aapko itni bol raha tha sir ki isme chal raha hai to isme display par abhi aapne card ka process nahi hua to wo maine karwa diya taki aapko koi dikkat na ho isliye maine apne account se hi baat kar di.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive was explaining an issue with a card process.\\n\\n\\nResolution:\\n\\n- Stated that the card process issue has been resolved.\\n\\n\\nNext Steps: \\nIssue not resolved. The call ended abruptly before the customer could respond.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- card process, account\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ee32779-c8af-44f3-862c-9ac8c1efb179",
+  "ucid": "6ee32779-c8af-44f3-862c-9ac8c1efb179",
+  "seller_categories": [
+    {
+      "mcat_id": "41550",
+      "mcat_name": "Yellow Corn"
+    },
+    {
+      "mcat_id": "7662",
+      "mcat_name": "Soy Bean"
+    },
+    {
+      "mcat_id": "145584",
+      "mcat_name": "Toor Dal"
+    },
+    {
+      "mcat_id": "37393",
+      "mcat_name": "Sorghum"
+    },
+    {
+      "mcat_id": "69958",
+      "mcat_name": "Turmeric Finger"
+    }
+  ]
+}

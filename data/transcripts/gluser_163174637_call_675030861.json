@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675030861",
+  "gluser_id": "163174637",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baidyabati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9700375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello ji, good afternoon.\\nExecutive: Very good afternoon, sir.\\nCustomer: Calling Gupta Ramayan ji.\\nExecutive: Hello.\\nExecutive: Hello ji, mam bataiye.\\nCustomer: Calling Gupta baat kar rahi hu Ramayan ji se.\\nExecutive: Ah, mai Ashraf baat kar raha hu IndiaMART ke head office se.\\nCustomer: Okay, mam ka bhi call aaya tha isi number pe.\\nExecutive: Accha, koi baat nahi.\\nExecutive: Ah, accha accha, mai ek baar check kara leta hu mam na.\\nCustomer: Hmm.\\nExecutive: Ek call back arrange kara deta hu. Thik hai. Batana toh nahi.\\nExecutive: Nahi, abhi toh nahi, ek baar check karana padega mam.\\nCustomer: Okay, okay.\\nExecutive: Hai na? Mai check kara ke batata hu. Thik hai.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak with Ramayan ji.\\n\n\\n\nResolution:\\n\n- Executive offered to check and arrange a callback.\\n\n\\n\nNext Steps: \\n\n- Executive will check and inform the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, verification, contact\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=acf894d9-a952-4c46-afb9-5054cd74ae6b",
+  "ucid": "acf894d9-a952-4c46-afb9-5054cd74ae6b",
+  "seller_categories": [
+    {
+      "mcat_id": "187435",
+      "mcat_name": "GI Pole"
+    },
+    {
+      "mcat_id": "20565",
+      "mcat_name": "Solar Street Lights"
+    },
+    {
+      "mcat_id": "137974",
+      "mcat_name": "Octagonal Pole"
+    },
+    {
+      "mcat_id": "153868",
+      "mcat_name": "High Mast Lighting Pole"
+    },
+    {
+      "mcat_id": "226874",
+      "mcat_name": "GI Octagonal Pole"
+    }
+  ]
+}

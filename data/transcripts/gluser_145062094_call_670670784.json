@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670670784",
+  "gluser_id": "145062094",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Pithampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691937",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Patel sir baat kar rahe hain?\\nCustomer: Ji bol raha hun.\\nExecutive: Sir actually sir paanch se 10 minute ka aapka training session tha ki aapko IndiaMART kaise use karna hai. To isliye call kiya tha. To abhi aap free hai baat kar lu?\\nCustomer: Hmm, ek second.\\nCustomer: Mam abhi nahi hai, maine unse management jo mere manager hai na. Haan. Lagbhag Shubham ji hai. Unse meri baat ho gayi, maine bola jab main free hounga to main unko phone kar lunga.\\nExecutive: Aise sir kab tak ki ummeed hai?\\nCustomer: Mam aaj idea nahi hai, aaj mere ko thoda kaam jyada hai. To jab bhi main free ho jaunga to main aapko phone kar dunga.\\nExecutive: Sir second half mein bhi bolenge na tab bhi chal jayega sir second half mein.\\nCustomer: Haan?\\nExecutive: Agar second half mein free ho na aap chaar se paanch mein tab bhi chal jayega.\\nCustomer: Haan haan main aapko matlab Shubham sir ko bolunga main.\\nExecutive: Dekh lena sir possible ho to hai na, urgent hai abhi call. Thik hai?\\nCustomer: Thik hai, thik hai. Abhi to main ek aadha baje dekhta hun free hounga to bata dunga.\\nExecutive: Haan please bataiyega matlab 10 minute se jyada aapka nahi liya jayega, thik hai sir?\\nCustomer: Thik, thik.\\nExecutive: Thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to schedule training session.\\n\n\\n\nResolution:\\n\n- Customer will inform Shubham to schedule call.\\n\n\\n\nNext Steps: \\n\n- Customer will inform executive if free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- training, schedule, call\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c41a7d45-5a32-464d-9f9f-aef3764ebecd",
+  "ucid": "c41a7d45-5a32-464d-9f9f-aef3764ebecd",
+  "seller_categories": [
+    {
+      "mcat_id": "27799",
+      "mcat_name": "Emulsion Paints"
+    },
+    {
+      "mcat_id": "185017",
+      "mcat_name": "Asian Emulsion Paints"
+    },
+    {
+      "mcat_id": "20934",
+      "mcat_name": "Water Based Primer"
+    },
+    {
+      "mcat_id": "161038",
+      "mcat_name": "Synthetic Enamel Paint"
+    },
+    {
+      "mcat_id": "27803",
+      "mcat_name": "Enamel Paints"
+    }
+  ]
+}

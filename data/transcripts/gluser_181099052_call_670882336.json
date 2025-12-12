@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "670882336",
+  "gluser_id": "181099052",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Dakshin Santoshpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ha ji, Hawra Log Industry mein baat ho rahi hai sir?\\nCustomer: Ji.\\nExecutive: Shraddha baat kar rahi hai sir IndiaMART se. Sir aapne koi concern open kiya hai kya IndiaMART pe?\\nCustomer: Kya?\\nExecutive: IndiaMART pe aapne koi concern open kiya hai kya sir?\\nCustomer: [inaudible]\\nExecutive: Actually aap aapke end se aap call kar rahe the but call a nahi hua tha. To abhi koi concern to nahi hai sir hamara?\\nCustomer: Nahi nahi IndiaMART mein to hamara portal chal raha hai.\\nExecutive: Haan.\\nCustomer: Fir?\\nExecutive: To uska na abhi ek concern raise hua tha sir, aap call kar rahe the shayad. To abhi to ek problem.\\nCustomer: Nahi nahi ham to call nahi kiya.\\nExecutive: Achcha achcha, to ho sakta hai sir galti se lag gaya hoga. To abhi na main yahan se concern close kar sakti hu agar koi issue nahi hai service ke regarding to.\\nCustomer: Turant kar dijiye, turant kar dijiye.\\nExecutive: Thik hai, main close kar deti hu. Iska feedback receive hoga aap wahan pe feedback response de sakte ho, okay sir?\\nCustomer: Okay okay.\\nExecutive: Thank you sir, have a nice day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about a concern raised on IndiaMART.\\n\nResolution:\\n\n- Executive closed the concern.\\n\n- Informed about feedback process.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, feedback, call\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=41c3c9ff-6599-467f-a2b6-59fa20132915",
+  "ucid": "41c3c9ff-6599-467f-a2b6-59fa20132915",
+  "seller_categories": [
+    {
+      "mcat_id": "148221",
+      "mcat_name": "Cupboard Locks"
+    },
+    {
+      "mcat_id": "9313",
+      "mcat_name": "Shutter Lock"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669355231",
+  "gluser_id": "76450092",
+  "vintage_months": 32,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji.\\nCustomer: Hello.\\nExecutive: Haan ji, hello.\\nCustomer: Ji ji sir OTP mil gaya.\\nExecutive: OTP sir mil gaya.\\nCustomer: 3923 lekin uske baad bhi bata raha hai secure your phone or no our email ID.\\nExecutive: Haan, uske baad bata raha hai verification uske baad bata raha hai email ID dalne ka.\\nCustomer: Haan email ID bhi verify hoti hai do two factor authentication hai na waha par pehla aapka phone number wo hoga dusra mail ID jo dali hui hai wo hogi mail ID mein main aapko bata deta hu kaunsi mail ID padi hui hai ye jantacom@gmail.com wali jo mail ID hai ye padi hui hai is mail ID pe bhi ek OTP gaya hoga wo daliye aap ek do minute chalu rakhna padega.\\nExecutive: Haan, ji main dalunga. Ye fever hai.\\n\\nExecutive: Bas ho gaya ek minute.\\n\\nExecutive: Theek hai, theek hai na, theek hai na.\\n\\nCustomer: Haan ji bataiye kya karna hai sir ab OTP gaya hoga mail ID pe verify kara hoga na aapne.\\nExecutive: Ji do minute mein email pe dekho pehle.\\nCustomer: Aap ek kaam karo pehle to Google Meet se aap chale gaye ho na Google Meet pe aa jao wapas se ek baar to main bhi verify kar deta hu 1181 sir iske upar haan 1181 haan uske baad usko OTP ko dalo aap wahi pe jaake IndiaMART pe wapas se.\\nExecutive: Aaya hoga verify ka 1181 jo bhi aapka hai.\\nCustomer: Ji verified ho gaya.\\nExecutive: Verified ho gaya ab dekhiye login ho gaya hoga.\\nCustomer: Ji ho gaya.\\nExecutive: Ho gaya theek hai ab aap ek kaam karo mail ID pe jahan se video meet pe aap aaye the waha pe wapas aana ek baar mail Google Meet join kariye aap hat gaye ho call lagate hain na aap jaise call lagate ho aap customer ko kisi ko bhi kisi ko bhi to aap automatically Google Meet se chale jaate ho aap wapas se ek baar aao.\\nCustomer: Theek hai sir ho gaya main aa jao.\\nExecutive: Theek hai ab aap screen share karo.\\nCustomer: Has put your call on hold.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to login to IndiaMART.\\n\n- Requires assistance with OTP verification.\\n\n\\n\nResolution:\\n\n- Executive provided guidance on OTP verification process.\\n\n- Executive verified customer's email ID.\\n\n- Customer successfully logged in after verification.\\n\n\\n\nNext Steps: \\n\n- Executive asked customer to rejoin Google Meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- otp, verification, login, google meet\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 141,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=02fe6baf-ce94-40cd-88c1-505dc28c8852",
+  "ucid": "02fe6baf-ce94-40cd-88c1-505dc28c8852",
+  "seller_categories": [
+    {
+      "mcat_id": "12112",
+      "mcat_name": "Crystal Beads"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "184655",
+      "mcat_name": "Gemstone Ganesha Statue"
+    },
+    {
+      "mcat_id": "25166",
+      "mcat_name": "Crystal Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    }
+  ]
+}

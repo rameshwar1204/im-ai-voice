@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673040670",
+  "gluser_id": "253386941",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Chapra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Tere mandiro me mai maine jyot kya jalai ho gaya mere ghar me\\n\\nExecutive: Hello.\\nCustomer: Hello. Abhinav sir se baat ho rahi hai?\\nExecutive: Hello.\\nCustomer: Abhinav sir se baat ho rahi hai?\\nExecutive: Hello, ha ji.\\nExecutive: Abhinav sir Anisha baat kar rahi hu IndiaMART se actually aapne complaint raise kiya hua tha tulsi ke regarding mujhe puchna tha ki sir kya issue aa raha hai?\\nCustomer: Abhi to baat nahi ho payegi mam abhi mai raste me hu abhi kaise baat ho payegi aap ya to ya to ek ghante ke baad baat kar lijiye ya fir kal baat kar lijiye morning me.\\nExecutive: Sir issue kya aa raha tha wo aap bata sakte ho?\\nCustomer: Issue kuch nahi hai Rajendra ji humko kaam shuru karaye hai. Ha.\\nCustomer: Aur abhi tak koi response nahi mila do mahine me yahi sabse bada issue hai.\\nExecutive: Accha to aur dusri cheez ye bhi hai sir ki mai call kar rahi thi agar services ke liye aapko to lekin baat nahi ho pa rahi thi kisi se kyuki aapka jo primary number yaha pe mention hai wo to aapka band aata hai hamesha.\\nCustomer: Nahi kabhi nahi kabhi nahi nahi nahi aap galat bol rahe hai kabhi mera number band nahi hai aur hamesha aapka number aap bataiye.\\nCustomer: Jo registered number ha ha abhi bhi aap laga lo call abhi bhi call lagega kyu nahi lagega.\\nExecutive: Ek minute line pe dijiyega sir mai abhi aapko bata deti hu.\\n\\n(silence)\\n\\nExecutive: Aap jis vyakti se baat kar rahe hai unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Aap jis\\nCustomer: Hello.\\nExecutive: Ji hello.\\nExecutive: Ha sir abhi lag raha hai wo but mai jitni baar bhi call kar rahi thi wo hamesha band aa raha tha. Even maine aapke account manager se bhi discuss kiya to unhone aapka ye wala number diya mujhe.\\nCustomer: Chaliye koi nahi ek baar free hoke aap baat kar lijiye humse kal kal morning me.\\nExecutive: Thik hai kal morning me kis time pe aapko connect karu mai kab aap available rahenge?\\nCustomer: Aap aap 8 baje 9 baje tak aap baat kar lijiye 10 baje baat kar lijiye koi issue nahi hai.\\nExecutive: Thik hai mai 10 baje ek bari aapko call back karungi thik hai sir?\\nCustomer: Kar lijiye kar lijiye thik hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states no response in two months.\\n\n- Customer's primary number was always switched off.\\n\n\\n\nResolution:\\n\n- Executive confirmed the number is working.\\n\n- Executive will call back at 10 AM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, follow up, contact number\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 151,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1d4b0d84-d5c7-4322-9a86-64a7f070ae42",
+  "ucid": "1d4b0d84-d5c7-4322-9a86-64a7f070ae42",
+  "seller_categories": [
+    {
+      "mcat_id": "11938",
+      "mcat_name": "Gas Lighters"
+    },
+    {
+      "mcat_id": "85179",
+      "mcat_name": "Hand Chopper"
+    },
+    {
+      "mcat_id": "43199",
+      "mcat_name": "Potato Peeler"
+    },
+    {
+      "mcat_id": "31319",
+      "mcat_name": "Kitchen Cleavers"
+    },
+    {
+      "mcat_id": "84245",
+      "mcat_name": "Plastic Water Jug"
+    }
+  ]
+}

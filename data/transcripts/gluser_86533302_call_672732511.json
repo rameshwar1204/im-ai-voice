@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672732511",
+  "gluser_id": "86533302",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Patiala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672736",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir Minakshi bol rahi hu India Mart se sir kaise hain aap?\\nCustomer: Phone mat kar bhai ho?\\nExecutive: Sir Minakshi.\\nCustomer: Bolo.\\nExecutive: Sir main Minakshi bol rahi hu India Mart se sir.\\nCustomer: Bolo bolo.\\nExecutive: Haan sir wo aap ye bataye abhi free hain?\\nCustomer: Bolne to sahi.\\nExecutive: Renewal sir aapko call kiya hai aapki concern ke regarding sir wo sold out lead ki jo problem hai na uske liye.\\nCustomer: Hmm wo theek hai.\\nExecutive: Aur jo aapko bulk order ka to aap mujhe ye bataye aapke har product mein kitna minimum order quantity dal du bulk ke liye?\\nCustomer: Are madam ab local mein kam se kam man lijiye jaise kam hota hai to lakh ka bhi ho do lakh ka bhi ho local ka hai na hai hum log dur kar 200 plus mein hai to kam se kam apne hisab se lakh laga.\\nExecutive: Sir renewal sir aapka na jo aapne mujhe bataya tha ki aapki by list na jaldi lapse ho jati hai, theek hai?\\nCustomer: [inaudible]\\nExecutive: Aur aapko bulk wali by list nahi milti hai.\\nCustomer: Hmm.\\nExecutive: Maine uske liye call kiya sir aapko.\\nCustomer: Haan to wahi to aapko bata rahe hain aapne pucha kya rate dal do maine kaha ye local mein.\\nExecutive: Rate nahi dalna hai rate nahi aapki order value kis size ha ha 100 piece 200 piece kya rahega?\\nCustomer: Are minimum mam 100 piece to ho na.\\nExecutive: Theek hai main main aapke product mein 100 piece kar de rahi hu theek hai aur aapka account main account manager change karke aapka wo kar de rahi hu Vibha ko kar de rahi hu Vibha aapko service mein assist kar degi theek hai.\\nCustomer: Wo to Vibha ji to karti hai phone mujhe aur kaun karta hai.\\nExecutive: Haan Vibha hi karti hai aur Minakshi karti hai.\\nCustomer: Nahi koi ladka rakho madam account manager.\\nExecutive: Ladka rakho?\\nCustomer: Haan koi ladka wo Hindu ho theek hai.\\nExecutive: Sir isme kya hai sir aapme to ye lijiye ladki se to proper matlab koi baat hoti nahi humse ho paati hai na hum logo se.\\nCustomer: [inaudible]\\nCustomer: Time mood mein ha koi ladka dijiye usse proper hum log baat kar sakte hain.\\nExecutive: Main Vivek Arya ko aapka profile de rahi hu theek hai.\\nCustomer: Haan Vivek Arya Vivek Arya hai Vivek Arya dekhenge aur aapke har product mein minimum order quantity 100 piece update karwa denge.\\nCustomer: Jo jo bhi hai minimum sab mein mam 30 nahi hai kisi mein 30 bhi hai na isliye aapko nahi ho payega aapse.\\nExecutive: To wo aapko kar aap karwa dijiye fir.\\nCustomer: Haan wahi to keh raha hu aapko to wo ladke se main karunga call kar lega to main unse baat karunga.\\nExecutive: Theek hai aur sir main aapka ye wala complaint na close kar di hu sir theek hai.\\nCustomer: Madam aise nahi karna dekho jab tak na ho.\\nExecutive: Sir dekhiye aapko sold out leads ke liye maine pehle bhi bataya hai Shahnavaz ne.\\nCustomer: Proper jab tak hamara nahi solution hoga.\\nExecutive: Theek hai proper sir to ab aapko account manager\\n",
+  "summary": "\\n\nConcerns:\\n\n- Sold out leads issue.\\n\n- By-leads lapse quickly.\\n\n- Does not receive bulk by-leads.\\n\n- Wants a male Hindu account manager.\\n\n\\n\nResolution:\\n\n- Minimum order quantity set to 100 pieces.\\n\n- Account manager changed to Vibha.\\n\n- Profile assigned to Vivek Arya.\\n\n\\n\nNext Steps: \\n\n- Vivek Arya will update minimum order quantity.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, minimum order quantity, profile update\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 187,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ef79caa-8063-43b9-a178-2566bfc90125",
+  "ucid": "6ef79caa-8063-43b9-a178-2566bfc90125",
+  "seller_categories": [
+    {
+      "mcat_id": "143598",
+      "mcat_name": "RCC Garden Bench"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    }
+  ]
+}

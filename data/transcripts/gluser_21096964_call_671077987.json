@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671077987",
+  "gluser_id": "21096964",
+  "vintage_months": 11,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672804",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan\\nExecutive: Good morning sir.\\nCustomer: Good morning sir boliye.\\nExecutive: Seema Singh baat kar rahi hoon.\\nCustomer: Kya mam?\\nExecutive: Seema Singh.\\nCustomer: Eh mam ek do minute aap mujhe 10 minute baad call karo main thoda\\nCustomer: 10 minute mein main 10 minute only 10 minute call karo mujhe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to call back after 10 minutes.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back after 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back request\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c1e9016-9149-4400-905e-088b439385d8",
+  "ucid": "8c1e9016-9149-4400-905e-088b439385d8",
+  "seller_categories": [
+    {
+      "mcat_id": "29741",
+      "mcat_name": "Grain Bags"
+    },
+    {
+      "mcat_id": "42839",
+      "mcat_name": "Marine Plywood"
+    },
+    {
+      "mcat_id": "21838",
+      "mcat_name": "Balsa Wood"
+    },
+    {
+      "mcat_id": "138429",
+      "mcat_name": "Puf Sheets"
+    },
+    {
+      "mcat_id": "246723",
+      "mcat_name": "PVC Round Pipe"
+    }
+  ]
+}

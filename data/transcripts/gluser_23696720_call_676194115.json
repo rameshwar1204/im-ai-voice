@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676194115",
+  "gluser_id": "23696720",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Kozhikode",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9664009",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan, hello. Good morning sir, good morning.\\nCustomer: Good morning.\\nExecutive: Yes sir, actually aapne kal baat nahi ki thi, aapne bola tha ki aaj aap karenge.\\nCustomer: Thoda mein bahar mein hu, mein aake woh baat karta hu kal parso.\\nExecutive: Accha, kis time pe?\\nCustomer: Thoda bahar country mein hu.\\nExecutive: Ek minute, toh kya keh rahe ho aap?\\nCustomer: Hello.\\nCustomer: Mein bahar country mein hu. Bahar country mein hu.\\nCustomer: Monday aayega.\\nCustomer: Monday. Kab tak baat ho jayegi?\\nCustomer: Monday, Monday.\\nExecutive: Monday ko baat ho jayegi?\\nCustomer: Monday, Monday, Monday.\\nExecutive: Okay. Jo aapka secondary number hai, woh koi dekhta hai kya?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call after coming back from out of country.\\n\n- Wants to know if secondary number is visible.\\n\n\\n\nResolution:\\n\n- Executive asked to call on Monday.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, secondary number, out of country\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e897cb18-3061-4edb-a262-d691208ddeed",
+  "ucid": "e897cb18-3061-4edb-a262-d691208ddeed",
+  "seller_categories": [
+    {
+      "mcat_id": "99903",
+      "mcat_name": "PP Scrap"
+    },
+    {
+      "mcat_id": "132217",
+      "mcat_name": "PVC Scrap"
+    },
+    {
+      "mcat_id": "143130",
+      "mcat_name": "LDPE Scrap"
+    },
+    {
+      "mcat_id": "155510",
+      "mcat_name": "Polystyrene Granules"
+    },
+    {
+      "mcat_id": "35005",
+      "mcat_name": "Plastic Scrap"
+    }
+  ]
+}

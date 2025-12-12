@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672832749",
+  "gluser_id": "1313795",
+  "vintage_months": 72,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Mohali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9688043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji madam, haan puchha aapne?\\nCustomer: Uh, nahi actually mein busy ho gayi thi. Ek second ruko mein abhi puchti hu. Ek minute rukiye.\\n(silence)\\nCustomer: Hello?\\nCustomer: Okay, aapne Asha Srivastava ne ek session ke liye\\n(silence)\\nCustomer: Asha pe video call meet ke liye request aayi thi?\\nCustomer: Uh, nahi na. Sir nahi daali. I think woh galti se ho gaya hoga.\\nExecutive: Theek hai toh mein isse close kar du madam?\\nCustomer: Haanji, ji ji ji please close kar dijiye.\\nExecutive: Madam mera ek feedback hai aayega aapke paas toh usse please positive de dijiyega. Last time bhi aaya tha.\\nCustomer: Aap feedback abhi kar deti hu positive. Aap tension na lo.\\nExecutive: Haan. Okay. Okay. Theek hai Asha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about Asha Srivastava's session.\\n\n- Customer says video call request was a mistake.\\n\n- Executive requests positive feedback.\\n\n\\n\nResolution:\\n\n- Executive offered to close the video call request.\\n\n- Customer agreed to provide positive feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- video call, feedback, positive rating\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=19704aa8-0781-44f9-9539-008b5fbf891b",
+  "ucid": "19704aa8-0781-44f9-9539-008b5fbf891b",
+  "seller_categories": [
+    {
+      "mcat_id": "185010",
+      "mcat_name": "ABB VFD"
+    },
+    {
+      "mcat_id": "181622",
+      "mcat_name": "Yaskawa AC Drive"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "25555",
+      "mcat_name": "DC Drives"
+    },
+    {
+      "mcat_id": "187165",
+      "mcat_name": "Parker AC Drives"
+    }
+  ]
+}

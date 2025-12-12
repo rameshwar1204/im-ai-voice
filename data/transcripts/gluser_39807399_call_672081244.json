@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672081244",
+  "gluser_id": "39807399",
+  "vintage_months": 52,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Panipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655665",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haanji sir.\\nExecutive: Haan hello. Hi ma'am, ye Gupta speaking se baat ho rahi hai mujhe?\\nCustomer: Haanji.\\nExecutive: Ah, main India Mart branch head office se baat kar raha hu, Sanjay branch head. I think Sujata ma'am baat kar rahe hain aap right?\\nCustomer: Haanji, haanji, haanji.\\nExecutive: Ah ma'am, I think Manish ne kaha tha call generate karne ke liye regarding aapko. Hopefully meri team ne call bhi kara hoga. To sir iske liye ma'am thoda sa appointment ka time agar pehle aap bata payenge iske andar aapki baat hogi sir ke sath mein?\\nCustomer: Abhi nahi, main thodi der mein karti hu aapko.\\nExecutive: Koi dikkat nahi. Baki ma'am ye feedback main yahan se proceed kar raha hu aur ek baar data ke sath mein ma'am please usko fresh karte rahiye. Jo week wise remark ke sath mein jo Manish ne bhi shayad aapko bataya hoga iske andar.\\nCustomer: Hmm, hmm, hmm, hmm, hmm.\\nExecutive: Theek hai, wo please continue rakhna hai iske andar. Aur kal ka jo bhi appointment ka time ho please group pe dal dena, theek hai?\\nCustomer: Theek hai.\\nExecutive: Baki ye feedback main yahan se aapka proceed kar raha hu for the closing. Okay, okay, okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs appointment time for discussion.\\n\n\\n\nResolution:\\n\n- Executive asked to keep data fresh.\\n\n- Executive asked to put appointment time in group.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- appointment, feedback, data\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78fb9789-d913-4d72-ab58-21e7840eecb7",
+  "ucid": "78fb9789-d913-4d72-ab58-21e7840eecb7",
+  "seller_categories": [
+    {
+      "mcat_id": "852",
+      "mcat_name": "Cotton Yarn"
+    },
+    {
+      "mcat_id": "139784",
+      "mcat_name": "Open End Yarn"
+    },
+    {
+      "mcat_id": "154477",
+      "mcat_name": "Open End Cotton Yarn"
+    },
+    {
+      "mcat_id": "137538",
+      "mcat_name": "Polyester Cotton Yarn"
+    },
+    {
+      "mcat_id": "153534",
+      "mcat_name": "Recycled Cotton Yarn"
+    }
+  ]
+}

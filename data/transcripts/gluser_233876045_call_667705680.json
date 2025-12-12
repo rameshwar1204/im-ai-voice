@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667705680",
+  "gluser_id": "233876045",
+  "vintage_months": 13,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jalna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637152",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Kya hai? Hello.\\nCustomer: Ha, hello main Himanshu baat kar raha hu IndiaMART se. Good afternoon.\\nExecutive: Haan ji sir boliye.\\nExecutive: Ji ji kal sir call kiya tha na aapne Sunil ko baat discussion ho gayi thi aap se?\\nExecutive: IndiaMART. Accha sir haan ji. Jisne jinhone aap se baat ki thi main unse unka number aapko share kar deti hu. Ek baar aap unse hi baat kar lijiyega.\\nExecutive: Accha accha sir hai nahi kya available? Okay 91 wale number pe.\\nExecutive: Haan ji sir nahi hai aaj.\\nExecutive: 91 wale number se 34 number right?\\nExecutive: 911 haan ji last mein 34 hai unka.\\nExecutive: Accha accha accha. To in services vagaira aap dekhte ho aur sir baki cheeze dekhte hai right?\\nExecutive: Haan IndiaMART ka jo bhi hai ek aap ek\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to Sunil.\\n\nResolution:\\n\n- Executive offered to share Sunil's number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, discussion, number\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4d9b575c-6b21-49da-8696-cd97b616ced1",
+  "ucid": "4d9b575c-6b21-49da-8696-cd97b616ced1",
+  "seller_categories": [
+    {
+      "mcat_id": "167174",
+      "mcat_name": "Paint Protection Film"
+    },
+    {
+      "mcat_id": "228822",
+      "mcat_name": "Garware Sun Control Film"
+    },
+    {
+      "mcat_id": "85991",
+      "mcat_name": "Sun Control Film"
+    },
+    {
+      "mcat_id": "656593",
+      "mcat_name": "Garware Car Paint Protection Film"
+    },
+    {
+      "mcat_id": "22266",
+      "mcat_name": "Sun Control Car Film"
+    }
+  ]
+}

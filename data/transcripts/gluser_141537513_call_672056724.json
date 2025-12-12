@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672056724",
+  "gluser_id": "141537513",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello.\\nYes.\\nYeah, is it Kalyan sir from Metcon P Engineering Building System, sir?\\nYes.\\nHello.\\nYes, yes, tell me.\\nYeah, sir, very good evening. Pravesh Sharma this side from India Mart office, Noida, key manager. Is it right time to speak to you, sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Checking if Kalyan sir from Metcon P Engineering Building System is available.\\n\n- Asking if it is a right time to speak.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nintroduction, availability\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=42cda1d1-447f-4923-8721-a9f32024e97b",
+  "ucid": "42cda1d1-447f-4923-8721-a9f32024e97b",
+  "seller_categories": [
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

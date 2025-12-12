@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676036877",
+  "gluser_id": "27355611",
+  "vintage_months": 38,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Antalia",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651741",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haanji sir, whatsapp pe maine bhej diya hai aapko link, aapne dekha?\\nExecutive: Ek minute, ek minute.\\nCustomer: Haan, ek baar dekh lijiye aur forward kar lijiye.\\nCustomer: Aur main aapko whatsapp call bhi kar rahi thi kal, but aapka lag nahi raha tha whatsapp call.\\nExecutive: Nahi, woh thoda issue chal raha hai na woh iska wajah se. Ek minute, main aapko whatsapp call hi kar raha hu.\\nCustomer: Ji ji kariye aap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Link sent on WhatsApp not viewed.\\n\n- WhatsApp call not connecting.\\n\n\\n\nResolution:\\n\n- Executive to check the link sent on WhatsApp and forward it.\\n\n- Executive to make a WhatsApp call to the customer.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Neutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp link, whatsapp call\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f40f6401-2643-4150-a1f7-7bd01072ef13",
+  "ucid": "f40f6401-2643-4150-a1f7-7bd01072ef13",
+  "seller_categories": [
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    },
+    {
+      "mcat_id": "42861",
+      "mcat_name": "Labsa"
+    },
+    {
+      "mcat_id": "132794",
+      "mcat_name": "Linear Alkyl Benzene"
+    },
+    {
+      "mcat_id": "26353",
+      "mcat_name": "Detergent Chemicals"
+    },
+    {
+      "mcat_id": "175385",
+      "mcat_name": "Detergent Formulation Consulting"
+    }
+  ]
+}

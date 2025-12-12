@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667435703",
+  "gluser_id": "37624574",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683521",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji haan ji sir good afternoon sir. Main aarti baat karti hai main IndiaMART se.\\nCustomer: Haan haan sir boliye sir.\\nExecutive: Yes sir sir your account is job form is registered with us on IndiaMART.com. Royal Ruby team Nagar Alwar ko right?\\nCustomer: Haan.\\nExecutive: Yes yes yes sir. Sir so are you the person who is handling this business?\\nCustomer: [unintelligible]\\nExecutive: Sir your sir your voice is not audible to me.\\nCustomer: [unintelligible] theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive's voice is not audible to the customer.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account verification, indiamart introduction, job form\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ef342bd-2a9d-4943-8941-5b4bb9e896db",
+  "ucid": "0ef342bd-2a9d-4943-8941-5b4bb9e896db",
+  "seller_categories": [
+    {
+      "mcat_id": "188575",
+      "mcat_name": "Premium Tea"
+    },
+    {
+      "mcat_id": "2979",
+      "mcat_name": "Tea Dust"
+    },
+    {
+      "mcat_id": "127455",
+      "mcat_name": "Cardamom Tea"
+    },
+    {
+      "mcat_id": "185547",
+      "mcat_name": "Masala Tea"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    }
+  ]
+}

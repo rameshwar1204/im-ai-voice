@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672711018",
+  "gluser_id": "241131569",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689490",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nHello?\\nExecutive: Hello? Haan ji, ma'am.\\nCustomer: Ma'am, good morning.\\nExecutive: Haan ji, good morning, ma'am. Bataiye.\\nCustomer: Main IndiaMART se baat kar rahi thi.\\nExecutive: Haan ji. Aap aap hi message kar rahi hain kya WhatsApp pe?\\nCustomer: Haan, haan, haan, haan.\\nExecutive: Haan ji, boliye ma'am boliye.\\nCustomer: Full complaint register ho rahi hu ma'am.\\nExecutive: Full complaint abhi register hua hai kya, ma'am?\\nCustomer: Ek baar check kariye toh.\\nExecutive: Uh, ek minute hold kijiyega.\\nCustomer: Okay.\\nExecutive: Uh, ma'am, jaise koi complaint nahi hai, but aapko kuch documents vagaira hume provide karne hai, jaise GST certificate aapko hume dena hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai, address proof dena hai company ka.\\nCustomer: Theek hai.\\nExecutive: Aur Aadhar ya PAN card aap provide kar sakti hain.\\nCustomer: Abhi koi complaint nahi hai toh?\\nExecutive: Nahi nahi, as such koi complaint toh nahi hai. But ma'am dekhiye thoda sa na aap dhyan rakhiye na, bahut zyada complaints aane se kuch nahi hai, humari company ki reputation kharab hoti hai na.\\nCustomer: Haan.\\nExecutive: Theek hai. Baki aap mujhe apna HR services ka GST certificate de dijiyega, Aadhar PAN card de dijiyega aur address proof de dijiyega, theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek hai. Aur ma'am ek cheez aur mujhe aapse baat karni thi, aapka jo IndiaMART ka jo membership hai, uska renewal bas aane hi wala hai. Toh abhi kya plan karenge isko, jo service chal rahi hai, isko hi continue rakhna hai aapko ya phir website banwani hai aapko company ki?\\nCustomer: Dekhiye, is bare mein toh sir hi bol payenge na. Aapke paas toh sir ka number hai hi hogi.\\nExecutive: Haan ma'am, ek baar aap baat kar lijiye Akhil Ahmed ji se ki IndiaMART ka membership renew karne ke liye humare paas do-teen options hain. Ya toh hum same service kar sakte hain phir se ek saal ke liye. Ya agar aap same service ko hi do saal ya teen saal ke liye karti hain na, toh woh aapko sasta padta hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai na? Aur ya toh hum humari aap aapki jo company hai HR services, uski website bhi bana sakte hain. Aap kahenge toh hum aapka domain book kar denge, us pe website bana ke aapki company ka promotion karenge. Toh thoda sa budget badhana padega pichle saal ke mukable. Agar aap kehti hain ki nahi, jitna paisa last time diya tha, usi budget mein karna hai, toh phir hum dekh lenge ek baar.\\nTheek hai? Lekin aap pooch lijiye Akhil ji se ki haan kya kya plan hai unka, theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek hai ma'am, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer thought a complaint was registered.\\n\n- Executive needs documents for verification.\\n\n- IndiaMART membership renewal is approaching.\\n\n\\n\nResolution:\\n\n- Informed no complaint registered, documents needed.\\n\n- Explained renewal options: same service or website.\\n\n- Advised to discuss renewal plans with Akhil Ahmed.\\n\n\\n\nNext Steps: \\n\n- Customer will discuss renewal with Akhil Ahmed.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- documents, gst, renewal, membership, website\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 206,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d1f640c6-a7a5-4040-a001-0cf9f089951b",
+  "ucid": "d1f640c6-a7a5-4040-a001-0cf9f089951b",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "186990",
+      "mcat_name": "Powder Coating Powder"
+    },
+    {
+      "mcat_id": "188894",
+      "mcat_name": "MS Powder Coating"
+    },
+    {
+      "mcat_id": "117876",
+      "mcat_name": "Mould Release Spray"
+    },
+    {
+      "mcat_id": "35656",
+      "mcat_name": "Powder Coating"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666740127",
+  "gluser_id": "65992366",
+  "vintage_months": 8,
+  "bl_dau_oct": 9,
+  "customer_type": "STAR",
+  "city_name": "Chanasma",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hanji sir, good morning.\\nCustomer: Very good morning.\\nExecutive: Ji, main Babbu baat kar raha hu IndiaMART head office se. Baat hui thi na aapki Sunday ko?\\nCustomer: Haan.\\nExecutive: Haan, aaj main wo check karwa deta hu.\\nCustomer: Sunday ko na main thoda kaam mein hu.\\nExecutive: Haan haan, main wo check kara leta hu. Uh, baaki aapne miss... haan, baaki aapne miss call kiya tha... aapne miss call kiya tha na customer care wale number pe?\\nCustomer: Main karu aapko aisa aadhe ghante ke baad call?\\nExecutive: Theek theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive following up on a previous conversation.\\n- Customer was busy and requested to talk later.\\n\\n\\nResolution:\\n\\n- Agreed that the customer will call back in half an hour.\\n\\n\\nNext Steps: \\nCustomer will call back the executive in half an hour.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- callback, follow-up, missed call\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4b682cb4-5fb3-436b-a519-d73cc4febd3e",
+  "ucid": "4b682cb4-5fb3-436b-a519-d73cc4febd3e",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "139057",
+      "mcat_name": "Hydraulic Paper Plate Machine"
+    }
+  ]
+}

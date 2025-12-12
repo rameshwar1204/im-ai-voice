@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672111724",
+  "gluser_id": "25561143",
+  "vintage_months": 19,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jhunjhunu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677987",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Uh yes ma'am good evening.\\nExecutive: Good evening. Haanji sir.\\nCustomer: Sir main India Mart se baat kar rahi hu Suvika.\\nExecutive: Ji.\\nCustomer: Haanji. Sir ek second denge ek second aap mere ko name batayenge kis form se aap baat kar rahe hain?\\nExecutive: Hain?\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know the executive's name and the form they are calling from.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart, name, form\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b7001803-4aee-40cd-a270-f4fe213f404c",
+  "ucid": "b7001803-4aee-40cd-a270-f4fe213f404c",
+  "seller_categories": [
+    {
+      "mcat_id": "20241",
+      "mcat_name": "Wooden Trophy"
+    },
+    {
+      "mcat_id": "21272",
+      "mcat_name": "Acrylic Photo Frame"
+    },
+    {
+      "mcat_id": "135839",
+      "mcat_name": "Wooden Pen Stand"
+    },
+    {
+      "mcat_id": "96136",
+      "mcat_name": "Magnetic Photo Frame"
+    },
+    {
+      "mcat_id": "43172",
+      "mcat_name": "Momentos"
+    }
+  ]
+}

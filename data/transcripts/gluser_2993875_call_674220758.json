@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674220758",
+  "gluser_id": "2993875",
+  "vintage_months": 46,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruvalla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682688",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ha sir, India Mart se call kiya hu sir.\\nCustomer: Okay.\\nExecutive: Ji sir, sir aapka jo catalog mein abhi ticket ek raise hua hai, wo actually not satisfied description ke bare mein hai. Actually mein jaan sakta hu kya problem hai sir? Description kuch galat baat kar rahe the aapke pass?\\nCustomer: Kis mein?\\nExecutive: Description, India Mart mein description hum baat kiya tha na sir aapke pass, India Mart se.\\nCustomer: Description nahi hai, dusra koi tha, Balakrishnan koi tha.\\nExecutive: Balakrishnan, thik hai kya kya baat hua tha sir? Kya bole wo? Actually kuch\\nCustomer: Sir mein baad mein bata dunga mein mera customer jagah pe hu thik hai.\\nExecutive: Thik hai kabhi call karo sir.\\nCustomer: Monday karo.\\nExecutive: Evening mein call karo sir, evening ek five minutes de sakte hai aap toh?\\nCustomer: Nahi hai sir, office time pe phone kar le.\\nExecutive: Thik hai sir, kabhi kabhi call karo toh nahi bataye sir, Sunday kabhi call karna hai?\\nCustomer: Monday morning karna.\\nExecutive: Morning, thik hai mein call karta hu sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Ticket raised regarding not satisfied description.\\n\n- Wants to know the problem with the description.\\n\n\\n\nResolution:\\n\n- Executive asked about the issue with description.\\n\n- Customer said he will tell later.\\n\n\\n\nNext Steps: \\n\n- Executive will call on Monday morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, description, call schedule\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=78db9d58-dd81-459e-834f-6349ece203f0",
+  "ucid": "78db9d58-dd81-459e-834f-6349ece203f0",
+  "seller_categories": [
+    {
+      "mcat_id": "445494",
+      "mcat_name": "DTF Printer"
+    },
+    {
+      "mcat_id": "132951",
+      "mcat_name": "T-Shirt Printing Machine"
+    },
+    {
+      "mcat_id": "85329",
+      "mcat_name": "UV Flatbed Printer"
+    },
+    {
+      "mcat_id": "118788",
+      "mcat_name": "ECO Solvent Machine"
+    },
+    {
+      "mcat_id": "86362",
+      "mcat_name": "Flex Printing Machine"
+    }
+  ]
+}

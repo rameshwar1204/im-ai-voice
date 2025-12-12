@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669903039",
+  "gluser_id": "146210553",
+  "vintage_months": 12,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Dindigul",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656046",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello? Hello?\\nExecutive: Sir, good evening, sir.\\nCustomer: Hello, sir.\\nExecutive: Rajesh IndiaMART pesurenga. Priya manager.\\nCustomer: Yes madam.\\nExecutive: Sir, call pannathu rendu vishayam pending iruku. Already ungalukku convey pannirupaanga nu ninaikiren. Onnu GST issue, second renewal.\\nCustomer: Oh, sari.\\nExecutive: Solli irundhaanga. Idhu pola customer outstanding face pannuraanga apdi nu solli irundhaanga. Adhanala customer tougha irukaanga apdi nu sollittu. Edhaavadhu possible irukula sir, namma mudikirathu idhu?\\nCustomer: One week mariyaadhu.\\nExecutive: Ennadhu? One week GST issue clear aagumnu solreengala?\\nCustomer: Aama, aama.\\nExecutive: Okay, payment ellam due mudinjiruchukula fullaave?\\nCustomer: Sir, sapdu sapdu sapdu poingala ippa?\\nExecutive: Saapdu irukeengala? Oh shit. Sorry sir, sorry sir. Illa adhanala rendu nimisham time kettirundhen. Sari okay sir, okay sir mudikireenga. Sorry sir, sorry. Saapdu vandhuttanga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- GST issue and renewal are pending.\\n\n- Customer is facing outstanding issues.\\n\n\\n\nResolution:\\n\n- Customer said GST issue will be cleared in one week.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, renewal, payment, due\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f1cd02ce-e387-4c20-87d6-f99b357e1bfc",
+  "ucid": "f1cd02ce-e387-4c20-87d6-f99b357e1bfc",
+  "seller_categories": [
+    {
+      "mcat_id": "192430",
+      "mcat_name": "Cold Press Oil Machine"
+    },
+    {
+      "mcat_id": "33007",
+      "mcat_name": "Oil Extraction Machine"
+    },
+    {
+      "mcat_id": "162296",
+      "mcat_name": "Coconut Oil Extraction Machine"
+    },
+    {
+      "mcat_id": "138405",
+      "mcat_name": "Peanut Oil Extraction Machine"
+    },
+    {
+      "mcat_id": "20774",
+      "mcat_name": "Oil Expellers"
+    }
+  ]
+}

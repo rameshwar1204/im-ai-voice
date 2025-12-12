@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666845629",
+  "gluser_id": "136907856",
+  "vintage_months": 26,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628285",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji madam bol rahe hain?\\nCustomer: Hi sir, good afternoon.\\nExecutive: Good morning. Main yeh keh rahi hu ki maine aapne jo mujhe details di thi wo sab maine update kar diya aur hamare jo legal team ke hain matlab jo yeh buyer supplier conflict wala issue dekhte hain sir, unko maine saare aapke payment ke status wagera bhej diye ki kis company pe itna jo bhi pending tha wo kar diya hai. Theek hai? Toh abhi wo check karke customer se baat karke resolve kar denge toh ye might be aapka catalog jo hai active kar denge. Theek hai?\\nCustomer: Toh aaj ho jayega ki kal ye?\\nExecutive: Haan most probably aaj ho jaana chahiye. Abhi toh wo baat karenge buyer se na.\\nCustomer: Okay.\\nExecutive: Ek baari hota hai process. Aur aapka yahan pe missed call pada hua tha mere paas customer care pe toh main wo close kar de rahi hu.\\nCustomer: Okay ma'am.\\nExecutive: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Inquiring about the status of a buyer-supplier conflict.\\n- Asking for a timeline for catalog activation.\\n\\n\\nResolution:\\n\\n- Informed that payment details were sent to the legal team.\\n- Advised that the legal team will resolve the conflict with the buyer.\\n- Stated the catalog will be activated post-resolution, likely today.\\n- Closed the customer's missed call ticket.\\n\\n\\nNext Steps: \\nIssue not resolved. The legal team will investigate the conflict and then activate the catalog.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n\\n@@@Key Topics:\\n- catalog activation, legal team, buyer-supplier conflict, payment status, missed call\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4bd37f8c-8add-4ae0-ab74-b35e2279334f",
+  "ucid": "4bd37f8c-8add-4ae0-ab74-b35e2279334f",
+  "seller_categories": [
+    {
+      "mcat_id": "126640",
+      "mcat_name": "Wedding Stage"
+    },
+    {
+      "mcat_id": "126638",
+      "mcat_name": "Wedding Gate"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    },
+    {
+      "mcat_id": "183519",
+      "mcat_name": "Fiber Mandaps"
+    },
+    {
+      "mcat_id": "133074",
+      "mcat_name": "FRP Pillar"
+    }
+  ]
+}

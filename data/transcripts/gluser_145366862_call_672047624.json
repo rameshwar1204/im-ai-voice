@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "672047624",
+  "gluser_id": "145366862",
+  "vintage_months": 10,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhubaneswar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671554",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ha. Hello, Mr. Pradeep, main IndiaMART se Prashant ki manager baat kar rahi thi. Please do minute baat sun lijiye.\\nExecutive: Ha boliye.\\nExecutive: Actually aapne Prashant ko call back kiya tha but wo tha nahi paya tha. Uske vajah se hamare paas ek concern open ho gaya hai. Aap mujhe batayenge ki kya issue tha jiski vajah se aapne call back kiya tha Prashant ko?\\nCustomer: Nahi nahi main abhi thoda sa gaon aaya hu. Abhi main Bhuvaneshwar lautne ke baad mein main baat karunga aapko. Abhi thoda sa gaon mein.\\nExecutive: Theek hai sir, main koi baat nahi sir. Main is time ek kaam kar deti hu. Filhal aapko na ek concern ye se yaha hamare paas tha jaise aapko pata hoga kuch concern raise hota to ticket open ho jata hai, right? To wo open ho gaya tha. Main band kar rahi hu. Aap jaise hi aa jaye ye number note kar lena. Please mujhe aake call kar lijiyega. Theek hai? To koi bhi hoga problem main resolve kara dungi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called Prashant back.\\n\n- Wants to know the reason for the call.\\n\n\\n\nResolution:\\n\n- Executive explained the concern ticket was opened.\\n\n- Executive offered to resolve the issue later.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, concern, ticket\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=75b15a30-d0fe-4235-bd79-d0126b9521ba",
+  "ucid": "75b15a30-d0fe-4235-bd79-d0126b9521ba"
+}

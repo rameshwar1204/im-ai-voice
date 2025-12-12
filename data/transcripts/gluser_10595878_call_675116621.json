@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675116621",
+  "gluser_id": "10595878",
+  "vintage_months": 9,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Halol",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710132",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Akash ji se baat ho rahi hai Nilkanth Electro Services mein?\\nExecutive: Haan boliye.\\nExecutive: Haan very good afternoon sir, main Ashim Khan bol raha tha IndiaMART se business manager. Aapki company register hai IndiaMART ke sath mein sir?\\nCustomer: Haan register hai.\\nExecutive: Haan to iske service ki na feedback ke regarding maine call kiya tha. Jaise aapka I think baat bhi hua tha aapke jo account manager hai Muskan ji se. Aapki jo company hai.\\nExecutive: To ye aapne bataya tha shayad by mistake aapke call lag gaya tha IndiaMART mein sir.\\nCustomer: Haan by mistake lag gaya tha.\\nExecutive: Koi baat nahi sir, maine bas ek senior hone ke naate isliye call kiya. Jo service aap chala rahe hain agar isko lekar aap koi problem face kar rahe ho ya koi changes required ho to wo aap mujhe bata sakte hain sir.\\nCustomer: Nahi koi nahi hai sir.\\nExecutive: To sir jaise buylead ka consumption aap pehle kar rahe the, abhi aapne buylead ka consumption karna kaafi band kar diya to isko lekar koi dikkat wagera koi issue aa raha sir?\\nCustomer: Sir thodi der baad call kar sakte hai actual mein main meeting mein hu abhi sir.\\nExecutive: Achha ji, sorry to disturb you, maafi chahunga uske liye main aapko. Baaki sir main aapki ye complaint close kar raha hu, baaki main aapse baad mein baat karunga. Sorry to disturb you.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about buylead consumption decrease.\\n\n\\n\nResolution:\\n\n- Executive apologized for the disturbance.\\n- Complaint closed; executive will call later.\\n\n\\n\nNext Steps: \\n\n- Executive will call later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, service, complaint\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7cd9d645-dad5-4582-86d9-dc07a88d0963",
+  "ucid": "7cd9d645-dad5-4582-86d9-dc07a88d0963",
+  "seller_categories": [
+    {
+      "mcat_id": "182091",
+      "mcat_name": "Delta VFD"
+    },
+    {
+      "mcat_id": "43342",
+      "mcat_name": "VFD Panels"
+    },
+    {
+      "mcat_id": "26023",
+      "mcat_name": "Control Panel Board"
+    },
+    {
+      "mcat_id": "187162",
+      "mcat_name": "Hitachi Inverter Drives"
+    },
+    {
+      "mcat_id": "159934",
+      "mcat_name": "AC Drive Panel"
+    }
+  ]
+}

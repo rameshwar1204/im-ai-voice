@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674400823",
+  "gluser_id": "4757738",
+  "vintage_months": 18,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Pathankot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702182",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHello?\\nHello?\\nHello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ef223acb-cf0e-4c62-8560-155f333b0ea4",
+  "ucid": "ef223acb-cf0e-4c62-8560-155f333b0ea4",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "184345",
+      "mcat_name": "UPVC Fixed Windows"
+    },
+    {
+      "mcat_id": "4725",
+      "mcat_name": "Aluminium Window"
+    },
+    {
+      "mcat_id": "180561",
+      "mcat_name": "UPVC Casement Windows"
+    }
+  ]
+}

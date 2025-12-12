@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666880165",
+  "gluser_id": "125610371",
+  "vintage_months": 3,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714455",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Bolna.\\nExecutive: Hello.\\nExecutive: Hello, a very good morning, sir.\\nExecutive: Uh sir, main Kavita baat kar rahi hu IndiaMART se. Meri baat Amit ji se ho rahi hai?\\nCustomer: Haan ji?\\nExecutive: Sir, main Kavita baat kar rahi hu IndiaMART se, aapke account manager. Meri baat Amit ji se ho rahi hai?\\nCustomer: Nahi.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive trying to connect with Amit ji.\\n\\n\\nResolution:\\n\\n- The person on the line confirmed they are not Amit ji.\\n\\n\\nNext Steps: \\nIssue not resolved. The call ended abruptly.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- verification, introductory call\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=837ed109-6d96-4e5c-8da2-1dff2d2974ab",
+  "ucid": "837ed109-6d96-4e5c-8da2-1dff2d2974ab",
+  "seller_categories": [
+    {
+      "mcat_id": "183631",
+      "mcat_name": "Herbal Piles Capsules and Tablets"
+    },
+    {
+      "mcat_id": "158492",
+      "mcat_name": "Herbal Uterine Tonic"
+    },
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "9191",
+      "mcat_name": "Herbal Hair Oil"
+    },
+    {
+      "mcat_id": "163602",
+      "mcat_name": "Ayurvedic Joint Pain Relief Oil"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669460950",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ha.\\nExecutive: Good afternoon sir, Royal Sonic Marble se baat kar rahe hain.\\nCustomer: Aha.\\nExecutive: Shahzad sir baat kar rahe hain?\\nCustomer: Kya?\\nExecutive: Shahzad sir baat kar rahe hain?\\nCustomer: Ha ha.\\nExecutive: Sir main Dipika baat kar rahi hu IndiaMART head office se.\\nCustomer: Ha ha.\\nExecutive: Aapne bola tha evening mein 4 baje ke kareeb hum ek baar try kar lena. Abhi aap free hain sir?\\nCustomer: Abhi main matlab bike chala raha tha to matlab thodi der mein main khud hi kar dunga phone aapko aadhe ghante mein.\\nExecutive: Thik hai, thik hai sir. Maine aapko WhatsApp pe message bhi drop kara hai, abhi dobara ping kar du sir message?\\nCustomer: Ha ha.\\nExecutive: Thik hai sir.\\nCustomer: Thik hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was busy and asked to call later.\\n\n\\n\nResolution:\\n\n- Executive agreed to call later.\\n\n- Executive offered to resend WhatsApp message.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call scheduling, whatsapp message\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f9f7ea5f-6455-4478-9543-2057c62a4159",
+  "ucid": "f9f7ea5f-6455-4478-9543-2057c62a4159",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

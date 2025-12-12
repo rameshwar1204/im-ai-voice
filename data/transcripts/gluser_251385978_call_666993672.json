@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666993672",
+  "gluser_id": "251385978",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631682",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nCustomer: Hello?\\nExecutive: Haan ji. Haan ji sir, abhi aap se baat hui thi meri.\\nCustomer: Ji ji.\\nExecutive: Haan ji, Yash Patel, right?\\nCustomer: Haan ji, ma'am.\\nExecutive: Ji, main Tripti Pathari hoon, aapke account manager. Sir, aapne jo concern raise kiya tha, abhi meri aapse baat hui thi jis concern ke bare mein. Theek hai, maine wo check kiya. Sir, aapne 14 October ke aas paas bhi ye concern kiya hua tha, ticket raise kiya hua tha, right?\\nCustomer: Hmm, bilkul ma'am.\\nExecutive: Sir, haan, sir, main batana chahungi us us ticket pe aapka work chal raha hai hamari side se. Jo supplier buyer ki team ek alag baithti hai jo is par work kar rahi hai already. To sir, main yahi kahungi ki aap abhi ye wala ticket aap apni side se close kar dijiye kyunki us pe kaam chal raha hai abhi. Maine abhi baat ki thi unse. Theek hai?\\nCustomer: To aisa to nahi hoga ma'am ki complaint pe koi dhyan hi na de.\\nExecutive: Nahi, nahi, nahi, sir, complaint pe zarur dhyan diya jayega aur us pe kaam chal raha hai, sir. Buyer and supply dono ka dekha jata hai na, sir. Same concern hai dono bar kyunki wo aapne ek bar raise kar chuke hain to same concern aapne dobara raise kiya hua hai isliye main close karwa rahi hoon. Theek hai? Kyunki wo registered to ho gaya na ek ek bar aapka complaint same issue pe.\\nCustomer: Ji ji. Isliye bol rahi hoon. Theek hai na? To sir, main close kar doon phir ye wala?\\nCustomer: Kar dijiye ma'am.\\nExecutive: Theek hai.\\nExecutive: Okay, and agar koi bhi update hogi sir, aap mujhe dobara call kar lijiye.\\nCustomer: Theek hai.\\nExecutive: Okay, ma'am. Thank you, ma'am.\\nExecutive: Theek hai, sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer concerned about complaint resolution.\\n\n\\n\nResolution:\\n\n- Executive confirmed work in progress on complaint.\\n\n- Executive requested customer to close current ticket.\\n\n\\n\nNext Steps: \\n\n- Customer agreed to close the ticket.\\n\n- Customer can call again for any updates.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, ticket, resolution, concern\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca1f75e5-b6e0-4081-aa25-4146c2a77643",
+  "ucid": "ca1f75e5-b6e0-4081-aa25-4146c2a77643",
+  "seller_categories": [
+    {
+      "mcat_id": "101902",
+      "mcat_name": "Refined Glycerine"
+    },
+    {
+      "mcat_id": "35876",
+      "mcat_name": "Propylene Glycol PPG"
+    },
+    {
+      "mcat_id": "193107",
+      "mcat_name": "DMDM Hydantoin"
+    },
+    {
+      "mcat_id": "137298",
+      "mcat_name": "EDTA Disodium Salt"
+    },
+    {
+      "mcat_id": "26127",
+      "mcat_name": "Raw Glycerine"
+    }
+  ]
+}

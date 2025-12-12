@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670741742",
+  "gluser_id": "238570049",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669921",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Mukul ji se baat ho rahi hai meri?\\nCustomer: Ji, ji.\\nExecutive: Ha, mai Rahul baat kar raha hu IndiaMART se sir.\\nCustomer: Ji bataye.\\nExecutive: Mai Rahul aapka account manage to sir ye like aapko kuch problem aa rahi hai seller panel mein?\\nCustomer: Haan. Login karne mein. Nahi problem nahi aa rahi hai mujhe isme. Mujhe isme ye janna tha ki jo hamara plan chal raha hai wo hum kaise dekh payenge ek to.\\nExecutive: Aur sir?\\nCustomer: Aur mujhe usko fir upgrade agar karna hai to kaise hoga?\\nExecutive: Sure sir, mai ye video meet assign kar raha hu is aap join kijiye sir. Mai aapko ek baar dikhata hu pura. Ha, ek minute dijiye sir aap mujhe line pe rahiye.\\n\\nExecutive: Aapko sir ye buyleads in sab mein to kuch problem nahi aa rahi na sir?\\nCustomer: Nahi.\\nExecutive: Sure. Sir mujhe details ki query jyada aa rahi hai.\\nExecutive: Details ki?\\nCustomer: Hmm.\\nExecutive: Okay.\\nCustomer: Matlab bulk order ki kam aa rahi hai return ki jyada query aa rahi hai.\\nExecutive: Hmm, is mahine aapko char query aayi hai sir aur aap buyleads acche se consume kar rahe hain. Jo well and good hai sir. Ek PV mila hai sir aapko Kandoriya Govind bhai se.\\nCustomer: Ji.\\nExecutive: Cosmetic third party manufacturing medical service. Accha ji bhai. Accha raha sir inke sath sab?\\nCustomer: Ji?\\nExecutive: Inke sath sab accha raha tha deal sir?\\nCustomer: Haan, haan.\\nExecutive: Sure sir, ek minute dijiye aap mujhe bas.\\n\\nExecutive: Sir ye aap apne phone se join karenge ya fir apne PC se?\\nCustomer: Sir PC se.\\nExecutive: Haan ji sir?\\nCustomer: PC se.\\nExecutive: PC, sure, sure. Mai bhi join schedule kar raha hu.\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nExecutive: Aap apne end se delete kar sakte ho? Schedule nahi ho raha yaha pe bhi.\\n\\n\\n\\nExecutive: [inaudible] error hoga.\\n\\nExecutive: Sir aapne customer care pe call kiya tha apne aisa ji iske regarding?\\nCustomer: Message drop hua tha.\\nExecutive: Nahi maine request raise ki thi.\\nExecutive: Accha accha request. Like aapne call kara tha ya fir aapne text kiya tha sir inhe?\\nCustomer: Maine text kiya tha sir. Just abhi mere pe receive hua to mai check kar raha tha. Nahi nahi call nahi kiya hai maine.\\n\\n\\n\\n\\n\\nExecutive: Sir sorry delay ho raha hai thoda sa abhi ek minute hold kijiye isme. I guess internet glitch ho raha hai hamara.\\n\\n\\n\\nExecutive: Hello.\\nExecutive: Sir mai bhi aapko do se teen minute mein call back karunga ye internet glitch ho raha hai. Sure sir sorry for sir delay sir isme. I guess mai bhi check karana hoga right now. Hum aapko within five minutes call back free denge sir.\\nCustomer: Haan, sure.\\nExecutive: Sure sir isme hamara glitch ho raha hai mai bhi aapko call back karta hu sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know how to check current plan.\\n\n- Wants to know how to upgrade plan.\\n\n- Getting more queries for returns.\\n\n\\n\nResolution:\\n\n- Executive assigned a video meet to show plan details.\\n\n- Executive informed about buyleads consumption.\\n\n- Executive informed about a PV from Kandoriya Govind bhai.\\n\n- Executive informed about internet glitch.\\n\n- Executive will call back in 2-3 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back within 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- plan, upgrade, buyleads, return queries, video meet\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 313,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a5ba83b6-3ef4-4204-afba-3fca77a58089",
+  "ucid": "a5ba83b6-3ef4-4204-afba-3fca77a58089",
+  "seller_categories": [
+    {
+      "mcat_id": "224543",
+      "mcat_name": "Cosmetic Third Party Manufacturing"
+    },
+    {
+      "mcat_id": "217056",
+      "mcat_name": "Charcoal Face Wash"
+    },
+    {
+      "mcat_id": "188480",
+      "mcat_name": "Beard Oil"
+    },
+    {
+      "mcat_id": "274482",
+      "mcat_name": "Skin Care Third Party Manufacturing"
+    },
+    {
+      "mcat_id": "355351",
+      "mcat_name": "Onion Hair Oil"
+    }
+  ]
+}

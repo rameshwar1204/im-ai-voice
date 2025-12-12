@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670580704",
+  "gluser_id": "205251836",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hanji boliye.\\nCustomer: Hello good morning sir.\\nExecutive: Ji.\\nCustomer: Sir Shahdab\\nExecutive: IndiaMART account manager Sahil se baat ho rahi hai na sir?\\nExecutive: Ji ji.\\nCustomer: Sir yaha pe hamare kuch documents pending the abhi KYC ke liye.\\nExecutive: KYC.\\nCustomer: Sir IndiaMART pe jo humne subscription liya tha na sir KYC ke liye kuch documents pending the. Jaise GST certificate ho gaya, Aadhar ho gaya, company PAN ho gaya.\\nCustomer: Electricity service\\nCustomer: Bill ho gaya, rent agreement aur cancel check.\\nExecutive: Hmm.\\nCustomer: Ye cheeze sir humne upload ki nahi hai yaha pe.\\nCustomer: To inko sir aapko ji sir?\\nExecutive: Boliye boliye aap boliye.\\nCustomer: Inko sir aap share kar dete WhatsApp me mere.\\nExecutive: WhatsApp pe share kiya na bhaiya maine woh.\\nCustomer: Ji sir?\\nExecutive: Mai aapko call call lagata hu thodi der me.\\nCustomer: Thik hai sir aap fresh ho jaiye fir call kijiye.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help with pending KYC documents.\\n\nResolution:\\n\n- Executive confirmed documents were already shared on WhatsApp.\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- kyc, documents, subscription, whatsapp\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ea92cdb-66c7-429a-bd1c-fde0a57101ce",
+  "ucid": "2ea92cdb-66c7-429a-bd1c-fde0a57101ce",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "72798",
+      "mcat_name": "Wall Fountain"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

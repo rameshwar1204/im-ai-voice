@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673012486",
+  "gluser_id": "107456837",
+  "vintage_months": 24,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jaspur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689584",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello ha ji bol raha hu.\\nExecutive: Hightech Agro Pest se baat kar rahe hai Noman ji.\\nCustomer: Ha ji.\\nExecutive: Ahmed sir namaste Sunil baat kar raha hu IndiaMART ke behalf pe.\\nCustomer: Ha ji.\\nExecutive: Ek aapki side se request aayi thi sir video meeting ka ek concern open hua tha kya team ke sath aapka discussion ho gaya sir iske regarding.\\nCustomer: Koi discussion nahi hua sir jis time bola tha video call karne ke liye unki call nahi aayi uske do ghante baad call aayi to hum log busy ho gaye ab ab aayi to ab office time off ho gaya.\\nExecutive: Accha accha actually ho sakta hai ki maybe wo koi dusri meeting me hogi already schedule hogi sir iski wajah se wo connect nahi kar payi hogi isme aapka kal ka meeting konse time pe schedule rakhna hai exactly agar wo nahi kar payegi to hum apni side se aapko connect kar lenge.\\nCustomer: 10:30 se 11 baje ke beech me kabhi bhi kar sakte hai.\\nExecutive: 10:30 se waise aap ek bar brief kar sakte hai issue kya aa raha hai sir apne ko catalog me.\\nCustomer: Issue ye aa raha hai ki hamare paas buylead nahi aa rahe hai bilkul bhi aur hamare paas jo account manager assign hue hue hai unhe please aap hata ke dusre add karaiye unse follow up bhi nahi ho pata to kis kam ke liye hamare ko.\\nExecutive: Accha accha buylead ka issue aa raha hai na aapko sir.\\nCustomer: Buylead ka bhi aur account manager ka bhi.\\nExecutive: Accha account call karte hai to koi follow up bhi nahi milta aapko.\\nExecutive: Accha accha thik hai pehli cheez to account manager change kara de rahe hai second thing aapko net 10:30 baje connect back ho jayega jo bhi aapka new account manager hoga sir uski side se.\\nCustomer: Thik hai.\\nExecutive: Okay okay aapke paas ek feedback mail aayega hum account manager change kar rahe hai to please aap positive dijiyega feedback.\\nCustomer: Thik hai.\\nExecutive: Aur aapko kal subah 10:30 baje new account manager ke side se connect back.\\nCustomer: Thik hai.\\nExecutive: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting buyleads.\\n\n- Wants to change the assigned account manager.\\n\n- No follow up from account manager.\\n\n\\n\nResolution:\\n\n- Agreed to change the account manager.\\n\n- Assured connect back at 10:30 AM next day.\\n\n- Asked for positive feedback after account manager change.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, follow up\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=93222ea2-ddca-4d9b-809a-8fc52a05b087",
+  "ucid": "93222ea2-ddca-4d9b-809a-8fc52a05b087",
+  "seller_categories": [
+    {
+      "mcat_id": "41727",
+      "mcat_name": "Sugar Sachets"
+    },
+    {
+      "mcat_id": "121169",
+      "mcat_name": "Invert Sugar Syrup"
+    },
+    {
+      "mcat_id": "28818",
+      "mcat_name": "Golden Syrup"
+    },
+    {
+      "mcat_id": "179184",
+      "mcat_name": "Pharma Grade Invert Sugar Syrup"
+    },
+    {
+      "mcat_id": "121076",
+      "mcat_name": "Bakery Grade Invert Syrup"
+    }
+  ]
+}

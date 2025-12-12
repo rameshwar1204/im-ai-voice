@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675112369",
+  "gluser_id": "51151332",
+  "vintage_months": 71,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710824",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Ramesh sir?\\nCustomer: Yes sir.\\nExecutive: Sir hi, hi good afternoon sir. This is Rahul from IndiaMART senior manager. How are you sir?\\nCustomer: Yeah fine sir, fine.\\nExecutive: Uh sir actually our services are running on IndiaMART site company Infinity Automation Solutions and you must have spoken to one of my executive Vishal Gupta, right?\\nCustomer: Okay. Yeah.\\nExecutive: Uh sir actually we have received a feedback from your end that you are not satisfied with the conversation that you had with him.\\nCustomer: Yeah, he like to talk to Hindi sir. I don't know Hindi because of the language I am I am discomforting. That's all.\\nExecutive: Okay, okay. That is the reason you marked not satisfied.\\nCustomer: Yes.\\nExecutive: Okay. And sir was he was he like forcing you to like speak in Hindi regarding that or was he not like uh uh like fluent in English regarding this, the conversation that he had with you?\\nCustomer: No, no, no, no sir. All those things we don't have a time to discuss sir because of I am not satisfaction when anybody should call me should speak in English. So then I will comfort sir. Comfort that's all. I'm not blaming anything yeah.\\nExecutive: Okay, that was the only reason I mean you marked as not satisfied, right? Right. Okay, okay. And hope you're not facing any issue with this.\\nCustomer: All is sir all right. I'm uh like your concern was reached over here against him so I'm like closing that concern as of now and I'll mention over here that whenever someone calls you right he's gonna speak in English regarding that.\\nCustomer: Yes.\\nExecutive: Okay sir, okay. Thank you, thank you for coming. Thank you sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not satisfied with Hindi conversation.\\n\n- Wants executives to speak in English.\\n\n\\n\nResolution:\\n\n- Executive apologized for the inconvenience.\\n\n- Assured future calls will be in English.\\n\n- Closed the concern against the previous executive.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- language preference, customer satisfaction, executive feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=792926ce-c0aa-44dd-9cf2-5523639adf2d",
+  "ucid": "792926ce-c0aa-44dd-9cf2-5523639adf2d",
+  "seller_categories": [
+    {
+      "mcat_id": "119160",
+      "mcat_name": "Elevator Drive"
+    },
+    {
+      "mcat_id": "208179",
+      "mcat_name": "Idli Steamer"
+    },
+    {
+      "mcat_id": "5255",
+      "mcat_name": "Motion Controllers"
+    },
+    {
+      "mcat_id": "20992",
+      "mcat_name": "Stepper Motor Drives"
+    },
+    {
+      "mcat_id": "13858",
+      "mcat_name": "Elevator Part"
+    }
+  ]
+}

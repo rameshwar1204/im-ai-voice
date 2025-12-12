@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668103997",
+  "gluser_id": "247027681",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642981",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Sir, good afternoon, sir.\\nCustomer: Good afternoon, ma'am.\\nExecutive: Haanji sir, bataiye kya issue aa raha hai aapka? Aapne us par 961 wale pe bhi call kiya, aapka personal number hai?\\nCustomer: Nahi, mere ko kuch isme to koi issue nahi hai. Maine to nahi kara koi complaint.\\nExecutive: Theek hai, actually aapko usi side se gaya hai service center pe. Haan, usi se call gaya hai. Actually kya hota hai ki mujhe na pura process follow karna padta hai, jismein kaafi time lag jata hai. Fir main aapse puchti hu questions.\\nCustomer: To isse better hota hai ki.\\nExecutive: Haan, wo mere paas to, mere paas to hai aapka number, main lekin maine kara nahi tha. Ho sakta hai mere father ne kara ho.\\nCustomer: Aapke father?\\nCustomer: Unko iska koi knowledge tha nahi. Abhi maine to kara nahi kuch aisa.\\nExecutive: Achha achha. Haanji, to bataiye abhi wo jo aapka pehla issue tha wo, jo aapka pehla issue tha wo resolve hua hai?\\nCustomer: Nahi, uska mail ID to main, uski to wo hai nahi. Wo wala portal hamare paas ab open nahi ho raha na humse.\\nExecutive: Achha.\\nCustomer: Ya to aap apni taraf se kar dijiye. Main aapko aaj bolne hi wala tha.\\nExecutive: Hmm.\\nCustomer: Kyunki uska wo wala portal to khul nahi raha humse.\\nExecutive: Jo maine aapko share kiya tha.\\nCustomer: Haan, matlab wo purani wali jo ID, matlab purana wala jo tha na wo portal.\\nExecutive: Haanji.\\nCustomer: Wo to login nahi ho raha na ab.\\nExecutive: Achha, chalo main koi puchti hu koi agar agar koi resolution hoga uske liye. Aur aap mujhe bataiye secondary number hai sir aapke father ka? Kyunki mujhe aapke father se baat karni padegi because ye close to karana padega.\\nCustomer: Haan, unse kar lo. Main aapko number bhej deta hu aapke number pe.\\nExecutive: Haan, bhej do. Main aapko number bhej deta hu.\\nExecutive: Theek hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states he did not raise any complaint.\\n\n- Customer unable to open old portal.\\n\n- Executive needs to close the issue with father.\\n\n\\n\nResolution:\\n\n- Executive will check for resolution for portal issue.\\n\n- Customer agreed to share father's number.\\n\n\\n\nNext Steps: \\n\n- Customer will send father's number to executive.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- portal issue, resolution, father's number\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4730a1e3-5ce5-46b4-ab09-bb86d8aac072",
+  "ucid": "4730a1e3-5ce5-46b4-ab09-bb86d8aac072",
+  "seller_categories": [
+    {
+      "mcat_id": "7803",
+      "mcat_name": "Stainless Steel Kitchen Sinks"
+    },
+    {
+      "mcat_id": "42601",
+      "mcat_name": "Single Bowl Kitchen Sink"
+    },
+    {
+      "mcat_id": "42602",
+      "mcat_name": "Double Bowl Kitchen Sink"
+    },
+    {
+      "mcat_id": "10512",
+      "mcat_name": "Kitchen Sinks"
+    },
+    {
+      "mcat_id": "162096",
+      "mcat_name": "Sink Waste Coupling"
+    }
+  ]
+}

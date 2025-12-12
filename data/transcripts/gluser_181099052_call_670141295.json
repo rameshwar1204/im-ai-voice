@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "670141295",
+  "gluser_id": "181099052",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Dakshin Santoshpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Namaskar ma'am, good morning.\\nCustomer: Good morning.\\nExecutive: Haan ma'am, Howrah Lock se. Ma'am system hum khol liya boliye. Hum login mein.\\nCustomer: Kya?\\nExecutive: Ah, hum bol rahe hain Howrah Lock se ma'am.\\nCustomer: Kaun si company ki baat kar rahe hain aap?\\nExecutive: Howrah Lock Industry. Howrah Lock Industry. Ye IndiaMART ka number hai na? Haan IndiaMART. Haan IndiaMART. Just just minute pehle hi, haan just minute pehle hi number bataiye.\\nCustomer: Register number?\\nExecutive: Ji.\\nExecutive: Accha accha accha. Register number 9932.\\nCustomer: Haan.\\nExecutive: 0.\\nCustomer: Haan.\\nExecutive: 939.\\nCustomer: 939. Ek second. Haan. Howrah Lock Industries.\\nExecutive: Haan haan Saptarshi call wo hai. Wo Shraddha madam ne phone kiya tha 10 minute pehle. To main didi tha unko bola hum 10 minute baad hum aapko phone mila rahe hain to abhi hum system mein hai wo kuch bolne wala tha. Haan. To isliye hum phone kiye the.\\nCustomer: Haan.\\nExecutive: To ma'am hai. Haan haan. Haan wo Shraddha madam se baat hui hogi na abhi just aapki?\\nCustomer: Haan haan haan haan haan.\\nExecutive: Haan, theek hai. Aap mujhe bas 5 minute ka samay do. Main unko bol rahi hu aapko call karke ek virtual meet kar le aap se, theek hai?\\nCustomer: Ji ji ji ji ji.\\nExecutive: Bas 5 minute dijiyega sir.\\nCustomer: Haan ek bar dijiye na hum hai. Theek hai. Theek hai ji theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm registration number.\\n\n- Customer wants to talk about system issues.\\n\n\\n\nResolution:\\n\n- Executive confirmed Shraddha will call for virtual meet.\\n\n\\n\nNext Steps: \\n\n- Executive will have Shraddha call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- registration, virtual meet, system issues\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=79211516-e6ef-4386-9144-b5638f3d7087",
+  "ucid": "79211516-e6ef-4386-9144-b5638f3d7087",
+  "seller_categories": [
+    {
+      "mcat_id": "148221",
+      "mcat_name": "Cupboard Locks"
+    },
+    {
+      "mcat_id": "9313",
+      "mcat_name": "Shutter Lock"
+    }
+  ]
+}

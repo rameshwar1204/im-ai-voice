@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674461945",
+  "gluser_id": "7532785",
+  "vintage_months": 113,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702051",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji madam good morning.\\nCustomer: Hello? Haan ji good morning Naman bol rahe hain?\\nExecutive: Haan ji haan ji madam.\\nCustomer: Haan boliye Naman.\\nExecutive: Madam woh aapne na aapke yahan se kisi ne video meeting ki request open kari thi.\\nCustomer: Hamare yahan se kari thi?\\nCustomer: Nahi nahi.\\nExecutive: Toh hamare yahan se toh kisi ne nahi ki hogi video meeting ki.\\nExecutive: Request open thi mere paas toh ho sakta hai by mistake ho gayi ho.\\nCustomer: Achcha.\\nExecutive: Hmm.\\nCustomer: Mere yahan se video ki toh koi nahi karega yeh ho sakta hai ki audio ki ki hogi haan bhai baat karni hai samajhna hai.\\nExecutive: Baat toh meri Friday hui thi.\\nCustomer: Main bolti hun.\\nCustomer: Aur Friday hui thi toh usne kya bola tha?\\nExecutive: Wohi ki leads nahi aa rahi toh maine unhone bataya tha ki fresh leads consume kariye aur maine unko bata diya tha sara sab kuch jo jo weak points the hamare jahan pe hum log lag kar rahe the.\\nCustomer: Haan.\\nExecutive: Theek hai toh woh maine baat kiya tha ho sakta hai by mistake kisi se click ho gaya ho.\\nCustomer: Yeh ho sakta hai toh main aisa karti hun main zara usse baat karti hun jaisa bhi hota hai main pata karti hun is cheez ke bare mein aur phir main aapko phone karti hun agar aisi koi requirement bheji hai ya kuch.\\nExecutive: Toh main isko close kar du madam concern ko?\\nCustomer: Nahi ek kaam karo na aapke paas unka number hoga na Seema Jaiswal ka.\\nExecutive: Theek hai main unse kar leta hun.\\nCustomer: Jaiswal.\\nExecutive: Theek hai.\\nCustomer: Okay.\\nCustomer: Haan unse puchh lungi main zara.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a video meeting request.\\n\nResolution:\\n\n- Executive clarified it might be a mistake.\\n\nNext Steps: \\n\n- Customer will confirm with Seema Jaiswal.\\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, request, leads\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4b9d0f82-90f5-48d1-8baf-291efabee3e4",
+  "ucid": "4b9d0f82-90f5-48d1-8baf-291efabee3e4",
+  "seller_categories": [
+    {
+      "mcat_id": "183235",
+      "mcat_name": "E-Rickshaw Loader"
+    },
+    {
+      "mcat_id": "151173",
+      "mcat_name": "Battery Operated Rickshaw"
+    },
+    {
+      "mcat_id": "145630",
+      "mcat_name": "Electric Rickshaw Three Wheeler"
+    },
+    {
+      "mcat_id": "445384",
+      "mcat_name": "Electric Auto Rickshaw"
+    },
+    {
+      "mcat_id": "27304",
+      "mcat_name": "Electric Scooter"
+    }
+  ]
+}

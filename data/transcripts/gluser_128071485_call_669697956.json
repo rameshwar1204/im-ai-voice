@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669697956",
+  "gluser_id": "128071485",
+  "vintage_months": 1,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Ferozepur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657065",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hanji.\\nExecutive: Hanji, kaun bol rahe ji?\\nCustomer: Main Nitish baat kar raha hun, aap kaun?\\nExecutive: Kaun?\\nCustomer: Nitish, Nitish, aap kaun?\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know who is speaking.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- identity, conversation\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=69d8476e-3c02-4ac0-83c0-159723050487",
+  "ucid": "69d8476e-3c02-4ac0-83c0-159723050487",
+  "seller_categories": [
+    {
+      "mcat_id": "38154",
+      "mcat_name": "Stainless Steel Scrubber"
+    },
+    {
+      "mcat_id": "215885",
+      "mcat_name": "Foam Scrub Pad"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "181454",
+      "mcat_name": "LED COB Light"
+    },
+    {
+      "mcat_id": "181064",
+      "mcat_name": "LED Concealed Lights"
+    }
+  ]
+}

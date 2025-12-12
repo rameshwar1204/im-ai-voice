@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672354126",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir.\\nCustomer: Haan.\\nExecutive: Alipam Alipam sir baat kar rahe hain na?\\nCustomer: Haan baat kar raha hun.\\nExecutive: Sir main Nancy baat kar rahi hun. Actually meri aapke staff se baat ho gayi thi. Theek hai wo na alag number se login kar rahe the. Aapke number pe aapne package le rakha hai. Theek hai wo 060 wale number se login karte isme issue aa raha tha. Hamare yahan se issue resolve ho gaya hai.\\nCustomer: Theek hai.\\nExecutive: Nahi matlab matlab matlab aap bolna cha rahe ho ek hi number pe sabko login karna hoga.\\nCustomer: Haan jo isko jisko bhi login karna hoga aapko jis number se maine abhi call kiya hai 98 wala 214 jo last mein hai.\\nExecutive: Hmm.\\nExecutive: Aapka isi number pe sabko login karna hoga kyunki aapne package to isi number se liya hai.\\nCustomer: Aisa aisa possible hai kya?\\nExecutive: Haan aap aapke hi number se sare full device isme login hoga. Agar kisi aur number se hoga to wo free page khulega. Aapka registered nahi khulega.\\nExecutive: Aur ab to free page bhi aapka disable karwa diya hai us din aapki do do website aa rahi thi to wo free page bhi nahi khulega.\\nCustomer: Nahi wo jarurat nahi hai free page ki jarurat nahi hai.\\nExecutive: Hai na to aap ye jo aapka 214 wala number hai isi number se aap kitne bhi device mein login karna aap.\\nCustomer: Nahi nahi aap sirf itna confirm karo ki ek hi number se wo login multiple device mein ho sakta hai kya?\\nExecutive: Ho jata hai haan ho jata hai sir.\\nCustomer: Haan wo dekh lo unko bata do karne ke liye main OTP share kar dunga.\\nExecutive: Bata diya hai maine wo aapse wo boli thi ki theek hai main login kar rahi hun aur wo kal se mera phone answer kar nahi rahi hai isliye maine aapko lagaya.\\nCustomer: Theek hai main baat karke usko dekhta hun.\\nExecutive: Issue resolve ho gaya hai haan sir main yahan se.\\nCustomer: Theek hai main baat kar leta hun.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's staff was logging in with different number.\\n\n- Wants to confirm if multiple logins possible with one number.\\n\n\\n\nResolution:\\n\n- Executive confirmed issue has been resolved.\\n\n- Executive confirmed multiple logins possible with registered number.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to his staff.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, multiple devices, registered number\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 122,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=466525f1-9133-4ac4-9869-d026840d66c2",
+  "ucid": "466525f1-9133-4ac4-9869-d026840d66c2",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674444877",
+  "gluser_id": "27922496",
+  "vintage_months": 46,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686670",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, Jain Auto Equipments, hello, Jain Auto Equipments company se baat ho rahi hai?\\nExecutive: Haan ji.\\nCustomer: Sir, Shyam ji se baat ho jayegi? Main Indiamart.com ke Noida head office se Satish Tiwari bol raha tha.\\nExecutive: Ah, nahi aap galat abhi maine utha liya aap wapas se call kijiye to wo uthayenge. Dono ka kya same matlab aisa hai main ya unme se ek jana uthata Indiamart ki call.\\nCustomer: Aisa nahi but India ke sare jana jawab dene jawab dene wo wohi dete hain Indiamart ke liye aisa koi bhi kaam hota hai vaisa wohi karte hain wohi handle karte hain.\\nExecutive: Barabar.\\nCustomer: Okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to speak with Shyam ji.\\n\n\\n\nResolution:\\n\n- Executive stated Shyam ji is not available and to call back later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer needs to call back later to speak with Shyam ji.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, indiamart\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45b0ce90-996e-4deb-9094-98dc7ca1b987",
+  "ucid": "45b0ce90-996e-4deb-9094-98dc7ca1b987",
+  "seller_categories": [
+    {
+      "mcat_id": "21675",
+      "mcat_name": "Air Jacks"
+    },
+    {
+      "mcat_id": "35171",
+      "mcat_name": "Pneumatic jacks"
+    },
+    {
+      "mcat_id": "217286",
+      "mcat_name": "Pit Jack"
+    },
+    {
+      "mcat_id": "3402",
+      "mcat_name": "Wheel Aligner"
+    },
+    {
+      "mcat_id": "142535",
+      "mcat_name": "3D Wheel Alignment Machine"
+    }
+  ]
+}

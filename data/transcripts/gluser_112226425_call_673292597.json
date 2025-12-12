@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673292597",
+  "gluser_id": "112226425",
+  "vintage_months": 32,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694491",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Haan ji sir bataiye.\\nCustomer: Main main ye keh raha hu jo complaint list hai na wo usse meri kaise baat hogi?\\nExecutive: Uh, main unse bol deta hu wo aapko direct call kar lenge. Abhi bol raha hu.\\nCustomer: Bolo ek baar hai na.\\nExecutive: Bilkul abhi bol raha hu just.\\nCustomer: Haan.\\nExecutive: Okay. Ye to customer care number hai na?\\nExecutive: Haan customer care number hai sir.\\nCustomer: Fir aapke paas kaise ja raha hai ye?\\nExecutive: Sir main hi mere paas hi aayega aapka ye number. Aap phone lagayenge to main hi baat karunga aap se. Main bol deta hu, main unse bol deta hu wo aapko direct call kar lenge hai na?\\nCustomer: Uska number kya hai customer call care ka?\\nExecutive: Sir customer care pe hi aapne phone lagaya hai.\\nCustomer: [inaudible]\\nExecutive: Lekin ye mere paas hi aayega. Main direct aapko phone number de deta hu. Matlab sir se bol de raha hu wo aapko connect kar lenge. Thik hai sir?\\nCustomer: Thik hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to the complaint list team.\\n\n\\n\nResolution:\\n\n- Executive assured a direct call from the team.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, customer care, call\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5576ad41-88d1-461a-b4b0-9b2608a8eb95",
+  "ucid": "5576ad41-88d1-461a-b4b0-9b2608a8eb95",
+  "seller_categories": [
+    {
+      "mcat_id": "216824",
+      "mcat_name": "Statue Painting Services"
+    },
+    {
+      "mcat_id": "2000",
+      "mcat_name": "Marble Paintings"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    }
+  ]
+}

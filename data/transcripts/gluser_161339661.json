@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674414197",
+  "gluser_id": "161339661",
+  "vintage_months": 27,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhusawal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701812",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan. Alok Patil Developer and Builders.\\nExecutive: Haan, boliye. Yes ma'am, good morning. Main Riya bol rahi hu IndiaMART head office se.\\nCustomer: Ji.\\nExecutive: Haan. Ma'am aapko kuch issue tha ki aapko leads vagaira mein kuch issue aa raha hai, aapke system pe leads nahi dikh rahi hai, right?\\nCustomer: Haan aur hume hamara jo website hai na, wo bhi update karwana hai.\\nExecutive: Achha achha, website update karana hai ka matlab?\\nCustomer: Matlab jo bhi information meri hai na abhi system mein, to wo update karani hai.\\nExecutive: Achha achha, to aap hi karengi?\\nCustomer: Haan.\\nExecutive: To aap mujhe bataiye kaise karengi aap ye? Matlab main yaha pe online aapko guide kar deti hu. Guide kar deti hu.\\nCustomer: Matlab abhi laptop pe kar rahi hu.\\nExecutive: Haan haan, laptop ki hi main baat kar rahi hu.\\nCustomer: Haan. Aapke system pe ye wali mail ID hai ma'am, ek second PSP3986@gmail.com wali?\\nCustomer: Kya ma'am?\\nExecutive: Aapke laptop pe wo PS wali mail ID hai? Ek second.\\nCustomer: Haan PS wali hai na. Haan, to dekhiye ispe aapko abhi turant Riya IndiaMART karke ek mail gaya hoga.\\nCustomer: Haan.\\nExecutive: To wo open kariye. Fir join with Google meeting, meeting with IndiaMART team. Kiya haan, usko join kariye.\\nCustomer: Ek minute haan. Haan ji.\\nCustomer: Kiya.\\nExecutive: Ab usi pe baat kar sakte hai kya?\\nCustomer: Haan.\\nExecutive: Ji ma'am, isko hum left kar dete hai and isi pe baat karte hai, thik hai? Voice on kar lijiye.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issues with leads.\\n\n- Wants to update the website.\\n\n\\n\nResolution:\\n\n- Executive offered to guide customer online.\\n\n- Asked customer to join Google Meet.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, website update, google meet\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e5b6d433-0738-4e39-9e66-b51d056086c9",
+  "ucid": "e5b6d433-0738-4e39-9e66-b51d056086c9",
+  "seller_categories": [
+    {
+      "mcat_id": "78493",
+      "mcat_name": "Engineering Project"
+    },
+    {
+      "mcat_id": "41747",
+      "mcat_name": "Mechanical Project Works"
+    },
+    {
+      "mcat_id": "23719",
+      "mcat_name": "Book Publisher"
+    },
+    {
+      "mcat_id": "172791",
+      "mcat_name": "Thesis Writing Services"
+    },
+    {
+      "mcat_id": "170389",
+      "mcat_name": "Dissertation Writing Service"
+    }
+  ]
+}

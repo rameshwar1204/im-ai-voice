@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672747387",
+  "gluser_id": "109197631",
+  "vintage_months": 22,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Balotra",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9689622",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji, Pulkit sir, mere manager aapko call kar rahe hain. Please unka call lijiye.\\nCustomer: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Manager is calling.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, manager\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b01b1f4f-c880-4fb7-927c-9cc6679f3ef8",
+  "ucid": "b01b1f4f-c880-4fb7-927c-9cc6679f3ef8",
+  "seller_categories": [
+    {
+      "mcat_id": "84569",
+      "mcat_name": "Cotton Poplin Fabric"
+    },
+    {
+      "mcat_id": "184549",
+      "mcat_name": "Petticoat Fabric"
+    },
+    {
+      "mcat_id": "88450",
+      "mcat_name": "Poplin Fabric"
+    },
+    {
+      "mcat_id": "185200",
+      "mcat_name": "Cotton Petticoat"
+    },
+    {
+      "mcat_id": "179839",
+      "mcat_name": "Petticoat"
+    }
+  ]
+}

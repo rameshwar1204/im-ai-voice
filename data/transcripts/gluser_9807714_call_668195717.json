@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668195717",
+  "gluser_id": "9807714",
+  "vintage_months": 13,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653304",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Kuch toh log kahenge.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan sir ji good evening.\\nCustomer: Good evening sir.\\nExecutive: Haan sir aapne jaise bola tha na ki by leads mein matlab kitna by leads bola gaya tha sir aapko.\\nCustomer: Woh unse Shahnawaz ji se pucho na jo mere ko estimate bana ke diya us pe toh abhi tak 1% bhi kaam nahi hua hai.\\nExecutive: Sir matlab by leads jo aapko meri baat hui thi toh aapko aaj by leads\\nCustomer: Karwate hai sir non 30 non flexible sir.\\nExecutive: Hain?\\nExecutive: Aapko aapko non flexible by leads ka aaj maine bol diya toh aaj aaj aapka matlab karwate hai sir by leads aapko non 20 non flexible by leads aapko mil jayenge sir.\\nCustomer: 20 theek hai aur extra kya kaam tha apna woh social media promotion wala aur woh.\\nExecutive: Haan social media pe toh sir woh aapko karna padega jaise ki ek toh aapko ye page aapko bana hi mila IndiaMART sir aapki website ka sir.\\nCustomer: Hai na?\\nCustomer: Haan.\\nExecutive: Haan aapki dekhiye website mein aapki website toh hai IndiaMART ke andar mein agar aap upper service lete hai tab aapko khud ki website milti hai sir isme sir aapki website bhi mili hai sir aapko IndiaMART ki sir aapke personal number se phone karo ispe aawaz bhi saaf nahi aati 10 minute mein mere ko personal number se karo.\\nCustomer: Okay okay sir.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not received the promised number of buyleads.\\n\n- Wants social media promotion.\\n\n- Voice not clear on the call.\\n\n\\n\nResolution:\\n\n- Executive assured to provide non-flexible buyleads.\\n\n- Asked to call on personal number for clear communication.\\n\n\\n\nNext Steps: \\n\n- Customer will call on personal number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, social media promotion, website\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=065a4a9d-d66e-469b-acd8-64e1dbf3f560",
+  "ucid": "065a4a9d-d66e-469b-acd8-64e1dbf3f560",
+  "seller_categories": [
+    {
+      "mcat_id": "23873",
+      "mcat_name": "Broom Handles"
+    },
+    {
+      "mcat_id": "138708",
+      "mcat_name": "PP Raffia Scrap"
+    },
+    {
+      "mcat_id": "99903",
+      "mcat_name": "PP Scrap"
+    },
+    {
+      "mcat_id": "150523",
+      "mcat_name": "Bag Scraps"
+    },
+    {
+      "mcat_id": "166431",
+      "mcat_name": "PP Lumps"
+    }
+  ]
+}

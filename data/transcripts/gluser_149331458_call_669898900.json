@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669898900",
+  "gluser_id": "149331458",
+  "vintage_months": 41,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662110",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHaa kaun?\\nAnshika speaking baat ho rahi hai mam.\\nHaa.\\nGarima baat kar rahi hu mam India Mart se, kaise hain?\\n11:05, 10 minute mein call kar sakte hain kaise?\\nAchha sir baat karenge kya?\\nKal nahi 10\\n10-15 minute mein call karo na.\\nThik hai, 15 minutes mein call back karti hu order.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a call back in 10-15 minutes.\\n\n\\n\nResolution:\\n\n- Agreed to call back in 15 minutes.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, time arrangement\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=65964b7f-da33-4531-9c38-904b4c0015e9",
+  "ucid": "65964b7f-da33-4531-9c38-904b4c0015e9",
+  "seller_categories": [
+    {
+      "mcat_id": "218452",
+      "mcat_name": "Invisible Grill"
+    },
+    {
+      "mcat_id": "186452",
+      "mcat_name": "Sliding Mosquito Net"
+    },
+    {
+      "mcat_id": "3419",
+      "mcat_name": "Window Blinds"
+    },
+    {
+      "mcat_id": "117492",
+      "mcat_name": "Window Roller Blind"
+    },
+    {
+      "mcat_id": "127591",
+      "mcat_name": "Zebra Blinds"
+    }
+  ]
+}

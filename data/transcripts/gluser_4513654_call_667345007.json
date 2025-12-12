@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667345007",
+  "gluser_id": "4513654",
+  "vintage_months": 54,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9711075",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Abhi aap dekhna jo ye log ek ek bhi hai na aane wale time aisa hone wala hai.\\nExecutive: Ye abhi ka dekh rahe hai current ka dekh rahe hai. Ye sahi keh rahe ho.\\nCustomer: Pehle DP change karo.\\nExecutive: Accha okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is talking about future prospects.\\n\n- Customer asks to change the DP.\\n\n\\n\nResolution:\\n\n- Executive agreed with the customer.\\n\n- Executive acknowledged the customer's request.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- dp change, future prospects, current\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b545cd1-46c8-4b4b-83b5-5d7265002d6f",
+  "ucid": "6b545cd1-46c8-4b4b-83b5-5d7265002d6f",
+  "seller_categories": [
+    {
+      "mcat_id": "69474",
+      "mcat_name": "Rotary Limit Switches"
+    },
+    {
+      "mcat_id": "181640",
+      "mcat_name": "Air Filter Regulator"
+    },
+    {
+      "mcat_id": "31229",
+      "mcat_name": "Junction Boxes"
+    },
+    {
+      "mcat_id": "150506",
+      "mcat_name": "Aluminium Junction Boxes"
+    },
+    {
+      "mcat_id": "32359",
+      "mcat_name": "Limit Switches"
+    }
+  ]
+}

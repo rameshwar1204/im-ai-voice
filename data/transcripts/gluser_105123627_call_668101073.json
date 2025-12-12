@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668101073",
+  "gluser_id": "105123627",
+  "vintage_months": 63,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhilai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638514",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Good morning, I am Shashi Gold from IndiaMART.\\nCustomer: Haan ma'am boliye ma'am.\\nExecutive: Sir, aapne call kiya tha humare customer care number pe, kya issue hua tha?\\nCustomer: Ah, customer care number pe ma'am.\\nExecutive: Ji ji ji, humara customer care number hai 9696.\\nCustomer: Achha ma'am.\\nExecutive: To kya issue aa rahi thi, kya inquiry thi aapko?\\nCustomer: Ki ma'am kuch tha problem ma'am, abhi to mujhe yaad nahi hai. Main ek baar office mein dekh kar ke main batata hu ma'am aapko. 5 minute ke aas paas mein batata hu ma'am aapko.\\nExecutive: Okay nahi hai.\\nCustomer: Theek hai sir, aap mujhe call kar dijiye.\\nExecutive: Theek hai ma'am, okay ma'am.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called customer care but forgot the issue.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, inquiry, call back\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2bc7eef-3b80-4998-b7be-c0b0983b4498",
+  "ucid": "d2bc7eef-3b80-4998-b7be-c0b0983b4498",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "11734",
+      "mcat_name": "GC Sheets"
+    },
+    {
+      "mcat_id": "183187",
+      "mcat_name": "Mangalam Mild Steel Welding Rod"
+    },
+    {
+      "mcat_id": "159024",
+      "mcat_name": "Mild Steel Binding Wire"
+    },
+    {
+      "mcat_id": "207709",
+      "mcat_name": "Cumi Grinding Wheels"
+    }
+  ]
+}

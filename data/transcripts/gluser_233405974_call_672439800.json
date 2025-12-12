@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672439800",
+  "gluser_id": "233405974",
+  "vintage_months": 2,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Midnapore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683969",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello Shanu ji se baat ho rahi hai?\\nExecutive: Ha boliye.\\nCustomer: Good afternoon sir, Shana baat kar rahi hu aapke account manager IndiaMART se.\\nExecutive: Accha accha ha boliye.\\nCustomer: Ha ji ha ji. Aapne sir ye jo complaint kari thi aap aap sir dusre number se login karne ka koshish kar rahe ho kya sir?\\nCustomer: Ha nahi dusre number se same number se hi login kiya hai.\\nExecutive: Same number se bhi login kar rahe ho aap to kya issue kya matlab kya aa raha hai sir?\\nCustomer: Nahi wo issue nahi hai hum actually jo UI hai na pehla wala upar mein.\\nExecutive: Hmm hmm.\\nCustomer: To UI mein bina login karke udhar details thoda aa raha tha.\\nCustomer: Matlab lead manager show nahi ho raha tha par wo kitna lead manager hai isme kitna hai ye sab details dikha raha tha.\\nExecutive: To aap aap abhi sir video meeting pe aa sakte ho ek baar aap sir screen present karke check karwa sakte ho sir?\\nCustomer: Hmm okay ek minute.\\nExecutive: Aap check karo sir maine na aapko video meeting ka link share kar diya hai.\\nExecutive: Aapke mail pe gayi hogi sir.\\nExecutive: Aap bologe to mai aapko sir whatsapp pe bhi share kar du?\\nCustomer: Hello\\nCustomer: Hello\\nCustomer: Join kar lo.\\nExecutive: Ji mai aawaz aa rahi hai sir?\\nCustomer: Ha bol raha hu ki join kar lo meeting mein. \\nExecutive: Ha ha aap join kijiye.\\n(silence)\\n(hold music)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issue with login.\\n\n- UI showing details without login.\\n\n\\n\nResolution:\\n\n- Executive shared video meeting link to check.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer to join video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, ui, video meeting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 176,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2eb63b00-4f3c-4f80-b36f-29c033547e8d",
+  "ucid": "2eb63b00-4f3c-4f80-b36f-29c033547e8d",
+  "seller_categories": [
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    },
+    {
+      "mcat_id": "167872",
+      "mcat_name": "E-Commerce Application Development"
+    },
+    {
+      "mcat_id": "29571",
+      "mcat_name": "Hotel Bookings"
+    },
+    {
+      "mcat_id": "168984",
+      "mcat_name": "Photo Editing Services"
+    },
+    {
+      "mcat_id": "88522",
+      "mcat_name": "SEO Services"
+    }
+  ]
+}

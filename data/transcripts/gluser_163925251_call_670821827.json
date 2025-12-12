@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670821827",
+  "gluser_id": "163925251",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Haan ji. Hello. Sakil sir baat kar rahe hain Sakil sir?\\nExecutive: Haan ji kaun bol raha hai?\\nCustomer: Main Rohit se baat kar raha tha IndiaMART se. Aapko meeting ke liye baat hui thi.\\nCustomer: Haan sir lekin main thoda aaj actual mein thoda busy hun. To aap ye meeting jo bhi hai aap kal ke liye schedule karwa sakte ho kya?\\nExecutive: Kal ke liye actually kya hai financing mein maine bhi aapko connect kiya hua hai na shayad se.\\nCustomer: Nahi wo baat thik hai lekin main thoda aaj kuch kaam mein uljha hua hun.\\nExecutive: Achcha.\\nCustomer: Isliye bol raha hun aap isko kal.\\nExecutive: Suniye kya hai ki wo aapne not satisfied kar diya na to koi baat nahi matlab uske liye wo kiya gaya tha usko team ki taraf se.\\nCustomer: Nahi nahi wo to main samajh gaya to aap mera ek kaam kijiye na aap kal subah 11 11 11 baje karwa dijiyega aap.\\nExecutive: 11 baje?\\nCustomer: Haan. Aaa thik hai main 11 baje karwa deta hun aur ho sake to try kar lijiye agar ho jaye to abhi.\\nCustomer: Abhi to sir nahi ho payega actual mein maine abhi subah se ghar bhi nahi gaya khana wagera bhi nahi khaya thoda kaam mein busy hun.\\nExecutive: Achcha aapne. Are haan. Achcha aap ye marble iski proper isi ka hi work karte hain properly?\\nCustomer: Haan sir.\\nExecutive: Yani aap kal subah ka 11 baje kal subah 11 baje ka karwa dijiye na main kal subah free ho ke pura dekh lunga na jo bhi hai.\\nExecutive: Thik hai main karwa dunga aapko 11 baje phone na subah karwa dunga.\\nCustomer: Okay sir. Okay thank you.\\nExecutive: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and wants to reschedule meeting.\\n\n\\n\nResolution:\\n\n- Executive agreed to reschedule meeting for tomorrow.\\n\n\\n\nNext Steps: \\n\n- Meeting rescheduled for 11:00 AM tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, reschedule, busy\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=36e2e340-6192-4993-be7f-191c4276d6c8",
+  "ucid": "36e2e340-6192-4993-be7f-191c4276d6c8",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "224235",
+      "mcat_name": "Marble Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    }
+  ]
+}

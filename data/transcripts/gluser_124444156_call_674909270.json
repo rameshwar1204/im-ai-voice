@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674909270",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello ha ji sir good morning Dev baat kar raha tha India Mart se.\\nCustomer: Ha boliye bhaiya mai bol raha hu unka chota bhai.\\nExecutive: Accha kya naam hai aapka?\\nCustomer: Mera naam Siddik Alam.\\nExecutive: Okay ye aise agro enterprises hai services me sir kaise chal rahi hai abhi aapki matlab kya issue aa raha hai?\\nCustomer: Accha boliye na kya kuch kaam hai bhaiya boliye.\\nExecutive: Nahi nahi nahi aapka matlab basically feedback lene ke liye maine call kiya hai leads vagarah sir aa rahe hai proper aapki maturity vagarah ho rahe hai ki nahi?\\nCustomer: Ek baar mera bade bhai se baat kar lijiyega na please iske bare mein.\\nExecutive: Theek hai theek hai theek hai.\\nCustomer: Theek hai.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to speak with his elder brother.\\n\n- Enquiring about the services.\\n\n\\n\nResolution:\\n\n- Executive agreed to talk to his elder brother.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, leads, services\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=86908088-1df2-402e-b445-cd147b870fce",
+  "ucid": "86908088-1df2-402e-b445-cd147b870fce",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

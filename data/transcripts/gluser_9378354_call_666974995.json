@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666974995",
+  "gluser_id": "9378354",
+  "vintage_months": 10,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642155",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Haan ji, good afternoon, sir.\\nCustomer: Boliye na.\\nExecutive: Himani baat kar rahi hu sir main.\\nCustomer: Aapki awaaz pehchanta hu.\\nExecutive: Haan ji, haan ji. Actually sir, servicing regarding pehle to maine connect kiya tha. Buyleads wagera consume nahi ho rahi hai. Aapko dusra koi product bhi consume nahi kar rahe kya abhi?\\nCustomer: Aap log khali wo concrete mixer ka dete, kaun karega? Aur kuch kaam nahi hai kya?\\nExecutive: Concrete mixer bhi to aur bhi to products hai sir usme. Aapke sirf concrete mixer hi thodi honge.\\nCustomer: Wohi aa rahe hai.\\nExecutive: Wohi aa rahe hai?\\nCustomer: Jo kaam nahi karte, wahi bhejte hai. Jo jo kaam nahi karte, wahi wahi bhejte ho aap. Kya karenge, bolo?\\nExecutive: Actually kya hai na sir, aap haan sir, main samajh rahi hu aapki baat. Actually kya hai na, aapne pehle jo hai, uski jo hai, mixer ki jo hai, bahut saari consume kar rakhi hai, to aapka pattern set hua hua hai. Jiski wajah se aapko wo zyada aa rahi hongi us type ki buyleads.\\nCustomer: Aa raha hai.\\nCustomer: Paanch das minute baad phone karna. Das minute mein karo na ek call.\\nExecutive: Theek hai, theek hai. Koi nahi, koi nahi, koi nahi. Okay, okay. Thank you.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Receiving irrelevant buyleads only for concrete mixers.\\n- Not consuming any buyleads due to irrelevancy.\\n\\n\\nResolution:\\n\\n- Explained that past consumption of mixer leads has set a pattern.\\n\\n\\nNext Steps: \\n\\n- Issue not resolved.\\n- Customer requested a callback in 10 minutes.\\n\\nAlert (If Any):\\n\\nNone\\n\\n@@@Sentiment:\\n\\n- Annoyed -> Neutral\\n\\n@@@Key Topics:\\n\\n- buyleads, irrelevant leads, consumption pattern, callback\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba3fbbd9-fbdb-4441-a549-65e92ea22612",
+  "ucid": "ba3fbbd9-fbdb-4441-a549-65e92ea22612",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "21693",
+      "mcat_name": "Air Quality Monitors"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "143428",
+      "mcat_name": "Reverse Drum Mixer"
+    }
+  ]
+}

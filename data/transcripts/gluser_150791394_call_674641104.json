@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674641104",
+  "gluser_id": "150791394",
+  "vintage_months": 42,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Parbatsar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695444",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Sanjeev?\\nCustomer: Se baat ho sakti hai?\\nCustomer: Haan, ho sakti hai na?\\nCustomer: Lokendra.\\nExecutive: Haanji baat karwa dijiye.\\nCustomer: Hello madam.\\nExecutive: Hello.\\nExecutive: Sir, sir mai shreya baat kar rahi hu IndiaMART se.\\nCustomer: Are madam aap\\nCustomer: Dekho aap bar bar pareshan kar rahe ho mujhe karwana chahte ho.\\nExecutive: Actually mujhe call nahi mai renewal ke liye call nahi kar rahi hu sir renewal ke liye call nahi kar rahi hu mai.\\nCustomer: Aur ek baat dekho hota hai har bar aap samajh pa rahe ho yaar aap padhe likhe ho kar ke aise bar bar.\\nExecutive: Sir hamare pass concern concern raise ho jata hai aap jab whatsapp pe na not satisfy karte ho na sir hamare pass ek ticket raise ho jata hai.\\nCustomer: Madam uska reason mai sabko bata chuka hu aapke aap se lekar ke aapke manager sahab tak ko.\\nCustomer: Ab ek hi cheez ko bar bar repeat mat karo yaar.\\nCustomer: Not satisfy not satisfy iske isko kahan galat likha aaj mai not satisfy hai.\\nExecutive: Sir ji hame na ye 24 hours ke andar ye band karna hota hai aap bataye mai aap sab renewal ke liye to aap maan nahi rahe ho.\\nCustomer: Ab batao mai ye concern close kar du sir ise.\\nCustomer: Nahi concern kya close kaise kar doge batao batao to aap kis wajah se bole kar to kar do aapka.\\nExecutive: Sir aisa kuch.\\nCustomer: Are madam aapka system hai aap kuch bhi kar sakte ho.\\nCustomer: Aapke wo aisa kuch nahi hai ki aap bhai wo usme puchne ki koi formality ki koi zarurat nahi hai.\\nCustomer: Nahi hai to nahi hai satisfy aapki service se to likh diya to isme kya galat likha.\\nCustomer: Aur wajah aapko koi bas 10 minute se aapko pata hai is bare ke bare me.\\nExecutive: Sir hame call karke confirmation lena hota hai ek bar baat karna hota hai ki kahi aap baat to nahi karna chahte account manager senior manager se.\\nCustomer: Sabko pata hai baki sunane ko to mujhe pata hi hai renewal ke regarding ki kya hai aapka kya problem hai.\\nExecutive: Dekho aap se leke rahul se lekar ke sabse aapke manager sahab se sabse baat ho rakhi hai is bare ke andar ki bhai kya reason se satisfy nahi ho malum hai un sabko yaar aapko bhi pata hai.\\nExecutive: Chaliye theek hai. Mai isko close kar deti hu theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is getting repeated calls.\\n\n- Wants to know the reason for the call.\\n\n- Wants to close the concern.\\n\n\\n\nResolution:\\n\n- Executive explained about the concern raised.\\n\n- Executive agreed to close the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- renewal, not satisfied, concern, close\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 128,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2b58ee03-7e0f-4dd7-97ba-520ed0e839a5",
+  "ucid": "2b58ee03-7e0f-4dd7-97ba-520ed0e839a5",
+  "seller_categories": [
+    {
+      "mcat_id": "23078",
+      "mcat_name": "Calcium Carbonate Powder"
+    },
+    {
+      "mcat_id": "5461",
+      "mcat_name": "Calcite Powder"
+    },
+    {
+      "mcat_id": "6663",
+      "mcat_name": "Natural Calcium Carbonate"
+    },
+    {
+      "mcat_id": "23106",
+      "mcat_name": "Calcium Powder"
+    },
+    {
+      "mcat_id": "113792",
+      "mcat_name": "Dolomite"
+    }
+  ]
+}

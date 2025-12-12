@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674365273",
+  "gluser_id": "132452659",
+  "vintage_months": 2,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Markapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ji sir good morning hello.\\nCustomer: Hello. Good morning sir.\\nExecutive: Gaurav baat kar raha hu sir.\\nCustomer: Good morning.\\nExecutive: Boliye sir. Hello. Kaise hai sir?\\nCustomer: A sir. A abhi sir free hai aap?\\nExecutive: Nahi thoda mai khana khata isliye\\nCustomer: Tiffin khate hai.\\nExecutive: Achha achha achha.\\nExecutive: Aapko 10-15 minute me call kar lu?\\nCustomer: Chalo.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked if the executive is free.\\n\n\\n\nResolution:\\n\n- Executive stated he is eating and asked to call back in 10-15 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back in 10-15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, time\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=426186d3-d4ab-4dce-aae4-9f1b5f0c43fd",
+  "ucid": "426186d3-d4ab-4dce-aae4-9f1b5f0c43fd",
+  "seller_categories": [
+    {
+      "mcat_id": "95125",
+      "mcat_name": "Clip Board"
+    },
+    {
+      "mcat_id": "74765",
+      "mcat_name": "MDF Board"
+    },
+    {
+      "mcat_id": "27027",
+      "mcat_name": "Drawing Slate"
+    },
+    {
+      "mcat_id": "183053",
+      "mcat_name": "Wooden Clipboard"
+    },
+    {
+      "mcat_id": "3594",
+      "mcat_name": "Writing Pad"
+    }
+  ]
+}

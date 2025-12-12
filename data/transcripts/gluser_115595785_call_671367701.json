@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671367701",
+  "gluser_id": "115595785",
+  "vintage_months": 20,
+  "bl_dau_oct": 27,
+  "customer_type": "STAR",
+  "city_name": "Barshi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9674493",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan.\\nExecutive: Abhi main sir Vinith baat kar raha hu IndiaMART se.\\nCustomer: Sir abhi bahar hu mein zara baad mein phone karta hu.\\nExecutive: Ah sir thoda sa urgent tha kitni der ke baad kar sakte hai hum log?\\nCustomer: Haan boliye kuch hai bataiye phir kya hai.\\nExecutive: Actually Shivti ne na aap se baat ki hogi toh uske baad ek feedback aata hai aapke paas usme sir aapne not satisfied mark kar diya hai.\\nCustomer: Haan kar diya jo hai so hai mere ko nahi mere ko call aa rahe hai mera problem nahi solve ho raha unko maine 10 recording bheje aaj ki bhi.\\nExecutive: Wo pehle solve kijiye phir mein satisfied likhta hu.\\nCustomer: Theek hai?\\nExecutive: Are sir aap toh call discuss kar lete hai sir maine aap se aisa toh nahi meri aap se baat nahi meri baat hui thi aap se ki aapko thoda sa ek mahina ek mahina wait kare.\\nCustomer: Sir actually mein bolu din ke 10-10 call aa rahe hai paanch-paanch call mere ko aa rahe hai aap bol rahe ho 10 mein se paanch mere ko paancho call aise aate hai mere ko bechne ke liye aur maine with proof unko bheje saare recordings.\\nHmm.\\nCustomer: Toh aap pehle wo dekhiye din ke paanch-paanch call aapko IndiaMART se is mahine koi call hi nahi aaya hai aap keh rahe hai din ke paanch-paanch call aa rahe hai aapko.\\nExecutive: Wahi aa rahe hai mein wahi diya unko proof.\\nCustomer: Ek second sir aap recording recording recording sun lijiye unse.\\nExecutive: Kisi aur ko kisi aur ko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving unwanted sales calls.\\n\n- Customer marked 'not satisfied' in feedback.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to discuss the call.\\n\n- Executive asked to wait for a month.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, sales calls, recordings\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0cde5bd2-f1cd-40a0-bc0e-8aa7ec7ca02e",
+  "ucid": "0cde5bd2-f1cd-40a0-bc0e-8aa7ec7ca02e",
+  "seller_categories": [
+    {
+      "mcat_id": "443266",
+      "mcat_name": "Millet Cookies"
+    },
+    {
+      "mcat_id": "226776",
+      "mcat_name": "Millet Flakes"
+    },
+    {
+      "mcat_id": "148447",
+      "mcat_name": "Diwali Gifts"
+    },
+    {
+      "mcat_id": "218144",
+      "mcat_name": "Jowar Flakes"
+    },
+    {
+      "mcat_id": "218500",
+      "mcat_name": "Ragi Biscuits"
+    }
+  ]
+}

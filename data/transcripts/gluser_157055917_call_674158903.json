@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674158903",
+  "gluser_id": "157055917",
+  "vintage_months": 11,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Chengalpattu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701428",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\nNone\\n\n\\n\nResolution:\\n\nNone\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nNone\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f9f78101-efd1-4249-8ca9-06cad33c3c43",
+  "ucid": "f9f78101-efd1-4249-8ca9-06cad33c3c43",
+  "seller_categories": [
+    {
+      "mcat_id": "25357",
+      "mcat_name": "Date Palm Trees"
+    },
+    {
+      "mcat_id": "33829",
+      "mcat_name": "Palm Trees"
+    },
+    {
+      "mcat_id": "114189",
+      "mcat_name": "Coconut Plants"
+    },
+    {
+      "mcat_id": "178026",
+      "mcat_name": "Dates Tissue Culture Plants"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    }
+  ]
+}

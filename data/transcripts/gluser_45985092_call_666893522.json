@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666893522",
+  "gluser_id": "45985092",
+  "vintage_months": 46,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Ji boliye.\\nExecutive: Haan ji Prathap ji.\\nCustomer: Ji aapka concern raise hua tha na abhi aapne concern raise kiya tha buyleads ke regarding.\\nCustomer: Haan.\\nExecutive: Haan, toh usi ke liye maine connect kiya tha aapko ki aapne likha hai ki usme single phase ki aapko aa rahi hai lead.\\nCustomer: Single phase hum bechte hi nahi sale hi nahi karte aur aap lead hi jyadatar single phase aata hai package ki.\\nExecutive: Hmm hmm.\\nExecutive: Theek hai, mai us cheez ko aapka remove karwa de rahi hu aur jo leads ka hai na usme categories aur add kara de rahi hu jisse ki aapko three phase mein aap karte ho uski jyada aaye. Toh abhi aap online ho na?\\nCustomer: Haan online hi hu mai.\\nExecutive: Online ho aap? Mai aapko ek link share kar rahi hu aap usko join karo, theek hai?\\nCustomer: IndiaMART mein?\\nExecutive: Haan ek second mai abhi bhej rahi hu aapko aap usko join karna ek second.\\nExecutive: Ek minute.\\nExecutive: Aap mail check karo maine aapko na ek link bheji hai mail par.\\nCustomer: Haan.\\nCustomer: Wo niche hai youtube.com.\\nCustomer: Ye wali link hai na?\\nExecutive: Haan maine apne naam se bheji hai Hiba ke naam se Google meet ke liye.\\nCustomer: Kya naam kya bataya?\\nExecutive: Hiba.\\nCustomer: Nahi isme Hiba naam ki nahi hai.\\nCustomer: Customer care IndiaMART hai.\\nCustomer: Haan mail mein hi check kiya.\\nExecutive: Abhi aap refresh karo ek baar.\\nCustomer: Do minute.\\nExecutive: Nahi toh maine aapko whatsapp par bhi share kar di hai.\\nCustomer: Whatsapp se join kar lo chahe aap.\\nCustomer: Link moklish.\\nCustomer: Aa magi liyo.\\nCustomer: Email ma kidhu.\\nCustomer: Na add to kya aapnu aapdu to okaluj.\\nCustomer: Do minute saheb.\\nCustomer: Kisme bheja aapne?\\nExecutive: Dekho aapko maine mail bhi kiya aur whatsapp par bhi bheja hai.\\nCustomer: Silver Enterprise mein bheja Siddham Sheikh mein bheja hai?\\nExecutive: Ek second mai aapko bata de rahi hu. Maine jo email aapko likh ke bheja hai usme complaint mein Silver Enterprise.\\nExecutive: Ek minute. Aapko maine whatsapp par bhi bheji hai ye maine bhej di hai Saddam Sheikh se.\\nCustomer: Na na Silver Enterprise mein bhejna hai maine aapko dekho complaint mein dala hai feedback mein apna email address company ka.\\nExecutive: Ah ek minute.\\nExecutive: Aapko whatsapp pe receive hui hai?\\nCustomer: Whatsapp mein nahi mere ko company ke email mein bhejiye aap Silver Enterprise46@gmail.com. Mai bhej rahi hu bhej rahi hu aapko us pe bhej rahi hu.\\nExecutive: Ek second.\\nExecutive: Ek minute mai bhej rahi hu aap call par rahiye.\\nExecutive: Hmm.\\n\\nExecutive: Hello.\\nCustomer: Haan ji boliye.\\nExecutive: Ah sir aap mujhe ek baar aapka mail id confirm karenge Silver Enterprise\\nCustomer: 46\\nCustomer: @gmail.com.\\nExecutive: Hmm 46@gmail.com.\\nExecutive: Silverenterprise@gmail.com.\\n\\nExecutive: Ah maine aapko na mail bheja hai aap dekho.\\nCustomer: Inbox mein aaya hoga.\\nExecutive: Haan inbox mein check karo aap.\\nCustomer: Hmm.\\nCustomer: Haan chalo aa gaya link mein pahunch gaya.\\nExecutive: Join karo aap.\\nCustomer: Meet Google Meet.\\nExecutive: Haan haan.\\nExecutive: Mila aapko?\\nCustomer: Haan join karu chhu huve.\\nExecutive: Theek hai mai call disconnect kar rahi hu aapko like PC se hi connect kar rahi hu ek second.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer receives single-phase buyleads.\\n\n- Customer does not sell single-phase products.\\n\n\\n\nResolution:\\n\n- Executive will remove single-phase category.\\n\n- Executive will add three-phase category.\\n\n- Executive shared Google Meet link for assistance.\\n\n\\n\nNext Steps: \\n\n- Customer to join Google Meet.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, category, google meet, email\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 410,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3537e358-6c8f-4a5c-84d4-721cf4177069",
+  "ucid": "3537e358-6c8f-4a5c-84d4-721cf4177069",
+  "seller_categories": [
+    {
+      "mcat_id": "126348",
+      "mcat_name": "Crompton Greaves Motor"
+    },
+    {
+      "mcat_id": "53817",
+      "mcat_name": "Used Electric Motor"
+    },
+    {
+      "mcat_id": "1274",
+      "mcat_name": "Electric Motor"
+    },
+    {
+      "mcat_id": "52930",
+      "mcat_name": "Three Phase Electric Motor"
+    },
+    {
+      "mcat_id": "2415",
+      "mcat_name": "Three Phase Motor"
+    }
+  ]
+}

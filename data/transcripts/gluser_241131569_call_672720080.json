@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672720080",
+  "gluser_id": "241131569",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689490",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f5ac10c7-c605-4c1e-a10c-cf0290807632",
+  "ucid": "f5ac10c7-c605-4c1e-a10c-cf0290807632",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "186990",
+      "mcat_name": "Powder Coating Powder"
+    },
+    {
+      "mcat_id": "188894",
+      "mcat_name": "MS Powder Coating"
+    },
+    {
+      "mcat_id": "117876",
+      "mcat_name": "Mould Release Spray"
+    },
+    {
+      "mcat_id": "35656",
+      "mcat_name": "Powder Coating"
+    }
+  ]
+}

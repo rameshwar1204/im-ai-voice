@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673920317",
+  "gluser_id": "142822028",
+  "vintage_months": 5,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699667",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji sir.\\nCustomer: Hello.\\nExecutive: Haan, aari hai aawaz sir. Abdul bol raha hu IndiaMART se.\\nCustomer: Haan, keh raha tha sir woh change ho gaya hai aapka. Woh aapka change ho gaya hai aap check kar sakte hai aap profile pe. Aur aapka jo hai na aapne mail kar diya tha customer care pe.\\nExecutive: Toh woh concern raise ho gaya hai sir.\\nCustomer: Toh yeh already aapka ho gaya hai sir, issue resolve ho gaya hai.\\nCustomer: Theek hai, toh abhi mail kuch revert aaya nahi hai, jo response ke liye agar aayega toh main response karta hu.\\nExecutive: Response toh main hi aapko keh raha hu ki woh hamare paas woh concern tag hua hai. Toh woh humne resolve kar diya hai aapka. Aapko concern jo tag hua hai usko main close kar raha hu. Usko main close kar du na sir? Already woh edit ho gaya hai.\\nCustomer: Haan, close.\\nExecutive: Ek minute. Koi nahi close kar agar edit ho gaya hai toh close kar dijiye sir.\\nExecutive: Theek hai, baaki number hai na sir aap customer care se bhi kar sakte hai. Kal bhi bola tha maine aapko. Pehle hum logo se pehle connect kar lijiye woh immediate basis pe aapka ho jayega.\\nCustomer: Theek hai sir.\\nCustomer: Bilkul, bilkul 100%.\\nExecutive: Ji, ji, ji.\\nExecutive: Thank you sir.\\nCustomer: Okay.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says profile changes not reflected.\\n\n\\n\nResolution:\\n\n- Executive confirmed the profile changes are done.\\n\n- Executive offered assistance via customer care.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- profile update, customer care, resolution\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bffaf3e2-1560-4b35-88e2-a80671e670d2",
+  "ucid": "bffaf3e2-1560-4b35-88e2-a80671e670d2",
+  "seller_categories": [
+    {
+      "mcat_id": "190991",
+      "mcat_name": "Air Conditioner Copper Pipe"
+    },
+    {
+      "mcat_id": "127560",
+      "mcat_name": "Shade Awnings"
+    },
+    {
+      "mcat_id": "20165",
+      "mcat_name": "Window Awning"
+    },
+    {
+      "mcat_id": "140004",
+      "mcat_name": "Air Conditioner Installation Services"
+    },
+    {
+      "mcat_id": "50671",
+      "mcat_name": "Air Conditioner Pipe"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672053164",
+  "gluser_id": "37624574",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683521",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji.\\nCustomer: Hello ye ye number me call aaya tha.\\nExecutive: Ji sir sir aap ka firm India Mart me registered hai kis naam se registered hai?\\nCustomer: Hello\\nExecutive: Hello Hello aapka firm hai India Mart me registered hai sir kis naam se?\\nCustomer: Hello\\nExecutive: Hello aawaz aa rahi hai sir aapko hello.\\nCustomer: Hello\\nExecutive: Ha ha mam aap se baat kar rahe hai.\\nExecutive: Mai India Mart se baat kar rahi hu sir aapke account manager aapke firm ka naam sab kuch rahi hu kya hai.\\nCustomer: Royal Ruby T Nagar.\\nExecutive: Hello\\nCustomer: Hello ha ye Royal Ruby T Nagar me aapko call kiya hai.\\nExecutive: Royal okay okay ek second check kar rahi hu sir.\\nExecutive: Royal ek second ek second aap aapka matlab query kya hai?\\nExecutive: Mera query ye hai sir maine India Mart se call kiya hai aap kafi time se active nahi hai India Mart se mai aapke account manager se baat kar rahi hu sir Madhuri aapko pata hi hoga maine aap se pehle bhi baat ki hai.\\nCustomer: Actually ye phone jiske paas rehta hai mai aapko unka number de raha hu aap unse baat kar lijiye theek hai theek hai.\\nExecutive: Aapka Royal Ruby T Nagar.\\nCustomer: Ji sir number bataiye. Ha Royal Ruby T Nagar.\\nExecutive: Ha ha ha.\\nCustomer: To aap number le lijiye.\\nCustomer: 99 theek hai mai unko phone ek second.\\nCustomer: 99\\nCustomer: 303\\nCustomer: 303\\nCustomer: Hello\\nCustomer: 99303\\nCustomer: 303 likha?\\nExecutive: Yes sir.\\nCustomer: Hello\\nExecutive: Yes sir yes sir yes sir ho gaya 99303\\nCustomer: 82663\\nExecutive: 8266 3\\nExecutive: Theek hai 9930382663\\nExecutive: Three.\\nExecutive: Theek hai na is number me aap baat kar lijiye.\\nExecutive: Theek hai sir\\nCustomer: Naam kya hai sir naam.\\nCustomer: Hello\\nCustomer: Hello\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked for firm name registered with IndiaMART.\\n\nResolution:\\n\n- Customer provided an alternate contact number.\\n\nNext Steps: \\n\n- Customer to be contacted on alternate number.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account details, contact information, verification\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 178,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3e234aa7-2ceb-4d92-a745-cd4b5c792dc0",
+  "ucid": "3e234aa7-2ceb-4d92-a745-cd4b5c792dc0",
+  "seller_categories": [
+    {
+      "mcat_id": "188575",
+      "mcat_name": "Premium Tea"
+    },
+    {
+      "mcat_id": "2979",
+      "mcat_name": "Tea Dust"
+    },
+    {
+      "mcat_id": "127455",
+      "mcat_name": "Cardamom Tea"
+    },
+    {
+      "mcat_id": "185547",
+      "mcat_name": "Masala Tea"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    }
+  ]
+}

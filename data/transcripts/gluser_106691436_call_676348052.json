@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676348052",
+  "gluser_id": "106691436",
+  "vintage_months": 2,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Neemrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711736",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji sir namaskar.\\nCustomer: Namaskar ji. Sir Gaurav baat kar raha tha India Mart se.\\nExecutive: Kal baat hui thi sir aapko yaad hoga.\\nCustomer: Haan ji haan ji.\\nExecutive: Haan ji. Sir ye bola tha maine wo leads bhi mam ko whatsapp bhi kiya tha mam ko call bhi try kiya lekin unka number lag nahi raha tha aur unka number matlab whatsapp pe bhi net band hai. To maine unko leads wagera bhi share ki thi.\\nExecutive: Actually sir unka na do din se typhoid ho gaya wo aa hi nahi rahe.\\nCustomer: Achcha achcha office nahi aa rahe.\\nExecutive: Haan.\\nCustomer: To abhi matlab kaun handle kar raha hai sir India Mart se.\\nExecutive: Wo haan main unke number bhejta hu jo abhi dekh rahe hai na.\\nCustomer: Wo India Mart dekhte bhi nahi hai wo to hamare sales head hai. India Mart pe jo staff hai wo to saniya alag hai main unke number bhejta hu aapko.\\nExecutive: Okay okay ek bar aap number de dijiye kyuki us time jo meri baat hui thi unhone ye apna number diya hua tha main us pe hi unka net bhi off aa raha hai usi pe hi maine leads wagera bhi share ki thi us din unko aur aaj bhi maine share kiya morning mein to net off tha fir maine call bhi kiya laga nahi unka.\\nCustomer: Hmm hmm hmm main aapko saniya ke number whatsapp karta hu na usi number pe ho jayega kya?\\nExecutive: Nahi nahi isse whatsapp nahi hoga ya to aap boliye ya fir main apne number se aapko hi bhejta hu aap usse share kar dijiye.\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to contact executive, number unreachable.\\n\n- Leads shared not being received.\\n\n\\n\nResolution:\\n\n- Executive to share the contact number of Saniya.\\n\n- Executive offered to send his number for sharing.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, contact, unavailability, sharing\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=21f71d16-6f8e-4895-8a18-85bb259ddf92",
+  "ucid": "21f71d16-6f8e-4895-8a18-85bb259ddf92",
+  "seller_categories": [
+    {
+      "mcat_id": "181573",
+      "mcat_name": "SS RO Plant"
+    },
+    {
+      "mcat_id": "39429",
+      "mcat_name": "Water Purification Systems"
+    },
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    },
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "20514",
+      "mcat_name": "FRP Vessels"
+    }
+  ]
+}

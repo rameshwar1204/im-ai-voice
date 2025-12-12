@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668697208",
+  "gluser_id": "29338602",
+  "vintage_months": 112,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bhopal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Aap jis vyakti ko call kiya hai, vah anya call par vyast hai. Kripya pratiksha karein ya kuch samay pashchat prayas karein.\\nHello?\\nHello.\\nGood evening, ma'am.\\nGood evening. Ji ma'am, Ravi Kumar baat kar rahe hain IndiaMART office se.\\nJi, bataiye.\\nJi, IndiaMART services ke feedback ke liye maine call kiya hai. Jo services IndiaMART pe chal raha hai, abhi kaisa chal raha hai, ma'am?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive is calling for feedback on IndiaMART services.\\n\n\\n\nResolution:\\n\n- The executive asked how the services are going.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, indiamart\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9ca97403-7f99-4db7-9f36-46655e1e361b",
+  "ucid": "9ca97403-7f99-4db7-9f36-46655e1e361b",
+  "seller_categories": [
+    {
+      "mcat_id": "182307",
+      "mcat_name": "Lean Mass Gainer"
+    },
+    {
+      "mcat_id": "137388",
+      "mcat_name": "Whey Protein"
+    },
+    {
+      "mcat_id": "68911",
+      "mcat_name": "Protein Supplement"
+    },
+    {
+      "mcat_id": "121257",
+      "mcat_name": "Mass Gainer"
+    },
+    {
+      "mcat_id": "182261",
+      "mcat_name": "Pre workout Supplements"
+    }
+  ]
+}

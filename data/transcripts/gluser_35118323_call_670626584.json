@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670626584",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan sir.\\nCustomer: Hello.\\nExecutive: Hello, haan ji sir.\\nCustomer: Haan sir, good morning.\\nExecutive: Namaskar sir ji.\\nCustomer: Haan haan bas bas karwa raha hu sir.\\nCustomer: Do char minute ruk jaiye bas karwa raha hu.\\nExecutive: Bhej rahe ho link ji?\\nCustomer: Haan haan link aise mail pe gaya hua hai aapko.\\nExecutive: Mail pe gaya hua hai, dekha nahi.\\nCustomer: Haan mail pe aaya hua hai.\\n\\nCustomer: Gaya nahi ji?\\nCustomer: Ek minute ji ek minute.\\n\\nCustomer: Receive aaya hua hai link.\\nCustomer: Video meet hai.\\nCustomer: Bole do usko.\\n\\nCustomer: Ho rahe ho park chalo.\\nCustomer: Double ji double ha padta hai thoda naam likha.\\nCustomer: Kispe karna hai seedha?\\n\\nCustomer: Mere to lagdi pala karwa di.\\n\\n\\nCustomer: Padta hai to dekhte mail pe aaya hua.\\n\\nCustomer: Thode se upar bas khojna tha. Ab dekh email ha.\\n\\nCustomer: Wo password nahi hai duja 100 wala kar lena.\\nCustomer: Jidharo wifi karna padta.\\n\\nCustomer: Haan haan parso hi chala gaya tha. Kal hnera parso hi chala gaya tha.\\n\\nCustomer: Full te kar loge na.\\nCustomer: Fir mai to aap se yahi gal karta hu, wo koi bande funde je le leni hai bas. Ha. Wo bhi aa.\\nCustomer: Aage se koi set karaya hua hai inna to.\\n\\n\\nCustomer: To kam kara aaj.\\n\\n\\n\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer having trouble finding the meeting link.\\n\n\\n\nResolution:\\n\n- Executive confirmed link sent to customer's email.\\n\n- Customer located the email with the link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting link, email, wifi\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 188,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d0cd9221-500b-48e2-9020-231fa8e71c8b",
+  "ucid": "d0cd9221-500b-48e2-9020-231fa8e71c8b",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

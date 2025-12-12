@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672385216",
+  "gluser_id": "82592091",
+  "vintage_months": 12,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Laharpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686183",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji. Haan ji sir call disconnect ho gaya tha.\\nExecutive: Ji ji disconnect ho gaya tha.\\nCustomer: Main keh raha hu ki jo hamari catalog hai sare catalog hatane ke baad mein naye tarike se ekdam design kar dijiye sabhi catalog sare. \\nExecutive: To time dijiye main video meeting aapke sath kab schedule kara du aap bataiye aaj free hai aap?\\nCustomer: Aaj hi kara lunga but abhi nahi main 2 baje ke baad mein.\\nExecutive: Theek hai to agar aap allow karo to main 3 baje connect kar lu sir kyuki 2 baje hamara lunch ka time hota hai to 3 baje kar lo aapko connect.\\nCustomer: 3 baje 3 baje kar lijiyega.\\nExecutive: Theek hai and baki sir maine aapka jo tax invoice hai na jo aapka registered mail id hai main aapko confirm kar deta hu sir. Hello.\\nCustomer: Ji ji ji.\\nExecutive: Haan.\\nExecutive: SK Singh Bhaduria 1998@gmail.com us pe maine aapko share kar diya hai tax invoice theek hai.\\nCustomer: Theek hai theek hai.\\nExecutive: Baki sir aapne hamare customer care pe call kiya tha to ek concern open ho gaya tha sir to agar aapka permission ho to main usko close kar sakta hu sir?\\nCustomer: Bilkul close kar dijiye.\\nExecutive: Theek hai baki main 3 baje aapko connect kar lunga theek hai aap mujhe time bata dijiye ki uske according hum video meeting bhi kar lenge aur jo bhi correction ke need hoga sir definitely hum usme kar lete hai aapka theek hai.\\nCustomer: Okay.\\nExecutive: Okay sir hamare call ke hamara jo discussion hua hai na sir uske regarding sir aapka concern close karne ke baad na ek feedback pe mail aata hai sir to apna feedback aap jarur share kijiyega theek hai.\\nCustomer: Okay okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to redesign the catalog.\\n\n- Wants video meeting for catalog designing.\\n\n\\n\nResolution:\\n\n- Agreed to schedule a video meeting at 3 PM.\\n\n- Confirmed tax invoice shared on registered email ID.\\n\n- Closed the customer care concern with permission.\\n\n- Asked to share feedback after concern closure.\\n\n\\n\nNext Steps: \\n\n- Video meeting will be scheduled at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, redesign, video meeting, tax invoice, feedback\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cfd8454e-ca79-4b6b-ad16-58ff6333b1de",
+  "ucid": "cfd8454e-ca79-4b6b-ad16-58ff6333b1de",
+  "seller_categories": [
+    {
+      "mcat_id": "143595",
+      "mcat_name": "Khoya Making Machine"
+    },
+    {
+      "mcat_id": "139363",
+      "mcat_name": "Paneer Making Machine"
+    },
+    {
+      "mcat_id": "42998",
+      "mcat_name": "Milk Analyzer"
+    },
+    {
+      "mcat_id": "11225",
+      "mcat_name": "Cream Separator"
+    },
+    {
+      "mcat_id": "180568",
+      "mcat_name": "Bulk Milk Cooler"
+    }
+  ]
+}

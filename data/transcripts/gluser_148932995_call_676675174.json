@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676675174",
+  "gluser_id": "148932995",
+  "vintage_months": 3,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698346",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ya hello mam, very good, very good morning. Renu Handicrafts mein baat ho rahi hai?\\nCustomer: Hello.\\nExecutive: Kon? Ji mam, Renu Handicrafts mein baat ho rahi hai, mein Kajal baat kar rahi hu IndiaMART se.\\nCustomer: Ji, ok mein abhi mere dada namaz padh rahe hai baad mein baat karunga.\\nExecutive: Accha, theek hai fir aap mujhe bata do kab tak baat ho jayegi sir se?\\nCustomer: Kis cheez ke bare mein?\\nExecutive: Renu Handicrafts ke bare mein mam. Aur Sikandar ji se baat ho jayegi meri abhi?\\nCustomer: Wo bhi, abhi to dukan gaye hai.\\nExecutive: Dukan gaye hue hai?\\nCustomer: Yes mam.\\nExecutive: Theek hai koi baat nahi, fir mein sir se hi baat kar leti hu ek baar.\\nCustomer: Abhi aayenge jab baat karate hai.\\nExecutive: Kab tak aa jayenge aap bata rahi mujhe?\\nCustomer: Abhi 5 minute mein aa jayenge.\\nExecutive: 5 minute mein aa jayenge?\\nCustomer: Haan.\\nExecutive: Theek hai fir jab aa jaye to aap mujhe call kar lijiyega isi number pe, theek hai?\\nCustomer: Yes mam.\\nExecutive: Okay, thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to talk to Mr. Sikandar.\\n\n- Customer says he is at the shop.\\n\n\\n\nResolution:\\n\n- Executive will call back later.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, handicrafts, follow up\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=62232c39-c701-4f27-8bbd-b096789793b3",
+  "ucid": "62232c39-c701-4f27-8bbd-b096789793b3",
+  "seller_categories": [
+    {
+      "mcat_id": "10263",
+      "mcat_name": "Iron Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "11884",
+      "mcat_name": "Garden Chairs"
+    },
+    {
+      "mcat_id": "15859",
+      "mcat_name": "Iron Stool"
+    },
+    {
+      "mcat_id": "15855",
+      "mcat_name": "Iron Sofa"
+    }
+  ]
+}

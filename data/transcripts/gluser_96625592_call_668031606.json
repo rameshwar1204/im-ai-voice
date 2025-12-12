@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668031606",
+  "gluser_id": "96625592",
+  "vintage_months": 9,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Dhoraji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642188",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n[No transcript available]\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=53a8cbb0-0bf3-4387-bf73-e0de8d97413e",
+  "ucid": "53a8cbb0-0bf3-4387-bf73-e0de8d97413e",
+  "seller_categories": [
+    {
+      "mcat_id": "181964",
+      "mcat_name": "MS Wire Nail"
+    },
+    {
+      "mcat_id": "41125",
+      "mcat_name": "Wire Nails"
+    },
+    {
+      "mcat_id": "33844",
+      "mcat_name": "Panel Pins"
+    },
+    {
+      "mcat_id": "184509",
+      "mcat_name": "Mild Steel Nail"
+    },
+    {
+      "mcat_id": "87470",
+      "mcat_name": "Stainless Steel Wire Nail"
+    }
+  ]
+}

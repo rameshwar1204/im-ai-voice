@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671235519",
+  "gluser_id": "12734284",
+  "vintage_months": 103,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Vadodara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674798",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=275947b1-982f-4dd8-9953-ca19bc7bcefd",
+  "ucid": "275947b1-982f-4dd8-9953-ca19bc7bcefd",
+  "seller_categories": [
+    {
+      "mcat_id": "547",
+      "mcat_name": "Oil Filters"
+    },
+    {
+      "mcat_id": "3974",
+      "mcat_name": "Condensers"
+    },
+    {
+      "mcat_id": "161802",
+      "mcat_name": "Aluminum Fan Blades"
+    },
+    {
+      "mcat_id": "11947",
+      "mcat_name": "Gas Heat Exchanger"
+    },
+    {
+      "mcat_id": "180188",
+      "mcat_name": "Cooling Tower Fan Blade"
+    }
+  ]
+}

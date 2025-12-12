@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670646308",
+  "gluser_id": "39245547",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Haan ji sir.\\nCustomer: Haan haan aaya hu main join kare.\\nExecutive: Haan haan.\\nCustomer: Theek hai join kariye.\\nCustomer: Aapne link isme diya hai kya WhatsApp pe send kiya hai kya?\\nExecutive: Nahi WhatsApp pe send nahi kiya main bhej deta hu abhi ek minute.\\nExecutive: Main abhi sir apni taraf se call karta hu aapko recording line pe theek hai?\\nCustomer: Haan haan kariye aap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about the link, asking if it was sent via WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive confirmed the link was not sent via WhatsApp and offered to send it.\\n\n- Executive offered to call the customer back on a recorded line.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will send the link and call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nlink, whatsapp, recording\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c00aef0a-2f6c-418d-af82-40950e534228",
+  "ucid": "c00aef0a-2f6c-418d-af82-40950e534228",
+  "seller_categories": [
+    {
+      "mcat_id": "56246",
+      "mcat_name": "Discharge Rods"
+    },
+    {
+      "mcat_id": "40841",
+      "mcat_name": "Voltage Detectors"
+    },
+    {
+      "mcat_id": "186240",
+      "mcat_name": "Rescue Hook"
+    },
+    {
+      "mcat_id": "56009",
+      "mcat_name": "Hot Stick"
+    },
+    {
+      "mcat_id": "155378",
+      "mcat_name": "Earthing Rod"
+    }
+  ]
+}

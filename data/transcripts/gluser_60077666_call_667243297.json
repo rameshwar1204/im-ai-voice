@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667243297",
+  "gluser_id": "60077666",
+  "vintage_months": 3,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632225",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello, sorry.\\nJi sir, Ankush ji.\\nJi.\\nAnkush ji, sir good morning. Mera naam Swapnil Tiwari hai. IndiaMART head office se baat karta tha Noida se.\\nJi, ji boliye.\\nSir aapne na ek issue raise kiya hua tha account manager ko leke. I think aapki baat hui hogi Raksha Singh jo aapke account ko handle karti hain. To sir kuch problem aa raha tha account manager se?\\nSir actually main abhi market mein hoon, baat nahi kar paunga.\\nAchha, to sir abhi kab call karun aapko?\\nAadhe ghante baad kar dijiye.\\nThik hai, aadhe ghante mein main connect karta hoon sir. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised an issue with account manager.\\n\n\\n\nResolution:\\n\n- Executive inquired about the issue with account manager.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, issue, follow up\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fb231492-6537-410d-a1f0-667eb27e8c88",
+  "ucid": "fb231492-6537-410d-a1f0-667eb27e8c88",
+  "seller_categories": [
+    {
+      "mcat_id": "89947",
+      "mcat_name": "Security Jacket"
+    },
+    {
+      "mcat_id": "162058",
+      "mcat_name": "Driver Uniform"
+    },
+    {
+      "mcat_id": "90476",
+      "mcat_name": "Security Guard Uniform"
+    },
+    {
+      "mcat_id": "181991",
+      "mcat_name": "School Tracksuit"
+    },
+    {
+      "mcat_id": "43487",
+      "mcat_name": "Police Uniforms"
+    }
+  ]
+}

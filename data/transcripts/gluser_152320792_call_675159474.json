@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675159474",
+  "gluser_id": "152320792",
+  "vintage_months": 42,
+  "bl_dau_oct": 0,
+  "customer_type": "Buyer Conflict Defaulter",
+  "city_name": "Murum",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670504",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan sir boliye.\\nExecutive: Haan sir ji good evening.\\nCustomer: Very good evening.\\nExecutive: Dekhiye abhi koi update nahi aaya sir mujhe.\\nCustomer: Achcha.\\nExecutive: Second.\\nCustomer: Nahi abhi koi update nahi aaya sir. Manish sir ne bhi mail kar diya tha. Lekin koi update nahi aaya. Mere pass jaise hi update aata hai main aapko update karta hun.\\nCustomer: Yaar sir paisa milega nahi milega?\\nExecutive: Nahi service band hoga to refund to hoga hi sir.\\nCustomer: Abhi tak to hua nahi sir teen mahina ho gaya teen mahina se jyada ho gaya.\\nExecutive: Nahi teen mahine nahi hua sir 25 September ko aapka bylead ka restriction laga tha.\\nCustomer: To thoda baat kariye na sir.\\nExecutive: Nahi nahi baat kar rahe hain. Maine sir se bhi Manish sir se bhi mail karaya tha.\\nCustomer: To baat kariye na sir. Kya hai sir? Kya bataun? Kaise bataun mere ko samajh mein nahi aata.\\nExecutive: Dekhiye main aapko bhej de raha. Mail ka screenshot mail kara diya tha maine Manish sir se bhi. Jaise hi koi reply aata hai main aapko turant batata hun. Dekhiye kal hi kara diya tha maine mail.\\nCustomer: Chaliye theek hai aur kya karenge.\\nExecutive: Haan nahi update aata hai main aapko turant batata hun. Theek hai?\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund yet.\\n\n\\n\nResolution:\\n\n- Executive assured refund will be processed.\\n\n- Executive will provide update as soon as possible.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, buyleads, update\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=da7440be-6f01-4f79-acb4-bb10d69af0e7",
+  "ucid": "da7440be-6f01-4f79-acb4-bb10d69af0e7",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168570",
+      "mcat_name": "Unskilled Labour Service"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    }
+  ]
+}

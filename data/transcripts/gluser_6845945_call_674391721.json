@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674391721",
+  "gluser_id": "6845945",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Thanjavur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9713924",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Good morning madam.\\nCustomer: Sir, good morning. India Mart la irunthu Suditha.\\nExecutive: Vanakkam madam. Naan indha scheme la irunthu velila varennu solli message koduthirundhen madam. Naan marubadiyum adha vandhu press pannadhinga. Dayavu senji naan eppa ennalum mudiyudho apparam paathukuren madam. Ippodhikku.\\nExecutive: RK Enterprises thane sir?\\nCustomer: Aama madam aama madam. India Mart la irunthu Suditha call pannirukken. Neenga edhula solreenga?\\nExecutive: India Mart la dhaan madam solren.\\nExecutive: India Mart la ingala. Enna aachu sir? Enna problem sir?\\nCustomer: Illa problem laam illa madam. Ennala laam vandhu naan in person na paathu naan vandhu information kodukkurathukku velila poiduven. Indha maari laam vandhu ennala ungala laam ellaarukkum message anupchikkittu edha ungalta vara customer pooraa vandhu romba advance aa irukkaanga. Avanga vandhu 20 varushathukku munnadi ulla maari advance aa kekkuraanga. Andha alavukku laam ennala vandhu seiya mudiyadhu. Naan enakku vandhu manual aa eppadi seiya mudiyumo naan in person na paathu naan \\ncaanvas panni vithukkuren madam. Appo enna customer laam vandhu edhirpaarkkura alavukku laam ennala bayam sollikittu irukka mudiyadhu. Adhanaala vandhu innum konja naal aagattum naan vandhu marubadiyum vandhu join panni avangalukkellaam sariyaana maari la poi solren madam. Thank you madam.\\nExecutive: Sari sir.\\nCustomer: Idhaan ennudaiya. Okay madam.\\nExecutive: Sari okay.",
+  "summary": "\\n\nConcerns:\\n\n- Wants to exit the scheme.\\n\n- Does not want to be contacted again.\\n\n- Customers are too advanced.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's concerns.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- scheme, customers, information\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=044a935a-ca52-410d-97c9-d7e3d30f2170",
+  "ucid": "044a935a-ca52-410d-97c9-d7e3d30f2170",
+  "seller_categories": [
+    {
+      "mcat_id": "2140",
+      "mcat_name": "Liquid Detergent"
+    },
+    {
+      "mcat_id": "22534",
+      "mcat_name": "Bathroom Cleaners"
+    },
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "216653",
+      "mcat_name": "Multi Purpose Cleaner"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

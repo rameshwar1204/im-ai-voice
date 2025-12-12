@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668105478",
+  "gluser_id": "774547",
+  "vintage_months": 3,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Mahilpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644329",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji?\\nExecutive: Good afternoon ma'am, main Sandeep baat kar raha hun IndiaMART se, kaise hain aap?\\nCustomer: Good afternoon sir.\\nExecutive: Ma'am actually mein kaise hain aap?\\nCustomer: Haan ji main badhiya hun sir, theek thaak.\\nExecutive: Aapke ek feedback aaya tha ke aap logon ko aapke end se jo mere paas call gaya tha na ma'am aapka ek ticket open hua tha, wahan ek concern open hua tha, you were getting a bad experience from IndiaMART, right?\\nCustomer: Uh, kisne dala hai?\\nExecutive: Ma'am shayad aapke husband ke number se aaya hai, toh wahan se feedback mila hai mere ko bad experience ka, toh koi issue aa raha hai kya services ko leke?\\nCustomer: Uh, mujhe unhone is bare mein kuch bataya nahi hai, meri baat nahi hui sir is bare mein.\\nExecutive: Toh ma'am abhi aap bhi use kar rahe hain ya phir sir bhi use kar rahe hain?\\nCustomer: Hum dono hi kar lete hain sir use, sometimes main busy hoti hun toh sir bhi use karte hain, main bhi karti hun.\\nExecutive: Okay, okay, okay, toh ma'am sir ke end se feedback gaya mere paas ke bad experience mil raha hai, ya kuch issue aa raha hai services ko leke toh please let me know ma'am main wahan help kar paun aapki.\\nCustomer: Uh, sir, aaj mere ghar pe guest aane hain toh main shop pe gayi nahi hun, toh main aapko unse puch ke ya toh bataungi ya, abhi aap call mat karna unko kyunki woh busy rehte hain phir aap se baat nahi kar payenge sahi se na.\\nExecutive: Okay, okay, okay, toh aap unko call karke batayenge ma'am mujhe?\\nCustomer: Uh, main aapko after lunch bataun?\\nExecutive: Haan, after lunch aap mujhe bata dijiye, koi issue nahi hai, agar ma'am aapko pata ho koi issue aapko aa raha ho toh aap woh bata dijiye jahan se main help kar paun.\\nCustomer: Nahi sir, sir ne dala hai toh sir se puchna padega mujhe ki kis regarding dala hai sir ne.\\nExecutive: No worries ma'am, aap baat kar lijiyega apne husband se ek baar aur then please let me know, correct? Main main aapko feedback deti hun.\\nExecutive: Okay ma'am, okay ma'am, done, thank you ma'am.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing bad experience with IndiaMART.\\n\n- Customer is unaware of the issue.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to confirm the issue.\\n\n- Customer will confirm after talking to her husband.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback after lunch.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, issue, experience\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33ae2df5-7b7f-465f-ac56-8253c434984f",
+  "ucid": "33ae2df5-7b7f-465f-ac56-8253c434984f",
+  "seller_categories": [
+    {
+      "mcat_id": "151432",
+      "mcat_name": "Herbal Sexual Health Power Capsules"
+    },
+    {
+      "mcat_id": "226813",
+      "mcat_name": "Herbal Joint Pain Relief Tablets"
+    },
+    {
+      "mcat_id": "22802",
+      "mcat_name": "Apple Cider Vinegar"
+    },
+    {
+      "mcat_id": "161340",
+      "mcat_name": "Alcohol De Addiction Medicine"
+    },
+    {
+      "mcat_id": "445376",
+      "mcat_name": "Diabetic Herbal Tablets & Capsules"
+    }
+  ]
+}

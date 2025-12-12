@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667041925",
+  "gluser_id": "128731134",
+  "vintage_months": 8,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Verna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632280",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, G S Traders Private Limited?\\nCustomer: Yes.\\nExecutive: Yeah, very good evening. Sunil baat kar raha hu IndiaMART ke behalf me.\\nCustomer: Achha.\\nExecutive: Aapke side se hume contact number mila tha. Aapke side se concern tha buyleads ko leke, leads ko leke IndiaMART ke side se aur aapne ek number provide kiya Pranoti mam ka, marketing head ka.\\nCustomer: Yes, yes, yes.\\nExecutive: But us number pe koi connect nahi ho raha hai. So please aap mera personal number note karke us pe call back arrange karwa sakte hai?\\nCustomer: Achha, ek second haan. Boliye sir.\\nExecutive: 8949\\nCustomer: 8949\\nExecutive: 288\\nCustomer: 288\\nExecutive: 637\\nCustomer: 637. Okay.\\nExecutive: Sir, aap kitne baje tak available hai?\\nCustomer: 6 PM tak sir. Abhi 45 minute aur hai. Aap within 45 minute ke andar call back arrange kara denge?\\nExecutive: Okay, okay. Jo bhi concern hai uske liye details me discuss kar lete hai.\\nCustomer: Theek hai. All right. All right, sir.\\nExecutive: Yeah. Thank you.\\nCustomer: Thank you.",
+  "summary": "\\n\\nConcerns:\\n\\n- Had a concern regarding buyleads.\\n- Unable to reach the provided contact number (Pranoti mam).\\n\\n\\nResolution:\\n\\n- Provided personal number for a callback.\\n- Customer agreed to arrange a callback within 45 minutes.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will arrange for a callback to the executive's number within 45 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- buyleads, callback, contact number\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cedfc606-4b90-41cf-8a64-461afcb74f6e",
+  "ucid": "cedfc606-4b90-41cf-8a64-461afcb74f6e",
+  "seller_categories": [
+    {
+      "mcat_id": "177769",
+      "mcat_name": "Bromine Recovery Plant"
+    },
+    {
+      "mcat_id": "35991",
+      "mcat_name": "Reverse Osmosis Systems"
+    },
+    {
+      "mcat_id": "37388",
+      "mcat_name": "Solvent Recovery Systems"
+    },
+    {
+      "mcat_id": "21236",
+      "mcat_name": "Acid Recovery System"
+    },
+    {
+      "mcat_id": "3737",
+      "mcat_name": "Chemical Plant"
+    }
+  ]
+}

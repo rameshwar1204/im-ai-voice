@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673389455",
+  "gluser_id": "238570049",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669921",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Ji, hello.\\nCustomer: Ji sir, check kar lijiyega. Aapka nature of business jo hai na change ho gaya hai, okay?\\nCustomer: Okay sir, thank you.\\nExecutive: Haan, woh as a manufacturer dikh raha hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Nature of business has changed.\\n\n\\n\nResolution:\\n\n- The business is showing as a manufacturer.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnature of business, manufacturer\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e9d48d50-4953-4179-bba9-eb8d1d02bc1a",
+  "ucid": "e9d48d50-4953-4179-bba9-eb8d1d02bc1a",
+  "seller_categories": [
+    {
+      "mcat_id": "224543",
+      "mcat_name": "Cosmetic Third Party Manufacturing"
+    },
+    {
+      "mcat_id": "217056",
+      "mcat_name": "Charcoal Face Wash"
+    },
+    {
+      "mcat_id": "188480",
+      "mcat_name": "Beard Oil"
+    },
+    {
+      "mcat_id": "274482",
+      "mcat_name": "Skin Care Third Party Manufacturing"
+    },
+    {
+      "mcat_id": "355351",
+      "mcat_name": "Onion Hair Oil"
+    }
+  ]
+}

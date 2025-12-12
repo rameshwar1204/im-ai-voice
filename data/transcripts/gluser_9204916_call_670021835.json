@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670021835",
+  "gluser_id": "9204916",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710450",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, very good evening sir.\\nCustomer: Hello, good evening.\\nExecutive: Sir, Yashika baat kar rahi thi IndiaMART se.\\nCustomer: Kahan se?\\nExecutive: IndiaMART se sir.\\nCustomer: Haan boliye.\\nExecutive: Woh resolve ho gaya aapka woh issue jo chal raha tha sir?\\nCustomer: Nahi nahi woh nahi hua hai sir abhi tak.\\nExecutive: Abhi tak resolve nahi hua? But yeh video meet pe jo dikhaya tha inhone aapko sir ne? Actually mere paas rehta hai aapka profile toh abhi main, maine aapko bataya bhi tha sir main hospitalize thi na jab aapka call aaya tha.\\nCustomer: Woh leads ke bare mein yeh kya tha leads aa raha hi nahi hai na.\\nExecutive: Hmm hmm hmm hmm.\\nCustomer: Hum log jo nahi banate uska leads aa raha hai.\\nExecutive: Woh abhi jo sir ne video meet pe aapko dikhai thi matlab unka kya raha? Kuch cheezein nikla abhi toh dekho abhi mere ko profile fix karni hai A rank, B rank hai kuch ranks hai. Theek hai woh mujhe manage karni hai yahan par.\\nCustomer: Theek hai toh.\\nExecutive: Toh main kar dungi maine kaha ek baar fir se pooch leti hu abhi koi call hua ya wahi same hi chal raha hai abhi.\\nCustomer: Theek hai dekh leta hu.\\nExecutive: Sir aap na mere ko hi contact kar lena theek hai. Main whatsapp kar deti hu aapko.\\nCustomer: Sorry?\\nExecutive: Koi bhi dikkat ho. Aapko koi bhi problem aaye na sir toh mere se hi contact kar lena. Theek hai? Aapko main.\\nCustomer: Dikkat toh wahi hai ki leads nahi aa raha hai apne ko. Baaki koi dikkat nahi hai.\\nExecutive: Leads nahi aa rahi hai na abhi woh A rank, B rank main map kar diya hai maine aapki category kuch mapping kar di hai. Aap na mujhe kuch agar naye product agar aaye ho toh woh mujhe bhej dena. Kuch photos bhi aaye ho toh bhej dena kyunki main unki double mapping kar dungi ek baar. Do baar ek product ko main add kar dungi.\\nCustomer: Theek hai.\\nExecutive: Theek hai kuch naye jaise maan ke chalo jaise maan ke chaliye aapke paas koi ek product hai. Theek hai?\\nCustomer: Haan.\\nExecutive: Like oil filter jo trust press hai aapke. Theek hai agar maan ke chalo yeh hai aapke paas toh ek toh humne bana rakha already aap mujhe aur pictures unki kuch nayi pictures send kar dena taki main nayi mapping kar du unki theek hai sir?\\nCustomer: Okay.\\nExecutive: Haan done okay. Thank you sir.\\nCustomer: Whatsapp pe kar do mere ko kya.\\nExecutive: Main whatsapp kar deti hu aapko. Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n- Customer is receiving leads for irrelevant products.\\n\n\\n\nResolution:\\n\n- Executive will fix the profile by managing ranks.\\n\n- Executive offered to do double mapping of products.\\n\n- Executive asked customer to share new product details.\\n\n\\n\nNext Steps: \\n\n- Executive will share details on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, mapping, products\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a6c9e22c-c4b6-4a59-b9f8-d52508d9576b",
+  "ucid": "a6c9e22c-c4b6-4a59-b9f8-d52508d9576b",
+  "seller_categories": [
+    {
+      "mcat_id": "69130",
+      "mcat_name": "Oil Filter Press"
+    },
+    {
+      "mcat_id": "6357",
+      "mcat_name": "Filter Press"
+    },
+    {
+      "mcat_id": "113954",
+      "mcat_name": "Polypropylene Filter Cloth"
+    },
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "42759",
+      "mcat_name": "Hydraulic Power Pack"
+    }
+  ]
+}

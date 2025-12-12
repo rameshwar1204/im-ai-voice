@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667377151",
+  "gluser_id": "85108526",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Kalna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635600",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello. Haan ji sir.\\n\\nExecutive: Haan sir, namaste. Bol raha tha main, is saal hum jo renewal ki aap se baat karunga ek saal ke liye. To usme uska bill mera kho gaya hai. Usme humko jarurat tha urgently. Ka kaise milega?\\n\\nCustomer: Achha sir, matlab aapki company ka naam bata sakte hai?\\n\\nCustomer: Das Industries.\\n\\nExecutive: Kya sir? Das Industries. Das Industries.\\n\\nCustomer: Trading trading trading.\\n\\nExecutive: Haan ji sir. Haan sir, main abhi lunch pe aaya hua hu. Main aapko system pe baith ke aapka share karta hu aapka jo bhi matlab wo hai invoice hai. Ji.\\n\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs a copy of the invoice urgently.\\n\n\\n\nResolution:\\n\n- Executive assured to share invoice after reaching system.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- invoice, renewal, subscription\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eb8a9b7e-198b-488a-84ba-eeb0adf016a9",
+  "ucid": "eb8a9b7e-198b-488a-84ba-eeb0adf016a9",
+  "seller_categories": [
+    {
+      "mcat_id": "147533",
+      "mcat_name": "Soya Nugget Machine"
+    },
+    {
+      "mcat_id": "111218",
+      "mcat_name": "Kurkure Extruder"
+    },
+    {
+      "mcat_id": "122722",
+      "mcat_name": "Soya Nugget Plant"
+    },
+    {
+      "mcat_id": "141597",
+      "mcat_name": "Spices Packing Machine"
+    },
+    {
+      "mcat_id": "106962",
+      "mcat_name": "Vermicelli Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667794445",
+  "gluser_id": "253275008",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650396",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan, sir bataiye.\\nExecutive: Sir, namaste sir.\\nCustomer: Haan, namaste, haan.\\nCustomer: Haan, sir bataiye.\\nCustomer: Ji, mere ko jo listing mein jo granite ka aise likha hua hai, isme mere ko, main to murti mein deal karta hu, statue mein, lekin wo mere ko aata hai wo party aata hai na granite ka jo plates, floor placement, floor mein bhi bithane ke liye.\\nCustomer: Wo bhi aata hai mere ko, kaise nahi aayega?\\nExecutive: Uh, sir, main aapko na WhatsApp pe voice call kar rahi hu, kyunki na aapki aawaz kat-kat ke aa rahi hai, network ka issue hai shayad. Main WhatsApp pe aapko voice call kar rahi hu.\\nCustomer: Ji, ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Receiving granite plate leads instead of statue leads.\\n\n\\n\nResolution:\\n\n- Executive will call on WhatsApp due to network issues.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, listing, statues, granite\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ce9ee9bd-4f84-4a11-91cc-6b7363571137",
+  "ucid": "ce9ee9bd-4f84-4a11-91cc-6b7363571137",
+  "seller_categories": [
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "243",
+      "mcat_name": "Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "19129",
+      "mcat_name": "Shiva Statue"
+    },
+    {
+      "mcat_id": "15246",
+      "mcat_name": "Buddha Statue"
+    }
+  ]
+}

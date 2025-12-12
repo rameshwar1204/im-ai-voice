@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670780444",
+  "gluser_id": "55138058",
+  "vintage_months": 7,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Susner",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669728",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 170,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2df1a629-a67c-4a1c-847f-38b7e0c14809",
+  "ucid": "2df1a629-a67c-4a1c-847f-38b7e0c14809",
+  "seller_categories": [
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "169581",
+      "mcat_name": "RCC Road Work"
+    }
+  ]
+}

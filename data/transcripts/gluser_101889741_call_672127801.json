@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672127801",
+  "gluser_id": "101889741",
+  "vintage_months": 4,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Shirpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719959",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello. Hello.\\nExecutive: Haan bolo. \\nCustomer: Sir, mai ja rahi hai. \\nExecutive: Haan bolo, bolo.\\nCustomer: Hello.\\nExecutive: Haan, Ankit sir se baat karni hai, sir.\\nCustomer: Haan? \\nCustomer: Awaaz aa rahi hai aapko meri?\\nExecutive: Haan bolo, bolo.\\nCustomer: Haan, Ankit baat kar raha tha, sir, Niyamart se, sir.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to Ankit.\\n\n- Asks if the executive can hear him.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, connection issue\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3557192b-0665-47c5-9822-c9c547236f08",
+  "ucid": "3557192b-0665-47c5-9822-c9c547236f08",
+  "seller_categories": [
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "193973",
+      "mcat_name": "Waaree Solar Panels"
+    },
+    {
+      "mcat_id": "49",
+      "mcat_name": "Inverter Battery"
+    },
+    {
+      "mcat_id": "194004",
+      "mcat_name": "UTL Solar Inverter"
+    }
+  ]
+}

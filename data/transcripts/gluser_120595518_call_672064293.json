@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672064293",
+  "gluser_id": "120595518",
+  "vintage_months": 34,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669080",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Kaun?\\nExecutive: Good afternoon, I am speaking from IndiaMART Mukesh.\\nCustomer: Aap kahan se bol rahe hain?\\nExecutive: This call is now being recorded. IndiaMART se Mukesh bol rahi hu, kya baat kar rahe hain IndiaMART head office se.\\nCustomer: Bolo.\\nExecutive: Mukesh sir mujhe puchna tha aapki teen categories hain jo aapne block kari hain. Ek hai alligators, ek hai industrial air blowers.\\nCustomer: Haan.\\nExecutive: Aap inme deal nahi karte?\\nCustomer: Nahi karte hain na.\\nExecutive: Aapne block kyun kar rakha hai sir?\\nCustomer: Arre wo usme maine dekha nahi hoga.\\nExecutive: Sir ye unblock aap hi ki side se hoga sir.\\nCustomer: Matlab actually ho gaya hoga mistake aap.\\nExecutive: Sir.\\nCustomer: Use unblock kar dijiye.\\nExecutive: Sir unblock aap hi kar payenge aap online mein aapko bata deti hu.\\nCustomer: Open karke khol lunga usko kar lunga main open karke.\\nExecutive: Lekin aapko ye kaise pata hoga unblock kahan se karna hai?\\nCustomer: Abhi main filhal agar aap video meeting pe aate magar main kahin baitha hu. Iske liye mere ko samay dena padega aapko.\\nExecutive: Theek hai to aap koi baat nahi aap jab bhi free ho aap call kar lijiyega.\\nCustomer: Main free hoke aapko aapke us number pe main lagata hu phone. Us time main bank mein tha abhi filhal main inke paas hu. Hai na?\\nExecutive: Theek hai aur waise sir mujhe video meeting ki requirement nahi hai. Mujhe normally main help kar dungi aapki but aap mujhe please connect zarur karega.\\nCustomer: Koi koi koi baat nahi.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's categories are blocked.\\n\n- Wants to unblock categories.\\n\n\\n\nResolution:\\n\n- Executive explained unblocking can be done online.\\n\n- Customer will unblock when free.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- categories, unblock, video meeting\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=713b81b2-a87a-4fcb-aedf-b359c83229e4",
+  "ucid": "713b81b2-a87a-4fcb-aedf-b359c83229e4",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "11097",
+      "mcat_name": "Grain Cleaners"
+    },
+    {
+      "mcat_id": "227089",
+      "mcat_name": "Magnetic Destoner"
+    }
+  ]
+}

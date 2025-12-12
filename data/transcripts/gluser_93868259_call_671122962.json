@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671122962",
+  "gluser_id": "93868259",
+  "vintage_months": 30,
+  "bl_dau_oct": 19,
+  "customer_type": "STAR",
+  "city_name": "Kalyan",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9673361",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Abhilash ji.\\nCustomer: Haan ji sir.\\nCustomer: Sir main ye bol raha hu maine abhi jo aapne meri website usme list kar rakhi hai India mart ke through. Hmm hmm.\\nCustomer: To usme mujhe dikha raha hai established in the year 2027.\\nHmm hmm.\\nCustomer: About us mein.\\nExecutive: Achcha.\\nCustomer: To usko zara changes kariye. \\nExecutive: Ji ji. \\nCustomer: Ye aise dikha raha hai. \\nExecutive: Haan sir konsi company ka naam tha?\\nCustomer: Payal marketing services.\\nExecutive: Nahi sir aap mujhe whatsapp pe wo screenshot dal dijiye main ek baar dekh leta hu na. Number to hoga na sir whatsapp pe mera.\\nCustomer: Nahi nahi wohi to main iske liye isme se diya tha ruko main copy kar raha hu. Hmm hmm.\\nExecutive: Sir main aapko ek second mein call back karta hu na.\\nCustomer: Nahi sir aapka number nahi dikha raha whatsapp pe invite aa raha hai option.\\nExecutive: Sir call back karne par nahi hoga main aapko main aapko batata hu aap note kar lijiye.\\nCustomer: Ek second.\\nCustomer: Boliye.\\nExecutive: 922\\nCustomer: Ji.\\nExecutive: 07\\nCustomer: Haan.\\nExecutive: 69\\nCustomer: 69028\\nExecutive: Haan ji.\\nCustomer: Ye dekho main aapko photo bhej raha hu dekh lijiyega.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to correct the establishment year.\\n\n\\n\nResolution:\\n\n- Executive asked to share screenshot on WhatsApp.\\n\n- Executive shared his WhatsApp number.\\n\n\\n\nNext Steps: \\n\n- Customer will send the screenshot.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- website, year, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ac685cb7-3fad-4e58-8e12-917a82621154",
+  "ucid": "ac685cb7-3fad-4e58-8e12-917a82621154",
+  "seller_categories": [
+    {
+      "mcat_id": "36034",
+      "mcat_name": "Rubber Timing Belts"
+    },
+    {
+      "mcat_id": "40042",
+      "mcat_name": "Timing Belt Pulleys"
+    },
+    {
+      "mcat_id": "159",
+      "mcat_name": "Timing Belts"
+    },
+    {
+      "mcat_id": "7429",
+      "mcat_name": "Nylon Belt"
+    },
+    {
+      "mcat_id": "8330",
+      "mcat_name": "Rubber Transmission Belts"
+    }
+  ]
+}

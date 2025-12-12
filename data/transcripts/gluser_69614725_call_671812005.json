@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671812005",
+  "gluser_id": "69614725",
+  "vintage_months": 29,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Ujhari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677502",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9317f2d7-d2b3-48f1-8c8b-58d9add9f862",
+  "ucid": "9317f2d7-d2b3-48f1-8c8b-58d9add9f862",
+  "seller_categories": [
+    {
+      "mcat_id": "56268",
+      "mcat_name": "False Ceiling Services"
+    },
+    {
+      "mcat_id": "179946",
+      "mcat_name": "Gypsum False Ceiling"
+    },
+    {
+      "mcat_id": "42495",
+      "mcat_name": "False Ceiling"
+    },
+    {
+      "mcat_id": "167910",
+      "mcat_name": "False Ceiling Designing"
+    },
+    {
+      "mcat_id": "164286",
+      "mcat_name": "Gypsum Ceiling Work"
+    }
+  ]
+}

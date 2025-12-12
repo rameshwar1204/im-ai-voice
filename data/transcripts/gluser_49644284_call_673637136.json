@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673637136",
+  "gluser_id": "49644284",
+  "vintage_months": 93,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Sikar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696345",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Good morning sir, mai Shruti baat kar rahi hu IndiaMART se.\\nCustomer: Ji main bataiye.\\nExecutive: Haan ji sir, sir kal na hamari video meeting hui thi, I hope aapko yaad hoga. Aapki main aapne account manager ka aapne details diya tha unke sath hui thi.\\nCustomer: Actually main actually main nahi dekhta hu, mujhe wo uh sir dekhte hai, wohi dekhte hai ye sab cheeze.\\nExecutive: Piyush sir.\\nExecutive: Ek second sir, abhi uh Piyush sir basically sir phir kab tak Piyush sir ka koi number hai sir like ye jo primary number hai unhi ka number hai na? toh kab tak baat ho payegi unse?\\nCustomer: Unse phone karna padega mujhe pata nahi hai. Number note kar lijiye 820973.\\nExecutive: Sir 190 last mein wahi number hai na?\\nCustomer: Ji ji ji, usi pe baat kijiye.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to follow up on video meeting.\\n\n- Customer does not handle the account directly.\\n\n\\n\nResolution:\\n\n- Customer provided Piyush's number for contact.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, account manager, contact number\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e1d42855-5e81-4af4-899b-d4c5b8e3cfcc",
+  "ucid": "e1d42855-5e81-4af4-899b-d4c5b8e3cfcc",
+  "seller_categories": [
+    {
+      "mcat_id": "4230",
+      "mcat_name": "Bandhani Saree"
+    },
+    {
+      "mcat_id": "178043",
+      "mcat_name": "Bandhani Dupatta"
+    },
+    {
+      "mcat_id": "188239",
+      "mcat_name": "Bandhani Silk Saree"
+    },
+    {
+      "mcat_id": "208177",
+      "mcat_name": "Banarasi Silk Dupatta"
+    },
+    {
+      "mcat_id": "44210",
+      "mcat_name": "Cotton Dupatta"
+    }
+  ]
+}

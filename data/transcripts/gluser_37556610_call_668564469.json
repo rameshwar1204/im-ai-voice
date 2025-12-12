@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668564469",
+  "gluser_id": "37556610",
+  "vintage_months": 0,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Thane",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9640262",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Haan?\\nCustomer: Good afternoon sir, Parvez bol raha hun IndiaMART se.\\nCustomer: Boliye good afternoon Parvez.\\nExecutive: Sir wo category abhi tak update hui nahi hai sir aapki, wo bar bar pop up aa raha hai hamare pass.\\nCustomer: Are Parvez ji aapke aise kal kisi ne phone kiya tha fir?\\nExecutive: Kal ek minute. Aapko ye bol raha hai koi main Parvez ka senior baat kar raha hun. Maine aapne kal phone kiya tha. Mere manager. To unka maine bola unko ki bhai maine parso phone kiya tha wo category kuch delete karna tha iske liye. Haan bolte to category to kuch aap nahi dikh raha hai. To ab theek hai maine bola theek hai bola category trolley ka to kuch category nahi dikh raha hai. Maine bola bhai theek hai fir rehne do chalega.\\nCustomer: Aap log category ko khali pareshan kar dete ho yaar Parvez bhai.\\nExecutive: Nahi nahi. Aapko khade hue fir time karne ke liye sare baat. Main dekho jo jo catalog mein category thi wo to dekho jo hamare pass access tha wo to theek ho gaya. Jo cheez aapke taraf se hai na wo nahi ho raha hai main aapko aap. Are uske liye to maine call kiya tha parso fir wo bande ko ho hi nahi bol rahe ho rahe the. Purana ki wajah se sir. Abhi aap fir unko tha na wo. Unko bolna chahiye na yaar uske liye to main kiya tha. Bola theek hai abhi fir kya karu main boliye ab recording suniye aapke pass to rahega na.\\nCustomer: Haan ji haan ji bilkul sir.\\nCustomer: Haan fir dekhiye unko maine kya bataya unhone mujhe kya answer diya. Ek bar aap dekh lo connect karke is cheez pe aap aap system pe theek hai aapko.\\nCustomer: Theek hai chalo main kar aaj to time nahi milega kal hi ho payega ye abhi.\\nExecutive: Achcha achcha chaliye please sir ek bar mujhe call kariyega main aapka call pick kar lunga kal waise hamara off hai lekin aap mujhe kariyega to main pick kar lunga pakka 100%.\\nCustomer: Theek hai chalo okay no problem. Okay sir okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's category update not reflected yet.\\n\n- Customer had called earlier for category deletion.\\n\n\\n\nResolution:\\n\n- Executive asked customer to call next day.\\n\n- Executive assured to pick up the call.\\n\n\\n\nNext Steps: \\n\n- Customer will call the executive next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- category, update, deletion, call\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eaff3d2e-6031-428a-9426-3cb5c0944074",
+  "ucid": "eaff3d2e-6031-428a-9426-3cb5c0944074",
+  "seller_categories": [
+    {
+      "mcat_id": "10124",
+      "mcat_name": "Industrial Vacuum Cleaner"
+    },
+    {
+      "mcat_id": "224420",
+      "mcat_name": "Wet-Dry Vacuum Cleaner"
+    },
+    {
+      "mcat_id": "30243",
+      "mcat_name": "Heavy Duty Racks"
+    },
+    {
+      "mcat_id": "42706",
+      "mcat_name": "Scrubber Driers"
+    },
+    {
+      "mcat_id": "37653",
+      "mcat_name": "Floor Scrubber"
+    }
+  ]
+}

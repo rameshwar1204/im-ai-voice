@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675481623",
+  "gluser_id": "73266394",
+  "vintage_months": 1,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello sir.\\nHello.\\nHello, Sunil Kumar ji se baat ho rahi hai?\\nYes sir.\\nAbhi main News Singh baat kar raha hu sir, senior manager IndiaMART se.\\nHaa sir.\\nSir aapka concern raise hua tha sir. So concern ka resolution sir aapko mil gaya?\\nYes sir.\\nSir next time se kindly connect your account manager. 9696 jo number hai na IndiaMART ka wo customer care number hai. Okay. In case agar aapko jab resolution nahi hota hai to aap waha call karte hain. Aapke account manager ya account manager ke senior manager se aapke connect nahi hota hai. To sir wo call karne ke liye hota hai sir, right? Aapko proper ek account manager mila hua hai. Koi bhi issue ho sir aap kindly apne account manager ko WhatsApp pe connect kar lijiye. Waha se aapko on priority sir working day mein aapko resolution mil jayega sir. Right?\\nOkay.\\nAny other issue sir in IndiaMART sir?\\nNo no no.\\nTo sir main aapka ticket close kar raha hu yaha se. Kindly give us positive feedback kyuki jo feedback aap dete hain wo hamare aur aapke beech ke conversation ka hota hai sir. Right?\\nYes sir.\\nOkay. Thank you sir. Have a good day to you.\\nWelcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had raised a concern.\\n\n\\n\nResolution:\\n\n- Executive confirmed the concern was resolved.\\n- Executive explained how to contact account manager.\\n- Executive requested positive feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- resolution, account manager, feedback\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=42c22d34-4adb-453f-bed2-aaeb2a8d6fa0",
+  "ucid": "42c22d34-4adb-453f-bed2-aaeb2a8d6fa0",
+  "seller_categories": [
+    {
+      "mcat_id": "148266",
+      "mcat_name": "Glass Powder"
+    },
+    {
+      "mcat_id": "138194",
+      "mcat_name": "Cullet Glass Scrap"
+    },
+    {
+      "mcat_id": "84918",
+      "mcat_name": "Scrap Glass"
+    },
+    {
+      "mcat_id": "190415",
+      "mcat_name": "Whiting Powder"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    }
+  ]
+}

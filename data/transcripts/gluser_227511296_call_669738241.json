@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669738241",
+  "gluser_id": "227511296",
+  "vintage_months": 15,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tonk",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello, good morning sir.\\nExecutive: Good morning sir, good morning.\\nCustomer: Sir, main Ratan baat kar raha tha IndiaMART se. Sri Balaji Handicraft se baat kar rahe hain aap?\\nCustomer: Haan sir, haan sir.\\nExecutive: Okay sir, ek aapki query receive hui thi hamare liye. 9696 se aapne call kiya tha to usme aapne likha tha ki shared inquiry is not come and why is not coming related product to kindly reply sir.\\nCustomer: Haan haan.\\nExecutive: To sir main abhi kaam par hu. Aap 1 baje call karo sir aap please.\\nCustomer: Haan ji. Hamari baat hui thi na to usme aap shayad busy the to baat ho nahi paayi thi. To sir isme aap 1 baje call karo sir aap.\\nCustomer: 1 baje call karo sir aap. Ji haan sir.\\nExecutive: Okay. 1 baje sir aap\\nCustomer: Hamari baat hui thi na to aapne aaj ke liye bola tha.\\nExecutive: Haan to sir maine kal sham ko phone aaya tha lekin wo main us time khana kha raha tha 10 minute ke liye wapis phone karne ke liye bola wapis phone aaya nahi mere paas.\\nCustomer: Achha achha.\\nCustomer: Ye baat hai aap 1 baje 1 baje 1 baje ke baad phone kar dena sir. Main gaya hamara kaam karne ka time hai abhi sir hamara.\\nExecutive: Theek hai theek hai. 1 baje aapko connect kar leta hu.\\nCustomer: Theek hai sir. Thank you sir. Thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Shared inquiries and related products not received.\\n\n\\n\nResolution:\\n\n- Executive asked to call back at 1 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will connect at 1 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiry, follow up\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=187f70c4-b6e5-4d6b-8a1c-183f0cb842be",
+  "ucid": "187f70c4-b6e5-4d6b-8a1c-183f0cb842be",
+  "seller_categories": [
+    {
+      "mcat_id": "3036",
+      "mcat_name": "Terracotta Pots"
+    },
+    {
+      "mcat_id": "213448",
+      "mcat_name": "Clay Water Bottle"
+    },
+    {
+      "mcat_id": "177428",
+      "mcat_name": "Terracotta Diya"
+    },
+    {
+      "mcat_id": "73393",
+      "mcat_name": "Terracotta Vase"
+    },
+    {
+      "mcat_id": "187122",
+      "mcat_name": "Clay Diya"
+    }
+  ]
+}

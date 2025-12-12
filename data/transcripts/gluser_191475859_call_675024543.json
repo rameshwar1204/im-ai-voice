@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675024543",
+  "gluser_id": "191475859",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji, ma'am.\\nCustomer: Haan sir, woh actually maine unse vacancy miss karte unse pucha thi, unse baat ki toh unhone mujhe kaha ki aap ek baar na mujhe woh screenshot maine aapko WhatsApp pe bhi message kiya, aap mujhe screenshot share kar dijiye jab aap login kar rahe hain toh aapko kya show ho raha hai.\\nExecutive: Theek hai.\\nCustomer: Toh woh ek baar check karwa dijiye.\\nExecutive: Main abhi system pe nahi hoon, mujhe aadha ghanta lagega system pe.\\nCustomer: Theek hai na, theek hai.\\nExecutive: Uske baad main karta hoon.\\nCustomer: Haan, aap mere ko screenshot share kar dijiye, theek hai?\\nExecutive: Theek hai.\\nCustomer: Okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs help with a vacancy issue and was asked to share a screenshot of what shows up when logging in.\\n\n\\n\nResolution:\\n\n- Executive is not at the system and will need half an hour to check the screenshot.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will check the screenshot after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvacancy, screenshot, login\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=db6f1b05-0261-4074-92c8-e7338e1066e3",
+  "ucid": "db6f1b05-0261-4074-92c8-e7338e1066e3",
+  "seller_categories": [
+    {
+      "mcat_id": "134125",
+      "mcat_name": "Xanthan Gum"
+    },
+    {
+      "mcat_id": "44668",
+      "mcat_name": "Caramel Color"
+    },
+    {
+      "mcat_id": "167106",
+      "mcat_name": "Modified Starch"
+    },
+    {
+      "mcat_id": "111358",
+      "mcat_name": "Soya Lecithin"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669896423",
+  "gluser_id": "65629832",
+  "vintage_months": 2,
+  "bl_dau_oct": 12,
+  "customer_type": "TSCATALOG",
+  "city_name": "Shahjahanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656842",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of \u20b9499 for subscription.\\n\n- Wants to know why amount was deducted.\\n\n\\n\nResolution:\\n\n- Subscription was auto-renewed.\\n\n- Refund of \u20b9499 initiated.\\n\n- Refund will be credited within 5-7 business days.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3a126e22-cd48-4248-b619-3a4da29a49d9",
+  "ucid": "3a126e22-cd48-4248-b619-3a4da29a49d9",
+  "seller_categories": [
+    {
+      "mcat_id": "178394",
+      "mcat_name": "PP Corrugated Sheets"
+    },
+    {
+      "mcat_id": "178133",
+      "mcat_name": "Polypropylene Corrugated Box"
+    },
+    {
+      "mcat_id": "35794",
+      "mcat_name": "Polypropylene Box"
+    },
+    {
+      "mcat_id": "104564",
+      "mcat_name": "Folding PP Boxes"
+    },
+    {
+      "mcat_id": "26079",
+      "mcat_name": "Corrugated Plastic Box"
+    }
+  ]
+}

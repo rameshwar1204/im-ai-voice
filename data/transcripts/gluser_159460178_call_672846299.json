@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672846299",
+  "gluser_id": "159460178",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ghaziabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Madam, mai aapko mana kar raha hu ki aap call mat karo, koi baat nahi aapko block karna hai block kar do.\\nCustomer: Sir mujhe ek cheez aap bata dijiye sir bina baat sune aise aap karenge na to sir aise nahi ho sakta hai, thik hai. Mai aapko bol rahi hu aapne jab payment bola tha mai tab aapko call karunga, abhi mere pe payment nahi hai aapne saaf saaf mana kar diya to maine bhi mana kar diya, aap block kar do.\\nCustomer: Ha to sir aaj aapko nahi karna hai na, baat aap mujhe ye clear kar do, taki mai bhi apne department ko mail kar pau. Ki mera payment bada pada hai.\\nCustomer: Aage aap mail kar do, mail kar do baat khatam ho gayi madam mai keh to raha hu aapko.\\nCustomer: Ha to sir apne words pe bhi raha kariye har sir, maine apne words pe leke aapko teen part ki payment dilai hai but agar aap aise karoge.\\nCustomer: Madam mai aapke sath thodi chalunga mere pe payment hogi aap mere ko batao na abhi tak kaam to mere ko mila nahi, mai chup chap aapko payment kar raha hu uske baad bhi aap.\\nCustomer: To payment aap package ki kar rahe ho na aap, teen saal ke package ki payment kar rahe ho, mere ko to nahi kar rahe ho na sir aap company ko kar rahe ho.\\nExecutive: Madam mere ko phone mat karo aap mera mai vaise hi mera is time pareshan hu madam call mat karo.\\nCustomer: Sir mai bhi pareshan hu aap se zyada.\\nExecutive: Aapko band karna ho band kar dena, mai kya keh raha hu aapko band karna ho band kar dena baat khatam ho gayi.\\nCustomer: Ek insaniyat to aapme bhi honi chahiye na sir.\\nExecutive: Ye insaniyat insaniyat madam mere ko mat sikhao aap mai aap phone rakh do.\\nCustomer: Phone rakhne se sir baate clear nahi hongi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to clear payment status.\\n\n- Customer wants executive to keep his word.\\n\n\\n\nResolution:\\n\n- Executive asked customer to mail department.\\n\n- Executive asked customer to close account.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, subscription, package, call\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e139f96f-5a55-4f8d-98c7-ae839ac3a265",
+  "ucid": "e139f96f-5a55-4f8d-98c7-ae839ac3a265",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "154583",
+      "mcat_name": "Monkey Hoist Machines"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "144455",
+      "mcat_name": "Bar Bending Machine"
+    }
+  ]
+}

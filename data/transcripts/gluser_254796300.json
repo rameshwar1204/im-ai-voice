@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673604688",
+  "gluser_id": "254796300",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Sumerpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696047",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello Yashwant sir Namaskar.\\nCustomer: Ji boliye sir.\\nExecutive: Deepak baat kar raha hu sir Indiamart se.\\nCustomer: Ji sir.\\nExecutive: Ha sir kal sham me sir aapka feedback aaya tha ki third party CRM API ke liye.\\nCustomer: Ji sir.\\nExecutive: Ji sir to mai aapko batana chahta hu sir ki hum log ka jo API hai sir jo aapka jo package chal raha hai jo aapka basic package hai.\\nCustomer: Hmm.\\nExecutive: To is package me sir API nahi hota hai matlab hum log ka API ka separate package hai jisme aap jo costing hai sir 10000 plus GST hai.\\nCustomer: Hmm.\\nExecutive: Ha to 10000 plus GST me sir matlab fir hum log aapko API provide karte hai.\\nCustomer: 10000 plus lagega yu 18% 18% GST matlab 1180 ho gaya na 11000 se.\\nExecutive: Ha 1180 ye karte hai to fir hum aapko API provide karte hai sir.\\nCustomer: Yu\\nExecutive: Ji.\\nCustomer: Thik hai sir din me din me kuch karte hai ya kal karte hai.\\nExecutive: Kya karte hai sir?\\nCustomer: Din me payment karte hai karna to padega.\\nExecutive: To abhi open kar lijiye sir mai aapko bata deta hu.\\nCustomer: Nahi mai to abhi to sir bahar hu.\\nExecutive: Dukan pe pahunch ke karta hu.\\nCustomer: Achcha to kitne baje call kar lu sir?\\nCustomer: Nahi chala ke aapko call kar lunga pahle.\\nExecutive: Achcha chalo thik hai to ye sir aapne feedback diya tha aapne feedback diya tha sir API ke liye.\\nCustomer: Ha API ke liye ye close kar dunga abhi feedback aapka.\\nExecutive: Ha kar kar kar do sir.\\nExecutive: Thik hai sir jab bhi mere message de dijiyega jab bhi aap aayega office me mujhe message kar dijiyega mai aapko wo pura link bana kar de dunga thik hai.\\nCustomer: Thik hai sir.\\nExecutive: Thik hai sir okay thank you.\\nCustomer: Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs third party CRM API.\\n\nResolution:\\n\n- Executive informed about API separate package costing.\\n\nNext Steps: \\n\n- Customer will call after reaching the shop.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- api, crm, feedback, payment\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8185aed9-0428-4137-ba0e-f045d2627e9d",
+  "ucid": "8185aed9-0428-4137-ba0e-f045d2627e9d",
+  "seller_categories": [
+    {
+      "mcat_id": "189657",
+      "mcat_name": "Solar Zatka Machine"
+    },
+    {
+      "mcat_id": "30613",
+      "mcat_name": "LED Bulb"
+    },
+    {
+      "mcat_id": "95554",
+      "mcat_name": "LED Floodlight"
+    },
+    {
+      "mcat_id": "181454",
+      "mcat_name": "LED COB Light"
+    },
+    {
+      "mcat_id": "121185",
+      "mcat_name": "LED Panel Light"
+    }
+  ]
+}

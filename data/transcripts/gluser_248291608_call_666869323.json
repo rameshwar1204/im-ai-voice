@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666869323",
+  "gluser_id": "248291608",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722616",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ma'am, sir namaste sir.\\nCustomer: Hello.\\nExecutive: Haan sir, namaste sir, heli sir.\\nCustomer: Haan sir, namaste sir. se baat kar rahe hain?\\nExecutive: Haan sir, karun sir.\\nCustomer: Haan sir, main Shivam baat kar raha hoon IndiaMART se, aapke account manager ki team se.\\nExecutive: Haan sir.\\nCustomer: Haan. Sir aapka ek ticket open hua tha, sir aapne kuch call kiya tha, aapko sir koi issue tha iske regarding?\\nExecutive: Aapne sir customer care pe call kiya tha.\\nCustomer: Kannada nahi sir.\\nExecutive: Haanji?\\nCustomer: Kannada, Kannada nahi sir.\\nExecutive: Sir, isko kya baat, isko kya bol rahe hain?\\nCustomer: Sir ji, Kannada nahi sir.\\nExecutive: Achha, sir Kannada par ho aap?\\nCustomer: Haan sir.\\nExecutive: Sir free kab honge aap, kyunki sir aapka, aapne sir call kiya tha customer care ke paas, kuch aapka issue raha hoga.\\nCustomer: Soch [unintelligible]\\nExecutive: Haan toh bataiye sir. Haanji?\\nCustomer: Hello.\\nExecutive: Haan sir.\\nExecutive: Haan sir, issue bataiye mujhe, main aapka issue solve karwa deta hoon sir abhi ke abhi.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a ticket raised by the customer.\\n- Customer unable to communicate in Hindi, requesting Kannada.\\n\\n\\nResolution:\\n\\n- Executive tried to inquire about the customer's issue.\\n- Call ended due to a language barrier.\\n\\n\\nNext Steps: \\nIssue not resolved.\\n\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n\\n@@@Key Topics:\\n- callback, ticket, language barrier, customer support\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3e1e7c02-8446-46a2-a880-7ef5c448fb0b",
+  "ucid": "3e1e7c02-8446-46a2-a880-7ef5c448fb0b",
+  "seller_categories": [
+    {
+      "mcat_id": "146876",
+      "mcat_name": "Organic Jaggery"
+    },
+    {
+      "mcat_id": "142111",
+      "mcat_name": "Groundnut Seeds"
+    },
+    {
+      "mcat_id": "142630",
+      "mcat_name": "Groundnut Cake"
+    },
+    {
+      "mcat_id": "186492",
+      "mcat_name": "Organic Turmeric Powder"
+    },
+    {
+      "mcat_id": "183031",
+      "mcat_name": "Organic Jaggery Powder"
+    }
+  ]
+}

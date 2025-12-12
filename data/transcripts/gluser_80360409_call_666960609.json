@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666960609",
+  "gluser_id": "80360409",
+  "vintage_months": 6,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Srinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628883",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hanji\\nExecutive: Ji Arfat Ahmad Wani se baat kar rahe ho Wani Electrical se?\\nCustomer: Hanji\\nExecutive: Good afternoon sir, Amrit baat kar raha hu aapka account manager IndiaMART se, kaise hai sir?\\nCustomer: Sir actually abhi main thoda sa busy hu.\\nExecutive: Accha accha. Actually wo aapko na pareshan desh hua tha iske liye maine call kiya aapko.\\nCustomer: Nahi actually maine kal ye mera na ye na buylead ka page hi nahi khul raha tha kal raat ko. Accha parso se.\\nExecutive: Abhi sahi hai?\\nCustomer: Haan abhi maine abhi ek lead kholi hai to maine dekha ke nahi chal raha hai.\\nExecutive: Accha accha.\\nCustomer: Abhi bhi nahi chal raha hai.\\nExecutive: Nahi chal raha hai, chal raha hai, chal raha hai, abhi chal raha hai to main jaise hi pahunchta hu office mein to main aapko call back karunga. Theek hai aapka number hai mere paas.\\nCustomer: Theek hai. Haan ye ye bolna tha ki aap aapne call kiya tha customer care ko na to concern raise ho gaya tha. Abhi aapka solve ho gaya problem to ye concern close kar dena.\\nExecutive: Abhi haan haan main abhi on the way tha maine ek ek hi check ki to maine dekha chal raha hai.\\nCustomer: Theek hai abhi sahi ho gaya to isko close kar dena theek hai.\\nExecutive: Okay okay okay aur aap pahunch ke mujhe call kariye theek hai to.\\nCustomer: Oh okay okay. Okay sir okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buylead page was not opening.\\n\n\\n\nResolution:\\n\n- Executive called to follow up on the issue.\\n\n- Customer confirmed the issue is resolved.\\n\n\\n\nNext Steps: \\n\n- Customer will close the concern.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, technical issue, resolution\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5802d2d3-3a3b-4faf-bcd8-c5e4934acc99",
+  "ucid": "5802d2d3-3a3b-4faf-bcd8-c5e4934acc99",
+  "seller_categories": [
+    {
+      "mcat_id": "73955",
+      "mcat_name": "Heat Pump Water Heater"
+    },
+    {
+      "mcat_id": "30193",
+      "mcat_name": "Heat Pumps"
+    },
+    {
+      "mcat_id": "37347",
+      "mcat_name": "Solar Water Heater"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671275684",
+  "gluser_id": "152320792",
+  "vintage_months": 42,
+  "bl_dau_oct": 0,
+  "customer_type": "Buyer Conflict Defaulter",
+  "city_name": "Murum",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670504",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan boliye.\\nCustomer: Haan, Ajit ji, good evening.\\nExecutive: Very good evening.\\nCustomer: Haan, bataiye. Ajit baat kar raha hu sir, IndiaMART se.\\nCustomer: Kya hua? Kuch reply aaya?\\nExecutive: Nahi nahi, reply abhi nahi aaya sir. Mai abhi usi ka wait kar raha hu. Mere paas jaise reply aayega, mai aapko turant bataunga. Kabhi reply nahi aayega zindagi mein.\\nExecutive: Aisa nahi hai sir. Nahi aayega toh hum log khud idhar se phir mail karte hai na dobara. Ki abhi tak we are waiting for your reverse.\\nCustomer: Theek hai.\\nExecutive: Jaise aayega, aap ek do din mai toh kal hi bola tha aap ek se do din mai aap. Renewal karna hi nahi chahiye tha sir, galti ho gaya.\\nCustomer: Are aisa nahi hai sir. Renewal nahi hona.\\nCustomer: Bilkul, mera galti ho gaya. Aapka aapko salary mil raha hai. Mera ye mistake hai.\\nExecutive: Theek hai. Sir, ye mai pehli baar renewal kiye hai. Aap teen saal ya chaar saal se service chala rahe hai na IndiaMART pe.\\nCustomer: Haan haan, wohi mera last bar karna nahi chahiye tha.\\nExecutive: Toh aisa kuch nahi hai sir. Aap Monday tak ka mujhe time dijiye. Theek hai? Monday tak mai kaise bhi dekhte hai kya reply aata hai, mai aapko update kar dunga.\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the reply.\\n\n- Customer says renewal should not have happened.\\n\n\\n\nResolution:\\n\n- Executive said he is waiting for the reply.\\n\n- Executive assured to update by Monday.\\n\n\\n\nNext Steps: \\n\n- Executive will update the customer by Monday.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- reply, renewal, update\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=184ab303-cb88-4f84-b81d-c8ad25d41d49",
+  "ucid": "184ab303-cb88-4f84-b81d-c8ad25d41d49",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168570",
+      "mcat_name": "Unskilled Labour Service"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    }
+  ]
+}

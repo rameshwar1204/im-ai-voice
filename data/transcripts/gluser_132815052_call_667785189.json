@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667785189",
+  "gluser_id": "132815052",
+  "vintage_months": 33,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ji, kaun bol rahe hain?\\nCustomer: Haan, Chandra hi hai sir. From IndiaMART.\\nExecutive: Main IndiaMART se Chandra baat kar raha hun.\\nCustomer: Haan ji, haan.\\nExecutive: Ji, ji. Ji sir, bataiye.\\nCustomer: To usme yaar kisi ne galat review dal diya hai, woh nikalna tha.\\nExecutive: Profile pe galat review kisne dala hai?\\nCustomer: Are koi Janti Chemical karta hai, uska review galat dal diya.\\nExecutive: Woh bhi fraud ka dala hai.\\nCustomer: Achcha.\\nExecutive: To, ek kaam karta hun main, aaj to hum log ka woh, woh hai na, off hai na. To uski wajah se main system pe to nahi hun. Main kal aapko call karun?\\nCustomer: Kal woh nikal ke jayega na?\\nExecutive: Pehle mujhe check karna padega sir, kaisa review hai, kya possibilities hai, main sab aapko convey kar dunga, bata dunga. Jo bhi ho, jo bhi possibilities hongi woh to main karunga hi na. I will try my best ki ho jaye.\\nCustomer: Hai na?\\nExecutive: Hello. To kya karna hai, nahi hoga woh?\\nCustomer: Ab bolo to main usko nikal deta hun, mere customer kuch hai na wahan.\\nExecutive: Nahi, nahi, main kya keh raha hun ki aaj mera off hai, aaj hum system pe hai hi nahi. Hume login karne ke liye, dekhne ke liye system pe bhi baithna padega. Aur actually PC hamare paas yahan nahi hota, office mein hota hai. Kal mera office hai, usse koi problem nahi hai us review se recent mein hua hai to. Main jaake office pe kal aap\\nCustomer: Ho jayega?\\nExecutive: Sir, main kal jaunga office to dekh ke aapko bata dunga ki ho jayega ki nahi ho jayega.\\nCustomer: Theek hai.\\nExecutive: Haan, abhi to main check hi nahi kar paunga na, problem yeh hai.\\nCustomer: Theek hai.\\nExecutive: Haan, theek hai sir, main kal call karunga aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to remove a negative review.\\n\n\\n\nResolution:\\n\n- Executive said he will check it tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- review, profile, office, system\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=237fcf65-e847-4a07-8fb0-9fc2c33c9687",
+  "ucid": "237fcf65-e847-4a07-8fb0-9fc2c33c9687",
+  "seller_categories": [
+    {
+      "mcat_id": "31652",
+      "mcat_name": "Magnesium Carbonate"
+    },
+    {
+      "mcat_id": "19162",
+      "mcat_name": "Silicon Dioxide"
+    },
+    {
+      "mcat_id": "8601",
+      "mcat_name": "Precipitated Silica"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    },
+    {
+      "mcat_id": "252025",
+      "mcat_name": "Vegetable Glycerin"
+    }
+  ]
+}

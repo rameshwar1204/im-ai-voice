@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666859872",
+  "gluser_id": "192940316",
+  "vintage_months": 16,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Raipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9624702",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Purnima ji se baat ho rahi hai?\\nCustomer: Ji bataiye, haan.\\nExecutive: Haan Purnima ji mai Parul baat kar rahi hu IndiaMART se aapke account manager hamari baat hui thi na?\\nCustomer: Haan haan bataiye.\\nExecutive: A, mam actually na sir ne na call kiya tha ek tarikh ko ek bari aap unse confirmation aap abhi office me ho ya phir aap abhi ghar pe ho aap?\\nCustomer: Office me hu mam.\\nExecutive: Office me, sir he mam?\\nCustomer: Haan.\\nExecutive: Sir ne aapko update kiye the matlab call kiye the.\\nCustomer: A.\\nExecutive: Sir ne call kiya tha actually ek tarikh ko to mai call matlab report lekar aayi thi.\\nCustomer: Ritesh?\\nExecutive: Achha Ritesh sir?\\nCustomer: Haan ji Ritesh Aggarwal ji.\\nExecutive: Aap hi se baat hui hai na?\\nCustomer: To mai ye kya bol rahi thi.\\nExecutive: Sorry sir.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Sir, a, sir aap bolenge sir.\\nExecutive: Hello, mam aapka voice bahut break ho raha hai.\\nCustomer: Achha, abhi, abhi aaya aawaz?\\nExecutive: Haan haan mam ab bataiye.\\nCustomer: Mai boli, a, sir ne call kiya tha aapko to kya bole?\\nExecutive: Mam call pick nahi hui thi that's why mai puch rahi hu ki sir ne mam call kiya tha to call pick nahi hui thi. To meri side se na ek call raise ho gaya ki a sir ne call kiya tha but maine call nahi pick kari. To mam koi issue hai, koi problem hai to aap mujhe batao to mai usko resolve karne ki koshish karu.\\nCustomer: A, aap ek bar sir se puch lo.\\nExecutive: Haan ek bar sir se puchna padega kyuki mere side se baat abhi update nahi pahunchi na isliye.\\nCustomer: Okay.\\nExecutive: Okay mam to aap mujhe kitni der me isko confirm karke bata doge?\\nCustomer: Mai abhi thodi der me aapko batati hu.\\nExecutive: Thik hai mam mai shamne se aapko 5-10 minute baad call karu ya phir aap mujhe call kar loge isi number pe?\\nCustomer: A, mai call back karti hu aapko.\\nExecutive: Okay mam, okay.\\nCustomer: Haan, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to confirm about the call from Ritesh.\\n\n\\n\nResolution:\\n\n- Customer will confirm and call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call confirmation, follow up, call back\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 166,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4c9a290d-6e38-4e2e-bbf2-343291a2f6f6",
+  "ucid": "4c9a290d-6e38-4e2e-bbf2-343291a2f6f6",
+  "seller_categories": [
+    {
+      "mcat_id": "80438",
+      "mcat_name": "Hot Rolled Sheets"
+    },
+    {
+      "mcat_id": "153916",
+      "mcat_name": "Hot Rolled Coils"
+    },
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "10775",
+      "mcat_name": "Hot Rolled Plates"
+    },
+    {
+      "mcat_id": "29560",
+      "mcat_name": "Hot Rolled Steel Coil"
+    }
+  ]
+}

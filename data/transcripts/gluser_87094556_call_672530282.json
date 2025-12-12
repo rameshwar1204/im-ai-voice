@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672530282",
+  "gluser_id": "87094556",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Pali",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685997",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, very good afternoon sir.\\nCustomer: Hello? Imran ji se baat ho gayi hai. Hello, aapko meri voice aa rahi hai?\\nExecutive: Bolie.\\nCustomer: Hello. Mai keh raha tha sir meri abhi Imran ji se sir meri mai keh raha hu sir abhi meri Imran ji se puri baat ho gayi hai. Unhone kal ki meeting ke liye mujhe bola hai lekin unhone unse meri puri baat ho gayi hai, thik hai?\\nExecutive: To abhi jo concern unhone raise kiya tha wo mai close kar raha hu, thik hai? Ab aap please ek minute line pe rahiyega, mai us concern ko close kar raha hu. Aapke paas ek mail jayega sir. Thik hai? Aap please hai na uska positive response de dijiye sir. Bas utni request thi aap se.\\nCustomer: Mai baat karta hu Imran se wo bolta hai close karunga wo nahi kar paunga mai.\\nExecutive: Haan ji?\\nCustomer: Mai baat karta hu Imran se.\\nExecutive: Haan. Hello.\\nCustomer: Mai Imran se bolta hai close karne ka to mai karta hu.\\nExecutive: Hello? Aap unko aap unko line pe le lijiye sir. Abhi baat ho jayegi turant. Aap unko line pe le lijiye.\\n\\n(silence)\\n\\n(on hold music)\\n\\nAap jis vyakti se baat kar rahe hai, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hai, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hai, unhone aapke call ko hold\\nCustomer: Bhejo mail bhejo. Hello.\\nExecutive: Achha mail bhejna hai? Ek minute dijiyega sir, haan. Ek minute sir.\\n\\n(silence)\\n\\nExecutive: Ek minute sir hai na, abhi mai bhej raha hu aapko.\\n\\n(silence)\\n\\nExecutive: Haan, abhi aapke paas sir ek mail aaya hoga.\\nCustomer: Haan, aap aap please hai na uska positive response de dijiye.\\nExecutive: Bhej denge.\\n\\nCustomer: Sir wo request jo hai na wo mere liye hai, thik hai?\\nCustomer: Nahi aaya bhaiya mail abhi tak.\\nCustomer: Mail nahi aaya aapke paas?\\nExecutive: Abhi sir mail aaya hoga aapke paas, jara dekhiye ek baar.\\n\\nExecutive: Thik hai sir, thik hai, okay, okay.\\nCustomer: Kal ka time le.\\nExecutive: Baaki sir aap ek kal ke hai na meeting ka time bata dijiye unse baat karke mujhe. Waise wo mujhse keh rahe the ki group me daal denge. Hai na? Ek baar group me aap meeting ka time daal dijiyega, usi time pe mai call schedule kar lunga, thik hai?\\nCustomer: Aap group pe baat kar lena wo bhej denge aapko.\\nExecutive: Ji ji bilkul bilkul, okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to close a concern.\\n\n- Customer has not received the mail.\\n\n- Customer wants to schedule a meeting.\\n\n\\n\nResolution:\\n\n- Executive assured to close the concern.\\n\n- Executive sent a mail to the customer.\\n\n- Executive asked to confirm meeting time.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, mail, concern\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 234,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f3f27a8-1d0f-4424-9fee-895c38383882",
+  "ucid": "1f3f27a8-1d0f-4424-9fee-895c38383882",
+  "seller_categories": [
+    {
+      "mcat_id": "21852",
+      "mcat_name": "Banana Chips"
+    },
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "35494",
+      "mcat_name": "Potato Wafers"
+    },
+    {
+      "mcat_id": "175012",
+      "mcat_name": "House Map Designing Services"
+    }
+  ]
+}

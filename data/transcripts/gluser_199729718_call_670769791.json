@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670769791",
+  "gluser_id": "199729718",
+  "vintage_months": 4,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670247",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello.\\nExecutive: Haan namaste sir main Omkar baat kar raha hun Orbit Tree India Private Limited se. Bataiye sir.\\nCustomer: Sir mere ko mere account manager ka number chahiye tha sir.\\nExecutive: Aapki company ka naam bata dijiye sir ek bar.\\nCustomer: Orbit Tree India Private Limited.\\nExecutive: Isme to aa raha hai PR Patil Enterprise sir.\\nCustomer: Haan ye mere do accounts hai mere do firms hai ek mera private limited hai aur ek mere mummy ke naam se PR Patil Enterprises karke ek firm hai jiska ye mobile number register hai aur jo dusra hai 842100287 ye number hai mera.\\nExecutive: Achcha but ye concern jo abhi aapka aaya hai na mere pass ye PR Patil and Enterprise ke liye aaya hai sir. To aapne shayad is wale number se kar diya hoga call.\\nCustomer: Nahi actually kya hai na wo number mera secondary hai wo working nahi rehta usme call usse se call nahi kar sakta main sir.\\nExecutive: Thik hai main aapka concern aage forward kar raha hun Orbit Tree India Private Limited bola aapne right?\\nCustomer: Yes yes.\\nExecutive: Thik hai main ek bar concern aage forward karta hun call back arrange karata hun.\\nCustomer: Kitne der mein der mein aayega wo?\\nExecutive: Sir actually aapka concern PR mein hua hai to main concern team ko bolunga Orbit Tree mein transfer karne ke liye ki aap uske regarding call kar rahe hain to waha se jo account manager honge wo aapko call abhi kar lenge sir. Thoda sa time lijiye ek ghante ka kam se kam.\\nCustomer: Thik hai.\\nExecutive: Chalega okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs account manager's number.\\n\nResolution:\\n\n- Executive will forward the concern to relevant team.\\n\n- Account manager will call in an hour.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, callback, company name\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8c726d6d-0ee3-4d6b-91a3-eb8afa93d4c3",
+  "ucid": "8c726d6d-0ee3-4d6b-91a3-eb8afa93d4c3",
+  "seller_categories": [
+    {
+      "mcat_id": "42947",
+      "mcat_name": "PCB Repairing"
+    },
+    {
+      "mcat_id": "176173",
+      "mcat_name": "CNC Machine Control Cards Repair"
+    },
+    {
+      "mcat_id": "172488",
+      "mcat_name": "Inverter Repairing Services"
+    },
+    {
+      "mcat_id": "117804",
+      "mcat_name": "Controller Repair"
+    },
+    {
+      "mcat_id": "117931",
+      "mcat_name": "Servo Drive Repair"
+    }
+  ]
+}

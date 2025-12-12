@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666755354",
+  "gluser_id": "120156482",
+  "vintage_months": 50,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625887",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Ningal azhaikkum nabar verorai nabarudan pesikkondu ullar. Ningal kathirukkalam allathu sirithu neram kazhithu pinnar azhaikkalam. Aapne jis vyakti ko call kiya hai, woh abhi dusre call par vyast hai. Kripya\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ji sir, ji sir.\\nCustomer: Ha mam good morning.\\nExecutive: Good morning sir.\\nExecutive: Mam this side Rakesh calling from Indiamart office. Right?\\nCustomer: Okay sir.\\nExecutive: Actually mam two days before you just called on Indiamart customer care number regarding Indiamart services right?\\nCustomer: Yeah okay sir.\\nExecutive: Okay so right now I am your account manager. My name is Rakesh. Okay.\\nExecutive: So I called you just regarding your Indiamart services mam. Can you just tell me what is the concern right now regarding Indiamart services?\\nCustomer: That day I told you sir.\\nExecutive: Sorry?\\nCustomer: That day I told you know that\\nExecutive: You told me that you already told me that you just got some but that has been sold out right?\\nCustomer: Yeah. Two seconds notification coming on my screen notification once I click going inside the app it's showing that it's expired it's sold out like that it's showing that's what showing the notification was not coming in quickly after four minutes only I'm getting notification from Indiamart. Can you please change any update on this sir?\\nExecutive: Actually mam right now there is no any notification coming from Indiamart you have to just engage on your Indiamart portal mam. Right?\\nCustomer: One minute one minute.\\nExecutive: Ningal azhaikkum nabar ungal callai holdil vaithullar. Dayavu seithu linil kathirukkavum. Aap jis vyakti se baat kar rahe hai unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Ningal azhaikkum nabar ungal callai holdil vaithullar. Dayavu seithu linil kathirukkavum. Aap jis vyakti se baat kar rahe hai unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Ha sir this is not a right time because Monday morning I got many inquiries from customer this is not a right time can I call you after three sir I get I will be free after three. Is it possible?\\nExecutive: Okay okay sure sure. Sure sure sure. I can call you after three.\\nCustomer: Please update something will call you surely by three sir.\\nExecutive: Sorry?\\nCustomer: I will call you by surely by three o'clock or you call me after three o'clock.\\nExecutive: Yeah yeah definitely definitely I will call you after 3 pm okay.\\nCustomer: Okay sir thank you sir.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Notifications for buyleads are delayed.\\n\n- Buyleads are shown as expired in the app.\\n\n- Customer says it is not the right time to talk.\\n\n\\n\nResolution:\\n\n- Executive said there are no notification issues.\\n\n- Executive agreed to call back after 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, notification, indiamart portal\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 190,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d540e250-8a0a-4ee1-b34d-9af4b50a171e",
+  "ucid": "d540e250-8a0a-4ee1-b34d-9af4b50a171e",
+  "seller_categories": [
+    {
+      "mcat_id": "10868",
+      "mcat_name": "Hydrochloric Acid"
+    },
+    {
+      "mcat_id": "4462",
+      "mcat_name": "Bleaching Powder"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "37001",
+      "mcat_name": "Sodium Hypochlorite"
+    }
+  ]
+}

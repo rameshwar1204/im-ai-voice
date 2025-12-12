@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671806909",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Sir, Nancy baat kar rahi hu aapke account manager IndiaMART se.\\nExecutive: Haan haan boliye ha boliye.\\nCustomer: Sir issue resolve hua aapka app wala?\\nExecutive: Nahi hua wo office aane ke baad aapko call kar raha hai, thik hai apna.\\nCustomer: Sir ek baat batao mujhe aap, mai char din se pareshan hu Friday se sir. Mai to mere paas screenshot aaya. Aapne wo number. Are aapne us din call kiya tha na aapko wo call karke diya. Number aapne mujhe diya tha. Aapne mere manager ko number diya tha. To maine unse itni baar sir bola hai Friday ko bhi bola, Saturday ko bhi bola, sir Sunday ko bhi bola aur aaj bhi bol rahi hu. Sir dekho maine mail already technical team me kiya hua hai agar wo mail resolve nahi ho paye.\\nExecutive: Thik hai thik hai abhi mai karwata hu.\\nCustomer: Mai karwata hu abhi wo screenshot aap. Abhi karwa do aap screenshot mujhe mil jayega na fir hamare end se record. Haan thik hai samajh gaya aapko whatsapp number pe bhejte hai. Ok thik hai. Abhi karwata hu. Abhi karwata hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's app issue not yet resolved.\\n\n- Has been troubled since Friday.\\n\n\\n\nResolution:\\n\n- Executive assured to resolve the issue.\\n\n- Executive will send screenshot on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- app issue, screenshot, whatsapp, resolve\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d32ddd34-c3fb-4a69-bf85-f93f8366027f",
+  "ucid": "d32ddd34-c3fb-4a69-bf85-f93f8366027f",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

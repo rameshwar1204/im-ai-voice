@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670222308",
+  "gluser_id": "118692491",
+  "vintage_months": 2,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Guwahati",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663830",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, very good morning, main Minakshi bol rahi thi IndiaMART se.\\nCustomer: Ji.\\nExecutive: Sir, Namaste, aapne hume call kiya tha. Aapke number se na hamare jo customer care number hai, usse call aaya tha sir. To aapke jo second\\nCustomer: Haan sir?\\nCustomer: Wo baat ho gaya, baat ho gaya tha.\\nExecutive: To sir, koi problem aa rahi thi aapko?\\nCustomer: Nahi wo dusra cheez ke liye hum phone kiya tha.\\nExecutive: Bataye sir, kis cheez ke liye phone kiye the? Side mein help kar paun?\\nCustomer: Wo ho gaya, wo madam ek to tha wo help kar diya.\\nExecutive: Vibha mam, Vibha ne help kar diya aapka?\\nCustomer: Ji, ji.\\nExecutive: Sir, aise kya issue tha?\\nCustomer: Iska issue nahi hai, hum ek jagah mein fasa tha na.\\nExecutive: Aap ek jagah mein fasa ek jagah pe fase the?\\nCustomer: 240 sun lijiye nahi jayega 240\\nExecutive: Sir kya bol rahe hai aap?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called regarding an issue.\\n\n\\n\nResolution:\\n\n- Executive confirmed the issue was resolved by Vibha.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, issue, help\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d23cc72f-542e-452c-b032-44ccfc6f9541",
+  "ucid": "d23cc72f-542e-452c-b032-44ccfc6f9541",
+  "seller_categories": [
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "21852",
+      "mcat_name": "Banana Chips"
+    },
+    {
+      "mcat_id": "38",
+      "mcat_name": "Biscuit"
+    },
+    {
+      "mcat_id": "141780",
+      "mcat_name": "Cheese Balls"
+    },
+    {
+      "mcat_id": "139186",
+      "mcat_name": "Wafer Biscuits"
+    }
+  ]
+}

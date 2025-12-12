@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667435633",
+  "gluser_id": "102379148",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Jamshedpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633136",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello. Hello.\\nExecutive: Good afternoon sir. Abdul ji se baat ho rahi hai, Loha Hydraulic 11 associates.\\nCustomer: Haan.\\nExecutive: Abdul ji mera naam siraj, IndiaMART office se baat kar raha tha, kaise hai aap?\\nCustomer: Wo office bhai ko nahi banaya.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asking how the customer is.\\n\n\\n\nResolution:\\n\n- Executive introduced himself and his purpose of calling.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, well being\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aee55193-da60-4131-831c-3f563d5214f2",
+  "ucid": "aee55193-da60-4131-831c-3f563d5214f2",
+  "seller_categories": [
+    {
+      "mcat_id": "188461",
+      "mcat_name": "3 in 1 Wall Mixer"
+    },
+    {
+      "mcat_id": "181926",
+      "mcat_name": "Concealed Stop Cock"
+    },
+    {
+      "mcat_id": "178825",
+      "mcat_name": "Brass Angle Cocks"
+    },
+    {
+      "mcat_id": "146977",
+      "mcat_name": "Brass Bib Tap"
+    },
+    {
+      "mcat_id": "188462",
+      "mcat_name": "2 in 1 Wall Mixer"
+    }
+  ]
+}

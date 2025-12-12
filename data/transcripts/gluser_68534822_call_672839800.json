@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672839800",
+  "gluser_id": "68534822",
+  "vintage_months": 82,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677623",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello.\\nAap jis vyakti se baat kar rahe hain, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain, unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call is on hold.\\n\n\\n\nResolution:\\n\n- The call was on hold, no resolution provided.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call on hold\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d80f7e8f-ad23-43c2-a9fd-644754d72503",
+  "ucid": "d80f7e8f-ad23-43c2-a9fd-644754d72503",
+  "seller_categories": [
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

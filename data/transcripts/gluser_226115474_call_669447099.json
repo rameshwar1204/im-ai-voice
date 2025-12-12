@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669447099",
+  "gluser_id": "226115474",
+  "vintage_months": 12,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chharra Rafatpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656248",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know about the verification call.\\n\n\\n\nResolution:\\n\n- Explained the verification call process.\\n\n- Initiated the refund process.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=de9efab1-c3e0-41dd-8b17-9bfdf0affc23",
+  "ucid": "de9efab1-c3e0-41dd-8b17-9bfdf0affc23",
+  "seller_categories": [
+    {
+      "mcat_id": "208837",
+      "mcat_name": "Flour Mill Plant"
+    },
+    {
+      "mcat_id": "28610",
+      "mcat_name": "Flour Mill"
+    },
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "176585",
+      "mcat_name": "Automatic Atta Chakki"
+    },
+    {
+      "mcat_id": "216186",
+      "mcat_name": "Roller Flour Mill"
+    }
+  ]
+}

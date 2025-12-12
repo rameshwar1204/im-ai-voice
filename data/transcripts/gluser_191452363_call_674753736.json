@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674753736",
+  "gluser_id": "191452363",
+  "vintage_months": 2,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707853",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Ji good evening Satya Prakash ji baat kar rahe hain?\\nCustomer: Haan ji.\\nExecutive: Sir main Pooja Sharma baat kar rahi hun IndiaMART head office se aapke account manager. Hmm. Aapne sir customer care pe call kiya tha, bataiye sir kuch concern aa raha hai aapko?\\nCustomer: Customer care pe nahi main to nahi kiya abhi.\\nExecutive: Sir ye abhi 5:26 pe isi number se call kiya tha aapne 9696 number pe.\\nCustomer: Isi number se hua hai kya?\\nExecutive: Ji sir.\\nCustomer: Hmm pata nahi lag gaya hoga waise koi concern to tha nahi aisa.\\nExecutive: Achcha achcha matlab by mistakely call lag gaya sir aapka?\\nCustomer: May be may be. Haan waise mera koi concern nahi hai sir.\\nExecutive: Koi concern nahi hai na sir aapka?\\nCustomer: Nahi nahi nahi madam koi concern nahi.\\nExecutive: Thik hai sir to main ye jo ticket hai ye close kar deti hun. Aapke pass ek feedback jo hai mail aayega aur whatsapp aayega. Uspe aap satisfied pe click karke mujhe feedback de sakte ho. Baki main aapko isi number pe apna jo personal number hai wo bhi whatsapp kar deti hun agar aapko koi bhi dikkat pareshani aaye bhavishya mein to aap direct mujhe call kar sakte hain. Thik hai sir?\\nCustomer: Okay. Okay.\\nExecutive: Okay okay Prakash ji okay. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer care call was made from his number.\\n\nResolution:\\n\n- Executive confirmed if the customer had any concerns.\\n\n- Executive offered personal number for future assistance.\\n\n\\n\nNext Steps: \\n\n- Executive will close the ticket.\\n\n- Customer will receive feedback mail and WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- customer care, feedback, personal number\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=33acff95-c306-4910-bd40-637719671f46",
+  "ucid": "33acff95-c306-4910-bd40-637719671f46",
+  "seller_categories": [
+    {
+      "mcat_id": "215117",
+      "mcat_name": "Cordyceps Militaris"
+    },
+    {
+      "mcat_id": "654333",
+      "mcat_name": "Dried Cordyceps Sinensis"
+    },
+    {
+      "mcat_id": "186214",
+      "mcat_name": "Makhana"
+    },
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "26879",
+      "mcat_name": "Dried Mushroom"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "674441017",
+  "gluser_id": "163820294",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nExecutive: Hi, if you record your name and reason for calling, I'll see if this person is available.\\nCustomer: [inaudible] from services from IndiaMART.\\nExecutive: Thanks, please stay on the line.\\n(silence)\\nCustomer: Hello.\\nExecutive: Hello. Haanji.\\nCustomer: Yeah hi sir, very good morning. Kaise hain aap?\\nCustomer: Theek hai, bataiye.\\nExecutive: Navneet ji se baat ho rahi hai?\\nCustomer: Nahi mam, unke bete Rahul se baat ho rahi hai aapki.\\nExecutive: Okay okay. Rahul ji actually aapka yaha pe na catalog hai. Main IndiaMART se baat kar rahi thi, IndiaMART just. Aapke catalog se related hi baat karni thi. Aap logo ka na ek feedback aaya tha sir aap logo ke TDS return ke liye.\\nCustomer: Haanji.\\nExecutive: Haanji. To usse related hi mujhe discussion karna tha ki agar ye aap logo ka TDS agar aapko return chahiye na to mere ko TDS ka wo chalan chahiye tha. Ji bataiye.\\nCustomer: Mam aap mere ko ek ghante baad call kar lijiyega is cheez ke liye. Main sara kaam dekh lunga.\\nExecutive: Theek hai theek hai sir. Mam around 12, 12:30 ke.\\nCustomer: 12:30. Okay okay no problem sir. Main aapko 12:30 ke around ek baar call karti hu. Aur matlab discussion aapse hi karna hai na is cheez se related. Aisa to nahi ki aapke father se karna hai?\\nCustomer: Nahi nahi nahi nahi aap mujhse kar lijiye.\\nExecutive: Theek hai sir main aapko 12:30 baje tak ek baar call karti hu. Aap us time ek baar available rahiyega tab hum ek baar discuss kar lenge.\\nCustomer: Okay.\\nExecutive: Okay ji. Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs TDS challan for TDS return.\\n\n\\n\nResolution:\\n\n- Customer asked to call after one hour.\\n\n- Executive agreed to call at 12:30 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 12:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tds return, catalog, feedback, discussion\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0d623036-4d14-44fe-b25e-8a9d15a01d6c",
+  "ucid": "0d623036-4d14-44fe-b25e-8a9d15a01d6c",
+  "seller_categories": [
+    {
+      "mcat_id": "167399",
+      "mcat_name": "Chapati Tawa"
+    },
+    {
+      "mcat_id": "183986",
+      "mcat_name": "Iron Tawa"
+    },
+    {
+      "mcat_id": "11901",
+      "mcat_name": "Garden Spades"
+    }
+  ]
+}

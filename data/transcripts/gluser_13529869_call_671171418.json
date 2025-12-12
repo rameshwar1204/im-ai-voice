@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671171418",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Haan, good afternoon sir.\\nCustomer: Kis se baat hai?\\nExecutive: Haan, mai Avnish baat kar raha hu sir India Mart se.\\nCustomer: Haan, bataiye.\\nExecutive: Haan, abhi available ho aap?\\nCustomer: Nahi na.\\nExecutive: Yaani abhi available ho aap?\\nCustomer: Nahi nahi aaj shukrawar hai maine bataya tha. Theek hai. Haan toh 3 baje ke aas 2:30-3 baje ho sakta hai.\\nExecutive: Theek hai sir, mai karta hu aapko call. Baat baat karenge.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not available now.\\n\n\\n\nResolution:\\n\n- Executive will call back around 2:30-3 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\navailability, call schedule\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=27616463-7fe5-4787-aeb6-1ff26aaf8649",
+  "ucid": "27616463-7fe5-4787-aeb6-1ff26aaf8649",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

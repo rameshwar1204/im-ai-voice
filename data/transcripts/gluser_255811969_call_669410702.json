@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669410702",
+  "gluser_id": "255811969",
+  "vintage_months": 0,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Kollam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hi, if you would hold your name and reason for calling, I'll see if this person is available.\\nI'm sorry, this person is not available.\\nIf you would like to leave an additional message,\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not available.\\n\n\\n\nResolution:\\n\n- Asked to leave a message.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- unavailable, message\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f878cc7f-d5a9-4635-9867-21dbfd29ff9a",
+  "ucid": "f878cc7f-d5a9-4635-9867-21dbfd29ff9a",
+  "seller_categories": [
+    {
+      "mcat_id": "2093",
+      "mcat_name": "Basmati Rice"
+    },
+    {
+      "mcat_id": "178221",
+      "mcat_name": "1121 Basmati Rice"
+    },
+    {
+      "mcat_id": "219133",
+      "mcat_name": "India Gate Golden Sella Rice"
+    },
+    {
+      "mcat_id": "9647",
+      "mcat_name": "Long Grain Rice"
+    },
+    {
+      "mcat_id": "152944",
+      "mcat_name": "Golden Sella Rice"
+    }
+  ]
+}

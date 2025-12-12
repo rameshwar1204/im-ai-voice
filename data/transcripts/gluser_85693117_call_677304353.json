@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677304353",
+  "gluser_id": "85693117",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691950",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yes, good evening. Ma'am, I am speaking from IndiaMART Trade Office.\\nCustomer: Haan, boliye.\\nExecutive: Mai keh rahi hu sir aapne concern raise kiya hai by lead ke regarding. Already aapko clear tha aur pehle bhi humne aapko paanch by lead diya tha sir.\\nCustomer: Mai madam aapne mail check kiya kya?\\nExecutive: Maine mail check kar liya sir.\\nCustomer: Haan, uske hisab se aap dekh lijiye kya karna hai. Varna mai Monday ko baat karta hu usse.\\nExecutive: Sir aap har baar aise by lead ke liye concern raise karenge to aise nahi ho payega na wo clear wo mai clear kar rahi hu nahi ho payega sir.\\nCustomer: Thik hai, thik hai, dekhta hu phir mai. Mai baat karta hu aapke senior se.\\nExecutive: Nahi close karne to bol hi nahi rahi hu mai.\\nCustomer: Sir to aapko already clear hai na pehle bhi humne paanch by lead diya tha sir. Ab aap aap aapne non-negotiable kar liya.\\nExecutive: Nahi abhi maang nahi raha hu mai. Suniye na meri by lead maang nahi raha hu mai. Mai adjust karne ke liye bol raha hu yearly jo by lead hai.\\nCustomer: Kya keh rahe ho yearly wali?\\nCustomer: Jo yearly by lead aayi hai na usme adjust karne bol raha hu mai.\\nExecutive: Nahi sir nahi ho payega. I am really sorry sir nahi ho payega.\\nCustomer: Aapke paas abhi weekly mere paas padi hai wo by lead mai adjust kar sakte ho?\\nExecutive: Aapke paas jo weekly by lead padi hai wo mai aapko non-negotiable mai adjust kar sakte ho.\\nCustomer: Haan, aapko maang nahi raha hu mai.\\nCustomer: Maine kab use kiya hai aap dekh lo na. Maine kab use kiya hai dekh lo aap. 12 baje ke baad use kiya hai.\\nExecutive: Sir 12 baje ke arey sir wo to 12 baje ke baad agar aap karte to.\\nCustomer: Thik hai mai aapko abhi nahi karta hu kal baat karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to adjust yearly buyleads.\\n\n- Customer wants to adjust weekly buyleads.\\n\n\\n\nResolution:\\n\n- Executive denied adjusting yearly buyleads.\\n\n- Executive denied adjusting weekly buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will call the executive tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, adjustment, yearly, weekly\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bd6c712e-39b2-44c8-9d9d-25bfdc224956",
+  "ucid": "bd6c712e-39b2-44c8-9d9d-25bfdc224956",
+  "seller_categories": [
+    {
+      "mcat_id": "74802",
+      "mcat_name": "Cotton Bath Towel"
+    },
+    {
+      "mcat_id": "55376",
+      "mcat_name": "Bathroom Towel"
+    },
+    {
+      "mcat_id": "3089",
+      "mcat_name": "Cotton Terry Towel"
+    },
+    {
+      "mcat_id": "2213",
+      "mcat_name": "Terry Towel"
+    },
+    {
+      "mcat_id": "11818",
+      "mcat_name": "Hand Towel"
+    }
+  ]
+}

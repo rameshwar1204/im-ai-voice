@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669943758",
+  "gluser_id": "253275634",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Khargone",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662488",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello good afternoon sir main India Mart se bolta hu sir.\\nCustomer: Ji sir.\\nExecutive: Hello. Ji. To sir aapka issue resolve ho chuka hai sir main isko close kar du sir aapke concern ko.\\nCustomer: Hello.\\nExecutive: Ha sir main sir keh raha hu ki aapka issue resolve ho chuka hai. Aawaz aa rahi hai sir meri aapko.\\nCustomer: Hmm ha madam ne number bhej diya hai aap close kar do complaint ko.\\nExecutive: Theek hai baki mera number save kar lijiye sir koi bhi problem aati hai na aap is number pe call kijiye.\\nExecutive: Theek hai sir.\\nCustomer: Theek hai okay.\\nExecutive: Aapke paas jo hai na sir ek feedback ke liye mail jayega. To aapne aapka jo concern tha humne aapko solution provide kar diya please feedback de dijiyega sir. Aur kabhi future mein koi bhi problem aati hai kisi bhi type ka aap mujhe is number pe connect kar sakte hain. Theek hai sir.\\nCustomer: Theek hai.\\nExecutive: Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Issue resolution confirmation and complaint closure.\\n\n\\n\nResolution:\\n\n- Confirmed issue resolution; complaint will be closed.\\n- Executive provided contact number for future issues.\\n- Executive requested feedback via email.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- issue resolution, complaint closure, feedback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=023d7741-d5e8-4215-b6ee-5e5edf136233",
+  "ucid": "023d7741-d5e8-4215-b6ee-5e5edf136233",
+  "seller_categories": [
+    {
+      "mcat_id": "179236",
+      "mcat_name": "Jeera Masala Soda"
+    },
+    {
+      "mcat_id": "139360",
+      "mcat_name": "Bottled Water"
+    },
+    {
+      "mcat_id": "5145",
+      "mcat_name": "Mineral Water Bottle"
+    },
+    {
+      "mcat_id": "136575",
+      "mcat_name": "Packaged Drinking Water"
+    },
+    {
+      "mcat_id": "80141",
+      "mcat_name": "Cold Drink"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668742324",
+  "gluser_id": "253151844",
+  "vintage_months": 2,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dahanu Taluka",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9680258",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- None\\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7aba285f-3e58-42ff-bac7-f4a11b6013bc",
+  "ucid": "7aba285f-3e58-42ff-bac7-f4a11b6013bc",
+  "seller_categories": [
+    {
+      "mcat_id": "20942",
+      "mcat_name": "Laptop Adapters"
+    },
+    {
+      "mcat_id": "365282",
+      "mcat_name": "Dell Laptop Battery"
+    },
+    {
+      "mcat_id": "365283",
+      "mcat_name": "HP Laptop Battery"
+    },
+    {
+      "mcat_id": "184886",
+      "mcat_name": "HP Laserjet Printer"
+    },
+    {
+      "mcat_id": "208110",
+      "mcat_name": "Apple Laptop Charger"
+    }
+  ]
+}

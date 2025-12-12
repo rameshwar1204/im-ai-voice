@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668581313",
+  "gluser_id": "159273282",
+  "vintage_months": 2,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9645034",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ji sir, baat kar rahi thi Rajkariya se, Punarishkar se.\\nCustomer: Haan ji, good evening.\\nExecutive: Haan ji, woh Malik ka, aapne bola tha, call karne ko, toh woh main call kar rahi hoon, sir.\\nExecutive: Ji, toh main aapke catalog se related jo, aapke na, aapke lagwa, parikshan ban gaye, aapko policies vagera se related. Toh sir, main aapko iske related hi call kar rahi hoon. Toh aap mujhe bataiye aapko kya problem aa rahi hai.\\nCustomer: Aapki aawaz, aapki aawaz nahi aa rahi hai.\\nExecutive: Hello?\\nCustomer: Aapki aawaz bahut goonj rahi hai. Meri aawaz aa rahi hai kya aapko?\\nCustomer: Haan, aawaz toh aa rahi hai lekin goonj rahi hai, saaf sunai nahi de rahi hai.\\nExecutive: Abhi aa rahi hai sir aawaz?\\nCustomer: Ji sir, aawaz goonj rahi hai aapki. Main aapko dobara call karti hoon, theek hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive clearly.\\n\n\\n\nResolution:\\n\n- Executive offered to call the customer again.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, policies, voice issue\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=47504c31-538b-48fe-805e-4550917d99bb",
+  "ucid": "47504c31-538b-48fe-805e-4550917d99bb",
+  "seller_categories": [
+    {
+      "mcat_id": "12324",
+      "mcat_name": "Ganesh Statue"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "178024",
+      "mcat_name": "Black Marble Shivling"
+    },
+    {
+      "mcat_id": "178192",
+      "mcat_name": "Marble Goddess Statue"
+    },
+    {
+      "mcat_id": "86105",
+      "mcat_name": "Human Statue & Sculpture"
+    }
+  ]
+}

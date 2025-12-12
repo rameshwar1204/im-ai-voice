@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673492795",
+  "gluser_id": "28211023",
+  "vintage_months": 21,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686921",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello, Arun sir se baat ho rahi hai?\\nHaa boliye.\\nGood evening sir, Sandhya baat kar rahi thi India Mart head office se senior manager.\\nAbhi to mai busy hai.\\nSir mujhe aap se discussion karna tha service se related.\\nJi.\\nSubah good evening.\\nTo kyuki aapka sir subah karti hu aap subah phone hi nahi uthate.\\nAchha achha achha 10 baje kare.\\nKal 10 baje kar lu sir?\\nHaa.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Discussion needed regarding service.\\n\n- Not answering the phone in the morning.\\n\n\\n\nResolution:\\n\n- Agreed to call back at 10 AM tomorrow.\\n\n\\n\nNext Steps: \\n\n- Call back tomorrow at 10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Slightly Annoyed\\n\n\\n\n@@@Key Topics:\\n\nservice, callback time\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cd3a5d27-bef8-4b73-ae82-bdaa7704ef6f",
+  "ucid": "cd3a5d27-bef8-4b73-ae82-bdaa7704ef6f",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    },
+    {
+      "mcat_id": "221165",
+      "mcat_name": "Cosmic Paver Block"
+    },
+    {
+      "mcat_id": "651864",
+      "mcat_name": "Zigzag Paver Block"
+    }
+  ]
+}

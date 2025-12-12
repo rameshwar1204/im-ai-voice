@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "670587928",
+  "gluser_id": "2807159",
+  "vintage_months": 174,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667475",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nGood morning, Sani sir.\\nKaisi baat kar rahi thi India Mart se?\\nJi. Sir, meri mam abhi aap available kab honge? Meri mam aapko call karengi. Kal jo meeting hui thi uska feedback aapne note diya tha na? To uske against mein matlab call karengi wo. To aap bata dijiye kab available honge?\\nJab marji.\\nJi sir?\\nAny time.\\nAchcha, theek hai. Okay. Jaise wo aati hai main call karwati hu, theek hai? Wahi sold out wale issue ke liye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know when Sani will be available for a call from her mom regarding feedback from yesterday's meeting.\\n\n- Issue is related to sold out.\\n\n\\n\nResolution:\\n\n- Sani said anytime.\\n\n\\n\nNext Steps: \\n\n- Will have her mom call when she is ready.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\navailability, meeting feedback, sold out issue\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=385f3e15-2817-49cb-9d29-ad3367608c19",
+  "ucid": "385f3e15-2817-49cb-9d29-ad3367608c19",
+  "seller_categories": [
+    {
+      "mcat_id": "9778",
+      "mcat_name": "Magnetic Separators"
+    },
+    {
+      "mcat_id": "182301",
+      "mcat_name": "Glass Sand Blasting Machine"
+    },
+    {
+      "mcat_id": "20843",
+      "mcat_name": "Shot Blasting Machines"
+    }
+  ]
+}

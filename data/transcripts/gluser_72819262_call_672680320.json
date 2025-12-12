@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672680320",
+  "gluser_id": "72819262",
+  "vintage_months": 80,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Chirkunda",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696073",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning sir. Ratna baat kar rahi hu IndiaMART se. Manish sir baat kar rahe hai? Maa Kalyani.\\nCustomer: Haan, good morning, ma'am.\\nExecutive: Sir, woh kya Manish ji se sir baat ho pa raha hai ji?\\nCustomer: Ek, ek minute ma'am.\\nThe person you are speaking with has put your call on hold. Please stay on the line. Aapni je vyakti shonge kotha bolchen, tini apnar call-ti hold-e rekhechen. Doya kore line-e thakun. Aap jis vyakti se baat kar rahe hain.\\nCustomer: Haan, IndiaMART.\\nExecutive: Haan, haan boliye ma'am. Manish sir Ratna baat kar rahi hai. Sir, yeh aapse meri last time discussion hui thi na kuch?\\nCustomer: Hello?\\nExecutive: Woh koi issue nahi hai.\\nExecutive: Just a minute, sir. Woh matlab maine aapko bataya tha.\\nExecutive: Aapka aawaz bahut yeh ho raha hai.\\nExecutive: Main sir yeh keh rahi thi ki aapka ek water filtration pebbles karke hai.\\nCustomer: Haan, haan.\\nExecutive: Water filtration sand karke yeh do categories hai jispe abhi buylead consumption nahi hai. Toh iski jo listing hai na woh kam ho gayi hai, matlab rank change ho gaya hai. Maine aapko last time describe kiya tha na?\\nCustomer: Hmm hmm.\\nExecutive: Toh aap iski abhi hand to hand buylead consume kar lenge water filtration pebbles, water filtration sand.\\nCustomer: Water filtration pebbles.\\nExecutive: And ek yeh haan, haan.\\nExecutive: And water filtration sand, sand.\\nCustomer: Haan.\\nCustomer: Ji, ji, thik hai.\\nExecutive: Ji, and one more thing sir yaha pe jo do number hai maine aapse Manish sir kaha tha na ek number aap apna add karwa dijiye. Kyunki baar baar sir pareshan hote hai na call aati hai kyunki jab bhi aap kisi aapki jo higher listing services hoti hai na un categories mein agar kuch aisa hota hai ki rank impact karta hai toh hamara call aata hi aata hai aapko. Apart from it services hai bahut cheeze hai. Toh sir ko bhi main baar baar call kar rahe hote hai then woh conference call karta hai. Toh better yeh hai ki agar aap yaha apna number ek mention kar de Manish sir chahe secondary number mention kar de add kar denge toh hum connect kar payenge aapse direct.\\nCustomer: Thik, thik, thik hai ma'am.\\nExecutive: Thik hai sir toh aap secondary add kar dijiyega and water filtration pebble ka agar abhi aap consume kar le sir.\\nCustomer: Thik hai, main deta hu main consume kar leta hu main.\\nExecutive: Haan, main bata de rahi hu water filtration pebble, water filtration sand.\\nCustomer: Ji, ji.\\nExecutive: Thik hai, thik hai. Okay. Haan, ji, okay, okay ma'am.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's listing rank has decreased.\\n\n- Wants to add secondary number for direct contact.\\n\n\\n\nResolution:\\n\n- Executive informed about water filtration pebbles.\\n\n- Executive requested to add secondary number.\\n\n- Customer agreed to consume buyleads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, listing, secondary number, rank\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 172,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa81ed5a-6e01-468b-8c27-780f9dfa1dd7",
+  "ucid": "aa81ed5a-6e01-468b-8c27-780f9dfa1dd7",
+  "seller_categories": [
+    {
+      "mcat_id": "43644",
+      "mcat_name": "Gravel"
+    },
+    {
+      "mcat_id": "9338",
+      "mcat_name": "Silica Sand"
+    },
+    {
+      "mcat_id": "34768",
+      "mcat_name": "Pebble Stone"
+    },
+    {
+      "mcat_id": "42923",
+      "mcat_name": "River Sand"
+    },
+    {
+      "mcat_id": "143574",
+      "mcat_name": "Water Filtration Pebbles"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667972137",
+  "gluser_id": "68457847",
+  "vintage_months": 17,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Farrukhabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655488",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello?\\nCustomer: Sir, I can't hear you. Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- connectivity, audio issue\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=430c3a25-d329-4e2b-a8b2-832c9064e63c",
+  "ucid": "430c3a25-d329-4e2b-a8b2-832c9064e63c",
+  "seller_categories": [
+    {
+      "mcat_id": "193190",
+      "mcat_name": "Plant Nursery"
+    },
+    {
+      "mcat_id": "180411",
+      "mcat_name": "Neem Tree"
+    },
+    {
+      "mcat_id": "44183",
+      "mcat_name": "Decorative Plant"
+    },
+    {
+      "mcat_id": "113844",
+      "mcat_name": "Teak Plants"
+    },
+    {
+      "mcat_id": "122600",
+      "mcat_name": "Ashoka Tree"
+    }
+  ]
+}

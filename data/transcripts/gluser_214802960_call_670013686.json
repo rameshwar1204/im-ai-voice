@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670013686",
+  "gluser_id": "214802960",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Bhind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663526",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello? Hello?\\nJi mam.\\nHaa Aditya mai na abhi legal team ka claim karwati hu, unko aapko next dene ke liye ya toh number hoga mere paas, agar mujhe number milta hai team se toh mai number dungi, otherwise mai mail ID dungi, thik hai?\\nJi mam, mam number hi dijiye unka.\\nKyuki hame officially aise provided nahi hai, abhi mujhe apne senior se baat karni padegi, agar number milta hai toh achi baat hai, otherwise mail toh mil hi jayega.\\nJi mam, thik hai.\\nThik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the legal team's contact number.\\n\n\\n\nResolution:\\n\n- Executive will check for the legal team's number.\\n\n- If number not available, will provide email ID.\\n\n\\n\nNext Steps: \\n\n- Executive will talk to her senior.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- legal team, contact number, email id\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a5b971c2-0916-4d52-a77b-cef6f22770fc",
+  "ucid": "a5b971c2-0916-4d52-a77b-cef6f22770fc",
+  "seller_categories": [
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "4937",
+      "mcat_name": "Ashwagandha Powder"
+    },
+    {
+      "mcat_id": "4751",
+      "mcat_name": "Amla Powder"
+    },
+    {
+      "mcat_id": "150749",
+      "mcat_name": "Triphala Powder"
+    },
+    {
+      "mcat_id": "184226",
+      "mcat_name": "Shatavari Root"
+    }
+  ]
+}

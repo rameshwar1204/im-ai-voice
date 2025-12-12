@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667054315",
+  "gluser_id": "218502525",
+  "vintage_months": 7,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Faizabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626875",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haanji sir.\\nCustomer: Haanji sir, namaskar.\\nExecutive: Namaskar.\\nCustomer: Ji ji sir. Sir, Kunal Choudhary baat kar raha tha, Adol Street IndiaMART se.\\nCustomer: Ji ji boliye.\\nExecutive: Ji ji sir. Sir, lead check kariye aapne wo bheji thi maine subah?\\nCustomer: Check hi nahi kiya. Subah se gaadi chala rahe the.\\nExecutive: Achha sir, subah se busy the kya aap?\\nCustomer: Nahi sir, phone nahi uthaya sir. Achha abhi message bhi nahi message bhi to seen nahi hua hoga sir.\\nExecutive: Ji ji ji. Koi nahi aap free ho jao fir karna, koi nahi.\\nCustomer: Are jo usme number maang raha hai, usko kya login kar le ek baar?\\nExecutive: Samjha nahi sir, main aapki baat kya keh rahe?\\nCustomer: Are jo link bhej rahe hain aap?\\nExecutive: Haan haan, usme number daal ke wo log kar dijiye.\\nCustomer: Are to sir ye carry bag hai, carry bag kaun sa hai? Hum jo normal wo saadi waadi wala bag lagta hai, wahi kaam karte hain.\\nExecutive: Hmm.\\nCustomer: Kaun sa carry bag sir aap?\\nExecutive: Pehle aap abhi free hain aap abhi?\\nCustomer: Abhi try nahi kar rahe. Try kar rahe.\\nExecutive: Koi nahi aap pehle free ho jao fir karna aaram se.\\nCustomer: Karo na. Wo aapki chutti hone wali hogi, abhi chutti ho jayegi.\\nExecutive: Haan, koi dikkat nahi aap kar lena message, call main utha lunga, koi dikkat nahi.\\nCustomer: Theek hai? Ji.\\nExecutive: Okay ji. Theek hai.\\nCustomer: Okay sir.\\nExecutive: Kya kar lena?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was busy and couldn't check the lead.\\n\n- Customer asks about logging in through the link.\\n\n- Customer inquires about the type of carry bag.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to check when free.\\n\n- Executive explained how to log in through the link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, login, carry bag\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=544943a7-f7b5-4000-ba0d-d59110b2380a",
+  "ucid": "544943a7-f7b5-4000-ba0d-d59110b2380a",
+  "seller_categories": [
+    {
+      "mcat_id": "181380",
+      "mcat_name": "School ID Card"
+    },
+    {
+      "mcat_id": "96451",
+      "mcat_name": "ID Card Holder"
+    },
+    {
+      "mcat_id": "74725",
+      "mcat_name": "ID Card Lanyard"
+    },
+    {
+      "mcat_id": "139794",
+      "mcat_name": "T-Shirt Printing Services"
+    },
+    {
+      "mcat_id": "446025",
+      "mcat_name": "Water Sensor Diya"
+    }
+  ]
+}

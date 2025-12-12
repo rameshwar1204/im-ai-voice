@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667453348",
+  "gluser_id": "150235882",
+  "vintage_months": 9,
+  "bl_dau_oct": 21,
+  "customer_type": "FREELIST",
+  "city_name": "Daund",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello mera United se baat kar raha hun United se baat kar raha hun\\n\\nCustomer: ha ji sir hello\\nExecutive: mera manager kaun hai mera\\nExecutive: sir ek minute sir aap call pe rahiye sir mai aapko check karke sir bata deta hun aap call pe rahiye 2365 76\\n\\n\\nExecutive: sir aapki company ka naam sir bol denge\\n\\nCustomer: sir sir United\\nCustomer: hello\\nExecutive: ha bolo\\nCustomer: ha bolo\\n\\nCustomer: hello\\nCustomer: ha bolo\\nExecutive: ha sir United se bol rahe hain United steps\\nCustomer: ha\\nCustomer: ha ha ji sir sir aapke account manager main hoon sir Diwakar Shukla aap sir India mart ke app mein aap sir three dots mein jayenge sir setting mein jayenge waha pe sir aapko meri detail dikh jayegi abse sir aapka jo bhi sir aapki cheeze hain sir na hi sir aapke aapka koi manager change hoga aur na hi ab aapke mere end se jo bhi sir mujhe help karni hogi aapki main sir on a whatsapp sir aapse connect kar lunga aisa nahi hoga ki sir main aapse abhi baat karu baad mein sir jo bhi aapko dikkat hogi abhi sir mujhe jo mere end se sir problem lagi ki sir mujhe aapke catalog pe work karna tha sir aapki product ki description add karni thi iske liye sir maine aapko call kara tha\\nCustomer: ha\\nExecutive: ki aap kis ha ji sir aap kitne order quantity mein deal karte hain wo detail sir mujhe dalni thi sir aur grade kya hai sir aap agar HD grading mein deal karte hain sir uski grade kya hai ye sari cheeze agar mujhe sir aapki add karni jisse sir aapki visibility high hogi aur logo ko sir aapka catalog dikhega kyuki sir aapka aapko business milega tabhi sir hamara fayda hoga tabhi sir hame rating milegi jab tak sir aapka nahi kaam hoga isiliye main sir maine sir aapko call kara hua hai\\nCustomer: ha bolo\\nCustomer: abhi jo mera jo id ka jo sir aapki aawaz\\nCustomer: dikh raha hai na\\nCustomer: kya dikkat hai\\nExecutive: sir ek minute rukiye sir main aapko turant call back kar raha hun sir ek second sir on a call\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know his manager name.\\n\n- Customer is facing issue with ID visibility.\\n\n\\n\nResolution:\\n\n- Executive informed his name is Diwakar Shukla.\\n\n- Executive informed how to check manager details.\\n\n- Executive said he will work on catalog.\\n\n- Executive will call back to resolve ID visibility issue.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- manager, catalog, id, visibility\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 139,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ef869ff-0622-4c21-857d-c268fdc60de5",
+  "ucid": "4ef869ff-0622-4c21-857d-c268fdc60de5",
+  "seller_categories": [
+    {
+      "mcat_id": "134143",
+      "mcat_name": "Pet Bottle Scrap"
+    },
+    {
+      "mcat_id": "160919",
+      "mcat_name": "HDPE Drum Scrap"
+    },
+    {
+      "mcat_id": "154781",
+      "mcat_name": "HDPE Scrap"
+    },
+    {
+      "mcat_id": "182976",
+      "mcat_name": "Used Plastic Drums"
+    },
+    {
+      "mcat_id": "217124",
+      "mcat_name": "LD Plastic Scrap"
+    }
+  ]
+}

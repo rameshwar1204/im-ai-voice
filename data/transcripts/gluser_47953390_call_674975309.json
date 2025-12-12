@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674975309",
+  "gluser_id": "47953390",
+  "vintage_months": 8,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709811",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Madam, main back kar raha hun aadhe ghante mein phone karta hun aapko wapas aapke number pe.\\nCustomer: Theek hai, theek hai sir.\\nExecutive: Same number pe aap revert kar dena sir.\\nCustomer: Haan haan.\\nExecutive: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Executive will call back in half an hour.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=21ffde8a-44c2-45b5-961e-ef6414d01125",
+  "ucid": "21ffde8a-44c2-45b5-961e-ef6414d01125",
+  "seller_categories": [
+    {
+      "mcat_id": "32412",
+      "mcat_name": "Machine Blades"
+    },
+    {
+      "mcat_id": "30674",
+      "mcat_name": "Industrial Blades"
+    },
+    {
+      "mcat_id": "140331",
+      "mcat_name": "Grinder Blades"
+    },
+    {
+      "mcat_id": "33955",
+      "mcat_name": "Industrial Paper Cutting Blade"
+    },
+    {
+      "mcat_id": "152810",
+      "mcat_name": "Plastic Granulator Blades"
+    }
+  ]
+}

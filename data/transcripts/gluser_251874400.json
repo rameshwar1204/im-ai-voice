@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666933270",
+  "gluser_id": "251874400",
+  "vintage_months": 0,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640280",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello Hello Hello\\nCustomer: Hello\\nExecutive: Hello yes sir good afternoon.\\nCustomer: Yes good afternoon sir.\\nExecutive: Ji.\\nCustomer: Ji ji sir main ye bol raha hu sir jo mera jo mera is kya naam hai panel sir low score ka pada hai na product score change kar dijiye sir 80 plus kar dijiye 80 to 90.\\nExecutive: Theek hai ek bar apna registered number batayega sir.\\nCustomer: 750020\\nExecutive: Kya sir?\\nCustomer: 75\\nExecutive: 75\\nCustomer: 00\\nExecutive: 00\\nCustomer: 205\\nExecutive: 205\\nCustomer: 405\\nExecutive: 205405\\nCustomer: Ji sir.\\n\\nExecutive: Hello sir.\\nCustomer: Hello\\nExecutive: Okay ye aapki catalog new live hui hai na sir.\\nCustomer: Haan ji sir.\\nExecutive: Okay. Sir aap abhi jaise 2 baj rahe hai na main aapko 3 baje ke kareeb call karta hu theek hai na abhi jaise abhi lunch pe main aaya hu main check karke 3 baje aapko call karta hu aapko online la karke sari chee jo add hai wo kar deta hu aur plus jo kuch jankari bhi hai aapke welcome call pe lenge wo bhi main aapko guide kar dunga theek hai na.\\nCustomer: Theek hai ji sir.\\nExecutive: Ji 3 baje main aapko exactly call karta hu sir.\\nCustomer: Theek hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to increase product score on panel.\\n\n\\n\nResolution:\\n\n- Executive will call back at 3 PM.\\n\n- Will bring catalog online and add details.\\n\n- Will guide on welcome call information.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product score, catalog, welcome call\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 144,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5d6551f8-a44b-4803-bd01-57b3ae7af2c2",
+  "ucid": "5d6551f8-a44b-4803-bd01-57b3ae7af2c2",
+  "seller_categories": [
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "18988",
+      "mcat_name": "Teak Wood Sofa"
+    },
+    {
+      "mcat_id": "173148",
+      "mcat_name": "Wooden Carved Sofa Set"
+    },
+    {
+      "mcat_id": "12569",
+      "mcat_name": "Wooden Dining Table"
+    },
+    {
+      "mcat_id": "12576",
+      "mcat_name": "Wooden Swings"
+    }
+  ]
+}

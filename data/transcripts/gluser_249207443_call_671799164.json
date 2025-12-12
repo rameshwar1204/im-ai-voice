@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671799164",
+  "gluser_id": "249207443",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Anantapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9678219",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=62512a49-e382-4852-bbfd-5d8d7e48c6e0",
+  "ucid": "62512a49-e382-4852-bbfd-5d8d7e48c6e0",
+  "seller_categories": [
+    {
+      "mcat_id": "70089",
+      "mcat_name": "Roasted Chana"
+    },
+    {
+      "mcat_id": "39112",
+      "mcat_name": "Sunflower Seeds"
+    },
+    {
+      "mcat_id": "218530",
+      "mcat_name": "Organic Sunflower Seeds"
+    },
+    {
+      "mcat_id": "182292",
+      "mcat_name": "Roasted Hing Chana"
+    },
+    {
+      "mcat_id": "23243",
+      "mcat_name": "Bird Food"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673022246",
+  "gluser_id": "145432970",
+  "vintage_months": 4,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Giridih",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690289",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Tenu itna mai pyar kara ek pal vich sau bar kara tu jave je mainu chhad\\nHello\\nHello Hello\\nExecutive: ha bataiye na\\nCustomer: ha aaryan ji namaskar satyajeet tiwari bol raha hun main india mart ke noida head office se\\nExecutive: ha bataiye\\nExecutive: sir ji aapki ek services hum log ke sath run kar rahi hai to aap se aapke account manager ka discussion hua tha unhone aapko call kiya tha feedback ke liye to sir aapne unse region mein share kiya hai ki aap satisfied nahi hai unke feedback se\\nCustomer: aap satisfied hona hi nahi aap log batate hain aap log kam kara ke nahi dete sir khali aadmi ko choma bana rahe hain bhaiya bole kam nikal jayega nikal jayega payment lagaye ek bhi aadmi jo mal leta nahi hai sirf inquiry karta bhaiya ye mal hai kya bhaiya mal nahi hai to waise dal ke rakhe so bataiye inquiry karna to kahin aur kar dijiye mere pass inquiry kya karte hain mal nahi lena hai to\\nExecutive: okay\\nCustomer: ha sir baat ye hai ki customer jitna aa raha hai sirf inquiry karta mal leta koi nahi hai sir hum mal lega nahi to mal jab investment kahan kiye ja investment karega wahan to profit chahiye na sir\\nExecutive: acha sir dekhiye do cheez aap samajhne main sir dekhiye batate hain aaj char mahina se upar panch mahina ho gaya panch mahina mein man lijiye ki hum 35000 investment kiye hain aur 500 wahan se income nahi aaya to 35000 mera duble se hi na ho gaya na sir\\nExecutive: sir pehli cheez ki aapko india mart se service lete hue sir teen mahina hua hai\\nCustomer: dusri cheez sir main main main bilkul main aapki baat se sehmat hun dusri cheez sir aap log dekhiye khali aap apna baat nahi boliyega mera kya hak hai customer ka dikkat ho raha dekhiye ek bhi customer lene wala tha khali beech ka dalal rehta hai jo bhaiya mal le lenge abhi tak mal dekha nahi hai aur bolta hai bhaiya le lenge to waisa aur bolta hai ek kam kijiye sir ye mera personal number hai humko phone kijiye morning mein morning mein se baat karte hain abhi to kam mein busy hain theek hai na sir\\nExecutive: abhi baat nahi ho payegi sir\\nCustomer: nahi sir baat nahi ho payegi\\n",
+  "summary": "\\n\nConcerns:\\n\n- Dissatisfied with service; no sales from leads.\\n\n- Feels misled; investment not yielding profit.\\n\n- Inquiries are useless; no actual buyers.\\n\n\\n\nResolution:\\n\n- Executive stated customer using service for 3 months.\\n\n- Executive tried to explain, but customer refused.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, investment, profit, customer service\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a47bc20-6cee-4f4e-89f4-1c30e9e7b8f6",
+  "ucid": "6a47bc20-6cee-4f4e-89f4-1c30e9e7b8f6",
+  "seller_categories": [
+    {
+      "mcat_id": "23855",
+      "mcat_name": "Broken Rice"
+    },
+    {
+      "mcat_id": "5056",
+      "mcat_name": "Plastic Empty Water Bottle"
+    },
+    {
+      "mcat_id": "139360",
+      "mcat_name": "Bottled Water"
+    },
+    {
+      "mcat_id": "146858",
+      "mcat_name": "Masoor Dal"
+    },
+    {
+      "mcat_id": "36270",
+      "mcat_name": "Refined Sugar"
+    }
+  ]
+}

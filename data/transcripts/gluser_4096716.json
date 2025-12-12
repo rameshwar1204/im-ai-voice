@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669377833",
+  "gluser_id": "4096716",
+  "vintage_months": 86,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655894",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Ajoriya ji Shubham baat kar raha hu sir IndiaMART se.\\nCustomer: Haan ji bataiye.\\nExecutive: Good afternoon sir kaise hain aap?\\nCustomer: Bas theek hai.\\nExecutive: Ji actually sir isliye call kiya tha aapko ki aapka na ek video meeting ka abhi concern raise hua tha aapke sath ek video meeting hui hogi sir abhi Ranjit right sir.\\nCustomer: Haan.\\nExecutive: Ji to uske liye sir wo actually concern hum close kar rahe the aapke pass ek feedback mail aayega.\\nCustomer: Ji ji.\\nExecutive: To please aap use sir feedback aap provide kar dijiye agar aap satisfied hai.\\nCustomer: Haan bilkul bilkul aap tension na le turant bhejiye aap main bhej raha hu.\\nExecutive: Theek hai Bhagwan ji okay sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding video meeting feedback.\\n\n\\n\nResolution:\\n\n- Executive requested feedback on video meeting.\\n- Customer agreed to provide feedback immediately.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, video meeting, concern\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=da0ad66b-4cb1-4bf2-9765-fceb21833bbf",
+  "ucid": "da0ad66b-4cb1-4bf2-9765-fceb21833bbf",
+  "seller_categories": [
+    {
+      "mcat_id": "148103",
+      "mcat_name": "Water Pouch Packing Machine"
+    },
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "181573",
+      "mcat_name": "SS RO Plant"
+    },
+    {
+      "mcat_id": "132266",
+      "mcat_name": "Commercial Reverse Osmosis System"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    }
+  ]
+}

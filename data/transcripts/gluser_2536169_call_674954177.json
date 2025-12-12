@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674954177",
+  "gluser_id": "2536169",
+  "vintage_months": 170,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9701739",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Sir, main Parvez baat kar raha hun, good afternoon Parvez.\\nCustomer: Parvez ji, ye number se kyun karte ho, apne number se karo. Haan bolo.\\nExecutive: Nahi nahi, sir actually kya hai na ki ek hamara ticket open hua hai, to ye directly company ke recorded line mein.\\nCustomer: Khul raha hai, abhi bhi jab bhi chala di, bar bar usko login karna pad raha hai.\\nExecutive: Haan, main bilkul samajh gaya, main bilkul samajh gaya.\\nExecutive: Usi ka solution batane ke liye maine aapko call kara hai. Haan haan bolo. Agar aapne whatsapp check kara hoga, maine team technical team se abhi baat kari, to unka kehna hai ki aapka jo browser ka jo setting hai na, usse thoda sa kahin na kahin chhed chhad hui hai.\\nCustomer: To browser aap settings aapne bheja whatsapp pe mere ko detail na?\\nExecutive: Ji ji ji, bilkul bilkul bilkul.\\nCustomer: Main 10-15 minute mein na kisi bande ko bol ke karwata hun, haan.\\nExecutive: Haan, theek hai, theek hai. Baki main ticket close kar dun sir?\\nCustomer: Nahi, ek minute theek ho jana do, fir close karna.\\nExecutive: Kya keh rahe hain sir?\\nExecutive: Ek bar ho jane do, sab theek hai, tabhi close karo na sir.\\nExecutive: Theek hai, theek hai, koi dikkat nahi hai, theek hai. Okay sir, okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has to login repeatedly.\\n\n\\n\nResolution:\\n\n- Executive said the browser settings were tampered.\\n- Executive shared details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will get it fixed and then close ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, browser settings, ticket\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=684e08bd-78f6-43b5-807a-2a6d4a84a541",
+  "ucid": "684e08bd-78f6-43b5-807a-2a6d4a84a541",
+  "seller_categories": [
+    {
+      "mcat_id": "21078",
+      "mcat_name": "Brake Motors"
+    },
+    {
+      "mcat_id": "8786",
+      "mcat_name": "Electromagnetic Brakes"
+    },
+    {
+      "mcat_id": "166869",
+      "mcat_name": "Brake Rectifier"
+    },
+    {
+      "mcat_id": "186631",
+      "mcat_name": "Solid State Rectifier"
+    },
+    {
+      "mcat_id": "41500",
+      "mcat_name": "Worm Geared Motor"
+    }
+  ]
+}

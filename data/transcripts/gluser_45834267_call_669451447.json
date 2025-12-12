@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669451447",
+  "gluser_id": "45834267",
+  "vintage_months": 24,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637042",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji, hello. Hello. Haan ji, Gaurav ji baat kar rahe hain?\\nCustomer: Haan bol raha hun.\\nExecutive: Gaurav ji namaskar, main Aadarsh baat kar raha hun sir IndiaMART ka senior manager. Haan ji sir boliye. Aap se discussion ho nahi paya tha us din hamara chota chota conversation hua tha. Aapne ji bataye sir kya problem aa rahi hai sir aapko?\\nCustomer: Nahi abhi to kuch waisi problem bol ke to nahi hai.\\nExecutive: Nahi aap aapne not satisfied mark kiya tha na hamari team se discussion aapka hua hoga. Uske baad aapne not satisfied mark kiya tha to wahi main joi jaan raha tha kuch problem tha hamari team se kuch business se related problem hai wo bataye sir usme hum help kar sake.\\nCustomer: Nahi waisa to kuch nahi hai maybe wo galti se hua hoga ab mere ko idea nahi actually abhi kya hai na main thoda sa busy chal raha hun. Ho sakta hai dhyan nahi diya hoga.\\nExecutive: Okay. Hmm hmm. To baki sab kuch theek chal raha hai sir buyers ke call wagera jo aa rahe hain business wagera sab kuch mil raha hai?\\nCustomer: Haan haan mil raha hai mil raha hai.\\nExecutive: Theek hai to aapka conversation close kar de sir?\\nCustomer: Haan haan.\\nExecutive: Theek hai aapki email id pe ek feedback jayega to please satisfied mark kariyega. Iske alawa koi bhi jankari aapko leni hai to aap hume bata sakte hain aapko service card mein koi problem aa raha hai to theek hai?\\nCustomer: Theek hai sir okay okay. Okay okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about the reason for dissatisfaction.\\n\nResolution:\\n\n- Customer said he was busy and marked it mistakenly.\\n- Executive offered help regarding service card issues.\\n\nNext Steps: \\n\n- Executive will send a feedback form to email.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, satisfaction, buyleads, service card\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cb4d4524-ae1c-492f-82e7-6c1a4e855a53",
+  "ucid": "cb4d4524-ae1c-492f-82e7-6c1a4e855a53",
+  "seller_categories": [
+    {
+      "mcat_id": "28763",
+      "mcat_name": "Glass Wool"
+    },
+    {
+      "mcat_id": "43756",
+      "mcat_name": "Insulated Rock Wool"
+    },
+    {
+      "mcat_id": "149102",
+      "mcat_name": "Roof Heat Insulation Materials"
+    },
+    {
+      "mcat_id": "135639",
+      "mcat_name": "LRB Rockwool Mattress"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    }
+  ]
+}

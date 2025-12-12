@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672337720",
+  "gluser_id": "251482310",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bavla",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685957",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 12,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=59cbae1a-90e9-4a16-90cd-fd8faa4136bd",
+  "ucid": "59cbae1a-90e9-4a16-90cd-fd8faa4136bd",
+  "seller_categories": [
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "150852",
+      "mcat_name": "MS Porta Cabin"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    },
+    {
+      "mcat_id": "145136",
+      "mcat_name": "FRP Portable Toilet"
+    },
+    {
+      "mcat_id": "185338",
+      "mcat_name": "GI Portable Cabin"
+    }
+  ]
+}

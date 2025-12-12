@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666897474",
+  "gluser_id": "113806295",
+  "vintage_months": 59,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625922",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nExecutive: Hello ma'am, Kadir baat kar raha hu IndiaMART se.\\nCustomer: Haanji haanji, bataiye sir.\\nExecutive: Sir, ma'am aapne check kar liya kya?\\nCustomer: Haan haan, woh issue resolve ho gaya hai aapka.\\nExecutive: Achha. Ma'am yeh primary wala jo number hai aapka 95 se jo shuru hota hai 904, yeh kinke paas rehta hai? Sir ke paas rehta hai kya ki aapke paas?\\nCustomer: Haan, sir ke paas.\\nExecutive: Sir ke paas hai. Theek hai ma'am. Aapka yeh concern main resolve kar de raha, abhi close kar deta hu.\\nCustomer: Haan haan, close kar dijiye.\\nExecutive: Lekin aapke yeh sir ke number pe na feedback jaata hai ma'am. Aap feedback de sakti hain.\\nCustomer: Theek hai, theek hai, theek hai.\\nExecutive: Theek hai ma'am. Baaki kuch aur toh issue nahi hai na?\\nCustomer: Nahi, nahi.\\nExecutive: Achha, kuch issue hai toh maine aapka personal number bhi aapko share kar diya hai, WhatsApp wala jo number tha na. Agar kuch issue ho toh aap mujhe update kar dijiyega.\\nCustomer: Theek hai, theek hai, theek hai sir.\\nExecutive: Okay ma'am, thank you.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on a previously raised issue.\\n\\n\\nResolution:\\n\\n- Confirmed that the prior issue has been resolved.\\n- Executive will close the concern/ticket.\\n- Informed that a feedback link will be sent to the primary number.\\n- Shared personal WhatsApp number for future assistance.\\n\\n\\nNext Steps: \\nIssue resolved.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Positive\\n\\n@@@Key Topics:\\n- issue resolution, feedback, contact number verification, closing ticket\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=def85ecd-cd67-452b-8558-946f6f5a917b",
+  "ucid": "def85ecd-cd67-452b-8558-946f6f5a917b",
+  "seller_categories": [
+    {
+      "mcat_id": "183988",
+      "mcat_name": "Wooden Spice Box"
+    },
+    {
+      "mcat_id": "20240",
+      "mcat_name": "Wooden Tray"
+    },
+    {
+      "mcat_id": "1585",
+      "mcat_name": "Wooden Jewelry Box"
+    },
+    {
+      "mcat_id": "154338",
+      "mcat_name": "Wooden Incense Burners"
+    },
+    {
+      "mcat_id": "156252",
+      "mcat_name": "Wooden Incense Holder"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674222959",
+  "gluser_id": "89029237",
+  "vintage_months": 68,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Sir, good evening.\\nCustomer: Good evening.\\nExecutive: Uh, I'm Nivesh speaking sir, here from BTC Ventures.\\n\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Sir, can you hear me?\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to confirm if customer can hear him.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, connectivity\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=547c3a9c-24ae-42d8-a6ae-8cebb4a2a07f",
+  "ucid": "547c3a9c-24ae-42d8-a6ae-8cebb4a2a07f",
+  "seller_categories": [
+    {
+      "mcat_id": "36941",
+      "mcat_name": "Snack Vending Machine"
+    },
+    {
+      "mcat_id": "126667",
+      "mcat_name": "Automatic Vending Machine"
+    },
+    {
+      "mcat_id": "2724",
+      "mcat_name": "Vending Machine"
+    },
+    {
+      "mcat_id": "138732",
+      "mcat_name": "Sanitary Napkin Vending Machine"
+    },
+    {
+      "mcat_id": "22324",
+      "mcat_name": "Beverage Vending Machines"
+    }
+  ]
+}

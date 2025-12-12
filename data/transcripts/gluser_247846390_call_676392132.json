@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676392132",
+  "gluser_id": "247846390",
+  "vintage_months": 0,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Secunderabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722832",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji.\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nCustomer: Like I am speaking from IndiaMART register Hyderabad se bol raha hu main IndiaMART register karwai thi.\\nExecutive: Company name kya hai sir?\\nCustomer: AR Eco India same number jis number se call kiya na isi number se aapko IndiaMART register karwa.\\nExecutive: Aapka company name kya hai sir? Company name bataiye.\\nCustomer: AR Eco India.\\nExecutive: Kya?\\nCustomer: AR Eco India.\\nExecutive: Thik hai. Sir aap mujhe na 5 minute dijiye main 5 minute mein call kar rahi hu aapko ek meeting mein thi main, thik hai?\\nCustomer: Ah sorry mujhe aapke foran foran se to call kahan se aayega?\\nExecutive: Isi number se call aayega. Main aapke account manager hu. Main abhi call kar rahi hu aap mujhe 5 minute dijiye. AR Eco India na?\\nCustomer: Haan ji.\\nExecutive: Thik hai. Main karti hu 5 minute mein call.\\nCustomer: Yeah. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to confirm IndiaMART registration details.\\n\nResolution:\\n\n- Executive asked for 5 minutes to check details.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- registration, company name, account manager\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e6d8e21-5886-4c83-95ab-df83366572ce",
+  "ucid": "8e6d8e21-5886-4c83-95ab-df83366572ce",
+  "seller_categories": [
+    {
+      "mcat_id": "235899",
+      "mcat_name": "Bagasse Disposable Plate"
+    },
+    {
+      "mcat_id": "99682",
+      "mcat_name": "Biodegradable Bowl"
+    },
+    {
+      "mcat_id": "89720",
+      "mcat_name": "Disposable Food Tray"
+    },
+    {
+      "mcat_id": "178211",
+      "mcat_name": "Eco Friendly Disposable Plates"
+    },
+    {
+      "mcat_id": "123936",
+      "mcat_name": "Biodegradable Container"
+    }
+  ]
+}

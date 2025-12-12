@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674023186",
+  "gluser_id": "193228266",
+  "vintage_months": 25,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Dankaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700192",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji madam ho gaya.\\nExecutive: Ho gaya hai sir maine aapke sir jo primary wala number hai usme maine invoices ki PDF bhej di thi sir.\\nCustomer: Thik hai thik hai ek baar dusre number pe bhej sakte ho aap ek baar haan match kar leta main.\\nExecutive: Haan bhej deti hu. Ji ji bilkul sir. Sir actually aapne company customer care pe call kiya tha.\\nCustomer: Haan.\\nExecutive: To sir wo concern mujhe close karna hai sir close kar du main sir. Main aapko PDF bhej de rahi hu thik hai sir.\\nCustomer: Thik hai. Number bata raha hu main us pe bhejna abhi ye ye number hai aapke paas mein 99 wala.\\nExecutive: Haan 99 wale pe hi to maine abhi kiya hai sir.\\nCustomer: Thik hai thik hai koi nahi thik hai fir to madam kar do usko close kar do.\\nExecutive: Thik hai isi mein bhej du sir main aapke.\\nCustomer: Haan ji haan ji thik hai.\\nExecutive: Thik hai okay okay main bhej rahi hu sir ji.\\nCustomer: Thik hai madam.\\nExecutive: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested invoice on another number.\\n\n\\n\nResolution:\\n\n- Executive sent invoice PDF on primary number.\\n\n- Agreed to close the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- invoice, pdf, customer care, close\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f150c784-872e-44df-8bd7-df8b858c1018",
+  "ucid": "f150c784-872e-44df-8bd7-df8b858c1018",
+  "seller_categories": [
+    {
+      "mcat_id": "178298",
+      "mcat_name": "Hydraulic Goods Lift"
+    },
+    {
+      "mcat_id": "29881",
+      "mcat_name": "Goods Lift"
+    },
+    {
+      "mcat_id": "251",
+      "mcat_name": "Material Handling Lifts"
+    },
+    {
+      "mcat_id": "749",
+      "mcat_name": "Hydraulic Lifts"
+    },
+    {
+      "mcat_id": "15606",
+      "mcat_name": "Hydraulic Elevator"
+    }
+  ]
+}

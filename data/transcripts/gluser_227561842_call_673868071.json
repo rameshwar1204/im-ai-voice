@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673868071",
+  "gluser_id": "227561842",
+  "vintage_months": 14,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698697",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Shivendra sir good afternoon.\\nCustomer: Good afternoon.\\nExecutive: Good afternoon. Hello. Numan baat kar raha hu sir IndiaMART se.\\nCustomer: Kaun bol raha hai?\\nExecutive: Numan baat kar raha hu IndiaMART se.\\nCustomer: Theek hai sir ji.\\nExecutive: Awaaz aa rahi hai sir?\\nCustomer: Haan haan bataiye bataiye.\\nExecutive: Sir woh aapne mail kiya tha na TDS ke liye?\\nCustomer: Achha woh Rajesh bhai ne kiya hoga.\\nExecutive: Haan toh actual mein woh humne apni taraf se process kar diya hai. Toh woh seven working days mein aapke account mein aa jayega. Rajesh bhai ko deta hu.\\nCustomer: Karte hai. Kya keh rahe ho?\\nExecutive: Aapka number Rajesh sir ko deta hu woh aapko call karenge.\\nCustomer: Nahi nahi, maine idhar se process kar diya hai woh saat working days mein aapke account mein aa jayega.\\nExecutive: Kitne working days?\\nCustomer: Seven working days mein.\\nExecutive: Seven working days?\\nCustomer: Haan ji.\\nExecutive: Okay okay koi baat nahi.\\nExecutive: Theek hai toh yeh jo tension aapka khula tha toh mein ise close kar de raha hu. Aapke paas ek feedback aayega toh use please de dijiyega sir.\\nCustomer: Theek hai koi baat nahi.\\nExecutive: Theek mera feedback aayega aapke paas abhi toh aap use de dijiyega please.\\nCustomer: Theek hai theek hai sure. Okay sir okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about TDS refund status.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund processed, credited in 7 days.\\n\n- Executive will close the open ticket.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tds, refund, feedback\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=64e34bf7-fd72-4930-aadd-904b38c0e5c1",
+  "ucid": "64e34bf7-fd72-4930-aadd-904b38c0e5c1",
+  "seller_categories": [
+    {
+      "mcat_id": "113851",
+      "mcat_name": "Strapping Rolls"
+    },
+    {
+      "mcat_id": "146906",
+      "mcat_name": "PP Box Strapping Roll"
+    },
+    {
+      "mcat_id": "88130",
+      "mcat_name": "Packaging Strip"
+    },
+    {
+      "mcat_id": "102036",
+      "mcat_name": "PET Strap"
+    },
+    {
+      "mcat_id": "7922",
+      "mcat_name": "Steel Strapping"
+    }
+  ]
+}

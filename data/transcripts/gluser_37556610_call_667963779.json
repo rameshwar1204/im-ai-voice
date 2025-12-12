@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667963779",
+  "gluser_id": "37556610",
+  "vintage_months": 0,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Thane",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9640262",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, ha mai bol rahi hu kaise hai?\\nCustomer: IndiaMART se baat kar raha hu, IndiaMART se baat kar raha hu Parvez ka senior.\\nExecutive: Mene na call kiya call kiya tha hamare aapke incoming call aayi thi Parvez ke number pe.\\nCustomer: Ha mai know.\\nCustomer: Mene call kiya to category kuch delete marne to iske liye kal mene call kiya tha unko.\\nExecutive: Achha category delete marne ke liye.\\nCustomer: Hmm.\\nExecutive: Waha pe mar diya? Kar liya aapne?\\nCustomer: Nahi mar diya kyuki mujhe nahi samajh raha tha iske mene kal call kara tha par wo call nahi utha rahe the.\\nExecutive: Achha wo kal chutti thi na hamari isliye nahi utha rahe honge.\\nCustomer: To kon kon si category aap hatana chah rahe hai?\\nCustomer: Hand pallet apna hand trolley ka jo Parvez ne hi bola tha mujhe ki uska ticket open ho gaya hai aisa waisa kuch baat kara tha wo.\\nExecutive: Nahi nahi hand trolley se related hai.\\nCustomer: Hand trolley hand trolley.\\nCustomer: Achha abhi mai deal nahi karta par wo category add hai isko isliye.\\nExecutive: Achha ab nahi karte.\\nCustomer: Hmm.\\nExecutive: Sorry guys.\\nCustomer: Dekhiye mai bata raha hu kon kon sa added hai sun lijiye, thik hai.\\nCustomer: Industrial vacuum cleaner added hai, thik hai, okay hai ye?\\nExecutive: Hmm.\\nCustomer: Okay, wet wet dry vacuum cleaner.\\nExecutive: Hmm.\\nCustomer: A scissor lift.\\nCustomer: Yes scissor lift.\\nCustomer: Good goods lift.\\nExecutive: Yes.\\nCustomer: Hydraulic lift.\\nExecutive: Yes.\\nCustomer: Hydraulic good lift.\\nExecutive: Right.\\nCustomer: Material handling lift.\\nExecutive: Yes.\\nCustomer: Battery attacker.\\nExecutive: Yes.\\nCustomer: Bas yahi hai baki kuch nahi hai, thik hai.\\nExecutive: Hand trolley aapne usme hand trolley nahi hai na?\\nCustomer: Nahi hai.\\nExecutive: Material handling trolley.\\nCustomer: Material handling lift hai trolley nahi hai.\\nExecutive: Hmm trolley konsa bhi nahi hai na usme category me?\\nCustomer: Ha ha nahi trolley nahi hai isme sir.\\nExecutive: Ha fir rehne do fir thik hai chalo.\\nExecutive: Okay no problem. Ha thik hai, thik hai to mai isko close kar raha hu ek feedback de dijiyega thik hai, thik hai thank you no problem okay. Ha hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to remove hand trolley category.\\n\n- Wants to confirm the list of added categories.\\n\n\\n\nResolution:\\n\n- Executive confirmed the list of added categories.\\n\n- Executive confirmed hand trolley is not in the list.\\n\n- Executive offered to close the ticket.\\n\n\\n\nNext Steps: \\n\n- Executive requested feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- category, delete, hand trolley, feedback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c589cb2e-ed73-47f3-a596-71e8a77a2dea",
+  "ucid": "c589cb2e-ed73-47f3-a596-71e8a77a2dea",
+  "seller_categories": [
+    {
+      "mcat_id": "10124",
+      "mcat_name": "Industrial Vacuum Cleaner"
+    },
+    {
+      "mcat_id": "224420",
+      "mcat_name": "Wet-Dry Vacuum Cleaner"
+    },
+    {
+      "mcat_id": "30243",
+      "mcat_name": "Heavy Duty Racks"
+    },
+    {
+      "mcat_id": "42706",
+      "mcat_name": "Scrubber Driers"
+    },
+    {
+      "mcat_id": "37653",
+      "mcat_name": "Floor Scrubber"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669490069",
+  "gluser_id": "137011288",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656506",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello, hello. \\nExecutive: Namaskar sir, Rajat baat kar raha hu IndiaMART se.\\nCustomer: Ji.\\nExecutive: Haan, aapne customer care pe call ki thi. Aap mujhe batayenge?\\nCustomer: Woh ji woh toh uss time accountant lagi thi, mai toh ghar aa liya hu.\\nExecutive: Haan, aap mujhe bataye aapko kya issue aa raha tha number ke regarding aapne bataya tha jo virtual number aapko IndiaMART provide karata hai?\\nCustomer: Woh kal baat karaunga ji mere ko nahi pata woh ladke ne baat ki thi. Hai na?\\nExecutive: Achha, toh yeh concern aapka close kar du?\\nCustomer: Haan.\\nExecutive: Aap mujhe directly call kar, haan kyunki aap mujhe directly call kar lijiyega aapko jo bhi issue hai. Lekin yeh concern close kar du aapka?\\nCustomer: Theek hai.\\nExecutive: Theek hai sir aur aapko feedback ke liye ek\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue with virtual number.\\n\n\\n\nResolution:\\n\n- Executive offered to close the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will call directly for any issues.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- virtual number, customer care, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=46d81bcd-d33d-4eb6-9aa5-8f916d208b42",
+  "ucid": "46d81bcd-d33d-4eb6-9aa5-8f916d208b42",
+  "seller_categories": [
+    {
+      "mcat_id": "109094",
+      "mcat_name": "Sulphur Powder"
+    },
+    {
+      "mcat_id": "113798",
+      "mcat_name": "Sulphur"
+    },
+    {
+      "mcat_id": "177370",
+      "mcat_name": "Lambda Cyhalothrin"
+    },
+    {
+      "mcat_id": "149651",
+      "mcat_name": "Copper Oxychloride"
+    },
+    {
+      "mcat_id": "6013",
+      "mcat_name": "Plant Growth Regulators"
+    }
+  ]
+}

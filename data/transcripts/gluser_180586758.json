@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669899251",
+  "gluser_id": "180586758",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kancheepuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662706",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nHellosir\\nCustomer: Hello\\nExecutive: Hello sir na pesuren India mart la irunthu onnu sir saran unga kitta discuss pannar illaiya athu avar ethum misbehave pesunargala like unga kitta yennanu avaruku not satisfied sir misbehave lam pesala sir misbehave lam pesala sir but one concern sir too many calls india mart la irunthu vandhutu iruku athukapuram vandhu it is kind of disturbing irunthuchu sir actually\\nCustomer: Every time keep on calling oru nimisham na soliren na pesuren oru nimisham every time vandhu call panni call panni ithu pannitu irukanga na sollitu iruken profile profile vandhu pick pannala neenga pick pannala pick pannala irukanga ithu vandhu correct ah vandha than pick panna mudiyum athu ellame vandhu namma wholesale pannitu irukom athu retail la one bag two bag varuthu\\nExecutive: Hmm hmm\\nCustomer: Athukapuram vandhu every time different person call pannitu irukanga ellarukittayum ennale follow pannitu irukka mudiyathu oru oru person appoint panninga na andha person andha person follow panna sollunga oru vaati oru oru person call pannitu irukanga namma eduthu moonu maasama naalu maasama aaguthu naalu maasathula ithana naalu per maarittanga first boomika oruthar call pannanga athukku aduthathu innoru oruthar call pannaru ippo innoru oruthar call pannraru\\nExecutive: Aama sir\\nCustomer: Sari sir na unga kitta pandren sir ithukapuram change panna matten ithukapuram change aagathu sir ivaru unga whatsapp number la than ini avar follow pannuvaru saringala ippo unga kitta complaint ethum illai sir athai close pannala illaiya complaint avar kitta complaint complaint lam ethum illai sir close pannala athu negative kuduthu irukinga athukku oru feedback mattum oru specific person mela specific person mela endha concern illai sir total management mela than sir ithu mari too many calls varuthu apram continuous ah people ellarum maathi maathi call pannitu irukanga athu than sir\\nExecutive: Sari sir sari sir ippo athukku marubadi feedback varum athu mattum konjam paarunga sir\\nCustomer: Sari sir\\nExecutive: Okay thank you sir hello\\nCustomer: Thank you\\nExecutive: Okay sir okay\\n",
+  "summary": "\\n\nConcerns:\\n\n- Too many calls from IndiaMART.\\n\n- Different people calling every time.\\n\n- Profile not picked correctly.\\n\n\\n\nResolution:\\n\n- Executive assured no further changes in contact person.\\n\n- The assigned person will follow up on WhatsApp.\\n\n- Complaint will be closed.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- calls, profile, follow-up, feedback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 129,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=289adfd5-22bd-479f-927b-5cba6b65a740",
+  "ucid": "289adfd5-22bd-479f-927b-5cba6b65a740",
+  "seller_categories": [
+    {
+      "mcat_id": "178221",
+      "mcat_name": "1121 Basmati Rice"
+    },
+    {
+      "mcat_id": "9647",
+      "mcat_name": "Long Grain Rice"
+    },
+    {
+      "mcat_id": "180095",
+      "mcat_name": "Idli Rice"
+    },
+    {
+      "mcat_id": "181160",
+      "mcat_name": "Steam Rice"
+    },
+    {
+      "mcat_id": "187740",
+      "mcat_name": "Rozana Basmati Rice"
+    }
+  ]
+}

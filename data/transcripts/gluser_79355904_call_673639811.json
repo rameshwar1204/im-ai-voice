@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673639811",
+  "gluser_id": "79355904",
+  "vintage_months": 13,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ho mera bhola hai bhandari kare nandi ki sawari\\n\\nExecutive: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Haan? Hello.\\n\\nCustomer: Hello.\\nExecutive: Pandey ji ek ek taraf rakhne do baat karne do baat ko.\\nCustomer: Haan ji.\\nExecutive: Haan ji. Haan time bata dungi main to cancel connect karwaun.\\nExecutive: Madam connect kya karna hai usko cancel kar kar rakhna hai karo aapko bol to diya.\\nCustomer: To sir aapse baat karte hue reason vagaira to update karna padega na isko woh bhi sir se kis time connect karwaun aap mujhe time bata dijiye sir.\\nExecutive: Nahi to usko cancel karna hai time kya bataunga main.\\nCustomer: Haan to usi ke liye to connect karna hai na sir.\\n\\nCustomer: Aapko phone kar dunga aaj to busy rahunga 3:00 4:00 baj jayenge mere ko 3:00 4:00 aaj.\\nExecutive: 3:00 4:00 baj jayenge.\\nCustomer: To 4:00 baje connect kar lete hain 4:00 baje main bol deti hu sir ko, theek hai?\\nCustomer: Haan phone haan phone kar dunga main aapko.\\nExecutive: Chalo theek hai aap mujhe na WhatsApp message ya call jo bhi hai aap please karoge theek hai?\\n\\nCustomer: Theek hai.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to cancel the connection.\\n\n- Executive needs time to update the reason.\\n\n\\n\nResolution:\\n\n- Executive will connect at 4:00 PM.\\n\n- Executive will send a WhatsApp message or call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- cancellation, connection, time\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=48402ee4-639f-4a33-91d4-2e7f1effdddc",
+  "ucid": "48402ee4-639f-4a33-91d4-2e7f1effdddc",
+  "seller_categories": [
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "445355",
+      "mcat_name": "Cow Dung Powder"
+    },
+    {
+      "mcat_id": "657204",
+      "mcat_name": "Garden Red Soil"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

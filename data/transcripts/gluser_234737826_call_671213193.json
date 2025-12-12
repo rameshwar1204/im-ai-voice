@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671213193",
+  "gluser_id": "234737826",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Hisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji bataiye.\\nCustomer: Hello, sir good afternoon main aap Vanita baat kar rahi hu Shri Shyam se.\\nExecutive: Haan ji haan ji haan ji bataiye.\\nCustomer: Sir mujhe ek help chahiye thi aapse.\\nExecutive: Haan haan bataiye.\\nCustomer: Mujhe jo hamari profile bani hui hai na India Mart pe.\\nExecutive: Haan ji.\\nCustomer: Wo remove karwani hai, remove karwani hai hame profile hamari.\\nExecutive: Kya karwani hai?\\nCustomer: Profile remove karwani hai sir India Mart se.\\nExecutive: Renew karwani hai?\\nCustomer: Remove, remove karwani hai hatwani hai hame.\\nExecutive: Achha achha kya problem aa rahi hai? Abhi main lunch pe hu main lunch ke baad main aapko call karu?\\nCustomer: Haan haan bilkul sir.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Profile removal from India Mart.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call back after lunch.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nprofile removal, india mart\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5135b1c5-c3d7-4d05-9000-2b698de9a7fe",
+  "ucid": "5135b1c5-c3d7-4d05-9000-2b698de9a7fe",
+  "seller_categories": [
+    {
+      "mcat_id": "7229",
+      "mcat_name": "Potato Chips"
+    },
+    {
+      "mcat_id": "193741",
+      "mcat_name": "Lays Chips"
+    },
+    {
+      "mcat_id": "177908",
+      "mcat_name": "Raw Kurkure"
+    },
+    {
+      "mcat_id": "138250",
+      "mcat_name": "Fryums"
+    },
+    {
+      "mcat_id": "85357",
+      "mcat_name": "Fried Snack"
+    }
+  ]
+}

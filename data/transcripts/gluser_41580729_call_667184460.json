@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667184460",
+  "gluser_id": "41580729",
+  "vintage_months": 59,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dera bassi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9634364",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n(silence)\\nHello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Ji sir India Mart se Rahul baat kar raha hun.\\nCustomer: Haan ji Rahul.\\nExecutive: Aapka call aaya tha product addition ke regarding customer care pe shayad aapne call kara tha.\\nCustomer: Kisko call aaya tha aapko?\\nExecutive: Alenger Global se baat kar rahe hain na aap?\\nCustomer: Main Alenger Global se hi bol raha hun aapko call kiska aaya tha?\\nExecutive: Ye 98 se number start hai last mein 889 hai.\\nMere ko pura number nahi dikha raha customer care se jo feedback aaya mere paas yahi last mein 889 dikha raha hai aur unhone likha hai Mr. Manoj Sharma wants to run add products kindly check and assist him.\\nCustomer: Achcha batao.\\nExecutive: To aap hi ki site se aapko matlab ki call aaya hai to aapne support ke liye call kiya hai.\\nCustomer: Haan haan sir support ke liye call kara hai kyunki aapki site se ya aapne aapne nahi kara to aapke shayad kisi team member ne kara ho ki product addition ke related unko.\\nExecutive: Jo aap number bata rahe ho na.\\nCustomer: Haan.\\nExecutive: 98 starting aur 889 end mein hai na.\\nCustomer: Haan haan haan.\\nExecutive: Ek minute hold karo main dobara.\\n(silence)\\nExecutive: Ye number nahi hai yaar hamare kisi ka bhi is tarah se jiska 98 starting ho aur 889 end mein ho.\\nCustomer: To ye koi number nahi hai aapke yahan par?\\nExecutive: Nahi ye to nahi hai dobara check kar lo ek bari number ko sure na ho 99 to nahi hai starting mein aur end mein 289.\\nCustomer: Nahi nahi sir 98 se start hai aapke yahan par do firm chal rahi hai na Alenger ki me bhi aisa ho sakta hai dusri wali firm pe kisi ne call kara ho main ek bar ye check kar leta hun.\\nCustomer: Haan wo kar lo aap Alenger se na aaya ho kisi ko call.\\nExecutive: Haan ye ek bar main check kar leta hun kabhi Alengers medical se aaya ho.\\nCustomer: Haan wo aap ek bari check karo.\\nExecutive: Theek hai theek hai sir main ek minute ek minute ek minute ek minute yaar ye mere director ka number hai ek minute ek minute ek minute.\\nCustomer: Theek hai theek hai.\\nExecutive: Achcha.\\nCustomer: Haan haan haan inhone kiya hoga.\\nExecutive: Batao.\\nExecutive: Unko call karwana hai?\\nCustomer: Haan sir mere ko ek bar aap connect kara do ek bar concern samajh lunga main kya issue aa raha hai fir main us hisab se guide kar dunga.\\nCustomer: Achcha to ye aapka number share kar de unke sath?\\nExecutive: Mera personal number note kar lijiye ye shayad udhar se na lage 95.\\nCustomer: Achcha.\\nExecutive: Haan.\\nExecutive: 48.\\nCustomer: Haan.\\nExecutive: 28.\\nCustomer: Haan.\\nExecutive: 574.\\nCustomer: 954828574.\\nExecutive: Haan ji sir Rahul Tyagi naam hai mera aap unko ye mera number share kar dijiye.\\nCustomer: Theek hai.\\nExecutive: Okay sir thank you.\\nCustomer: Okay okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call regarding product addition.\\n\n- Executive is unable to locate the caller's number.\\n\n\\n\nResolution:\\n\n- Executive shared his personal number with the customer.\\n\n- Customer will share the number with his director.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product addition, support, call, number\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 381,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8e5de92-a83f-4eb0-ae5b-aabef1a61889",
+  "ucid": "e8e5de92-a83f-4eb0-ae5b-aabef1a61889",
+  "seller_categories": [
+    {
+      "mcat_id": "187861",
+      "mcat_name": "TMT machine"
+    },
+    {
+      "mcat_id": "186759",
+      "mcat_name": "EMG Machine"
+    },
+    {
+      "mcat_id": "161703",
+      "mcat_name": "ECG Holter Monitor"
+    },
+    {
+      "mcat_id": "186760",
+      "mcat_name": "EEG Machine"
+    },
+    {
+      "mcat_id": "152174",
+      "mcat_name": "Portable EEG Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666786653",
+  "gluser_id": "10293098",
+  "vintage_months": 87,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9720630",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan ji good good morning sir.\\nExecutive: Good morning mam, main Abhishek baat kar raha hu mam IndiaMART se.\\nCustomer: Haan ji sir.\\nExecutive: Haan ji mam. Uh I think last time maine aapko bataya hua tha uh kuch products vagera add karne ke liye.\\nCustomer: Haan ji sir, woh hamari jo dusri wali accountant hai woh join ho chuki hai. Aap ab unse join ho sakte hain.\\nExecutive: Mam, achha. Actually last time aap hi se baat hua tha na mera?\\nCustomer: Haan haan, mujhse baat hui thi lekin ab woh apne system pe aa gayi hain.\\nExecutive: Achha, ek minute. Aap unka number de paoge kya?\\nCustomer: Haan, main abhi unka number deti hu aapko.\\nExecutive: Ek minute rukiyega main aapko just ek minute. Main aapko WhatsApp pe pin kar deta hu. Yeh number WhatsApp pe hai nahi mera. Ek minute.\\nCustomer: Theek hai. Main aapko bhej deti hu.\\nExecutive: Haan aap bhej dijiye. Theek hai.\\nCustomer: Theek hai.",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on adding products to the catalog.\\n- Informed that a new accountant is now handling the account.\\n- Requested the new accountant's contact number.\\n\\n\\nResolution:\\n\\n- Agreed to share the new accountant's contact number.\\n- Requested to send the number via WhatsApp.\\n\\n\\nNext Steps: \\nIssue not resolved. Customer will send the new accountant's contact number to the executive.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- follow-up, product addition, contact sharing, accountant\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0c6f2b76-9b5a-4f4e-a171-986f1dcc1a51",
+  "ucid": "0c6f2b76-9b5a-4f4e-a171-986f1dcc1a51",
+  "seller_categories": [
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "10230",
+      "mcat_name": "Interlocking Pavers"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    }
+  ]
+}

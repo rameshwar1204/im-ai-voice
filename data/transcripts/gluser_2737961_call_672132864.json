@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672132864",
+  "gluser_id": "2737961",
+  "vintage_months": 6,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684207",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan Gopal ji.\\nCustomer: Haan ji boliye.\\nExecutive: Haan aapka call aa raha tha customer care se Himanshu baat kar raha hu IndiaMART se bataiye.\\nCustomer: Haan haan IndiaMART bolte ho na.\\nExecutive: Haan haan IndiaMART ji.\\nCustomer: Sir maine IndiaMART ka jab liya tha to mujhe bol diya ki inquiry aayegi aur wo inquiry aati bhi nahi hai aur aati bhi hai to within second wo chali jati hai. Ye cheez mujhe nahi bataya gaya tha ki aapko 24 ghante IndiaMART pe rehna padega jab aapko inquiry milegi. To ye cheez main nahi kar sakta hu aap mera jo bhi hai wo paisa refund kar do. Anyaatha main social media aur pura newspaper. Chahe mere ko thode paise aur lagenge main sab bhi clear bhi kar dunga. Mera paisa refund karwa do. Mujhe IndiaMART ne dhokha kiya hai.\\nExecutive: Main samajh gaya main samajh gaya ki dikkt.\\nCustomer: Dikkatt hui hai.\\nExecutive: Theek hai na aise aap aise kar denge. Sir ek baar baith kar baat to kar le kaha pe kya gap hai kya nahi hai.\\nCustomer: Main isliye bata raha hu ki wo isliye bata raha hu kyuki jisne mera wo diya tha mujhe jhooth bol ke de diya. Mujhe mujhe loot liya. Ab uske baad wo aaj tak phone nahi uthata. Na mere ko koi response deta hai na mere ko abhi tak ek rupaye ka business mila. To isliye mera aapse nivedan hai ya to aap mera paisa refund kar do.\\nExecutive: Main dekh leta hu main kya kar sakta hu.\\nCustomer: Nahi to main case kar dunga.\\nExecutive: Haan sir ek aur dekh leta hu main.\\nCustomer: Isse badnaam hoga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states inquiries disappear quickly.\\n\n- Customer was not informed about 24-hour requirement.\\n\n- Wants a refund due to alleged deception.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's concerns.\\n\n- Executive said he will look into the matter.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, inquiry, deception, social media\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=14740e19-a386-467a-b832-fea9468abdf3",
+  "ucid": "14740e19-a386-467a-b832-fea9468abdf3",
+  "seller_categories": [
+    {
+      "mcat_id": "10548",
+      "mcat_name": "Kota Stone"
+    },
+    {
+      "mcat_id": "8012",
+      "mcat_name": "Stone Slabs"
+    },
+    {
+      "mcat_id": "173906",
+      "mcat_name": "Kadappa Stone"
+    },
+    {
+      "mcat_id": "10547",
+      "mcat_name": "Kota Brown Limestone"
+    },
+    {
+      "mcat_id": "207928",
+      "mcat_name": "Kota Marble"
+    }
+  ]
+}

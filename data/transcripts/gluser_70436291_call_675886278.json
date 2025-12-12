@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675886278",
+  "gluser_id": "70436291",
+  "vintage_months": 33,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Una",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718522",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHanji?\\nHanji Mrs. Choudhary Sandhu Nursery se baat kar rahe hain aap?\\nJi.\\nJi. Sir aapke account manager abhi dusri call pe hain India Mart pe aap call kar rahe the woh jaise hi free hote hain abhi aapko connect kar denge sir.\\nJi ji. Accha. Ji sir. Thoda sa time dijiyega dusri call pe hain free hote hi aapko connect kar rahe hain. Theek hai?\\nThik hai okay sir thank you.\\nOkay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to their account manager.\\n\n\\n\nResolution:\\n\n- Account manager is currently on another call and will connect with the customer as soon as they are free.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Account manager will connect with the customer after the current call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\naccount manager, call connection\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2b28d7ec-a88a-43d0-bf9c-3e1d90c364aa",
+  "ucid": "2b28d7ec-a88a-43d0-bf9c-3e1d90c364aa",
+  "seller_categories": [
+    {
+      "mcat_id": "188738",
+      "mcat_name": "Apple Plant"
+    },
+    {
+      "mcat_id": "145991",
+      "mcat_name": "Lemon Tree"
+    },
+    {
+      "mcat_id": "118494",
+      "mcat_name": "Dragon Fruit Plant"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "107897",
+      "mcat_name": "Fruit Plants"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666703832",
+  "gluser_id": "55598808",
+  "vintage_months": 75,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rishra",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628403",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ravi Shiva ji bol rahe hain?\\nCustomer: Haan ji haan ji Ravi Shiva baat kar raha hun.\\nExecutive: Are wo aapka number mil hi nahi raha tha kitna ye hua kal se koshish dhoondte dhoondte actually WhatsApp me mera kam se kam 500 se upar number ho gaya usme dhoondna bahut mushkil ho ja raha tha aapka naam ka bahut log hai hamara ye samajh me nahi aa raha tha ki kaun sa aapka hai ki nahi\\nCustomer: [inaudible]\\nExecutive: Kyunki khali Shiva likhe the isse pehle ek aapke yahan the unka bhi naam Shiva hi tha shayad hai na\\nCustomer: Hmm.\\nExecutive: Aapse pehle jo the.\\nCustomer: Hmm hmm.\\nExecutive: Wo Shiva Shiva surname bhi aap hi ka tha unka bhi unko lag gaya to bole ki hum wo bole ki na hum to chhod diya.\\nCustomer: Note kar dijiyega.\\nExecutive: Haan haan achha bole ki ek GST number hum de rahe hain thoda dekh ke bataiye dekh ke bataiye to aadmi kaisa hai usko jo usko payment bhejna hai.\\nCustomer: Achha to ek kaam karega aap matlab sham ko main 8 baje ke aas pass bata paunga kyunki sir main thoda aaya hun bahar.\\nExecutive: Nahi aap hi logo ke taraf se number mila hai lekin main kya hai ki aaj kal bahut gadbad bhi ho ja raha hai.\\nCustomer: Achha koi nahi main aapko aap mujhe time de dijiyega main matlab update karta hun sham ko aapke hisab se.\\nExecutive: Theek theek theek hai number note kar lijiyega sir hamara kaun sa hai.\\nCustomer: Aap bhi save kar lete hain.\\nExecutive: Ye wala nahi hai sir ye office ka hai.\\nExecutive: Achha to usse humko ek bar ye kar dijiyega na miss call de dijiyega.\\nCustomer: Haan abhi abhi abhi kar deta hun.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to verify a GST number.\\n\n- Executive's number was difficult to find.\\n\n\\n\nResolution:\\n\n- Customer will check the GST number at 8 PM.\\n\n- Customer will provide the correct contact number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst number, verification, contact number\\n\n\\n",
+  "call_entered_on": "11/2/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=06d592fd-3dda-4364-aaa2-be1488452f4f",
+  "ucid": "06d592fd-3dda-4364-aaa2-be1488452f4f",
+  "seller_categories": [
+    {
+      "mcat_id": "159892",
+      "mcat_name": "Steam Car Washer"
+    },
+    {
+      "mcat_id": "162461",
+      "mcat_name": "Engine Decarbonizing Machine"
+    },
+    {
+      "mcat_id": "134086",
+      "mcat_name": "High Pressure Car Washer"
+    },
+    {
+      "mcat_id": "139629",
+      "mcat_name": "Hydraulic Washing Lift"
+    },
+    {
+      "mcat_id": "15600",
+      "mcat_name": "Hydraulic Car Lift"
+    }
+  ]
+}

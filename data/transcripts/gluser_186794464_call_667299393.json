@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667299393",
+  "gluser_id": "186794464",
+  "vintage_months": 18,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Rangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666805",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan sir, good afternoon, yahi baat kar rahi hu IndiaMART se.\\nCustomer: Haan boliye na.\\nExecutive: Kal sir baat hui thi aapke sath mein services ke liye na?\\nCustomer: Haan.\\nExecutive: To abhi woh resolve hua aapka buyleads wala issue?\\nCustomer: Nahi hua madam.\\nExecutive: Haan?\\nCustomer: Nahi hua, nahi hua.\\nExecutive: Nahi hua?\\nCustomer: Nahi hua.\\nExecutive: Kal Sindhu ne aapke sath meeting ki thi? Maine meeting ke liye usko bola tha.\\nCustomer: Nahi hua madam, thoda bahar hu mai.\\nExecutive: Haan.\\nExecutive: To kab baat ho sakti hai aapke sath sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states buyleads issue not resolved.\\n\n- Executive mentions scheduling a meeting with Sindhu.\\n\n\\n\nResolution:\\n\n- No resolution provided during the call.\\n\n\\n\nNext Steps: \\n\n- Executive asked when they can talk to the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, meeting, services\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8534c369-cec8-4e04-b4b5-60d674591b32",
+  "ucid": "8534c369-cec8-4e04-b4b5-60d674591b32",
+  "seller_categories": [
+    {
+      "mcat_id": "192412",
+      "mcat_name": "EPDM Flooring"
+    },
+    {
+      "mcat_id": "101844",
+      "mcat_name": "Sports Floorings"
+    },
+    {
+      "mcat_id": "188825",
+      "mcat_name": "Synthetic Basketball Court"
+    },
+    {
+      "mcat_id": "22916",
+      "mcat_name": "Basketball Court Construction"
+    },
+    {
+      "mcat_id": "200118",
+      "mcat_name": "Kids Playground Flooring"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668634044",
+  "gluser_id": "248229255",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647834",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Jaiyo paiyo ji jali dhitwan shivedam vihit vahitra charitram khed.\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Ha yes sir.\\nCustomer: Yes.\\nExecutive: Ye aapne video meet ke liye interest show kiya hai kya sir?\\nCustomer: Kya?\\nExecutive: Video meet ke liye interest show kiya hai kya aapne click kiya hai video meet ke liye?\\nCustomer: Video ke liye?\\nExecutive: Hmm.\\nCustomer: Kya video boliye?\\nExecutive: Aapne abhi IndiaMART portal pe click kiya hai video meet pe interest show kiya hai?\\nCustomer: Accha main dekh leta hu ek minute dekh leta hu. Dekh leta hu ek minute.\\nExecutive: Hello.\\nCustomer: Ha boliye kya click kiya hai?\\nExecutive: Video meet pe interest show kiya hai sir aapki site se hua hai.\\nCustomer: Nahi nahi nahi shayad galti se hua hai chod dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if customer showed interest in video meet.\\n\n\\n\nResolution:\\n\n- Customer said it was a mistake.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, interest, mistake\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=14f7da74-6d4d-4a16-b42b-4ecde0317a51",
+  "ucid": "14f7da74-6d4d-4a16-b42b-4ecde0317a51",
+  "seller_categories": [
+    {
+      "mcat_id": "191138",
+      "mcat_name": "Aadhaar Card Making Services"
+    },
+    {
+      "mcat_id": "42044",
+      "mcat_name": "Licensing Services"
+    },
+    {
+      "mcat_id": "49652",
+      "mcat_name": "Business Consultant"
+    },
+    {
+      "mcat_id": "214836",
+      "mcat_name": "Rera Registration Service"
+    },
+    {
+      "mcat_id": "107233",
+      "mcat_name": "PAN Card Services"
+    }
+  ]
+}

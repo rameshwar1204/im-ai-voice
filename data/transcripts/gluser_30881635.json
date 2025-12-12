@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673214474",
+  "gluser_id": "30881635",
+  "vintage_months": 39,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Ambala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683467",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan Shri Krishna Traders mein baat ho rahi hai Kushal Goyal ji se?\\nExecutive: Ji ji.\\nCustomer: Very good morning sir, main Asim Khan baat kar raha tha Indiamart.com se business manager. Aapki company registered hai Indiamart ke sath mein sir.\\nExecutive: Ji ji main wo karta hu, main aapko back call kar lijiyega, main abhi line pe aaya hu.\\nExecutive: Achcha achcha okay theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired about speaking with Kushal Goyal from Shri Krishna Traders.\\n\n- Customer, Asim Khan from Indiamart.com, wanted to confirm the company's registration with Indiamart.\\n\n\\n\nResolution:\\n\n- Executive requested a callback, stating they had just come on the line.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive requested a callback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nindiamart registration, callback request\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4394f67c-6208-4398-ad2f-91af78a5814b",
+  "ucid": "4394f67c-6208-4398-ad2f-91af78a5814b",
+  "seller_categories": [
+    {
+      "mcat_id": "158217",
+      "mcat_name": "D-Cut Non Woven Bags"
+    },
+    {
+      "mcat_id": "32848",
+      "mcat_name": "Non Woven Bag"
+    },
+    {
+      "mcat_id": "140760",
+      "mcat_name": "Printed Non Woven Bags"
+    },
+    {
+      "mcat_id": "224564",
+      "mcat_name": "Loop Handle Non Woven Bag"
+    },
+    {
+      "mcat_id": "159243",
+      "mcat_name": "Non Woven W Cut Bags"
+    }
+  ]
+}

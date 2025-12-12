@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671923831",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Main Royal Stonex Marble se baat kar raha hun.\\nCustomer: Royal Stonex Marble se baat kar rahe hain. Ji please bataiye sir.\\nExecutive: Ji sir aapse baat hui thi. Maine bola tha ki hai na mere jo leads vagaira hai na wo kafi cheap aa rahi hai fountain vagaira ki. To aapne bola tha ki aap hai na kal office ja ke batati hun aapko ki order value kaise dekhte hain wo.\\nExecutive: Okay. To main abhi aapko aapko main bata deti hun aapka system login hai?\\nCustomer: Haan ji login hai.\\nExecutive: Five minutes de dijiye main aapko call back kar rahi hun. Royal Stonex Marble aapki firm hai na sir? Primary number se contact kiya aapne ya secondary number se?\\nCustomer: Ji ye mera hai na personal number hai jo hai na ye firm hai na wo kisi aur number se hai. Mere partner ke paas hai wo.\\nExecutive: Aap kitne partner hain firm mein? Do partner hain ya teen?\\nCustomer: Teen hain hum.\\nExecutive: Kyunki pehle jinse hamara discussion hua tha wo primary number tha. Uske baad jo uske baad hamara discussion hua. Main aapse ek cheez discuss karungi. Ek number 318 wala us pe hamara discussion hua wo bhi partner the aapke. Ek number hai 663 wala. Us pe bhi hamara discussion hua. Aap please apna number bata de mujhe.\\nCustomer: 78\\nExecutive: 78\\nCustomer: 51\\nExecutive: 51\\nCustomer: 90\\nExecutive: 90\\nCustomer: 50\\nExecutive: 50\\nCustomer: 22\\nExecutive: 22. Aapka good name kya hai?\\nCustomer: Mera naam Ayaz.\\nExecutive: Ayaz.\\nExecutive: Aapke paas Royal Stonex Marble login hai sir?\\nCustomer: Haan login hai.\\nExecutive: Okay. Aapko samajhna hai order value kya lagani hai. Ye samajhna hai aapko?\\nCustomer: Haan ji.\\nExecutive: Okay, theek hai. Abhi aapko connect kar rahe hain sir.\\nCustomer: Haan.\\nExecutive: Just ek minute de dijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads are cheap for fountain, etc.\\n\n- Wants to understand how to check order value.\\n\n\\n\nResolution:\\n\n- Executive asked for 5 minutes to callback.\\n\n- Executive verified customer details.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, order value, callback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=600c89f7-f6e5-4b44-8698-160c5c9f92a9",
+  "ucid": "600c89f7-f6e5-4b44-8698-160c5c9f92a9",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

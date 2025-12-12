@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668566471",
+  "gluser_id": "37642107",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir aawaz aa rahi hai abhi pata nahi kya network issue ho raha hai kya ho raha hai.\\nExecutive: Haan aa rahi hai.\\nCustomer: Haan wo mere khayal se jio ka kuch wo hai sir problem hai.\\nHmm.\\nExecutive: Hmm ji.\\nCustomer: Bataye sir.\\nExecutive: Main sir yahi kahunga aapko isme se jo hai 1500 tak to aap jo hai deduct kara do koi baat nahi sir aur baki aap refund kara do.\\nCustomer: Main keh raha hu aapko one month ka.\\nExecutive: Ye aapka dekhiye sir three to seven days mein aapka chala jayega refund.\\nCustomer: Theek hai.\\nExecutive: Hmm.\\nCustomer: Aur baki sir dekhiye main to aapko yahi suggest karunga aapne abhi aapka shayad ek conflict bhi hua tha jo aapne bola tha ki main usko solve kar lunga main aapko yahi bolunga sir aap solve kijiye usko aur apne products vagarah ko update kijiye aur aap dobara ye India mart platform pe with right expectations aap dekhenge na overall ki aapke product line mein bhi hai to aapka services lekin is particular services mein bhi hum achcha kar rahe hain baki aapki marzi hai sir.\\nCustomer: Bilkul bilkul theek hai sir.\\nExecutive: Hmm theek hai sir okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requests a partial refund.\\n\n\\n\nResolution:\\n\n- Executive assured refund will be processed in 3-7 days.\\n- Executive suggested resolving conflict and updating products.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, conflict, product update\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a4246785-a935-4af1-a156-b62585223f9e",
+  "ucid": "a4246785-a935-4af1-a156-b62585223f9e",
+  "seller_categories": [
+    {
+      "mcat_id": "43386",
+      "mcat_name": "Road Construction"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "175580",
+      "mcat_name": "Boundary Walls Construction Services"
+    },
+    {
+      "mcat_id": "167404",
+      "mcat_name": "Hydraulic Floor Spring"
+    },
+    {
+      "mcat_id": "110077",
+      "mcat_name": "Fiber Cement Tile"
+    }
+  ]
+}

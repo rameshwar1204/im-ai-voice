@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671230503",
+  "gluser_id": "148129841",
+  "vintage_months": 29,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Namakkal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9672755",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nExecutive: Hi sir, very good afternoon.\\nHello.\\nExecutive: Sir, main Roshan baat kar raha hun Indiamart office se, Nikki ka manager, kaise hain aap?\\n[unintelligible]\\nExecutive: Please talk in English, I don't know Hindi.\\nOkay okay not a problem sir. I am Nikki's manager Roshan from Indiamart office. I will tell you one thing see you called me regarding that dissatisfaction feedback I given through WhatsApp am I right?\\nRight right right.\\nExecutive: Yeah see that is wrongly mentioned as a dissatisfied because see yesterday we enquired some of the products, okay?\\nI think that message is for that purpose.\\nOkay. That's why I given as a but from Nikki side there is no issue she is handling our my account very good. So this is the concern I want to tell you that's completely a wrong one.\\nOkay okay not a problem sir. Thank you sir thank you for the feedback and just wanted to have a quick feedback on services. How the services going on? Is there anything related to the services that you need any help on this?\\nNo sir she is following everything in a proper way that means every month I get a call one or twice and then if I need anything also she reply me very fast, okay? So I think when comparing to my previous account managers she is perfect.\\nShe is doing good right?\\nYeah she is doing good.\\nExecutive: Okay and sir the number of products that you have been updated here the categories that has been updated here is only three. So you are only dealing in services or cleaning system solar panel cleaning system solar panel cleaning.\\nI will tell you one thing no no no I have only very minimal keyword only we need okay that's why we added that one but I will tell you one thing soon we will going to launch three four more products that time we will discuss about that okay?\\nOkay okay not a problem sir. So maybe I'll close the concern close your concern again. Please close please close please close. You will receive a feedback for that that one also right? Please satisfied.\\nExecutive: Okay I will make it as a satisfied. Okay thank you and any feedback you want to give for Nikki you can write the feedback for Nikki as well.\\nOkay thank you thank you.\\nExecutive: Okay thank you sir have a good day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Dissatisfaction feedback was wrongly mentioned.\\n\n- Only three products are updated in the catalog.\\n\n\\n\nResolution:\\n\n- Clarified the feedback was for product inquiry.\\n\n- Customer will launch more products soon.\\n\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- feedback, product, catalog, services\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 176,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0382b98d-1b0e-4f0f-a1ba-523ac0979a79",
+  "ucid": "0382b98d-1b0e-4f0f-a1ba-523ac0979a79",
+  "seller_categories": [
+    {
+      "mcat_id": "442760",
+      "mcat_name": "Solar Panel Cleaning System"
+    },
+    {
+      "mcat_id": "178139",
+      "mcat_name": "Solar Panel Cleaning Services"
+    },
+    {
+      "mcat_id": "650914",
+      "mcat_name": "Solar Panel Cleaning Robot"
+    },
+    {
+      "mcat_id": "155888",
+      "mcat_name": "Solar Panel Cleaning Kit"
+    },
+    {
+      "mcat_id": "172695",
+      "mcat_name": "Solar Panel Installation"
+    }
+  ]
+}

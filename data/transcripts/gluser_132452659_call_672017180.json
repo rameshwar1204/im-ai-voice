@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672017180",
+  "gluser_id": "132452659",
+  "vintage_months": 2,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Markapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello? Sir, good afternoon. I am Parth speaking from IndiaMART.\\nCustomer: Please.\\nExecutive: Sir, actually, you had consumed some leads, you had discussed, we had discussed that day.\\nCustomer: I am a little busy in that, sir, I am a little, I have another work, I am busy.\\nExecutive: Okay sir, I had created your catalog, sir, I just wanted to take feedback from you.\\nCustomer: Okay sir, I will tell you. Is there any other concern, sir?\\nExecutive: Okay.\\nExecutive: Sir, I am sending you a feedback regarding our side, sir, please kindly... Feedback, leave it, sir, but now I am busy with another work, I will talk to you later.\\nExecutive: So, I can close this concern, if there is no issue for you, sir? Because I have not been able to talk to you for a long time.\\nCustomer: Okay sir.\\nExecutive: A feedback will come on mail, sir, please kindly check it once.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to take feedback on catalog creation.\\n\n- Customer states he is busy with other work.\\n\n\\n\nResolution:\\n\n- Executive will send a feedback form via email.\\n\n- Executive asked to close the concern.\\n\n\\n\nNext Steps: \\n\n- Customer to check the feedback form on mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, catalog, buyleads\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b968ee27-3267-41ce-8656-3e58cd10e822",
+  "ucid": "b968ee27-3267-41ce-8656-3e58cd10e822",
+  "seller_categories": [
+    {
+      "mcat_id": "95125",
+      "mcat_name": "Clip Board"
+    },
+    {
+      "mcat_id": "74765",
+      "mcat_name": "MDF Board"
+    },
+    {
+      "mcat_id": "27027",
+      "mcat_name": "Drawing Slate"
+    },
+    {
+      "mcat_id": "183053",
+      "mcat_name": "Wooden Clipboard"
+    },
+    {
+      "mcat_id": "3594",
+      "mcat_name": "Writing Pad"
+    }
+  ]
+}

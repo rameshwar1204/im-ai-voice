@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674867918",
+  "gluser_id": "80485034",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Samastipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709990",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "The person you have called is speaking to someone else. You can wait or call again later.\\nCustomer: Hello.\\nExecutive: Ha hello, good morning sir.\\nCustomer: Ji good morning ji mere ko India mart ke yani ki number chahiye the kuch dealers ke.\\nExecutive: Ji bataye, aapne 9696 pe call kiya tha sir customer care number pe?\\nCustomer: Haan ji us pe kiya tha but koi reply nahi aaya us pe call karke aapka ye call unko forward kar sakte hain?\\nExecutive: Uh, kis se baat karni hai sir aapko?\\nCustomer: Ye kisi se bhi baat karwa dijiye jo mere number provide kar de dealers ke.\\nExecutive: Kaun sa number chahiye aapko bataye sir main provide karata hu.\\nCustomer: Okay ji mere ko Surat mein na shirt chahiye thi.\\nExecutive: Kya sir?\\nCustomer: Surat area Gujarat mein mujhe shirt ki requirement hai 1000.\\nExecutive: Achcha aapko shirt ki requirement hai.\\nCustomer: Haan ji sir.\\nExecutive: Aapko sellers chahiye.\\nCustomer: Haan ji sir.\\nExecutive: Okay, main aapko guide kar deta hu kis tarike se aapko sellers visible honge aapke India mart ka jo aap system use karte hain profile use karte hain us profile pe, thik hai sir.\\nCustomer: Haan ji.\\nExecutive: Main guide karta hu aapko.\\nExecutive: Aapke registered mail ID pe maine ek link bheja hai sir video meeting ka. Aap ek bari usko join kare main aapko dikha deta hu aage se aapko koi problem nahi hogi jaise aapko mil jayega, thik hai.\\nCustomer: Thik hai ji. Aap number provide nahi karwa sakte ho?\\nExecutive: Uh, sir whatsapp pe number nahi provide kara sakta hu aapke seller panel mein hi sara kuch visible hoga.\\nExecutive: Thik, aap apne seller panel se hi sab kuch dekh lenge aap kisi bhi location ki aap kisi bhi location pe kuch bhi required hai na aap search on karenge to aapko wo cheez visible hogi waha se suppliers ka number mil jayega waha se.\\nCustomer: Thik hai.\\nExecutive: Thik hai sir.\\nCustomer: Thik hai sir. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs dealers' numbers for shirts in Surat.\\n\n\\n\nResolution:\\n\n- Executive guided the customer to find sellers.\\n\n- Sent a video meeting link to registered email ID.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, sellers, shirt, surat\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 106,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d17511fb-b689-4f6d-8743-b97729d6cf3a",
+  "ucid": "d17511fb-b689-4f6d-8743-b97729d6cf3a",
+  "seller_categories": [
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "156270",
+      "mcat_name": "Printed Cotton Kurti"
+    },
+    {
+      "mcat_id": "139916",
+      "mcat_name": "Men Cotton Pant"
+    },
+    {
+      "mcat_id": "185217",
+      "mcat_name": "Men Printed Shirt"
+    }
+  ]
+}

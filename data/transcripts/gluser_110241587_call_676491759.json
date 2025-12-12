@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676491759",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello, Namaste sir, Namaste.\\nCustomer: Hello.\\nCustomer: Namaskar sir ji, kaise hain?\\nExecutive: Hello.\\nCustomer: Hello.\\nCustomer: Namaskar sir ji, kaise hain?\\nExecutive: Hello, Namaste sir.\\nCustomer: Awaaz aa rahi hai sir?\\nCustomer: Awaaz aa rahi hai sir?\\nExecutive: Aa rahi hai, aa rahi hai, kaun sa bol rahe hain sir?\\nCustomer: Sir, Dipesh Yadav bol raha hun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer inquired if the executive could hear him.\\n\n\\n\nResolution:\\n\n- Executive confirmed he could hear the customer and asked for the customer's name.\\n\n\\n\nNext Steps: \\n\nIssue not resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nintroduction, connectivity\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68fc3858-0aab-466b-847c-52ce076a6c6c",
+  "ucid": "68fc3858-0aab-466b-847c-52ce076a6c6c",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

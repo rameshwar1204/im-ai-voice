@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666999555",
+  "gluser_id": "251385978",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Mahesana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631682",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan ji, ma'am.\\nExecutive: Hello, yeah, good afternoon, sir. Main Kriti baat kar rahi hoon, aapki account manager.\\nCustomer: Theek hai.\\nExecutive: Theek hai? Sir, maine woh aapka ticket close kar diya tha aapke kehne par. And sir, aap mera yeh number save kar lijiye. Aage se aapko koi bhi query hogi ya koi bhi concern hoga, aap mujhe directly contact kar lijiyega. Theek hai?\\nCustomer: Okay, ma'am. Okay. Thank you.\\nExecutive: Haan, main aapko feedback aur send kar rahi hoon, sir, aap... Aap open kariyega, sir. Aapke paas ek mail aaya hoga feedback ke liye.\\nCustomer: Ek minute, ma'am. Bas line pe hi raho. Party ko company detail bhej doon. Just wait, ma'am. [inaudible] Haan, ma'am, aaya hai.\\nExecutive: Haan ji, sir. Uspe satisfied pe aap click kar dijiye.\\nCustomer: Kar diya, ma'am.\\nExecutive: Theek hai, sir. Thank you. And sir, aage se koi bhi issue ho, aap mujhe directly call kar lijiyega, theek hai?\\nCustomer: Theek hai, ma'am. Theek hai.\\nExecutive: Okay, sir. Thank you. Okay.\\nCustomer: Thank you, ma'am.",
+  "summary": "\\n\\nConcerns:\\n\\n- Follow-up on a previously closed ticket.\\n- Request for service feedback via email.\\n\\n\\nResolution:\\n\\n- Confirmed that the customer's ticket was closed.\\n- Provided a direct contact number for future issues.\\n- Guided the customer to submit 'satisfied' feedback.\\n- Customer submitted the feedback during the call.\\n\\n\\nNext Steps: \\nIssue resolved. Customer to contact the executive directly for future concerns.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Positive\\n\\n@@@Key Topics:\\n- ticket closure, feedback, account manager, direct contact\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=58fec7c0-ab9d-4ebf-ac28-23427cf6bcff",
+  "ucid": "58fec7c0-ab9d-4ebf-ac28-23427cf6bcff",
+  "seller_categories": [
+    {
+      "mcat_id": "101902",
+      "mcat_name": "Refined Glycerine"
+    },
+    {
+      "mcat_id": "35876",
+      "mcat_name": "Propylene Glycol PPG"
+    },
+    {
+      "mcat_id": "193107",
+      "mcat_name": "DMDM Hydantoin"
+    },
+    {
+      "mcat_id": "137298",
+      "mcat_name": "EDTA Disodium Salt"
+    },
+    {
+      "mcat_id": "26127",
+      "mcat_name": "Raw Glycerine"
+    }
+  ]
+}

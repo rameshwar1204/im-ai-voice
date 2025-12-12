@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667009163",
+  "gluser_id": "241324329",
+  "vintage_months": 4,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Buldana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683096",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Haan ji sir.\\nCustomer: Haan aapka naam bataiye.\\nExecutive: Ji mera naam Sandeep hai sir.\\nCustomer: Sir pura naam.\\nExecutive: Sir Sandeep hi naam hai pura.\\nCustomer: Aapko surname-surname nahi rehta hai kya?\\nExecutive: Ji Sandeep hi likhte hain hum pura naam apna.\\nCustomer: Employee ID?\\nExecutive: Ji?\\nCustomer: Employee number.\\nExecutive: Sir employee ID sir share karne ka hamare yahan koi rule nahi hai sir.\\nCustomer: Theek hai aap manager ko call karo next fifteen minutes ke andar theek?\\nExecutive: Theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to know the executive's full name and employee ID.\\n- Requested a call back from the manager.\\n\\n\\nResolution:\\n\\n- Provided first name as Sandeep.\\n- Refused to share employee ID, citing company policy.\\n- Agreed to arrange a call from the manager.\\n\\n\\nNext Steps: \\nIssue not resolved.\\nCustomer will receive a call from the manager within 15 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- executive verification, manager call request, employee ID\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ec8e5ead-e653-45b3-9e04-518386a72ae5",
+  "ucid": "ec8e5ead-e653-45b3-9e04-518386a72ae5",
+  "seller_categories": [
+    {
+      "mcat_id": "41550",
+      "mcat_name": "Yellow Corn"
+    },
+    {
+      "mcat_id": "7662",
+      "mcat_name": "Soy Bean"
+    },
+    {
+      "mcat_id": "145584",
+      "mcat_name": "Toor Dal"
+    },
+    {
+      "mcat_id": "37393",
+      "mcat_name": "Sorghum"
+    },
+    {
+      "mcat_id": "69958",
+      "mcat_name": "Turmeric Finger"
+    }
+  ]
+}

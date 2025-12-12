@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666746911",
+  "gluser_id": "195377597",
+  "vintage_months": 25,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628432",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Aa rahi hai awaaz meri sir?\\nCustomer: Haan ji haan ji aa rahi hai.\\nExecutive: Ji ji namaskar sir.\\nCustomer: Ji namaskar. Boliye.\\nExecutive: Hello.\\nCustomer: Theek hai sir aap aap Hello haan ji sir boliye na.\\nExecutive: Sir Aari bol raha hu na IndiaMART se.\\nCustomer: Ek second. IndiaMART se hi baat chal rahi hai. Ashish sir se baat chal rahi hai kya?\\nExecutive: Ji ji ji.\\nCustomer: Achha Ashish ji. Abhi baat karte hain sir ji hamara.\\nExecutive: Haan?\\nCustomer: Abhi thodi der se baat karenge aapko.\\nExecutive: Theek hai theek hai aapne mail kiya tha na usi ke liye maine call kiya tha.\\nCustomer: Mail achha achha theek hai okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wanted to postpone the call due to being busy.\\n- Was confused about the executive's name.\\n\\n\\nResolution:\\n\\n- Executive clarified the call was a follow-up to an email sent by the customer.\\n- Customer acknowledged the email and the reason for the call.\\n\\n\\nNext Steps: \\n\\nIssue not resolved. The call ended before the actual issue from the email was discussed. No next steps were defined.\\n\\nAlert (If Any):\\n\\nNone\\n\\n@@@Sentiment:\\n\\n- Neutral -> Neutral\\n\\n\\n@@@Key Topics:\\n\\n- follow-up call, email inquiry\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c8be991f-a2a0-47c4-a1ee-edc369cd708d",
+  "ucid": "c8be991f-a2a0-47c4-a1ee-edc369cd708d",
+  "seller_categories": [
+    {
+      "mcat_id": "154572",
+      "mcat_name": "Eucalyptus Clone Plants"
+    },
+    {
+      "mcat_id": "186261",
+      "mcat_name": "Eucalyptus Plant"
+    },
+    {
+      "mcat_id": "215803",
+      "mcat_name": "Poplar Plant"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    },
+    {
+      "mcat_id": "158687",
+      "mcat_name": "Strawberry Plants"
+    }
+  ]
+}

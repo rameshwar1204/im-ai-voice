@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672016537",
+  "gluser_id": "34859144",
+  "vintage_months": 23,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9670525",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan sir wo phone cut gaya tha. Yehi bola aapne kiska bheja hua hai kis same karna hai aap bole the.\\nCustomer: First wale ka jo three wo two wise se cut ke aa raha hai.\\nExecutive: Achcha achcha theek hai main inki tarah aapka correct karwa deta hu.\\nCustomer: Theek hai.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- First one is getting cut from three to two.\\n\n\\n\nResolution:\\n\n- Executive will correct it.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncorrection\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12c21d27-d2aa-4236-9178-0174025a86dd",
+  "ucid": "12c21d27-d2aa-4236-9178-0174025a86dd",
+  "seller_categories": [
+    {
+      "mcat_id": "118734",
+      "mcat_name": "Wall Painting Service"
+    },
+    {
+      "mcat_id": "165819",
+      "mcat_name": "Home Painting Services"
+    },
+    {
+      "mcat_id": "20051",
+      "mcat_name": "Wall Painting"
+    },
+    {
+      "mcat_id": "118733",
+      "mcat_name": "Texture Painting Service"
+    },
+    {
+      "mcat_id": "187889",
+      "mcat_name": "Wall Painting Advertising"
+    }
+  ]
+}

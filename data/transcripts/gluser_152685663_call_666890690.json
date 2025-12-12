@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666890690",
+  "gluser_id": "152685663",
+  "vintage_months": 1,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Sakleshpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631068",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ma'am, awaaz aa rahi hai kya?\\nExecutive: Haan sir, aa rahi hai awaaz.\\nCustomer: Ma'am, IndiaMART mein subscription cancel kar sakte hain kya?\\nExecutive: Sir, company name kya hai?\\nCustomer: B A Enterprises.\\nExecutive: Aapne kis se call kiya hai sir?\\nCustomer: Sorry ma'am?\\nExecutive: Subscription cancel nahi hota sir. Cancel kyun karwana hai aapko?\\nCustomer: Ma'am cancel kyunki iska upyog hi nahi ho raha hai subscription se.\\nExecutive: Sir, maine aaj subah aapko bataya tha na ki aap use kariye buyleads wagera proper.\\nCustomer: Nahi ma'am, woh main abhi idhar baat kara main. Aur woh bole aur ek mera bhai bhi liya tha na, uska bhi use nahi ho raha hai subscription se. Ho sakta hai kya cancel?\\nExecutive: Main aapko ek baar apne registered number se call kar rahi hoon. Aapko customer care pe aap call karenge sir toh woh bhi mere paas hi call aayega.\\nCustomer: Okay okay.\\nExecutive: Toh customer care, haan.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants to cancel the IndiaMART subscription.\\n- States the subscription is not being used.\\n- Mentions his brother also has an unused subscription.\\n\\n\\nResolution:\\n\\n- Informed that subscriptions cannot be canceled.\\n- Reminded about a previous conversation on using buyleads.\\n- Stated that calls to customer care are routed to her.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call the customer back on his registered number.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Risk of churn\\n\\n@@@Key Topics:\\n- subscription cancellation, buyleads, subscription usage, customer care\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6d9d8d92-f8eb-4059-8010-625e198158dd",
+  "ucid": "6d9d8d92-f8eb-4059-8010-625e198158dd",
+  "seller_categories": [
+    {
+      "mcat_id": "694",
+      "mcat_name": "Steel Files"
+    },
+    {
+      "mcat_id": "41451",
+      "mcat_name": "Wood Plugs"
+    },
+    {
+      "mcat_id": "261",
+      "mcat_name": "Measuring Tapes"
+    },
+    {
+      "mcat_id": "73469",
+      "mcat_name": "Pruning Secateur"
+    },
+    {
+      "mcat_id": "38728",
+      "mcat_name": "Steel Measuring Tape"
+    }
+  ]
+}

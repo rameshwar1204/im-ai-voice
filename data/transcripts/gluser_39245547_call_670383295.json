@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670383295",
+  "gluser_id": "39245547",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a36b4384-c39c-428d-8e06-6f80b0a564c8",
+  "ucid": "a36b4384-c39c-428d-8e06-6f80b0a564c8",
+  "seller_categories": [
+    {
+      "mcat_id": "56246",
+      "mcat_name": "Discharge Rods"
+    },
+    {
+      "mcat_id": "40841",
+      "mcat_name": "Voltage Detectors"
+    },
+    {
+      "mcat_id": "186240",
+      "mcat_name": "Rescue Hook"
+    },
+    {
+      "mcat_id": "56009",
+      "mcat_name": "Hot Stick"
+    },
+    {
+      "mcat_id": "155378",
+      "mcat_name": "Earthing Rod"
+    }
+  ]
+}

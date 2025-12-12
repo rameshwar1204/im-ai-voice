@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672422843",
+  "gluser_id": "75721627",
+  "vintage_months": 48,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Panvel",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686418",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello.\\n\\nCustomer: Hello?\\n\\nExecutive: Haan ji.\\n\\nExecutive: Hello ji Vijay sir good afternoon Elma baat kar rahi hu IndiaMART head office se.\\n\\nCustomer: Haan.\\n\\nExecutive: Ji actually sir aapne interest dikhaya tha na video meet karne ke liye.\\n\\nCustomer: Achcha.\\n\\nCustomer: Matlab aapne hi dala tha na?\\n\\nCustomer: Abhi haa maine hi dala tha.\\n\\nCustomer: Abhi wo renew kiya hai teen saal ke liye.\\n\\nExecutive: Ji ji ji.\\n\\nCustomer: To abhi aage kya wo profile update karna tha pata nahi kya kya process hota hai jo commit kiya tha.\\n\\nExecutive: Ji. Haan Praveen se aapki baat hui thi.\\n\\nCustomer: Kya hua aage? To haa sir Praveen aaj available nahi hai.\\n\\nCustomer: To kya process diya hai wo start ho raha hai abhi?\\n\\nExecutive: Haan.\\n\\nExecutive: Theek hai sir main ek bar Praveen aaj aaye nahi hai.\\n\\nCustomer: Jo bhi uska membership liya uske baad gayab hi ho gaya wo.\\n\\nCustomer: Pehle to har din mein char bar phone karta tha.\\n\\nExecutive: Nahi nahi sir aisa nahi hai wo actually unhone production mein bheja hua tha na is vajah se wo bhi update ke liye wait kar rahe the. Ek bar sir kal Praveen kal available honge aaj to chutti pe hai. Kal ek bar available hote hi wo sabse pehle aapko call kar lenge sir.\\n\\nCustomer: To abhi 10 din ho gaye na madam.\\n\\nExecutive: Ji sir main bolti hu unse aapko kal subah connect karne ke liye.\\n\\nCustomer: Theek hai?\\n\\nExecutive: Okay sir.\\n\\nCustomer: Yahi yahi dikkat hota hai aapka iske badle main actually last moment pe ye kiya ye karne wala nahi tha lekin unhone bola main ye karunga wo karunga pata nahi kya kya bolte hai hum to bhul bhi jate hai lekin kuch bhi nahi hota hai baad mein ye pehli bar nahi hua hai pehle bhi ho chuka hai iske.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Profile update not done after subscription renewal.\\n\n- Praveen is not available.\\n\n- No action taken after commitment.\\n\n\\n\nResolution:\\n\n- Executive assured call from Praveen next day.\\n\n\\n\nNext Steps: \\n\n- Executive will ask Praveen to call customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile update, subscription, renewal, commitment\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d5e9beb0-fdd4-4c33-98d8-cabbc339c65d",
+  "ucid": "d5e9beb0-fdd4-4c33-98d8-cabbc339c65d",
+  "seller_categories": [
+    {
+      "mcat_id": "169392",
+      "mcat_name": "Hydro Testing Services"
+    },
+    {
+      "mcat_id": "653320",
+      "mcat_name": "PESO Certificate"
+    },
+    {
+      "mcat_id": "78488",
+      "mcat_name": "Third Party Inspection Service"
+    },
+    {
+      "mcat_id": "32329",
+      "mcat_name": "Lifting Tackles"
+    },
+    {
+      "mcat_id": "172243",
+      "mcat_name": "Load Testing Service"
+    }
+  ]
+}

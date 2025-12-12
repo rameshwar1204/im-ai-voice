@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668810115",
+  "gluser_id": "14181429",
+  "vintage_months": 48,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9648793",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ha sir aawaz aa rahi hai.\\nCustomer: Ha aa rahi hai.\\nCustomer: Ha sir mera actually ek IndiaMART se related query thi. Mera jo profile hai usme kisi ne actually by mistaken rating kar di thi. Ab wo product mera list nahi hai to usko re-submit nahi kar pa raha hai rating ko.\\nExecutive: Ha kis company se baat kar rahe hai aap?\\nCustomer: Sorry?\\nExecutive: Kis company se baat kar rahe hai?\\nCustomer: Mai LR creation se baat kar raha hu.\\nExecutive: Accha LR creation se baat kar rahe hai. Sir dekhiye iske liye to expert knowledge mujhe bhi nahi hai abhi. Ek bar actually kya hai mai leave pe tha na to isliye connect nahi kar pa raha hu kuch family reasons ki wajah se. So mai office me bhi nahi tha aur kal personal head office band hai. Ek bar mai thoda sa mujhe Monday tak ka time dijiye mai aapko resolve karwata hu concern nahi hai. Thik hai due to family reason mujhe leave lena pada isliye mai connect nahi kar pa raha tha. Okay.\\nCustomer: Chaliye no worries koi aap mere ko bataiyega. Aap rehte sir matlab konse account usme aap?\\nExecutive: Head office me head office.\\nExecutive: Noida me.\\nCustomer: Accha Noida okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Mistaken rating on profile, can't resubmit.\\n\n\\n\nResolution:\\n\n- Executive will resolve the issue by Monday.\\n\n\\n\nNext Steps: \\n\n- Executive will resolve by Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- rating, profile, resolution, leave\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4ffb9d95-6810-43fb-8dc6-fd2b74950c28",
+  "ucid": "4ffb9d95-6810-43fb-8dc6-fd2b74950c28",
+  "seller_categories": [
+    {
+      "mcat_id": "1223",
+      "mcat_name": "Jute Bags"
+    },
+    {
+      "mcat_id": "5507",
+      "mcat_name": "Canvas Tote Bags"
+    },
+    {
+      "mcat_id": "10394",
+      "mcat_name": "Jute Gift Bags"
+    },
+    {
+      "mcat_id": "11197",
+      "mcat_name": "Cotton Tote Bags"
+    },
+    {
+      "mcat_id": "2291",
+      "mcat_name": "Tote Bags"
+    }
+  ]
+}

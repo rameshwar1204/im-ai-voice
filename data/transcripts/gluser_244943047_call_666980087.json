@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666980087",
+  "gluser_id": "244943047",
+  "vintage_months": 7,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716293",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Sir, aapka concern resolve ho gaya hai na? IndiaMART se baat kar rahe the main.\\nCustomer: Haan ji, haan ji, ho gaya.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello. Haan ji, haan ji, bolo.\\nExecutive: Ji, main keh rahi hu concern resolve ho gaya na sir aapka? Abhi iske alawa koi aur hai?\\nCustomer: Ho gaya, ho gaya. Nahi, nahi hai.\\nExecutive: Aap satisfy hain hamari cheezo services se aur apne account manager se, sir?\\nCustomer: Haan, satisfied hai.\\nExecutive: Theek hai sir, toh aapke paas na ek woh aayega CLM dene, ek feedback dene ke liye. Please use yes dijiyega, haan?\\nCustomer: Chalega, chalega, chalo.\\nExecutive: Thank you so much. Main bhej rahi hu. Aap line pe hi rahiye sir. Dekho apni mail ID open karo sir. Theek hai? Main call back kar rahi hu ek second.",
+  "summary": "\\n\\nConcerns:\\n\\n- To confirm if a previous concern was resolved.\\n- To check customer satisfaction with services and account manager.\\n\\n\\nResolution:\\n\\n- Confirmed that the previous issue is resolved.\\n- Confirmed satisfaction with services and the account manager.\\n- Requested the customer to provide positive feedback (CLM).\\n- Instructed to open email for the feedback link.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back after the customer opens their email.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Positive\\n\\n@@@Key Topics:\\n- concern resolution, customer satisfaction, feedback, account manager, CLM\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4b0c3a75-a6a1-4535-9eef-c310bf71653a",
+  "ucid": "4b0c3a75-a6a1-4535-9eef-c310bf71653a",
+  "seller_categories": [
+    {
+      "mcat_id": "3354",
+      "mcat_name": "Waterproof Membranes"
+    },
+    {
+      "mcat_id": "192606",
+      "mcat_name": "APP Membrane"
+    },
+    {
+      "mcat_id": "169709",
+      "mcat_name": "Terrace Water Proofing Services"
+    },
+    {
+      "mcat_id": "43869",
+      "mcat_name": "Waterproofing Service"
+    },
+    {
+      "mcat_id": "177916",
+      "mcat_name": "Bitumen Sheet"
+    }
+  ]
+}

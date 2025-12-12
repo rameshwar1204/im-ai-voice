@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673719871",
+  "gluser_id": "126934098",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Bhatpar Rani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691952",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Abhi mam wo direct call bhi nahi lag raha kyuki wo complaint raise ho gaya na to wo system ke through hi call ja raha hai koi nahi abhi lekin voice aa raha hai na mera.\\nCustomer: Main samajh sakti hu sir mere pass koi aapka bataye to number nahi thi isliye maine kar diya baki main Ujjwal ji ko bhi samjha dungi.\\nExecutive: Haan koi nahi main ye close karunga to fir jana start ho jayega koi nahi main ye close kar dunga ha puchiye mam kya puch rahe the aap.\\nCustomer: Actually main ye puch rahi thi jaise aap log India mart me jaise job karte hain to actually usme bhi hiring aati hai kya.\\nExecutive: Usme kya usme job kar rahe hain to aage kya bole mam aap.\\nCustomer: Matlab main ye bol rahi hu jaise kaha hai aapke.\\nExecutive: Nahi mam voice nahi aa pa raha hai ek minute rukiye main apne directly system ko hata kar ke call karta hu mam system disconnect.\\nCustomer: Ab aa rahi hai ab aa rahi hai sir ab aa rahi hai.\\nExecutive: Aapka aap jab jab kam bolte ho to wo aa jata hai mam wo clear\\nCustomer: [inaudible]\\nExecutive: Start karte ho break ho jata hai voice.\\nCustomer: Accha.\\nExecutive: Abhi ek bar boliyega mam kuch boliyega.\\nCustomer: Ab aa rahi hai.\\nExecutive: Haan aise to aa rahi hai mam jab aap thoda thoda bolte ho to aati hai.\\nCustomer: Accha to dheere bolti hu tab aata hai.\\nExecutive: Haan ji mam boliye kya bol rahe the ki inquiries.\\nCustomer: Main ye bol rahi thi sir ki jaise aap log India mart pe job karte hain to hiring to aati hogi na multiple.\\nExecutive: Hiring mam.\\nCustomer: Haan haan haan mam hiring ho rehti hai mam India mart pe hamesha.\\nCustomer: Sir kis position pe rehti hai kis position pe as like executive.\\nExecutive: Executive ho gaya mam senior executive ho gaye aur assistant managers.\\nCustomer: Accha.\\nCustomer: Aap apni wale branch me rehte hain ya fir waha.\\nExecutive: Nahi mam field requirements rehte hain.\\nCustomer: Kya bole sir?\\nExecutive: Aapko directly connect kar raha hu aapko system se disconnect karke na wo aa nahi pa rahi hai mam aapki.\\nCustomer: Okay okay.\\nExecutive: Ek minute dijiyega main direct connect kar raha hu aapko.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquired about job opportunities at IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive explained about the hiring process.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- job, hiring, executive\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=45de75df-4fd3-4ce3-8804-2bd0d761c9f2",
+  "ucid": "45de75df-4fd3-4ce3-8804-2bd0d761c9f2",
+  "seller_categories": [
+    {
+      "mcat_id": "174487",
+      "mcat_name": "Social Media Marketing"
+    },
+    {
+      "mcat_id": "126826",
+      "mcat_name": "Mobile Application Development"
+    },
+    {
+      "mcat_id": "115659",
+      "mcat_name": "Marketing Services"
+    },
+    {
+      "mcat_id": "170240",
+      "mcat_name": "Job Portal Service"
+    },
+    {
+      "mcat_id": "168522",
+      "mcat_name": "Social Media Advertising Services"
+    }
+  ]
+}

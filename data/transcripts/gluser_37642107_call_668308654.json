@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668308654",
+  "gluser_id": "37642107",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji sir Pranam sir good evening.\\nCustomer: Good evening. Tausif baat kar raha hu sir Saharanpur se.\\nExecutive: Ji bataiye.\\nExecutive: Ji mai keh raha hu sir ki wo aapka initiate karwa raha hu mai account deactivation ke liye.\\nCustomer: Thik hai.\\nExecutive: Ji aapne kaha tha na karne ke liye usko.\\nCustomer: Haan ji haan ji.\\nExecutive: Ji to process karwa raha hu sir baki confirm hai aapka final hai isko deactivate hi karna hai.\\nCustomer: Haan final hai.\\nExecutive: Thik hai sir mai initiate kar raha hu aur aapka jo concern tha sir yaha hamare side open tha usko bhi matlab mai wo kar raha hu close kar raha hu.\\nCustomer: Hmm.\\nExecutive: Aur aap apna jo concern hai wo jo plus incorporation wali jo aapne company pe kiya hai sir to aap usko abhi mat close kijiyega wo buyer supplier team aapko contact karegi uske regarding.\\nCustomer: Wo kis liye contact karegi sir mere se? Kis liye regarding contact karegi?\\nExecutive: Ye aapne jo plus incorporation ke against wo kara tha na.\\nCustomer: Hmm.\\nExecutive: To uske regarding wo karegi connect wo buyer supplier contact team karegi hum log nahi.\\nCustomer: Achcha wo kis kis regarding contact karegi? Wahi complaint complaint complaint ka aapke resolution lane ke liye.\\nCustomer: Wo to uska resolution koi nikala thodi na hai. Wo hua ticket open hai na sir 26 June se yaha pe open hai sir to unko kuch na kuch resolution to provide karna padega wahi keh raha hu mai.\\nCustomer: Hmm.\\nExecutive: Ji unke pass bhi plus incorporation wale ke pass bhi abhi open hai wo concern abhi close nahi hua hai.\\nCustomer: Hmm thik hai.\\nExecutive: Ji to wo aapka waise hi rahega aur baki hum ye aapka jo account hai ye IndiaMART pe jo ATF subscription se registered hai isko hum deactivation ke liye process kar rahe hai sir.\\nCustomer: Thik hai. Okay.\\nExecutive: Thik hai sir. Thik. Okay. Okay thank you so much for your time.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants account deactivation.\\n\n- Customer's concern regarding Plus Incorporation not resolved.\\n\n\\n\nResolution:\\n\n- Executive initiated account deactivation process.\\n\n- Executive closed the concern from their side.\\n\n- Executive informed buyer supplier team will contact.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- deactivation, plus incorporation, resolution, buyer supplier team\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4408254c-bf19-4687-a951-4d515a71be53",
+  "ucid": "4408254c-bf19-4687-a951-4d515a71be53",
+  "seller_categories": [
+    {
+      "mcat_id": "43386",
+      "mcat_name": "Road Construction"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "175580",
+      "mcat_name": "Boundary Walls Construction Services"
+    },
+    {
+      "mcat_id": "167404",
+      "mcat_name": "Hydraulic Floor Spring"
+    },
+    {
+      "mcat_id": "110077",
+      "mcat_name": "Fiber Cement Tile"
+    }
+  ]
+}

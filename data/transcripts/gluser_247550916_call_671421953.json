@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671421953",
+  "gluser_id": "247550916",
+  "vintage_months": 5,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bokaro",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631494",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\u0939\u0947\u0932\u094b\u0964\\n\u0939\u0947\u0932\u094b\u0964\\n\u0939\u093e\u0902 \u091c\u0940\u0964\\n\u0915\u094c\u0928 \u0915\u094c\u0928?\\n\u0906\u092a \u0915\u094c\u0928?\\n\u0915\u094c\u0928 \u0906\u092f\u093e \u0939\u0941\u0906 \u0925\u093e \u0906\u092a\u0915\u093e \u0939\u092e\u093e\u0930\u0947 \u0928\u0902\u092c\u0930 \u092a\u0947?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Caller inquired who was calling their number.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nunknown caller\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=696cbb14-cebb-49aa-8850-7c5cfeaadd34",
+  "ucid": "696cbb14-cebb-49aa-8850-7c5cfeaadd34",
+  "seller_categories": [
+    {
+      "mcat_id": "177080",
+      "mcat_name": "Auto Refractometer"
+    },
+    {
+      "mcat_id": "126578",
+      "mcat_name": "Refraction Chair Unit"
+    },
+    {
+      "mcat_id": "9543",
+      "mcat_name": "Slit Lamp"
+    },
+    {
+      "mcat_id": "178944",
+      "mcat_name": "Lensometer"
+    },
+    {
+      "mcat_id": "7538",
+      "mcat_name": "Ophthalmic Equipment"
+    }
+  ]
+}

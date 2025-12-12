@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674818106",
+  "gluser_id": "733080",
+  "vintage_months": 143,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Namaste.\\nExecutive: Namaste, haanji, haanji, haanji. Sir, mai Om baat kar raha hu aapka account manager IndiaMART se. Wo issue ke liye jo kal baat hui thi na.\\nCustomer: Haan, haan, haan, nahi, abhi actually kya hai mai factory pahucha nahi hu.\\nExecutive: Ji, ji, aap mere ko ya toh isi number pe call kar lijiyega ya fir aap mere ko bata dijiye mai aapko call kar lunga kis time kar sakte hain.\\nCustomer: Toh kareeban ek ghanta maan lo aap. Hai na?\\nExecutive: Ek ghanta. Haan. Theek hai, theek hai, theek hai sir. Mai 11 baje tak kar leta hu fir aapko mota-mota phone.\\nCustomer: Haan, haan, haan, haan, haan.\\nExecutive: Ji. Theek hai na? 11 baje ek baar kar lena. Actually kya hai thoda sa delay ho gaya hai.\\nCustomer: Koi issue nahi hai sir, wo toh aapka bhi hai.\\nExecutive: Ji, ji. Theek hai na? Mai kar leta hu sir 11 baje tak kar leta hu, koi dikkat nahi hai.\\nCustomer: Haan, haan.\\nExecutive: Theek hai sir. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not reached the factory yet.\\n\nResolution:\\n\n- Executive will call the customer around 11 AM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer around 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, timing, follow-up\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ae35e67a-1446-4a74-9c40-79c908344348",
+  "ucid": "ae35e67a-1446-4a74-9c40-79c908344348",
+  "seller_categories": [
+    {
+      "mcat_id": "169820",
+      "mcat_name": "Dry Dates Powder"
+    },
+    {
+      "mcat_id": "441808",
+      "mcat_name": "Almond Slice"
+    },
+    {
+      "mcat_id": "147161",
+      "mcat_name": "Almond Powder"
+    },
+    {
+      "mcat_id": "153505",
+      "mcat_name": "Celery Powder"
+    },
+    {
+      "mcat_id": "246350",
+      "mcat_name": "Mulberry Powder"
+    }
+  ]
+}

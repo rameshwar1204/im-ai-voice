@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676514441",
+  "gluser_id": "251860915",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Jaunpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9721206",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan ji sir. Haan ab sahi aa rahi hai. To main ye bol raha hu sir jaise hum aapko 17 by lead de rahe hain ek week ki right?\\nCustomer: Are wo 17 do ke 27 do yaar jab tak by lead koi aati nahi hai bhai bakwas hai do kya iska khatam karo.\\nExecutive: Haan main main bata raha hu sir usi pe aa raha hu. Jo IndiaMART pe sir business milta hai hume teen tarah se milta hai. Ek sir milta hai by lead se, inquiry se aur call se.\\nCustomer: To jab daily basis pe hum by lead consume karenge to apne aap sir flow banega AI pattern ka.\\nExecutive: Fir aapko samne se call aana start hongi. Ek cheez sir jo call rahegi wo fruitful rahegi by lead se zyada. By lead bhi theek rehti hain lekin usme kya hota hai sir jaise main abhi aapka dekh raha tha aap 50% jo hai wo four over ke baad wali consume kiye hain. Aur ek mujhe aur karna.\\nExecutive: Ji.\\n(silence)\\nExecutive: The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain usne aapki call ko hold par rakha hai. Kripya line par bane rahein. The person you are speaking with has\\nCustomer: Haan bolo thoko kya hai.\\nExecutive: Ji sir. Raza.\\nCustomer: Hello. Ji ji aa rahi hai aawaz?\\nCustomer: Hello?\\nCustomer: Hello.\\nCustomer: Hello. Hello. Haan ji sir aawaz aa rahi hai?\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with buyleads.\\n\n- Wants to end the subscription.\\n\n\\n\nResolution:\\n\n- Executive explained the benefits of calls.\\n\n- Explained how AI pattern works.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Negative -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, ai pattern\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2e54232f-1994-455e-bc16-847ebba044e2",
+  "ucid": "2e54232f-1994-455e-bc16-847ebba044e2",
+  "seller_categories": [
+    {
+      "mcat_id": "3719",
+      "mcat_name": "Chana Dal"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "186119",
+      "mcat_name": "Jeera Biscuit"
+    }
+  ]
+}

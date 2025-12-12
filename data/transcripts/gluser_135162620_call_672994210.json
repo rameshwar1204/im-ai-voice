@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672994210",
+  "gluser_id": "135162620",
+  "vintage_months": 3,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Gautam Buddha Nagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682799",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello. Hello. Haan Mishra ji Himanshu baat kar raha hu sir India Mart se. Good evening.\\nCustomer: Haan Himanshu namaskar ji.\\nExecutive: Haan haan keh raha tha ki wo aap leads ki use kar sakte ho wo aap registration start kijiye sir aapne kiya bhi hai kal ke date mein by lead jab wo bank detail wala aaya na problem sir to usko\\nCustomer: Haan.\\nExecutive: Ek baar refresh kar diya kijiyega. Theek hai wo hat jayega aapke paas.\\nCustomer: Refresh refresh hota kaise hai yaar refresh ho hi nahi raha isme.\\nExecutive: Nahi ek baar upar kar dijiyega wo hat jayega sir.\\nCustomer: Achha chalo aur kal kal ki date mein to aapne consume bhi kiya ek by lead sir to by lead to aisa nahi hai ki aap consume nahi kar pa rahe ho.\\nExecutive: Wo wo Mishra ji ne jo kiya hoga fir maine nahi kiya hai Mishra ji ne kiya hoga.\\nExecutive: Haan jisne bhi kiya hoga kal 18 November ko kal ek by lead Gurugram ka 6:04 pe leads consume hua tha sir.\\nCustomer: Achha achha.\\nExecutive: Carbon hai na.\\nCustomer: Haan koi problem nahi hai dekho agar wo aata hai na to cancel kar dena ya fir us page ko band kar refresh kar lijiyega hat jayega sir.\\nExecutive: Chaliye theek hai theek hai.\\nExecutive: Theek hai isko main close kar de raha hu sir aap feedback de dijiyega mere ko. Abhi abhi abhi ek baar pehle mujhe dekhne de do theek hai main baat kar main aapko bej deta hu na sir kya kehte hain jo main lead ka consumption aapko bej deta hu aapko. Ek baar baat kar leta hu brother bas ek baar theek hai kar lijiye baat.\\nCustomer: Main kar leta hu baat haan theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issues with bank detail pop-up.\\n\n- Unable to refresh the page.\\n\n\\n\nResolution:\\n\n- Executive suggested refreshing the page.\\n\n- Informed about lead consumption on November 18.\\n\n- Suggested to cancel or refresh the page.\\n\n\\n\nNext Steps: \\n\n- Customer wants to check before closing the call.\\n\n- Executive will send lead consumption details.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, refresh, consumption, bank details\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c56c5e73-bb87-4b2b-94ab-772dc7c25942",
+  "ucid": "c56c5e73-bb87-4b2b-94ab-772dc7c25942",
+  "seller_categories": [
+    {
+      "mcat_id": "106023",
+      "mcat_name": "Micro Concrete"
+    },
+    {
+      "mcat_id": "165817",
+      "mcat_name": "Structural Repair Services"
+    },
+    {
+      "mcat_id": "95058",
+      "mcat_name": "Carbon Fiber Sheet"
+    },
+    {
+      "mcat_id": "85081",
+      "mcat_name": "Retrofitting Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669486359",
+  "gluser_id": "248736910",
+  "vintage_months": 4,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686872",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello?\\nExecutive: Ji bataiye.\\nCustomer: Maine complaint kiya tha ji.\\nExecutive: Ek second sir, ek minute mein aapko main call back karti hu, ek second sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint was made.\\n\n\\n\nResolution:\\n\n- Executive will call back in a minute.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call back in a minute.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, callback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ff37f57-16bd-4ac6-ae29-a461a72ae0e1",
+  "ucid": "6ff37f57-16bd-4ac6-ae29-a461a72ae0e1",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "25424",
+      "mcat_name": "Decorative Fountain"
+    },
+    {
+      "mcat_id": "2297",
+      "mcat_name": "Garden Fountains"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    }
+  ]
+}

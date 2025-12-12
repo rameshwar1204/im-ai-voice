@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674489650",
+  "gluser_id": "130374449",
+  "vintage_months": 18,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan bolo.\\nCustomer: Haan ji.\\nExecutive: Haan bolo.\\nCustomer: Ji, main keh raha tha bhai baat karne ke liye aapko bhi baat ki thi feedback ke liye gaadi mein.\\nExecutive: Bolo.\\nCustomer: Haan ji bolo.\\nExecutive: Wahi puch raha hu sir kya aapko problem kya aa rahi hai, because baat to aapko already kar liya sir. Quantity wagera ka issue aapko aa raha tha. Koi bhi sir, sahi bhi sir jab se liya hai tab se lead nahi mil rahe. To lead ke liye aapko pata rahe mere paas mein wo mera kaam hai wo unko bata do. Wo solve karenge na.\\nCustomer: Sir quantity ka hi issue hai sir to usme thoda sa changes to aapko bhi karna hoga idhar se. Aapko aapko hamesha.\\nExecutive: Yaha se sir. Ya jo aapne specifications dale hue hai minimum quantity. Minimum order quantity aapne dala hua hai sir. Theek hai? Main isko hata ke aur badha de raha hu sir. Sahi kar rahe hai? Isko hata ke ek bana de raha hu. Jabardast rahega. Minimum order. Ek minute mein aapko call dobara kar raha hu, mujhe thodi baat karni hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting leads since subscribing.\\n\n- Minimum quantity issue.\\n\n\\n\nResolution:\\n\n- Executive will inform the concerned team about leads.\\n\n- Executive is removing minimum order quantity.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in a minute.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, quantity, minimum order quantity\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ae9bdbb8-2a56-484d-9bc8-fbe7e458ea7f",
+  "ucid": "ae9bdbb8-2a56-484d-9bc8-fbe7e458ea7f",
+  "seller_categories": [
+    {
+      "mcat_id": "87382",
+      "mcat_name": "Hexagon Socket Head Cap Screw"
+    },
+    {
+      "mcat_id": "25976",
+      "mcat_name": "Countersunk Bolts"
+    },
+    {
+      "mcat_id": "182802",
+      "mcat_name": "Hex Nylock Nut"
+    },
+    {
+      "mcat_id": "32261",
+      "mcat_name": "Machine Washers"
+    },
+    {
+      "mcat_id": "194527",
+      "mcat_name": "Unbrako Screws"
+    }
+  ]
+}

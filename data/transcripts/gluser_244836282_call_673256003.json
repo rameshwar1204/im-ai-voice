@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673256003",
+  "gluser_id": "244836282",
+  "vintage_months": 6,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689604",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello. \\nHello. \\nUh, sir Sanjay sir. \\nHa hai. Uh, mai ek meeting me hu aap mam ko direct call kar lenge aapke paas number hai? \\nHaa sir ye unhi ka hi to number hai I think so. Uh. \\nNahi nahi isme mera number hota hai. \\nAchha aap apna number de denge. Ha bolie. GST bhi aata hai aapka ye. \\n78950. \\n78950. \\n59916. \\n59916. \\n16. \\n16. \\nHaa haa. \\nOkay, thank you. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to Sanjay.\\n\n- Wants the executive's number.\\n\n\\n\nResolution:\\n\n- Executive provided his number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- contact, number, gst\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d7f52e1-8f81-4249-9c36-85f6e556da72",
+  "ucid": "7d7f52e1-8f81-4249-9c36-85f6e556da72",
+  "seller_categories": [
+    {
+      "mcat_id": "220568",
+      "mcat_name": "Smart Door Lock"
+    },
+    {
+      "mcat_id": "192697",
+      "mcat_name": "Honeywell Bullet Camera"
+    },
+    {
+      "mcat_id": "85186",
+      "mcat_name": "Bottle Labelling Machine"
+    },
+    {
+      "mcat_id": "26609",
+      "mcat_name": "Digital Door Lock"
+    },
+    {
+      "mcat_id": "191481",
+      "mcat_name": "Interactive Flat Panel"
+    }
+  ]
+}

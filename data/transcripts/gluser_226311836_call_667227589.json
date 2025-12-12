@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667227589",
+  "gluser_id": "226311836",
+  "vintage_months": 14,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626491",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Yeah hi very good morning sir, Samreen bol rahi hu main IndiaMART head office se. Chrome India Private Limited ke regarding connect kiya hai. Sir ek concern aaya hua tha. Mam se mam aa rahi thi office se baat ho payegi ke main kal unko reach out kar rahi thi kafi.\\nCustomer: Chalo main unko phone karwata hu batao. Main toh abhi link pe hu.\\nExecutive: Haan maine unko whatsapp bhi kiya tha. Actually ek concern aaya hua hai aap log ki taraf se na video meeting ka interest show kiya gaya tha. Hmm. Haan toh woh. Video meeting aapke hisab se nahi hai woh. Bataiye bataiye.\\nCustomer: 98250.\\nExecutive: 982 250\\nCustomer: 72536.\\nExecutive: 72536. Yeh different number hai I think 9825072536 hai na. Theek hai. Mam mam mam kahiye na. Main unko connect kar du?\\nCustomer: Nahi woh haan theek hai kar lijiye aap.\\nExecutive: Achcha main call karke ek baar pata kar leti hu. Theek hai thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to connect with the customer's colleague.\\n\n\\n\nResolution:\\n\n- Executive will call the colleague to follow up.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, follow up, contact\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7ffc2110-2b2c-4058-b6d3-8666d43376a2",
+  "ucid": "7ffc2110-2b2c-4058-b6d3-8666d43376a2",
+  "seller_categories": [
+    {
+      "mcat_id": "113851",
+      "mcat_name": "Strapping Rolls"
+    },
+    {
+      "mcat_id": "146906",
+      "mcat_name": "PP Box Strapping Roll"
+    },
+    {
+      "mcat_id": "88130",
+      "mcat_name": "Packaging Strip"
+    },
+    {
+      "mcat_id": "16833",
+      "mcat_name": "Plastic Strip"
+    },
+    {
+      "mcat_id": "16831",
+      "mcat_name": "Plastic Strap"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671792748",
+  "gluser_id": "34851737",
+  "vintage_months": 30,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Thoothukudi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hello, good morning.\\nCustomer: Yeah.\\nExecutive: Voice is not clear sir.\\nExecutive: Uh, is it clear now sir?\\nCustomer: Yeah, yeah, please tell me.\\nExecutive: Yeah. Uh, actually aapne kuch feedback diya hua hai sir, hamari team ko mail ke dwara. Isme kya issue aa raha hai, bata sakte hai sir?\\nCustomer: Just speak in English.\\nExecutive: Okay. Sir, you have given a feedback. Like from your phone, right? Uh, you have mentioned in preferred manufacturer. What is the exactly issue you are facing sir?\\nCustomer: Yeah, what is the what is the what exactly I ask what is it? Manufacturer, yeah?\\nExecutive: Uh, like you have given a feedback, right? Regarding the sale. \\nCustomer: Direct manufacturer not the retailer. We want to that is from direct manufacturers only. That is the reason I asked.\\nExecutive: Okay. That means you deal in only direct manufacturers, right?\\nCustomer: Mostly, yeah, mostly manufacturer or any good supplier is okay, no issue. Good supplier is okay, yeah, good supplier is okay.\\nExecutive: Okay. Okay. Regarding the steps you are taking sir.\\nCustomer: Pardon?\\nExecutive: Regarding the sale, uh, what is the steps you are taking sir?\\nCustomer: Uh, I mean that in your seller panel when you are searching for the lead, what are the steps you are taking to find out the manufacturers and other sellers who can deal in at your level.\\nCustomer: I can't understand. What do you ask me exactly, please?\\nCustomer: I can't clearly update, yeah.\\nExecutive: Pardon?\\nExecutive: Okay. Yeah, yeah.\\nCustomer: Text me through WhatsApp, okay? Can you can you please text me through WhatsApp if you don't know, okay? I'll update you.\\nExecutive: WhatsApp?\\nCustomer: Oh, can you text me through WhatsApp? I'll what is the question and everything, I'll update it. Okay? I can't hear your voice properly and it's not I can't understand properly.\\nExecutive: Okay. Okay, text me please. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants direct manufacturers, not retailers.\\n\n- Unable to understand the executive's question.\\n\n\\n\nResolution:\\n\n- Executive agreed to text the question on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will send the question via WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- manufacturers, retailers, whatsapp, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 160,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c7f3f3ba-51cb-42db-8b4e-79d9451d8b95",
+  "ucid": "c7f3f3ba-51cb-42db-8b4e-79d9451d8b95",
+  "seller_categories": [
+    {
+      "mcat_id": "43607",
+      "mcat_name": "Laterite Stone Block"
+    },
+    {
+      "mcat_id": "31110",
+      "mcat_name": "Iron Ore Pellets"
+    },
+    {
+      "mcat_id": "215902",
+      "mcat_name": "Agricultural Gypsum Powder"
+    },
+    {
+      "mcat_id": "122168",
+      "mcat_name": "Copper Slag"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    }
+  ]
+}

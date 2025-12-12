@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670662270",
+  "gluser_id": "53785700",
+  "vintage_months": 62,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Anupgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669415",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir, yes. Kisan high tech se baat kar raha hu.\\nExecutive: Haan ji baat kare.\\nCustomer: Kisan high tech se baat kar raha hu.\\nExecutive: Ek second haan. Ji boliye sir.\\nCustomer: Namaste sir, bataiye.\\nExecutive: Hello. Haan ji haan ji sir namaste kaise hai.\\nCustomer: Humne jo aapko India mart ko jo paise de rakhe hai.\\nExecutive: Haan ji.\\nCustomer: Wo lead verify karne ke liye de rakhe hai kya? To inko requirement hota hai ya nahi hai?\\nExecutive: Verify karne ke liye sir koi bhi client agar humne subah se char se panch call kar liye unme teen ye bol rahe hai meri requirement bhi nahi hai.\\nCustomer: To India mart ki team kya kar rahi hai verify karke kyu nahi deti lead ko?\\nExecutive: Main ek baar check kara leti hu aapne kis type ki leads ko consume kara hua hai. Kya check kara rahe hai jo check karane ke baad kitni baar bol chuke hai India mart verify nahi karke deta lead ko. Aap agar mere paas lead bhej rahe ho wo direct bhej rahe ho ya fir aap verify karte ho call karke pehle.\\nExecutive: Main call sir yaha pe calls vagera pehle nahi jaati hai but haan main aap hume lead aap hume ek lead de rahe ho na uske bhi paise le rahe ho aap. Main ki kai ki lead kai ki lead ke le rahe ho aap. Haan matlab verify lead ke paise le rahe ho aap. Verify banai kaha kar rahi hu. Isse to main banai kaha kar rahi hu sir.\\nCustomer: To humne jo ma'am kyu dimag kharab kar rahe hai fir India mart se.\\nExecutive: Agar verify nahi hote aap theek hai varna aaj se jo plan chala theek hai baki ka paisa mera ko return kar do.\\nExecutive: Sir dekhiye main aapko ek cheez bata deti hu pehle first of all. Mere ko end call aa rahi hai isme main baad mein verify lead aa rahi hai isme.\\nExecutive: Please aap ek baar receive kar lo.\\nCustomer: Hello\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states leads are not verified.\\n\n- Customer wants a refund if not verified.\\n\n\\n\nResolution:\\n\n- Executive offered to check the lead types.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, verification, refund\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e48d59c-65f7-4fbe-9909-5c0a3e30cecc",
+  "ucid": "6e48d59c-65f7-4fbe-9909-5c0a3e30cecc",
+  "seller_categories": [
+    {
+      "mcat_id": "189657",
+      "mcat_name": "Solar Zatka Machine"
+    },
+    {
+      "mcat_id": "84905",
+      "mcat_name": "Solar Fencing System"
+    },
+    {
+      "mcat_id": "389240",
+      "mcat_name": "Zatka Machine Insulator"
+    },
+    {
+      "mcat_id": "42234",
+      "mcat_name": "Solar Fence"
+    },
+    {
+      "mcat_id": "42817",
+      "mcat_name": "Fencing Wire"
+    }
+  ]
+}

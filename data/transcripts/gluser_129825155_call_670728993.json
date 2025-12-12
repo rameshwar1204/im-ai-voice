@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670728993",
+  "gluser_id": "129825155",
+  "vintage_months": 6,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647131",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: request ek bar to jaise aap keh rahe ho na ki koi banda comment aapko sari chize\\nCustomer: Hello\\nExecutive: Ji namaskar sir.\\nCustomer: Haan ji sir.\\nCustomer: ji aap safal kya hai aapko\\nCustomer: Aawaz nahi aa rahi aapki.\\nCustomer: mein tha safar mein\\nCustomer: Achcha achcha.\\nCustomer: aap ek kam karo.\\nCustomer: Haan.\\nExecutive: Mera message check kar lo baki baad hum baat hum baad mein kar lenge sir.\\nCustomer: Message check kar lo aap abhi theek hai.\\nCustomer: Message check kar lo message.\\nCustomer: Haan.\\nExecutive: Check kar lo message.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to hear the executive clearly.\\n\n- Customer wants to know the secret of success.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to check the message.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- message, call, success\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9cf5d76d-85e1-4be0-8be6-964deb214780",
+  "ucid": "9cf5d76d-85e1-4be0-8be6-964deb214780",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "73372",
+      "mcat_name": "Marble Border Tile"
+    }
+  ]
+}

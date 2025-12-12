@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673738889",
+  "gluser_id": "49644284",
+  "vintage_months": 93,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Sikar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696345",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Haan ji.\\nCustomer: Haan ji.\\nExecutive: Hello.\\nCustomer: Hello ji.\\nExecutive: Ji good afternoon sir Smriti baat kar rahe ho.\\nCustomer: Batao.\\nExecutive: Hello.\\nExecutive: Haan ji sir Smriti.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=39063a0c-e019-4cba-b6c7-b62490be1ccb",
+  "ucid": "39063a0c-e019-4cba-b6c7-b62490be1ccb",
+  "seller_categories": [
+    {
+      "mcat_id": "4230",
+      "mcat_name": "Bandhani Saree"
+    },
+    {
+      "mcat_id": "178043",
+      "mcat_name": "Bandhani Dupatta"
+    },
+    {
+      "mcat_id": "188239",
+      "mcat_name": "Bandhani Silk Saree"
+    },
+    {
+      "mcat_id": "208177",
+      "mcat_name": "Banarasi Silk Dupatta"
+    },
+    {
+      "mcat_id": "44210",
+      "mcat_name": "Cotton Dupatta"
+    }
+  ]
+}

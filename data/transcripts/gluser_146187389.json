@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674747775",
+  "gluser_id": "146187389",
+  "vintage_months": 32,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Deganga",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707983",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan, iktha ji.\\nCustomer: Haan, sir bataye.\\nCustomer: Haan, Tulesh Nasri se baat kar raha hu.\\nExecutive: Sir, mujhe ek minute dijiye, mai iktha se call back kara dunga.\\nCustomer: Haan, suniye na, mera jo ye jo buylead dikhta hai, ye check karo recent buylead options.\\nCustomer: Select karke wo bhi check karo, to 5-6 ghanta purana purana lead sab dikhai de rahi hai.\\nCustomer: Ek bar dekh lijiye.\\nExecutive: Latest buylead nahi aa rahi hai.\\nCustomer: Recent buylead jis time check kar raha hu na, all over India karke recent karke, to matlab 6 ghanta, 20 ghante is type purana purana lead dikhai de rahi hai.\\nExecutive: Achha.\\nCustomer: Matlab ye to hona chahiye je 20 minute pahle lead post hua, wo dikh rahi hai, is type nahi hota hai. Kya ho gaya ek bar dekh lijiye.\\nExecutive: Hmm.\\nExecutive: Ek minute mai iktha se call back kara rahi hu sir, ek minute dijiyega.\\nCustomer: Thik hai, thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Old buyleads are being displayed.\\n\n- Wants recent buyleads to be displayed.\\n\n\\n\nResolution:\\n\n- Executive said she will have Iktha call back.\\n\n\\n\nNext Steps: \\n\n- Executive to have Iktha call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, recent, old\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 107,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4243009f-1897-48cf-b589-2a35d15fece5",
+  "ucid": "4243009f-1897-48cf-b589-2a35d15fece5",
+  "seller_categories": [
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "191868",
+      "mcat_name": "Jackfruit Plant"
+    },
+    {
+      "mcat_id": "207073",
+      "mcat_name": "Apple Ber Plants"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "180422",
+      "mcat_name": "Chiku Plant"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668362512",
+  "gluser_id": "139560930",
+  "vintage_months": 49,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadohi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji boliye.\\nExecutive: Ji sir good morning. Main Nidhi baat kar rahi hu IndiaMART se.\\nCustomer: Ji boliye mam.\\nExecutive: Ji ji Mohammad Wasim ji baat kar rahe hain na.\\nCustomer: Hmm hmm.\\nExecutive: Haan sir aapka concern aapka open ho rakha hai matlab aapki jo complaint registered hai IndiaMART mein W Raja Handloom started.\\nCustomer: Maine mam mera number change kar dijiye jo Tikandi number hai uske call kariye sab usi pe call mera number change kar dijiye kitni baar bolu kisse kisse bolu main mujhe disturb na kiya kare main chhod diya kaam karna.\\nExecutive: Achcha aapne usko main handover on wo number pe handover de diya hu unko bol diya hu sabko bol diya hu jitna call aata hai IndiaMART se maine bol diya hu sabse.\\nExecutive: Theek hai theek hai sir main ek bari aapko ab main haan mera number hata dijiye mera.\\nExecutive: Okay okay sir.\\nCustomer: Achcha.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change his contact number.\\n\n\\n\nResolution:\\n\n- Executive assured to update the contact number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- contact number, change request, indiaMART\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7499d3f5-a334-4483-a530-05e91a3e4831",
+  "ucid": "7499d3f5-a334-4483-a530-05e91a3e4831",
+  "seller_categories": [
+    {
+      "mcat_id": "6453",
+      "mcat_name": "Room Carpet"
+    },
+    {
+      "mcat_id": "132774",
+      "mcat_name": "Designer Carpet"
+    },
+    {
+      "mcat_id": "102",
+      "mcat_name": "Hand Tufted Carpets"
+    },
+    {
+      "mcat_id": "19525",
+      "mcat_name": "Hand Tufted Wool Carpet"
+    },
+    {
+      "mcat_id": "3327",
+      "mcat_name": "Wall To Wall Carpets"
+    }
+  ]
+}

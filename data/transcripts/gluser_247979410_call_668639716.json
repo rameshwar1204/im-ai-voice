@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668639716",
+  "gluser_id": "247979410",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643859",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji Shivam sir namaskar.\\nCustomer: Ji namaskar.\\nExecutive: Ji sir Suneet baat kar raha hu sir mai IndiaMART se.\\nCustomer: Haan ji haan ji bataiye.\\nExecutive: Ji ji bahar hai kya sir abhi bhi?\\nCustomer: Nahi nahi bataiye aap.\\nExecutive: Achcha achcha kal actually sham me call kar raha tha na us samay aap bahar the.\\nCustomer: Ji.\\nExecutive: To isliye baat nahi ho paayi thi isliye fir maine call kiya tha aap busy the aapne kaha tha mai us samay call kara. Ji basically mai sir aapko form ke liye ji sir jaise haan ji sir aawaz aa rahi hai. Aapke mein aa rahi hai. Haan ek second ek second.\\nExecutive: Haan ji aawaz aa rahi hai clear?\\nCustomer: Haan ji.\\nExecutive: Mai keh raha hu sir jo hamari form ke liye 12th ki entry aapke ji ji ji ke sath bhi dekh sakte hai. Ek baar fir se call karo aap.\\nExecutive: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss form details with customer.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call again.\\n\n\\n\nNext Steps: \\n\n- Customer will call again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- form, call, entry\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1df55a0c-496e-4531-b97d-ddd15844c7db",
+  "ucid": "1df55a0c-496e-4531-b97d-ddd15844c7db",
+  "seller_categories": [
+    {
+      "mcat_id": "13613",
+      "mcat_name": "Crystal Chandelier"
+    },
+    {
+      "mcat_id": "16039",
+      "mcat_name": "Hanging Chandelier"
+    },
+    {
+      "mcat_id": "159050",
+      "mcat_name": "Plastic Flower"
+    },
+    {
+      "mcat_id": "209144",
+      "mcat_name": "Diwali Torans"
+    },
+    {
+      "mcat_id": "4926",
+      "mcat_name": "Artificial Flowers"
+    }
+  ]
+}

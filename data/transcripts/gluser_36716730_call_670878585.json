@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670878585",
+  "gluser_id": "36716730",
+  "vintage_months": 61,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655349",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji, hello.\\nCustomer: Haan, ye meri Lalji ji se baat ho rahi hai?\\nExecutive: Hmm.\\nExecutive: Mai Vishal baat kar raha hu sir IndiaMART se, kaise hai aap?\\nCustomer: Hmm, badhiya hai operation kar rahe hai.\\nExecutive: Service ke liye maine connect kiya IndiaMART ke sath.\\nCustomer: Hmm. Mai keh raha tha bataiye sir kya chahte hai meri side se, kaha issue aa raha hai meri service ke andar?\\nCustomer: Refund, refund, refund.\\nExecutive: Sir refund possible hi nahi hai sir. Dekho hum aapka jitna package chalate hai na, tab tak hum aapko service laake dete hai sir. Aur in between hi hum aapko business bhi provide karne ka try karte hai sir, taki naye naye customer se aapko connect karwaye, jinse business generate ho sake sir.\\nCustomer: Sir ek kaam kare aap Sunday ko free rehte hai?\\nExecutive: Uh, sir actual me aap samajh sakte hai us time pe office open nahi hota sir.\\nCustomer: Nahi nahi office nahi hota hai.\\nCustomer: To aap ek ek request kar sakta hu sir mai aapse, dekho purane customer ho.\\nCustomer: Agar concern is cheez ka hai ki mai kuch benefit nahi dilwa pa raha tha.\\nCustomer: Ek mauka hame dijiye mere sath service use kariye jaisa mai bolta hu sir. Mai kya bol raha hu aapko wahi bol raha hu aap ek baar Sunday time rehta hai.\\nExecutive: Hmm, waise to sir chutti hoti hai hamari. But aap chahenge to aap mere ko Sunday, mere ko Sunday haan, aap Sunday ko mere ko time dijiye, mai aapko aap mere ko Sunday ko 9:30, 10:00 baje phone kariye. Sunday ko ya fir Saturday ko. Saturday ko ek baar kariye lijiyega. Barabar Saturday ko agar nahi hota hai to Sunday ko karenge. Ek baar bethte hai, aap jaise bol rahe ho ek baar profile me work karte hai.\\nExecutive: Done na sir. Ek mauka doge na sir mujhe?\\nCustomer: Dekhte hai abhi kya hota hai. Barabar aapko bas mai guide karunga kaise meri service ko use kariyega aur usme bas aapki side se mujhe ek cheez chahiye hogi aapki activity sir.\\nCustomer: Hmm. Haan mai definitely dikhayenge barabar. Aap bas meri service ko use karna aur meri guidance lena sir, bas itna. Theek hai? Hmm. Theek hai. Chalte hai ek baar profile pura edit karte hai naye se. Chal sir, done baje. Aap chahoge catalog me koi change karwana mai wo bhi karwa dunga, theek hai? To at present sir fir mai jo concern tha yaha par close karta hu. Aapko Sunday ko connect karta hu. Further jo bhi aapko kaam karwana ho mere se karwaiyega sir, theek hai?\\nExecutive: Thank you sir.\\nExecutive: Have a nice day sir.\\nCustomer: Haan haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the service.\\n\n\\n\nResolution:\\n\n- Executive explained refund is not possible.\\n\n- Executive offered to help improve service utilization.\\n\n- Agreed to work on profile and catalog.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Sunday.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, service, profile, catalog\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=95c7dd0f-396e-4cd5-9428-236233e7b1e4",
+  "ucid": "95c7dd0f-396e-4cd5-9428-236233e7b1e4",
+  "seller_categories": [
+    {
+      "mcat_id": "10790",
+      "mcat_name": "HRC Fuse"
+    },
+    {
+      "mcat_id": "18364",
+      "mcat_name": "Proximity Sensor"
+    },
+    {
+      "mcat_id": "214431",
+      "mcat_name": "L&T MCB"
+    },
+    {
+      "mcat_id": "141920",
+      "mcat_name": "Motor Protection Circuit Breaker"
+    },
+    {
+      "mcat_id": "69443",
+      "mcat_name": "MCCB"
+    }
+  ]
+}

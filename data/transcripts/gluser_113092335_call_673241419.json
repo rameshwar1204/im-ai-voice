@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673241419",
+  "gluser_id": "113092335",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Good morning sir.\\nExecutive: Good morning sir, aap bol rahe hain IndiaMART se.\\nCustomer: Haan ji, sir wo aap meri aapse baat hui thi na.\\nCustomer: Ji wo aap delete kar rahe the kuch categories.\\nCustomer: Hai na?\\nCustomer: Uske regarding baat karni thi.\\nCustomer: Koi baat nahi hamara koi product hamari koi product show nahi ho rahi hai, koi buylead achi wali nahi aa rahi hai. Jo buylead aati hai wo fraud hai to hum kya karenge sir madam ji boliye.\\nExecutive: Accha to kis name se aapke pass buylead aa rahi hai aap mujhe ye bataiye.\\nCustomer: Aap dekho na aapke pass aati dekho na madam yaar. Aap manager ho aapko to sab kuch pata hota hai na madam yaar.\\nExecutive: Haan jaise main yaha pe dekh rahi hu ye Guard Scan Safety Relay karke ek buylead aayi hui hai aapke platform par.\\nExecutive: To isme aap deal karte ho?\\nCustomer: Ye Guard Scan Safety Relay.\\nCustomer: Madam mujhe buylead abhi nahi chahiye, buylead mujhe abhi nahi chahiye meri photo show honi chahiye Google pe wo usse karao aap.\\nExecutive: Sir abhi do minute rukiye main aapko dikhati hu aapka photo show hoga.\\nExecutive: Maine aapse kaha tha us din bhi.\\nCustomer: 12 baje aas pass ye number pe call karta hu aapko barabar na abhi aap send kar do barabar na.\\nExecutive: Haan haan haan haan 12 baje aap mujhe call karna.\\nExecutive: 2 minute rukiye main aapko dikhati hu.\\nCustomer: 12 baje aas pass.\\nExecutive: Haan ji ji.\\nExecutive: Thik hai thik hai thik hai sir okay.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Product not showing on Google.\\n\n- Receiving fraudulent buyleads.\\n\n\\n\nResolution:\\n\n- Executive offered to show the customer's photo.\\n\n- Asked about the source of fraudulent buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 12:00 PM.\\n\n\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, product visibility, google, fraud\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=737ba4a0-b699-4e92-b121-ee1b68ecb68d",
+  "ucid": "737ba4a0-b699-4e92-b121-ee1b68ecb68d",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "1686",
+      "mcat_name": "Safety Relays"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "167489",
+      "mcat_name": "Bus Coupler"
+    },
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669286884",
+  "gluser_id": "84987751",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Pauri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634720",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji [unintelligible].\\nCustomer: Haan ji madam, [unintelligible] se bataiye.\\nExecutive: Madam, aapke designer hai na, jo aapke design kiye hai.\\nCustomer: Ji.\\nExecutive: Unse bhi kaam tha, unko apna logo bhi banana tha, ho gaya madam toh, ek baar advice lena tha unko.\\nExecutive: Kya sir issue tha aapka?\\nCustomer: Logo bahar agar aa jaye, aapki aawaz jo hai na thoda kat kat ke aa rahi hai, thoda bahar agar aa jaye.\\nExecutive: Bahar hi aa gaya madam, bahar hi hu ab toh.\\nExecutive: Pata nahi sir, jo aapki aawaz kat rahi hai, mujhe toh itna samajh nahi aaya, kuch logo se related aap bol rahe hai.\\nCustomer: Haan ji, haan ji madam, main aapko bata raha hu.\\nExecutive: Hello.\\nCustomer: Madam, dusre number pe call karo.\\nExecutive: Ek second, main karu sir aap kar rahe hai.\\nCustomer: Aap aapko bhi na mera number hoga aapke paas.\\nExecutive: Ek minute, aap aap aap mujhe ek minute, aap mujhe message kar do woh number, is number se bhi aapne message mujhe kiya tha na, us number pe aap message kar do, main call karti hu aapko.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to discuss logo designing.\\n\n- Customer's voice was breaking.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to message the number.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- logo, designing, call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f09f7bee-50c9-4ed4-9f3a-21c43d1fffa7",
+  "ucid": "f09f7bee-50c9-4ed4-9f3a-21c43d1fffa7",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "151212",
+      "mcat_name": "Wheel Barrow Trolley"
+    },
+    {
+      "mcat_id": "20979",
+      "mcat_name": "Stone Crusher"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    }
+  ]
+}

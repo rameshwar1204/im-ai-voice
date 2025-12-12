@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675923105",
+  "gluser_id": "14163654",
+  "vintage_months": 3,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Raisinghnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718781",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello. Hello haan ji sir. Keh raha hu sir abhi aapne jo call kiya tha na 9696 se.\\nExecutive: Haan ji ji.\\nCustomer: Hello. Haan toh hamare paas kya hota sir ek ticket open ho jata hai, theek hai? Toh woh ticket main close kar de raha hu, theek hai sir aapke WhatsApp aur mail pe ek jayega, theek hai? Feedback ke liye. Toh usse aapna positive response dijiyega, theek hai sir?\\nExecutive: Theek hai sir. Ok karta hu. Jarur jarur.\\nCustomer: Theek hai, theek hai. Thank you so much sir.\\nExecutive: Have a nice. Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Ticket will be closed.\\n\n- Feedback will be sent on WhatsApp and mail.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nticket, feedback\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9c976b41-4bc4-490a-9d5e-fefbebe02a2e",
+  "ucid": "9c976b41-4bc4-490a-9d5e-fefbebe02a2e",
+  "seller_categories": [
+    {
+      "mcat_id": "216530",
+      "mcat_name": "Hamam Water Heater"
+    },
+    {
+      "mcat_id": "158941",
+      "mcat_name": "Wood Fired Water Heater"
+    },
+    {
+      "mcat_id": "68",
+      "mcat_name": "Industrial Hot Water Boilers"
+    },
+    {
+      "mcat_id": "159550",
+      "mcat_name": "Water Boilers"
+    },
+    {
+      "mcat_id": "133834",
+      "mcat_name": "Electric Geyser"
+    }
+  ]
+}

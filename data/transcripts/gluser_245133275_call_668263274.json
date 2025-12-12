@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668263274",
+  "gluser_id": "245133275",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Shoaib sir, good evening. I am Sneha speaking. Sir, I spoke to you in the afternoon. You were saying.\\nCustomer: Haan, main aapko main do teen din mein karta hu, main busy nahi hu, ghar mein shadi hai.\\nExecutive: Sir, are you busy right now? Can you tell me a time, a day, I will call then. But you have to take out time.\\nCustomer: Main aapko karta hu aapko 10 ya 11 tarikh ko, ghar mein shadi hai.\\nExecutive: 10, 11. Okay sir, please.\\nCustomer: Theek hai sir, aap kar lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to schedule a call with the customer.\\n\n- Customer says he is busy due to a wedding.\\n\n\\n\nResolution:\\n\n- Customer will be available on the 10th or 11th.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer on the 10th or 11th.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call scheduling\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=863fa70b-80ea-4f7f-ba29-527b5f47d5a0",
+  "ucid": "863fa70b-80ea-4f7f-ba29-527b5f47d5a0",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "38607",
+      "mcat_name": "Wall Decor"
+    },
+    {
+      "mcat_id": "224235",
+      "mcat_name": "Marble Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    }
+  ]
+}

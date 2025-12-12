@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676812672",
+  "gluser_id": "126960625",
+  "vintage_months": 19,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9695795",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan, Akram sir, good afternoon, kaise hain aap?\\nCustomer: Badhiya ji.\\nExecutive: Haan, are Akram sir, hum log isliye itna call kar rahe hain na aapko kya hua na ki aapki ek din matlab Muskan ne aapko call kiya hoga aapke account manager ne, theek hai? Hmm. To aapne shayad, main keh raha hun aapki account manager na aapne aapko call kiya tha Muskan ne, theek hai? To wo shayad call aap receive nahi karunga to aapne call back kari hoge to call back mein Muskan ne call receive nahi kar payi aapki to uska na ek feedback open ho gaya tha ki humne aapki call attend nahi kari. Isi wajah se hum log aapko baar baar call kar rahe hain ki aapse ek baar closer le le ki sir wo agar koi issue hai to theek hai bataiyega else jo hai wo incoming call aapki na wo mujhe close karna tha. Baki aur koi issue to abhi nahi aa raha hai na sir services mein udhar to maine aapka sahi kara hi diya tha jo employee chala gaya tha uska logout to karwa hi diya tha sabka.\\nCustomer: Close, close karo.\\nExecutive: Hai na? Baki aur to koi problem nahi hai na sir?\\nCustomer: Hmm hmm.\\nExecutive: Theek hai, theek hai. To theek hai. To sir feedback sir please satisfied mark kar dijiyega. Okay Akram sir? Hmm. Theek hai. Thank you sir, thank you sir, thank you. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to close a feedback regarding call.\\n\n\\n\nResolution:\\n\n- Customer confirmed no issues and asked to close.\\n\n- Executive requested to mark feedback as satisfied.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- feedback, call, account manager, services\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3d569336-95c5-491f-a638-92372cf725f7",
+  "ucid": "3d569336-95c5-491f-a638-92372cf725f7",
+  "seller_categories": [
+    {
+      "mcat_id": "181931",
+      "mcat_name": "Cuplock Scaffolding System"
+    },
+    {
+      "mcat_id": "173726",
+      "mcat_name": "Scaffolding Props Jack"
+    },
+    {
+      "mcat_id": "142495",
+      "mcat_name": "Centering Sheets"
+    },
+    {
+      "mcat_id": "50157",
+      "mcat_name": "Adjustable Prop"
+    },
+    {
+      "mcat_id": "53419",
+      "mcat_name": "Centering Plates"
+    }
+  ]
+}

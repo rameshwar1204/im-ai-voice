@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673838864",
+  "gluser_id": "163174637",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Baidyabati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9700375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello sir, namaskar.\\nExecutive: Hello, namaste ma'am.\\nCustomer: Ji, namaste. Main baat kar rahi thi IndiaMART se.\\nExecutive: Ji ma'am, main baat, toh aapka wait kar rahi thi.\\nCustomer: Ma'am, wo actually mera lunch ho gaya tha, isiliye main phir chali gayi thi.\\nCustomer: Abhi aayi main.\\nExecutive: 1 baje main wait kar rahi thi aapka.\\nCustomer: Abhi main thoda sa, isliye main nikal gayi.\\nExecutive: So sorry ma'am, actually main lunch karne chali gayi thi.\\nCustomer: Aapko manage karna sikhana hai na?\\nExecutive: Ma'am, wo actually mera ek aur meeting bhi tha, wo thoda lamba chal raha tha and then mera lunch ho gaya.\\nCustomer: Okay. Abhi toh main ek meeting mein nikal aayi, thodi si der mein. Accha.\\nExecutive: Toh phir, main kis number pe aapko call back karun, ye bataye. Shaam ko hi baat hogi, 4 baje ke baad.\\nCustomer: Haan, theek hai, 4 baje ke baad na, main aapko message drop kar deti hu, theek hai?\\nExecutive: Okay. Toh main us samay free rahungi na, 4 baje ke aas paas.\\nCustomer: Okay, theek hai.\\nExecutive: Okay.\\nExecutive: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Executive called late due to lunch and meeting.\\n\n- Customer wants to know when to call back.\\n\n\\n\nResolution:\\n\n- Executive will message the customer after 4 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will message the customer after 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call back, meeting, lunch\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3d3fa40f-7615-4a21-b04b-38a1af2b0b12",
+  "ucid": "3d3fa40f-7615-4a21-b04b-38a1af2b0b12",
+  "seller_categories": [
+    {
+      "mcat_id": "187435",
+      "mcat_name": "GI Pole"
+    },
+    {
+      "mcat_id": "20565",
+      "mcat_name": "Solar Street Lights"
+    },
+    {
+      "mcat_id": "137974",
+      "mcat_name": "Octagonal Pole"
+    },
+    {
+      "mcat_id": "153868",
+      "mcat_name": "High Mast Lighting Pole"
+    },
+    {
+      "mcat_id": "226874",
+      "mcat_name": "GI Octagonal Pole"
+    }
+  ]
+}

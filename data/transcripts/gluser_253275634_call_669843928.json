@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669843928",
+  "gluser_id": "253275634",
+  "vintage_months": 1,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Khargone",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662488",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: IndiaMART se baat ho rahi hai?\\nCustomer: Ji ji IndiaMART se baat kar rahi hu, sir.\\nExecutive: Mam, maine Shiv Machine Ahmedabad se ek machine purchase kiya tha through IndiaMART.\\nCustomer: But mam, sales after service ke liye woh log phone uthate nahi hai mera.\\nExecutive: Achha.\\nCustomer: Toh maine last IndiaMART se IndiaMART se usse bhi call kiya tha.\\nCustomer: Toh unko IndiaMART ke through number mila hua hai.\\nCustomer: But woh bhi receive nahi kiya unhone.\\nExecutive: Achha, ek baar aap apni company ka naam bataiye sir?\\nCustomer: Mam, meri company ka naam hai Azizia Developers.\\nExecutive: Sorry sir?\\nCustomer: Azizia Developers.\\nCustomer: Main khud bhi IndiaMART pe as a seller registered hu.\\nExecutive: Ha ha.\\nCustomer: Ji. Toh maine ek sticker labeling machine purchase kiya tha Shiv Machine Ahmedabad se.\\nExecutive: Achha, fir?\\nCustomer: Mam, ab woh sales sales after service ke liye na toh call receive karte hai, na koi support woh karwa rahe hai.\\nExecutive: Achha, yeh problem aa raha hai. Udhar se jo jo seller hai woh call receive nahi kar rahe hai aapka, hai na?\\nCustomer: Woh call receive bhi nahi kar rahe hai aur na service provide kara rahe hai.\\nCustomer: Jo bhi machine ko technical machine mein dikkat aa rahi hai uska bhi resolve nahi karwa rahe mera.\\nExecutive: Okay okay, main dekhti hu sir ek baar. Ek baar aap fir se dobara se apni company ka naam bata dijiye mujhe?\\nCustomer: Azizia Developers. Jo registered mobile number hai IndiaMART ke upar woh number batau kya main aapko?\\nExecutive: Ha ha, wahi number bata dijiye aap mujhe.\\nCustomer: 6263\\nExecutive: 6263\\nCustomer: 482900\\nExecutive: 482900\\nCustomer: Ji.\\nExecutive: Okay. Fir main check karti hu ek baar. Thik hai, main aapko dobara contact karti hu.\\nCustomer: Okay mam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer purchased a machine through IndiaMART.\\n\n- Seller not answering calls for after-sales service.\\n\n- No service or support being provided.\\n\n- Technical issues with the machine not resolved.\\n\n\\n\nResolution:\\n\n- Executive assured to check the issue.\\n\n- Executive asked for company name and registered number.\\n\n\\n\nNext Steps: \\n\n- Executive will contact the customer again.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- machine, service, support, seller, call\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 162,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1e7b077f-6425-4d97-ad0a-11780428220b",
+  "ucid": "1e7b077f-6425-4d97-ad0a-11780428220b",
+  "seller_categories": [
+    {
+      "mcat_id": "179236",
+      "mcat_name": "Jeera Masala Soda"
+    },
+    {
+      "mcat_id": "139360",
+      "mcat_name": "Bottled Water"
+    },
+    {
+      "mcat_id": "5145",
+      "mcat_name": "Mineral Water Bottle"
+    },
+    {
+      "mcat_id": "136575",
+      "mcat_name": "Packaged Drinking Water"
+    },
+    {
+      "mcat_id": "80141",
+      "mcat_name": "Cold Drink"
+    }
+  ]
+}

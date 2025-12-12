@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668536905",
+  "gluser_id": "54178921",
+  "vintage_months": 17,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646628",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No transcript available]",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7a91a22b-7b95-4ccf-87fe-fb584da550ae",
+  "ucid": "7a91a22b-7b95-4ccf-87fe-fb584da550ae",
+  "seller_categories": [
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "38698",
+      "mcat_name": "Stain Removers"
+    },
+    {
+      "mcat_id": "65193",
+      "mcat_name": "Industrial Cleaning Chemical"
+    },
+    {
+      "mcat_id": "11636",
+      "mcat_name": "Dishwash Liquid"
+    }
+  ]
+}

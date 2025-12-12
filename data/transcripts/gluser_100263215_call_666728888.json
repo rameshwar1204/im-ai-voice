@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666728888",
+  "gluser_id": "100263215",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Tonk",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700368",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Good afternoon sir, IndiaMART se baat kar rahi hu. Mera naam Ankita hai. Kya meri baat Shree Balaji Metal se ho rahi hai?\\nCustomer: Ji haan, boliye.\\nExecutive: Sir, aapne ek buylead ke regarding query raise ki thi, S S three hundred four pipe ke liye.\\nCustomer: Haan, haan.\\nExecutive: Sir, kya aap mujhe buylead ID bata sakte hain?\\nCustomer: Haan, likhiye. Two three zero eight two five zero zero zero zero one.\\nExecutive: Okay. Two three zero eight two five, five times zero, one. S S three hundred four pipe ke liye hai ye buylead, right sir?\\nCustomer: Haan.\\nExecutive: Okay. Sir, verification ke liye aapki company ka naam confirm kar dijiye, Shree Balaji Metal?\\nCustomer: Shree Balaji Metal, haan.\\nExecutive: Aur aapka registered mobile number yahi hai, jisse aap baat kar rahe hain?\\nCustomer: Ji haan.\\nExecutive: Okay. Sir, main check kar pa rahi hu, ye jo buylead hai, ye Sanjay Kumar ji ki taraf se hai, S K Enterprises, Delhi se.\\nCustomer: Ye paid member hai ya free member hai?\\nExecutive: Sir, ek minute, main check kar leti hu. Sir, ye free member hain.\\nCustomer: Toh madam, hum paid member hoke humko free member ka lead kyu de rahe ho? Humko paid member ka lead chahiye na.\\nExecutive: Sir, dekhiye, IndiaMART pe paid aur free, dono tarah ke buyers hote hain. Humari taraf se jo lead aapko di jaati hai, wo requirement ki genuineness dekh ke di jaati hai. Buyer ka requirement genuine hai.\\nCustomer: Nahi, madam, hum paisa bhar rahe hain, toh humko paid member ka hi lead milna chahiye na.\\nExecutive: Sir, main aapki baat samajh rahi hu, lekin system is tarah se kaam nahi karta hai. System requirement ke basis pe lead forward karta hai, na ki buyer ke membership status pe. Aur sir, inke paas TrustSeal bhi hai.\\nCustomer: Ye TrustSeal kya hota hai?\\nExecutive: Sir, TrustSeal ka matlab hota hai ki buyer ne apne company ke documents, jaise ki GST, PAN card, ye sab verify karwaye hue hain IndiaMART ke paas. Isse unki credibility badhti hai.\\nCustomer: Theek hai, lekin humko to business chahiye. Humko paid member se hi deal karna hai.\\nExecutive: Sir, aap ek baar inse contact karke dekhiye. Requirement bilkul genuine hai. Ho sakta hai aapki deal final ho jaaye.\\nCustomer: Aap guarantee de sakte ho ki ye maal lega?\\nExecutive: Sir, purchase ki guarantee toh main nahi de sakti. Wo aapke aur buyer ke beech ki negotiation pe depend karta hai. Humara kaam hai aapko genuine buyer se connect karwana.\\nCustomer: Hmm, theek hai. Chaliye.\\nExecutive: Aur koi sahayata kar sakti hu sir?\\nCustomer: Nahi, bas yahi tha.\\nExecutive: IndiaMART pe call karne ke liye dhanyawaad. Aapka din shubh ho.\\nCustomer: Okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Inquired about a buylead for SS 304 pipe.\\n- Unhappy about receiving a lead from a free member.\\n- Believes paid members should only get leads from other paid members.\\n- Asked for the meaning of TrustSeal.\\n\\nResolution:\\n\\n- Provided buylead details (Buyer: Sanjay Kumar, S K Enterprises, Delhi).\\n- Confirmed the buyer is a free member with a TrustSeal.\\n- Explained leads are sent based on requirement genuineness, not buyer's membership status.\\n- Clarified TrustSeal means the buyer's company documents are verified.\\n- Stated that a purchase cannot be guaranteed.\\n\\nNext Steps: \\nNone\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Annoyed -> Neutral\\n\\n@@@Key Topics:\\n- buylead, paid membership, free member, TrustSeal, lead quality, verification\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=56b328c9-86fc-4fb0-a071-991b08dd7de7",
+  "ucid": "56b328c9-86fc-4fb0-a071-991b08dd7de7",
+  "seller_categories": [
+    {
+      "mcat_id": "182280",
+      "mcat_name": "Mahindra Tractor"
+    },
+    {
+      "mcat_id": "42178",
+      "mcat_name": "Rotavator Blades"
+    },
+    {
+      "mcat_id": "185657",
+      "mcat_name": "Tractor Front End Loader"
+    },
+    {
+      "mcat_id": "442475",
+      "mcat_name": "Mahindra Engine Oil"
+    },
+    {
+      "mcat_id": "221249",
+      "mcat_name": "Mahindra Rotavator"
+    }
+  ]
+}

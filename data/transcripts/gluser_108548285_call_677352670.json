@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677352670",
+  "gluser_id": "108548285",
+  "vintage_months": 64,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9676560",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hi Mansoor?\\nCustomer: Hello?\\nExecutive: Sorry, I'll let you call back. Sorry, much.\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8f5dfd85-0ad2-4445-955c-0d7fe08a76e7",
+  "ucid": "8f5dfd85-0ad2-4445-955c-0d7fe08a76e7",
+  "seller_categories": [
+    {
+      "mcat_id": "88026",
+      "mcat_name": "PVC Wall Panel"
+    },
+    {
+      "mcat_id": "74546",
+      "mcat_name": "PVC Panel"
+    },
+    {
+      "mcat_id": "219343",
+      "mcat_name": "WPC Wall Panel"
+    },
+    {
+      "mcat_id": "132227",
+      "mcat_name": "PVC False Ceiling"
+    },
+    {
+      "mcat_id": "165819",
+      "mcat_name": "Home Painting Services"
+    }
+  ]
+}

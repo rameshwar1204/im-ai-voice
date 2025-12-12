@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672114680",
+  "gluser_id": "231570130",
+  "vintage_months": 5,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661794",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji, aapse baat hui thi na subah Abhishek baat kar raha hu IndiaMART se.\\nCustomer: Bolye na sir.\\nExecutive: Haan, mai keh raha tha ki maine bol diya aapke account manager ko, unhone group bhi bana diya hai. Aur aapko wo feedback aaya tha, usko satisfy kar dena.\\nCustomer: Chalo group to group ban gaya hai, maine dekha bhi hai par record nahi aaya sir abhi tak. Maine shaam me usko just 14 minute record me chala gaya to maine screenshot leke bheja, maine bola record me kyun nahi aaya? Uska kuch reply bhi nahi aaya.\\nExecutive: Kya lead ko leke?\\nCustomer: Hmm.\\nExecutive: To lead to aapko kal se milenge, aaj ki lead to aapne saari consume kar li thi wo.\\nCustomer: Aapne lead consume kari hogi na aage.\\nCustomer: Do teen kiye hai par kaam ke nahi hai, matlab aise hi kiye hai, matlab jaise aaye kisi ne nahi uthaya, maine dekha, notification nahi aaya, to bhi maine consume kiye.\\nExecutive: Achha, koi nahi par aapko ab lead na kal se aayengi, kal kyunki aaj ki to aapne consume kar li na, extra lead de sakte zyada. To kal se aapko WhatsApp pe seedha lead aa jaayengi. Aur wo lead bhi filter out hongi, matlab upar se na aapke account manager ne properly nikaal ke aapko seedha send kar dega wo, theek hai? Baaki aapke usme to aayegi wo lead manager usme by lead me, ab wo WhatsApp pe bhi send kar dega taaki aapko notification aa jaaye, theek hai?\\nCustomer: Hmm.\\nExecutive: Ah, theek hai, baaki wo usko, usko mark kar do aap satisfied kyunki wo concern abhi bhi khula hua hai na.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received leads.\\n\n- Customer has not received a reply.\\n\n\\n\nResolution:\\n\n- Executive assured leads will be sent via WhatsApp.\\n\n- Executive said account manager will filter leads.\\n\n\\n\nNext Steps: \\n\n- Customer needs to mark concern as satisfied.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp, account manager\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5fd60f7f-972a-4cda-90db-31d4004ffc35",
+  "ucid": "5fd60f7f-972a-4cda-90db-31d4004ffc35",
+  "seller_categories": [
+    {
+      "mcat_id": "95490",
+      "mcat_name": "Flameproof Light Fittings"
+    },
+    {
+      "mcat_id": "166294",
+      "mcat_name": "Flame Proof Light"
+    },
+    {
+      "mcat_id": "159416",
+      "mcat_name": "Flameproof Junction Boxes"
+    },
+    {
+      "mcat_id": "163707",
+      "mcat_name": "Flameproof Exhaust Fan"
+    },
+    {
+      "mcat_id": "164371",
+      "mcat_name": "Flame Proof Torches"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672494697",
+  "gluser_id": "157438775",
+  "vintage_months": 27,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Sri Ganganagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9684367",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, haan ji Varun sir, Sunil baat kar raha hun India Mart se.\\nExecutive: Sir, main aapko 5-10 minute mein call karunga.\\nCustomer: Theek hai ji, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer Sunil calling from India Mart.\\n\n\\n\nResolution:\\n\n- Executive will call back in 5-10 minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive to call back in 5-10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, india mart\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=472eb469-cd75-4182-aedc-d6a61cc920f8",
+  "ucid": "472eb469-cd75-4182-aedc-d6a61cc920f8",
+  "seller_categories": [
+    {
+      "mcat_id": "26452",
+      "mcat_name": "Dental Waxes"
+    },
+    {
+      "mcat_id": "189139",
+      "mcat_name": "Wax Carver"
+    },
+    {
+      "mcat_id": "151940",
+      "mcat_name": "Artificial Teeth Sets"
+    },
+    {
+      "mcat_id": "350304",
+      "mcat_name": "Dental Conservative Kit"
+    },
+    {
+      "mcat_id": "177397",
+      "mcat_name": "Dental Kit"
+    }
+  ]
+}

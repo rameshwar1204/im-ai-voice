@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673958027",
+  "gluser_id": "203318076",
+  "vintage_months": 6,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "South 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9627178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\\n\nResolution:\\n\\n\nNext Steps: \\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- None\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 93,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=77c5867a-f366-478e-afef-8368fb57fa46",
+  "ucid": "77c5867a-f366-478e-afef-8368fb57fa46",
+  "seller_categories": [
+    {
+      "mcat_id": "12767",
+      "mcat_name": "Detergent Powder"
+    },
+    {
+      "mcat_id": "221163",
+      "mcat_name": "Loose Detergent Powder"
+    },
+    {
+      "mcat_id": "5081",
+      "mcat_name": "Plywood Boards"
+    },
+    {
+      "mcat_id": "214664",
+      "mcat_name": "Sunlight Detergent Powder"
+    },
+    {
+      "mcat_id": "185002",
+      "mcat_name": "Surf Excel Detergent Powder"
+    }
+  ]
+}

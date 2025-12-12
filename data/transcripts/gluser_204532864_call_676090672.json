@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676090672",
+  "gluser_id": "204532864",
+  "vintage_months": 16,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\n(silence)\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Uh sir, sir aapko na mere senior call kar rahe hain, aap ek baar unki call utha lijiye.\\nCustomer: Haan haan, theek hai, theek hai.\\nExecutive: Uh theek hai, main bolti hoon sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Senior is calling.\\n\n\\n\nResolution:\\n\n- Executive requested the customer to answer the senior's call.\\n\n- Customer agreed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall transfer\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 43,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=717e81a6-5141-499f-9d80-f0c3508b9f5c",
+  "ucid": "717e81a6-5141-499f-9d80-f0c3508b9f5c",
+  "seller_categories": [
+    {
+      "mcat_id": "11144",
+      "mcat_name": "Grey Fabric"
+    },
+    {
+      "mcat_id": "84565",
+      "mcat_name": "Cotton Grey Fabric"
+    },
+    {
+      "mcat_id": "1318",
+      "mcat_name": "Cotton Fabric"
+    },
+    {
+      "mcat_id": "84571",
+      "mcat_name": "Cotton Twill Fabric"
+    },
+    {
+      "mcat_id": "6716",
+      "mcat_name": "Drill Fabric"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672713841",
+  "gluser_id": "103337155",
+  "vintage_months": 11,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Dungarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682340",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHaa. Hello.\\nJi, sir se baat ho sakti hai kya? Sir se baat ho sakti hai?\\nHaa, aap kaun?\\nJi, mai IndiaMART se baat kar rahi hu. Ramesh sir se baat ho sakti hai?\\nOne minute.\\nHello.\\nHello. Hello. Yes. Hello. Ji, Ramesh ji, Alma baat kar rahi hu IndiaMART head office se. Aapse baat\\nMadam, abhi time nahi hai mere paas.\\nAchha, mai kab call kar sakti hu aapko?\\nMadam, aisa ho to aap mere ko 11:30 baje kijiye na.\\nThik hai. Actually parso bhi meri aapse baat hui na, aap keh rahe the mai video meet pe aa jaunga but aapne fir phone hi nahi uthaya pure din mera.\\nHaa, bolo na kya guide karna chahte ho madam, vo bataiye mujhe. Mai aapko kuch leads sir, us din hamari baat hui thi ki Udaipur ki leads hum utha sakte hai. To usi ke liye discuss karna tha aapne but uthaya bhi nahi tha leads ko.\\nBadi baat hai madam, lekin abhi mai thoda kaam me busy hu. Aisa ho to 11:30 baje call kijiye, thik hai?\\nChaliye, thik hai.\\nChaliye, thik hai sir, mai 11:30 pe aapko call karti hu. Thik hai?\\nOkay madam. Thik hai sir. Okay, thank you sir.\\nHaa, welcome.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss Udaipur leads.\\n\n- Customer says executive didn't answer call.\\n\n\\n\nResolution:\\n\n- Executive asked to call at 11:30 AM.\\n\n\\n\nNext Steps: \\n\n- Customer will call at 11:30 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, follow up, call time\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 111,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc740b96-f7ea-4e26-9bda-0e82f3f65c8f",
+  "ucid": "fc740b96-f7ea-4e26-9bda-0e82f3f65c8f",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    }
+  ]
+}

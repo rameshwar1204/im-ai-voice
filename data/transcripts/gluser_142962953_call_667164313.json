@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667164313",
+  "gluser_id": "142962953",
+  "vintage_months": 43,
+  "bl_dau_oct": 11,
+  "customer_type": "STAR",
+  "city_name": "Villupuram",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9632295",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, kaun bol rahe sir?\\nCustomer: Yeah hi Lakshmi mam right?\\n[inaudible]\\nCustomer: Hello.\\nExecutive: Hello.\\nExecutive: No sir, hello.\\nCustomer: Hello, yeah hi mam very good morning this is me Ramesh calling from IndiaMART head office branch right actually your company is running with this life for my India right.\\nCustomer: Yes sir.\\nCustomer: Shree Grow for my India private limited.\\nExecutive: Yes yes yes yes yes. So actually yesterday I got the notification about the video meeting right. So that is the basically reason I will call you. So can we do the video meeting?\\nCustomer: [inaudible]\\nCustomer: Sorry?\\nExecutive: Sir will not available sir. You can make a call afternoon sir.\\nCustomer: By what time?\\nCustomer: After 2 p.m sir.\\nExecutive: Okay no issues. Thank you.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to schedule a video meeting.\\n\n- Customer says the concerned person is unavailable.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 2 p.m.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, availability\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=212a0271-3143-481e-af6f-363b1cd165a9",
+  "ucid": "212a0271-3143-481e-af6f-363b1cd165a9",
+  "seller_categories": [
+    {
+      "mcat_id": "656419",
+      "mcat_name": "Paddy Tray"
+    },
+    {
+      "mcat_id": "158393",
+      "mcat_name": "Agricultural Tray"
+    },
+    {
+      "mcat_id": "150939",
+      "mcat_name": "Rice Seeder"
+    },
+    {
+      "mcat_id": "118704",
+      "mcat_name": "Seedling Trays"
+    },
+    {
+      "mcat_id": "184189",
+      "mcat_name": "Hydroponic Trays"
+    }
+  ]
+}

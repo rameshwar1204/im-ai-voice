@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667437071",
+  "gluser_id": "65202078",
+  "vintage_months": 7,
+  "bl_dau_oct": 8,
+  "customer_type": "TSCATALOG",
+  "city_name": "Wada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan?\\nExecutive: [Unintelligible] se baat kar rahi hu IndiaMART se.\\nCustomer: Are main free hoke thoda sa call back karta hu, main thoda sa bahar aaya hu.\\nExecutive: Haan sir, mujhe bas do minute time de dijiye. Aap sir free hoke mujhe GST aur\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss GST.\\n\n- Customer is currently outside.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\n- Customer will call back when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, callback\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=40fd906b-426f-4ff9-adb6-b9c76149a836",
+  "ucid": "40fd906b-426f-4ff9-adb6-b9c76149a836",
+  "seller_categories": [
+    {
+      "mcat_id": "3343",
+      "mcat_name": "Water Based Inks"
+    },
+    {
+      "mcat_id": "280918",
+      "mcat_name": "Texcron Pigment Emulsion"
+    },
+    {
+      "mcat_id": "191771",
+      "mcat_name": "Water Based Screen Printing Inks"
+    },
+    {
+      "mcat_id": "34329",
+      "mcat_name": "Pigment Powders"
+    },
+    {
+      "mcat_id": "5935",
+      "mcat_name": "Pigment Emulsion"
+    }
+  ]
+}

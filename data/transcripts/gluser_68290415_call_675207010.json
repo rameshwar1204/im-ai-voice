@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675207010",
+  "gluser_id": "68290415",
+  "vintage_months": 1,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Dhubri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711546",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good evening sir.\\nCustomer: Haan ji boliye.\\nExecutive: Sir Preeti baat kar rahi thi IndiaMART head office se aapne call kiya tha sir 9696 wale number pe Bachchan Singh. Haan ji.\\nCustomer: Haan haan.\\nExecutive: Sir main keh rahi thi aapne call kiya tha 9696 wale number pe jo hamara number hai. To aap mujhe bataye kya kya problem hai aapko kuch issue hai?\\nCustomer: Nahi ek order milwaya tha usme contact hi nahi tha. Isliye phone kiya tha.\\nExecutive: Kya nahi tha?\\nCustomer: Contact nahi tha usme. Bara ek order milwaya tha ek product ke upar contact number nahi.\\nExecutive: Contact number nahi tha isliye usme call kiya tha aapne. Buy lead me nahi tha contact number?\\nCustomer: Nahi mil raha hai nahi buy lead me nahi.\\nExecutive: Buy lead me contact number nahi tha. Dekhiye sir wo number jo hai na maine aapse kal baat ki thi wo number jo hai wo hamara ek complaint number hota hai wo wo wala number hai. Customer care wala. To aap agar us pe call karenge na to call mujhe hi aata hai redirect hoke. To aapko koi bhi issue hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says there was no contact in order.\\n\n- No contact number in the buylead.\\n\n\\n\nResolution:\\n\n- Executive clarified the number is complaint number.\\n\n- Executive said call redirects to her.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, contact details, order, complaint\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=20db3b8d-8bfd-4dcd-8498-ec9747587633",
+  "ucid": "20db3b8d-8bfd-4dcd-8498-ec9747587633",
+  "seller_categories": [
+    {
+      "mcat_id": "5196",
+      "mcat_name": "Modular Kitchen"
+    },
+    {
+      "mcat_id": "183052",
+      "mcat_name": "Aluminium Modular Kitchen"
+    },
+    {
+      "mcat_id": "177246",
+      "mcat_name": "WPC Door"
+    },
+    {
+      "mcat_id": "182830",
+      "mcat_name": "L Shaped Modular Kitchen"
+    },
+    {
+      "mcat_id": "154084",
+      "mcat_name": "Wooden Modular Kitchen"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668235160",
+  "gluser_id": "5680622",
+  "vintage_months": 19,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638513",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No transcript available]",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=792270ea-0df2-4469-9a3c-218946670e31",
+  "ucid": "792270ea-0df2-4469-9a3c-218946670e31",
+  "seller_categories": [
+    {
+      "mcat_id": "190844",
+      "mcat_name": "Hospital Curtain Track"
+    },
+    {
+      "mcat_id": "45922",
+      "mcat_name": "Hospital Curtain"
+    },
+    {
+      "mcat_id": "149881",
+      "mcat_name": "Curtain Tracks"
+    },
+    {
+      "mcat_id": "10760",
+      "mcat_name": "Hospital Fowler Bed"
+    },
+    {
+      "mcat_id": "43928",
+      "mcat_name": "Folding Wheelchair"
+    }
+  ]
+}

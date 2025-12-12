@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675942718",
+  "gluser_id": "191475859",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHanji.\\nHan sir, mai Riya bol rahi hu IndiaMART head office se. Actually, jo aapne mujhe do mail ID share ki thi salese@shreenathtradingcompany.com ek ye aap login nahi kar pa rahe hain, dusra purchase shreenath@shreenathtradingcompany.com, right?\\nMain main main aapko batata hu.\\nHan han mujhe confirm kar dijiye, mai wo dono mail ID cross checking wapas kara rahi hu.\\nUs din to aapne mujhe yahi dono mail ID bheji thi.\\nDo ID to login ho gayi hai meri, jo ki director@ aur sales@. Ab ek ID hai purchase@shreenathtrading.com aur dusri hai info@.\\n@shreenath.\\nOkay, sir, ek second aap mujhe bataiye yaha pe jo aapne mujhe purchase wali puri jo aapne mujhe copy karke bheja wo aapne purchase shreenath@shreenathtradingcompany.com bola hai, to exact kya hai uska mail ID?\\nMain aapko WhatsApp karta hu.\\nHan, please aap wo dono mujhe WhatsApp kar dijiye, dono mail ID.\\nHan.\\nOkay, okay sir, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to login to two mail IDs.\\n\n- Wants to confirm the correct email IDs.\\n\n\\n\nResolution:\\n\n- Customer will share the correct email IDs on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email id, login issue, verification\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5882ae22-7276-43ee-ab90-1026dfbdb6a1",
+  "ucid": "5882ae22-7276-43ee-ab90-1026dfbdb6a1",
+  "seller_categories": [
+    {
+      "mcat_id": "134125",
+      "mcat_name": "Xanthan Gum"
+    },
+    {
+      "mcat_id": "44668",
+      "mcat_name": "Caramel Color"
+    },
+    {
+      "mcat_id": "167106",
+      "mcat_name": "Modified Starch"
+    },
+    {
+      "mcat_id": "111358",
+      "mcat_name": "Soya Lecithin"
+    },
+    {
+      "mcat_id": "5896",
+      "mcat_name": "Phosphoric Acid"
+    }
+  ]
+}

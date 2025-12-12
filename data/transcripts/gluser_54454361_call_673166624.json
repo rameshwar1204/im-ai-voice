@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673166624",
+  "gluser_id": "54454361",
+  "vintage_months": 10,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686729",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Good morning sir.\\nExecutive: Sir, good morning sir, I couldn't give you time that day, sir.\\nCustomer: Yeah, no problem sir, no problem. Do you have time today so that I can connect you to video call and correct it?\\nExecutive: So sir, I am on the way sir, should I call you after reaching factory?\\nCustomer: How much time will it take, tell me.\\nCustomer: So that I will call you if you forget.\\nExecutive: Okay, 11:30.\\nExecutive: Okay.\\nExecutive: Okay sir, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect via video call to correct something.\\n\n\\n\nResolution:\\n\n- Executive will call the customer after reaching the factory.\\n\n\\n\nNext Steps: \\n\n- Executive to call customer at 11:30.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Slightly Positive\\n\n\\n\n@@@Key Topics:\\n\nvideo call, timing, factory\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 49,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e0c1914-0663-4eee-9d22-c75a95520eac",
+  "ucid": "8e0c1914-0663-4eee-9d22-c75a95520eac",
+  "seller_categories": [
+    {
+      "mcat_id": "39305",
+      "mcat_name": "Sweet Boxes"
+    },
+    {
+      "mcat_id": "158639",
+      "mcat_name": "Agarbatti Paper Box"
+    },
+    {
+      "mcat_id": "215345",
+      "mcat_name": "Plastic Ice Cream Cups"
+    },
+    {
+      "mcat_id": "185124",
+      "mcat_name": "Plastic Sweet Box"
+    },
+    {
+      "mcat_id": "30768",
+      "mcat_name": "Ice Cream Cup"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "668568101",
+  "gluser_id": "138801372",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nHello\\n\\nHello\\nExecutive: Hello. Haan Kishan ji Namaste main IndiaMART se baat kar raha hun Anant Vajpayee.\\nCustomer: Anant bhai aap kya hai phone pe phone abhi abhi tak subah se abhi tak aapke char se panch baat sahi hai lekin ye aawaz se char se panch phone aa gaye hai abhi tak.\\nExecutive: Hmm hmm.\\nCustomer: Abhi kya janna hai aapko boliye boliye aap kahe wo main aapko janaun.\\nExecutive: Nahi sir basically hum refund kar rahe the usi ke regarding humne call kiya tha sir.\\nCustomer: Haan haan boliye.\\nExecutive: Ek minute sir.\\nExecutive: Sir jo aapka amount tha wo hamari taraf se refund ho gaya theek hai. Mere taraf se matlab ki sari procedure karke procedure hoke wo refund kar diya gaya hai aur aapki services ko deactivate kar diya gaya hai theek hai sir.\\nCustomer: Barabar barabar.\\nExecutive: Theek hai aur ye meri last aapse call hai sir iske regarding theek hai main yahan pe ek jo aapne ticket open kiya tha yaad hoga customer care pe call karke to wo ticket hum jo hai close kar rahe hain sir bhai currently aur uske baad ek mail aapko satisfaction ka jayega main aapko guide kar deta hun usko satisfied mark kar dijiyega theek hai.\\nCustomer: Barabar. Bas sir main aapko kya account mein aa gaye mera.\\nExecutive: Abhi nahi sir ye hamari taraf se kar diya gaya hai mostly man ke chaliye ek hafte ke andar andar aapke account mein credit ho jayenge paise.\\nExecutive: Theek hai.\\nCustomer: Itne jyada din ho gaye.\\nExecutive: Sir kitna amount aapne refund liya hai? Main bata de raha hun.\\n\\nCustomer: Itna jyada time lagega Anant bhai.\\n\\nExecutive: Hello.\\nCustomer: Ji.\\nExecutive: Sir ye amount yahan pe abhi reflect nahi kar raha hai uska aapko mail chala jayega jo bhi amount aapko refund kiya gaya hai.\\nCustomer: Okay koi baat nahi chalo.\\nExecutive: Theek hai main yahan pe ticket close kar raha hun sir ek satisfaction ka aapke pass mail jayega theek hai to usko satisfied mark kar dijiyega theek hai.\\nCustomer: Account mein dene ke baad main karunga na.\\nExecutive: Ji ek minute sir.\\n\\nCustomer: Ye panch minute mein phone nahi karta.\\nExecutive: Haan sir dekhiyega mail chala gaya sir.\\n\\nCustomer: Okay.\\nExecutive: Dekhiye sir gaya mail pe.\\nCustomer: Satisfaction mein baad mein kuch aata hai likhne ka.\\nExecutive: Theek hai sir aap check kar lijiyega aayega to usko satisfied mark kar dijiyega theek hai.\\nCustomer: Haan kar diya.\\nExecutive: Theek hai sir theek hai thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says multiple calls received since morning.\\n\n- Customer asks about refund amount and timeline.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund processed and services deactivated.\\n\n- Executive informed customer about satisfaction email.\\n\n\\n\nNext Steps: \\n\n- Customer to mark satisfaction email after receiving amount.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, satisfaction, email, amount\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 390,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=670e4b43-d8be-4da1-823f-b7e9fff72262",
+  "ucid": "670e4b43-d8be-4da1-823f-b7e9fff72262",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "43251",
+      "mcat_name": "Neodymium Rod Magnet"
+    },
+    {
+      "mcat_id": "145239",
+      "mcat_name": "Screw Flights"
+    },
+    {
+      "mcat_id": "445748",
+      "mcat_name": "Alnico Rod Magnet"
+    }
+  ]
+}

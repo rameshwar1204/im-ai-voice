@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674899228",
+  "gluser_id": "231416671",
+  "vintage_months": 13,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Hoshiarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708107",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello. Hello. Hello. Haan ji. \\nHai Sanjiv sir very good morning. Sir main Hemant baat kar raha hun sir senior manager India market head office se.\\nHello.\\nSir main abhi nahi hun main drive kar raha hun sir.\\nOkay Sanjiv sir bas aap koi suitable time de do sir kyuki aapka feedback aaya tha non satisfy kal aapne jo discussion hua tha uske pe aapne theek hai sir.\\nThik hai Sanjiv sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback was non satisfactory from a previous discussion.\\n\n\\n\nResolution:\\n\n- Request to provide a suitable time to discuss the feedback.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Request to provide a suitable time to discuss the feedback.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, discussion, time\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=eba494b5-5554-4440-b09d-e166f8dccde1",
+  "ucid": "eba494b5-5554-4440-b09d-e166f8dccde1",
+  "seller_categories": [
+    {
+      "mcat_id": "165208",
+      "mcat_name": "CNC Machine Controller"
+    },
+    {
+      "mcat_id": "176456",
+      "mcat_name": "Linear Glass Scale"
+    },
+    {
+      "mcat_id": "20911",
+      "mcat_name": "CNC Controllers"
+    },
+    {
+      "mcat_id": "27870",
+      "mcat_name": "Electronic Controller"
+    },
+    {
+      "mcat_id": "188788",
+      "mcat_name": "Optical Scales"
+    }
+  ]
+}

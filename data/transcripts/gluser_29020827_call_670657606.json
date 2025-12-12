@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670657606",
+  "gluser_id": "29020827",
+  "vintage_months": 86,
+  "bl_dau_oct": 13,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710600",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nExecutive: Hi sir ji, very good morning.\\nCustomer: Ji boliye.\\nExecutive: Maine kaha sir, mai Shreya baat kar rahi hu IndiaMART se. Actually ye recorded line pe call hai. Kal aap se baat hui thi na, to aapne WhatsApp pe negative feedback de diya tha, not satisfied kar sir.\\nCustomer: Ji?\\nExecutive: Not satisfied ka feedback de diya tha WhatsApp pe.\\nCustomer: Haan.\\nExecutive: Sir kya ho gaya?\\nCustomer: Ji?\\nExecutive: Kya ho gaya sir, not satisfied ka feedback diya aapne?\\nCustomer: Hmm, mai aapko ek thodi der me call karu kya? Mai bolunga ki hospital me hu.\\nExecutive: Sir please proposal approve kar dijiye sir. Ye.\\nCustomer: Ji.\\nExecutive: Mai ye kal, sir, ki problem ab nahi hogi. Mai catalog vagera pe enrichment vagera karwa deti hu. Yes, aap ye proposal approve kar dijiye. Amount maine tag kar diya tha, bas mujhe services ke liye proposal, invoice ke liye ye proposal approve kar dijiye. Link maine share kar diya hai, theek hai? Baki jo not satisfied ka feedback diya hai, wo mai conversation close kar deti hu sir. I hope ki abhi aapko.\\nCustomer: Narendra mai aapko batata hu na. Thodi der me phone karta hu.\\nExecutive: Sir ye hamare liye hota hai ki humne aap se baat kari, nahi kari. Iska aapka feedback ye mere liye aur kal Asif ne baat kiya tha accounts team thi, unke liye feedback gaya hai. Please, unke liye nahi.\\nExecutive: Theek hai?\\nCustomer: Ji ji, chaliye mai aapko thodi der me call karta hu.\\nExecutive: Haan, wo proposal zarur approve kar dijiye invoice ke liye mujhe karna hai sir.\\nCustomer: Haan, tag karna hai. Abhi kar dijiye. Bas ab bolenge na invoice ka services ka amount rahega, duration rahega, aap terms and condition pe click karenge and approve kar denge. Theek hai?\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave negative feedback on WhatsApp.\\n\n- Customer needs to approve the invoice proposal.\\n\n\\n\nResolution:\\n\n- Executive assured no further issues with catalog.\\n\n- Executive requested to approve the invoice proposal.\\n\n- Executive offered to close the negative feedback.\\n\n\\n\nNext Steps: \\n\n- Customer will approve the invoice later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, invoice, proposal, approval\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 113,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2e3a2348-4956-4d1e-9a79-c33346bcf17a",
+  "ucid": "2e3a2348-4956-4d1e-9a79-c33346bcf17a",
+  "seller_categories": [
+    {
+      "mcat_id": "186256",
+      "mcat_name": "Agricultural Power Sprayer"
+    },
+    {
+      "mcat_id": "188855",
+      "mcat_name": "Petrol Brush Cutter"
+    },
+    {
+      "mcat_id": "164099",
+      "mcat_name": "Battery Spray Pump"
+    },
+    {
+      "mcat_id": "155463",
+      "mcat_name": "Agricultural Sprayer Pump"
+    },
+    {
+      "mcat_id": "35529",
+      "mcat_name": "Power Sprayer"
+    }
+  ]
+}

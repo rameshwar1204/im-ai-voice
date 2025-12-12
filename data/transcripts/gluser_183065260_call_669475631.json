@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669475631",
+  "gluser_id": "183065260",
+  "vintage_months": 14,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Ha Rakesh sir baat hui thi aapki hamari abhi, fir aapne kyu call kar diya ga?\\nCustomer: Ha.\\nExecutive: Baat matlab mai aapko baat toh kar hi raha hu na aap se mai.\\nCustomer: Are aapne nahi uthaya toh fir maine customer care mai call kiya. Maine\\nExecutive: Aap kuch second toh diya karo sir, ek second mai call back kiya hai maine aapko.\\nCustomer: Ek second mai.\\nExecutive: Accha abhi matlab clear hai aapne iski confirmation ke liye kiya tha na ki wapas kara rahe hai ki nahi kara rahe, refund kara rahe hai ya wapas process bata rahe hai.\\nCustomer: Ha ha koi baat nahi.\\nExecutive: Thik hai. Ha abhi mai isko close kar raha hu ispe dobara apna woh feedback dilwa dijiyega mam se.\\nCustomer: Okay okay. Warna fir aap process mai lage rahega sir aapko batana hai.\\nExecutive: Okay okay.\\nExecutive: Thik hai.\\nCustomer: Kara raha hu mai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called because the executive didn't answer.\\n\n- Customer wanted confirmation on refund process.\\n\n\\n\nResolution:\\n\n- Executive confirmed the refund process.\\n\n- Executive will close the request.\\n\n- Executive requested feedback from the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, callback, confirmation, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=13829277-8f06-4c4a-b46e-6bd0703065e7",
+  "ucid": "13829277-8f06-4c4a-b46e-6bd0703065e7",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    }
+  ]
+}

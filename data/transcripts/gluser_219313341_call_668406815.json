@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668406815",
+  "gluser_id": "219313341",
+  "vintage_months": 18,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bavla",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9646473",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hanji Dharmesh ji good morning Himanshu bol raha hun India mart se\\nExecutive: Himanshu ji\\nCustomer: Hanji sir aapne basically complain raise ki thi regarding aapko meeting karni hai video meeting regarding seller suggestions aur actions ko lekar ke hai na\\nExecutive: To aapko Mohit ko phone kar lijiye na sir wo dusra number hai na hamara 909 wala\\nExecutive: Ha dusra number hai acha mere maine isliye connect kiya ki shayad aapko shayad aapko koi concern tha actually Mohit ji se to connect karta hi rehta hun main to direct number mera number to tha unke pass chaliye main ek bar unko connect kar leta hun\\nCustomer: hmm\\nExecutive: Thik hai thik hai\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to have a video meeting.\\n\n\\n\nResolution:\\n\n- Executive said he will connect with Mohit.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, seller suggestions, video meeting\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ebdcf89c-b4b7-4eca-8f22-2fc292d14063",
+  "ucid": "ebdcf89c-b4b7-4eca-8f22-2fc292d14063",
+  "seller_categories": [
+    {
+      "mcat_id": "33865",
+      "mcat_name": "Paver Blocks"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "10424",
+      "mcat_name": "KERB Stones"
+    },
+    {
+      "mcat_id": "177813",
+      "mcat_name": "Cement Paver Block"
+    }
+  ]
+}

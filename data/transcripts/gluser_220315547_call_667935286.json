@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667935286",
+  "gluser_id": "220315547",
+  "vintage_months": 19,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638224",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Ho tum neron ke bhole amar ho antaryami ho bhagyawan hai hum tripurari aap hamare.\\nExecutive: Hello.\\nCustomer: Hello ha good morning sir.\\nExecutive: Ji good morning sir.\\nCustomer: Ji ji baat kar raha tha Aniket baat kar raha tha sir Mahindra se ji ji bol sir ye bataye jo hamari profile hai wo kon dekhta hai use kon karta hai.\\nExecutive: Do log karte hai hum.\\nCustomer: Do log kon kon use karta hai.\\nExecutive: Ek to mai karta hu ek mere wo bade bhai hai wo karte hai.\\nExecutive: Bade bhai ka naam kya hai sir aapke.\\nCustomer: Wo kya naam usme aa raha hoga mobile number unka 2108 karke na jo.\\nExecutive: Mohit ji kon hai.\\nCustomer: Mohit to koi nahi hai.\\nExecutive: Mohit koi nahi hai.\\nExecutive: To sir ji complaints kyu kar rahe hai inke se complaint kyu aa rahi hai sir ki services ye complaint kar dete hai aap aapki services bhi use kar rahe hai Mohit ji karke.\\nCustomer: Mohit number kya hai unka.\\nExecutive: Ha Mohit last me number hai 332 hai.\\nCustomer: Ha pura hai 084.\\nExecutive: 800 aap note down kariye.\\nCustomer: Ha.\\nExecutive: 084 0332.\\nCustomer: 0332.\\nExecutive: Ab kya hai sir ye aapki services use kar rahe hai thik hai Mohit.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know who views profile.\\n\n- Wants to know why complaints are being filed.\\n\n\\n\nResolution:\\n\n- Executive confirmed two people use the profile.\\n\n- Executive took down Mohit's number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, complaints, services, mohit\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3103d285-7e08-47c5-af7c-244e5e7a7ba4",
+  "ucid": "3103d285-7e08-47c5-af7c-244e5e7a7ba4",
+  "seller_categories": [
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    },
+    {
+      "mcat_id": "655827",
+      "mcat_name": "Marble Dust Resin Statue"
+    },
+    {
+      "mcat_id": "18480",
+      "mcat_name": "Ram Statue"
+    },
+    {
+      "mcat_id": "656092",
+      "mcat_name": "Marble Khatu Shyam Statue"
+    },
+    {
+      "mcat_id": "9873",
+      "mcat_name": "Marble Statue"
+    }
+  ]
+}

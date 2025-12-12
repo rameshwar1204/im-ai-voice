@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671774716",
+  "gluser_id": "4584883",
+  "vintage_months": 114,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677527",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji. Aap kis se baat ho rahi thi sir Ram product se?\\nExecutive: Ji mai Brijesh baat kar raha hu.\\nCustomer: Brijesh ji actually mai Pranjal baat kar raha hu IndiaMART office Noida se.\\nExecutive: Haan ji.\\nCustomer: Sir aapka account manager. Ji actually aapka feedback ek feedback receive hua tha matlab 15 tarikh ko aapne app ke through diya tha ki not getting proper inquiries aapka account manager change matlab iska feedback aaya tha aapka. So kya issue aa raha hai sir? Kyunki maine aap se connect karne ka try kiya tha 14-13 ko bhi but call answer nahi hua tha shayad primary number pe gaya tha maine. Aur last apna conversation 30th October ke aas pass hua tha. Aapne bataya tha to maine bataya tha ki keyword apne pass generate kar.\\nExecutive: Okay.\\nCustomer: Demand generation ke through hota hai ki lead jab generation hoti hai demand hamare pass.\\nExecutive: Okay.\\nCustomer: To uske according vary karti hai ye cheeze. Kyunki baki out of stock hai sirf ek do hi active category hai fabricating ruler aur ek fabricating machine.\\nExecutive: Okay. Okay to aap aap in do do pair ko free hai to ek bar any desk de deta hu aapko ek bar work out kar lete hai kya hai kuch nahi.\\nCustomer: Okay, theek hai ek bar kitne baje connect kar le dopahar mein?\\nExecutive: 3 baje ke aas pass aap free hai to apan sakte hai.\\nCustomer: Haan theek hai sir 3 baje ek mai meeting schedule kar leta hu.\\nExecutive: Okay, theek hai. Theek, theek hai sir. Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting proper inquiries.\\n\nResolution:\\n\n- Executive will connect via AnyDesk to resolve.\\n\n\\n\nNext Steps: \\n\n- Meeting scheduled at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, feedback, anydesk, account manager\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=796f0cee-58c8-48f7-8710-e4ef6145a930",
+  "ucid": "796f0cee-58c8-48f7-8710-e4ef6145a930",
+  "seller_categories": [
+    {
+      "mcat_id": "33921",
+      "mcat_name": "Perforating Machine"
+    },
+    {
+      "mcat_id": "155100",
+      "mcat_name": "Fibrillating Roller"
+    },
+    {
+      "mcat_id": "134087",
+      "mcat_name": "Tape Stretching Line"
+    },
+    {
+      "mcat_id": "74158",
+      "mcat_name": "Weaving Machine Parts"
+    },
+    {
+      "mcat_id": "221402",
+      "mcat_name": "Perforation Roller"
+    }
+  ]
+}

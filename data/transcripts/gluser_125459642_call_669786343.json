@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669786343",
+  "gluser_id": "125459642",
+  "vintage_months": 34,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9659398",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Abhi aapko chus uska chahiye ek wo tender. Hello.\\nHello.\\nYes.\\nHello. Hi sir, good afternoon. Raju Maurya baat kar raha hu India Mart se. Account manager aapka.\\nHanji sir, baad mein baat karte hain.\\nUh sir, zyada time\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants tender details.\\n\n\\n\nResolution:\\n\n- Account manager introduced himself.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer wanted to talk later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tender, account manager, introduction\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9d6182fe-6623-4c61-ab9d-7f9564f7f389",
+  "ucid": "9d6182fe-6623-4c61-ab9d-7f9564f7f389",
+  "seller_categories": [
+    {
+      "mcat_id": "150839",
+      "mcat_name": "HIV Test Kit"
+    },
+    {
+      "mcat_id": "143490",
+      "mcat_name": "Rapid Test Kit"
+    },
+    {
+      "mcat_id": "162267",
+      "mcat_name": "Malaria Test Kits"
+    },
+    {
+      "mcat_id": "8633",
+      "mcat_name": "Pregnancy Test Kits"
+    },
+    {
+      "mcat_id": "164399",
+      "mcat_name": "Typhoid Test Kit"
+    }
+  ]
+}

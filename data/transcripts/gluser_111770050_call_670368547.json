@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670368547",
+  "gluser_id": "111770050",
+  "vintage_months": 58,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Chhindwara",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662550",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=790bbdde-d61a-4b43-b522-8eb317089ec4",
+  "ucid": "790bbdde-d61a-4b43-b522-8eb317089ec4",
+  "seller_categories": [
+    {
+      "mcat_id": "122335",
+      "mcat_name": "Rose Tree"
+    },
+    {
+      "mcat_id": "118493",
+      "mcat_name": "Banana Tissue Culture Plants"
+    },
+    {
+      "mcat_id": "182768",
+      "mcat_name": "Guava Plants"
+    },
+    {
+      "mcat_id": "180420",
+      "mcat_name": "Mango Plant"
+    },
+    {
+      "mcat_id": "145991",
+      "mcat_name": "Lemon Tree"
+    }
+  ]
+}

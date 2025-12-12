@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676555633",
+  "gluser_id": "15908263",
+  "vintage_months": 108,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji friend sports company se baat kar rahe hain.\\nExecutive: Kaun bol raha hai?\\nExecutive: Ji good evening sir, main Shubham baat kar raha hun IndiaMART office se, kaise hain aap?\\nCustomer: Sir abhi to off ho gaya hai, main thoda bahar bhi nikal gaya hun.\\nExecutive: Actually complaint aayi thi usi ke regarding call kiya tha.\\nCustomer: Complaint to bahut sari hain aapki sir, lekin abhi aapne galat time pe call kiya hai. Koi inquiry nahi hai, koi lead nahi hai, sare fake hain aur teen char mahine, che mahine se yahi khel rahe hain. Har ek cheez provide karwa rahe hain, phir bhi bahane pe bahane aap log bana rahe ho. To uske regarding aapko Monday se baat karunga abhi to main out of station hun.\\nExecutive: Sir thoda time le dijiye please. Kal nahi de payenge kya?\\nCustomer: Nahi kal to ek marriage hai, subah 9 baje nikalna hai, to pura din to driving hai. Drive karunga to kal bhi time nahi hai, parso Sunday ho gaya. Fir Monday ka hi rakh lo aap.\\nExecutive: Sunday ke din nahi free rahenge?\\nCustomer: Very very disappointing, very disappointing IndiaMART. Kya bataun main itni bekar service main 10 salon se use kar raha hun. Ye last aur 10 mahine se ye chal raha hai, bilkul hi useless chal raha hai. Pura din staff baat karta hai. Koi response nahi hai, koi zimmevar banda nahi hai. Koi puchne wala nahi hai. Kya hai sirf paise se matlab hai aur koi matlab nahi hai inko. IndiaMART aisa nahi tha.\\nExecutive: Nahi sir aisa nahi hai.\\nCustomer: Nahi nahi sir thoda time hi reh gaya. Jis tarah se behavior hai aap logon ka, kaise renewal kara payenge?\\nExecutive: Are sir aap renewal ki baat mat kariye na, pehle complaint to resolve kar lete hain.\\nCustomer: Kar lena aap Monday ko call karna.\\nExecutive: Sir Sunday ka time de dijiye, Sunday kar lete hain agar aap Sunday free hain to hum to Sunday.\\nCustomer: Sunday time hota hai, bachchon ke sath bahar hote hain. Fir aapke kaam karte hain isliye Sunday din hota hai.\\nExecutive: Theek hai ji sir, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No inquiries or leads are genuine.\\n\n- Making excuses despite providing everything.\\n\n- Bad service and no responsible person available.\\n\n\\n\nResolution:\\n\n- Executive called regarding a complaint.\\n\n- Executive asked for time to resolve the issue.\\n\n\\n\nNext Steps: \\n\n- Customer will talk on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaints, renewal, service\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d5196e4-bc14-46b9-9905-a58f971354fd",
+  "ucid": "8d5196e4-bc14-46b9-9905-a58f971354fd",
+  "seller_categories": [
+    {
+      "mcat_id": "96335",
+      "mcat_name": "Football Jersey"
+    },
+    {
+      "mcat_id": "222315",
+      "mcat_name": "Cricket Jersey"
+    },
+    {
+      "mcat_id": "136631",
+      "mcat_name": "Men Sublimation T-Shirt"
+    },
+    {
+      "mcat_id": "38659",
+      "mcat_name": "Sports Jersey"
+    },
+    {
+      "mcat_id": "183897",
+      "mcat_name": "Men Sports T-Shirt"
+    }
+  ]
+}

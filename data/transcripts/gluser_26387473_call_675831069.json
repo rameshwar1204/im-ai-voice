@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675831069",
+  "gluser_id": "26387473",
+  "vintage_months": 79,
+  "bl_dau_oct": 23,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9706312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Namaskar. Haan ji. Haan ji sir, main Riya bol rahi hu IndiaMART head office se.\\nCustomer: Haan ji boliye madam.\\nExecutive: Haan sir, wo aapne kal aapki mam se baat hui thi aapne wo requirement. Haan mam se baat ho gayi wo close kar do meri.\\nCustomer: Close kar do aap.\\nExecutive: Nahi sir, close to main kar dungi but wo requirement kaise post karte hain wo aapko main dobara batau ya aapko pata hai?\\nCustomer: Main gaadi chala raha hu madam, abhi to nahi kar sakta, main Delhi ja raha hu.\\nExecutive: Okay, to kab baat kar pau ispe ya main close karu kya karu aap bataiye?\\nCustomer: Aap close kar do madam, koi dikkat nahi hai.\\nExecutive: Sir, agar main close karungi to aapko ek satisfaction ka mail bhi jayega ki aapka issue resolve hua to aapko usko yes bhi karna padega.\\nCustomer: Haan madam, yes kar dunga mera koi bhi message aayega to.\\nExecutive: Theek hai sir, theek hai.\\nCustomer: Okay madam.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to close the requirement.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the requirement.\\n\n\\n\nNext Steps: \\n\n- Customer will reply 'yes' to satisfaction mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- requirement, close, satisfaction mail\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e06318cc-d761-4903-b231-e2f96547e66f",
+  "ucid": "e06318cc-d761-4903-b231-e2f96547e66f",
+  "seller_categories": [
+    {
+      "mcat_id": "177486",
+      "mcat_name": "Industrial Water Storage Tank"
+    },
+    {
+      "mcat_id": "3367",
+      "mcat_name": "Water Storage Tanks"
+    },
+    {
+      "mcat_id": "100288",
+      "mcat_name": "Biogas Balloon"
+    },
+    {
+      "mcat_id": "23685",
+      "mcat_name": "Biogas Plant"
+    },
+    {
+      "mcat_id": "148621",
+      "mcat_name": "Portable Biogas Plant"
+    }
+  ]
+}

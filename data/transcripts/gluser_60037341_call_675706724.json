@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675706724",
+  "gluser_id": "60037341",
+  "vintage_months": 60,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mysuru",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9716203",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji. Hello?\\nCustomer: Hello. Namaskar.\\nExecutive: Is this Tanu?\\nCustomer: Hello.\\nExecutive: Hello, is this Tanu speaking? From IndiaMART?\\nCustomer: Yes. Yes.\\nExecutive: Hello, can you hear me?\\nCustomer: Yeah, I can hear you. Hello.\\nExecutive: Yeah, yeah, I got your number directly from the IndiaMART app.\\nCustomer: Okay.\\nExecutive: Yeah, you are, you are, I think you are the current assigned account manager for my company.\\nExecutive: So can you please confirm your company name?\\nCustomer: Sorry, your voice is not audible. It's breaking or [unintelligible].\\nExecutive: Confirm your company name, sir.\\nCustomer: HK Merchandise.\\nExecutive: HK?\\nCustomer: HK Merchandise, HK.\\nExecutive: Okay, yes sir, please tell me.\\nCustomer: Yeah, see, I'm, we are going, I mean, we just got a call from Zoho. We are integrating Zoho towards the company. So we got a call from them just now regarding the integration of IndiaMART to the Zoho CRM.\\nExecutive: So, uh, you want to, uh, you got CRM tool of Zoho?\\nCustomer: Yeah, yeah, Zoho, ma'am, your voice is not clear, ma'am. There is some disturbance.\\nExecutive: Okay, just one minute, just, you know, I will call you directly on your number. Just allow me.\\nCustomer: Yeah, yeah, please, please, please.\\nCustomer: I hope I'm not disturbing you.\\nExecutive: No, no, no, I will connect you just, give me five.\\nCustomer: No problem. If you are, if you are busy, we can connect tomorrow morning also, no problem. Okay? I just wanted to collect the feedback so that I implement the information tomorrow, that's why.\\nExecutive: Okay, no issue. We will connect tomorrow at 9:10 a.m. Okay?\\nCustomer: Yeah, yeah. No problem. Tomorrow morning we'll connect. Thank you.\\nExecutive: Your good name?\\nExecutive: Yeah, Tanu.\\nCustomer: You said Tanu.\\nExecutive: Tanu, okay, okay. Yeah, same person. Yeah, yeah, okay, okay, then. We'll connect on the same number. Thank you. Bye.\\nExecutive: Yeah, sure, sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to integrate IndiaMART with Zoho CRM.\\n\n- Voice not clear, disturbance in the call.\\n\n\\n\nResolution:\\n\n- Executive will call back on customer's number.\\n\n- Agreed to connect the next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call back next day at 9:10 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- zoho, crm, integration, call\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 136,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=889f504d-16cf-41da-8989-ad42760d5ed1",
+  "ucid": "889f504d-16cf-41da-8989-ad42760d5ed1",
+  "seller_categories": [
+    {
+      "mcat_id": "182705",
+      "mcat_name": "Technical Grade Urea"
+    },
+    {
+      "mcat_id": "4462",
+      "mcat_name": "Bleaching Powder"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "1886",
+      "mcat_name": "Acid Slurry"
+    },
+    {
+      "mcat_id": "32176",
+      "mcat_name": "Lime Powder"
+    }
+  ]
+}

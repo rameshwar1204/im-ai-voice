@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672630591",
+  "gluser_id": "18173455",
+  "vintage_months": 9,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Sakti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687715",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Haan haan main Himanshu baat kar raha hun India Mart se.\\nCustomer: Haan bataiye.\\nExecutive: Main ye apni concern thi jo ki jo mobile number change karna wo humne change karwa diya uske baad aapne feedback hame diya not satisfied ka to main jaan sakta hun kya dikkat aa rahi hai service mein?\\nCustomer: Service mein problem ki aap proper acche se leads nahi de rahe ho.\\nExecutive: To uske bare mein to discuss karne ke liye call kiya aapne bola Monday ko hum baat karenge right pehle aapne bola ki aapka number change karwana hai primary number to humne change karwa diya right ab Monday ko jab join karoge.\\nCustomer: Haan theek hai Ashish Jaiswal sir ki baat hui thi.\\nExecutive: Haan haan tabhi tabhi to number India Mart pe aapka change karwa diya aapka number dalwa diya yahan pe.\\nCustomer: Okay.\\nExecutive: To aapne feedback diya not satisfied ka main wohi jaanna chah raha tha kisne diya hai aapne diya hai sir mam ne sir ne diya hai.\\nCustomer: Nahi nahi mere phone se to mere number pe kya hai feedback.\\nExecutive: Haan aapke mere pass nahi hai India Mart ka.\\nCustomer: Nahi nahi.\\nExecutive: Kispe sir gaya whatsapp pe jata hai primary number pe.\\nCustomer: Check karke main check karke batati hun aapko ye number 249 aapka hi hai na.\\nCustomer: Haan ye number to mera hai lekin ye number login nahi hai.\\nExecutive: Aapko kuch dikkat to nahi aa rahi hai na.\\nCustomer: Nahi abhi to main Monday ko discuss karungi.\\nExecutive: Chaliye theek hai main isko close kar de raha hun theek hai mam ab ab na aapke pass feedback bhi jayega mail pe aap agar login hoga so ya fir whatsapp India Mart matlab us app pe login hoga to feedback jarur dijiyega.\\nCustomer: India Mart login mein jayega to haan theek hai.\\nExecutive: Theek hai ek bar kar lijiyega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting proper leads.\\n\n- Customer gave a 'not satisfied' feedback.\\n\n\\n\nResolution:\\n\n- Executive changed the primary number as requested.\\n\n- Executive will close the feedback.\\n\n- Executive asked to provide feedback after login.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will discuss on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, primary number, login\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=aa9d21bb-8fa1-4b3f-b2bd-bc2e63f1b74d",
+  "ucid": "aa9d21bb-8fa1-4b3f-b2bd-bc2e63f1b74d",
+  "seller_categories": [
+    {
+      "mcat_id": "42531",
+      "mcat_name": "Tipper Trucks"
+    },
+    {
+      "mcat_id": "74876",
+      "mcat_name": "Tractor Tipping Trailer"
+    },
+    {
+      "mcat_id": "185976",
+      "mcat_name": "Side Wall Trailer"
+    },
+    {
+      "mcat_id": "68944",
+      "mcat_name": "Truck Trailer"
+    },
+    {
+      "mcat_id": "28568",
+      "mcat_name": "Flatbed Trailers"
+    }
+  ]
+}

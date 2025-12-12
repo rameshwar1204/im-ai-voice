@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668178664",
+  "gluser_id": "241391579",
+  "vintage_months": 2,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643591",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello madam, namaskar.\\nCustomer: Hello.\\n\\nCustomer: Hello.\\nCustomer: Hello, ha sir boliye na.\\nExecutive: Haanji madam, Gaurav baat kar raha tha IndiaMART se.\\nCustomer: Okay.\\nExecutive: Ji madam, abhi Vishal ke sath main hi line pe tha, Vishal se baat ho rahi thi na. To ek to aapne wo mere ko Anshika ko aapne share kar diya hai document uska rent agreement. Ek bar mere ko GST GST side maine uska agreement send kiya hai.\\nExecutive: Haan, ek bar aap GST certificate full three page ka ek bar wo bhi share kar dijiyega. Kyunki at least agar usme main check karna hai ki usme agar additionally aapka address wo add hoga to yahan se easily change ho jayega fir aap. Nahi hoga to fir usko mujhe aage team ko forward karna padega matlab add on karane ke liye.\\nExecutive: To wo ek bar aap certificate three page ka ek wo ho aap wo mere ko ek bar Anshika ko share kar dijiye to fir main aage aur dal deta hu team ko. Nahi kyunki hum log ka jo GST ka jo uske upar address hai na wo mujhe check karna padega ki same hai ki nahi kyunki hum log ne abhi office shift kiya hai na idhar so isliye. Wo isiliye isiliye wo jo bol rahe hain na abhi current office wala jo abhi aapka GST pe address hai ye Pune wala aapka pin code hai 412412 wala pada hua hai aapka.\\nCustomer: Hmm.\\nExecutive: To wo shayad wo dusre address pe kuch bol rahe the change karane ke liye Vishal ne. To nahi abhi jo maine jo rent agreement se address bheja hai na hum log ko wo us wale address pe karna hai. Wahi main samajh raha hu uske liye ab ek bar mere ko GST full wo GST ka certificate hai na wo send kar deti hu. Haan wo ek bar share kar do to main ek bar check kar lunga agar waha pe add hoga to aapka easily fir wo change ho jayega aap yaha pe jo aap bol rahe the. Jo okay fir usko ha to wo main fir ek bar check karna isi vajah se main bol raha tha.\\nCustomer: Okay, theek hai chalega.\\nExecutive: Theek hai to ek bar aap mere ko share kar do wo.\\nCustomer: Ji. Theek hai Anshika ke number hai hi na aapke pass aap unko share kar dijiyega. Haan ji ji okay. Theek hai okay. Hmm.\\nExecutive: Baki aapne 96 pe call kiya hua tha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to change GST address.\\n\n- Executive needs GST certificate for address verification.\\n\n\\n\nResolution:\\n\n- Customer agreed to share GST certificate with Anshika.\\n\n- Executive will check and forward to team.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will share GST certificate with Anshika.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, address change, rent agreement, certificate\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 144,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5b4e38ed-effb-483c-80b0-bc7f65d13d5b",
+  "ucid": "5b4e38ed-effb-483c-80b0-bc7f65d13d5b",
+  "seller_categories": [
+    {
+      "mcat_id": "85223",
+      "mcat_name": "Loading Unloading Services"
+    },
+    {
+      "mcat_id": "171032",
+      "mcat_name": "Machine Shifting Services"
+    },
+    {
+      "mcat_id": "110658",
+      "mcat_name": "Factory Shifting Service"
+    },
+    {
+      "mcat_id": "110420",
+      "mcat_name": "Local Shifting Service"
+    },
+    {
+      "mcat_id": "43542",
+      "mcat_name": "Plant & Equipment Erection Services"
+    }
+  ]
+}

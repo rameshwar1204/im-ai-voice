@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675159828",
+  "gluser_id": "12561656",
+  "vintage_months": 43,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711109",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- None\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 154,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e099f121-bcd5-45c4-9051-3b2ebc6d178b",
+  "ucid": "e099f121-bcd5-45c4-9051-3b2ebc6d178b",
+  "seller_categories": [
+    {
+      "mcat_id": "4061",
+      "mcat_name": "Copper Sulphate"
+    },
+    {
+      "mcat_id": "148592",
+      "mcat_name": "Copper Sulfate Powder"
+    },
+    {
+      "mcat_id": "10868",
+      "mcat_name": "Hydrochloric Acid"
+    },
+    {
+      "mcat_id": "5468",
+      "mcat_name": "Calcium Fluoride"
+    },
+    {
+      "mcat_id": "37299",
+      "mcat_name": "Sodium Fluoride"
+    }
+  ]
+}

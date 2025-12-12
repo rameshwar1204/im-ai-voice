@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "675607194",
+  "gluser_id": "149964757",
+  "vintage_months": 42,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kottayam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682220",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello sir, good evening sir. India Mart from call pani irukom sir.\\nExecutive: Kekuthungala?\\nCustomer: I am in the middle of meeting. Can you call me on some other time?\\nCustomer: Call on tomorrow morning please. Okay? Between 9:30 and 10 o'clock.\\nCustomer: Okay?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to reschedule the call due to being in a meeting.\\n\n- Request to call back tomorrow morning between 9:30 and 10 o'clock.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Call back tomorrow morning between 9:30 and 10 o'clock.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nreschedule, callback\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=75ac6d18-f0fb-43fa-a5ce-6256eac276f3",
+  "ucid": "75ac6d18-f0fb-43fa-a5ce-6256eac276f3",
+  "seller_categories": [
+    {
+      "mcat_id": "2727",
+      "mcat_name": "Ventilation Fans"
+    }
+  ]
+}

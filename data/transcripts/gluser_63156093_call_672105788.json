@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672105788",
+  "gluser_id": "63156093",
+  "vintage_months": 34,
+  "bl_dau_oct": 11,
+  "customer_type": "BL Paid VFCP",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello Hello\\nExecutive: Good evening sir.\\nCustomer: Good evening.\\nExecutive: Sir, I am speaking from IndiaMART backend department.\\nCustomer: Ji.\\nExecutive: Hello sir actually wo aapka concern aaya tha wo services live ke liye right sir. Aapki payment sir hume receive ho gayi hai.\\nCustomer: Hello\\nCustomer: Haan.\\nExecutive: Aapki payment sir hume receive ho gayi hai sir and aapka humne jo concern hai sir wo forward kar diya aapki services hai wo 24 hours me live ho jayegi sir kal se aapki active ho jayegi services. 24 hours ka time lagta hai sir.\\nCustomer: Aap mujhe mail mail mail pe daliye yehi kyuki mujhe trust nahi hai madam ek mahina mera paise ek dedh mahina mera paisa paisa pehle IndiaMART pe aise ghuma diya hai logo ne mujhe pehle trust nahi hai udhar mujhe aapki company se aise kaam karke nahi hai na main madam unko bhi paise kahi se mere ko bhi paise kahi se utha ke service ke liye paise deta hu main madam iske liye aisa nahi aapki company saat din me aath din me chale wo sab mujhe nahi chahiye.\\nExecutive: Okay okay sir 24 hours me aapki sir live ho jayegi kal aapki service active ho jayegi.\\nCustomer: Mail kariye na ye mail mujhe bhejiye mail me likh ke daliye main aapki call ka.\\nExecutive: Haan aap mail kariye.\\nCustomer: Sir main main baat theek hai theek hai main baat karke mail kar deti hu aapko theek hai sir. Mail kara dijiye.\\nCustomer: 24 hours me live bhi ho jayegi.\\nCustomer: Ji.\\nExecutive: Ji ji theek hai sir main mail kar deti hu aapko theek hai sir. Kal ho jayegi bas.\\nCustomer: Haan ji.\\nCustomer: Theek hai.\\nExecutive: Okay sir okay thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's services are not yet live.\\n\n- Wants confirmation via email due to trust issues.\\n\n\\n\nResolution:\\n\n- Executive confirmed payment received.\\n\n- Services will be live within 24 hours.\\n\n- Executive agreed to send a confirmation email.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- subscription, services, email, trust\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=083dfa1b-b8b5-49e6-8e72-3f68d8843f47",
+  "ucid": "083dfa1b-b8b5-49e6-8e72-3f68d8843f47",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "8486",
+      "mcat_name": "Seed Cleaning Machine"
+    },
+    {
+      "mcat_id": "146226",
+      "mcat_name": "Food Grading Machine"
+    }
+  ]
+}

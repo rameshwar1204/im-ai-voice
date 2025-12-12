@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672798565",
+  "gluser_id": "1313795",
+  "vintage_months": 72,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Mohali",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9688043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Yes.\\nExecutive: Ma'am good morning, Numan baat kar raha hu IndiaMART se.\\nCustomer: Haanji haanji Numan kaise ho? Ye kaunsa number hai aapka?\\nExecutive: Ye ek official number hai.\\nCustomer: Accha. Wo actual mein na aapke yahan se kisi ne video meeting ki request open kari thi, to kisse karna tha ek baar?\\nCustomer: Mere ko koi idea nahi hai. Ruko main ek second baat karke batati hu aapko.\\nExecutive: Ek baar bata dijiye. Kuch bhi lena karti hai unhone, haan.\\nExecutive: Haan, ek baar jo bhi hai mujhe confirm kar dijiye.\\nCustomer: Ek Numan mujhe ek baat batao, agar humne sirf ek country ke andar apni visibility strong karni hai, to uska kaise ho sakta hai?\\nExecutive: Us country ki lead zyada consume karna hogi aapko.\\nCustomer: Accha.\\nExecutive: Haan, waise dekhiye, hota kya hai ki jaise hum log ka IndiaMART\\nExecutive: listing packages hote hain na, waise hi isme bhi export mein bhi packages hote hain.\\nExecutive: Theek hai? To usme kya hota hai ki jo aapki industry mein jo gold chala rahe honge, jo diamond chala rahe honge, jo ye do package chala rahe honge, wo upar dikhenge, phir aapki company dikhegi. Lekin hume agar waise hi strong karna hai, to hume un country ki lead zyada consume karna hogi.\\nCustomer: Theek hai. Haanji.\\nExecutive: Theek hai? Aap ek baar mujhe ye confirm kar dijiye, phir main aapko.\\nCustomer: Main puch ke aapko bata deti hu na.\\nExecutive: Okay ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about visibility in one country.\\n\n- Executive called regarding video meeting request.\\n\n\\n\nResolution:\\n\n- Executive explained about export packages.\\n\n- Executive said to consume more leads from country.\\n\n\\n\nNext Steps: \\n\n- Customer will confirm about video meeting request.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- visibility, export packages, video meeting\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=848e59ea-d968-4c45-bbb8-0e02d518eaa7",
+  "ucid": "848e59ea-d968-4c45-bbb8-0e02d518eaa7",
+  "seller_categories": [
+    {
+      "mcat_id": "185010",
+      "mcat_name": "ABB VFD"
+    },
+    {
+      "mcat_id": "181622",
+      "mcat_name": "Yaskawa AC Drive"
+    },
+    {
+      "mcat_id": "2699",
+      "mcat_name": "VFD"
+    },
+    {
+      "mcat_id": "25555",
+      "mcat_name": "DC Drives"
+    },
+    {
+      "mcat_id": "187165",
+      "mcat_name": "Parker AC Drives"
+    }
+  ]
+}

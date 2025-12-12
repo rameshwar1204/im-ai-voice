@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672076882",
+  "gluser_id": "39807399",
+  "vintage_months": 52,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Panipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655665",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji.\\nExecutive: Yes sir, Manish baat kar raha tha IndiaMART se. Manish meeting hui thi aapki taraf se to sir thoda ek time de dijiyega matlab kal ke liye kis time pe wo aayenge to ek book kar lenge hum aapke liye.\\nCustomer: Hmm hmm hmm hmm. Theek hai.\\nExecutive: To aap mujhe prior bata dijiyega ki kya kaise sari cheezon ke liye. Theek hai wo matlab jo cheeze hai na aap remarks jo add kar rahe hain to automatically remarks add karte rahiye. Theek hai hum log kaam kar rahe hain continue mein respect mein.\\nCustomer: Sir tab tak hamara package khatam ho jayega.\\nCustomer: Ye jaate jaate expire ho ja rahi hai.\\nExecutive: Kya keh rahe hain?\\nCustomer: Tab tak hamara package khatam ho jayega jab tak hum sir ye karte rahenge na. Jaise ki do mahine ka package tha to na.\\nExecutive: I am damn sure sir aisa nahi hai.\\nCustomer: Nahi, aisa nahi hai.\\nExecutive: Kisi bhi client ka agar karna hamare liye hamare liye bhi wo hota hai aise aisa aise nahi hoga already matlab jab bhi leads aap purchase kar rahe hain sabhi cheeze kar rahe hain hum bhi us pe kar rahe hain kaam.\\nCustomer: Theek hai sir main baat karta hu na.\\nExecutive: Hai na to ek baar sir se time le lijiye theek hai matlab Vikas karane wale hai kaun karane wale hai?\\nCustomer: Main kar leti hu ek baar baat kar leti hu.\\nExecutive: Haan ek baar baat kar lijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Package expiring before work completion.\\n\n- Wants to schedule a meeting for tomorrow.\\n\n\\n\nResolution:\\n\n- Executive assured package will not expire.\\n\n- Asked to add remarks while working.\\n\n- Asked to confirm time for meeting.\\n\n\\n\nNext Steps: \\n\n- Customer will confirm the time for meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, package, remarks, expiry\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 121,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4a5233b5-70f7-4408-baa8-abc64c6b4e89",
+  "ucid": "4a5233b5-70f7-4408-baa8-abc64c6b4e89",
+  "seller_categories": [
+    {
+      "mcat_id": "852",
+      "mcat_name": "Cotton Yarn"
+    },
+    {
+      "mcat_id": "139784",
+      "mcat_name": "Open End Yarn"
+    },
+    {
+      "mcat_id": "154477",
+      "mcat_name": "Open End Cotton Yarn"
+    },
+    {
+      "mcat_id": "137538",
+      "mcat_name": "Polyester Cotton Yarn"
+    },
+    {
+      "mcat_id": "153534",
+      "mcat_name": "Recycled Cotton Yarn"
+    }
+  ]
+}

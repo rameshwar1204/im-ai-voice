@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677042806",
+  "gluser_id": "115121575",
+  "vintage_months": 1,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9725846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello? Awaz aa rahi hai sir? Hello?\\nJi haan. Sir, mai Himeera baat kar rahi hu. Abhi baat ho rahi thi sir aapse. Maine number share kiya hai aapko dekhiye. Aapko WhatsApp aa gaya kya?\\nMai dekhta hu baad me. Hello?\\nHaa, ek baar. Mai baad me dekhta hu.\\nEk minute dekh lijiye, number bhi save kar lijiye kyuki baad me kuch issue na ho na. Aur plus mapping vagera ke correction ka mai keh rahi thi. Ki products me to kuch add addition hi karana hai na sir abhi apna?\\nHai na? Koi kuch add ya nahi karana? Nahi, kuch nahi karana.\\nKuch nahi karana hai. Baki mujhe changes ki requirement to lagti thi ki mai apni site se jo lag raha hai, mai vo filhal ke liye kar de rahi hu. Thik hai? Koi dikkat to nahi hai na sir aapko?\\nThik hai, aapko jo lage aap kar dijiye.\\nThik hai, mai apni site se kar de rahi hu. Koi baat nahi sir. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance with WhatsApp.\\n\n- Executive asks about product additions/corrections.\\n\n\\n\nResolution:\\n\n- Executive shared number on WhatsApp.\\n\n- Customer denied any need for product additions.\\n\n- Executive will make changes from her side.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, product, correction, mapping\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c2cf131e-e984-46d4-b285-ee0634944d56",
+  "ucid": "c2cf131e-e984-46d4-b285-ee0634944d56",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "146449",
+      "mcat_name": "Marble Mortar"
+    },
+    {
+      "mcat_id": "55402",
+      "mcat_name": "Marble Bathroom Accessories"
+    },
+    {
+      "mcat_id": "445189",
+      "mcat_name": "Marble Urli"
+    },
+    {
+      "mcat_id": "180427",
+      "mcat_name": "Marble Pooja Thali"
+    }
+  ]
+}

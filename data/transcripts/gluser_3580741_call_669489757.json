@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669489757",
+  "gluser_id": "3580741",
+  "vintage_months": 97,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Gaurela",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Raghu Nandan Raghav Ram Hare.\\nHellow\\nCustomer: Ha boliye.\\nExecutive: Ha sir. Sir mai ek chiz keh raha tha, ye jo hamara bill hai 188508 wala jo aapne mere ko bataya tha.\\nIsko sir kya kiya in logo ne, ye jo aapne jo payment kari thi na, do part me divide kiya tha, ek 102000 me kiya tha aur ek 83000 me kiya tha, right?\\nCustomer: Hmm.\\nExecutive: Ha to iska TDS in logo ne alag alag banaya hai.\\nTo vo TDS to aapke pass, vo TDS aapke pass hai?\\nCustomer: Mere ko koi nahi aaya vo TDS invoice.\\nExecutive: Nahi nahi, jaise jo payment aapne jo do payment kiya hua hai na, ek mai bata raha hu aapko. Aaa.\\nExecutive: Ek second.\\nCustomer: Sir invoice ek generate hui hai, ek hi to mere pass hai invoice.\\nExecutive: Ha invoice aapke pass ek aayi hai, lekin payment do bar me hua hai na, to dono ka alag alag TDS kata hua hai isme.\\nTo dono ka TDS jo alag alag kata hai, vo mai bata deta hu aapko.\\nEk jo 4 August me jo hua tha 83000 ka aur 102, 102000 rupaye ka jo aapne payment kiya tha, uska TDS alag kata hai. Ye dono ko club karke in logo ne ek bill banaya tha.\\nTo uska TDS pehle hi kat gaya hai, matlab vo TDS jo hai na, vo alag alag kata hua hai, vo agar uska bill alag se aaya to vo TDS in dono ko hi consider kiya ja raha hai.\\nCustomer: Mera kehne ka matlab hai, mere ko jo invoice mili ya jo payment kiya.\\nExecutive: Ha.\\nCustomer: Usko TDS invoice mili hai.\\nExecutive: Nahi nahi, mai vahi chiz keh raha hu sir, jaise iska na do alag alag hai, to mai dono, dono bhej deta hu, koi dikkat nahi hai. Nahi dono bhej do, usse mere ko koi problem nahi hai.\\nExecutive: Ha mai dono share kar deta hu aapko, iska bhi bhej deta hu.\\nCustomer: 16 amount tally hona chahiye, bak ho gaya usse matlab nahi, do rahe, char rahe usme kya farak padta hai.\\nExecutive: Ek second rukiyega, mai dekho iska TDS.\\nTDS, TDS, TDS.\\nExecutive: Iska TDS invoice sir aaya hoga aapke pass, aisa nahi hoga, in dono ka aaya hoga.\\nCustomer: Aaya hoga to mai kyu aapko bolta ye batao, na aapki koi GST me bhi entry hui hai, na kuch hui hai. To kahi na kahi se to khojte usko.\\nExecutive: Accha, iska generate hi nahi hua hai aapke yaha se TDS invoice, aap samjho baat ko.\\nCustomer: Hmm.\\nExecutive: Ha.\\nExecutive: TDS to yaha pe show kar raha hai ki yaha pe aapke pass TDS.\\nCustomer: To unko aap, aap unko bolo na bhaiya invoice share karo na, unko bolo invoice share karne, fir mai dekhta hu kaha par hai unki invoice. Aayi nahi hai, jo invoice aa rahi hai hum to usko bata, matlab humko to jo GSTR one me bhi dikhta hai, GST 2B me, GST record me to vo bhi nahi aayi hai, ki chalo usme aayi hoti, mere ko deliver nahi hui. To usme bhi already chadhi nahi hai vo.\\nExecutive: Accha accha.\\nCustomer: Ha. Vo ye logo ne matlab TDS amount ko to vo kar apne accounting me le liya hai, lekin uska invoice generate nahi kiya hai ye logo ne.\\nExecutive: Samajh rahe hai aap baat ko?\\nCustomer: Ha ha, samajh raha hu sir.\\nExecutive: Ha.\\nCustomer: To boliye unko aap.\\nExecutive: Mai bolta hu, ek second isko nikalvata hu, thik hai.\\nCustomer: Ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received TDS invoice.\\n\n- TDS not reflected in GST records.\\n\n\\n\nResolution:\\n\n- Executive will check and resolve the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will get back to the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- tds, invoice, payment, gst\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 229,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b36df623-69d5-4d5b-930e-cefa99e2f5d8",
+  "ucid": "b36df623-69d5-4d5b-930e-cefa99e2f5d8",
+  "seller_categories": [
+    {
+      "mcat_id": "184934",
+      "mcat_name": "Riso Digital Duplicator"
+    },
+    {
+      "mcat_id": "96517",
+      "mcat_name": "Digital Duplicator"
+    },
+    {
+      "mcat_id": "163575",
+      "mcat_name": "Wedding Card Printing Machine"
+    },
+    {
+      "mcat_id": "139847",
+      "mcat_name": "Label Cutting Machine"
+    },
+    {
+      "mcat_id": "142686",
+      "mcat_name": "Thermal Lamination Machine"
+    }
+  ]
+}

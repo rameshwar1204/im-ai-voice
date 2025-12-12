@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669397393",
+  "gluser_id": "27100783",
+  "vintage_months": 14,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Bidasar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702421",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHanji ma'am.\\nHello.\\nHello.\\nHan hello aa rahi hai meri aawaz?\\nAa rahi hai ma'am.\\nJi batao.\\nAb meri aawaz aa rahi hai kya aapko?\\nNahi aawaz thodi [inaudible].\\nJi?\\nOffice karu kya kaat ke?\\nHan han aa rahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inaudible voice.\\n\n\\n\nResolution:\\n\n- Asked if voice is audible now.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, audible\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=76333d23-2ea2-40af-a36c-fe78b582cbaa",
+  "ucid": "76333d23-2ea2-40af-a36c-fe78b582cbaa",
+  "seller_categories": [
+    {
+      "mcat_id": "44914",
+      "mcat_name": "Bajra"
+    },
+    {
+      "mcat_id": "148158",
+      "mcat_name": "Aloe Vera Leaf"
+    },
+    {
+      "mcat_id": "180387",
+      "mcat_name": "Nagarmotha"
+    },
+    {
+      "mcat_id": "4444",
+      "mcat_name": "Black Mustard Seeds"
+    },
+    {
+      "mcat_id": "106964",
+      "mcat_name": "Amla"
+    }
+  ]
+}

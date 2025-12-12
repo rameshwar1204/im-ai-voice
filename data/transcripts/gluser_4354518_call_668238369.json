@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668238369",
+  "gluser_id": "4354518",
+  "vintage_months": 106,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Navsari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639860",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Haan ji sir, namaskar main Bhanu baat kar raha hun IndiaMART se, kaise hain aap? Haan ji boliye.\\nCustomer: Ekdam badhiya hain.\\nExecutive: Badhiya hain. Sir aapka na ek incoming call aaya tha jo aapke account manager hai Kajal uske number pe.\\nCustomer: Okay.\\nExecutive: Ji, to batayega sir koi concern aa raha tha aapko IndiaMART se related mein? Kal aapko call kiya tha.\\nCustomer: Mere friend hai.\\nExecutive: Ji.\\nCustomer: Usko ek account naya karwane ka hai IndiaMART mein.\\nExecutive: Theek hai, koi dikkat nahi sir. Aap unka details, unka mobile number wagera hame bhej de dijiye.\\nCustomer: Okay, mere ko hi likhiye na main deta hun aapko.\\nExecutive: Aapka ye number WhatsApp pe hai?\\nCustomer: Haan hai na.\\nExecutive: Achcha, ek minute. Ek minute sir aap call pe rahiye.\\nExecutive: Um, theek hai. Main aapko ek bari na WhatsApp pe hi number bhej raha hun, theek hai na?\\nCustomer: Haan ji. Aapke number pe, aapke number pe hi likh ke bhej raha hun, theek hai? Aap usme unka number bhej de dijiyega, main unse bhai baat karke unko sara details bata dunga kaise kya karna hai, theek hai? Baki sir aapka jo, aapka jo service chal raha hai Hitech Engineers ke naam se, ye Hitech Engineers ke naam se, Hitech Engineers ke naam se chal raha hai.\\nCustomer: Haan, Hitech Engineers ke naam se, okay.\\nExecutive: Achcha response hai na apna sir?\\nCustomer: Haan.\\nExecutive: Theek hai, theek hai. To aapka sir is tarah actually aapka na ek jaise aapne 9696 pe call kiya tha, to uska na ek ticket open hua tha, to wo abhi ticket main iska close kar de raha hun. Aapke paas ek feedback jayega, theek hai? Use aap please satisfy mark kar dijiyega, taki main aapko WhatsApp pe connect kar le raha hun, theek hai na? Haan ji.\\nCustomer: Haan.\\nExecutive: Theek hai, aap",
+  "summary": "\\n\nConcerns:\\n\n- Friend wants to create a new IndiaMART account.\\n\n\\n\nResolution:\\n\n- Executive offered to help create new account.\\n\n- Executive will close the ticket.\\n\n- Executive will connect on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will send friend's details on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- new account, whatsapp, feedback, ticket\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 103,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=799e0019-085a-4915-ba55-7cca10fead10",
+  "ucid": "799e0019-085a-4915-ba55-7cca10fead10",
+  "seller_categories": [
+    {
+      "mcat_id": "143742",
+      "mcat_name": "Mini Rice Mill"
+    },
+    {
+      "mcat_id": "142455",
+      "mcat_name": "Poha Making Machine"
+    },
+    {
+      "mcat_id": "8163",
+      "mcat_name": "Rice Mill"
+    },
+    {
+      "mcat_id": "36429",
+      "mcat_name": "Rice Mill Machinery"
+    },
+    {
+      "mcat_id": "8164",
+      "mcat_name": "Rice Polisher"
+    }
+  ]
+}

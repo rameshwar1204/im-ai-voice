@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670882988",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? \\nExecutive: Aur ji sir, community insurance se baat ho rahi hai?\\nCustomer: Haan haan.\\nExecutive: Uh sir, aapko jo ek concern aa raha tha India One pe, jo abhi resolve ho gaya hai sir?\\nCustomer: Nahi nahi, sorry. Mere baare mein baat kar rahe ho?\\nExecutive: Kya hua, nahi dikh raha?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Concern regarding India One.\\n\n\\n\nResolution:\\n\n- Executive stated the concern was resolved.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer denied having a concern and asked if the executive was talking about him.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\nindia one, community insurance\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12b8d34c-4268-49ad-adcb-92af49dfa686",
+  "ucid": "12b8d34c-4268-49ad-adcb-92af49dfa686",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

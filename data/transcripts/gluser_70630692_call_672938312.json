@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672938312",
+  "gluser_id": "70630692",
+  "vintage_months": 81,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Greater Noida",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9687954",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Naveen ji namaskar.\\nExecutive: Ji namaskar.\\nCustomer: Rahul baat kar raha tha. Message kiya tha aapko whatsapp pe bhi.\\nExecutive: Achha, call kar raha hu main aapko.\\nCustomer: Kar lo koi baat nahi, main recorded line pe call thi na ye wali.\\nExecutive: Achha, koi baat nahi.\\nCustomer: Abhi ho free thoda sa agar connect kar pao main actually kya hai by lead main aapka dekh raha tha. Irrelevant mark nahi kar rahe the na irrelevant ke liye.\\nExecutive: Wo tha baki irrelevant to maine kaha main aapka kiya hua hai ya chaho to samne se bhi dekh lo main sir connect hoke.\\nCustomer: Hello.\\nExecutive: Kya haal hai sir, namaskar.\\nCustomer: Namaskar sir, namaskar.\\nExecutive: Kaise hain aap?\\nCustomer: Badhiya badhiya sir Naveen ji thoda sa kal thoda sa gussa kar rahe the by lead ko leke kal sham ko unka call aaya tha.\\nExecutive: Aap ek baar 46 46 pe connect karenge please?\\nCustomer: Kya bol rahe ho?\\nExecutive: Mere wale number pe connect kijiye please 4646.\\nExecutive: Achha aapke wale number pe, aapke wala number to hai mere paas ye wala 648 na?\\nCustomer: 4646.\\nExecutive: Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not marking irrelevant buyleads.\\n\n- Customer received a call from Naveen regarding buyleads.\\n\n\\n\nResolution:\\n\n- Executive offered to connect and show the process.\\n\n- Executive asked the customer to connect on 4646.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Customer will connect on the provided number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, irrelevant leads, call, connect\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=acd63be3-e4ab-43d9-98e2-09fe58d400ac",
+  "ucid": "acd63be3-e4ab-43d9-98e2-09fe58d400ac",
+  "seller_categories": [
+    {
+      "mcat_id": "215317",
+      "mcat_name": "Ortho Nil Powder"
+    },
+    {
+      "mcat_id": "655535",
+      "mcat_name": "Tiger King Cream"
+    },
+    {
+      "mcat_id": "147954",
+      "mcat_name": "Respiratory Powder"
+    },
+    {
+      "mcat_id": "299998",
+      "mcat_name": "Ayurvedic Dr Biswas Health Capsule"
+    },
+    {
+      "mcat_id": "206491",
+      "mcat_name": "Gopal Herbal Fitness Supplements"
+    }
+  ]
+}

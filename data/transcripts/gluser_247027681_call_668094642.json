@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668094642",
+  "gluser_id": "247027681",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642981",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Ji ji India Mart se?\\nCustomer: Haan ji, bataiye sir.\\nCustomer: Madam ye tumne de rakha hai India Mart se de rakha hai.\\nExecutive: Okay, okay.\\nCustomer: Madam isme humne bola tha 10000 se upar ka 10000 se niche ka dikha raha hai buyer ka.\\nExecutive: Aapki company ka naam bataiye sir?\\nCustomer: Bather Industries.\\n\\nExecutive: Bather Industries se baat kar rahe ho na?\\nCustomer: Haan. Aap paanch minute dijiye main aapki account manager se connect kara rahi hu aapka, theek hai? Is number pe karaana mere number pe.\\nExecutive: Aap mere ko bata do kis number pe karaana hai? Do number de rakhe hai maine is number 9414433428 pe kara.\\nExecutive: Ek second rukiye main dekh leti hu number ye mere paas hai kya 94 wala.\\n\\n\\nExecutive: 428 hai jisme end mein us pe karaana hai?\\nCustomer: Haan ji?\\nExecutive: Jisme end mein 428 hai us pe karaana hai?\\nCustomer: Us pe is pe baat karo.\\nExecutive: Achha, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Showing buyleads below 10000 instead of above.\\n\n- Wants to connect with account manager.\\n\n\\n\nResolution:\\n\n- Executive confirmed the company name.\\n\n- Executive agreed to connect with account manager.\\n\n\\n\nNext Steps: \\n\n- Executive will connect the call.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, connect call\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6005726-3499-4cfb-be77-c887bfe70aa5",
+  "ucid": "d6005726-3499-4cfb-be77-c887bfe70aa5",
+  "seller_categories": [
+    {
+      "mcat_id": "7803",
+      "mcat_name": "Stainless Steel Kitchen Sinks"
+    },
+    {
+      "mcat_id": "42601",
+      "mcat_name": "Single Bowl Kitchen Sink"
+    },
+    {
+      "mcat_id": "42602",
+      "mcat_name": "Double Bowl Kitchen Sink"
+    },
+    {
+      "mcat_id": "10512",
+      "mcat_name": "Kitchen Sinks"
+    },
+    {
+      "mcat_id": "162096",
+      "mcat_name": "Sink Waste Coupling"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676254220",
+  "gluser_id": "184764163",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720551",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: agar aapke pass detail to bata dijiye nahi hai to main naam hai aap bol rahe hain main unse baat kar lenge aur aapko update deti hu\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: good morning sir Sriji traders se baat ho rahi hai\\nCustomer: Yes mam\\nExecutive: sir bhumika baat kar rahi hu India Mart se\\nCustomer: ha sir\\nExecutive: ji sir aapne inquiry raise kari thi\\nCustomer: mujhe mere dosto ke pass 50 lead aayi hai wale mujhe bhi 50 chaiye bas\\nExecutive: sir aapke dosto ke pass aayi hai wo baat theek hai lekin sir aapke pass return mein hai\\nCustomer: mam return mein kya aise thodi nahi hota hai jo cheez rules and regulation hai wo chalao na mam aise unko milenge to\\nExecutive: theek hai sir chaliye main in se baat karke aapko update deti hu mujhe mujhe chaiye lead varna band kar do mera account theek hai sir theek hai okay thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants 50 Diwali buyleads like his friends.\\n\n- Threatens to close account if leads are not provided.\\n\n\\n\nResolution:\\n\n- Executive will talk to team and provide update.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account closure, inquiry\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c227490e-22cf-400e-b963-2eed4de96a49",
+  "ucid": "c227490e-22cf-400e-b963-2eed4de96a49",
+  "seller_categories": [
+    {
+      "mcat_id": "658652",
+      "mcat_name": "Eroxon Stimgel"
+    },
+    {
+      "mcat_id": "445917",
+      "mcat_name": "Erectile Dysfunction injection"
+    },
+    {
+      "mcat_id": "444742",
+      "mcat_name": "Erectile Dysfunction Medicine"
+    },
+    {
+      "mcat_id": "650202",
+      "mcat_name": "Personal Vibrators and Massagers for Women"
+    },
+    {
+      "mcat_id": "446198",
+      "mcat_name": "Phentolamine Injection"
+    }
+  ]
+}

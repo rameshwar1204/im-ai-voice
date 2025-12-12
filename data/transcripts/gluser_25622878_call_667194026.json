@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667194026",
+  "gluser_id": "25622878",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "FCP",
+  "city_name": "Nandivaram-Guduvancheri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650908",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: [inaudible]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Sollunga.\\nCustomer: Sir good morning sir Napriya India Mart la irunthu call pesura Agaran solution.\\nCustomer: Sollunga madam.\\nExecutive: Sir ungaloda account manager kannda manager pesura ippo. So neenga mail pannirukinga sir India Mart ku neengatha share pannirunthingala illa na vera any other person.\\nCustomer: Madam share pannirupanga. Idhu stand number enakkitta koduthirupanga.\\nExecutive: Okay so avanga kitta tha discuss pannura maari irukkum le.\\nCustomer: Avanga kitta discuss pannunga.\\nExecutive: Okay avangalukku call pannen sir avanga edukala. So avanga waiting la iruppanga athu thaan.\\nExecutive: Okay sir naan number avangalukku share pannura WhatsApp pannura enakkku andha number la tha ungala reach panna sollunga sir.\\nCustomer: Sari okay.\\nExecutive: Okay. Enakku enna kuri podura naan.\\nCustomer: Illa sir avanga India Mart kaana refund paid panni mail potrukanga.\\nCustomer: Okay sir okay naan number kodunga naan avangalukku forward pannura.\\nExecutive: Okay thank you.\\nCustomer: Thank you.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know reason for the call.\\n\n- Regarding refund paid for IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive informed that account manager will call.\\n\n- Executive will share the number to the manager.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, account manager, call\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5de7a27b-adf7-4b30-abc4-da0a5bcd8888",
+  "ucid": "5de7a27b-adf7-4b30-abc4-da0a5bcd8888",
+  "seller_categories": [
+    {
+      "mcat_id": "50660",
+      "mcat_name": "Accounting Services"
+    },
+    {
+      "mcat_id": "148210",
+      "mcat_name": "Company Accounting Services"
+    },
+    {
+      "mcat_id": "44240",
+      "mcat_name": "Import Licensing Services"
+    },
+    {
+      "mcat_id": "25342",
+      "mcat_name": "Data Entry Work"
+    },
+    {
+      "mcat_id": "43036",
+      "mcat_name": "Statutory Compliance Services"
+    }
+  ]
+}

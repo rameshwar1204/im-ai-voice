@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675738086",
+  "gluser_id": "16494353",
+  "vintage_months": 41,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mansa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9717828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: Hello\\nExecutive: Hanji. Good morning Piyush ji, Pallavi baat kar rahi hu sir India mart se.\\nCustomer: Hanji mam good morning.\\nExecutive: Ji sir.\\nCustomer: Mam ek doubt tha aapko vaise aai gaya hoga mam ye inhone invoice mujhe 40 hazar ki bheji hai three year plan ki.\\nExecutive: Nahi sir 40 ki nahi wo teen bar me payment hua hai na to alag alag invoice bani hai teen.\\nCustomer: Achcha aisa hai kya.\\nExecutive: Ha ha ha.\\nCustomer: Wo mere ko sirf ek hi aayi hai mujhe sirf ek hi aayi hai wo ki 40 ki aayi hai.\\nExecutive: Okay mai ek bar check kar leti hu vaise ab tak to generate ho gayi hongi sari rukiye ek minute line kariyega sir.\\nExecutive: Wo aapne pehle 40 hazar kiya tha uske baad fir nahi sabse pehle.\\nCustomer: Nahi nahi nahi pehle 30 kiya tha balki pehle wali pehle aani chahiye thi.\\nExecutive: Sir wo sequence thoda sa upar niche ho gaya hoga.\\nCustomer: Nahi nahi wo koi issue nahi hai bas mujhe mujhe ye laga kahi pata lage koi aur plan hi na ho gaya ho.\\nExecutive: Nahi nahi nahi sir abhi keval 40 ki hui hai baki ka aapka hopefully aaj tak generate ho jayega parso hua tha na aapka payment ye.\\nCustomer: Chalo matlab yahi mujhe check karwana tha maine kaha ki ye kahi kuch gadbad to na hui ho.\\nExecutive: Koi issue nahi hai koi issue nahi aapko agar aur clarity chahiye na aap ek kaam ye kariyega control panel pe jab aap jayenge na apne seller panel pe waha pe jab invoice ka option aata hai payments me aapke teeno payment track ho rakhi hai aap invoice me jayenge abhi sirf 40000 ki invoice bani hai baki ki to aaj kal me ban jayengi aapki wo waha pe aapko.\\nCustomer: Chalo wo wo nahi hai mujhe koi issue bas mujhe to ek hi tha maine kaha kahi kuch aur hi na ho gaya ho.\\nExecutive: Nahi nahi nahi koi problem nahi hai.\\nCustomer: Plan me theek theek hai mam thank you.\\nExecutive: Sir concern aapka aaya hua tha customer care se ye mai band kar du abhi.\\nCustomer: Ha ye to kar do ye to yahi tha ye to kal raat ko mere pass invoice hai.\\nExecutive: Mere ko mai call pe hi bata deti aapko.\\nCustomer: Are wo raat ko mam aaya tha maine kaha fir mai bhi bhul jaunga unhone to clear yahi likha tha three year iska ye wo to then i thought ki kuch gadbad na ho gayi ho.\\nExecutive: Nahi nahi boss bilkul sahi hai sir invoice aapka baki ban jayega aaj.\\nCustomer: Theek hai koi issue nahi hai mam.\\nExecutive: Baki sir ek feedback aayega resolution hua hai na wo feedback zarur aap share kar dijiyega.\\nCustomer: Koi baat nahi mam.\\nExecutive: Thank you sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received only one invoice of 40,000.\\n\n- Concerned about potential plan mix-up.\\n\n\\n\nResolution:\\n\n- Executive clarified about multiple invoices.\\n\n- Assured remaining invoices will be generated soon.\\n\n- Explained how to check payment details on seller panel.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback after resolution.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- invoice, payment, plan, seller panel\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8032bee-fa12-4cd0-a6e8-9b952665a544",
+  "ucid": "e8032bee-fa12-4cd0-a6e8-9b952665a544",
+  "seller_categories": [
+    {
+      "mcat_id": "5850",
+      "mcat_name": "PET Jars"
+    },
+    {
+      "mcat_id": "147593",
+      "mcat_name": "Packaging Jar"
+    },
+    {
+      "mcat_id": "156504",
+      "mcat_name": "PET Cans"
+    },
+    {
+      "mcat_id": "1425",
+      "mcat_name": "PET Bottles"
+    },
+    {
+      "mcat_id": "185124",
+      "mcat_name": "Plastic Sweet Box"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669624895",
+  "gluser_id": "202569256",
+  "vintage_months": 8,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhuj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661294",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji sir ji.\\nCustomer: Hello good morning sir kaise hai sir?\\nExecutive: Sir aapne mail kiya ha aapne ek concern raise kiya hua tha ki aapko koi bhi business nahi mila.\\nCustomer: Ha ji sir.\\nExecutive: Koi concern raise nahi kiya tha mujhe to sirf feedback ke liye aaya tha.\\nCustomer: Aur main abhi actually main thoda busy main aapko baad mein call kar sakta hu kya?\\nExecutive: Ha kitne baje call kar lu aap bata dijiye main kar lunga.\\nCustomer: 5:30 baje sham ko.\\nExecutive: Thik hai uske liye to main kar lunga ek bar call aur ye jo aapka concern raise hua hai hamare pass ise close kar du aapki sehmati se.\\nCustomer: 5 baje aap close kar de uske baad call karenge to chalega.\\nExecutive: Kya sir?\\nCustomer: Hum 5 baje baat kare tabhi aap close karenge to chalega kya?\\nExecutive: Sir wo baat to main kar lunga agar aap chahte hain to abhi close kar dunga kya hai na sir piche ye hamare end par raise ho jata hai agar aisa hai to close kar deta hu nahi to sham ko kar dunga koi issue nahi hai isme.\\nCustomer: To hum sham ko hi rakhte hai sir.\\nExecutive: Thik hai sir thik hai main 5 baje call kar lunga.\\nCustomer: Thik hai sir thank you.\\nExecutive: Thank you.\\nCustomer: Thank you sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer stated no business received.\\n\n- Customer wants call back at 5:30 PM.\\n\n\\n\nResolution:\\n\n- Agreed to call back at 5 PM.\\n\n- Agreed to close concern after call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 5 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, call back\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=328cdd4e-c025-4133-8f96-24107b8b2005",
+  "ucid": "328cdd4e-c025-4133-8f96-24107b8b2005",
+  "seller_categories": [
+    {
+      "mcat_id": "443739",
+      "mcat_name": "Ajrakh Saree"
+    },
+    {
+      "mcat_id": "43170",
+      "mcat_name": "Designer Kurtis"
+    },
+    {
+      "mcat_id": "650517",
+      "mcat_name": "Modal Saree"
+    },
+    {
+      "mcat_id": "43237",
+      "mcat_name": "Ladies Kurti"
+    },
+    {
+      "mcat_id": "243899",
+      "mcat_name": "Ajrakh Printed Fabric"
+    }
+  ]
+}

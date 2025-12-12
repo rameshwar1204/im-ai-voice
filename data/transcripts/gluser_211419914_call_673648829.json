@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "673648829",
+  "gluser_id": "211419914",
+  "vintage_months": 21,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696425",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji. Hello, good morning sir. Sir, main Om baat kar raha hun aapka IndiaMART ka account handle se.\\nCustomer: Ji sir, bolo.\\nExecutive: Ji.\\nCustomer: Sir, maine na aap par kafi time se services use nahi kar rahe. Meri aapke jo selling member the unki baat hui thi. Maine unko WhatsApp pe bhi leads by leads maine wo share kari thi kuch. But unhone waha pe bhi koi respond nahi kara sir. To main ye puch raha tha main aapko share kar dun sir by leads jo hai hamari?\\nExecutive: Nahi sir, ye selling wale dekhte hain marketing wale unse baat karo.\\nCustomer: Kya sir?\\nExecutive: Selling wale dekhte hain unse baat karo.\\nCustomer: Achcha, wohi dekhte hain.\\nExecutive: Theek hai, theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not used services for long time.\\n\n- Selling member did not respond to shared leads.\\n\n- Wants to share leads with the executive.\\n\n\\n\nResolution:\\n\n- Executive stated selling team handles lead sharing.\\n\n- Advised customer to contact the marketing team.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, selling team, marketing team\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ecb097a-2a3b-44b4-8a84-e264e1ba3e61",
+  "ucid": "0ecb097a-2a3b-44b4-8a84-e264e1ba3e61",
+  "seller_categories": [
+    {
+      "mcat_id": "7888",
+      "mcat_name": "Steel Door Frames"
+    },
+    {
+      "mcat_id": "11681",
+      "mcat_name": "Door Frames"
+    },
+    {
+      "mcat_id": "94911",
+      "mcat_name": "Entrance Steel Door"
+    },
+    {
+      "mcat_id": "38287",
+      "mcat_name": "Stainless Steel Doors"
+    }
+  ]
+}

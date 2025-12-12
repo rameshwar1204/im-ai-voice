@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673432578",
+  "gluser_id": "246356793",
+  "vintage_months": 6,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Hansi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695553",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Yes sir, very good afternoon.\\n\\nExecutive: Ji.\\nCustomer: Good afternoon.\\nCustomer: Main Mohit baat kar raha hu industry se.\\n\\nExecutive: Haan ji sir bataiye sir.\\n\\nCustomer: Hello\\n\\nExecutive: Hello\\nCustomer: Ji ji.\\nExecutive: Ji sir main sun pa rahi hu bataiye sir kya concern aa raha hai?\\n\\nCustomer: Meri buyleads mein na bulk ke order nahi aa rahe ji maine do teen bar bata diya.\\n\\nExecutive: Bulk ki leads available nahi ho rahi hai, right?\\nCustomer: Ji, ji, ji.\\n\\nExecutive: Haan sir abhi aapne online video meeting ki request dali hai?\\n\\nCustomer: Haan dali hai ji maine kal bhi jo mere wo account jo sambhalte unko kya naam tha unka naam dhyan nahi mere wo phone bhi nahi utha rahe mera.\\n\\nExecutive: Sir aapka call mere number pe hi connect hua tha isliye maine receive kar liya. \\nExecutive: Ah main Google meeting arrange karwa deti hu. Ek bar hum discuss karte hai ki kya filters vagera use karne rahenge ya minimum order quantity set karni rahegi.\\nCustomer: Madam chhe mahine ho gaye wo filter vagera set karte hue abhi tak set hi nahi hue.\\n\\nExecutive: See I am not speaking about filter only. Maine ye kaha ki minimum order quantity agar profile mein set hai ki nahi. Sare parameters check karne rahenge na sir. Wo abhi Google meeting ka link hum bhej rahe hai aap ek bar join kijiye.\\n\\nCustomer: Mere paas bhejo aapne.\\n\\nExecutive: Haan abhi main do minute mein share kar rahi hu aap join kijiyega Google meet.\\n\\nCustomer: Koi nahi bhejo.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving bulk orders in buyleads.\\n\n- Filters not set even after six months.\\n\n\\n\nResolution:\\n\n- Executive offered to arrange a Google meeting.\\n\n- Executive will share the Google Meet link.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, bulk orders, google meet, filters\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4fc41ca2-8241-4c48-8d44-8bcec0fd622b",
+  "ucid": "4fc41ca2-8241-4c48-8d44-8bcec0fd622b",
+  "seller_categories": [
+    {
+      "mcat_id": "21536",
+      "mcat_name": "Absorbent Cotton"
+    },
+    {
+      "mcat_id": "55276",
+      "mcat_name": "Zig Zag Cotton"
+    },
+    {
+      "mcat_id": "23473",
+      "mcat_name": "Bleached Cotton"
+    },
+    {
+      "mcat_id": "139529",
+      "mcat_name": "Medical Cotton Rolls"
+    },
+    {
+      "mcat_id": "1148",
+      "mcat_name": "Surgical Cotton"
+    }
+  ]
+}

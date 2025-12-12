@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673479299",
+  "gluser_id": "126960625",
+  "vintage_months": 19,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Hyderabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9695795",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji, good evening sir.\\nCustomer: Good evening, boliye.\\nExecutive: Ji, Ashraf baat kar raha hun IndiaMART se, kaise hain aap?\\nCustomer: Kaun baat kar rahe hain sir?\\nExecutive: Sir, Ashraf baat kar raha hun IndiaMART ke head office se.\\nCustomer: Ji boliye.\\nExecutive: Abhi aapki call aayi thi na sir IndiaMART mein customer care pe?\\nCustomer: Ji.\\nExecutive: Ji, ji, ji kya kuch issue face kar rahe the sir?\\nCustomer: Is number se call gaya tha kya sir?\\nExecutive: Aaya to tha sir, secondary number se hi matlab mere paas ye jo aapka last mein 345 hai.\\nCustomer: Haan, ye mera number hai. Ek aur dusra number se call kiya hoga.\\nExecutive: Uh, 411, 411 wale se last mein 411 hai.\\nCustomer: Haan, haan.\\nExecutive: Achha chaliye, ispe call karun sir?\\nCustomer: Haan, usi pe call kar lijiye.\\nExecutive: Theek, theek, theek hai, okay sir, okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue and called customer care.\\n\n\\n\nResolution:\\n\n- Executive called to understand the issue.\\n\n- Executive will call on the customer's other number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, customer care, issue\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a0c548bf-addb-4e74-bbbd-7eb23c9cfb7a",
+  "ucid": "a0c548bf-addb-4e74-bbbd-7eb23c9cfb7a",
+  "seller_categories": [
+    {
+      "mcat_id": "181931",
+      "mcat_name": "Cuplock Scaffolding System"
+    },
+    {
+      "mcat_id": "173726",
+      "mcat_name": "Scaffolding Props Jack"
+    },
+    {
+      "mcat_id": "142495",
+      "mcat_name": "Centering Sheets"
+    },
+    {
+      "mcat_id": "50157",
+      "mcat_name": "Adjustable Prop"
+    },
+    {
+      "mcat_id": "53419",
+      "mcat_name": "Centering Plates"
+    }
+  ]
+}

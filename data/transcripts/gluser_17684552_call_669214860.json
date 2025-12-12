@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669214860",
+  "gluser_id": "17684552",
+  "vintage_months": 92,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651898",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello. Namaskar sir, Abhishek baat kar raha hun IndiaMART se.\\nCustomer: Ji sir.\\nExecutive: Ji aapka number mere ko Ajay ji ne share kiya tha.\\nCustomer: Ji ji ji.\\nExecutive: Haan ji aapka number connect nahi ho raha tha team aapko connect karne ki koshish kar rahi thi aapki details pending thi na KYC se related.\\nCustomer: Ji ji ji ji.\\nExecutive: Haan ji to wo ye hai ki aapne jo number provide kara rakha hai usi pe call kar payegi team to wo matlab usi pe call kar payegi uske alawa nahi kar payegi kisi pe. To wo aap hi ka number hai?\\nCustomer: Ji ji wo mera number hai wo mere jo dusre director hai wo unke paas hai filhal number abhi.\\nExecutive: Achcha. Kyunki team. To aap na ye jo call ye jo call arrange karaenge shayad unki tabiyat abhi thodi wo hai.\\nCustomer: [inaudible]\\nExecutive: To aap ek ghante ke baad call arrange kara dijiye main unko connect to kar raha hun lekin ho nahi pa rahi hai meri baat unse.\\nCustomer: Achcha. Thik hai ek baat main team mein mention kar dunga ek ghante baad call karne ke liye bol dunga.\\nCustomer: Ji ji ji. Thik thik thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's KYC details are pending.\\n\n- Executive unable to connect with the customer.\\n\n\\n\nResolution:\\n\n- Executive informed about the number issue.\\n\n- Customer will arrange a call after one hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- kyc, call arrangement, contact number\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8a7e0f6e-3fc6-4dc7-9486-94f9a74ab68c",
+  "ucid": "8a7e0f6e-3fc6-4dc7-9486-94f9a74ab68c",
+  "seller_categories": [
+    {
+      "mcat_id": "146573",
+      "mcat_name": "Wedding Sofa"
+    },
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "3548",
+      "mcat_name": "Wooden Sofa Set"
+    },
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "183010",
+      "mcat_name": "Wooden Diwan"
+    }
+  ]
+}

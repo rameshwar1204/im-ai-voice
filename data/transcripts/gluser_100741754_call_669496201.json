@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "669496201",
+  "gluser_id": "100741754",
+  "vintage_months": 9,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656077",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, Aditya sir Vivek baat kar raha tha, main call manager.\\nCustomer: Haan bolo.\\nExecutive: Sir aapne woh ticket raise kari thi na ki main aapko plan sell karne ki koshish kar raha hu, solution nahi kar raha hu. Toh uske regarding aapne video meet karai thi na schedule, toh woh join kar sakta hu?\\nCustomer: Haan?\\nExecutive: Sir video meet schedule karai thi na aapne? Toh woh video meet abhi kar sakta hu main aapko join kar lenge please meeting ko?\\nCustomer: Kya bol rahe ho aap?\\nExecutive: Main yeh keh raha hu sir ki abhi aapki baat meeting meri schedule thi. Aapne ticket raise kari thi na ki woh plan sell karne ki try kar raha hu main, solution nahi de raha hu. Uske regarding meeting, meeting schedule kari gayi thi aapki aur meri. Toh join kar sakte hai usko main? Main link send aapke email pe ja hi chuki hai. Toh aap please usko join kar lijiye main join kar raha hu udhar se na.\\nCustomer: Haan, chalo join karo.\\nExecutive: Haan, toh phone pe kar rahe hai ya laptop vagera pe kar rahe hai?\\nCustomer: Kya?\\nExecutive: Phone pe abhi kar rahe hai ya laptop vagera pe kar rahe hai aap?\\nCustomer: Laptop pe.\\nExecutive: Theek hai sir toh kar lijiye, aap join kariye aap usko main bhi join kar leta hu udhar se.\\nCustomer: Haan?\\nExecutive: Aap join kariye sir isko.\\nCustomer: Join kiye wala hai na already.\\nExecutive: Sorry sir?\\nCustomer: Join kiye wala hai na already.\\nExecutive: Theek hai sir, ek second try kar lijiye.\\n\\nExecutive: Hello.\\nCustomer: Haan boliye na.\\nExecutive: Haan ji sir, main screen share karta hu aapke saath mein, ek aapko batata hu main.\\nExecutive: Screen show ho rahi hogi sir aapko meri na?\\nCustomer: Haan?\\nExecutive: Screen show ho rahi hogi aapko meri?\\nCustomer: Yeh aa gaya.\\nExecutive: Haan, ek second.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised a ticket about plan selling.\\n\n- Customer wants to join the meeting.\\n\n\\n\nResolution:\\n\n- Executive joined the meeting with the customer.\\n\n- Executive shared the screen with the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, plan, screen share\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 129,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cd782ca1-3083-44ab-bb16-9552e4ccf8da",
+  "ucid": "cd782ca1-3083-44ab-bb16-9552e4ccf8da",
+  "seller_categories": [
+    {
+      "mcat_id": "168375",
+      "mcat_name": "Highway Road Construction"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "168245",
+      "mcat_name": "Bungalow Construction Service"
+    }
+  ]
+}

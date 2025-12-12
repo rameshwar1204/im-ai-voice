@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676984632",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Aap hame kal subah phone kare na please.\\nExecutive: Sami sir, Sami sir Dev baat kar raha tha. Main bilkul maan gaya woh subah phone kar lunga hai na. Kal Sunday hai.\\nCustomer: Dev bhaiya hum bahut bhi aaj Somwar ko phone kare.\\nExecutive: Somwar ko haan kal Sunday hai aur jante hain sir ek jo ticket khuli thi na maine usko mail pe aapke kar raha hu usme satisfied yes kar dijiyega.\\nCustomer: Haan haan.\\nExecutive: Aaram se kar dijiyega bhai.\\nCustomer: Ticket dega de dijiyega.\\nExecutive: Bilkul bilkul aur aapka ek cheez aur reh gaya tha sir. Ek tej patta naam se aap aapne product add kiya kya sir isme?\\nCustomer: Ah, ye pehle se tha sir.\\nExecutive: Pehle se tha. Main isko theek kar dunga. Theek hai tej patta naam se tha na apne catalog mein dekh lijiyega na sir isme.\\nCustomer: Haan haan hai.\\nExecutive: Haan haan haan toh theek hai. Uska main woh fill kar dunga sara security done kar dunga aur aap uska uspe kya karte hain ki mail pe satisfied yes karke aap mujhe uska bhej dijiyega.\\nCustomer: Kar dega bhai.\\nExecutive: Bilkul bilkul sir Sami sir. Dhanyavad usi ke liye click kar rahe the main bhej raha hu. Aap behtar janta hai theek.\\nCustomer: Bilkul bilkul bilkul sir ho jayega aapka. Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants executive to call next morning.\\n\n- Customer needs to mark ticket as satisfied.\\n\n- Customer needs to verify Tej Patta product.\\n\n\\n\nResolution:\\n\n- Executive agreed to call next morning.\\n\n- Executive is mailing the ticket.\\n\n- Executive will fix Tej Patta product.\\n\n\\n\nNext Steps: \\n\n- Customer will mark ticket as satisfied.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, product, catalog, follow up\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9757a7dd-a3b5-467c-b4a7-fed9dd2a68ef",
+  "ucid": "9757a7dd-a3b5-467c-b4a7-fed9dd2a68ef",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

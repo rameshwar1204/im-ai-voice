@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669485714",
+  "gluser_id": "250383971",
+  "vintage_months": 3,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651645",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji good evening Nishant ji se baat ho rahi hai?\\nExecutive: Haan ji haan ji sir.\\nCustomer: Nishant ji Pankaj baat kar raha hu IndiaMART head office se relationship manager. Kaise hai sir ji aap?\\nCustomer: Ji main badhiya sir.\\nExecutive: Aapka sir ye Dikti over jo catalog run kar raha hai ye aap hi dekh rahe hai ya aap koi staff vagera dekh raha hai sir?\\nCustomer: Nahi nahi nahi mere bade bhai dekh rahe hai sir main nahi dekh raha hu.\\nExecutive: Aapke bade bhai hai? But sir number to aapka aa raha hai sir yaha pe registered number.\\nCustomer: Haan registered number mera par wo wo hi dekh rahe hai sir.\\nExecutive: Wo dekh rahe hai aur yaha pe na kal ek feedback receive hua tha aapki side se buyleads ko leke to aapne diya tha ya aapke bhaiya ne diya tha sir?\\nCustomer: Bhaiya ne diya hoga sir.\\nExecutive: To wo 464 jo number hai last mein aapke bhaiya ka number hai sir wo?\\nCustomer: Sir mera hi hai.\\nExecutive: 9 se start hai sir 9 se start hai aur 464 hai last mein.\\nCustomer: Wo bhi mere hi number hai sir.\\nExecutive: To fir aapke bhaiya kaise dekh rahe hai sir isko?\\nCustomer: Wo system pe dekh rahe hai na sir system pe dekhte hai. Number mobile mein to chal nahi raha na system pe baithe hai wahi dekhte hai.\\nExecutive: Okay to aap ek baar unka number de denge sir mere ko taki main baat kar lu unse.\\nCustomer: Haan main number bata hu.\\nExecutive: Ji bata dijiye please.\\nCustomer: 95\\nExecutive: Ji\\nCustomer: 482\\nExecutive: 482\\nCustomer: 10477\\nExecutive: 10 477\\nCustomer: 477 repeat kar deta hu 95\\nExecutive: Ji\\nCustomer: 482\\nExecutive: Ji\\nCustomer: 10477\\nExecutive: Aur Vikas Vikas name hai unka theek hai.\\nCustomer: Vikas\\nExecutive: Theek hai chaliye main na isko na jaise hi resolve karunga jo bhi unhone feedback diya tha aapko ek mail aayega please us pe satisfied mark kar lijiyega sir Nishant ji theek hai.\\nCustomer: Okay okay.\\nExecutive: Pehle main baat kar lu aapke bhaiya se baat kar lu pehle main.\\nCustomer: Theek hai okay okay Nishant ji thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired about catalog management.\\n\n- Executive asked about feedback on buyleads.\\n\n\\n\nResolution:\\n\n- Customer provided his brother's contact number.\\n\n- Executive will resolve feedback and send a mail.\\n\n\\n\nNext Steps: \\n\n- Executive will contact customer's brother.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, buyleads, feedback, contact number\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 138,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d500edaa-38c4-43c0-b04c-c72bb5c62f41",
+  "ucid": "d500edaa-38c4-43c0-b04c-c72bb5c62f41",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "146230",
+      "mcat_name": "Pickle Jars"
+    },
+    {
+      "mcat_id": "445896",
+      "mcat_name": "Goli Soda Glass Bottle"
+    },
+    {
+      "mcat_id": "74494",
+      "mcat_name": "Honey Jar"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676732120",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\n\\nCustomer: Hello?\\n\\nExecutive: Hello. Good morning, ma'am.\\n\\nCustomer: Good morning, bhai. Ma'am, bas vahi maine na apne senior se bhi call karaya tha. Unko bhi diya tha na account maine aapko bataya tha parso jab aapne call kiya tha mujhe. \\n\\nCustomer: Hai na? To unko sara highlight kar diya tha sari cheeze. To unhone bhi aaj shayad abhi call bhi aaya hoga shayad aapke voice ki vajah se cut gaya hoga beech mein hai na?\\n\\nCustomer: Hmm.\\n\\nExecutive: To to unhone dekh liya hai matlab unhone bola ki sari cheeze iska proper ho jayega. Aapke paas inquiry flow badhne lagega abhi yahan se. To sari cheeze aise. Humne category sari cheeze usko sara unhone jo jo bataya hume sari cheeze humne proper kar di uske hisab se aapke.\\n\\nCustomer: Hmm.\\n\\nExecutive: To from here onward aap dekhenge ki aapke paas jo inquiry flow hai wo daily daily basis pe dhire dhire change hota rahega.\\n\\nCustomer: Hmm.\\n\\nExecutive: Theek hai? Baki aapke paas kuch bhi issue hai aapke paas helpline number hai you can call me anytime hai na sari cheeze ke liye.\\n\\nCustomer: Okay, sir.\\n\\nExecutive: Theek hai? Baki aur baki wo uska Aryan ka feedback aayega to wo de dena last time jab bataya hoga na Aryan ne video call pe.\\n\\nCustomer: Hmm.\\n\\nExecutive: Matlab jiska to wo de dena aap. Theek hai ticket close ho gaya. Theek hai thank you.\\n\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call got disconnected due to voice issue.\\n\n\\n\nResolution:\\n\n- Executive informed about account being highlighted to senior.\\n\n- Executive assured inquiry flow will increase.\\n\n- Executive provided helpline number for any issues.\\n\n- Executive asked to provide feedback of Aryan.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry flow, feedback, account update\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6c2a812f-dedc-4ea4-8b9e-81bc15976927",
+  "ucid": "6c2a812f-dedc-4ea4-8b9e-81bc15976927",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

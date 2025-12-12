@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670849047",
+  "gluser_id": "39807399",
+  "vintage_months": 52,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "Panipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655665",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nHanji.\\nExecutive: Yeah, hi ma'am, good morning, good afternoon. Arif baat kar raha hu ji baat se.\\nHanji, hanji.\\nExecutive: Wo maine aapko bataya tha ki main hu jo ki usi connect kar legi sir.\\nOkay, to abhi bol kitne baje connect kar lenge? Kirti ko abhi kar lo aap call.\\nExecutive: Ji, achcha achcha.\\nExecutive: Theek hai, wo nine chain nine chain wala number na jo number hai aapke pass.\\nHanji, hanji.\\nExecutive: Theek hai, theek hai, theek hai, theek hai, main karta hu, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Connect with Kirti.\\n\n\\n\nResolution:\\n\n- Executive will call Kirti on the nine chain number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, connect, number\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5d462070-d189-4eb6-aeff-5606b8f830e1",
+  "ucid": "5d462070-d189-4eb6-aeff-5606b8f830e1",
+  "seller_categories": [
+    {
+      "mcat_id": "852",
+      "mcat_name": "Cotton Yarn"
+    },
+    {
+      "mcat_id": "139784",
+      "mcat_name": "Open End Yarn"
+    },
+    {
+      "mcat_id": "154477",
+      "mcat_name": "Open End Cotton Yarn"
+    },
+    {
+      "mcat_id": "137538",
+      "mcat_name": "Polyester Cotton Yarn"
+    },
+    {
+      "mcat_id": "153534",
+      "mcat_name": "Recycled Cotton Yarn"
+    }
+  ]
+}

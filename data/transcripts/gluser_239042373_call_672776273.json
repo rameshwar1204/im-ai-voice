@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672776273",
+  "gluser_id": "239042373",
+  "vintage_months": 1,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Good morning sir.\\nCustomer: Ha boliye.\\nExecutive: Sir Jolly baat kar rahi thi IndiaMART se sir.\\nCustomer: Ha boliye boliye.\\nExecutive: Sir aapne jo hai customer service pe jo hai connect kiya tha sir.\\nCustomer: Ha order nahi mil rahi thi madam abhi ek dedh mahina ho gaya mere ko order nahi mil rahi thi kuch bhi nahi.\\nExecutive: Aapko leads nahi mil rahe hai.\\nCustomer: Leads bhi nahi mil rahe aur mere ko proper ek wo aapne baat ho gaya tha kal aap bole the wo main baat karungi wo service ke liye matlab koi guide karne ke liye chahiye banda apne ground level pe.\\nExecutive: Ji bilkul sir kal hi jo hai hamara discussion hua tha sir.\\nCustomer: Hmm.\\nCustomer: Dekh lijiye na kuch kariye nahi to phir bata dijiye na.\\nExecutive: Sir leads jo hai matlab limited hai sir products ke regarding sir.\\nCustomer: Aur jo abhi phir wo wo baat kiya kya aapne wo jo mere ko ek banda chahiye wo discuss karne ke liye.\\nExecutive: Sir main uske regarding jo hai aapke discussion hi karna chah rahi thi maine senior se jo hai discuss karke phir main aapko jo hai confirm karati hu.\\nCustomer: Ha confirm kijiye.\\nExecutive: Aap mujhe sir thoda sa time dijiye main aapko jo hai call back karungi sir.\\nCustomer: Thik hai thik hai okay okay.\\nExecutive: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving orders since one and a half months.\\n\n- Needs a person to guide on ground level.\\n\n\\n\nResolution:\\n\n- Executive will discuss with senior and confirm.\\n\n- Executive will call back after discussion.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, orders, ground level support\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=66a9af34-1a18-4f1c-8397-27aba7325fa5",
+  "ucid": "66a9af34-1a18-4f1c-8397-27aba7325fa5",
+  "seller_categories": [
+    {
+      "mcat_id": "203560",
+      "mcat_name": "JLG Boom Lift"
+    },
+    {
+      "mcat_id": "42992",
+      "mcat_name": "Articulated Boom Lifts"
+    },
+    {
+      "mcat_id": "168775",
+      "mcat_name": "Boom Lift Rental"
+    },
+    {
+      "mcat_id": "42461",
+      "mcat_name": "Crane Rental"
+    },
+    {
+      "mcat_id": "23724",
+      "mcat_name": "Boom Lift"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670107642",
+  "gluser_id": "52902250",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Vengurla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nCustomer: Hello\\nExecutive: Ha boliye.\\nCustomer: Hi sir very good afternoon mai samyak baat kar raha hu sir India Mart se aapka account manager kaise hai?\\nCustomer: Ha ha good morning sir boliye.\\nExecutive: Hanji hanji sir sir aapne hamari service team ke liye regarding aapne call kiya tha service number pe aapke pass mera number save nahi hai kya sir?\\nCustomer: Uh\\nCustomer: Shayad se nahi hai save.\\nExecutive: Thik hai mai aapko na ek bar apne aapko number abhi share kar dunga to aap save kar lena usko hai na and aapki query kya thi sir ab aap bata sakte hai?\\nCustomer: Uh kab kab call kiya tha?\\nExecutive: Abhi aapne thodi der pehle hi call kiya tha.\\nCustomer: Uh nahi maine nahi kiya galti se lag gaya hoga.\\nExecutive: Nahi nahi sir aapne actually pura like aapko ye janna tha ki aapko by leads wagera kitni aati hai.\\nCustomer: Accha accha to aap India Mart nahi actually jo hamara employee hai na unhone kiya rahega mai unse baat karta hu aur aapka number unko deta hu wo aapko call karenge.\\nExecutive: Aap sir ek bar ek bar number unka spell kar dijiye just mai unko call kar lu kyuki hamare pass ek ticket rehta hai to humko immediately usko close karni hoti hai hai na aap ek bar number spell kar dijiye.\\nCustomer: Okay okay.\\nCustomer: 9657\\nExecutive: 9657\\nCustomer: Aap aadha ghanta kya kar rahi hai aap aise boliye wo sab aise hi karte hai.\\nExecutive: Sorry.\\nCustomer: 09\\nExecutive: 09\\nCustomer: 24\\nExecutive: 24\\nCustomer: 51\\nExecutive: 51\\nExecutive: Thik hai inka naam kya hai sir?\\nCustomer: Latesh.\\nExecutive: Latesh.\\nCustomer: Ha.\\nExecutive: Okay okay okay thik hai mai ek bar unko call kar leta kyuki unki taraf se ticket aayi thi to mai usko close karunga to aapke pass sir ek feedback aayega mail pe to just mai ek bar baat karne ke baad fir aapko call karta hu sir okay.\\nCustomer: Thik hai thik hai chalo.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know about buyleads.\\n\n- Customer says his employee made the call.\\n\n\\n\nResolution:\\n\n- Executive asked for the employee's number.\\n\n- Executive will call the employee.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, call, employee, ticket\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 143,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=428c2be4-c605-46d4-ba13-d19974db8745",
+  "ucid": "428c2be4-c605-46d4-ba13-d19974db8745",
+  "seller_categories": [
+    {
+      "mcat_id": "28702",
+      "mcat_name": "Food Dehydrators"
+    },
+    {
+      "mcat_id": "140826",
+      "mcat_name": "Vegetable Dehydration Machine"
+    },
+    {
+      "mcat_id": "132885",
+      "mcat_name": "Fruit Pulper"
+    },
+    {
+      "mcat_id": "77637",
+      "mcat_name": "Kaju Cutter"
+    },
+    {
+      "mcat_id": "180438",
+      "mcat_name": "Stainless Steel Pulverizer"
+    }
+  ]
+}

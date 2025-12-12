@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672419712",
+  "gluser_id": "13034161",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665519",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "This call is now being recorded.\\nCustomer: Hello.\\nCustomer: Sir, sir, mai actually kapde ki dukan me hu, kapde lene ke liye aaya tha bacche ke liye. Mai just thoda selection kar raha hu, aapko karta hu call.\\nCustomer: Waise maine wo baat ki hai already Hiba madam se ki jo inquiries false the.\\nExecutive: Okay.\\nExecutive: To sir ek baar detail discussion kar lete hai. Aap madam ke saath ek baar detail discussion ya mere saath bhi detail discussion. Madam ke saath maine madam ke saath aaj subah me kiya hua hai mai 11:00, 11:00, 12:00 ke beech me.\\nExecutive: Achcha. Achcha baat ho gayi hai madam se?\\nCustomer: Haan, baat ho gayi hai. Maine unka concern bataya jo bhi hai mera, thik hai?\\nExecutive: Thik hai, thik hai, thik hai. Okay sir, thank you. Okay to mai ek baar aapse to mai ye jo concern hai mai isko ye close kar du. Aap connect me hai ya koi doubt hai to please mujhe bataiye.\\nCustomer: Haan, mai Hiba madam ke saath confirm me hu, connection me hu. Aap close kar dijiye.\\nExecutive: Unse baat karke close kar dijiye. Thik hai, thik hai. Thik hai, mai unse baat karke concern close kar deta hu. Baki jab bhi aap koi bhi dikkat ho Hiba madam ka number aapke paas hai na?\\nCustomer: Yes, yes, yes. Aap direct connect kariye number pe. Customer care se connect karne ki kya jarurat hai. Chutti pe gayi thi isliye unse baat nahi hui.\\nExecutive: Haan, right, right, right. Chutti pe gayi thi wo. Right.\\nCustomer: Bol diya unhone. Mere ko laga actually phone nahi utha rahe the.\\nExecutive: Thik hai. Haan, wo mai okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had false inquiries.\\n\n- Customer was unable to connect with Hiba madam.\\n\n\\n\nResolution:\\n\n- Executive confirmed customer spoke with Hiba madam.\\n\n- Executive offered to close the concern.\\n\n- Executive confirmed Hiba madam's number with customer.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, false, hiba madam, connect\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=513eef6a-b8d1-461f-be6a-b90ff4c94e6a",
+  "ucid": "513eef6a-b8d1-461f-be6a-b90ff4c94e6a",
+  "seller_categories": [
+    {
+      "mcat_id": "222876",
+      "mcat_name": "Azan Display"
+    },
+    {
+      "mcat_id": "27891",
+      "mcat_name": "Electronic Indicators"
+    },
+    {
+      "mcat_id": "41405",
+      "mcat_name": "World Time Clock"
+    },
+    {
+      "mcat_id": "26607",
+      "mcat_name": "Digital Display"
+    },
+    {
+      "mcat_id": "32165",
+      "mcat_name": "LED Digital Clock"
+    }
+  ]
+}

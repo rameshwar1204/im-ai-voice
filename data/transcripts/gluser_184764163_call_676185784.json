@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676185784",
+  "gluser_id": "184764163",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720551",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bf7cce8d-f0fb-4fa4-b3d2-79a818fa057c",
+  "ucid": "bf7cce8d-f0fb-4fa4-b3d2-79a818fa057c",
+  "seller_categories": [
+    {
+      "mcat_id": "658652",
+      "mcat_name": "Eroxon Stimgel"
+    },
+    {
+      "mcat_id": "445917",
+      "mcat_name": "Erectile Dysfunction injection"
+    },
+    {
+      "mcat_id": "444742",
+      "mcat_name": "Erectile Dysfunction Medicine"
+    },
+    {
+      "mcat_id": "650202",
+      "mcat_name": "Personal Vibrators and Massagers for Women"
+    },
+    {
+      "mcat_id": "446198",
+      "mcat_name": "Phentolamine Injection"
+    }
+  ]
+}

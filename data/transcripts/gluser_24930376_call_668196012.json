@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668196012",
+  "gluser_id": "24930376",
+  "vintage_months": 101,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajpur Sonarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639484",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan sir ji.\\nCustomer: Hello\\nCustomer: Haan ji sir, main ye bol rahi thi aapse ki aapke jis line se baat ho rahi hai, boliye aapka jis city mein jo bhi address hai aapko wahin se update karana hoga.\\nCustomer: Theek hai, theek hai, main aapko update karati hoon.\\nExecutive: Haan aap kya bol rahe hain?\\nCustomer: [unintelligible]\\nExecutive: Aapka na aapka koi aur koi number hai to boliye aap, aapka line jo bahut bekar hai. Subah se kareeb 10 baar aapse baat hua hai lekin ek baar bhi matlab clearly sunai nahi de raha hai. Aapka aur koi number hai to mujhe bataiye.\\nCustomer: 98\\nExecutive: Haan aap pahle phir se boliye.\\nCustomer: 9810\\nExecutive: Madam mera jo personal number hai na aapke paas?\\nCustomer: Haan ji, aapko personal number mein. Mera mera personal number pe ek baar call kijiye na aap office ka phone chhod ke.\\nCustomer: Sir, meri baat hi nahi ho pa rahi.\\nExecutive: 98742\\nCustomer: 9874\\nExecutive: 50848\\nCustomer: 50848\\nExecutive: Haan ji.\\nExecutive: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to update address.\\n\n- Customer is unable to hear clearly.\\n\n\\n\nResolution:\\n\n- Executive asked for alternate number to connect.\\n\n- Executive shared personal number to connect.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- address update, connection issue, personal number\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=50705f0b-6559-41f7-990a-5f2f82c4f637",
+  "ucid": "50705f0b-6559-41f7-990a-5f2f82c4f637",
+  "seller_categories": [
+    {
+      "mcat_id": "24449",
+      "mcat_name": "Carpet Tiles"
+    },
+    {
+      "mcat_id": "88026",
+      "mcat_name": "PVC Wall Panel"
+    },
+    {
+      "mcat_id": "192470",
+      "mcat_name": "Engineered Wooden Flooring"
+    },
+    {
+      "mcat_id": "41438",
+      "mcat_name": "Wood Laminate Flooring"
+    },
+    {
+      "mcat_id": "12080",
+      "mcat_name": "Glass Mosaic Tiles"
+    }
+  ]
+}

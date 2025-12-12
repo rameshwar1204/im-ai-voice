@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675838705",
+  "gluser_id": "249102622",
+  "vintage_months": 4,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Raipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716246",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Tere naam ki jyoti ne sara har liya tamak mera.\\nNamo namo he shankara, bhole nath shankara, jay shiv omkara.\\nHello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan good morning sir ji, aawaz aa rahi hai?\\nExecutive: Hello\\nCustomer: Ji sir, hello. Haan, main IndiaMART se baat kar raha tha, kal shaam baat hui thi aap se hi.\\nHaan haan haan haan haan.\\nExecutive: To aapka account opening kiya hua tha.\\nCustomer: Haan sir, main aapko baad mein phone kar lu kya? Main abhi thoda vyast tha.\\nExecutive: To kab ho payegi?\\nCustomer: Ji?\\nExecutive: Kitni der mein ho payegi baat?\\nCustomer: Haan, ek ghanta ho jayega sir.\\nExecutive: Chaliye, ek sawa ghante ke mein baat karta hu.\\nCustomer: Haan, theek hai, theek hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is currently busy.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 1 hour 15 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call after 1 hour 15 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call schedule, account opening\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=17383580-72ef-439e-9ceb-2ef73c208195",
+  "ucid": "17383580-72ef-439e-9ceb-2ef73c208195",
+  "seller_categories": [
+    {
+      "mcat_id": "193023",
+      "mcat_name": "Vetiver Grass"
+    },
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "32022",
+      "mcat_name": "Lemongrass Plant"
+    },
+    {
+      "mcat_id": "183773",
+      "mcat_name": "Marigold Plant"
+    },
+    {
+      "mcat_id": "162937",
+      "mcat_name": "Vetiver Root"
+    }
+  ]
+}

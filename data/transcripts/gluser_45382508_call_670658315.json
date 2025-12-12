@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670658315",
+  "gluser_id": "45382508",
+  "vintage_months": 38,
+  "bl_dau_oct": 6,
+  "customer_type": "TSCATALOG",
+  "city_name": "Manjeri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667733",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Meri Mr. Asmat ji se baat ho rahi hai?\\nCustomer: Yes.\\nExecutive: Hi sir, Vishal baat kar raha hu IndiaMART se. Good morning, kaise hai aap?\\nCustomer: Uh, hello?\\nExecutive: Hello? Baat ho sakti hai sir aapki do minute?\\nCustomer: Ek tender laga hai.\\nExecutive: Uh, tender? Okay, baat karo, baat karo.\\nExecutive: Haan, actually mein aapka na ek feedback raise hua tha sir. Aapki kisi executive se baat hui thi. Uske baad\\nCustomer: Executive se baat ko kuch bhi, kuch bhi problem hai. Mein IndiaMART se zyada time call kiya tha ye mera lead correct nahi aa raha hai.\\nExecutive: Lead ka issue aa raha hai sir aapko?\\nCustomer: Haan, Kerala ka lead nahi aa raha hai.\\nExecutive: Kis type ke lead aap chahte hai aap mujhe bataiye?\\nCustomer: Hain?\\nExecutive: Uh, kis type ke lead aap chahte hai sir IndiaMART se? Please explain kariye.\\nCustomer: Wo Kerala ka lead acche se nahi aa raha hai.\\nExecutive: Kerala location ki hi aapko chahiye sir?\\nCustomer: Haan, Kerala location chahiye tha.\\nExecutive: Okay, sir Kerala se na aapke account mein ek lead mujhe dikha rahi hai office ye cubicle ke naam se. India mein function wala.\\nCustomer: Function wala.\\nExecutive: Uh, matlab iski na category jo usme map ho rakhi hai wo house construction service hi hai sir. Relevant hogi kya ye aapke liye?\\nCustomer: Haan, wo relevant hai.\\nExecutive: Uh, ek bari open karenge sir Kerala ka hai?\\nCustomer: Haan, wo Kerala location ka dikha raha hai.\\nExecutive: Aap ek bari open karenge sir app?\\nCustomer: Abhi mein ek dusra ek meeting pe hai mein, mein ko thoda baad mein mein call karega aapko. Okay, ye number.\\nExecutive: Okay sir.\\nCustomer: Haan.\\nExecutive: Theek hai.\\nCustomer: Okay.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says Kerala leads are not correct.\\n\n\\n\nResolution:\\n\n- Executive mentioned a lead named office cubicle.\\n- Executive confirmed the lead is from Kerala location.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, kerala, location, account\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf6f6d52-d668-4dcc-8c66-1a0e5af95d22",
+  "ucid": "cf6f6d52-d668-4dcc-8c66-1a0e5af95d22",
+  "seller_categories": [
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "43400",
+      "mcat_name": "Residential Construction Projects"
+    },
+    {
+      "mcat_id": "174737",
+      "mcat_name": "House Design Service"
+    },
+    {
+      "mcat_id": "20474",
+      "mcat_name": "Prefabricated Steel Buildings"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675119524",
+  "gluser_id": "35671869",
+  "vintage_months": 20,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Tindivanam",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9709506",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Sollunga.\\nCustomer: Hello. \\nExecutive: Sir, good afternoon.\\nCustomer: Sollunga.\\nExecutive: Good afternoon, sir. Rajesh India Mart-le irunthu pesuren sir.\\nCustomer: Sollunga sir.\\nExecutive: Nyaabagam irukula?\\nCustomer: En number ungalta irukke sir already.\\nCustomer: Illa sir idhu pudhu numbera irukku. Number neraiya per India Mart.\\nExecutive: Illa illa inga vandhu idhu vandhu India Mart number sir idhu. India Mart number. En number ungalta irukku. Rajesh nu solli save pannirukkinga paarunga. 960013141 appadinnu. Naan ungalta koduthurukken. Indha number save pannunga epponnalum call pannungannu.\\nCustomer: Neraiya number naan India Mart-le save panni vachirukken sir.\\nExecutive: Neenga mobile-le paarungale. Rajesh nu type pannungale.\\nExecutive: 9600131482\\nCustomer: 9600\\nExecutive: 131\\nExecutive: 131\\nExecutive: 482, 482\\nCustomer: 82ngala?\\nExecutive: 4 illa sir engal number type pannunga.\\nCustomer: Illa sir engalta illa.\\nExecutive: 80722 inno number note pannunga.\\nCustomer: 80\\nExecutive: 722\\nCustomer: Oru nimisham irunga sir.\\nExecutive: Aa.\\n(silence)\\n[No transcript available]",
+  "summary": "\\n\nConcerns:\\n\n- Customer does not have executive's number saved.\\n\n\\n\nResolution:\\n\n- Executive provided his number to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, contact information, executive number\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 225,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2a666a9b-4223-4e0b-a912-fa35ecf65021",
+  "ucid": "2a666a9b-4223-4e0b-a912-fa35ecf65021",
+  "seller_categories": [
+    {
+      "mcat_id": "143414",
+      "mcat_name": "Car Sheds"
+    },
+    {
+      "mcat_id": "135895",
+      "mcat_name": "Car Parking Tensile Structure"
+    },
+    {
+      "mcat_id": "50762",
+      "mcat_name": "Tensile Structures"
+    },
+    {
+      "mcat_id": "140396",
+      "mcat_name": "Retractable Roof"
+    },
+    {
+      "mcat_id": "42328",
+      "mcat_name": "Modular Tensile Structure"
+    }
+  ]
+}

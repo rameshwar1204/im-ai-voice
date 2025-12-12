@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672983555",
+  "gluser_id": "250110239",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691162",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello, hello. Hanji.\\nExecutive: Ji. Hello.\\nCustomer: Bhai, hanji bataiye. Varun bol raha hu na.\\nExecutive: Varun Varun. Hanji.\\nCustomer: Website maine banwai thi IndiaMART se apni. Sky naam hai company ka. Sky Impact Service Private Limited.\\n\\nCustomer: S K Y Sky.\\nExecutive: Ji ji ji.\\nCustomer: Hanji.\\n\\nCustomer: Ye kaise matlab jaise by list pe ja rahe hain jaise ki main apne sare product aa jaye. Hmm.\\nCustomer: Maine by list pe liya to usme kuch product to show nahi kar rahe hain jaise koi customer view karega na ya at least pe ja rahe hain tab bhi nahi aa rahe hain to ye kaise aayenge jaise gate light aur bhi hai product around 70 product hue hain to wo show nahi ho rahe hain.\\nExecutive: Ek second main abhi aapko call arrange karwa raha hu aapke account manager aapko call kar rahe hain. Thik hai? Ji. Aap wo aapko sab samjha denge. Thik hai. Thik hai. Ha ek second hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's products are not showing in buyleads.\\n\n- Wants all products to be visible.\\n\n\\n\nResolution:\\n\n- Executive arranged a call with the account manager.\\n\n\\n\nNext Steps: \\n\n- Account manager will call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, products, visibility, account manager\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=65c25d57-f3c9-4ae9-a903-63bf89dd595d",
+  "ucid": "65c25d57-f3c9-4ae9-a903-63bf89dd595d",
+  "seller_categories": [
+    {
+      "mcat_id": "145249",
+      "mcat_name": "Gate Light"
+    },
+    {
+      "mcat_id": "11686",
+      "mcat_name": "Door Mats"
+    },
+    {
+      "mcat_id": "20997",
+      "mcat_name": "Cloth Drying Stand"
+    },
+    {
+      "mcat_id": "88189",
+      "mcat_name": "Plastic Storage Drawer"
+    },
+    {
+      "mcat_id": "137707",
+      "mcat_name": "LED Bollard Light"
+    }
+  ]
+}

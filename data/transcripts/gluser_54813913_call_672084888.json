@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672084888",
+  "gluser_id": "54813913",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangrur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675312",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ye aap ye Prince sir baat kar rahe hain, Jiyaar pollution se?\\nCustomer: Haan ji, haan ji.\\nExecutive: Prince sir bataiye aapka call aaya tha, kya issue hai?\\nCustomer: Haan ji, wo maine aapko bataya tha na wo IndiaMART ka aapne bataya tha na ke refund karwana hai.\\nExecutive: Achcha wo aapka account band ho raha hai?\\nCustomer: Haan, haan.\\nExecutive: Theek hai, main yaha pe refund request dal rahi hu. Ek minute call pe rahiyega. Request to aapne teen char baar dal diya hai.\\nExecutive: Ek aur baar dal dijiye, wait kariye. Fir to koi fayda hi nahi hai, maine aapko char baar aapne bol diya ke request dal diya hai.\\nExecutive: Are tension mat lijiye, aapka refund mil jayega ab aapko. Ek minute call pe rahiye, aapne ticket pe call kiya hai na, don't worry.\\nCustomer: Haan ji, haan ji.\\nExecutive: He called me. He want refund as business. He want refund as business.\\nExecutive: Hello, aawaz aa rahi hai?\\nCustomer: Haan ji, haan ji.\\nExecutive: Dekho abhi maine na aapki calling ki ticket close ki hai, ek aur ticket on kar off wo kar rahi hu. Wait kariyega.\\nCustomer: Haan ji.\\nExecutive: Theek hai, ek minute, ek minute mein call back kar rahi hu, sir phone zarur uthana.\\nCustomer: Theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive assured refund and created a ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in one minute.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, account closure, ticket\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=75730027-77e1-4184-a373-29f43626b152",
+  "ucid": "75730027-77e1-4184-a373-29f43626b152",
+  "seller_categories": [
+    {
+      "mcat_id": "34915",
+      "mcat_name": "PVC Solvent Cement"
+    },
+    {
+      "mcat_id": "138334",
+      "mcat_name": "CPVC Cement"
+    },
+    {
+      "mcat_id": "11332",
+      "mcat_name": "Lamination Adhesive"
+    },
+    {
+      "mcat_id": "37381",
+      "mcat_name": "Solvent Cements"
+    },
+    {
+      "mcat_id": "446247",
+      "mcat_name": "Solvent Cement Tin Can"
+    }
+  ]
+}

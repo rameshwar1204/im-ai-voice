@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669401076",
+  "gluser_id": "210260415",
+  "vintage_months": 6,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Bhilai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656133",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji sir?\\nExecutive: Ji sir, main Manish baat kar raha hun Mahadev Heavy Transport se.\\nCustomer: Kahan se baat kar rahe hain sir?\\nExecutive: Mahadev Heavy Transport se Manish baat kar raha hun sir. Bataiye.\\nCustomer: Sir mera jo location hai na, maine bhi iska subscription kiya hai. To iska jo location hai usko thoda sa change karna tha.\\nExecutive: Jaise India Mart pe aap bol rahe hain ki address aapko change karna hai apna?\\nCustomer: Ji ji.\\nExecutive: Sir matlab sir GST pe kya address hoga?\\nCustomer: GST pe Camp one Bhilai hai.\\nExecutive: To sir wo address to aapka wahin sahi rahega jahan se GST aapka hoga na GST pe address.\\nCustomer: Nahi nahi jaise wo GST mera hai na wahan ka to mera kya hai pure Chhattisgarh mein kaam chalta hai.\\nExecutive: Hmm.\\nCustomer: Hai na to wo jo Bhilai hai na usko Bhilai rahega wo magar usme Raipur aur Rajnandgaon karna hai.\\nExecutive: Nahi to wahan pe kya office wagera hai kya aapka?\\nCustomer: Haan do jagah aur office khola hun main.\\nExecutive: Achcha ek bar aap mere ko rent agreement apne office ka jahan ka karana hai ek bar bhej dijiye. Main aapko whatsapp pe hi bhejta hun. Ek bar main check karwa leta hun hoga to fir agar main karwa deta hun.\\nCustomer: Theek hai.\\nExecutive: Kyunki mostly jo change hota hai aapke GST ke address pe hi wo hota hai address baki main ek bar try karta hun agar ho jata hai to main aapko. Theek hai na?\\nCustomer: Theek hai na?\\nExecutive: Main aapko whatsapp pe hi bhejta hun ek bar.\\nCustomer: Haan haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change location on IndiaMART.\\n\n- Wants to add Raipur and Rajnandgaon to Bhilai address.\\n\n\\n\nResolution:\\n\n- Executive explained address will be as per GST.\\n\n- Asked customer to share rent agreement copy.\\n\n\\n\nNext Steps: \\n\n- Executive will check and update the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- address change, gst, location, rent agreement\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 145,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2c490461-c55b-43f1-8499-e463ea0b00d2",
+  "ucid": "2c490461-c55b-43f1-8499-e463ea0b00d2",
+  "seller_categories": [
+    {
+      "mcat_id": "168563",
+      "mcat_name": "Full Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "42703",
+      "mcat_name": "Transportation Services"
+    },
+    {
+      "mcat_id": "69543",
+      "mcat_name": "Goods Transport Services"
+    },
+    {
+      "mcat_id": "172377",
+      "mcat_name": "Part Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "167976",
+      "mcat_name": "Trailer Transport Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676505171",
+  "gluser_id": "122431467",
+  "vintage_months": 50,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723030",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji sir, aapko number bheje the, Bhanu ji ka.\\nCustomer: Ji sir, mai Bhanu baat kar raha hu.\\nExecutive: Hello?\\nExecutive: Haan ji sir, mai Bhanu baat kar raha tha.\\nCustomer: Haan ji, Bhanu ji baat kar raha hu.\\nExecutive: Hello, aawaz aa rahi hai sir meri? \\nCustomer: Achha achha, nahi apne number se call kiya aapne?\\nExecutive: Hello, aa haan sir bataiye.\\nCustomer: Apne number se call kijiye na, aawaz kat rahi hai. Wohi aap bol rahe the, ki mai aapko request ko bol raha hu.\\nExecutive: Haan, mai apne number se aapko call kar raha hu. Ye aap is number pe call kar lo, last mein 102 hai.\\nCustomer: Haan haan, usi pe usi pe.\\nExecutive: Theek hai, theek hai.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive clearly.\\n\n\\n\nResolution:\\n\n- Executive confirmed he is calling from his number.\\n\n- Executive provided his number to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number, voice\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3256cbbf-c950-49b5-b923-7779ccfc28b3",
+  "ucid": "3256cbbf-c950-49b5-b923-7779ccfc28b3",
+  "seller_categories": [
+    {
+      "mcat_id": "44697",
+      "mcat_name": "Core Cutting Services"
+    },
+    {
+      "mcat_id": "153579",
+      "mcat_name": "Rebarring Services"
+    },
+    {
+      "mcat_id": "214840",
+      "mcat_name": "Rebaring Chemicals"
+    },
+    {
+      "mcat_id": "173298",
+      "mcat_name": "RCC Core Cutting"
+    },
+    {
+      "mcat_id": "145204",
+      "mcat_name": "RCC Cutting Services"
+    }
+  ]
+}

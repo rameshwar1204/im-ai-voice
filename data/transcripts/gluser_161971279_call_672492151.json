@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672492151",
+  "gluser_id": "161971279",
+  "vintage_months": 7,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Bhatpar Rani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687028",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Hello. Haan ji sir namaskar. Hello.\\nExecutive: Namaste. Sir.\\nCustomer: Sir aapki voice clear nahi hai sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Voice not clear.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvoice quality\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e235330a-43db-460f-95fe-93be869da8bd",
+  "ucid": "e235330a-43db-460f-95fe-93be869da8bd",
+  "seller_categories": [
+    {
+      "mcat_id": "43237",
+      "mcat_name": "Ladies Kurti"
+    },
+    {
+      "mcat_id": "43170",
+      "mcat_name": "Designer Kurtis"
+    },
+    {
+      "mcat_id": "194559",
+      "mcat_name": "Rayon Ladies Kurtis"
+    },
+    {
+      "mcat_id": "181555",
+      "mcat_name": "Floral Printed Kurti"
+    },
+    {
+      "mcat_id": "28234",
+      "mcat_name": "Fancy Tops"
+    }
+  ]
+}

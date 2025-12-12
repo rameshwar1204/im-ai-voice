@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673300587",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haanji sir aap bataiye, woh buyleads ka aap bata rahe the na mujhe. To abhi aapne check kari buyleads?\\nCustomer: Nahi nahi, abhi aayi nahi hai isliye to maine aapko call kiya, call back kiya. Nahi abhi do din se aayi nahi hai bilkul bhi.\\nExecutive: Subah cylinder ki to ab aa gayi na, shayad 6 minute pehle aayi hai.\\nCustomer: Oh, 10 liter mein woh nahi, subah nahi, PCVR gun cylinder woh set ki nahi hai, yeh mere use kaam ki nahi hai abhi.\\nExecutive: PCVR wale ka ek bar mujhe naam WhatsApp karke bhejiye, main isko na dusre wale usme check karti hu. Achha aapne dusre number se call kiya abhi aapka number se?\\nCustomer: Nahi nahi, maine to mere hi number se call kara sir, woh TI ID pe ja rahi hogi.\\nExecutive: Recorded line. Okay hai na? Achha to main aapko WhatsApp pe naam bhej deta hu, aap bata dijiye mere ko.\\nExecutive: Haan phone call reh ke ek bar WhatsApp pe naam bhejiye, main usko check karke abhi aapko bata deti hu.\\nCustomer: Haan, thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states buyleads not received for two days.\\n\n- States the received cylinder buylead is not useful.\\n\n\\n\nResolution:\\n\n- Executive asked customer to share the name on WhatsApp.\\n\n- Executive will check and inform the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, whatsapp, cylinder\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 75,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e895285e-1b88-43a7-a0a7-3104197f0db1",
+  "ucid": "e895285e-1b88-43a7-a0a7-3104197f0db1",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

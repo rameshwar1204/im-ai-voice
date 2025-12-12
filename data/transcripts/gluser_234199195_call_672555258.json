@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672555258",
+  "gluser_id": "234199195",
+  "vintage_months": 2,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9631888",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Sir ye Ghazi Enterprises se baat ho rahi hai?\\nCustomer: Ha?\\nExecutive: Ghazi Enterprises se baat ho rahi hai sir?\\nCustomer: Main baat kar ek minute. Ji bataiye sir. \\nCustomer: Ha boliye. Ha kis se baat kar rahe ho?\\nExecutive: Sir main IndiaMART head office se senior manager Mohammad Tausif baat kar raha hu sir.\\nCustomer: Mohammad se?\\nExecutive: Ji ji sir.\\nCustomer: Ha boliye na.\\nExecutive: Sir ji aapka jo hamari team ke sath discuss hua hoga sir. Hamari team mein jo Shadab hain aur Komal hain jo aapka account manage kar rahe hain. To unse aapka services ke regarding discussion hua tha. Saari cheeze clear hain sir unhone jo batai aapko?\\nCustomer: Accha main main main kya bol raha hu sir wo ek number deta hu na iske sath baat karo aur ye number pe baat karata hu aapko.\\nExecutive: Thik hai aap number bata dijiye.\\nCustomer: Aaa main ye number pe baat karata hu thik hai?\\nExecutive: Thik hai kitni der mein call kar lu sir?\\nCustomer: Bas 10 minute mein call karenge aapko. Aap IndiaMART se bol rahe hain na?\\nExecutive: Ji sir IndiaMART se bol raha hu main senior manager.\\nCustomer: Ha ha koi baat nahi koi baat nahi baat karata hu ye number se thik hai?\\nExecutive: Thik hai sir aap baat karaiye main wait kar raha hu.\\nCustomer: Ha aapka kya naam kya hai sir?\\nExecutive: Mohammad Tausif sir.\\nCustomer: Mohammad Taufiq?\\nExecutive: Ji sir.\\nCustomer: Thik hai thik hai baat karata hu.\\nExecutive: Thik hai aapka good name sir?\\nCustomer: Firoz Ali Firoz Ali.\\nExecutive: Ji sir? Firoz Firoz Firoz Firoz Firoz Ali.\\nExecutive: Accha accha Firoz sir aapke naam pe hi GST hai ye wali aapke Ghazi Enterprises right?\\nCustomer: Ha ha mera naam mera naam mera ladka kar raha hai sab sab kaam thik hai.\\nExecutive: Thik hai thik hai aap baat kara dijiye main wait kar raha hu.\\nCustomer: Ha.\\nExecutive: Thik hai Firoz sir.\\nCustomer: Ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to another number.\\n\n\\n\nResolution:\\n\n- Executive agreed to wait for the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, services, discussion, call\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 126,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7cd22627-6315-43e2-8dce-829ab94dfaad",
+  "ucid": "7cd22627-6315-43e2-8dce-829ab94dfaad",
+  "seller_categories": [
+    {
+      "mcat_id": "160658",
+      "mcat_name": "Scuba Cylinders"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "156542",
+      "mcat_name": "Carbon Composite Cylinders"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    }
+  ]
+}

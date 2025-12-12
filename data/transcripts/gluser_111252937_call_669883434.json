@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669883434",
+  "gluser_id": "111252937",
+  "vintage_months": 3,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Naiti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9664015",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan, Sudhir sir? Haan boliye.\\nCustomer: Haan ji sir, namaskar main Deepak baat kar raha hun Sudhir sir aapke account manager India Mart se kaise hain?\\nCustomer: Haan theek hai, aap theek hai?\\nExecutive: Haan main bhi theek hun sir. Sir Sudhir sir main bol raha hun kuch catalog ko update kiya tha sir aapka aur update karne ke baad kuch pure file mein humne kuch kuch catalog mein update kiya tha, category add kiya tha to kuch aapke aapke product pe aur aapke buylead pe kuch discussion karna tha sir aapse.\\nCustomer: Boliye.\\nExecutive: Haan to aaj ke date mein kuch acche order aaye hue the sir aapke liye aapke product ke related to main batane ke liye call kiya tha ek baar apna order ko dekh lijiye sir to abhi aapna use kaise karte hain sir mobile se karte hain system se karte hain?\\nCustomer: Mobile se.\\nExecutive: Mobile se karte hain. Bas jyada time nahi lunga sir ek baar apna app open kijiyega India Mart ka.\\nCustomer: Theek hai.\\nExecutive: Ji ji main start rakhta hun sir.\\nCustomer: Boliye.\\nExecutive: Wahan pe ek aa raha hoga sir latest buylead. Theek uske upar mein dekhiye teen line bane honge teen line pe click kijiye wahan pe ek option aayega latest buylead ka.\\nCustomer: Haan.\\nExecutive: Buylead aapke liye uske karne ke baad sir abhi location India kijiyega.\\nCustomer: Boliye.\\nExecutive: Wahan pe sir India kar liya abhi sir karna order value ek baar 10000 above 10000.\\nCustomer: Dikha sir?\\nCustomer: First mein.\\nExecutive: Aap jis vyakti se bolat aahat tyanne aapla call hold var thevla ahe. Krupya line var raha. Aap jis vyakti se baat kar rahe hain unhone aapke call ko hold par rakha hai. Krupya line par bane rahe. The person you are speaking with has put your call on hold. Please.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss product and buylead updates.\\n\n- Wants to know how the customer uses IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive explained how to check latest buyleads.\\n\n- Asked to set the order value to above 10000.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Call put on hold.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, product update, order value\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 138,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=81733f72-1c5c-4f04-a1f7-758caa6b9df2",
+  "ucid": "81733f72-1c5c-4f04-a1f7-758caa6b9df2",
+  "seller_categories": [
+    {
+      "mcat_id": "6776",
+      "mcat_name": "Ladies Earring"
+    },
+    {
+      "mcat_id": "13055",
+      "mcat_name": "Brass Earring"
+    },
+    {
+      "mcat_id": "65734",
+      "mcat_name": "Imitation Earring"
+    },
+    {
+      "mcat_id": "619",
+      "mcat_name": "Gold Earrings"
+    },
+    {
+      "mcat_id": "1872",
+      "mcat_name": "Fashion Earrings"
+    }
+  ]
+}

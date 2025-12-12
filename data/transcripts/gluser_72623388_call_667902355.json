@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667902355",
+  "gluser_id": "72623388",
+  "vintage_months": 30,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Giridih",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638640",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello. Haan boliye.\\nCustomer: Hello good morning, main Utkarsh baat kar raha hun IndiaMART se. Aditya Trading Company mein baat ho rahi hai?\\nCustomer: Haan ji haan baat ho rahi hai. Ek minute mein sir se baat karwa. Ji ji baat karwa dijiye. Baat karwa dijiye aap sir se.\\nCustomer: Haan baat karwa dijiye ek second.\\n\\nCustomer: Hello.\\nExecutive: Hello, good morning sir. Good morning bataiye.\\nExecutive: Utkarsh baat kar raha hun IndiaMART se sir, kaise hain aap?\\nCustomer: Haan theek hai sir, lekin abhi to aap mere se abhi 11 baje phone kijiyega na, abhi to ghar pe hi hai ekdum. Theek theek hai sir, theek hai. Okay, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called too early.\\n\n\\n\nResolution:\\n\n- Executive apologized and said okay.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, call timing, indiaMART\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=09d4f043-cad3-4fd6-a3bc-e32338095905",
+  "ucid": "09d4f043-cad3-4fd6-a3bc-e32338095905",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    }
+  ]
+}

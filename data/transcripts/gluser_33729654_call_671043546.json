@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671043546",
+  "gluser_id": "33729654",
+  "vintage_months": 49,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ji sir good morning Aluma baat kar rahi hu IndiaMART head office se.\\nCustomer: Hello\\nExecutive: Ha sir actually kal aapki account manager se baat hui thi Arunima ji se.\\nCustomer: Services ko leke. To sir aapne feedback me not satisfied kiya tha. To kuch issue aayi thi sir?\\nCustomer: usko maine bola tha ki inquiries duplicate.\\nExecutive: Ji?\\nCustomer: Aata hai. Inquiries to baat karne ke liye bolte hai. Thank you for your interest kehte hai.\\nExecutive: Sir aapki aawaz mujhe clear nahi aa rahi hai.\\nCustomer: Hello\\nExecutive: Hmm\\nCustomer: Hello\\nExecutive: Ji sir bataiye.\\nCustomer: Ji\\nCustomer: Jaise abhi inquiries aati hai. Okay. Inquiries aane ke baad mujhe ye notification aata hai.\\nExecutive: Hmm\\nCustomer: To wo inquiry purchase hi nahi ho raha hai. Wo direct thank you for your interest karke bahar fek raha hai. Chote chote product ka hi purchase ho raha hai. Bade product ka inquiry nahi purchase hone karne aa raha hai.\\nExecutive: To jab aap badi inquiries utha rahe hai sir. To us badi inquiry se aapko matlab matlab aap jab usko inquiry aapko dikh rahi hai na wo inquiry. But aap consume karne ja rahe hai to wo consume nahi ho pa rahi hai.\\nCustomer: Ha.\\nExecutive: Achcha okay. Ek second.\\nExecutive: Like roller paver bar bending bar cutting trimming.\\nExecutive: Ji.\\nExecutive: Ek bar mai aapka system hi open kar rahi hu sir.\\nCustomer: Hello\\nExecutive: Hmm\\nExecutive: Just one second sir.\\nExecutive: Hello\\nCustomer: Ha sir\\nExecutive: Ha\\nCustomer: Thik hai.\\nExecutive: Ek second sir just one second.\\nExecutive: Hello\\nExecutive: Inhe call pe raho ruko mai transfer kar rahi hu karwa rahi hu.\\nExecutive: Ha bolo.\\nExecutive: Sir mujhe bas do minute ka time dijiye.\\nExecutive: Mai aapko call back kar rahi hu sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Inquiries are duplicate.\\n\n- Unable to purchase big product inquiries.\\n\n\\n\nResolution:\\n\n- Executive is opening the customer's system.\\n\n- Executive will call back in 2 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, purchase, feedback\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 196,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7563d3fe-c881-4839-95d0-103c24f27090",
+  "ucid": "7563d3fe-c881-4839-95d0-103c24f27090",
+  "seller_categories": [
+    {
+      "mcat_id": "2903",
+      "mcat_name": "Earth Rammer"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "157442",
+      "mcat_name": "Mini Cranes"
+    },
+    {
+      "mcat_id": "42647",
+      "mcat_name": "Earth Compactor"
+    }
+  ]
+}

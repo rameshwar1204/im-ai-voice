@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668171936",
+  "gluser_id": "19191731",
+  "vintage_months": 20,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhilwara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643560",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir.\\nCustomer: Haan ji madam.\\nExecutive: Haan ji sir bataiye bataiye.\\nCustomer: Haan?\\nExecutive: Sir mai Pragati baat kar rahi hu abhi India mart se aapke call pe.\\nCustomer: Haan haan haan madam. Sir aapko call receive karte waqt cut gaya aapka call just bataiye.\\nExecutive: Chalega chalega.\\nCustomer: Haan boliye.\\nCustomer: Mai bol raha tha mera ek aur mere ek aur company me India mart ka subscription lena hai.\\nExecutive: Ji.\\nCustomer: To uske liye kya beneficial hai ki kya discount de sakte hai aap best to best ya kya?\\nExecutive: Sir GST vagera sara ka sara same to same rahega.\\nCustomer: Hmm.\\nExecutive: GST vagera jo bhi papers vagera hai sare ke sare same to same rahenge.\\nCustomer: Haan.\\nExecutive: Ek aapko.\\nCustomer: Nahi alag alag alag alag alag alag alag rahega.\\nExecutive: Vahi mai puch rahi hu aap se kisko open karna hai.\\nCustomer: Mera ek aur firm hai.\\nExecutive: Haan.\\nCustomer: Usme karna hai aapka pura product alag hai.\\nCustomer: Haan pura product alag hai usme.\\nExecutive: Haan. Thik hai.\\nExecutive: Thik hai sir mai iske regarding ek baar apne manager se aapko discussion karke aapko five minutes ke andar call karti hu thik hai sir.\\nCustomer: Pragati mai ye soch raha hu agar aapko ye lead milta hai to kuch discount vagera kuch rehta hai to mai aapko bypass kar matlab aapko de deta hu.\\nExecutive: Mai samajh gayi hu sir vahi usi ke regarding mai discussion kar lu ek baar hai na.\\nCustomer: Chalega na chalega.\\nExecutive: Haan vahi vahi isiliye mai soch rahi hu ki ek baar puch lo clear kar le sir hai na.\\nCustomer: Bilkul bilkul.\\nExecutive: Thik hai sir ok ek second. Aaram se madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a subscription for another company.\\n\n- Wants to know about discounts and benefits.\\n\n\\n\nResolution:\\n\n- Executive will discuss with manager and call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in five minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, discount, benefits\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba80740c-7651-4431-89c2-53646c73fe3c",
+  "ucid": "ba80740c-7651-4431-89c2-53646c73fe3c",
+  "seller_categories": [
+    {
+      "mcat_id": "214323",
+      "mcat_name": "MANN Oil Filters"
+    },
+    {
+      "mcat_id": "8277",
+      "mcat_name": "RPM Meter"
+    },
+    {
+      "mcat_id": "204535",
+      "mcat_name": "Shell Compressor Oil"
+    },
+    {
+      "mcat_id": "184758",
+      "mcat_name": "Screw Compressor Spare"
+    },
+    {
+      "mcat_id": "3196",
+      "mcat_name": "Air Compressor Spares"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667058140",
+  "gluser_id": "121882242",
+  "vintage_months": 57,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632204",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan sir, IndiaMART se bol raha hoon.\\nCustomer: Haan bolo.\\nExecutive: Ji sir, abhi ke liye na maine legal mein jo hai na concern raise kar diya hai.\\nExecutive: Toh jaise hi revert aayega main aapko fir call karke update karta hoon sir. Theek hai sir?\\nCustomer: Theek hai, theek hai. Okay.\\nExecutive: Yeh main just information ke liye aapko...\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a previously raised concern.\\n\\n\\nResolution:\\n\\n- Informed that the concern has been raised with the legal department.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back with an update after receiving a response from the legal team.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- concern, legal department, update, follow-up call\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=28cb166e-6f16-46fb-a6a8-c117a9210da5",
+  "ucid": "28cb166e-6f16-46fb-a6a8-c117a9210da5",
+  "seller_categories": [
+    {
+      "mcat_id": "154403",
+      "mcat_name": "Color Spectrophotometer"
+    },
+    {
+      "mcat_id": "144187",
+      "mcat_name": "Whiteness Meter"
+    },
+    {
+      "mcat_id": "26598",
+      "mcat_name": "Digital Colorimeter"
+    },
+    {
+      "mcat_id": "167205",
+      "mcat_name": "Digital Moisture Meter"
+    },
+    {
+      "mcat_id": "123859",
+      "mcat_name": "Color Measuring Equipment"
+    }
+  ]
+}

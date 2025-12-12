@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674284110",
+  "gluser_id": "62962914",
+  "vintage_months": 88,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ludhiana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9702505",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, Ratna baat kar rahi hu IndiaMART se.\\nCustomer: Haan boliye.\\nExecutive: Haan ji sir, wo abhi hua sahi aapka?\\nCustomer: Nahi hua madam, maine badi sari koshish kar li.\\nExecutive: Uninstall karne ke baad bhi nahi hua?\\nCustomer: Na.\\nExecutive: Nahi nahi wo true caller to mere ko chahiye rehta hai na.\\nExecutive: Are sir ek baar try to kariye ho sakta hai iske karan ho agar iske karan hai to fir ye to nahi hoga ki hum kuch aur solution dhoondhenge matlab fir to main problem hi yahi hai but agar nahi hota hai to fir sir kuch to karna padega kyuki dekhiye aapka concern bhi ek hua hai.\\nCustomer: Madam abhi lambi baat nahi kar sakta abhi na ek bill bul bana raha hu thoda ruk ke baat karu aap 6 baje tak baithe ho na.\\nExecutive: Sir aaj hamara working nahi hai off hai actually main bahar thi but aapka problem tha to maine socha.\\nCustomer: Nahi abhi to fir abhi baat nahi kar sakta koi guest bhi baithe hai aur ye main bill bhi bana raha hu.\\nExecutive: To sir ye concern aapka close kar du monday fir hum discuss kare proper ispe.\\nCustomer: Haan monday karte hai monday karte hai.\\nExecutive: Theek hai to aap feedback jayega mere liye feedback dijiyega aur sir mere number pe call kar lijiyega theek hai main khud kar lungi waise monday.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to install Truecaller.\\n\n- Wants to discuss the issue on Monday.\\n\n\\n\nResolution:\\n\n- Executive agreed to discuss the issue on Monday.\\n\n- Asked for feedback and to call on her number.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- truecaller, installation, feedback, monday\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=308dafba-7a08-4809-9857-e98eae4c86d6",
+  "ucid": "308dafba-7a08-4809-9857-e98eae4c86d6",
+  "seller_categories": [
+    {
+      "mcat_id": "15785",
+      "mcat_name": "Iron Bolt"
+    },
+    {
+      "mcat_id": "134160",
+      "mcat_name": "MS Bolt Nut"
+    },
+    {
+      "mcat_id": "1341",
+      "mcat_name": "Bolts"
+    },
+    {
+      "mcat_id": "33373",
+      "mcat_name": "Metal Nuts"
+    },
+    {
+      "mcat_id": "221304",
+      "mcat_name": "Iron Threaded Rods"
+    }
+  ]
+}

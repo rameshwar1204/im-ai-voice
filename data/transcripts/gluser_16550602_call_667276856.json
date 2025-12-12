@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667276856",
+  "gluser_id": "16550602",
+  "vintage_months": 25,
+  "bl_dau_oct": 3,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706167",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Namaste, mujhe email mein jaake teen mahine ka time chahiye.\\nExecutive: Hello.\\nExecutive: Sir, actually na, main ek baar meeting mein hun, main aapko call back karti hun, please.\\nCustomer: Theek hai.\\nExecutive: Abhi karti hun main. Haan ji, haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs three months time by email.\\n\n- Executive is in a meeting.\\n\n\\n\nResolution:\\n\n- Executive will call back the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email, callback, meeting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=272106fc-731a-4c93-8f60-5cc5d217e14a",
+  "ucid": "272106fc-731a-4c93-8f60-5cc5d217e14a",
+  "seller_categories": [
+    {
+      "mcat_id": "166927",
+      "mcat_name": "Trailer King Pins"
+    },
+    {
+      "mcat_id": "64732",
+      "mcat_name": "Trailer Spare Parts"
+    },
+    {
+      "mcat_id": "80169",
+      "mcat_name": "Container Lock"
+    },
+    {
+      "mcat_id": "68944",
+      "mcat_name": "Truck Trailer"
+    },
+    {
+      "mcat_id": "53706",
+      "mcat_name": "Container Twist Lock"
+    }
+  ]
+}

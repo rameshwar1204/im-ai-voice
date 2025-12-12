@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670782444",
+  "gluser_id": "20484661",
+  "vintage_months": 14,
+  "bl_dau_oct": 28,
+  "customer_type": "LEADER",
+  "city_name": "New Delhi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670085",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji bolo.\\nCustomer: Haan Rohit sir Rakesh bol raha tha IndiaMART se.\\nExecutive: Bolo bolo.\\nCustomer: Haan aapka sir actually mein waha pe concern aa raha tha video meeting ko lekar interest aapne show kiya hoga. To usi ke liye yaha pe concern open ho gaya tha. To kya kuch update karna hai kya video meeting video meeting ke liye aapne interest show kiya tha.\\nExecutive: Ho gaya ho gaya problem ka solution mil gaya.\\nCustomer: Okay okay theek hai sir to main ye na matlab concern close kar raha hu. Ek cheez sir aapse puchna tha thoda sa do teen product do ha do teen product sir Rohit ji aapka IndiaMART pe\\nCustomer: Abhi aap mere ko baad me call kariye, abhi thoda sa busy hu baad me call karega.\\nExecutive: Theek hai theek hai main concern ye close kar deta hu sir theek hai ek feedback aayega feedback please de dijiye ga sir aap mail pe aayega. Theek hai.\\nCustomer: Haan theek hai theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a concern regarding video meeting.\\n\n- Executive wanted to discuss products on IndiaMART.\\n\n\\n\nResolution:\\n\n- Customer's video meeting concern was resolved.\\n\n- Executive closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, concern, feedback, products\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=60baf0a4-7079-4c2d-9fb7-a2e650c6bdef",
+  "ucid": "60baf0a4-7079-4c2d-9fb7-a2e650c6bdef",
+  "seller_categories": [
+    {
+      "mcat_id": "29930",
+      "mcat_name": "Gym Mat"
+    },
+    {
+      "mcat_id": "99828",
+      "mcat_name": "Gym Floor Tiles"
+    },
+    {
+      "mcat_id": "1690",
+      "mcat_name": "Rubber Floorings"
+    },
+    {
+      "mcat_id": "36617",
+      "mcat_name": "Rubber Rolls"
+    },
+    {
+      "mcat_id": "36592",
+      "mcat_name": "Rubber Floor Tile"
+    }
+  ]
+}

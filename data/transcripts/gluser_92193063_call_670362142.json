@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670362142",
+  "gluser_id": "92193063",
+  "vintage_months": 28,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Koratla",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686343",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello madam?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Hello. Hello, awaz aa rahi hai sir, hello?\\nCustomer: Madam, mai Google meet me aaya hu.\\nExecutive: Ha sir, aapne abhi join kiya hai.\\nCustomer: Ha.\\nExecutive: Aap sir ek baar mujhe apni screen present kariye, ek baar dobara se login kariye.\\nCustomer: Accha.\\nExecutive: Hmm.\\nCustomer: Screen share karna hai.\\nCustomer: Present.\\nCustomer: Hello, okay, ho gaya?\\nExecutive: Ha sir, visible hai aapki screen mujhe abhi.\\nCustomer: OTP nahi mila madam.\\nExecutive: Nahi aaya?\\nCustomer: OTP nahi mila.\\nExecutive: Okay, sir ye aapke isi number pe na, ye primary wale number pe, ek baar mai aapko na normal ek text message dal rahi hu, aapko receive ho to bataiyega.\\nCustomer: Batao.\\nExecutive: Theek hai? Ha ha, line par hi rahiye mai kar rahi hu.\\nCustomer: Kis number pe bhej rahe, kya bol ke bhej rahe?\\nExecutive: Hello?\\nCustomer: Ha madam.\\nExecutive: Sir dekhiye maine aapko hi message kiya hai, receive hua aapko?\\nCustomer: Yes yes yes yes, I got a SMS, normal SMS from your mobile, Tania.\\nExecutive: Ha ha, hi message aaya hai aapko.\\nCustomer: Mai bhi mai bhi reply kar raha hu.\\nExecutive: Nahi nahi, aap reply nahi kariye sir, mujhe bas ye check karna tha ki aapko normal message receive ho raha hai ya nahi ho raha hai.\\nCustomer: Ho raha hai madam.\\nExecutive: Ek second, ek second sir line par hi rahiye. Mam.\\nExecutive: Mam, inko na maine normal message kiya.\\nCustomer: [unintelligible]\\nExecutive: Hello.\\nCustomer: Ha.\\nExecutive: Sir ek baar usme jaiye. Sir ek baar PNS setting me jaiye.\\nCustomer: Kidhar?\\nCustomer: Kaise jana udhar login hi nahi hua PNS setting me kaise jana wo?\\nExecutive: Hello.\\nCustomer: PNS setting me kaise jana login hi nahi hai na bhai.\\nExecutive: Mam jab login hi nahi hai to PNS setting me kaise jayega. Login karne me to.\\nExecutive: Sir ek second mai apne end se check karke bata rahi hu aapko, ek second sir ek second.\\nExecutive: Mai ek baar apne end se check kar rahi hu ki aapke notifications wagera on hai.\\nExecutive: Sir ye problem kab se aa raha hai?\\nCustomer: Ek mahina ho gaya madam.\\nCustomer: One and half month.\\nExecutive: Mam notifications to on hai.\\nExecutive: Mam?\\nCustomer: Madam.\\nCustomer: Isko OTP nahi ja raha hai.\\nCustomer: Are login nahi kar pa raha hai ye.\\nCustomer: Login nahi kar pa raha.\\nCustomer: Account hi login nahi ho raha hai, OTP nahi ja raha hai primary number pe.\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Sir sir ek baar na ha sir ek baar na incognito mode pe jaiye, waha se ek baar login karne ka try kariye.\\nCustomer: Current chala gaya madam, kya karna?\\nExecutive: Sir incognito mode pe jaiye ek baar.\\nCustomer: Ha?\\nExecutive: Ye sir mai aapko bata rahi hu, ye aapki jo three lines bankar aa rahi hai.\\nCustomer: Madam, power is disconnected in my office now.\\nExecutive: Sir aap video meet pe to hai na, hello?\\nCustomer: Mai kaise dikhega current nahi hai madam, power cut ho gaya, disconnect ho gaya power.\\nExecutive: Sir fir se power wo ho gayi hai.\\nCustomer: Ab aapka ha hello.\\nCustomer: Computer is shut down due to power power problem, current problem, current.\\nExecutive: To sir fir bataiye mai kaise dekhu.\\nCustomer: Sab connect karunga.\\nCustomer: Thodi der se mai call back karta hu, thodi der se mai call back karta hu aadha ghanta.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to log in.\\n\n- OTP is not being received.\\n\n- Power outage at customer's office.\\n\n\\n\nResolution:\\n\n- Executive sent a test SMS to the customer.\\n\n- Executive asked to check PNS settings.\\n\n- Executive checked notifications from their end.\\n\n- Executive suggested logging in via incognito mode.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login, otp, pns setting, notifications, power outage\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 414,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2e5256c2-3710-41e4-9a81-861ec836c538",
+  "ucid": "2e5256c2-3710-41e4-9a81-861ec836c538",
+  "seller_categories": [
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "442770",
+      "mcat_name": "Spa & Salon Management Software"
+    },
+    {
+      "mcat_id": "181673",
+      "mcat_name": "Restaurant Billing Software"
+    },
+    {
+      "mcat_id": "10002",
+      "mcat_name": "Men Jeans"
+    },
+    {
+      "mcat_id": "162011",
+      "mcat_name": "POS Software"
+    }
+  ]
+}

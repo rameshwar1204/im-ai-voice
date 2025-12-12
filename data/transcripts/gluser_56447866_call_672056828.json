@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672056828",
+  "gluser_id": "56447866",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683381",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, Namaskar sir.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 20,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=256503c3-a004-4ded-a830-3fbe2f4d1804",
+  "ucid": "256503c3-a004-4ded-a830-3fbe2f4d1804",
+  "seller_categories": [
+    {
+      "mcat_id": "78888",
+      "mcat_name": "Hospital Interior Designers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672044335",
+  "gluser_id": "124663529",
+  "vintage_months": 56,
+  "bl_dau_oct": 28,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9676740",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji hello.\\nExecutive: Ha Sufiyan ji.\\nCustomer: Hello.\\nExecutive: Ji bhaiya.\\nCustomer: Ha main Sufiyan ji main Pawan baat kar raha tha Karina ke reporting manager IndiaMART se.\\nCustomer: Kaise hain sir?\\nExecutive: Ji bhaiya. Ji bhaiya.\\nExecutive: Sufiyan ji main ye keh raha hu ki aapne na isme disable wala option rakha hua hai ki koi edit hamari taraf se nahi ho sakta. Abhi kuch Karina se baat hui thi sir aapne kaha tha ki lead wala jo hai wo sold out wali to isme aap kya kijiye aap mobile se jyada ba use consume karte hain ki desktop se?\\nCustomer: Ho gaya bhaiya issue resolve ho gaya mat kariye aap.\\nExecutive: Achcha ho gaya tha kya? Achcha ye number bhi save kar lo sir mera hai na aap mera number bhi save kar lijiyega theek hai actually aapne Sunday ko bhi try kiya tha to Sunday ko off rehta hai theek hai Karina ji ka WhatsApp number aa gaya sir aapke paas?\\nCustomer: Nahi mere paas nahi hai main number save kar lunga ye wala.\\nExecutive: Main abhi abhi de raha hu Karina sir ko WhatsApp number do apna next time sir aapko WhatsApp pe koi bhi dikkat aayegi to aap ek bar WhatsApp pe connect kar lijiyega theek hai sir aur sir iska feedback aayega mere liye aur Karina ke liye subah jo aapne baat hui thi to us pe aap response kar dijiyega theek hai sir. Okay ye hamari aur Karina ka discussion ke related hai jaise aapka transaction ho gaya to uske liye feedback hai theek hai sir koi bhi doubt hai aapko WhatsApp kare.\\nCustomer: Okay sir okay.\\nExecutive: Definitely thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's issue regarding lead was not resolved.\\n\n\\n\nResolution:\\n\n- Executive informed the customer issue is resolved.\\n- Executive shared his number and asked to save.\\n- Executive asked for feedback on the call.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- lead, feedback, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c5176779-7ad7-41a4-b51b-edf46b3e0f0d",
+  "ucid": "c5176779-7ad7-41a4-b51b-edf46b3e0f0d",
+  "seller_categories": [
+    {
+      "mcat_id": "4646",
+      "mcat_name": "Brass Door Knocker"
+    },
+    {
+      "mcat_id": "4618",
+      "mcat_name": "Brass Bells"
+    },
+    {
+      "mcat_id": "420",
+      "mcat_name": "Brass Door Hardware"
+    },
+    {
+      "mcat_id": "10038",
+      "mcat_name": "Metal Bells"
+    },
+    {
+      "mcat_id": "162753",
+      "mcat_name": "Brass Temple Bell"
+    }
+  ]
+}

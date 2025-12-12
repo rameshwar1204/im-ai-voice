@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667734987",
+  "gluser_id": "25869211",
+  "vintage_months": 21,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639012",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir, good afternoon IndiaMART customer care.\\nCustomer: Yes, ma'am.\\nExecutive: Ji ji sir Shiv Shambhu Agro se bol raha hu Solapur se. Sir jo aapko profile hai Shiv Shambhu Agro Solapur.\\nCustomer: Achcha achcha ji ma'am.\\nExecutive: Sir jo by list hai na matlab kal tak dikh raha tha aaj jo call aaye subah se miss hue hue ya fir jo receive hue hue receive hote hai na call ye miss hote hai uske details kyu dikh nahi rahe mujhko aaj kal tak hi dikhai de raha hai abhi subah se jo call aaya unko abhi mujhe return ye karna hai matlab return unko.\\nExecutive: Ma'am ma'am aaj Guru Nanak Jayanti hai to mai system pe nahi hu ma'am. To abhi mai khana bhi kha raha tha aaj off hai. Aur theek hai na to ma'am kal aap mujhe call mai aapko call kar lunga theek hai ma'am.\\nCustomer: Abhi subah se jo aaye hai call unka kya reply du abhi mai?\\nExecutive: Ha ma'am aap mai abhi system pe nahi hu to mai dekh ke hi bata sakta ma'am aise to nahi bata sakta ma'am abhi.\\nCustomer: Achcha to aaj aapko chutti hai kya sabhi ko?\\nExecutive: Ha ma'am aaj Guru Nanak Jayanti ki chutti hai na ma'am aur abhi mai room pe hu system pe hu nahi to mai kal hi aapko mai call back kar lunga theek hai ma'am.\\nCustomer: Theek hai theek hai. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyleads details not visible since morning.\\n\n\\n\nResolution:\\n\n- Executive informed it is Guru Nanak Jayanti.\\n\n- Executive will call back tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call back tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, holiday, call back\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6db8b51d-6a2e-42eb-b4af-52959060ab0d",
+  "ucid": "6db8b51d-6a2e-42eb-b4af-52959060ab0d",
+  "seller_categories": [
+    {
+      "mcat_id": "136958",
+      "mcat_name": "Crop Covers"
+    },
+    {
+      "mcat_id": "446084",
+      "mcat_name": "Fruit Cover"
+    },
+    {
+      "mcat_id": "4061",
+      "mcat_name": "Copper Sulphate"
+    },
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "45642",
+      "mcat_name": "Agricultural Ground & Crop Covers"
+    }
+  ]
+}

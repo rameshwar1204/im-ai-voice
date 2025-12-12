@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669909329",
+  "gluser_id": "36615928",
+  "vintage_months": 7,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Karari Chandpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662968",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir bataiye sir call kat diya aapne mera\\nExecutive: Wo to aapko aapne bola ki waha pe search kar kar dekhiye humne search kar kar phone laga raha hu dekh raha hu thik hai aapke paas to number nahi hai dealer ka\\nCustomer: Sir main aapko whatsapp pe bata deti hu chahe aap main aapko call pe hi bata deti hu kaise aap search kar sakte ho khud se kyuki kya hota hai na\\nExecutive: Search to kar le kar raha hu hum dikha raha hai yaha pe hum bahar ki kar raha hu wo na IndiaMART mein humne search karne se mere paas dealer ka number chala aata tha wo us dealer se contact karne se na jaldi mal ka jo price hota hai na wholesale price mein mil jata hai hum to wholesale mein lenge na humko agar khud search kar kar kharidna hoga to wo to retail mein kharid paunga isliye hi humne phone kiya tha aapko\\nExecutive: Koi baat nahi sir aap wholesale ke liye bhi search kar sakte ho usme koi dikkat wali baat nahi hai\\nCustomer: Usme wholesale to nahi dikhayega na\\nExecutive: Nahi dikhayega aisa nahi hota aapko main guide kar du abhi kaise karna hai bata du main aapko\\nCustomer: Nahi nahi hum wo nikalne aao aap logo ka message agar aayega mere paas to usme bhi hum call kar lenge thik hai\\nExecutive: Kaise matlab sir\\nCustomer: Hain\\nExecutive: Kaise message aayega matlab\\nCustomer: Message mein number koi dealer hoga na to uske paas message chala jayega ki hum is bar ise puch raha hu to us dealer ne humko phone kar lega ya fir hum unko phone kar lenge aisa hota hai\\nExecutive: Haan main waise hi nahi chah rahi hu ki waise hi karu sir\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call was disconnected.\\n\n- Wants dealer's contact for wholesale prices.\\n\n\\n\nResolution:\\n\n- Executive offered guidance on searching for wholesale.\\n\n- Customer prefers receiving dealer contacts via message.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, wholesale, dealer contact, search\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a27b777f-5be7-47cf-a00f-8bcf7ca694be",
+  "ucid": "a27b777f-5be7-47cf-a00f-8bcf7ca694be",
+  "seller_categories": [
+    {
+      "mcat_id": "224145",
+      "mcat_name": "Medical Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "56254",
+      "mcat_name": "Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "136956",
+      "mcat_name": "Empty Oxygen Cylinder"
+    },
+    {
+      "mcat_id": "140274",
+      "mcat_name": "Nebulizer Machine & Parts"
+    },
+    {
+      "mcat_id": "73809",
+      "mcat_name": "Double Open End Spanner"
+    }
+  ]
+}

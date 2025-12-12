@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670664289",
+  "gluser_id": "245432726",
+  "vintage_months": 1,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mahuva",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello, haan ji?\\nExecutive: Haan sir baat kar raha hu. Ji bataiye sir aapne call kiya hai.\\nCustomer: Ah, kaun baat kar raha hai? Mere IndiaMART pe call kiya tha.\\nExecutive: Ji aap Milan ji baat kar rahe hai?\\nCustomer: Ah.\\nExecutive: Milan ji main IndiaMART se Ankur Singh baat kar raha hu. Aapne jo customer care call kiya sir wo mere paas hi call aaya hai.\\nCustomer: Okay.\\nExecutive: Haan ji bataiye aapko.\\nCustomer: Nahi nahi wo mujhe dusre customer care mein baat karni hai.\\nExecutive: Nahi wo mere paas sir aap customer care call karenge main hi aapka account take care kar raha hu to mere paas hi call aaya hai aur abhi Jignesh ji se hi baat ho rahi thi meri. To unhone bhi yahi bataya tha. Main just call back kar raha hu aapke number pe. Thik hai?\\nCustomer: Hmm.\\nExecutive: Haan main call kar raha hu aapko koi dikkat nahi hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to another customer care.\\n\n\\n\nResolution:\\n\n- Executive informed that he is taking care of account.\\n- Executive informed that Jignesh also told the same.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, account, call\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dd596968-a600-4141-bd7f-723301edf63f",
+  "ucid": "dd596968-a600-4141-bd7f-723301edf63f",
+  "seller_categories": [
+    {
+      "mcat_id": "7518",
+      "mcat_name": "Onion Powder"
+    },
+    {
+      "mcat_id": "26446",
+      "mcat_name": "Dehydrated Onion"
+    },
+    {
+      "mcat_id": "84758",
+      "mcat_name": "Dehydrated Onion Flake"
+    },
+    {
+      "mcat_id": "11917",
+      "mcat_name": "Garlic Powder"
+    },
+    {
+      "mcat_id": "147472",
+      "mcat_name": "Tomato Powder"
+    }
+  ]
+}

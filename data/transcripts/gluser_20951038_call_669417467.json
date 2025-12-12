@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669417467",
+  "gluser_id": "20951038",
+  "vintage_months": 59,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhadrak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan good afternoon sir meri baat KCS power mein ho rahi hai.\\nCustomer: Haan KCS power se baat ho rahi hai.\\nExecutive: Ji ji ji main Ashraf baat kar raha hun sir India mart ke head office se kaise hain aap.\\nCustomer: Haan haan.\\nExecutive: Ji ji ji wo kuch kuch changes karane the na sir aapko apne website pe.\\nCustomer: Aur haan wo to hai main suniye na suniye na main thoda bahar aaya hun ek ghante ke baad call karta hun theek hai na.\\nExecutive: Theek hai ek ghante baad fir main aapko karta hun baki yahi bas yahi changes hi to karane hain sir aapko apne website mein humse aur koi issue hai.\\nCustomer: Nahi nahi changes nahi nahi bahut sara issue hai thoda main bahar hun main.\\nExecutive: Achcha chaliye theek hai tab fir karta hun main aapko ek ghante baad.\\nCustomer: Theek hai theek hai theek hai thank you thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants changes on the website.\\n\n- Has many issues.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after one hour.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call in one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- website changes, issues, call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b28506b5-ade1-4800-9c4a-9fbdec9b1313",
+  "ucid": "b28506b5-ade1-4800-9c4a-9fbdec9b1313",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "187442",
+      "mcat_name": "Murukku"
+    },
+    {
+      "mcat_id": "192459",
+      "mcat_name": "Haldiram Namkeen"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    }
+  ]
+}

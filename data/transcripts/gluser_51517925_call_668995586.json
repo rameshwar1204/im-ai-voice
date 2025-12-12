@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668995586",
+  "gluser_id": "51517925",
+  "vintage_months": 95,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651003",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hanji. Hanji Rajeev ji baat kar rahe hain?\\nCustomer: Hanji.\\nExecutive: Sir Saloni baat kar rahi hun IndiaMART se good afternoon. Actually aapke yahan suna ek kya bata rahe hain?\\nCustomer: Ek minute mam ek bas. Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive calling Rajeev from IndiaMART.\\n\n- Executive heard something at customer's place.\\n\n\\n\nResolution:\\n\n- Call disconnected.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, indiaMART\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 114,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e0ac616-39c2-4e13-b400-8dc9516746d0",
+  "ucid": "9e0ac616-39c2-4e13-b400-8dc9516746d0",
+  "seller_categories": [
+    {
+      "mcat_id": "202022",
+      "mcat_name": "Gym Setup"
+    },
+    {
+      "mcat_id": "126829",
+      "mcat_name": "Multi Gym"
+    },
+    {
+      "mcat_id": "181826",
+      "mcat_name": "Functional Trainer Machine"
+    },
+    {
+      "mcat_id": "23912",
+      "mcat_name": "Bus Stop Shelters"
+    },
+    {
+      "mcat_id": "168444",
+      "mcat_name": "MS Laser Cutting Services"
+    }
+  ]
+}

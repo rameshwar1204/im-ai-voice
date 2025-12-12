@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667388238",
+  "gluser_id": "30918220",
+  "vintage_months": 102,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jhajjar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635667",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, sir ek baar fir se thoda apna issue fir se ek baar explain kariye please.\\nCustomer: Madam, ek party ka lead aaya tha, usse baat hui, woh agree ho rahi hai, lekin party keh rahi hai kya ki sir aapko payment link bhejni padegi, fir mai us pe payment karunga.\\nExecutive: Matlab ki payment link bhejni hai matlab unko jiske through woh aapko payment kar sake.\\nCustomer: Haan, jiske through woh payment kar sake.\\nExecutive: Toh isme option hota hai na ki haan bhai aap IndiaMART ke portal mein account mein bhej sakte hai, woh link bana ke de dete hai, payment aa jati hai, fir aapke order pass, ek baar woh karwa do woh mujhe chala lena.\\nExecutive: Sir, aap jaise payment karte hai, aapki payment mode kya hote hai normally jab aap payment karte hai kisi ko?\\nCustomer: Nahi hum log toh kya naam hai Paytm kar dete hai, scanner bhej dete hai, aur ya toh fir kya naam hai unka account hota hai, IMPS kar dete hai. Woh keh rahe hai swipe kar sakte hai ya link se payment bhej sakte hai ji.\\nExecutive: Swipe kar sakte hai, link kar sakte hai, sir IndiaMART jo hota hai woh sirf aapko jo hai client ke saath aapko ek platform deta hai jaha pe aap client se meet up kar sakte hai. Yeh payment ka humara koi apna gateway nahi hota hai. Woh aapke apne jo sources hote hai jis medium se aapne pehle kabhi baat kari ho, karwaya ho, usi medium se aapko unse karwana hoga. Haan. Theek hai sir?\\nCustomer: Sir, hello?\\nExecutive: Haan, iske alawa sir abhi aap apne source se hi karwana.\\nExecutive: Haan ji sir. Iske alawa?\\nCustomer: Iske alawa?\\nExecutive: Nahi mai yeh bol rahi thi ki woh jo aapke jo Paytm wagera hai aap unse hi jo hai online unse karwa sakte hai apna QR bhej ke scan karwane ke liye.\\nCustomer: Hmm.\\nExecutive: Aap apna apna jo hai apne\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a lead requesting payment link.\\n\n- Wants to know if IndiaMART can generate payment link.\\n\n\\n\nResolution:\\n\n- Explained IndiaMART is a platform for meeting clients.\\n\n- Informed payment gateway is not provided by IndiaMART.\\n\n- Suggested using previously used payment methods.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, payment link, payment gateway\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a9cdffe7-f533-457a-b6a8-8403068787d7",
+  "ucid": "a9cdffe7-f533-457a-b6a8-8403068787d7",
+  "seller_categories": [
+    {
+      "mcat_id": "1416",
+      "mcat_name": "Corrugated Box"
+    },
+    {
+      "mcat_id": "24186",
+      "mcat_name": "Carton Box"
+    },
+    {
+      "mcat_id": "180740",
+      "mcat_name": "3 Ply Corrugated Box"
+    },
+    {
+      "mcat_id": "180741",
+      "mcat_name": "5 Ply Corrugated Box"
+    },
+    {
+      "mcat_id": "111362",
+      "mcat_name": "Printed Corrugated Boxes"
+    }
+  ]
+}

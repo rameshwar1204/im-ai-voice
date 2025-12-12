@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669822010",
+  "gluser_id": "34937292",
+  "vintage_months": 0,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638401",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "This call is now being recorded.\\nCustomer: Hello?\\nExecutive: Yes ma'am, good afternoon.\\nCustomer: Ji boliye.\\nExecutive: Imran baat kar raha tha ma'am IndiaMART se. I hope aapka meeting ho gaya hoga ma'am aapke account manager ke saath.\\nCustomer: Ji haan, ho gayi hai.\\nExecutive: Haan ji ma'am. Abhi koi doubt hai ma'am services mein toh bataiye ma'am.\\nCustomer: Nahi, abhi unhone sirf cheezein change karayi hain. Ab woh service kaise milti hai woh toh service pata chalega na.\\nExecutive: Achha achha. Baki saari cheezein aapko samajh mein aa gaya ma'am, buylead wagera bhi aapko suggest kiya hoga ma'am kis type se buylead mein aapko kaam karna hai, hai na? Kuch product ka mapping wagera bhi aapka correct kiya hoga. Usme koi doubt, koi issue hai aapko?\\nCustomer: Jo mere products the, unme kuch galat categories daali hui thi. Toh unko theek kiya hai unhone. Kuch ko theek kiya hai, kuch ko mujhe karna hai. Aur iske alawa unhone mujhe bataya ki TrustSeal ka service hai woh dekhna hai.\\nExecutive: Sorry ma'am actually voice break ho rahi thi. Sorry ma'am. Phir se ek baar boliye.\\nCustomer: Ji haan, unhone kuch leads ke baare mein bataya hai mujhe. Main woh bhi dekh rahi hu. Ab jaise jo leads hai uske according work karke dekhti hu. Kaise response milta hai ab.\\nExecutive: Achha achha. Toh jaise ma'am already aapka ek concern hamare paas raise tha, hai na? 5 tarikh ko aapne concern raise kiya tha ma'am.\\nCustomer: Ji haan, ji haan.\\nExecutive: Toh abhi aapka permission ho toh isko main close kar sakta hu ma'am?\\nCustomer: Nahi, abhi aap close nahi kar sakte. Maine wohi ma'am ko bhi bola. Abhi aapne un cheezein theek ki hai. Uske according mujhe service kitni better mil paati hai woh toh dekhungi na main. Mujhe main concern toh service milne ka hai na.\\nExecutive: Hmm hmm, bilkul aisa nahi hai ma'am dekhiye ma'am.\\nCustomer: Chaliye.\\nExecutive: Bilkul bilkul ma'am dekhiye ek cheez main aapko bolu ma'am. Naya account hai ma'am. Thoda sa time toh lagta hai ma'am aapke consuming pattern ke according ma'am buyleads wagera aapko aati bhi hai. Theek hai na? Us according aapka visibility bhi improve hota hai. Fir aapke paas false inquiry bhi aayegi ma'am. Toh uske according pura ka pura kaam hota hai.\\nCustomer: Aane ke liye mujhe bilkul samajh mein aata hai ki false inquiry bhi aati hai.\\nHmm hmm.\\nCustomer: Bhi aati hai.\\nExecutive: Hmm hmm.\\nCustomer: Ek koi kyun nahi aayi thi. Uski wait mein hu main. Ki kuch achha haath mein aaye. Toh mujhe bhi lage ki haan maine kuch lekar better hi kiya hai.\\nExecutive: Hmm hmm.\\nCustomer: Woh cheez hoti hai. Toh abhi toh cheezein change hoti hai. Ab dekhte hai iska result kitne din mein aata hai.\\nExecutive: Toh fir final confirmation ke liye main aapko kab connect kar lu bataiye?\\nCustomer: Do din dekhne dijiye. Do din mein kya haath lagta hai mujhe. Kaise mujhe lead available hoti hai mujhe. Main dekh leti hu ek baar.\\nExecutive: Theek hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai, theek hai. Koi issue nahi. Okay, thank you ma'am.\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wrong categories were added to products.\\n\n- Wants to see TrustSeal service.\\n\n- Concerned about service after changes.\\n\n- No leads received yet.\\n\n\\n\nResolution:\\n\n- Executive acknowledged concerns.\\n\n- Executive explained the process takes time.\\n\n\\n\nNext Steps: \\n\n- Executive will connect after two days.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, trustseal, product categories, service\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 152,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f8939c94-7d41-46ea-a3b3-ac6a7c9bf35f",
+  "ucid": "f8939c94-7d41-46ea-a3b3-ac6a7c9bf35f",
+  "seller_categories": [
+    {
+      "mcat_id": "87923",
+      "mcat_name": "Placement Service"
+    },
+    {
+      "mcat_id": "101797",
+      "mcat_name": "Typing Services"
+    },
+    {
+      "mcat_id": "87924",
+      "mcat_name": "Recruitment Service"
+    },
+    {
+      "mcat_id": "132975",
+      "mcat_name": "Technical Support Service"
+    },
+    {
+      "mcat_id": "167900",
+      "mcat_name": "Account Management Service"
+    }
+  ]
+}

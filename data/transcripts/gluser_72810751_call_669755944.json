@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669755944",
+  "gluser_id": "72810751",
+  "vintage_months": 1,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Azamgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Haan madam aaj lagta hai aaj sab badhiya hai madam.\\n\\nExecutive: Hello\\n\\nExecutive: Haan ji aap bataye please. Please bataye sir.\\n\\nCustomer: Madam mera badhiya hai ye aap log yaar service theek nahi dete ho madam.\\n\\nExecutive: Kya problem hai mujhe bataye sir. Haan ji.\\n\\nCustomer: Problem ye hai madam aap log bole the ek saal ke liye ek saal ke liye vyapar hai free milega wo bhi vyapar hai bhi aap logo ne nahi diya.\\n\\nExecutive: Aap please mujhe ek bar apna company name bataye.\\n\\nCustomer: Are company name isi number pe aap check kar lijiye number dal ke madam. Bar bar isi cheez ke liye daily phone karunga daily company name bataunga.\\n\\nExecutive: Number bata dijiye na apna.\\n\\nCustomer: Number to isi number pe phone kiya number yaad nahi hai madam.\\n\\nExecutive: Aapko aapka number nahi pata sir.\\n\\nCustomer: Madam dekhna padega na main jyada jyada padha likha nahi hu madam.\\n\\nExecutive: Sir jis phone se phone kar rahe hain wahi aapka registered number hai.\\n\\nCustomer: Haan yahi number hai madam.\\n\\nExecutive: Sir aap please apna number bataye mujhe abhi aapka number show nahi ho raha hai kyunki jis number pe aapne call kiya hai wo company ka number hai to waha par aapka number show nahi ho raha hai aap please apna number mujhe bataye ek bar.\\n\\nCustomer: Likhiye likhiye 7260\\n\\nExecutive: Seven\\n\\nCustomer: 260\\n\\nExecutive: Theek hai.\\n\\nCustomer: 37\\n\\nExecutive: 37\\n\\nCustomer: 34\\n\\nExecutive: 34\\n\\nCustomer: 33\\n\\nExecutive: 33\\n\\nCustomer: 34\\n\\nExecutive: Haan.\\n\\nCustomer: 35\\n\\nExecutive: Haan.\\n\\nCustomer: 34\\n\\nExecutive: Theek hai.\\n\\nCustomer: 37\\n\\nExecutive: Soft India door and outdoor karke hai aur aapne call 9696 se kiya hai mujhe waha se call karne dijiye aap.\\n\\nCustomer: Madam ek baat hello\\n",
+  "summary": "\\n\nConcerns:\\n\n- Did not receive free business ad.\\n\n- Inconvenience of providing company name repeatedly.\\n\n\\n\nResolution:\\n\n- Executive asked for company name and number.\\n\n- Customer provided his number.\\n\n- Executive identified the company name.\\n\n\\n\nNext Steps: \\n\n- Executive will call from another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- free business ad, company name, registered number\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 169,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=05116834-bd36-4488-8862-b13ce0460c14",
+  "ucid": "05116834-bd36-4488-8862-b13ce0460c14",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "34116",
+      "mcat_name": "Outdoor Chair"
+    },
+    {
+      "mcat_id": "33795",
+      "mcat_name": "Wicker Table & Chair Set"
+    },
+    {
+      "mcat_id": "33794",
+      "mcat_name": "Outdoor Umbrella"
+    },
+    {
+      "mcat_id": "180547",
+      "mcat_name": "Outdoor Sofa Set"
+    }
+  ]
+}

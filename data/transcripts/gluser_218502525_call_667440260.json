@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667440260",
+  "gluser_id": "218502525",
+  "vintage_months": 7,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Faizabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626875",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello. Hello.\\nExecutive: Ji.\\nCustomer: Haan ji sir Shakti printers mein baat ho rahi hai?\\nExecutive: Ji.\\nCustomer: Achcha haan wo aapne mujhe bola tha na 3:00 3:30 baje ke baad call karne ke liye bas aap busy aa rahe the other call pe.\\nExecutive: Haan sahi baat hai.\\nCustomer: Ji.\\nCustomer: Hai na main aapko sir apni side se call kar rahi hoon aap mera call answer kijiyega.\\nCustomer: Theek hai main aapko apni side se call kar rahi hoon mera call answer kijiye aap.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was asked to call after 3:00-3:30.\\n\n- Customer was busy on another call.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's call.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, printers, busy\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=accbbf5d-8997-41db-af7e-9f8f24787562",
+  "ucid": "accbbf5d-8997-41db-af7e-9f8f24787562",
+  "seller_categories": [
+    {
+      "mcat_id": "181380",
+      "mcat_name": "School ID Card"
+    },
+    {
+      "mcat_id": "96451",
+      "mcat_name": "ID Card Holder"
+    },
+    {
+      "mcat_id": "74725",
+      "mcat_name": "ID Card Lanyard"
+    },
+    {
+      "mcat_id": "139794",
+      "mcat_name": "T-Shirt Printing Services"
+    },
+    {
+      "mcat_id": "446025",
+      "mcat_name": "Water Sensor Diya"
+    }
+  ]
+}

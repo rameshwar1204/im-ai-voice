@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671917820",
+  "gluser_id": "237867695",
+  "vintage_months": 1,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Guna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679319",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Vishwakarma Green Tech mein baat ho rahi hai?\\nExecutive: Ji.\\nExecutive: Sir good afternoon, Deepak baat kar raha hu India Mart head office Noida se. Aapne interest show kiya tha sir video meet ke liye.\\nCustomer: Haan haan haan.\\nExecutive: To koi issue aa raha hai sir services ko leke kya samjhna hai sir video meet pe?\\nCustomer: Sir ab main aapse 4 baje ke something baat karunga.\\nExecutive: 4 baje?\\nCustomer: Haan.\\nExecutive: Theek hai sir main 4 baje connect kar lete hu aapko. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss services at 4 PM.\\n\n\\n\nResolution:\\n\n- Executive agreed to connect at 4 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will connect with the customer at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meet, services\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97362a73-2d7d-40fb-8b14-ad1df18e960a",
+  "ucid": "97362a73-2d7d-40fb-8b14-ad1df18e960a",
+  "seller_categories": [
+    {
+      "mcat_id": "158217",
+      "mcat_name": "D-Cut Non Woven Bags"
+    },
+    {
+      "mcat_id": "140760",
+      "mcat_name": "Printed Non Woven Bags"
+    },
+    {
+      "mcat_id": "32848",
+      "mcat_name": "Non Woven Bag"
+    },
+    {
+      "mcat_id": "224564",
+      "mcat_name": "Loop Handle Non Woven Bag"
+    },
+    {
+      "mcat_id": "165229",
+      "mcat_name": "Printed Carry Bags"
+    }
+  ]
+}

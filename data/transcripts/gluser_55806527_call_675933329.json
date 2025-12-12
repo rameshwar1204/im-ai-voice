@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675933329",
+  "gluser_id": "55806527",
+  "vintage_months": 4,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663929",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ji Salman sir, good afternoon, kaise hain?\\nCustomer: Ji good afternoon, ji Priyanshu bhai.\\nExecutive: Ah, theek hain sir aap?\\nCustomer: Ji sab badhiya, aap kya haal hai bhai? Main ne, main bhi ekdam se badhiya hun. Main ne kaha ek baar aaj aap se baat karta hun. Abhi to Deepak sir se baat hui thi. Abhi kuch kaam vagaira chal raha hai sir aapna?\\nCustomer: Kaam bas party aayi hui hai, unhi ke saath aaye hue hain zara hum, desktop dikhane ke liye.\\nExecutive: Achha unhi ke saath aaye hue hain. Haan unhi ke saath busy hain zara. Bahut achhi ji hai. Abhi isme main kyunki abhi main ek cheez dekh raha tha ek din, Delhi NCR mein hamari jaise Delhi aur shayad Ghaziabad vagaira mein to hamari listing aa rahi hai top pe. Abhi isme lekin Gurgaon ek do jagah hoti jahan pe hamari thoda sa nahi aa rahi thi priority pe. To ek baar mujhe wo bhi baat karke, Pradeep sir ko bhi maine lagaya tha, to mujhe lag raha hai isiliye phone nahi utha paaye honge wo.\\nCustomer: Ji ji ji.\\nExecutive: To maine kaha aap se ek baar baat bhi ho jayegi, us bahane aap se feedback bhi mil jayega. Contact form nahi aaya unka party ka.\\nCustomer: Main Priyanshu bhai main aap se karta hun kyunki bas inhe main side dikha dun. Nahi nahi bilkul ye jaruri aap kar lijiye yaar aap free ho ke kijiyega mujhe, theek hai sir?\\nExecutive: Theek hai, theek hai sir. Ji okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Gurgaon listing not on priority.\\n\n- Contact form not received from party.\\n\n\\n\nResolution:\\n\n- Executive will connect later.\\n\n\\n\nNext Steps: \\n\n- Executive will connect later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- listing, delhi ncr, contact form\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dac46b20-70f1-4f23-b826-ba3d08694969",
+  "ucid": "dac46b20-70f1-4f23-b826-ba3d08694969",
+  "seller_categories": [
+    {
+      "mcat_id": "33829",
+      "mcat_name": "Palm Trees"
+    },
+    {
+      "mcat_id": "23709",
+      "mcat_name": "Bonsai Plants"
+    },
+    {
+      "mcat_id": "25357",
+      "mcat_name": "Date Palm Trees"
+    },
+    {
+      "mcat_id": "44183",
+      "mcat_name": "Decorative Plant"
+    },
+    {
+      "mcat_id": "163621",
+      "mcat_name": "Topiary Plants"
+    }
+  ]
+}

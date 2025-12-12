@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667360006",
+  "gluser_id": "203525305",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Hosur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626945",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Sollunga.\\nExecutive: Indha call vandhirundhadhu sir.\\nCustomer: Ah sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call.\\n\n\\n\nResolution:\\n\n- Not applicable.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=15a3d027-d734-45d2-b5d1-33d4320deb7a",
+  "ucid": "15a3d027-d734-45d2-b5d1-33d4320deb7a",
+  "seller_categories": [
+    {
+      "mcat_id": "788",
+      "mcat_name": "Latex Gloves"
+    },
+    {
+      "mcat_id": "32733",
+      "mcat_name": "Nitrile Gloves"
+    },
+    {
+      "mcat_id": "216615",
+      "mcat_name": "3 Ply Face Mask"
+    },
+    {
+      "mcat_id": "1903",
+      "mcat_name": "Safety Gloves"
+    },
+    {
+      "mcat_id": "126120",
+      "mcat_name": "Disposable Cap"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672518532",
+  "gluser_id": "35580165",
+  "vintage_months": 47,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Modinagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haan ji.\\n\\nCustomer: Hello. Hello?\\n\\nExecutive: Haan good evening sir, kaise hain aap?\\n\\nCustomer: Badhiya ji badhiya. Haan kya busy chal rahe hain kya sir?\\n\\nExecutive: Haan kahin baitha hua tha, bataiye.\\n\\nExecutive: Accha accha. Nahi thoda sa service ke regarding discuss karna tha. Hamari ek category thi na sir ye wali plaster of paris wali. Hmm. Eh plaster, bas plaster. Iski na almost dedh do mahine se koi buylead ka generation nahi hua hai. To iski listing niche aa rahi thi sir kaafi. Hmm hmm. Aur haan category ka khair correction karna hai. Ek double AC block hai. Dusra block karke hai. Block mein ek hi product add hai bas. Hmm hmm. Aap kal subah mujhe 11 baje phone kar loge ek baar? Sir aap kitne baje free rahoge aap bata do mujhe. Kal 11 baje aap mujhe phone kar lena main laptop free rahunga us samay. Haan theek hai 11 baje exact mein kar leta hu sir call. Theek hai. Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No buylead generation for Plaster of Paris category.\\n\n- Listing is going down.\\n\n- Category correction needed for double AC block.\\n\n\\n\nResolution:\\n\n- Agreed to discuss the issue next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, category, listing, correction\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c5b1c47b-0933-427d-b275-23f56b99a387",
+  "ucid": "c5b1c47b-0933-427d-b275-23f56b99a387",
+  "seller_categories": [
+    {
+      "mcat_id": "68865",
+      "mcat_name": "AAC Block"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "132183",
+      "mcat_name": "AAC Siporex Block"
+    },
+    {
+      "mcat_id": "143636",
+      "mcat_name": "Lightweight Block"
+    },
+    {
+      "mcat_id": "164149",
+      "mcat_name": "Ready Mix Plaster"
+    }
+  ]
+}

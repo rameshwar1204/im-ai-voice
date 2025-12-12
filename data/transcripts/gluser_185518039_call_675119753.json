@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675119753",
+  "gluser_id": "185518039",
+  "vintage_months": 32,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kurukshetra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709841",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello mam. Hello. Hanji mam.\\nExecutive: Ha mai Kavita. \\nCustomer: Ha.\\nExecutive: Mai Kavita baat kar rahi thi.\\nCustomer: Ha.\\nExecutive: Abhi hamari baat hui thi right?\\nCustomer: Ji mam ji.\\nExecutive: Ji. To mam maine yaha se jo hai aapka concern jo hai close kar. Maine yaha se jo hai aapka ticket open kar diya hai. Thik hai? Jo buylead irrelevant ke buylead irrelevant ke regarding thi. Aapko ab se na buylead relevant aa jayengi aur matlab bulk wali aaengi. Thik hai?\\nCustomer: Okay.\\nExecutive: Aur mam abhi na maine aapka jo concern hai wo mai yaha se close kar deti hu. Thik hai? Uska jo hai feedback aayega. Jo hamare beech me conversation hui hai ye uske resolution jo maine aapko resolution provide kiya na ye uske regarding hoga. Thik hai? To please aap usko yes de dijiyega. Actually wo mere performance me mark hoga hota hai.\\nCustomer: Okay okay koi no problem mam. Call me hi aayega wo ya wo meeting attend usme aayega?\\nExecutive: Mam actually ye na mail pe jayega. Ha. Okay okay. Primary mail pe jayega to please aap jo hai mark kar dijiyega. Aur maine aapko concern raise kar diya hai 48 hours me resolve ho jayega then koi bhi issue aata hai to aap mujhe back call kar call back kar dijiyega.\\nCustomer: Okay. Okay. Thank you.\\nExecutive: Okay. Thank you mam. Have a nice day.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was receiving irrelevant buyleads.\\n\n\\n\nResolution:\\n\n- Executive opened a ticket for the customer.\\n\n- Assured relevant and bulk buyleads from now.\\n\n- Requested to provide feedback on the resolution.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, ticket, feedback, resolution\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=785abd43-211e-44c2-8e7e-4851c18815ef",
+  "ucid": "785abd43-211e-44c2-8e7e-4851c18815ef",
+  "seller_categories": [
+    {
+      "mcat_id": "8163",
+      "mcat_name": "Rice Mill"
+    },
+    {
+      "mcat_id": "3933",
+      "mcat_name": "Color Sorting Equipment"
+    },
+    {
+      "mcat_id": "155639",
+      "mcat_name": "Rice Color Sorter Machine"
+    },
+    {
+      "mcat_id": "44746",
+      "mcat_name": "Sortex Machine"
+    },
+    {
+      "mcat_id": "36429",
+      "mcat_name": "Rice Mill Machinery"
+    }
+  ]
+}

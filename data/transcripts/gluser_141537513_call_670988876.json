@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670988876",
+  "gluser_id": "141537513",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good morning sir. Shahnawaz is speaking from IndiaMART.\\nCustomer: Hmm, bolie.\\nExecutive: Sir, aapne ek raise kiya tha complaint iske liye call kiya sir.\\nCustomer: Jaise aapne ek raise kiya tha na ki aapko kam response free engineer building system mail diya tha sir based on my GST addresses.\\nCustomer: Sangareddy.\\nCustomer: Sangareddy but present my business working address is Hyderabad.\\nCustomer: Right?\\nExecutive: Yes sir.\\nExecutive: To aap uske liye service person ke aapne request raise ki thi, right?\\nCustomer: Haan, haan. Ji, ek minute mujhe dijiyega, call pe rahiyega, mai confirm karta hu.\\n\\nExecutive: Hello?\\nCustomer: Hmm, bolie. Hello.\\nExecutive: Sir, jaisa bhi aapka jo as per the GST address hi verified rehta hai sir. Hum verified address pe hi share karte hain. Jo GST ka address hoga, wahin pe service person visit kar sakta hai sir.\\nCustomer: Khali pin code number udhar hai. Address pura Hyderabad mein hai ye.\\nExecutive: Sir, actually kya hai na GST address jis jo bhi aapke GST pe mentioned rehta hai as per the GST.\\nCustomer: Haan, wo wo Hyderabad mein hi hai, wo Hyderabad mein hi hai.\\nExecutive: Okay sir, wo Hyderabad se hi aapka GST hai.\\nCustomer: Haan wo Hyderabad se hai. Khali pin code wrong mara. GST bharne ke time pe pin code wrong mara. Wo Sangareddy dikha raha khali. Pin code khali pin code hi wrong hai. Pura address pura Hyderabad ka hi hai.\\nExecutive: Okay. Aur GST mein pin code kaunsa hai sir? Sangareddy ka ya?\\nCustomer: Sangareddy ka hai. Wahi wahi galat galat ho gaya wo. Pura address pura Hyderabad hai.\\nExecutive: Sir, aise kya hota hai na as per the company mein hum GST address ke according hi hum idhar prefer karte hain. Ek minute dijiyega.\\n\\n\\nExecutive: Hello.\\nCustomer: Haan. Haan sir, as per the GST address hi rehta hai sir. GST mein agar aap change kara do to.\\nCustomer: GST address Hyderabad ka hi hai ji. Hyderabad mein Hyderabad address.\\nExecutive: Ek baar share kar sakte ho sir. Ek baar share kar sakte ho mere ko same number pe.\\nCustomer: Haan, hi bolke dal do mere se. Dal do.\\nExecutive: Ek minute sir, call pe rahiyega. Mai check karke bata deta hu. Abhi resolve bhi karta hu.\\nCustomer: Hmm.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants service person to visit Hyderabad address.\\n\n- GST address showing Sangareddy due to pin code error.\\n\n\\n\nResolution:\\n\n- Executive confirmed address verification as per GST.\\n\n- Asked customer to share GST details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will check and resolve the issue.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- gst address, pin code, service request, verification\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 423,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=02783138-a1aa-494f-82bd-408e5553724a",
+  "ucid": "02783138-a1aa-494f-82bd-408e5553724a",
+  "seller_categories": [
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

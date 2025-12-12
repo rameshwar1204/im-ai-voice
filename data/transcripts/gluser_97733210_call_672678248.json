@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672678248",
+  "gluser_id": "97733210",
+  "vintage_months": 70,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji. Good morning sir, Alok Pandey bol raha hu mai IndiaMART se, Gujaratant ka manager hu.\\nCustomer: 11 baje baat karte hai sir, actually abhi mai ghar hi hu, ja raha hu.\\nExecutive: Sir asal mein, asal mein sir sun lijiye meri baat, aapki na, inka aapne call kiya tha Bhavyakant ko, uske bihaf pe maine aapko bataya tha sir ek complaint khuli hui hai.\\nCustomer: Hmm.\\nExecutive: Woh sir hum band nahi kar pa rahe sir, aap discuss nahi kar rahe hai aur hum band nahi kar pa rahe sir, matlab aap time nahi de pa rahe hai.\\nCustomer: Mai chaar paanch din se bahar tha, kal hi abhi ghar aaya hu, abhi office ja raha hu mai, karta hu.\\nExecutive: Aap kitne der mein aapko phone karu aap baat kar lenge?\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Complaint not being closed due to lack of discussion.\\n\n\\n\nResolution:\\n\n- Customer will address the issue later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, discussion, follow up\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=af017504-ba4a-4e1b-a614-5efbcbea3d39",
+  "ucid": "af017504-ba4a-4e1b-a614-5efbcbea3d39",
+  "seller_categories": [
+    {
+      "mcat_id": "315637",
+      "mcat_name": "CO2 Gun"
+    },
+    {
+      "mcat_id": "183257",
+      "mcat_name": "Air Pistol"
+    },
+    {
+      "mcat_id": "50141",
+      "mcat_name": "Air Rifle"
+    },
+    {
+      "mcat_id": "21405",
+      "mcat_name": "Sports Air Guns"
+    },
+    {
+      "mcat_id": "651059",
+      "mcat_name": "Multi Shot Air Rifle"
+    }
+  ]
+}

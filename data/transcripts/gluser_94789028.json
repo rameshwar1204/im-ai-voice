@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "673767664",
+  "gluser_id": "94789028",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Hisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696416",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Sir, Namaste.\\nExecutive: Haan, Namaste. Sir, mai Om baat kar raha hu aapka IndiaMART ke account se, mere se.\\nCustomer: Haan ji, haan ji.\\nExecutive: Ji, ji, ji. Abhi sir, woh kal aapka call aaya tha na jab mere se miss ho gaya tha, phir WhatsApp pe aap se connect hua tha.\\nCustomer: Hmm, hmm, hmm. Haan Om ji boliye, bolo. Mera number hai ki nahi?\\nExecutive: Ji hai aapka.\\nCustomer: Nahi, nahi sir, yeh mera hi number hai. Yeh na, mai wohi bata raha hu, abhi na isme hi checks hote hai hamare company mein kuch. Ab woh mere se na aapki call miss ho gayi thi aur isme woh dobara jab humne call pe baat kari woh record nahi hui. Toh aap mere ko bas over the call confirmation de do ki hamari meri aur aapki baat ho gayi thi.\\nCustomer: Haan toh maine kal bhi de di thi confirmation ki inse baat hui thi ki mera phone aaya tha, maine bol diya tha aapki aur meri baat ho gayi already.\\nExecutive: Ji, ji, ji, ji, ji. Woh check ke liye aaya hoga toh bas phir mai yeh check status mein upar niya mai isko close kar du sir aapki yeh wali?\\nCustomer: Haan ji, haan ji close kar dijiye. Haan ji, ho gaya. Dhanyavaad Om ji, haan ji.\\nExecutive: Ji, ji, ji.\\nCustomer: Okay. Theek hai Om ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs confirmation of previous call.\\n\nResolution:\\n\n- Customer confirmed previous conversation.\\n\n- Executive closed the check status.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, call confirmation, check status\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f407117-dd47-4cb7-baaa-5e83103dc5c1",
+  "ucid": "9f407117-dd47-4cb7-baaa-5e83103dc5c1",
+  "seller_categories": [
+    {
+      "mcat_id": "27304",
+      "mcat_name": "Electric Scooter"
+    },
+    {
+      "mcat_id": "27221",
+      "mcat_name": "Electric Two Wheelers, Parts And Kits"
+    },
+    {
+      "mcat_id": "658888",
+      "mcat_name": "Komaki Electric Scooter"
+    },
+    {
+      "mcat_id": "72926",
+      "mcat_name": "Scooter"
+    }
+  ]
+}

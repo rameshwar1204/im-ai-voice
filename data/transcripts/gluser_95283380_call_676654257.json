@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676654257",
+  "gluser_id": "95283380",
+  "vintage_months": 72,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hooghly",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723042",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ha bhaiya ji boliye sir. \\nCustomer: Sir kaise hain aap?\\nExecutive: Bas theek thak hu. \\nCustomer: Sir mujhe aapse baat hi karni thi wo jo aap bata rahe the kal dikkat aa rahi hai login karne mein.\\nExecutive: Ha nahi nahi login to hai wo by lead nahi kharid pa rahe.\\nCustomer: By lead consume nahi kar pa rahe na ha usi ke liye mujhe aap usi ke liye video meet karna tha aapke sath abhi kar payenge?\\nExecutive: Video meet mere ko nikalna tha court ke liye.\\nCustomer: Kya sir?\\nCustomer: Aap aapke yahan to login ho hi jayega aap dekhiye na wahan to system me dikha hi raha hoga kya problem aa raha hai.\\nExecutive: Ha login to ho jayega lekin jo maine aapko dekha na ki aap by lead consume nahi kar pa rahe lekin by lead hai aapke pass to wo ha usi ke liye mujhe aapko login karna na to koi hamare hisab se na koi koi complaint kiya hua hai shayad uske karan se by lead consume karne mein problem aa rahi hai.\\nCustomer: Achcha complaint kiya hai kisi ne?\\nExecutive: Ha ha.\\nCustomer: Okay kis cheez ke regarding?\\nExecutive: Wo ek party wale ka machine deliver ho gaya uska password nahi gaya iske liye jabki uske sath mein mera aisa koi dispute nahi hai wo party ki party hai.\\nCustomer: Okay aur sir mujhe jitna yaad hai isse pehle bhi ek shayad complaint aayi thi aapke.\\nExecutive: Ha.\\nCustomer: Usme kya tha fir?\\nExecutive: Wo solve ho gaya tha.\\nCustomer: Okay wo solve ho gaya tha.\\nExecutive: Hmm.\\nExecutive: Dekhiye na aapko to dikhega wahan system mein kya problem hai. \\nCustomer: Ha sir wo wo dikh raha hai mujhe lekin usi ke liye video meet karni hai kyuki mujhe aapki screen share karani hai.\\nExecutive: Screen share nahi de.\\nExecutive: Screen share kaise karte hai sir problem hai na.\\nCustomer: Sir nahi video meet par aapki screen share karaunga.\\nCustomer: Tab pata chalega na main aapko login karaunga jo jo primary number hai fir dekhunga ki kis wo sara cheez sahi hai hum aaj se thodi na chala rahe hain aaj saat saal ho gaya humko use kiye hue. \\nCustomer: Theek hai theek hai sir fir main dekhta hu theek hai. \\nExecutive: Theek theek aap kab tak kab tak free honge ye bataiye.\\nCustomer: Sham ke waqt.\\nExecutive: Sham ke waqt kis time?\\nCustomer: Hmm sham ke waqt 5 6 baje tak.\\nCustomer: Aap ek bar wahan dekhiye na kya issue hai uske baad fir baat karte hain aapko dikh jayega system mein.\\nExecutive: Theek hai theek hai main dekh ke batata hu. \\nCustomer: Ha ha.\\nExecutive: Theek hai sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to consume buyleads.\\n\n- Customer says someone filed a complaint.\\n\n\\n\nResolution:\\n\n- Executive will check the system for the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will check and inform the customer.\\n\n\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, login, screen share\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 146,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f03fcb1-3a01-4f0f-8f07-75c168b484db",
+  "ucid": "2f03fcb1-3a01-4f0f-8f07-75c168b484db",
+  "seller_categories": [
+    {
+      "mcat_id": "25666",
+      "mcat_name": "Computerized Embroidery Machine"
+    },
+    {
+      "mcat_id": "90373",
+      "mcat_name": "Single Head Embroidery Machine"
+    },
+    {
+      "mcat_id": "7000",
+      "mcat_name": "Embroidery Machine"
+    },
+    {
+      "mcat_id": "120995",
+      "mcat_name": "Multi Head Embroidery Machine"
+    },
+    {
+      "mcat_id": "145400",
+      "mcat_name": "Sequins Embroidery Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674892161",
+  "gluser_id": "252275277",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Tamluk",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Haan good morning sir. Kahan se bol rahe ho?\\nExecutive: Main phone kar raha hun aapko aap itna phone kyun kar rahe ho? Main busy hai main phone kar raha hun aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked where the executive was calling from.\\n\n- Customer asked why the executive was calling.\\n\n\\n\nResolution:\\n\n- Executive stated he was calling the customer and questioned why the customer was calling so much.\\n\n- Executive mentioned he was busy.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to annoyed.\\n\n\\n\n@@@Key Topics:\\n\ncall origin, call purpose, busy\n\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fa802c99-b0c9-4815-bbe1-0c7189a32267",
+  "ucid": "fa802c99-b0c9-4815-bbe1-0c7189a32267",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675180225",
+  "gluser_id": "56536902",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Asansol",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710752",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nCustomer: Haan.\\n\\nCustomer: Ek construction se baat ho rahi hai meri?\\nExecutive: Haan haan haan boliye.\\nExecutive: Ji namaskar sir Shashank Tripathi baat kar raha hun senior manager IndiaMART ke office se.\\nCustomer: IndiaMART?\\nExecutive: Ji sir actually aapne call kiya hua tha na 9696 customer care pe koi tension tha IndiaMART se related?\\n\\nCustomer: Actually maine subah bola.\\nExecutive: Ji?\\nExecutive: Aage ka boliye.\\nExecutive: Main puch raha hun aapne IndiaMART customer care number pe call kiya hua tha koi problem hai IndiaMART se related?\\nCustomer: Problem theek hai requirement nahi aa raha.\\nExecutive: Requirement nahi aa raha hai?\\nCustomer: Hmm.\\nExecutive: Iske liye to I think aapke account manager Sanchika ji jo hai unhone aap se baat ki hogi aur video meeting bhi kiya hoga right?\\nCustomer: Haan haan haan.\\nExecutive: Haan to wo isiliye humne karaya tha sir ki jo jo cheeze identify humne kari hai jin pe correction karna hai wo kar diye gaye hain. Ab aap jo hai na ek hafte apna use kariye aur uske baad bataiyega ki bhai jo hai na kis tarike ka response hai.\\nCustomer: Haan haan haan dheere dheere hoga ek mahina do mahina jabhi kabhi aap clear hoga.\\nExecutive: Haan matlab mahina bhar nahi lagega sir ek aad hafte mein aapko fark pata chal jayega us hisab se aap jo hai na feedback bataiyega unko.\\nCustomer: To theek hai kya usme karna hai.\\nExecutive: Haan haan haan haan theek hai. Theek hai sir?\\nCustomer: Haan.\\nExecutive: Baki agar kuch bhi rehta hai to aap unko ek bar call kar sakte ho directly yahan pe ticket open hua tha usko main close kar raha hun to feedback ka mail aayega usse satisfied mark kar dijiye.\\nCustomer: Theek theek theek. Theek hai sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving requirements.\\n\nResolution:\\n\n- Executive mentioned account manager already addressed issue.\\n- Executive asked to use the portal for a week.\\n- Executive will close the ticket and send feedback mail.\\n\\n\nNext Steps: \\n\n- Customer to provide feedback after a week.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- requirements, account manager, feedback\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=452946a4-bd35-4b8d-b172-4c4f7dd67746",
+  "ucid": "452946a4-bd35-4b8d-b172-4c4f7dd67746",
+  "seller_categories": [
+    {
+      "mcat_id": "184787",
+      "mcat_name": "RCC Water Tank"
+    },
+    {
+      "mcat_id": "183524",
+      "mcat_name": "Underground Water Tanks"
+    },
+    {
+      "mcat_id": "3367",
+      "mcat_name": "Water Storage Tanks"
+    },
+    {
+      "mcat_id": "142342",
+      "mcat_name": "RCC Septic Tank"
+    },
+    {
+      "mcat_id": "143954",
+      "mcat_name": "RCC Chamber"
+    }
+  ]
+}

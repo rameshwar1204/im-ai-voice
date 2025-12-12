@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666830239",
+  "gluser_id": "254721038",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9627185",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nExecutive: Haan ji Pramod ji very good morning. Suresh baat kar raha hu sir IndiaMART se.\\nCustomer: Haan ji boliye.\\nExecutive: Uh sir actually aap mujhe\\nCustomer: Ji.\\nCustomer: Ek kaam kijiye na mujhe aadhe ghante me laga lijiye na.\\nExecutive: Achha theek hai theek hai Pramod ji okay.\\nCustomer: Aadhe ghante me lagaiye.\\nExecutive: Theek hai theek hai sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Requested a callback in half an hour as he was busy.\\n\\n\\nResolution:\\n\\n- Agreed to call back in half an hour.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call back in 30 minutes.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral | Non-urgent\\n\\n@@@Key Topics:\\n- callback request\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2adcbf4f-ebcc-4e4f-860f-25efb56996e0",
+  "ucid": "2adcbf4f-ebcc-4e4f-860f-25efb56996e0",
+  "seller_categories": [
+    {
+      "mcat_id": "37424",
+      "mcat_name": "Soybean Meal"
+    },
+    {
+      "mcat_id": "3398",
+      "mcat_name": "Wheat Flour"
+    },
+    {
+      "mcat_id": "160555",
+      "mcat_name": "Sea Buckthorn Juice"
+    },
+    {
+      "mcat_id": "8516",
+      "mcat_name": "Senna Leaves"
+    },
+    {
+      "mcat_id": "20462",
+      "mcat_name": "Moringa Leaves Powder"
+    }
+  ]
+}

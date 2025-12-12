@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671762048",
+  "gluser_id": "140669068",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Narsipatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9676738",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir, good morning.\\nCustomer: Hello.\\nExecutive: Good morning. Sir, mai Sudesh bol raha hu IndiaMART se.\\nCustomer: Haan sir boliye.\\nExecutive: Sir aapne kal ek concern aaya tha ki aap ek baar baat karna chah rahe the apne account manager se.\\nCustomer: Haan haan sir like.\\nExecutive: [inaudible] concern aa raha tha.\\nCustomer: Okay can you can I speak in English?\\nExecutive: Haan definitely sir definitely.\\nCustomer: Hello.\\nExecutive: Yeah.\\nCustomer: On Saturday I got a lead in IndiaMART. Okay. I got a lead. Okay so when I tried to contact him they asked me to pay some amount because as my weekly [inaudible] was done expired so they have given me something. So what did I paid the amount.\\nExecutive: Okay when I consulted him he said sir it was already closed before three before three hours.\\nCustomer: Okay.\\nExecutive: The lead is already closed.\\nExecutive: So now your reversible lead is also credited in your account. You can also check in the balance section.\\nCustomer: What sir?\\nExecutive: We also credit the same lead.\\nCustomer: Sir if you don't mind can you call me in 10 minutes or 15 minutes because I was doing my breakfast right now.\\nExecutive: Okay you can you can take your breakfast I will call you after 10 minutes okay. You can reach out the same number.\\nCustomer: It's okay.\\n(silence)\\n[unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer got a closed lead on Saturday.\\n\n- Customer was asked to pay amount to contact.\\n\n\\n\nResolution:\\n\n- Executive informed that reversible lead credited to account.\\n\n- Customer can check in the balance section.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10-15 minutes.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, refund, account\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca0ec5bf-fc62-4543-b33a-cbb7d260b834",
+  "ucid": "ca0ec5bf-fc62-4543-b33a-cbb7d260b834",
+  "seller_categories": [
+    {
+      "mcat_id": "184887",
+      "mcat_name": "Kajaria Vitrified Tiles"
+    },
+    {
+      "mcat_id": "217663",
+      "mcat_name": "Johnson Vitrified Tiles"
+    },
+    {
+      "mcat_id": "2237",
+      "mcat_name": "Floor Tiles"
+    },
+    {
+      "mcat_id": "166128",
+      "mcat_name": "Vitrified Floor Tile"
+    },
+    {
+      "mcat_id": "193246",
+      "mcat_name": "RAK Ceramic Tile"
+    }
+  ]
+}

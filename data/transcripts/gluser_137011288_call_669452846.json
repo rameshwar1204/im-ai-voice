@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669452846",
+  "gluser_id": "137011288",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656506",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji? Hello?\\nCustomer: Haan ji sir.\\nExecutive: Sandhya bol rahi thi office se bataiye.\\nCustomer: Haan ji haan ji. Sandhya bol rahi thi office se bataiye. Haan Sandhya main abhi matlab main jaise ki ek buylead maine abhi purchase karne ki koshish kari thi. To jo customer ki detail khuli hai na usme number kuch aur dikha raha hai aur message mein kuch alag number aa raha hai. Ye number kiska hai?\\nExecutive: Sir aapko mujhe show karna rahega.\\nCustomer: Voice clear nahi aa rahi aapki.\\nExecutive: Aap aapka number bataungi mujhe ek baar?\\nCustomer: Number mera yahi hai jisse baat kar raha hu main.\\nExecutive: Theek hai main aapko abhi WhatsApp kar rahi hu aap mujhe screenshot share kar dijiye uska. Main aapko phir call back karti hu.\\nCustomer: Theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says number is different in buylead details.\\n\n\\n\nResolution:\\n\n- Executive asked to share screenshot on WhatsApp.\\n\n- Executive will call back after checking.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, number verification, whatsapp\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2aa69807-1ebb-4bde-a301-251a8ad0d7da",
+  "ucid": "2aa69807-1ebb-4bde-a301-251a8ad0d7da",
+  "seller_categories": [
+    {
+      "mcat_id": "109094",
+      "mcat_name": "Sulphur Powder"
+    },
+    {
+      "mcat_id": "113798",
+      "mcat_name": "Sulphur"
+    },
+    {
+      "mcat_id": "177370",
+      "mcat_name": "Lambda Cyhalothrin"
+    },
+    {
+      "mcat_id": "149651",
+      "mcat_name": "Copper Oxychloride"
+    },
+    {
+      "mcat_id": "6013",
+      "mcat_name": "Plant Growth Regulators"
+    }
+  ]
+}

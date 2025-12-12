@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672085787",
+  "gluser_id": "242909210",
+  "vintage_months": 8,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682550",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Sir, good evening.\\nCustomer: Hmm.\\nExecutive: Ye A to Z production se baat ho rahi hai Aurangabad se?\\nCustomer: Hmm.\\nExecutive: Ayush Khan ji se baat kar lenge, baat ho sakti hai?\\nCustomer: Haan.\\nExecutive: Ayush ji, mera naam Sharansh hai. IndiaMART ke head office se baat kar raha tha business manager. Kaise hain aap?\\nCustomer: Hmm, badhiya. Bolo na. Mai lunch kar raha hu actually.\\nExecutive: Accha accha accha. Mujhe bas ek cheez puchna tha aapka na feedback mila hai mere paas WhatsApp pe ki aapki baat hui thi shayad hamare employee se, Shnaya Garg se regarding the services, right? To kuch aapne feedback usme not satisfied diya tha. To mai janna chahta hu aapki taraf se kuch issue face kiye aapne?\\nCustomer: Kya hua bole?\\nExecutive: Aapki taraf se not satisfied ka feedback aaya tha. Shnaya Garg ne jo aapko call kiya tha. To mai janna chahta tha koi issue face kiya aapne?\\nCustomer: Solution nahi mila abhi tak mere ko uska. Wo cheez ka solution nahi hai. Uske liye maine not satisfied karke daal diya.\\nExecutive: Accha solution nahi mila. Mai janna chahta tha ki issue kya tha jo aapne unko bataya?\\nCustomer: Abhi mai lunch kar raha hu yaar. Mai lunch kar raha hu. Mai karta hu aapko call, theek hai?\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave a not satisfied feedback.\\n\n- Customer has not received a solution yet.\\n\n\\n\nResolution:\\n\n- Executive inquired about the issue.\\n\n\\n\nNext Steps: \\n\n- Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, solution, not satisfied\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=06a4ef23-ad0b-43d5-a6b7-31a5c6577ec1",
+  "ucid": "06a4ef23-ad0b-43d5-a6b7-31a5c6577ec1",
+  "seller_categories": [
+    {
+      "mcat_id": "167805",
+      "mcat_name": "MDF Jali"
+    },
+    {
+      "mcat_id": "2351",
+      "mcat_name": "Laser Cutting Services"
+    },
+    {
+      "mcat_id": "174332",
+      "mcat_name": "CNC MDF Cutting Service"
+    },
+    {
+      "mcat_id": "135909",
+      "mcat_name": "CNC Laser Cutting Services"
+    },
+    {
+      "mcat_id": "174334",
+      "mcat_name": "CNC Router Cutting Services"
+    }
+  ]
+}

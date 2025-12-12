@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670267790",
+  "gluser_id": "2224243",
+  "vintage_months": 25,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666118",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji Piyush sir baat kare Kaveri text. Ha mere mera wo kon hai executive?\\nExecutive: Ha mai hi hu sir Amrit.\\nCustomer: Hai?\\nExecutive: Mai mai hi baat karu sir aap executive bhi baat kar raha hu mai Amrit baat kar raha hu.\\nCustomer: Nahi jo product add karayega wo kon hai?\\nExecutive: Sir aapka account manager mai hi hu jo bhi problem aap mujhse bata sakte hai kya karna hai.\\nCustomer: Add product add karane ke liye.\\nExecutive: Product add karane ke liye.\\nCustomer: Hmm.\\nExecutive: Sir aap Google meet pe ek baar connect ho jaiye. Aur\\nCustomer: Abhi thodi der thodi der me thodi der me karta hu laptop le aaun thik hai.\\nExecutive: Accha accha to system se karenge na aap?\\nCustomer: System se ha.\\nExecutive: Thik hai kitne baje sir?\\nCustomer: Abhi ek dedh ho raha hai dedh baje kareeb.\\nExecutive: Dedh baje.\\nCustomer: Thik hai sir thik hai.\\nExecutive: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add a product.\\n\n\\n\nResolution:\\n\n- Executive asked customer to connect on Google Meet.\\n\n\\n\nNext Steps: \\n\n- Customer will connect at 1:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product, google meet, account manager\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2336d255-c0f6-4025-af8a-492121489fa3",
+  "ucid": "2336d255-c0f6-4025-af8a-492121489fa3",
+  "seller_categories": [
+    {
+      "mcat_id": "186997",
+      "mcat_name": "School Belt Niwar"
+    },
+    {
+      "mcat_id": "182929",
+      "mcat_name": "Niwar"
+    },
+    {
+      "mcat_id": "141700",
+      "mcat_name": "School Belt"
+    },
+    {
+      "mcat_id": "6658",
+      "mcat_name": "Narrow Woven Fabrics"
+    },
+    {
+      "mcat_id": "442275",
+      "mcat_name": "Nylon Niwar Tapes"
+    }
+  ]
+}

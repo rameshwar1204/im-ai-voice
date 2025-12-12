@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670659528",
+  "gluser_id": "22171472",
+  "vintage_months": 100,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Raigad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9668982",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Yeah, hi Bhumika. Hi Shree here. Good morning. How are you?\\nCustomer: I am good. I am good. How are you?\\nExecutive: Yeah, I am fine as well. Please bataiye ma'am. Actually mujhe laga shayad Abhishek sir ne call kiya hai. Kyunki yaha par updated tha shayad customer care pe is number se call kar raha tha. To meri team ka update aaya tha ki Abhishek ji wants to connect.\\nCustomer: Yes, yes. I actually wanted to connect because I saw I was looking at the buyleads, India balance and export balance. To mujhe daily bonus mein one out of two dikh raha hai and uske niche likha hua hai expires tonight. Right? To wo lapse ho jayega, right?\\nExecutive: Correct, right, right.\\nCustomer: Right, correct.\\nExecutive: Aur weekly mein mujhe 13 out of 20 dikh raha hai and expires on Saturday dikh raha hai, right? To mujhe ye puchna tha ki 13 leads are Saturday ko expire honge, is it?\\nCustomer: Yes, correct.\\nCustomer: Matlab lapse ho jayenge, right?\\nExecutive: Haan ji ma'am.\\nCustomer: Okay, to mujhe batana ek bar how is it how the leads what's the frequency of leads kaise monthly aata hai, weekly aata hai, kaise kab kab kitne bhi jaake kit kab lapse hota hai mujhe ye details chahiye the.\\n\\nCustomer: Haan bolo.\\n\\nExecutive: Hello.\\nCustomer: Hello, aapki aawaz nahi aa rahi hai.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\nCustomer: Bhumika I can't hear you.\\n\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about buyleads frequency.\\n\n- Wants to know about the expiry of buyleads.\\n\n\\n\nResolution:\\n\n- Executive confirmed the expiry date of buyleads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, expiry, frequency\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 121,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e56bb824-b80a-4b8a-8d16-b26ff9ab5547",
+  "ucid": "e56bb824-b80a-4b8a-8d16-b26ff9ab5547",
+  "seller_categories": [
+    {
+      "mcat_id": "86320",
+      "mcat_name": "FRP Fencing"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "183525",
+      "mcat_name": "FRP Underground Water Storage Tanks"
+    },
+    {
+      "mcat_id": "223066",
+      "mcat_name": "Biofloc Fish Farming Tank"
+    },
+    {
+      "mcat_id": "29030",
+      "mcat_name": "Industrial FRP Pipe"
+    }
+  ]
+}

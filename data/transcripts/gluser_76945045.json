@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667475473",
+  "gluser_id": "76945045",
+  "vintage_months": 21,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636103",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Aapne jis vyakti ko call kiya hai, woh abhi dusre call par vyast hai.\\n\\nExecutive: Hello?\\n\\nCustomer: Hello? Hello?\\nExecutive: Haan, Yash sir, namaskar. Ji bataiye.\\nCustomer: Sir, Sumit baat kar raha hu sir mai IndiaMART se. Sir abhi aapki call aayi thi na IndiaMART se White Finder Enterprise ke liye.\\nExecutive: Ji ji.\\nCustomer: Ji ji, bataye sir mai actually dusri call pe tha, is wajah se baat nahi ho paayi thi. Bataye sir.\\nCustomer: Oye suniye, woh maine unhe apne account manager ke regarding call kari thi. Ji woh unse baat kar li thi maine aur unka number mere paas tha nahi toh uske regarding hi maine call kari thi ki ek baar woh mujhe call back kar lenge.\\nExecutive: Toh mai actually unse aapko parso discussion karwa du? Pragati actually leave pe thi aaj isiliye mere paas call aayi thi. Mai unko parso aapko...\\nCustomer: Kal kal kara dijiye sir kal.\\nExecutive: Woh kal actually sir off hai yaha pe. Chutti hai kal.\\nCustomer: Toh koi aur assign kar dijiye aap.\\nExecutive: Nahi nahi, kal IndiaMART ki chutti hai is wajah se.\\nCustomer: Accha accha sir, chutti ki matlab kal ko toh working day hi hai waise toh.\\nExecutive: Nahi nahi, woh Guru Gobind Singh Jayanti ki wajah se hai na, us wajah se chutti thi.\\nCustomer: Chaliye theek hai, koi nahi parso kara dena. \\nExecutive: Mai parso aapko 11 baje sharp aapko call karwa de raha hu sir. Theek hai na?\\nCustomer: 11 baje nahi aap 12 baje karaiyega.\\nExecutive: Chaliye 12 baje karwa deta hu sir, koi dikkat nahi. Baki ek jo mere paas ye feedback abhi aa gaya tha, us feedback ko mai close kar raha hu. Usme apna satisfaction aap de dijiyega. Parso 12 baje mai aapko sharp call karwa de raha hu.\\nCustomer: Theek hai sir. Okay, thank you. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants account manager to call back.\\n\n\\n\nResolution:\\n\n- Executive will arrange a call on the 13th.\\n\n\\n\nNext Steps: \\n\n- Executive will arrange a call on the 13th.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, callback, holiday\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=66d84090-f831-4aba-b1dd-c363e1175180",
+  "ucid": "66d84090-f831-4aba-b1dd-c363e1175180",
+  "seller_categories": [
+    {
+      "mcat_id": "20240",
+      "mcat_name": "Wooden Tray"
+    },
+    {
+      "mcat_id": "19427",
+      "mcat_name": "Wooden Flower Pot"
+    },
+    {
+      "mcat_id": "3541",
+      "mcat_name": "Wooden Lamps"
+    },
+    {
+      "mcat_id": "13028",
+      "mcat_name": "Wooden Vase"
+    },
+    {
+      "mcat_id": "3508",
+      "mcat_name": "Wood Lamp Bases"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670696996",
+  "gluser_id": "210662746",
+  "vintage_months": 4,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669671",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji sir, good afternoon.\\nExecutive: Good afternoon. Ji sir. Are, mein bol raha tha, ek client tha hamara. Abhi call baat hua tha unse. Shayad chota sa deal hai. Wo abhi nahi aaya hamse. Bas unko ek baar aap call kar denge sir.\\nExecutive: IndiaMART hai, verified hai, wagera.\\nCustomer: Yes, yes, kar dunga. But aap ek baar personal. Mein kar dunga, bata toh raha hu, kar dunga. Batao number batao. Ji mein kar dunga. Awaaz ja raha?\\nExecutive: Ji, ji. Awaaz aa raha hai, awaaz aa raha hai. Unka number. Aap ek kaam kijiye, aap ek kaam kijiye. Pehle, pehle mujhe personal number pe call kijiye, mere personal number pe dijiye.\\nExecutive: Mein aapko hi kar raha hu. Mein aapko hi kar raha hu. Mein aapko hi kar raha hu. Dekho, mein aapko hi kiya.\\nCustomer: Haan, ispe mujhe call kijiye.\\nExecutive: Karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants executive to call a client.\\n\n- Wants executive to call on personal number.\\n\n\\n\nResolution:\\n\n- Executive agreed to call the client.\\n\n- Executive sent a 'Hi' on personal number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- client, call, personal number\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=31df0ecf-86a4-4eb5-b809-85cba5b13918",
+  "ucid": "31df0ecf-86a4-4eb5-b809-85cba5b13918",
+  "seller_categories": [
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    },
+    {
+      "mcat_id": "114244",
+      "mcat_name": "Loose Tea"
+    },
+    {
+      "mcat_id": "12715",
+      "mcat_name": "Darjeeling Tea"
+    },
+    {
+      "mcat_id": "11395",
+      "mcat_name": "Leaf Tea"
+    },
+    {
+      "mcat_id": "4941",
+      "mcat_name": "Assam Tea"
+    }
+  ]
+}

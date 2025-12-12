@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676347973",
+  "gluser_id": "76873822",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Visakhapatnam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9722581",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello sir, Prakash from Saimedis stock weather.\\nCustomer: Good afternoon.\\nExecutive: Good afternoon. Hello. Uh, uh, sir in our catalog, they are showing vyropil as out of stock but we have stock. I don't know why they are showing out of stock.\\nExecutive: Sir, can we speak in English or Hindi, sir?\\nCustomer: I'm speaking English. Sir, in our catalog they are showing vyropil out of stock.\\nExecutive: Your catalog, sir? Sorry.\\nCustomer: In my catalog, Srisai Medis stock creative, in our catalog, they are showing vyropil out of stock.\\nExecutive: Okay, okay. Sir, sir, sir, I'm in a meeting, sir. If you will allow me for five minutes, sir, I will call back to you, sir.\\nCustomer: Yes, please. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Vyropil showing out of stock in catalog.\\n\n\\n\nResolution:\\n\n- Executive asked for 5 minutes to call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 5 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, out of stock, call back\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5394f2e0-333c-48d2-9a36-2a910a27565e",
+  "ucid": "5394f2e0-333c-48d2-9a36-2a910a27565e",
+  "seller_categories": [
+    {
+      "mcat_id": "167511",
+      "mcat_name": "Meropenem Injection"
+    },
+    {
+      "mcat_id": "143193",
+      "mcat_name": "Human Albumin Injection"
+    },
+    {
+      "mcat_id": "444098",
+      "mcat_name": "Ertapenem Injection"
+    },
+    {
+      "mcat_id": "162286",
+      "mcat_name": "Tenofovir Tablet"
+    },
+    {
+      "mcat_id": "445971",
+      "mcat_name": "Ferric Carboxymaltose injection"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675199307",
+  "gluser_id": "113092335",
+  "vintage_months": 9,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711510",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Haan sir aap bich me phone kat dete ho baat to puri sun liya karo.\\nCustomer: Abhi business bhi ho rahe hai aapka business time pass hai barabar na.\\nCustomer: Sir aawaz na break ho rahi hai aapki.\\nCustomer: Sir dekhiye mai aapko batau na har cheez ka solution hai but aap suna karo jab aap baat karoge na baith ke aaram se tabhi har cheez ka solution nikalta hai aap baat nahi karte ho to wo bich me baat adhuri hoti hai.\\nCustomer: Hai na.\\nCustomer: Haan ji.\\nCustomer: Hello.\\nCustomer: Haan boliye.\\nCustomer: Haan aap bhi bahar ho kya sir aapki aawaz bhi thodi kat kat ke aa rahi hai.\\nExecutive: Ek baar suno aap mera pehla catalog dekho mera meri product dekho barobar hai.\\nCustomer: Haan thik hai.\\nExecutive: Aap aap usko karo kya usme fault hai kya nahi hai fault barobar na aap mujhe baar baar call karte ho mujhe kya puchna mai angutha chap hu madam barobar na tisri fail hu.\\nExecutive: Barobar na.\\nCustomer: Wo koi baat nahi hai sir dekho dekho aap.\\nExecutive: Mera kaam kya hai madam mera kaam hai mera payment receive karna hai.\\nExecutive: Barobar na waha aapke waha jo kaam karte ho aise mere waha bhi secretary ke.\\nCustomer: Haan tabhi to maine bola tha aapko ki aap mere apne executive se meri baat karate hai jisko bhi aap.\\nExecutive: Mai businessman hu madam mujhe business mujhe business nahi milega to mai payment kaha se karunga aapko.\\nExecutive: Barobar na.\\nCustomer: Nahi aapki baat ji sir bilkul sahi hai but aap meri bhi to baat suna karo na dekho agar aapko samajh nahi aata jaise ek cheez hai na ye pura system hai aapko ye cheez samajh nahi aati ki isko kaise use karna hai isliye mai aapko bolti thi ki aap mere apne executive se baat karao meri mai unse baat karungi to mujhe.\\nExecutive: Kitni baar madam maine kitni baar baat ki hai maine kitni baar baat ki aap meri baat suno aap meri baat suno pehle aap mere catalog dekhoge uske andar kya fault hai wo aap sudharo.\\nExecutive: Change karo aap aapki bhasha me aap change karo kya dikkat aa rahi hai wo dekho mujhe buylead nahi aa rahi hai google pe show nahi ho raha hai wo to aap karo buylead nahi aayega to koi dikkat nahi hai aap wo google pe to show karwao mera.\\nCustomer: Haan dekho aap.\\nExecutive: IndiaMART google pe dikhra tha aisa to karao aisa to karao ki IndiaMART dikhe aisa automation google pe aisa to karao.\\nCustomer: Haan thik hai.\\nCustomer: Haan haan bas mai aapki baat to kar rahi thi aap se ji aap bilkul thik hai sir aap uske liye baat to kar rahi hu.\\nExecutive: Aap pehle madam pehle itna karao aap aap pehle google pe mera search karwao barobar na.\\nCustomer: Haan aur ek aapki buylead ki problem hai hai na.\\nExecutive: Haan buylead buylead hai na to buylead ki koi dikkat nahi hai abhi ek ek kaam karo mera google pe show karwao pehle.\\nExecutive: Barobar na.\\nCustomer: Haan sir haan aap ye batao abhi free ho to mai apne manager se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is breaking.\\n\n- Wants to resolve issues with catalog and buyleads.\\n\n- Google Pay is not showing.\\n\n\\n\nResolution:\\n\n- Executive asked to check catalog for faults.\\n\n- Executive asked to show on Google Pay.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to manager if executive is free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, buyleads, google pay, technical issue\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 192,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dacb8b77-59e9-4200-be3e-26f20eca6400",
+  "ucid": "dacb8b77-59e9-4200-be3e-26f20eca6400",
+  "seller_categories": [
+    {
+      "mcat_id": "181556",
+      "mcat_name": "Siemens PLC"
+    },
+    {
+      "mcat_id": "1686",
+      "mcat_name": "Safety Relays"
+    },
+    {
+      "mcat_id": "182623",
+      "mcat_name": "Allen Bradley PLC"
+    },
+    {
+      "mcat_id": "167489",
+      "mcat_name": "Bus Coupler"
+    },
+    {
+      "mcat_id": "192745",
+      "mcat_name": "Omron PLC"
+    }
+  ]
+}

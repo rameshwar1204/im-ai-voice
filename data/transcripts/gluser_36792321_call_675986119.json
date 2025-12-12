@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675986119",
+  "gluser_id": "36792321",
+  "vintage_months": 54,
+  "bl_dau_oct": 7,
+  "customer_type": "STAR",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Haan miss Riya bol raha hu.\\nCustomer: Kaun bol raha hai?\\nExecutive: Taufik Sheikh bol raha hu na, Shri Chakra company se.\\nCustomer: Shri Chakrapati?\\nExecutive: Haan.\\nCustomer: Haan haan boliye sir.\\nExecutive: A madam actually hum log ka last time jo discussion hua tha na.\\nHaan haan.\\nExecutive: To hum log ne do product I am star me dale hue hai barabar. To usme sub category jo show ho raha tha jaise humne Chennai laboratory ka dekha tha. To usme usne ek hi category purchase kiya tha usme around 300 plus usne add kiye the usme.\\nHmm.\\nExecutive: To vaise mujhe karna tha to kis tarike se kar sakta tha uska guidance chahiye tha.\\nExecutive: Ek second mai aapko batati hu sir. Kya mai aapko thodi der me call karke isko iske bare me bata du?\\nCustomer: Chalega aap mere ko yahi kar lo na link bhej do hum log ispe connect kar de.\\nExecutive: Kitni der me?\\nCustomer: Aap jab free ho tab kar do.\\nExecutive: Mai aapko aadhe aadhe ghante ke baad round connect karti hu.\\nCustomer: Chalega chalega chalega theek hai theek hai okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants guidance on adding subcategories to products.\\n\n\\n\nResolution:\\n\n- Executive will call back in half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive to call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subcategories, products, guidance, call back\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2489c504-e6c0-420b-a2be-c8e99fe69b31",
+  "ucid": "2489c504-e6c0-420b-a2be-c8e99fe69b31",
+  "seller_categories": [
+    {
+      "mcat_id": "136164",
+      "mcat_name": "Soil Testing Services"
+    },
+    {
+      "mcat_id": "110037",
+      "mcat_name": "Environmental Clearance Service"
+    },
+    {
+      "mcat_id": "102126",
+      "mcat_name": "Water Treatment Services"
+    },
+    {
+      "mcat_id": "78482",
+      "mcat_name": "Laboratory Testing Services"
+    },
+    {
+      "mcat_id": "135964",
+      "mcat_name": "Drinking Water Analysis"
+    }
+  ]
+}

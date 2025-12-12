@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675061028",
+  "gluser_id": "15062134",
+  "vintage_months": 41,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Malegaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9708224",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan.\\nExecutive: Haan bolo na.\\nExecutive: Good afternoon sir, main Manish baat kar raha tha IndiaMART office Noida se. Morning aapse baat nahi ho payi thi. Basically hum isliye connect kar rahe the sir, basically kal aapki baat hui thi Aman se, theek hai? Wo already. To aapke paas ek WhatsApp pe feedback gaya tha. To usme aapne na negative feedback diya tha. To ek thoda sa short discussion aapse karna tha, exactly hum issue kya face kar pa rahe hain.\\nCustomer: Kya hai?\\nExecutive: Matlab aapne negative feedback diya tha uske regarding. To isiliye hum connect kar rahe the. Main unka senior baat kar raha tha. To isi wajah se main connect karna chah raha tha ki exactly hum issue kya face kar pa rahe hain.\\nCustomer: Haan.\\nExecutive: Haan. To ye right time hai baat kar sakte hain?\\nCustomer: Hmm, mai mai shadi me hu.\\nExecutive: Achha aap kahi marriage function me hai. To kab tak connect kar payenge? Matlab evening aa payenge?\\nCustomer: Kal dekhenge. Wahi na wo quotation dala hai wahi.\\nCustomer: Abhi jo quotation dala wahi.\\nExecutive: Nahi nahi basically kya hai na kal meri team me Aman hai, Aman, theek hai? Unke end se aapke paas call gaya tha, theek hai? Unhone aapko sari cheez batai thi but ek feedback gaya tha hamare end se. Theek hai chalo aap baat karenge.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss negative feedback.\\n\n\\n\nResolution:\\n\n- Customer is at a wedding, will connect later.\\n\n\\n\nNext Steps: \\n\n- Customer will connect tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, discussion, call\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9b472511-e824-4965-8b72-b20d16833c40",
+  "ucid": "9b472511-e824-4965-8b72-b20d16833c40",
+  "seller_categories": [
+    {
+      "mcat_id": "43202",
+      "mcat_name": "Rotavator"
+    },
+    {
+      "mcat_id": "7463",
+      "mcat_name": "Disc Harrow"
+    },
+    {
+      "mcat_id": "164251",
+      "mcat_name": "Multi Speed Rotavator"
+    },
+    {
+      "mcat_id": "20908",
+      "mcat_name": "Seed Drills"
+    },
+    {
+      "mcat_id": "180646",
+      "mcat_name": "Bund Maker"
+    }
+  ]
+}

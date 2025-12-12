@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669016334",
+  "gluser_id": "17245704",
+  "vintage_months": 43,
+  "bl_dau_oct": 11,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Sasaram",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650543",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan hello.\\nCustomer: Haan ji Pramod ji namaskar sir main Alok baat kar raha hun sir India Mart se relation manager. \\nExecutive: Ji bataiye. \\nCustomer: Sir main ye keh raha tha maine kaha kam se kam buyer ki to call aap answer kijiye na sir. \\nCustomer: Bhai bhale hi aap chaliye. Ji.\\nExecutive: Main keh raha hun ki aap only continue karna hai bar bar India Mart se call aa raha hai subah se lagta hai 10 call aa gaya hai.\\nCustomer: Sir main keh raha hun ki customer ki to call answer kijiye sir usse to company ka koi impact nahi hoga sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive requests customer to answer buyer calls.\\n\n- Customer complains about receiving multiple calls from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive stated answering customer calls won't impact company.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, calls, indiaMART\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a335448b-f4e2-4bc8-a546-e557f4b75cbb",
+  "ucid": "a335448b-f4e2-4bc8-a546-e557f4b75cbb",
+  "seller_categories": [
+    {
+      "mcat_id": "107119",
+      "mcat_name": "School Benches And Desks"
+    },
+    {
+      "mcat_id": "181794",
+      "mcat_name": "Plastic Dustbin"
+    },
+    {
+      "mcat_id": "106896",
+      "mcat_name": "Cycle Rickshaw & Thela"
+    },
+    {
+      "mcat_id": "217407",
+      "mcat_name": "Nilkamal Dustbins"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    }
+  ]
+}

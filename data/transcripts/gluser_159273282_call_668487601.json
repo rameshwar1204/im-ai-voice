@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668487601",
+  "gluser_id": "159273282",
+  "vintage_months": 2,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9645034",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hi sir, very good morning, kaise hain aap?\\nExecutive: Theek hai ji.\\nCustomer: Subhash ji se baat ho rahi hai?\\nCustomer: Bolie, bolie.\\nExecutive: Sorry?\\nCustomer: Haa ji.\\nExecutive: Sir Subhash sir ji se baat ho rahi hai?\\nCustomer: Haan bolie na aap kya kaam hai aapko?\\nExecutive: Sir IndiaMART se baat kar rahi thi main, aapka ek catalog hai na safed marble murti kala ke naam se.\\nCustomer: Ji.\\nExecutive: Right, main actually Kunal ki manager baat kar rahi thi, already aapke sath discussion hua tha Kunal ke sath aapke catalog se related, right?\\nCustomer: Hello?\\nCustomer: Haan bolie.\\nExecutive: Sir aap free nahi hai kya? Agar aap free nahi hai to aap mujhe please ek suitable time bata dijiye taki hum proper discussion kar paye waha pe.\\nCustomer: Abhi hum 1 baje ke something free hounga ji main.\\nExecutive: 1 baje ke something na?\\nCustomer: Haan ji.\\nExecutive: Main aapko 12:30 baje, 1 baje tak coordinate karti hu, aap please ek bar call answer karke 2 minute aapse mera mere ko discussion karna hai, to ek bar discuss kar lete hai sir, theek hai?\\nCustomer: Theek hai, theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss catalog with the customer.\\n\n\\n\nResolution:\\n\n- Asked for a suitable time for discussion.\\n\n\\n\nNext Steps: \\n\n- Executive will call back around 12:30-1 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, discussion, follow up\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f17b6a66-22f8-4adc-b499-c31c59ceeb10",
+  "ucid": "f17b6a66-22f8-4adc-b499-c31c59ceeb10",
+  "seller_categories": [
+    {
+      "mcat_id": "12324",
+      "mcat_name": "Ganesh Statue"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "178024",
+      "mcat_name": "Black Marble Shivling"
+    },
+    {
+      "mcat_id": "178192",
+      "mcat_name": "Marble Goddess Statue"
+    },
+    {
+      "mcat_id": "86105",
+      "mcat_name": "Human Statue & Sculpture"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670232011",
+  "gluser_id": "225138603",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Satna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Yeah, good morning, Anita.\\nExecutive: Ha, good morning, ma'am. Aaj hua ma'am kuch?\\nCustomer: Ha, aaj ho jayega aapka. Maine production team se baat kar li hai. Woh bas aapka finalize kar rahe hain. Matlab like jo catalogue hai woh wapas se check out karke sara kuch details dekh rahe hain. Uske baad fir aaj ho jayega done.\\nCustomer: Toh ma'am around kitne baje tak?\\nExecutive: Accha time toh abhi maine unse pucha nahi. Ek bar ruk jaiye, main unse connect karke time puch le rahi hu ki kab tak woh complete kar lenge.\\nCustomer: Hmm.\\nExecutive: Theek hai. Ho jayega. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquired about the time for completion.\\n\n\\n\nResolution:\\n\n- Informed production team is finalizing catalogue.\\n- Will connect with team to check completion time.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will check completion time.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalogue, production team, completion time\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3c6e9ec4-52b1-438d-b1f5-dad76ff0d777",
+  "ucid": "3c6e9ec4-52b1-438d-b1f5-dad76ff0d777",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674553478",
+  "gluser_id": "245133275",
+  "vintage_months": 1,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir, bataiye.\\nExecutive: Sir India Mart se bol rahe hai ye?\\nCustomer: Haan ji sir bataiye.\\nExecutive: Hello\\nExecutive: Haan sir bataiye mujhe mera mera package tha India Mart pe sir India station next year.\\nCustomer: Sir mai ek minute me call karta hu aapko just ek minute dijiye meeting me tha ek minute.\\nExecutive: Thik hai, thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has a package with IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive said will call back in a minute.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in a minute.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- package, call back\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2e7a380e-449c-4786-99e7-bea307e03c26",
+  "ucid": "2e7a380e-449c-4786-99e7-bea307e03c26",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "38607",
+      "mcat_name": "Wall Decor"
+    },
+    {
+      "mcat_id": "224235",
+      "mcat_name": "Marble Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "164320",
+      "mcat_name": "Marble Flooring Services"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    }
+  ]
+}

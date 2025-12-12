@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673797589",
+  "gluser_id": "204426014",
+  "vintage_months": 23,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9663739",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Sir, good afternoon. Main Alok baat kar raha hun India Mart se relationship manager. Kaise hain sir?\\nExecutive: Sir, aaj Shukrawar hai. Bas badhiya ji badhiya. Shukrawar hai to namaz ke baad mein main call karta hun aapko.\\nCustomer: Theek, theek, theek hai sir, theek hai, theek hai. Free ho jayenge to mujhe message kar dena. Haan, free ho jayenge to mujhe main call back kar leta hun aapko jaise free ho jayenge na aap mujhe message.\\nCustomer: Kar dena WhatsApp pe. Main call back kar leta hun aapko.\\nExecutive: Okay ji, okay. Okay, dhanyavad.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer, Alok from India Mart, inquired about the executive's well-being.\\n\n- Customer requested a message on WhatsApp when the executive is free to receive a call back.\\n\n\\n\nResolution:\\n\n- Executive mentioned he would call after prayers.\\n\n- Executive agreed to send a message when free.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back after receiving a WhatsApp message from the executive.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, well-being, india mart\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=443de709-4d3d-4aa8-b5b0-40d90d50fed1",
+  "ucid": "443de709-4d3d-4aa8-b5b0-40d90d50fed1",
+  "seller_categories": [
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "9859",
+      "mcat_name": "Marble Inlay Flooring"
+    },
+    {
+      "mcat_id": "166599",
+      "mcat_name": "Marble Jali"
+    }
+  ]
+}

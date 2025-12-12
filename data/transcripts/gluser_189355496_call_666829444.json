@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666829444",
+  "gluser_id": "189355496",
+  "vintage_months": 25,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Puranattukara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655942",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello ma'am. Good morning.\\nCustomer: Yeah, good morning ma'am.\\nExecutive: Tamil ah?\\nCustomer: Tamil right? Innaikku actually due list...\\nExecutive: Due list la customer ma'am, call pannanga na...\\nCustomer: Okay, okay. I will arrange Malayalam.\\nExecutive: Ah, Malayalam.\\nCustomer: Malayalam theriyuma?\\nExecutive: Ma'am, call cut pannunga, naan call panren.\\nCustomer: Okay, okay.",
+  "summary": "\\n\\nConcerns:\\n\\n- Language barrier during the call.\\n- Need for a Malayalam-speaking representative.\\n\\n\\nResolution:\\n\\n- Executive offered to call back.\\n- Customer agreed to the callback.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call the customer back.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- language support, callback, tamil, malayalam\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=528e4578-f6b1-4f7d-b349-156fb14d6048",
+  "ucid": "528e4578-f6b1-4f7d-b349-156fb14d6048",
+  "seller_categories": [
+    {
+      "mcat_id": "50504",
+      "mcat_name": "Wooden Educational Toy"
+    },
+    {
+      "mcat_id": "20593",
+      "mcat_name": "Educational Toys"
+    },
+    {
+      "mcat_id": "41376",
+      "mcat_name": "Wooden Puzzle"
+    },
+    {
+      "mcat_id": "1744",
+      "mcat_name": "Wooden Toys"
+    },
+    {
+      "mcat_id": "20595",
+      "mcat_name": "Kids Toys"
+    }
+  ]
+}

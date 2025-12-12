@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669905019",
+  "gluser_id": "255147729",
+  "vintage_months": 0,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648972",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji.\\nExecutive: Sir, namaskar.\\nCustomer: Namaskar.\\nExecutive: Gaurav baat kar raha hu IndiaMART se.\\nCustomer: Ha, bataiye.\\nExecutive: Kaise hai sir aap?\\nCustomer: Badhiya ekdam.\\nExecutive: Actually sir, welcome call tha na aapke saath.\\nCustomer: Achcha achcha.\\nExecutive: Ji ji.\\nExecutive: To connect karu aapko video meeting pe?\\nCustomer: Abhi meeting to nahi kar paunga mai.\\nExecutive: Sir, meeting nahi kar payenge means?\\nCustomer: Matlab abhi nahi kar paunga meeting mai.\\nExecutive: Abhi to sir aapne time diya tha na?\\nCustomer: Nahi time to diya tha video meeting me matlab aise ki jaruri kya hai jo video hi karni pade.\\nExecutive: Sir, aapko sari chije sari chije video nahi hai aapko connect karke sari chije mai guide karunga IndiaMART app ke bare me, IndiaMART buylead ke bare me.\\nIndiaMART ko use kaise karna hai sari chije.\\nCustomer: Achcha.\\nExecutive: Ji.\\nExecutive: Aapko chehra nahi dikhana hai, aapko chehra nahi dikhana hai.\\nCustomer: Nahi wo sir meeting hogi.\\nExecutive: Aapko sari chije mai dikhaunga, na ek ek chij mai bhi dekhunga na aapka marketplace kya rahega aap kaha kaha deal karoge sab chije.\\nCustomer: Achcha achcha.\\nExecutive: Ji, aap chehra video band kar lijiyega chehra mat dikhaiyega.\\nCustomer: To ab mai kya karu bataiye fir.\\nExecutive: Aapki jo mail id hai IndiaMART pe.\\nCustomer: Ha ha.\\nExecutive: Maine usme Google meet ka dekho meeting ka link diya hai.\\nCustomer: Ek second. Gaurav Shukla IndiaMART team se aaya hoga.\\nCustomer: IndiaMART open karu?\\nExecutive: Nahi nahi nahi.\\nExecutive: Aap open kariye apna mail id.\\nExecutive: Jo mail id hai aapka Rahul 45718904.\\nCustomer: Ha.\\nExecutive: Isi pe bheja hai. Gaurav Shukla IndiaMART team. Join with Google meet aa raha hoga na sir?\\nCustomer: Ji aa raha hai video meet with IndiaMART.\\nExecutive: Ha uspe ha usme click karke join kariye.\\nCustomer: Kis me join karni hai?\\nExecutive: Join with Google meet pe click kariye aap.\\n\\nCustomer: Hello. Ji sir.\\nCustomer: Bataiye.\\nExecutive: Join kiya?\\nCustomer: Maine join kar diya.\\nExecutive: Continue kariye ga na join karne.\\nCustomer: Continue kaha hai?\\nExecutive: Usi me aa raha hoga aapne join abhi nahi kiya join with Google meet pe click kariye ga.\\nExecutive: Aap jis vyakti se baat kar rahe hai unhone aapke call\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to attend video meeting.\\n\n- Customer questions the necessity of video call.\\n\n\\n\nResolution:\\n\n- Executive explains benefits of IndiaMART app.\\n\n- Executive guides customer to join Google Meet.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, google meet, indiamart app\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 215,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b3cf4842-bbbe-442e-b555-c7547f0294f9",
+  "ucid": "b3cf4842-bbbe-442e-b555-c7547f0294f9",
+  "seller_categories": [
+    {
+      "mcat_id": "65664",
+      "mcat_name": "Glass Bangles"
+    },
+    {
+      "mcat_id": "152121",
+      "mcat_name": "Fashion Bangles"
+    },
+    {
+      "mcat_id": "65631",
+      "mcat_name": "Designer Bangles"
+    },
+    {
+      "mcat_id": "4233",
+      "mcat_name": "Bangles"
+    },
+    {
+      "mcat_id": "181766",
+      "mcat_name": "Fancy Bangle"
+    }
+  ]
+}

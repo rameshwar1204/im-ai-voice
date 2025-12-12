@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673307623",
+  "gluser_id": "3580741",
+  "vintage_months": 97,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Gaurela",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Raghunandan Raghav.\\nExecutive: Hello.\\nCustomer: Hello. Hello. Namaskar. Namaskar sir.\\nExecutive: Namaskar. Namaskar. Boliye.\\nCustomer: Sir, bas ha sir sab thik hai. Thoda tabiyat down ho gaya tha kal. Aaj thik hu sir.\\nExecutive: Arey tabiyat ka mausam hi aisa hai kya karoge.\\nCustomer: Mausam sir aise hi chal raha hai.\\nExecutive: Hmm. Aur sir aapko bas isiliye matlab thoda.\\nExecutive: Correct kiya tha. Actually sir janna chah raha tha. Maine kaha thoda matlab.\\nExecutive: Le karke. Kyunki abhi sir buyleads consume kar hi rahe ho. Hai na?\\nExecutive: To buyleads to kam pad hi nahi hai sir. To isko sir karte hai na.\\nExecutive: Ek particular category ko jo humne discuss kiya tha pehle.\\nExecutive: Dekho mai bata aap jo bol rahe ho na.\\nCustomer: Ha ha.\\nExecutive: Mera kam kam actually wo pure tarike se fulfill nahi ho raha hai. Isliye mai do teen lakh rupay daal ke khali. Bhi agar aap jaise jaise ab aap for example abhi aap dekho. Ki abhi apne man lo aapki service nahi liya leader wala.\\nCustomer: Hmm. Ye abhi normal ye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says buyleads are not fulfilling needs.\\n\n- Wants to know about a particular category.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's concern.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, category, service\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a2f241f8-6006-4149-86f7-881155a05cb8",
+  "ucid": "a2f241f8-6006-4149-86f7-881155a05cb8",
+  "seller_categories": [
+    {
+      "mcat_id": "184934",
+      "mcat_name": "Riso Digital Duplicator"
+    },
+    {
+      "mcat_id": "96517",
+      "mcat_name": "Digital Duplicator"
+    },
+    {
+      "mcat_id": "163575",
+      "mcat_name": "Wedding Card Printing Machine"
+    },
+    {
+      "mcat_id": "139847",
+      "mcat_name": "Label Cutting Machine"
+    },
+    {
+      "mcat_id": "142686",
+      "mcat_name": "Thermal Lamination Machine"
+    }
+  ]
+}

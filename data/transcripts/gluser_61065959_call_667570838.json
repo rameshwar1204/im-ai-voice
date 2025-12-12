@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667570838",
+  "gluser_id": "61065959",
+  "vintage_months": 12,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello. Hello, awaz aa rahi hai sir meri?\\n\\nCustomer: Haan, aa rahi hai, boliye.\\nExecutive: Ji, sir, woh actually mein abhi office se nikal chuka hu. Toh agar possible hai kal aap mujhe koi...\\nCustomer: Aap customer care se humko baat karne dijiye. Theek hai?\\n\\nExecutive: Kya sir?\\nCustomer: Customer customer care mein laga hua hai toh.\\nExecutive: Sir, aapka jo issue tha woh connect ho chuka hai already. Aapko apne account mein address ko change karana tha woh cheez details aa gayi hai updated. Toh will update you about the same. Maine woh kar diya hai.\\n\\nCustomer: Theek hai.\\nExecutive: Haan. Right sir, main ek baar kal aapse connect karna chahunga. Kal aap apna koi time bata payenge jis time aap connect kar sakte hai?\\nCustomer: Haan. Jab dijiye 10 baje ke baad de dijiye.\\nExecutive: 10 baje ke baad. Theek hai, kal off hai mera. Kal main ghar se aapko connect karta hu ek baar, theek hai?\\nCustomer: Theek hai.\\nExecutive: Okay, thank you sir, thank you.\\n\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to customer care.\\n\nResolution:\\n\n- Executive informed the customer about address change.\\n\n- Executive will connect with customer tomorrow from home.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- address change, customer care, follow up\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9269ba62-0df1-4923-b136-203ca6407338",
+  "ucid": "9269ba62-0df1-4923-b136-203ca6407338",
+  "seller_categories": [
+    {
+      "mcat_id": "184336",
+      "mcat_name": "Tipper Truck Rental Services"
+    },
+    {
+      "mcat_id": "181819",
+      "mcat_name": "JCB Backhoe Loader"
+    },
+    {
+      "mcat_id": "215426",
+      "mcat_name": "JCB Excavator Rental"
+    },
+    {
+      "mcat_id": "42923",
+      "mcat_name": "River Sand"
+    },
+    {
+      "mcat_id": "169391",
+      "mcat_name": "Hydra Crane Rental Service"
+    }
+  ]
+}

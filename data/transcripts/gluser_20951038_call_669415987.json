@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669415987",
+  "gluser_id": "20951038",
+  "vintage_months": 59,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhadrak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello sir.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, good afternoon sir, Ashok baat kar raha hun IndiaMART se, kaise hain aap?\\nCustomer: Thik thak hai boliye.\\nExecutive: Ji ji ji actually mein sir ek feedback aaya tha na kuch kuch aap update karna chah rahe the apne isme website mein.\\nCustomer: Haan.\\nExecutive: Changes haan to changes abhi kuch karane hai aapko ya nahi sir?\\nCustomer: Haan ji.\\nExecutive: Achcha achcha.\\nExecutive: To abhi kya online hai aap laptop ya desktop pe?\\nCustomer: Abhi to actually main to IndiaMART nahi dekhta hun mera chota bhai kaam dekhta hai.\\nExecutive: Achcha to unka number to unka unka number likhiye.\\nExecutive: Haan haan bataiye sir ek minute likh leta hun main.\\nCustomer: Likhiye likhiye likhiye.\\nExecutive: Bataiye.\\nCustomer: 8480 8 8480\\nCustomer: 69 69\\nCustomer: 37 37\\nCustomer: 82 82 aur kuch bolna hai sir?\\n(silence)\\n[unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to update his website.\\n\n- Wants to give his brother's number.\\n\n\\n\nResolution:\\n\n- Executive asked for his brother's number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- website, update, number\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf590d4a-fd13-47ee-90a0-65e629f76bfe",
+  "ucid": "cf590d4a-fd13-47ee-90a0-65e629f76bfe",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "187442",
+      "mcat_name": "Murukku"
+    },
+    {
+      "mcat_id": "192459",
+      "mcat_name": "Haldiram Namkeen"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    }
+  ]
+}

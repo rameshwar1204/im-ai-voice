@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667287471",
+  "gluser_id": "234715039",
+  "vintage_months": 12,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Gujan Enterprises se baat ho rahi hai?\\nCustomer: Haan sir.\\nExecutive: Gujan Enterprises se baat ho rahi hai meri?\\nCustomer: Haan, kaun bol rahe ho?\\nExecutive: Main, Manav Talwar baat kar raha hu sir, senior manager IndiaMART ke office se. Woh aapne ek feedback diya hai Chandan Kumar ke liye ki aap not satisfied hai Chandan Kumar se.\\nCustomer: Haan.\\nExecutive: Batayiye sir Chandan Kumar se kya problem hai? Main dusra. Main puri IndiaMART se IndiaMART company se.\\nExecutive: Kya dikkat aa rahi hai sir batayiye?\\nCustomer: Haan, main aapko thoda free hoke call karta hu, thoda network mein nahi hu meri.\\nExecutive: Kis time call kar lu aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with Chandan Kumar.\\n\n- Customer has issues with IndiaMART company.\\n\n\\n\nResolution:\\n\n- Executive asked the customer about the issue.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, dissatisfaction, follow-up\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=086779bc-8714-4b6d-b083-932df5021d48",
+  "ucid": "086779bc-8714-4b6d-b083-932df5021d48",
+  "seller_categories": [
+    {
+      "mcat_id": "190588",
+      "mcat_name": "Sirohi Goats"
+    },
+    {
+      "mcat_id": "163224",
+      "mcat_name": "Goat"
+    },
+    {
+      "mcat_id": "209040",
+      "mcat_name": "Beetal Goat"
+    },
+    {
+      "mcat_id": "188909",
+      "mcat_name": "Sojat Goat"
+    },
+    {
+      "mcat_id": "43330",
+      "mcat_name": "Farm Animals"
+    }
+  ]
+}

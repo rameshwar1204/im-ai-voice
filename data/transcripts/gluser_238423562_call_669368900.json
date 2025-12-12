@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669368900",
+  "gluser_id": "238423562",
+  "vintage_months": 10,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dhamua",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9655871",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Haan, mera aawaz sunai de raha hai aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked if the executive can hear them.\\n\n\\n\nResolution:\\n\n- Executive responded to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- hearing, voice\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c51e956-364e-4ba1-bcde-540fb471e945",
+  "ucid": "7c51e956-364e-4ba1-bcde-540fb471e945",
+  "seller_categories": [
+    {
+      "mcat_id": "177444",
+      "mcat_name": "Adenium Plant"
+    },
+    {
+      "mcat_id": "44183",
+      "mcat_name": "Decorative Plant"
+    },
+    {
+      "mcat_id": "224519",
+      "mcat_name": "Snake Plant"
+    },
+    {
+      "mcat_id": "30664",
+      "mcat_name": "Indoor Plants"
+    },
+    {
+      "mcat_id": "185143",
+      "mcat_name": "Money Plant"
+    }
+  ]
+}

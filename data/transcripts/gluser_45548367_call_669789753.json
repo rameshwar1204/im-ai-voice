@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669789753",
+  "gluser_id": "45548367",
+  "vintage_months": 0,
+  "bl_dau_oct": 20,
+  "customer_type": "FREELIST",
+  "city_name": "Paradwip",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661840",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Sir maine video meeting ka link share kar diya aapke mail pe ek baar check kar lijiye aur join kar lijiye.\\nCustomer: Abhi join karna hai?\\nExecutive: Haan sir abhi join kar lijiye na link share kar diya hai aapko.\\nCustomer: Theek hai bole.\\nExecutive: Theek hai sir, theek hai.\\nCustomer: Kar diya join.\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Join kar diya.\\nExecutive: Haan sir ek second ek second wait second wait kijiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to join the video meeting.\\n\n\\n\nResolution:\\n\n- Executive shared the video meeting link.\\n\n- Customer joined the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, link sharing, joining\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=730bc2ff-98eb-4819-a664-a359e043a590",
+  "ucid": "730bc2ff-98eb-4819-a664-a359e043a590",
+  "seller_categories": [
+    {
+      "mcat_id": "139208",
+      "mcat_name": "Airless Painting Machine"
+    },
+    {
+      "mcat_id": "149617",
+      "mcat_name": "Airless Spray Gun"
+    },
+    {
+      "mcat_id": "7752",
+      "mcat_name": "Commercial Spray Guns"
+    },
+    {
+      "mcat_id": "147122",
+      "mcat_name": "Spray Painting Machine"
+    },
+    {
+      "mcat_id": "27507",
+      "mcat_name": "Filter Mesh"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669757790",
+  "gluser_id": "47983915",
+  "vintage_months": 37,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Malappuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661757",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know about the verification call.\\n\n\\n\nResolution:\\n\n- Explained about the subscription amount deduction.\\n\n- Refund of the subscription amount initiated.\\n\n- Explained about the verification call process.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ca579ce-5ccb-48b1-9c92-82dd4af196d6",
+  "ucid": "2ca579ce-5ccb-48b1-9c92-82dd4af196d6",
+  "seller_categories": [
+    {
+      "mcat_id": "186238",
+      "mcat_name": "Football Turf"
+    },
+    {
+      "mcat_id": "155285",
+      "mcat_name": "Artificial Cricket Pitch"
+    },
+    {
+      "mcat_id": "43597",
+      "mcat_name": "Artificial Turf"
+    },
+    {
+      "mcat_id": "28883",
+      "mcat_name": "Football Nets"
+    },
+    {
+      "mcat_id": "180688",
+      "mcat_name": "Cricket Net"
+    }
+  ]
+}

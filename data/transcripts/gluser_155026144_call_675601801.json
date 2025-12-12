@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675601801",
+  "gluser_id": "155026144",
+  "vintage_months": 33,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715580",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Ji, Niti.\\nCustomer: Yes, ma'am, good afternoon. Kamlesh ji se baat ho sakti hai? Singh Traders se baat ho rahi hai meri.\\nExecutive: Hello, bataiye.\\nCustomer: Ma'am, aapki na service chal rahi hai India Mart se. Aap kya actually discussion hua hoga aapke account manager Manisha se service ke liye aur feedback aapne not satisfied diya hai. Kuch issue aa raha hai ma'am service mein aapko?\\nCustomer: Are nahi nahi ma'am wo actually ma'am wo to galti se ho gaya tha. Aisa kuch tha nahi.\\nExecutive: By mistake ho gaya aap se?\\nCustomer: Ji ji ji.\\nExecutive: Okay, to main ek kaam karti hu, main na is ticket ko yahan se close kar deti hu. Service se related to koi problem face nahi kar rahe ho na aap?\\nCustomer: Nahi nahi.\\nExecutive: Theek hai, main is ticket ko close kar deti hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Feedback was not satisfied regarding the service.\\n\n- Issue with the service.\\n\n\\n\nResolution:\\n\n- Ticket will be closed.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Positive\\n\n\\n\n@@@Key Topics:\\n\nservice, feedback, ticket\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=56932e48-7e31-45b2-8872-ad6317caa856",
+  "ucid": "56932e48-7e31-45b2-8872-ad6317caa856",
+  "seller_categories": [
+    {
+      "mcat_id": "183235",
+      "mcat_name": "E-Rickshaw Loader"
+    },
+    {
+      "mcat_id": "151173",
+      "mcat_name": "Battery Operated Rickshaw"
+    },
+    {
+      "mcat_id": "145630",
+      "mcat_name": "Electric Rickshaw Three Wheeler"
+    },
+    {
+      "mcat_id": "445384",
+      "mcat_name": "Electric Auto Rickshaw"
+    },
+    {
+      "mcat_id": "215070",
+      "mcat_name": "Mayuri Electric Rickshaw"
+    }
+  ]
+}

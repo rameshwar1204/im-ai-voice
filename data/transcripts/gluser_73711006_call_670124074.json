@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670124074",
+  "gluser_id": "73711006",
+  "vintage_months": 8,
+  "bl_dau_oct": 25,
+  "customer_type": "FREELIST",
+  "city_name": "Domjur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635498",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nAchha, dekh leta hu kuch.\\nHello?\\nHa mam, mai Himanshu bol raha hu IndiaMART se.\\nHaa, bolo.\\nHmm hmm. \\nAa, mam ye aapka na call ye Najma Begam ke paas call ja raha tha.\\nHaa.\\nApne call kiya tha na kisi ko Najma Begam, mam usko na block kar dijiye.\\nSushmita karke thi.\\nNahi, baar baar call ja raha hai na aapke paas. Fir Najma Khatun ko aapne call kiya tha, Najma Begam ko?\\nNahi.\\nAchha achha, nahi unko call gaya hoga. Ji, unki call pe aisa respond nahi kiya hoga na. Unko aapne call kiya hoga is ek number pe. To kaisa sir services vgera mam kaisa aa raha hai aapke IndiaMART se?\\nLeads proper nahi aa rahe hai.\\nLeads me kya problem hai? Kya aa rahi hai problem leads me?\\nProblem ye aa rahi hai ki relevant inquiry nahi mil rahi hai.\\nHmm.\\nRelevant inquiry nahi mil rahi hai.\\nAchha, thik hai. Thik hai, abhi call back karwa deta hu aapko.\\nThik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting relevant inquiries.\\n\n- Customer is receiving calls from Najma Begum.\\n\n\\n\nResolution:\\n\n- Executive offered to block Najma Begum's number.\\n\n- Executive will arrange a call back for the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, relevant inquiry, call back, block number\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7410927e-6519-41ee-b5e5-d762dee66537",
+  "ucid": "7410927e-6519-41ee-b5e5-d762dee66537",
+  "seller_categories": [
+    {
+      "mcat_id": "29051",
+      "mcat_name": "Fuel Cells"
+    },
+    {
+      "mcat_id": "27725",
+      "mcat_name": "Electrolysis Equipment"
+    },
+    {
+      "mcat_id": "33958",
+      "mcat_name": "Peristaltic Pumps"
+    },
+    {
+      "mcat_id": "65137",
+      "mcat_name": "Graphite Sheet"
+    },
+    {
+      "mcat_id": "133895",
+      "mcat_name": "Platinum Electrode"
+    }
+  ]
+}

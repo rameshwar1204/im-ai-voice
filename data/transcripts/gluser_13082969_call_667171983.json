@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667171983",
+  "gluser_id": "13082969",
+  "vintage_months": 2,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Modinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628437",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\nCustomer: So very good morning Pravesh Sharma baat kar raha tha India Mart se.\\nCustomer: Sir aadhe ghante mein phone kar lena bas thoda bank ka kaam kar raha hu abhi. Aaj main free hu.\\nExecutive: Haanji. Theek hai. Aaj fir main batwa dena aadhe ghante.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy with bank work.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, time, bank work\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a955ec39-02a3-40e2-b22d-8ddc74ad87ac",
+  "ucid": "a955ec39-02a3-40e2-b22d-8ddc74ad87ac",
+  "seller_categories": [
+    {
+      "mcat_id": "7627",
+      "mcat_name": "Sofa Covers"
+    },
+    {
+      "mcat_id": "185588",
+      "mcat_name": "Designer Lehenga Choli"
+    },
+    {
+      "mcat_id": "5763",
+      "mcat_name": "Party Gowns"
+    },
+    {
+      "mcat_id": "184596",
+      "mcat_name": "Velvet Bed Sheet"
+    },
+    {
+      "mcat_id": "185568",
+      "mcat_name": "Designer Lehenga"
+    }
+  ]
+}

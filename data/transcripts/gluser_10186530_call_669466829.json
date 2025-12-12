@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669466829",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ha madam ye note me aisa note me aisa kyu likha hai ki this proposal is valid till 11th November 2025?\\nCustomer: Wo to sir jo proposal hai na uska hota hai ye bas humne account team ko share karna hota hai.\\nCustomer: Valid matlab ki account team ko share jo abhi maine generate kiya hai na.\\nExecutive: Okay.\\nExecutive: Aur apna to aayega aapne jo bola ussa hi aayega ne shuru mera hoga 31 December 2025 raat ko.\\nCustomer: Sir ye bas ye bas ye na ek ha ye bas by default na hamara account team ko share karne ka proposal hota hai ek tarah se invoice share wo karne ke liye karne ke liye generate karwane ke liye.\\nExecutive: Theek hai service jo abhi chalegi wo tabhi chalegi sir.\\nExecutive: Okay koi bhi sir ekdam 100% transparency koi problem nahi hai isme.\\nExecutive: Okay okay ya.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked about the validity date on proposal.\\n\n\\n\nResolution:\\n\n- Executive clarified it is for internal accounting purposes.\\n\n- Executive confirmed service will run as agreed.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- proposal, validity, account team\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6764f0ff-e419-446a-8fd3-bbda7625de7f",
+  "ucid": "6764f0ff-e419-446a-8fd3-bbda7625de7f",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

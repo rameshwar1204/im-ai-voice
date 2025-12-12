@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "670825112",
+  "gluser_id": "146996630",
+  "vintage_months": 21,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Salem",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663144",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [inaudible]\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Sir good evening sir.\\nCustomer: Sir vanakkam sir.\\nExecutive: Anna Krishna pesurenga India martle irunthu manager pesuren eppidi irukinga?\\nCustomer: Sari sir.\\nExecutive: Thank you sir thank you sir Rohini manager last day oru two days pesunangale sir Rohini.\\nCustomer: [inaudible]\\nExecutive: Sari sir oru pathu nimisham kalichi ok sirangala?\\nCustomer: Puriyala sir pathu nimisham pathu nimisham kalichi pesalama sir.\\nExecutive: Sari sir 10 minutes kalichi kupidra ungaluku.\\nCustomer: Ok ok ok.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk after 10 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 10 minutes.\\n\n\\n\nNext Steps: \\n\n- Executive will call after 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, call back\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=af7be29c-4f2f-4c88-b9de-d465dca13063",
+  "ucid": "af7be29c-4f2f-4c88-b9de-d465dca13063",
+  "seller_categories": [
+    {
+      "mcat_id": "145344",
+      "mcat_name": "Power Loom Machine"
+    },
+    {
+      "mcat_id": "42649",
+      "mcat_name": "Air Jet Loom Machine"
+    },
+    {
+      "mcat_id": "74142",
+      "mcat_name": "Shuttle Loom Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668702794",
+  "gluser_id": "247979410",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643859",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello?\\nCustomer: Yes.\\nExecutive: IndiaMART se baat kar raha hu mai.\\nCustomer: Yes. Aap kaunsi company se bol rahe hai sir?\\nExecutive: Balaji Enterprises. Meri baat hui thi abhi sir se.\\nExecutive: Sir, Sumit se aapki baat hui thi. Mai Sumit se call back kara deti hu. Aap company ka naam bata dijiye sir.\\nCustomer: Balaji Enterprises.\\nExecutive: Kaunsa enterprise hai sir?\\nCustomer: Balaji Balaji.\\nExecutive: Balaji. Thik hai sir, mai karati hu aapko call back.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a call back from Sumit.\\n\n\\n\nResolution:\\n\n- Executive assured a call back from Sumit.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, company name\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1d1c4909-c296-46f5-b047-58db2481d707",
+  "ucid": "1d1c4909-c296-46f5-b047-58db2481d707",
+  "seller_categories": [
+    {
+      "mcat_id": "13613",
+      "mcat_name": "Crystal Chandelier"
+    },
+    {
+      "mcat_id": "16039",
+      "mcat_name": "Hanging Chandelier"
+    },
+    {
+      "mcat_id": "159050",
+      "mcat_name": "Plastic Flower"
+    },
+    {
+      "mcat_id": "209144",
+      "mcat_name": "Diwali Torans"
+    },
+    {
+      "mcat_id": "4926",
+      "mcat_name": "Artificial Flowers"
+    }
+  ]
+}

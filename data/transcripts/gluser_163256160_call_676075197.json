@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676075197",
+  "gluser_id": "163256160",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwandi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719303",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f681832d-5eab-490c-861d-8217e52fd3c3",
+  "ucid": "f681832d-5eab-490c-861d-8217e52fd3c3",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "178021",
+      "mcat_name": "Strip Seal Expansion Joint"
+    },
+    {
+      "mcat_id": "186373",
+      "mcat_name": "Indef Chain Pulley Block"
+    },
+    {
+      "mcat_id": "3706",
+      "mcat_name": "Chain Pulley Block"
+    },
+    {
+      "mcat_id": "8367",
+      "mcat_name": "Safety Shoes"
+    }
+  ]
+}

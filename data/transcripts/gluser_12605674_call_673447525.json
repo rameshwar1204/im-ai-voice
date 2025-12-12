@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673447525",
+  "gluser_id": "12605674",
+  "vintage_months": 59,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Balotra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello\\nCustomer: \u0939\u093e\u0902 \u091c\u0940 \u0938\u0930\\nExecutive: \u0939\u093e\u0902 \u0938\u0930 \u091c\u0949\u0907\u0928 \u0915\u0930\u093f\u090f \u092e\u0940\u091f\u093f\u0902\u0917\\nCustomer: \u0939\u0948\u0902\\nExecutive: \u092e\u0940\u091f\u093f\u0902\u0917 \u091c\u0949\u0907\u0928 \u0915\u0930\u093f\u090f \u0938\u0930\\nCustomer: \u0926\u094b \u092e\u093f\u0928\u091f \u0938\u0930 \u0939\u0948 \u0928\u093e \u092e\u0948\u0902 \u0915\u0939\u0940\u0902 \u0915\u093e\u092e \u092e\u0947\u0902 \u0932\u0917\u093e \u0939\u0941\u0906 \u0939\u0942\u0902 \u0935\u094b \u0915\u093e\u092e \u0915\u0930\u0924\u0947 \u0939\u0940 \u092e\u0948\u0902 \u0906\u092a\u0938\u0947 \u0915\u0930\u0924\u093e \u0939\u0942\u0902 \u0905\u091a\u094d\u091b\u093e \u0915\u093f\u0924\u0928\u093e \u091f\u093e\u0907\u092e \u0932\u0917\u0947\u0917\u093e \u0938\u0930\\nCustomer: \u092a\u093e\u0902\u091a \u092e\u093f\u0928\u091f\\nExecutive: \u092a\u093e\u0902\u091a \u092e\u093f\u0928\u091f \u0920\u0940\u0915 \u0939\u0948 \u0938\u0930 \u092e\u0948\u0902 \u0935\u0947\u091f \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0902 \u0920\u0940\u0915 \u0939\u0948\\nCustomer: \u091c\u0940 \u0920\u0940\u0915 \u0939\u0948\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested two minutes to join the meeting due to being occupied with work.\\n\n\\n\nResolution:\\n\n- Executive agreed to wait for five minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will wait for the customer to join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmeeting, join, wait time\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1a80b3e2-7c21-4e5a-9636-2540c0448670",
+  "ucid": "1a80b3e2-7c21-4e5a-9636-2540c0448670",
+  "seller_categories": [
+    {
+      "mcat_id": "132268",
+      "mcat_name": "Industrial Reverse Osmosis Plant"
+    },
+    {
+      "mcat_id": "43988",
+      "mcat_name": "Reverse Osmosis Plants"
+    },
+    {
+      "mcat_id": "181573",
+      "mcat_name": "SS RO Plant"
+    },
+    {
+      "mcat_id": "187709",
+      "mcat_name": "Industrial RO Membranes"
+    },
+    {
+      "mcat_id": "20513",
+      "mcat_name": "RO Membranes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668280675",
+  "gluser_id": "190568131",
+  "vintage_months": 29,
+  "bl_dau_oct": 14,
+  "customer_type": "CATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637147",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHanji hello.\\nHello.\\nHanji Royal Windows mein baat ho rahi hai?\\nJi bataiye.\\nHanji sir good evening main Pallavi baat kar rahi hun IndiaMART se senior manager kaise hain aap?\\nHello.\\nJi meri baat Iqbal ji se ho rahi hai kya?\\nHello.\\nHello.\\nHello.\\nHello hello hello hello hello.\\nHello sir awaz aa rahi hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to speak with Iqbal ji.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- introduction, connection issue\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cb78dbc8-7c9a-4687-a690-6ea66b7d6b43",
+  "ucid": "cb78dbc8-7c9a-4687-a690-6ea66b7d6b43",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "88026",
+      "mcat_name": "PVC Wall Panel"
+    },
+    {
+      "mcat_id": "80959",
+      "mcat_name": "PVC Ceiling Panel"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    }
+  ]
+}

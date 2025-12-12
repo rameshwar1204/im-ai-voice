@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675547784",
+  "gluser_id": "16057650",
+  "vintage_months": 83,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Borsad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9711749",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=276a96ea-90c2-428a-80fe-63b2639650fc",
+  "ucid": "276a96ea-90c2-428a-80fe-63b2639650fc",
+  "seller_categories": [
+    {
+      "mcat_id": "145204",
+      "mcat_name": "RCC Cutting Services"
+    },
+    {
+      "mcat_id": "173298",
+      "mcat_name": "RCC Core Cutting"
+    },
+    {
+      "mcat_id": "169020",
+      "mcat_name": "Slab Cutting Services"
+    },
+    {
+      "mcat_id": "174108",
+      "mcat_name": "Concrete Core Cutting Service"
+    },
+    {
+      "mcat_id": "44697",
+      "mcat_name": "Core Cutting Services"
+    }
+  ]
+}

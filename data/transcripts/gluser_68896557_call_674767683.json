@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674767683",
+  "gluser_id": "68896557",
+  "vintage_months": 18,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Contai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667729",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Meri bhigi bhigi si\\nMeri bhigi bhigi si palko pe rahe.\\nHello\\nExecutive: Hello\\nCustomer: Haan\\nExecutive: Sir namaskar meri baat Sure printers mein ho rahi hai Devashish ji se.\\nCustomer: Haan ji boliye.\\nExecutive: Namaskar sir main Priyanka baat kar rahi hun IndiaMART ki team se sir recorded line se baat ho payegi aapse do minute sir.\\nCustomer: Nahi sir aapko ek dedh ghanta pehle bhi aap phone kiye the hum kya bole ki main train mein journey kar raha hun.\\nExecutive: Aapki taraf se haan wo thoda aapki taraf se na hume ek missed call aayi hai sir dobara se humne to sirf is concern se call kiya ki koi problem hai.\\nCustomer: Madam kaun missed call kab missed call gaya tha boliye. Yahi Bharat ji bhi bol rahe hain.\\nExecutive: Bharat ji ke ji ji ji wahi main keh rahi hun.\\nCustomer: Aisa koi missed call mera yahan se nahi gaya.\\nExecutive: Nahi pata kya hua hoga sir nahi nahi special nahi gaya hoga.\\nCustomer: Mera baat mera baat suniye Bharat ji ka number bhi\\nCustomer: Hum number bhi hum save nahi kiye hain kyunki aapka official every two three month mein change hote hain.\\nCustomer: Hum kisi ka number save nahi kiye hain jo bhi app mein dikhate hain usi number mein phone karte hain na kabhi personal Bharat ji ko phone kiye hain na kisi ko kiye hain to fir missed call kaise aa gaya aap boliye na missed call kaise.\\nExecutive: Nahi main bata haan main bata rahi hun kaise.\\nCustomer: Main wahi batana chah rahi hun kaisa hota hai sir Bharat ne shayad aapko call kiya hoga us samay par aap busy rahe honge to aapne us number pe jaise call back kiya na.\\nCustomer: To Bharat nahi utha paye honge bas yahi hua.\\nCustomer: To fir aap log kyun bol rahe hain missed call hua hai.\\nExecutive: Nahi kyunki uske baad se hum aapko try kar rahe hain sir baat karne ka lekin baat ho nahi pa rahi aur hum bas ye chah rahe hain ki hamare paas.\\nExecutive: Sir dekho mere paas ek notification aaya ki ek missed call hai jaise aapne call back kiya usi tarike se main bhi to ensure karungi na main apne customer ko service de paun.\\nCustomer: Madam agar mera desh ka suniye na madam mera desh ka agar CBI aapka jaisa officer se bhara hota na to chor chakkar ke kab ke bhag gaye hote. Aap rakh dijiye koi missed call nahi hai kuch nahi hai.\\nExecutive: Sir services to discuss tab bhi hum karenge hi aapse.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received call while traveling by train.\\n\n- Customer denies making a missed call.\\n\n\\n\nResolution:\\n\n- Executive explained the missed call notification process.\\n\n- Executive tried to explain the reason for the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- missed call, customer service, notification, call back\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 133,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25dd9521-e4fc-4ad6-a3f6-f09d0c7b66af",
+  "ucid": "25dd9521-e4fc-4ad6-a3f6-f09d0c7b66af",
+  "seller_categories": [
+    {
+      "mcat_id": "181498",
+      "mcat_name": "Kyocera Multifunction Printer"
+    },
+    {
+      "mcat_id": "41536",
+      "mcat_name": "Xerox Machines"
+    },
+    {
+      "mcat_id": "178728",
+      "mcat_name": "Kyocera Photocopy Machine"
+    },
+    {
+      "mcat_id": "178726",
+      "mcat_name": "Canon Photocopy Machine"
+    },
+    {
+      "mcat_id": "178733",
+      "mcat_name": "Konica Minolta Photocopy Machine"
+    }
+  ]
+}

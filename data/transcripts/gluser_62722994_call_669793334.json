@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669793334",
+  "gluser_id": "62722994",
+  "vintage_months": 52,
+  "bl_dau_oct": 26,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Prakasam",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665678",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Ji sir.\\nCustomer: Main Meena Traders se bol raha hu sir.\\nExecutive: Haan boliye.\\nCustomer: Haan mere ko IndiaMART se main IndiaMART se purana customer hai.\\nExecutive: Thik hai. Okay.\\nCustomer: Mere ko IndiaMART ka wo premium le liya wo plan. \\nExecutive: Thik hai.\\nCustomer: Mere ko enquiries bhi jyada nahi aa raha hai isme. \\nCustomer: Enquiry jyada nahi aa raha hai. Abhi morning se abhi tak ek enquiry bhi aaya nahi. Kyun?\\nExecutive: Ac- actually main aapko call laga raha tha koi madam call uthaye thi. Main naam Rajiv Prajapati main account manager hu. To wo aapse baat karne ki koshish kar raha tha but hua nahi. Mujhe 10 minute dedo actually main bas lunch kar raha tha. Main aapko 10 minute mein calling karunga thik hai. Aur aapko pura matlab guide karta hu main na. Hello. \\nCustomer: Thik hai. Okay. Okay. Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving enough inquiries after premium subscription.\\n\n- No inquiries received since morning.\\n\n\\n\nResolution:\\n\n- Executive will call back in 10 minutes.\\n\n- Executive will guide the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in 10 minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, buyleads, follow up\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fc106958-e680-4210-9eae-fb66ad2918c2",
+  "ucid": "fc106958-e680-4210-9eae-fb66ad2918c2",
+  "seller_categories": [
+    {
+      "mcat_id": "55749",
+      "mcat_name": "California Almond"
+    },
+    {
+      "mcat_id": "5596",
+      "mcat_name": "Cashew Nuts"
+    },
+    {
+      "mcat_id": "182617",
+      "mcat_name": "W320 Cashew Nuts"
+    },
+    {
+      "mcat_id": "55748",
+      "mcat_name": "Almond Nuts"
+    },
+    {
+      "mcat_id": "102077",
+      "mcat_name": "Green Cardamom"
+    }
+  ]
+}

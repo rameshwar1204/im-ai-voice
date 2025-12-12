@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672357534",
+  "gluser_id": "61578029",
+  "vintage_months": 30,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Haldia",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9685966",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Haan, maine link kab pe click kiya hai, join kijiye aap.\\n\\nExecutive: Mam, konsi company se baat kar rahe hain?\\n\\nExecutive: Hello\\n\\nExecutive: Haan ji haan ji mam boliye join kar rahe hain aap, ek baar join kariye.\\nCustomer: Join ki.\\nExecutive: Neel Meg se baat kar rahe hain na mam aap?\\nCustomer: Neel Meg nahi hai toh woh.\\nExecutive: Neel Meg se baat kar rahe hain, konsi company se?\\nCustomer: Meenu Commercial se baat kar rahe hain.\\nExecutive: Meenu Commercial se na, aap ek baar join kariye, kariye mam.\\n\\nCustomer: Ek second.\\nExecutive: Usi same link pe rahega mam.\\nCustomer: Haan haan main aa.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is having trouble joining the meeting.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to join the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- joining, meeting, company name\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 113,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=05d7a436-a6c9-4aff-8c53-518df4bb7208",
+  "ucid": "05d7a436-a6c9-4aff-8c53-518df4bb7208",
+  "seller_categories": [
+    {
+      "mcat_id": "152189",
+      "mcat_name": "Sweet Display Counter"
+    },
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "34448",
+      "mcat_name": "Pizza Oven"
+    },
+    {
+      "mcat_id": "83914",
+      "mcat_name": "Deck Ovens"
+    },
+    {
+      "mcat_id": "167123",
+      "mcat_name": "SS Display Counter"
+    }
+  ]
+}

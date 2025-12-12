@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667580509",
+  "gluser_id": "86976434",
+  "vintage_months": 1,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Amarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638267",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer said hello.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 14,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fab52ec1-0b31-4980-b370-e1d7c2b160e0",
+  "ucid": "fab52ec1-0b31-4980-b370-e1d7c2b160e0",
+  "seller_categories": [
+    {
+      "mcat_id": "167700",
+      "mcat_name": "School Sweater"
+    },
+    {
+      "mcat_id": "10479",
+      "mcat_name": "Kids School Uniforms"
+    },
+    {
+      "mcat_id": "181380",
+      "mcat_name": "School ID Card"
+    },
+    {
+      "mcat_id": "141701",
+      "mcat_name": "School Blazer"
+    },
+    {
+      "mcat_id": "84992",
+      "mcat_name": "Wool Cap"
+    }
+  ]
+}

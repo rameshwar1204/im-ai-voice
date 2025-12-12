@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668673184",
+  "gluser_id": "225138603",
+  "vintage_months": 16,
+  "bl_dau_oct": 16,
+  "customer_type": "BL Paid FCP",
+  "city_name": "Satna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647411",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan mam. Sir maine aapko na ek photo whatsapp kiya hai jisme matlab basically document chahiye mujhe chaar cheez aapki copy of GST, address proof and latest photos and videos of infront of start na.\\nExecutive: [inaudible] ka.\\nCustomer: Ye document.\\nExecutive: Ye to maine pehle hi bhej diye maine.\\nExecutive: Ah, thik hai sir.\\nCustomer: Tum net pe maine pehle hi bhej diya tha.\\nExecutive: Ah, nahi abhi aap fir se wapas se re-onboarding karana hai na to uske basis ke liye fir aapko ye saari document hame hame chahiye basically apne as a proof ke liye taki hum use aage proceed kar sake.\\nCustomer: Nahi nahi mere kehne ka matlab ye hai maine hafte bhar pehle hi bheja hai.\\nExecutive: To abhi sir wo hafte bhar pehle kinse baat hui thi hame to nahi pata na agar aap humse chah rahe hai ki hum apne isme kuch add on kare aur aapki help out kare to fir aapko at least hame bhi to ek as a document share karna padega aur fir hum usko aage process kara sakenge.\\nCustomer: Thik hai video kya chahiye mam?\\nExecutive: Ah nahi aapka maine list bheja hai aap ek bari check kariye copy of GST hai address proof and latest photos and videos of infront office hai aadhar and PAN aur cancel check hai.\\nCustomer: Thik hai.\\nExecutive: Thik hai. Aapko jitna ha jitni jaldi ho sake utni jaldi bhej dijiye.\\nCustomer: Thik hai.\\nExecutive: Thik hai. Okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer already sent documents a week ago.\\n\n- Executive needs documents for re-onboarding process.\\n\n\\n\nResolution:\\n\n- Executive clarified the list of required documents.\\n\n- Executive requested to send documents as soon as possible.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- documents, re-onboarding, gst, address proof\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d70e3693-864d-40ec-afba-5c95287a43a0",
+  "ucid": "d70e3693-864d-40ec-afba-5c95287a43a0",
+  "seller_categories": [
+    {
+      "mcat_id": "107088",
+      "mcat_name": "Agarbatti Making Machines"
+    },
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    }
+  ]
+}

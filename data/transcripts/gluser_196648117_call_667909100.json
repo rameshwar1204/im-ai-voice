@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667909100",
+  "gluser_id": "196648117",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Malkapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Boliye sir.\\nCustomer: Hello\\nExecutive: Haan boliye sir boliye.\\nCustomer: Haan ji sir namaskar.\\nExecutive: Namaskar namaskar.\\nCustomer: Kaise hain sir?\\nExecutive: Badhiya ekdam boliye.\\nCustomer: Sir aapne pehle concern raise kiya tha na ki aapka app login nahi ho raha tha. Ho gaya tha sir?\\nExecutive: Haan ho gaya ho gaya.\\nCustomer: Kaise hua tha sir kya issue aa raha tha kal?\\nExecutive: Wo account account me update karne ka bol raha tha.\\nCustomer: Account update karne ke liye bol raha tha. Okay.\\nExecutive: Kaise kiya fir?\\nCustomer: Utne wo waha pe directly app login kiya to uske andar form aa raha tha uske andar account number IFSC code wagera dalna tha fir maine dal diya ho gaya wo.\\nHmm. Achcha sir aapka ye keyword hai de rank madam kar raha hai jaise ki ye Ram Darbar point ki aap lead consume kar rahe hain is tarah deal karte hain kya?\\nCustomer: One minute thoda mujhe call aa rahi hai ek minute ruko line pe rho.\\nExecutive: Okay okay.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- App login issue.\\n\n- Account update issue.\\n\n- Keyword de-ranking.\\n\n\\n\nResolution:\\n\n- App login issue resolved.\\n\n- Account updated.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- app login, account update, keyword\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=015772fe-27a9-47bf-9c72-3f431f6b5b61",
+  "ucid": "015772fe-27a9-47bf-9c72-3f431f6b5b61",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "215042",
+      "mcat_name": "Ram Darbar Coin"
+    },
+    {
+      "mcat_id": "36644",
+      "mcat_name": "Rust Removers"
+    },
+    {
+      "mcat_id": "80174",
+      "mcat_name": "Copper Coin"
+    },
+    {
+      "mcat_id": "33198",
+      "mcat_name": "Metal Cleaners"
+    }
+  ]
+}

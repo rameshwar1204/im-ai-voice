@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669886144",
+  "gluser_id": "53830906",
+  "vintage_months": 0,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Perundurai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello\\nHello\\nHello\\nHello\\n[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n\\n\nResolution:\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 57,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4f16c79-f450-4ddd-91b3-3db4dda997b3",
+  "ucid": "d4f16c79-f450-4ddd-91b3-3db4dda997b3",
+  "seller_categories": [
+    {
+      "mcat_id": "142630",
+      "mcat_name": "Groundnut Cake"
+    },
+    {
+      "mcat_id": "8538",
+      "mcat_name": "Sesame Oil"
+    },
+    {
+      "mcat_id": "442859",
+      "mcat_name": "Groundnut De Oiled Cake"
+    },
+    {
+      "mcat_id": "11166",
+      "mcat_name": "Groundnut Oil"
+    },
+    {
+      "mcat_id": "191583",
+      "mcat_name": "Cold Pressed Peanut Oil"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667427036",
+  "gluser_id": "248839463",
+  "vintage_months": 4,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635511",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[No transcript available]",
+  "summary": "\\nConcerns:\\n\\n\\nResolution:\\n\\n\\nNext Steps: \\n\\n\\nAlert (If Any):\\nNone\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- none\\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1cf08120-ef99-43a9-a208-30f1ca54999b",
+  "ucid": "1cf08120-ef99-43a9-a208-30f1ca54999b",
+  "seller_categories": [
+    {
+      "mcat_id": "151565",
+      "mcat_name": "Laser Process Heads"
+    },
+    {
+      "mcat_id": "37825",
+      "mcat_name": "Sheet Cutting Machine"
+    },
+    {
+      "mcat_id": "132940",
+      "mcat_name": "Screw Air Compressor"
+    },
+    {
+      "mcat_id": "3878",
+      "mcat_name": "CNC Machines"
+    },
+    {
+      "mcat_id": "84368",
+      "mcat_name": "Optical Laser Source"
+    }
+  ]
+}

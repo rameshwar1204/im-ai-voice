@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670361750",
+  "gluser_id": "251052800",
+  "vintage_months": 1,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666489",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Haan ji bataiye sir.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji boliye boliye.\\nCustomer: Ji. Mam, mujhe aapse. Abhi aapko kya chahiye? Aapko changes chahiye ya refund chahiye, ye bataiye.\\nCustomer: Nahi, mujhe aapse baat hi nahi karni mam, mujhe topic se baat karni hai.\\nExecutive: Sir, main ek kaam karti hu, aapko number provide kar deti hu, theek hai? Aap number note kar lo, main aapko number bolti hu. Kijiye mam.\\nCustomer: Ek minute, ek minute.\\nCustomer: Lo, dekho number.\\nExecutive: 99\\nCustomer: 99\\nExecutive: Wait. Ah, ye number ye raha. 53\\nCustomer: 53\\nExecutive: 48\\nCustomer: 48\\nExecutive: 1213\\nCustomer: 1213, okay, theek hai. Ashima, Ashima Swami.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to someone else.\\n\n- Wants changes or refund.\\n\n\\n\nResolution:\\n\n- Executive provided Ashima Swami's number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, changes, contact number\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b940a487-8cb1-41e3-8485-ef5fcc22323d",
+  "ucid": "b940a487-8cb1-41e3-8485-ef5fcc22323d",
+  "seller_categories": [
+    {
+      "mcat_id": "481",
+      "mcat_name": "Fire Proof Safes"
+    },
+    {
+      "mcat_id": "181987",
+      "mcat_name": "Safety Locker"
+    },
+    {
+      "mcat_id": "187375",
+      "mcat_name": "Jewellery Locker"
+    },
+    {
+      "mcat_id": "221665",
+      "mcat_name": "Godrej Safety Locker"
+    },
+    {
+      "mcat_id": "1305",
+      "mcat_name": "Security Safes"
+    }
+  ]
+}

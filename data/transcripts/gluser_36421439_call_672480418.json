@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672480418",
+  "gluser_id": "36421439",
+  "vintage_months": 61,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Sambhal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686968",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji, ma'am.\\nCustomer: Hello. Sir, main abhi aapko call back karti hoon, ek meeting mein hoon.\\nExecutive: Okay, ma'am, theek hai. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call back later as she is in a meeting.\\n\n\\n\nResolution:\\n\n- Executive acknowledged the customer's situation.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, meeting\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3eeebbd7-ba53-4f46-a56a-dcf00cc0a890",
+  "ucid": "3eeebbd7-ba53-4f46-a56a-dcf00cc0a890",
+  "seller_categories": [
+    {
+      "mcat_id": "148768",
+      "mcat_name": "UPVC Sliding Windows"
+    },
+    {
+      "mcat_id": "177267",
+      "mcat_name": "UPVC Sliding Door"
+    },
+    {
+      "mcat_id": "184347",
+      "mcat_name": "UPVC Glass Window"
+    },
+    {
+      "mcat_id": "213409",
+      "mcat_name": "UPVC Bathroom Door"
+    },
+    {
+      "mcat_id": "43482",
+      "mcat_name": "UPVC Windows"
+    }
+  ]
+}

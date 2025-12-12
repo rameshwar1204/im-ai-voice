@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668345532",
+  "gluser_id": "57847832",
+  "vintage_months": 0,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Salem",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644379",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello, Kopal Naya?\\nCustomer: A mam, Kenman Traders na idhu baao dharani pesuren mam, ippam India Mart la irundhu appa kupitu irundhinga la.\\nExecutive: Sollunga akka.\\nCustomer: A mam idhu enna na enoda senior manager ta ketten. So adhu vandhutu tomorrow or day after tomorrow dhan ungalukku andha mail receive aanavane ungalukku na ellame guidance panna solli irukkanga mam, sarigala?\\nExecutive: Saringa.\\nCustomer: Na ippodhan check pannen andha account ungaloda Kenman Traders account vandhu enakku assign aayirukkudhu. So innum mail receive aagala maximum naalaki receive aayidum. Naalaki vandhu start panna lead edhana usage panna ungalukku guidance pannidalamnu solli irukkanga, sarigala?\\nCustomer: A saringa, okenga.\\nExecutive: Okengala na adhu neenga ippo indha company call number pannirundhanala complaint mail raise aayirukku andha issue ku. So idhu vera edhum ungalukku issue illala mam indha activate aaguradhu pathi kekuradhu ku dhan kupitu irundhinga.\\nCustomer: Aama.\\nExecutive: Ok ok close pannikalaam la complaint.\\nCustomer: A close pannikonga akka.\\nExecutive: A ok naalaki na active aanavane ungalukku na call pandren sarigala?\\nCustomer: A konjam intimate mattum pannidunga marakkama.\\nExecutive: Na panniruven panniruven na enoda personal number la irundhu indha number ku na text pandren. Neenga en name save panni vachikkonga naalaki active aanavane na call panni clear pannidren okengala?\\nCustomer: A saringa okenga.\\nExecutive: Okema okema thank you ma.\\nCustomer: A thank you pa.\\nExecutive: A\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about account activation.\\n\n\\n\nResolution:\\n\n- Executive confirmed account assigned to her.\\n\n- Executive assured guidance after mail receipt.\\n\n- Executive offered to close the complaint.\\n\n\\n\nNext Steps: \\n\n- Executive will call after activation.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account activation, guidance, complaint\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca321a29-50b4-4d92-9f1f-d5a36ba668a7",
+  "ucid": "ca321a29-50b4-4d92-9f1f-d5a36ba668a7",
+  "seller_categories": [
+    {
+      "mcat_id": "10335",
+      "mcat_name": "Gud Powder"
+    },
+    {
+      "mcat_id": "183031",
+      "mcat_name": "Organic Jaggery Powder"
+    },
+    {
+      "mcat_id": "146876",
+      "mcat_name": "Organic Jaggery"
+    },
+    {
+      "mcat_id": "105916",
+      "mcat_name": "Sugar"
+    },
+    {
+      "mcat_id": "102078",
+      "mcat_name": "Gud Jaggery"
+    }
+  ]
+}

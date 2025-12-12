@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669237257",
+  "gluser_id": "183075533",
+  "vintage_months": 1,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648955",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Hi, good morning sir.\\nCustomer: Hello.\\nExecutive: Good morning.\\nCustomer: Hello, good morning sir.\\nExecutive: IndiaMART se baat kar rahi hu.\\nCustomer: Ha bolo.\\nExecutive: Kuch products jo maine add kiye hai, wo ek baar aapne go through kiye?\\nCustomer: Maine dekha.\\nExecutive: Sirf char se paanch product add on kiye aapne.\\nExecutive: Ha, char paanch product add kiye, fir do chutti already Saturday Sunday off rehta hai. To mere paas abhi laptop nahi hai to office se work karna hota hai system se.\\nExecutive: Isliye nahi kar payi thi. And dusra mai ye batana chahti hu abhi isme kuch aapko problem to nahi lag rahi hai, baki sab thik hai na, is type se hi karna hai na add.\\nExecutive: Photos vagaira jaise aapne dekhe honge.\\nCustomer: Kya kar raha hai sir?\\nCustomer: Product jaldi jaldi add karo bol raha hu.\\nExecutive: Lekin sir mai mere end se aapko 15 se 20 products hi add karke de paungi, jo abhi 150 products hai wo mai add nahi kar paungi.\\n\\nExecutive: Wo aapko staff nahi karane padenge kisi se.\\nCustomer: Thik hai, thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asks if customer reviewed added products.\\n\n- Customer wants products to be added quickly.\\n\n- Executive can add only 15-20 products.\\n\n\\n\nResolution:\\n\n- Executive mentioned about working from office system.\\n\n- Customer agreed to the executive's limitations.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product addition, product catalog, working limitations\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=462c0ca5-52d3-4cd8-a3af-7c4492076f6b",
+  "ucid": "462c0ca5-52d3-4cd8-a3af-7c4492076f6b",
+  "seller_categories": [
+    {
+      "mcat_id": "6042",
+      "mcat_name": "Plastic Chairs"
+    },
+    {
+      "mcat_id": "443445",
+      "mcat_name": "Plastic Armless Chair"
+    },
+    {
+      "mcat_id": "184389",
+      "mcat_name": "Nilkamal Plastic Chairs"
+    },
+    {
+      "mcat_id": "193961",
+      "mcat_name": "Supreme Plastic Crates"
+    },
+    {
+      "mcat_id": "155507",
+      "mcat_name": "Plastic Vegetable Crate"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667754493",
+  "gluser_id": "61976995",
+  "vintage_months": 85,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Sihor",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628433",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji sir.\\nExecutive: Good afternoon sir, mai Bhanu baat kar raha hu IndiaMART se. Aapka issue concern aaya tha.\\nCustomer: Hello.\\nExecutive: Yes sir.\\nExecutive: Sir aapka concern aaya tha na ki aap logo ne foreign ki buyleads purchase ki thi but wo aap usko access nahi kar pa rahe the, consume nahi kar pa rahe the.\\nCustomer: Ho gaya. Yes. Wo ho gaya. Wo ho gaya. Accha wo wo. Thik hai to sir ek kaam kijiye mai aapka na ye jo aise uske regarding aapke ticket aaya tha na. Mai usko close kar raha hu aapke paas ek feedback jayega na, thik hai. Aap usme please satisfied mark kar dijiyega.\\nCustomer: Sure, sure.\\nExecutive: Thik hai sir, mai aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was unable to access foreign buyleads.\\n\n\\n\nResolution:\\n\n- Executive confirmed the issue was resolved.\\n\n- Executive is closing the ticket.\\n\n- Asked customer to provide a satisfied feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, ticket, feedback, resolved\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e9114d1-4e40-45f5-975f-f0e64b2b7a4f",
+  "ucid": "8e9114d1-4e40-45f5-975f-f0e64b2b7a4f",
+  "seller_categories": [
+    {
+      "mcat_id": "23600",
+      "mcat_name": "Breathing Air Compressors"
+    },
+    {
+      "mcat_id": "37171",
+      "mcat_name": "Self Contained Breathing Apparatus"
+    },
+    {
+      "mcat_id": "166340",
+      "mcat_name": "Gas Detector Tubes"
+    },
+    {
+      "mcat_id": "189115",
+      "mcat_name": "Boat Davit"
+    },
+    {
+      "mcat_id": "77914",
+      "mcat_name": "Immersion Suit"
+    }
+  ]
+}

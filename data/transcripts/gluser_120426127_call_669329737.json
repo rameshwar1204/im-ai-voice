@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669329737",
+  "gluser_id": "120426127",
+  "vintage_months": 33,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Kishangarh",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9653024",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Namaste, main baat kar raha hu IndiaMART se.\\nCustomer: Haan, Naman bhai.\\nExecutive: Ji, main keh raha tha ki woh aapne kal IndiaMART mein complain kiya tha ki aapko kuch leads nahi aa rahi hai issue.\\nCustomer: Haan yaar, bhaiya lead ka bahut jyada issue aa raha hai abhi. Har baar aapka naam bolte ki.\\nExecutive: Aapke system mein?\\nCustomer: Abhi main bahar aa rakha hu, yaha thoda customer milne.\\nExecutive: Kitni der mein pahuchenge aap?\\nCustomer: Lagengay ek do ghante toh.\\nExecutive: Theek hai, aap pahunch ke ek baar phone kariye hume.\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues with buyleads.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after reaching office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, complaint, follow up\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=87237a04-34cd-4aeb-8577-77b2528f8630",
+  "ucid": "87237a04-34cd-4aeb-8577-77b2528f8630",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "114352",
+      "mcat_name": "Italian Marble"
+    },
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    }
+  ]
+}

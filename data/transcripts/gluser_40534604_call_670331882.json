@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "670331882",
+  "gluser_id": "40534604",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Karad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667564",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: \u0939\u0947\u0932\u094b\u0964\\nCustomer: \u0939\u0947\u0932\u094b\u0964\\nExecutive: \u092f\u0947 \u0938\u0930 \u0935\u0902\u0936 \u0915\u093e \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0942\u0902 \u092e\u0948\u0902 \u0906\u0930\u094d\u091f \u0938\u0947\u0964\\nCustomer: \u0939\u093e\u0902 \u0939\u093e\u0902\u0964\\nExecutive: \u0938\u0930 \u0905\u091a\u094d\u091b\u0947 \u0938\u0930\u094d\u0935\u093f\u0938 \u0915\u0947 \u0930\u093f\u0917\u093e\u0930\u094d\u0921\u093f\u0902\u0917 \u0915\u0947 \u0932\u093f\u090f \u092e\u0948\u0902\u0928\u0947 \u0915\u0928\u0947\u0915\u094d\u091f \u0915\u093f\u092f\u093e \u0925\u093e \u0915\u0948\u0938\u093e \u091a\u0932 \u0930\u0939\u093e \u0939\u0948 \u0938\u092c \u092c\u093f\u091c\u0928\u0947\u0938 \u0907\u0902\u0921\u093f\u092f\u093e \u092e\u093e\u0930\u094d\u091f \u092a\u0947\u0964\\nExecutive: \u0938\u0930 \u092e\u0948\u092e \u0906\u092a \u092e\u0941\u091d\u0947 \u090f\u0915 \u0906\u0927\u0947 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902 \u0915\u0949\u0932 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u094b \u0915\u094d\u092f\u093e \u0906\u0927\u0947 \u092f\u093e \u090f\u0915 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902\u0964\\nCustomer: \u0938\u0930 3:30 \u092c\u091c\u0947 \u092e\u0948\u0902 \u0915\u0928\u0947\u0915\u094d\u091f \u0915\u0930 \u0932\u0942\u0902 \u090f\u0915 \u092c\u093e\u0930\u0964\\nExecutive: \u0915\u093f\u0924\u0928\u0947 \u092c\u091c\u0947 \u0905\u092d\u0940\u0964\\nCustomer: \u090f\u0915 \u0915\u093e\u092e \u0915\u0930\u094b 4:00 \u092c\u091c\u0947 \u0915\u0928\u0947\u0915\u094d\u091f \u0915\u0930 \u0926\u094b \u092e\u0948\u0902 4:00 \u092c\u091c\u0947 \u092b\u094d\u0930\u0940 \u0914\u0930 \u092e\u0924\u0932\u092c \u0939\u094b \u091c\u093e\u090a\u0902\u0917\u093e\u0964\\nExecutive: \u0913\u0915\u0947 \u0913\u0915\u0947 \u0938\u0930 \u0913\u0915\u0947 \u0913\u0915\u0947\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired about the service.\\n\n- Customer requested a call back at 3:30 PM, then rescheduled to 4:00 PM.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 4:00 PM.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back at 4:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nservice, callback, reschedule\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=370c19b5-3e82-4a71-ad72-e0c247f587ef",
+  "ucid": "370c19b5-3e82-4a71-ad72-e0c247f587ef",
+  "seller_categories": [
+    {
+      "mcat_id": "37369",
+      "mcat_name": "Solid Rivets"
+    },
+    {
+      "mcat_id": "87393",
+      "mcat_name": "Iron Rivet"
+    },
+    {
+      "mcat_id": "7814",
+      "mcat_name": "Stainless Steel Rivet"
+    }
+  ]
+}

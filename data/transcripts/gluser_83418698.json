@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671894471",
+  "gluser_id": "83418698",
+  "vintage_months": 28,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello, kaun the kaat raha hai?\\n\\nCustomer: Hello.\\nExecutive: Hello Chaya ji?\\nCustomer: Haan ji kaun?\\nExecutive: Hello Parvez bol raha hu IndiaMART office se kaise hai sir?\\nCustomer: Ji badhiya bataiye.\\nExecutive: Aapne na hamare yaha ek query number 96 se solve kiya tha.\\nCustomer: Ah, maine kiya tha.\\nExecutive: Hello.\\nCustomer: Haan maine kiya tha.\\nExecutive: Koi Chaya ji hai unhone kiya tha shayad.\\nCustomer: Are wo wife hi hai meri unse ab baat mai number de de raha hu aap unke number pe call kar lijiye ek baar.\\nExecutive: Number bataiye please.\\nCustomer: 8126\\nExecutive: 81\\nCustomer: 26\\nExecutive: 26\\nCustomer: 7113\\nExecutive: 7113\\nCustomer: 43.\\nExecutive: 8126711343, theek hai?\\nCustomer: Haan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss query number 96.\\n\n\\n\nResolution:\\n\n- Customer provided his wife's number for further discussion.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- query, contact details, support\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a7ddf58e-8a38-4f86-ae23-ae1d38937687",
+  "ucid": "a7ddf58e-8a38-4f86-ae23-ae1d38937687",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "28733",
+      "mcat_name": "Glass Jars"
+    },
+    {
+      "mcat_id": "146230",
+      "mcat_name": "Pickle Jars"
+    },
+    {
+      "mcat_id": "216538",
+      "mcat_name": "Salsa Glass Jar"
+    }
+  ]
+}

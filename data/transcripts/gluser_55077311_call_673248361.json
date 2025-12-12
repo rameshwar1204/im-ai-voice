@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673248361",
+  "gluser_id": "55077311",
+  "vintage_months": 56,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Prayagraj",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694372",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, ma'am, why are you cutting the phone? Divyanshi ji is speaking.\\nCustomer: I am not getting your voice, ma'am. I am calling you, one minute.\\nExecutive: One minute, I am connecting.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting the executive's voice.\\n\n\\n\nResolution:\\n\n- Executive is connecting the call.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\nvoice issue, connecting call\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=05e44b09-1cdc-40fd-a843-1a6c94991239",
+  "ucid": "05e44b09-1cdc-40fd-a843-1a6c94991239",
+  "seller_categories": [
+    {
+      "mcat_id": "10479",
+      "mcat_name": "Kids School Uniforms"
+    },
+    {
+      "mcat_id": "1941",
+      "mcat_name": "School Uniforms"
+    },
+    {
+      "mcat_id": "133123",
+      "mcat_name": "School T Shirts"
+    },
+    {
+      "mcat_id": "86285",
+      "mcat_name": "School Uniform Shirt"
+    },
+    {
+      "mcat_id": "167700",
+      "mcat_name": "School Sweater"
+    }
+  ]
+}

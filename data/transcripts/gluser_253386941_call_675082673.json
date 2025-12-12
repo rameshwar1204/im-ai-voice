@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675082673",
+  "gluser_id": "253386941",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Chapra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9690528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Tere mandiro mein mai maine jyot kya jalai ho gaya mere ghar mein.\\n\\nCustomer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Haan ji.\\n\\nExecutive: Haan namaskar sir, Aasim Khan bol raha tha IndiaMART se sir.\\n\\nCustomer: Haan haan boliye.\\n\\nExecutive: Woh us din maine sir Rajendra ji se aapko call arrange ki taraf aaya tha. I hope kal aapke paas call aaya hoga sir.\\n\\nCustomer: Baat hui hai Rajendra ji se meri kal hi baat hui thi.\\n\\nExecutive: Bahut achchi baat hai sir. To abhi koi issue to nahi hai sir aap mujhe bataiye.\\n\\nCustomer: Nahi nahi issue kuch nahi hai. Issue jo tha maine aapko bhi share kiya tha Rajendra ji ko bhi bol diya tha. Lekin ab dekhna yeh hai ki kya usme kuch recovery hota hai mera ya fir humko woh lastly band karna hai. Yahi bas issue hai aur koi issue kya rahega isme.\\n\\nExecutive: Nahi sir dekhiye band karne ka agar aapka kyunki refund policy IndiaMART mein hoti nahi hai. Services aap use kar rahe hain.\\n\\nCustomer: Refund nahi hoti hai.\\n\\nExecutive: Nahi nahi sir.\\n\\nCustomer: Fir fir fir aap fir aap rehne dijiye hum baat karenge Rajendra ji se hi. Theek hai? Thank you.\\n\\nExecutive: Sir services aapko di ja rahi hai service aap use kijiye koi issue aata hai woh aap bata sakte hain.\\n\\nCustomer: Nahi nahi yeh aapse aapse meri deal nahi hui hai na bahut. Jisse deal hui hai main usse baat kar lunga. Chaliye thank you. Aap unse ek baar baat karke mere ko bata dijiye kyunki kaafi time se aapka yeh complaint hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about recovery or closure.\\n\n- Refund policy not available.\\n\n\\n\nResolution:\\n\n- Executive stated refund policy is unavailable.\\n\n- Asked to use the services.\\n\n\\n\nNext Steps: \\n\n- Customer will talk to Rajendra.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, services, closure, complaint\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=673331f2-5bc1-423f-b3d8-4129301333b9",
+  "ucid": "673331f2-5bc1-423f-b3d8-4129301333b9",
+  "seller_categories": [
+    {
+      "mcat_id": "11938",
+      "mcat_name": "Gas Lighters"
+    },
+    {
+      "mcat_id": "85179",
+      "mcat_name": "Hand Chopper"
+    },
+    {
+      "mcat_id": "43199",
+      "mcat_name": "Potato Peeler"
+    },
+    {
+      "mcat_id": "31319",
+      "mcat_name": "Kitchen Cleavers"
+    },
+    {
+      "mcat_id": "84245",
+      "mcat_name": "Plastic Water Jug"
+    }
+  ]
+}

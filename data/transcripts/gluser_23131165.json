@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675787441",
+  "gluser_id": "23131165",
+  "vintage_months": 69,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Mandir Hasaud",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9718094",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji boliye.\\nExecutive: Sir, good morning.\\nCustomer: Ji ji, good morning.\\nExecutive: Main keh raha tha woh abhi na aapke yahan kisi ne video meeting ki request open kari hai. Toh aapne ki hai sir woh?\\nCustomer: Mere yahan se video meeting?\\nExecutive: Haan, video meeting karne ke liye.\\nCustomer: Kis cheez mein?\\nExecutive: IndiaMART se baat kar raha hun, Hanuman.\\nCustomer: Nahi nahi, kis cheez ke liye video meeting?\\nExecutive: Matlab ek udhar pe screen pe na ek video meeting ka option aata hai. Ki aap video meeting karna chah rahe hain, toh usi pe kisi ne click kiya hai.\\nCustomer: Ya toh main ek baar unse baat kar loon, ho sakta hai unhone.\\nExecutive: Ek baar pehle unse, khali woh aur main dono mein se koi teesra aur nahi karega kuch.\\nCustomer: Theek hai, main ek baar baat. Ek baar unse pooch lijiye.\\nExecutive: Theek hai, baki aapka woh refund wala okay ho gaya hai idhar se.\\nCustomer: Theek hai na koi.\\nExecutive: Toh woh aapke paas do teen din mein receive hoga, toh main bata dunga aapko jaise.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Enquired about a video meeting request.\\n\n- Refund status.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund is approved.\\n\n- Executive will inform once refund is processed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, refund, status\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=58f0531b-9c4b-40d2-accd-3befd7105361",
+  "ucid": "58f0531b-9c4b-40d2-accd-3befd7105361",
+  "seller_categories": [
+    {
+      "mcat_id": "38707",
+      "mcat_name": "Steel Doors"
+    },
+    {
+      "mcat_id": "87797",
+      "mcat_name": "Metal Bunk Bed"
+    },
+    {
+      "mcat_id": "53419",
+      "mcat_name": "Centering Plates"
+    },
+    {
+      "mcat_id": "84907",
+      "mcat_name": "Tree Guard"
+    },
+    {
+      "mcat_id": "137418",
+      "mcat_name": "Shuttering Plates"
+    }
+  ]
+}

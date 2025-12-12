@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669538740",
+  "gluser_id": "49123359",
+  "vintage_months": 26,
+  "bl_dau_oct": 28,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Rohtak",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657024",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji sir, namaskar ji.\\nCustomer: Namaskar ji, kya haal hai sir?\\nExecutive: Bas main theek hoon ji, aap bataiye sir.\\nCustomer: Bas theek hai, pehchan liya aapne?\\nExecutive: Haan ji, pehchan liya, bataiye sir.\\nCustomer: Accha.\\nCustomer: Mera manager bol raha hai, kaun bol raha hai?\\nExecutive: Haan ji?\\nCustomer: Mera manager bol raha hai, kaun bol raha hai?\\nExecutive: Manager hi baat kar rahe hain sir, bataiye aap.\\nCustomer: Nahi, mujhe support kaun karta hai? Call aata hai ki sir Shivam ka aata hai, kiska aata hai?\\nExecutive: Nahi, Ankur Singh ka aata hai sir aur meri abhi last week hi baat hui hai aapse.\\nCustomer: Accha, Ankur aap hi ho?\\nExecutive: Haan, Ankur main hi hoon sir, maine WhatsApp bhi kiya hua hai already regular basis pe.\\nCustomer: Accha, main ye keh raha ki inquiry refer karu toh kya milega IndiaMART ke liye?\\nExecutive: Haan ji?\\nCustomer: Aapko ek inquiry refer karu toh kya milega IndiaMART ke liye?\\nExecutive: Inquiry refer kaise matlab sir?\\nExecutive: Main call back karta hoon sir apne number se, main call back karta hoon sir, theek hai? Aap mujhe thoda time dijiye, main call back karta hoon aapko, theek hai?\\nCustomer: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know benefits of inquiry referral.\\n\n\\n\nResolution:\\n\n- Executive will call back to explain.\\n\n\\n\nNext Steps: \\n\n- Executive to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry, referral, callback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=615647c9-74b6-4beb-beb7-4ff6f0ac8494",
+  "ucid": "615647c9-74b6-4beb-beb7-4ff6f0ac8494",
+  "seller_categories": [
+    {
+      "mcat_id": "181380",
+      "mcat_name": "School ID Card"
+    },
+    {
+      "mcat_id": "74725",
+      "mcat_name": "ID Card Lanyard"
+    },
+    {
+      "mcat_id": "18339",
+      "mcat_name": "Printed Lanyard"
+    },
+    {
+      "mcat_id": "162521",
+      "mcat_name": "Acrylic Badges"
+    },
+    {
+      "mcat_id": "169427",
+      "mcat_name": "Lanyard Printing Service"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672472856",
+  "gluser_id": "28211023",
+  "vintage_months": 21,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686921",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Aap logo ko bylaw jo diya hai.\\nCustomer: Bhai jo de raha hai na aapko. Hello.\\nExecutive: Ha ji ha ji sir.\\nCustomer: Bylaw jo diya hai aap logo ko waha ka ji sir phone number bylaw diya hai jo flyover bridge ke liye mera company ko.\\nExecutive: Ji ji. Sir aapki aawaz clear nahi aa rahi sir.\\nCustomer: Ma?\\nExecutive: Sir aapki aawaz clear nahi aa rahi.\\nCustomer: Aawaz clear nahi aata hai?\\nExecutive: Nahi sir aapki aawaz kat rahi hai. Ha ji boliye sir.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Bylaw given to them.\\n\n- Phone number bylaw given for flyover bridge for the company.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved. The executive mentioned the customer's voice was not clear.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nbylaw, phone number, flyover bridge, company\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ca893bf4-6134-4bcc-9da3-98cfe877a452",
+  "ucid": "ca893bf4-6134-4bcc-9da3-98cfe877a452",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "191470",
+      "mcat_name": "Concrete Paver Block"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    },
+    {
+      "mcat_id": "221165",
+      "mcat_name": "Cosmic Paver Block"
+    },
+    {
+      "mcat_id": "651864",
+      "mcat_name": "Zigzag Paver Block"
+    }
+  ]
+}

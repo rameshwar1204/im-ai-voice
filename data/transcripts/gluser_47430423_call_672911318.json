@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "672911318",
+  "gluser_id": "47430423",
+  "vintage_months": 23,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bellary",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682553",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Haan ji boliye boliye.\\nExecutive: Hello. Sir, Saransh baat kar rahe the, abhi baat hui thi na aap se. Ye actually aapka Raindrops wali jo profile hai, right? Is par ye concern open tha mere paas, theek hai na? To main ye concern ko update karne ja raha tha. To main jaanna chahta hu ye wala number jo hai ye aapka Raindrops pe rehta hai, right?\\nCustomer: Haan ji, haan ji.\\nExecutive: To ye Raindrops pe number matlab aap abhi Raindrops ko bilkul bhi login nahi karte, use nahi karte, right sir?\\nCustomer: Haan, haan ji, kar raha hu.\\nExecutive: Achcha, achcha, achcha. Ek kaam kijiye sir, aapka jo registered mail ID hai na, Capcha Play pe, us par dekhiye ek feedback ke liye mail aaya hai kya mere paas, aapke paas, check kijiye.\\nCustomer: Aapki jo registered mail ID hai na, Capcha Play, us par ek feedback ka mail dekh ke aaya hoga meri taraf se, ek baar check kijiye please.\\nCustomer: Okay.\\nExecutive: Main line par [unintelligible].\\nCustomer: Dedege dekh kar, tension mat lena.\\nExecutive: Kya keh rahe the?\\nCustomer: Dedege dekh kar, sir, wo feedback de.\\nExecutive: Achcha, achcha, matlab aap dekh lenge na? To ek baar please check kar lijiyega.\\nCustomer: Raindrops pe aur is pe dono pe aaya hai, please wo feedback de dijiyega dono pe, theek hai?\\nExecutive: Okay, okay sir, okay.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to update Raindrops profile.\\n\n- Customer needs to provide feedback on Capcha Play.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's Raindrops number.\\n\n- Executive asked customer to check email for feedback.\\n\n\\n\nNext Steps: \\n\n- Customer will check email and provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- raindrops, capcha play, feedback, profile update\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ba367ead-74bc-4836-b948-03ea527257ad",
+  "ucid": "ba367ead-74bc-4836-b948-03ea527257ad"
+}

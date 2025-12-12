@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669211116",
+  "gluser_id": "128063437",
+  "vintage_months": 21,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bareilly",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650927",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Hi Zubaid sir, good morning.\\nCustomer: Ji, good morning madam.\\nExecutive: Kaise hain sir?\\nCustomer: Ji madam badhiya hai bas aap bataye.\\nExecutive: Main bhi sir ekdam badhiya hu. Aapka phone hi nahi mil raha tha sir, aapka phone aaya bhi toh aawaz nahi aa rahi thi, bell ja rahi thi bas.\\nCustomer: Madam aap ye bataiye ki hum kaam kare ya nahi kare ye bataiye aap hume.\\nExecutive: Nahi nahi sir bilkul kariye, bilkul actually aapse baat karni hai. Kuch buyleads ka issue hai, maine aapki puri case history bhi check kari, aapne kaafi buyleads not relevant bhi mark kari hui hai.\\nCustomer: Ji.\\nExecutive: Toh itna mujhe samajh mein aaya ki relevant leads aapke paas nahi aa pa rahi hai aur jo leads aa rahi hai woh maximum irrelevant hai, correct?\\nCustomer: Ji.\\nExecutive: Toh aisa possible hai sir aap abhi system pe aa sakte hain toh hum system pe hi directly connect kar le.\\nCustomer: System pe hai madam, hai system pe abhi.\\nExecutive: Theek hai. Aapki mail id yahi hai sir Zubaid Malik wali jispe maine abhi mail kiya tha?\\nCustomer: Ji ji, kyu laptop mein khuli hai mail Zubaid Malik wali? Haan khuli hui hai madam.\\nExecutive: Ek minute sir, ek minute. Zubaid Malik 8668@gmail.com yahi hai sir?\\nCustomer: Ji ji, ji ji.\\nExecutive: Ek minute, main ispe mail send kar rahi hu Google meet ka, uspe aap connect kariye. Ek minute.\\nCustomer: Mail dekhna.\\nExecutive: Bhumika.sharma@indiamart.com se aayega.\\nCustomer: Ek minute abhi dekh raha hu.\\nExecutive: Okay.\\nCustomer: Dekho mail?\\nExecutive: Haan sir aa gaya hoga mail toh.\\nCustomer: Dekhta hu.\\nExecutive: Bhumika Sharma yahi upar hai.\\nCustomer: Yahi.\\nExecutive: Kar liya madam, dekhiye.\\nExecutive: Aapko sir system se voice aayegi meri? Main call disconnect kar du?\\nCustomer: Ji aawaz aa rahi hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving relevant buyleads.\\n\n- Customer's phone was unreachable.\\n\n\\n\nResolution:\\n\n- Executive will connect via Google Meet to resolve issue.\\n\n- Executive sent a Google Meet link to customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, relevant leads\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 143,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d92fa3ea-d44d-4fe8-ad5d-513980339acc",
+  "ucid": "d92fa3ea-d44d-4fe8-ad5d-513980339acc",
+  "seller_categories": [
+    {
+      "mcat_id": "28377",
+      "mcat_name": "Folding Bed"
+    },
+    {
+      "mcat_id": "216322",
+      "mcat_name": "Plywood Folding Bed"
+    },
+    {
+      "mcat_id": "190058",
+      "mcat_name": "Charpai"
+    },
+    {
+      "mcat_id": "445391",
+      "mcat_name": "Niwar Folding Bed"
+    },
+    {
+      "mcat_id": "147582",
+      "mcat_name": "Hostel & Dormitory Bed"
+    }
+  ]
+}

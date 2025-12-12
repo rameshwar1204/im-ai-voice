@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674641499",
+  "gluser_id": "101232670",
+  "vintage_months": 10,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Sasni",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671418",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: haji\\nExecutive: haji Dheeraj ji baat kar rahe hai se se sir good afternoon main Reshu baat kar rahi hu India Mart se\\nCustomer: ji aur sir morning mein bhi call kiya tha na aapne ek wo abhi resolve ho gaya madam\\nExecutive: hello usi ke liye aap ek bar aur ek bar aur khol leta hu ruk jao ek second uske baad time nahi mil paya wo khula nahi khul gaya madam ab to khul gaya\\nExecutive: to abhi to koi issue face nahi kar rahe hai na sir\\nCustomer: nahi nahi ab koi issue face nahi hai theek hai\\nExecutive: baki sir aapko ek by lead mein bhi kuch concern face kar rahe the na aapko by lead mein issue aa raha tha sir aapne matlab wo by lead khul nahi khul nahi raha tha isme wo ab khul gaya\\nExecutive: acha acha abhi by lead open nahi sir aap na hamesha jab bhi matlab by lead vagera check karte ho na to apne primary number se hi login kare matlab jo login rehta hai na wo primary se hi hoke aata hai baki agar jaise kuch aap secondary number ya koi another number dalenge na to wo fir matlab open agar hoga bhi to by lead vagera consume nahi kar paoge wo matlab aisa matlab dummy account hi aap dekh payenge usko by kyuki wo active account nahi hoga na aapka\\nCustomer: theek hai\\nExecutive: iske alava sir main ye fir concern close kar sakti hu main aapka sir ye jo aaya tha\\nCustomer: ha ha ha do koi nahi sir\\nExecutive: theek hai baki kuch issue rahe concern rahe to aap mujhe same number pe call kar lijiyega sir theek hai\\nCustomer: theek hai\\nExecutive: theek hai thank you\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was facing issue with buyleads.\\n\n\\n\nResolution:\\n\n- Executive informed to login with primary number.\\n- Executive confirmed issue is resolved.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, login, primary number\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4f4f507-44d4-4a15-a91e-13bf6753f3f3",
+  "ucid": "c4f4f507-44d4-4a15-a91e-13bf6753f3f3",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    },
+    {
+      "mcat_id": "193593",
+      "mcat_name": "TATA Solar Panels"
+    },
+    {
+      "mcat_id": "178988",
+      "mcat_name": "Luminous Inverter Battery"
+    }
+  ]
+}

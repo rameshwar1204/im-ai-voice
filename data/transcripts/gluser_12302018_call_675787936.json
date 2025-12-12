@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675787936",
+  "gluser_id": "12302018",
+  "vintage_months": 7,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701519",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello. Ji Kumar sir Kumar sir Ilma baat kar rahi hu India Mart se.\\nCustomer: Aha.\\nExecutive: Ji. Sir actually aapko kuch problem aa rahi thi kya India Mart se aapne hame mail kiya tha feedback mail kiya hua tha.\\nCustomer: Haan ji.\\nExecutive: Kya problem aa rahi hai sir?\\nCustomer: Madam main aapko thodi der mein call karu ek data dekhne ke baad.\\nExecutive: Achcha sir aise karte hai. Sir main Praveen se main Praveen ne aapko message kiya hua hai actually kya hai sir wo apne feedback de diya to hamare pass ticket open ho gayi thi. Thik hai? To wo hamare pass panch din se pending hai. To main isko abhi close kar deti hu aap na hame jitni der mein bhi ho aap Praveen ko direct call kar lijiye aur jo bhi problem hai na usko sir resolve karwa lijiye. Bina bina close bina solution ke kyu close karna chahte hai aap?\\nExecutive: Sir actually hamari panch din se aapse connect hi nahi ho pa raha hai discussion hi nahi ho pa raha hai. To hamara bhi thoda thoda sa tag hota hai. open hi rakh dijiye na usme kya dikkate hai.\\nExecutive: To aap direct Praveen ko call kar lijiyega na sir problem to hum aapko resolve kar denge agar aapko koi issue aayega fir se open kar dijiyega. Koi problem nahi hai hame.\\nCustomer: Main isse baat karta hu kaise bhi main travelling mein hu main isse baat karta hu sham tak.\\nExecutive: Sir dekhiye actually hum aaj ke baad isko close karne matlab aaj to close karni padegi sir. Aapko agar problem hogi aap fir se call kar lijiyega hame to koi issue nahi hai. Aapko close kar dena hai tab tak main usse baat kar leta hu baad mein close kar lena aapko bol deta hu main.\\nExecutive: Achcha to main kab tak bolu Praveen se call karne ko?\\nCustomer: Sham ko char panch baje tak.\\nExecutive: Pakka sir baat ho jayegi na aapse?\\nCustomer: Haan possibly ho jayegi.\\nExecutive: Agar nahi ho paati tab main close kar sakti hu aapka consent hai mujhe?\\nCustomer: Main karta hu madam aapko call karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an issue with IndiaMART services.\\n\n- Executive wants to close the ticket.\\n\n- Customer wants to resolve the issue first.\\n\n\\n\nResolution:\\n\n- Executive agreed to keep the ticket open.\\n\n- Customer will call Praveen by evening.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after speaking with Praveen.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, feedback, call, close\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 124,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=901f90c6-1128-471b-a921-08932d5d5ad3",
+  "ucid": "901f90c6-1128-471b-a921-08932d5d5ad3",
+  "seller_categories": [
+    {
+      "mcat_id": "29006",
+      "mcat_name": "Freight Forwarding Services"
+    },
+    {
+      "mcat_id": "41987",
+      "mcat_name": "Shipping Services"
+    },
+    {
+      "mcat_id": "84088",
+      "mcat_name": "Air Cargo Service"
+    },
+    {
+      "mcat_id": "31768",
+      "mcat_name": "Marine Engine"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    }
+  ]
+}

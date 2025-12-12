@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667355928",
+  "gluser_id": "42701491",
+  "vintage_months": 57,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Vapi",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9635370",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan. Haan, Keval ji namaskar.\\nCustomer: Haan, namaste sir.\\nExecutive: Ji, main Abhijit baat kar raha tha IndiaMART head office se. Kaise hain aap sir?\\nCustomer: Bas bas, maja maja. Boliye sir.\\nExecutive: Ji ji ji. Wo aapne thodi call kiya tha na 9696 se aapne call kiya tha IndiaMART helpline pe.\\nCustomer: Haan, wo sir maine actually dusri ek meri requirement hai uske liye call kiya tha.\\nExecutive: Haan, boliye boliye.\\nCustomer: Haan, nahi wo to hai mere paas scope fir mil gaya. Matlab ek product mujhe chahiye tha uske liye.\\nExecutive: Achcha, wo mil gaya na sir abhi?\\nCustomer: Haan, mil gaya mil gaya.\\nExecutive: Achcha achcha. Abhi sir ye keh raha hu jo aapke jo 15 aapne jo products diye the aapne wo sare check kar liye na ek bar go through kar liya sab kuch add ho gaya na. Mera main main main mera person kar raha hai. Main thoda bahar hu but mera person abhi kar raha hai. Main aapko lunch ke baad aise hi to call karta hu hai na.\\nExecutive: Achcha achcha.\\nExecutive: Theek hai sir koi baat nahi Keval ji. Main aapko lagbhag 3 baje ke around call back karta hu sir. Theek hai Keval ji.\\nCustomer: Okay okay okay.\\nExecutive: Okay sir okay. Okay okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called for another requirement.\\n\nResolution:\\n\n- Executive offered to call back at 3 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 3 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- product, call back, requirement\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f0d308a5-1926-4aca-a608-fd82e37124fd",
+  "ucid": "f0d308a5-1926-4aca-a608-fd82e37124fd",
+  "seller_categories": [
+    {
+      "mcat_id": "1913",
+      "mcat_name": "Digital Temperature Controller"
+    },
+    {
+      "mcat_id": "5927",
+      "mcat_name": "PID Temperature Controller"
+    },
+    {
+      "mcat_id": "12854",
+      "mcat_name": "Digital Panel Meter"
+    },
+    {
+      "mcat_id": "25555",
+      "mcat_name": "DC Drives"
+    },
+    {
+      "mcat_id": "37481",
+      "mcat_name": "Speed Sensors"
+    }
+  ]
+}

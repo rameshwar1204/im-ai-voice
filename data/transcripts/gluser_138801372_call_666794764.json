@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "666794764",
+  "gluser_id": "138801372",
+  "vintage_months": 1,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Junagadh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626406",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Nahi, main star se Junagadh se baat kar raha hun.\\nExecutive: Sir, Namaste, main IndiaMART se Anand Bajpai baat kar raha hun, aapka account manager sir. Ye hamari recorded line hai IndiaMART ki.\\nCustomer: Haan.\\nExecutive: To sir, aapne ek ticket open kiya tha hamare paas se customer care pe call karke aur waha pe mention kiya tha ki aapko refund chahiye sir. To kya karan hai sir jo services use karte hain, kaafi achi services aapki jo hai benefit milega jaise jaise istemal karte jayenge services ko sir.\\nCustomer: Baat sahi hai Anand bhai, lekin isme koi hai na customer ek bhi ya acha nahi aata hai jisko lead aati hai na, use call karke puchu to aisa bolte hain ki wo to kam de chuke hain hum wo sirf dekhne ke liye, pahunchne ke liye aisa sab bol rahe hain. Isliye abhi aapne hi bola tha ki ek mahine month mein yadi jo aapke paas achi koi lead na aaye aap aisa ho to hum refund kar dete hain. Abhi mujhe refund hi chahiye aur kuch nahi chahiye.\\nExecutive: To ye kisne bola tha sir? Jo sales person the aapko jo sales ke jo us time sales karwaye the unhone bola tha kya?\\nCustomer: Haan.\\nExecutive: To kya bola tha unhone ki agar matlab services nahi milegi to fir\\nCustomer: Haan, ek mahine mein services nahi mile to refund ho jayega aisa bola tha.\\nCustomer: Kyunki maine tab bhi kya IndiaMART mein kiya tha. Uske alava to maine kiya hi nahi hai.\\nExecutive: Achcha to aapke sales person ne ye bola tha ki agar services nahi milegi to fir hum refund kar denge.\\nCustomer: Haan.\\nExecutive: Thik hai sir, lekin main to aapko suggest karunga ki services jo hai istemal kariye aapke bahut bade bade competitor jo hai IndiaMART pe istemal kar rahe hain.\\nCustomer: Baat sahi hai aapki lekin abhi abhi kya abhi nahi kam nahi hai. Baad mein jab kam nahi hogi to ab main fir se call karunga lekin abhi nahi hai. Abhi kya hai ki dhandha bhi chota hai man lo ki isse abhi competitor bhi jyada hai man lo. Isliye koi kya acche se koi jawab bhi nahi deta hai samjhe aur ek bhi grahak abhi tak nahi aaya aur aise hi man lo ki paise main de du samjhe isliye.\\nExecutive: Sir main main to suggest karunga ki ek hafte use karke dekhiye sir.\\nCustomer: Na na na na na na aisa nahi hai mujhe refund hi chahiye.\\nExecutive: Okay, thik hai sir, ek minute line pe ruke rahiyega. Ek baar main aapko iske bare mein guide kar deta hun. Ek minute line pe rukiye ga.\\n\\n(silence)\\n\\nExecutive: Hello.\\nCustomer: Boliye.\\nExecutive: To sir jaise abhi manager mere jo hai wo thoda sa vyast chal rahe hain, thik hai. Thodi der mein wo aapko call karenge iske regarding, thik hai aur wo aapko iske bare mein behtar se behtar chije batayenge ki aur aap unse baat karke jo hai ek solution nikal lijiyega, thik hai. Main lekin as per mere hisab se agar main suggest karunga sir ki continue kariye services, services jab istemal karenge to aapko uska benefits milega kahin na kahin.\\nCustomer: Baat sahi hai lekin kahin na kahin baat ye hai.\\nCustomer: Kahin na kahin idhar aisa nahi hai.\\nExecutive: Thik hai sir, thik hai to maine manager se apne bol diya sir, thik hai wo abhi thoda sa kuch meeting mein busy hain, thik hai aur wo aapko takriban 15 se 20 minute baad ya aadhe ghante ke andar andar call karenge to aap unse baat chit kar lijiyega sir, thik hai.\\nCustomer: Thik hai baat.\\nExecutive: Haan, thik hai sir, thik hai thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the subscription.\\n\n- Customer says he is not getting any leads.\\n\n\\n\nResolution:\\n\n- Executive tried to convince customer to continue services.\\n\n- Executive informed that manager will call in 15-20 minutes.\\n\n\\n\nNext Steps: \\n\n- Manager will call the customer in 15-20 minutes.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, buyleads\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 310,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9fcc6eef-a194-45ca-bbb2-56ce4f2c8646",
+  "ucid": "9fcc6eef-a194-45ca-bbb2-56ce4f2c8646",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "43251",
+      "mcat_name": "Neodymium Rod Magnet"
+    },
+    {
+      "mcat_id": "145239",
+      "mcat_name": "Screw Flights"
+    },
+    {
+      "mcat_id": "445748",
+      "mcat_name": "Alnico Rod Magnet"
+    }
+  ]
+}

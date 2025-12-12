@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673126667",
+  "gluser_id": "47969544",
+  "vintage_months": 2,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630931",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Good morning Vinod bhai.\\nCustomer: Good morning Vinod bhai.\\nExecutive: Good morning. Main baat kar raha hu advocate India Mart se aapka account manager.\\nCustomer: Hmm.\\nExecutive: Haan aapne bola tha na Vinod bhai do din baad connect karne ke liye.\\nCustomer: Aap out of station the.\\nExecutive: To servicing ke regarding mujhe discuss karna tha yaha pe aapka ek concern bhi raise hua hai ki aap one week se buyleads vagaira bhi consume nahi kar rahe hai.\\nCustomer: Haan.\\nExecutive: Haan Vinod bhai aap mujhe ye bataiye ki subscription mein aapko kya issue aa raha hai, kya reason hai, discuss kar lete hai issue ko.\\nCustomer: [inaudible]\\nExecutive: Hello?\\nCustomer: Kya keh rahe ho?\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan Vinod bhai to hum kab discuss kar sakte hai agar aap abhi free hai to abhi discuss kar lete hai issue ko.\\nCustomer: Hmm abhi bhi wo system pe available nahi ho paunga bhai isliye.\\nExecutive: Kitne kitne time mein connect karu aapko bataiye.\\nCustomer: Hmm ek ya do baje tak ho sakta hai.\\nExecutive: Haan?\\nCustomer: Ek ya do baje tak.\\nExecutive: Ek baje. Theek hai main ek baje tak call lunga. Main schedule kar leta hu meeting ko. To aap free rahiye us time.\\nCustomer: Theek hai.\\nExecutive: Hello.\\nCustomer: Thank you. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not consuming buyleads.\\n\n- Customer facing issue with subscription.\\n\n\\n\nResolution:\\n\n- Executive scheduled a meeting for 1 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 1 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, servicing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9b675d68-e303-438f-b46f-093c56690560",
+  "ucid": "9b675d68-e303-438f-b46f-093c56690560",
+  "seller_categories": [
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "530",
+      "mcat_name": "Organic Fertilizers and Manure"
+    },
+    {
+      "mcat_id": "8844",
+      "mcat_name": "Pure Ghee"
+    },
+    {
+      "mcat_id": "182619",
+      "mcat_name": "Live Earthworms for composting"
+    },
+    {
+      "mcat_id": "222680",
+      "mcat_name": "A2 Ghee"
+    }
+  ]
+}

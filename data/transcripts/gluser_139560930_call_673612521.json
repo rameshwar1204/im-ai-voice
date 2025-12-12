@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673612521",
+  "gluser_id": "139560930",
+  "vintage_months": 49,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Bhadohi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686284",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello. Ji sir, call cut ho gaya tha, kaise?\\n\\nCustomer: Maine call kata tha, call kata nahi tha, aap check karke mujhe bataiye, mai itna time nahi dunga aapko na.\\n\\nExecutive: Wo aapki baat thik hai sir, mai definitely iska mail pe kar deti hu uska revert, daily special ko. Par isme na maine aapko ek reply aata hai wo mujhe bataiye aap.\\n\\nExecutive: Wo sir ho jayega.\\n\\nCustomer: Bataiye.\\n\\nCustomer: Fir thik hai, jaisa hoga bataiye mujhe, thik hai.\\n\\nExecutive: Sir jab reply aayega mai aapko uske bare me inform kar dungi, par ek screenshot bhi aapko bhi share karna hai group pe.\\n\\nCustomer: Haan haan.\\n\\nExecutive: Isme aapki jo consumption hai na is mahine ki, thoda aapne 40% aapne purani leads consume kari hai. To ho sakta hai shayad is wajah se bhi ye problem aa rahi ho.\\n\\nCustomer: Purani lead ye nahi hai, ye just ki lead aap dekhna call ki, kitne der pehle maine receive ki hai.\\n\\nExecutive: Ek second.\\n\\nCustomer: Aap is lead ko uthaiye dekhiye kitna time purani hai lead.\\n\\nExecutive: Ye kaunsi Banwari ki baat kar rahe hai, second wale ki baat kar rahe hai.\\n\\nCustomer: Haan haan.\\n\\nExecutive: Ek second rukiye.\\n\\nExecutive: Kal consume kari aapne ye lead, kab ki hai?\\n\\nCustomer: Are nahi ye kal nahi ki yaar, ho gaya paanch che teen char paanch din ho gaya consume kiye hue.\\n\\nExecutive: Char paanch din ho gaya.\\n\\nCustomer: Haan haan, aapne kari hai.\\n\\nExecutive: Achha, ye kal aapne ek lead consume kari thi, Ashish jinka customer ka naam hai. Inse kya baat hui hai, Ajmer ke rehne wale hai ye?\\n\\nCustomer: Ashish ji se baat hui thi, Ashish ji ne bola mai aapko call karunga, unhone call nahi kiya, fir se mai unko call karunga.\\n\\nExecutive: Achha achha, to matlab unhone ye cheez to mani hogi na ki wo IndiaMART se unhone requirement dali thi.\\n\\nCustomer: Haan haan, nahi wo wo bole hai mere ko mai aapko call karunga.\\n\\nExecutive: Achha thik hai, ek second aur lead aapki aayi thi jo aapne 18 tarikh ko consume kari thi, Iceman karke.\\n\\nCustomer: Are ye to ye Ashish ji ki to ek baar mere paas call bhi aaya tha fir unhone kuch nahi bola. Call attempted hai, fir uske baad unki lead uthai gayi hai, wahi lead ban gayi. Matlab call mere ko kiya tha unhone aapne mere se baat hui, fir wo kuch bole abhi confirmation nahi hoga aapne call karke pucha hoga unki lead generate kar di aap logo ne.\\n\\nExecutive: Nahi nahi sir aisa ho hi nahi sakta hai jab matlab customer ka ek checklist form hota hai na.\\n\\nCustomer: Aap mere kaam ko dhyan rakhiye faltu time nahi hai mere paas itna baat karunga mai aapko.\\n\\nExecutive: Thik hai, aap usko dhyan rakhne ki mail kar dijiye, thik hai whatsapp kar dijiye.\\n\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call got disconnected.\\n\n- Wants revert on the mail.\\n\n- Claims leads are old.\\n\n\\n\nResolution:\\n\n- Executive informed about consumption of leads.\\n\n- Executive confirmed to inform about the reply.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, consumption, call, mail\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 164,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=12940eee-2fa5-4918-8cdd-77031ccba77b",
+  "ucid": "12940eee-2fa5-4918-8cdd-77031ccba77b",
+  "seller_categories": [
+    {
+      "mcat_id": "6453",
+      "mcat_name": "Room Carpet"
+    },
+    {
+      "mcat_id": "132774",
+      "mcat_name": "Designer Carpet"
+    },
+    {
+      "mcat_id": "102",
+      "mcat_name": "Hand Tufted Carpets"
+    },
+    {
+      "mcat_id": "19525",
+      "mcat_name": "Hand Tufted Wool Carpet"
+    },
+    {
+      "mcat_id": "3327",
+      "mcat_name": "Wall To Wall Carpets"
+    }
+  ]
+}

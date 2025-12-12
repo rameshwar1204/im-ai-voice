@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667028939",
+  "gluser_id": "128731134",
+  "vintage_months": 8,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Verna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632280",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes.\\nExecutive: Yeah, hi sir. IndiaMART se baat kar raha hu.\\nCustomer: Achha haan haan.\\nExecutive: Ji sir. Actually sir aap ji bataaye.\\nCustomer: Haan ji sir. Aap se na, hamari marketing ki jo lead hai, unko contact kar sakte ho aap sir?\\nExecutive: Ji, number bataaye sir aap.\\nCustomer: Yeah.\\nExecutive: Ji ji haan, mail bheja tha to hi maine contact kiya. Naam, uh, number bataaye sir aap please.\\nCustomer: Yes. 77090\\nExecutive: 77090\\nCustomer: 866\\nExecutive: 866\\nCustomer: 42\\nExecutive: 42. 7709086642. Okay. Inka good name kya hai sir?\\nCustomer: Inka naam hai Pranoti.\\nExecutive: Pranoti. Okay sir.\\nCustomer: Yes. Marketing ka sab yahi lead karti hai. To please unse baat kijiye.\\nExecutive: Okay sir. Okay sir. Thank you.\\nCustomer: Alright.",
+  "summary": "\\n\\nConcerns:\\n\\n- Wants executive to contact the company's marketing lead.\\n\\n\\nResolution:\\n\\n- Noted the marketing lead's name (Pranoti) and number.\\n- Agreed to contact the specified person.\\n\\n\\nNext Steps: \\nExecutive will contact the marketing lead.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n\\n@@@Key Topics:\\n- contact information, marketing lead, follow-up call\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6f5f36d-2eff-4c24-b441-905407060de1",
+  "ucid": "d6f5f36d-2eff-4c24-b441-905407060de1",
+  "seller_categories": [
+    {
+      "mcat_id": "177769",
+      "mcat_name": "Bromine Recovery Plant"
+    },
+    {
+      "mcat_id": "35991",
+      "mcat_name": "Reverse Osmosis Systems"
+    },
+    {
+      "mcat_id": "37388",
+      "mcat_name": "Solvent Recovery Systems"
+    },
+    {
+      "mcat_id": "21236",
+      "mcat_name": "Acid Recovery System"
+    },
+    {
+      "mcat_id": "3737",
+      "mcat_name": "Chemical Plant"
+    }
+  ]
+}

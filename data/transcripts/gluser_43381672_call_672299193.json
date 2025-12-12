@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672299193",
+  "gluser_id": "43381672",
+  "vintage_months": 33,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Valsad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9684255",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Sir, Namaste. Akash Pandey baat kar raha hun India Mart se.\\nExecutive: Yes sir. Sir, aap mere ko second half mein call kijiye na sir.\\nCustomer: Haan, wohi sir, meeting ke liye bol raha hun sir, aapne kal hamari meeting hui thi, aapne not satisfied de diya hai. Mera rating kya hoga ki aap mere ko aap baat karke kaisa laga woh sabhi.\\nExecutive: Sir, do minute dijiye, main aapko call back deta hun.\\nCustomer: Haan haan, okay sir, okay, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Meeting rating; not satisfied feedback.\\n\n\\n\nResolution:\\n\n- Executive requested a callback in the second half of the day.\\n\n- Executive requested two minutes to call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to neutral\\n\n\\n\n@@@Key Topics:\\n\nmeeting, rating, callback\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5402f37c-b7a5-4d62-bbae-d1011587e122",
+  "ucid": "5402f37c-b7a5-4d62-bbae-d1011587e122",
+  "seller_categories": [
+    {
+      "mcat_id": "1434",
+      "mcat_name": "Car Paints"
+    },
+    {
+      "mcat_id": "119257",
+      "mcat_name": "Self Adhesive Membrane"
+    },
+    {
+      "mcat_id": "189430",
+      "mcat_name": "Nerolac Emulsion Paints"
+    },
+    {
+      "mcat_id": "27944",
+      "mcat_name": "Epoxy Paints"
+    },
+    {
+      "mcat_id": "185017",
+      "mcat_name": "Asian Emulsion Paints"
+    }
+  ]
+}

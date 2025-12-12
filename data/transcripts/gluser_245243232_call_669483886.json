@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669483886",
+  "gluser_id": "245243232",
+  "vintage_months": 6,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Basti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "\\nExecutive: please call me.\\n\\nCustomer: Hello?\\n\\nExecutive: Hello?\\nExecutive: Haan ma'am IndiaMART se baat kar raha hu, Shivam ka manager main.\\nCustomer: Main baat karti hu thoda time dijiye, main thoda busy hu, main kal call karti hu aapko, theek hai?\\nExecutive: Accha.\\nExecutive: Ma'am woh traffic message\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is busy and will call back tomorrow.\\n\n\\n\nResolution:\\n\n- Executive stated calling from IndiaMART.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, call back, busy\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2f4c2f85-7993-4c03-b825-4606b8ee3cc6",
+  "ucid": "2f4c2f85-7993-4c03-b825-4606b8ee3cc6",
+  "seller_categories": [
+    {
+      "mcat_id": "217407",
+      "mcat_name": "Nilkamal Dustbins"
+    },
+    {
+      "mcat_id": "137460",
+      "mcat_name": "Wheeled Dustbin"
+    },
+    {
+      "mcat_id": "181794",
+      "mcat_name": "Plastic Dustbin"
+    },
+    {
+      "mcat_id": "94743",
+      "mcat_name": "Stainless Steel Dustbin"
+    },
+    {
+      "mcat_id": "181796",
+      "mcat_name": "Plastic Waste Bin"
+    }
+  ]
+}

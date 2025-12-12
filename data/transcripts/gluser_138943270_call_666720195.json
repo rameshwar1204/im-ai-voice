@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666720195",
+  "gluser_id": "138943270",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9725813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hanji?\\nExecutive: Han good morning mam.\\nCustomer: Good morning sir.\\nExecutive: Mam, Braj Organic se bol raha hu.\\nCustomer: Ji sir.\\nExecutive: Ha wo complaint dali thi, abhi tak wo thik nahi hua, kya kar rahe ho aap log?\\nCustomer: Ji, sir actually aapki VR sir se bhi I think baat hui thi Saturday ko, right? \\nCustomer: Wo humne na sir actually technical team ko dala hua hai, but kyunki Saturday Sunday tha na, to Saturday Sunday usually wo log work nahi karte hain.\\nCustomer: Matlab off rehte hain.\\nCustomer: Nahi ye ye to ye to ye to technical issue tha, wo Saturday usme main bhi main maine bhi telecom mein kaam kiya hai koi pichle 14 saal, thik hai?\\nCustomer: Waha itna nahi dekha jata hai Saturday Sunday, ye to service deni hoti hai na, service Saturday Sunday band nahi hoti hai.\\nExecutive: Sir I understand, band nahi hoti hai, aisa nahi hai humne Saturday bhi try kiya tha, but hum bhi wait kar rahe hain unke revert ka, hopefully hum aaj aapko revert kar payenge.\\nCustomer: Revert karne se kya hoga yaar, mujhe thik karke do na kya revert karna hai aapko.\\nExecutive: I know sir, I know sir, solve karke dena hai. Sir aap sari hierarchy se touch mein hai to aisa nahi hai ki aapka escalation on priority nahi hai. But actually kyunki technical glitch hai ya jo bhi issues hain, to hume bhi samne se update lena padta hai sir. To main aapko jaldi se jaldi aaj karwa ke dene ki koshish karti hu sir, main aapko update deti hu.\\nExecutive: Hello?\\nCustomer: Ha ha, ye kab tak call aa jayegi wapas phir?\\nExecutive: Sir main abhi just office pahunchi hu, main ek bar check karke matlab main koshish karti hu aapko around jaise bhi hota hai ek bar update leke to abhi main aapko sir timeline sabhi bata paungi. Main ek bar baat karti hu team se to main aapko update deti hu.\\nCustomer: Chalo kar dijiye.\\nExecutive: Thik hai, thank you sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's complaint has not been resolved yet.\\n\n\\n\nResolution:\\n\n- Executive assured to resolve the issue ASAP.\\n\n\\n\nNext Steps: \\n\n- Executive will provide an update to the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, technical issue, resolution, revert\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 147,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8180255-4ed3-4b41-b5ed-d644188c4401",
+  "ucid": "e8180255-4ed3-4b41-b5ed-d644188c4401",
+  "seller_categories": [
+    {
+      "mcat_id": "441885",
+      "mcat_name": "Shilajit Resin"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "177417",
+      "mcat_name": "Shilajit Extract"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    }
+  ]
+}

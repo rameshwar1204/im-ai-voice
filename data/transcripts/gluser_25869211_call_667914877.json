@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667914877",
+  "gluser_id": "25869211",
+  "vintage_months": 21,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Solapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639012",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan, boliye.\\nExecutive: Good morning, ma'am.\\nCustomer: Good morning, sir, boliye na.\\nExecutive: Ma'am, Sandeep bol raha hu IndiaMART se. Aap Shambhu Agros se bol rahi hai ma'am?\\nCustomer: Haan, haan.\\nExecutive: Ji ma'am, aapne call ki thi na kal aapne IndiaMART pe 9696.\\nCustomer: 12 baje call karenge sir, kyuki mujhe yahi number pe lagana hoga kya aapko?\\nExecutive: Yes ma'am.\\nCustomer: 804724. Yes ma'am. Mere isi number pe aap call kar lijiye.\\nCustomer: Thik hai, thik hai, 12 baje karte hu sir. Okay.\\nCustomer: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know the correct number to call.\\n\n\\n\nResolution:\\n\n- Executive provided his number to call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back at 12 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, follow up, contact number\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ddb39516-748a-4b65-94a0-21da7d42f7a3",
+  "ucid": "ddb39516-748a-4b65-94a0-21da7d42f7a3",
+  "seller_categories": [
+    {
+      "mcat_id": "136958",
+      "mcat_name": "Crop Covers"
+    },
+    {
+      "mcat_id": "446084",
+      "mcat_name": "Fruit Cover"
+    },
+    {
+      "mcat_id": "4061",
+      "mcat_name": "Copper Sulphate"
+    },
+    {
+      "mcat_id": "160092",
+      "mcat_name": "Pomegranate Plants"
+    },
+    {
+      "mcat_id": "45642",
+      "mcat_name": "Agricultural Ground & Crop Covers"
+    }
+  ]
+}

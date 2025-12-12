@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673630987",
+  "gluser_id": "89193036",
+  "vintage_months": 35,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Kurukshetra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9697783",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Har ghar tiranga abhiyan tirange ki shaan mein ek unique festival ban chuke.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello ha ji boliye sir.\\n\\nExecutive: Ha ji sir ha bataiye aap ho gaya free aap.\\n\\nCustomer: Ha boliye ha ho gaya free bolo.\\n\\nExecutive: Aapki aapki call aayi thi to aapne bataya tha aapki product ke regarding issue tha.\\n\\nCustomer: Sir mera mera mere mere mere jo business ke maine pehle bhi aapse shayad baat hui hogi meri jo mere jo business ki inquiry hai wo nahi aa rahi hai wrong inquiry aa rahi hai mere ko chahiye house lifting house raising house upliffting ki inquiry chahiye mere ko lekin mere pass aa rahi hai house lift ki jab main lift kam main lift thodi lagata hu logo ko main to bane banaye gharo ko jack ke dwara lifting karta hu upliffting karta hu raising ka mera house raising ka karya hai lekin mere pass to wo aa rahi hai jin logo ne apne gharo mein lift lagwani hai wo mere pass inquiry de rahe hain check karo aap apna.\\n\\nExecutive: Ek minute main dekhta hu ek minute rukiye.\\n\\nExecutive: Aapke sab mein lifting ke hua hai aisa bhi nahi hai ki lifting ke liye kar diya ho to.\\n\\nCustomer: Hello.\\n\\nExecutive: Ha sir aapki jo inquiries aa rahi hai building lifting category thi house lifting category thi to.\\n\\nCustomer: To wo wo to mere pass wo to mere pass inquiry aa hi nahi rahi sir mere pass to house lifting ki hai building lift ki hai building lift lagwana hai main lift ka thodi na mera kam hai mera to lifting ka kam hai main jo bane banaye gharo ko jack ke dwara lifting karta hu house upliffting upar uthata hu lekin wo to log mere pass jo inquiry aap bhej rahe hain wo hai wo log hain jinko apne building mein lift lagwani hai.\\n\\nExecutive: Okay kyuki main dekh raha tha sir lift jo aapne aap jante hain to lift lift me dal ho gaya aapke magar aapki aawaz aapki aawaz nahi puri clear dab ke aawaz aa rahi hai aapki abhi clear aa rahi hai sir\\n\\nCustomer: Ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer receiving wrong inquiries (house lift).\\n\n- Wants inquiries for house lifting/raising/uplifting.\\n\n\\n\nResolution:\\n\n- Executive checked the customer's category.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiry, house lifting, category\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f288b67c-5443-4a70-a0d2-df32d81e4e41",
+  "ucid": "f288b67c-5443-4a70-a0d2-df32d81e4e41",
+  "seller_categories": [
+    {
+      "mcat_id": "160975",
+      "mcat_name": "House Lifting Services"
+    },
+    {
+      "mcat_id": "177918",
+      "mcat_name": "Building Lifting Service"
+    },
+    {
+      "mcat_id": "36135",
+      "mcat_name": "Real Estate Services"
+    },
+    {
+      "mcat_id": "136606",
+      "mcat_name": "Residential Terrace Garden Designing"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    }
+  ]
+}

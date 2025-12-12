@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666776270",
+  "gluser_id": "122999785",
+  "vintage_months": 6,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9627172",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hi, good morning sir.\\nCustomer: Ji, very good morning.\\nExecutive: Aaj hi aapki call aayi thi IndiaMART helpline se.\\nCustomer: Uh, aap kahan se baat kar rahe hain sir?\\nExecutive: Main Ashud Enterprises se baat kar raha hoon, Mohammad Suhail.\\nCustomer: Ashud Enterprises se?\\nExecutive: Haan ji.\\nCustomer: Haan sir, abhi meri team aapko na, immediate aapko call karega thode der mein sir. Woh ek meeting mein hai, woh aapko turant connect karta hai.\\nExecutive: Okay, sure.\\nCustomer: Sure.\\nExecutive: Thank you.",
+  "summary": "\\n\\nConcerns:\\n\\n- Following up on a call received from the IndiaMART helpline.\\n\\n\\nResolution:\\n\\n- Verified the customer's company name.\\n- Informed that the relevant team is in a meeting.\\n- Arranged for an immediate callback from the team.\\n\\n\\nNext Steps: \\n\\n- Issue not resolved.\\n- Customer will receive a callback from the relevant team shortly.\\n\\nAlert (If Any):\\n\\nNone\\n\\n@@@Sentiment:\\n\\n- Neutral -> Neutral\\n\\n\\n@@@Key Topics:\\n\\n- callback, verification, helpline\\n\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9098f220-e010-4a74-bda6-09b10302bebe",
+  "ucid": "9098f220-e010-4a74-bda6-09b10302bebe",
+  "seller_categories": [
+    {
+      "mcat_id": "116251",
+      "mcat_name": "Wooden Coin Boxes"
+    },
+    {
+      "mcat_id": "20240",
+      "mcat_name": "Wooden Tray"
+    },
+    {
+      "mcat_id": "135839",
+      "mcat_name": "Wooden Pen Stand"
+    },
+    {
+      "mcat_id": "5932",
+      "mcat_name": "Piggy Banks"
+    },
+    {
+      "mcat_id": "96457",
+      "mcat_name": "Money Box"
+    }
+  ]
+}

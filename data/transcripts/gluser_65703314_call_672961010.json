@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672961010",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Kaun?\\nExecutive: Haan ji sir, LV International se baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Hello.\\nCustomer: Haan boliye, kahan se bol rahe hain kya baat hai?\\nExecutive: Sir, Pallavi baat kar rahi hoon IndiaMART se.\\nCustomer: Haan ji.\\nExecutive: Hello.\\nCustomer: Haan boliye.\\nExecutive: Sir, dekhiye aap kafi time se bar bar request kar rahe hain mere team se ki aap refund kar dijiye. Refund to sir dekhiye possible nahi hai. Main suggest karungi ki aap thoda sa. \\nCustomer: Bas to main apna karta rahunga, main karta rahunga lagatar jab tak aap refund nahi karenge. Main lagatar call toll free number pe call karta rahunga.\\nExecutive: Sir, aap dekhiye koi beech ka rasta to nikalna padega na.\\nCustomer: Koi rasta nahi nikalenge aap private number se phone mat kiya kare mujhe.\\nExecutive: Kya keh rahe hain sir?\\nCustomer: Private number se mujhe phone mat kare toll free number se phone kiya kare mujhe.\\nExecutive: Sir, aap bhi to hamare customer care mein phone karte hain na.\\nCustomer: Haan to hum customer care ko toll free number pe karte hain na.\\nExecutive: Haan na, bilkul aap call karte hain aapne request dali hui hai aur hum aage request process nahi kar sakte bas aapki thodi madad kar sakte hain aapki jo services.\\nCustomer: Nahi aap koi madad mat kijiye mera aage process aap kar dijiye bas itni madad aap chahiye aur koi madad mat kijiye aap.\\nExecutive: Sir, dekhiye aapka\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund.\\n\n- Customer does not want calls from private numbers.\\n\n\\n\nResolution:\\n\n- Executive stated refund is not possible.\\n\n- Executive said they can only assist with services.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, toll-free number, customer care\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cf1cc3aa-3a53-42a9-af6f-8cd4a7a6443c",
+  "ucid": "cf1cc3aa-3a53-42a9-af6f-8cd4a7a6443c",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

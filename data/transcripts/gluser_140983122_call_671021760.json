@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671021760",
+  "gluser_id": "140983122",
+  "vintage_months": 48,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9644309",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Haan ji. Sir very good morning, Ranjit baat kar raha hu IndiaMART se, kaise ho aap?\\nCustomer: Haan kaun baat kar rahe hain?\\nExecutive: Sir main IndiaMART se Ranjit baat kar raha hu, haan ji, ye na sir aapke catalog mein kuch correction karayi hui thi hamari mere manager se aapki baat hui thi. Saloni ji.\\nCustomer: Haan ji, haan ji.\\nExecutive: To usme correction ke baad na sir jo category hai, wo do category to aapka sahi hai, air filter foam aur memory foam, jo reticulated foam hai sir usme kuch lead abhi consume nahi hua hai jis karan se wo inactive hai sir. To uska three lead consume karna padega us category ko search karke tab ja kar ke wo active ho payega. To aap abhi ek table three lead consume kar lenge kya?\\nCustomer: Kaun si kar loge?\\nExecutive: Reticulated foam sir.\\nCustomer: Kahan pe?\\nExecutive: Ye sir aapko by lead section mein jana hai aur waha pe reticulated foam search karna hai sir.\\nCustomer: Haan kar di.\\nExecutive: Haan reticulated foam search karke dekhiye jo bhi leads aa rahi hai usse related usko aap consume kijiye three lead at least consume karna hai, maybe ho sakta hai abhi aapko achi quantity nahi dikh rahi hogi but just because of activate karne ke liye aap consume kar lijiye sir.\\nCustomer: Ek hi aa rahi thi wo consume kar li maine bhaiya.\\nExecutive: Ek hi aa rahi thi usko kar liya aapne, thik hai. Agar uske alawa nahi aa raha hai to aap ek baar lead\\nCustomer: Haan?\\nExecutive: Lead manager pe ek baar click kijiye sir lead manager pe.\\nCustomer: Haan.\\nExecutive: Lead manager mein ja kar ke sir jo waha pe agar jo previous lead hai na usko aap reply kar dijiye usme search karne ka option aa raha hoga contact section ka option hoga all contact. Wahi pe sir us pe hi aap search kijiye reticulated foam jo previous customer se aapki baat hui hai na us customer ko aap reply kar dijiye teen customer ko. Aap apna catalog link share kar sakte hain product details share kar sakte hain is tarike se teen reply bhejni hai each customer ko.\\nCustomer: Maine inko already message kar rakha hai.\\nExecutive: Haan bilkul sir aapne pehle kiya hoga but abhi sir hume category ko activate karna hai na to is reason se main keh raha hu us pe reply karne ke liye so that ki hamara category activate ho jaye sir.\\nCustomer: Maine ab dekho teen jano ko kar diya.\\nExecutive: Teen ek ek customer ko teen baar reply bhejni hai matlab ek customer ko three reply bhejni hai aur is tarike se teen customer ko bhejni hai sir.\\nCustomer: Dekho teen baar ho gaya teen customer ko teen baar ho gaya reply.\\nExecutive: Okay okay thik hai agar aapne kar diya to ye sir next 24 hours mein activate ho jayega aapka category reticulated foam ka. As of now jo mam ne change karayi hui thi usme air filter foam, reticulated foam and memory foam hai ye teen category aapka as a star service mein promote ho raha hai jisme aapko jo jo city aapne select kiya waha pe as a star supplier aapko dikh rahe hain. To sir aap isko sab kuch correct kar diya hua tha mam ne usse pehle bhi hamari discussion hui thi kuch correction kiya hua tha.\\nCustomer: Jaldi jaldi bolo na kya bar bar kahani bana rahe ho, aage bolo kya karna kya hai abhi.\\nExecutive: To sir actively aapko lead consume karni hai aur kuch nahi karni hai sir aap isko jab bhi theek hai okay thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's reticulated foam category is inactive.\\n\n- Needs to consume three leads to activate category.\\n\n\\n\nResolution:\\n\n- Executive asked customer to consume three leads.\\n\n- Advised to search and reply to previous customers.\\n\n- Customer confirmed sending three replies to three customers.\\n\n\\n\nNext Steps: \\n\n- Category will be activated in 24 hours.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, category, activation\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 208,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d99ec70c-9779-4d62-974c-d9202e5a057d",
+  "ucid": "d99ec70c-9779-4d62-974c-d9202e5a057d",
+  "seller_categories": [
+    {
+      "mcat_id": "177157",
+      "mcat_name": "Air Filter Foam"
+    },
+    {
+      "mcat_id": "122544",
+      "mcat_name": "Reticulated Foam"
+    },
+    {
+      "mcat_id": "180790",
+      "mcat_name": "Memory Foam"
+    },
+    {
+      "mcat_id": "112544",
+      "mcat_name": "Memory Foam Mattress"
+    },
+    {
+      "mcat_id": "151309",
+      "mcat_name": "Scooter Air Filter"
+    }
+  ]
+}

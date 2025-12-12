@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669496749",
+  "gluser_id": "242909210",
+  "vintage_months": 8,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682550",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. A to Z production se baat ho rahi hai?\\nExecutive: Hmm.\\nExecutive: Good evening sir, main baat kar rahi hoon servicing team India Mart se.\\nCustomer: Boliye na.\\nExecutive: Sir basically main aap main aap se ye jaanna chah rahi hoon ki sir abhi aap by lead consume kyun nahi kar rahe ho?\\nCustomer: Kya madam wohi wohi case repeat aap log ko bata rahe hain.\\nCustomer: Consume kya karenge? Aligarh ki aa rahi hai inquiry. Aligarh mein business hai kya?\\nExecutive: Aapko sir kaha ki chahiye mainly?\\nCustomer: Woh chod dijiye abhi call cut karke.\\nCustomer: Jab tak aap issue\\n",
+  "summary": "\\n\nConcerns:\\n\n- Why by leads are not being consumed.\\n- Inquiries are from Aligarh, where no business exists.\\n\\n\nResolution:\\n\n- Asked where the inquiries are needed.\\n\\n\nNext Steps: \\n\n- Issue not resolved. Call was cut.\\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Angry\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiries, location\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d85f7eb0-ca6b-45e2-aed9-568db4f87221",
+  "ucid": "d85f7eb0-ca6b-45e2-aed9-568db4f87221",
+  "seller_categories": [
+    {
+      "mcat_id": "167805",
+      "mcat_name": "MDF Jali"
+    },
+    {
+      "mcat_id": "2351",
+      "mcat_name": "Laser Cutting Services"
+    },
+    {
+      "mcat_id": "174332",
+      "mcat_name": "CNC MDF Cutting Service"
+    },
+    {
+      "mcat_id": "135909",
+      "mcat_name": "CNC Laser Cutting Services"
+    },
+    {
+      "mcat_id": "174334",
+      "mcat_name": "CNC Router Cutting Services"
+    }
+  ]
+}

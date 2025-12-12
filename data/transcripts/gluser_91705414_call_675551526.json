@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675551526",
+  "gluser_id": "91705414",
+  "vintage_months": 60,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9711404",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Haan. Sri Krishna Enterprises?\\nCustomer: Haan.\\nExecutive: Indra sir very good afternoon Jinsi India Mart Noida office se.\\nCustomer: Haan.\\nExecutive: Sir aapne ek concern raise kiya tha kal hamara toll free pe call karke kuch issues bataya tha. Lehane on the call aapko address kiya tha.\\nCustomer: Haan.\\nExecutive: But abhi hame identify nahi ho pa rahe aapka kya tha issue ye proper way pe hum logo ne answer kar paya.\\nCustomer: Achcha achcha madam thoda sa ek kam me hu mai system me baith ke aapko call karata hu.\\nExecutive: Actually sir dekho agar aapka problem sort out ho gaya issue concern ho gaya to mujhe.\\nCustomer: System sort out nahi hua hai mai aapko call karunga. System par.\\nExecutive: So mai kab tak ha mai kab tak aapka call ka intzar karu sir?\\nCustomer: Ek ghante ke andar call karta hu aapko.\\nExecutive: Thik hai ek ghante ke baad mera ko bol deti hu aap hi ko phone mila ke.\\nCustomer: Thik hai.\\nExecutive: Thik hai thik hai. Okay sir thank you call.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's issue was not resolved on previous call.\\n\n\\n\nResolution:\\n\n- Executive asked when to expect a call back.\\n\n\\n\nNext Steps: \\n\n- Customer will call back within an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- previous call, issue, call back\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2649ade2-47cc-41ea-89b2-d790825321cb",
+  "ucid": "2649ade2-47cc-41ea-89b2-d790825321cb",
+  "seller_categories": [
+    {
+      "mcat_id": "24353",
+      "mcat_name": "Cold Storage Rooms"
+    },
+    {
+      "mcat_id": "179028",
+      "mcat_name": "Blue Star Water Cooler"
+    },
+    {
+      "mcat_id": "193607",
+      "mcat_name": "Aquaguard Water Cooler"
+    },
+    {
+      "mcat_id": "191554",
+      "mcat_name": "RO Water Cooler"
+    },
+    {
+      "mcat_id": "147334",
+      "mcat_name": "Mushroom Farming Services"
+    }
+  ]
+}

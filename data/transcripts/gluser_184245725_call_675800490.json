@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675800490",
+  "gluser_id": "184245725",
+  "vintage_months": 10,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwandi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716217",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello.\\nHello? Ji, a very good morning, ma'am.\\nOkay, ma'am, this is Priya speaking. I have shared a link on your number and your primary email. Please join it.\\nOkay. Abhi?\\nHaa haa, ma'am, abhi maine join kar diya hai.\\nNahi, abhi main nahi join kar sakti. Aap ek kaam.\\nJi ji.\\nAa toh kab tak join karengi ma'am? Matlab aap time bata dijiye.\\n3 baje karu? 3 baje.\\nThik hai, thik hai. Aap 3 baje join kar lijiyega. Thik hai.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive requested customer to join a link.\\n\n\\n\nResolution:\\n\n- Customer agreed to join at 3:00 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, join, time\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bf0e7184-aa57-4921-953a-9d05714d24a9",
+  "ucid": "bf0e7184-aa57-4921-953a-9d05714d24a9",
+  "seller_categories": [
+    {
+      "mcat_id": "192597",
+      "mcat_name": "White Vinegar"
+    },
+    {
+      "mcat_id": "6626",
+      "mcat_name": "Fruit Syrups"
+    },
+    {
+      "mcat_id": "102186",
+      "mcat_name": "Bread Crumb"
+    },
+    {
+      "mcat_id": "10433",
+      "mcat_name": "Kewra Water"
+    },
+    {
+      "mcat_id": "442610",
+      "mcat_name": "Mojito Syrup"
+    }
+  ]
+}

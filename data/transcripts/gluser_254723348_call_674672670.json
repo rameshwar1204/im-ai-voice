@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674672670",
+  "gluser_id": "254723348",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hi hello.\\nCustomer: Haan.\\nExecutive: Haan sir abhi na maine call kiya tha aapko call tak disconnect ho gayi thi. Actually main ye puchna chahta na tha ki aapki jo service hai abhi char din mein aapne jaise 10 by lead consume kiye hain sir.\\nCustomer: Haan.\\nExecutive: Hello. Aur aapke paas jo inquiry aayi hai.\\nCustomer: Wo five inquiry aayi hai sir direct inquiry jo client karte hain na jo lead manager mein show hoti hai. To wo direct five inquiry aayi hai. To all over experience jo hai sir aapka kaisa lag raha hai sir kaise aap service kar rahe hain sir lead kar rahe hain to by lead se kaise conversion ho raha hai.\\nCustomer: Abhi main abhi main bahar hu travelling kar raha hu baad mein thodi der baad call karte hai to bahut bahut sara issue aa raha hai nahi aa raha.\\nExecutive: Thodi time baad call karu.\\nCustomer: Haan hello.\\nCustomer: Haan.\\nCustomer: Aur baad mein phone karo na.\\nExecutive: Video meeting ka jo concern aaya tha jo video meeting ka concern aaya tha wo close kar du sir.\\nCustomer: Haan close kar do.\\nExecutive: Okay okay ek message aayega sir satisfied ka to wo aap satisfied kar dijiyega sir theek hai.\\nCustomer: Haan theek hai haan.\\nExecutive: Ye secondary number kin ka hai sir aise.\\nCustomer: Wo mere partner ka hai ye mera.\\nExecutive: Aapke partner ka.\\nCustomer: Haan haan wo jyada use nahi karta main use karta hu.\\nExecutive: Matlab wo use nahi karte hain aap hi use karte hain sir.\\nCustomer: Haan haan.\\nExecutive: Okay okay aapke product sahi hai na sir zinc ash wali jo product hai category. Sulfuric acid. Sulfuric acid wali.\\nCustomer: Haan.\\nExecutive: Haan sahi hai na. Sulfuric acid battery liquid chemical yahi product hai na.\\nCustomer: Haan haan.\\nExecutive: Okay okay okay. To isme kuch by lead bhi consume ho rahi hai sir is product ki zinc ash wali.\\nCustomer: Haan haan consume ho raha hai.\\nExecutive: Haan jo sale channel hai sir usme jaise by lead use karna ya lead manager mein inquiry dekhna jo inquiry aati hai wo sab sari cheeze malum hai na sir aapko.\\nCustomer: Haan haan malum hai.\\nExecutive: Koi dikkat koi issue to nahi hai na sir.\\nCustomer: Na na.\\nExecutive: Okay okay okay. Service related satisfied hai na sir koi dikkat nahi na.\\nCustomer: Haan na abhi koi dikkat nahi hai dikkat hoga to main udhar manager hai na apna jo service India office ko baat karwa jaunga usko bula lunga uske baad me.\\nExecutive: Aapka account manager ka aapke paas number hai sir Abhishek.\\nCustomer: Haan hai hai.\\nExecutive: Haan hai. Okay okay. Okay sir okay. Haan theek hai. Haan.\\nExecutive: Theek hai sir ye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about service experience and buylead conversion.\\n\n\\n\nResolution:\\n\n- Executive closed the video meeting concern.\\n- Executive asked to mark as satisfied.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, service, inquiry, account manager\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 165,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=29796c64-f799-4aff-a6cb-a034ee492830",
+  "ucid": "29796c64-f799-4aff-a6cb-a034ee492830",
+  "seller_categories": [
+    {
+      "mcat_id": "41570",
+      "mcat_name": "Zinc Ash"
+    },
+    {
+      "mcat_id": "4057",
+      "mcat_name": "Copper Scrap"
+    },
+    {
+      "mcat_id": "41588",
+      "mcat_name": "Zinc Powders"
+    },
+    {
+      "mcat_id": "227398",
+      "mcat_name": "Glycerin Soap Base"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    }
+  ]
+}

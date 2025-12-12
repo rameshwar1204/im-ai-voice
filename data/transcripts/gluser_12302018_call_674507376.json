@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674507376",
+  "gluser_id": "12302018",
+  "vintage_months": 7,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701519",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Ji sir.\\nExecutive: Yes sir, Mr. Kumar ji baat kar rahe hain progressive offshore and marine services se?\\nCustomer: Ha ji bataiye.\\nExecutive: Ha Kumar sir Praveen bol raha hun Indiamarted office se.\\nCustomer: Ha ji bataiye.\\nExecutive: Sir wo kuch issue tha na leads aur inquiry mein to usi ke regarding maine connect kiya hai sir.\\nCustomer: Ha ha.\\nExecutive: To sir possible hai agar connect kare to main bata deta hun aapko.\\nCustomer: Abhi sham ko connect karenge sir. Monday hai na thoda busy hi rahenge na. Main aapko sham ko connect karwa deta hun.\\nExecutive: Sham ko kitne baje sir ji?\\nCustomer: Aap whatsapp mein message bhejiye main bhijwata hun jaise free hua main aapko text karta hun.\\nExecutive: Achcha wo primary number kiska hai aap hi ka hai?\\nCustomer: Dono mere sath rehte hain.\\nExecutive: Achcha theek hai. Us din to baat hui tha main sham ko dala tha message sir Saturday ko lekin.\\nCustomer: Pahla tha lekin main travelling mein tha na us time mein. To nahi hai us time mein. Main sham ko night mein dekha message wo.\\nExecutive: Okay okay. Theek hai to main 4 baje aap usi number pe whatsapp mein bhej dijiye main sham ko reminder bhej dijiyega. Free rahega to aadha ghanta ke liye zara baith ke baat kare.\\nCustomer: Okay.\\nExecutive: Okay sure sure sir.\\nCustomer: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding leads and inquiry issue.\\n\nResolution:\\n\n- Customer will connect in the evening.\\n\n- Customer asked to send a message on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will send a message on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, inquiry, whatsapp, connect\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8eda2f7b-20ca-4326-b857-90dd70678142",
+  "ucid": "8eda2f7b-20ca-4326-b857-90dd70678142",
+  "seller_categories": [
+    {
+      "mcat_id": "29006",
+      "mcat_name": "Freight Forwarding Services"
+    },
+    {
+      "mcat_id": "41987",
+      "mcat_name": "Shipping Services"
+    },
+    {
+      "mcat_id": "84088",
+      "mcat_name": "Air Cargo Service"
+    },
+    {
+      "mcat_id": "31768",
+      "mcat_name": "Marine Engine"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    }
+  ]
+}

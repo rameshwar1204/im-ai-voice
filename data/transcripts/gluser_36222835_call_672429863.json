@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "672429863",
+  "gluser_id": "36222835",
+  "vintage_months": 72,
+  "bl_dau_oct": 1,
+  "customer_type": "STAR",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9695620",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello? Good afternoon sir, I am Vinay speaking from [inaudible].\\nCustomer: Hello sir.\\nExecutive: Uh actually sir, we had a talk regarding renewal, so let's discuss and finalize it on the same day.\\nCustomer: Uh, okay, my health is not good, I am in the hospital.\\nExecutive: Uh, okay, what happened sir? I will talk to you.\\nCustomer: Uh, I will talk tomorrow.\\nExecutive: Two-three days in hospital.\\nCustomer: Okay.\\nExecutive: Okay sir, I will call you tomorrow, right? Because day after tomorrow is the end date. I will call you in the morning once.\\nCustomer: Okay sir, take care.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states health is not good and is in the hospital.\\n\n- Renewal discussion and finalization.\\n\n\\n\nResolution:\\n\n- Executive will call the customer tomorrow.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call the customer tomorrow morning because the day after tomorrow is the end date.\\n\n\\n\nAlert (If Any):\\n\n- Hospital, health\\n\n\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nrenewal, health, hospital\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8cf401d4-808b-4ac1-8db1-113b074ac8fd",
+  "ucid": "8cf401d4-808b-4ac1-8db1-113b074ac8fd"
+}

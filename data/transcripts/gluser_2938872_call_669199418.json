@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669199418",
+  "gluser_id": "2938872",
+  "vintage_months": 44,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663305",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Good morning sir, mai Aman baat kar raha tha IndiaMART se account manager. Bataiye.\\nCustomer: Services ke regarding baat karne ke liye baat kar sakte hai tumne?\\nExecutive: Kya cheez ke liye?\\nCustomer: Services ke regarding sir baat karne ke liye do minute baat.\\nExecutive: Kya bataiye service kya bolna hai?\\nCustomer: Just a minute sir.\\nCustomer: Ha.\\nExecutive: Hello.\\nExecutive: Ha aawaz nahi aa raha hai aapka.\\nCustomer: Mai keh raha tha ki aapke jo products hai na jaise mini concrete mixer sir inme secondary mapping nahi ho rakhi hai.\\nExecutive: Kya nahi rakhi hai?\\nCustomer: Secondary mapping hoti hai hamare yaha jisse aapko jo buylead milti hai na sir.\\nExecutive: Hello. Ha.\\nCustomer: Ha jo buylead milti hai na system ko nahi pata hota ki jis seller jo aap jaise seller hue aap theek hai usko nahi pata hota ki mix concrete mixer jo hai seller ka wo kyuki aapke alawa aur bhi log mix concrete mixer ka deal karte hai na sir isme to usko nahi pata hota to isliye hum log kya karte hai concrete mixer ho gaya ek category map kar di theek hai ek aur secondary category keyword type me hota hai wo map karte hai hum log jisse hota kya hai ki agar aapka agar kisi vyakti ne kisi aur naam se bhi search kiya kisi aur naam sir isko hum kuch kehte hai kya concrete mixer ko?\\nExecutive: Nahi.\\nCustomer: Mini hai. Mini aur kya koi isse bada bhi aata hai kya sir?\\nExecutive: Concrete mixer ke bare me pata hai aapko kya cheez hai ye?\\nCustomer: Ha ha concrete mixer me to main gaya wo jo ghumta rehta hai uske andar concrete dal ke aur cement cement dal ke morang morang dal ke jisse wo wahi hota hai na sir.\\nExecutive: Ghar banate hai aap.\\nCustomer: Ha ghar banate hai. Ghar banane ka kam hota hai bas wahi hai usko aap soch lo aap apne hisab se kya usko aur bola ja sakta hai.\\nExecutive: Nahi sir jaise jaise aap deal kar rahe hain West Bengal Kolkata. Nahi isko nahi bola jata.\\nExecutive: Aur kiske bare me. Ek kam karo aap mera profile dekh lo pehle kya sab hai. Concrete mixer me hum log dealing nahi karte hai wo hamara sabse least item hai.\\nExecutive: Theek hai.\\nCustomer: Pehle aap pehle sun lo meri baat pehle aap fir bataye. Isse pehle aapke yaha se daswo bar phone aa chuka hai theek hai.\\nCustomer: Theek hai. Aur hum log ko itna time nahi hai ki aapko hum time de paye. Aap pehle aap profile dekh lo jo karna hai aap log kar lo. Hame disturb mat karo aap.\\nExecutive: Theek hai sir aap buylead bhi consume nahi ho rahi na isliye mujhe problem hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Secondary mapping not done for mini concrete mixer.\\n\n- Buyleads are not being consumed.\\n\n\\n\nResolution:\\n\n- Executive asked customer to check profile.\\n\n- Executive stated they don't deal in concrete mixer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, profile, concrete mixer, secondary mapping\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 150,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ccf86fd6-9402-42f3-a824-1e6a5e4596d6",
+  "ucid": "ccf86fd6-9402-42f3-a824-1e6a5e4596d6",
+  "seller_categories": [
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    },
+    {
+      "mcat_id": "42493",
+      "mcat_name": "Cube Moulds"
+    },
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "146140",
+      "mcat_name": "Test Equipment Repair"
+    }
+  ]
+}

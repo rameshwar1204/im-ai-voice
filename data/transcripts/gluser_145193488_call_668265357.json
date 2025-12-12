@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668265357",
+  "gluser_id": "145193488",
+  "vintage_months": 15,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Rampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639270",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ji sir, mai Allahabad kar rahi hu IndiaMART se. Actually maine isliye call kiya tha ki aapki video meet hui thi Amrit ke sath.\\nCustomer: Ji. To sir aapne actually video meet ke liye bola tha to aapki unse video meet hui thi to proper discussion kariya tha unhone aapse?\\nCustomer: Suniye mere jo mere pehle se mera beta la assistant pe aap usse baat kariyega maine number bhi bheja tha aapko ka to aap waha baat kariyega.\\nExecutive: Achcha theek hai to matlab aapke achcha aapne Amrit ko number de diya hai sir?\\nCustomer: Ha number maine de diya unse kehna jo first number diya tha maine usse baat kariyega theek hai na.\\nExecutive: Achcha chaliye theek hai sir.\\nCustomer: Ji. Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding a video meet with Amrit.\\n\n\\n\nResolution:\\n\n- Customer informed to contact his assistant.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meet, assistant, number\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0c013a97-91df-4c74-94af-ddbf257933e1",
+  "ucid": "0c013a97-91df-4c74-94af-ddbf257933e1",
+  "seller_categories": [
+    {
+      "mcat_id": "42034",
+      "mcat_name": "Islamic Abaya"
+    },
+    {
+      "mcat_id": "186606",
+      "mcat_name": "Burkha"
+    },
+    {
+      "mcat_id": "174565",
+      "mcat_name": "Men Tailor Services"
+    },
+    {
+      "mcat_id": "173007",
+      "mcat_name": "Garment Stitching Service"
+    },
+    {
+      "mcat_id": "175728",
+      "mcat_name": "Ladies Clothes Stitching Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675590533",
+  "gluser_id": "7303519",
+  "vintage_months": 9,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Hodal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715654",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Bhaiya mere paas koi maal nahi hai, baar baar form up daalo.\\nExecutive: Hello.\\nCustomer: Hello. Haan ji bolo.\\nExecutive: Ajanta Enterprises se baat ho rahi hai kya meri?\\nCustomer: Haan ji, haan ji.\\nExecutive: Very good afternoon, ma'am. Actually, main IndiaMART se baat kar raha tha. Aapne abhi humare customer care mein call kiya tha?\\nCustomer: Haan, maine aapke customer care mein call kiya tha. Ek customer mujhe itna tang kiya ja raha hai, ye aapka Kishangarh ka, isko block karao isko number ko.\\nExecutive: Aap mujhe kuch inki details vagera provide kara sakte hain kya, ma'am?\\nCustomer: Aapki inka phone number ya kuch bhi.\\nCustomer: Haan, ye number hai unka.\\nCustomer: Likhiye sir.\\nExecutive: Ji, bataiye ma'am.\\nCustomer: 8972\\nExecutive: 8972\\nCustomer: 85\\nExecutive: 85\\nCustomer: 83\\nExecutive: 83\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is being harassed by another customer.\\n\n- Wants the other customer's number blocked.\\n\n\\n\nResolution:\\n\n- Executive asked for the harasser's details.\\n\n- Customer provided the harasser's phone number.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- harassment, block number, customer care\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 78,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9fa373b6-b4f5-4021-a963-3e88ba09c83b",
+  "ucid": "9fa373b6-b4f5-4021-a963-3e88ba09c83b",
+  "seller_categories": [
+    {
+      "mcat_id": "158207",
+      "mcat_name": "Bag Closing Thread"
+    },
+    {
+      "mcat_id": "183300",
+      "mcat_name": "Rice Rubber Rolls"
+    },
+    {
+      "mcat_id": "214738",
+      "mcat_name": "Garlon Thread"
+    },
+    {
+      "mcat_id": "147948",
+      "mcat_name": "Rice Mill Spare Parts"
+    },
+    {
+      "mcat_id": "186314",
+      "mcat_name": "Revo Bag Closing Machine"
+    }
+  ]
+}

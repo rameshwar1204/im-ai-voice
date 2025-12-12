@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "671043382",
+  "gluser_id": "16727403",
+  "vintage_months": 59,
+  "bl_dau_oct": 1,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhatkal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9633021",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji, namaskar sir, kaise hai aap?\\nCustomer: Theek hu.\\nExecutive: Sir, SN Trading company se baat kar rahe hai na?\\nCustomer: Ha, kaun baat kar rahe hai?\\nExecutive: Sir, hum IndiaMART head office se baat kar rahe hai.\\nCustomer: Ji.\\nExecutive: Abdullah sir, actually mera aapse discussion hua tha udhar 6 tarikh ke aas pass sir regarding catalog and services vagera. To aapne humko yahi bola tha sir ki agle hafte se most probably na by lead vagera use karna aap shuru kar denge, services active ho jayega.\\nLekin abhi dikkat ye hai na sir ki abhi bhi hum dekh rahe hai ki aapka by lead ka consumption badha nahi bilkul sir. To koi dikkat aa raha hai to bataye na sir, koi guidance chahiye ki kaise kaam karna hai to wo bataye hum thoda aapko online aake explain kar dete hai. Koi dikkat pareshani leads me aa rahi hai to usko bhi check kar lete hai. Main baad me aapko call karta hu, kaun se number pe call karna hai?\\nExecutive: Sir, isi pe karna hai, aap bataye ya fir aap comfortable kab hai, kis samay me, ek baar laga leti hu aapko.\\nCustomer: 4:30 baje call kijiye.\\nExecutive: 4:30 baje, chaliye koi nahi, mai kar deti hu.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buylead consumption has not increased.\\n\n\\n\nResolution:\\n\n- Executive offered online explanation and guidance.\\n\n- Executive offered to check lead-related issues.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 4:30 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, services, follow up\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=82399ac1-23f7-4133-b0a0-3a2a38ae4b4c",
+  "ucid": "82399ac1-23f7-4133-b0a0-3a2a38ae4b4c",
+  "seller_categories": [
+    {
+      "mcat_id": "158713",
+      "mcat_name": "Night Cream"
+    },
+    {
+      "mcat_id": "187642",
+      "mcat_name": "Skin Lightening Cream"
+    },
+    {
+      "mcat_id": "9499",
+      "mcat_name": "Skin Creams"
+    },
+    {
+      "mcat_id": "6218",
+      "mcat_name": "Face Cream"
+    }
+  ]
+}

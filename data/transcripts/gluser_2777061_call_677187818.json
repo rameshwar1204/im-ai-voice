@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "677187818",
+  "gluser_id": "2777061",
+  "vintage_months": 5,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Atrauli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643779",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haanji sir. Sir mai shivraj ko ye bolna apna bhi na kare ye services band kar do aap.\\nExecutive: Sir hamare paas service band karne ki refund policy nahi hai. Aap service jab tak nahi use karoge.\\nCustomer: [inaudible] dene ki policy aap band kariye sir.\\nExecutive: [inaudible]\\nCustomer: Band kariye faltu ki baate na kare aap jo hai.\\nExecutive: Sir jab aap service nahi use karoge business kaise milega sir.\\nCustomer: Nahi nahi aapko aap na leti ladai baate aapka profession hai. Kis tarike se aadmi ko command kar raha hai.\\nExecutive: [inaudible]\\nCustomer: Aap usse hatke alag baat kariye koi aapka senior adhikari hai usse baat karao only [unintelligible].\\nExecutive: Mere senior Aasim sir hai aur aapki Aasim se already baat. Sir meri senior Aasim hai aur Aasim sir se aapki already baat ho chuki hai sir unse.\\nCustomer: [inaudible]\\nExecutive: Sir dobara Aasim sir se bol deti hu aapko call back kar lenge aapko call kar lenge.\\nCustomer: Faltu ki baat nahi faltu kuch nahi.\\nExecutive: Sir service refund policy ya band karne ka koi system nahi hai hamare paas.\\nCustomer: [inaudible]\\nExecutive: Sir refund policy nahi hai sir IndiaMART ke paas.\\nCustomer: Mai chalao bhai Facebook pe IndiaMART walo ko bataunga ki bhai kitna pareshan kar raha hai Facebook ye IndiaMART.\\nExecutive: Sir aap service nahi use karoge to business kaise milega sir.\\nCustomer: Ye ye ye racket aapne kar rakha hai faltu ka jo.\\nExecutive: [inaudible]\\nCustomer: Sir aap service to use karo pure mahine me.\\nExecutive: [inaudible]\\nCustomer: Sir pure mahine me ek lead use karke aur do lead use karke business IndiaMART se nahi generate hoga. Aapko thoda sa effort karna padega sir.\\nCustomer: [inaudible] ka matlab ki aap faltu faltu ki baate kare ja rahe hai aap jo hai mai mana kar raha hu un baato pe baate na kare aap.\\nExecutive: Sir business ki baat business ki baat karenge na.\\nCustomer: Ye band kara do. Ye band kara do madam ji band kara do behenji band kara do isko.\\nExecutive: Sir hamare paas refund policy nahi hai. Mai Aasim sir ko bol deti hu wo aapse baat kar lenge jo bhi.\\nCustomer: [inaudible] time kyu waste kar aapne kyu waste kara mera time kyu waste kara aapne.\\nExecutive: Sir mai Aasim sir ko bol deti hu wo aapko jo bhi hai final bata denge par hamare paas refund policy nahi hai already.\\nCustomer: [inaudible] policy nahi hai. Band karaiye isko. Aapke paas message hua hai band karne ke liye kya hai faltu ki baate kare ja rahe hai aap jo hai.\\nExecutive: Sir hum aapko lead bhej dete hai aapko jo bhi lead bhejenge.\\nCustomer: [inaudible]\\nExecutive: Sir band karane ki policy nahi hai.\\nCustomer: [inaudible]\\nExecutive: Sir aap service pe baat karna nahi chah rahe business kaise milega wo samajh nahi chah rahe.\\nCustomer: [inaudible] koi baat hi na kare mai keh raha hu baat hi na kare. Koi agar koi koi mail hai to usse usse baat karaiye meri. Wo bekar ki baate hai man lo ab ladkiya hai kuch muh se nikal jata hai aadmi kuch keh de to zara si der me wo ho jayega. Aap jo hai na kisi mail se baat karaiye senior person ho.\\nExecutive: Sir koi baat nahi mai ek baar apne sir se bol deti hu wo aapse baat kar lenge.\\nCustomer: Sir ko bol do sir ko bolo sir ko bolo jo jisko bhi bolna hai usko bolo.\\nExecutive: Thik hai sir. Okay. [inaudible]\\nCustomer: Band karo isko.\\nExecutive: Thik hai mai baat kara deti hu sir aapko.\\nCustomer: Thank you.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to cancel the services.\\n\n- Customer is unhappy with the service.\\n\n\\n\nResolution:\\n\n- Executive explained no refund policy for cancellation.\\n\n- Executive offered to have senior speak to customer.\\n\n\\n\nNext Steps: \\n\n- Executive will ask Aasim Sir to call back.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, cancellation, buyleads, service\\n\n\\n",
+  "call_entered_on": "11/30/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 181,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=085eef11-624e-49ec-a163-da9ffc56c458",
+  "ucid": "085eef11-624e-49ec-a163-da9ffc56c458",
+  "seller_categories": [
+    {
+      "mcat_id": "2416",
+      "mcat_name": "Three Phase Distribution Transformers"
+    },
+    {
+      "mcat_id": "141869",
+      "mcat_name": "HT Power Cable"
+    },
+    {
+      "mcat_id": "68071",
+      "mcat_name": "Indoor VCB Panel"
+    },
+    {
+      "mcat_id": "17854",
+      "mcat_name": "Oil-Cooled Distribution Transformer"
+    },
+    {
+      "mcat_id": "140821",
+      "mcat_name": "Used Transformer"
+    }
+  ]
+}

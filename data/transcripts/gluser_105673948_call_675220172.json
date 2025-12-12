@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675220172",
+  "gluser_id": "105673948",
+  "vintage_months": 4,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711691",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello. Haan sir Komal ji bol rahe hain?\\n\\nCustomer: Uh, main Komal ji se baat kara raha hun.\\nKomal?\\nExecutive: Okay.\\n\\nExecutive: Hello.\\nCustomer: Haan Komal ji main JP International se bol raha tha.\\nExecutive: Okay.\\nCustomer: Haan to bol raha tha main inka koi conversion vagera kuch nahi nikal raha to sir lead vagera thoda refresh kar dijiye.\\n\\nExecutive: Theek hai. To aapko matlab basically conversion ka dikkat aa raha hai na?\\nCustomer: Haan haan haan.\\nExecutive: Theek hai to main kaam karti hu sir abhi to hamare matlab thoda log out ka time ho gaya hai. Main aapko kal morning mein first thing aapko call karti hu, theek hai?\\nCustomer: Okay okay. Yaad karke call kar lijiyega. Aap free honge?\\nCustomer: Aap mujhe time bata do main aapko khud connect kar lungi. Kitna baje tak free rahenge?\\nCustomer: Kya sir?\\n\\nCustomer: Theek hai main aapko na kal connect karti hu.\\nCustomer: Ek second, ek second. 1 baje ek bar phone kar lijiyega.\\nExecutive: Haan ji haan ji bataiye.\\nCustomer: Haan 1 baje phone kar lijiyega.\\nExecutive: 1 baje. Theek hai main aapko 1 baje connect karti hu.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting conversions.\\n\n\\n\nResolution:\\n\n- Executive assured to call next morning.\\n\n- Executive agreed to connect at 1 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next day.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- conversion, buyleads, call schedule\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=83182eef-e082-46b3-a20c-744d0d5a378e",
+  "ucid": "83182eef-e082-46b3-a20c-744d0d5a378e",
+  "seller_categories": [
+    {
+      "mcat_id": "39669",
+      "mcat_name": "Tea Leaves"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    },
+    {
+      "mcat_id": "105919",
+      "mcat_name": "Tea"
+    },
+    {
+      "mcat_id": "114244",
+      "mcat_name": "Loose Tea"
+    },
+    {
+      "mcat_id": "4449",
+      "mcat_name": "Black Tea"
+    }
+  ]
+}

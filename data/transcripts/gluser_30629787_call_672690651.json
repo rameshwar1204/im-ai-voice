@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672690651",
+  "gluser_id": "30629787",
+  "vintage_months": 22,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Haan ji sir, namaskar.\\nCustomer: Namaskar ji.\\nExecutive: Sir Manish bol raha tha aapka account manager area head office se.\\nCustomer: Haan bolo.\\nExecutive: Haan ji sir, kaise hain sir?\\nCustomer: Wo payment abhi aaya nahi suit wala apna.\\nExecutive: Haan aapne kal iska complaint na lagwaya tha sir hai na kal aapne call haan haan aapki mam se bhi baat hui thi jo maine kiya tha.\\nCustomer: Haan ji unhone dopahar ki bola ki kal dopahar baat karunga.\\nExecutive: Accha nahi aapka jo paisa fasa hua hai aapne unse baat nahi kiya sir?\\nCustomer: Wo bhi bolta hai nahi wo karta hu karta hu ye bolta hai kuch nahi bolta bas.\\nExecutive: Accha accha nahi hai sir aapko baat aapko apni side se matlab usme baat karni padegi sir unse paisa fasa hua hai na aapka sir ek baar haan unse direct baat kariye confirm uske baad sir India mart kuch isme waise kar nahi sakta inke beech kyuki ye aapka buyer aur supplier ka conflict hai sir.\\nCustomer: Hai na?\\nExecutive: Accha ji. Haan kyuki isme aapne jo baat ki hogi jaise maine baat kiya tha ki aapki pehle jo baat hui hogi unse buyer se usme se aapka hua aap ek baar unse baat kariye sir direct hai na.\\nCustomer: Theek hai ji fir main aap se aadhe ghante baad main thoda kaam me laga hua hu koi deal hai uske baad aap aadhe ghante baad baat karunga.\\nExecutive: Haan theek hai theek hai sir aur wo khargone wali deal hui thi aapki?\\nCustomer: Haan ji?\\nExecutive: Khargone wali deal aap aapne jo consume ki thi main khargone jaunga main matlab.\\nCustomer: Haan ab abhi gaya nahi abhi kal parson jaane ka abhi tab tak chali ja raha hu.\\nExecutive: Accha accha theek hai sir iske bare me apne buyer se matlab jisme paisa fasa hua hai sir usme waise India mart kuch interfere nahi kar sakta aapko matlab unse baat karni padegi confirm theek hai sir.\\nCustomer: Theek hai sir theek hai ji.\\nExecutive: Haan haan.\\nExecutive: [inaudible]\\nCustomer: [inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Payment for a suit order not received.\\n\n- Buyer not providing a clear resolution.\\n\n\\n\nResolution:\\n\n- Executive advised direct communication with buyer.\\n\n- IndiaMART cannot interfere in buyer-supplier conflicts.\\n\n\\n\nNext Steps: \\n\n- Customer will contact the executive later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, buyer, supplier, conflict, khargone deal\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=699f036a-60bd-4e36-8454-4c7ca1bbfa8a",
+  "ucid": "699f036a-60bd-4e36-8454-4c7ca1bbfa8a",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "216789",
+      "mcat_name": "Sandstone Jali"
+    },
+    {
+      "mcat_id": "8004",
+      "mcat_name": "Stone Grills"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    }
+  ]
+}

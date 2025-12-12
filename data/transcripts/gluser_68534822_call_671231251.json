@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671231251",
+  "gluser_id": "68534822",
+  "vintage_months": 82,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677623",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: \u0939\u093e\u0902 \u092c\u094b\u0932\u093f\u090f \u091c\u0940, \u092c\u0947\u0932\u093e \u0938\u094d\u091f\u094b\u0928 \u0938\u0947 \u092c\u094b\u0932 \u0930\u0939\u093e \u0925\u093e\u0964\\nCustomer: \u0939\u093e\u0902 \u092c\u0924\u093e\u0907\u090f\u0964\\nExecutive: \u0906\u092a\u0928\u0947 \u092c\u094b\u0932\u093e \u0925\u093e \u0928\u093e \u0915\u0949\u0932 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f\u0964\\nCustomer: \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u0926\u094b \u092e\u093f\u0928\u091f \u092e\u0947\u0902 \u0915\u0949\u0932 \u092c\u0948\u0915 \u0915\u0930\u0942\u0902\u0917\u0940, \u0926\u094b \u0938\u0947 \u0924\u0940\u0928 \u092e\u093f\u0928\u091f \u092e\u0947\u0902\u0964\\nExecutive: \u0939\u093e\u0902 \u0920\u0940\u0915 \u0939\u0948 \u0920\u0940\u0915 \u0939\u0948\u0964\\nCustomer: \u0913\u0915\u0947 \u091c\u0940\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back in two to three minutes.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3c9bb4e3-bdfe-448c-b865-b18630d0e71d",
+  "ucid": "3c9bb4e3-bdfe-448c-b865-b18630d0e71d",
+  "seller_categories": [
+    {
+      "mcat_id": "166035",
+      "mcat_name": "Temple Architect"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "222685",
+      "mcat_name": "Sandstone Temple"
+    },
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    }
+  ]
+}

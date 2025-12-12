@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668307372",
+  "gluser_id": "222393173",
+  "vintage_months": 12,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Parbatsar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644453",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Sir, baat karun IndiaMART se?\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Sir, baat karun IndiaMART se?\\nExecutive: Hello ji, baat ho rahi hai IndiaMART se. Haan ji, hello.\\nCustomer: Hello, hello. Sir, baat hui thi aapse na, abhi idhar aapne call disconnect kar diya tha, fir aapka feedback gaya hai.\\nCustomer: Mere ko baat hi nahi karne de rahe sir.\\nExecutive: Sir aap disconnect to karunga na mere ko baat hi nahi karne de rahe. Connect sahi karne ke liye to phone kar raha hu sir, aapka problem hai usse kuch.\\nCustomer: [inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to IndiaMART.\\n\n- Customer says the executive disconnected the call.\\n\n\\n\nResolution:\\n\n- Executive says he will disconnect if customer doesn't talk.\\n\n- Executive called to fix the connection.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- call disconnect, connection issue, feedback\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97b9027a-cd60-4f08-837b-18288e7f9acf",
+  "ucid": "97b9027a-cd60-4f08-837b-18288e7f9acf",
+  "seller_categories": [
+    {
+      "mcat_id": "11673",
+      "mcat_name": "Dolomite Powder"
+    },
+    {
+      "mcat_id": "9870",
+      "mcat_name": "Marble Powder"
+    },
+    {
+      "mcat_id": "5461",
+      "mcat_name": "Calcite Powder"
+    },
+    {
+      "mcat_id": "23078",
+      "mcat_name": "Calcium Carbonate Powder"
+    },
+    {
+      "mcat_id": "146576",
+      "mcat_name": "Granite Powder"
+    }
+  ]
+}

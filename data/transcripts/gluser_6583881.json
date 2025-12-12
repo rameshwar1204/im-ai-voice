@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668237360",
+  "gluser_id": "6583881",
+  "vintage_months": 50,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Hubballi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644089",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir woh meeting se aap left ho gaye the.\\nCustomer: Haan woh exit ho gaya tha pata nahi. Wapis rejoin karu?\\nExecutive: Haan haan rejoin karlo.\\nCustomer: Okay.\\n[unintelligible]\\n[unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer left the meeting.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to rejoin the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, rejoin\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 26,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2ec2d933-2aaa-4c64-aa61-a8c0876faf9f",
+  "ucid": "2ec2d933-2aaa-4c64-aa61-a8c0876faf9f",
+  "seller_categories": [
+    {
+      "mcat_id": "2152",
+      "mcat_name": "Polypropylene Rope"
+    },
+    {
+      "mcat_id": "2151",
+      "mcat_name": "Nylon Rope"
+    },
+    {
+      "mcat_id": "1519",
+      "mcat_name": "Plastic Ropes"
+    },
+    {
+      "mcat_id": "9068",
+      "mcat_name": "HDPE Ropes"
+    },
+    {
+      "mcat_id": "143669",
+      "mcat_name": "Nylon Polypropylene Rope"
+    }
+  ]
+}

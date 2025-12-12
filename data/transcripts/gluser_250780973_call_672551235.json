@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672551235",
+  "gluser_id": "250780973",
+  "vintage_months": 1,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Bharatpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683910",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan Gagan ji good evening sir.\\nCustomer: Haan sir bataiye.\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan Gagan ji Imran baat kar raha tha main senior manager India Mart se kaise hai sir aap?\\nCustomer: Haan bataiye sir.\\nExecutive: Sir voice aa rahi hai meri?\\nCustomer: Haan haan aawaz aa rahi hai bataiye aap.\\nExecutive: Haan ji Gagan sir main ye keh raha tha sir kal aapka discussion hua tha aapke account manager Avneesh ke sath hai na sir? To aapne not satisfied ka feedback diya tha sir offer to WhatsApp sir to wohi jaanna chah rahe the sir ki kya problem hai? Kya keh rahe ho aap? Aapne not satisfied ka feedback share kiya tha sir aapne.\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Aapki Gagan se baat hui hai sir?\\nExecutive: Aap sir Gagan ji baat kar rahe hai na? Nahi main Gagan ka papa bol raha hu sir.\\nCustomer: Haan ji haan ji namaste sir.\\nExecutive: Namaste sir. Aap aisa kar lijiye sir Gagan se baat kar lijiye aap. Sir actually na unhone ek number bhi diya tha 90 se unhone 5 baje ka time diya tha call respond nahi kar rahe the after that maine phir aapko call kiya. Chaliye main thodi der baad phir main unhi pe laga leta hu hai na? Haan usi number pe lagaiye actually kya ghar ka number diya hua hai usne aur main thoda bahar hu sir.\\nExecutive: Achcha chaliye theek hai main usi pe laga leta hu sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer gave not satisfied feedback.\\n\n- Executive wants to know the problem.\\n\n\\n\nResolution:\\n\n- Customer is Gagan's father.\\n\n- Executive will call Gagan on given number.\\n\n\\n\nNext Steps: \\n\n- Executive will call Gagan later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, call, account manager\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5dadc1ee-8b8a-43ba-9a87-636058ed4f35",
+  "ucid": "5dadc1ee-8b8a-43ba-9a87-636058ed4f35",
+  "seller_categories": [
+    {
+      "mcat_id": "160314",
+      "mcat_name": "Stainless Steel Circlips"
+    },
+    {
+      "mcat_id": "44766",
+      "mcat_name": "External Circlip"
+    },
+    {
+      "mcat_id": "44767",
+      "mcat_name": "Internal Circlips"
+    },
+    {
+      "mcat_id": "21010",
+      "mcat_name": "Circlips"
+    },
+    {
+      "mcat_id": "7758",
+      "mcat_name": "Spring Washer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673686279",
+  "gluser_id": "138605008",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696455",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Namaskar.\\nCustomer: Namaskar sir.\\nExecutive: Haan ji. Theek hai sir, namaskar Aniket baat kar raha tha sir main IndiaMART se.\\nCustomer: Boliye sir boliye.\\nExecutive: Sir, sir aapne concern raise kiya tha na video meeting ke liye sir.\\nCustomer: Haan ji, ye keh raha tha sir subah 6 baje time de sakte hain.\\nExecutive: Sir, hamari jo services hoti hai na, wo hum 9:30 se 6 baje tak ki rehti hai, theek hai?\\nCustomer: Haan.\\nExecutive: To aap 9:30 se 6 ke beech mein aap kabhi bhi free rahenge na sir, to aap ek time bata dijiyega 9:30 se 6 ke beech mein, hum aapko connect kar lenge Monday to Friday, theek hai?\\nCustomer: Achcha.\\nExecutive: Aap kabhi bhi free rahenge.\\nCustomer: To sir 9:30 baje hi kar lijiye.\\nExecutive: Kal?\\nCustomer: Kal haan.\\nExecutive: 9:30 se 10.\\nExecutive: Theek hai, theek hai sir, ek kaam karte hain, theek hai, agar kal dekhte hain agar hamara off nahi hua, to main aapko connect kar lunga sir 9:30 baje, theek hai? Hamara kal to Saturday hai na.\\nCustomer: Haan.\\nExecutive: Haan, actually sir hamara Saturday, Sunday bhi off rehta hai.\\nCustomer: Achcha achcha.\\nExecutive: To agar koi confirmation milta hai agar off rehta nahi to fir main aapko Monday hi 9:30 baje kar lunga, theek hai?\\nCustomer: Haan, Monday 9:30 baje kar lijiye.\\nExecutive: Theek hai, aap aapka jo ek concern hai sir fir main isko close kar deta hu jo aapne ticket raise kiya tha. Theek hai sir?\\nCustomer: Theek hai sir, theek hai, theek sir.\\nExecutive: Haan main isko close kar deta hu, aap ek mail aayega sir, theek hai, us pe aap response kar dijiyega, theek hai?\\nCustomer: Theek sir.\\nExecutive: Main aapko fir again basis pe 9:30 baje Monday ko connect kar lunga, main ek reminder laga dunga, theek hai?\\nCustomer: Okay sir, okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a video meeting at 6:00 AM.\\n\n\\n\nResolution:\\n\n- Executive clarified service hours are 9:30 AM to 6:00 PM.\\n\n- Meeting scheduled for Monday at 9:30 AM.\\n\n- Ticket will be closed and customer will receive a mail.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Monday at 9:30 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, monday\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 97,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d6654c2c-ca99-4e38-ae4e-b494ed754fed",
+  "ucid": "d6654c2c-ca99-4e38-ae4e-b494ed754fed",
+  "seller_categories": [
+    {
+      "mcat_id": "123850",
+      "mcat_name": "Brass Diya"
+    },
+    {
+      "mcat_id": "230194",
+      "mcat_name": "Brass Laddu Gopal Statue"
+    },
+    {
+      "mcat_id": "4662",
+      "mcat_name": "Brass God Statues"
+    },
+    {
+      "mcat_id": "23806",
+      "mcat_name": "Brass Statues"
+    },
+    {
+      "mcat_id": "64955",
+      "mcat_name": "Brass Decorative Items"
+    }
+  ]
+}

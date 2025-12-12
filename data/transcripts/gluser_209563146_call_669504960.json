@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669504960",
+  "gluser_id": "209563146",
+  "vintage_months": 13,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644183",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ritu madam?\\nCustomer: Sir link share kar do na.\\nExecutive: Ritu madam?\\nCustomer: Hello\\nExecutive: Ji madam.\\nCustomer: Sir link share karo na.\\nExecutive: Ha ha ha link share karenge aapko. Ha WhatsApp pe bhej dena. Ha ha aapki jo register mail id hai wo open kijiye.\\nCustomer: Register mail id pe mat bhejiye sir.\\nExecutive: Register mail id pe bhejiye. WhatsApp kar denge to better hoga na register mail id actually boss ke paas hai.\\nExecutive: To aapke paas jo available mail id hai. Wo le lijiye sahi hai to. Main WhatsApp kar do aapko. Just wait sir. Just wait.\\nCustomer: Aap bilkul WhatsApp kijiye mujhe.\\nCustomer: WhatsApp kiya ek second mein.\\nHmm.\\nCustomer: Kiya sir WhatsApp. Warming aisa.\\nCustomer: Ek second mein WhatsApp kar diya dekh lo.\\nExecutive: WhatsApp kar diya aapne? Ji ji.\\n\\nExecutive: Theek hai. Ji aapki mail id mil gayi.\\nCustomer: Bhej diya aapne?\\n\\nExecutive: Ha ha maine bhej diya. Outlook hai na sir thoda paanch minute dijiye na ho jayega.\\nCustomer: Ji. Outlook hai na sir outlook mein mail thoda time lagta hai sir jaise aata hai na joint hoti hu.\\nCustomer: Mujhe aise mail bhej dijiye hote main aapko inform karti hu sir.\\nExecutive: Theek hai.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested the executive to share link.\\n\n- Customer wants the link on WhatsApp, not email.\\n\n\\n\nResolution:\\n\n- Executive shared the link on WhatsApp.\\n\n- Executive confirmed receiving customer's email ID.\\n\n\\n\nNext Steps: \\n\n- Customer will inform the executive after joining.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, whatsapp, email, registered mail id\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2d2947b9-1c1f-42ee-9928-ef38ed5add13",
+  "ucid": "2d2947b9-1c1f-42ee-9928-ef38ed5add13",
+  "seller_categories": [
+    {
+      "mcat_id": "280391",
+      "mcat_name": "Pain Relief Patch"
+    },
+    {
+      "mcat_id": "30022",
+      "mcat_name": "Hand Warmer Pouch"
+    },
+    {
+      "mcat_id": "28879",
+      "mcat_name": "Foot Warmers"
+    },
+    {
+      "mcat_id": "31118",
+      "mcat_name": "Iron Powders"
+    },
+    {
+      "mcat_id": "30225",
+      "mcat_name": "Heating Pads"
+    }
+  ]
+}

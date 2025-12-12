@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676504969",
+  "gluser_id": "30707263",
+  "vintage_months": 0,
+  "bl_dau_oct": 7,
+  "customer_type": "FREELIST",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716329",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan?\\nExecutive: Abhishek ji Taruna baat kar rahi hu Patil sir IndiaMART head office se. Patil sir aapka ek ye call aaya tha subah morning mein ek baar 9696 ek ticket open hui thi aapki. Aapki baat ho gayi thi kal Vikas ji se bhi aapne abhi aaj CLM yes ka feedback ka bhi diya tha. To dobara call kiya tha sir koi problem aa raha tha? Ya by mistake?\\nCustomer: Nahi problem nahi hai, nahi.\\nExecutive: Nahi.\\nExecutive: Achcha to fir ticket open ho gaya tha na sir yahan se dobara se to main wohi check kar rahi thi. Aapne ticket open kiya tha lekin haan.\\nCustomer: Haan Vikas ji se baat kiya tha.\\nExecutive: Haan boliye boliye aap boliye. Boliye aap kya keh rahe hain? Ticket vagera kuch generate nahi kiya tha.\\nExecutive: Nahi nahi woh open nahi woh ho jata hai sir aapne 9696 pe call kiya hoga na. Aapko Vikas ne sir jisne kal aapse baat kiya tha na aapka sara cheeze solve kiya tha. Aapka aapne aaj feedback bhi diya tha yes karke usko. To aap ek baar na main ye ticket sir yahan se close kar rahi hu. Main isko aap please feedback de dijiyega woh yes ka hi. Baki main aapko na Vikas ke number se ek whatsapp kara rahi hu. Unka number directly. To agar aapko koi bhi baat karni ho na Patil sir to aap ek baar na us number pe directly phone kar lena unko. 9696 pe aap call karte ho na usse achcha directly apne account manager ko call karna na main Vikas ka number aapko whatsapp kara rahi hu Vikas ko bol ke, theek hai?\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai. Baki main isko band kar rahi hu sir ticket ko. Feedback ke liye fir dobara mail jayega to usko yes kar dijiyega sir, theek hai?\\nCustomer: Theek hai.\\nExecutive: Okay sir, okay. Thank you sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive inquired about the reason for the call.\\n\nResolution:\\n\n- Executive clarified the ticket opening issue.\\n\n- Executive offered to close the ticket.\\n\n- Executive offered to share Vikas's direct contact number.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on the ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, feedback, account manager, whatsapp\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4525fd92-1fd7-4bf8-aa28-b6b26849f954",
+  "ucid": "4525fd92-1fd7-4bf8-aa28-b6b26849f954",
+  "seller_categories": [
+    {
+      "mcat_id": "185038",
+      "mcat_name": "Sublimation Water Bottle"
+    },
+    {
+      "mcat_id": "105223",
+      "mcat_name": "Customizable Coffee Mug"
+    },
+    {
+      "mcat_id": "183894",
+      "mcat_name": "Sublimation Key Chain"
+    },
+    {
+      "mcat_id": "94820",
+      "mcat_name": "Customized Key Chain"
+    },
+    {
+      "mcat_id": "215928",
+      "mcat_name": "MDF Sublimation Keychain"
+    }
+  ]
+}

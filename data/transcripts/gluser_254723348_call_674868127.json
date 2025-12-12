@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674868127",
+  "gluser_id": "254723348",
+  "vintage_months": 0,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Ankleshwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707250",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan.\\nExecutive: Good morning sir.\\nCustomer: Good morning.\\nExecutive: Ji sir, IndiaMART se Abhishek baat kar raha hu.\\nCustomer: Boliye.\\nExecutive: Account manager, kaise hai sir?\\nCustomer: Haan?\\nExecutive: Kaise hai sir?\\nCustomer: Badhiya boliye.\\nExecutive: Sir, main aapka account manager baat kar raha hu IndiaMART se.\\nCustomer: Haan haan boliye.\\nExecutive: Sir, service ke regarding phone kiya, aapki service live ho gayi hai na sir?\\nCustomer: Kya?\\nExecutive: Aapki jo service live ho gayi hai na IndiaMART pe?\\nCustomer: Service?\\nExecutive: Haan, jo aapne service de rakhi hai IndiaMART pe.\\nCustomer: Haan.\\nExecutive: Haan, to uske regarding aapse baat karni hai, aapko mere end se video meet hoti hai, jisko hum welcome call bolte hain. To usme main aapko plan ke bare mein sara kuch batayenge kaise by listing karna hai.\\nCustomer: Main baru, abhi main baru, Somwar ko phone karun.\\nExecutive: Somwar ko sir?\\nCustomer: Haan.\\nExecutive: Sir, aapki service live ho gayi hai. Itna late nahi kar sakte. Kyunki mujhe pura demo dena, pura demo dena hota hai.\\nCustomer: Kya hai service use karne ka? Haan ji.\\nExecutive: Aapko dusra number deta hu us pe phone karo.\\nCustomer: Ah, theek hai, wo baat kar lenge sir.\\nExecutive: Okay, baat kar lenge.\\nExecutive: Aur sir, aapse kal ek concern raise ho gaya tha, video meet ka, by mistake, usko main close kar du?\\nCustomer: Kal aapki baat hui hogi Nitish se.\\nExecutive: Hmm, wo close kar do.\\nExecutive: Haan, sir, actually line par hiye kyunki concern dekhna padega. Isliye jab tak concern ke bare mein aapse pura detail nahi lenge tab tak concern ye close nahi hoga.\\nCustomer: [inaudible]\\nCustomer: Main aapko number deta hu, likho.\\nExecutive: Hmm hmm.\\nCustomer: 74878\\nExecutive: Ek second sir, ek second. Ah, seven\\nCustomer: Four.\\nExecutive: Four.\\nCustomer: 878\\nExecutive: 878\\nCustomer: 74\\nExecutive: 71\\nCustomer: 74 wapas.\\nExecutive: 74, 74\\nCustomer: 760\\nExecutive: 760. Ye kiska number hai sir?\\nCustomer: Janesh naam hai, 7487\\nExecutive: Hmm hmm.\\nCustomer: 87\\nExecutive: Ah, 4760\\nCustomer: 4760 haan, us pe call karo aapka ho jayega.\\nCustomer: Achha achha sir, okay, main baat karta hu ek baar.\\nExecutive: Haan.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to schedule call on Monday.\\n\n- Customer had a concern raised regarding video meet.\\n\n\\n\nResolution:\\n\n- Executive insisted on scheduling call sooner.\\n\n- Executive asked for details to close the concern.\\n\n- Executive provided another number for assistance.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- service, video meet, concern, schedule\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 156,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5b3c98e3-a88c-4ed7-a0bf-86809225ca94",
+  "ucid": "5b3c98e3-a88c-4ed7-a0bf-86809225ca94",
+  "seller_categories": [
+    {
+      "mcat_id": "41570",
+      "mcat_name": "Zinc Ash"
+    },
+    {
+      "mcat_id": "4057",
+      "mcat_name": "Copper Scrap"
+    },
+    {
+      "mcat_id": "41588",
+      "mcat_name": "Zinc Powders"
+    },
+    {
+      "mcat_id": "227398",
+      "mcat_name": "Glycerin Soap Base"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    }
+  ]
+}

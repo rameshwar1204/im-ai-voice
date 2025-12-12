@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670352592",
+  "gluser_id": "186794464",
+  "vintage_months": 18,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Rangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666805",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello? Hello?\\nExecutive: Haan main Anand bol raha hoon regarding Anand sports mein aapke yahan mein ek news mein aaya tha na aap logon ko pura UP repeated flooring ka milne wala hai. To mere ko check karna mere ko synthetic chahiye bolke bol diya na.\\nCustomer: Uh sir allow me some time we'll connect with your profile sir.\\nExecutive: Lead lead pura naya aana hai mere check mein.\\nCustomer: Anand sports.\\nCustomer: Sir within five minutes we'll call back to you sir.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to check regarding UP repeated flooring for Anand sports and requires synthetic flooring.\\n\n- Executive wants to check new leads.\\n\n\\n\nResolution:\\n\n- Executive will receive a call back within five minutes.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will receive a call back within five minutes.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Neutral\\n\n\\n\n@@@Key Topics:\\n\nflooring, synthetic, leads\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5e1521ac-69cf-41d0-8318-0dd7e1a32880",
+  "ucid": "5e1521ac-69cf-41d0-8318-0dd7e1a32880",
+  "seller_categories": [
+    {
+      "mcat_id": "192412",
+      "mcat_name": "EPDM Flooring"
+    },
+    {
+      "mcat_id": "101844",
+      "mcat_name": "Sports Floorings"
+    },
+    {
+      "mcat_id": "188825",
+      "mcat_name": "Synthetic Basketball Court"
+    },
+    {
+      "mcat_id": "22916",
+      "mcat_name": "Basketball Court Construction"
+    },
+    {
+      "mcat_id": "200118",
+      "mcat_name": "Kids Playground Flooring"
+    }
+  ]
+}

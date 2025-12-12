@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673181023",
+  "gluser_id": "22802321",
+  "vintage_months": 6,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691382",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji.\\nCustomer: Good morning sir, Utkarsh bol raha IndiaMART se.\\nExecutive: Ji.\\nExecutive: Ji sir, ek kal call disconnect ho gaya tha jo aapne na miski not satisfied diya tha sir, maine uske liye aapko call kiya hai.\\nCustomer: Koi baat nahi, ek minute aaj ek new hai mere, usko thoda samjhao ki kaise work karna hota hai isme.\\nExecutive: Ah kitne to abhi call pe hai wo baat karwaiye ji mere, baat karwaiye meri.\\nCustomer: Hello.\\nExecutive: Hello, ji sir namaskar.\\nCustomer: Namaskar sir.\\nExecutive: Ah actually mai IndiaMART se Utkarsh baat kar raha hu, mai aapko na thoda sa guide karunga IndiaMART matlab kaise aapko use karna hai.\\nCustomer: Okay.\\nExecutive: Dekhiye in dekhiye IndiaMART me kya hai na sir ki hamare paas me char sources hai business ke ek aapko jo sir ko direct call aati hai, thik hai?\\nCustomer: Ji.\\nExecutive: Aur dusri cheez direct inquiry aati hai.\\nExecutive: Aur teesri cheez bylead hoti hai, bylead.\\nExecutive: Bylead me kya hota hai?",
+  "summary": "\\n\nConcerns:\\n\n- Customer's previous call was disconnected.\\n\n- Wants executive to explain IndiaMART usage to new employee.\\n\n\\n\nResolution:\\n\n- Executive called regarding disconnected call.\\n\n- Executive started explaining how to use IndiaMART.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, buyleads, inquiry, calls\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0943d12c-d4db-466a-bc2f-1075a745824f",
+  "ucid": "0943d12c-d4db-466a-bc2f-1075a745824f",
+  "seller_categories": [
+    {
+      "mcat_id": "177511",
+      "mcat_name": "Brass Ganesha Statue"
+    },
+    {
+      "mcat_id": "123850",
+      "mcat_name": "Brass Diya"
+    },
+    {
+      "mcat_id": "4662",
+      "mcat_name": "Brass God Statues"
+    },
+    {
+      "mcat_id": "23806",
+      "mcat_name": "Brass Statues"
+    },
+    {
+      "mcat_id": "349962",
+      "mcat_name": "Dhokra Art"
+    }
+  ]
+}

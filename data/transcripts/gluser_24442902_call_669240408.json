@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669240408",
+  "gluser_id": "24442902",
+  "vintage_months": 109,
+  "bl_dau_oct": 23,
+  "customer_type": "STAR",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9659508",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, ha sir kaise hai?\\nCustomer: Hello, ha sir.\\nExecutive: Ha Lekhraj ji, mai Parvez Alam IndiaMART office se baat kar raha hu. Kaise hai sir aap?\\nCustomer: Badhiya sir.\\nExecutive: Okay. Abhi aapse baat hui thi Priyanshu Dev ki. Abhi jo service chal rahi hai IndiaMART pe, free service channel star ki, hai na? To iske regarding\\nExecutive: Aapki last baat hui thi pichle month me Dev Dev Mittal se baat hui thi IndiaMART pe.\\nCustomer: Hai na?\\nExecutive: Okay.\\nExecutive: To ji. To mere paas jo update aaya hai aapki taraf se, aah, inquiries and leads ko lekar.\\nCustomer: Ji.\\nExecutive: Ha boliye boliye.\\nExecutive: Ha. Mai keh raha hu ki abhi kaisa hai response, kis tarike se chala rahe hai IndiaMART? Sahi hai, okay hai?\\nCustomer: Sir mai thoda bahar hu sir. Baat karne ki position me nahi hu. Ek kaam kijiye aap 4 baje baat kijiye na ek baar.\\nExecutive: 4 baje?\\nCustomer: Ha, 4 baje baat kijiye na.\\nExecutive: Chalo mai 4 baje baat karta hu. Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asks about the response on IndiaMART.\\n\n- Customer is currently outside and unable to talk.\\n\n\\n\nResolution:\\n\n- Executive agreed to call back at 4 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will call back at 4 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, buyleads, subscription\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e253097-58c7-460c-890e-044b072cb9c3",
+  "ucid": "9e253097-58c7-460c-890e-044b072cb9c3",
+  "seller_categories": [
+    {
+      "mcat_id": "4378",
+      "mcat_name": "Bentonite Powder"
+    },
+    {
+      "mcat_id": "186820",
+      "mcat_name": "Bentonite Clay"
+    },
+    {
+      "mcat_id": "4376",
+      "mcat_name": "Bentonite"
+    },
+    {
+      "mcat_id": "9585",
+      "mcat_name": "Sodium Bentonite"
+    },
+    {
+      "mcat_id": "160980",
+      "mcat_name": "Bentonite Lump"
+    }
+  ]
+}

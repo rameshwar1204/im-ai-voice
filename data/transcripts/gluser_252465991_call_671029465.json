@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "671029465",
+  "gluser_id": "252465991",
+  "vintage_months": 2,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671146",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nCustomer: Hello?\\nExecutive: Hello.\\nCustomer: Good morning, sir.\\nExecutive: Haan, good morning.\\nCustomer: Ji sir, voice over baat kar raha hun, Surya naam hai mera.\\nExecutive: Haan, kal apni baat hui thi.\\nCustomer: Ji, ji, ji. Sir, aapki kal baat. Sir, is samay ko na network kam nahi rehta hai, to aap mere ko mere personal number pe lagaiye na, dusra number bhi update hai aapke paas. Aur sir ek paanch minute baad lagaiye, main just aaya hun, pooja kar raha hun. Paanch minute baad lagaiye.\\nCustomer: Achcha ji, 10 minute baad laga lunga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Network issues during call time.\\n\n- Request to call on personal number.\\n\n- Request to call after five minutes due to prayer.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after 10 minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, network, personal number, prayer\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c8d93d57-191d-4e81-ab0b-04a4c651547c",
+  "ucid": "c8d93d57-191d-4e81-ab0b-04a4c651547c",
+  "seller_categories": [
+    {
+      "mcat_id": "164615",
+      "mcat_name": "Desert Air Cooler"
+    },
+    {
+      "mcat_id": "138121",
+      "mcat_name": "Plastic Air Cooler"
+    },
+    {
+      "mcat_id": "21384",
+      "mcat_name": "Air Coolers"
+    }
+  ]
+}

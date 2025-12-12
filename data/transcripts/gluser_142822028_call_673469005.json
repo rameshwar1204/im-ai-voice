@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673469005",
+  "gluser_id": "142822028",
+  "vintage_months": 5,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Rudrapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699667",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, Riyaz sir main India Mart se Abdul baat kar raha hun sir, kaise ho sir?\\nCustomer: Badhiya sir badhiya. Hanji sir.\\nExecutive: Ji ji. Sir wo morning mein aap se maine meeting kiya tha video meet se. To jo aapka concern hai isko main close kar raha hun sir. Aapke pass verification ek mail jayegi. Uspe aap feedback de dijiyega sir. Thik hai?\\nCustomer: Abhi tak aaya nahi aayega to hum reply karenge. Ji abhi aaya nahi reply karunga.\\nExecutive: Ji ji abhi main close kar de raha hun. Baki aapka aur koi concern to nahi hai na sir abhi as of now?\\nCustomer: Nahi nahi nahi abhi filhal me koi concern nahi hai.\\nExecutive: Thik hai aap ye number save kar lijiye mere naam se aur ispe whatsapp bhi available hai. Ek number aur aapko diya hoga Riyaz ne. To aap ispe bhi connect kar sakte hain. Thik hai sir? Baki main abhi close kar raha hun.\\nCustomer: Ok ok.\\nExecutive: Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about the verification email.\\n\n\\n\nResolution:\\n\n- Executive informed that he is closing the concern.\\n- Executive informed about the verification email.\\n- Executive shared his WhatsApp number.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, email, whatsapp number\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1e48e9f9-19eb-45f5-855f-b894e07aaf16",
+  "ucid": "1e48e9f9-19eb-45f5-855f-b894e07aaf16",
+  "seller_categories": [
+    {
+      "mcat_id": "190991",
+      "mcat_name": "Air Conditioner Copper Pipe"
+    },
+    {
+      "mcat_id": "127560",
+      "mcat_name": "Shade Awnings"
+    },
+    {
+      "mcat_id": "20165",
+      "mcat_name": "Window Awning"
+    },
+    {
+      "mcat_id": "140004",
+      "mcat_name": "Air Conditioner Installation Services"
+    },
+    {
+      "mcat_id": "50671",
+      "mcat_name": "Air Conditioner Pipe"
+    }
+  ]
+}

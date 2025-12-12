@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673008799",
+  "gluser_id": "30629787",
+  "vintage_months": 22,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699774",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Haan ji. Haan ji sir, kaise hain aap?\\nCustomer: Badhiya hai sir.\\nExecutive: Haan sir, Manish bol raha tha aapka account manage IndiaMART se. Haan ji bolo ji.\\nCustomer: Haan ji sir, fir aapne jo unse baat kiya tha kya jo aapka 1.5 lakh rupya fasa hua hai?\\nCustomer: Nahi unhone wo sir bolte dekhta hu dekhta hu ye aur iske alawa kuch nahi bolta wo.\\nExecutive: Accha sir isliye IndiaMART interfere nahi kar sakta kyuki aapke jo bhi baat hui thi na buyer se aapka 1.5 lakh fasa hua hai. To aapki unki starting mein kya baat hui thi to aapka rupya fas gaya sir?\\nCustomer: Usme aise bola ki jo bill ke jo bina bill ke paise hain. Haan.\\nCustomer: Wo to main pehle de dunga bill ke paise aapko baad mein dunga.\\nExecutive: Haan to sir aapko IndiaMART isme interfere nahi karta actually sir. Aapko baat karna padega unse matlab rupya aapka jo fasa hua hai.\\nCustomer: Accha ji to fir kaise ho?\\nExecutive: Nahi aap unse baat kare sir kya dikkat hai uske baad kyuki IndiaMART isme interfere nahi karta ki aapka rupya jo fasa kyuki aapki jo baat hui hogi mal dene se pehle aapke beech aur supplier ke beech maine baat kiya tha ispe hai na sir. Haan apni senior manager se unhone mana kar diya isme kyuki buyer supplier ka jo beech baat hui hai sir is vajah se agar IndiaMART isme agar aap se payment le sakta to aap se bol sakte the lekin isme kya hai payment aapka apne buyer ke paas fasa hua hai na sir. Haan.\\nCustomer: Haan is vajah se isme IndiaMART interfere nahi karta sir. Hai na?\\nExecutive: Haan to jo aapki aapki sir abhi complaint aayi hai isko main close kar du sir abhi?\\nCustomer: Nahi use ek baar aur dal do complaint agar uske hisab se wo kar deta to theek hai.\\nExecutive: Accha accha to abhi ek baar main abhi apni mam se bhi aapko connect karwata hu unse ek baar aap aur apni dikkat batana theek hai sir?\\nCustomer: Theek hai ji. Haan haan.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's 1.5 lakh rupees are stuck with buyer.\\n\nResolution:\\n\n- Executive stated IndiaMART cannot interfere in this matter.\\n\n- Executive offered to connect customer with their manager.\\n\nNext Steps: \\n\n- Executive will connect customer with their manager.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, payment, stuck amount, complaint\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 127,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f496184-b770-4c15-bc07-eb24dffb6e98",
+  "ucid": "5f496184-b770-4c15-bc07-eb24dffb6e98",
+  "seller_categories": [
+    {
+      "mcat_id": "1021",
+      "mcat_name": "Stone Pillars"
+    },
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "216789",
+      "mcat_name": "Sandstone Jali"
+    },
+    {
+      "mcat_id": "8004",
+      "mcat_name": "Stone Grills"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    }
+  ]
+}

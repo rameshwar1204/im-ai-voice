@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673965064",
+  "gluser_id": "49644284",
+  "vintage_months": 93,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Sikar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696345",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji, hai.\\nCustomer: Namaste. Sir, bataiye.\\nExecutive: Very good evening sir. Main Naveen baat kar raha tha actually IndiaMART.com se. Creation. Sir, number bataya nahi raha. Subah madam ko number bataya tha. Us number pe baat karni padegi aapko.\\nCustomer: Madam ka number? Dosto, pehla number jo aapka hai sir, wo shayad uth nahi raha tha. Subah se main ja raha hu.\\nExecutive: Ha, to wo kaam se lag raha hoga. Lekin kaam sara wo dekhte hain. Main kuch nahi dekhta.\\nCustomer: Aap IndiaMART nahi dekhte hain?\\nExecutive: Main nahi dekhta na sir. Main se matlab baat karne se fayda kya hoga fir?\\nExecutive: Samajh gaya hu sir. To unse kaise baat ho payegi sir? Kyunki shayad wo phone. Are wo number de rakha hai. Wo ek hi number hai unka baat karne ka.\\nExecutive: Achcha achcha. Theek hai. Main samajh gaya sir. Main try karunga main baad me.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to connect with Madam on provided number.\\n\n\\n\nResolution:\\n\n- Executive confirmed only one number available for contact.\\n\n\\n\nNext Steps: \\n\n- Customer will try contacting Madam later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- contact, number, indiaMART\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9782c209-e454-4ecd-b2a7-d2f1d5bef1ab",
+  "ucid": "9782c209-e454-4ecd-b2a7-d2f1d5bef1ab",
+  "seller_categories": [
+    {
+      "mcat_id": "4230",
+      "mcat_name": "Bandhani Saree"
+    },
+    {
+      "mcat_id": "178043",
+      "mcat_name": "Bandhani Dupatta"
+    },
+    {
+      "mcat_id": "188239",
+      "mcat_name": "Bandhani Silk Saree"
+    },
+    {
+      "mcat_id": "208177",
+      "mcat_name": "Banarasi Silk Dupatta"
+    },
+    {
+      "mcat_id": "44210",
+      "mcat_name": "Cotton Dupatta"
+    }
+  ]
+}

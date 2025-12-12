@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668382420",
+  "gluser_id": "183450335",
+  "vintage_months": 32,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello? Haan madam.\\nCustomer: Yeah hi sir, meri good morning, main Shreya baat kar rahi hu IndiaMART se.\\nCustomer: Nahi, main aadhe ghante baad call karo na, aadhe ghante baad.\\nExecutive: Sir, do minute se. Main aadhe ghante baad call karo na, please main bol raha hu aap kaam mein, aap samajh kyu nahi rahe ho ek baat kar rahe ho.\\nCustomer: Okay sir, aapne kuch\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive calling from IndiaMART.\\n\n- Customer wants to be called after half an hour.\\n\n\\n\nResolution:\\n\n- Executive asked for two minutes.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Annoyed\\n\n\\n\n@@@Key Topics:\\n\n- call, indiaMART, time\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6b8ad64e-f988-4835-bc5c-ea3721a4e4f6",
+  "ucid": "6b8ad64e-f988-4835-bc5c-ea3721a4e4f6",
+  "seller_categories": [
+    {
+      "mcat_id": "129909",
+      "mcat_name": "USB Smart Token"
+    },
+    {
+      "mcat_id": "445844",
+      "mcat_name": "Tally Prime Software"
+    },
+    {
+      "mcat_id": "140808",
+      "mcat_name": "Tally Software"
+    },
+    {
+      "mcat_id": "173934",
+      "mcat_name": "Digital Signature Certification"
+    },
+    {
+      "mcat_id": "185210",
+      "mcat_name": "Tally ERP 9 Software"
+    }
+  ]
+}

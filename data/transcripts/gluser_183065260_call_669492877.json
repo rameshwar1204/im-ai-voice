@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669492877",
+  "gluser_id": "183065260",
+  "vintage_months": 14,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656612",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan sir, IndiaMART se bol raha hu sir.\\nCustomer: Hello, IndiaMART se bol raha hu sir. Sir wo keh rahe the ki aapne call kiya tha sir pichhe mein refund ke liye. To humne aapko update kar diya tha sir ki ye jo hai na refund process mein hai isme 15 days ka time lagega sir. To isliye ye aapka refund ho jayega already humne aapko pehle bhi call kar diya hai sir, thik hai? Baki mera jo aapke paas number hai aap usse bhi direct connect kar sakte hai usse bhi further mein aapko information de dunga.\\nCustomer: Hmm hmm.\\nExecutive: To baki mein aapka sanction close kar du sir?\\nCustomer: Haan haan koi baat nahi thoda mistake ho gaya iske liye.\\nExecutive: Jo aapne.\\nCustomer: Achha achha mistake mein call kar diya tha.\\nExecutive: Thik hai koi issue nahi mein isko jo hai na sir close kar raha hu sir ek feedback jayega aapke paas wo feedback de dijiyega, thik hai?\\nCustomer: Feedback IndiaMART se aayega?\\nExecutive: Ji ji sir. Wo wo mail pe aayega aapke aap mail pe de dijiyega.\\nCustomer: Okay okay, thik hai baki aap humse direct connect kar lijiyega sir aapka already hum aapse baat bhi kar rahe hai direct. Mera number bhi aapke paas hoga aap direct mujhse connect kar sakte hai, thik hai sir?\\nCustomer: Thik hai thik hai sir, thik hai.\\nExecutive: Thank you so much sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund status.\\n\n\\n\nResolution:\\n\n- Executive informed about 15 days refund process.\\n\n- Executive offered direct contact for further information.\\n\n\\n\nNext Steps: \\n\n- Executive to close the sanction.\\n\n- Customer to provide feedback via email.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, process, feedback, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=25b39a24-e9bb-4f55-9418-6baf8c2ff163",
+  "ucid": "25b39a24-e9bb-4f55-9418-6baf8c2ff163",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "224523",
+      "mcat_name": "Seven Chakra Tree"
+    }
+  ]
+}

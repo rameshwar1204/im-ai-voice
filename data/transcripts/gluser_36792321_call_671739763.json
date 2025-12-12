@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671739763",
+  "gluser_id": "36792321",
+  "vintage_months": 54,
+  "bl_dau_oct": 7,
+  "customer_type": "STAR",
+  "city_name": "Boisar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9719300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello.\\nHello? Uh yes sir, main Riya bol rahi hu, Namma head office se.\\nKya hua?\\nSir, hello, aawaz aa rahi hai?\\nJi ji madam, boliye na.\\nUh sir, main Riya bol rahi hu Namma head office se, woh humari baat hui thi na, ek haan ji, toh aapke regarding kya planning thi aapne?\\nActually aaj Sunday hai, off rehta hai na madam, Monday ko baat karenge iske.\\nKitne baje call kar loon main Monday ko phir?\\nMonday uh\\n11 o'clock.\\nOkay sir, okay. Yes sir, okay, thank you.\\nThank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Planning regarding something discussed previously.\\n\n\\n\nResolution:\\n\n- Agreed to discuss on Monday at 11 o'clock.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Follow-up call scheduled for Monday at 11 o'clock.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfollow up, call scheduling\\n\n\\n",
+  "call_entered_on": "11/16/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2da0fa03-553f-4660-8552-5b3f0af03577",
+  "ucid": "2da0fa03-553f-4660-8552-5b3f0af03577",
+  "seller_categories": [
+    {
+      "mcat_id": "136164",
+      "mcat_name": "Soil Testing Services"
+    },
+    {
+      "mcat_id": "110037",
+      "mcat_name": "Environmental Clearance Service"
+    },
+    {
+      "mcat_id": "102126",
+      "mcat_name": "Water Treatment Services"
+    },
+    {
+      "mcat_id": "78482",
+      "mcat_name": "Laboratory Testing Services"
+    },
+    {
+      "mcat_id": "135964",
+      "mcat_name": "Drinking Water Analysis"
+    }
+  ]
+}

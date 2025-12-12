@@ -1,0 +1,20 @@
+{
+  "click_to_call_id": "667171552",
+  "gluser_id": "2088402",
+  "vintage_months": 0,
+  "bl_dau_oct": 0,
+  "customer_type": "qgFCP with PNS",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9633017",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes.\\nExecutive: Good morning sir, mai Smriti baat kar rahi hu Indiamart se.\\nCustomer: Haan ji.\\nExecutive: Sir Indiamart.\\nCustomer: Ji boliye.\\nExecutive: Haan ji sir, sir jaanna chahte the sir aapki call aayi thi sir like jaanna chahte the sir kya concern hai aapka?\\nCustomer: Ji madam.\\nExecutive: Sir kal aapki call aayi thi sir, jaanna chahte the kya concern hai sir aapka?\\nCustomer: Ji madam, abhi mai dekhta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to know customer's concern.\\n\n\\n\nResolution:\\n\n- Customer said he will check.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- indiamart, concerns, call\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f22715fe-1272-4ca6-a43f-0d36dfae8f00",
+  "ucid": "f22715fe-1272-4ca6-a43f-0d36dfae8f00"
+}

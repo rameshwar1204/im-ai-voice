@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675163292",
+  "gluser_id": "50380563",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711426",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello, aawaz aa rahi hai sir?\\nHaan.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Aawaz aa rahi hai sir?\\n\n\\n\nResolution:\\n\n- Haan.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\naawaz\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f6090c76-b8c5-4450-8af8-ebc1cbaf19d9",
+  "ucid": "f6090c76-b8c5-4450-8af8-ebc1cbaf19d9",
+  "seller_categories": [
+    {
+      "mcat_id": "41580",
+      "mcat_name": "Zinc Ingots"
+    },
+    {
+      "mcat_id": "21753",
+      "mcat_name": "Aluminium Ingots"
+    },
+    {
+      "mcat_id": "4838",
+      "mcat_name": "Antimony Trioxide"
+    },
+    {
+      "mcat_id": "21039",
+      "mcat_name": "Tin Ingots"
+    },
+    {
+      "mcat_id": "25107",
+      "mcat_name": "Cobalt Powders"
+    }
+  ]
+}

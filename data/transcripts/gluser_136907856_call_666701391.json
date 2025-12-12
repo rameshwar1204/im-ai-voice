@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666701391",
+  "gluser_id": "136907856",
+  "vintage_months": 26,
+  "bl_dau_oct": 11,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9628285",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Ji madam.\\nExecutive: Ji good morning. Hello\\nCustomer: Good morning madam, the creative decor se bol raha hun ga.\\nExecutive: Ji ji ji.\\nCustomer: Bata sakta hun mere website mein kya hua hai ye.\\n\\nHello\\nExecutive: Ji ji website mein kya hua hai matlab?\\nCustomer: Matlab jo bhi lead consume kar raha hun na.\\nExecutive: Hmm hmm.\\nCustomer: Something error to unable your process your request aa raha hai likha hua.\\n\\nCustomer: Jaise abhi aur buylead bhi seven nahi dikha raha hai khali.\\nExecutive: Aapki service block ho gayi hogi fir buyer supplier conflict ki vajah se main check karke batati hun aapko yaar hum logo ka na Saturday Sunday off hota hai.\\nCustomer: To is vajah se main aapko want to ref due to an accepted\\nCustomer: Error we are unable to process your request.\\nExecutive: Ek second.\\nExecutive: Faridabad?\\nCustomer: Ji.\\nExecutive: Saharanpur hai na aapka?\\nCustomer: Ji.\\nExecutive: Ek minute ruk jaiye aap.\\n\\nExecutive: Buyer supplier conflict ki vajah se na services aapki ha buyer supplier conflict defaulter show kar raha hai.\\nExecutive: Is vajah se nahi aa raha.\\nCustomer: Kya hua defaulter?\\nExecutive: Aapka kisi client ke sath hua hai na aap log ka dispute ek minute rukiye zara client ke sath hua hai kis client ke sath hua hai wo aapne wo hi nahi diya main payment karne wala tha unko product is not delivered aapko bola tha detail de dijiye unka.\\nExecutive: Isme likh ke aa raha hai product is not delivered and seller is not responding.\\nCustomer: Kahan sir? Kaun hai buyer?\\n\\nExecutive: Aap call pe rahiye main aapko details check karke bhejti hun.\\nExecutive: Ek minute. Nivan decor karke hai koi company Chennai ki?\\nCustomer: To usko to payment bhi ho gaya uska.\\nExecutive: Iska payment ho gaya hai?\\nCustomer: Ha.\\nExecutive: Aap mujhe uska screenshot bhejiye fir payment ka details vagaira jo bhi hua hai to main inko bhej ke close karwaun na.\\nCustomer: Bhej raha hun.\\nExecutive: But ye hoga to ab kal hi close hoga sir.\\nCustomer: Nahi wo to ho jayega actually kya tha aap mujhe wo detail mang rahe the na.\\nExecutive: Hmm.\\nCustomer: Wo kya bole wo KYC detail.\\nExecutive: Ha KYC detail to mera karkhana hai na ye hmm hmm yahan pe registered hai wahan pe na ye kya bolte hain light nahi hai.\\nExecutive: Hello. Accha ha suniye. Ha light bill exist nahi ho payega.\\nExecutive: Okay light bill koi baat nahi itna hi documents ek bar main share karke dekhti hun unka jo bhi revert aata hai to main aapko batati hun aur iski jo aapne payment kari na iska payment detail aap mujhe dijiye apni concern team ki issue resolve ho gaya hai aur jo nivan decor karke company hai na usse baat karke boliye ek minute unse baat karke boliye ki aapne aapka humne payment kar diya hai aap again India mart wal jahan se jahan pe aapne complaint kari thi aap unko ye cheez inform kar dijiye ki hamara issue resolve ho gaya hai.\\nExecutive: Theek hai?\\nCustomer: Ji.\\nExecutive: Ha to unse baat karke ek bar boliye screenshot bhej raha hun. Ha mujhe uska payment ka detail bhejo.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's website showing error while consuming leads.\\n\n- Buyleads are not being displayed.\\n\n- Customer's services are blocked.\\n\n\\n\nResolution:\\n\n- Executive informed about buyer-supplier conflict.\\n\n- Executive asked for payment details and screenshots.\\n\n- Executive advised to contact Nivan Decor.\\n\n\\n\nNext Steps: \\n\n- Customer will send payment details and screenshots.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, website error, payment, buyer supplier conflict\\n\n\\n",
+  "call_entered_on": "11/2/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 255,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0e302e6b-8abe-4988-859c-0a088a1638bc",
+  "ucid": "0e302e6b-8abe-4988-859c-0a088a1638bc",
+  "seller_categories": [
+    {
+      "mcat_id": "126640",
+      "mcat_name": "Wedding Stage"
+    },
+    {
+      "mcat_id": "126638",
+      "mcat_name": "Wedding Gate"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    },
+    {
+      "mcat_id": "183519",
+      "mcat_name": "Fiber Mandaps"
+    },
+    {
+      "mcat_id": "133074",
+      "mcat_name": "FRP Pillar"
+    }
+  ]
+}

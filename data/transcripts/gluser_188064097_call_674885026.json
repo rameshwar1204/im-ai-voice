@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674885026",
+  "gluser_id": "188064097",
+  "vintage_months": 30,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669354",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello haji\\nExecutive: haji good morning sir kaise ho\\nCustomer: haji boliye hello\\nExecutive: ha komal prasad ji pande baat kar raha hu ha india mart se hello haji\\nCustomer: sir aapka tension resolve hua hai ki nahi\\nExecutive: okay kitne product add ho gaye the abhi tak total 199\\nCustomer: aur muradabad wali me kitne\\nCustomer: muradabad wali me ek second rukiye\\nCustomer: 300\\nExecutive: kaise hua hello ha hello\\nCustomer: kaise hua haji bataiye 300 hua\\nExecutive: 300 muradabad wali me aur apni wali me kitne add hue total\\nExecutive: total 199\\nExecutive: 199 to kaise kaise same hui\\nCustomer: aap bataiye sir aap bataiye add karu ya fir kya karu mai product apne taraf se add karu\\nExecutive: jo usme jo product add hai na bhaiya muradabad wali catalog same\\nExecutive: simple sir simple si sidhi sadhi chij hai wahi chij utha ke aapko wahi chij karni hai\\nCustomer: ha hmm muradabad wali ki sari aapki photos isme add kar deni hai na hmm\\nExecutive: thik hai aur like uska wo ho gaya description wagera ho gaya ya fir wo sari chije wo kahan se utha sakte hai\\nCustomer: udhar se uthao na udhar se uthao specification bhi udhar se utha lo india mart se\\nCustomer: hmm hmm to aap bol rahe the sir hum apne like kisi ladke ko diye hai karne ke liye wo bhi to aap bol rahe the\\nExecutive: kya keh rahe ho sir aap apne ladke ko kisi ko diye kya ye catalog design karne ke liye aap product add karne ke liye\\nCustomer: are wo to secondary option hai wo to wo to wo to secondary option hai wo to mai apne ladke se bhi karwa lunga koi dikkat nahi hai but aapka jo hai jo\\nExecutive: nahi sir last time baat hui thi aap dekhiye sir ha aap dekhiye sir abhi jo upar jo bhi to hai na abhi jo upar jo hai na aapke unko boliye mai call kar lenge mai unpe conference me baat karke mai nipta hu kya hai ye\\nCustomer: hai na achcha last time kya baat hui thi unko pata hai unko puch lijiye\\nExecutive: ha unhone bataya tha product images add karne ke liye thik hai mai add kar dunga images thik hai 300 hai 300 add kar dunga 199 add hai already hai but please\\nCustomer: ab jo bhi add karunga usko delete mat karwana kyuki pichli bar 188 maine kar diya tha fir aapne usko delete karwa diya agar usko bhi score nahi jayega agar har kuch aap add kar doge to aisa nahi chalega na wo chij to proper uski photos honi chahiye specification honi chahiye sab chije proper honi chahiye uski\\nExecutive: hmm score kaise jayega mera catalog to down jayega na fir\\nExecutive: to sir score to dhire dhire hum sari chije kar denge na usme aisa nahi hai ki nahi kar denge aap bich me rok diye to nahi ho jata hai\\nCustomer: aap to mere ko bhaiya clean karke do wo same to same chij karke do bas fir baat karna mere se\\nExecutive: yes sir to ek ticket ka kya karenge aap bataiye\\nCustomer: do fir hi baat karna mere se aap\\nExecutive: kispe\\nCustomer: hello bhaiya wo same karke do mere ko fir hi baat karna aap mere se abhi hua hi nahi hai kam aap keh rahe ho ho gaya to jab ho jaye fir aap mere ko boliyega hai na\\nExecutive: thik hai koi dikkat nahi hai mai dekh",
+  "summary": "\\n\nConcerns:\\n\n- Wants the catalog to be cleaned.\\n\n- Wants the same products as Moradabad catalog.\\n\n- Do not delete products after adding.\\n\n\\n\nResolution:\\n\n- Executive asked about the number of products added.\\n\n- Executive explained how to add products.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- catalog, products, images, delete\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 241,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fcac22af-d5e8-419a-8751-c81e9fd87382",
+  "ucid": "fcac22af-d5e8-419a-8751-c81e9fd87382",
+  "seller_categories": [
+    {
+      "mcat_id": "148667",
+      "mcat_name": "Cake Display Counter"
+    },
+    {
+      "mcat_id": "215208",
+      "mcat_name": "Western Deep Freezer"
+    },
+    {
+      "mcat_id": "179089",
+      "mcat_name": "Four Door Vertical Refrigerator"
+    },
+    {
+      "mcat_id": "221228",
+      "mcat_name": "Western Visi Cooler"
+    },
+    {
+      "mcat_id": "89573",
+      "mcat_name": "Under Counter Refrigerator"
+    }
+  ]
+}

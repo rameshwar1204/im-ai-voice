@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670630853",
+  "gluser_id": "22121233",
+  "vintage_months": 37,
+  "bl_dau_oct": 4,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rewari",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669225",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Ji namaskar sir.\\nExecutive: Haan ji namaskar.\\nCustomer: Hello.\\nExecutive: Ji Mohit baat kar raha hun sir India Mart se aapka account manager service ke regarding.\\nCustomer: Haan service ke regarding connect kiya tha darasal meri baat abhi jo aapke secondary number the na number hai na yahan pe Kamal naam hai kya naam hai unka.\\nExecutive: Rahul se baat ki kal.\\nCustomer: Haan abhi unse meri just baat hui thi unhone discuss kiya tha mere se secondary apna number yahan se hatane ke liye to unki ek aur koi company hai Song Fun India Private Limited karke theek hai to usme unka number ye add tha sir.\\nExecutive: Theek hai to unke regarding haan.\\nCustomer: Bataiye.\\nExecutive: To kaun sa kya naam se hai.\\nCustomer: Song Fun ye hai aap unka Song Fun Technology India Private Limited.\\nExecutive: Achcha ji.\\nCustomer: Haan to ye unka secondary number is company mein bhi laga hua hai aur aapke yahan pe bhi laga hua tha theek hai to unhone aapke yahan se mobile number hatane ke liye India Mart pe concern matlab ek complaint raise kiya tha sir.\\nExecutive: Achcha.\\nCustomer: Haan to unhone abhi kya hai apna number aapki GK Enterprises se hata liya hai theek hai to abhi haan to abhi aap mere ko ye bataye kyunki concern jo raise hua tha wo GK Enterprises pe hua tha to abhi main is concern ko sir close kara du.\\nExecutive: Bhai unse baat kar lete hain.\\nCustomer: Haan ek baar aap unse baat kar lijiyega sir please again please mera call pick kar lijiyega theek hai sir.\\nExecutive: Theek hai.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to remove secondary number from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive informed that number has been removed.\\n\n\\n\nNext Steps: \\n\n- Customer will confirm after talking to concerned person.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- secondary number, removal, complaint\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f808e92e-cf4d-472d-8279-631c67c21b0a",
+  "ucid": "f808e92e-cf4d-472d-8279-631c67c21b0a",
+  "seller_categories": [
+    {
+      "mcat_id": "21039",
+      "mcat_name": "Tin Ingots"
+    },
+    {
+      "mcat_id": "148316",
+      "mcat_name": "Metal Dross"
+    },
+    {
+      "mcat_id": "126816",
+      "mcat_name": "Lead Free Solder Wire"
+    },
+    {
+      "mcat_id": "7644",
+      "mcat_name": "Soldering Pastes"
+    },
+    {
+      "mcat_id": "126853",
+      "mcat_name": "Solder Ingot"
+    }
+  ]
+}

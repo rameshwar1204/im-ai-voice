@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671560701",
+  "gluser_id": "86533302",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Patiala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672736",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji?\\nExecutive: Haan ji sir, good afternoon.\\nCustomer: Haan ji?\\nExecutive: Sir, Vibha Singh baat kar rahi hu IndiaMART se.\\nCustomer: Haan, bataye ji.\\nExecutive: Haan ji sir, video mai ek link bhej rahi hu. Aap join kar lijiye, fir jo aapko problem hai, woh discuss kar lete hai.\\nCustomer: Hmm. Bhejo madam. Kya link bhejna hai aapne?\\nExecutive: Haan, mai link bhej rahi hu. Aapke mail ID pe gaya hoga, check kar lena sir.\\nCustomer: Check karo sir, maine bhej diya hai. Ek minute ruko, dusra phone mai khol lu.\\nExecutive: Haan, open kar lijiye, ek minute.\\nCustomer: Vibha Singh.\\nExecutive: Yes sir.\\nCustomer: Haan ji sir, ho gaya hai. Toh us wale phone mein aawaz aa rahi hai? Yeh aapne dusre phone se connect kiya hai?\\nCustomer: Dusre phone se.\\nExecutive: Toh abhi yaha se call hum cut kar dete hai aur jo aapka usse aawaz aayega, jo aap dusre phone se. Woh koi chalne do na. Call se jyada proper aawaz aayegi usme. Shayad headphone wagera lagane padenge na. Mai bahar baitha tha, bataye.\\nExecutive: Are, acha, theek hai, koi dikkat nahi hai. Fir aap mujhe bataye, aap ek baar screen share kar lijiye apna aur kya problem hai, aaiye aap mujhe bata dijiye.\\nCustomer: Abhi share nahi screen? Ek minute madam. \\nExecutive: Nahi, abhi nahi hua.\\nCustomer: Kaha se hogi bhai yeh screen share?\\nExecutive: Aap three dot pe jaaiye ek baar. Wahi three dot pe jaaiye aap.\\nCustomer: Haan, wahi click kiya three dot pe.\\nExecutive: Hmm, dekhiye fir option dega. Audio, video.\\nCustomer: Nahi, nahi, nahi, chhote mote nahi.\\nExecutive: Haan ji sir, ho gaya hai.\\nExecutive: Aap IndiaMART app open kar lijiye.\\nCustomer: Hello?\\nExecutive: Sir, aawaz aa rahi hai meri aapko?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing some issue.\\n\n\\n\nResolution:\\n\n- Executive sent a video call link.\\n\n- Executive is assisting with screen sharing.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved.\\n\n- Executive is waiting for customer to share screen.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- screen sharing, video call, app\\n\n\\n",
+  "call_entered_on": "11/15/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 208,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b8678707-bbf7-4551-98d1-a4c56edaa52f",
+  "ucid": "b8678707-bbf7-4551-98d1-a4c56edaa52f",
+  "seller_categories": [
+    {
+      "mcat_id": "143598",
+      "mcat_name": "RCC Garden Bench"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    }
+  ]
+}

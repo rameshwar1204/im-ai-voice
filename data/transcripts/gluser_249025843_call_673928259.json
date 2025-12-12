@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673928259",
+  "gluser_id": "249025843",
+  "vintage_months": 4,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ganaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9699556",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji, se baat kar rahe hain?\\nCustomer: Nahi, bolo.\\nExecutive: Sir, Platina Cables Private Limited se baat ho rahi hai?\\nCustomer: Haan, haan, haan, haan, bolo.\\nExecutive: Ji, sir, actually mein ek mail receive hua hai hame aapki side se services ko leke. Usme koi mail vagarah. Ek minute ruko, ek minute ruko. 79 38 56. Haan ji, ab bolo.\\nExecutive: Ji, main keh raha tha sir, ek mail receive hua tha abhi aapki side se info@platinacables.com se ki kuch aapko email access karne mein kuch problems vagarah aa rahi hai?\\nCustomer: Hain?\\nExecutive: Ji, sir.\\n\\nCustomer: Hello?\\nExecutive: Haan ji, sir.\\n\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues accessing email.\\n\n\\n\nResolution:\\n\n- Executive inquired about email access issues.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- email access, services, mail\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e610cfd-0648-45a8-97c1-6281253ea8e6",
+  "ucid": "9e610cfd-0648-45a8-97c1-6281253ea8e6",
+  "seller_categories": [
+    {
+      "mcat_id": "122569",
+      "mcat_name": "Aerial Bunched Cable"
+    },
+    {
+      "mcat_id": "154255",
+      "mcat_name": "EPR Cable"
+    },
+    {
+      "mcat_id": "193867",
+      "mcat_name": "Polycab Armoured Cable"
+    },
+    {
+      "mcat_id": "150366",
+      "mcat_name": "PVC Insulated Armoured Cable"
+    },
+    {
+      "mcat_id": "150067",
+      "mcat_name": "Copper Armoured Cable"
+    }
+  ]
+}

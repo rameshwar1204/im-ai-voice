@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670118241",
+  "gluser_id": "255490243",
+  "vintage_months": 0,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651012",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan, Ektaaz sir, good morning, Rahul bol raha hu IndiaMART se.\\nCustomer: Bahar gaya sir.\\nExecutive: Bola tha free hoke mujhe call kariye, mujhe call kariye free hoke, aawaz nahi aa rahi aapki.\\nCustomer: Haan karo.\\nExecutive: Hmm?\\nCustomer: Koi baat hai boliye na sir.\\nExecutive: Nahi, mai bol raha tha ki ye apna jo aapne pucha tha na kal ki refund ka, to sir process me ho jayega aapka, thik hai?\\nCustomer: Achha achha, ho jayega na?\\nExecutive: Haan, ho jayega. Aur mai puchhna tha apni koi matlab Bengaluru ki local ki koi GST wagera hai apni?\\nCustomer: Haan sir, Bengaluru ka GST hum change karwa lenge, char din ka time bola jise ye kya bolte hai, CO.\\nExecutive: Haan.\\nCustomer: CO, CA bolte hai na usko?\\nExecutive: Hmm.\\nCustomer: To wo bola ki aap agreement banwa lo yaha ka, to agreement banwa lenge na, to ho jayega din me. Matlab 10-15 din.\\nExecutive: Ek kaam karo waha ka na, agar kisi ka ho to usse karwa lo ya fir apna change karwa lijiye, hai na, koi dusri GST nahi hoti. Matlab ki nahi jayega.\\nCustomer: Haan, dono me se koi karwa lenge.\\nExecutive: Kisi ka ho to bata dijiyega, waha ka GST kar denge na to fir aapke waha ki local ke hi rahegi, thik hai sir?\\nCustomer: Ji ji sir, okay okay, haan, baki isko mai karwa raha, thik hai sir.\\nExecutive: Thik hai okay sir okay.\\nCustomer: Okay.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about the refund status.\\n\n- Customer asked about changing Bengaluru GST.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund is in process.\\n\n- Executive suggested getting GST from someone local.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, gst, local gst\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2eec9bd6-7ef6-47b2-8ebc-66db49802c17",
+  "ucid": "2eec9bd6-7ef6-47b2-8ebc-66db49802c17",
+  "seller_categories": [
+    {
+      "mcat_id": "44697",
+      "mcat_name": "Core Cutting Services"
+    },
+    {
+      "mcat_id": "173298",
+      "mcat_name": "RCC Core Cutting"
+    },
+    {
+      "mcat_id": "174108",
+      "mcat_name": "Concrete Core Cutting Service"
+    },
+    {
+      "mcat_id": "145204",
+      "mcat_name": "RCC Cutting Services"
+    },
+    {
+      "mcat_id": "172913",
+      "mcat_name": "RCC Slab Cutting"
+    }
+  ]
+}

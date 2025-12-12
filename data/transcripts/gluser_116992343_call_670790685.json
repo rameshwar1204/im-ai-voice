@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670790685",
+  "gluser_id": "116992343",
+  "vintage_months": 57,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669999",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello, good afternoon sir.\\nBoliye.\\nSir se baat baat kar rahe the sir.\\nBoliye.\\nSir aapne mail dala tha ki aapko machine se related koi bhi requirement nahi aa rahi hai aur jo aa rahi hai wo false requirement aa rahi hai.\\nAisa koi mail dala nahi hai. Ek mail dala hai jo abhi phone karke dekha uska machine ka koi requirement nahi hai.\\nSorry sir jo aapne.\\nUsko pucha hai uska machine ka koi requirement nahi hai.\\nAchcha aapne ye mail dala tha ki machine ka requirement nahi hai.\\nIsiliye ye mail paste karke aapko diya hai.\\nSir agar aapko is koi baat karni hai na to aap mere number pe call kar sakte hain.\\nBaat kiya hum customer se hum customer se baat kiya hai.\\nOkay.\\nUska number bhi hum aapko diya hai uska details bhi hum aapko diya hai.\\nCall to this number okay.\\nAb ab aap baat karna hai to baat kar lijiye.\\nThik hai sir to inki requirement aayi thi koi aapke paas.\\nThik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving false machine requirements.\\n\n- Customer says he didn't send such email.\\n\n\\n\nResolution:\\n\n- Executive says customer sent a mail about requirements.\\n\n- Customer says he has already talked to the customer.\\n\n\\n\nNext Steps: \\n\n- Customer can talk to the customer if he wants.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, requirements, machine\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=01788a81-f2ef-4a44-84e8-aac232a8f2b4",
+  "ucid": "01788a81-f2ef-4a44-84e8-aac232a8f2b4",
+  "seller_categories": [
+    {
+      "mcat_id": "30770",
+      "mcat_name": "Ice Cream Machines"
+    },
+    {
+      "mcat_id": "20547",
+      "mcat_name": "Ice Gel Packs"
+    },
+    {
+      "mcat_id": "193962",
+      "mcat_name": "Nilkamal Plastic Crates"
+    },
+    {
+      "mcat_id": "139363",
+      "mcat_name": "Paneer Making Machine"
+    },
+    {
+      "mcat_id": "148103",
+      "mcat_name": "Water Pouch Packing Machine"
+    }
+  ]
+}

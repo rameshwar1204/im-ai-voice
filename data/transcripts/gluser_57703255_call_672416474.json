@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672416474",
+  "gluser_id": "57703255",
+  "vintage_months": 77,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gajraula",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647917",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello ha ji.\\nCustomer: Ha ji sir sir ek bar jo aapne mujhe wo bheja hai na screenshot usme recommendation select ho rakha hai ek bar aap India select kariye usme phone me.\\nExecutive: Application on karke India select karke recent karna hai.\\nCustomer: Phone\\nCustomer: me jo hai na location pe click kara to ye all pe hi laga hua hai all location.\\nExecutive: All nahi India all all nahi sir India India.\\nCustomer: Accha madam India me jyada kuch aata hi nahi hai sare hata le aur kya kare deta hu.\\nExecutive: Sir India me aap India me hi deal karte hai India me sare state aayenge aapko aap India select kariye.\\nCustomer: India me laptop me select kar diya hai phone me select nahi ho raha hai.\\nExecutive: Laptop phone me karo phone pe sir phone me karna hai aapne.\\nCustomer: Phone me mai usme aa raha hai location aapka Haryana Rajasthan.\\nExecutive: Actually aapne jo mujhe screenshot bheja hai phone me aapne recommended recommended pe click kar rakha hai aap India all hata dijiye India pe click karke uske baad recent kariye.\\nCustomer: Thik hai karta hu.\\nExecutive: Ha.\\nExecutive: Kariye aur mujhe bataiye ab aapko dikh rahi hai dikh rahi hongi.\\nCustomer: Thik hai mai karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to view India-specific results.\\n\nResolution:\\n\n- Executive guided to select India in application.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- location, india, application, screenshot\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=38d044f7-91f0-4536-8672-fc903057a6a1",
+  "ucid": "38d044f7-91f0-4536-8672-fc903057a6a1",
+  "seller_categories": [
+    {
+      "mcat_id": "167429",
+      "mcat_name": "Stainless Steel Letter"
+    },
+    {
+      "mcat_id": "38727",
+      "mcat_name": "Steel Letters"
+    },
+    {
+      "mcat_id": "68629",
+      "mcat_name": "Acrylic Letter"
+    },
+    {
+      "mcat_id": "95424",
+      "mcat_name": "LED Display Board"
+    },
+    {
+      "mcat_id": "68630",
+      "mcat_name": "LED Acrylic Letter"
+    }
+  ]
+}

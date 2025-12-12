@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672740894",
+  "gluser_id": "67887743",
+  "vintage_months": 5,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Narsinghpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9675146",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Haanji, good morning sir, kaise hain aap?\\nCustomer: Haan, good morning madam, abhi main baad mein baat karta hu, busy hu madam.\\nExecutive: Actually sir, main aapko kal se call try kar rahi thi, aapka ek concern tha.\\nCustomer: Koi fayda nahi hai try karne ka, wohi behas hoti hai, kuch bhi nahi hota. Service terminate kar do, yeh kar do, woh kar do. Yahi aapke managers yahi suggestion karte hain, aur kuch bhi nahi karte toh koi fayda nahi hai. Jaisa feedback pada pada rehne do usko, kuch bhi nahi hai.\\nExecutive: Nahi sir, actually aap mujhe batayenge nahi toh mujhe kaise pata chalega aap services use kar rahe hain.\\nCustomer: Nahi nahi madam dekhiye, aapke jitne bhi senior baat karte hain woh kya bolte hain aap service terminate kar do aap happy nahi ho toh. Humne kya service terminate karne ke liye aapka plan liya tha? Aap batayiye madam.\\nExecutive: Obviously nahi liya tha sir, isiliye toh main aapko call try kar rahi thi, aapka account toh main hi handle kar rahi hu na. Aapko aap.\\nCustomer: Madam wohi se behas hoti hai, aap waha se jaake apne supplier ko usko customer ko dhundo, yeh karo, woh karo, wohi cheez rehta hai madam. Hum aise aise customer provide karte hain, woh karte hain.\\nCustomer: Wohi rehta hai na.\\nExecutive: Aapko lead quality se woh hai na sir ki lead ki quality se, kyuki jis hisab se aap use kar rahe hain sir, abhi aapko paanch mahine hue hain. Fir aap se baat hui hai pehle hi.\\nCustomer: Patience bolte hain patience rakho, patience rakho. Madam kitna patience rakhenge boliye aap.\\nExecutive: Nahi main bilkul samajh rahi hu sir aapki baat. Patience mere ko yahi puchna tha ki lead ki quality mein difference aa raha hai na koi baat nahi lead ki quality ko hum abhi ke liye.\\nCustomer: Main itni baar dekhiye madam. Main itni baar bol chuka hu ki mere ko jo leads mil rahi hain woh only inquiry leads aa rahi hain. Aap kya bolte ho nahi nahi hamari 100% verified leads hoti hain aise hoti hain waise hoti hain. Aap same apne apne hi concern repeat karte rehte ho meri sunte hi nahi hain aap log madam.\\nExecutive: Main aapki, main sir aapki sunne ke liye call kiye. Dekhiye main bata rahi hu aapko bahut hi genuine tarike se main aapki dekhiye kyuki main aapke efforts ko matlab samajh rahi hu jo aap use kar rahe hain aap continuously 30 out of 30 days usko use kar rahe hain. Main aapke efforts samajh rahi hu isiliye main keh rahi hu dekhiye by lead kya hoti hai by lead hoti hai basically inquiries hi hoti hai woh hai na. Woh orders toh hoti nahi hai kyuki agar woh order.\\nCustomer: 100% inquiries hongi toh fir kaise kaam banega aap batayiye.\\nExecutive: Nahi nahi aap wohi main keh rahi hu.\\nExecutive: Dekhiye maine shayad aapko yeh baat pehle bhi batayi.\\nCustomer: Main abhi baad mein baat karta hu madam abhi main zara busy hu madam baad mein baat karta hu.\\nExecutive: Actually yeh concern mujhe close karna tha isiliye jabhi bhi aapko time mile aap mujhe mere number pe call kariye.\\nCustomer: Open rehne do koi dikkat nahi hai.\\nCustomer: Rehne do open.\\nExecutive: Sir dekhiye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Dissatisfied with lead quality; only receiving inquiries.\\n\n- Feels managers only suggest service termination.\\n\n- Expresses frustration with repetitive discussions.\\n\n\\n\nResolution:\\n\n- Executive tried to explain the nature of buyleads.\\n\n- Executive acknowledged customer's efforts and concerns.\\n\n\\n\nNext Steps: \\n\n- Executive requested the customer to call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, lead quality, service termination\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 156,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e9ae702d-d7b8-4389-8b73-9f805b718f38",
+  "ucid": "e9ae702d-d7b8-4389-8b73-9f805b718f38",
+  "seller_categories": [
+    {
+      "mcat_id": "69209",
+      "mcat_name": "Jaggery Plant"
+    },
+    {
+      "mcat_id": "7064",
+      "mcat_name": "Sugarcane Crusher"
+    },
+    {
+      "mcat_id": "149861",
+      "mcat_name": "Sugarcane Juice Machine"
+    },
+    {
+      "mcat_id": "1081",
+      "mcat_name": "V-Belt Pulleys"
+    },
+    {
+      "mcat_id": "218573",
+      "mcat_name": "CI V Belt Pulley"
+    }
+  ]
+}

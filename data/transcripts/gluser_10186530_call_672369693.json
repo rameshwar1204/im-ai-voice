@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672369693",
+  "gluser_id": "10186530",
+  "vintage_months": 102,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644890",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hi sir, good afternoon, Vishal baat kar raha hu IndiaMART se, kaise hain aap?\\nCustomer: Bas theek hu.\\nExecutive: Sir aap mujhe kya wo images share kar sakte hain jo aap upload kar rahe the?\\nCustomer: Maine aapko kiya na.\\nExecutive: Aapne na mujhe wo screenshot jo diya tha na uske andar wo error wala tha ki jismein aa raha tha content wala, mujhe uska image de dijiye sir ki jo aap add karna chahte hain. \\nCustomer: Haan.\\nExecutive: Mujhe wo team ke saath ek baar share karna tha.\\nCustomer: Aapko image chahiye?\\nExecutive: Haan, aap mujhe image de sakte hain product ka?\\nCustomer: Achha product ka image chahiye?\\nExecutive: Ji.\\nCustomer: Nahi ya aapko matlab jo maine aapko wo whatsapp kiya tha jo reject ho raha tha uski jagah jo product ka photo ka photograph chahiye aapko?\\nExecutive: Haan ji, haan ji sir, haan ji.\\nCustomer: Theek hai, main bhejta hu.\\nExecutive: Theek hai, main aapko hi kar raha hu whatsapp pe, aap mujhe chahe wahin par share kar dijiye sir, theek hai?\\nCustomer: Theek hai, theek hai.\\nExecutive: Thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was facing issues uploading images.\\n\nResolution:\\n\n- Executive asked the customer to share product image.\\n\n- Executive will share the image with the team.\\n\nNext Steps: \\n\n- Customer will share the image on WhatsApp.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- image upload, product, whatsapp\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9ff1c4ee-8552-4293-beb5-8774f65653d7",
+  "ucid": "9ff1c4ee-8552-4293-beb5-8774f65653d7",
+  "seller_categories": [
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "178873",
+      "mcat_name": "Fevicol Adhesive"
+    },
+    {
+      "mcat_id": "192472",
+      "mcat_name": "Waterproof Adhesive"
+    },
+    {
+      "mcat_id": "138612",
+      "mcat_name": "Fabric Glue"
+    },
+    {
+      "mcat_id": "2879",
+      "mcat_name": "Synthetic Adhesives"
+    }
+  ]
+}

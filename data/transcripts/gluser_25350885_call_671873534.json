@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671873534",
+  "gluser_id": "25350885",
+  "vintage_months": 46,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679535",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ha sir, number to provide, ha sir woh Sonu baat karwa denge aapke number to provide nahi kar sakta hu sir mai. Kyuki access nahi hota hamare paas, thik hai sir. Baki ha baki service ke liye ek baar aap bataiye kab hum log discuss kar le. Kab chahiye aapko?\\nCustomer: Service ke liye mai aaj nahi kal mai aap se baat karta hu. Kal baat kar lijiye.\\nExecutive: Agar aaj free ho jaata hai to aaj hi baat kar lijiye.\\nCustomer: Thik hai.\\nExecutive: Thik hai. Baki na ek kaam karte hai sir ek aapka concern open ho gaya woh mai close kar raha hu ek feedback aayega sir aapke na mail pe. Woh please de dijiyega. Aur jab IndiaMART app open karte hai na wohi pe upar ek notification ka bhi option aata hai upar hi dekh lijiyega. Toh waha se bhi aap feedback de sakte hai. Toh abhi aate hi ek baar aap please woh share kar dijiyega sir, thik hai sir?\\nCustomer: Ji ji.\\nExecutive: Thik hai sir, thik hai sir. Thank you. Thank you sir.\\nCustomer: Toh sir.\\nExecutive: Ha ji bataiye sir. Sir woh sir number ka number ka kya hua?\\nExecutive: Kya sir?\\nCustomer: Number jo abhi Dhanashree promoters mein aapne kaha tha na.\\nExecutive: Kya number sir?\\nCustomer: Dhanashree promoters mein aapne kaha tha ki provide karwane ke liye.\\nExecutive: Thik hai sir.\\nCustomer: Sir woh number toh mai nahi de paunga na aapko.\\nCustomer: Thik hai.\\nExecutive: Ha ha ha ha.\\nCustomer: Thik hai sir, thik hai sir. Thik hai okay thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is asking for a contact number.\\n\n\\n\nResolution:\\n\n- Executive said he cannot provide the number.\\n- Executive asked to share feedback on mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number, feedback, service\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b754bd6b-0da9-44db-9be1-5b272b2211af",
+  "ucid": "b754bd6b-0da9-44db-9be1-5b272b2211af",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "24633",
+      "mcat_name": "Cement Pipes"
+    },
+    {
+      "mcat_id": "70030",
+      "mcat_name": "Cement Poles"
+    },
+    {
+      "mcat_id": "25695",
+      "mcat_name": "Concrete Poles"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675173355",
+  "gluser_id": "181517316",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Tanuku",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Haan, darji woh refund aaya nahi abhi tak.\\nExecutive: Refund aaya nahi? Sir, Sanay sir ka number hai aapke paas?\\nCustomer: Haan, Sanay ji ka toh number hai.\\nExecutive: Ek baar sir unko call kar lijiye. Woh office mein actually sir main travel kar raha hun, office mein hun nahi. \\nMaine subah aapko call kiya tha, uss time main office mein tha toh detail check karke bata deta aapko. \\nEk baar unse connect kar lijiye sir.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Refund not received yet.\\n\n\\n\nResolution:\\n\n- Asked to call Sanay to check on the refund status.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer was asked to contact Sanay.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nrefund, status\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1ce5871e-5a9c-48c5-8c64-72218d994ea3",
+  "ucid": "1ce5871e-5a9c-48c5-8c64-72218d994ea3",
+  "seller_categories": [
+    {
+      "mcat_id": "167982",
+      "mcat_name": "Unsecured Personal Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "170840",
+      "mcat_name": "Small Business Loans"
+    },
+    {
+      "mcat_id": "29446",
+      "mcat_name": "Home Loan"
+    }
+  ]
+}

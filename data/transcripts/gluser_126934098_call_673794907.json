@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673794907",
+  "gluser_id": "126934098",
+  "vintage_months": 0,
+  "bl_dau_oct": 9,
+  "customer_type": "CATALOG",
+  "city_name": "Bhatpar Rani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691952",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nCustomer: Hello\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Salaam, main Vineet baat kar raha hun India Mart se, aapka naam manager?\\nCustomer: Okay yes sir.\\nExecutive: Hello suniye.\\nExecutive: Mam global mart se baat kar rahe hain mam?\\nCustomer: Yes yes idhar Rajeev ji global mart se baat kar rahe hain.\\nExecutive: Okay okay mam abhi aapke mere manager se baat hui hogi and\\nCustomer: Okay sir can I call you back two minutes later?\\nExecutive: Okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back in two minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to the call back.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, india mart, global mart\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=918384f3-4170-4810-9d7f-5877c8b287c7",
+  "ucid": "918384f3-4170-4810-9d7f-5877c8b287c7",
+  "seller_categories": [
+    {
+      "mcat_id": "174487",
+      "mcat_name": "Social Media Marketing"
+    },
+    {
+      "mcat_id": "126826",
+      "mcat_name": "Mobile Application Development"
+    },
+    {
+      "mcat_id": "115659",
+      "mcat_name": "Marketing Services"
+    },
+    {
+      "mcat_id": "170240",
+      "mcat_name": "Job Portal Service"
+    },
+    {
+      "mcat_id": "168522",
+      "mcat_name": "Social Media Advertising Services"
+    }
+  ]
+}

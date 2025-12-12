@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668543842",
+  "gluser_id": "107568537",
+  "vintage_months": 7,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644811",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Haan ji.\\nCustomer: Hi sir Nidhi baat kar rahi hu senior manager India Mart se.\\nExecutive: Shubham ji baat kar rahe ho na?\\nCustomer: Haan ji. Haan ji mam.\\nExecutive: Kaise ho Shubham ji aap? Mam kal call karega. Mam kal call kar lijiye aaj bahar hu mai.\\nCustomer: Kal mai kitne baje connect karu sir aapko sham tak possible nahi ho payega?\\nExecutive: Nahi mam aaj mai pura din bahar hu. Subah hi aaunga.\\nCustomer: Sham ko 6 6:30 baje tak. Kyuki bas ek aapke feedback ka discussion karna tha aapne ek negative feedback diya tha na usi ke bare mein discussion karna tha.\\nExecutive: Mam kal kal baat kar paunga mai.\\nCustomer: Achcha.\\nExecutive: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss negative feedback given by him.\\n\n\\n\nResolution:\\n\n- Executive asked to connect in the evening.\\n- Customer wants to connect tomorrow.\\n\n\\n\nNext Steps: \\n\n- Customer will connect tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, discussion, connect\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8b449c7b-97dc-4d21-aa0d-ebd6c43f0b90",
+  "ucid": "8b449c7b-97dc-4d21-aa0d-ebd6c43f0b90",
+  "seller_categories": [
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "650551",
+      "mcat_name": "Men Co-Ord Sets"
+    },
+    {
+      "mcat_id": "7373",
+      "mcat_name": "Night Suits"
+    },
+    {
+      "mcat_id": "184669",
+      "mcat_name": "Kids Baba Suit"
+    }
+  ]
+}

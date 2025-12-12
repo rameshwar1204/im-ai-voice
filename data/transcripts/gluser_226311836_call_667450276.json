@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667450276",
+  "gluser_id": "226311836",
+  "vintage_months": 14,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626491",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji?\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Sir, good evening. Komal baat kar rahi hu India Mart se. Sriram India Private Limited baat ho rahi hai na meri?\\nCustomer: Haan ji ho rahi hai.\\nExecutive: Haan sir aapki ek request aayi thi India Mart par video meeting ke regarding.\\nCustomer: Haan.\\nExecutive: To morning mein aapka video meeting bhi hua hai hamari team mein Samreen se.\\nCustomer: To abhi jaise sir ji ji ji to maine usi ke regarding sir call kiya tha jaise video meeting par aapko service ke bare mein sara kuch explain kar diya hai. To aapka jaise jo ticket yahan se open hua tha main isko close kar do na?\\nCustomer: Haan, close kar do. Already video meeting ho gaya. Mera query tha usko.\\nExecutive: Right. Ji ji maine usi ke confirmation ke regarding just call kiya hai aapko to hum ek confirmation call bhi karna rehta hai. To abhi sir aapke pass na isme feedback ke liye aayega. To feedback aap yes kar dijiyega.\\nExecutive: Theek hai?\\nCustomer: Ji ji ji. Ye number pe bhej dena main kar dunga.\\nExecutive: Feedback sir wo aapke na registered mail par aayega aur I think registered jo WhatsApp number hai aapka I think us par jayega.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai aap us par ye feedback yes kara dijiyega please.\\nCustomer: Theek hai.\\nExecutive: Okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called for video meeting feedback.\\n\n\\n\nResolution:\\n\n- Executive confirmed video meeting details.\\n\n- Executive asked to provide feedback.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback on registered email/WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, feedback, confirmation, service\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 80,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e77fb237-78b4-478e-9a84-cb6abec6d0c7",
+  "ucid": "e77fb237-78b4-478e-9a84-cb6abec6d0c7",
+  "seller_categories": [
+    {
+      "mcat_id": "113851",
+      "mcat_name": "Strapping Rolls"
+    },
+    {
+      "mcat_id": "146906",
+      "mcat_name": "PP Box Strapping Roll"
+    },
+    {
+      "mcat_id": "88130",
+      "mcat_name": "Packaging Strip"
+    },
+    {
+      "mcat_id": "16833",
+      "mcat_name": "Plastic Strip"
+    },
+    {
+      "mcat_id": "16831",
+      "mcat_name": "Plastic Strap"
+    }
+  ]
+}

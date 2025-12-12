@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671308639",
+  "gluser_id": "249969705",
+  "vintage_months": 0,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Ji, ma'am.\\nCustomer: Sir, good afternoon. Gitika baat kar rahi hu IndiaMART head office se.\\nExecutive: Ha, Gitika ji.\\nCustomer: Shahzad sir baat kar rahe hain?\\nCustomer: Ji.\\nCustomer: Sir, aapne bola tha na driving kar rahe hain aap call back karenge aapne call nahi kara?\\nCustomer: Aapne mujhse baat nahi ki thi kya?\\nExecutive: Hello?\\nExecutive: Haan ji?\\nCustomer: Aapne usse us number pe baat nahi ki thi kya? Haan, aapne jo number diya tha na sir unse to baat kar li hai. But ek baar aapse confirm kar raha tha unko sari cheeze guide kar di hai kaise service use karna hai, kaise achi buyleads chahiye filter apply karna hai. Sari cheez unhe bata di hai video meeting pe leke. To main ye soch rahi thi main apni side se fir ye jo concern raise tha sir ise close kar du?\\nCustomer: To usne kya bola?\\nExecutive: Matlab jaise aapne call kara tha na sir customer care pe. To fir yaha pe concern raise hota hai. To main wo concern band kar du, close kar du aap positive response kariyega aapke pass feedback jayega mere liye.\\nCustomer: Samjhe nahi aap. Jo maine number diye the usme wo satisfied hai kya?\\nExecutive: Haan haan sir unhe samjha diya but wo bol rahe the ki jo mail ID hai na yaha pe registered unke pass access nahi hai. Aapke pass access hai unhone bola tha. To mail jo jayega aapke pass jayega isiliye abhi maine concern close nahi kara tha otherwise unhe proper samjha diya wo satisfied hai.\\nCustomer: Theek hai, theek hai.\\nExecutive: To main concern close kar du?\\nCustomer: Theek hai ma'am.\\nExecutive: Positive response kar dijiye ga sir please.\\nCustomer: Okay.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer concern regarding service usage and buyleads.\\n\n- Customer stated mail ID access issue.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's concern.\\n\n- Executive explained service usage and buyleads.\\n\n- Executive offered to close the concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, service, mail id, access\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 102,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=260846c4-0ef6-4ecf-a46b-fa02b767cc79",
+  "ucid": "260846c4-0ef6-4ecf-a46b-fa02b767cc79",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "9874",
+      "mcat_name": "Marble Stone"
+    },
+    {
+      "mcat_id": "9851",
+      "mcat_name": "Marble Floorings"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671270016",
+  "gluser_id": "195959654",
+  "vintage_months": 19,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Deoband",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671300",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Raghunandan Raghav Ram Hare, Siyaram Hare, Siyaram Hare.\\nRaghunandan Raghav Ram Hare.\\nYour call has been forwarded to voicemail. The person\\nCustomer: Hello.\\nExecutive: Ji dijiye.\\nCustomer: Haan ji aawaz aa rahi hai aapko?\\nExecutive: Are yaar bhaiya whatsapp karo na bar bar phone kar rahe yaar mujhe.\\nExecutive: Kya bole aap?\\nCustomer: Bar bar phone kar rahe ho whatsapp karo ye bol raha hu main.\\nExecutive: Aapke whatsapp pe maine message dal diya hai aapne check ki nahi kiya?\\nCustomer: Kar lunga main baad mein.\\nExecutive: Usko update karwana hai na.\\n(silence)\\nExecutive: Aap jis vyakti se baat kar rahe hain unhone aapke call ko hold par rakha hai. Kripya line par bane rahe. The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain unhone aapke call ko hold par rakha hai. Kripya line par rakha hai.\\nExecutive: The person you are speaking with has put your call on hold. Please stay on the line. Aap jis vyakti se baat kar rahe hain unhone\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is asking to connect on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive said he has sent a message on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, message, update\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=26818164-4dd7-4f3c-9970-d97fc3b67121",
+  "ucid": "26818164-4dd7-4f3c-9970-d97fc3b67121",
+  "seller_categories": [
+    {
+      "mcat_id": "444748",
+      "mcat_name": "Used Conveyor Belt"
+    },
+    {
+      "mcat_id": "32949",
+      "mcat_name": "Nylon Rods"
+    },
+    {
+      "mcat_id": "95082",
+      "mcat_name": "Nylon Roller"
+    },
+    {
+      "mcat_id": "146543",
+      "mcat_name": "Conveyor Belt Joints"
+    },
+    {
+      "mcat_id": "150766",
+      "mcat_name": "Drum Pulley"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668444312",
+  "gluser_id": "132815052",
+  "vintage_months": 33,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9646443",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Haan boliye.\\nCustomer: Haan sir. Main dekh raha hu.\\nExecutive: Main back end pe check kar raha hu sir, check karwa raha hu aap hi ke case ke bare me discussion kar raha hu, discussion karke aapko call karta hu sir, theek hai? Aapko agar nahi mila hai to wo cheez me discussion karke aapko batata hu, theek hai?\\nCustomer: [inaudible]\\nExecutive: Mujhe thoda time dijiye, wahi aapka usi pe baat ho raha hai usi ke regarding.\\nCustomer: Haan?\\nExecutive: Aap hi ke case ke bare me main baat kar raha hu sir, mujhe thoda time dijiye, aapke hi case pe main baat kar raha hu aur main dekhta hu agar aapko nahi mila hai to main provide karata hu uske liye, theek hai?\\nCustomer: [inaudible]\\nExecutive: Theek hai, okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received something.\\n\n\\n\nResolution:\\n\n- Executive is checking at the back end.\\n\n- Executive will call back after discussion.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after discussion.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- back end check, case discussion, provide\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=de598f5e-b872-4b05-9f67-c48d17ab7b41",
+  "ucid": "de598f5e-b872-4b05-9f67-c48d17ab7b41",
+  "seller_categories": [
+    {
+      "mcat_id": "31652",
+      "mcat_name": "Magnesium Carbonate"
+    },
+    {
+      "mcat_id": "19162",
+      "mcat_name": "Silicon Dioxide"
+    },
+    {
+      "mcat_id": "8601",
+      "mcat_name": "Precipitated Silica"
+    },
+    {
+      "mcat_id": "43185",
+      "mcat_name": "Silica Powder"
+    },
+    {
+      "mcat_id": "252025",
+      "mcat_name": "Vegetable Glycerin"
+    }
+  ]
+}

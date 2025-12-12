@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670159244",
+  "gluser_id": "156908950",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello, Avesh ji baat kar rahe hain?\\nExecutive: Haan, boliye sir.\\nCustomer: Haan sir Abhishek baat kar raha hu main aap se.\\nExecutive: Haan, haan boliye boliye.\\nCustomer: Aap se kal baat hui thi na, aap se lunch ke baad connect karne ke liye lekin aap se\\nExecutive: Main call karta hu aapko thodi der mein.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to connect after lunch.\\n\n\\n\nResolution:\\n\n- Executive said will call shortly.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- connect, call\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 31,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bee64e03-5619-46de-b187-c4f6bbd97d47",
+  "ucid": "bee64e03-5619-46de-b187-c4f6bbd97d47",
+  "seller_categories": [
+    {
+      "mcat_id": "3417",
+      "mcat_name": "Wind Chime"
+    },
+    {
+      "mcat_id": "178023",
+      "mcat_name": "Crystal Shivling"
+    },
+    {
+      "mcat_id": "18414",
+      "mcat_name": "Quartz Crystal"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "13083",
+      "mcat_name": "Quartz Stone"
+    }
+  ]
+}

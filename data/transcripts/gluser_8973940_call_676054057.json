@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676054057",
+  "gluser_id": "8973940",
+  "vintage_months": 50,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dindigul",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716543",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello sir.\\nExecutive: Hi yes sir.\\nExecutive: Uh very good evening sir. This side is Abhimanyu Singh, senior manager from IndiaMART sir. There is one concern open from your side sir. Through incoming call you call in IndiaMART yesterday that's why one ticket is open in IndiaMART. So may I want to know sir any you have assessing any difficulty in IndiaMART sir?\\nCustomer: No, no.\\nExecutive: So currently you have no issue sir, right? Then you call by mistake?\\nCustomer: Yeah, yes sir.\\nExecutive: Uh everything okay in IndiaMART sir about buyleads uh lead manager and\\nExecutive: Everything is okay. So sir sir kindly grant me permission to close this ticket right because that concern is open from your side.\\nCustomer: Okay, close it.\\nExecutive: Okay okay sir there is one feedback goes to in your mail so kindly provide us positive feedback because I know you already updated there is no concern in IndiaMART. Okay?\\nCustomer: Okay, okay.\\nExecutive: Okay, thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive: Customer had an open ticket.\\n\n\\n\nResolution:\\n\n- Executive: Customer confirmed no issues, ticket can be closed.\\n\n- Executive: Requested positive feedback via email.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, feedback, buyleads, lead manager\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=82a5e984-1639-471f-b5df-405fe6bd5f62",
+  "ucid": "82a5e984-1639-471f-b5df-405fe6bd5f62",
+  "seller_categories": [
+    {
+      "mcat_id": "20460",
+      "mcat_name": "Moringa Seeds"
+    },
+    {
+      "mcat_id": "7338",
+      "mcat_name": "Neem Seed"
+    },
+    {
+      "mcat_id": "20463",
+      "mcat_name": "Moringa Leaves"
+    },
+    {
+      "mcat_id": "96273",
+      "mcat_name": "Drumstick Seed"
+    },
+    {
+      "mcat_id": "179410",
+      "mcat_name": "Moringa Dried Leaves"
+    }
+  ]
+}

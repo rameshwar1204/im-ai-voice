@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667468628",
+  "gluser_id": "32440290",
+  "vintage_months": 1,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636073",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes.\\nExecutive: Hello, good afternoon sir.\\nCustomer: Hello.\\nExecutive: Good afternoon. Hello. Boliye. Sir, Shubham bol raha hu IndiaMART se.\\nCustomer: Haan ji boliye.\\nExecutive: Sir, abhi aapne call kiya tha na ki aapko issue aa raha tha ki by leads nahi dekh pa rahe aap.\\nCustomer: Haan, wo meet pe kar lete hain, Google meet pe.\\nExecutive: Haan, to sir main aap main apna aapko ek link bhej raha hu meet pe, thik hai sir.\\nCustomer: Join kar lijiye.\\nExecutive: Mail pe bhejiye, haan.\\nExecutive: Haan sir, bhej diya maine. Check kar lijiye sir. Hmm.\\nCustomer: Nahi, kispe bheja hai?\\nExecutive: Sir, tharsole@gmail.com.\\nCustomer: Achha, tharsole pe bheja hai.\\nExecutive: Haan.\\nCustomer: Join kar liya maine Google Meet, call disconnect kar sakte hain.\\nExecutive: Thik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to see buyleads.\\n\n\\n\nResolution:\\n\n- Executive sent a Google Meet link to customer.\\n\n- Customer joined the meeting.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, google meet, link\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 85,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=766b98dd-8a47-4385-a098-bdb605c78586",
+  "ucid": "766b98dd-8a47-4385-a098-bdb605c78586",
+  "seller_categories": [
+    {
+      "mcat_id": "155285",
+      "mcat_name": "Artificial Cricket Pitch"
+    },
+    {
+      "mcat_id": "43597",
+      "mcat_name": "Artificial Turf"
+    },
+    {
+      "mcat_id": "186238",
+      "mcat_name": "Football Turf"
+    },
+    {
+      "mcat_id": "132773",
+      "mcat_name": "Artificial Grass Carpet"
+    },
+    {
+      "mcat_id": "35810",
+      "mcat_name": "Polyurethane Adhesives"
+    }
+  ]
+}

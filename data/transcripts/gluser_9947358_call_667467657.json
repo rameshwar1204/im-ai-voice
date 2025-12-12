@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667467657",
+  "gluser_id": "9947358",
+  "vintage_months": 15,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634643",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[No transcript available]",
+  "summary": "[No transcript available]",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9d1d3855-4d3d-45eb-9025-63f91e00cfcb",
+  "ucid": "9d1d3855-4d3d-45eb-9025-63f91e00cfcb",
+  "seller_categories": [
+    {
+      "mcat_id": "168229",
+      "mcat_name": "B2B Portal Services"
+    },
+    {
+      "mcat_id": "168845",
+      "mcat_name": "Digital Marketing Services"
+    },
+    {
+      "mcat_id": "27201",
+      "mcat_name": "Ecommerce Solutions"
+    },
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "78497",
+      "mcat_name": "Domain Name Registration"
+    }
+  ]
+}

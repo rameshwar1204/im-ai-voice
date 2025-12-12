@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671913390",
+  "gluser_id": "234737826",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Hisar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682148",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji mam aapka call aa raha tha IndiaMART se.\\nExecutive: Haan ji mam, main Vanita baat kar rahi hu Shyam ji snacks se.\\nCustomer: Ji ji bataiye.\\nExecutive: Mujhe hamari na profile remove karwani thi IndiaMART se.\\nExecutive: Mam services aapki already expire ho gayi hai ye one week mein aapki band ho jayegi remove kaise matlab aap karana chah rahe ho mam.\\nCustomer: Matlab hamara Shyam ji snacks nahi nahi Shyam ji snacks agar koi dale usme to wo hamara koi bhi data uske andar show nahi hona chahiye.\\nExecutive: Google pe mam Google pe hum guarantee nahi lete lekin yaha pe IndiaMART pe aapka jo services hai already expire hai aur iske baad pura pura jo services hai aapka one week mein completely close ho jayega.\\nCustomer: Theek hai.\\nExecutive: Ye to aapko account manager ne bataya tha mam aapko pehle bhi.\\nCustomer: Nahi bataya nahi unhone bola tha main ek bar call karwa dunga to aap unse baat kar lena expire hai baki aapka ek hafte mein pura yahan se hat jayega band ho jayega completely theek hai mam concern aapka band kar do mujhe kis ke liye concern aapka aaya hua tha.\\nCustomer: Haan haan band kar dijiye.\\nExecutive: Theek hai mam feedback aayega jo bhi discussion hua hai please feedback share kar dijiyega.\\nCustomer: Okay okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to remove profile from IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive confirmed services already expired.\\n\n- Services will be completely closed in one week.\\n\n- Closed the concern.\\n\n\\n\nNext Steps: \\n\n- Customer will receive feedback form.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile removal, expiry, feedback\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1497e18c-0032-4ae4-8e53-63e6c4e0cd8a",
+  "ucid": "1497e18c-0032-4ae4-8e53-63e6c4e0cd8a",
+  "seller_categories": [
+    {
+      "mcat_id": "7229",
+      "mcat_name": "Potato Chips"
+    },
+    {
+      "mcat_id": "193741",
+      "mcat_name": "Lays Chips"
+    },
+    {
+      "mcat_id": "177908",
+      "mcat_name": "Raw Kurkure"
+    },
+    {
+      "mcat_id": "138250",
+      "mcat_name": "Fryums"
+    },
+    {
+      "mcat_id": "85357",
+      "mcat_name": "Fried Snack"
+    }
+  ]
+}

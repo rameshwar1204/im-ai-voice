@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "674513979",
+  "gluser_id": "163820294",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Good morning sir, Navneet ji se baat ho rahi hai sir?\\nCustomer: Haan ji.\\nExecutive: Sir India Mart se Ruchi baat kar rahe the.\\nCustomer: Haan boliye.\\nExecutive: Sir service ke feedback ke related humne connect kiya tha aur aapka kuch concern bhi raise hua tha ki matlab pehle to aapka jaise kyuki aap service use nahi kar rahe the to uske ek minute ek minute aapke paas iska connect number aur hoga.\\nCustomer: Ek minute sir aap hume number aap uske last mein kya hoga last ka three digit 113 hai kya?\\nExecutive: Haan ji.\\nCustomer: Haan to wo concern tha sir.\\nCustomer: Haan ji.\\nExecutive: Okay okay sir okay sir unka naam kya hoga aap hume bata denge zara? Rahul Rahul Khabra.\\nCustomer: Rahul.\\nExecutive: Okay okay okay sir hum unse connect karte hain. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not using the service.\\n\n- Wants to confirm the last three digits of number.\\n\n\\n\nResolution:\\n\n- Executive confirmed the last three digits of number.\\n\n- Executive will connect with Rahul Khabra.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, service, connect, number\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2be13d55-e916-42a1-b803-9adcc63a543f",
+  "ucid": "2be13d55-e916-42a1-b803-9adcc63a543f",
+  "seller_categories": [
+    {
+      "mcat_id": "167399",
+      "mcat_name": "Chapati Tawa"
+    },
+    {
+      "mcat_id": "183986",
+      "mcat_name": "Iron Tawa"
+    },
+    {
+      "mcat_id": "11901",
+      "mcat_name": "Garden Spades"
+    }
+  ]
+}

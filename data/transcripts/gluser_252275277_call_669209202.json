@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669209202",
+  "gluser_id": "252275277",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Tamluk",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Aapko WhatsApp pe maine bhej diya, mil gaya aapko?\\nCustomer: Mil gaya hai.\\nExecutive: Isko wahin se jo aapko link bheja hai na, usi pe click kijiye.\\nCustomer: Main karta hu thodi der.\\nExecutive: Kitne der mein mujhe iska details share kar dijiyega?\\nCustomer: Main karta hu, karta hu, payment karta hu, shaam tak karta hu.\\nExecutive: Shaam tak kitne baje tak mujhe isko validate karna padega? Jo bhi final tha maine final karke diya hai.\\nCustomer: 7:00 baje tak.\\nExecutive: Ji?\\nCustomer: 7:00 baje tak sir.\\nExecutive: 7:00 baje, kyun usse pehle nahi ho sakta sir ji? 6:00 baje mera office band ho jata hai.\\nCustomer: Main karta hu 7:00 baje tak karta hu.\\nExecutive: Aaj hi ko final process kara dijiyega, theek hai na? Fir se main aapko call karta hu. Theek hai na? Online payment karte hain, kaise karte hain?\\nCustomer: Online karta hu.\\nExecutive: Online kar dijiyega na?\\nCustomer: Hmm.\\nExecutive: Kaun sa card rakhte hain aap?\\nCustomer: UPI karta hu.\\nExecutive: Kaun sa bank hai?\\nCustomer: UPI karta hu, UPI.\\nExecutive: UPI karte hain aap?\\nCustomer: Hmm.\\nExecutive: Theek hai sir ji, main aapko call karta hu. Thoda sa koshish kijiye sir ki 6:00 baje se pehle agar ho jaye toh jyada achha rahega. Main ek baar call karke check karta hu aapko. Theek hai na? Okay.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs time till 7:00 PM for payment.\\n\n- Executive wants payment before 6:00 PM.\\n\n\\n\nResolution:\\n\n- Executive will call again to check on payment.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, online payment, upi, validation\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 82,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d63300b1-5c14-4c21-bf09-8dcda848e271",
+  "ucid": "d63300b1-5c14-4c21-bf09-8dcda848e271",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

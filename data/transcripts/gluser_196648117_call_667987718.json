@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667987718",
+  "gluser_id": "196648117",
+  "vintage_months": 1,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Malkapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638531",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan. Haan ji sir, join kariye.\\nCustomer: [unintelligible]\\nCustomer: Aaye nahi sir, mail mail nahi aaya.\\nExecutive: Maine WhatsApp pe aapko bheja hai.\\nCustomer: WhatsApp mera mail pe bhejo na sir mail pe.\\nExecutive: Jo aapki mail lagi hai na usse maine usse bhi bheja hai.\\nCustomer: Abhishek naam se aaya hoga Abhishek Kumar India Mart ke.\\nCustomer: Haan haan.\\nCustomer: Hello.\\nExecutive: Haan ji sir.\\nCustomer: Connect nahi ho raha hai woh.\\nExecutive: Join kariye.\\nCustomer: Yaar join kiya connecting kiya maine nahi ho raha hai.\\nExecutive: Nahi ho raha sir ek baar phir se join kariye.\\nCustomer: Uske andar mail mail dusra dusra mail se kar raha hu sir pata nahi woh sabhi.\\nExecutive: Nahi nahi aisa koi dikkat nahi jis mail se aap join karenge us mail se mujhe bata dena aap kis mail se join kiye koi dikkat nahi hai.\\nCustomer: Rahul Patil ke mail se join kiya maine.\\nExecutive: Kya show ho raha hai sir?\\nCustomer: Join now open ho raha hai waha pe.",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to join the meeting.\\n\n- Customer states he did not receive the email.\\n\n\\n\nResolution:\\n\n- Executive confirmed email sent via WhatsApp.\\n\n- Executive confirmed email sent to registered email.\\n\n- Executive asked the customer to rejoin the meeting.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- joining meeting, email issue, technical support\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7d25a5ea-6206-42ce-963d-3a1da3f25af9",
+  "ucid": "7d25a5ea-6206-42ce-963d-3a1da3f25af9",
+  "seller_categories": [
+    {
+      "mcat_id": "652081",
+      "mcat_name": "Anti Iron Gel"
+    },
+    {
+      "mcat_id": "215042",
+      "mcat_name": "Ram Darbar Coin"
+    },
+    {
+      "mcat_id": "36644",
+      "mcat_name": "Rust Removers"
+    },
+    {
+      "mcat_id": "80174",
+      "mcat_name": "Copper Coin"
+    },
+    {
+      "mcat_id": "33198",
+      "mcat_name": "Metal Cleaners"
+    }
+  ]
+}

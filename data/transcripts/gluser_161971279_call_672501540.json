@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672501540",
+  "gluser_id": "161971279",
+  "vintage_months": 7,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Bhatpar Rani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687028",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello?\\nCustomer: Hello?\\nCustomer: Hello.\\nExecutive: Ji ma'am, mera kya bluetooth connect nahi ho raha hai.\\nCustomer: Laptop mein mera bluetooth connect nahi ho pa laptop se mera bluetooth connect nahi ho pa raha hai to isliye phone chalu rakhna padega.\\nExecutive: Wo theek hai to main aapko na like offline call karti hu WhatsApp call karti hu aap wo receive kijiye.\\nCustomer: Theek hai, theek hai, okay.\\nExecutive: Theek hai? ha ek second.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Bluetooth is not connecting to the laptop.\\n\n\\n\nResolution:\\n\n- Executive will make an offline WhatsApp call.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will call the customer on WhatsApp.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to Neutral\\n\n\\n\n@@@Key Topics:\\n\nbluetooth, whatsapp call, laptop, connection\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8763de8-370a-4966-b01e-4b88a4b7c742",
+  "ucid": "e8763de8-370a-4966-b01e-4b88a4b7c742",
+  "seller_categories": [
+    {
+      "mcat_id": "43237",
+      "mcat_name": "Ladies Kurti"
+    },
+    {
+      "mcat_id": "43170",
+      "mcat_name": "Designer Kurtis"
+    },
+    {
+      "mcat_id": "194559",
+      "mcat_name": "Rayon Ladies Kurtis"
+    },
+    {
+      "mcat_id": "181555",
+      "mcat_name": "Floral Printed Kurti"
+    },
+    {
+      "mcat_id": "28234",
+      "mcat_name": "Fancy Tops"
+    }
+  ]
+}

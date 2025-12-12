@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669716144",
+  "gluser_id": "195163893",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Virudhunagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, good morning sir. Vanakkam sir, speaking sir. Manager speaking from IndiaMART sir. How are you sir?\\nCustomer: Vanakkam, sollunga sir.\\nExecutive: Thank you sir, thank you. Sir, the recent process, we need to add your account details in IndiaMART.\\nCustomer: Aa.\\nExecutive: That's why your account is not getting initiated, the amount. Our accounts team informed us from here.\\nCustomer: Aa.\\nExecutive: We need to do that. Open IndiaMART.\\nCustomer: The amount has come, sir.\\nExecutive: Amount has come?\\nCustomer: Aa, vandiruchu.\\nExecutive: Send the screenshot to this number.\\nCustomer: I'll send a 'Hi' message, then I'll send it to you.\\nExecutive: Okay, sir. I'll check it.\\nCustomer: I'm in the office, so I can't attend the call. That's why I attended the call. I'll send you a 'Hi' on WhatsApp, then I'll send it to you.\\nExecutive: Okay, sir. Okay, sir.\\nCustomer: Okay, sir. Then the feedback will come, give that too.\\nExecutive: Okay, sir. Okay, sir.\\nCustomer: Give the feedback, that's all. You have raised a ticket, right?\\nExecutive: Okay, okay, okay, sir. Okay. You have to give a satisfactory rating about us.\\nCustomer: Okay, okay, fine, fine.\\nExecutive: Okay.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nCustomer: Okay, sir.\\nExecutive: Okay, sir.\\nExecutive: Vecherattuma?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account details need to be added to IndiaMART.\\n\n- Account initiation and amount not processed.\\n\n\\n\nResolution:\\n\n- Customer confirmed amount received.\\n\n- Asked to share screenshot on WhatsApp.\\n\n- Executive requested feedback after resolution.\\n\n\\n\nNext Steps: \\n\n- Customer will send screenshot via WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- account details, amount, feedback, whatsapp\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 110,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e95a6b24-4add-466a-aac5-5b6d69075660",
+  "ucid": "e95a6b24-4add-466a-aac5-5b6d69075660",
+  "seller_categories": [
+    {
+      "mcat_id": "29938",
+      "mcat_name": "Gypsum Plaster"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    },
+    {
+      "mcat_id": "34485",
+      "mcat_name": "Plaster Of Paris"
+    },
+    {
+      "mcat_id": "351503",
+      "mcat_name": "Bentonite Earthing Powder"
+    },
+    {
+      "mcat_id": "177015",
+      "mcat_name": "Earthing Powder"
+    }
+  ]
+}

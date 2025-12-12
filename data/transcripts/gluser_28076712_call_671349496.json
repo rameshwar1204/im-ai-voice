@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671349496",
+  "gluser_id": "28076712",
+  "vintage_months": 77,
+  "bl_dau_oct": 19,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670917",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Update kar dena baki decision.\\n(ringing)\\nCustomer: Hello.\\nExecutive: Haan bolo.\\nExecutive: Sir good evening, Aalok baat kar raha hu IndiaMART se, aapke sath baat hui thi pehle sir.\\nCustomer: Hmm bolo.\\nExecutive: Mai keh raha tha ek bar kar le hum log connect ek bar video meeting pe, abhi hai laptop aapke pass?\\nCustomer: Nahi, nahi hai.\\nExecutive: Nahi hai? Mai abhi bahar hu, bahar hu.\\nExecutive: Accha aap subah keh rahe the na ki bhai electricity aa jayegi to mai kar lunga, mai usme aapka wait hi kar raha tha. Dusre number pe call kiya tha, 99 pe call kiya tha aapne, mere ko call kiya, bhai ko call kiya tha?\\nCustomer: Bhai ko bhi call kiya tha, jo primary number hai na aapka registered.\\nCustomer: Haan.\\nExecutive: Uspe bhi uspe hi call kiya tha subah morning me to.\\nCustomer: Unhone hi bola tha.\\nExecutive: Mai mere ko call me aapki baat nahi hui sir, mai kya baat karu.\\nCustomer: Ji ji.\\nExecutive: Meri aur aapki baat nahi hui thi.\\nExecutive: Accha, mai keh raha tha ye IndiaMART ka aap bhi dekhte hai kya sir services vgera IndiaMART?\\nCustomer: Bhai dekhta hai mera.\\nExecutive: Bas khali aapke bhai dekhte hai?\\nExecutive: Actually mai unko call kar raha tha subah wo keh rahe the kahi hospital me hu, uske baad fir uske baad dobara baat hi nahi ho payi. Wo zara thoda uski tabiyat kharab hai.\\nExecutive: Accha.\\nCustomer: Isliye wo admit hai hospital me.\\nExecutive: Accha admit ho gaye hai?\\nCustomer: Hmm.\\nExecutive: Accha to abhi to hospital me to nahi baat ho payegi sir fir kaise?\\nCustomer: Nahi, nahi udhar nahi ho payegi.\\nExecutive: Actually unhone kuch concern open kiya tha ticket ka to fir mai isko abhi close kar deta hu, sir kab tak aayenge vaise kuch pata hai sir kab tak discharge honge?\\nCustomer: Ek kal ek bar call karke dekho us dusre number pe.\\nExecutive: Accha, thik hai.\\nCustomer: Aapke baat ho jayegi.\\nExecutive: Thik hai, thik hai sir mai ek bar try karta hu.\\nCustomer: Haan thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to connect via video meeting.\\n\n- Customer's brother is admitted to the hospital.\\n\n\\n\nResolution:\\n\n- Executive offered to close the ticket.\\n\n- Executive will try calling customer's brother.\\n\n\\n\nNext Steps: \\n\n- Customer suggested calling brother on another number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, hospital, ticket, brother\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f12704e-d4a5-42f7-a5bf-cacded579e72",
+  "ucid": "1f12704e-d4a5-42f7-a5bf-cacded579e72",
+  "seller_categories": [
+    {
+      "mcat_id": "10976",
+      "mcat_name": "Industrial Air Compressors"
+    },
+    {
+      "mcat_id": "132940",
+      "mcat_name": "Screw Air Compressor"
+    },
+    {
+      "mcat_id": "16797",
+      "mcat_name": "Piston Air Compressor"
+    },
+    {
+      "mcat_id": "18504",
+      "mcat_name": "Reciprocating Air Compressor"
+    },
+    {
+      "mcat_id": "53817",
+      "mcat_name": "Used Electric Motor"
+    }
+  ]
+}

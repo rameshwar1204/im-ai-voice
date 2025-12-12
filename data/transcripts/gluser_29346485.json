@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673838950",
+  "gluser_id": "29346485",
+  "vintage_months": 64,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jhansi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698996",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\nExecutive: Haan sir, aadi sir se baat hui thi aapke account manager.\\nCustomer: Haan madam ji, woh samasya resolve ho gayi hai ji. Woh aap sahi bol rahe the woh net ka issue tha woh.\\nExecutive: Net ki wajah se ho raha tha na sir?\\nCustomer: Haan, haan net ki wajah se tha. Maine dusre apne dusre sab net pe switch over kiya toh chal gaya tha sir woh.\\nExecutive: Achha achha, phir dono mein chal gaya na sir? Aisa toh nahi hai ki kisi ek mein glitch aa raha hai matlab.\\nCustomer: Nahi, abhi abhi abhi haan dono mein chal gaya. Mobile pe bhi chal gaya aur system pe bhi chal gaya.\\nExecutive: Okay, toh abhi aapko koi concern nahi hai na sir? Woh aapne customer care se call ki thi toh just main woh close kar de rahi hu ki aapka concern solve ho gaya.\\nCustomer: Nahi, nahi toh aap close kar dijiye.\\nExecutive: Ji.\\nExecutive: Aapko related ek mail jayegi meri toh please aap usse revert kar dijiye. Haan ji, koi issue ho toh mujhe call kar lijiyega.\\nCustomer: Sure ma'am, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a net issue.\\n\n\\n\nResolution:\\n\n- Customer switched to another network, issue resolved.\\n\n- Executive confirmed issue resolution and closed ticket.\\n\n\\n\nNext Steps: \\n\n- Customer to revert to the email.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- network issue, resolution, ticket closure\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 73,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97f5666d-14b7-475e-9f0e-74880a4eaced",
+  "ucid": "97f5666d-14b7-475e-9f0e-74880a4eaced",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "182498",
+      "mcat_name": "Cummins Diesel Generator & DG set"
+    }
+  ]
+}

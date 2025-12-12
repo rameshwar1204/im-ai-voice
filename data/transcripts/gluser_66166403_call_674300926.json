@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674300926",
+  "gluser_id": "66166403",
+  "vintage_months": 21,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Khurja",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700366",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan ji. Greetings from Vikas, I am calling from Karan Enterprises.\\nCustomer: Ji.\\nExecutive: Sir, I am Komal speaking from IndiaMART. Your ticket was opened.\\nCustomer: Ji.\\nExecutive: Uh, sir, are you facing some problem in service, sir?\\nCustomer: Haan, service mein problem hai, accounting mein jo.\\nExecutive: Ji.\\nExecutive: What issue are you facing, sir, in service?\\nCustomer: Hello.\\nCustomer: Ma'am, woh jo.\\nExecutive: Hello. Waise waise problem nahi aa rahi ma'am mere ko.\\nCustomer: Ji. Nahi toh aaj aapka ek ticket aaya, ticket open hua tha aapne call kiya tha na IndiaMART pe uske regarding maine call kiya hai.\\nCustomer: Achcha achcha.\\nExecutive: Toh kuch issue toh nahi aa raha na service mein abhi aapko?\\nCustomer: Nahi waise toh issue nahi aa raha ma'am koi, uh, waise toh kuch, kuch update karane thi file.\\nExecutive: Achcha products aapne update karane the. Toh main, theek hai, product aapne share kar diye aapne?\\nCustomer: Haan main share karunga abhi.\\nExecutive: Theek hai aap product apne share kar dijiyega. Uh, toh main product jo bhi honge woh main aapke add kara dungi. Aapke account manager Rishti ka call bhi aaya hoga aapke paas.\\nCustomer: Ji ji baat hui.\\nExecutive: Toh aap unko apne, ji aap unko apne product share kar dijiyega woh yahan se update kar dengi. Baki main ek baar directly aapko Monday free yahan se connect kar leti hu. Product aap ek baar share kar dena aap, theek hai. Baki toh koi problem nahi hai na service mein aur aapko?\\nCustomer: Nahi nahi waise kuch problem nahi hai.\\nExecutive: Theek hai sir. Theek hai toh main sir ye na yahan se main aapki ticket close kar deti hu. Theek hai? Uh, aapke paas feedback ke liye aayega toh aap yes kar dijiyega, theek hai?\\nCustomer: Theek hai theek hai.\\nExecutive: Theek hai sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Facing issue with accounting in service.\\n\n- Wants to update products.\\n\n\\n\nResolution:\\n\n- Executive inquired about the service issue.\\n\n- Advised to share product details with account manager.\\n\n- Executive will connect on Monday for product updates.\\n\n- Closed the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer to provide feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- service, product update, ticket closure\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ec58096-6e5a-47aa-88a7-51901f4576dd",
+  "ucid": "0ec58096-6e5a-47aa-88a7-51901f4576dd",
+  "seller_categories": [
+    {
+      "mcat_id": "3689",
+      "mcat_name": "Ceramic Plates"
+    },
+    {
+      "mcat_id": "137817",
+      "mcat_name": "Mug Printing Services"
+    },
+    {
+      "mcat_id": "24669",
+      "mcat_name": "Ceramic Coffee Mug"
+    },
+    {
+      "mcat_id": "90434",
+      "mcat_name": "Ceramic Tea Cup"
+    },
+    {
+      "mcat_id": "88308",
+      "mcat_name": "Tea Cup Set"
+    }
+  ]
+}

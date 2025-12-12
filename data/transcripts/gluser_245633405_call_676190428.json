@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676190428",
+  "gluser_id": "245633405",
+  "vintage_months": 3,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Modasa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634876",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Haan ji.\\n\\nExecutive: Ji, good morning sir, kaise ho aap? Office pahunch gaye the?\\n\\nCustomer: Haan ji, good morning ji.\\n\\nExecutive: Ji, yeh matlab ticket open ho gaya tha aapka fir se, kyuki kaafi time se.\\n\\nCustomer: Kya?\\n\\nExecutive: Ji, lead consume nahi kari isme, Vishal baat kar raha hu main IndiaMART se.\\n\\nCustomer: Haan ji, main bahar tha.\\n\\nExecutive: Achcha achcha, kaha gaye the sir?\\n\\nCustomer: Delhi.\\n\\nExecutive: Delhi?\\n\\nCustomer: Delhi, haan.\\n\\nExecutive: Are, bahut badhiya sir, Delhi toh hum hum bhi thehre rehte hai sir.\\n\\nCustomer: Bata dete milke jaate.\\n\\nExecutive: Abhi kaha ho? Wapis pahunch gaye apne area mein ya Delhi ho abhi?\\n\\nCustomer: Jaipur.\\n\\nExecutive: Toh Jaipur aa gaye.\\n\\nCustomer: Hmm.\\n\\nExecutive: Toh kaam ke silsile mein hi honge na idhar par mein, apna MSME ka nahi dekh sakte kaam.\\n\\nCustomer: Haan. Ji ji. Theek hai.\\n\\nExecutive: Toh application sir ek baar open karke kuch ek lead consume kar lijiye ek do, taki yeh ticket mein aapka close kar paun. Yeh maine ek baar call ki thi aapko.\\n\\nCustomer: Haan ji, kar leta hu main.\\n\\nExecutive: Ji ji, application open kar sakte ho abhi on call hi, koi dikkat toh nahi hai na?\\n\\nExecutive: Kuch leads bhi main aapke discuss kar lunga jo padi hui hai.\\n\\nCustomer: Abhi main ghante mein kar leta hu, main toh abhi nahane ja raha tha.\\n\\nExecutive: Achcha achcha, toh abhi aap naha lo, lekin then the call karo fir aapko free ho ke. Haan.\\n\\nCustomer: Dopahar ko kar lijiyega, main abhi exhibition mein ja raha hu.\\n\\nExecutive: 12 baje tak call kar sakta hu aapko? 11 11:12 baje tak.\\n\\nCustomer: Haan ji, kar lijiyega.\\n\\nExecutive: Theek hai. Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's ticket was open for a long time.\\n\n- Customer has not consumed leads.\\n\n\\n\nResolution:\\n\n- Executive requested to consume leads to close ticket.\\n\n- Executive offered to discuss pending leads.\\n\n\\n\nNext Steps: \\n\n- Executive will call back around 11:12 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, application, ticket\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 108,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=43842dbf-c303-4d5e-941a-686e842b5f3a",
+  "ucid": "43842dbf-c303-4d5e-941a-686e842b5f3a",
+  "seller_categories": [
+    {
+      "mcat_id": "114136",
+      "mcat_name": "Potato"
+    },
+    {
+      "mcat_id": "191172",
+      "mcat_name": "Red Potatoes"
+    },
+    {
+      "mcat_id": "169806",
+      "mcat_name": "Organic Potato"
+    },
+    {
+      "mcat_id": "191931",
+      "mcat_name": "Lady Rosetta Potato"
+    },
+    {
+      "mcat_id": "7229",
+      "mcat_name": "Potato Chips"
+    }
+  ]
+}

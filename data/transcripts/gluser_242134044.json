@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666630290",
+  "gluser_id": "242134044",
+  "vintage_months": 2,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Srinagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626573",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Sir, maine link aapke mail pe bheja hua hai, join kijiye sir.\\nCustomer: Thik hai, mai kar raha hu.\\nExecutive: Yes sir, join kijiye sir. \\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance to join a meeting.\\n\n\\n\nResolution:\\n\n- Executive sent the meeting link to customer's email.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, link, email\\n\n\\n",
+  "call_entered_on": "11/1/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 19,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=820e0d7c-eb71-4313-8e4d-c584631a4b0d",
+  "ucid": "820e0d7c-eb71-4313-8e4d-c584631a4b0d",
+  "seller_categories": [
+    {
+      "mcat_id": "4882",
+      "mcat_name": "Apple Juice"
+    },
+    {
+      "mcat_id": "187880",
+      "mcat_name": "Apple Soft Drink Concentrate"
+    },
+    {
+      "mcat_id": "190067",
+      "mcat_name": "Kashmiri Apple"
+    },
+    {
+      "mcat_id": "24454",
+      "mcat_name": "Carrot Juice"
+    },
+    {
+      "mcat_id": "84800",
+      "mcat_name": "Red Delicious Apple"
+    }
+  ]
+}

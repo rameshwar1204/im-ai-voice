@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671931255",
+  "gluser_id": "186902095",
+  "vintage_months": 8,
+  "bl_dau_oct": 16,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672722",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4dcee4c8-0f39-41d6-861c-938b30a30c8f",
+  "ucid": "4dcee4c8-0f39-41d6-861c-938b30a30c8f",
+  "seller_categories": [
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "180429",
+      "mcat_name": "Marble Elephant Statue"
+    },
+    {
+      "mcat_id": "16441",
+      "mcat_name": "Kali Statue"
+    },
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    },
+    {
+      "mcat_id": "220909",
+      "mcat_name": "Marble Human Statue"
+    }
+  ]
+}

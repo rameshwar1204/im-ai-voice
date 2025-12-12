@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675241381",
+  "gluser_id": "45407893",
+  "vintage_months": 53,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9642084",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Hello, good afternoon ma'am, good evening.\\nCustomer: Hmm hmm.\\nExecutive: Aapka Tulsian Height ke Private Limited ke liye na call aaya tha ki inquiry flow ka.\\nCustomer: Hmm.\\nExecutive: To humne na usme. Yes ma'am, yes ma'am.\\nCustomer: Okay.\\nExecutive: To aapke Aryan se baat hui aapke account manager se. Sorry.\\nCustomer: Free mere office time nahi hai.\\nExecutive: Oh sorry, sorry to disturb you ma'am. Main aapko kal kis time, kal kis time kar lu ma'am main aapko? Kyunki maine kuch kaam karwaye the wo sari cheeze.\\nCustomer: 12 baje kar lijiye.\\nExecutive: 12 baje aap free rahenge, 12 baje ke around?\\nCustomer: Haan, haan.\\nExecutive: Theek hai na? To main aapko wo sare whatsapp bhi kar dunga jo bhi sari cheeze hain, jo changes hain aur jo aaj maine dhyan diya wo sara cheeze kara hai. Aur aapke paas mera number hai, aap mere ko call kar liya karo ma'am koi bhi issue raha kare.\\nCustomer: Sir aapka number hi nahi hai mere paas.\\nExecutive: Kyun whatsapp kiya na humne kuch din bhi aapne detail bheji thi maine sari cheeze main dobara kar deta hu. Wo aapka personal number hai.\\nExecutive: Wo mera hi number hai, haan yes ma'am.\\nCustomer: Ek baar dobara ping kar dijiye mujhe.\\nExecutive: Theek hai ma'am, main kar deta hu. Okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer stated she is busy.\\n\n\\n\nResolution:\\n\n- Executive apologized for calling at wrong time.\\n\n- Executive will call back at 12 PM next day.\\n\n- Executive will share details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Executive will ping the customer his number.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiry flow, call time, whatsapp, contact number\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=728d6633-9623-42db-919e-1c0303238e7e",
+  "ucid": "728d6633-9623-42db-919e-1c0303238e7e",
+  "seller_categories": [
+    {
+      "mcat_id": "228690",
+      "mcat_name": "Freestyle Libre Reader Sensor"
+    },
+    {
+      "mcat_id": "180620",
+      "mcat_name": "Dr Morepen Glucometer"
+    },
+    {
+      "mcat_id": "650420",
+      "mcat_name": "Dr Morepen Blood Glucose Test Strips"
+    },
+    {
+      "mcat_id": "204413",
+      "mcat_name": "Accu-Chek Sugar Test Strips"
+    },
+    {
+      "mcat_id": "204414",
+      "mcat_name": "One Touch Sugar Test Strips"
+    }
+  ]
+}

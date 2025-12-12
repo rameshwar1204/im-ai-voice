@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669327160",
+  "gluser_id": "110241587",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Moradabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9657048",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hi, good afternoon sir.\\nExecutive: Hello\\nCustomer: Hello, hello.\\nExecutive: Good afternoon sir, Dipesh baat kar raha hu IndiaMART se.\\nCustomer: Ji sir, thoda gaadi chala raha tha main.\\nExecutive: Achcha, kitni der mein free honge?\\nCustomer: Main 20 kilometer jaana hai mujhe.\\nExecutive: Theek hai, main aadhe ghante mein karta hu, theek hai sir?\\nCustomer: Haan, batao.\\nExecutive: Urgent kuch nahi, kuch document vagaira mere ko aapko matlab chahiye the KYC regarding, kuch KYC aapki\\nCustomer: Aapki KYC pending hai, uske kuch document chahiye the.\\nExecutive: Achcha achcha achcha, aadhe ghante mein bata raha hu mujhe kya kya chahiye main bhejta hu aapko.\\nExecutive: Theek hai, theek hai.\\nCustomer: Main to aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs KYC documents from customer.\\n\n\\n\nResolution:\\n\n- Executive will call back in half an hour.\\n\n\\n\nNext Steps: \\n\n- Executive to call back in half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- kyc, documents, follow up\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 60,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0873c445-24b4-43a0-ab7d-9808d9b4f5d9",
+  "ucid": "0873c445-24b4-43a0-ab7d-9808d9b4f5d9",
+  "seller_categories": [
+    {
+      "mcat_id": "95946",
+      "mcat_name": "Wedding Chair"
+    },
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    },
+    {
+      "mcat_id": "18711",
+      "mcat_name": "Steel Chair"
+    },
+    {
+      "mcat_id": "2899",
+      "mcat_name": "Table Base"
+    }
+  ]
+}

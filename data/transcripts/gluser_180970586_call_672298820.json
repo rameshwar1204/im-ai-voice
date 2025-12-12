@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672298820",
+  "gluser_id": "180970586",
+  "vintage_months": 7,
+  "bl_dau_oct": 26,
+  "customer_type": "TSCATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Hello\\nExecutive: Haan ji.\\nCustomer: Hello\\nExecutive: Haan sir.\\nCustomer: Namaste sir, Gaurav baat kar raha tha sir IndiaMART se.\\nExecutive: Ji.\\nCustomer: Kaise hain sir?\\nCustomer: Badhiya sir.\\nExecutive: Accha. Sir ye maine call kiya hua tha isliye abhi service vagera kaisi chal rahi hai pehle aap ye bataye.\\nCustomer: Sahi chal rahi hai.\\nExecutive: Accha abhi kya naam hai baat kari thi maine aapse kari thi kya naam hai aap ek second main to Gaurav baat kar raha aapne baat ki hogi ji ji.\\nCustomer: Abhishek Abhishek ha jab se Abhishek se baat kari hai na\\nExecutive: Ji.\\nCustomer: Pata nahi kya hua kaise matlab main ye nahi bol raha ki unhone kar diya pata nahi kya hua call aani band ho gayi jyada matlab pehle sahi chal raha tha uske baad pata nahi kya hua aa hi nahi rahi kuch.\\nExecutive: Main wo check kara lunga ek bar abhi dekh leta hu catalog mein kya hai. Dusra aapka jaise basically maine to isliye kiya tha aapka ek TrustSeal ka certificate yahan se team bhej rahi hai but wo return aa ja raha hai.\\nCustomer: Address match nahi kar raha.\\nExecutive: Wo match nahi kar raha address waha pe deliver nahi ho pa raha hai.\\nCustomer: Aapne courier kara hai kaise kya kara hai aapne?\\nExecutive: Unhone courier bhi karaya tha team courier karati hai to unhone laga parcel send kiya unhone do bar kiya hua hai jo bhi different courier matlab alag alag courier usse matlab jo agency usse kiya hua hai but wo wapas aa ja raha hai return aa ja raha hai.\\nCustomer: Ya to ek bar aap properly address vagera kuch aisa ho aap de paye main team ko dal paun properly jo office vagera aapka kuch ho.\\nCustomer: Haan yahi hai mera Ajwade ka main gate mera yahi hai ye 245206 pin code.\\nExecutive: 2452 ye aapka GST pe number pada hai matlab address waha pe yahi address hai na apna?\\nCustomer: Haan ji haan ji.\\nExecutive: To fir is pe kyun return aa raha hai ek minute chaliye main ek bar fir se unko dalta hu team ko.\\nCustomer: Kyunki keh rahe hain unhone bola ki do bar unhone do matlab alag alag courier usse bheja hua hai.\\nExecutive: Haan.\\nCustomer: But wo kya dono return aa ja raha hai pata hai to mismatch ho raha hai pin ka ya jo bhi issue aa raha hai jiski wajah se wo mismatch ho ja raha hai.\\nExecutive: Accha accha.\\nCustomer: Theek hai sir jo bhi.\\nExecutive: Theek hai baki main iska call pe jo aap bole na ek bar main catalog vagera check kar leta hu ki kya issue aa raha hai calls vagera mein aapka.\\nCustomer: Theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving buyleads.\\n\n- TrustSeal certificate is being returned.\\n\n\\n\nResolution:\\n\n- Executive will check the catalog for buylead issue.\\n\n- Executive will inform the team about address issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, trustseal, address, courier\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=269144a6-4109-42ff-9947-fcff950cf329",
+  "ucid": "269144a6-4109-42ff-9947-fcff950cf329",
+  "seller_categories": [
+    {
+      "mcat_id": "188562",
+      "mcat_name": "Wedding Light"
+    },
+    {
+      "mcat_id": "145619",
+      "mcat_name": "Wedding Umbrella"
+    },
+    {
+      "mcat_id": "17147",
+      "mcat_name": "Stage Lights Stand"
+    },
+    {
+      "mcat_id": "129995",
+      "mcat_name": "Wedding Stage Backdrop"
+    },
+    {
+      "mcat_id": "122834",
+      "mcat_name": "Wedding Decoration Items"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669837208",
+  "gluser_id": "1679133",
+  "vintage_months": 134,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662386",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\n\\nExecutive: Hello.\\n\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n\\n\nResolution:\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- hello\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=574add73-5431-4b02-9e64-2472f97d03f7",
+  "ucid": "574add73-5431-4b02-9e64-2472f97d03f7",
+  "seller_categories": [
+    {
+      "mcat_id": "22097",
+      "mcat_name": "Archery Bows"
+    },
+    {
+      "mcat_id": "183281",
+      "mcat_name": "Cricket Bat Knocking Machine"
+    },
+    {
+      "mcat_id": "85596",
+      "mcat_name": "Line Marking Machine"
+    },
+    {
+      "mcat_id": "187067",
+      "mcat_name": "LED Scoreboard"
+    },
+    {
+      "mcat_id": "29936",
+      "mcat_name": "Gymnastics Equipment"
+    }
+  ]
+}

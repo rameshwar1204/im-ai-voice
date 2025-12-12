@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674701624",
+  "gluser_id": "93868259",
+  "vintage_months": 30,
+  "bl_dau_oct": 19,
+  "customer_type": "STAR",
+  "city_name": "Kalyan",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9673361",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Bolye\\nCustomer: Sir, Namaste Shruti baat kar rahi thi India Mart head office Noida se.\\nExecutive: Bolye\\nCustomer: Ji sir aapki awaz clear nahi aa rahi hai kahin bahar hai kya?\\nExecutive: Ji\\nCustomer: Sir thoda sa mujhe profile ke regarding baat karni thi.\\nCustomer: Thoda 5-10 minute ka time.\\nExecutive: Abhi kaam kar raha hu main. Aap baad me baat kariye na.\\nCustomer: Theek hai, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's voice is not clear.\\n\n- Wants to discuss profile for 5-10 minutes.\\n\n\\n\nResolution:\\n\n- Executive stated he is currently working and asked to call later.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to slightly negative due to the executive's unavailability.\\n\n\\n\n@@@Key Topics:\\n\nprofile discussion, call back\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 46,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=faca38f2-95eb-41fd-badc-a5edbb929c82",
+  "ucid": "faca38f2-95eb-41fd-badc-a5edbb929c82",
+  "seller_categories": [
+    {
+      "mcat_id": "36034",
+      "mcat_name": "Rubber Timing Belts"
+    },
+    {
+      "mcat_id": "40042",
+      "mcat_name": "Timing Belt Pulleys"
+    },
+    {
+      "mcat_id": "159",
+      "mcat_name": "Timing Belts"
+    },
+    {
+      "mcat_id": "7429",
+      "mcat_name": "Nylon Belt"
+    },
+    {
+      "mcat_id": "8330",
+      "mcat_name": "Rubber Transmission Belts"
+    }
+  ]
+}

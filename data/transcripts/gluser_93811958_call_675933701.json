@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675933701",
+  "gluser_id": "93811958",
+  "vintage_months": 14,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ganaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718019",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Sir aapne sir mujhe number nahi provide kiya na hi mujhe kisi ne call kiya sir.\\nExecutive: Ek ek minute main main main bolta hun dekhta hun.\\nCustomer: Aap please abhi bol dijiye aap.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Number not provided, no call received.\\n\n\\n\nResolution:\\n\n- Executive will check.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to demanding.\\n\n\\n\n\\n\n@@@Key Topics:\\n\nnumber, call\\n\n\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a126cf60-2ca9-4eb1-bea7-4fdb83f59f63",
+  "ucid": "a126cf60-2ca9-4eb1-bea7-4fdb83f59f63",
+  "seller_categories": [
+    {
+      "mcat_id": "133933",
+      "mcat_name": "Synthetic Thickener"
+    },
+    {
+      "mcat_id": "9615",
+      "mcat_name": "Liquid Toilet Cleaners"
+    },
+    {
+      "mcat_id": "167127",
+      "mcat_name": "Release Agent"
+    },
+    {
+      "mcat_id": "2483",
+      "mcat_name": "Toilet Cleaners"
+    },
+    {
+      "mcat_id": "2663",
+      "mcat_name": "Urea"
+    }
+  ]
+}

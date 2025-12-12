@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669728873",
+  "gluser_id": "159340100",
+  "vintage_months": 11,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haan boliye. Haan ji sir, Vaibhav ji baat kar rahe hain?\\nCustomer: Kaun? Vaibhav? Ji Vaibhav se. Main namaste. Abhi aapne call kiya tha na?\\nExecutive: Haan haan madam boliye.\\nCustomer: To sir aapka jaise ki aapne customer care pe call kiya tha to aapka ek concern open ho gaya tha. To abhi aapne aapko jo puchna tha aapka concern solve ho gaya to main abhi ye aapka concern band kar rahi hoon.\\nCustomer: Okay.\\nExecutive: To sir, to isse ab main isko close kar sakti hoon na sir? Kuch aur to aapko pata nahi karna hai?\\nCustomer: Nahi nahi nahi nahi. Agar nahi hota to kya hi kar sakte hain. Bas mujhe puchna tha, concern close kar dijiye.\\nExecutive: Haan sir sir. Vahi bas confirm karna tha na sir aapko.\\nCustomer: Thik hai.\\nExecutive: Thik hai to main is concern ko close karti hoon sir. Thik hai?\\nCustomer: Okay.\\nExecutive: Okay okay. Aapke paas ek feedback ka mark jayega. Please usse apne hisab se kar lijiyega sir. Okay sir?\\nCustomer: Thik hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's concern was already opened.\\n\n- Customer wanted to confirm if concern was resolved.\\n\n\\n\nResolution:\\n\n- Executive confirmed concern closure.\\n\n- Executive informed about feedback link.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, closure, feedback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=61b1e0e5-35e0-4326-9837-cad096570ea7",
+  "ucid": "61b1e0e5-35e0-4326-9837-cad096570ea7",
+  "seller_categories": [
+    {
+      "mcat_id": "27668",
+      "mcat_name": "Electronic Torque Wrench"
+    },
+    {
+      "mcat_id": "29684",
+      "mcat_name": "Hydraulic Torque Wrenches"
+    },
+    {
+      "mcat_id": "656652",
+      "mcat_name": "Electric Torque Wrench"
+    },
+    {
+      "mcat_id": "2507",
+      "mcat_name": "Torque Wrench"
+    },
+    {
+      "mcat_id": "176267",
+      "mcat_name": "Bolting Services"
+    }
+  ]
+}

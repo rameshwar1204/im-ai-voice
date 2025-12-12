@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672773490",
+  "gluser_id": "97733210",
+  "vintage_months": 70,
+  "bl_dau_oct": 17,
+  "customer_type": "STAR",
+  "city_name": "Sirsa",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9667828",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHaan ji. Hello?\\nHan, namaskar sir. Aapne bola tha na ek ghante baad phone karne ke liye. \\nBas, bas, do minute do. Abhi kar raha hu back phone.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive to call back in two minutes.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall schedule\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8ec7fe7b-59a2-4669-ac32-4dca9a8203fd",
+  "ucid": "8ec7fe7b-59a2-4669-ac32-4dca9a8203fd",
+  "seller_categories": [
+    {
+      "mcat_id": "315637",
+      "mcat_name": "CO2 Gun"
+    },
+    {
+      "mcat_id": "183257",
+      "mcat_name": "Air Pistol"
+    },
+    {
+      "mcat_id": "50141",
+      "mcat_name": "Air Rifle"
+    },
+    {
+      "mcat_id": "21405",
+      "mcat_name": "Sports Air Guns"
+    },
+    {
+      "mcat_id": "651059",
+      "mcat_name": "Multi Shot Air Rifle"
+    }
+  ]
+}

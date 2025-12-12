@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667578004",
+  "gluser_id": "220315547",
+  "vintage_months": 19,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638224",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Ji hello ha good morning sir.\\nExecutive: Good morning sir.\\nCustomer: Ji sir aap mujhe bataye koi concern hai koi nahi kya aap service ke regarding.\\nExecutive: Ji sir kya aap ek cheez ye bataye sir lead bhi call nahi aati hamare pass na hi koi lead vagera kuch nahi aate matlab free me rakh liya aapne sabhi paise hue.\\nCustomer: India mart ne 34000 ka package liya kuch nahi diya abhi tak sir main ye janna chah raha hu matlab jo lead aap send karte hain daily basis pe dikkat aati hai ki sirf matlab monthly basis pe ek do bar send karte hain.\\nExecutive: Are sir monthly nahi daily basis pe aaj tak na jab se maine package liya hai na sir aaj tak ek bhi call mere ko receive nahi hua aaj tak bhi.\\nCustomer: Accha matlab\\nExecutive: Package liya aur ek bhi conversion nahi.\\nCustomer: Ek bhi call ha sir aap check kar lijiye mera call history me sabhi pata ek bhi call aaj tak mere ko nahi aaya ki leke ek single call mere ko receive hua ho ki koi customer ki bhai ki mere ko ye chahiye aaj tak bhi nahi aaya.\\nExecutive: To calls ka issue aa raha hai baki leads vagera kaisi aa rahi hai.\\nCustomer: Lead bhi kuch nahi aa raha na call se lead nahi leads bhi kuch nahi hai sir.\\nExecutive: Aur mera na ek secondary number aur hai isme add na to aap ek bar unse bhi baat kar lijiye.\\nCustomer: Ha sir unka number main aapko bata deta hu second number kya hai aap unse bhi ek bar baat kijiye wo bhi aapko concern bata denge ki unka kya concern hai ek minute rukiye sir.\\nExecutive: Ye to thik hai sir main call hi connect karta hu abhi hai na ghar me hai na.\\nCustomer: 219 hai last me sir aap ek bar baat kar lijiye mere bhaiya ji hai.\\nExecutive: Thik hai sir unse baat kar lunga sir main kal aapko office system pe theek hai.\\nCustomer: Thik hai.\\nExecutive: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No lead calls or any leads received.\\n\n- Package of \u20b934,000 taken, nothing given yet.\\n\n- No calls received since taking the package.\\n\n- No leads are coming.\\n\n\\n\nResolution:\\n\n- Executive assured to connect the call.\\n\n- Executive assured to call from office system tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call customer from office tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, calls\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0bc962bd-b259-451e-b932-afbb3021a612",
+  "ucid": "0bc962bd-b259-451e-b932-afbb3021a612",
+  "seller_categories": [
+    {
+      "mcat_id": "70078",
+      "mcat_name": "Radha Krishna Statues"
+    },
+    {
+      "mcat_id": "655827",
+      "mcat_name": "Marble Dust Resin Statue"
+    },
+    {
+      "mcat_id": "18480",
+      "mcat_name": "Ram Statue"
+    },
+    {
+      "mcat_id": "656092",
+      "mcat_name": "Marble Khatu Shyam Statue"
+    },
+    {
+      "mcat_id": "9873",
+      "mcat_name": "Marble Statue"
+    }
+  ]
+}

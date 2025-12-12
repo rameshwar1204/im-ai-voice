@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675720263",
+  "gluser_id": "249102622",
+  "vintage_months": 4,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Raipur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9716246",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji sir, namaskar. Mai A.S. Trading Chhattisgarh Raipur se bol raha hu.\\nCustomer: Ha sir boliye.\\nExecutive: A, ek hamare catalog me vermi compost ka jo rate hai.\\nCustomer: \\nExecutive: Wo rate ko thoda change karna tha.\\nCustomer: Achha.\\nExecutive: Isliye kyuki baki logo ka jo rate hai usse mera rate thoda high lag raha hai mujhe.\\nExecutive: Isliye inquiry vagarah kafi kam aa rahe hai hamare paas.\\nExecutive: Sir abhi to maafi chahunga ye subah ho payega kam to koi dikkat.\\nCustomer: Nahi subah bhi hone se koi dikkat nahi.\\nExecutive: Ek jankari aur denge aapko call ek baar me.\\nCustomer: Ha bataye bilkul.\\nExecutive: A, vermi compost ka rate apna Chhattisgarh ke jo bhi partiyo ka hai.\\nCustomer: \\nExecutive: Unka ek average rate chahenge.\\nExecutive: Sir ye bhi mai bata dunga subah.\\nCustomer: Subah batayenge na?\\nExecutive: Ye bhi subah hi bata paunga subah ha mai bata dunga.\\nExecutive: Ye to aap vaise bhi khud bhi dekh sakte hai.\\nCustomer: Mai wohi dekh raha hu.\\nCustomer: Mai wohi dekh raha hu.\\nExecutive: A mujhe office kitne baje khulta hai aap logo ka?\\nExecutive: Sir 9:00 khul jata hai par kaam vaam chalu 10:00 baje tak hota hai.\\nCustomer: 10:00 baje.\\nCustomer: Wohi 11:00 baje kareeb phone karna sahi?\\nExecutive: Theek hai theek hai.\\nCustomer: Theek, theek hai sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to change vermi compost rate in catalog.\\n\n- Feels his rate is higher than competitors.\\n\n- Wants average vermi compost rate of Chhattisgarh parties.\\n\n\\n\nResolution:\\n\n- Executive said the rate change can be done tomorrow.\\n\n- Executive will provide average rate tomorrow.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- rate change, vermi compost, catalog\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 131,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=587bc444-5db9-4910-b290-cfc35632c8dd",
+  "ucid": "587bc444-5db9-4910-b290-cfc35632c8dd",
+  "seller_categories": [
+    {
+      "mcat_id": "193023",
+      "mcat_name": "Vetiver Grass"
+    },
+    {
+      "mcat_id": "2728",
+      "mcat_name": "Vermicompost"
+    },
+    {
+      "mcat_id": "32022",
+      "mcat_name": "Lemongrass Plant"
+    },
+    {
+      "mcat_id": "183773",
+      "mcat_name": "Marigold Plant"
+    },
+    {
+      "mcat_id": "162937",
+      "mcat_name": "Vetiver Root"
+    }
+  ]
+}

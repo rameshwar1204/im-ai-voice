@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667566205",
+  "gluser_id": "61065959",
+  "vintage_months": 12,
+  "bl_dau_oct": 16,
+  "customer_type": "TSCATALOG",
+  "city_name": "North 24 Parganas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nHello\\nCustomer: Yeah who is this? Ji.\\nExecutive: Haan India Mart se\\nCustomer: Phone baat kar rahe ho sir\\nCustomer: Sharma ji ka price to bol raha hai. Hello.\\nCustomer: Bol raha hai Sharma ji ka price to bol raha hai.\\nExecutive: Uh sir main abhi office se nikal aa chuka hu. Can we connect it tomorrow?\\nCustomer: Humko ye thoda complaint number chahiye complaint karna tha.\\nExecutive: Kya issue ho gaya sir bataiye complaint number hai ye.\\nCustomer: Haan\\nExecutive: Kya issue ho gaya hai sir bataiye complaint number hai ye.\\nCustomer: Haan to ye jo mera ye dekh raha hai jo banda\\nExecutive: Ji ye mera jo\\nCustomer: Aaj tak kar raha hai jo dekh raha hai\\nExecutive: Ji wo actually kya hai usko humko dusra koi chahiye banda ye banda jo hai koi response nahi de raha.\\nExecutive: Ji\\nCustomer: Na iska baat karne ka koi dhang hai. Jab dekho tab wo kabhi kabhi phone nahi karta nahi usko to mera number bhi nahi uske paas malum hai ki kya hai nahi isse pehle aapke India Mart mein do teen cycle kiye wo log sahi aadmi the. Mohit ji hai aur bhi do char banda tha. Lekin ye jab se banda aaya hai na aaj tak phone karta hai nahi koi mera file ka check karta hai aur baat karne se bhi baat tedha tedha karta hai. Uske baad jab bhi hum phone karenge tab bolta hai yaha hai waha hai. Isko humko change karna hai.\\nExecutive: Done sir we will connected on tomorrow for the same. Main ye complaint raise kar raha hu baki ka main unse baat karke aapko bata deta hu. Thik hai?\\nCustomer: Haan ye cheez bataiye humko.\\nExecutive: Okay thank you sir.\\nExecutive: Anything else?\\nCustomer: Aur kuch?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change the current executive.\\n- Executive is not responding and not handling file.\\n\\n\nResolution:\\n\n- Executive assured to raise a complaint.\\n- Executive assured to connect the next day.\\n\\n\nNext Steps: \\n\nIssue not resolved. Executive will connect next day.\\n\nAlert (If Any):\\n\ncomplaint\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- complaint, executive, file, response\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 120,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=96e0c619-4a54-46e4-8c35-35ccf2e6cfd0",
+  "ucid": "96e0c619-4a54-46e4-8c35-35ccf2e6cfd0",
+  "seller_categories": [
+    {
+      "mcat_id": "184336",
+      "mcat_name": "Tipper Truck Rental Services"
+    },
+    {
+      "mcat_id": "181819",
+      "mcat_name": "JCB Backhoe Loader"
+    },
+    {
+      "mcat_id": "215426",
+      "mcat_name": "JCB Excavator Rental"
+    },
+    {
+      "mcat_id": "42923",
+      "mcat_name": "River Sand"
+    },
+    {
+      "mcat_id": "169391",
+      "mcat_name": "Hydra Crane Rental Service"
+    }
+  ]
+}

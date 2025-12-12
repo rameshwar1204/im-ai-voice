@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673436229",
+  "gluser_id": "5916648",
+  "vintage_months": 20,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Tiruchirappalli",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671073",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ed76c12e-e8eb-447d-9684-81223627338e",
+  "ucid": "ed76c12e-e8eb-447d-9684-81223627338e",
+  "seller_categories": [
+    {
+      "mcat_id": "181452",
+      "mcat_name": "LED Sign Board"
+    },
+    {
+      "mcat_id": "96134",
+      "mcat_name": "LED Photo Frame"
+    },
+    {
+      "mcat_id": "181453",
+      "mcat_name": "Acrylic LED Sign Board"
+    },
+    {
+      "mcat_id": "167429",
+      "mcat_name": "Stainless Steel Letter"
+    },
+    {
+      "mcat_id": "95424",
+      "mcat_name": "LED Display Board"
+    }
+  ]
+}

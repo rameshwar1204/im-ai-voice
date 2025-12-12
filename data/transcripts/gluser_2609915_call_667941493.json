@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667941493",
+  "gluser_id": "2609915",
+  "vintage_months": 29,
+  "bl_dau_oct": 2,
+  "customer_type": "ExportTS",
+  "city_name": "Solan",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9639676",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Person you have called is speaking to someone else you can wait\\nCustomer: Hello\\nExecutive: Hello ha manish sir\\nCustomer: Yes\\nExecutive: Good morning ashraf baat kar raha hun india mart ke head office se kaise hain aap\\nCustomer: Ji ji\\nExecutive: Ji ji ek sir aapki call aayi thi na customer care pe india mart pe ki jo buyers ki call aa rahi hai wo basically disconnect ho ja rahi hai\\nCustomer: Disconnect nahi ho ja rahi wo plan aap logo ko pehle bhi kaha hai aap log agar isko ya to manna nahi chahte ya aap log plan way me karte hain tabhi aise thodi kisi aur ki call hamare phone pe nahi disconnect hoti\\nExecutive: Accha ji\\nCustomer: Do ring hue aur khatam ho gayi band ho gayi uthane ka bhi time nahi dete ki utha lenge to fir baat karni padegi fir pata chal jayega samne koi buyer hai nahi to uthao tab tak band ho jati hai pehle bhi aapko keh chuke hain raat ko 11 baje aayegi 12 baje aayegi call ya aise aayegi ki ek do ring pe kat jayegi ki koi utha na le jab tak utha ke kaan pe lagaye aur green button dabaye tab tak kat jati hai call\\nExecutive: Hmm hmm\\nCustomer: Fir aap dikhane ke liye ki aapko humne 10 call ki pichle mahine aap log kar dete hain aise aise thodi hota hai\\nExecutive: To theek hai aisa nahi hota hai ab aap mujhe bataiye liya sabse puch liya kisi aur number pe bhi nahi aayi call\\nCustomer: Sir sir kya baat kar rahe ho aap aap ye bataiye kal aapke pass buyer ki call aayi hai kareeb panch minute ya che minute baat hui hai aapko pata hai kis number pe baat hui hai\\nExecutive: Ji\\nCustomer: Are bhai hui hogi lekin ye jo incidence hai wo aapko bataya aur aise kai baar instance bata chuke hain aapko\\nExecutive: Are sir to aap aisa kyu keh rahe ki hum dikhane ke liye call karwa rahe hain kisi se abhi fir aap ginate hain na ki humne dekhiye 10 call are kyu hum ginayenge sir aapko aisa gina ke hame kya milega sir\\nCustomer: Are kyu hum ginayenge sir aapko aisa gina ke hame kya milega sir\\nExecutive: To ye bataiye na ek ring pe do ring pe kyu kat jati hai ab ho sakta hai buyer ne hi disconnect kar diya ho ek do ring pe chaliye theek hai ab jaise char tarikh ko\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Buyers' calls are getting disconnected.\\n\n- Calls received late at night.\\n\n- Calls disconnect after one or two rings.\\n\n\\n\nResolution:\\n\n- Executive stated that it might be possible buyer disconnected.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, disconnect, call timing\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 118,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e2030091-3042-484c-bff1-8fd31cbd42b2",
+  "ucid": "e2030091-3042-484c-bff1-8fd31cbd42b2",
+  "seller_categories": [
+    {
+      "mcat_id": "280391",
+      "mcat_name": "Pain Relief Patch"
+    },
+    {
+      "mcat_id": "2836",
+      "mcat_name": "Surgical Dressing"
+    },
+    {
+      "mcat_id": "21859",
+      "mcat_name": "Band Aid"
+    },
+    {
+      "mcat_id": "107123",
+      "mcat_name": "Cannula Fixators"
+    },
+    {
+      "mcat_id": "50753",
+      "mcat_name": "Adhesive Wound Dressing"
+    }
+  ]
+}

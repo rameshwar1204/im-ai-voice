@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673726597",
+  "gluser_id": "203751191",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Bardhaman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698307",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan.\\nCustomer: Ji sir aapka ek mail aaya hai buylead ke regarding.\\nCustomer: Haan.\\nExecutive: Aapne kiya hai?\\nCustomer: Haan kiya hai.\\nExecutive: Ji bataiye kya problem aa rahi hai?\\nCustomer: Aapka jitna bhi leads aa raha hai, mai sabse contact kar raha hu, woh bol raha hai ki maine diya hi nahi.\\nExecutive: Ek minute hold kijiye. Aisa sirf leads pe ho raha hai ya direct calls aur inquiries pe bhi ho raha hai?\\nCustomer: Direct calls pe hi ho raha hai toh mai jab unse baat kar raha hu, toh bola mai toh aisa koi inquiry diya hi nahi.\\nExecutive: Sabse thodi na ho raha hoga.\\nCustomer: Sabse ho raha hai, sunenge aap? Ek minute hold kijiye, ek minute hold kijiye.\\nCustomer: Ek minute hold kijiye.\\nExecutive: Ji ji.\\nCustomer: Ek minute hold kijiye mai aapko sunata hu.\\nCustomer: Hello.\\nExecutive: Haan sir sun rahe hai.\\nCustomer: Haan ye play nahi ho raha hai, ek minute rukiye.\\nCustomer: Hum aapko dusra phone pe recording, aapko mai dusra phone se phone kar raha hu, aapko mai recording suna raha hu, ye suniye isko, nahi toh mai isko send kar raha hu aapke paas, thik hai? Aap isko suniye.\\nCustomer: Haan.\\nCustomer: Hum aapko abhi isi number pe aapka number pe mai SMS WhatsApp kar raha hu, WhatsApp me sara call jitna bhi mai call kiya hu, sara call mai aapko ye kar raha hu, uska recording suniye kya bol raha hai party, thik hai na? Uske baad aap boliye jo bolna hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving fake buyleads.\\n\n- Contacts deny submitting any inquiry.\\n\n\\n\nResolution:\\n\n- Executive asked if issue with leads or direct calls.\\n\n- Customer will share call recordings via WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, fake leads, calls, whatsapp\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 116,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0ad7f39e-351a-4ba4-93f6-f32463182d14",
+  "ucid": "0ad7f39e-351a-4ba4-93f6-f32463182d14",
+  "seller_categories": [
+    {
+      "mcat_id": "168563",
+      "mcat_name": "Full Truck Load Transport Service"
+    },
+    {
+      "mcat_id": "13675",
+      "mcat_name": "Chain Link Fencing"
+    },
+    {
+      "mcat_id": "42703",
+      "mcat_name": "Transportation Services"
+    },
+    {
+      "mcat_id": "69543",
+      "mcat_name": "Goods Transport Services"
+    },
+    {
+      "mcat_id": "147225",
+      "mcat_name": "Generator Repair Services"
+    }
+  ]
+}

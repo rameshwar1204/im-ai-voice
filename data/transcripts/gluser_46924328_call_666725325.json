@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666725325",
+  "gluser_id": "46924328",
+  "vintage_months": 10,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Jaitu",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9624696",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\n",
+  "summary": "\\n\\nConcerns:\\n\\n- Customer answered the call.\\n\\n\\nResolution:\\n\\n- The call disconnected immediately after the customer said \\\"Hello\\\".\\n\\n\\nNext Steps: \\nIssue not resolved. The call disconnected before any conversation could take place.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- call drop\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 13,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5ebc017d-0182-4794-8b9e-d9c0dca2dffd",
+  "ucid": "5ebc017d-0182-4794-8b9e-d9c0dca2dffd",
+  "seller_categories": [
+    {
+      "mcat_id": "192608",
+      "mcat_name": "Floor Tile Adhesive"
+    },
+    {
+      "mcat_id": "27940",
+      "mcat_name": "Epoxy Grout"
+    },
+    {
+      "mcat_id": "38944",
+      "mcat_name": "Tile Adhesives"
+    },
+    {
+      "mcat_id": "3488",
+      "mcat_name": "Wood Adhesive"
+    },
+    {
+      "mcat_id": "189085",
+      "mcat_name": "Ceramic Tile Adhesives"
+    }
+  ]
+}

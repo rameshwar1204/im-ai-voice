@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670598663",
+  "gluser_id": "252802341",
+  "vintage_months": 2,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Beed",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667846",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Aapan jala call kela ahe, toh aata kunashi bolat ahe. Aapan pratiksha kimananter call karu shakta. Aapne jis vyakti ko call kiya hai, woh anya call par vyast hai. Kripya pratiksha karein ya kuch samay paschat prayas karein.\\nThe person you have called is speaking to someone else. You can wait or call again later.\\nAapan jala call kela ahe, toh aata kuna\\nHa.\\nHello.\\nHa.\\nHello.\\nHa ha.\\nJi, good morning sir. Sankalp Medical mein baat ho rahi hai.\\nHa.\\nNitish haat rakhna IndiaMART office se.\\nSir, main karta hu na aapko free ho kar ke. Okay okay, dusre wale number pe woh waiting ja raha tha, fir call back bhi aaya, toh call nahi ja raha tha. phone chala raha hu.\\nHo gaya. Abhi main aapko free hone ke baad mein kuch. Mujhe bas ek chota sa point puchna tha sir.\\nHmm.\\nJaise aapke number se miss call aaya tha account manager ke end pe, toh uss wajah se ek complaint raise ho gaya tha.\\nSo, aapko kuch problem toh nahi aa raha hai abhi portal ko lekar? Nahi nahi, koi problem nahi hai, woh toh hum khud hi nahi kar pa rahe.\\nJi ji, toh is complaint ko close kar du?\\nKar do, kar do. Koi dikkat nahi.\\nThik hai, close kar dete hai. Okay.\\nThank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a missed call from account manager.\\n\n- A complaint was raised due to the missed call.\\n\n- Customer is unable to use the portal.\\n\n\\n\nResolution:\\n\n- Executive inquired about the problem with the portal.\\n\n- Executive offered to close the complaint.\\n\n- Complaint closed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- complaint, portal, account manager, missed call\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=078343b1-49c0-4cff-9bad-5d3b7486d155",
+  "ucid": "078343b1-49c0-4cff-9bad-5d3b7486d155",
+  "seller_categories": [
+    {
+      "mcat_id": "5209",
+      "mcat_name": "Moisturizing Lotion"
+    },
+    {
+      "mcat_id": "444632",
+      "mcat_name": "Kadha"
+    },
+    {
+      "mcat_id": "190134",
+      "mcat_name": "Skin Whitening Soap"
+    },
+    {
+      "mcat_id": "7508",
+      "mcat_name": "Omeprazole Capsule"
+    },
+    {
+      "mcat_id": "279743",
+      "mcat_name": "Cyproheptadine Tricholine Citrate Syrup"
+    }
+  ]
+}

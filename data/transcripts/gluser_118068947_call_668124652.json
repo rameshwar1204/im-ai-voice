@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668124652",
+  "gluser_id": "118068947",
+  "vintage_months": 24,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9643261",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\n\\nExecutive: Hello?\\n\\nCustomer: Hello?\\n\\nExecutive: IndiaMART?\\n\\nCustomer: Haanji sir IndiaMART se baat kar rahi hu.\\n\\nCustomer: Haan P Enterprises se baat kar rahe hai hum log, P Enterprises.\\n\\nExecutive: Haanji sir bataiye, Rajeev sir baat kar rahe hai?\\n\\nCustomer: Haan Rajeev.\\n\\nExecutive: Haanji sir bataiye.\\n\\nExecutive: Wo jo mai abhi regular jo number se mai login karta hu na IndiaMART ka.\\n\\nCustomer: Kya sir?\\n\\nExecutive: Mai regular ID hai na.\\n\\nExecutive: Sir aapki voice break ho rahi hai. Hello, haanji abhi bataiye. Aap Chetna mam bol rahe ho na?\\n\\nCustomer: Haanji sir Chetna baat kar rahi hu. Aapne message kiya tha mujhe WhatsApp pe, hi mam.\\n\\nExecutive: Abhi mai aapko call kar dunga wo number pe.\\n\\nExecutive: Aap mujhe\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issue with regular login ID.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to tell the issue.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- login issue, indiamart, regular id\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 55,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6ab859ca-fd6b-470e-94f5-947669633651",
+  "ucid": "6ab859ca-fd6b-470e-94f5-947669633651",
+  "seller_categories": [
+    {
+      "mcat_id": "166148",
+      "mcat_name": "Acrylic Trophies"
+    },
+    {
+      "mcat_id": "132574",
+      "mcat_name": "Award Trophies"
+    },
+    {
+      "mcat_id": "43269",
+      "mcat_name": "Crystal Trophies"
+    },
+    {
+      "mcat_id": "11348",
+      "mcat_name": "Lapel Pins"
+    },
+    {
+      "mcat_id": "43268",
+      "mcat_name": "Metal Trophies"
+    }
+  ]
+}

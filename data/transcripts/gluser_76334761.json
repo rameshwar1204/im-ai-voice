@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668998242",
+  "gluser_id": "76334761",
+  "vintage_months": 71,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Rewa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650553",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Hi good afternoon sir. Reva Craft and Machinery se baat ho rahi hai meri?\\nCustomer: Ji.\\nExecutive: Ji sir, Ekta baat kar rahi hu mai Indiamart se aapke account manager. Sir aapke sath end se na ek video meeting ke liye concern open hua hai. To video meeting wagera ka kuch requirement tha aapko?\\nCustomer: Ek second lijiyega aap kariye baat kariye.\\nExecutive: Ji.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Yes ma'am.\\nExecutive: Haan ji sir. Sir mai ye keh rahi thi ki aapke portal se na jo Indiamart ki service aap use karte ho na.\\nCustomer: Hmm.\\nExecutive: Waha se mere pass ek video meeting ka concern aaya hai to aisa kuch aapne raise kiya hai kya?\\nCustomer: Shayad galti se tap ho gaya hoga. Kal to meeting maine le li thi.\\nExecutive: Haan ji haan ji wahi mai confirm karna chah rahi thi.\\nCustomer: Okay okay koi issue nahi wo galti se tap ho gaya hoga.\\nExecutive: Galti se tap ho gaya tha. Alright. So one thing sir aapka na ye concern open hua hai na jo ki abhi to isko mai close karungi. To iska na feedback mil jayega aapke pass. To isme please aap satisfy kijiyega.\\nCustomer: Okay okay ma'am.\\nExecutive: Alright thank you sir.\\nCustomer: Ek aad follow up hona chahiye.\\nExecutive: Haan thik hai koi nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about video meeting concern.\\n\nResolution:\\n\n- Customer said it was tapped by mistake.\\n- Executive will close the concern.\\n- Executive requested customer to satisfy feedback.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, concern, feedback\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 94,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=338d831b-e916-47eb-b8d6-dd1d77bf1666",
+  "ucid": "338d831b-e916-47eb-b8d6-dd1d77bf1666",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "182625",
+      "mcat_name": "Dona Making Machine"
+    },
+    {
+      "mcat_id": "152232",
+      "mcat_name": "Fully Automatic Dona Making Machine"
+    },
+    {
+      "mcat_id": "120835",
+      "mcat_name": "Paper Dona Machine"
+    },
+    {
+      "mcat_id": "181573",
+      "mcat_name": "SS RO Plant"
+    }
+  ]
+}

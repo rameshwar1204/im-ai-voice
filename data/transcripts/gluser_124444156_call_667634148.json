@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667634148",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji. Namaskar Nitish ji sab baat. Haan ji sir.\\nCustomer: Yes sir. Nitish bhaiya kya hua kuch bhi nahi hua bhaiya bekar ho gaya sab.\\nExecutive: Kya?\\nCustomer: Kal itna samay lagwa ke aapne karke diya fir bhi kuch bhi difference nahi dikh raha hai. Jaisa ka waisa hi pada hua hai. Na to inquiry aana hai na to call aa raha hai bataiye.\\nExecutive: Haan. Na inquiry aa raha hai na call aa raha hai. Haan bataiye.\\nCustomer: Nahi inquiry vagarah kuch bhi pada nahi bhaiya. Sir badh jayega sir wait to kijiye kal to product aapko start hi kiye wait to kijiye sir kal to activate kiye jo expired product tha.\\nCustomer: Bhaiya koi dusra banda tha wo jab bhi theek karke deta tha to theek ho jata tha. Humko do teen din se. Sir abhi to itne time se sahi hi chal raha hai.\\nCustomer: Aap aisa bahut bol rahe kal aap khud bhi activate kiye kuch product active kiye to wo sahi ho jayega na.\\nCustomer: Theek hai bhaiya ji.\\nExecutive: Aur hone dijiye abhi intezaar. Theek ho jayega aap kyun tension le rahe hain ho jayega sahi.\\nCustomer: Bhaiya ek baar fir bhi dekh ke dijiye aap. Kuch bhi nahi hua hai bhaiya kuch bhi difference nahi dikh raha hai bhaiya. Sir ho jayega.\\n",
+  "summary": "\\n\nConcerns:\\n\n- No inquiries or calls after recent activation.\\n\n- Dissatisfied with current service compared to previous executive.\\n\n\\n\nResolution:\\n\n- Executive assured the customer to wait.\\n\n- Executive mentioned the products were activated yesterday.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, activation, product, inquiries\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 86,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=868e45e9-4098-47d6-bb71-baaca8e4cbb9",
+  "ucid": "868e45e9-4098-47d6-bb71-baaca8e4cbb9",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

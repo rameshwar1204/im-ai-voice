@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671158842",
+  "gluser_id": "163925251",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667175",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello?\\nExecutive: Haan, Saakib sir, abhi free ho gaye? Main call kar doon aapko?\\nCustomer: Hello?\\nExecutive: Hello? Haan, Saakib sir, Vivek baat kar raha hoon main. Aapne bola tha na 12:30 pe call karne ke liye. Video meet pe join ho jayenge aap?\\nCustomer: [inaudible]\\nExecutive: Vivek sir, Vivek baat kar raha hoon main. IndiaMART se.\\nCustomer: Haan sir.\\nExecutive: Haan, aapne bola tha na 12:30 ke baad 12:30 pe call kar lenge aap video meet pe join ho jayenge. To abhi join ho sakte hain aap?\\nCustomer: Sir, thoda bahut time lag jayega mujhe.\\nExecutive: Haan ji? Abhi free bhi hoon main.\\nExecutive: Free nahi hue? Sir, only 10-12 minute ka time nikal lijiye. Bas kya hai ki na aap ek to not satisfied kiya tha na aapne to us wajah se aapki ticket raise hai. Abhi wo close karni padegi hume apne side se. Isliye keh raha hoon sir aapko jara. Aapko bhi sir baar baar pareshan nahi hona padega. Process ye hai ki abhi ke abhi khatam hi ho jaye to 15 minute ka time chahiye bas.\\nCustomer: Haan sir.\\nExecutive: Haan ji? Main sir aapko call kar lunga, main phir call kar lunga sir aapko. Muting kar raha hoon.\\nExecutive: To aap bata dijiye actually kya hai aapne bola tha 12:30 ke free, maine 12:30 ke baad hi call kiya hua hai.\\nCustomer: [inaudible]\\nExecutive: Haan ji?\\nCustomer: Shaam free sir main.\\nExecutive: Shaam ke time pe?\\nCustomer: Haan sir, main abhi free ho jaunga to main aapko phir call kar dunga sir.\\nExecutive: Aap sir samajh nahi aa raha kya bol rahe hain sir aap kitne time ki bol rahe hain sir aap?\\nCustomer: Sir main keh raha hoon ki abhi main free ho kar main aapko call kar dunga.\\nExecutive: Nahi, ek koi time to hoga na sir ki itne time tak karenge aap isliye bol raha tha main.\\nCustomer: Sir, shaam main aapko phir call kar dunga sir aapko.\\nExecutive: Theek hai sir. Isliye keh raha tha aap call kar sakte hain mujhe.\\nCustomer: Haan ji?\\nCustomer: Haan, haan sir main call kar lunga aapko sir.\\nExecutive: Theek hai sir, call kar lena.\\nCustomer: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive needs to close customer's raised ticket.\\n\n- Customer is not available to connect immediately.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to connect for 15 minutes.\\n\n- Customer said he will call back in the evening.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in the evening.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, video meet, call back\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 137,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2158efea-bf0d-4023-95f9-4ceac4f1f84c",
+  "ucid": "2158efea-bf0d-4023-95f9-4ceac4f1f84c",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "224235",
+      "mcat_name": "Marble Pedestal Wash Basin"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    }
+  ]
+}

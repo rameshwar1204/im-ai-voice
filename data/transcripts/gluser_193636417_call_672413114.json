@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672413114",
+  "gluser_id": "193636417",
+  "vintage_months": 2,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Villupuram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686440",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fb3b3428-1954-4463-8347-d94279a2ae16",
+  "ucid": "fb3b3428-1954-4463-8347-d94279a2ae16",
+  "seller_categories": [
+    {
+      "mcat_id": "176223",
+      "mcat_name": "Sambrani Cup"
+    },
+    {
+      "mcat_id": "191244",
+      "mcat_name": "Sambrani Dhoop"
+    },
+    {
+      "mcat_id": "113722",
+      "mcat_name": "Maize"
+    },
+    {
+      "mcat_id": "166061",
+      "mcat_name": "Loban"
+    },
+    {
+      "mcat_id": "152163",
+      "mcat_name": "Sambrani Making Machine"
+    }
+  ]
+}

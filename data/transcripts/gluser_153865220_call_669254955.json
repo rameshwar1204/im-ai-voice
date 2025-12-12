@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669254955",
+  "gluser_id": "153865220",
+  "vintage_months": 37,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ramtek",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643893",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Ji boliye sir.\\nCustomer: Good morning sir, main Ashwarya baat kar raha tha Indiamart.com se.\\nExecutive: Ji boliye.\\nCustomer: Friday baat ho rahi thi na aap se service vagarah ko leke.\\nExecutive: Ji ji boliye sir.\\nCustomer: To wo abhi us time to office ka time ho gaya tha to wo main group vagarah create nahi kar paya.\\nExecutive: Ji ji.\\nCustomer: To main wo create karke na isko concern ko close karke aapko bhej raha hu.\\nExecutive: Okay okay.\\nCustomer: Jo bhi koi aisi lead aati hai na jahan par ki badi quantity likha ho aur chota mangta hai.\\nExecutive: Haan.\\nCustomer: To aisi lead bhi aap group me bhej diya karna so that ki main on the spot usko check karwa paun.\\nExecutive: Okay okay, theek hai sir.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Could not create group due to office time.\\n\n- Wants to send leads with quantity discrepancies in group.\\n\n\\n\nResolution:\\n\n- Executive agreed to send leads in group.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, group, quantity\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c5432423-d320-4c09-94b6-b60d73e9b17a",
+  "ucid": "c5432423-d320-4c09-94b6-b60d73e9b17a",
+  "seller_categories": [
+    {
+      "mcat_id": "20954",
+      "mcat_name": "Men Bicycle"
+    },
+    {
+      "mcat_id": "186514",
+      "mcat_name": "Leather Cricket Ball"
+    },
+    {
+      "mcat_id": "88462",
+      "mcat_name": "School Shoes"
+    },
+    {
+      "mcat_id": "105828",
+      "mcat_name": "Bicycle"
+    },
+    {
+      "mcat_id": "78535",
+      "mcat_name": "Men Tracksuit"
+    }
+  ]
+}

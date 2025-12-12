@@ -1,0 +1,38 @@
+{
+  "click_to_call_id": "676928447",
+  "gluser_id": "7627055",
+  "vintage_months": 0,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Thoothukudi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9726807",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir.\\nCustomer: [Unintelligible].\\nExecutive: Good morning sir, speaking from IndiaMART.\\nCustomer: Madam, this, you, number is different. If I am satisfied and put it, do I have to put permanent again?\\nExecutive: No sir, if you are satisfied, if you are moving something, then you can give me feedback. You can give me only which exchange you want to do from this.\\nCustomer: Which one do you want me to give? I have given satisfied. Which one do you want me to give?\\nExecutive: If any page is open, sir, after giving satisfied.\\nCustomer: Nothing is opening.\\nExecutive: Just give satisfied sir. Is it getting clicked for you?\\nCustomer: Yes. Yes, in that your feedback option for service request number has been already submitted.\\nExecutive: It has been submitted sir. Actually, I think you have already given it. I think you have just given satisfied.\\nCustomer: Yes, it came and it asked satisfied in that. I thought I will give it again.\\nExecutive: Actually, it is closed sir.\\nCustomer: Okay okay madam okay. In that, will I have to comment something in that when giving?\\nExecutive: It will be showing sir. One minute sir.\\nCustomer: Okay, okay. Okay, I will see next time. Okay madam okay. If you want to contact, directly call on my number sir.\\nCustomer: Ah, okay okay okay. Which number to call?\\nExecutive: Sir, message me. You were already talking, right? You were already talking on this number only, right?\\nCustomer: Ah, look at sir, actually number, just look at that.\\nExecutive: Ah, okay. Okay okay madam okay madam okay.\\nExecutive: Okay okay thank you so much.\\nCustomer: Okay okay okay madam.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked about submitting permanent feedback again.\\n\n\\n\nResolution:\\n\n- Executive clarified feedback already submitted.\\n\n- Executive provided her direct contact number.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, contact number, satisfaction\\n\n\\n",
+  "call_entered_on": "11/29/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e3f7dce8-993d-41ec-a666-26cac55ea48b",
+  "ucid": "e3f7dce8-993d-41ec-a666-26cac55ea48b",
+  "seller_categories": [
+    {
+      "mcat_id": "2992",
+      "mcat_name": "Teak Wood Doors"
+    },
+    {
+      "mcat_id": "5588",
+      "mcat_name": "Carved Wood Doors"
+    },
+    {
+      "mcat_id": "186624",
+      "mcat_name": "Teak Wood Carving Door"
+    },
+    {
+      "mcat_id": "186621",
+      "mcat_name": "Burma Teak Wood Doors"
+    }
+  ]
+}

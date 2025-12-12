@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672123495",
+  "gluser_id": "63156093",
+  "vintage_months": 34,
+  "bl_dau_oct": 11,
+  "customer_type": "BL Paid VFCP",
+  "city_name": "Mandsaur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683639",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello. Hello, good evening sir. Sir, maine mail kar diya hai, aap check kar lijiyega sir. Thik hai?\\nCustomer: Sir ye to ye normal ID se kiya na aapne?\\nExecutive: Sir meri IndiaMART ki ID hai, check kijiye sir.\\nCustomer: IndiaMART ki ID hai.\\nExecutive: Sir.\\nCustomer: Thik hai.\\nCustomer: Sir ye thik hai, aapke liye 24 ghante ke liye intzaar karenge na?\\nCustomer: Aap isko karwao.\\nExecutive: 24 hours.\\nCustomer: Sir ho jayega sir aapka.\\nCustomer: Ji.\\nCustomer: Haan.\\nCustomer: Hume kya hai na, hume.\\nExecutive: 4 hours ka time dijiye sir, ho jayega.\\nCustomer: Thik hai, ye madam to abhi bol ke gaye the ki hum log karwa denge sham tak aur kya aisa kyu hua?\\nExecutive: Sir wo na thoda matlab isme verification hota hai sir, 24 hours lag jata hai sir.\\nCustomer: Thik hai, verification madam.\\nExecutive: Haan ji sir, matlab 24 hours tak ka wait kar lijiye aapka ho jayega sir.\\nExecutive: Wo thoda.\\nCustomer: Haan.\\nCustomer: Sir.\\nExecutive: Sir 24 hours me aapka ho jayega sir.\\nExecutive: 24 hours to wait kar lijiye.\\nCustomer: Verification kya karna hai madam aapko. Chaliye thik hai.\\nExecutive: Sir ek.\\nCustomer: Okay sir, okay. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks why work not done by evening.\\n\n- Customer asks about verification process.\\n\n\\n\nResolution:\\n\n- Executive says verification takes 24 hours.\\n\n- Executive asks customer to wait 24 hours.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, mail, id\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3e107419-7791-4cf7-8b16-f7436cd4aa16",
+  "ucid": "3e107419-7791-4cf7-8b16-f7436cd4aa16",
+  "seller_categories": [
+    {
+      "mcat_id": "77641",
+      "mcat_name": "Destoner"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "138056",
+      "mcat_name": "Rice Destoner"
+    },
+    {
+      "mcat_id": "8486",
+      "mcat_name": "Seed Cleaning Machine"
+    },
+    {
+      "mcat_id": "146226",
+      "mcat_name": "Food Grading Machine"
+    }
+  ]
+}

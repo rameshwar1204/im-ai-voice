@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668048423",
+  "gluser_id": "116239620",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Karnal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639318",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: The person you have called is speaking to someone else. You can wait or call again later.\\nThe person you have called is speaking to someone else. You can wait\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haanji sir, haanji haanji.\\nCustomer: Haanji maine add kar diya hai maine. Aur wo maine us time dekha to us time add nahi hua tha abhi add hua hoga ye.\\nCustomer: Haan maine sare product isme add kar diye hain. Aur jo aapke different product hai like cold storage wala hai aur macaroni hai aur pasta isme nahi add kiya maine ye sab product.\\nExecutive: Haanji.\\nCustomer: Ji ji.\\nExecutive: To maine ye do product aapne alag se add kiye hain ek hai cold storage aur dairy product and fruits and vegetables bhi cold storage.\\nCustomer: Main check kar leti hu sir check karke aapko phone karti hu ek baar.\\nExecutive: To maine haan isme isme isme na grouping isme aapne sahi nahi aur aur price bhi nahi hai. To fir isme dikha raha hai 2000 per 2000 per ton iska rate dikha raha hai cold storage per ton.\\nCustomer: Haanji haanji wo hamare sir ne khud hi add kiye hai sir.\\nExecutive: To ek baar aap confirm kar lijiye ki iska price kya hai aur 2000 per ton hai ki square feet ke hisab se kya hai.\\nCustomer: Koi baat nahi main main confirm kar leti hu sir unse ek baar aur confirm karke mam call back kijiyega to main usko sahi group group wagera bhi.\\nExecutive: Okay sir.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says some products not added.\\n\n- Executive says grouping and price missing.\\n\n\\n\nResolution:\\n\n- Customer will check and call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- products, cold storage, price, grouping\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=852c7f95-f9c8-4977-9ddc-bacd728a2545",
+  "ucid": "852c7f95-f9c8-4977-9ddc-bacd728a2545",
+  "seller_categories": [
+    {
+      "mcat_id": "36849",
+      "mcat_name": "Room Fresheners"
+    },
+    {
+      "mcat_id": "101984",
+      "mcat_name": "Macaroni"
+    },
+    {
+      "mcat_id": "185510",
+      "mcat_name": "Air Freshener Spray"
+    },
+    {
+      "mcat_id": "178503",
+      "mcat_name": "Cold Storage Room Rental Services"
+    },
+    {
+      "mcat_id": "56051",
+      "mcat_name": "Liquid Air Freshener"
+    }
+  ]
+}

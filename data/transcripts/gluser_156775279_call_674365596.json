@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674365596",
+  "gluser_id": "156775279",
+  "vintage_months": 0,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9699164",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello hello.\\nExecutive: Hanji sir, good morning.\\nCustomer: Ji, good morning.\\nExecutive: India Mart se baat kar raha hu aapko call kiya tha na us din lead aane to lag gayi hai portal pe aapke.\\nCustomer: Ji, ji.\\nExecutive: Ab aapko isko concern ko close kar dena aapko lead aane lag gaye fast lead me bhi dekha to kafi sari lead morning me aayi thi aap shayad consume nahi kar paye.\\nCustomer: [unintelligible]\\nExecutive: Kon kon se product add hone hai aapke?\\nCustomer: Sir, AC ke rakhhe add karne ka hai.\\nExecutive: Wo company ka name kya tha jo aap bata rahe the?\\nCustomer: Avinash Enterprises.\\nExecutive: Avinash Enterprises.\\nCustomer: Maine aapko whatsapp kiya tha.\\nExecutive: Ek second dekh le raha hu mai.\\nExecutive: Navi Mumbai tha na location?\\nCustomer: Nahi nahi.\\nExecutive: Location kya tha?\\nCustomer: Wardha. Maine aapko whatsapp kiya hai.\\nExecutive: Theek hai to aapko call back karu kya thodi der me theek hai.\\nCustomer: Ha, theek hai koi dikkat nahi hai. Ek baar owner ka naam aap confirm kar do. Owner ka name kya hai?\\nCustomer: Jayesh.\\nExecutive: Omkar Mahesh Satarkar.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add AC products.\\n\n\\n\nResolution:\\n\n- Executive confirmed company name and location.\\n\n- Executive offered to call back later.\\n\n\\n\nNext Steps: \\n\n- Executive will call back later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, product addition, location, company name\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=73767ba1-efdb-439b-adba-29a2d8db2def",
+  "ucid": "73767ba1-efdb-439b-adba-29a2d8db2def",
+  "seller_categories": [
+    {
+      "mcat_id": "443773",
+      "mcat_name": "Drum Unit"
+    },
+    {
+      "mcat_id": "184991",
+      "mcat_name": "Canon Toner Cartridges"
+    },
+    {
+      "mcat_id": "184949",
+      "mcat_name": "HP Toner Cartridges"
+    },
+    {
+      "mcat_id": "38981",
+      "mcat_name": "Toner Cartridges"
+    },
+    {
+      "mcat_id": "187596",
+      "mcat_name": "HP Black Ink Cartridge"
+    }
+  ]
+}

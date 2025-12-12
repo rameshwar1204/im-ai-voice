@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667458617",
+  "gluser_id": "150235882",
+  "vintage_months": 9,
+  "bl_dau_oct": 21,
+  "customer_type": "FREELIST",
+  "city_name": "Daund",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636178",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Bol chaiye.\\nExecutive: Accha theek hai.\\nCustomer: Hello.\\nExecutive: Hello haan ji sir abhi aapne sir ek ticket raise kara hua hai customer care ko usi ke liye sir maine aapko call kara hai.\\nCustomer: Haan ji.\\nExecutive: Dekhiye sir aapke jo account manager sir change hue hain wo to sir ab nahi honge theek hai ye last time hai jo bhi sir aapne concern raise kara hai.\\nCustomer: Haan.\\nExecutive: Baki sir aapke account manager agar in case sir change bhi hote hain services aapko sir better milenge agar koi account manager aapko better services nahi de raha hai isliye sir account manager hota hai.\\nCustomer: Haan ji.\\nExecutive: To sir ye ticket main sir aapki close kar do?\\nCustomer: Haan.\\nExecutive: To sir iske baad sir aapke paas ek mail aayega usme sir likha hoga satisfied to sir satisfied pe aap sir tick kar dijiyega.\\nCustomer: Haan haan lekin join nahi ho rahi na meeting join nahi ho rahi na aapki.\\nExecutive: Meeting sir chaliye meeting ke liye.\\nCustomer: Haan ji haan ji chaliye to meeting ke liye sir main meeting me sir kya likh ke aa raha hai aapka join karne me.\\nCustomer: Join hi nahi ho rahi only joining joining hi dikha raha ask to join ask to join kar raha.\\nExecutive: Sir join jab karenge usme sir join now kahi nahi likh ke aa raha laptop hai sir aapke paas.\\nCustomer: Nahi laptop nahi hai na iske liye to bola tha maine.\\nExecutive: Haan to ek kaam karta hu sir main join nahi ho raha aap sir uska screenshot sir mujhe share kar sakte hain whatsapp pe agar aap uska sir aap mujhe screenshot share kar sakte hain meeting ka.\\nCustomer: Theek hai.\\nExecutive: Haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account manager changes.\\n\n- Meeting not joining.\\n\n\\n\nResolution:\\n\n- Informed account manager changes will not happen.\\n\n- Asked to share screenshot of meeting issue on WhatsApp.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, meeting, ticket\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b7de9099-9a37-4e3a-a5b3-21e5ac8fc1e9",
+  "ucid": "b7de9099-9a37-4e3a-a5b3-21e5ac8fc1e9",
+  "seller_categories": [
+    {
+      "mcat_id": "134143",
+      "mcat_name": "Pet Bottle Scrap"
+    },
+    {
+      "mcat_id": "160919",
+      "mcat_name": "HDPE Drum Scrap"
+    },
+    {
+      "mcat_id": "154781",
+      "mcat_name": "HDPE Scrap"
+    },
+    {
+      "mcat_id": "182976",
+      "mcat_name": "Used Plastic Drums"
+    },
+    {
+      "mcat_id": "217124",
+      "mcat_name": "LD Plastic Scrap"
+    }
+  ]
+}

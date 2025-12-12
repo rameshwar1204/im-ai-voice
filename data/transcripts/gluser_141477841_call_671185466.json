@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671185466",
+  "gluser_id": "141477841",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673313",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, main ye keh raha hun ki ji sir aapke aapke main keh raha tha ab main abhi sir aaj jo ek meri ghar wali ke mama expire ho gaye hain to waha ja raha hun sir aaj ke liye sorry.\\nExecutive: Suno ek baat sun lo ye ki main ye jo concern aapne raise kiya na customer care pe.\\nCustomer: Ji ji ji.\\nExecutive: Wo main close kar de raha hun, theek hai? Aur unko koi dikkat hai na humko direct call karo. Sir main aapko aapko aap wale number pe.\\nCustomer: Haan, theek hai. Ye main concern close kar do sir.\\nCustomer: Ji main aapko kal karta hun sir call aaj mujhe aaj aaj ke liye shama sir.\\nExecutive: Main to ye keh raha hun jo concern aapne raise kiya tha customer care wo close kar do abhi. Aap direct call kar lena. Okay. Haan, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer informed about a family emergency.\\n\n- Wants to close the concern raised earlier.\\n\n\\n\nResolution:\\n\n- Executive agreed to close the concern.\\n\n- Asked to call directly for any issues.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, customer care, close\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 63,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2753159e-bff8-4b90-8f4a-ed6c52ce0326",
+  "ucid": "2753159e-bff8-4b90-8f4a-ed6c52ce0326",
+  "seller_categories": [
+    {
+      "mcat_id": "2416",
+      "mcat_name": "Three Phase Distribution Transformers"
+    },
+    {
+      "mcat_id": "140821",
+      "mcat_name": "Used Transformer"
+    },
+    {
+      "mcat_id": "27622",
+      "mcat_name": "Electrical Transformer"
+    },
+    {
+      "mcat_id": "11667",
+      "mcat_name": "Distribution Transformer"
+    },
+    {
+      "mcat_id": "17854",
+      "mcat_name": "Oil-Cooled Distribution Transformer"
+    }
+  ]
+}

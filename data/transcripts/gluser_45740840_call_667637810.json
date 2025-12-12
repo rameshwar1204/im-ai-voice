@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667637810",
+  "gluser_id": "45740840",
+  "vintage_months": 24,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kolhapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638480",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello mam, mai Prasanth Goyal baat kar raha hu Kolhapur Maharashtra se.\\n\\nCustomer: Ha ji, ha ji, ha ji, ha ji sir.\\n\\nExecutive: Ha mam actually kya hua hai humne ek 15-20 din pehle woh hamara subscription renew kiya hai payment ka.\\n\\nCustomer: Ha ha.\\n\\nExecutive: Ha uska abhi tak hume bill nahi mila hai, kisi tarah urgent invoice na mai karwati hu, mai karwati hu, mai karwati hu.\\n\\nExecutive: Okay, yahi number pe karwa dijiye madam aaj.\\n\\nCustomer: Sure, sure, sure.\\n\\nExecutive: Ha okay, okay madam. Thank you, thank you.\\n\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received the bill.\\n\n\\n\nResolution:\\n\n- Executive assured to send the bill.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, bill, payment\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=16263f65-1f52-40dc-8be1-82f2ffd50713",
+  "ucid": "16263f65-1f52-40dc-8be1-82f2ffd50713",
+  "seller_categories": [
+    {
+      "mcat_id": "158839",
+      "mcat_name": "Mild Steel Door"
+    },
+    {
+      "mcat_id": "4673",
+      "mcat_name": "Aluminum Composite Panels"
+    },
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "28962",
+      "mcat_name": "French Doors"
+    },
+    {
+      "mcat_id": "38707",
+      "mcat_name": "Steel Doors"
+    }
+  ]
+}

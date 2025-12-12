@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668581357",
+  "gluser_id": "154995402",
+  "vintage_months": 41,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647405",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nCustomer: Hello.\\n\\nExecutive: Hello.\\n\\nCustomer: Hello, haanji.\\n\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer initiated the call.\\n\n\\n\nResolution:\\n\n- Call disconnected.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, hello\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 25,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f06fb498-59cb-4be1-bba2-fb53f52cee70",
+  "ucid": "f06fb498-59cb-4be1-bba2-fb53f52cee70",
+  "seller_categories": [
+    {
+      "mcat_id": "6138",
+      "mcat_name": "Epoxy Floor Coating"
+    },
+    {
+      "mcat_id": "6139",
+      "mcat_name": "Epoxy Floor Paint"
+    },
+    {
+      "mcat_id": "27944",
+      "mcat_name": "Epoxy Paints"
+    },
+    {
+      "mcat_id": "161038",
+      "mcat_name": "Synthetic Enamel Paint"
+    },
+    {
+      "mcat_id": "56271",
+      "mcat_name": "Heat Resistant Paint"
+    }
+  ]
+}

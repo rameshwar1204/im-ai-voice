@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668066486",
+  "gluser_id": "151466851",
+  "vintage_months": 11,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Bhubaneswar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9641856",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, Aasif sir, mai keh raha tha ki aapko jo bhi cheezein tha samjhaya abhi clear hai?\\nCustomer: Haan, abhi clear hai.\\nExecutive: Clear hai? To mai abhi buyleads vagarah kal se aapko aa jayega to aap kal se isko consume karna start kariyega. Lead major pe jo abhi pada hai purana us pe discuss kar lijiye, theek hai?\\nCustomer: Theek hai.\\nExecutive: Aur phir hum isko dobara se contact karenge aapko ek do din mein aur kuch bhi issue rehta hai mera number aapke paas save ho hi gaya, theek hai? Mera naam Ajay hai.\\nCustomer: Ji.\\nExecutive: Theek hai? Mai bhi aapka number save karta hu. Kuch bhi issue rehta hai mujhe direct mere number pe connect kariyega personal number pe, theek hai?\\nCustomer: Theek hai.\\nExecutive: Aur baki ye wala mai complaint ab close kar du?\\nCustomer: Haan, haan, haan.\\nExecutive: Theek hai, mai close kar raha hu. Feedback jayega please usko 5 mark kar dijiyega sir, theek hai?\\nCustomer: Theek hai, theek hai.\\nExecutive: Okay Aasif sir.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted clarification on the explained things.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's understanding.\\n\n- Executive informed buyleads will start coming from tomorrow.\\n\n- Executive will contact in a day or two.\\n\n- Executive requested to rate 5 for the feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, complaint\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6e36c301-1969-4eca-802b-c67c40675fb9",
+  "ucid": "6e36c301-1969-4eca-802b-c67c40675fb9",
+  "seller_categories": [
+    {
+      "mcat_id": "96542",
+      "mcat_name": "Container Homes"
+    },
+    {
+      "mcat_id": "96540",
+      "mcat_name": "Office Container"
+    },
+    {
+      "mcat_id": "35591",
+      "mcat_name": "Prefabricated Houses"
+    },
+    {
+      "mcat_id": "150852",
+      "mcat_name": "MS Porta Cabin"
+    },
+    {
+      "mcat_id": "189345",
+      "mcat_name": "Steel Portable Cabin"
+    }
+  ]
+}

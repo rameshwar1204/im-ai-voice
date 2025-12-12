@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676084052",
+  "gluser_id": "3366278",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhinmal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9714502",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hi, if you record your name and reason for calling, I'll see if this person is available.\\nCustomer: Hello.\\nExecutive: Hi Hitesh ji.\\nCustomer: Ha sir.\\nExecutive: Ye update ho gaya hai, theek hai? Ek baar payment wala jo page tha na, wo bhi update ho gaya tha aur ye home page wala bhi correct ho gaya hai, theek hai? Baki GST ka ek baar aap jaise hota hai aap mujhe de dena, theek hai aap mujhe WhatsApp kar dena cancellation wala agar hota hai.\\nCustomer: Are you sure na wo main close kara raha hu, theek hai na company aisa nahi ki fir end moment pe aap aur nayi cheeze nikalte ho nahi sir yaar aisa ho gaya, waisa ho gaya, wo mat kar dena abhi. Main close kara raha hu.\\nExecutive: Nahi nahi agar aapka GST cancel hai, GST cancel hai to ho jata hai. Kyunki abhi main dikha nahi sakta na do company ek hi naam se dono ka GST active to do jagah se supplier claim le raha hai to as per government policy ye nahi hota hai sir India Mart portal mein sirf ek hi company chal sakti hai. To isliye hai aap isko karaiye aap mujhe WhatsApp pe bata dena jaisa bhi hota hai next week tak main isko correct kara dunga, theek hai? Aur is call ke baad na ye jo maine kaam karaya pura ye jo pura home page wagera ek feedback ka mil jayega uske liye to please apna valuable feedback de dena sir, theek hai?\\nCustomer: Theek hai.\\nExecutive: Okay ji, thank you.\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to close the company.\\n\n- Customer wants assurance of no further issues.\\n\n\\n\nResolution:\\n\n- Executive confirmed updates on payment and homepage.\\n\n- Executive asked for GST details via WhatsApp.\\n\n- Executive assured resolution by next week.\\n\n- Executive requested feedback on the work done.\\n\n\\n\nNext Steps: \\n\n- Executive will correct the issue by next week.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- update, gst, cancellation, feedback\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 71,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6469e295-53bb-426b-82c1-c8185cd7455f",
+  "ucid": "6469e295-53bb-426b-82c1-c8185cd7455f",
+  "seller_categories": [
+    {
+      "mcat_id": "127377",
+      "mcat_name": "Desiccated Coconut Powder"
+    },
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "25126",
+      "mcat_name": "Coconut Flakes"
+    },
+    {
+      "mcat_id": "126167",
+      "mcat_name": "Coconut Powder"
+    },
+    {
+      "mcat_id": "216251",
+      "mcat_name": "Refined Coconut Oil"
+    }
+  ]
+}

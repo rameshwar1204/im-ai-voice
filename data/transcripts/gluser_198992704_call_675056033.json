@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675056033",
+  "gluser_id": "198992704",
+  "vintage_months": 1,
+  "bl_dau_oct": 19,
+  "customer_type": "CATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710706",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Namaskar sir. Haan haan sir good afternoon.\\nCustomer: Haan Mohammad Asif ji Manish bol raha hu aapka account manager.\\nExecutive: Ji ji ji ji kya haal chal hai sir?\\nCustomer: Haan sir haan sir boliye sir. Sir ye aapne sir issue dala tha sir kya issue aa raha hai sir aapko IndiaMART?\\nExecutive: Sir abhi to kahin bolne mein thoda sa to bata sakta hu baat. Achcha boliye sir lead lead lead ki problem hai sir.\\nCustomer: Achcha lead sahi nahi aa rahi hai sir? Nahi sir abhi bhi nahi aa rahi sir.\\nExecutive: Achcha ek baar line par rahiye main ek baar check kar leta hu. Sir abhi tak jaise ki aap use kar rahe hain IndiaMART jaise main dekh raha hu aap use start kiya hai aapne sir 30 October se tab se ek bhi lead convert nahi hui sir aapki. Abhi koi dikkat nahi hai.\\nCustomer: Haan ji sir line pe rahiye. Sir jaise ki main dekh raha hu inquiry aapki aati hai sir aap inquiry check karte hain sir? Jaise ki main dekh raha hu 25 tarikh ko aapko inquiry aayi thi New Delhi se Amit Kumar ji ki inse baat hui thi kya inko requirement sir LED tree light ki inse baat hui thi aapki Amit Kumar ji se? LED ki nahi chahiye na sir LED nahi bechte na hum structure bechte. Achcha LED LED nahi chahiye sir?\\nExecutive: LED nahi bechte sir hum. Nahi LED tree structure chahiye sir. Okay okay. Aur sir isme to deal karte hain na sir? Mile steel solar panel mounting structure.\\nCustomer: Haan ye sir ye sir ye chalta hai. Haan to dekhiye 12 tarikh ko aapko ek Muradabad se aayi thi sir Sandeep ji ki inquiry inse baat hui thi aapki sir?\\nExecutive: Nahi. Achcha inse bhi aap matlab aap matlab abhi aapko inquiry check karna nahi aata sir aapko hai na? Ek baar main aapka catalog bhi check kar leta hu sir jaise ki aap bata rahe hain ki aapko related valid aapko nahi mil rahi hai sir hai na? Ji. Haan main dekh leta hu abhi.\\nCustomer: Jaise ki sir abhi main dekh raha hu abhi aapne kuch product add kiye hain sir aapne ye spring plate plate aapne add kiya sir abhi? Hmm? Aapne ek product add kiya hua hai sir ye aapka spring plate. Sir abhi main na office mein nahi hu main kahin bahar hu. Achcha achcha bahar hai sir to aap free kab rahenge sir? Main aapko\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues with buyleads.\\n\n- No leads converted since October 30th.\\n\n- Customer does not know how to check inquiries.\\n\n\\n\nResolution:\\n\n- Executive checked the customer's IndiaMART account.\\n\n- Executive informed about past inquiries.\\n\n- Executive checked the catalog.\\n\n\\n\nNext Steps: \\n\n- Executive will call when customer is free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, inquiries, catalog, products\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 148,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5d2b0417-f324-4641-94da-8c6c51446e3a",
+  "ucid": "5d2b0417-f324-4641-94da-8c6c51446e3a",
+  "seller_categories": [
+    {
+      "mcat_id": "141382",
+      "mcat_name": "Solar Panel Mounting Structure"
+    },
+    {
+      "mcat_id": "39004",
+      "mcat_name": "Transmission Towers"
+    },
+    {
+      "mcat_id": "120910",
+      "mcat_name": "Module Mounting Structure"
+    },
+    {
+      "mcat_id": "43430",
+      "mcat_name": "Telecom Tower"
+    },
+    {
+      "mcat_id": "159533",
+      "mcat_name": "Solar Panel Stand"
+    }
+  ]
+}

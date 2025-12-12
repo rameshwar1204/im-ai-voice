@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676098369",
+  "gluser_id": "22116898",
+  "vintage_months": 7,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Paravai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718742",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? Haan sir, IndiaMART-le irundhu pesikittirukken sir.\\nExecutive: Haan sollunga sir.\\nCustomer: Haan sir adhaan sir. Morning koopidraangara avanga pesirundhaanga regarding service pathi. Adhu vandhu avanga rendu unga rendu per interaction sariya pogala appidingarana not satisfied ingaradhumaari koduthirukkeenga. Adhu avanga name-la oru complaint maari raise pannirukkeenga. Adhaavadhu internal ticket raise aayirukku. So adhaan enna thappa pesi irukkeenga.\\nExecutive: Eppadi sir problem sir?\\nCustomer: Sujith, Sujithra andha avana pesinaanga.\\nExecutive: Sujithra pesirukkeengala? Okay okay. Appathaan Sujithra ingara name-le tag aayirukku. Okay okay. Enna sollirundhaanga sir edhaavadhu wrong-aa pesitaangala?\\nCustomer: Illa sir edhaavadhu wrong-aa pesala. Aana sonnadhe thirumba thirumba sollittirundhaanga.\\nExecutive: Okay. Sonnadhe thirumba thirumba pesitaangala? Already mention pannadhe irukkenave sonnadhe thaan thirumba thirumba pesitaanga.\\nExecutive: I mean idhukku munnadi kodutha instruction-ne thirumba thirumba sollittu irundhaanga.\\nCustomer: Haan andha instruction thirumba thirumba kodukraanga. Enakku time waste aagudhu. Adhanaala thaan call pannen.\\nExecutive: Puriyudhu puriyudhu sir. Okay sir naan onnu pannren. Idhukku appuram like edhaavadhu irundhaalum unga kitta WhatsApp-le text panna sollaren. Endha oru pudhu update irundhaalum. Like the same thing-ga vandhu repeat pannama avanga kitta naan pesi okka idhu pannren. Ippa adhu thaan vandhu oru concern-aa raise aayirukku ingara. So with your permission avanga name-le adhu complaint irukradha naan close pannalaama? Like edhaavadhu wrong-aa pesirukkaanga appidinaa we are ready to take action also.\\nCustomer: Illa illa close pannirunga sir appallam onnum problem illa.\\nExecutive: Okay sir. Thank you sir. Feedback mattum varum.\\nCustomer: Hmm okay sir.\\nExecutive: So mail-le feedback mattum varum. Adhu mattum konjam paathukonga.\\nCustomer: Like avanga mela idhuva irukku.\\nExecutive: Understand sir. Illa ippa close pannren. Close pannadhukku appuram oru five minutes-kulla vandhurum sir.\\nCustomer: Okay sir. Thank you sir. Thank you so much.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive repeated instructions.\\n\n- Customer's time was being wasted.\\n\n\\n\nResolution:\\n\n- Executive assured no repeat of instructions.\\n\n- Complaint against the executive will be closed.\\n\n\\n\nNext Steps: \\n\n- Customer will receive feedback form in mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- complaint, feedback, instructions, resolution\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=48f71f32-6ebd-43e4-96a5-6c42a65be61d",
+  "ucid": "48f71f32-6ebd-43e4-96a5-6c42a65be61d",
+  "seller_categories": [
+    {
+      "mcat_id": "37059",
+      "mcat_name": "Solar Dryer"
+    },
+    {
+      "mcat_id": "161441",
+      "mcat_name": "Copra Dryer"
+    },
+    {
+      "mcat_id": "44903",
+      "mcat_name": "Tunnel Dryer"
+    },
+    {
+      "mcat_id": "139612",
+      "mcat_name": "Vegetable Dryer"
+    },
+    {
+      "mcat_id": "28702",
+      "mcat_name": "Food Dehydrators"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676037957",
+  "gluser_id": "112226425",
+  "vintage_months": 32,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694491",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello haan ji sir bataiye.\\n\\nCustomer: Awaz nahi aa raha kya?\\n\\nExecutive: Aa rahi hai sir aa rahi hai aapki awaz aa rahi hai.\\n\\nCustomer: Haan. Ye puch raha hu account manager kaun hai hamara dekhna ek baar. \\n\\nExecutive: Mai hu sir Nikki Sharma naam hai mera.\\n\\nCustomer: Accha accha.\\n\\nCustomer: Aapko bana diya kya naya account manager?\\n\\nExecutive: Haan ji haan ji mai hi hu. Bataiye.\\n\\nCustomer: Kab se kab se bana diya aapko?\\n\\nExecutive: Kya bol rahe ho sir? Thoda sa network nahi aa raha hoga sir network nahi hai shayad waha pe.\\n\\nCustomer: Are mai to network me hi hu aap nahi ho.\\n\\nExecutive: Accha thik hai abhi aa raha hai sir aapko awaz?\\n\\nCustomer: Mujhe to aa raha hai.\\n\\nExecutive: Thik hai bataiye.\\n\\nCustomer: Aapne sir 96 pe call kiya tha kya customer care pe?\\n\\nCustomer: Customer care pe hi chal raha hai mera haan.\\n\\nExecutive: Fir waha pe aapne call kiya tha na account manager to mai hu mera number to aapke paas tha hi.\\n\\nCustomer: Mere paas kaha se aa jata aapka number?\\n\\nExecutive: Waha pe jaha se aapne call kiya hai na abhi.\\n\\nCustomer: Haan. Account haan wahi wahi pe mera number show ho jata hai usse pehle aapne customer care pe call kiya hai shayad.\\n\\nCustomer: Abhi mera phone utar hi ja raha hai customer care pe hi.\\n\\nExecutive: Nahi nahi nahi abhi to mere paas call end hua hai aapka bataiye kya shikayat aa rahe the aap?\\n\\nCustomer: Are to aap call karo na mujhe direct. Tabhi to aapke paas se aayega tabhi to awaz aayega.\\n\\nExecutive: Aap call kar lijiye aap shayad mujhe call kar rahe the isliye baar baar aapka call busy aa raha tha.\\n\\nCustomer: Haan to call karo aap ek baar mera 96 pe call chal raha hai.\\n\\nExecutive: Nahi sir ruko mai call karti hu ek second ruko.\\n\\nCustomer: Kab karoge aaj ya kal?\\n\\nExecutive: Abhi kar rahi hu sir abhi call cut karungi na mai karti hu aapko call.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know account manager details.\\n\n- Customer complained about call connectivity issues.\\n\n\\n\nResolution:\\n\n- Executive confirmed being the account manager.\\n\n- Executive offered to call the customer back.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, connectivity, call issue\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 129,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=762a84c7-fca5-47dd-b836-d51282045417",
+  "ucid": "762a84c7-fca5-47dd-b836-d51282045417",
+  "seller_categories": [
+    {
+      "mcat_id": "216824",
+      "mcat_name": "Statue Painting Services"
+    },
+    {
+      "mcat_id": "2000",
+      "mcat_name": "Marble Paintings"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    }
+  ]
+}

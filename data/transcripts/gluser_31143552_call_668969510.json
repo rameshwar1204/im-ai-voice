@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668969510",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\n\\nExecutive: Hello.\\nCustomer: Hello. Ha kaun?\\nExecutive: Indiamart se baat kar rahe ho?\\nCustomer: Ji.\\nExecutive: Kya naam hai aapka?\\nCustomer: MC.\\nExecutive: Accha, mai call me se baat kar raha hu.\\nCustomer: Ha bolo sir.\\nExecutive: Ki aaj aaj kya holiday hai kya aapki?\\nCustomer: Yes sir.\\nExecutive: Okay. Thik hai mujhe thoda add karwana tha, kaun kar sakte hai?\\nCustomer: Monday ko hoga. Mai hi karungi. Monday ko.\\nExecutive: Accha, Indiamart ke kya sabhi log holiday karte hai kya?\\nCustomer: Ji ji ji.\\nExecutive: Accha, Monday ko side hota hai kya?\\nCustomer: Ha ha.\\nExecutive: Thank you.\\n\\nExecutive: Mai aapko request deke rakhta hu, aap Monday ko call dijiye.\\nCustomer: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to add something to their account.\\n\n\\n\nResolution:\\n\n- Executive will put in a request.\\n\n\\n\nNext Steps: \\n\n- Customer will call on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- holiday, profile update, monday\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 79,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=82673e4a-6c1b-4b7e-8384-05d1f1fd7822",
+  "ucid": "82673e4a-6c1b-4b7e-8384-05d1f1fd7822",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

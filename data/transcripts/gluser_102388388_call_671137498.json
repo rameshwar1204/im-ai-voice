@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671137498",
+  "gluser_id": "102388388",
+  "vintage_months": 8,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Panaji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9673439",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Ha hello.\\nExecutive: Hello.\\nCustomer: Ha hello. Uh this is Nikita Kirkar.\\nExecutive: Ha jiya tell me.\\nCustomer: Actually I wanted to change my business name on IndiaMART.\\nExecutive: Uh okay okay. Can you please tell me your company name?\\nCustomer: Okay. Uh can you please tell me your company name?\\nCustomer: At present Divas Dweep Private Limited Divas Dweep Global Market.\\nExecutive: Okay I'm just calling that actually I'm okay no problem. Aap call back kijiye baad mein. Okay okay okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to change business name on IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive asked for the company name.\\n\n- Executive said she will call back later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- business name, indiamart, call back\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2fde6e14-d2e9-42ec-8540-a9868004a771",
+  "ucid": "2fde6e14-d2e9-42ec-8540-a9868004a771",
+  "seller_categories": [
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "127",
+      "mcat_name": "Christmas Stars"
+    },
+    {
+      "mcat_id": "218580",
+      "mcat_name": "Clay Tea Cup"
+    },
+    {
+      "mcat_id": "28284",
+      "mcat_name": "Fish Masala Mix"
+    },
+    {
+      "mcat_id": "9050",
+      "mcat_name": "Hanging Star"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669801787",
+  "gluser_id": "118881082",
+  "vintage_months": 29,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690150",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Bharat sir good morning Parvesh bol raha hun IndiaMART se.\\nCustomer: Boliye sir ji.\\nExecutive: Sir aapke Maa Techno cast ke regarding aapki call aayi thi.\\nCustomer: Ek minute.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ha ji boliye sir.\\nCustomer: Bharat sir main keh raha hun ki kal aapki hamari discussion complete ho gayi thi but ek aapka miss call reh gaya tha mere pass.\\nCustomer: Hmm.\\nExecutive: Hello.\\nCustomer: Just just wait.\\nExecutive: Ji to uska na ek ticket open hua hai sir aapka agar koi dusra koi concern koi query hai related to service aap mujhe bata sakte hain jo hum solve kar sakte hain.\\nCustomer: Kal call karta hun sir main abhi to bahar hun aur.\\nExecutive: Achcha isliye.\\nCustomer: Theek hai to mostly hamara kal catalog related discussion ho gaya tha aur aapka catalog bhi sir aapke according theek ho gaya tha right.\\nCustomer: Hmm.\\nExecutive: Haan to aapka ek ticket open hai sir incoming call ka wo main close kar dun ticket ek open hai.\\nCustomer: Baat kiya hoga main puch leta hun.\\nExecutive: Achcha achcha to aap Bharat sir baat nahi kar rahe hain.\\nCustomer: Main Bharat hi bol raha hun.\\nExecutive: Theek hai Bharat sir main keh raha hun ki ticket close kar dun main aapke pass mail jayega closer ka.\\nCustomer: Haan.\\nExecutive: Theek hai main close kar dun sir ticket main aapko kal phone karta hun sir ji.\\nExecutive: Hello.\\nCustomer: Main abhi bahar hun main aapko kal phone karta hun sir.\\nExecutive: Theek hai sir theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a missed call.\\n\n- Customer wants to call later.\\n\n\\n\nResolution:\\n\n- Executive offered to resolve any service-related queries.\\n\n- Executive offered to close the open ticket.\\n\n\\n\nNext Steps: \\n\n- Executive will close the ticket.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- ticket, catalog, discussion, closure\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=16bf89dd-d0e5-4bc4-afc8-68e67a342690",
+  "ucid": "16bf89dd-d0e5-4bc4-afc8-68e67a342690",
+  "seller_categories": [
+    {
+      "mcat_id": "84889",
+      "mcat_name": "Cast Iron Grill"
+    },
+    {
+      "mcat_id": "106967",
+      "mcat_name": "Cast Iron Railing"
+    },
+    {
+      "mcat_id": "102080",
+      "mcat_name": "Cast Iron Stairs"
+    },
+    {
+      "mcat_id": "184721",
+      "mcat_name": "Cast Iron Gate"
+    },
+    {
+      "mcat_id": "85142",
+      "mcat_name": "Cast Iron Ornament"
+    }
+  ]
+}

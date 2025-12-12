@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667414071",
+  "gluser_id": "251037194",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635203",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hi, if you record your name and reason for calling, I'll see if this person is available.\\nCustomer: Hi, here is the side from IndiaMART head office, meeting with Parth.\\nExecutive: Yes, bataiye.\\nCustomer: Sir, yahi baat kar rahi thi.\\nCustomer: Aapka sir concern aaya tha na ek.\\nExecutive: Haan.\\nCustomer: Ye ticket ke liye na matlab aapka refund ke liye.\\nExecutive: Yes.\\nCustomer: Hai na? To sir maine already aapko inform to kiya tha ye download ho gaya mere end se. Abhi products hamara jo accounts team hai wo kaam kar raha hai. Ek to refund initiation aapka ho nahi raha tha. Maine bahut us pe karke abhi isko thoda fast kiya hai. Ek do din ka time lagega isko hone mein sir.\\nCustomer: Aapne ek do tarikh ka bola tha aaj char tarikh ho gaye madam.\\nCustomer: Haan sir aapne maine ek do tarikh bola tha lekin abhi ek do tarikh mein nahi ho paya accounts team ne nahi kiya to aap batao main kya kar sakti hoon.\\nCustomer: Fir se chutti rahegi.\\nCustomer: Abhi aapka services download ho gaya hai sir. Accounts mein sirf refund initiate hona reh gaya hai. Maine ek ticket aur khol bhi diya hai. Aap bologe to main aapko dikha bhi deti hoon. Theek hai?\\nCustomer: Mere ko bhej do.\\nCustomer: Maine maine maine ticket khol diya hai ki aapka account mein refund initiate kar de. Aap isme baar baar agar complaint bhi karoge to koi fayda nahi hai us cheez ka.\\nCustomer: Mere ko aap bhej do kya ticket raise kiya hai aapne khol diya hai.\\nExecutive: Ek second rukiye aap call par hi rahiye.\\nCustomer: Aapka number boliyega ek baar whatsapp wala.\\nExecutive: 76.\\nCustomer: 76 240 haan 24032214 na?\\nExecutive: Yes.\\nExecutive: Ye aap dekho maine aapko bheja abhi.\\nCustomer: Ek minute chalu rakhiye.\\nExecutive: Hmm.\\nCustomer: Ye maine mere business manager se aapka refund initiate karane ke liye ticket khulwaya hai. Kyunki agar wo logo ko maine bhi do teen baar bola tha but un logo ne nahi kiya to abhi maine sir ke bol sir se bola hai unhone karaya hai ye. Hi team please process the refund here as client services are downloaded.\\nCustomer: Account mein kab tak mil jayega?\\nExecutive: Sir dekho uska process rehta hai aapko teen se char working days lagega usme.\\nCustomer: Teen se char working days matlab aap.\\nExecutive: Haan aap monday maan ke chalo sir.\\nCustomer: Theek hai main monday ko aapko nahi hua to main aapko ticket raise karta hoon theek hai ya call karta hoon.\\nExecutive: Haan main monday tuesday tak aap wait kijiye monday tuesday tak na ye aapka initiate ho jayega most probably. Theek hai?\\nCustomer: Account mein monday tak mil jayega na?\\nExecutive: Haan sir main wahi bol rahi hoon kyunki abhi sirf refund reh gaya hai service download nahi hui thi pehle abhi service download ho gayi hongi aap leads wagera kuch use nahi kar pa rahe honge. Theek hai?\\nCustomer: Theek hai.\\nExecutive: To abhi jo hai maine already processing ke liye isko de diya hai aap thoda sa bas wait karo monday tuesday most probably aapko iska refund aa jayega. Theek hai?\\nExecutive: Aapka ye concern open hua hai main isko close kar doon please sir feedback mujhe sirf mat dijiyega.\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\nExecutive: Okay sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund yet.\\n\nResolution:\\n\n- Executive confirmed service is downloaded.\\n\n- Executive raised a ticket for refund initiation.\\n\n- Executive sent the ticket details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer to wait till Monday/Tuesday.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, ticket, accounts, service download\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 204,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=64cc3c1d-5e90-4374-a588-184cd8f34d28",
+  "ucid": "64cc3c1d-5e90-4374-a588-184cd8f34d28",
+  "seller_categories": [
+    {
+      "mcat_id": "156002",
+      "mcat_name": "Goods Cum Passenger Elevator"
+    },
+    {
+      "mcat_id": "251",
+      "mcat_name": "Material Handling Lifts"
+    },
+    {
+      "mcat_id": "106650",
+      "mcat_name": "Hardware Accessories"
+    },
+    {
+      "mcat_id": "78135",
+      "mcat_name": "Industrial Lift"
+    },
+    {
+      "mcat_id": "179310",
+      "mcat_name": "Traction Goods Lift"
+    }
+  ]
+}

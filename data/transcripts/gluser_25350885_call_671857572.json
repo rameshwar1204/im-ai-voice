@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671857572",
+  "gluser_id": "25350885",
+  "vintage_months": 46,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679535",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. \\nCustomer: Hello. Good morning, Sonu baat kar raha hu IndiaMART se.\\nExecutive: Very good morning, Sonu bhai.\\nCustomer: Ji sir, kal hi aap se baat hui thi.\\nExecutive: Ji ji ji ji, aapko bola tha na Monday karte hai morning mein, toh uske liye hi kiya hai maine aapko call.\\nExecutive: Toh ek baat thoda sa bas ye puchna tha aap se ki pehle ki phone se use karte hai ya system se laptop computer se karte hai aap use?\\nCustomer: Sorry.\\nExecutive: Aap jo service use karte hai sir, woh phone se use karte hai ya laptop computer se karte hai aap?\\nCustomer: Phone se, phone se zyada use hota hai.\\nExecutive: Phone se maximum use hota hai na sir?\\nCustomer: Hmm hmm.\\nExecutive: Theek hai, theek hai. Toh ek baar company name bataiye.\\nCustomer: Ji. Jinse aapko baat karna tha.\\nCustomer: Dynasty Motors Private and Manufacturers.\\nExecutive: Nahi nahi, aapka toh pata hai mereko.\\nCustomer: Hmm. Dynasty Motors Private Limited.\\nExecutive: Chemistry?\\nCustomer: Dynasty, D Y N A S T Y.\\nExecutive: Dynasty?\\nCustomer: Samota.\\nExecutive: Samota.\\nCustomer: Private Limited.\\nExecutive: Achha.\\nExecutive: Haryana ki company hai Faridabad ki?\\nCustomer: Haan haan, Faridabad ki hai.\\nExecutive: Theek hai. NH ka kaam hota hai unka.\\nExecutive: Inki company abhi recently IndiaMART mein toh registered nahi hai sir. Matlab ki achha same product hi hai na aapka aur inka?\\nCustomer: Ji.\\nExecutive: Product same hi hai na almost saari cheezein?\\nCustomer: Actually ye kaam karte hai NH mein aur hum hai pipe toh hum supplier hai matlab manufacturers plus supplier.\\nExecutive: Achha achha achha achha, construction building ka supplier hai.\\nCustomer: Samajh gaya, samajh gaya.\\nExecutive: Samajh gaya. Toh aapne ispe call nahi kiya tha 0804401 toh ispe karte hai toh aap direct customer care pe call lag ja raha hai, aap ye bol rahe hai na?\\nCustomer: Hmm hmm.\\nExecutive: Ek second sir.\\nExecutive: Main inki company nikal ke ek baar, do minute denge aap main call karu aapko do minute mein?\\nCustomer: Ji.\\nExecutive: Do minute denge aap main inki company nikal ke ek baar call karu? Ki company ye, haan ek baar main search kar leta hu sir, do minute.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is calling on the wrong number.\\n\n- Customer wants to connect to customer care directly.\\n\n\\n\nResolution:\\n\n- Executive confirmed the customer's company details.\\n\n- Executive offered to call back after checking company details.\\n\n\\n\nNext Steps: \\n\n- Executive will call back in two minutes.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- company details, customer care, product information\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 164,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8a34d28-df2e-4a8e-97f2-1d0e3e4e87d2",
+  "ucid": "e8a34d28-df2e-4a8e-97f2-1d0e3e4e87d2",
+  "seller_categories": [
+    {
+      "mcat_id": "36125",
+      "mcat_name": "RCC Hume Pipes"
+    },
+    {
+      "mcat_id": "8989",
+      "mcat_name": "RCC Pipes"
+    },
+    {
+      "mcat_id": "24633",
+      "mcat_name": "Cement Pipes"
+    },
+    {
+      "mcat_id": "70030",
+      "mcat_name": "Cement Poles"
+    },
+    {
+      "mcat_id": "25695",
+      "mcat_name": "Concrete Poles"
+    }
+  ]
+}

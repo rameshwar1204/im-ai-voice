@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674680801",
+  "gluser_id": "33871804",
+  "vintage_months": 13,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9707592",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 37,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5c127122-0e0f-48d5-a2cc-c55ee1bfdf92",
+  "ucid": "5c127122-0e0f-48d5-a2cc-c55ee1bfdf92",
+  "seller_categories": [
+    {
+      "mcat_id": "4629",
+      "mcat_name": "Brass Castings"
+    },
+    {
+      "mcat_id": "15186",
+      "mcat_name": "Brass Ring"
+    },
+    {
+      "mcat_id": "94877",
+      "mcat_name": "Brass Die Casting"
+    },
+    {
+      "mcat_id": "8831",
+      "mcat_name": "Pump Casting"
+    },
+    {
+      "mcat_id": "23811",
+      "mcat_name": "Brass Valves"
+    }
+  ]
+}

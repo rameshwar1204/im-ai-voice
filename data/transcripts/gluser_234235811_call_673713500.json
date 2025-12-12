@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673713500",
+  "gluser_id": "234235811",
+  "vintage_months": 1,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Haridwar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9655829",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Good day.\\nExecutive: Hello.\\nCustomer: Haan ji sir, hello.\\nExecutive: Yeah, hi Suraj sir, very good morning. Hi, hi. How are you? I am good sir. What about you sir?\\nCustomer: I'm good too. Yeah. Sir, sir actually I am Ranjit Kumar Singh, your account manager from IndiaMART head office sir.\\nCustomer: Okay, okay.\\nExecutive: Yes sir, aapko to your problems and concern related what you are facing in the\\nExecutive: So can you provide me the time at what time I will schedule a video meeting so that we can discuss properly because my branch head also want to discuss with you regarding your issue sir because\\nCustomer: So I already concern I already concerned from last one week that I'm not getting any kind of late okay. I told him I told him also and I show him the chats. The issue is same. I don't there is nothing changed. The issues will be same. You have to sort out that issue only. Whatever I already complained and what I already discussed on Zoom call last\\nExecutive: Correct sir. Maine unko kal bhi matlab ki maine unko aapke problems ke bataya ki jo 18 hours se related hai aur koi fresh lead aa nahi rahi hai. Maine unko proper tarike se bataya. Theek hai. But he want to talk to you sir. And he want to\\nCustomer: Okay do one thing just I will call you back we will connect on one hour. On what share the WhatsApp Zoom call meeting link on WhatsApp. I will connect with you.\\nExecutive: Kitne baje ka meeting schedule kar do? For sure for sure.\\nCustomer: Okay sir. Okay thank you. Yeah.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not getting leads for the last week.\\n\n- Issue is the same as discussed earlier.\\n\n\\n\nResolution:\\n\n- Executive offered to schedule a video meeting.\\n\n- Customer agreed to connect in one hour.\\n\n\\n\nNext Steps: \\n\n- Executive to share Zoom meeting link on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, zoom call, meeting schedule\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=dcd6b24a-345a-4674-8a56-c861c2784d7a",
+  "ucid": "dcd6b24a-345a-4674-8a56-c861c2784d7a",
+  "seller_categories": [
+    {
+      "mcat_id": "11599",
+      "mcat_name": "Linen Fabrics"
+    },
+    {
+      "mcat_id": "650573",
+      "mcat_name": "Women Co-Ord Set"
+    },
+    {
+      "mcat_id": "105933",
+      "mcat_name": "Women Clothes"
+    },
+    {
+      "mcat_id": "190420",
+      "mcat_name": "Ladies Cotton Pyjama"
+    },
+    {
+      "mcat_id": "68086",
+      "mcat_name": "Embroidered Cotton Dress"
+    }
+  ]
+}

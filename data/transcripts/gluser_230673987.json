@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670036636",
+  "gluser_id": "230673987",
+  "vintage_months": 3,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Durgapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663677",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello, good evening sir. I am Anshira, speaking from IndiaMART.\\nCustomer: Ha, boliye.\\nExecutive: Sir, your request came for connecting on video meeting.\\nCustomer: Oh, ha ha.\\nExecutive: Hanji sir, so you want to connect on video meeting now? Means, can connect?\\nCustomer: Ha, abhi kar sakta hu, abhi kar sakte hai.\\nExecutive: Uh, theek hai sir. Uh, mujhe ek minute ka time dijiye, mai aapka video meeting schedule kar rahi hu.\\nCustomer: Hmm.\\n\\nExecutive: Sir, maine video meeting schedule kar di hai. Ek baar mail check kare, aapke paas mail gaya hoga, Anshira Patiyar ke naam se.\\nCustomer: Achha, theek hai, mai check kar le raha hu.\\nCustomer: Theek hai, toh abhi connect kar lu?\\nExecutive: Hanji, hanji sir.\\nCustomer: Theek hai, mai connect karta hu.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a video meeting.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meeting.\\n\n\\n\nNext Steps: \\n\n- Customer will connect to the video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, connect\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=60f456e9-206f-4ea0-86fe-c0d8eb06666f",
+  "ucid": "60f456e9-206f-4ea0-86fe-c0d8eb06666f",
+  "seller_categories": [
+    {
+      "mcat_id": "99973",
+      "mcat_name": "Sublimation Mug"
+    },
+    {
+      "mcat_id": "215928",
+      "mcat_name": "MDF Sublimation Keychain"
+    },
+    {
+      "mcat_id": "30192",
+      "mcat_name": "Heat Press Machine"
+    },
+    {
+      "mcat_id": "183894",
+      "mcat_name": "Sublimation Key Chain"
+    },
+    {
+      "mcat_id": "73938",
+      "mcat_name": "Combo Heat Press"
+    }
+  ]
+}

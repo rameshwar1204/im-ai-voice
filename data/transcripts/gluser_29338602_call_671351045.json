@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671351045",
+  "gluser_id": "29338602",
+  "vintage_months": 112,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bhopal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji bataye.\\nExecutive: Hi ma'am good good evening actually main Kajal baat karungi aapse.\\nCustomer: Haan Kajal.\\nExecutive: Haan wo hamara confirmation hua tha na kal video meeting ke liye.\\nCustomer: Hmm hmm.\\nExecutive: To kal main aapko connect kar lungi, theek hai? Kal hi kar lijiye na 12 baje ke.\\nExecutive: Kal waise Saturday Sunday hamara off rehta hai but kal main aapko connect kar lungi. Ek bar aap mujhe bas WhatsApp pe message kar dijiyega, theek hai?\\nCustomer: Theek theek theek.\\nExecutive: To send se kya hoga ki thoda aaram se hum baat kar lenge.\\nCustomer: Theek hai.\\nExecutive: Aur jo bhi cheeze hongi usko hum discuss kar lenge, theek hai? Aur aapka ye concern yahan pe open tha. Kal hamara discussion hua but dusre number se hua to main mere pass koi.\\nCustomer: Ma'am Kajal ma'am main thoda sa busy hun abhi. Main aapse thodi der se connect karti hun na phone.\\nExecutive: Haan nahi chalega, chalega. Ye main close kar de rahi hun, theek hai?\\nCustomer: Okay okay theek hai okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to schedule a video meeting.\\n\nResolution:\\n\n- Executive agreed to reschedule the meeting.\\n\n\\n\nNext Steps: \\n\n- Executive will close the concern.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, schedule, reschedule\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=68b8edcc-a715-4bcb-a6cc-50ab7c5fff9c",
+  "ucid": "68b8edcc-a715-4bcb-a6cc-50ab7c5fff9c",
+  "seller_categories": [
+    {
+      "mcat_id": "182307",
+      "mcat_name": "Lean Mass Gainer"
+    },
+    {
+      "mcat_id": "137388",
+      "mcat_name": "Whey Protein"
+    },
+    {
+      "mcat_id": "68911",
+      "mcat_name": "Protein Supplement"
+    },
+    {
+      "mcat_id": "121257",
+      "mcat_name": "Mass Gainer"
+    },
+    {
+      "mcat_id": "182261",
+      "mcat_name": "Pre workout Supplements"
+    }
+  ]
+}

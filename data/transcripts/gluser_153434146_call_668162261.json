@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668162261",
+  "gluser_id": "153434146",
+  "vintage_months": 25,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9643554",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nExecutive: Hanji. \\nExecutive: Ji, good afternoon sir.\\nCustomer: Good afternoon.\\nExecutive: Ji, IndiaMART se baat kar raha hu sir. Abhi aapne 9696 pe call kiya tha?\\nCustomer: Nahi nahi, wo mai dekh raha tha ki mail mein kya aaya hua hai lekin wo call lag gaya.\\nExecutive: Achha achha achha. To abhi koi problem to nahi hai? Koi issue to nahi hai?\\nCustomer: Nahi nahi, koi issue nahi.\\nExecutive: Thik hai, to mai ye concern close kar raha hu ha.\\nCustomer: Ji ji.\\nExecutive: Thik hai, aur jaise mai concern close karunga na, to sir jaise mail aaya tha na, waise hi ek feedback ka mail aayega aapke paas. To mai ek baar us pe aap reply kar dijiyega, thik hai, satisfy ka.\\nCustomer: Okay.\\nExecutive: Thik hai, mail aayega to mai aapko ek baar call karke inform kar dunga, thik hai?\\nCustomer: Okay, okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer accidentally called IndiaMART.\\n\n\\n\nResolution:\\n\n- Executive confirmed no issue and closed concern.\\n\n- Executive informed about feedback mail.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- accidental call, feedback, concern closure\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2d992d99-62a8-48d5-9296-42064e7bbf5f",
+  "ucid": "2d992d99-62a8-48d5-9296-42064e7bbf5f",
+  "seller_categories": [
+    {
+      "mcat_id": "84052",
+      "mcat_name": "Decorative Candle Jar"
+    },
+    {
+      "mcat_id": "96",
+      "mcat_name": "Glass Candle Holders"
+    },
+    {
+      "mcat_id": "15348",
+      "mcat_name": "Jar Candle"
+    },
+    {
+      "mcat_id": "134082",
+      "mcat_name": "Glass Candle"
+    },
+    {
+      "mcat_id": "50117",
+      "mcat_name": "Glass Candy Jar"
+    }
+  ]
+}

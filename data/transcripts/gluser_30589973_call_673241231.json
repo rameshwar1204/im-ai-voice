@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673241231",
+  "gluser_id": "30589973",
+  "vintage_months": 0,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Coimbatore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9698043",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello sir.\\nExecutive: Hello?\\nExecutive: Hello? Sir sir na Swati call pannirukken sir India Martle irunthu.\\nCustomer: Madam innum konjam innum oru manna neram thaazhthu kooptu irukken madam.\\nExecutive: Voice break aaguthu nga sir.\\nCustomer: Madam konjam oru oru manna nerathukulla ungalukku kooptu irukken madam.\\nExecutive: Aa seri ok na link WhatsApp numberkku anuppaattuma sir.\\nExecutive: Madam.\\nExecutive: Illa link mattum unga WhatsApp numberkku anuppattuma?\\nCustomer: Aa seri seri madam seri na office poittu kooptu irukken madam. Office poittu call pannunnu connect pannikkalaam sir number irukku illa direct contact pannunga sir.\\nCustomer: Irukku irukku madam.\\nExecutive: Ok sir ok thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back in one hour.\\n\n\\n\nResolution:\\n\n- Executive offered to send the link to the customer's WhatsApp number.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back from the office to connect.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncallback, link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 47,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f3f07ac-cf5d-453c-9840-5cc21b95bac9",
+  "ucid": "9f3f07ac-cf5d-453c-9840-5cc21b95bac9",
+  "seller_categories": [
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "179153",
+      "mcat_name": "M Sand"
+    },
+    {
+      "mcat_id": "25680",
+      "mcat_name": "Solid Concrete Blocks"
+    },
+    {
+      "mcat_id": "217093",
+      "mcat_name": "Interlocking bricks"
+    },
+    {
+      "mcat_id": "181701",
+      "mcat_name": "Cement Brick"
+    }
+  ]
+}

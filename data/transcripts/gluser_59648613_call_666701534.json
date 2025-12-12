@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666701534",
+  "gluser_id": "59648613",
+  "vintage_months": 14,
+  "bl_dau_oct": 28,
+  "customer_type": "Catalog Email Defaulter",
+  "city_name": "Masaurhi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628308",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nCustomer: Ha sir, namaste.\\n\\nExecutive: Namaste sir.\\n\\nCustomer: Sir apna lead nahi aa raha hai sir wo.\\n\\nExecutive: Ek baar mai aapko panel call karta hu aaj working hi nahi hai toh mere paas system hi nahi hai.\\n\\nCustomer: Accha.\\n\\nExecutive: Accha mai samajhta hu mai aapko morning me call karta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving leads.\\n\n\\n\nResolution:\\n\n- Executive will call the customer in the morning.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer in the morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, panel, working\\n\n\\n",
+  "call_entered_on": "11/2/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9d5cac19-9cf4-4860-a00e-8acf1daa9d93",
+  "ucid": "9d5cac19-9cf4-4860-a00e-8acf1daa9d93",
+  "seller_categories": [
+    {
+      "mcat_id": "161374",
+      "mcat_name": "Tobacco Cutting Machine"
+    },
+    {
+      "mcat_id": "118963",
+      "mcat_name": "Banana Fibre Extractor"
+    },
+    {
+      "mcat_id": "122611",
+      "mcat_name": "Banana Fiber"
+    },
+    {
+      "mcat_id": "87664",
+      "mcat_name": "Tobacco Machine"
+    },
+    {
+      "mcat_id": "39073",
+      "mcat_name": "Strip Cutting Machine"
+    }
+  ]
+}

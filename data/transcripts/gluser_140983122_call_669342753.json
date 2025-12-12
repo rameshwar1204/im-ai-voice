@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669342753",
+  "gluser_id": "140983122",
+  "vintage_months": 48,
+  "bl_dau_oct": 8,
+  "customer_type": "STAR",
+  "city_name": "Bulandshahr",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9644309",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Haan ji. Harjit Saloni bol rahi hu IndiaMART se.\\nCustomer: Haan ji.\\nExecutive: Haan mai ye bol rahi thi aap se us din discussion hua tha na aap matlab ne time liya tha aapne discussion ke liye fir next day aap ki health thik nahi thi to aapne bola tha ki mai Monday ko connect karta hu. To aap batao aaj aap kis time ho available?\\nCustomer: Main na aaj to nahi hu.\\nExecutive: Sir actually mujhe aap se discussion uske regarding karna hai bahut time se due hai. \\nCustomer: Abhi mai gaya hua hu fir char aapka 6 o clock tak I think last time hai na. To mere ko aate nahi 6 baj jayenge fir mai baat to kar nahi paunga abhi.\\nExecutive: Achha. Mujhe dekhiye bas ek concern ye hai ki wo jo aapka not satisfied wala hai na wo utne lambe time se pending hai aur usi ke liye usme kuch mention bhi nahi hai reason. \\nCustomer: Nahi nahi I understand mam meri bhi profile hai mujhe bhi dekhni hi hai but I am short on time abhi I am already I am with someone to mai abhi baat bhi nahi kar paunga thik se aap se na. To thik hai to 6 baje ke baad ye possible 6:15 ya 6:10 pe hum connect kar sakte hai?\\nExecutive: Yes yes hopefully hopefully this is possible. Aisa kuch nahi hai ki din me time nahi milega 15-20 minute ka bas wo time set karna is little difficult.\\nExecutive: Thik hai koi nahi aapko ko mai ek bar 6 baje call lungi else aapke pass agar usse pehle time ho available to aap karna na call.\\nCustomer: Thik hai. Okay.\\nExecutive: Okay okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's 'not satisfied' issue is pending.\\n\n- Executive wants to discuss pending issues.\\n\n\\n\nResolution:\\n\n- Customer will connect after 6:00 PM.\\n\n- Executive will call at 6:00 PM.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- discussion, pending issue, connect\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=850bcab6-4c23-4274-bcde-67299ece2c6f",
+  "ucid": "850bcab6-4c23-4274-bcde-67299ece2c6f",
+  "seller_categories": [
+    {
+      "mcat_id": "177157",
+      "mcat_name": "Air Filter Foam"
+    },
+    {
+      "mcat_id": "122544",
+      "mcat_name": "Reticulated Foam"
+    },
+    {
+      "mcat_id": "180790",
+      "mcat_name": "Memory Foam"
+    },
+    {
+      "mcat_id": "112544",
+      "mcat_name": "Memory Foam Mattress"
+    },
+    {
+      "mcat_id": "151309",
+      "mcat_name": "Scooter Air Filter"
+    }
+  ]
+}

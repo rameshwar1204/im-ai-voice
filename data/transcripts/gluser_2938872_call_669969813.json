@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669969813",
+  "gluser_id": "2938872",
+  "vintage_months": 44,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663305",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan?\\nExecutive: Good evening sir, Anshika baat kar rahi hu mai IndiaMART se.\\nCustomer: Abhi toh phone aaya tha madam ne.\\nExecutive: Haan ji sir phone aaya tha but actually aapka hame feedback mila tha aapke last jaise aaj hi connect hua tha na toh uske regarding aapka feedback aaya tha hamare paas.\\nCustomer: Haan haan.\\nExecutive: Toh usi ke baat liye maine call kiya hai aapko. Haan aapne not satisfied ka sir feedback diya tha toh kuch matlab aapko kya dikkat aa rahi hai sir bataiye.\\nCustomer: Dikkat kuch nahi aapke yahan se 50 baar phone aa chuka hai catalog me ye hai puch lete hain wo valid nahi hai haan haan mai dekhta hu dekhta hu but uske baad koi bhi valid nahi aata hai. Kya mai satisfied rahunga har do din baad aap log disturb karte ho. Lekin uska response kuch bhi nahi rehta hai.\\nExecutive: Okay. Sir aapke account manager se aapki baat hui thi matlab aapke jo abhi current account manager hai wo Aman ji hai inse aapki baat hui hai?\\nCustomer: Haan ji baat hui hai.\\nExecutive: Aur sara kuch discussion bhi aapne kiya uske baad bhi koi response nahi mila aapko.\\nCustomer: Hmm.\\nExecutive: Okay. Sir aap mujhe abhi aapke yahan se catalog department se hi phone aaya hua tha.\\nCustomer: Haan ji haan ji sir. Hmm. Isi ka maine unko sara kuch bataya bhi. Hmm. Isi ka regarding aaya hua tha mere ko feedback toh jab tak mere ko kuch aayega nahi valid mai kya satisfied hounga. Mai satisfied bol du haan ho gaya fir mere ko ek bhi valid nahi aaya.\\nCustomer: Sir aapko nahi aaya. Aaj tak toh nahi aaya. Chhe mahine se ek bhi nahi aaya.\\nExecutive: Chhe mahine se nahi aa raha hai.\\nCustomer: Ek baar aap all over India se baat kar aapne.\\nExecutive: Sir aap all over India deal karte hain ya kuch specific location me?\\nCustomer: Nahi nahi. All over. All over ka system kiya hua hai.\\nExecutive: Sir all over rahega na aapka?\\nCustomer: Bihar West Bengal nahi madam. Aap fir utna hi time mera kha rahi ho fir se.\\nExecutive: Nahi nahi mai bas ye puch rahi hu Bihar Jharkhand aur aapka ye West Bengal.\\nCustomer: Haan ji. West Bengal. Haan ji.\\nExecutive: Thik hai sir mai aapke aapke account manager se bol kar ke aapko Bihar Jharkhand aur West Bengal ke leads bhi regular basis pe bolti hu wo share karenge aapko whatsapp pe.\\nCustomer: Thik hai.\\nExecutive: Okay sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Not receiving valid buyleads since six months.\\n\n- Disturbed by frequent calls without resolution.\\n\n\\n\nResolution:\\n\n- Executive assured regular leads on WhatsApp.\\n\n- Will inform account manager to share leads.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5e48a6cc-6554-4c88-bb2f-4c62ce964b1f",
+  "ucid": "5e48a6cc-6554-4c88-bb2f-4c62ce964b1f",
+  "seller_categories": [
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "246724",
+      "mcat_name": "Manual Concrete Mixer"
+    },
+    {
+      "mcat_id": "42493",
+      "mcat_name": "Cube Moulds"
+    },
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "146140",
+      "mcat_name": "Test Equipment Repair"
+    }
+  ]
+}

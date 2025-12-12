@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675926259",
+  "gluser_id": "180819666",
+  "vintage_months": 10,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718534",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji sir, yeh Venkatesh Engineering se baat kar rahe hain?\\nCustomer: Haan, boliye.\\nExecutive: Mr. Manohar se baat kar rahe hain sir aap?\\nCustomer: Nahi, Manohar nahi.\\nExecutive: Madam thoda airport pe hoon, thoda baad mein call kijiye mere ko. Airport pe hoon.\\nExecutive: Sir aapka ek number change karne ke liye request aaya tha na?\\nCustomer: Haan, woh toh hai lekin main abhi thoda airport pe hoon, baad mein phone kijiye.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Request to change a number.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call later as customer is at the airport.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnumber change request, airport\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d127825-1ae4-4b57-8886-c605fabef1f5",
+  "ucid": "8d127825-1ae4-4b57-8886-c605fabef1f5",
+  "seller_categories": [
+    {
+      "mcat_id": "2657",
+      "mcat_name": "Universal Testing Machine"
+    },
+    {
+      "mcat_id": "8206",
+      "mcat_name": "Rockwell Hardness Tester"
+    },
+    {
+      "mcat_id": "152057",
+      "mcat_name": "Test Block"
+    },
+    {
+      "mcat_id": "147644",
+      "mcat_name": "Universal Testing Machine Parts"
+    },
+    {
+      "mcat_id": "23605",
+      "mcat_name": "Brinell Hardness Testers"
+    }
+  ]
+}

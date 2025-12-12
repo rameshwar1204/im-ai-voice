@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673588371",
+  "gluser_id": "68896557",
+  "vintage_months": 18,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Contai",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667729",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello, main jitendra bol raha hun. Ji ji kaise ho? Very good morning.\\nCustomer: Sir subah subah nahi sir aapka jo ticket aap raise kar diya humka koi complaint nahi tha aap phone bhi nahi kiye kaise aap ticket raise kar diye?\\nExecutive: Kya hua sir?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Ticket was raised without a complaint or phone call.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral to Frustrated\\n\n\\n\n\\n\n@@@Key Topics:\\n\nticket, complaint\\n\n\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 34,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0e76a656-48d6-49c1-adb3-ba3fb1fb7afb",
+  "ucid": "0e76a656-48d6-49c1-adb3-ba3fb1fb7afb",
+  "seller_categories": [
+    {
+      "mcat_id": "181498",
+      "mcat_name": "Kyocera Multifunction Printer"
+    },
+    {
+      "mcat_id": "41536",
+      "mcat_name": "Xerox Machines"
+    },
+    {
+      "mcat_id": "178728",
+      "mcat_name": "Kyocera Photocopy Machine"
+    },
+    {
+      "mcat_id": "178726",
+      "mcat_name": "Canon Photocopy Machine"
+    },
+    {
+      "mcat_id": "178733",
+      "mcat_name": "Konica Minolta Photocopy Machine"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676267321",
+  "gluser_id": "45681197",
+  "vintage_months": 1,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kanke",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674631",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[Ringing]\\nCustomer: Hello?\\nCustomer: Hello?\\nCustomer: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone ringing, unanswered\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a57947c8-aa4c-4f97-9410-d201ab6c4fd2",
+  "ucid": "a57947c8-aa4c-4f97-9410-d201ab6c4fd2",
+  "seller_categories": [
+    {
+      "mcat_id": "126208",
+      "mcat_name": "HDPE Granules"
+    },
+    {
+      "mcat_id": "153076",
+      "mcat_name": "Natural PP Granule"
+    },
+    {
+      "mcat_id": "42009",
+      "mcat_name": "PP Granules"
+    },
+    {
+      "mcat_id": "153092",
+      "mcat_name": "Reprocessed PP Granules"
+    },
+    {
+      "mcat_id": "186645",
+      "mcat_name": "Pp Milky Granules"
+    }
+  ]
+}

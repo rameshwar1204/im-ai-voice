@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668430585",
+  "gluser_id": "9204916",
+  "vintage_months": 1,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710450",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hanji.\\nExecutive: Ha universal adolic se bol raha hu.\\nCustomer: Kaha se?\\nExecutive: Universal Adolic Belgam se.\\nCustomer: Hanji boliye.\\nExecutive: Kya ho gaya madam aap call back nahi kiye mere ko sir.\\nCustomer: Actually mai na admit hu hospitalize hu sir.\\nExecutive: Hmm.\\nCustomer: To aapka profile hai na mai bol deti hu shift kara deti hu, thik hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is hospitalized and could not call back.\\n\n- Wants profile to be shifted.\\n\n\\n\nResolution:\\n\n- Executive offered to shift the customer's profile.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- profile, shifting, hospitalization\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1cb50842-a009-4504-b398-ba358e300720",
+  "ucid": "1cb50842-a009-4504-b398-ba358e300720",
+  "seller_categories": [
+    {
+      "mcat_id": "69130",
+      "mcat_name": "Oil Filter Press"
+    },
+    {
+      "mcat_id": "6357",
+      "mcat_name": "Filter Press"
+    },
+    {
+      "mcat_id": "113954",
+      "mcat_name": "Polypropylene Filter Cloth"
+    },
+    {
+      "mcat_id": "137534",
+      "mcat_name": "Oil Filter Machine"
+    },
+    {
+      "mcat_id": "42759",
+      "mcat_name": "Hydraulic Power Pack"
+    }
+  ]
+}

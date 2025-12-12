@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671909044",
+  "gluser_id": "141537513",
+  "vintage_months": 5,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Sangareddy",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672939",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello?\\nHello?\\nSir, I am Meet Kalyan sir from Metcon Pre-Engineering Building System, sir.\\nHan, han, nahi, ye uska number nahi hai, mere number hai, mera husband ka number deti hu, baat kar lo.\\nJi, ji, number bataiyega mam.\\nNahi, nahi.\\nDusra number rehta hai na, wo usme se kar lo.\\nWo 99 wala mam, last mein 33 hai?\\nYe wala number mam?\\nYahi mera hai.\\nAb mujhe dusra number, sir ka number, sir ka number bata dijiye mam, main likh leta hu.\\n99\\nOkay.\\nAp kahan se baat kar rahe hain?\\nIndiaMART mam, IndiaMART.\\nOkay. 991212\\n12\\n88\\n88\\n1338\\n133, mam is number pe ye number hai mere paas, ispe main call kar raha hu to incoming call not going aise karke aa raha hai mam.\\nNumber pe.\\nWahi hai final number uska to.\\nMatlab this number cannot receive incoming call aise karke mam aa raha hai, ye number hai hamare paas already sir ka ye wala to.\\nHan. Fir wahi number hai uska to.\\nIske koi aur number hai mam?\\nYe number hai?\\nHan. Iske alawa koi number hai sir ka mam, koi alternate number?\\nNo, no, alternative number nahi hai, ye permanent number hota hai mere paas.\\nAcha, yahi ek number hai?\\nHan. Chaliye main thodi der baad fir milata hu, apki baat hui hai is number pe mam aaj sir se?\\nKya?\\nAp ek dial number karke ap dekhenge mam, kyunki maine dial kara nahi mil raha hai, to main ek bar ye meri side se. Nahi, wo milta hai, tum try karo, wo permanent number hota hai.\\nThik hai, main try isi pe karta hu mam, thik hai.\\nHan, thik hai.\\nOkay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to provide her husband's number.\\n\n- Executive is unable to connect to the number.\\n\n\\n\nResolution:\\n\n- Customer provided her husband's number.\\n\n- Executive will try calling again later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- number, calling, contact\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 154,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7576f7f5-8111-4ba4-a2bd-4079ad95c04a",
+  "ucid": "7576f7f5-8111-4ba4-a2bd-4079ad95c04a",
+  "seller_categories": [
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "120929",
+      "mcat_name": "Civil Contractors"
+    },
+    {
+      "mcat_id": "45872",
+      "mcat_name": "House Construction Services"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "167873",
+      "mcat_name": "Commercial Buildings Construction"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671246927",
+  "gluser_id": "205251836",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671558",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Assalam walekum.\\nCustomer: Walekum assalam.\\nExecutive: Main Shadab bol raha hun.\\nCustomer: Haan boliye.\\nCustomer: Kal meri baat hui thi na aap se.\\nExecutive: Haan haan.\\nCustomer: To uski detail vagaira to maine aapko bhej di thi aur ye tha ki kal aapne call kiya tha to call mere se miss ho gayi thi.\\nExecutive: To uska haan to uska yahan pe concern raise hua tha.\\nCustomer: Nahi wo kal baat ho gayi na apni.\\nCustomer: Haan wahi cheez hai to matlab kal meri baat hui thi na to usi beech mein aisa hua hoga ki call jo hai cut ho gayi hogi.\\nExecutive: Nahi nahi wo to maine cut kiya tha Shadab bhai matlab clear karke.\\nCustomer: Nahi nahi beech beech mein awaz wo call cut rahi thi na to us usi beech mein aapne udhar se mujhko call kiya hoga aur wo call meri pick nahi ho pai hogi ya to maine idhar se call kar diya hoga aapne call utha liya hoga to ek hisab se call jo hai mere se miss ho gayi thi.\\nCustomer: To us pe ye hota hai ki usme concern raise ho jata hai yahan pe.\\nExecutive: Achcha.\\nCustomer: To uska fir baad mein humse aapko discuss karne ke baad matlab aur koi concern to nahi hai to fir uska closure lena padta hai.\\nExecutive: Nahi nahi wahi concern nahi.\\nCustomer: Haan to baki isko main jo hai isko main close kar deta hun.\\nExecutive: Ji ji ji.\\nCustomer: Theek hai aur iska aapke pass iska na aapke pass ek feedback aayega mere regarding se.\\nExecutive: Ji.\\nCustomer: Haan mail pe aayega to main abhi mail pe jab aayega to main aapse connect kar lunga theek hai.\\nExecutive: Theek hai.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer missed a call from the executive.\\n\nResolution:\\n\n- Executive confirmed call was to address concern.\\n- Executive will close the concern.\\n- Customer will receive feedback mail.\\n\nNext Steps: \\n\n- None\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- missed call, feedback, closure\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 99,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2c4b763f-6769-4deb-af74-e4cb692eda4a",
+  "ucid": "2c4b763f-6769-4deb-af74-e4cb692eda4a",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "626",
+      "mcat_name": "Marble Slabs"
+    },
+    {
+      "mcat_id": "72798",
+      "mcat_name": "Wall Fountain"
+    },
+    {
+      "mcat_id": "177777",
+      "mcat_name": "Marble Tulsi Stand"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    }
+  ]
+}

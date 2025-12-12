@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668028201",
+  "gluser_id": "65703314",
+  "vintage_months": 5,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Pilibhit",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647882",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji Mohammad Ali Naved ji se baat ho rahi hai Alina International mein.\\nCustomer: Ha ha.\\nExecutive: Okay sir good morning main Pallavi baat kar rahi hu IndiaMART se kaise hain aap?\\nCustomer: Ji theek hai.\\nExecutive: Ji sir aap call kar rahe the sir I think kal aaj.\\nCustomer: Ha maine kal call kiya tha mujhe jo hai mujhe ko apna jo hai ab teen char mahina ho gaya mera koi kaam nahi ho raha hai waha se isliye mujhe jo hai refund chahiye.\\nExecutive: Okay.\\nExecutive: But sir aapko bataya hoga na meri team ne ki aapki jo services hai humne aapko ek saal ki services di hai 12 mahine ki theek hai.\\nCustomer: Wo sab kuch bataya hai sab kuch dekh liya maine sab kar karke lekin ab.\\nExecutive: 12 mahine mein hum hum ensure karte hai ki aap nahi nahi koi nahi hai.\\nCustomer: Saare teen char mahina ho gaya dekhiye in sab baaton ka koi fayda nahi hai jo bhi hai mera refund karwa dijiye aap.\\nExecutive: Sir dekhiye refund ka koi policy nahi hai hamare yaha pe theek hai.\\nCustomer: Refund ki policy nahi hai refund ki policy nahi hai refund ki policy hai.\\nExecutive: Sir aapka already July, August, September, October theek hai char mahine se aap services use kar rahe hain hum regular aapko inquiry bhi de rahe hain by lead bhi de rahe hain calls bhi de rahe hain aapke har product ka customer hai har locations se.\\nCustomer: Kuch nahi aa raha hai.\\nExecutive: Sir aap sir aap use hi nahi kar rahe aap ek aap ek lafz sirf bata do na ki aap refund karoge ki nahi karoge baki baat nahi karna hai mujhe.\\nExecutive: Nahi nahi sir refund ka to koi policy hai hi nahi.\\nCustomer: Chalo to theek hai main aisa karunga fir aapko fir notice bhejta hu theek hai okay.\\nExecutive: Okay sir thank you for calling.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants a refund for the subscription.\\n\n\\n\nResolution:\\n\n- Executive stated there is no refund policy.\\n\n\\n\nNext Steps: \\n\n- Customer will send a notice.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, policy\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 123,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c530aaaf-6123-4c34-95ee-7a079fd52a77",
+  "ucid": "c530aaaf-6123-4c34-95ee-7a079fd52a77",
+  "seller_categories": [
+    {
+      "mcat_id": "9997",
+      "mcat_name": "Men Cotton Shirts"
+    },
+    {
+      "mcat_id": "9993",
+      "mcat_name": "Men Shirts"
+    },
+    {
+      "mcat_id": "163764",
+      "mcat_name": "Men Denim Jeans"
+    },
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "295",
+      "mcat_name": "Men Trousers"
+    }
+  ]
+}

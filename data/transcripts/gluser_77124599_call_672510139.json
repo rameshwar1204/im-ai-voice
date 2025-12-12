@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672510139",
+  "gluser_id": "77124599",
+  "vintage_months": 0,
+  "bl_dau_oct": 14,
+  "customer_type": "TSCATALOG",
+  "city_name": "Borsad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669133",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\n \u0939\u093e\u0902 \u0938\u0930 \u090f\u0915 10-15 \u092e\u093f\u0928\u091f \u092e\u0947\u0902 \u092e\u0948\u0902 \u092a\u0939\u0941\u0902\u091a \u0915\u0947 \u0906\u092a\u0915\u094b \u0915\u0949\u0932 \u092c\u0948\u0915 \u0926\u0947\u0924\u093e \u0939\u0942\u0902 10-15 \u092e\u093f\u0928\u091f \u0938\u0947\u0964\\n\u0920\u0940\u0915 \u0939\u0948 \u0938\u0930 \u0906\u092a \u0915\u0930\u093f\u090f\u0964\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall back, minutes\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5ae4396f-c53b-4d22-9dee-1ebec8166386",
+  "ucid": "5ae4396f-c53b-4d22-9dee-1ebec8166386",
+  "seller_categories": [
+    {
+      "mcat_id": "12767",
+      "mcat_name": "Detergent Powder"
+    },
+    {
+      "mcat_id": "26352",
+      "mcat_name": "Detergent Cake"
+    },
+    {
+      "mcat_id": "190267",
+      "mcat_name": "Pitambari Powder"
+    },
+    {
+      "mcat_id": "221163",
+      "mcat_name": "Loose Detergent Powder"
+    },
+    {
+      "mcat_id": "1891",
+      "mcat_name": "Industrial Detergent"
+    }
+  ]
+}

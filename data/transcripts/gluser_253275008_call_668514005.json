@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668514005",
+  "gluser_id": "253275008",
+  "vintage_months": 2,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Cuttack",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650396",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Yes.\\nExecutive: Ji sir.\\nCustomer: Hello. \\nExecutive: Ji bataiye sir.\\nCustomer: Sir, mai bata raha hu ki ye jo IndiaMART par mera jo account hai wo lead mere ko nahi milta hai. Lead by lead.\\nExecutive: By lead nahi mil raha hai aapko?\\nCustomer: Nahi, nahi. Apni company ka naam bata dijiye.\\nCustomer: Mere complaint kiya tha lekin wo theek kiya tha fir bhi mere ko nahi milta hai.\\nExecutive: Company ka naam kya hai aapki?\\nCustomer: Raj Art and Craft. Raj Art and Craft.\\nExecutive: Thik hai sir, mere ko aap 15 minute dijiye. Mai ek bar pura catalog karwa leta hu aur fir aapko call back arrange karata hu.\\nCustomer: Aapna yogya thi ko sahayata katha hai uske anti se aap nahi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting buyleads.\\n\n- Customer had complained earlier, issue not resolved.\\n\n\\n\nResolution:\\n\n- Executive asked for 15 minutes to check catalog.\\n\n- Executive will arrange a call back.\\n\n\\n\nNext Steps: \\n\n- Executive will call back after checking catalog.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account, catalog, callback\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=397d797a-7a39-413c-a716-40b47c38867b",
+  "ucid": "397d797a-7a39-413c-a716-40b47c38867b",
+  "seller_categories": [
+    {
+      "mcat_id": "157904",
+      "mcat_name": "Black Stone Sculptures"
+    },
+    {
+      "mcat_id": "243",
+      "mcat_name": "Stone Statue"
+    },
+    {
+      "mcat_id": "8393",
+      "mcat_name": "Sandstone Statues"
+    },
+    {
+      "mcat_id": "19129",
+      "mcat_name": "Shiva Statue"
+    },
+    {
+      "mcat_id": "15246",
+      "mcat_name": "Buddha Statue"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666806257",
+  "gluser_id": "130374449",
+  "vintage_months": 18,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Pune",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696041",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Haan?\\nExecutive: Good morning sir.\\nCustomer: Good morning.\\nExecutive: Hello. Ji mai Dipanshi baat kar rahi hu sir IndiaMART se. Bolo. Sir aapke buyleads kaise chal rahe hai?\\nCustomer: Haan?\\nExecutive: Ji sir aapke buyleads kaise chal rahe hai? Koi issue vgera ho raha hai?\\nCustomer: Bahut buri.\\nExecutive: Bahut buri chal rahi hai.\\nCustomer: Lead hi nahi kuch bhi.\\nExecutive: Leads vgera nahi aa rahi hai?\\nCustomer: Hmm.\\nExecutive: Hello. Leads vgera nahi aa rahi hai?\\nCustomer: Nahi nahi.\\nExecutive: Nahi aa rahi.\\nExecutive: Ek minute mai aapka catalog open karti hu. Ek minute.\\nCustomer: Haan.\\nExecutive: Aap deal kaha se karte hai sir?\\nCustomer: Maharashtra.\\nExecutive: Hello Maharashtra.\\nExecutive: Hello sir, aapke paas Andhra Pradesh se koi buylead aayi hai aapke paas? Unka kya response raha aapke paas?\\nCustomer: Andhra Pradesh me nahi karte na sir.\\nExecutive: Nahi.\\nExecutive: Only Maharashtra. Agar sir acche order aayenge to buylead ka payment bhi aap hi karenge to vaise consume kar sakte hai?\\nCustomer: Nahi lekin vo utna hota nahi hai chota chota aata hai.\\nCustomer: Bada hoga to de denge lekin chota chota order aata hai.\\nExecutive: Accha. Accha accha accha.\\nExecutive: Hello. Spring washers me aap deal karte hai sir?\\nCustomer: Hmm? Nahi.\\nExecutive: Spring washers. Spring washers. Ji ji isme nahi karte aap?\\nCustomer: Ruko madam aadha minute aadha ghante ke baad sunta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting enough leads.\\n\n- Customer states buyleads are performing very badly.\\n\n\\n\nResolution:\\n\n- Executive checked the customer's catalog.\\n\n- Executive inquired about leads from Andhra Pradesh.\\n\n- Executive confirmed customer deals only in Maharashtra.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after half an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, maharashtra\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f95eae2e-7c79-4504-b592-917a673f40dc",
+  "ucid": "f95eae2e-7c79-4504-b592-917a673f40dc",
+  "seller_categories": [
+    {
+      "mcat_id": "87382",
+      "mcat_name": "Hexagon Socket Head Cap Screw"
+    },
+    {
+      "mcat_id": "25976",
+      "mcat_name": "Countersunk Bolts"
+    },
+    {
+      "mcat_id": "182802",
+      "mcat_name": "Hex Nylock Nut"
+    },
+    {
+      "mcat_id": "32261",
+      "mcat_name": "Machine Washers"
+    },
+    {
+      "mcat_id": "194527",
+      "mcat_name": "Unbrako Screws"
+    }
+  ]
+}

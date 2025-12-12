@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667350835",
+  "gluser_id": "38856469",
+  "vintage_months": 46,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Robertsganj",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9682156",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello, hello.\\nExecutive: Hello.\\nCustomer: Haan ji madam. Hello. Haan ji haan ji bolo aap.\\nExecutive: Good afternoon. Good afternoon. Good afternoon. Good good.\\nCustomer: Inquiries nahi aa rahi hai. Kya naam hai aapka Simran. Simran haan ji.\\nExecutive: Ji sir Simran. Ji ji ji. Ye sir se bhi sir se bhi baat hui. Sir ne bataya.\\nCustomer: Ji ji. Sir actually usi ke regarding hi call kar rahi thi main aapko. Aap free hai abhi?\\nCustomer: Chaliye free ho jata hu. Batao ab kya karna hai.\\nExecutive: Sir main aapko na video meet ka link share kar dijiye. Aap use join kare. Taki hum aapko problem. Haan ji.\\nCustomer: Thik hai thik hai bhej dena.\\nExecutive: Thik hai thik hai thik hai bhejo aap jara fatfat bhej do. Ye kitna time lagega madam kyuki main kahi meeting me bhi jane wala tha isko hai na dikha hua.\\nExecutive: Accha accha nahi sir jyada time nahi lagega 10 to 15 minutes hi lagenge.\\nCustomer: Thik hai thik hai please connect karna aap. Bhej diya aapne?\\nExecutive: Haan sir maine aapke mail par bheja hai. Main aapko bata deti hu kaun sa mail hai.\\nCustomer: Haan haan connect ho gaya.\\nExecutive: Ho gaya connect?\\nCustomer: Haan ji haan ji haan ji.\\n\\nThik hai.\\n\\n\\nYe ispe kya karna hai share karna hai?\\nExecutive: Ji main aapko apna screen aap mujhe apna screen share kariye. Main aapko screen par dikha deti hu.\\nCustomer: Thik hai thik hai aa gaya na. Haan ji haan ji main aapko video meet pe baat kar rahi hu na.\\nExecutive: Haan ji haan ji haan ji.\\nExecutive: Haan ji okay. Ye kya aa gaya itna jyada khul ke aa gaya.",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not receiving inquiries.\\n\n\\n\nResolution:\\n\n- Executive shared a video meet link.\\n\n- Executive offered to guide via screen sharing.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- inquiries, video meet, screen sharing\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 113,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1051c3bc-eadf-477d-b771-2bf3a80c3fbf",
+  "ucid": "1051c3bc-eadf-477d-b771-2bf3a80c3fbf",
+  "seller_categories": [
+    {
+      "mcat_id": "53759",
+      "mcat_name": "Bamboo Lamp"
+    },
+    {
+      "mcat_id": "9046",
+      "mcat_name": "Hanging Lamps"
+    },
+    {
+      "mcat_id": "33887",
+      "mcat_name": "Pendant Light"
+    },
+    {
+      "mcat_id": "224512",
+      "mcat_name": "Bamboo Lamp Shade"
+    },
+    {
+      "mcat_id": "74236",
+      "mcat_name": "Hanging Light"
+    }
+  ]
+}

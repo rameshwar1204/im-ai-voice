@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667411532",
+  "gluser_id": "110194670",
+  "vintage_months": 11,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9630042",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello. Hello? Hello?\\nExecutive: Ji boliye. Hello. \\nCustomer: Uh, ha.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer said hello multiple times.\\n\n\\n\nResolution:\\n\n- Executive responded to the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- initial contact, greeting\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=901afdaf-9307-4ec6-a76b-575879dc286c",
+  "ucid": "901afdaf-9307-4ec6-a76b-575879dc286c",
+  "seller_categories": [
+    {
+      "mcat_id": "65661",
+      "mcat_name": "Gemstone Bracelet"
+    },
+    {
+      "mcat_id": "185997",
+      "mcat_name": "White Pebble"
+    },
+    {
+      "mcat_id": "13082",
+      "mcat_name": "Pyrite Stone"
+    },
+    {
+      "mcat_id": "25150",
+      "mcat_name": "Crystal Bracelets"
+    },
+    {
+      "mcat_id": "226872",
+      "mcat_name": "Gemstone Tree"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676621723",
+  "gluser_id": "115106654",
+  "vintage_months": 1,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Balasore",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9718358",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Hello. Hello. Hello. Haan. Hi. Good evening Mr. Jitendra. Main hu Maira baat kar rahi thi. India Mart head office se. Kal baat hui thi sir aapse sham ke time sir.\\nCustomer: Haan keh rahe the ki aapka accident ho gaya tha right right. Aapne mujhe kal morning aaj morning ke liye bola tha. Maine connect kiya but aapse baat ho nahi payi thi meri.\\nExecutive: Main aapko haan. Haan kya keh rahe hain?\\nCustomer: Main abhi to lot raha hu. Subah se. Achcha abhi bhi nahi theek hai. Haan.\\nExecutive: Achcha. Baki as such koi aur problem hai nahi aap use karte rahiye sir isme. Baki main aapko number de de rahi hu apna whatsapp ka. Theek hai aap mujhe connect karte rehna.\\nCustomer: Theek hai. Isme to whatsapp pe kijiye.\\nExecutive: Haan aur thoda bahut changes mujhe lag raha hai. Main wo kara de rahi hu profile pe. Whatsapp pe aap mujhe connect kar lena. Theek hai sir. Aap dekh lo apna waha pe bhi thoda dekhna zaruri hai chezo ko. Hai na sir. Haan.\\nExecutive: Baki main yaha se ye ticket band kar de rahi hu. Theek hai.\\nExecutive: Aur number share kar rahi hu aapko apna whatsapp pe. Aap mujhe connect kar lo. Jaise hi free hote ho na waha se apna aap mujhe connect karo. Theek hai sir. Aapka working hour kab kya hai?\\nCustomer: Kya hai? Working hour to sir subah se hi rehta hai. 9 baje se rehta hai sham tak hi rehta hai.\\nExecutive: Haan achcha theek hai.\\nExecutive: Haan. Theek hai sir. Number de de rahi hu. Haan bata dungi aapko.\\nCustomer: Naam bata dijiye aap.\\nExecutive: Theek hai ticket bhi band kar de rahi hu. Feedback aa jayega aapke pass. Koi dikkat hogi to mujhe call karna aap message karna. Number de rahi hu aapko.\\nCustomer: Okay okay.\\nExecutive: Okay sir. Thank you sir. Bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had an accident.\\n\n- Wants executive to share number on WhatsApp.\\n\n\\n\nResolution:\\n\n- Executive shared her WhatsApp number.\\n\n- Executive offered to make profile changes.\\n\n- Executive closed the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer to connect on WhatsApp when free.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp, profile, working hours, ticket\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a3716cfb-a597-4dc9-ba07-44eae9554982",
+  "ucid": "a3716cfb-a597-4dc9-ba07-44eae9554982",
+  "seller_categories": [
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "177610",
+      "mcat_name": "Potli Bags"
+    },
+    {
+      "mcat_id": "137695",
+      "mcat_name": "Cow dung Cake for Manure"
+    },
+    {
+      "mcat_id": "42112",
+      "mcat_name": "Floral Incense Sticks"
+    },
+    {
+      "mcat_id": "141759",
+      "mcat_name": "Bamboo Incense Stick"
+    }
+  ]
+}

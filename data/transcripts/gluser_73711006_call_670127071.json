@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670127071",
+  "gluser_id": "73711006",
+  "vintage_months": 8,
+  "bl_dau_oct": 25,
+  "customer_type": "FREELIST",
+  "city_name": "Domjur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635498",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haanji ma'am ji.\\nExecutive: Aapne call kiya tha is number pe?\\nCustomer: Haanji haanji actually ho gayi ma'am se baat video meeting ke regarding unhone connect kiya tha.\\nExecutive: Okay.\\nCustomer: So ho gayi hai unse baat kar rahe hain, theek hai?\\nExecutive: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Regarding video meeting, connected by madam.\\n\n\\n\nResolution:\\n\n- Customer confirmed conversation is in progress.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- video meeting, connect\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8edc6ae6-b0d6-4808-8a02-8b5f18bdd071",
+  "ucid": "8edc6ae6-b0d6-4808-8a02-8b5f18bdd071",
+  "seller_categories": [
+    {
+      "mcat_id": "29051",
+      "mcat_name": "Fuel Cells"
+    },
+    {
+      "mcat_id": "27725",
+      "mcat_name": "Electrolysis Equipment"
+    },
+    {
+      "mcat_id": "33958",
+      "mcat_name": "Peristaltic Pumps"
+    },
+    {
+      "mcat_id": "65137",
+      "mcat_name": "Graphite Sheet"
+    },
+    {
+      "mcat_id": "133895",
+      "mcat_name": "Platinum Electrode"
+    }
+  ]
+}

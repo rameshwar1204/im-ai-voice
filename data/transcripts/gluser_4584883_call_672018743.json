@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672018743",
+  "gluser_id": "4584883",
+  "vintage_months": 114,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9677527",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello? Haan ji sir.\\nExecutive: Ji sir, Tanuj baat karunga aapke saath. Maine meeting ka link bheja hua tha aapko subah bolte 3 baje karne join karne ke liye aapne.\\nCustomer: Haan ji, chaliye abhi join kar lete hain. Aapka jo mail ID hai na, ye official mail ID hai aapki. Vikram.product@gmail.com.\\nExecutive: Haan ji. Abhi karta hu.\\nCustomer: Please main meeting mein.\\nExecutive: Haan ji, haan ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was sent a meeting link for 3:00 PM but has not joined yet.\\n\n- Customer asks if the executive's email ID, vikram.product@gmail.com, is the official one.\\n\n\\n\nResolution:\\n\n- Executive confirms the email ID.\\n\n- Executive will wait for the customer to join the meeting.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will join the meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nmeeting link, email id\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=abbcdf66-0070-40c7-916f-e219edd196db",
+  "ucid": "abbcdf66-0070-40c7-916f-e219edd196db",
+  "seller_categories": [
+    {
+      "mcat_id": "33921",
+      "mcat_name": "Perforating Machine"
+    },
+    {
+      "mcat_id": "155100",
+      "mcat_name": "Fibrillating Roller"
+    },
+    {
+      "mcat_id": "134087",
+      "mcat_name": "Tape Stretching Line"
+    },
+    {
+      "mcat_id": "74158",
+      "mcat_name": "Weaving Machine Parts"
+    },
+    {
+      "mcat_id": "221402",
+      "mcat_name": "Perforation Roller"
+    }
+  ]
+}

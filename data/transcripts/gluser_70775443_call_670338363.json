@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670338363",
+  "gluser_id": "70775443",
+  "vintage_months": 50,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Gurugram",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji.\\nCustomer: Ji sir, Andaman se baat kar rahi hu, IndiaMART se.\\nExecutive: Haanji, madam maine kal na woh liya tha aapka MDC one year, Expert Loks se baat kar raha hu mai.\\nExecutive: Sir aapne ye jo call connect kiya hai na IndiaMART pe, ye aapki Origami Jute Bag Private Limited jo register company hai, waha pe head office me connect hui hai. Aur shayad aapne jo payment kiya hai ye field support ke dwara payment kiya hoga, right?\\nCustomer: Kis ke dwara?\\nExecutive: Field support se kiya hai na payment aapne new registration ko lekar?\\nCustomer: Haan new registration kara tha maine uske through hi karaya ji ji.\\nExecutive: Haan haan. Toh sir new registration ke regarding aapki kisi concern person se baat bhi hui hogi?\\nCustomer: Madam concern person se toh maine toh IndiaMART ke customer care ka number dala toh yeh wala aaya. Aap meri isme ek baar help kar sakte ho na?\\nExecutive: Nahi mai bata rahi hu, solution bata rahi hu. Haan haan sir bilkul dono hi toh aapka account hai.\\nExecutive: Mai ye keh rahi hu, aapne jo Expert Loks ko register kiya IndiaMART pe toh usse kisi person se baat toh ho rahi thi na aapki, ye puch rahi hu.\\nCustomer: Ah, ek second mere ko, haan ho toh rahi thi.\\nExecutive: Jaise ki mai dekh rahi hu Rahul Kumar se aapki baat ho rahi thi shayad, Rahul Kumar.\\nCustomer: Haanji haanji. Haanji haanji unse unse baat hui.\\nExecutive: Theek hai. Toh sir, jaise ki kya hai ki har ek account ke liye yaha pe koi na koi account manager hoga. Toh Expert Loks ke regarding aap Rahul Kumar ji ko call karenge toh woh aapko solution provide kar sakte hai.\\nExecutive: Abhi iske baad mai ye bata sakti hu aapne jo payment IndiaMART ko kiya hai na, woh payment IndiaMART pe, ek minute mai bata deti hu receive hui hai ki nahi. Woh payment receive ho gayi hai IndiaMART ko 37120.\\nCustomer: Ji ji ji.\\nExecutive: Kal ki date me 4 bajke 43 minute pe ye payment IndiaMART pe aayi thi.\\nExecutive: Iske alawa aur kya jaanna chah rahe hai aap bataye sir?\\nCustomer: Are mera bank bol raha hai ki IndiaMART ne use claim nahi kara hai abhi tak toh mere abhi woh mere bank ke haath me hi hai.\\nCustomer: Yeh ho raha hai woh bol raha hai. Sir IndiaMART me toh already receive ho gaya hai sir, aise koi baat nahi IndiaMART pe receive ho chuka hai ye amount.\\nCustomer: Accha accha, theek hai theek hai. Aapne credit card se payment kiya tha na Axis Bank se?\\nExecutive: Ji ji. Ji ji ji.\\nExecutive: Haan ye payment aa rakhi hai IndiaMART pe.\\nCustomer: Theek hai, thank you, okay, mai dekhta hu. Ah sir abhi na aapka Origami se hamare paas concern open hua tha toh mai ye concern close kar rahi hu. Ek feedback aayega aapke mail pe toh please usko satisfied mark kar dijiyega.\\nCustomer: Theek hai mai karta hu okay.\\nExecutive: Haan, okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says bank hasn't claimed payment.\\n\n\\n\nResolution:\\n\n- Executive confirmed payment received by IndiaMART.\\n\n- Executive closed the concern and requested feedback.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- payment, mdc, registration, feedback\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 159,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f1d91107-5951-4fd0-bf17-21f379fc4515",
+  "ucid": "f1d91107-5951-4fd0-bf17-21f379fc4515",
+  "seller_categories": [
+    {
+      "mcat_id": "445546",
+      "mcat_name": "Matcha Tea"
+    },
+    {
+      "mcat_id": "651249",
+      "mcat_name": "Ramen Noodle"
+    },
+    {
+      "mcat_id": "30957",
+      "mcat_name": "Instant Noodle"
+    },
+    {
+      "mcat_id": "139050",
+      "mcat_name": "Green Tea Leaves Powder"
+    },
+    {
+      "mcat_id": "74504",
+      "mcat_name": "Paper Coffee Bag"
+    }
+  ]
+}

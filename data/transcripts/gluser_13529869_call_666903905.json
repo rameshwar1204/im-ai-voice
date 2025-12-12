@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666903905",
+  "gluser_id": "13529869",
+  "vintage_months": 92,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9669330",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Hello\\nExecutive: Ji, good afternoon, Salim ji baat kar rahe hain?\\nCustomer: Kaun baat kar rahe hain?\\nExecutive: Salim ji, main Naveen baat kar raha tha IndiaMART head office Noida se, kaise hain aap?\\nCustomer: Kabhi Naveen ji baat kar rahe hain, kabhi Avinash ji baat kar rahe hain, kabhi Vinesh ji baat kar rahe hain, kya hai? Main bolta hu Naveen ji se baat hua toh bole koi aisa hai hi nahi.\\nExecutive: Hmm. Actually Avinash sir meri team mein hi kaam karte hain. Woh aapke account manager hain toh shayad unse aapki baat hui hogi.\\nCustomer: Hmm.\\nExecutive: Mera bhi discussion abhi do-teen din pehle aapse hua tha sir, aapko yaad hoga. 31st ko maine bhi aapse baat ki thi.\\nCustomer: Toh phir kya solution nikal nikala hai kuch?\\nExecutive: Sir, I think humne us din discuss kiya tha aur maine aapko sold out leads ke regarding bataya bhi tha sir. Ki jo leads aa rahi hain IndiaMART se jo generate ho rahi hain, obviously sir.\\nCustomer: Sir, repeat baat karne se koi fayda nahi hai. Kaam hota hai toh kariye, nahi hota hai toh aap chhod dijiye isko. Baat karne se thodi kaam ho jayega.\\nExecutive: Sir, mujhe uska solution batane dijiye matlab.\\nCustomer: Ji hai na, bataiye. Mere paas bhi itna time nahi hai, aapke paas hai.\\nExecutive: Kya bol rahe hain aap?\\nCustomer: Aapke paas jitna time hai utna mere paas nahi hai. Ji bataiye.\\nExecutive: Sir, us din humne kaafi detail mein discuss kiya tha aapke jo leads ko lekar issue aa raha tha aur jo leads sold out ho rahi thi.\\nCustomer: Abhi koi solve resolve nahi hua hai, kuch bhi. Same position, same position. Jaise hi main lead leta hu, expired dikhati hai. Test now wali test now message aata hai mujhe. Main usko lead leta hu. Maine usko already jo Rishiji aur Avinash ji mere WhatsApp pe group mein hai, toh WhatsApp pe dala hua hai aap ek baar list dekhiye jo WhatsApp pe aap bhi isme jud jaiye, taki aapko samajh mein aa jaye.\\nExecutive: Sir, sold out lead ki process hai sir IndiaMART ka. Aapko maine bataya bhi tha sir agar paanch supplier ek baar lead pe trade karenge toh lead sold out hogi.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is facing issues with leads.\\n\n- Leads are expiring quickly.\\n\n- Expressed frustration with repetitive discussions without resolution.\\n\n\\n\nResolution:\\n\n- Executive explained the sold-out lead process.\\n\n- Executive mentioned previous discussions about the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, sold out leads\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8d760cf4-5942-461c-b660-e41ad7f3358e",
+  "ucid": "8d760cf4-5942-461c-b660-e41ad7f3358e",
+  "seller_categories": [
+    {
+      "mcat_id": "9729",
+      "mcat_name": "MS Plates"
+    },
+    {
+      "mcat_id": "187356",
+      "mcat_name": "Cultivator Tines"
+    },
+    {
+      "mcat_id": "44214",
+      "mcat_name": "MS Circle"
+    },
+    {
+      "mcat_id": "31734",
+      "mcat_name": "Marine Radar"
+    },
+    {
+      "mcat_id": "172320",
+      "mcat_name": "MS Plate Cutting"
+    }
+  ]
+}

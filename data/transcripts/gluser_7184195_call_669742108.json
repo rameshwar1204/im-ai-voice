@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669742108",
+  "gluser_id": "7184195",
+  "vintage_months": 108,
+  "bl_dau_oct": 20,
+  "customer_type": "LEADER",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9675106",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan boliye.\\nCustomer: Madam kisna baat karni thi hum aap se?\\nExecutive: Haan madam bataiye.\\nCustomer: Agar sir available hai to mai naam se call arrange kara du?\\nExecutive: Sir actually bahar hai aur phone dial up pe laga hua hai mere ispe call forwarding laga hua hai. Bataiye.\\nCustomer: To apni wo kal aap se baat hui thi na kisari mam se baat kara dijiye sir ki directly.\\nExecutive: Haan to aap mam ko bol dijiye na Akshita mam ko call kar le wo directly call kar lenge.\\nCustomer: Akshita mam se nahi meri to sir se baat ki thi unse baat ki thi.\\nExecutive: Madam maine aapko mera decision bata diya ab mai roj roj kya baat karu unse. Unko maine Akshita mam ko bhi bata diya tha aapko bhi bata diya tha wohi final verdict hai usme kuch bhi nahi ho payega madam aap usko three month ke liye kaise bhi adjust karo aage.\\nCustomer: Madam dekhiye extend to wo nahi hoga baki aap na sir se baat kar.\\nExecutive: Sir to out of India hai abhi.\\nCustomer: Wo mujhe bata kar gaye the wohi final verdict hai mam.\\nCustomer: Koi dusra number hai sir? Agar out of India hai to kaise to connect karenge sir se whatsapp pe ya fir koi dusra number udhar ka aap wo share kar dijiye.\\nExecutive: Mam mam ne to mujhe simple bola mam jo bhi matlab discussion rehta hai final hamara mail bank ke through hota hai.\\nCustomer: But unhone bola ki meri last time baat ho gayi thi sir se iski wajah se wo call try kar rahi thi to baat nahi hui to unhone mujhe bola ek bari aap discussion kar lijiye and call ka timing arrange kar lijiye kis pe mai call karu aur sir se baat ho jaye kyuki mam wo bhi senior manager hai wo pe hi rehte hai.\\nExecutive: Mai baat kar leti hu un sir ko then aapko bata dungi.\\nCustomer: Thik hai okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to talk to the manager.\\n\n- Customer requests contact number of manager.\\n\n\\n\nResolution:\\n\n- Executive said manager is out of India.\\n\n- Executive will connect with manager and inform customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call arrangement, discussion, contact number\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=52e2f567-8a73-4d35-887d-1ad0d43a6fb0",
+  "ucid": "52e2f567-8a73-4d35-887d-1ad0d43a6fb0",
+  "seller_categories": [
+    {
+      "mcat_id": "44757",
+      "mcat_name": "Paper Plate Making Machine"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "6472",
+      "mcat_name": "Commercial Atta Chakki Machine"
+    },
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    }
+  ]
+}

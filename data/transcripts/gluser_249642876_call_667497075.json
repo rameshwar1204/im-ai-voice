@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667497075",
+  "gluser_id": "249642876",
+  "vintage_months": 4,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dumri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9628614",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: [unintelligible]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan hello.\\nExecutive: Haan ji ye Purva Purva Rukminiwa Indhan Private Limited se baat ho rahi hai sir?\\nCustomer: Nahi wrong number hai.\\nExecutive: Wrong number hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked if it was Purva Rukminiwa Indhan.\\n\nResolution:\\n\n- Customer stated it was a wrong number.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- wrong number, company name, verification\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=61b1d6e4-be88-46e8-8c2b-ab43dd167cbb",
+  "ucid": "61b1d6e4-be88-46e8-8c2b-ab43dd167cbb",
+  "seller_categories": [
+    {
+      "mcat_id": "7867",
+      "mcat_name": "Steam Coal"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    }
+  ]
+}

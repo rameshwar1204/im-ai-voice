@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673513569",
+  "gluser_id": "3736704",
+  "vintage_months": 75,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Amravati",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694941",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1b92ffe7-b9b0-4bad-84df-59ace443ffbd",
+  "ucid": "1b92ffe7-b9b0-4bad-84df-59ace443ffbd",
+  "seller_categories": [
+    {
+      "mcat_id": "137680",
+      "mcat_name": "Abacus Book"
+    },
+    {
+      "mcat_id": "140000",
+      "mcat_name": "Teacher Abacus"
+    },
+    {
+      "mcat_id": "140001",
+      "mcat_name": "Student Abacus"
+    },
+    {
+      "mcat_id": "137745",
+      "mcat_name": "Abacus Kit"
+    },
+    {
+      "mcat_id": "41625",
+      "mcat_name": "Abacus"
+    }
+  ]
+}

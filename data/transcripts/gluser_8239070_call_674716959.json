@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674716959",
+  "gluser_id": "8239070",
+  "vintage_months": 22,
+  "bl_dau_oct": 22,
+  "customer_type": "STAR",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9698056",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Ha good evening sir. \\nCustomer: Ha good evening.\\nExecutive: Main Kartik bol raha tha sir India Mart se. \\nCustomer: Ha boliye. \\nExecutive: Aapka jo sir service jo hamari baat hui thi na aapka service ka service approve ho gaya hai wo band kar rahe hain hum log theek hai. \\nCustomer: Ha.\\nExecutive: Aur dusra cheez hai ki uska jo bhi amount banega na wo kal tak hame reflect ho jayega. \\nCustomer: Theek hai na. \\nExecutive: To wo main aapko bata doon. \\nCustomer: Wo aap 900 pe phone kariye upar. \\nExecutive: Kis se?\\nCustomer: 900 Sanjit ji se baat kariye. \\nExecutive: Achcha sir aapka aap hi ka to yahan pe number update hai na.\\nCustomer: Are ye to office ka number hai ye jo office pe rahega wo hi phone uthata hai. \\nExecutive: Achcha theek hai sir uthata hai. Sir second wale number pe call kar loon na. \\nCustomer: Ha.\\nExecutive: 90 se theek hai sir main baat karta hoon. \\nCustomer: Ha. Okay thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked to call on 900 for refund.\\n\n\\n\nResolution:\\n\n- Executive informed about service approval and refund.\\n\n- Executive offered to call on the second number.\\n\n\\n\nNext Steps: \\n\n- Executive will call on the second number.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, service, call, subscription\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b4ec03df-5542-44a6-9496-6188ec0915c5",
+  "ucid": "b4ec03df-5542-44a6-9496-6188ec0915c5",
+  "seller_categories": [
+    {
+      "mcat_id": "168359",
+      "mcat_name": "Game Development Service"
+    },
+    {
+      "mcat_id": "650182",
+      "mcat_name": "Instagram Marketing Services"
+    },
+    {
+      "mcat_id": "171638",
+      "mcat_name": "Mobile Game Development"
+    },
+    {
+      "mcat_id": "181037",
+      "mcat_name": "Youtube Ads"
+    },
+    {
+      "mcat_id": "44228",
+      "mcat_name": "Online Shopping System"
+    }
+  ]
+}

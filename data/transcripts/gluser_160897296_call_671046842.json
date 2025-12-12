@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671046842",
+  "gluser_id": "160897296",
+  "vintage_months": 29,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Ambala",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9636068",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hello?\\nExecutive: Hello.\\nCustomer: Hanji.\\nExecutive: Good morning, ma'am. Main Uman baat kar raha hun IndiaMART se.\\nCustomer: Hanji, good morning sir.\\nExecutive: Main keh raha tha ki woh jo review and rating aa raha hai na, toh hamari team ne abhi usme dekha hai ki aapko jo review jo hai woh fake lag rahe hain.\\nCustomer: Kya lag raha hai?\\nExecutive: Fake lag rahe hain kuch review.\\nCustomer: Hanji.\\nExecutive: Toh jo bhi review aap lijiye toh woh kya kehte hain genuine lijiye aur baat kariye client se jo interested hai ya jo jisne aap se product liya hai unhi se review karaiye thoda sa.\\nCustomer: Theek hai ma'am?\\nCustomer: Nahi nahi, hamara aapko kya lag raha hai means waha pe?\\nExecutive: Matlab hamari team ne aisa justify kiya hai ki kuch reviews jo aaye hain woh aapke catalog pe fake the.\\nCustomer: Fake review hai? Kaun sa review fake hai?\\nExecutive: Uh, yeh main ek baar dekh ke aapko bata raha hun.\\nCustomer: Haan, haan mujhe dekh ke bataiye aur review se lead ka kya lena dena hai? Maine aapne bata diya.\\nExecutive: Uski toh, uski toh main baat hi nahi kar raha hun. Lead ki main toh sirf review ki baat kar raha hun ki.\\nCustomer: Review ki haan, review ki main baat kar leti hun, main bhi ek baar check kara leti hun. Aur aise bhi hai ki IndiaMART pe aise bhi\\nExecutive: Check karaiye, main haan.\\nCustomer: IndiaMART pe aise bhi matlab hai jo registered hai jo IndiaMART pe na, ki review matra teen review hai aur lead badi achi khasi utha rahe hain.\\nExecutive: Theek hai ma'am, koi nahi main dekhta hun.\\nCustomer: Hanji, aap yeh dekh lijiye.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive says customer's reviews seem fake.\\n\nResolution:\\n\n- Executive asked to take genuine reviews.\\n- Executive said he will check the reviews.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- reviews, ratings, buyleads\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 117,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=86906a13-bca1-4972-828d-a0322a9891d5",
+  "ucid": "86906a13-bca1-4972-828d-a0322a9891d5",
+  "seller_categories": [
+    {
+      "mcat_id": "8486",
+      "mcat_name": "Seed Cleaning Machine"
+    },
+    {
+      "mcat_id": "140835",
+      "mcat_name": "Wheat Cleaning Machine"
+    },
+    {
+      "mcat_id": "148372",
+      "mcat_name": "Seed Grader"
+    },
+    {
+      "mcat_id": "158626",
+      "mcat_name": "Grain Grading Machine"
+    },
+    {
+      "mcat_id": "11133",
+      "mcat_name": "Gravity Separator"
+    }
+  ]
+}

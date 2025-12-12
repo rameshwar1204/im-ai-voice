@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669955895",
+  "gluser_id": "85600239",
+  "vintage_months": 5,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671547",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Haan madam, main aa gaya office mein bataiye. Wahan par aawaz thik lajot ki bahut aa rahi thi, thik se aawaz nahi aa rahi thi.\\nAb bataiye kya karna hai?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Unable to hear properly due to background noise.\\n\n- Asks what needs to be done now.\\n\n\\n\nResolution:\\n\n- None.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- office, voice issue, instructions\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 28,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f22fca9f-ec02-4aba-b99f-6970aba20d6e",
+  "ucid": "f22fca9f-ec02-4aba-b99f-6970aba20d6e",
+  "seller_categories": [
+    {
+      "mcat_id": "178220",
+      "mcat_name": "Industrial Wooden Pallets"
+    },
+    {
+      "mcat_id": "141950",
+      "mcat_name": "Pinewood Pallet"
+    },
+    {
+      "mcat_id": "3531",
+      "mcat_name": "Wooden Crates"
+    },
+    {
+      "mcat_id": "148704",
+      "mcat_name": "Pine Wood Runners"
+    },
+    {
+      "mcat_id": "180198",
+      "mcat_name": "Industrial Wooden Packaging Boxes"
+    }
+  ]
+}

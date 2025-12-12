@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670906689",
+  "gluser_id": "51517925",
+  "vintage_months": 95,
+  "bl_dau_oct": 29,
+  "customer_type": "LEADER",
+  "city_name": "Jalandhar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9651003",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haanji.\\nCustomer: Haanji sir very good evening Kritika baat kar rahi hu sir IndiaMART se aapke account manager sir.\\nCustomer: Haan bolo.\\nExecutive: Kaise hai sir aap?\\nCustomer: Badhiya aap batao.\\nExecutive: Chalo kaafi badhiya baat hai. Sir actually na maine aapka ek group banaya hai India IndiaMART promotion Royal fitness ke naam se right? To jaise ki aapko koi bhi lead se related koi bhi doubt and query ho hai na ya kuch bhi confusion ho to aap us group mein aap text kar sakte ho ya mere ko personally bhi kar sakte ho, theek hai?\\nCustomer: Theek hai.\\nExecutive: Then sir haan then sir aapko jo bylead wala page hai na wo main aapko bata deti hu aapko na sir wo recently apna check karna padega kyunki usme lead to aa rahi hai but wo haan wo recently sold out ho rahi hai.\\nCustomer: Sold out ho ja rahi hai do-do din mein.\\nExecutive: Ji ji sir to wohi cheez hai to wo cheez ke liye aap thoda sir waha pe thoda active rehna padega by baaki koi bhi confusion aapko rahegi to aap connect kar lena sir group mein bhi aur directly mujhe bhi aap kar sakte ho.\\nCustomer: Chalega.\\nExecutive: Okay okay theek hai thank you sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs assistance with buyleads.\\n\n- Buyleads are being sold out quickly.\\n\n\\n\nResolution:\\n\n- Executive created a group for assistance.\\n\n- Advised to check buylead page recently.\\n\n- Customer can connect in group or directly.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, group, promotion, account manager\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9a77c43c-96aa-45ef-ad57-66f922617cf7",
+  "ucid": "9a77c43c-96aa-45ef-ad57-66f922617cf7",
+  "seller_categories": [
+    {
+      "mcat_id": "202022",
+      "mcat_name": "Gym Setup"
+    },
+    {
+      "mcat_id": "126829",
+      "mcat_name": "Multi Gym"
+    },
+    {
+      "mcat_id": "181826",
+      "mcat_name": "Functional Trainer Machine"
+    },
+    {
+      "mcat_id": "23912",
+      "mcat_name": "Bus Stop Shelters"
+    },
+    {
+      "mcat_id": "168444",
+      "mcat_name": "MS Laser Cutting Services"
+    }
+  ]
+}

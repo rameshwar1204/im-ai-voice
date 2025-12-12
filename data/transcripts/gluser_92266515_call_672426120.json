@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672426120",
+  "gluser_id": "92266515",
+  "vintage_months": 0,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kurnool",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653022",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello, good afternoon sir.\\nExecutive: Good afternoon.\\nCustomer: Sir, Hemant Kumar is speaking, I am from IndiaMART, I have to talk about account renewal.\\nExecutive: Hi, hi, I am in a small meeting, call me after 5 o'clock.\\nCustomer: Uh, at what time?\\nExecutive: 5 o'clock.\\nCustomer: 5 o'clock. Okay.\\nExecutive: Call me at that time, please.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Account renewal.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive requested a call back at 5 o'clock.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral.\\n\n\\n\n@@@Key Topics:\\n\naccount renewal, callback\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 35,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6a7f154e-14e6-4c76-bce1-598f8e92e26c",
+  "ucid": "6a7f154e-14e6-4c76-bce1-598f8e92e26c",
+  "seller_categories": [
+    {
+      "mcat_id": "181717",
+      "mcat_name": "UltraTech Cement"
+    }
+  ]
+}

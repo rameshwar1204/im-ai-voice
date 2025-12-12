@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669407881",
+  "gluser_id": "89519488",
+  "vintage_months": 74,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Kolkata",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9656065",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHaa.\\nGood afternoon sir.\\nAre jaldi bataiye petrol pump pe hai.\\nSir, Giteka baat kar rahi hu, Niyamadhar office se.\\nBaad mein baat karte hai.\\nThik hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk quickly, at a petrol pump.\\n\n\\n\nResolution:\\n\n- Executive identified herself from Niyamadhar office.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will call later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- petrol pump, call, Niyamadhar\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3526a355-eb36-4c91-a79d-6632f6e0afd1",
+  "ucid": "3526a355-eb36-4c91-a79d-6632f6e0afd1",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "184030",
+      "mcat_name": "On Grid Solar Power Systems"
+    },
+    {
+      "mcat_id": "161312",
+      "mcat_name": "Solar Rooftops"
+    },
+    {
+      "mcat_id": "182811",
+      "mcat_name": "Off Grid Solar Power Plant"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672491702",
+  "gluser_id": "86874736",
+  "vintage_months": 31,
+  "bl_dau_oct": 12,
+  "customer_type": "STAR",
+  "city_name": "Thane",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9687031",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji Namaste.\\nCustomer: Hello.\\nExecutive: Uh sir you are calling from IndiaMART?\\nCustomer: Yeah sir.\\nExecutive: Sir I want to assign one of my uh account managers. Can you help me to assign them? I have missed his number.\\nExecutive: Sir can you mention what is company name?\\nCustomer: Lanya Chem L A N Y A.\\nExecutive: Sorry sir.\\nCustomer: Lanya Chem Industries. Lanya L A N Y A.\\nExecutive: L A N Y A. Yeah sir. Lanya Chem Industries Private Limited.\\nCustomer: Yes right.\\nCustomer: I just miss uh actually I was I was interested in somehow I missed my contact uh my contact.\\nExecutive: Your voice is not I am not getting your voice clear. Is there any issue?\\nCustomer: I'll call you back. I'll call you back.\\nExecutive: Give me a second sir I will call you from.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to assign account manager, missed number.\\n\n\\n\nResolution:\\n\n- Asked for company name to assist.\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Customer will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, company name, contact\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 65,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e8ed67ba-1e24-4cb1-874b-f1f3a049de59",
+  "ucid": "e8ed67ba-1e24-4cb1-874b-f1f3a049de59",
+  "seller_categories": [
+    {
+      "mcat_id": "13555",
+      "mcat_name": "Coupling Agent"
+    },
+    {
+      "mcat_id": "28033",
+      "mcat_name": "Ethyl Silicate"
+    },
+    {
+      "mcat_id": "209060",
+      "mcat_name": "Polydimethylsiloxane"
+    },
+    {
+      "mcat_id": "139377",
+      "mcat_name": "Propylene Carbonate"
+    },
+    {
+      "mcat_id": "122812",
+      "mcat_name": "UV Stabilizers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667784004",
+  "gluser_id": "195163893",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Virudhunagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9639045",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello?\\nHello?\\nHello madam. Good evening sir. Parvathi call panniruken sir. IndiaMART account team lirunthu.\\nHello madam. Naan already business close ku message anupirukinga. Illa athu thaan athu thaan antha amount refund ketrukeenga la. So athu ellame process ayidichu. Aana unga account details neenga ethume add pannala. So athanala amount unga account la ennala credit panna mudiyala. Account details mattum konjam share panreengala sir?\\nAthu thaan avanga vanthu mail vanthu check book ketrundaanga. Athan naan mail la potruken.\\nIlla ippo enakku neenga whatsapp la share panreengala. Naan process pannannum. Yaarume enakku athu solla ve illa. Sonna thaan naan anuppuven. Naanum kettukittu irunthaen. Details yaarume enakku solla. Naan ippo number tharen sir. Appadi note pannunga. Appadi line le anuppunga. Naan process pannitren.\\nIntha numbera vera numbera madam?\\nIlla vera number sir. Naan whatsapp number solren.\\nIrunga solren.\\nSollunga madam. Sollunga.\\nSir sollunga sir. Number sollattuma. 63852\\n63852 59711. Nammaloda passbook 59711\\n6385259711. Correct thaan madam?\\nOkay sir. Ippo enna na passbook oda front page irukkum la.\\nAama passbook illa madam. Avanga passbook illa. Cheque book koduthurukkaanga.\\nCheque book irukka. Details sollunga. Cheque book irukka. Athu cheque book oda antha cheque leaf irukkum la. Athu ore oru photocopy mattum enakku share panreengala?\\nNaan anuppuren madam.\\nLakshmi Traders name la thaan sir irukkum?\\nAama Lakshmi Traders name la thaan irukkum. Athu appadi naan line le irukken. Athu mattum konjam share panreengala?\\nNaan unga share panra maari enakku kodukka mudiyaathu. Naan antha ore rendu nimishathula ungalukku naan anuppi vachittu naan ungalukku unga antha numberkku vanthuren ippo udane.\\nAnuppuren madam.\\nThank you.",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested refund but account details missing.\\n\n\\n\nResolution:\\n\n- Executive asked customer to share account details.\\n\n- Executive provided WhatsApp number for sharing details.\\n\n\\n\nNext Steps: \\n\n- Customer will send the cheque leaf photo.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, account details, whatsapp, cheque leaf\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 149,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c908b81e-78e9-453e-8c4d-f7753fa8c999",
+  "ucid": "c908b81e-78e9-453e-8c4d-f7753fa8c999",
+  "seller_categories": [
+    {
+      "mcat_id": "29938",
+      "mcat_name": "Gypsum Plaster"
+    },
+    {
+      "mcat_id": "120958",
+      "mcat_name": "Gypsum Powder"
+    },
+    {
+      "mcat_id": "34485",
+      "mcat_name": "Plaster Of Paris"
+    },
+    {
+      "mcat_id": "351503",
+      "mcat_name": "Bentonite Earthing Powder"
+    },
+    {
+      "mcat_id": "177015",
+      "mcat_name": "Earthing Powder"
+    }
+  ]
+}

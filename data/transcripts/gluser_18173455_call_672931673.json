@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672931673",
+  "gluser_id": "18173455",
+  "vintage_months": 9,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Sakti",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687715",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hi, if you record your name and reason for calling, I'll see if this person is available.\\nHa sir please call me.\\nThanks. Please stay on the line.\\nHello?\\nHaa Ashish sir Himanshu baat kar raha hu sir business agent India Mart se.\\nHaa.\\nJi wo price Rahul ne diya tha aapko final.\\nHaa haa.\\nJi ji trust jo aapka basic ka do saal ka sir 50000 plus GST discount karke 60000 ka hai. Ye mera kab subscription kab khatam ho raha hai abhi jo current wala hai?\\nEk second sir.\\nSir ye aapka sir 13th ko complete ho raha hai.\\nHello.\\nThik hai thik hai mai aap se baat karta hu na abhi mai bahar hu mai lena hai lekin abhi mai baat nahi kar sakta mai call karta hu aapko thik hai. \\nTo kab call kar lu aapko sir? \\nMai ek hafte baad call karunga aapko final kar lenge usi din payment dal ke thik hai agle Thursday ko.\\nAgale Thursday ko thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know subscription expiry date.\\n\n\\n\nResolution:\\n\n- Executive informed the customer about subscription expiry.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer next Thursday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, expiry, payment\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 87,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=0c0930c6-8b0b-4a88-9d92-2d5d15c7cfa9",
+  "ucid": "0c0930c6-8b0b-4a88-9d92-2d5d15c7cfa9",
+  "seller_categories": [
+    {
+      "mcat_id": "42531",
+      "mcat_name": "Tipper Trucks"
+    },
+    {
+      "mcat_id": "74876",
+      "mcat_name": "Tractor Tipping Trailer"
+    },
+    {
+      "mcat_id": "185976",
+      "mcat_name": "Side Wall Trailer"
+    },
+    {
+      "mcat_id": "68944",
+      "mcat_name": "Truck Trailer"
+    },
+    {
+      "mcat_id": "28568",
+      "mcat_name": "Flatbed Trailers"
+    }
+  ]
+}

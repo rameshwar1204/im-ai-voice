@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667364693",
+  "gluser_id": "125127774",
+  "vintage_months": 18,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Poonch",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9626638",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, good afternoon sir, main Aakansha IndiaMART se baat kar rahi hoon.\\nCustomer: Ji ji.\\nExecutive: Haan, sir woh app ka resolution na hua theek hai kyunki abhi 4 tarikh ko aapne kuch login kiya hua hai. Leads vagera bhi purchase kiya hua hai. Chal rahi hai sir app abhi?\\nCustomer: Nahi nahi, Chrome se chala raha hoon.\\nExecutive: Achha nahi chal rahi hai. Maine mail dala hai sir abhi tak koi aaya nahi reply, theek hai main ek baar aati hai toh main ek baar call karti hoon aapko kya required hai.\\nCustomer: Theek theek. Theek.\\nExecutive: Theek hai? Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's app resolution not yet done.\\n\n- Customer is using Chrome instead of the app.\\n\n- Customer has not received a reply to their email.\\n\n\\n\nResolution:\\n\n- Executive will call the customer once she gets a reply.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer after receiving a reply.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- app resolution, login, leads, chrome\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 42,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8b0266a-9952-4a5b-a782-2e24ea35006a",
+  "ucid": "a8b0266a-9952-4a5b-a782-2e24ea35006a",
+  "seller_categories": [
+    {
+      "mcat_id": "214916",
+      "mcat_name": "Saffron Bulbs"
+    },
+    {
+      "mcat_id": "83940",
+      "mcat_name": "Pecan Nuts"
+    },
+    {
+      "mcat_id": "1253",
+      "mcat_name": "Walnut"
+    },
+    {
+      "mcat_id": "236782",
+      "mcat_name": "Kesar Seeds"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    }
+  ]
+}

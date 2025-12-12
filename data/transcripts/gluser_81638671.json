@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672782283",
+  "gluser_id": "81638671",
+  "vintage_months": 4,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Dewas",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648753",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nArre kaun chutiya bol raha hai, behanchod phone kaat raha hu phir bhi samajh nahi aa raha madarchod tere ko?\\nBaat kaise kar rahe ho?\\nArre kya karu phir itni baar phone laga raha hai, kaam kar raha hu, kuch kaat raha hu, samajh nahi aa raha tere ko, chutiye, pagal hai kya?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Caller is repeatedly calling.\\n\n- Caller is using abusive language.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\n- Abusive language\\n\n\\n\n@@@Sentiment:\\n\nNegative\\n\n\\n\n@@@Key Topics:\\n\nabusive language, repeated calls\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 33,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c4fbbfe9-ee94-4c1c-9bb1-09a6d57cda2a",
+  "ucid": "c4fbbfe9-ee94-4c1c-9bb1-09a6d57cda2a",
+  "seller_categories": [
+    {
+      "mcat_id": "6222",
+      "mcat_name": "Face Wash"
+    },
+    {
+      "mcat_id": "127494",
+      "mcat_name": "Facial Kit"
+    },
+    {
+      "mcat_id": "3267",
+      "mcat_name": "Aloe Vera Gel"
+    },
+    {
+      "mcat_id": "45793",
+      "mcat_name": "Hair Removal Cream"
+    },
+    {
+      "mcat_id": "192156",
+      "mcat_name": "Tan Removal Cream"
+    }
+  ]
+}

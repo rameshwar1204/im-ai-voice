@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671894103",
+  "gluser_id": "13917907",
+  "vintage_months": 1,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9677781",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Aapne jis vyakti ko call kiya hai.\\nCustomer: Aap jis vyakti se baat kar rahe hai, unhone aapke call ko\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Yes, ma'am.\\nCustomer: Haan, sir, theek hai, sir, usko karte hai, discuss dedh baje aap theek hai, bhej dete hai usko na, meeting karke usme filter vagera dekh lete hai. To ye hai ki jyada nahi hoga to kam to ho jayega hai na?\\nExecutive: Hmm.\\nCustomer: Haan, matlab jaise present time pe agar hamare paas 20 hai ma'am, 6, 7, 8 aa rahi hai to ma'am wo irrelevancy hai. Agar 20 pe agar hamare paas ek aadha aa rahi hai to ma'am irrelevancy nahi hoti. Wo kahin na kahin keywords ki wajah se wo aati rehti hai.\\nCustomer: Haan, wo wo bhi koi dikkat nahi hai agar ek aadha hamare paas vaisi aa rahi hai lekin sir is tarike ki na jo is tarike ki bhai wo dal hai wo ric grass bech raha hai. Usse mai baat kar rahi hu to wo jo hai kuch aur hi baat kar raha hai sir. Ye cheez thoda mujhe lagi aur aur to chalo fir bhi mai adjust kar sakti hu.\\nCustomer: Kyu hota hai ki bhai agar 10 aa rahi hai, do aa rahi hai, ek, char vaisi aa gayi, do vaisi aa gayi, koi dikkat nahi hai. Lekin sir is tarike ki ki ye maang kuch aur rahe, dal kuch aur rahe usme mention kar diya hai aur fir baat bhi aise kar rahe hai samajh me nahi aa raha hai. Mai kaha ye aur wo ye bol raha tha mujhse ki usne kahin dekha hai hamara hamara number usko diya usne unhone diya hai. Aise kaise usko number aise mil gaya?\\nExecutive: Nahi wo yahin se aaya hoga IndiaMART se hi.\\nCustomer: Aap sochiye.\\nExecutive: Ma'am, mai buylead kabhi aapko bata dunga na ki kaun si buylead pe aap connect karengi jisme aapke idhar udhar ke response na aaye. Wo bhi mai guide kar dunga.\\nExecutive: Matlab aap vaise ma'am on a daily basis do se teen hi buylead hoti hai hamare paas. Aur do se teen buylead me se kaun si buylead hame achi ho sakti hai, kis me conversion rate jyada ho sakta hai wo cheeze bhi mai aapko guide kar dunga.\\nCustomer: Theek hai sir, theek hai.\\nCustomer: Haan, aur ma'am iska hai na. Haan, aur ma'am aapko pata hai abhi abhi mera wo aayega feedback mere regarding se.\\nCustomer: Haan, us pe office ki pe hai na trading wali pe?\\nExecutive: Haan, ma'am usme.\\nCustomer: Us pe satisfied kar do, chalo theek hai, kar leti hu bas.\\nExecutive: Theek hai na, okay.\\nExecutive: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is receiving irrelevant buyleads.\\n\n- Customer received a call from unknown source.\\n\n\\n\nResolution:\\n\n- Executive will guide on relevant buyleads.\\n\n- Executive requested a satisfied rating on feedback form.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, irrelevancy, rating\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 143,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3c88d1cc-ba0d-4940-8800-f6da8c26d076",
+  "ucid": "3c88d1cc-ba0d-4940-8800-f6da8c26d076",
+  "seller_categories": [
+    {
+      "mcat_id": "37049",
+      "mcat_name": "Soil Testing Kits"
+    },
+    {
+      "mcat_id": "18773",
+      "mcat_name": "TDS Meter"
+    },
+    {
+      "mcat_id": "166307",
+      "mcat_name": "Wood Moisture Meter"
+    },
+    {
+      "mcat_id": "15489",
+      "mcat_name": "Dissolved Oxygen Meter"
+    },
+    {
+      "mcat_id": "39457",
+      "mcat_name": "Water Testing Meters"
+    }
+  ]
+}

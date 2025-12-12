@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669183234",
+  "gluser_id": "14552682",
+  "vintage_months": 12,
+  "bl_dau_oct": 22,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bahadurgarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650738",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Sir pahunch gaye office aap?\\nExecutive: Haan ji.\\nCustomer: Office pahunch gaye main kar lu connect aapko?\\nCustomer: Abhi main kuch kaam mein laga hua hu ji thoda time lagega. Isliye connect karna hai?\\nExecutive: Ye aap bol rahe the na ki kuch jo customer direct call kar raha hai PNS ka usko bhi dikkat aa rahi hai sir. Aur kuch buylead ka.\\nCustomer: Bilkul bilkul dikkat aa rahi hai ji usme usme to aap karoge na main kya karunga call connect karke?\\nExecutive: Nahi main aapko ek bar meeting me rakhunga do cheeze pehle to jo aapki buylead ki jo categories hai wo ek bar aapko dikha dunga main waha pe. Dusra abhi aapka PNS ka hai PNS me rahega PNS ka ek number bataunga main. Us number ko ek bar truecaller pe dal ke ek bar check kar lenge wo block to nahi hai. Agar wo spam aa raha hoga to usko hatana padega.\\nCustomer: Spam me kaise aa raha hoga?\\nExecutive: Wo sometime aisa hota hai ki number save nahi hota na to wo spam me chala jata hai sir. Ek bar check kar lenge agar wo spam me hoga isi wajah se call block hoti hai sir.\\nExecutive: Saare points ek bar discuss kar lenge aap bas thoda 10 minute ke liye ek bar video meeting pe aa jayiyega bas.\\nCustomer: Thik hai main call kar dunga.\\nExecutive: Fir bhi main kitne time laga lu aapko?\\nCustomer: Main abhi thoda kuch kaam mein hu subah subah to free ho nahi sakta aap bhi jante ho.\\nExecutive: Nahi nahi koi nahi 12 baje tak aap ho jao.\\nCustomer: Main kar lunga call sabhi logo ko.\\nExecutive: Thik hai thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issues with PNS and buyleads.\\n\n- Customer's PNS number might be blocked.\\n\n\\n\nResolution:\\n\n- Executive offered to show buylead categories.\\n\n- Executive offered to check PNS number on Truecaller.\\n\n\\n\nNext Steps: \\n\n- Customer agreed to connect at 12:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- pns, buyleads, truecaller, meeting\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 92,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=49b4d6e0-276f-4e5f-976e-3b395c6708e3",
+  "ucid": "49b4d6e0-276f-4e5f-976e-3b395c6708e3",
+  "seller_categories": [
+    {
+      "mcat_id": "136846",
+      "mcat_name": "BOPP Tape Slitting Machine"
+    },
+    {
+      "mcat_id": "136732",
+      "mcat_name": "Adhesive Tape Making Machine"
+    },
+    {
+      "mcat_id": "141629",
+      "mcat_name": "Bopp Self Adhesive Tape Machine"
+    },
+    {
+      "mcat_id": "101968",
+      "mcat_name": "Cello Tape Machine"
+    },
+    {
+      "mcat_id": "150529",
+      "mcat_name": "Tape Cutting Machine"
+    }
+  ]
+}

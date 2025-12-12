@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672802570",
+  "gluser_id": "144214311",
+  "vintage_months": 0,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Udupi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9689629",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hi, if you record your name and reason for calling, I'll see if this person is available.\\n[unintelligible]\\nHello.\\n[unintelligible]\\nFine, please stay on the line.\\nSumai.\\nHello.\\nHello.\\nHello.\\nHello. Haan, nahi idhar change kar raha hai, hello, mai change kar raha hai.\\nMai aapko call kar raha hu, call uthaiye ek baar.\\nHaan.\\nNumber pe call kar raha hu, call uthaiye. Mere number pe call kar raha hu mai.\\n94 wale pe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is trying to reach someone.\\n\n\\n\nResolution:\\n\n- The call was put on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, number\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 76,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9dfaa74f-2ce6-4d4e-be0a-3dfddd45bc1f",
+  "ucid": "9dfaa74f-2ce6-4d4e-be0a-3dfddd45bc1f",
+  "seller_categories": [
+    {
+      "mcat_id": "181226",
+      "mcat_name": "MYK Tile Adhesives"
+    },
+    {
+      "mcat_id": "156787",
+      "mcat_name": "Induction Cooktop"
+    },
+    {
+      "mcat_id": "187410",
+      "mcat_name": "Hindware Kitchen Chimney"
+    },
+    {
+      "mcat_id": "30669",
+      "mcat_name": "Induction Stove"
+    },
+    {
+      "mcat_id": "218843",
+      "mcat_name": "Latapoxy Epoxy Adhesives"
+    }
+  ]
+}

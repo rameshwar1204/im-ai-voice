@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673204331",
+  "gluser_id": "22802321",
+  "vintage_months": 6,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Mathura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9691382",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello? Ji sir kare ek minute baat sun lijiye.\\nCustomer: Main bhai sahab aap se meri baat suniye aap apna number de do main free time mein call karwa lunga.\\nExecutive: Nahi aap again and again call karoge main number block karwaunga.\\nExecutive: Sir meri baat suniye.\\nCustomer: Mera ek minute baat\\nExecutive: Aap apne according apne time pe call karunga.\\nExecutive: Are wo uske liye aap pure din mein kabhi bhi karna main uske liye bol hi nahi raha hu aapko meri baat to sun lo main uske video mein main bol raha hu jaha pe not satisfied ye the uska concern main close kar de raha hu main aap se sirf wo bol raha hu sirf main confirm kar raha hu.\\nCustomer: Kar do close kar do.\\nExecutive: Thik hai aap pure din mein jab aap free ho na tab mere ko karwa lena.\\nCustomer: Thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to provide his number for a call back at a convenient time.\\n\n\\n\nResolution:\\n\n- Executive will close the concern where the customer was not satisfied.\\n\n- Customer can call when free.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncall, number, concern, close\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5ef4e21a-50c6-4f35-abae-c01aa44c07c7",
+  "ucid": "5ef4e21a-50c6-4f35-abae-c01aa44c07c7",
+  "seller_categories": [
+    {
+      "mcat_id": "177511",
+      "mcat_name": "Brass Ganesha Statue"
+    },
+    {
+      "mcat_id": "123850",
+      "mcat_name": "Brass Diya"
+    },
+    {
+      "mcat_id": "4662",
+      "mcat_name": "Brass God Statues"
+    },
+    {
+      "mcat_id": "23806",
+      "mcat_name": "Brass Statues"
+    },
+    {
+      "mcat_id": "349962",
+      "mcat_name": "Dhokra Art"
+    }
+  ]
+}

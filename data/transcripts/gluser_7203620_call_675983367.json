@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675983367",
+  "gluser_id": "7203620",
+  "vintage_months": 125,
+  "bl_dau_oct": 27,
+  "customer_type": "LEADER",
+  "city_name": "Jaipur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9640251",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nHello?\\nHello?\\nHello?\\nSir, awaz aa rahi hai?\\nHello?\\nHello?\\nHello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is checking if voice is audible.\\n\n\\n\nResolution:\\n\n- The call disconnected before resolution.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice, connection\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 61,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=6c2ab806-aedd-47b9-b8cc-c8e2e685aa6f",
+  "ucid": "6c2ab806-aedd-47b9-b8cc-c8e2e685aa6f",
+  "seller_categories": [
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "178191",
+      "mcat_name": "Marble Radha Krishna Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    },
+    {
+      "mcat_id": "180344",
+      "mcat_name": "Marble Kali Mata Statue"
+    },
+    {
+      "mcat_id": "179202",
+      "mcat_name": "Marble Hanuman Statue"
+    }
+  ]
+}

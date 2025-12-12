@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672548212",
+  "gluser_id": "238139292",
+  "vintage_months": 10,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Neyyattinkara",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687126",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Hello? Sir, hi sir. Good evening.\\nExecutive: Hello.\\nCustomer: Sir, India Mart se baat kar raha hu sir, Delhi Tech Private Limited se.\\nExecutive: Ha boliye.\\nExecutive: Sir isse Gaurav ke sath aapka bhi baat hua tha sir, to aapka feedback aaya tha you are not satisfied sir.\\nExecutive: Service se.\\nCustomer: [inaudible] gadi chalta hai.\\nCustomer: Owner ke baad me, pakkar se owner ke baad me.\\nExecutive: Okay, okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with the service.\\n\n- Issue with vehicle operation.\\n\n- Issue with the owner.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n\\n\n@@@Sentiment:\\n\nNeutral to dissatisfied\\n\n\\n\n\\n\n@@@Key Topics:\\n\nservice, dissatisfaction, vehicle, owner\\n\n\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 41,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=53526880-6034-490f-bfab-66530e5e1bbf",
+  "ucid": "53526880-6034-490f-bfab-66530e5e1bbf",
+  "seller_categories": [
+    {
+      "mcat_id": "32753",
+      "mcat_name": "Milking Machine"
+    },
+    {
+      "mcat_id": "6886",
+      "mcat_name": "Electronic Weighing Scales"
+    },
+    {
+      "mcat_id": "177154",
+      "mcat_name": "Cow Mat"
+    },
+    {
+      "mcat_id": "24750",
+      "mcat_name": "Chaff Cutter"
+    },
+    {
+      "mcat_id": "139284",
+      "mcat_name": "Electric Chaff Cutter"
+    }
+  ]
+}

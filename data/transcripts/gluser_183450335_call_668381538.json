@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668381538",
+  "gluser_id": "183450335",
+  "vintage_months": 32,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ahmedabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9644282",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello, good morning, mam. I am [Executive Name] speaking from IndiaMART. How are you?\\nCustomer: I am fine.\\nExecutive: Mam, I am calling from IndiaMART. Actually, your company is not verified yet. So, I am calling for the verification process. Can I proceed?\\nCustomer: Yes, you can.\\nExecutive: Mam, can you tell me your company name?\\nCustomer: [Company Name].\\nExecutive: Okay, mam. And what is your name?\\nCustomer: [Name].\\nExecutive: Okay, mam. And mam, can you tell me your full address?\\nCustomer: [Address].\\nExecutive: Okay, mam. And mam, can you tell me your nearest landmark?\\nCustomer: [Landmark].\\nExecutive: Okay, mam. And mam, can you tell me your pin code?\\nCustomer: [Pin code].\\nExecutive: Okay, mam. And mam, can you tell me your alternate number?\\nCustomer: Alternate number is [Number].\\nExecutive: Okay, mam. And mam, can you tell me your email ID?\\nCustomer: [Email ID].\\nExecutive: Okay, mam. And mam, what product do you deal with?\\nCustomer: We deal in all types of safety nets.\\nExecutive: Okay, mam. And mam, do you have GST number?\\nCustomer: Yes, I have.\\nExecutive: Okay, mam. Can you tell me your GST number?\\nCustomer: [GST Number].\\nExecutive: Okay, mam. Thank you so much for the information. Mam, your verification process is completed. Thank you for your cooperation.\\nCustomer: Okay.\\nExecutive: Thank you, mam. Have a nice day.\\nCustomer: Okay, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Company verification was pending.\\n\n\\n\nResolution:\\n\n- Executive completed the company verification process.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, company details, GST number\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 18,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb2f26d8-d48c-4924-bc56-7a89d3f2c000",
+  "ucid": "bb2f26d8-d48c-4924-bc56-7a89d3f2c000",
+  "seller_categories": [
+    {
+      "mcat_id": "129909",
+      "mcat_name": "USB Smart Token"
+    },
+    {
+      "mcat_id": "445844",
+      "mcat_name": "Tally Prime Software"
+    },
+    {
+      "mcat_id": "140808",
+      "mcat_name": "Tally Software"
+    },
+    {
+      "mcat_id": "173934",
+      "mcat_name": "Digital Signature Certification"
+    },
+    {
+      "mcat_id": "185210",
+      "mcat_name": "Tally ERP 9 Software"
+    }
+  ]
+}

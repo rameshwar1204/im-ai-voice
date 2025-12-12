@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673168830",
+  "gluser_id": "252275277",
+  "vintage_months": 2,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Tamluk",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9694008",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Dinesh se baat kar rahe ho.\\nCustomer: Hello.\\nExecutive: Ha good morning sir, kaise hain aap?\\nCustomer: Ha boliye.\\nExecutive: Abhi aawaz nahi nikal rahi aapki.\\nCustomer: Ha boliye ji.\\nExecutive: Ha main ye keh raha tha ki baat kiya maine apne senior se theek hai na?\\nCustomer: Ha.\\nExecutive: To ek approval lena padega theek hai na? Ek hi number hai hamare paas dusra number nahi hai aur jo bhi hamare paas log hai kaam karne wale wo sab labour class ke log hai unko number de nahi sakte.\\nCustomer: Theek hai na?\\nExecutive: To unhone mane uske approval ke liye dala hai theek hai na? To most probably hai ki aaj approval mil jayega pata hai na theek hai na? To aaj shaam tak 6-7 baje tak service live ho jayega na? To kal se hamara dikhna kal subah se mein dikhna shuru ho jayega theek hai na?\\nCustomer: Ha.\\nExecutive: Ha to maine dal diya approval ke liye request theek hai na?\\nCustomer: Theek hai. Ha.\\nExecutive: Ho jayega na to shaam ko main aapko khud call karunga theek hai?\\nCustomer: Ha theek hai.\\nExecutive: Bol diya maine ki wo approval le lijiye kyunki ek hi number hai dusra number nahi hai hamare paas hai aur employee wagera jo hai wo labour class ke log hai unko number dene pe fir sara kaam kharab ho jayega.\\nCustomer: Theek hai na?\\nExecutive: Hmm hmm.\\nCustomer: Hmm theek hai.\\nExecutive: To bole theek hai shaam tak ho jayega inshallah theek hai.\\nCustomer: Theek hai theek hai.\\nExecutive: Jaisa bhi hoga fir main aapko update kar dunga theek hai na?\\nCustomer: Theek hai theek hai.\\nExecutive: Okay thank you. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has only one number.\\n\n- Wants the service to go live soon.\\n\n\\n\nResolution:\\n\n- Executive has put in a request for approval.\\n\n- Service will go live by evening.\\n\n- Executive will call the customer in the evening.\\n\n\\n\nNext Steps: \\n\n- Executive will update the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- approval, service, number\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=40d708ff-a9ea-40c9-a619-9dc1b8e22dea",
+  "ucid": "40d708ff-a9ea-40c9-a619-9dc1b8e22dea",
+  "seller_categories": [
+    {
+      "mcat_id": "31433",
+      "mcat_name": "Labour Contractors"
+    },
+    {
+      "mcat_id": "175000",
+      "mcat_name": "Contract Labour Supplier Services"
+    },
+    {
+      "mcat_id": "169646",
+      "mcat_name": "Skilled Labour Service"
+    },
+    {
+      "mcat_id": "156212",
+      "mcat_name": "Hotel Staff Recruitment Services"
+    },
+    {
+      "mcat_id": "168381",
+      "mcat_name": "Housekeeping Manpower Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675182948",
+  "gluser_id": "252801044",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706399",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nExecutive: Mam aap ek baar puri baat toh sun lijiye meri aapne beech mein phone kaat diya. \\nCustomer: Mam Shivani ne meri baat bata di hai.\\nExecutive: Bataye boliye boliye.\\nExecutive: Aapka ticket close kar du mai aapke paas Shivani ka number hai aapke paas jaise hi feedback aata hai aap unhe bhej dijiyega.\\nCustomer: Kar dijiye mam kar dijiye kar dijiye kar dijiye.\\nExecutive: Theek hai aap Shivani ko screenshot bhej dijiyega jab bhi aata hai aapke paas beech mein kabhi bhi theek hai.\\nCustomer: Theek hai mam.\\nExecutive: Theek hai okay mam thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's call was disconnected in the middle of the conversation.\\n\n\\n\nResolution:\\n\n- Executive offered to close the ticket.\\n\n- Executive asked the customer to send a screenshot of the feedback to Shivani.\\n\n\\n\nNext Steps: \\n\nIssue resolved\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to positive\\n\n\\n\n@@@Key Topics:\\n\nticket closure, feedback, screenshot\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3b89add5-21ba-446f-9bb3-9a1f4d62d9a7",
+  "ucid": "3b89add5-21ba-446f-9bb3-9a1f4d62d9a7",
+  "seller_categories": [
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "157346",
+      "mcat_name": "Stainless Steel Vacuum Flask"
+    },
+    {
+      "mcat_id": "142132",
+      "mcat_name": "Insulated Steel Water Bottle"
+    },
+    {
+      "mcat_id": "192421",
+      "mcat_name": "Stainless Steel Shaker"
+    },
+    {
+      "mcat_id": "178811",
+      "mcat_name": "Steel Sipper Bottle"
+    }
+  ]
+}

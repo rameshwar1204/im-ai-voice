@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667149419",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Haan ji madam.\\nCustomer: Hello. Haan sir, good morning sir, I am speaking from IndiaMART, how are you?\\nCustomer: Good morning madam.\\nCustomer: Sir, has the solution happened or not? Did you get it?\\nCustomer: I will call you later. Please, I will call you later, I am a little busy.\\nExecutive: Okay, okay. Please call me, I am a little busy.\\nCustomer: Okay, okay, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the solution to his issue.\\n\n\\n\nResolution:\\n\n- Executive said he is busy and will call later.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer later.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- solution, call later, busy\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8e41f5e2-cc77-4e8c-b56a-182f4e502ed4",
+  "ucid": "8e41f5e2-cc77-4e8c-b56a-182f4e502ed4",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

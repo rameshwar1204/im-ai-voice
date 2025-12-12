@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671878456",
+  "gluser_id": "159484756",
+  "vintage_months": 3,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Sabarkantha",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9680414",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello ha Darshan ji se baat ho rahi hai sir India Mart se Rahil baat kar raha hu sir aapse baat hui thi last Friday.\\nCustomer: Boliye\\nExecutive: Friday hi baat hui thi. Sir wo training dena tha na aapne bola tha ki kuch training ke liye.\\nCustomer: Ha ha boliye boliye.\\nExecutive: Ha to sir aapko hi dena hai.\\nCustomer: Ha ha mujhe.\\nExecutive: Ha to mai aapko na link share kar raha hu sir.\\nCustomer: Ha kijiye.\\nExecutive: Sir isi whatsapp pe kar du?\\nCustomer: Ha.\\nExecutive: Whatsapp pe hi kar de raha hu na. Mail pe kar diya hai whatsapp pe bhi kar de raha hu, thik hai.\\nCustomer: Ha whatsapp pe kar dijiye.\\n\\nExecutive: Hello.\\nCustomer: Ha sir ek second na bhej raha hu ek second.\\nExecutive: Aa gayi?\\nCustomer: Aa gayi sir wo maine aapko usme bheja hai mail par bheja hai link.\\nExecutive: Ha mail par mail par bhi aa gaya join kar lu?\\nExecutive: Ha ha join kijiye.\\n\\n\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs training.\\n\n\\n\nResolution:\\n\n- Executive shared the training link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- training, link sharing, follow up\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 122,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c0e9f156-4b2c-4599-bad6-fe4cd6241a37",
+  "ucid": "c0e9f156-4b2c-4599-bad6-fe4cd6241a37",
+  "seller_categories": [
+    {
+      "mcat_id": "25965",
+      "mcat_name": "Cottonseed Oil"
+    },
+    {
+      "mcat_id": "190874",
+      "mcat_name": "Refined Oil"
+    },
+    {
+      "mcat_id": "142630",
+      "mcat_name": "Groundnut Cake"
+    },
+    {
+      "mcat_id": "442859",
+      "mcat_name": "Groundnut De Oiled Cake"
+    },
+    {
+      "mcat_id": "133883",
+      "mcat_name": "Oil Cake"
+    }
+  ]
+}

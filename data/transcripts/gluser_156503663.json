@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672812699",
+  "gluser_id": "156503663",
+  "vintage_months": 19,
+  "bl_dau_oct": 2,
+  "customer_type": "TSCATALOG",
+  "city_name": "Kheda",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672708",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nHello?\\nExecutive: Haan bolo.\\nCustomer: Ji namaskar sir, Prabhat baat kar raha hu IndiaMART se, Srimanagar, kaise hai sir aap?\\nExecutive: Bas badhiya bolo sab.\\nExecutive: Ji ji sir, main keh raha tha aapne sir concern dala tha TDS refund ka, start declaration recycling ka, correct?\\nCustomer: Haan.\\nExecutive: Ji ji, to sir total \u20b91180 ka aapka tha na TDS?\\nCustomer: Haan.\\nExecutive: Ji ji sir, to aapka TDS sir aapka refund paanch se saat working day mein aa jayega sir, theek hai? Form sir aapko mil gaya tha.\\nCustomer: Koi baat nahi.\\nExecutive: Sir aapse ek cheez aur poochh lete sir is profile mein, ek cheez aur bataiye sir service aap hi dekhte hai ya koi aur dekhta hai?\\nCustomer: Nahi, wo hamare Sameer bhai dekhte hai.\\nExecutive: Sameer ji, sir unka number keh dijiye ek baar main baat kar leta hu sir service ke regarding sir. Ek second, ek second hold kijiyega sir main note kar leta hu. Time kariyega. 9898\\nCustomer: 590\\nExecutive: 590, 548.\\nCustomer: 548.\\nExecutive: 548, 9898590548, yehi number hai ki service ye dekhte hai?\\nCustomer: Haan, haan wahi dekhte hai.\\nExecutive: Theek hai sir, main baat kar leta hu sir aur koi problem hai sir to bataiye nahi to main sir aapka concern band kar raha hu, satisfied sir mark kar dijiyega, theek hai?\\nCustomer: Haan.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer raised concern about TDS refund.\\n\n- Executive asked about service handling.\\n\n\\n\nResolution:\\n\n- Executive confirmed TDS refund in 5-7 days.\\n\n- Executive took Sameer's number for service discussion.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- tds refund, service, contact details\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 104,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=899c9014-427b-462b-8f9f-99a5509dfc69",
+  "ucid": "899c9014-427b-462b-8f9f-99a5509dfc69",
+  "seller_categories": [
+    {
+      "mcat_id": "33644",
+      "mcat_name": "MS Drums"
+    },
+    {
+      "mcat_id": "156943",
+      "mcat_name": "Used Jumbo Bags"
+    },
+    {
+      "mcat_id": "99903",
+      "mcat_name": "PP Scrap"
+    },
+    {
+      "mcat_id": "217124",
+      "mcat_name": "LD Plastic Scrap"
+    },
+    {
+      "mcat_id": "164969",
+      "mcat_name": "CRC Metal Scrap"
+    }
+  ]
+}

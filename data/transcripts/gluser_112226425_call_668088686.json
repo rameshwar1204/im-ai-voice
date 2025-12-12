@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668088686",
+  "gluser_id": "112226425",
+  "vintage_months": 32,
+  "bl_dau_oct": 8,
+  "customer_type": "CATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694491",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Ji sir, ab aa gaya.\\nCustomer: Aa gaya sir WhatsApp pe?\\nExecutive: Haan, high ka message. Try kijiyega. Haan, high ka aayega saath mein ek link aayi hogi. Aap usko mujhe revert high kijiye ek baar.\\nCustomer: Ye khul nahi raha lekin.\\nExecutive: Wahi main bol raha tha aapse. Aap mujhe dobara se ek high kijiye.\\nCustomer: Jai Shri Ram ka message bhej diya maine.\\nExecutive: Theek hai, aa gaya. Ab main aapko dobara se send kar raha hu. Aap line pe rahiyega.\\nExecutive: Ab ek baar kholiye sir.\\nCustomer: Haan, khol raha hu.\\nExecutive: Ab khul jayega.\\n(silence)\\n[unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says the link is not opening.\\n\n\\n\nResolution:\\n\n- Executive resent the link.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=57a79908-e8f7-4896-ba5a-4ddd7fe8ee3e",
+  "ucid": "57a79908-e8f7-4896-ba5a-4ddd7fe8ee3e",
+  "seller_categories": [
+    {
+      "mcat_id": "216824",
+      "mcat_name": "Statue Painting Services"
+    },
+    {
+      "mcat_id": "2000",
+      "mcat_name": "Marble Paintings"
+    },
+    {
+      "mcat_id": "178185",
+      "mcat_name": "Marble Ganesh Statue"
+    },
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "16045",
+      "mcat_name": "Hanuman Statue"
+    }
+  ]
+}

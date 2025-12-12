@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667046584",
+  "gluser_id": "216241796",
+  "vintage_months": 5,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Dausa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632181",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Haanji sir, available hai abhi aap?\\nCustomer: Ek minute just. Aap mereko WhatsApp call kar sakte hain?\\nExecutive: Haan bilkul sir, no issue.\\nCustomer: Actually network issue aata hai calling time. Just one second main abhi online aata hu. Theek hai?\\nExecutive: Haan haan haan haan haan sir.",
+  "summary": "\\n\\nConcerns:\\n\\n- Experiencing network issues on the call.\\n- Requested a call back on WhatsApp.\\n\\n\\nResolution:\\n\\n- Agreed to call the customer on WhatsApp.\\n\\n\\nNext Steps: \\n- Executive will call the customer back on WhatsApp.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- network issue, whatsapp call, call request\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 30,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=952e4768-1b20-42fe-be16-fa0742596a29",
+  "ucid": "952e4768-1b20-42fe-be16-fa0742596a29",
+  "seller_categories": [
+    {
+      "mcat_id": "215888",
+      "mcat_name": "Sandstone Wall Panels"
+    },
+    {
+      "mcat_id": "88032",
+      "mcat_name": "Stone Wall Panel"
+    },
+    {
+      "mcat_id": "83840",
+      "mcat_name": "Wall Murals"
+    },
+    {
+      "mcat_id": "73378",
+      "mcat_name": "Stone Wall Cladding"
+    },
+    {
+      "mcat_id": "165869",
+      "mcat_name": "Stone Jali"
+    }
+  ]
+}

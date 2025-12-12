@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675028571",
+  "gluser_id": "86207943",
+  "vintage_months": 4,
+  "bl_dau_oct": 18,
+  "customer_type": "TSCATALOG",
+  "city_name": "Silvassa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710528",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ac205044-c1c9-412b-a722-dbe65ac90ac1",
+  "ucid": "ac205044-c1c9-412b-a722-dbe65ac90ac1",
+  "seller_categories": [
+    {
+      "mcat_id": "2386",
+      "mcat_name": "Thermal Transfer Ribbons"
+    },
+    {
+      "mcat_id": "72754",
+      "mcat_name": "Wax Ribbon"
+    },
+    {
+      "mcat_id": "22855",
+      "mcat_name": "Barcode Ribbons"
+    },
+    {
+      "mcat_id": "444509",
+      "mcat_name": "Wax Resin Ribbon"
+    },
+    {
+      "mcat_id": "144",
+      "mcat_name": "Printer Ribbons"
+    }
+  ]
+}

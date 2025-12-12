@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668233161",
+  "gluser_id": "148256891",
+  "vintage_months": 44,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Udaipur",
+  "iil_vertical_name": "KCD",
+  "customer_ticket_id": "9644070",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Nahi, is baar isme nahi hai.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan, Saurabh sir, maine mail ID bheja aapke saath.\\nExecutive: Sir, seven pe bhejo meri paas.\\nCustomer: Haan, mail ID aapko dhyan nahi hai shayad.\\nExecutive: Nahi, maine register mein isme bheja hai traders.com@gmail.com.\\nCustomer: E-com wali pin, e-com wali pin.\\nExecutive: Woh mail ID register seven baje.\\nCustomer: Achha achha. Sunrise traders ecom@gmail.com na? Nahi, seven, seven, seven@.\\nExecutive: Achha achha. Theek hai, main usko de deta hu, theek hai.\\nCustomer: Hmm.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says he sent mail ID.\\n\n\\n\nResolution:\\n\n- Executive asked to send it to seven.\\n\n\\n\nNext Steps: \\n\n- Executive will give the mail to concerned person.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- mail id, registration\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 54,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8a55705f-4bf1-463c-aa20-de929c6af318",
+  "ucid": "8a55705f-4bf1-463c-aa20-de929c6af318",
+  "seller_categories": [
+    {
+      "mcat_id": "28331",
+      "mcat_name": "Floor Wiper"
+    },
+    {
+      "mcat_id": "26081",
+      "mcat_name": "Cotton Mop"
+    },
+    {
+      "mcat_id": "226768",
+      "mcat_name": "Plastic Floor Wiper"
+    },
+    {
+      "mcat_id": "24942",
+      "mcat_name": "Mop"
+    },
+    {
+      "mcat_id": "167665",
+      "mcat_name": "Twist Mop"
+    }
+  ]
+}

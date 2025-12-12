@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669605111",
+  "gluser_id": "74774309",
+  "vintage_months": 56,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9661885",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Hanji.\\nExecutive: Ha, Namaskar ji.\\nExecutive: Namaste sir.\\nCustomer: Kaun bol rahe ho sir?\\nExecutive: Main Roshan baat kar raha hun aapka manager aap kahan se baat kar rahe ho?\\nExecutive: Main Saraswati Murti Kala Kendra se bol raha hun Karan Sharma sir.\\nExecutive: Achcha achcha haan sir bataen.\\nCustomer: Ji.\\nExecutive: Ji sir.\\nCustomer: Main ye bol raha hun sir main aap se.\\nExecutive: Meri jo lead aa rahi hai lead sari sold out mein ja rahi hai sari.\\nExecutive: Achcha.\\nCustomer: Sari lead sold out mein ja rahi hai.\\nExecutive: Ji.\\nExecutive: To kal sir ek baar online baith ke discuss karte hain.\\nCustomer: Ji?\\nExecutive: Kal online baith ke ek baar discuss karte hain.\\nExecutive: Theek hai.\\nCustomer: Ji sir.\\nExecutive: Theek hai sir. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Leads are going into sold out.\\n\n\\n\nResolution:\\n\n- Agreed to discuss the issue online.\\n\n\\n\nNext Steps: \\n\n- Discuss the issue online.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, sold out, online discussion\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 96,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=162db868-c04d-44cd-a1c7-0e177737f287",
+  "ucid": "162db868-c04d-44cd-a1c7-0e177737f287",
+  "seller_categories": [
+    {
+      "mcat_id": "179202",
+      "mcat_name": "Marble Hanuman Statue"
+    },
+    {
+      "mcat_id": "74617",
+      "mcat_name": "Marble God Statue"
+    },
+    {
+      "mcat_id": "180344",
+      "mcat_name": "Marble Kali Mata Statue"
+    },
+    {
+      "mcat_id": "179201",
+      "mcat_name": "Marble Durga Statue"
+    },
+    {
+      "mcat_id": "656192",
+      "mcat_name": "Marble Guru Gorakhnath Statue"
+    }
+  ]
+}

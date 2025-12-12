@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673496417",
+  "gluser_id": "110528838",
+  "vintage_months": 25,
+  "bl_dau_oct": 21,
+  "customer_type": "CATALOG",
+  "city_name": "Bhavnagar",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9695884",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Gandhi sir\\nExecutive: Hello\\nCustomer: Ha ji sir wo mujhe bola tha 50 list milegi non electable wo mujhe abhi tak nahi mila sir\\nExecutive: Ha ha are sir wo dala hua hai approval ke liye aapke pass allocate ho jayegi Monday tak mein\\nCustomer: Monday tak aapne Monday ko bola tha ki Monday tak ho jayega wo Monday chala gaya Monday aane wala hai sir\\nExecutive: Are sir\\nExecutive: Maine likh ke diya hai aapko abhi main abhi main aapko mail vagera sab kuch dikha deta hu usme koi dikkat nahi hai\\nExecutive: Aisa nahi hai ki humne bol diya aur aapko milega nahi\\nExecutive: Wo aapko mil jayega ye ye aapne abhi call kiya customer care mein recorded line pe bhi main keh raha hu\\nExecutive: To aap itna to trust rakhiye sir\\nCustomer: Ha ji ye aapne customer care pe ye customer care pe dala tha call kiya hai to wo concern open ho jata hai to main isko abhi close kar deta hu Monday aapko process ho jayega wo\\nCustomer: Mujhe kal tak aapko time dena padega\\nExecutive: Theek hai sir aapke pass ek feedback mail aayega\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received 50 non-electable listings.\\n\n- Customer says promised delivery was Monday.\\n\n\\n\nResolution:\\n\n- Executive confirmed it is under approval.\\n\n- Executive assured allocation by Monday.\\n\n- Executive will close the customer care concern.\\n\n\\n\nNext Steps: \\n\n- Customer will receive a feedback mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Annoyed -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- listings, approval, allocation, monday\\n\n\\n",
+  "call_entered_on": "11/20/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=50d1a69b-3ea0-42b5-adc8-5af48c5fa92c",
+  "ucid": "50d1a69b-3ea0-42b5-adc8-5af48c5fa92c",
+  "seller_categories": [
+    {
+      "mcat_id": "32052",
+      "mcat_name": "Life Jacket"
+    },
+    {
+      "mcat_id": "31771",
+      "mcat_name": "Marine Safety Equipment"
+    },
+    {
+      "mcat_id": "9884",
+      "mcat_name": "Marine Equipments"
+    },
+    {
+      "mcat_id": "86007",
+      "mcat_name": "Breathing Apparatus"
+    },
+    {
+      "mcat_id": "53466",
+      "mcat_name": "Marine Compass"
+    }
+  ]
+}

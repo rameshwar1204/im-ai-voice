@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668792441",
+  "gluser_id": "204680420",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665201",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello sir, good evening.\\nCustomer: Hello.\\nExecutive: Ha sir, kya update hai?\\nCustomer: Hello.\\nExecutive: Ha sir, kya update?\\nCustomer: Hello. Sir aapki aawaz bahut slow aa rahi hai. Hello.\\nExecutive: Aap contact kijiye sir mujhe sir aawaz slow aa rahi hai. Ek baar call back kijiye please. \\nExecutive: Ek minute.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive clearly.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- voice issue, call back\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a514c240-6de5-4571-9e2c-fcd1407e0880",
+  "ucid": "a514c240-6de5-4571-9e2c-fcd1407e0880",
+  "seller_categories": [
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "185686",
+      "mcat_name": "Men Track Pants"
+    },
+    {
+      "mcat_id": "42874",
+      "mcat_name": "Men Pyjamas"
+    },
+    {
+      "mcat_id": "652861",
+      "mcat_name": "BoAt Earbuds"
+    },
+    {
+      "mcat_id": "184676",
+      "mcat_name": "Hosiery Lower"
+    }
+  ]
+}

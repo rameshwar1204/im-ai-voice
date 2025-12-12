@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669170889",
+  "gluser_id": "118881082",
+  "vintage_months": 29,
+  "bl_dau_oct": 16,
+  "customer_type": "TEMPBLOCK",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9690150",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Good morning.\\nCustomer: Good morning.\\nExecutive: Sir, Parvez bol raha hu IndiaMART se.\\nCustomer: Ha sir boliye.\\nExecutive: Kaise hai sir aap?\\nCustomer: Bas thik hai. Badhiya. Mai actually aapko subah subah isliye call kiya tha, aaj sir woh apna jo balance payment hai, woh aaj clear karwa dijiyega please. Kyuki aaj ka hi maine time de rakha tha team ko bhi.\\nCustomer: Maine aapko bola tha aap kyu time de dete ho?\\nExecutive: Nahi nahi, aapne toh 10 tarikh boli hi thi, woh toh sahi baat hai.\\nExecutive: Toh isi ke according unhone maine 7 se 10 ke beech mein unse bola tha. Toh unhone bola thik hai 10 tak hum wait kar lete hai.\\nCustomer: Thik hai sir. Thik hai mai call karta hu 10-15 minute mein.\\nExecutive: Thik, thik sir, thik.\\nCustomer: Thik.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive requests customer to clear balance payment.\\n\n\\n\nResolution:\\n\n- Customer agreed to make the payment soon.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- payment, balance, due\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2de2bad8-70a4-4b0b-b170-44a5d36c448d",
+  "ucid": "2de2bad8-70a4-4b0b-b170-44a5d36c448d",
+  "seller_categories": [
+    {
+      "mcat_id": "84889",
+      "mcat_name": "Cast Iron Grill"
+    },
+    {
+      "mcat_id": "106967",
+      "mcat_name": "Cast Iron Railing"
+    },
+    {
+      "mcat_id": "102080",
+      "mcat_name": "Cast Iron Stairs"
+    },
+    {
+      "mcat_id": "184721",
+      "mcat_name": "Cast Iron Gate"
+    },
+    {
+      "mcat_id": "85142",
+      "mcat_name": "Cast Iron Ornament"
+    }
+  ]
+}

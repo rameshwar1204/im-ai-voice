@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673628072",
+  "gluser_id": "32495110",
+  "vintage_months": 30,
+  "bl_dau_oct": 25,
+  "customer_type": "STAR",
+  "city_name": "Nashik",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9696166",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello?\\nCustomer: Haan.\\nExecutive: Hello? Haan, good morning sir, Himanshu bol raha hu IndiaMART se.\\nCustomer: Bol diya, boliye Himanshu sir.\\nExecutive: Haan sir. Sir actually mere paas na ek feedback aaya tha ki kal jo hamara interaction hua tha na, usme aapne not satisfied mark kiya tha. To main matlab wohi tha sir. To actually wohi not satisfied tha uska feedback aaya tha to uske regarding hi main ek baar chah raha tha ki aapse thorough discussion karna ki jo hua tha hamara thorough discussion lekin haan yeh hai ki hum kuch isme cheeze aur achi better kar sakte hain. Hai na? To aap mujhe sir suitable time bata do to phir hum log thoda baith ke na iske regarding ek baar baat karte hain, hai na? Kyunki aap bhi matlab kahin na kahin pareshan ho is cheez ko lekar ke ki leads vgera nahi aa rahi hain aur jab itna invest kiya hai to thoda sa discussion karna tha sir.\\nCustomer: Haan, theek hai 12 baje discussion karte hain.\\nExecutive: Theek hai sir, main 12 baje karta hu aapko. Kuch leads vgera aayi hai sir, ek baar aap dekhiyega, hai na? Ek baar agar aapko lage to ek baar dekhiyega ek go through kariyega. Baki hum 12 baje kareeb ek discussion karte hain sir.\\nCustomer: Theek hai, theek hai.\\nExecutive: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer marked 'not satisfied' in feedback.\\n\n- Customer is concerned about not receiving leads.\\n\n\\n\nResolution:\\n\n- Executive offered to discuss the issue.\\n\n- Agreed to discuss the issue at 12:00 PM.\\n\n- Executive asked customer to check new leads.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer at 12:00 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, leads, discussion, satisfaction\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f0cdb0a2-7e48-4032-9f7f-3d53787e2bab",
+  "ucid": "f0cdb0a2-7e48-4032-9f7f-3d53787e2bab",
+  "seller_categories": [
+    {
+      "mcat_id": "122191",
+      "mcat_name": "Detergent Making Machines"
+    },
+    {
+      "mcat_id": "9566",
+      "mcat_name": "Soap Making Machinery"
+    },
+    {
+      "mcat_id": "152618",
+      "mcat_name": "Detergent Cake Making Machines"
+    },
+    {
+      "mcat_id": "12768",
+      "mcat_name": "Detergent Powder Plant"
+    },
+    {
+      "mcat_id": "36970",
+      "mcat_name": "Soap Machine"
+    }
+  ]
+}

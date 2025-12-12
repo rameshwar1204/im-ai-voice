@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670410466",
+  "gluser_id": "86533302",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Patiala",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9672736",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello sir, aawaz aa rahi hai aapko?\\nCustomer: Aa rahi hai ji.\\nExecutive: Sir, mai Meenakshi bol rahi hu IndiaMART se sir.\\nCustomer: Kyun bol rahe hai ji?\\nExecutive: Kaise hai aap?\\nCustomer: Bahut badhiya.\\nExecutive: Sir aapki kal aapne customer care pe call kiya tha mere.\\nCustomer: Bilkul bilkul kiya tha ji.\\nExecutive: Ji sir Nawaz abhi medical leave pe hai, mai uski manager Meenakshi bol rahi hu sir.\\nCustomer: Achha.\\nExecutive: Haan, toh sir maine call aapko kiya ki aapko kya dikkat aa rahi thi sir jiske liye aapne call kiya mujhe?\\nCustomer: Are iska ho raha hai, ek minute madam.\\n[inaudible]\\nExecutive: The person you are speaking with has put your call on hold. Please stay on the line.\\nCustomer: Aap\\nCustomer: Hello\\nExecutive: Haan sir.\\nCustomer: Madam ji bole.\\nExecutive: Haan mai Meenakshi Hello\\nCustomer: Hello\\nExecutive: Haan sir.\\n[inaudible]",
+  "summary": "\\n\nConcerns:\\n\n- Customer had called customer care previously.\\n\n- Wants to discuss the issue for calling.\\n\n\\n\nResolution:\\n\n- Executive introduced herself as manager Meenakshi.\\n\n- Executive asked the reason for calling customer care.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- customer care, call, introduction\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 70,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c0be7fd3-d0d7-4084-ba01-1a75896c138f",
+  "ucid": "c0be7fd3-d0d7-4084-ba01-1a75896c138f",
+  "seller_categories": [
+    {
+      "mcat_id": "143598",
+      "mcat_name": "RCC Garden Bench"
+    },
+    {
+      "mcat_id": "122518",
+      "mcat_name": "Precast Compound Wall"
+    },
+    {
+      "mcat_id": "181009",
+      "mcat_name": "RCC Readymade Compound Wall"
+    },
+    {
+      "mcat_id": "122539",
+      "mcat_name": "RCC Wall"
+    },
+    {
+      "mcat_id": "122158",
+      "mcat_name": "Compound Wall"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669507089",
+  "gluser_id": "191967082",
+  "vintage_months": 27,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9650802",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Hello ha Vikram sir.\\nCustomer: Boliye.\\nExecutive: Ha sir wo call maine tabhi lagai thi aapne reject kar di shayad wo aap soche ki number koi aur number se call aa rahi hai.\\nCustomer: Maine reject nahi kara actually kya mere isme true caller ka spam laga hua hai isliye reject call wo ho raha hai aapka spam me ja raha hai sare aapke calls IndiaMART ke.\\nExecutive: Achcha.\\nCustomer: Dikkat wo hai aap IndiaMART ke jitne bhi number se na wo sab spam me hai to aap ek kam kijiye aapke number se hatwaiye sir spam me se. Boliye government ko ya websites ko.\\nCustomer: Mera number spam. Sare number spam pe hai sir. Bhumika ji ka jo office number hai wo bhi spam pe hai. Aapka.\\nExecutive: Achcha achcha to true caller spam kar deta hai ya kuch aur matlab phone aapka spam kar deta hai.\\nCustomer: True caller spam kar deta hai aap bhi kar kar deta hai sir wo. Kisi bhi nahi karne deta wo.\\nExecutive: Achcha achcha achcha.\\nCustomer: Sir aapke sare numbers spam me jarur wo.\\nCustomer: Waise sir matlab mere jaise main kisi ko call lagata hu to ek my C2C likh ke aata hai to wo wo to matlab blue colour me rehta hai red nahi raha ki spam mark kiya hua hai.\\nExecutive: Agar aisa ho to abhi aap screenshot bhej sakte ho main bhi red colour me likha hua aayega.\\nCustomer: Ha ha mujhe bilkul screenshot ek bar send kar dijiyega aap whatsapp pe.\\nExecutive: Ha to main bol sakta hu. Ha abhi sir kya problem aa rahi hai aapko services me kuch problem aa rahi hai kya?\\nCustomer: Services issue nahi sir mujhe actually refund chahiye tha sir. Agar possible hai to.\\nExecutive: Sir refund to possible nahi hai sir.\\nCustomer: Kyuki mera agar aap concern sunenge ek bar uske baad agar aap bol paye to better rahega sir. Pehle to pehle se agar aap bol denge.\\nExecutive: Nahi baat ye hai ki aap concern apna bataiye matlab actual me refund nahi possible hai sir. Aap bata sakte ho apna issue koi problem nahi hai.\\nCustomer: Aisa hai sir ki jaise aapne plan product tools ko becha hai.\\nExecutive: Hmm hmm hmm.\\nCustomer: Aur jab product tools is month me wind up ho rahi hai sir. To uska jo October tak plan hai to wo aap kya karenge bhai utarenge sir jara ek bar. Jab exist hi nahi karegi. Uska plan kya kya adjust karega sir wo.\\nExecutive: Exist kyu nahi karegi matlab kya hua kya bataiye?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's calls from IndiaMART are going to spam.\\n\n- Wants a refund for the product tools plan.\\n\n\\n\nResolution:\\n\n- Executive said refund is not possible.\\n\n- Asked the customer to share his concern.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- spam, refund, product tools\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bb49ba62-9128-4b33-9ccd-b68828b1f3d8",
+  "ucid": "bb49ba62-9128-4b33-9ccd-b68828b1f3d8",
+  "seller_categories": [
+    {
+      "mcat_id": "40361",
+      "mcat_name": "Tube Cleaners"
+    },
+    {
+      "mcat_id": "132537",
+      "mcat_name": "Tube Cleaning Brush"
+    },
+    {
+      "mcat_id": "42067",
+      "mcat_name": "Tube Expanders"
+    },
+    {
+      "mcat_id": "136243",
+      "mcat_name": "Boiler Brush"
+    },
+    {
+      "mcat_id": "28585",
+      "mcat_name": "Flexible Shafts"
+    }
+  ]
+}

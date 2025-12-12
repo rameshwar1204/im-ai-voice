@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675679911",
+  "gluser_id": "60305216",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Jodhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9715429",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Hello.\\nHello, Kartik ji se baat karna hai?\\nHan Amritlal bol raha hun.\\nHan Kartik ji se baat kiya hai maine.\\nHello.\\nHello.\\nJi sir.\\nHan wo truck wale se baat kiya hai maine abhi.\\nSir main India Mart se phone kar raha hun aap shayad wrong number se puch rahe hain.\\nMaine call kiya aapko India Mart se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to talk to Kartik ji.\\n\n- States he spoke to a truck driver.\\n\n\\n\nResolution:\\n\n- Agent states he is calling from India Mart and the customer may have dialed the wrong number.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwrong number, india mart\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 36,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1f60ea4d-4c37-4808-9c7f-8baf455fa762",
+  "ucid": "1f60ea4d-4c37-4808-9c7f-8baf455fa762",
+  "seller_categories": [
+    {
+      "mcat_id": "36358",
+      "mcat_name": "Restaurant Table & Chair"
+    },
+    {
+      "mcat_id": "19406",
+      "mcat_name": "Wooden Chair"
+    },
+    {
+      "mcat_id": "96525",
+      "mcat_name": "Cafe Chair"
+    },
+    {
+      "mcat_id": "36357",
+      "mcat_name": "Restaurant Chairs"
+    },
+    {
+      "mcat_id": "87985",
+      "mcat_name": "Restaurant Table"
+    }
+  ]
+}

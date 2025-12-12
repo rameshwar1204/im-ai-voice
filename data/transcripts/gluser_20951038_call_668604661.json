@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668604661",
+  "gluser_id": "20951038",
+  "vintage_months": 59,
+  "bl_dau_oct": 17,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhadrak",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9647655",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Ji namaste sir.\\nCustomer: Namaste madam.\\nExecutive: Ji sir main IndiaMART se bol rahi hu, ${Exec_Name}.\\nCustomer: Hanji.\\nExecutive: Sir aapka IndiaMART pe listing hai, aapko main call kar rahi hu aapka verification ke liye.\\nCustomer: Verification ke liye?\\nExecutive: Hanji sir, aapka company name confirm kar sakte hai?\\nCustomer: [Inaudible]\\nExecutive: Sir aapka naam?\\nCustomer: Mera naam [inaudible] hai.\\nExecutive: Okay sir, thank you. \\nCustomer: Hanji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer received a call for verification.\\n\n\\n\nResolution:\\n\n- Executive called for verification.\\n\n- Executive verified company name and customer name.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- verification, listing, company name\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 17,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=392894aa-f95c-4c7a-b92f-a791b6e81d43",
+  "ucid": "392894aa-f95c-4c7a-b92f-a791b6e81d43",
+  "seller_categories": [
+    {
+      "mcat_id": "42068",
+      "mcat_name": "Namkeen"
+    },
+    {
+      "mcat_id": "190781",
+      "mcat_name": "Spicy Mixture Namkeen"
+    },
+    {
+      "mcat_id": "187442",
+      "mcat_name": "Murukku"
+    },
+    {
+      "mcat_id": "192459",
+      "mcat_name": "Haldiram Namkeen"
+    },
+    {
+      "mcat_id": "5233",
+      "mcat_name": "Moong Dal"
+    }
+  ]
+}

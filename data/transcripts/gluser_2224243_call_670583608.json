@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670583608",
+  "gluser_id": "2224243",
+  "vintage_months": 25,
+  "bl_dau_oct": 9,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666118",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji.\\nCustomer: Piyush sir good morning.\\nExecutive: Good morning boliye.\\nCustomer: Ji Amrit baat kar raha hu sir aapka account manager India Mart se.\\nExecutive: Ji bataiye.\\nCustomer: Ji sir aapka sansan use hua tha kal aapne kal aapko do teen baar call kiya tha sir.\\nExecutive: Office pahunch ke office pahunch ke baat karta hu na.\\nExecutive: Office pahunch ke baat karta hu na.\\nExecutive: Theek hai theek hai.\\nCustomer: Theek hai theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer called regarding the use of sansan and previous call attempts.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\n- Issue not resolved. Executive will talk after reaching the office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\naccount manager, sansan use, call\n\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ea1d6e78-4d81-49a7-a88e-08b85d870864",
+  "ucid": "ea1d6e78-4d81-49a7-a88e-08b85d870864",
+  "seller_categories": [
+    {
+      "mcat_id": "186997",
+      "mcat_name": "School Belt Niwar"
+    },
+    {
+      "mcat_id": "182929",
+      "mcat_name": "Niwar"
+    },
+    {
+      "mcat_id": "141700",
+      "mcat_name": "School Belt"
+    },
+    {
+      "mcat_id": "6658",
+      "mcat_name": "Narrow Woven Fabrics"
+    },
+    {
+      "mcat_id": "442275",
+      "mcat_name": "Nylon Niwar Tapes"
+    }
+  ]
+}

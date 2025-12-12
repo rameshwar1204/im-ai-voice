@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672960506",
+  "gluser_id": "16991806",
+  "vintage_months": 28,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Gorakhpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9676818",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=97c6a242-d736-42d5-bdfb-429f231f1cc0",
+  "ucid": "97c6a242-d736-42d5-bdfb-429f231f1cc0",
+  "seller_categories": [
+    {
+      "mcat_id": "30719",
+      "mcat_name": "Industrial Sheds"
+    },
+    {
+      "mcat_id": "136750",
+      "mcat_name": "Prefabricated Factory Shed"
+    },
+    {
+      "mcat_id": "78465",
+      "mcat_name": "Construction Service"
+    },
+    {
+      "mcat_id": "166432",
+      "mcat_name": "Prefabricated Warehouse"
+    },
+    {
+      "mcat_id": "220929",
+      "mcat_name": "Tin Shed"
+    }
+  ]
+}

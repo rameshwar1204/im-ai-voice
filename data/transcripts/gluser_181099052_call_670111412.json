@@ -1,0 +1,30 @@
+{
+  "click_to_call_id": "670111412",
+  "gluser_id": "181099052",
+  "vintage_months": 7,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Dakshin Santoshpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667837",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Haan ji, good morning sir.\\nCustomer: Haan, main bol raha hun, main mere sath panch minute dusre bar dusra factory mein hai, uska baat hai.\\nExecutive: Hum office mein uske taraf phone milate hain, theek hai?\\nCustomer: Theek hai sir, theek hai.\\nExecutive: Theek hai mam?\\nCustomer: Okay sir, okay. Abhi abhi abhi milata hun 10 minute ke andar, theek hai?\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer will call back in 10 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to receive the call.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- callback, factory\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=34ad9104-a22b-461c-8292-278a5b7ed82b",
+  "ucid": "34ad9104-a22b-461c-8292-278a5b7ed82b",
+  "seller_categories": [
+    {
+      "mcat_id": "148221",
+      "mcat_name": "Cupboard Locks"
+    },
+    {
+      "mcat_id": "9313",
+      "mcat_name": "Shutter Lock"
+    }
+  ]
+}

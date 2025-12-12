@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674115807",
+  "gluser_id": "148700208",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Balaghat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719206",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Mam good morning.\\nCustomer: Hello\\nExecutive: Good morning. Good morning sir. Ji bataiye.\\nCustomer: Mam pehchan.\\nHello\\nExecutive: Sir main off pe hu aaj.\\nCustomer: Hello\\nCustomer: Kaam tha mam.\\nExecutive: Ha sir kab main aapko parso hi connect kar paungi abhi to kyuki main family function attend karne aayi hu. Kuch urgent hai main kisi aur se baat kara du?\\nCustomer: Nahi mam aisa kuch urgent nahi hai wo kya hai catalog update kiye the maine to main keh raha tha portal mein update ho jate wo.\\nExecutive: Achcha kyuki sir abhi network vagaira bhi nahi hai na mere paas isiliye.\\nCustomer: Okay mam aap Monday aap main Monday connect karti hu aap mujhe apna name bata dijiye ek bar.\\nExecutive: Mam Sagar Sahu Digambar Sahu.\\nCustomer: Achcha achcha achcha okay. Ji mam Durga se. Ya I will connect you on Monday okay.\\nCustomer: Okay. Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to know if catalog is updated.\\n\n- Executive is on leave due to family function.\\n\n\\n\nResolution:\\n\n- Executive will connect on Monday.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, update, connect\\n\n\\n",
+  "call_entered_on": "11/22/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f18d7c82-7997-4249-99d4-0b8e300905fb",
+  "ucid": "f18d7c82-7997-4249-99d4-0b8e300905fb",
+  "seller_categories": [
+    {
+      "mcat_id": "167700",
+      "mcat_name": "School Sweater"
+    },
+    {
+      "mcat_id": "10479",
+      "mcat_name": "Kids School Uniforms"
+    },
+    {
+      "mcat_id": "141701",
+      "mcat_name": "School Blazer"
+    },
+    {
+      "mcat_id": "1941",
+      "mcat_name": "School Uniforms"
+    },
+    {
+      "mcat_id": "185139",
+      "mcat_name": "Boys School Uniform"
+    }
+  ]
+}

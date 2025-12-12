@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674552575",
+  "gluser_id": "39955970",
+  "vintage_months": 85,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ranchi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706755",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Haan ji disconnect ho gaya tha.\\nExecutive: Haan ji.\\n\\nExecutive: Ek second sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call got disconnected.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ndisconnect\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 32,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d0071b65-a72a-4690-8d70-e57dbbbc0b37",
+  "ucid": "d0071b65-a72a-4690-8d70-e57dbbbc0b37",
+  "seller_categories": [
+    {
+      "mcat_id": "186930",
+      "mcat_name": "GI Pipe Clamp"
+    },
+    {
+      "mcat_id": "166253",
+      "mcat_name": "GI Saddle Clamp"
+    },
+    {
+      "mcat_id": "216891",
+      "mcat_name": "CPVC Clamp"
+    },
+    {
+      "mcat_id": "1470",
+      "mcat_name": "Clamps"
+    },
+    {
+      "mcat_id": "184502",
+      "mcat_name": "MS Pipe Clamp"
+    }
+  ]
+}

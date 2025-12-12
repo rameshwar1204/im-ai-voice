@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669144002",
+  "gluser_id": "244712119",
+  "vintage_months": 6,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajkot",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9654530",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Ji sir, sir namaste. Sir aapko call aayi thi na abhi?\\nCustomer: Main wo baat kar raha hu sir aapka IndiaMART account se mujhe.\\nExecutive: Boliye boliye sir ji. Ji sir.\\nCustomer: Haan ji sir aur main ye puch raha jaise aapko wo jo aap puch rahe the tenders wala wo aapko sir clear hua abhi?\\nExecutive: Kya kya bataya aapne?\\nCustomer: Uh, sir wo aap puch rahe the na uska tenders se related jo tha.\\nCustomer: Hain?\\nExecutive: To wo clear hua sir aapko?\\nCustomer: Nahi hua hai. Aapko mila sir?\\nExecutive: Abhi nahi hua sir aapka.\\nCustomer: Nahi.\\nExecutive: Achha achha matlab usme kya dikkat aa rahi hai sir abhi?\\nCustomer: Nahi jo mera account sambhal raha hai na.\\nExecutive: Haan ji haan ji. Haan uske saath aapki baat karwata hu aap wapas call kijiye, wahi uthayega.\\nExecutive: Achha achha ek minute dijiye sir mere ko ab main na ek baar aapka account hi khol raha hu. Kyuki mere pe na abhi call aayi thi shayad se wo unhi ke number se aayi thi ya fir aapke number se aayi thi ek minute dijiye. Haan unhi ke number se aayi thi.\\nExecutive: Achha unhi ke number se aayi thi. Hain. Okay okay okay kya naam hai sir unka?\\nCustomer: KP Patel.\\nExecutive: Ji?\\nCustomer: KP aur L.\\nExecutive: Achha thik hai thik hai thik hai sir main unko call kar leta hu ek baar. Aage.\\nCustomer: Ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asks about the tenders, not cleared yet.\\n\nResolution:\\n\n- Executive will call the concerned person.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- tenders, account, call\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 112,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e4057a26-180c-4bf4-8cc0-d29e8c526510",
+  "ucid": "e4057a26-180c-4bf4-8cc0-d29e8c526510",
+  "seller_categories": [
+    {
+      "mcat_id": "22540",
+      "mcat_name": "Bathroom Wall Shelf"
+    },
+    {
+      "mcat_id": "20997",
+      "mcat_name": "Cloth Drying Stand"
+    },
+    {
+      "mcat_id": "179509",
+      "mcat_name": "Stainless Steel Towel Rack"
+    },
+    {
+      "mcat_id": "73905",
+      "mcat_name": "Wall Hanger"
+    },
+    {
+      "mcat_id": "179510",
+      "mcat_name": "Stainless Steel Soap Dish"
+    }
+  ]
+}

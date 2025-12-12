@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675174676",
+  "gluser_id": "30728128",
+  "vintage_months": 3,
+  "bl_dau_oct": 2,
+  "customer_type": "CATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711415",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\nExecutive: Hello\\n\nCustomer: Hello\\n\nExecutive: Ji Bharat ji baat kar rahe hain sir?\\n\nCustomer: Hain?\\n\nExecutive: Bharat sir baat kar rahe hain na sir abhi aapka ek aapne ek wo raise kara tha sir ki aapko account manager se baat karna hai sir ek aapka ticket aaya tha.\\n\nCustomer: Haan.\\n\nExecutive: Ji bataiye sir.\\n\nCustomer: To number likho aap us pe phone karo. Ek number du?\\n\nExecutive: Haan sir number bata dijiye sir.\\n\nCustomer: 85293\\n\nExecutive: Ek minute sir.\\n\nExecutive: 85\\n\nCustomer: 293\\n\nExecutive: 293\\n\nCustomer: 94\\n\nExecutive: 94\\n\nCustomer: 356\\n\nExecutive: 356 kya naam rahega sir inka?\\n\nCustomer: Bharat Bharat Agarwal.\\n\nExecutive: Bharat Agarwal.\\n\nCustomer: Haan.\\n\nExecutive: Inka note dala tha na sir aapne note dala tha ki wants to connect with account manager to aapne dala tha inhone Bharat ji ne kara tha sir ye?\\n\nCustomer: Unhone hi dala tha.\\n\nExecutive: Chaliye main baat kar leta hu thik hai sir. Haan number wapas repeat kar do.\\n\nCustomer: 85293\\n\nCustomer: Haan.\\n\nCustomer: 94356\\n\nCustomer: Haan thik hai sir.\\n\nExecutive: Main kar raha hu sir.\\n\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect with account manager.\\n\n\\n\nResolution:\\n\n- Executive took the number to connect.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, connect, number\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fd432017-a19e-4848-87bd-2bab1b543f95",
+  "ucid": "fd432017-a19e-4848-87bd-2bab1b543f95",
+  "seller_categories": [
+    {
+      "mcat_id": "132960",
+      "mcat_name": "White Marble"
+    },
+    {
+      "mcat_id": "114352",
+      "mcat_name": "Italian Marble"
+    },
+    {
+      "mcat_id": "73701",
+      "mcat_name": "Polished Granite Slab"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "186745",
+      "mcat_name": "Toronto Marble"
+    }
+  ]
+}

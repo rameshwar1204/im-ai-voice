@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668295126",
+  "gluser_id": "234715039",
+  "vintage_months": 12,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Ajmer",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9634536",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello.\\nHello. Haanji sir aawaz aa rahi hai aapko?\\nHanji bolo, kaun bol rahe ho?\\nJi Chandan baat kar raha hu mai sir.\\nYe bhi aapke number hai kya?\\nJi mai keh raha hu sir mere manager jab aapko call kar rahe hai aap utha nahi rahe hote ho.\\nKyunki mai batata hu. Baat to ho gayi. Kaun kaun hai manager sahab unse baat ho gayi meri.\\nUh I think jahan tak meri yahan pe mai update dekh pa raha tha unse abhi tak baat hui nahi thi tabhi wo keh rahe the ek baar zara aap call laga ke dekhiye.\\nHo gayi ho gayi mere baat.\\nHanji?\\nHo gayi baat ho gayi.\\nNahi abhi kahan ho gayi hai sir baat hi nahi shuru hui hai abhi sir se aapki.\\nArre bhaiya abhi pure aadha ghanta baat kiye unse.\\nKya kya naam bataya tha kaise baat ho rahi thi aapki?\\nHe doctor se bol rahe the Sumit naam bataya unhone.\\nSumit?\\nHmm.\\nChaliye.\\nTo ek baar zara matlab isko.\\nThik hai chaliye mai ek baar zara ek baar puch ke mai batata hu mai aapko.\\nHmm.\\nThik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was not answering manager's call.\\n\n- Executive asked about the manager's name.\\n\n\\n\nResolution:\\n\n- Customer said he spoke with Sumit for 30 minutes.\\n\n- Executive will confirm and update the customer.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, manager, verification, name\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ceb3b0fb-9561-49d7-ade9-0c945ca3fb2b",
+  "ucid": "ceb3b0fb-9561-49d7-ade9-0c945ca3fb2b",
+  "seller_categories": [
+    {
+      "mcat_id": "190588",
+      "mcat_name": "Sirohi Goats"
+    },
+    {
+      "mcat_id": "163224",
+      "mcat_name": "Goat"
+    },
+    {
+      "mcat_id": "209040",
+      "mcat_name": "Beetal Goat"
+    },
+    {
+      "mcat_id": "188909",
+      "mcat_name": "Sojat Goat"
+    },
+    {
+      "mcat_id": "43330",
+      "mcat_name": "Farm Animals"
+    }
+  ]
+}

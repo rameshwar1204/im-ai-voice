@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670353241",
+  "gluser_id": "116872459",
+  "vintage_months": 2,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Kurukshetra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9666686",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nHello\\nExecutive: Ji sir very very good afternoon. VK Industries se baat kar rahe hain sir Mr. Kapil?\\nCustomer: Ji ji.\\nExecutive: Kapil ji main Vidhi baat kar rahi thi Sumit ki manager IndiaMART team se.\\nCustomer: Ji.\\nExecutive: Aapki Sumit se abhi baat hui thi morning mein.\\nCustomer: Ji ji.\\nExecutive: Haan ji Sumit ne sir bataya mujhe ki aapko L shaped glass usme deal karte hain right?\\nCustomer: Ji.\\nExecutive: Aur aapke pass koi bhi leads hai and inquiry calls kuch bhi nahi aa rahe hain.\\nCustomer: Actually mujhe jab maine ye package liya tha IndiaMART ka to mujhe ye kaha gaya tha ki 70 customer aapko provide kiye jayenge hamari taraf se.\\nExecutive: 17 weekly by leads to provide honge aisa na?\\nCustomer: Haan ji.\\nExecutive: 17 weekly by leads to hum aapko provide karte hain aisa bola hoga unhone.\\nCustomer: Ji ji ji ji.\\nExecutive: Okay.\\nCustomer: Aur mere khayal se one month se upar ho gaya par main wo abhi IndiaMART ki taraf se 130 customer provide nahi hua.\\nExecutive: Okay. Sir sir jab aapka OVP hua tha matlab jab aapko hamari team ne connect kiya hoga first time production ke liye. To aap kuch short list karai thi hongi.\\nCustomer: Ji.\\nExecutive: Jaise ki glass ka ki set short list ki thi size se. To isme deal nahi karte hain kya matlab glass connector mein ya sirf\\nCustomer: [inaudible] sir.\\nExecutive: Sorry samjha nahi main aapki baat.\\nExecutive: Haan main basically ye puchna chah rahi hu ki glass connector matlab sare glass connectors mein deal karte hain ya sirf L shape glass connector mein hi deal karte hain.\\nCustomer: Do do do type ke connector mein deal karte hain ek to L type mein aur ek 180 degree ke andar.\\nExecutive: Haan ji.\\nCustomer: Jo L type hota hai wo 90 degree hota hai.\\nExecutive: Okay.\\nCustomer: Aur jo dusre wala hota hai wo 180 degree hota hai.\\nExecutive: Okay matlab sirf do mein hi karte hain aap aur uske\\nCustomer: Alawa kisi bhi glass connector mein deal nahi karte hain aap?\\nCustomer: Nahi is do mein bhi aath tarah ke alag alag wo hai. Actually kya hota hai ki isme two types ki quality hoti hai. Hmm. To 202 ki quality hoti hai aur 304 ki. Ye do tarah ki steel do tarah ki steel hoti hai.\\nExecutive: Theek hai.\\nCustomer: In dono steelo ke andar hum L shape bhi banate hain aur 180 degree bhi banate hain.\\nExecutive: Matlab material mein change rehta hai aur agar hum shape ki baat kare to aap sirf do shape mein hi deal karte ho.\\nCustomer: Ha ji material.\\nCustomer: Haan do shape mein deal karte hain. Do hi rehte hain apne. Haan ji ha ji uske alava ye rehta hai iske alava round aur square ka fark aa jata hai. Iske alava kya kehte hain white ka aur sorry jaise steel ka.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received promised buyleads.\\n\n- Customer was promised 70 customers from IndiaMART.\\n\n- Customer has not received 130 customers yet.\\n\n\\n\nResolution:\\n\n- Executive inquired about the types of glass connectors.\\n\n- Customer clarified they deal with L-shaped and 180-degree connectors.\\n\n- Customer mentioned they use two types of steel.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, subscription, glass connectors, ovp\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 169,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cd06b528-c1aa-419c-bec5-2fcb630ef9e1",
+  "ucid": "cd06b528-c1aa-419c-bec5-2fcb630ef9e1",
+  "seller_categories": [
+    {
+      "mcat_id": "143885",
+      "mcat_name": "Glass Connector"
+    },
+    {
+      "mcat_id": "442945",
+      "mcat_name": "Glass L Connector"
+    },
+    {
+      "mcat_id": "11678",
+      "mcat_name": "Door Closer"
+    },
+    {
+      "mcat_id": "8956",
+      "mcat_name": "Railing Fittings"
+    },
+    {
+      "mcat_id": "185030",
+      "mcat_name": "Glass Point Fitting"
+    }
+  ]
+}

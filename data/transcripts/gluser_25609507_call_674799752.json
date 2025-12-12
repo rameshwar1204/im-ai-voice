@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674799752",
+  "gluser_id": "25609507",
+  "vintage_months": 11,
+  "bl_dau_oct": 4,
+  "customer_type": "CATALOG",
+  "city_name": "Badlapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9708167",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreetings\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e328167c-5100-4445-a5b0-960dcb98397b",
+  "ucid": "e328167c-5100-4445-a5b0-960dcb98397b",
+  "seller_categories": [
+    {
+      "mcat_id": "36613",
+      "mcat_name": "Rubber Processing Oil"
+    },
+    {
+      "mcat_id": "9354",
+      "mcat_name": "Silicone Emulsion"
+    },
+    {
+      "mcat_id": "179652",
+      "mcat_name": "EPDM Reclaim Rubber"
+    },
+    {
+      "mcat_id": "148417",
+      "mcat_name": "Tyre Black Carbon Powder"
+    },
+    {
+      "mcat_id": "27549",
+      "mcat_name": "Fire Clay"
+    }
+  ]
+}

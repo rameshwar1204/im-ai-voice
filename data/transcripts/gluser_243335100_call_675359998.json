@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675359998",
+  "gluser_id": "243335100",
+  "vintage_months": 7,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Muzaffarnagar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9714098",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nExecutive: Hello sir, maine aapko na wo bhej diya video meeting ka link.\\nCustomer: Theek, theek, theek, theek hai. 3:30 baje kar lenge aapko.\\nExecutive: 3:30 baje ka 3:30 baje ka hai. Aur aur aur sir maine maine na aap aapke whatsapp pe ek message aaya hoga.\\nCustomer: Haan haan.\\nExecutive: Haan aaya hai?\\nCustomer: Ek minute dekhta hu mere ko.\\nCustomer: Nahi yaar abhi to koi message nahi.\\nExecutive: Wo ticket ke regarding aayega us pe wo likh dena satisfy meri unse baat ho chuki hai to.\\nCustomer: Haan haan haan theek hai theek hai theek hai.\\nExecutive: Theek hai.\\nCustomer: Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Video meeting link sent.\\n\n- Message regarding ticket not received.\\n\n\\n\nResolution:\\n\n- Video meeting scheduled for 3:30.\\n\n- Instruction to write 'satisfied' on the ticket message after the conversation.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer needs to confirm satisfaction on the ticket message after the call.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nvideo meeting, ticket, satisfaction\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 52,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5736a32b-47b5-4665-bf8a-b24370ad056b",
+  "ucid": "5736a32b-47b5-4665-bf8a-b24370ad056b",
+  "seller_categories": [
+    {
+      "mcat_id": "158721",
+      "mcat_name": "Paper Edge Protector Machine"
+    },
+    {
+      "mcat_id": "251",
+      "mcat_name": "Material Handling Lifts"
+    },
+    {
+      "mcat_id": "160219",
+      "mcat_name": "Hydraulic Scissor Lift"
+    },
+    {
+      "mcat_id": "143432",
+      "mcat_name": "Sand Screening Machine"
+    },
+    {
+      "mcat_id": "17969",
+      "mcat_name": "Screening Machinery"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674367443",
+  "gluser_id": "248806393",
+  "vintage_months": 4,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Indri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701940",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Ji, very good morning, ma'am.\\nCustomer: Good morning, ma'am, baat kar rahi hai.\\nExecutive: Ji, ma'am, main Priya baat kar rahi hu.\\nCustomer: Okay, Priya.\\nExecutive: Hello, good morning.\\nExecutive: Ji, kaisi hain aap, ma'am?\\nCustomer: I am fine. Aap kaise hain?\\nExecutive: Okay. Ma'am, kya dikkat aa rahi thi, ma'am? Aapne kyun concern raise kiya hai?\\nCustomer: Actually, maine koi concern nahi kiya. Woh na niche rating kharab hua tha. Main batati hu. Jab main phone mein woh chalaati hu na app, usme aaya. Toh maine sirf usme two star deke IndiaMART pe ye likha hua tha ki bhai isse log local product lena chahte hain, brand ki taraf nahi jaate. Maine sirf itni si baat likhi. Jab samajh gayi ki mere paas aane ki ticket raise ho gayi hai. Magar pakka aap logo ki call aayegi ab.\\nExecutive: Okay.\\nCustomer: Woh main aapko toh baad mein aapko bhi bolti hu, woh toh main aapko khud ko bhi bolti hu. Matlab aapke galti se hua hai.\\nCustomer: Haan, nahi galti matlab IndiaMART ka main ye nahi kehti. Logo ki complaint likhi thi maine uske andar ki log jo hai woh local product lena chahte hain IndiaMART ke upar, brand ki taraf nahi jaate log.\\nExecutive: Okay, okay. Ye dikkat aa rahi thi, ma'am?\\nCustomer: Haan. Usme toh na main aapka fault nikaal rahi hu, na main apna nikaal rahi hu. Woh toh ek logo ki mentality ka nikaal rahi hu sirf.\\nExecutive: Achha. Toh ma'am, toh phir main kya ye concern agar matlab satisfy, ab main kya concern close kar du?\\nCustomer: Bilkul, bilkul, bilkul. Mere ko koi issue nahi hai. Woh toh logo ki mentality aisi hai, kya kar sakte hain.\\nExecutive: Okay, okay. Theek hai, ma'am. Main idhar concern close kar de rahi hu. Aur ma'am aap na abhi matlab after concern close, main aapko video meet pe bulaungi. Ek baar aap aaiyega, dekhte hain kya dikkat aa rahi hai thoda sa, theek hai?\\nCustomer: Nahi, dikkat toh kuch bhi nahi hai Priya. Tension mat lo. Main karti rehti hu jo kuch hota hai mere se.\\nExecutive: Okay, okay, okay.\\nExecutive: Theek hai, ma'am. Toh phir concern close kar de rahi hu, theek hai?\\nCustomer: Okay. Okay, okay. Thank you, ma'am.\\nCustomer: Bye.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer reported low rating due to local product preference.\\n\n\\n\nResolution:\\n\n- Executive understood the concern and offered video meet.\\n\n- Customer stated no issue, concern closed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- rating, concern, local product, video meet\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 115,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=404ca6aa-fef0-4d06-aff6-36cd4f26736b",
+  "ucid": "404ca6aa-fef0-4d06-aff6-36cd4f26736b",
+  "seller_categories": [
+    {
+      "mcat_id": "133834",
+      "mcat_name": "Electric Geyser"
+    },
+    {
+      "mcat_id": "194353",
+      "mcat_name": "Surya Water Heater & Geyser"
+    },
+    {
+      "mcat_id": "11936",
+      "mcat_name": "Gas Geyser"
+    },
+    {
+      "mcat_id": "14066",
+      "mcat_name": "Electric Water Heater"
+    },
+    {
+      "mcat_id": "156787",
+      "mcat_name": "Induction Cooktop"
+    }
+  ]
+}

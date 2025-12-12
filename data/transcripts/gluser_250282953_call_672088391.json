@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672088391",
+  "gluser_id": "250282953",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Sojat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682978",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello?\\nExecutive: Haan sir boliye. \\nExecutive: Theek hai sir aap mujhe name vagaira likh ke dijiyega aap notice kariyega theek hai? \\nExecutive: Abhi ke liye sir mujhe ye concern close karne dijiye theek hai? \\nExecutive: Aur feedback please zarur dijiyega aapke feedback bahut important hota hai hamare liye.\\nExecutive: Haan ji.\\nExecutive: Sir close karne dijiye.\\nExecutive: Haan ye close kar lijiye theek hai. \\nExecutive: Theek hai. \\nExecutive: Lekin sir mujhe feedback zarur dijiyega woh bahut important hota hai hamare liye. \\nExecutive: Theek hai sir.\\nExecutive: Theek hai. \\nExecutive: Okay. \\nExecutive: Okay thank you sir thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- Asked to provide name.\\n\n- Asked to provide feedback.\\n\n- Requested to close the concern.\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nfeedback, close concern\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 40,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e3e0589a-1e4a-465e-a5d8-e789e6d49f88",
+  "ucid": "e3e0589a-1e4a-465e-a5d8-e789e6d49f88",
+  "seller_categories": [
+    {
+      "mcat_id": "106132",
+      "mcat_name": "Multani Mitti"
+    },
+    {
+      "mcat_id": "1841",
+      "mcat_name": "Henna Powder"
+    },
+    {
+      "mcat_id": "11917",
+      "mcat_name": "Garlic Powder"
+    },
+    {
+      "mcat_id": "7336",
+      "mcat_name": "Neem Powder"
+    },
+    {
+      "mcat_id": "2607",
+      "mcat_name": "Turmeric Powder"
+    }
+  ]
+}

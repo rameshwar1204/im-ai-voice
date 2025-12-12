@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667509672",
+  "gluser_id": "35458477",
+  "vintage_months": 2,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Gwalior",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635648",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji\\nExecutive: Namaste sir, main Shreeman baat kar raha hu IndiaMART se.\\nCustomer: Haan sir, arey main isliye phone lagaya tha, madam ka phone aaya tha, Ruchi madam ka.\\nExecutive: Ji ji sir.\\nCustomer: Toh unse baat ho gayi, woh keh rahe hain, hafte bhar mein aapka payment ho jayega. Toh isliye main aapko phone lagaya tha.\\nExecutive: Achha achha, haan sir matlab.\\nCustomer: Wohi information karna tha.\\nExecutive: Jo service hai na, woh aaj raat se band ho jayegi. Aur aapka refund sir 10 din mein hoga, 10 din mein, maximum.\\nCustomer: Achha.\\nExecutive: 10 din mein ho jayega na sir?\\nExecutive: Haan, 10 din mein refund ho jayega aapka. Baaki abhi toh koi aur issue nahi hai na sir?\\nCustomer: Theek hai sir.\\nCustomer: Nahi nahi, bas refund ho jayega, phir kya ka issue sir?\\nExecutive: Theek theek hai sir.\\nCustomer: Theek hai sir. Sir iska kuch message wagera aayega na?\\nExecutive: Haan aapke account mein aayega na woh paisa.\\nCustomer: Nahi account mein aayega, matlab pata bhi toh rahegi mere ko, haan aa raha hai. Toh main check kar lunga, matlab message wagera aayega ki nahi aayega?\\nExecutive: Kya sir?\\nExecutive: Haan sir aapko ek message aayega, refund hone ke baad sir.\\nCustomer: Hello.\\nCustomer: Hmm.\\nCustomer: Haan theek hai, theek hai.\\nCustomer: Theek hai sir. Main 10, 10 din ke andar ho jayega na sir?\\nExecutive: Haan sir.\\n\\nCustomer: Hello.\\nCustomer: Haan sir.\\nExecutive: Haan sir main yeh bol raha hu, abhi, abhi aapke paas ek feedback ka form aayega. Toh aap mail pe, haan toh waha pe na yes click kar dena ek baar. Aur toh koi aur issue toh nahi rahega aapko?\\nCustomer: Achha.\\nCustomer: Nahi nahi.\\nExecutive: Aapka refund chala jayega, IndiaMART ki taraf se aapko message aa jayega. Aur jab aapka kitna refund gaya hai, uska jo bhi rahega woh sab kuch aa jayega aapko.\\nCustomer: Haan madam bol rahi thi 32,000 mein se do mahine ka payment katega.\\nExecutive: Achha achha.\\nCustomer: Haan woh do mahine ka kitna, matlab 32,000 ka aap 12 mein bhag kar do. Toh do mahine ka payment katega, matlab 10 mahine ka mere ko wapas mil jayega.\\nExecutive: Theek theek sir, woh jitna bhi katega woh aapke paas aa jayega, baaki main inform kar dunga sir aapko.\\nCustomer: Chalo theek hai, dhanyavaad sir.\\nExecutive: Theek hai, theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about refund status.\\n\n- Customer asked about receiving a message.\\n\n\\n\nResolution:\\n\n- Executive confirmed refund will be processed in 10 days.\\n\n- Executive confirmed customer will receive a message.\\n\n- Executive informed about feedback form.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, feedback\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 160,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=98f9419a-9a22-4c11-be27-7b011e2bf4f8",
+  "ucid": "98f9419a-9a22-4c11-be27-7b011e2bf4f8",
+  "seller_categories": [
+    {
+      "mcat_id": "121177",
+      "mcat_name": "Kids Cotton Shirts"
+    },
+    {
+      "mcat_id": "216655",
+      "mcat_name": "Kids Printed Shirts"
+    },
+    {
+      "mcat_id": "121176",
+      "mcat_name": "Kids Check Shirts"
+    },
+    {
+      "mcat_id": "10491",
+      "mcat_name": "Kids Wear"
+    },
+    {
+      "mcat_id": "4580",
+      "mcat_name": "Boys Shirts"
+    }
+  ]
+}

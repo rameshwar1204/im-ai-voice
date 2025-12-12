@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670032225",
+  "gluser_id": "15467891",
+  "vintage_months": 88,
+  "bl_dau_oct": 26,
+  "customer_type": "LEADER",
+  "city_name": "Meerut",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638907",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji good evening sir, main baat kar raha hu IndiaMART se.\\nExecutive: Ji bolo.\\nCustomer: Sir wo aapka concern tha na ye wala kya kehte hai pages wala to maine uske liye aapko call kiya tha abhi se wo maine mam ko bhi bataya tha ki wo sir aapke end se ja sakti hai agar aap niche team se baat kar le kyuki unhone images se watermark laga liya hai.\\nExecutive: Koi baat nahi aap concern close kar do.\\nCustomer: Thik hai sir wahi main isliye call kiya tha aapko. Ek wo jo kya naam hai aapke junior ka kya naam hai uska?\\nCustomer: Ujjwal.\\nCustomer: Ujjwal unka phone kabhi aata nahi hai aur aap miss call show hoti hai mere pass jab bhi show hoti hai. Subah ki hai mere pass miss call.\\nExecutive: Block to nahi hai sir wo aapke end pe?\\nCustomer: Block to nahi hai number jo hai. Par jaise main abhi dekh raha tha do ghante pehle eight two hai na unke last mein to miss call show hui thi subah ki miss call hai. Kal ki bhi hai unki ek miss call.\\nExecutive: Ji ji check karwata hu. Aapke number mein koi issue hai.\\nCustomer: Ji thik hai.\\nExecutive: Sir main ek baar baat karwata hu. Thik hai.\\n\\n",
+  "summary": "\\n\nConcerns:\\n\n- Watermark issue on images.\\n\n- Ujjwal's calls not connecting, only missed calls.\\n\n\\n\nResolution:\\n\n- Executive asked to close the concern.\\n\n- Assured to check Ujjwal's call issue.\\n\n\\n\nNext Steps: \\n\n- Executive will check the issue.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- watermark, images, missed calls, junior\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 69,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=cdacfbab-d3ee-4b31-8136-2683e6363c2c",
+  "ucid": "cdacfbab-d3ee-4b31-8136-2683e6363c2c",
+  "seller_categories": [
+    {
+      "mcat_id": "68241",
+      "mcat_name": "Indoor Water Fountains"
+    },
+    {
+      "mcat_id": "30661",
+      "mcat_name": "Indoor Fountain"
+    },
+    {
+      "mcat_id": "14098",
+      "mcat_name": "Fiberglass Fountain"
+    },
+    {
+      "mcat_id": "165907",
+      "mcat_name": "FRP Fountains"
+    },
+    {
+      "mcat_id": "72799",
+      "mcat_name": "Water Fountain"
+    }
+  ]
+}

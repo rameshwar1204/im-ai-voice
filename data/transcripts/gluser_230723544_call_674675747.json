@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674675747",
+  "gluser_id": "230723544",
+  "vintage_months": 14,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Mansa",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9702602",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Baat kar chuki main ne clear nahi tha complaint.\\nCustomer: Nahi nahi video dekh ke liye complaint kiya tha.\\n[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Complaint was not clear.\\n\n- Complaint was made to watch the video.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ncomplaint, video\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 15,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1587f7ef-0bb6-47d7-9975-88f843b2ab99",
+  "ucid": "1587f7ef-0bb6-47d7-9975-88f843b2ab99",
+  "seller_categories": [
+    {
+      "mcat_id": "651654",
+      "mcat_name": "Mycorrhizal Bio Fertilizer"
+    },
+    {
+      "mcat_id": "156355",
+      "mcat_name": "Vesicular Arbuscular Mycorrhiza"
+    },
+    {
+      "mcat_id": "222754",
+      "mcat_name": "Phosphate Rich Organic Manure (PROM)"
+    },
+    {
+      "mcat_id": "157681",
+      "mcat_name": "Zyme Granules and Liquid"
+    },
+    {
+      "mcat_id": "144417",
+      "mcat_name": "Phosphate Solubilizing Bacteria"
+    }
+  ]
+}

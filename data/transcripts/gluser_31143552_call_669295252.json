@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669295252",
+  "gluser_id": "31143552",
+  "vintage_months": 1,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Howrah",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9723466",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nExecutive: Ji ji ji 12 baje 12 baje nahi to 3 baje tak\\nCustomer: 12 baje madam\\nExecutive: Ha sir ek aapko 10 minute ke kareeb phone kar rahe hain sir.\\nCustomer: Ha theek hai 12 baje\\nExecutive: Actually wo meeting mein hai na\\nExecutive: Actually sir meeting mein hai wo hardly 10 minutes mein ho jayega wo call connect hum kar lenge aapko.\\nCustomer: Ha theek hai\\nExecutive: Right sir.\\nExecutive: Hanji hanji\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants a call at 12 PM.\\n\n\\n\nResolution:\\n\n- Executive confirmed a call in 10 minutes.\\n\n- Informed about the meeting.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call, meeting, time\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 53,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a99bfbff-a2c9-4223-8343-30fbdf61eb2f",
+  "ucid": "a99bfbff-a2c9-4223-8343-30fbdf61eb2f",
+  "seller_categories": [
+    {
+      "mcat_id": "43063",
+      "mcat_name": "Computer AMC Services"
+    },
+    {
+      "mcat_id": "127458",
+      "mcat_name": "CCTV Installation Services"
+    },
+    {
+      "mcat_id": "43208",
+      "mcat_name": "Video Conferencing Services"
+    },
+    {
+      "mcat_id": "94806",
+      "mcat_name": "IT Solutions"
+    },
+    {
+      "mcat_id": "7348",
+      "mcat_name": "Networking Solutions"
+    }
+  ]
+}

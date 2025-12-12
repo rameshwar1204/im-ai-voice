@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669837220",
+  "gluser_id": "128225149",
+  "vintage_months": 37,
+  "bl_dau_oct": 23,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9661518",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[ Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- Wants refund of subscription amount.\\n\n- Wants to know about the verification call.\\n\n\\n\nResolution:\\n\n- Explained the verification call process.\\n\n- Initiated the refund process.\\n\n\\n\nNext Steps: \\n\n- Issue resolved\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, subscription, verification\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 22,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d2aa1e93-6706-4529-aadd-d0ab800b332c",
+  "ucid": "d2aa1e93-6706-4529-aadd-d0ab800b332c",
+  "seller_categories": [
+    {
+      "mcat_id": "190910",
+      "mcat_name": "Catering Counter"
+    },
+    {
+      "mcat_id": "24540",
+      "mcat_name": "Catering Equipment"
+    },
+    {
+      "mcat_id": "153420",
+      "mcat_name": "Buffet Table"
+    },
+    {
+      "mcat_id": "42659",
+      "mcat_name": "Service Counter"
+    },
+    {
+      "mcat_id": "148583",
+      "mcat_name": "Stainless Steel Sheet Cutting Services"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675076538",
+  "gluser_id": "213093846",
+  "vintage_months": 4,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Greater Noida",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701966",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello. Yah high Vishal se Amita baat kar rahi thi.\\nExecutive: Hanjiya.\\nCustomer: Hanji kal baat hui thi na sir aap se. Aapne kaha tha aap update karenge regarding your concern aapne kaha tha images vagera mein kuch changes karane add on karana hai kuch.\\nExecutive: Sir India Mart ki baat kar rahe aap?\\nCustomer: Bilkul bilkul Amita baat kar rahi thi India Mart doctor se.\\nExecutive: Sir main aapko WhatsApp pe share kar de raha hu ek baar hai na.\\nExecutive: Haan aap please share kijiye so that main accordingly usse kaam karwana chalu karu sir.\\nExecutive: Theek hai theek hai.\\nExecutive: Theek hai okay sir.\\nExecutive: Sir images bhi share ki thi lekin hui nahi thi aapko bhi kar de raha hu hai na.\\nExecutive: Actually Parul is not available na wo kuch family function ki vajah se aa nahi payi.\\nExecutive: Theek hai theek hai aap mujhe bhej dijiye.\\nCustomer: Okay mam main bhejta hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Update regarding changes to images.\\n\n- Additions to images.\\n\n\\n\nResolution:\\n\n- Executive will share updates on WhatsApp.\\n\n- Customer to share images.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Customer will send images for changes and additions.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nimages, changes, whatsapp\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 59,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a05ec2b4-7610-4097-ad88-419a1c65a4b9",
+  "ucid": "a05ec2b4-7610-4097-ad88-419a1c65a4b9",
+  "seller_categories": [
+    {
+      "mcat_id": "182955",
+      "mcat_name": "Allen Cooper Safety Shoes"
+    },
+    {
+      "mcat_id": "8367",
+      "mcat_name": "Safety Shoes"
+    },
+    {
+      "mcat_id": "189356",
+      "mcat_name": "Tiger Safety Shoes"
+    },
+    {
+      "mcat_id": "81086",
+      "mcat_name": "Safety Jacket"
+    },
+    {
+      "mcat_id": "8305",
+      "mcat_name": "Rubber Hand Gloves"
+    }
+  ]
+}

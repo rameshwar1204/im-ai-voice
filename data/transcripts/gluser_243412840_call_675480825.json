@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675480825",
+  "gluser_id": "243412840",
+  "vintage_months": 3,
+  "bl_dau_oct": 10,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Kalamnuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709997",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan bolo.\\nExecutive: Haan ji Santosh sir Hemant baat kar raha tha IndiaMART se sir.\\nCustomer: Haan bolo.\\nExecutive: Main keh raha tha sir ki abhi isko\\nExecutive: Baat hui thi maine use karte hain sir hum guide karte hain by lead vagera share karte hain aap use karo theek hai. Ye WhatsApp number hai sir aapka?\\nCustomer: Haan haan.\\nExecutive: Haan by lead vagera batate hain sir aur sir minimum order quantity aap mujhe bataoge sir minimum order quantity kitni rahegi aapki?\\nCustomer: Abhi sir dekho sir abhi mere paas to maal nahi hai.\\nExecutive: Achha.\\nCustomer: Offline maal nahi hai na business to main tumko bola to kaise bata sakta hu main yaha pe sir de sakta hu.\\nExecutive: Main samajh gaya sir. Theek hai ye sir dekho abhi maal nahi hai sir aisa nahi hai na ki maal hoga nahi. Maalo sir aap businessman ho trading karte ho to kahin na kahin kisi se bhi aap manufacturer se to connect karoge hi ki bhai mere paas grahak hai lena chahta hai to aise karke to aap deal kar hi loge sir mujhe to sikhana nahi padega aapko sir already sari chije pata hai. Baki sir aap use karo hum aur bhi dekhte hain aapke liye kya kar sakte hain koi aur bhi product hai sir aapka jisme aapke paas product hai maal hai available to aapko product add kara sakte ho sir koi dikkat nahi hai. Aap hame bol do main add kar denge usko.\\nCustomer: Theek hai dekhte hain sir.\\nExecutive: Theek hai aur sir ek chij aur bol raha tha aapne hamare customer care number pe phone kiya tha aapne ye shikayat matlab jo bhi aapne concern raise kiya tha iske liye. Theek hai to ye sir aapko kabhi bhi abhi koi issue aata hai jaise aapko koi dikkat aati hai mera number save kar lo theek hai. Baki koi dikkat aata hai sir Rahul ka number hai us pe bhi call kar lijiyega sir theek hai.\\nCustomer: Oh sir okay.\\nExecutive: Theek hai abhi main ye ticket close kar du na sir isme koi dikkat?\\nCustomer: Kya kya sir?\\nExecutive: Main keh raha tha ji jo aapne hamare customer care number pe phone kiya tha jo concern raise kiya tha to ye main close karunga sir theek hai. To ye hamare liye feedback jayega aapne jo concern raise kiya tha wo resolve ho gaya aap use karoge services. Theek hai baki koi dikkat aati hai to aap hame bataoge ki haan ye dikkat aari isko dobara se solve karo theek hai sir to main isko close kar du?\\nCustomer: Haan haan theek hai theek hai.\\nExecutive: Theek hai na sir?\\nCustomer: Okay.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Minimum order quantity.\\n\n- Customer care number issue.\\n\n\\n\nResolution:\\n\n- Explained about by leads and order quantity.\\n\n- Provided contact information for future issues.\\n\n- Closed the customer care ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, order quantity, customer care, ticket closure\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 132,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=49aa9383-62a3-413d-9d5b-a0a8d376f774",
+  "ucid": "49aa9383-62a3-413d-9d5b-a0a8d376f774",
+  "seller_categories": [
+    {
+      "mcat_id": "36251",
+      "mcat_name": "Red Onion"
+    },
+    {
+      "mcat_id": "11877",
+      "mcat_name": "Garam Masala"
+    },
+    {
+      "mcat_id": "69245",
+      "mcat_name": "Fresh Garlic"
+    },
+    {
+      "mcat_id": "84784",
+      "mcat_name": "Green Banana"
+    },
+    {
+      "mcat_id": "8067",
+      "mcat_name": "Red Chilli Powder"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674901039",
+  "gluser_id": "46527611",
+  "vintage_months": 76,
+  "bl_dau_oct": 15,
+  "customer_type": "TSCATALOG",
+  "city_name": "Hapur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9709813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nCustomer: Hello\\nExecutive: Ji boliye.\\nCustomer: Vivek bol raha hu, mere ko kuch ek to nayi hiring hui hai to uske regarding unhe samjhana hai kaise work karega IndiaMART.\\nAur baki ka jo ek number add karna tha.\\nExecutive: Kin ka?\\nCustomer: Jo hiring hui hai jo hamare staff mein aaye hai.\\nExecutive: Company ka naam bata sakte hai sir aap?\\nCustomer: SKB OST Solution.\\nExecutive: Ek baar main aapko karwata hu waha se, abhi main chutti pe hu. Main aapko waha se office se karwata hu call.\\nCustomer: Chaliye, theek hai karwa dijiye. Main discuss aapko.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to understand how IndiaMART works.\\n\n- Wants to add a number.\\n\n\\n\nResolution:\\n\n- Executive will call from the office.\\n\n\\n\nNext Steps: \\n\n- Executive will call from the office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- hiring, number, add\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=51f6f350-1390-44d3-aca7-f3dd11e09a31",
+  "ucid": "51f6f350-1390-44d3-aca7-f3dd11e09a31",
+  "seller_categories": [
+    {
+      "mcat_id": "154471",
+      "mcat_name": "Hybrid Solar Inverter"
+    },
+    {
+      "mcat_id": "37340",
+      "mcat_name": "Solar Power Systems"
+    },
+    {
+      "mcat_id": "37335",
+      "mcat_name": "Solar Panels"
+    },
+    {
+      "mcat_id": "100299",
+      "mcat_name": "Monocrystalline Solar Panel"
+    },
+    {
+      "mcat_id": "202031",
+      "mcat_name": "Adani Solar Panels"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668681516",
+  "gluser_id": "187195418",
+  "vintage_months": 0,
+  "bl_dau_oct": 15,
+  "customer_type": "CATALOG",
+  "city_name": "Bhangar Raghunathpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9654525",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji bataiye.\\nCustomer: Haan woh Shahrukh Khan se aap thoda connect kara sakte hain? Relationship manager.\\nCustomer: Shahrukh Khan.\\nExecutive: Aapki company kaun si hai sir?\\nCustomer: SG trading company.\\nExecutive: SG trading company?\\nCustomer: Haan haan.\\nExecutive: Ek minute sir. Haan haan Shahrukh ji relationship manager aisa hi hua hai unka number bhi mera message mein aaya hai par uska unka number na serviceable nahi bol raha hai.\\nExecutive: Aapke relationship matlab unka manager ji ka naam kya hai sir?\\nCustomer: Shahrukh Khan.\\nCustomer: Shahrukh Khan.\\nExecutive: Accha haan. Main main ek minute apne isme check kar le raha hu and unka number aapko bata de raha hu. SG aapki company ka naam SG trading company hai?\\nCustomer: Haan haan ekdum sir.\\nExecutive: Delhi se hai sir?\\nCustomer: Delhi se nahi hai Kolkata.\\nExecutive: Accha.\\n\\nExecutive: Sir aapke account manager Utkarsh hai ki pehle Shahrukh ji the ab Shahrukh accha ab main hu Utkarsh hu toh rukiye main aapko call back kar raha hu apne number se, theek hai?\\nCustomer: Utkarsh aapka naam Utkarsh hai.\\nExecutive: Ji main aapko apne woh number se call kar raha hu jo aap save kar lijiyega apne paas, theek hai?\\nCustomer: Theek hai theek hai theek hai. Main kar raha hu aapko call back.\\nExecutive: Theek hai.",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to connect with Shahrukh Khan.\\n\nResolution:\\n\n- Executive informed customer Utkarsh is account manager.\\n\n- Executive will call back from his number.\\n\n\\n\nNext Steps: \\n\n- Executive will call back.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- account manager, call back, company name\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 148,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=00298bbd-3fdf-4fa0-8d50-a6d36727ed4f",
+  "ucid": "00298bbd-3fdf-4fa0-8d50-a6d36727ed4f",
+  "seller_categories": [
+    {
+      "mcat_id": "178319",
+      "mcat_name": "Dialyzer"
+    },
+    {
+      "mcat_id": "21601",
+      "mcat_name": "Adult Diapers"
+    },
+    {
+      "mcat_id": "155137",
+      "mcat_name": "Nebulizer Mask"
+    },
+    {
+      "mcat_id": "215777",
+      "mcat_name": "Fresenius Dialysis Machine"
+    },
+    {
+      "mcat_id": "1149",
+      "mcat_name": "Surgical Gloves"
+    }
+  ]
+}

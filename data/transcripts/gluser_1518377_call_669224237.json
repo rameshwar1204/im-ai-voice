@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669224237",
+  "gluser_id": "1518377",
+  "vintage_months": 27,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kannur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9650594",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello. Yeah, good morning, sir.\\nCustomer: Good morning. Sir.\\nExecutive: Sir, I'm Ashish. I'm Ashish calling you from IndiaMART, sir. Yeah, you can call me, I think 2:00 o'clock.\\nExecutive: Oh, when, sir?\\nCustomer: Yeah. So you can call me 2:00 o'clock, 2:00 o'clock.\\nExecutive: Okay, sir, okay. I will connect. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants the executive to call at 2:00.\\n\n\\n\nResolution:\\n\n- Executive agreed to call the customer at 2:00.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call schedule, follow up\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a2a9552e-84d7-4ac2-9ac3-5c2a5541aafa",
+  "ucid": "a2a9552e-84d7-4ac2-9ac3-5c2a5541aafa",
+  "seller_categories": [
+    {
+      "mcat_id": "136566",
+      "mcat_name": "Mehandi Cone"
+    },
+    {
+      "mcat_id": "122611",
+      "mcat_name": "Banana Fiber"
+    },
+    {
+      "mcat_id": "28652",
+      "mcat_name": "Fly Ash Bricks"
+    },
+    {
+      "mcat_id": "20967",
+      "mcat_name": "Onion Seeds"
+    },
+    {
+      "mcat_id": "147241",
+      "mcat_name": "Interlocking Tiles"
+    }
+  ]
+}

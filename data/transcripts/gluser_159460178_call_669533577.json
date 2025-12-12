@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669533577",
+  "gluser_id": "159460178",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Ghaziabad",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9656575",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Haan ji.\\nExecutive: Ek minute sir. Haan ji.\\nCustomer: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji sir. Good evening sir. Good evening, good evening.\\nCustomer: Haan boliye.\\nExecutive: Mai Deepak baat kar raha hu sir IndiaMART se.\\nCustomer: Boliye ji.\\nExecutive: Aapko primary number change karna tha aapke profile pe usi se regarding maine aapko call kiya tha.\\nCustomer: Kya cheez? Kya number kya keh rahe?\\nExecutive: Aapko apna is profile mein mobile number change karwana tha na uske liye call kiya tha sir maine.\\nCustomer: Mere staff se baat ho rahi thi morning mein kar lijiyega na aap.\\nExecutive: Morning mein kar lu sir?\\nCustomer: Haan morning mein kar lijiyega time thodi hai abhi to unke nikalne ka time ho gaya hai abhi.\\nExecutive: Abhi baat nahi ho payegi unse?\\nCustomer: Nahi sir aap nikal gaye na sir yaha se.\\nExecutive: Theek hai, theek hai kal mai kitne baje call kar lu unko?\\nCustomer: Kal aap 11 baje ke kareeb kar lo sir.\\nExecutive: Theek hai sir, theek hai.\\nExecutive: Sir nahi spam mein nahi hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to change primary number.\\n\n\\n\nResolution:\\n\n- Executive will call back next day.\\n\n\\n\nNext Steps: \\n\n- Executive will call customer next day at 11 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- primary number, profile, change, call back\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 122,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4391f6c2-0c8c-4a38-a1f1-28776421344d",
+  "ucid": "4391f6c2-0c8c-4a38-a1f1-28776421344d",
+  "seller_categories": [
+    {
+      "mcat_id": "147",
+      "mcat_name": "Concrete Mixers"
+    },
+    {
+      "mcat_id": "154583",
+      "mcat_name": "Monkey Hoist Machines"
+    },
+    {
+      "mcat_id": "188235",
+      "mcat_name": "Mini Concrete Mixer"
+    },
+    {
+      "mcat_id": "942",
+      "mcat_name": "Cement Mixers"
+    },
+    {
+      "mcat_id": "144455",
+      "mcat_name": "Bar Bending Machine"
+    }
+  ]
+}

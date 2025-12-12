@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666977576",
+  "gluser_id": "189823413",
+  "vintage_months": 29,
+  "bl_dau_oct": 15,
+  "customer_type": "Catalog PNS Defaulter",
+  "city_name": "Sonipat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9626323",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Oh, hi sir, how are you?\\nExecutive: Parvez bol raha hu IndiaMART se.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haan Rahul ji baat kar rahe hai?\\nExecutive: Nahi, bataiye.\\nCustomer: Okay. Aapka na ek, mujhe call kiya tha aapne kal ke date me.\\nExecutive: Due drop se. Main IndiaMART se baat kar raha hu.\\nCustomer: Achcha. Aap na sir kal phone karna, jo handle karte hai wo aaj zara jaldi chale gaye.\\nExecutive: Chutti pe?\\nCustomer: Chutti pe chale gaye.\\nExecutive: Ye abhi lunch me chale gaye hai. To aap mujhe kal, uh, kal isi number pe aap phone kar lena 10-11 baje.\\nCustomer: Achcha wo chale gaye, wo to keh rahe the ki 3 baje connect karne ke liye.\\nExecutive: Der se baat hui thi to.\\nCustomer: Kab baat hui thi aapki?\\nExecutive: Der se baat hui thi.\\nCustomer: 3 baje connect karne ke liye kaha tha unhone.\\nExecutive: Jo baat karte hai na wo chale gaye abhi chutti pe. Wo kal 11 baje aap phone kar lena.\\nCustomer: Wo Deepanshu hoga, wo utha lega.\\nExecutive: Achcha theek hai.\\nCustomer: Haan ji.\\nExecutive: Ek second.",
+  "summary": "\\n\\nConcerns:\\n\\n- Executive called back regarding a previous query.\\n- Requested person (Rahul/Deepanshu) was unavailable.\\n\\n\\nResolution:\\n\\n- Informed that the concerned person had left early.\\n- Advised to call back the next day at 10-11 AM.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive to call back the next day between 10-11 AM to speak with Deepanshu.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback, follow-up, unavailability of contact person\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 72,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e694a75b-25ba-4f92-a1df-58367e62098f",
+  "ucid": "e694a75b-25ba-4f92-a1df-58367e62098f",
+  "seller_categories": [
+    {
+      "mcat_id": "87669",
+      "mcat_name": "Stainless Steel Water Bottle"
+    },
+    {
+      "mcat_id": "217154",
+      "mcat_name": "Stainless Steel Feeding Bottle"
+    },
+    {
+      "mcat_id": "142132",
+      "mcat_name": "Insulated Steel Water Bottle"
+    },
+    {
+      "mcat_id": "157346",
+      "mcat_name": "Stainless Steel Vacuum Flask"
+    },
+    {
+      "mcat_id": "40761",
+      "mcat_name": "Vacuum Flask"
+    }
+  ]
+}

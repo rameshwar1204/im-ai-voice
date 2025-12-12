@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666754382",
+  "gluser_id": "124444156",
+  "vintage_months": 56,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Nagaon",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9638460",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nCustomer: Hello.\\nExecutive: Ha hello.\\nCustomer: Yes sir.\\nExecutive: Hello good morning.\\nCustomer: Good morning sir.\\nExecutive: Ha sir kaise hai aap?\\nCustomer: Sir badhiya hai sir. Sir aap kaise hai sir?\\nExecutive: Ji Nitesh sir baat kar rahe hai?\\nCustomer: Yes sir Nitesh ji baat kar rahe hai.\\nExecutive: Company name sir?\\nCustomer: Hello.\\nExecutive: Ha hello company name sir?\\nCustomer: A S Agro Enterprise.\\nExecutive: Shabbir baat kar rahe hai?\\nCustomer: Shabbir baat kar rahe hai Shabbir.\\nExecutive: Ha sir hum se baat kar raha hai S Agro Enterprise.\\nCustomer: Yes sir. Ha ha S Agro bataiye sir bataiye.\\nExecutive: Ha sir aur kya hai?\\nCustomer: Ha kya hai?\\nCustomer: Hello.\\nExecutive: Ha hello bataiye sir.\\nCustomer: Hello matlab package ke bare mein package ke bare mein baat karna tha.\\nExecutive: Package ke bare mein sir?\\nCustomer: Vahi package ke bare mein baat karna tha payment vagaira karana tha sir.\\nExecutive: Okay okay okay okay sir karana tha. Ha bataiye sir bataiye.\\nCustomer: To aapke pass to personal number bhi mera hai na sir 7323 wala.\\nExecutive: Ek second rukiye.\\nCustomer: Kya?\\nCustomer: 73 2 7323 80 ha.\\nCustomer: 9802.\\nExecutive: 809802. 2 ha ye wali number.\\n(silence)\\nThe person you are speaking with has put your call on hold. Please stay on the line.\\n(silence)\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to discuss package and payment.\\n\n- Wants to use personal number for communication.\\n\n\\n\nResolution:\\n\n- Executive put the call on hold.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- package, payment, personal number\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 135,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=afc13b9a-af49-4065-b4a5-dafe51261a66",
+  "ucid": "afc13b9a-af49-4065-b4a5-dafe51261a66",
+  "seller_categories": [
+    {
+      "mcat_id": "177237",
+      "mcat_name": "Black Turmeric"
+    },
+    {
+      "mcat_id": "50075",
+      "mcat_name": "Bamboo Plants"
+    },
+    {
+      "mcat_id": "136717",
+      "mcat_name": "Agar Plant"
+    },
+    {
+      "mcat_id": "154954",
+      "mcat_name": "Red Sandalwood Plants"
+    },
+    {
+      "mcat_id": "186982",
+      "mcat_name": "Mahogany Plants"
+    }
+  ]
+}

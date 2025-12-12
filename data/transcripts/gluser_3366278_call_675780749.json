@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675780749",
+  "gluser_id": "3366278",
+  "vintage_months": 1,
+  "bl_dau_oct": 28,
+  "customer_type": "TSCATALOG",
+  "city_name": "Bhinmal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9714502",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir, good morning.\\nCustomer: Good morning sir.\\nExecutive: Uh sir, aapne abhi woh call back request dali thi IndiaMART mein.\\nCustomer: Main, main aapko ek mera GST number naya wala deta hu.\\nExecutive: Haan.\\nCustomer: Gujarat, usme update kar lijiye, woh remove kar lijiye Rajasthan wala.\\nExecutive: Matlab samjha nahi main aapko main.\\nCustomer: Mera GST number maine naya liya hai.\\nExecutive: Haan.\\nCustomer: Theek hai na? Toh usme maine address change karwane ke liye naya liya hai. Actually mein hamara office Ahmedabad mein hai. Toh Gujarat mein Rajasthan ke dal ke rakha tha.\\nExecutive: Haan.\\nCustomer: Profile mein. Abhi maine naya le liya hai. Theek hai na? Mere paas aa gaya hai. Toh aap usko submit kijiye. Na ki Rajasthan wala. Usko remove kijiye waha se. Aur naya address ke saath mein aur naya GST number daliye.\\nExecutive: Matlab aap yeh keh rahe hain ki sir jo Chandra Oil Company hai, GST same hai, address change hua hai?\\nCustomer: GST alag hai. Name change hai Chandra Oil Company.\\nExecutive: GST alag hai, name change hai.\\nCustomer: Name same hai, same. Chandra Oil Company naam wohi hai company ka naam. GST alag hai. Haan, ek Rajasthan ka hai, ek Gujarat ka hai. Lekin hamara jo aap mein aapko WhatsApp likh ke bhej raha hu. Aap yeh WhatsApp pe likh ke bhejiye ek baar bhejiye.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to update GST number and address.\\n\n- Wants to remove Rajasthan GST details.\\n\n\\n\nResolution:\\n\n- Executive asked to send details on WhatsApp.\\n\n\\n\nNext Steps: \\n\n- Customer will send details on WhatsApp.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gst, address, update, whatsapp\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 95,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=481505c9-54a2-4cff-934d-bab368a912aa",
+  "ucid": "481505c9-54a2-4cff-934d-bab368a912aa",
+  "seller_categories": [
+    {
+      "mcat_id": "127377",
+      "mcat_name": "Desiccated Coconut Powder"
+    },
+    {
+      "mcat_id": "3904",
+      "mcat_name": "Coconut Oil"
+    },
+    {
+      "mcat_id": "25126",
+      "mcat_name": "Coconut Flakes"
+    },
+    {
+      "mcat_id": "126167",
+      "mcat_name": "Coconut Powder"
+    },
+    {
+      "mcat_id": "216251",
+      "mcat_name": "Refined Coconut Oil"
+    }
+  ]
+}

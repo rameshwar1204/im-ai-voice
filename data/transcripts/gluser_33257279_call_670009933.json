@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670009933",
+  "gluser_id": "33257279",
+  "vintage_months": 79,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Kota",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662499",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji sir, Vivek baat kar raha hu mai IndiaMART se kaise hai aap sir?\\nCustomer: Ha badhiya.\\nExecutive: Aur abhi free hai sir?\\nCustomer: Ha bolo.\\nExecutive: Aapne ek request kiya tha video meeting ke liye right? Aaiye mai aapko guide kar deta hu kaise kaise ye use karna hai sab kuch aur kaha dikkat aa rahi hai bata dijiye aap.\\nCustomer: To right now abhi keh raha tha ki mujhe hai na.\\nExecutive: Ha.\\nCustomer: Ye whatsapp integration ke bare me puchna tha.\\nExecutive: Whatsapp integration na sir, thik hai mai wo bhi guide kar deta hu aapko. Right abhi right now online hai kya?\\nCustomer: Ha abhi aa jaunga mai thoda sa. Abhi kitne baje tak aap last?\\nExecutive: Mai sir waise to 6 baje tak hi rehta hu. Lekin sir aapki request aayi thi to mai abhi baitha hua tha sir. Otherwise mai nikal jaunga.\\nCustomer: Accha.\\nExecutive: Sir yahi online 15-20 minute lagenge.\\nCustomer: Chalo thik hai.\\nExecutive: Aapko meeting invitation diya hai maine, check kariye ek baar.\\nCustomer: Chalo mai ek wo create kar raha tha fir uske baad me mai call karta hu aapko.\\nExecutive: Thik hai sir.\\nCustomer: Thik. Kitni der me ho jayega ye?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to know about WhatsApp integration.\\n\n\\n\nResolution:\\n\n- Executive offered to guide on WhatsApp integration.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after creating something.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- whatsapp integration, video meeting, guide\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 89,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=116435f7-bd9f-464e-9ca5-c18554ee2c30",
+  "ucid": "116435f7-bd9f-464e-9ca5-c18554ee2c30",
+  "seller_categories": [
+    {
+      "mcat_id": "31985",
+      "mcat_name": "Men Wig"
+    },
+    {
+      "mcat_id": "42099",
+      "mcat_name": "Human Hair Wigs"
+    },
+    {
+      "mcat_id": "206895",
+      "mcat_name": "Mirage Hair Wig"
+    },
+    {
+      "mcat_id": "29957",
+      "mcat_name": "Hair Wig"
+    },
+    {
+      "mcat_id": "42931",
+      "mcat_name": "Natural Hair Wigs"
+    }
+  ]
+}

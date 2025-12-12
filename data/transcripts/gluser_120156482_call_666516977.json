@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666516977",
+  "gluser_id": "120156482",
+  "vintage_months": 50,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Chennai",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625887",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello. Hello.\\n\\nCustomer: Uh sir, last week your team was person who contacted us. He told me that he should completed SEO as soon as possible. What is the latest of SEO, sir?\\n\\nExecutive: Sorry?\\n\\nCustomer: Uh my person is contacted contact last week. He called us. You are calling from which company?\\n\\nCustomer: B11 Traders, sir.\\n\\nExecutive: Sorry?\\n\\nCustomer: B11 Traders.\\n\\nExecutive: B11 Traders, okay. Tell me.\\nCustomer: Uh sir. I last week I got a call from your team. He told me that he will completed SC he will complete SEO.\\n\\nExecutive: He will complete? Yes. Uh SEO, sir, SEO.\\n\\nCustomer: Through IndiaMART platform.\\n\\nExecutive: Yeah.\\n\\nExecutive: Can you just share me the number, ma'am?\\n\\nCustomer: I don't have. Please contact us. Actually IndiaMART not promoting any SEO promotion, ma'am.\\n\\nCustomer: Uh huh.\\n\\nExecutive: IndiaMART is not promoting any SEO promotion.\\n\\nCustomer: I this package you told me that SEO and all it will be it will including, no?\\n\\nExecutive: No, no, no.\\nCustomer: Hmm.\\n\\nExecutive: Actually you call on customer care number right now, okay? Today is actually off for IndiaMART, right? So can I connect on Monday, ma'am, please regarding this?\\n\\nCustomer: Okay.\\n\\nExecutive: Actually you already save my number, ma'am. Actually my my name is Rakesh and I'm your account manager. your number. I have your number. If if the call is coming from IndiaMART, the action will be taken from your dedicated management. So that's why my management has told me to call this number. Contact us through IndiaMART app.\\n\\nExecutive: Okay. Actually you call on customer care number, that will directly reflect to your account manager number. That's why I'm telling you, you can directly call me on that number, ma'am, right?\\n\\nCustomer: Yeah, okay, sir. Okay, sir.\\n\\nExecutive: Okay, and I will connect Monday sharp at 11:00 a.m., okay?\\n\\nCustomer: Okay, sir.\\n\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer enquired about the SEO completion status.\\n\n- Customer says she was told SEO is included.\\n\n\\n\nResolution:\\n\n- Executive stated IndiaMART does not promote SEO.\\n\n- Executive said he will connect on Monday.\\n\n- Executive asked customer to call him directly.\\n\n\\n\nNext Steps: \\n\n- Executive will connect on Monday at 11:00 AM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- seo, promotion, customer care\\n\n\\n",
+  "call_entered_on": "11/1/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 158,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=596e84ab-4f45-4d23-9a55-b3419d7ecb83",
+  "ucid": "596e84ab-4f45-4d23-9a55-b3419d7ecb83",
+  "seller_categories": [
+    {
+      "mcat_id": "10868",
+      "mcat_name": "Hydrochloric Acid"
+    },
+    {
+      "mcat_id": "4462",
+      "mcat_name": "Bleaching Powder"
+    },
+    {
+      "mcat_id": "7610",
+      "mcat_name": "Sodium Lauryl Ether Sulphate"
+    },
+    {
+      "mcat_id": "3631",
+      "mcat_name": "Caustic Soda Flakes"
+    },
+    {
+      "mcat_id": "37001",
+      "mcat_name": "Sodium Hypochlorite"
+    }
+  ]
+}

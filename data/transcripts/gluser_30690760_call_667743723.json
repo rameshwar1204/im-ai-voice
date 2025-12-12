@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667743723",
+  "gluser_id": "30690760",
+  "vintage_months": 16,
+  "bl_dau_oct": 7,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lalitpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636897",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nHello\\nExecutive: Haan ji bataiye.\\nCustomer: Haan namaste sir, mai kya computer se bol raha tha.\\nExecutive: Ji sir bataiye.\\nCustomer: Sir mere ko ek issue aa raha tha ki kal maine ek naya isme wo khola tha ki standard wala rehta hai na sir isme.\\nHaan\\nCustomer: Jo latest standard show karta hai na apne by list me jate hai apan.\\nExecutive: Ji ji.\\nCustomer: Sir maine kya kal do line pe dekhe the views pe ja ke usme aage the you have successfully this standard.\\nExecutive: Aapke mail pe aapke mail pe gaya tha wo mail pe dekha tha check kiya tha aapne.\\nCustomer: Accha mail check nahi kare mail pe jata hai kya sir ye.\\nExecutive: Mail pe ha mail pe jata hai mail pe waha se aapko rights milegi waha pe aap usko jo hai form wagera fill kar sakte hai aap.\\nCustomer: Accha abhi aap office me nahi hai kya sir.\\nExecutive: Kijiye ek baar view tender karne ke baad mail pe check kijiye ek baar aap.\\nCustomer: Chalo mai ek baar check kar leta hu. Hmm baki aaj sir office bhi band bhi hai aaj.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer facing issue with new tender.\\n\n\\n\nResolution:\\n\n- Executive asked to check mail for rights.\\n\n\\n\nNext Steps: \\n\n- Customer will check his mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- tender, mail, rights, office\\n\n\\n",
+  "call_entered_on": "11/5/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 91,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=ab9c0baa-3bb0-41b3-b85e-f74b97896e94",
+  "ucid": "ab9c0baa-3bb0-41b3-b85e-f74b97896e94",
+  "seller_categories": [
+    {
+      "mcat_id": "182871",
+      "mcat_name": "Brother Multifunction Printer"
+    },
+    {
+      "mcat_id": "184886",
+      "mcat_name": "HP Laserjet Printer"
+    },
+    {
+      "mcat_id": "180965",
+      "mcat_name": "Brother Laser Printer"
+    },
+    {
+      "mcat_id": "182129",
+      "mcat_name": "Epson Photo Printer"
+    },
+    {
+      "mcat_id": "182397",
+      "mcat_name": "HP Multifunction Printer"
+    }
+  ]
+}

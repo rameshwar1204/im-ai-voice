@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669829765",
+  "gluser_id": "138943270",
+  "vintage_months": 38,
+  "bl_dau_oct": 29,
+  "customer_type": "STAR",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9725813",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nExecutive: Hello?\\nExecutive: Hello?\\n",
+  "summary": "\\n\nConcerns:\\n\n- No concerns expressed.\\n\n\\n\nResolution:\\n\n- No resolution provided.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- none\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 24,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=647a595f-0ab0-476f-b57c-09ef04a32a20",
+  "ucid": "647a595f-0ab0-476f-b57c-09ef04a32a20",
+  "seller_categories": [
+    {
+      "mcat_id": "441885",
+      "mcat_name": "Shilajit Resin"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "177417",
+      "mcat_name": "Shilajit Extract"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    }
+  ]
+}

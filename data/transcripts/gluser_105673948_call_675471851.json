@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675471851",
+  "gluser_id": "105673948",
+  "vintage_months": 4,
+  "bl_dau_oct": 10,
+  "customer_type": "CATALOG",
+  "city_name": "Siliguri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9711691",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji.\\nExecutive: Good afternoon sir.\\nCustomer: Hello?\\nExecutive: Sir mera naam Komal hai, main IndiaMART se baat kar rahi hu aapki account manager.\\nCustomer: Haan ji, haan ji, haan ji madam.\\nExecutive: A, aapne kal mere ko call kara tha na, bataiye ab main concern aapka kya tha? Ki aapko conversion nahi mil raha, right?\\nCustomer: A, madam conversion nahi mil raha hai, haan.\\nExecutive: Na, yahi conversion ka aapka tha, thik hai.\\nExecutive: To main ek kaam karti hu, main video meet abhi schedule kar rahi hu, aapko link aayega email ke through, aap usko please join kar lijiye.\\nCustomer: Thik hai madam.\\nExecutive: Thik hai.\\nCustomer: Haan.\\nExecutive: Aap check kariye aapke mail pe aaya hoga.\\nCustomer: Okay madam, ek second.\\n\\nCustomer: Haan, sahi hai madam.\\nExecutive: Kya kar rahe sir?\\nCustomer: Join kiya join.\\nExecutive: Thik hai, thik hai, main aa rahi hu.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting conversions.\\n\n\\n\nResolution:\\n\n- Executive scheduled a video meet.\\n\n- Executive sent the meeting link to customer's email.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- conversion, video meet, email\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 100,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d4d5d43c-5bc6-4fc4-beef-d08ae362e474",
+  "ucid": "d4d5d43c-5bc6-4fc4-beef-d08ae362e474",
+  "seller_categories": [
+    {
+      "mcat_id": "39669",
+      "mcat_name": "Tea Leaves"
+    },
+    {
+      "mcat_id": "143826",
+      "mcat_name": "CTC Tea"
+    },
+    {
+      "mcat_id": "105919",
+      "mcat_name": "Tea"
+    },
+    {
+      "mcat_id": "114244",
+      "mcat_name": "Loose Tea"
+    },
+    {
+      "mcat_id": "4449",
+      "mcat_name": "Black Tea"
+    }
+  ]
+}

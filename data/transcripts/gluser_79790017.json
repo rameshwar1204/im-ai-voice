@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671816123",
+  "gluser_id": "79790017",
+  "vintage_months": 0,
+  "bl_dau_oct": 20,
+  "customer_type": "TSCATALOG",
+  "city_name": "Lucknow",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9679221",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello. Ha sir, Satyam baat kar raha tha IndiaMART se, kaise hain aap?\\nCustomer: Ji namaskar sir, badhiya sir, boliye bataiye sir.\\nExecutive: Thik hai. Sir aapka na ek customer care pe kal call aaya tha hamare paas. To kya issue aa raha hai hame?\\nCustomer: Vahi live karna tha sir, live ho gaya hai.\\nExecutive: Achcha achcha.\\nExecutive: Aur service ke regarding koi issue to nahi hai sir hame?\\nCustomer: Ab to nahi koi issue hai.\\nExecutive: Thik hai, in case sir service to abhi aapki live ho gayi hai, aap leads consume kariye daily basis pe aur try kariye ki jitni fresh leads hai jo abhi abhi recently aayi hai IndiaMART pe wo consume kariye aap. Aur daily basis pe alag alag cities ki jahan se aap dealing karte hain unki aap lead consume karoge to preferred location aur jyada aapki increase ho jayegi.\\nCustomer: Thik hai sir.\\nExecutive: Aur uske alawa aapka rating agar aap dekhoge na to hamara jo rating hai review mila hua hai wo char logo ne hame rating diya hai 3.8 star.\\nExecutive: To aap try karna ki rating increase karna profile ki jitna jyada aapke paas rating rahegi utna jyada aapke paas fir matlab inquiry aur calls aayenge kyunki online market mein log rating dekh ke hi aapko call ya inquiry karte hain profile ki.\\nCustomer: Hmm hmm.\\nExecutive: To aap ye kariye baki ye ticket mein sir yahan se close kar de raha hun. Aapke paas ek mail pe feedback aayega usme aap please feedback de dena.\\nCustomer: Thik thik kar denge sir.\\nExecutive: Okay sir, okay thank you.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wanted to make his service live.\\n\n\\n\nResolution:\\n\n- Executive confirmed service is live.\\n\n- Executive explained how to consume leads.\\n\n- Executive explained the importance of ratings.\\n\n- Executive closed the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer will provide feedback on mail.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- subscription, leads, rating, profile\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 105,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bcd3b798-35ce-4819-8816-ee8fda2d2904",
+  "ucid": "bcd3b798-35ce-4819-8816-ee8fda2d2904",
+  "seller_categories": [
+    {
+      "mcat_id": "114113",
+      "mcat_name": "Paper Plate Raw Material"
+    },
+    {
+      "mcat_id": "147110",
+      "mcat_name": "Silver Paper Plates Raw Material"
+    },
+    {
+      "mcat_id": "187585",
+      "mcat_name": "Dona Paper Roll"
+    },
+    {
+      "mcat_id": "1443",
+      "mcat_name": "Paper Plate"
+    },
+    {
+      "mcat_id": "7170",
+      "mcat_name": "Polythene Bags"
+    }
+  ]
+}

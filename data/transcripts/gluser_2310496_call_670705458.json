@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670705458",
+  "gluser_id": "2310496",
+  "vintage_months": 100,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Rajpura",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9669709",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Hello.\\nExecutive: Hello. Very good afternoon sir.\\nCustomer: A very good afternoon sir.\\nExecutive: Hello. Aapko meri voice aa rahi hai?\\nCustomer: Hello. Aapko meri voice aa rahi hai?\\nExecutive: Hello.\\nCustomer: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 21,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=27357599-1af1-4633-a2bc-31a52c905137",
+  "ucid": "27357599-1af1-4633-a2bc-31a52c905137",
+  "seller_categories": [
+    {
+      "mcat_id": "184522",
+      "mcat_name": "Detergent Enzyme"
+    },
+    {
+      "mcat_id": "3738",
+      "mcat_name": "Chemical Preservatives"
+    },
+    {
+      "mcat_id": "193038",
+      "mcat_name": "Methylisothiazolinone"
+    },
+    {
+      "mcat_id": "96068",
+      "mcat_name": "Detergent Fragrance"
+    },
+    {
+      "mcat_id": "43155",
+      "mcat_name": "Biocides"
+    }
+  ]
+}

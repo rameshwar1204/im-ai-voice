@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670035049",
+  "gluser_id": "214802960",
+  "vintage_months": 3,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Bhind",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9663526",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello?\\nCustomer: Ji madam.\\nExecutive: Hello?\\nExecutive: Haan Aditi main hi bol rahi hun ki maine aapka concern aage bhej diya hai. Maine aapko ye jo ye jo photo bheji hai isi ka aap proof hai. Aap log ye na samjhe ki aage kaam nahi chal raha hai ya team kuch nahi action legi. Maine aage forward kar di aur aapke paas abhi ek mail aayegi satisfaction wali.\\nCustomer: Ji.\\nExecutive: Kal aane wali thi.\\nCustomer: Ji.\\nCustomer: Madam aap baat agar mera thoda chalo main\\nExecutive: Main kar leta hun us number pe baat kar lenge.\\nCustomer: Kya?\\nCustomer: Aapke us number pe baat kar main call kar leta hun main abhi.\\nExecutive: Aap mujhe call kar lena lekin aapko to mail aayegi na aap usko ek baar wo yes kar dena.\\nCustomer: Ji main dekh lunga. Theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Concern about work not progressing.\\n\n\\n\nResolution:\\n\n- Informed concern has been forwarded.\\n\n- Informed proof is the photo sent.\\n\n- Informed a satisfaction mail will be received.\\n\n\\n\nNext Steps: \\n\n- Issue resolved.\\n\n- Customer will receive a satisfaction mail.\\n\n- Customer will confirm after checking.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- concern, satisfaction mail, proof\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 58,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b36da1bf-8713-4ef4-9066-31a2fc3e9328",
+  "ucid": "b36da1bf-8713-4ef4-9066-31a2fc3e9328",
+  "seller_categories": [
+    {
+      "mcat_id": "4935",
+      "mcat_name": "Ashwagandha Roots"
+    },
+    {
+      "mcat_id": "4937",
+      "mcat_name": "Ashwagandha Powder"
+    },
+    {
+      "mcat_id": "4751",
+      "mcat_name": "Amla Powder"
+    },
+    {
+      "mcat_id": "150749",
+      "mcat_name": "Triphala Powder"
+    },
+    {
+      "mcat_id": "184226",
+      "mcat_name": "Shatavari Root"
+    }
+  ]
+}

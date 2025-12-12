@@ -1,0 +1,34 @@
+{
+  "click_to_call_id": "671817500",
+  "gluser_id": "40534604",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Karad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9667564",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Yeah, very good morning. Pankaj Chauhan ji baat kar rahe hain?\\nCustomer: Haan?\\nExecutive: Main IndiaMART se catalog team se baat kar raha hun. Pankaj ji voice proper aa rahi hai aapko?\\nCustomer: Awaaz nahi aa rahi aapki.\\nExecutive: Haan ji, aap sunn pa rahe hain Pankaj ji? Hello?\\nCustomer: Haan. Haan boliye.\\nExecutive: Haan ji, main catalog team se baat kar raha hun IndiaMART se. Aapki servicing ke according call kiya gaya. Aapke buylead consumption nahi ho pa raha hai. Kya issue aa raha hai Pankaj?\\nCustomer: Sir, abhi main kaam pe ja raha hun, woh company mein ja raha hun. Abhi bahut urgent chal raha hai mera kaam. Baad mein phone karta hun.\\nExecutive: Baat toh sahi hai aapki Pankaj ji, lekin koi bilkul response aapka zero ja raha hai. Jab tak yahan bhi aap time nahi denge toh suddenly mujhe aapka [unintelligible] kar raha hun, baad mein baat karenge.\\nExecutive: Kya time hai aapke paas baat karne ka?\\nCustomer: Teen se chaar ke beech mein free rahenge na aap?\\nExecutive: Koi baat nahi, main follow up mein feedback deta hun kyunki yeh necessary hai. Agar time denge toh bhi aapko business achha mil payega. Samajh rahe hain aap Pankaj ji?\\nCustomer: Haan, theek hai.\\nExecutive: Thoda yahan bhi time dena necessary hai aapke liye, okay?\\nCustomer: Theek hai. Chaliye aap badhiya se driving kariye, dhyan rakhiye. Haan.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's buylead consumption is not happening.\\n\n- Customer says he is busy with urgent work.\\n\n\\n\nResolution:\\n\n- Executive explained the importance of giving time.\\n\n- Executive offered to follow up later.\\n\n\\n\nNext Steps: \\n\n- Executive will provide feedback in follow-up.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, catalog, follow up, time\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5f76058a-4126-44e7-9931-a1088c85a79b",
+  "ucid": "5f76058a-4126-44e7-9931-a1088c85a79b",
+  "seller_categories": [
+    {
+      "mcat_id": "37369",
+      "mcat_name": "Solid Rivets"
+    },
+    {
+      "mcat_id": "87393",
+      "mcat_name": "Iron Rivet"
+    },
+    {
+      "mcat_id": "7814",
+      "mcat_name": "Stainless Steel Rivet"
+    }
+  ]
+}

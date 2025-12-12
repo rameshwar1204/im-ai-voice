@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672658528",
+  "gluser_id": "8018522",
+  "vintage_months": 9,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9687857",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Khatam paise vaise bhi.\\nHello?\\nExecutive: Haan hello.\\nCustomer: Haan ji sir.\\nExecutive: Bol rahe hain quality to dheere dheere bigadti ja raha hai, kaha kuch improvement ho raha hai.\\nExecutive: Sir aap mujhe bataoge ki aap kis company se baat kar rahe the?\\nCustomer: DVN soft tech se.\\nExecutive: Hello?\\nCustomer: Haan haan ji ji DVN soft tech se.\\nExecutive: Clear voice nahi aa rahi hai aapki.\\nCustomer: DVN soft tech se.\\nExecutive: Okay, to main sir aapki jo leads ka jo aap issue bata rahe ho, main abhi to mera office nahi hai, office hours end ho gaye hain. Main kal morning mein aapko 9:30 ya 10 baje call karu?\\nCustomer: Aap usko dekhiye kyu matlab lead matlab pehle theek thak aa rahe the aaj kal nahi aa raha.\\nExecutive: Achcha abhi kitne time se nahi aa rahi hai?\\nCustomer: Aap history to check karoge tabhi to.\\nExecutive: Theek hai main check karke baki aapko ek baar aapki jo website hai wo sab check karke main kal morning mein aapko revert back karti hu.\\nCustomer: Performance to dikhni bhi humko achcha hona chahiye, ghat hi raha hai.\\nExecutive: Hmm.\\nExecutive: Koi baat nahi main sari detail check haan main detail check karke aapko kal bata deti hu, theek hai sir?\\nCustomer: Theek hai okay bye.\\nExecutive: Okay.\\n[inaudible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer states lead quality is deteriorating.\\n\n- Customer says leads were good earlier, not now.\\n\n- Customer says performance is decreasing.\\n\n\\n\nResolution:\\n\n- Executive will check lead history and website.\\n\n- Executive will revert back to customer tomorrow morning.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, performance, website\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 130,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9092bc2a-723d-464c-99b9-8505eb7637d1",
+  "ucid": "9092bc2a-723d-464c-99b9-8505eb7637d1",
+  "seller_categories": [
+    {
+      "mcat_id": "160705",
+      "mcat_name": "Medical Shop Software"
+    },
+    {
+      "mcat_id": "43594",
+      "mcat_name": "Hotel Software"
+    },
+    {
+      "mcat_id": "221427",
+      "mcat_name": "Pathology Lab Software"
+    },
+    {
+      "mcat_id": "138342",
+      "mcat_name": "Billing Software"
+    },
+    {
+      "mcat_id": "179146",
+      "mcat_name": "Laboratory Management Software"
+    }
+  ]
+}

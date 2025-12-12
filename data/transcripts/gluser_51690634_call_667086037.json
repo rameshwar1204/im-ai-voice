@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667086037",
+  "gluser_id": "51690634",
+  "vintage_months": 5,
+  "bl_dau_oct": 5,
+  "customer_type": "CATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9632583",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Okay ji.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: So sorry mam, so sorry mam call karne ke liye thoda sa just even ek minute ka call chahiye tha isliye ticket close nahi hua right? Ek minute ka proper chahiye rehta hai ticket close karne ke liye. Wo aap se by mistaken hua but hamare liye thoda wo ho gaya na mam. Thoda usme aapne jo kiya baki sara aapko samajh mein aa gaya na aapko sara kuch?\\nCustomer: Haan haan mujhe samajh aa gaya.\\nExecutive: Achcha koi confusion isme nahi hai na? Kyunki ticket vagaira proper tabhi generate hota hai jab aapne usme action liya rehta thoda sa. Theek hai baki main isko apne end se close kar deta hu ticket. Inquiry vagaira proper aapke paas ja rahi hai abhi?\\nCustomer: Abhi to haan abhi aapne bola hai to ja rahi hai.\\nExecutive: Nahi nahi kyunki isme aapka show kar raha hai na jaise previous record agar main baat kar lu. Theek hai na pichle 30 din mein keval aapke paas 22 inquiries aayi hai. Right?\\nCustomer: Okay.\\nExecutive: Ji ji. To usi ke regarding main keh raha hu kyunki jitna buylead aap consume karoge sab usi pe depend rehta hai. Kyunki sara interconnect hota hai. Jab product add karoge to score pe rehta hai mam. Jab buylead consume karoge wo inquiry aur calls pe rehta hai. Usi according generate hoga aapke paas. Theek hai na?\\nCustomer: Theek hai.\\nExecutive: Baki koi issue rahe to aap mujhe directly call kar sakte hain. Theek hai mam?\\nCustomer: Okay.\\nExecutive: Sorry mam thoda sa wo jaruri tha isliye call kiya hu ek hi baar.\\nCustomer: Koi baat nahi.\\nExecutive: Theek hai na? Baki main close kar de raha hu ticket. Aapke paas ek feedback liya jayega to usme aap feedback yes kar dijiyega.\\nTheek hai? Bhej dijiyega apne paas se. Theek hai?\\nCustomer: Okay mam thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Ticket was not closed due to time.\\n\n- Customer received only 22 inquiries in 30 days.\\n\n\\n\nResolution:\\n\n- Executive apologized for the call.\\n\n- Executive explained the importance of buylead consumption.\\n\n- Executive offered direct call for any further issues.\\n\n- Executive will close the ticket.\\n\n\\n\nNext Steps: \\n\n- Customer to provide positive feedback.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- ticket, inquiries, buyleads, feedback\\n\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 98,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=786c6406-09eb-48bf-989e-b1c9e6aa386d",
+  "ucid": "786c6406-09eb-48bf-989e-b1c9e6aa386d",
+  "seller_categories": [
+    {
+      "mcat_id": "185017",
+      "mcat_name": "Asian Emulsion Paints"
+    },
+    {
+      "mcat_id": "1207",
+      "mcat_name": "Bathroom Fittings"
+    },
+    {
+      "mcat_id": "189717",
+      "mcat_name": "Berger Emulsion Paints"
+    },
+    {
+      "mcat_id": "178938",
+      "mcat_name": "Exterior Emulsion Paint"
+    },
+    {
+      "mcat_id": "180593",
+      "mcat_name": "Jaquar Shower"
+    }
+  ]
+}

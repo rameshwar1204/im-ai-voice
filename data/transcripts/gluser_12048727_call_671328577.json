@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671328577",
+  "gluser_id": "12048727",
+  "vintage_months": 7,
+  "bl_dau_oct": 17,
+  "customer_type": "CATALOG",
+  "city_name": "Vijayawada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9674760",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\nCustomer: Haan ji sir.\\nExecutive: Haan, kaun mam Himani ji?\\nCustomer: Nahi sir, main Himani ki manager baat kar rahi hu Ashima bataye.\\nCustomer: Mere ko thoda hamara Pushpa Decor ka naam Pushpa Decor hai.\\nExecutive: Hmm hmm hmm.\\nCustomer: Hamara dukan ka naam Pushpa Decor hai.\\nExecutive: Haan ji haan ji mujhe pata hai sir bataye aage.\\nCustomer: Mere ko call Hyderabad ka call mere ko na wo add karna hai Hyderabad ka.\\nExecutive: Achha.\\nExecutive: Koi nahi main abhi Himani se call karwa rahi hu aapko, theek hai? Aap usko bata dijiye wo kar degi, theek hai?\\nCustomer: Theek hai, theek hai.\\nExecutive: Okay sir, thank you sir. Himani Pushpa Decor client ko phone karo.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Wants to add Hyderabad call to account.\\n\n\\n\nResolution:\\n\n- Executive will have Himani call the customer.\\n\n\\n\nNext Steps: \\n\n- Executive will have Himani call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, add, hyderabad\\n\n\\n",
+  "call_entered_on": "11/14/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 88,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=96c03b80-4ba1-4f8d-af9d-0bd4a69edc52",
+  "ucid": "96c03b80-4ba1-4f8d-af9d-0bd4a69edc52",
+  "seller_categories": [
+    {
+      "mcat_id": "160265",
+      "mcat_name": "Aluminum Office Partition"
+    },
+    {
+      "mcat_id": "49783",
+      "mcat_name": "Aluminium Partitions"
+    },
+    {
+      "mcat_id": "21761",
+      "mcat_name": "Aluminium Sliding Window"
+    },
+    {
+      "mcat_id": "167966",
+      "mcat_name": "Aluminium Partition Works"
+    },
+    {
+      "mcat_id": "39959",
+      "mcat_name": "Toughened Glass"
+    }
+  ]
+}

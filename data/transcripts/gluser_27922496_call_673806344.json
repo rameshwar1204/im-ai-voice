@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "673806344",
+  "gluser_id": "27922496",
+  "vintage_months": 46,
+  "bl_dau_oct": 3,
+  "customer_type": "CATALOG",
+  "city_name": "Gandhidham",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686670",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Jain Optic Equipment Company se baat kar rahe hain Mr. Shreyansh Bothara.\\nExecutive: Nahi main unke brother baat kar raha hun Pratik Bothara. Ji sir bataiye.\\nCustomer: Haan sir main IndiaMART se baat kar raha tha Noida head office se Satyajit Tiwari.\\nExecutive: Haan ji.\\nCustomer: Sir IndiaMART ki service agar kaun dekhta hai aap dekhte hain ya brother dekhte hain?\\nExecutive: Mere brother dekhte hain par main customer receive mein bhi kabhi kabhi karta hun.\\nCustomer: Nahi nahi service ke regarding wohi feedback denge.\\nExecutive: Wohi wohi denge haan ji.\\nCustomer: Okay okay. Woh abhi thoda busy hai bahar.\\nExecutive: Theek hai theek hai theek hai main unko connect karunga theek hai. Dhanyavad.\\nCustomer: Kab aa jayenge sir woh bahar se?\\nExecutive: Matlab abhi kal kal ya kal na bole kal dijiyega. Sham nahi sham ko bhi nahi honge. Parso kar lijiyega Sunday.\\nCustomer: Matlab Monday.\\nExecutive: Monday to off rahega.\\nCustomer: Okay okay theek hai theek hai theek hai sir Monday ko theek theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to connect with Shreyansh Bothara.\\n\nResolution:\\n\n- Customer informed Shreyansh is currently unavailable.\\n\n- Agreed to connect on Monday.\\n\n\\n\nNext Steps: \\n\n- Executive will call on Monday.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- follow up, unavailability, call schedule\\n\n\\n",
+  "call_entered_on": "11/21/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 81,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1334561c-64e1-4fff-9cc9-edcbb4fc3abe",
+  "ucid": "1334561c-64e1-4fff-9cc9-edcbb4fc3abe",
+  "seller_categories": [
+    {
+      "mcat_id": "21675",
+      "mcat_name": "Air Jacks"
+    },
+    {
+      "mcat_id": "35171",
+      "mcat_name": "Pneumatic jacks"
+    },
+    {
+      "mcat_id": "217286",
+      "mcat_name": "Pit Jack"
+    },
+    {
+      "mcat_id": "3402",
+      "mcat_name": "Wheel Aligner"
+    },
+    {
+      "mcat_id": "142535",
+      "mcat_name": "3D Wheel Alignment Machine"
+    }
+  ]
+}

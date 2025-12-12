@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667419538",
+  "gluser_id": "134703934",
+  "vintage_months": 3,
+  "bl_dau_oct": 18,
+  "customer_type": "CATALOG",
+  "city_name": "Ujjain",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9635861",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Namaste sir, main IndiaMART se baat kar raha hun aapne sir catalog update ko leke kuch call center mein call kiya tha.\\nCustomer: Sir mere ko aawaz nahi aa rahi hai. Mera chote se brother ne kiya hoga call.\\nExecutive: Achcha.\\nCustomer: Haan. Bataiye na kya ho gaya kya kya bol raha tha aap?\\nExecutive: Mere ko aawaz nahi aa pa rahi hai aapki. Haan.\\nExecutive: Sir unhone catalog update ko leke kuch sir ko call kiya tha ki catalog.\\nCustomer: Haan to wo chhote wale brother ne haan chhote wale brother ne kiya hai aap usko laga lo main number deta hun aapko uska second number uska hi update kar raha hai usne 7030 2424.\\nExecutive: Yes sir. Sir is unregistered number pe sir main call nahi kar sakta sir aap yes unko call karne dijiye main baat kar lunga.\\nCustomer: Main connect to abhi nahi kar paunga kyunki abhi main aisi jagah network hi nahi milega. Main baad mein kar lunga to bata dunga main.\\nExecutive: Sir ye dusra wala number sir kisika hai 837 mein ending wala.\\nCustomer: Kya?\\nExecutive: 837 mein jo number end ho raha hai sir wo kisika hai?\\nCustomer: Nahi wo dusra number add hai wo hamara dusra hai wo hamare manager ka hai. To us pe hi lagana hai aapko 7030 2424 hai agar wo add hai to wo kal us pe laga lo aap.\\nExecutive: Sir unregistered number pe sir hame call karna allowed nahi hai isiliye wahi dikkat ho rahi hai.\\nCustomer: Achcha haan ye baat hai. To phir ruko main wo number add karwa deta hun. Us number pe bhi OTP aaega na?\\nExecutive: Haan ji sir aap abhi add karwa dijiye. To mere ko abhi thoda time de do main baad mein sham ko karwa lunga ya phir apan karwa lenge. Abhi main kahin aisi jagah jahan pe aawaz hi nahi aaegi mere ko isliye main bol raha hun. Hai na?\\nExecutive: Achcha achcha.\\nExecutive: Sir sir aap ek baar number bol dijiye.\\nCustomer: 7000\\nExecutive: 7000\\nCustomer: 7030 2424.\\nExecutive: 7000\\nCustomer: 30 30 3030 2424.\\nExecutive: Haan 2424 ye Amrit Udyog Industries ke naam se form hai aapki ya uski?\\nCustomer: Achcha. Ha ji sir. Haan. Haan to aap usko wahan nikal lo aap unko bhi. Sir to phir ticket to sir aapke company ke udhar se aayega.\\nCustomer: Chalo theek hai aap chhodo phir maine number likha diya na aapko sham ko main bol dunga usko.\\nExecutive: Haan ji haan ji. Ji sir ji.\\nCustomer: Yes theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is unable to hear the executive clearly.\\n\n- Executive cannot call unregistered numbers.\\n\n- Wants to add another number to receive calls.\\n\n\\n\nResolution:\\n\n- Customer provided alternate contact number.\\n\n- Customer will add the number later.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- unregistered number, catalog update, alternate number\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 148,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b80b2a04-e405-4c19-835d-c4415b3040cb",
+  "ucid": "b80b2a04-e405-4c19-835d-c4415b3040cb",
+  "seller_categories": [
+    {
+      "mcat_id": "18981",
+      "mcat_name": "Tea Light Candle"
+    },
+    {
+      "mcat_id": "121218",
+      "mcat_name": "PVC Conduit Pipes"
+    },
+    {
+      "mcat_id": "180915",
+      "mcat_name": "Supreme PVC Pipes"
+    },
+    {
+      "mcat_id": "923",
+      "mcat_name": "Wax Candles"
+    },
+    {
+      "mcat_id": "36451",
+      "mcat_name": "Rigid PVC Pipes"
+    }
+  ]
+}

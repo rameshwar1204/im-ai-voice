@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672323120",
+  "gluser_id": "242142913",
+  "vintage_months": 7,
+  "bl_dau_oct": 22,
+  "customer_type": "CATALOG",
+  "city_name": "Berhampur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9685633",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Good morning sir. \\nCustomer: Ha good morning.\\nExecutive: Power Pro Industrial Supply company se baat kar rahe hain aap?\\nCustomer: Hmm hmm hmm.\\nExecutive: Sir, main IndiaMART head office se senior manager Shahnawaz Kanwar baat karta hu sir.\\nCustomer: Ha.\\nExecutive: Sir, aapki call aayi thi helpline pe IndiaMART helpline pe aapne call kari thi.\\nCustomer: Ha ha sir.\\nExecutive: Bataiye sir kya issue aa raha hai?\\nCustomer: Sir issue mere liye IndiaMART se product add karne ke liye aur mere paas ek video hai, video upload kaise karenge sir?\\nExecutive: Video upload karni hai aapko?\\nCustomer: Hmm hmm.\\nExecutive: Woh video aapki kisi social media platform pe padi hui hai?\\nCustomer: Nahi sir, mere file pe hai na video, main on se feed kar lunga.\\nExecutive: Accha, darasal kya hai na sir, yeh aasan ho jayega agar aap aapke company ke naam se koi channel hai, YouTube vagera pe koi handle bana hua hai?\\nCustomer: Hmm, company naam se kuch bhi nahi hai sir YouTube, YouTube ka kuch bhi nahi sir, video video ka.\\nExecutive: Just a second.\\nExecutive: Jo aapne pehle yeh product ki videos upload kar rakhi hai, waha product pe jaate hi, umm, matlab jo video aati hai na sir, woh randomly kisi bhi customer ko download karne padegi na, toh isiliye waha par aap add video pe aap jayenge, toh waha aapko link maangega sir. Without link woh video add nahi hogi, toh isiliye ya toh woh aapke YouTube pe dali honi chahiye ya phir Facebook pe ya Instagram pe. Waha se woh link aap copy karenge aur woh waha pe paste kar denge toh woh video visible ho jayegi waha pe directly aapki. Main aapko guide kar du?\\nCustomer: Hmm, theek hai, kar dijiye.\\nExecutive: Main aapko guide kar du kaise karna hai?\\nCustomer: Ha sir, theek hai.\\nExecutive: Just a second.\\nExecutive: Aap abhi kisi laptop ya computer pe available hai?\\nCustomer: Ha, laptop mein available hai sir.\\nExecutive: Okay, toh usme aapki video hai na woh sir laptop mein?\\nCustomer: Ha ha.\\nExecutive: Theek hai, just a second. Aapki registered mail ID par maine ek mail share kiya hai sir.\\nCustomer: Hmm hmm.\\nExecutive: Check kijiye.\\nCustomer: Nahi hai sir mail kuch bhi.\\nExecutive: Mail ID bata deta hu sir aapko. Power, power pro industrial industrial supply co company@gmail.com pe aaya hoga sir video meet with IndiaMART team ke naam se.\\nCustomer: Ha ha ha.\\nExecutive: Usko open karenge, usme join with Google Meet karke likha hoga, usko join karke na apni screen share kar dijiye mere saath.\\nCustomer: Hmm, theek hai sir, main join karta hu, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to upload a product video.\\n\nResolution:\\n\n- Executive explained video upload process.\\n\n- Executive sent a Google Meet link to customer.\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- video upload, product, google meet, link\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 215,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=55fa130e-e998-408e-89b4-dcbdad0d7b4e",
+  "ucid": "55fa130e-e998-408e-89b4-dcbdad0d7b4e",
+  "seller_categories": [
+    {
+      "mcat_id": "26294",
+      "mcat_name": "Demolition Hammer"
+    },
+    {
+      "mcat_id": "147252",
+      "mcat_name": "Liquid Floor Cleaner"
+    },
+    {
+      "mcat_id": "146545",
+      "mcat_name": "Marble Cutting Blade"
+    },
+    {
+      "mcat_id": "9615",
+      "mcat_name": "Liquid Toilet Cleaners"
+    },
+    {
+      "mcat_id": "81086",
+      "mcat_name": "Safety Jacket"
+    }
+  ]
+}

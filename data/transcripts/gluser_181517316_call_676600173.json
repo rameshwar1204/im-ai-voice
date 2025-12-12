@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676600173",
+  "gluser_id": "181517316",
+  "vintage_months": 35,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Tanuku",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671342",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Haan, sir ji aapke kal mail aaya hua tha, theek hai refund ke liye.\\nCustomer: Ji.\\nExecutive: Haan, mail aaya hua tha ki woh jo payment aap log ne dala tha woh aap nahi tha. Mail bhi aaya tha ki aap check book ya passbook bhejiye toh woh mail kar diya gaya tha kal hi aapko.\\nCustomer: Kalyani se baat kar rahe hain?\\nExecutive: Haan, Kalyani se.\\nCustomer: Ek minute ruk jaaiye.\\nExecutive: Haan, kya kya keh rahe hain aap bataiye ek baar thoda sa detail mein.\\nExecutive: 21 tarikh ko payment refund initiate refund initiate kiya tha na aap logon ne?\\nCustomer: Ji, ji.\\nExecutive: Toh woh payment abhi aaya nahi hai. Toh kal ek mail aaya. Aaya nahi hai aapne aapne jo hai apne account mein check karwa liya hai?\\nCustomer: Kya kya?\\nExecutive: Account check kar liya hai aapne apna?\\nCustomer: Jis account se aapne payment kiya tha service lete time woh account check kar liya aapne?\\nCustomer: Haan, woh check ho gaya hai.\\nExecutive: Toh usme payment nahi aayi hui hai abhi?\\nCustomer: Payment nahi aayi hui hai. Aap log ki taraf se ek dusra mail aaya hua hai ki aap aap apna check book ya passbook ka photo khich karke clear account aapke saath mail kijiye. Toh kal hi aapko mail kar diya gaya aapne dekha nahi hai kya?\\nExecutive: Ji, maine dekha tha mail aapko kisne kiya tha aap usko reply back kiye hote na sir. Main kal office mein nahi tha.\\nCustomer: Aap aapke mail se aaya hua tha aapko mail karna tha na?\\nExecutive: Mere mail se aaya tha? Maine toh aisa koi mail nahi kiya tha aapko.\\nExecutive: Ab dekhiye yaha pe mail aaya hua hai. Aadarsh Jaiswal ke naam se aaya hai aapko. Haan, there is a refund due to your INR. Mail ID jis mail ID se aaya hua hai woh Aadarsh Jaiswal se aaya hua hai.\\nCustomer: IndiaMART ki taraf se. But aapko mail karne ke liye bola gaya Aadarsh Jaiswal ko.\\nExecutive: Achha achha.\\nCustomer: Toh aapne jis ka wohi clear clear check jo bheja hai aapne aapne usi account ko bheja hai?\\nCustomer: Haan, usi account ko bheja hai.\\nExecutive: Chaliye theek hai main dekh leta hu. Aap subah ek baar ka call kar diye hote subah ya dopahar mein sir. Toh ho jaata abhi toh main nikal bhi chuka hu office se 6:30 baj raha hai sir.\\nCustomer: Mujhe kya pata ki aap mail dekhte nahi hai?\\nExecutive: Sir, mail dekhta hu main. Aisi baat nahi hai. But maine aapko mail nahi kiya tha na ki uss cheez ke liye aisa kuch.\\nCustomer: Nahi toh yahi aap hi ke Aadarsh Jaiswal phone number aur email ID yaha pe diya hai for any assistance please due to refund.\\nCustomer: Aapne jo hai abhi jo yeh call kiya yeh call uss time kar diye hote toh ho jaata.\\nExecutive: Chaliye theek hai.\\nExecutive: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer has not received refund payment.\\n\n- Customer received a mail asking for checkbook/passbook photo.\\n\n\\n\nResolution:\\n\n- Executive will check the status of the refund.\\n\n- Executive clarified the customer should reply to Aadarsh Jaiswal.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, payment, mail, account\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 174,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9f368dbb-634f-4532-afaf-c927e79d5fc6",
+  "ucid": "9f368dbb-634f-4532-afaf-c927e79d5fc6",
+  "seller_categories": [
+    {
+      "mcat_id": "167982",
+      "mcat_name": "Unsecured Personal Loans"
+    },
+    {
+      "mcat_id": "23928",
+      "mcat_name": "Business Loan"
+    },
+    {
+      "mcat_id": "34174",
+      "mcat_name": "Personal Loan"
+    },
+    {
+      "mcat_id": "170840",
+      "mcat_name": "Small Business Loans"
+    },
+    {
+      "mcat_id": "29446",
+      "mcat_name": "Home Loan"
+    }
+  ]
+}

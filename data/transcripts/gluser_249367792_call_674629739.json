@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674629739",
+  "gluser_id": "249367792",
+  "vintage_months": 4,
+  "bl_dau_oct": 0,
+  "customer_type": "TSCATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9700379",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Haan ji Amar sir baat kara denge wo aap keh rahe the ki mujhe kaise call kar denge.\\nCustomer: Nahi mam abhi pahucha nahi main.\\nExecutive: Achcha aap nahi pahunche abhi.\\nCustomer: Haan.\\nExecutive: Sir bataiye kitni der mein kar sakte hain?\\nCustomer: Abhi mam kuch nahi bata sakta main aapko.\\nExecutive: Ek ghanta, aadha ghanta, dedh ghanta.\\nCustomer: Nahi mam kisi ke paas baitha hua hun main.\\nExecutive: To abhi jaise 3 baj rahe hain main 5 baje tak laga lu theek samjho aapke hoga.\\nCustomer: Theek hai, theek hai.\\nExecutive: Hai na? Aur sir ek ek cheez aur thi, hello.\\nCustomer: Ji.\\nExecutive: Matlab main waise to mujhe sari cheeze pata hi hai aapke sath mera discussion hamesha hua hai. To buyleads wagera ko lekar abhi jaise use to aap nahi kar rahe ho thoda bahut use karna shuru kare sir aise to patterns apna bante rahe.\\nCustomer: Aur production mein abhi time hi lagne wala hai sir jaise aapne bataya tha February tak hi hone wala hai wo kaam.\\nExecutive: Haan, theek hai to at least na thoda thoda buyleads wagera ko aap consume karna shuru karo. Halaki buylead apne paas aa rahi hai achchi buyleads aa rahi hai. But at least pattern banane ke liye hi sahi but aap unhe use karte raho.\\nCustomer: Main karta hun main kisi ke paas baitha hua hun zara.\\nExecutive: Koi baat nahi, koi baat nahi it's okay sir, theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to commit to a call time.\\n\n- Executive suggests using buyleads to form patterns.\\n\n\\n\nResolution:\\n\n- Customer will connect at 5 PM.\\n\n- Executive advised to consume buyleads.\\n\n\\n\nNext Steps: \\n\n- Customer will connect at 5 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call scheduling, buyleads, production\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 77,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=2de562e5-6853-4cd8-a527-86e51b9d9acd",
+  "ucid": "2de562e5-6853-4cd8-a527-86e51b9d9acd",
+  "seller_categories": [
+    {
+      "mcat_id": "161369",
+      "mcat_name": "Men Cotton Vest"
+    },
+    {
+      "mcat_id": "142328",
+      "mcat_name": "Men Thermal Wear"
+    },
+    {
+      "mcat_id": "141613",
+      "mcat_name": "Kids Thermal"
+    },
+    {
+      "mcat_id": "39766",
+      "mcat_name": "Thermal Wear"
+    },
+    {
+      "mcat_id": "1947",
+      "mcat_name": "Hosiery Knitwear"
+    }
+  ]
+}

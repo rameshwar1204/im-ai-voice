@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669379095",
+  "gluser_id": "116861370",
+  "vintage_months": 39,
+  "bl_dau_oct": 24,
+  "customer_type": "CATALOG",
+  "city_name": "Aligarh",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9653428",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Kya issue kya tha bas login nahi ho raha tha issue?\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello, ye Pawan Technical company se baat kar raha tha?\\nCustomer: Haan ji.\\nExecutive: Pawan ji, se baat kar raha tha senior manager India Mart office se kaise hain sir?\\nCustomer: Ji badhiya hai sir, badhiya.\\nExecutive: Sir kuch issues aap face kar rahe the abhi technical kuch glitch aa raha tha aapke account login vagera karne mein to uske liye yahan se call aapke pass chali gayi hogi Nidhi ki jo aapko sab kuch unhone guide kar diya hoga proper.\\nCustomer: Ji.\\nExecutive: Right uske alava bhi sir kuch addition deletion the kuch catalog mein changes vagera the wo bhi unhone aapko guide kar diye baki unka number sir aapne save kar liya hai in future koi issue aata hai to.\\nCustomer: Haan ji.\\nCustomer: Ji ji ji.\\nExecutive: Unka number aapne save kar liya uske alava sir koi aur issue koi bhi problem agar aap face kare to mujhe bataye.\\nCustomer: Aur bhi nahi unhone vaise sir vaise to guide theek kara hai jo bhi hai aur jo bhi issue the maine unko bata diye the unhone matlab bahut matlab aisa hai ki kayde se bahut kayde se bataya tha unhone mujhe.\\nExecutive: Accha unhone proper ache se aapko inform kar diya theek hai very good.\\nExecutive: Baki koi agar koi issue rehta hai to aap unka number bhi apne pass save karke rakhiye.\\nExecutive: Future kabhi bhi koi bhi agar problem aap face karte hain aap directly unke number pe bhi contact kar sakte hain direct.\\nCustomer: Okay. Okay.\\nExecutive: Theek hai sir baki ye concern yahan se abhi close kar raha hun sir unka Nidhi ke liye ek feedback aayega aapke pass wo feedback share kar dijiyega.\\nCustomer: Okay.\\nExecutive: Theek hai sir. Okay sir. Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer was facing issues logging into account.\\n\n\\n\nResolution:\\n\n- Executive confirmed Nidhi guided customer on issues.\\n\n- Executive asked customer to save Nidhi's number.\\n\n- Executive asked customer to share feedback for Nidhi.\\n\n\\n\nNext Steps: \\n\nNone\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- login issue, technical glitch, catalog, feedback\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 90,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=26123595-1423-4ecc-93f8-cba866e5c4ac",
+  "ucid": "26123595-1423-4ecc-93f8-cba866e5c4ac",
+  "seller_categories": [
+    {
+      "mcat_id": "141701",
+      "mcat_name": "School Blazer"
+    },
+    {
+      "mcat_id": "133123",
+      "mcat_name": "School T Shirts"
+    },
+    {
+      "mcat_id": "10479",
+      "mcat_name": "Kids School Uniforms"
+    },
+    {
+      "mcat_id": "141700",
+      "mcat_name": "School Belt"
+    },
+    {
+      "mcat_id": "167700",
+      "mcat_name": "School Sweater"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675588116",
+  "gluser_id": "12302018",
+  "vintage_months": 7,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Kakinada",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9701519",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello Kumar ji.\\nHaan ji.\\nHaa sir good afternoon Praveen bol raha hu DMart se.\\nHaa bhai busy hu mai karta hu aapko bhai ek minute.\\nSir kab free ho jayenge?\\nHello.\\nKumar ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Praveen from DMart calling.\\n\n- Kumar is busy and will call back in a minute.\\n\n- Praveen asks when Kumar will be free.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nIssue not resolved.\\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral to impatient.\\n\n\\n\n@@@Key Topics:\\n\ndmart call, call back\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 45,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d613b674-8000-40a1-8abb-ab9fc0c367f4",
+  "ucid": "d613b674-8000-40a1-8abb-ab9fc0c367f4",
+  "seller_categories": [
+    {
+      "mcat_id": "29006",
+      "mcat_name": "Freight Forwarding Services"
+    },
+    {
+      "mcat_id": "41987",
+      "mcat_name": "Shipping Services"
+    },
+    {
+      "mcat_id": "84088",
+      "mcat_name": "Air Cargo Service"
+    },
+    {
+      "mcat_id": "31768",
+      "mcat_name": "Marine Engine"
+    },
+    {
+      "mcat_id": "159675",
+      "mcat_name": "Air Compressor Rental"
+    }
+  ]
+}

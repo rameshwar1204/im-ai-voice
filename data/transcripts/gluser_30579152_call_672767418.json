@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672767418",
+  "gluser_id": "30579152",
+  "vintage_months": 75,
+  "bl_dau_oct": 24,
+  "customer_type": "TSCATALOG",
+  "city_name": "Dehradun",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9689687",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Haanji sir.\\nExecutive: Aap support team se baat kar rahe ho ya aap buyer side se baat kar rahe ho kya?\\nCustomer: Sir, main aapke account ki manager baat kar rahi hoon. Aap apni company mein.\\nExecutive: Sorry, sorry. Theek hai, theek hai, theek hai. Okay, sorry.\\nCustomer: Sir, company name?\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive is unsure if the caller is from the support team or the buyer side.\\n\n\\n\nResolution:\\n\n- Customer clarified she is the account manager.\\n\n- Executive apologized for the confusion.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\naccount, manager, support\\n\n\\n",
+  "call_entered_on": "11/19/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 44,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=08c7b63d-91e6-4842-8ad2-33bce2c7ffee",
+  "ucid": "08c7b63d-91e6-4842-8ad2-33bce2c7ffee",
+  "seller_categories": [
+    {
+      "mcat_id": "182108",
+      "mcat_name": "APC Online UPS"
+    },
+    {
+      "mcat_id": "184097",
+      "mcat_name": "Luminous Online UPS"
+    },
+    {
+      "mcat_id": "178993",
+      "mcat_name": "Voltas Water Cooler"
+    },
+    {
+      "mcat_id": "193882",
+      "mcat_name": "Microtek UPS"
+    },
+    {
+      "mcat_id": "4670",
+      "mcat_name": "Aluminium Beverage Cans"
+    }
+  ]
+}

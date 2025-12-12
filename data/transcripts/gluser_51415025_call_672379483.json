@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "672379483",
+  "gluser_id": "51415025",
+  "vintage_months": 12,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Lohardaga",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9686200",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello.\\nExecutive: Hello.\\nCustomer: Who is this?\\nExecutive: Uh, this is Sanjeev from India Mart head office.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked who is this.\\n\n\\n\nResolution:\\n\n- Executive identified himself as Sanjeev from India Mart head office.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nidentification\\n\n\\n",
+  "call_entered_on": "11/18/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 23,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f6468e69-6a96-4a87-9e8d-a8b35803039d",
+  "ucid": "f6468e69-6a96-4a87-9e8d-a8b35803039d",
+  "seller_categories": [
+    {
+      "mcat_id": "4290",
+      "mcat_name": "Bauxite Ore"
+    }
+  ]
+}

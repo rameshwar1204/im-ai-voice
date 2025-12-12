@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668501403",
+  "gluser_id": "93352214",
+  "vintage_months": 11,
+  "bl_dau_oct": 26,
+  "customer_type": "CATALOG",
+  "city_name": "Kanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9671548",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Ji madam bataye.\\nExecutive: Good afternoon sir.\\nCustomer: Good afternoon madam.\\nExecutive: Hello.\\nCustomer: Good afternoon, toh Manisha baat kar rahi hu IndiaMART se.\\nExecutive: Ji bataye madam.\\nCustomer: Pehchan sir aap?\\nExecutive: Madam hum bahut badhiya, pehle toh bahut acche hai.\\nCustomer: Chalo sir acchi baat hai, acche hi rehne chahiye.\\nExecutive: Toh sir maine na aapki catalog mein na jo aapne description bola tha, maine mostly na un product ki add kar di hai. Kuch product reh gaye unme se, 11 products reh gaye unki add ho jayegi. Aur maine baith ke na sara kaam aapka kar diya tha lekin na aapne ek whatsapp pe na product ki humko kar rakhi hai, slap send kar rakhi hai aapne.\\nCustomer: Theek hai toh us us product ka na naam aapne ek hi matlab kar rakha hai sir toh uski photos teen chaar hai, woh ek hi product ki hai sari sari photos.\\nExecutive: Ek second madam, madam kuch product flats mein jaise humic acid hai kuch flats mein bhi aata hai, granular mein bhi aata hai, liquid mein bhi aata hai. Toh woh alag alag karke teen mein jaate hai.\\nCustomer: [inaudible]\\nExecutive: Toh is wajah se woh teen same nahi aayega. Woh 12% weight by weight ka hai, woh 98% hai aur woh it 80% hai.\\nCustomer: [inaudible]\\nExecutive: Toh woh unke rate se woh percentage alag alag hai teeno ka.\\nCustomer: Accha teeno ka alag alag hai lekin.\\nExecutive: Aap mujhe paanch minute ka time do, mai aapka sara doubt clear karta hu aap.\\nCustomer: Accha theek hai sir, sahi hai.\\nExecutive: Theek madam okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer says same product has multiple photos.\\n\n\\n\nResolution:\\n\n- Executive explained the same product comes in different forms.\\n\n- Executive asked for 5 minutes to clear doubts.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, product description, product photos\\n\n\\n",
+  "call_entered_on": "11/7/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=c5aec9f0-907c-42e3-a868-f4051e45e509",
+  "ucid": "c5aec9f0-907c-42e3-a868-f4051e45e509",
+  "seller_categories": [
+    {
+      "mcat_id": "3179",
+      "mcat_name": "Agricultural Pesticides"
+    },
+    {
+      "mcat_id": "4414",
+      "mcat_name": "Biopesticides"
+    },
+    {
+      "mcat_id": "34465",
+      "mcat_name": "Plant Growth Promoters"
+    },
+    {
+      "mcat_id": "10805",
+      "mcat_name": "Humic Acid"
+    },
+    {
+      "mcat_id": "137380",
+      "mcat_name": "Nitrobenzene"
+    }
+  ]
+}

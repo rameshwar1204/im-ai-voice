@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668130623",
+  "gluser_id": "29338602",
+  "vintage_months": 112,
+  "bl_dau_oct": 13,
+  "customer_type": "CATALOG",
+  "city_name": "Bhopal",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9670039",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello, hello.\\nExecutive: Ji boliye sir.\\nCustomer: Good morning. Kumar baat kar raha hai India Mart head office se sir. Bataiye.\\nCustomer: Maine sir call kiya hai services feedback ke liye kiya hai. Abhi jo services aapki chal rahi hai uske bare mein.\\nCustomer: Kab call aa raha hai sir abhi?\\nCustomer: Yaar main traffic mein hu. Abhi office mein nahi hu.\\nExecutive: Ha. To main kis time connect karu sir aapko?\\nCustomer: Hello.\\nExecutive: Ha kis time? Ab wo jo usme jo service portal pe wo Nikhil sir ka number hoga us pe baat kar lijiye. Wo wo dekhte hai India Mart ka kaam.\\nCustomer: Thik hai sir, thik hai.\\nExecutive: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called for service feedback.\\n\n- Customer is currently in traffic.\\n\n\\n\nResolution:\\n\n- Executive asked for a suitable time to call.\\n\n- Customer asked to contact Nikhil Sir.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, traffic, nikhil sir\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 56,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9e3206e0-0d03-4a38-990c-aa517588dbec",
+  "ucid": "9e3206e0-0d03-4a38-990c-aa517588dbec",
+  "seller_categories": [
+    {
+      "mcat_id": "182307",
+      "mcat_name": "Lean Mass Gainer"
+    },
+    {
+      "mcat_id": "137388",
+      "mcat_name": "Whey Protein"
+    },
+    {
+      "mcat_id": "68911",
+      "mcat_name": "Protein Supplement"
+    },
+    {
+      "mcat_id": "121257",
+      "mcat_name": "Mass Gainer"
+    },
+    {
+      "mcat_id": "182261",
+      "mcat_name": "Pre workout Supplements"
+    }
+  ]
+}

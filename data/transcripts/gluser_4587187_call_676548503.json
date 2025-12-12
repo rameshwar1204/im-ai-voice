@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676548503",
+  "gluser_id": "4587187",
+  "vintage_months": 9,
+  "bl_dau_oct": 10,
+  "customer_type": "TSCATALOG",
+  "city_name": "Guntur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9720627",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello sir, call got disconnected. Actually I'm just saying Swati is your account manager so she will assist you in all the services sir. I'll ask her to share you all the I'm saying Swati is your account manager I'll ask her to send the relevant leads as per your product sir. She will get the response. Okay? I will ask her to share you all the leads. If it possible you can come on video meeting so we will work on your catalog.\\nCustomer: My person my person number I will give.\\nExecutive: This is not this is not a number?\\nCustomer: Aha I am I am in presently I am in outside. I am given the one number so that that number is talk.\\nExecutive: Okay.\\nExecutive: You can call us. Just wait one minute I think. Yeah seven.\\nCustomer: 73306\\nExecutive: Haan.\\nCustomer: 77655\\nExecutive: 7330677655 right?\\nCustomer: Haan another five minutes you will call me I am telling that person okay?\\nExecutive: Sure sir. Okay just tell me one thing actually your ticket has been opened for incoming calls so can I close this ticket sir and she will give you call back after that.\\nCustomer: Spam spam calls many spam calls I received.\\nExecutive: Haan sorry sir.\\nCustomer: Very waste calls. Very waste calls I received from very very customer calls I received. One one something.\\nExecutive: No no I'm not saying I'm saying actually Swati has called you so might be you have just call back again but she has not respond that's why ticket got open. So can I close this ticket so Swati will call you for services on the same number okay?\\nCustomer: Any any time my number all services. But this time but this time my my friend my person is available in desktop that person is doing.\\nExecutive: Okay.\\nExecutive: Okay so on same number I'll ask her to call okay?\\nCustomer: Please.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Call disconnected, executive called back.\\n\n- Customer receiving spam calls.\\n\n- Wants Swati to call on alternate number.\\n\n\\n\nResolution:\\n\n- Executive confirmed Swati will assist with services.\\n\n- Executive noted the alternate number.\\n\n- Executive will ask Swati to call back.\\n\n- Ticket will be closed.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nspam\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- spam calls, account manager, callback, ticket\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 134,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=4567dcc4-20b9-4a3a-b9dc-63a1bfa29d41",
+  "ucid": "4567dcc4-20b9-4a3a-b9dc-63a1bfa29d41",
+  "seller_categories": [
+    {
+      "mcat_id": "192537",
+      "mcat_name": "Luliconazole Cream"
+    },
+    {
+      "mcat_id": "126721",
+      "mcat_name": "Itraconazole Capsule and Tablet"
+    },
+    {
+      "mcat_id": "192674",
+      "mcat_name": "Diclofenac Diethylamine Gel"
+    },
+    {
+      "mcat_id": "127532",
+      "mcat_name": "Lycopene Capsule"
+    },
+    {
+      "mcat_id": "158580",
+      "mcat_name": "Herbal Digestive Enzyme Syrup"
+    }
+  ]
+}

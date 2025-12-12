@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674390443",
+  "gluser_id": "156908950",
+  "vintage_months": 2,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Khambhat",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9694375",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Executive: Hello.\\nCustomer: Hello, good morning sir.\\nExecutive: Haan, good morning boliye.\\nCustomer: Ji, Paynearby app se baat ho rahi hai, Avesh Sheikh ji se, sir?\\nExecutive: Haan, aap kaun?\\nCustomer: Sir, mera naam Saransh hai. Main Indiamart se baat kar raha tha, business manager. Ye Abhishek ji ke senior ka senior baat kar raha hai.\\nExecutive: Haan, to abhi boliye.\\nCustomer: Sir, main phone baat kar raha hu, actually main driving kar raha hu.\\nCustomer: Achcha, sir, kitni der mein baat ho payegi ji sir aapse?\\nExecutive: Ek ghante mein, ek ghante mein.\\nCustomer: Theek hai sir, main connect kar leta hu aapko.\\nExecutive: Achcha, theek hai.\\nCustomer: Okay sir, thank you.\\nExecutive: Main apne heavy se.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer wants to speak with Avesh Sheikh from Paynearby app.\\n\n- Customer is calling from Indiamart as a business manager.\\n\n- Customer is currently driving.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to call back in one hour.\\n\n\\n\nNext Steps: \\n\n- Customer will call back in one hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nphone call, callback\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 51,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=5978e45e-8ea3-489c-886f-39a4e4c53f94",
+  "ucid": "5978e45e-8ea3-489c-886f-39a4e4c53f94",
+  "seller_categories": [
+    {
+      "mcat_id": "3417",
+      "mcat_name": "Wind Chime"
+    },
+    {
+      "mcat_id": "178023",
+      "mcat_name": "Crystal Shivling"
+    },
+    {
+      "mcat_id": "18414",
+      "mcat_name": "Quartz Crystal"
+    },
+    {
+      "mcat_id": "8243",
+      "mcat_name": "Rose Quartz"
+    },
+    {
+      "mcat_id": "13083",
+      "mcat_name": "Quartz Stone"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675500532",
+  "gluser_id": "5476147",
+  "vintage_months": 79,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Aurangabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9706512",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Dekho aasmaan mein khil kar suraj nikal raha hai.\\nExecutive: Haan ji Mukesh ji namaste.\\nCustomer: Namaste.\\nExecutive: Mukesh ji Imran baat kar raha tha main IndiaMART se. Sir jo aapka issue tha na wo humne sir apne internal team ke sath maine escalate kar diya hai, theek hai sir? Might be sir aapko team ki taraf se call bhi aayegi. Maine clearly bata diya tha sir ki aapka employee tha sir, unhone job chhoda hua tha aur aapka data ko unhone matlab data chori karke wo bhag gaya tha aapka.\\nCustomer: Theek hai na?\\nExecutive: Aur IndiaMART se service bhi unhone liya hua hai sir aur aap hi ka product wagera sara cheez unhone add karke rakha hua hai. To uske regarding internal team usko check bhi karegi, maine already isko escalate kar diya hai, theek hai sir? Bas isi regarding maine aapko morning mein bhi call kiya tha sir ki update kar du main. Might be team aapke paas call karegi. Aap unko clearly sari cheeze bataiyega bhi sir. Maine to already likh diya hai sara cheez mention kar diya hai but team ko aapko call bhi karegi Mukesh ji, clearly unko aap jarur bataiyega ye cheez, theek hai sir?\\nCustomer: Theek hai.\\nExecutive: Hello.\\nCustomer: Theek hai sir, theek hai.\\nExecutive: Haan, baki sir services aap IndiaMART ka use kijiye sir aur koi bhi dikat. Theek hai sir, thoda urgent kaam hai mujhe.\\nCustomer: Achha achha.\\nExecutive: Baki bas sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer's ex-employee stole data and ran away.\\n\n- Ex-employee using IndiaMART services with stolen data.\\n\n\\n\nResolution:\\n\n- Executive escalated the issue to internal team.\\n\n- Internal team will investigate the matter.\\n\n- Customer to explain everything clearly to the team.\\n\n\\n\nNext Steps: \\n\n- Team might call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- data theft, employee, internal team, escalation\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 68,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b813a315-0d0e-480c-8629-48f970706f5d",
+  "ucid": "b813a315-0d0e-480c-8629-48f970706f5d",
+  "seller_categories": [
+    {
+      "mcat_id": "85382",
+      "mcat_name": "Air Grease Pump"
+    },
+    {
+      "mcat_id": "35166",
+      "mcat_name": "Pneumatic Grease Gun"
+    },
+    {
+      "mcat_id": "148814",
+      "mcat_name": "Belt Tension Meter"
+    },
+    {
+      "mcat_id": "156055",
+      "mcat_name": "Hand Operated Grease Pumps"
+    },
+    {
+      "mcat_id": "29803",
+      "mcat_name": "Grease Pumps"
+    }
+  ]
+}

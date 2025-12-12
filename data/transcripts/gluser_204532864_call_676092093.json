@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676092093",
+  "gluser_id": "204532864",
+  "vintage_months": 16,
+  "bl_dau_oct": 20,
+  "customer_type": "CATALOG",
+  "city_name": "Ichalkaranji",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9719659",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 11,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=01ace7f0-87d6-4232-93d8-d6743b93661e",
+  "ucid": "01ace7f0-87d6-4232-93d8-d6743b93661e",
+  "seller_categories": [
+    {
+      "mcat_id": "11144",
+      "mcat_name": "Grey Fabric"
+    },
+    {
+      "mcat_id": "84565",
+      "mcat_name": "Cotton Grey Fabric"
+    },
+    {
+      "mcat_id": "1318",
+      "mcat_name": "Cotton Fabric"
+    },
+    {
+      "mcat_id": "84571",
+      "mcat_name": "Cotton Twill Fabric"
+    },
+    {
+      "mcat_id": "6716",
+      "mcat_name": "Drill Fabric"
+    }
+  ]
+}

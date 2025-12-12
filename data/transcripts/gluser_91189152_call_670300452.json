@@ -1,0 +1,26 @@
+{
+  "click_to_call_id": "670300452",
+  "gluser_id": "91189152",
+  "vintage_months": 18,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Haldwani",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9648935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji sir, namaste.\\nCustomer: Namaskar sir, namaskar. Hello.\\nExecutive: Sir ji, kaise hain aap?\\nCustomer: Bas theek hai sir.\\nExecutive: Badhiya hai sir. Prashant bol raha hu sir, main IndiaMART se senior manager. Wo kal baat hui thi sham ko pehle.\\nCustomer: Haan. Office mein aaunga, bol dunga 4 baje.\\nExecutive: 4:00 baje. 4:00 baje. Ji.\\nCustomer: Hello.\\nExecutive: Sir, kal bhi yahi hua tha sir. Sham ko aapne bola tha, fir meeting kar nahi paaye. Ghar pe aaye hue ho na sir aap?\\nCustomer: To 4:00-4:15 baje office bolunga, tabhi main connect karunga, laptop leke jaunga office.\\nExecutive: Sure hai na aaj baat ho jayegi aapse?\\nCustomer: Bilkul 100% baat hogi.\\nExecutive: Theek hai sir. Chaliye, main connect karta hu aapko.\\nCustomer: Theek hai sir. Theek hai. Chaliye, dhanyavaad sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer couldn't attend meeting yesterday.\\n\n\\n\nResolution:\\n\n- Executive will connect at 4:00-4:15 PM.\\n\n\\n\nNext Steps: \\n\n- Executive will connect at 4:00-4:15 PM.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- meeting, schedule, follow-up\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 62,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=f75e30c2-c1a0-44fe-acfe-35d83753ef93",
+  "ucid": "f75e30c2-c1a0-44fe-acfe-35d83753ef93",
+  "seller_categories": [
+    {
+      "mcat_id": "68330",
+      "mcat_name": "Residential Construction Service"
+    }
+  ]
+}

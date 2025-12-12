@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675615995",
+  "gluser_id": "82413300",
+  "vintage_months": 11,
+  "bl_dau_oct": 25,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710892",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello.\\nExecutive: Haan ji. Haan ji Mr. Mohammad Aamir ji baat kar rahe hain Magma Marble se?\\nCustomer: Haan boliye. Boliye.\\nExecutive: Aamir ji main Sunny Prakash baat kar raha hun branch manager IndiaMART se.\\nCustomer: Boliye sir.\\nExecutive: Sir aapne ek complaint place ki thi aapke buyleads ke feedback ke regarding aur deals maturity ke regarding. Dusra number hai usme call kijiye na please aap. Ek number ek number aur isme hai lagaya hua. \\nExecutive: Sir. Accha main bilkul kar lunga. Aamir ji lekin aap owner hai right? Wo wo bande kaun hai jinse baat karni chahiye? \\nCustomer: Main owner hun. Wahi dekhenge sara unko malum hai wahi dekhte hain isko sara. \\nExecutive: Wo aapke account manager hai aapka kaam sambhalte hain wo. \\nCustomer: Haan ji. Ji ji ji.\\nExecutive: Thik hai kya naam rahega unka sir?\\nCustomer: Khalid ji.\\nExecutive: Khalid? Haan ji.\\nExecutive: Thik hai sir is time Khalid ji se baat kar lunga.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Regarding buyleads feedback and deals maturity.\\n\n\\n\nResolution:\\n\n- Executive will contact Khalid regarding the issue.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, feedback, account manager\\n\n\\n",
+  "call_entered_on": "11/26/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=3b426c21-8dae-4d67-949f-11d343596f28",
+  "ucid": "3b426c21-8dae-4d67-949f-11d343596f28",
+  "seller_categories": [
+    {
+      "mcat_id": "32519",
+      "mcat_name": "Marble Wash Basin"
+    },
+    {
+      "mcat_id": "88472",
+      "mcat_name": "Stone mural"
+    },
+    {
+      "mcat_id": "215043",
+      "mcat_name": "Makrana White Marble"
+    },
+    {
+      "mcat_id": "38858",
+      "mcat_name": "Stone Basin"
+    },
+    {
+      "mcat_id": "224236",
+      "mcat_name": "Stone Pedestal Wash Basin"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675998481",
+  "gluser_id": "102063385",
+  "vintage_months": 55,
+  "bl_dau_oct": 29,
+  "customer_type": "TSCATALOG",
+  "city_name": "Krishna",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9647741",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Am I audible to you? Hi, good afternoon. This is Humaira. I'm talking in BNGS, right?\\nCustomer: Sorry?\\nExecutive: Hello. I am Humaira from Indiamart Head office sir. I talked to you last 20 days ago for your Indiamart services. I'm talking with Mr. Satya Narayan. Sir, I have connected you for Indiamart services feedback and for the services like discussion as last month we discussed about the service. So have you been tried to using the Indiamart services as we discussed with the filters. You try with filters sir?\\nCustomer: Hmm.\\nExecutive: Uh, so that's it. Only that thing I wanted to discuss with you for the services, that's it. There's no issue. Apart from this one, sir, yeah.\\nCustomer: Uh.\\nExecutive: Uh, apart from this one, sir, like any issue with account manager, like in guidance of account manager, Ankur?\\nCustomer: No.\\nExecutive: No, okay.\\nExecutive: Uh, I have checked sir, you are dealing with fish feed, right? Different different type and sizes of fish feed, floating fish feed, etcetera. There is a good competition sir, in between the sea feeds and in the product you are dealing with. Like we do are we do having a that supplier also.\\nCustomer: Hey, one thing, one thing, are you trying to sell anything?\\nExecutive: No sir, that's not for sale sir. It's okay. Thank you so much. Bye.\\nExecutive: Uh, that's not anything to sale you. Okay, then call is not for that. It's just a feedback call.\\nCustomer: Thank you so much. Bye. Yeah, yeah. It's okay. Thank you so much. Bye. Everything is fine.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive asked about Indiamart services feedback.\\n\n- Customer asked if executive was trying to sell.\\n\n\\n\nResolution:\\n\n- Executive clarified it was a feedback call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Positive\\n\n\\n\n@@@Key Topics:\\n\n- feedback, services, filters, fish feed\\n\n\\n",
+  "call_entered_on": "11/27/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 119,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=31a3a431-ccae-4b9d-9fa8-e27d80409d88",
+  "ucid": "31a3a431-ccae-4b9d-9fa8-e27d80409d88",
+  "seller_categories": [
+    {
+      "mcat_id": "139294",
+      "mcat_name": "Floating Fish Feed"
+    },
+    {
+      "mcat_id": "55643",
+      "mcat_name": "Fish Feed"
+    },
+    {
+      "mcat_id": "655825",
+      "mcat_name": "Growel Fish Feed"
+    },
+    {
+      "mcat_id": "442859",
+      "mcat_name": "Groundnut De Oiled Cake"
+    },
+    {
+      "mcat_id": "142630",
+      "mcat_name": "Groundnut Cake"
+    }
+  ]
+}

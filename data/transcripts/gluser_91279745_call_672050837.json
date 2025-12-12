@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672050837",
+  "gluser_id": "91279745",
+  "vintage_months": 5,
+  "bl_dau_oct": 11,
+  "customer_type": "CATALOG",
+  "city_name": "Rajsamand",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9682321",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan.\\nCustomer: Haan, good evening Narendra ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\ngreeting\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 16,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=8a4b60a5-05fd-44e1-a3d1-e1ecc663eb31",
+  "ucid": "8a4b60a5-05fd-44e1-a3d1-e1ecc663eb31",
+  "seller_categories": [
+    {
+      "mcat_id": "11673",
+      "mcat_name": "Dolomite Powder"
+    },
+    {
+      "mcat_id": "127548",
+      "mcat_name": "Potash Feldspar Powder"
+    },
+    {
+      "mcat_id": "111300",
+      "mcat_name": "Feldspar Powder"
+    },
+    {
+      "mcat_id": "1015",
+      "mcat_name": "Granite Tiles"
+    },
+    {
+      "mcat_id": "9870",
+      "mcat_name": "Marble Powder"
+    }
+  ]
+}

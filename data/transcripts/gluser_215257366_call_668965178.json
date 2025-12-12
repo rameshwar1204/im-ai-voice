@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668965178",
+  "gluser_id": "215257366",
+  "vintage_months": 1,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Saharanpur",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9662280",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hanji?\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Hello\\n\\nExecutive: India Mart se bol rahe hain?\\n\\nCustomer: Hanji.\\n\\nExecutive: Ye asal mein mam ye I wood handicraft ka wo bhi diya tha na ji.\\n\\nCustomer: Haan.\\n\\nExecutive: Uske liye aap baat karni thi. Account manager diya hua tha.\\n\\nCustomer: Haan, bataiye.\\n\\nExecutive: Sir mam isme thodi problem chal rahi hai ki baat client se baat kar rahe hain lekin koi response nahi de raha hai.\\n\\nCustomer: Hmm.\\n\\nExecutive: Client se baat kar rahe hain lead vagaira aa rahi hai.\\n\\nExecutive: Okay.\\n\\nExecutive: Lead pe baat kar rahe hain lekin koi reply vagaira kuch aisa response nahi kar raha hai koi.\\n\\nCustomer: Okay.\\n\\nExecutive: Ji.\\n\\nExecutive: Main confirm karke aapko na fir aap account manager jo hai ye aapke handle karte hain to unhi se call karvati hu.\\n\\nCustomer: Thik hai mam. Mam wo jo mera account manager hai wo hai mam sun bhi hai mam.\\n\\nExecutive: Okay.\\n\\nExecutive: Ji.\\n\\nExecutive: Thik hai mam karvaiye call aap.\\n\\nCustomer: Okay okay.\\n\\nExecutive: Thik hai thik hai.\\n\\nCustomer: Thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting proper response from leads.\\n\n- Wants account manager to call regarding the issue.\\n\n\\n\nResolution:\\n\n- Executive assured to connect with account manager.\\n\n\\n\nNext Steps: \\n\n- Account manager will call the customer.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, account manager, response\\n\n\\n",
+  "call_entered_on": "11/8/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 84,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=1cff1d82-0978-447f-841f-18a82bd2d41e",
+  "ucid": "1cff1d82-0978-447f-841f-18a82bd2d41e",
+  "seller_categories": [
+    {
+      "mcat_id": "41373",
+      "mcat_name": "Wooden Photo Frames"
+    },
+    {
+      "mcat_id": "177546",
+      "mcat_name": "Wooden Wall Panel"
+    },
+    {
+      "mcat_id": "3536",
+      "mcat_name": "Wooden Frame"
+    },
+    {
+      "mcat_id": "95925",
+      "mcat_name": "Recliner Sofa"
+    },
+    {
+      "mcat_id": "173148",
+      "mcat_name": "Wooden Carved Sofa Set"
+    }
+  ]
+}

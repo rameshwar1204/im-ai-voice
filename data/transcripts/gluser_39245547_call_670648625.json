@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670648625",
+  "gluser_id": "39245547",
+  "vintage_months": 31,
+  "bl_dau_oct": 28,
+  "customer_type": "STAR",
+  "city_name": "Barasat",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9666935",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\n\\nExecutive: Hello\\n\\nCustomer: Ji.\\n\\nCustomer: Haan, maine whatsapp pe dal diya hai link, aap dekhiye.\\n\\nCustomer: Accha.\\n\\nCustomer: Mila?\\n\\nCustomer: Ek second, rukiye.\\n\\nCustomer: Ye link kyun nahi ho raha hai? Kaise kar raha hai?\\n\\nCustomer: Ek minute ruko.\\n\\nExecutive: Aap ek baar hi karo jahan pe aap dekh rahe ho. Ek baar hi karo mujhe.\\n\\nExecutive: Haan, ye jo link hai na, is link pe click karo aap.\\n\\nCustomer: Haan.\\n\\nCustomer: Ho gaya?\\n\\nCustomer: Haan.\\n\\nCustomer: Hua hai.\\n\\nExecutive: Abhi kya aaya hoga? Blue colour mein join on call ya join on video meet aaya hoga.\\n\\nCustomer: Aapni je bektir songe kotha bolchen, tini apnar callti holde rekhechen. Anugroho kore line-ti dhore thakun.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer unable to join the call via link.\\n\n\\n\nResolution:\\n\n- Executive guided the customer to join the call.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- call connection, link, whatsapp\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 83,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a8b45ec6-7057-4eb1-b27f-c9715247301e",
+  "ucid": "a8b45ec6-7057-4eb1-b27f-c9715247301e",
+  "seller_categories": [
+    {
+      "mcat_id": "56246",
+      "mcat_name": "Discharge Rods"
+    },
+    {
+      "mcat_id": "40841",
+      "mcat_name": "Voltage Detectors"
+    },
+    {
+      "mcat_id": "186240",
+      "mcat_name": "Rescue Hook"
+    },
+    {
+      "mcat_id": "56009",
+      "mcat_name": "Hot Stick"
+    },
+    {
+      "mcat_id": "155378",
+      "mcat_name": "Earthing Rod"
+    }
+  ]
+}

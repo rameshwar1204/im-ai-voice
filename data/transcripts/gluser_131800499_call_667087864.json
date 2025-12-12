@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667087864",
+  "gluser_id": "131800499",
+  "vintage_months": 26,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Pampore",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9625951",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello.\\nCustomer: Haan ji madam.\\nExecutive: Sir aapne jo screenshot mere ko bheja hai na.\\nCustomer: Haan.\\nExecutive: Ye system ka hai hai na? Wahan pe to net nahi chal raha hai sir aapka.\\nCustomer: Mam mere paas digit chal raha hai Wi-Fi hai jisse main screenshot bhej raha hu.\\nExecutive: Sir ek kaam karte hain, kal ek baar video meet pe aap aao. Theek hai? Video meet pe ek baar dekhte hain sir isko na.\\nCustomer: Achha.\\nExecutive: Theek hai? Kal aap morning mein aap 10 baje available rehna. Theek hai? Ek baar video meet kar lete hain. Chalega na?\\nCustomer: Mera mera wo screenshot bheja aap zara ek baar dekho.\\nExecutive: Haan haan wo wo maine dekh liya. Screenshot jo aapne mere ko bheja na mere ko wahi dikh raha hai ki like aapka jo internet hai na wo chal nahi raha hai sir.\\nCustomer: Dusri baar maine bheja hai. Isme dekho na mujhe chal raha hai upar.\\nExecutive: Theek hai theek hai ek minute sir ek minute na.\\nCustomer: Wi-Fi chal raha hai.\\nExecutive: Same aa raha hai wahi wala issue aa raha hai. Koi nahi kal ek baar video meet pe baat kar lete hain theek hai sir?\\nCustomer: Theek hai okay.\\nExecutive: Haan.",
+  "summary": "\\n\\nConcerns:\\n\\n- System shows no internet connection.\\n- Insists that his Wi-Fi is working.\\n\\n\\nResolution:\\n\\n- Reviewed the screenshot sent by the customer.\\n- Confirmed the issue is visible in the screenshot.\\n- Scheduled a video meeting for the next day at 10 AM.\\n\\n\\nNext Steps: \\n- Issue not resolved.\\n- A video meeting is scheduled for the next day at 10 AM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- technical support, internet issue, screenshot, video meeting, system error\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 64,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=e6267593-07e4-4494-b9dd-cf42b631195b",
+  "ucid": "e6267593-07e4-4494-b9dd-cf42b631195b",
+  "seller_categories": [
+    {
+      "mcat_id": "444843",
+      "mcat_name": "Mamra Badam"
+    },
+    {
+      "mcat_id": "185221",
+      "mcat_name": "Kashmiri Saffron"
+    },
+    {
+      "mcat_id": "42489",
+      "mcat_name": "Saffron"
+    },
+    {
+      "mcat_id": "40897",
+      "mcat_name": "Walnut Kernels"
+    },
+    {
+      "mcat_id": "127397",
+      "mcat_name": "Iranian Saffrons"
+    }
+  ]
+}

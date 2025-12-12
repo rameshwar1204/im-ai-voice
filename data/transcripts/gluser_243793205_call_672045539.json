@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "672045539",
+  "gluser_id": "243793205",
+  "vintage_months": 7,
+  "bl_dau_oct": 29,
+  "customer_type": "CATALOG",
+  "city_name": "Nissing",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9683203",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Haan ji sir.\\nCustomer: Hello?\\nExecutive: Ji sir. Sir, main bol rahi hu ki aap na ek kaam kariye, ye jo product hai na, iski buyleads ko leke issue aa raha hai na?\\nCustomer: Haan ji.\\nExecutive: To buylead mein ye batao ki location ka major issue hai ya product ka issue hai? Matlab wrong product ka?\\nCustomer: Ye wrong product matlab kaise?\\nExecutive: Wrong product matlab jaise ki aap jo product nahi bechte ho, us product ki aapke paas buylead aa rahi hai zyada.\\nCustomer: Bas haro ki hai madam, wo koi dikkat nahi hai. Haro ki lead nahi aani chahiye bas madam. Iski jagah rotavator blade ki aao. Haan haan, haro ki nahi aani chahiye.\\nExecutive: Sir aapne ek kaam nahi kiya, aapne na ek kaam nahi kiya. Maine last time na aapko ek cheez guide ki thi, aapko yaad hoga ki aapke paas jo lead aapko lagta hai ki ye aapke kaam ki nahi hai, aap usko not relevant kar do. Waha pe na jaise koi buylead aayi hai mere paas, theek hai? Uske right hand side mein ek option hota hai not relevant ka, dustbin bana rehta hai. To agar aap koi bhi buylead aapke liye kaam ki nahi hai, us buylead ko agar dustbin pe click karke delete kar doge to wo not relevant mein chali jayegi. Usse kya hoga ki aane wale time mein aapke paas uske jaisi buylead aana band ho jayengi. Automatically band ho jayengi. Ye pata hai? Ye koi banda nahi bhejta aapke paas buylead. Ye na automatically upar se hi generate hoke system pe aati hai. Aap aap agar online dekho, suno batao.\\nCustomer: Main ye bol raha hu madam isme likha tha, likha aaya tha mere paas, I do not see in this hero category.\\nExecutive: Achcha, haan.\\nCustomer: To isse maine, isse maine click karke submit bhi kiya hai.\\nExecutive: Achcha. To aapne click karke submit kiya hai, kitni buylead mein dekh leti hu aapne kaun si buylead not relevant ki hai. Haan aapne ye ki hai. Aapne 14 tarikh ko ki hai aur ek aaj bhi ki hai aapne ye DIST hero karke kasba ki aayi thi.\\nCustomer: Haan ji haan ji, ye saari main delete karte na isme.\\nExecutive: To main pata hai, jaise aapne aaj ki hai na, aise hi agar aap do se teen buylead total ek hafte mein ya 15 din mein kar doge to main itni shortage rahi hu ki band ho jayengi aana aapke paas. Aur nahi hoti hai to mujhe batana main fir ticket open karaungi aapki profile pe, fir wo usko upar se hi band karaungi. Aur ek cheez aur hai, ek cheez aur hai, aap abhi free hai kya ye bataiye, system pe hai aap available?\\nCustomer: Nahi free hai haan ji bolo.\\nExecutive: Maine aapko mail pe na ek link bheja hai video meeting ke liye, aap ek baar wo join kar lo.\\nCustomer: Meeting ke liye?\\nExecutive: Haan, main bata deti hu kaun si mail ID pe aapki aayega ye. Jo IndiaMART mein aapki registered mail ID hai na sir?\\nCustomer: Haan ji.\\nExecutive: Ye ye hai sarvana karke hai sarvana r430@gmail.com. Ye wali mail ID pe mail aaya hai abhi. Vidushi Tyagi IndiaMART ID hai meri usse aaya hai.\\nCustomer: Achcha ji.\\nExecutive: Haan. Ek baar ye wala join kar lo aap. System pe join karoge na sir?\\nCustomer: Madam ye IndiaMART us email pe aaya hai?\\nExecutive: Ah mail mein aap whatsapp number batao apna ek.\\nCustomer: Yahi hai.\\nExecutive: Ah nahi ye to hai call chal rahi hai na to aapka naam aa raha hai. Maine save kiya hua hai number, number nahi dikhai de raha mere ko. Isliye puch rahi hu main search karke aapko whatsapp pe bhej rahi hu.\\nCustomer: 88\\nExecutive: 88\\nCustomer: 160\\nExecutive: 160\\nCustomer: 20074\\nExecutive: Achcha mil gayi mil gayi. Hmm. Aap mere ko whatsapp pe message hi nahi kar rakha hai aapne. Maine buylead bheji thi ek sir aapko.\\nCustomer: [unintelligible]\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer receiving irrelevant buyleads.\\n\n- Wants to stop receiving buyleads of 'Harrow' category.\\n\\n\nResolution:\\n\n- Executive explained how to mark buyleads as irrelevant.\\n\n- Executive offered to open a ticket to block buyleads.\\n\n- Executive sent a video meeting link on email.\\n\\n\nNext Steps: \\n\n- Customer to join the video meeting.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, not relevant, video meeting, email\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 225,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=d7e91797-6e2b-4eb7-922a-1f6166030023",
+  "ucid": "d7e91797-6e2b-4eb7-922a-1f6166030023",
+  "seller_categories": [
+    {
+      "mcat_id": "42178",
+      "mcat_name": "Rotavator Blades"
+    },
+    {
+      "mcat_id": "68441",
+      "mcat_name": "Disc Blade"
+    },
+    {
+      "mcat_id": "145420",
+      "mcat_name": "Tractor Trolley Hook"
+    },
+    {
+      "mcat_id": "113920",
+      "mcat_name": "Rotavator Parts"
+    },
+    {
+      "mcat_id": "41760",
+      "mcat_name": "Tiller Blades"
+    }
+  ]
+}

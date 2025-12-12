@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "675158442",
+  "gluser_id": "116521270",
+  "vintage_months": 14,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Natepute",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9710900",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Hello?\\nExecutive: Haanji sir.\\nCustomer: Ji madam.\\nExecutive: Main abhi baat kar rahi thi. Aapne TrustSeal three years mein karaya hai.\\nCustomer: Ji ji kara liya wo three three years three years wala kara liya wo TrustSeal wala apna.\\nExecutive: Achcha achcha actually main yahan update dekh rahi thi yahan ka dala hua tha to maine aapko message kiya tha par maine dekha aapka payment aa chuka hai.\\nCustomer: Ji ji ji aa gaya wo payment. Start to maine aapko whatsapp pe message kar diya tha.\\nExecutive: Achcha achcha achcha achcha. Haan actually kya rehta hai na usme dono services chal jati hai jaise usme kya hai TrustSeal aapka complimentary rehta hai. Plus jaise jo bhi domain banta hai .com.co ya .in wo aapko lifetime ke liye mil jata hai jaise agar aap kal ko ki website plan ko band karke TrustSeal wapas se chalana chaho ya me aana chaho. To bhi aapka jo website banta hai jo domain banta hai wo aap lifetime ke liye apne ko le sakte ho humse. Ji bola maine madam ko ki abhi thoda sa isko main use karunga ek do mahina to uske baad ke liye jayenge karke bola.\\nExecutive: Achcha achcha. Nahi nahi mujhe laga aapko interest hai to main aapko clear kar deti hu is is benefits ka.\\nCustomer: Ji ji.\\nExecutive: Wo ho gaya sabse sir se bhi baat hua tha aur wo payment. Right. Abhi thoda isko thoda ek do mahina chalayenge uske baad fir me jayenge.\\nCustomer: Theek theek.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive called regarding TrustSeal subscription.\\n\n\\n\nResolution:\\n\n- Executive explained TrustSeal benefits.\\n\n- Customer wants to use current plan for 1-2 months.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- trustseal, subscription, payment, domain\\n\n\\n",
+  "call_entered_on": "11/25/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 109,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=bd79bd4c-49d4-4d6f-9710-07e4f9446d06",
+  "ucid": "bd79bd4c-49d4-4d6f-9710-07e4f9446d06",
+  "seller_categories": [
+    {
+      "mcat_id": "10992",
+      "mcat_name": "Industrial Epoxy Flooring"
+    },
+    {
+      "mcat_id": "171906",
+      "mcat_name": "Industrial Epoxy Flooring Service"
+    },
+    {
+      "mcat_id": "27939",
+      "mcat_name": "Epoxy Flooring"
+    },
+    {
+      "mcat_id": "120852",
+      "mcat_name": "Epoxy Flooring Services"
+    },
+    {
+      "mcat_id": "165824",
+      "mcat_name": "Epoxy Floor Coating Services"
+    }
+  ]
+}

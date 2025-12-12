@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670287491",
+  "gluser_id": "3619939",
+  "vintage_months": 53,
+  "bl_dau_oct": 6,
+  "customer_type": "CATALOG",
+  "city_name": "Daman",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9661695",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Hello.\\nHello, yes sir, good afternoon. Khana khana aaya ho Ankita, khana khana aaya ho.\\nUh sir, 3 baje ke liye schedule kar doon agar aap 3 baje free ho toh.\\nHa main phone karta hu na tere ko samne slot to phone karta hu.\\nThik hai, okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Schedule for 3 o'clock.\\n\n- Will call if slot is available.\\n\n\\n\nResolution:\\n\n- Agreed to schedule for 3 o'clock if available.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Will call if slot is available.\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nscheduling, availability\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 27,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=a3d83734-42f8-4eec-9852-bdb666a2c013",
+  "ucid": "a3d83734-42f8-4eec-9852-bdb666a2c013",
+  "seller_categories": [
+    {
+      "mcat_id": "164",
+      "mcat_name": "FRP Cooling Towers"
+    },
+    {
+      "mcat_id": "181331",
+      "mcat_name": "FRP Water Tank"
+    },
+    {
+      "mcat_id": "162",
+      "mcat_name": "Cooling Towers"
+    },
+    {
+      "mcat_id": "25879",
+      "mcat_name": "Cooling Tower Fans"
+    },
+    {
+      "mcat_id": "30665",
+      "mcat_name": "Induced Draft Cooling Tower"
+    }
+  ]
+}

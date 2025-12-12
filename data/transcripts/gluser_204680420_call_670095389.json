@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670095389",
+  "gluser_id": "204680420",
+  "vintage_months": 3,
+  "bl_dau_oct": 0,
+  "customer_type": "FCP",
+  "city_name": "Alwar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9665201",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello.\\nCustomer: Shree Ram Electronics se baat kar rahe hai sir?\\nExecutive: Yes, ma'am.\\nCustomer: Mai Shreeya baat kar rahi hu India Mart head office se.\\nCustomer: Hello?\\nExecutive: Haan ma'am boliye.\\nExecutive: Aapne cancellation raise kiya refund ke regarding already aapka refund process mein chal raha hai sir. Jaise aapne mail check nahi kiya maine kya mail kiya hai. Reject hi kar diya.\\nCustomer: Hello?\\nCustomer: Hello?\\nExecutive: Hello, sir aapko call back kar rahi hu sir aawaz nahi aa rahi hai isliye.\\nCustomer: Aa rahi hai ma'am aa rahi hai.\\nExecutive: Hello.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Cancellation and refund status.\\n\n\\n\nResolution:\\n\n- Refund is already in process.\\n\n- Executive mentioned a mail was sent.\\n\n\\n\nNext Steps: \\n\nIssue not resolved. Executive called back due to voice issues.\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- refund, cancellation, mail\\n\n\\n",
+  "call_entered_on": "11/12/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 50,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=48bc2215-6716-4944-bddc-e1312474667b",
+  "ucid": "48bc2215-6716-4944-bddc-e1312474667b",
+  "seller_categories": [
+    {
+      "mcat_id": "187707",
+      "mcat_name": "Men Lower"
+    },
+    {
+      "mcat_id": "185686",
+      "mcat_name": "Men Track Pants"
+    },
+    {
+      "mcat_id": "42874",
+      "mcat_name": "Men Pyjamas"
+    },
+    {
+      "mcat_id": "652861",
+      "mcat_name": "BoAt Earbuds"
+    },
+    {
+      "mcat_id": "184676",
+      "mcat_name": "Hosiery Lower"
+    }
+  ]
+}

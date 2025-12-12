@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "676586331",
+  "gluser_id": "247245752",
+  "vintage_months": 0,
+  "bl_dau_oct": 12,
+  "customer_type": "CATALOG",
+  "city_name": "Saswad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9704325",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello?\\nExecutive: Hello? Haan ji, Darshan se baat ho rahi hai?\\nCustomer: Haan ji.\\nExecutive: Actually sir aapko call gaya tha IndiaMART ki taraf se. Aapka concern aaya tha. Photo products ke liye aap bol rahe the, hai na?\\nCustomer: Haan.\\nExecutive: To wo aapne check karwa liya sir?\\nCustomer: Haan?\\nExecutive: Wo aapne check kar liya sir?\\nCustomer: Kyunki usme kaam abhi. Nahi usme satisfied nahi hai hum.\\nExecutive: Achha. To usme kya likh diya hai unhone?\\nCustomer: Kisne?\\nExecutive: Aap keh rahe ho na ki aapka usme appropriate nahi hai. To phir uske bajaye kya likhwana chahiye tha?\\nCustomer: Wo jo hamara hai na sir. Suno na madam kya ho gaya hai. Hamara product hai 90. Abhi humko do photo tumhare paas nahi tha. Khali ek photo nahi hai hamara bhi black phenyl ka. Mere khayal se usme rahega. Lekin maine check nahi kiya. To uska bhi photo aapko ek aadhe ghante mein mil jayega. Mere ko usme ek product ka kam se kam aapke paas 10 photo hai. Total 571 photo tumhare paas aa gaye le. Abhi ke do 573. Usme se 90 jo product hai usme jiska nahi hai. Wo to hamara madam hai na unko bhej do aap. Aur humne tumko product list diya hai. Product ka rate diya hai. Wahi hisab se tum kaam karo. Abhi kya hai usme ekdam se dull ho gaya hai pura.\\nExecutive: Hmm. Jo aap add kara rahe ho na sir unhi team ko aap coordinate karke bataoge na ki ye ye cheeze hai.\\nCustomer: To phir usi liye hum sab log ek sath suno na. Unka need kya hai wo log barabar baat nahi ho gaya ho gaya bolte hai khali. Ek ek line up lena mangta hai unhone phir wo wo log kaai kaam ke hai tumhare. Sab hum karenge. To isme ka jo banda rahega tumhara FMCG ka usko usme include karo na. Tum agar dusra koi aadmi lagayenge to hum kaise kaam ho jayega nahi ho jayega.\\nExecutive: Bhai kaam to sir har koi aap hi ke related karne ke liye hai. Baki unko aap bata dijiye kya karwana hai.\\nCustomer: Thik hai kal unko phone karne ko bolo mam ko wo bata denge unko aur hum phir unke unke sath line pe rahenge.\\nExecutive: Thik hai kal ek baar Google meet pe aake aap bata dena thik hai?\\nCustomer: Thik hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not satisfied with product listing.\\n\n- Customer says the listing has become dull.\\n\n- Customer wants the relevant team to coordinate.\\n\n\\n\nResolution:\\n\n- Executive asked the customer to coordinate with team.\\n\n- Executive suggested a Google Meet to resolve issues.\\n\n\\n\nNext Steps: \\n\n- Customer will join a Google Meet to explain issues.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- product listing, coordination, google meet, photos\\n\n\\n",
+  "call_entered_on": "11/28/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 163,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=be2a9067-fbfb-4dba-bfdf-554aedbc199e",
+  "ucid": "be2a9067-fbfb-4dba-bfdf-554aedbc199e",
+  "seller_categories": [
+    {
+      "mcat_id": "764",
+      "mcat_name": "Incense Sticks"
+    },
+    {
+      "mcat_id": "184173",
+      "mcat_name": "Green Phenyl"
+    },
+    {
+      "mcat_id": "143492",
+      "mcat_name": "Raw Incense Stick"
+    },
+    {
+      "mcat_id": "2140",
+      "mcat_name": "Liquid Detergent"
+    },
+    {
+      "mcat_id": "78320",
+      "mcat_name": "Mosquito Repellent Stick"
+    }
+  ]
+}

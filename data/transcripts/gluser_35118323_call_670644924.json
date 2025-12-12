@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "670644924",
+  "gluser_id": "35118323",
+  "vintage_months": 2,
+  "bl_dau_oct": 23,
+  "customer_type": "CATALOG",
+  "city_name": "Dhuri",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9696081",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Sir, aawaz hi nahi aa rahi aapki.\\nHello.\\nExecutive: Haan ji, haan ji.\\nCustomer: Aawaz hi nahi aa rahi aapki.\\nExecutive: Achha.\\nCustomer: Connect toh hua nahi tha ji.\\nExecutive: Dekho. Connect toh gaya, sab log aa toh gaye.\\nExecutive: Haan ji, aaj Jatan ko le lo ji saath mein.\\nCustomer: Hello.\\nExecutive: Hello. Ho gaya? Haan hai toh Jatin ji bhi line pe.\\nCustomer: Sir, Jatan nu le lo naal ji, joining.\\nExecutive: Achha, ek second.\\nExecutive: Okay.\\nCustomer: Abhi.\\nExecutive: Ab hui hai ji.\\nCustomer: Okay.\\nCustomer: Ho gayi ji.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Could not hear the executive\u2019s voice.\\n\n- Connection issues.\\n\n\\n\nResolution:\\n\n- Jatan was added to the call.\\n\n- Connection was established.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nconnection, voice issue, joining\\n\n\\n",
+  "call_entered_on": "11/13/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 48,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=74b831bd-d260-4b81-9013-65039d36e19d",
+  "ucid": "74b831bd-d260-4b81-9013-65039d36e19d",
+  "seller_categories": [
+    {
+      "mcat_id": "151066",
+      "mcat_name": "Ayurvedic Liver Tonic"
+    },
+    {
+      "mcat_id": "179668",
+      "mcat_name": "Vitamin D3 Tablets & Capsules"
+    },
+    {
+      "mcat_id": "11203",
+      "mcat_name": "Cough Syrup"
+    },
+    {
+      "mcat_id": "216875",
+      "mcat_name": "Telmisartan Tablets"
+    },
+    {
+      "mcat_id": "441921",
+      "mcat_name": "Ginseng Capsule"
+    }
+  ]
+}

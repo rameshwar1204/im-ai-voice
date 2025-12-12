@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "666855463",
+  "gluser_id": "202751997",
+  "vintage_months": 22,
+  "bl_dau_oct": 25,
+  "customer_type": "CATALOG",
+  "city_name": "Warangal",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9627177",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello.\\nExecutive: Hello.\\nCustomer: Hello.\\nExecutive: Ji. Good afternoon sir. Praveen ji se baat ho rahi hai?\\nCustomer: Haan bolo na.\\nExecutive: Praveen ji Pankaj baat kar raha hu IndiaMART head office se, relationship manager. Kaise hain?\\nCustomer: Theek hai ji boliye na. After three call kijiye.\\nExecutive: Uh, 3:00 baje call karu sir aapko?\\nCustomer: Haan three after.\\nExecutive: After three PM. Okay okay Praveen ji main karta hu connect aap se.\\nCustomer: Okay sir.\\nCustomer: Hello.",
+  "summary": "\\n\\nConcerns:\\n\\n- Requested a callback as he was busy.\\n\\n\\nResolution:\\n\\n- Agreed to call back after 3 PM.\\n\\n\\nNext Steps: \\nIssue not resolved. Executive will call the customer back after 3 PM.\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -> Neutral\\n\\n@@@Key Topics:\\n- callback, scheduling\\n\\n",
+  "call_entered_on": "11/3/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 38,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b96b3336-7e66-4202-b303-2a50c8d0e154",
+  "ucid": "b96b3336-7e66-4202-b303-2a50c8d0e154",
+  "seller_categories": [
+    {
+      "mcat_id": "120778",
+      "mcat_name": "Stretch Ceiling"
+    },
+    {
+      "mcat_id": "84397",
+      "mcat_name": "Fiber Optic Light"
+    },
+    {
+      "mcat_id": "21252",
+      "mcat_name": "Acoustical Panels"
+    },
+    {
+      "mcat_id": "135895",
+      "mcat_name": "Car Parking Tensile Structure"
+    },
+    {
+      "mcat_id": "159070",
+      "mcat_name": "School Broadcast System"
+    }
+  ]
+}

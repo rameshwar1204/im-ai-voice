@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "671809529",
+  "gluser_id": "142288323",
+  "vintage_months": 18,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Belagavi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9679545",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Hello? haan kaun aaya tha idhar se?\\nExecutive: Uh, yes sir, IndiaMART se baat kar rahi thi sir Preeti ki manager thi. Aapka ek catalog hai na Comet Technologies karke IndiaMART se?\\nCustomer: Haan.\\nExecutive: To uske regarding hi baat karna tha. Abhi aap Kedar Nath ji baat kar rahe hain?\\nCustomer: Nahi, Vinay baat kar raha.\\nExecutive: Vinay ji baat kar rahe hain. Thik hai, main aapko na apne side se call laga rahi hu sir, aap please answer kijiyega call.\\nCustomer: Uh, kya hua? Thik hai.\\nExecutive: Main keh rahi hu main aapko apne side se call laga rahi hu, aap please mera call answer kijiyega.\\nCustomer: Kab laga? Ek ghanta chhod ke lagao na, main thoda system pe baith ke call receive karta hu.\\nExecutive: Done, done. Chaliye main aapko ek ghante baad call kar leti hu, koi issue nahi hai. Okay.\\nCustomer: Okay.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to discuss about the catalog.\\n\n- Customer wants the executive to call after an hour.\\n\n\\n\nResolution:\\n\n- Executive agreed to call after an hour.\\n\n\\n\nNext Steps: \\n\n- Executive will call after an hour.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- catalog, call, indiaMART\\n\n\\n",
+  "call_entered_on": "11/17/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 66,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=078282d7-b15d-4b66-b6db-0df6b63714a0",
+  "ucid": "078282d7-b15d-4b66-b6db-0df6b63714a0",
+  "seller_categories": [
+    {
+      "mcat_id": "8762",
+      "mcat_name": "Drill Bits"
+    },
+    {
+      "mcat_id": "8213",
+      "mcat_name": "Roll Crusher"
+    },
+    {
+      "mcat_id": "154010",
+      "mcat_name": "Single Acting Hydraulic Cylinders"
+    },
+    {
+      "mcat_id": "38710",
+      "mcat_name": "Steel Fabrication"
+    },
+    {
+      "mcat_id": "3889",
+      "mcat_name": "Coal Crusher"
+    }
+  ]
+}

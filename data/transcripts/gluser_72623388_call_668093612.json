@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668093612",
+  "gluser_id": "72623388",
+  "vintage_months": 30,
+  "bl_dau_oct": 21,
+  "customer_type": "TSCATALOG",
+  "city_name": "Giridih",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9638640",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "Yes",
+  "transcript": "Customer: Hello\\nExecutive: Hello. Ma'am. Ji sir. Product catalog ke apne ko baat karna. Jo apne ek product hai na Mahindra DG set karke. Theek hai?\\nCustomer: Ji sir.\\nExecutive: Ek apna category Mahindra DG set hai. To ispe hume kuch product add karne hai. Primary aur secondary. Kyunki ye iski product ke andar D rank bani hui hai. Isme hamara consumption bhi ho raha hai. Lead by lead ka call inquiry sab cheez ka.\\nExecutive: Aur ek apna second product hai Cummins diesel generator and DG set. Aur teesra hai Mahindra diesel generator.\\nExecutive: To ispe hume na product add karna padega ma'am.\\nCustomer: Sir isko kya karna hoga?\\nExecutive: Isme basically product add karna hoga. Jaise suppose apna category hai DG set. Theek? To isme apna primary product hai DG set. Secondary hai CPCV 432750 KV. Ye hume product ho gaye hamare primary aur secondary. Theek hai? To yahan pe apne apna category hai. Unset hai Mahindra diesel generator. Isme hume primary karna ho ek secondary product karna hai. Do product add karne hai. Basically isme without product adding hum isko use kar rahe hain. Means iski by lead vagera consume kar raha hai. To iski rank hamari yahan pe D bani hui hai. To it means aap se confirm karna hai ye apna product agar aap use kar rahe hain to isme hume product add karna padega is category mein.\\nCustomer: Product add karna hoga. To wo aap karenge ya hum logo ko karna hoga khud se?\\nExecutive: Nahi aap bataye main add kar de raha hu ispe abhi.\\nCustomer: Sir hamare DG set hai diesel generator Kirloskar.\\nExecutive: Dekhiye ek apna hai pehla hai Mahindra DG set isme product kya rahega apna?\\nCustomer: Mahindra to hamara nahi hai sir hamara to Kirloskar hai.\\nExecutive: Mahindra nahi hai apna?\\nCustomer: Nahi.\\nExecutive: To to isko aap na category mein wahan se remove kar sakte hain. Main aapko bata de raha hu.\\nExecutive: Mahindra mein agar deal nahi karte hain na ma'am to isko hum hata sakte hain ma'am. Kyunki isme hamara lead ka consumption to ho raha hai ma'am.\\nCustomer: Theek hai sir.\\nExecutive: Ma'am nahi ek bar thoda sa aap na confirm kar lijiye please. Kyunki dekhiye main aapko teen product bata raha hu aap ek bar note down kar lijiye ma'am.\\nCustomer: Ek minute.\\nExecutive: Aap note down kar lijiye main aapko bata de raha hu.\\nCustomer: Ji sir boliye.\\nExecutive: Pehla hai Mahindra diesel generator apni category bani hui hai Mahindra diesel generator.\\nCustomer: Hmm.\\nExecutive: Ispe hume do product add karne hai. At least one product to add karna hi karna hai. Jo product name add karenge uski mapping Mahindra diesel generator mein hogi. Theek? Aur dusra category aap note kariye Cummins diesel generator and DG set.\\nCustomer: DG set.\\nExecutive: Cummins diesel generator and DG set. Ye category hai.\\nExecutive: Aur teesra note kariye Mahindra DG set.\\nCustomer: Hmm.\\nExecutive: Theek hai? To in teen ka ma'am aap mere ko thoda sa jaldi confirm karke bata dijiye at least hume yahan pe product add karne hai. Aur apne ko apne ko thoda sa product mein na catalog ka score bhi increase karna hai.\\nCustomer: Theek hai sir confirm karke aapko batati hu.\\nExecutive: Ji ji aap confirm karke mere ko bata dijiye ma'am.\\nCustomer: Theek hai sir.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer needs to add products to categories.\\n\n- Wants to remove Mahindra if not dealing in it.\\n\n- Wants to increase catalog score.\\n\n\\n\nResolution:\\n\n- Executive offered to add products.\\n\n- Executive provided categories to confirm.\\n\n- Executive explained how to remove category.\\n\n\\n\nNext Steps: \\n\n- Customer will confirm the product categories.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- product, category, mahindra, dg set, catalog\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 240,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b033b53c-1431-452c-8ca2-79f3a147354f",
+  "ucid": "b033b53c-1431-452c-8ca2-79f3a147354f",
+  "seller_categories": [
+    {
+      "mcat_id": "181778",
+      "mcat_name": "Kirloskar Diesel Generator"
+    },
+    {
+      "mcat_id": "37848",
+      "mcat_name": "Silent Diesel Generator"
+    },
+    {
+      "mcat_id": "13467",
+      "mcat_name": "Diesel Generator"
+    },
+    {
+      "mcat_id": "184867",
+      "mcat_name": "Mahindra Diesel Generator"
+    },
+    {
+      "mcat_id": "12771",
+      "mcat_name": "DG Sets"
+    }
+  ]
+}

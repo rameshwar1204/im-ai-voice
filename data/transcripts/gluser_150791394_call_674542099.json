@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "674542099",
+  "gluser_id": "150791394",
+  "vintage_months": 42,
+  "bl_dau_oct": 5,
+  "customer_type": "TSCATALOG",
+  "city_name": "Parbatsar",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9695444",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "[Ringing]",
+  "summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nringing\\n\n\\n",
+  "call_entered_on": "11/24/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 29,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=fd14834e-fa72-43c8-a5ef-c2a805af4c73",
+  "ucid": "fd14834e-fa72-43c8-a5ef-c2a805af4c73",
+  "seller_categories": [
+    {
+      "mcat_id": "23078",
+      "mcat_name": "Calcium Carbonate Powder"
+    },
+    {
+      "mcat_id": "5461",
+      "mcat_name": "Calcite Powder"
+    },
+    {
+      "mcat_id": "6663",
+      "mcat_name": "Natural Calcium Carbonate"
+    },
+    {
+      "mcat_id": "23106",
+      "mcat_name": "Calcium Powder"
+    },
+    {
+      "mcat_id": "113792",
+      "mcat_name": "Dolomite"
+    }
+  ]
+}

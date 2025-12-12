@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "667508210",
+  "gluser_id": "18888",
+  "vintage_months": 2,
+  "bl_dau_oct": 1,
+  "customer_type": "CATALOG",
+  "city_name": "Kala Amb",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9636020",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nExecutive: Hello?\\nCustomer: Yes, ma'am.\\nExecutive: Ma'am, wo jo performa hai na jo sales hai, maine saari aapko share kar di hai usme.\\nCustomer: Haan, ki matlab kya creation aapne?\\nExecutive: Mail ID mein, mail ID open kariye aap.\\nExecutive: Kya ye number aapka number WhatsApp pe hai jispe aapne mere ko call kiya jispe?\\nCustomer: Sir, ma'am ye jispe maine call kiya hai na ma'am ye to wo company ka number hai.\\nExecutive: Achha. Haan. Agar WhatsApp pe that's very good.\\nCustomer: To dekh paungi.\\nExecutive: Wo ma'am aapke paas mail nahi hai kya?\\nExecutive: Mere paas nahi hai wo jo sir baithe hai unke paas mail ke access hai wo mere paas nahi hai uska access.\\nExecutive: Nahi ma'am mera feedback bhi.\\nCustomer: Koi baat nahi, mai unse le leti hu ya to, koi baat nahi.\\nExecutive: Haan, aur usme ma'am mera personal feedback ka bhi gaya hoga usme.\\nCustomer: Haan, wo mai karwa deti hu, mai for sure hu.\\nExecutive: Theek hai.\\nCustomer: Okay, thank you ma'am.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Executive wants to confirm about the sales performa.\\n\n- Executive wants to confirm about personal feedback.\\n\n\\n\nResolution:\\n\n- Executive informed that he has shared the sales performa.\\n\n- Customer said she will take the mail from her colleague.\\n\n- Customer assured she will get the feedback done.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- sales performa, feedback, mail access\\n\n\\n",
+  "call_entered_on": "11/4/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 74,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=9dbe441e-904c-4e49-8c20-7bb06ab409c3",
+  "ucid": "9dbe441e-904c-4e49-8c20-7bb06ab409c3",
+  "seller_categories": [
+    {
+      "mcat_id": "138936",
+      "mcat_name": "Aluminum Roofing Sheet"
+    },
+    {
+      "mcat_id": "55116",
+      "mcat_name": "Color Coated Aluminum Coils"
+    },
+    {
+      "mcat_id": "215926",
+      "mcat_name": "Aluminium Sublimation Sheet"
+    },
+    {
+      "mcat_id": "161802",
+      "mcat_name": "Aluminum Fan Blades"
+    },
+    {
+      "mcat_id": "21758",
+      "mcat_name": "Aluminium Profiles"
+    }
+  ]
+}

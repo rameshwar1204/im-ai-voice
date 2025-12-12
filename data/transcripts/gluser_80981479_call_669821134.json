@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669821134",
+  "gluser_id": "80981479",
+  "vintage_months": 1,
+  "bl_dau_oct": 27,
+  "customer_type": "TSCATALOG",
+  "city_name": "Makrana",
+  "iil_vertical_name": "Tele Annual KCD",
+  "customer_ticket_id": "9662267",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Executive: Hello?\\nCustomer: Hello?\\nExecutive: Hello?\\nCustomer: Haan ji sir.\\nExecutive: Hello.\\nCustomer: Haan ji sir.\\nExecutive: Hello. Sir, Gmail ke liye baat karne ke liye kisko launch se?\\nCustomer: Achha achha. Sir, main aapko call karta hoon 10 minute mein sir.\\nExecutive: Theek hai. Call karun sir? Theek hai. Thank you.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer requested a call back in 10 minutes.\\n\n\\n\nResolution:\\n\n- Executive agreed to the callback.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- gmail, callback\\n\n\\n",
+  "call_entered_on": "11/11/2025",
+  "flag_in_out": "Incoming",
+  "call_status": "Answered",
+  "call_duration": 39,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c73b897-c5b9-41e3-9877-db2e32894015",
+  "ucid": "7c73b897-c5b9-41e3-9877-db2e32894015",
+  "seller_categories": [
+    {
+      "mcat_id": "151987",
+      "mcat_name": "White Marble Temple"
+    },
+    {
+      "mcat_id": "32520",
+      "mcat_name": "Marble Temples"
+    },
+    {
+      "mcat_id": "9853",
+      "mcat_name": "Marble Fountains"
+    },
+    {
+      "mcat_id": "166036",
+      "mcat_name": "Temple Construction Services"
+    },
+    {
+      "mcat_id": "1113",
+      "mcat_name": "Stone Fountains"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "669230944",
+  "gluser_id": "250383971",
+  "vintage_months": 3,
+  "bl_dau_oct": 27,
+  "customer_type": "CATALOG",
+  "city_name": "Firozabad",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9651645",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello?\\nCustomer: Hello?\\nCustomer: Hello?\\nCustomer: Haan ji?\\nCustomer: Haan ji Nishant ji se baat ho rahi hai?\\nCustomer: Nishant ji se nahi baat ho rahi Vikas Bhatnagar ji se baat ho rahi hai bolo.\\nExecutive: Dipti overseas se baat kar rahe hain sir aap?\\nCustomer: Haan haan haan.\\nExecutive: Sir aapka ek concern aaya tha aapne India mart se concern apna raise kiya tha ki aapko buylead nahi mil rahi hai product ke related.\\nCustomer: Haan haan nahi mil rahi hai kya kehte hain lead kya farzi lead sab aati hai aapke usme koi maal bhi leta hai ye batao.\\nExecutive: Kya dikkat aa rahi hai sir bataiye mujhe bataiye kya problem aa rahi hai aapko aap nikal dete ho ki ye 2000 piece le raha hai ye 5000 piece le raha hai aur maal koi leta nahi hai.\\nExecutive: To sir aap baat karte hain uske baad maal nahi leta hai kya?\\nCustomer: Are baat baat karne ke baad maal nahi le raha hai to iska matlab kya hai to aisi farzi lead hai sir aisa nahi hota genuine customer hota hai bhai sahab maal le leta hai ek baar mein.\\nExecutive: Sir dekho aap kitna time se India mart use kar rahe ho sir?\\nCustomer: Are hum India mart se kareeb kareeb ho gayi mere kya kehte hain is saal ho rahi hai.\\nExecutive: 20 saal ho gayi sir aapko 20 saal mein aapko agar India mart se buyer nahi mil raha hota to aap 20 saal invest nahi karte na sir India mart se.\\nCustomer: Problem sir aap meri baat sunoge to main aapko solution de paungi na sir.\\nCustomer: Haan.\\nExecutive: Aapko agar buylead mein kuch problem aa rahi hai to usko lekar ke discussion kiya ja sakta hai ki buylead mein problem hai buylead kharab hai product ke related nahi hai abki baar abki baar registration kara liya ab aage registration nahi hoga aapke yahan se seedhi baat hai.\\nExecutive: Ye aap solution wali baat nahi kar rahe ho ye to mujhe lag raha hai aap solution wali baat kya hai maal leta nahi hai wo aapki marzi hai sir dekho wo aapki marzi hai sir aap farzi lead mat diya karo.\\nCustomer: Haan farzi lead mat diya karo.\\nExecutive: Jo lead sabke paas aati hai wahi lead aapke paas bhi aati hai sir.\\nCustomer: Are to maal kyu nahi kharidta customer?\\nExecutive: To sir aap baat karo na buyer se wo kya problem bata rahe hain aapko kya kya bol raha hai.\\nCustomer: 35 35000 pe pehle lete hain kya kehte hain kya kehte hain maal return milta nahi hai kuch bhi.\\nExecutive: Sir aapko agar return nahi milta hota to aap 20 saal se thodi na hote sir India mart pe.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer is not getting genuine buyleads.\\n\n- No one buys the product after lead generation.\\n\n\\n\nResolution:\\n\n- Executive explained the lead generation process.\\n\n- Executive mentioned discussion on buylead issues.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Angry -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, registration, product, customer\\n\n\\n",
+  "call_entered_on": "11/10/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 166,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=b4805d25-d05b-4e29-8442-8655b380dab5",
+  "ucid": "b4805d25-d05b-4e29-8442-8655b380dab5",
+  "seller_categories": [
+    {
+      "mcat_id": "219289",
+      "mcat_name": "Glass Milk Bottle"
+    },
+    {
+      "mcat_id": "28751",
+      "mcat_name": "Glass Storage Jar"
+    },
+    {
+      "mcat_id": "146230",
+      "mcat_name": "Pickle Jars"
+    },
+    {
+      "mcat_id": "445896",
+      "mcat_name": "Goli Soda Glass Bottle"
+    },
+    {
+      "mcat_id": "74494",
+      "mcat_name": "Honey Jar"
+    }
+  ]
+}

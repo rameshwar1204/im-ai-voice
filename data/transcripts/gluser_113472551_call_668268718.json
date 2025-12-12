@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668268718",
+  "gluser_id": "113472551",
+  "vintage_months": 22,
+  "bl_dau_oct": 7,
+  "customer_type": "CATALOG",
+  "city_name": "Balotra",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9637142",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Hello\\nExecutive: Hello\\nCustomer: Haan ji.\\nExecutive: Sir hum log India Mart se baat kar rahe the aapne ek ghante ke baad bola tha call karne ke liye sir.\\nCustomer: Haan ji.\\nExecutive: Haan ji sir koi dikkat aa rahi thi aapne hume call kiya tha aapki miss call thi sir.\\nCustomer: Pehle aapki aayi thi usme call uske baad.\\nExecutive: Sunai nahi diya sir kya bol rahe hain?\\nCustomer: Pehle aapka aaya hua tha uske baad maine aapko call kiya aapke number pe.\\nExecutive: Main samjhi nahi kya bol rahe hain sir?\\nCustomer: Pehle aapka call aaya hua tha isliye.\\nExecutive: Haan call kiya humne aapko sir lekin aapka miss ha hum logo ne call aapko feedback ke regarding kiya tha ki India Mart se abhi aapka business kaisa chal raha hai in terms of inquiry by leads kaisa response aa raha hai aapko to hum logo ne is cheez ke liye call kiya tha to might be aap busy honge aap nahi utha paye honge aur jab aapne kiya to hum nahi utha paye sir.\\nExecutive: Jahan tak main dekh rahi hu Harish sir aap by leads to acche se consumptions karte hain but aapka calls ka jo usages hai wo kafi dropped hai to main aapke calls ke usages ki baat kar rahi thi.\\nCustomer: Aap office me nahi ho office me aake jyada baat karunga kal.\\nExecutive: To sir ye miss call wala jo request hai na Harish sir main miss call wala jo request hai ye isko main band kar deti hu kal aap mujhe bata dijiye kis time pe aap available rahenge main usi time pe aapko call kar lungi.\\nCustomer: Ji.\\nExecutive: Sir?\\nCustomer: Main khud hi kar lunga aapko call okay.\\nExecutive: Koi theek hai to aap phir bhi mujhe koi time bata dijiye main morning mein 9:00 to 6:00 rehti hu sir.\\nCustomer: Aap aisa karo mera number aapke paas hai aap number se mere ko call karna theek hai main kal aapko call.\\nExecutive: Sir mera ye ye number mera officially number hai sir.\\nCustomer: Haan to main aapko wapas kar dunga.\\nExecutive: Theek hai to ye jo complaint wali miss call wali request open hui thi main isko close kar du?\\nCustomer: Hmm?\\nExecutive: Sir miss call ke liye aapki close nahi karna hai isko close nahi karna hai main aapke sath baat karta hu actually mera office aake office aake mujhe kam hai.\\nExecutive: Theek hai.\\nExecutive: Theek hai sir okay kal main baat karti hu.\\nCustomer: Theek hai.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer had a missed call from IndiaMART.\\n\n- Executive inquired about business via IndiaMART.\\n\n- Customer wants to discuss after reaching office.\\n\n\\n\nResolution:\\n\n- Executive offered to close miss call request.\\n\n- Customer declined closing the miss call request.\\n\n\\n\nNext Steps: \\n\n- Customer will call back after reaching office.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -> Neutral\\n\n\\n\n@@@Key Topics:\\n\n- miss call, feedback, business, inquiry\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 142,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=797c6316-b545-4f3d-bafe-acceb2541841",
+  "ucid": "797c6316-b545-4f3d-bafe-acceb2541841",
+  "seller_categories": [
+    {
+      "mcat_id": "189241",
+      "mcat_name": "Roto Fabric"
+    },
+    {
+      "mcat_id": "7123",
+      "mcat_name": "Polyester Fabric"
+    },
+    {
+      "mcat_id": "84594",
+      "mcat_name": "Micro Polyester Fabric"
+    },
+    {
+      "mcat_id": "184549",
+      "mcat_name": "Petticoat Fabric"
+    },
+    {
+      "mcat_id": "185200",
+      "mcat_name": "Cotton Petticoat"
+    }
+  ]
+}

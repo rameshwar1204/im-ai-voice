@@ -1,0 +1,42 @@
+{
+  "click_to_call_id": "668134975",
+  "gluser_id": "37642107",
+  "vintage_months": 2,
+  "bl_dau_oct": 0,
+  "customer_type": "CATALOG",
+  "city_name": "Bhiwadi",
+  "iil_vertical_name": "Tele Annual CSD",
+  "customer_ticket_id": "9640263",
+  "customer_ticket_status": "C",
+  "is_ticket_repeat60d": "No",
+  "transcript": "Customer: Haanji madam.\\nExecutive: Ji sir, woh kal aapke ek call kiya tha na usne.\\nCustomer: Haan haan.\\nExecutive: Haan, toh woh aapka matlab call miss ho gaya tha, toh ek concern aapka ho gaya tha, toh main sir abhi close kar do, update toh maine aapko kar hi diya hai ki process ho gaya hai sir.\\nCustomer: Achha, theek hai.\\nExecutive: Theek hai, close kar do phir main isko?\\nCustomer: Close kyun karna hai? Jab talak madam yeh chal raha hai, case solve nahi hota, jab talak close kyun karna hai?\\nExecutive: Nahi nahi nahi nahi, refund ka nahi bol rahi main, woh jo incoming aapki miss hui thi iske liye. Matlab maine ek hamare paas ek hota hai ki incoming aapki miss hui thi, maine aapko uske baare mein update kar diya ya nahi.\\nCustomer: Haan, theek hai.\\nExecutive: Toh update maine aapko kar diya tha na?\\nCustomer: Theek hai.\\nExecutive: Theek hai, toh main isko close kar de raha aapko. Theek hai, baaki kuch bhi ho aap mujhe call karega.\\nCustomer: Theek hai.\\nExecutive: Okay sir, thank you.\\n",
+  "summary": "\\n\nConcerns:\\n\n- Customer asked why close the request.\\n\nResolution:\\n\n- Executive clarified it was regarding missed call update.\\n\n- Executive closed the request after clarification.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nrefund\\n\n@@@Sentiment:\\n\n- Angry -> Satisfied\\n\n\\n\n@@@Key Topics:\\n\n- refund, missed call, update, closure\\n\n\\n",
+  "call_entered_on": "11/6/2025",
+  "flag_in_out": "Outgoing",
+  "call_status": "Answered",
+  "call_duration": 67,
+  "call_recording_url": "https://sr.knowlarity.com/vr/fetchsound/?callid=7c0e3250-3c04-4da4-bc26-45f86c23ac81",
+  "ucid": "7c0e3250-3c04-4da4-bc26-45f86c23ac81",
+  "seller_categories": [
+    {
+      "mcat_id": "43386",
+      "mcat_name": "Road Construction"
+    },
+    {
+      "mcat_id": "23641",
+      "mcat_name": "Building Construction"
+    },
+    {
+      "mcat_id": "175580",
+      "mcat_name": "Boundary Walls Construction Services"
+    },
+    {
+      "mcat_id": "167404",
+      "mcat_name": "Hydraulic Floor Spring"
+    },
+    {
+      "mcat_id": "110077",
+      "mcat_name": "Fiber Cement Tile"
+    }
+  ]
+}
