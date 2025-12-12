@@ -6,14 +6,16 @@ import "time"
 
 // RawTranscript represents an incoming call transcript
 type RawTranscript struct {
-	CallID     string                 `json:"call_id"`
-	Timestamp  time.Time              `json:"timestamp"`
-	SellerID   string                 `json:"seller_id"`
-	AgentID    string                 `json:"agent_id,omitempty"`
-	Language   string                 `json:"language,omitempty"`
-	DurationMS int                    `json:"duration_ms,omitempty"`
-	Transcript string                 `json:"transcript_text"`
-	Metadata   map[string]interface{} `json:"metadata,omitempty"`
+	CallID       string                 `json:"call_id"`
+	Timestamp    time.Time              `json:"timestamp"`
+	SellerID     string                 `json:"seller_id"`
+	AgentID      string                 `json:"agent_id,omitempty"`
+	Language     string                 `json:"language,omitempty"`
+	DurationMS   int                    `json:"duration_ms,omitempty"`
+	Transcript   string                 `json:"transcript_text"`
+	CustomerType string                 `json:"customer_type,omitempty"`
+	Vintage      int                    `json:"vintage,omitempty"`
+	Metadata     map[string]interface{} `json:"metadata,omitempty"`
 }
 
 // ==================== ANALYSIS MODELS ====================
@@ -78,6 +80,7 @@ type BucketSummary struct {
 	Bucket            string         `json:"bucket"`
 	TotalCount        int            `json:"total_count"`
 	AffectedSellers   int            `json:"affected_sellers"`
+	AffectedSellerIDs []string       `json:"affected_seller_ids,omitempty"`
 	TopProblems       []ProblemCount `json:"top_problems"`
 	SeverityBreakdown map[string]int `json:"severity_breakdown"`
 	Examples          []string       `json:"examples,omitempty"`
@@ -126,10 +129,12 @@ type Ticket struct {
 
 // IngestResponse is returned after ingesting a transcript
 type IngestResponse struct {
-	CallID   string `json:"call_id"`
-	Status   string `json:"status"`
-	Message  string `json:"message,omitempty"`
-	Analyzed bool   `json:"analyzed"`
+	CallID   string          `json:"call_id"`
+	File     string          `json:"file,omitempty"`
+	Status   string          `json:"status"`
+	Message  string          `json:"message,omitempty"`
+	Analyzed bool            `json:"analyzed"`
+	Analysis *AnalysisResult `json:"analysis,omitempty"`
 }
 
 // AnalyzeResponse is returned after analyzing a transcript

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IndiaMART Voice AI - Command Center</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🎯</span>
+                <h1>IndiaMART Voice AI</h1>
+                <span class="badge">Command Center</span>
+            </div>
+            <div class="header-actions">
+                <button class="btn btn-outline" onclick="resetDemo()">
+                    🔄 Reset Demo
+                </button>
+                <div class="connection-status" id="connectionStatus">
+                    <span class="status-dot"></span>
+                    <span>Connecting...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Navigation Tabs -->
+        <nav class="tabs">
+            <button class="tab active" data-tab="simulator">
+                🎤 Call Simulator
+            </button>
+            <button class="tab" data-tab="sellers">
+                👥 Seller Profiles
+            </button>
+            <button class="tab" data-tab="dashboard">
+                📊 Analytics Dashboard
+            </button>
+            <button class="tab" data-tab="tickets">
+                🎫 Tickets
+            </button>
+        </nav>
+
+        <!-- Tab Content -->
+        <main class="content">
+            <!-- Tab 1: Call Simulator -->
+            <section class="tab-content active" id="simulator">
+                <div class="simulator-layout">
+                    <!-- Input Panel -->
+                    <div class="panel input-panel">
+                        <div class="panel-header">
+                            <h2>📝 Input Transcript</h2>
+                            <select id="sampleSelector" onchange="loadSample()">
+                                <option value="">-- Load Sample --</option>
+                                <option value="angry_customer">😠 Angry Customer (Churn Risk)</option>
+                                <option value="happy_renewal">😊 Happy Renewal</option>
+                                <option value="technical_issue">🔧 Technical Issue</option>
+                                <option value="upsell_opportunity">💰 Upsell Opportunity</option>
+                            </select>
+                        </div>
+                        <div class="panel-body">
+                            <div class="form-group">
+                                <label>Seller ID (gluser_id)</label>
+                                <input type="text" id="sellerId" placeholder="e.g., 100195284" value="demo_seller_001">
+                            </div>
+                            <div class="form-group">
+                                <label>Call ID</label>
+                                <input type="text" id="callId" placeholder="e.g., 670430259" value="">
+                            </div>
+                            <div class="form-group">
+                                <label>Transcript Text</label>
+                                <textarea id="transcriptInput" rows="12" placeholder="Paste or type the call transcript here...
+
+Example:
+Agent: Good morning, thank you for calling IndiaMART support. How can I help you today?
+Customer: I've been a seller for 3 years and I'm getting very few leads lately. This is frustrating!
+Agent: I understand your concern. Let me check your account..."></textarea>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group half">
+                                    <label>Customer Type</label>
+                                    <select id="customerType">
+                                        <option value="CATALOG">CATALOG</option>
+                                        <option value="STAR">STAR</option>
+                                        <option value="LEADER">LEADER</option>
+                                    </select>
+                                </div>
+                                <div class="form-group half">
+                                    <label>Vintage (months)</label>
+                                    <input type="number" id="vintage" value="24">
+                                </div>
+                            </div>
+                            <button class="btn btn-primary btn-large" onclick="processTranscript()" id="processBtn">
+                                🚀 Analyze Call
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Results Panel -->
+                    <div class="panel results-panel">
+                        <div class="panel-header">
+                            <h2>📊 Analysis Results</h2>
+                            <span class="processing-indicator" id="processingIndicator" style="display:none;">
+                                <span class="spinner"></span> Processing...
+                            </span>
+                        </div>
+                        <div class="panel-body" id="resultsBody">
+                            <div class="empty-state">
+                                <div class="empty-icon">🎯</div>
+                                <h3>Ready to Analyze</h3>
+                                <p>Paste a transcript and click "Analyze Call" to see the AI analysis results</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Live Log Panel -->
+                    <div class="panel log-panel">
+                        <div class="panel-header">
+                            <h2>📋 Processing Log</h2>
+                            <button class="btn btn-small" onclick="clearLog()">Clear</button>
+                        </div>
+                        <div class="panel-body">
+                            <div class="log-entries" id="logEntries">
+                                <div class="log-entry info">
+                                    <span class="log-time">--:--:--</span>
+                                    <span class="log-message">System ready. Waiting for input...</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab 2: Seller Profiles -->
+            <section class="tab-content" id="sellers">
+                <div class="sellers-layout">
+                    <div class="panel sellers-list-panel">
+                        <div class="panel-header">
+                            <h2>👥 All Sellers</h2>
+                            <button class="btn btn-small" onclick="loadSellers()">🔄 Refresh</button>
+                        </div>
+                        <div class="panel-body">
+                            <div class="search-box">
+                                <input type="text" id="sellerSearch" placeholder="Search by Seller ID..." onkeyup="filterSellers()">
+                            </div>
+                            <div class="sellers-list" id="sellersList">
+                                <div class="empty-state small">
+                                    <p>Loading sellers...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel seller-detail-panel">
+                        <div class="panel-header">
+                            <h2>📋 Seller Details</h2>
+                        </div>
+                        <div class="panel-body" id="sellerDetails">
+                            <div class="empty-state">
+                                <div class="empty-icon">👤</div>
+                                <h3>Select a Seller</h3>
+                                <p>Click on a seller from the list to view their complete profile</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab 3: Analytics Dashboard -->
+            <section class="tab-content" id="dashboard">
+                <div class="dashboard-layout">
+                    <!-- Hero Stats -->
+                    <div class="hero-stats" id="heroStats">
+                        <div class="hero-stat-card calls">
+                            <div class="hero-icon">📞</div>
+                            <div class="hero-content">
+                                <div class="hero-value" id="totalCalls">--</div>
+                                <div class="hero-label">Total Calls Analyzed</div>
+                                <div class="hero-sub" id="callsTrend">Today's Intelligence</div>
+                            </div>
+                        </div>
+                        <div class="hero-stat-card sellers">
+                            <div class="hero-icon">👥</div>
+                            <div class="hero-content">
+                                <div class="hero-value" id="totalSellers">--</div>
+                                <div class="hero-label">Unique Sellers</div>
+                                <div class="hero-sub" id="needsAttention">-- need attention</div>
+                            </div>
+                        </div>
+                        <div class="hero-stat-card issues">
+                            <div class="hero-icon">⚠️</div>
+                            <div class="hero-content">
+                                <div class="hero-value" id="totalIssues">--</div>
+                                <div class="hero-label">Issues Detected</div>
+                                <div class="hero-sub" id="avgSatisfaction">Avg Satisfaction: --</div>
+                            </div>
+                        </div>
+                        <div class="hero-stat-card tickets">
+                            <div class="hero-icon">🎫</div>
+                            <div class="hero-content">
+                                <div class="hero-value" id="totalTickets">--</div>
+                                <div class="hero-label">Tickets Generated</div>
+                                <div class="hero-sub" id="upsellOpps">-- upsell opportunities</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Main Charts Row -->
+                    <div class="charts-row">
+                        <div class="panel chart-panel large">
+                            <div class="panel-header">
+                                <h2>📊 Top Issue Categories</h2>
+                                <span class="badge" id="issueBucketCount">0 categories</span>
+                            </div>
+                            <div class="panel-body" id="issueCategories">
+                                <div class="loading-state">
+                                    <div class="spinner"></div>
+                                    <p>Loading analytics...</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="panel chart-panel">
+                            <div class="panel-header">
+                                <h2>😊 Sentiment Analysis</h2>
+                            </div>
+                            <div class="panel-body" id="sentimentDist">
+                                <div class="loading-state">
+                                    <div class="spinner"></div>
+                                    <p>Loading...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Secondary Charts Row -->
+                    <div class="charts-row">
+                        <div class="panel chart-panel">
+                            <div class="panel-header">
+                                <h2>🚨 Churn Risk Distribution</h2>
+                            </div>
+                            <div class="panel-body" id="churnRisk">
+                                <div class="loading-state">
+                                    <div class="spinner"></div>
+                                    <p>Loading...</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="panel chart-panel">
+                            <div class="panel-header">
+                                <h2>🔥 Critical Sellers</h2>
+                                <span class="badge danger" id="criticalCount">0</span>
+                            </div>
+                            <div class="panel-body" id="criticalSellers">
+                                <div class="loading-state">
+                                    <div class="spinner"></div>
+                                    <p>Loading...</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="panel chart-panel">
+                            <div class="panel-header">
+                                <h2>💰 Upsell Opportunities</h2>
+                            </div>
+                            <div class="panel-body" id="upsellPanel">
+                                <div class="loading-state">
+                                    <div class="spinner"></div>
+                                    <p>Loading...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Quick Actions -->
+                    <div class="actions-bar">
+                        <button class="btn btn-primary btn-large" onclick="triggerAggregation()">
+                            <span class="btn-icon">📊</span> Run Aggregation Now
+                        </button>
+                        <button class="btn btn-outline btn-large" onclick="loadDashboardData()">
+                            <span class="btn-icon">🔄</span> Refresh Data
+                        </button>
+                        <button class="btn btn-success btn-large" onclick="switchTab('tickets')">
+                            <span class="btn-icon">🎫</span> View All Tickets
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab 4: Tickets -->
+            <section class="tab-content" id="tickets">
+                <div class="tickets-layout">
+                    <div class="panel">
+                        <div class="panel-header">
+                            <h2>🎫 Generated Tickets</h2>
+                            <div class="header-actions">
+                                <select id="ticketDateFilter" onchange="loadTickets()">
+                                    <option value="">Loading dates...</option>
+                                </select>
+                                <button class="btn btn-small" onclick="loadTicketDates()">🔄</button>
+                            </div>
+                        </div>
+                        <div class="panel-body">
+                            <div class="tickets-list" id="ticketsList">
+                                <div class="empty-state">
+                                    <div class="empty-icon">🎫</div>
+                                    <h3>No Tickets Yet</h3>
+                                    <p>Tickets are auto-generated after aggregation when issues reach threshold</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

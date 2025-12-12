@@ -17,6 +17,13 @@ func NewRouter(s *Service) *Router {
 }
 
 func (r *Router) RegisterRoutes() {
+	// Static files (Dashboard UI)
+	fs := http.FileServer(http.Dir("./static"))
+	http.Handle("/static/", http.StripPrefix("/static/", fs))
+
+	// Root - serve dashboard
+	http.HandleFunc("/", r.handleRoot)
+
 	// Ingestion
 	http.HandleFunc("/ingest", r.handleIngest)
 
@@ -34,17 +41,26 @@ func (r *Router) RegisterRoutes() {
 	// Aggregates
 	http.HandleFunc("/aggregates", r.handleAggregates)
 	http.HandleFunc("/aggregates/", r.handleAggregateByDate)
-	http.HandleFunc("/aggregates/trigger", r.handleTriggerAggregation)
+	http.HandleFunc("/aggregate", r.handleTriggerAggregation) // POST to trigger aggregation
 
 	// Tickets
 	http.HandleFunc("/tickets", r.handleTickets)
 	http.HandleFunc("/tickets/", r.handleTicketsByDate)
 
-	// Dashboard
+	// Dashboard API
 	http.HandleFunc("/dashboard", r.handleDashboard)
 
 	// Health check
 	http.HandleFunc("/health", r.handleHealth)
+}
+
+// handleRoot serves the dashboard UI
+func (r *Router) handleRoot(w http.ResponseWriter, req *http.Request) {
+	if req.URL.Path != "/" {
+		http.NotFound(w, req)
+		return
+	}
+	http.ServeFile(w, req, "./static/index.html")
 }
 
 // ==================== INGESTION ====================
@@ -57,13 +73,17 @@ func (r *Router) handleIngest(w http.ResponseWriter, req *http.Request) {
 	}
 
 	var body struct {
-		CallID     string `json:"call_id"`
-		SellerID   string `json:"seller_id"`
-		AgentID    string `json:"agent_id"`
-		Transcript string `json:"transcript_text"`
-		Language   string `json:"language"`
-		DurationMS int    `json:"duration_ms"`
-		Analyze    bool   `json:"analyze"` // If true, analyze immediately
+		CallID       string `json:"call_id"`
+		SellerID     string `json:"seller_id"`
+		GluserID     string `json:"gluser_id"` // Alternative for seller_id (UI uses this)
+		AgentID      string `json:"agent_id"`
+		Transcript   string `json:"transcript_text"`
+		CallText     string `json:"call_text"` // Alternative for transcript_text (UI uses this)
+		Language     string `json:"language"`
+		DurationMS   int    `json:"duration_ms"`
+		CustomerType string `json:"customer_type"`
+		Vintage      int    `json:"vintage"`
+		Analyze      bool   `json:"analyze"` // If true, analyze immediately
 	}
 
 	if err := json.NewDecoder(req.Body).Decode(&body); err != nil {
@@ -71,19 +91,31 @@ func (r *Router) handleIngest(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	if body.Transcript == "" {
-		jsonError(w, "transcript_text is required", http.StatusBadRequest)
+	// Support both field names
+	transcript := body.Transcript
+	if transcript == "" {
+		transcript = body.CallText
+	}
+	sellerID := body.SellerID
+	if sellerID == "" {
+		sellerID = body.GluserID
+	}
+
+	if transcript == "" {
+		jsonError(w, "transcript_text or call_text is required", http.StatusBadRequest)
 		return
 	}
 
 	rt := RawTranscript{
-		CallID:     body.CallID,
-		SellerID:   body.SellerID,
-		AgentID:    body.AgentID,
-		Transcript: body.Transcript,
-		Language:   body.Language,
-		DurationMS: body.DurationMS,
-		Timestamp:  time.Now(),
+		CallID:       body.CallID,
+		SellerID:     sellerID,
+		AgentID:      body.AgentID,
+		Transcript:   transcript,
+		Language:     body.Language,
+		DurationMS:   body.DurationMS,
+		CustomerType: body.CustomerType,
+		Vintage:      body.Vintage,
+		Timestamp:    time.Now(),
 	}
 
 	response, err := r.service.IngestTranscript(req.Context(), rt, body.Analyze)

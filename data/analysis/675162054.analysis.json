@@ -1,0 +1,59 @@
+{
+  "call_id": "675162054",
+  "seller_id": "113709",
+  "timestamp": "2025-12-12T19:18:55.654909917+05:30",
+  "transcript_en": "Customer: Hello\nExecutive: Hello\nCustomer: Hello\nExecutive: Madam Vineet speaking from IndiaMART head office.\nCustomer: Yes, tell me.\nExecutive: Madam, there was a discussion with Sonu regarding your services on the 25th, I think it was yesterday, and regarding your discussion, feedback is sent to you people.\nCustomer: Yes\nExecutive: It is sent to your registered primary number.\nExecutive: I think that is Rahul's number, the primary number.\nCustomer: Yes, it is Rahul's number.\nExecutive: Yes, Rahul has marked 'not satisfied' here.\nCustomer: Satisfied\nExecutive: The console was open, and he marked 'not satisfied'.\nCustomer: Yes\nExecutive: Whenever you talk to someone, feedback is sent to you asking how your conversation with your account manager was, something like 'satisfied or not satisfied'.\nExecutive: Rahul marked 'not satisfied', so I, Sonu's manager, am calling to know what the discussion was or if there was any discussion that made him not satisfied.\nCustomer: The discussion wasn't with him; the discussion was with me. He doesn't have the information.\nExecutive: Yes, I called him, and he disconnected the call saying he doesn't have time for you people, but he gave feedback from the console. I need to know if there was any conversation where he wasn't satisfied.\nCustomer: He wasn't satisfied with the services. I already had a discussion with him regarding the issues I had with the service.\nExecutive: Yes, the discussion you had with Sonu was fruitful. Whatever you talked about, he obviously told you something about the problems in the service or some solution to it, what the problems were at that time that you didn't receive the service.\nCustomer: Yes, he told me now, but he told me just yesterday that it will start from today.\nExecutive: Yes, yes, yes, that's what I'm saying. He marked 'not' so quickly. Please talk to him once. Sir, you're probably not listening. I'm repeating again. He doesn't know that anyone called me, nor did I have any discussion with him. He is in a meeting, so he disconnected you.\nExecutive: No, I'm calling about that.\nCustomer: He is busy, sir. He won't pick up. You can email him; he will reply to the email. He rarely attends calls.\nExecutive: No problem, madam. I will send it to him, his contact.\nCustomer: Yes, sir, if I had it, I would do it from my side, but it is registered to him, so I can't do anything.\nExecutive: You don't have to do anything. You don't have to go anywhere. It was just a discussion you had, so I'm saying I'm closing your concern. Do you have access to the email ID?\nCustomer: No, no, no. Actually, Rahul's contact is given, and the email ID is also his.\nCustomer: Everything is in his name. I just operate it.\nExecutive: Oh ho.\nExecutive: Madam, if you have access, when I close the ticket, feedback is sent. It was just that. Sir, you have to do it. If you have to do it, do it after 8 o'clock. He won't pick up my call or reply to your call now. He is in a meeting.\nExecutive: Okay.\nExecutive: It shouldn't happen that I close the ticket, and he marks 'not satisfied' again. Once you tell him, I will close the ticket tomorrow, or I will talk to him again tomorrow.\nCustomer: Yes, yes.\nExecutive: Okay, ji.\nExecutive: Thank you.",
+  "original_language": "",
+  "issues": [
+    {
+      "problem": "Rahul marked the feedback as 'not satisfied' without being involved in the discussion.",
+      "bucket": "Communication",
+      "severity": "medium",
+      "actionable_summary": "Investigate why Rahul provided negative feedback without being part of the conversation. Improve feedback collection process to ensure accurate representation."
+    },
+    {
+      "problem": "The customer doesn't have access to the registered email ID or account details.",
+      "bucket": "Account / Dashboard",
+      "severity": "medium",
+      "actionable_summary": "Facilitate a process for the customer to gain access to the account or update the registered contact information to reflect the actual user."
+    },
+    {
+      "problem": "The customer is facing service issues that were discussed with Sonu, but the solution is yet to be implemented.",
+      "bucket": "Support / Training",
+      "severity": "medium",
+      "actionable_summary": "Ensure that the solutions discussed with Sonu are implemented promptly and follow up with the customer to confirm resolution."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "No immediate churn risk, but unresolved issues could lead to dissatisfaction.",
+    "renewal_probability": 0.7
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "No clear signals for upsell at this moment."
+  },
+  "call_summary": "The executive is calling to understand why Rahul marked the feedback as 'not satisfied' after a discussion with Sonu. The customer explains that Rahul was not involved in the discussion and is currently busy, suggesting the executive contact him via email.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Feedback mechanism needs improvement to ensure accuracy.",
+      "Account access and contact information need to be updated for better customer management."
+    ],
+    "parsed": true
+  },
+  "analyzed_at": "2025-12-12T19:19:08.682717664+05:30"
+}

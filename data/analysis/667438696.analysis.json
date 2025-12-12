@@ -1,0 +1,59 @@
+{
+  "call_id": "667438696",
+  "seller_id": "18888",
+  "timestamp": "2025-12-12T18:27:57.68214845+05:30",
+  "transcript_en": "Customer: Yes sir.\nExecutive: Yes.\nCustomer: If we have to connect now, let's do it.\nExecutive: Yes, let's do it now sir, because it will be better in this.\nCustomer: Senior people are also sitting, I will take them on the video call too.\nExecutive: It will be better.\nCustomer: See, I have sent you a mail to the registration mail ID.\nExecutive: Tell me the mail ID which is registered here sir.\nCustomer: It's there. DMM@\nExecutive: Yes.\n\n(silence)\n\nCustomer: Hello.\nExecutive: Hello.\nCustomer: Yes, sir, I'll share my screen with you.\nExecutive: Sir, it would be better if we talk on the call itself, in the same way we are talking on the video call.\nExecutive: Yes, yes, we can talk like this, not on video. Because then there will be noise, you do it like this, I showed you the screen share.\n\n(silence)\n\nExecutive: Meaning we will talk on the call.\nCustomer: Yes, let's do it on the call, it's fine. Is there any problem with that?\nExecutive: No, no, there is no problem sir.\nCustomer: I was saying that since we are talking on the call, the senior people are also there. So, the senior people will also listen, otherwise only I will listen to you.\nExecutive: Yes sir.\nCustomer: So, where there is a need, I will take the call and transfer it. No problem. Okay, rest yes, rest navigate here.\nExecutive: Yes sir, you go to buyleads at the present time sir.\nCustomer: Look sir, I went to buyleads.\nExecutive: Here I am, sir, you close your screen, I will share my screen with you. Are you opening the profile?\nCustomer: Okay, turn it off.\nExecutive: I have to put the keyword, right? Okay, turn it off anyway.\nExecutive: Zoom it in a little bit. It's zoomed in too much.\n\nExecutive: See, this is here, the buyleads that we have present.\nExecutive: Like metal looping sheet, do we deal in this?\nCustomer: Which metal is this? Is it aluminum? First put aluminum, yes, put aluminum coil in it.\nCustomer: Put aluminum coil in the buylead above.",
+  "original_language": "",
+  "issues": [
+    {
+      "problem": "Customer needs assistance in using the BuyLeads feature and searching for specific product (aluminum coil).",
+      "bucket": "Support / Training",
+      "severity": "low",
+      "actionable_summary": "Provide clear and concise instructions on how to effectively use the BuyLeads search functionality, including keyword optimization. Offer personalized training if needed."
+    },
+    {
+      "problem": "Customer is unsure about the relevance of displayed BuyLeads (metal looping sheet) to their business.",
+      "bucket": "Lead Quality",
+      "severity": "low",
+      "actionable_summary": "Ensure the BuyLeads algorithm is accurately matching leads to the customer's product categories. Review and refine keyword targeting for improved lead relevance."
+    },
+    {
+      "problem": "Executive initially hesitant about video call, potentially hindering effective screen sharing and guidance.",
+      "bucket": "Communication",
+      "severity": "low",
+      "actionable_summary": "Train executives on effective remote support techniques, including video call etiquette and screen sharing best practices. Ensure they have the necessary tools and resources to provide comprehensive support."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 6,
+    "prompt_resolution": true,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "None apparent at this stage.",
+    "renewal_probability": 0.7
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "Customer is currently focused on learning the basic features. No immediate upsell opportunity is apparent."
+  },
+  "call_summary": "The customer is being guided by the executive on how to use the BuyLeads feature. The customer initially wanted a video call but the executive preferred a voice call. The customer is looking for aluminum coil buy leads.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer requires basic training on using the platform's features.",
+      "Lead quality is a potential concern, requiring attention to keyword targeting and lead matching algorithms."
+    ],
+    "parsed": true
+  },
+  "analyzed_at": "2025-12-12T18:28:08.595236029+05:30"
+}

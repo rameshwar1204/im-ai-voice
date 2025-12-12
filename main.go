@@ -41,10 +41,14 @@ func main() {
 	_, cancel := context.WithCancel(context.Background())
 	defer cancel()
 
-	// Start transcript watcher (event-driven analysis)
+	// Start transcript watcher (event-driven analysis) - unless DEMO_MODE is set
 	watcher := NewTranscriptWatcher(svc, TRANSCRIPTS_DIR)
-	watcher.Start()
-	defer watcher.Stop()
+	if os.Getenv("DEMO_MODE") != "true" {
+		watcher.Start()
+		defer watcher.Stop()
+	} else {
+		log.Println("🎬 DEMO MODE: Watcher disabled, using existing MongoDB data")
+	}
 
 	// Initialize router
 	router := NewRouter(svc)
@@ -66,6 +70,9 @@ func main() {
 	fmt.Println("  IndiaMART Voice AI Analysis Server")
 	fmt.Println("=========================================")
 	fmt.Printf("Server running on http://localhost%s\n", SERVER_LISTEN_ADDR)
+	fmt.Println()
+	fmt.Println("🎯 DASHBOARD UI:")
+	fmt.Printf("   Open http://localhost%s in your browser\n", SERVER_LISTEN_ADDR)
 	fmt.Println()
 	fmt.Println("🤖 EVENT-DRIVEN AUTOMATED FLOW:")
 	fmt.Println("   1. New transcript in data/transcripts/ → Auto-analyze")

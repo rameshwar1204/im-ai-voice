@@ -1,0 +1,46 @@
+{
+  "call_id": "12233344",
+  "seller_id": "demo_seller_001",
+  "timestamp": "2025-12-12T18:20:49.279510688+05:30",
+  "transcript_en": "Customer: Yes sir.\nExecutive: Yes.\nCustomer: If we want to connect now, let's do it now.\nExecutive: Yes, let's do it now sir, because it will be better.\nCustomer: My senior is also sitting here, I'll get him on the video call too.\nExecutive: It will be better.\nCustomer: See, I sent you a mail from the registration mail ID.\nExecutive: Tell me the mail ID that is registered here.\nCustomer: It's here. DMM@\nExecutive: Yes.\n\n(silence)\n\nCustomer: Hello.\nExecutive: Hello.\nCustomer: Yes, sir, I'll share my screen with you.\nExecutive: Sir, it would be better if we talk on the phone, in the same way, on the video call.\nExecutive: Yes, yes, we can talk like this, not on video. Because then there will be noise, you do it like this, I showed you the screen share.\n\n(silence)\n\nExecutive: We will talk on the call.\nCustomer: Yes, let's talk on the call, it's fine. Is there any problem with that?\nExecutive: No, no, there is no problem sir.\nCustomer: I wanted to say that as we are talking on the call, my senior is also here. So, the senior also listens, otherwise only I will hear you.\nExecutive: Yes sir.\nCustomer: So, where there is a need, I will take the call and transfer it. No problem. Okay, but yes, let's navigate here.\nExecutive: Yes sir, please go to BuyLeads now sir.\nCustomer: See sir, I went to BuyLeads.\nExecutive: Here, I will, sir, please turn off your screen, I will share my screen with you. Are you opening the profile?\nCustomer: Okay, turn it off.\nExecutive: I have to put the keyword. Okay, turn it off anyway.\nExecutive: Zoom in a little bit. It's zoomed in too much.\n\nExecutive: See, this is here, the BuyLeads we have at the present time.\nExecutive: Like metal looping sheet, do we deal in this?\nCustomer: What metal is this? Is it aluminum? First, put my aluminum, yes, put aluminum coil in it.\nCustomer: Put aluminum coil in the BuyLeads above.",
+  "original_language": "",
+  "issues": [
+    {
+      "problem": "Customer wants to add 'aluminum coil' to their BuyLeads to receive relevant inquiries.",
+      "bucket": "Lead Management",
+      "severity": "low",
+      "actionable_summary": "Ensure the 'aluminum coil' keyword is correctly added to the customer's profile and BuyLeads settings to improve lead relevance."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 7,
+    "prompt_resolution": true,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "renewal_probability": 0.8
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "No clear signals of upsell opportunity in this interaction."
+  },
+  "call_summary": "The customer initially wanted to connect via video call but agreed to continue on audio. The customer then requested assistance with adding \"aluminum coil\" as a keyword to their BuyLeads.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": false,
+    "key_insights": [
+      "Customer needed assistance with BuyLeads keyword setup.",
+      "The executive successfully guided the customer through the process."
+    ],
+    "parsed": true
+  },
+  "analyzed_at": "2025-12-12T18:20:57.472549753+05:30"
+}

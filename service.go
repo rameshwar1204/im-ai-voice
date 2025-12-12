@@ -39,10 +39,12 @@ func (s *Service) IngestTranscript(ctx context.Context, rt RawTranscript, analyz
 	// Optionally analyze immediately
 	if analyzeNow {
 		rt.CallID = callID // Ensure call ID is set
-		if err := s.ProcessSingleCall(ctx, callID); err != nil {
+		analysis, err := s.ProcessSingleCallAndReturn(ctx, callID)
+		if err != nil {
 			response.Message = fmt.Sprintf("ingested but analysis failed: %v", err)
 		} else {
 			response.Analyzed = true
+			response.Analysis = analysis
 			response.Message = "ingested and analyzed"
 		}
 	} else {
@@ -56,24 +58,30 @@ func (s *Service) IngestTranscript(ctx context.Context, rt RawTranscript, analyz
 
 // ProcessSingleCall analyzes a single transcript by call ID
 func (s *Service) ProcessSingleCall(ctx context.Context, callID string) error {
+	_, err := s.ProcessSingleCallAndReturn(ctx, callID)
+	return err
+}
+
+// ProcessSingleCallAndReturn analyzes a single transcript and returns the analysis
+func (s *Service) ProcessSingleCallAndReturn(ctx context.Context, callID string) (*AnalysisResult, error) {
 	// Load the raw transcript
 	rt, err := LoadRawTranscript(callID)
 	if err != nil {
-		return fmt.Errorf("failed to load transcript: %w", err)
+		return nil, fmt.Errorf("failed to load transcript: %w", err)
 	}
 
 	// Run LLM analysis
 	analysis, err := s.ai.AnalyzeTranscript(ctx, *rt)
 	if err != nil {
-		return fmt.Errorf("failed to analyze transcript: %w", err)
+		return nil, fmt.Errorf("failed to analyze transcript: %w", err)
 	}
 
 	// Save the analysis
 	if err := SaveAnalysis(*analysis); err != nil {
-		return fmt.Errorf("failed to save analysis: %w", err)
+		return nil, fmt.Errorf("failed to save analysis: %w", err)
 	}
 
-	return nil
+	return analysis, nil
 }
 
 // ProcessAllUnprocessed processes all transcripts that haven't been analyzed
@@ -332,10 +340,17 @@ func (s *Service) buildAggregate(date string, analyses []AnalysisResult) *DailyA
 			totalCount += kv.Count
 		}
 
+		// Get seller IDs list
+		sellerIDs := make([]string, 0, len(bucketSellers[bucket]))
+		for sellerID := range bucketSellers[bucket] {
+			sellerIDs = append(sellerIDs, sellerID)
+		}
+
 		agg.FeatureBuckets[bucket] = BucketSummary{
 			Bucket:            bucket,
 			TotalCount:        totalCount,
 			AffectedSellers:   len(bucketSellers[bucket]),
+			AffectedSellerIDs: sellerIDs,
 			TopProblems:       topProblems,
 			SeverityBreakdown: bucketSeverity[bucket],
 			Examples:          bucketExamples[bucket],
@@ -413,11 +428,18 @@ func (s *Service) generateTickets(date string, agg *DailyAggregate) []Ticket {
 			}
 		}
 
+		// Build seller IDs string for description
+		sellerIDsStr := strings.Join(entry.summary.AffectedSellerIDs, ", ")
+		if len(sellerIDsStr) > 200 {
+			sellerIDsStr = sellerIDsStr[:200] + "..."
+		}
+
 		ticket := Ticket{
-			TicketID:      fmt.Sprintf("%s-%s-01", date, sanitize(entry.bucket)),
-			Date:          date,
-			FeatureBucket: entry.bucket,
-			Priority:      priority,
+			TicketID:        fmt.Sprintf("%s-%s-01", date, sanitize(entry.bucket)),
+			Date:            date,
+			FeatureBucket:   entry.bucket,
+			Priority:        priority,
+			AffectedSellers: entry.summary.AffectedSellerIDs, // Include seller IDs for follow-up
 			Title: fmt.Sprintf("[%s] %s (%d issues from %d sellers)",
 				entry.bucket, titleProblem, entry.summary.TotalCount, entry.summary.AffectedSellers),
 			Description: fmt.Sprintf(
@@ -428,6 +450,7 @@ func (s *Service) generateTickets(date string, agg *DailyAggregate) []Ticket {
 					"- **Recurring Across Sellers:** %v\n"+
 					"- **Severity:** %s\n"+
 					"- **Date:** %s\n\n"+
+					"## Affected Seller IDs\n%s\n\n"+
 					"## Top Problems in This Category\n%s\n\n"+
 					"## Severity Breakdown\n"+
 					"- Critical: %d\n"+
@@ -438,6 +461,7 @@ func (s *Service) generateTickets(date string, agg *DailyAggregate) []Ticket {
 				entry.bucket,
 				entry.summary.TotalCount, entry.summary.AffectedSellers,
 				isRecurring, severity, date,
+				sellerIDsStr,
 				consolidatedProblems,
 				entry.summary.SeverityBreakdown["critical"],
 				entry.summary.SeverityBreakdown["high"],
