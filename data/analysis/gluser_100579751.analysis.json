@@ -1,0 +1,74 @@
+{
+  "call_id": "673660554",
+  "seller_id": "100579751",
+  "timestamp": "2025-12-12T11:58:47.885406734+05:30",
+  "transcript_en": "Customer: Hello\nExecutive: Long hai ji haan long hai hello haan ji madam wo wo whatsapp par hai na dala haan haan haan sorry sorry haan dal dungi actually ye jo aapko number dikha hai na sir ye mera number nahi hai ye company ka unique number hai to abhi aapka jaise abhi aapne pehle kabhi call kiya hoga to receive nahi kiya hoga to wo customer care number ho jata hai to ticket raise ho jati hai abhi mai aapka ticket close kar dungi na fir aapko mera original number dikhega thik hai\nCustomer: Thik hai madam wo aap apne number se dal do abhi\nExecutive: Haan haan thik hai",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Customer wants the executive to send something via WhatsApp from her personal number.",
+      "bucket": "Communication",
+      "severity": "low",
+      "actionable_summary": "The executive should send the requested information from her personal number after closing the ticket as promised."
+    },
+    {
+      "problem": "The customer may have previously called and not received a call back, resulting in a ticket being raised.",
+      "bucket": "Communication",
+      "severity": "low",
+      "actionable_summary": "Ensure all previous tickets are addressed and resolved promptly to avoid customer frustration."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 6,
+    "prompt_resolution": true,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "No clear indication of churn risk.",
+    "renewal_probability": 0.8
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 2,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "No clear indication of upsell opportunity."
+  },
+  "call_summary": "The customer is asking the executive to send something on WhatsApp from her personal number. The executive explains that the number displayed is a company number and offers to close the ticket so the customer can see her personal number.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer wants direct communication via WhatsApp.",
+      "The executive explains the company's number system."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- Customer wants executive to send something via WhatsApp to her number.\\n\n\\n\nResolution:\\n\n- Executive will send via WhatsApp to customer’s number.\\n\n- Executive clarified the number displayed is a company number and will share her original number after closing the ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp, number\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Mineral Mixture",
+      "Liquid Calcium",
+      "Chelated Minerals",
+      "Veterinary Liver Tonic",
+      "Animal Feed Supplement"
+    ],
+    "user_info": {
+      "bl_dau_oct": 19,
+      "call_duration_seconds": 53,
+      "call_entered_on": "11/21/2025",
+      "call_status": "Answered",
+      "city_name": "Panipat",
+      "customer_type": "TSCATALOG",
+      "flag_in_out": "Incoming",
+      "gluser_id": "100579751",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 1
+    }
+  },
+  "analyzed_at": "2025-12-12T11:58:53.001990015+05:30"
+}

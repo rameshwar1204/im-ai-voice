@@ -1,0 +1,24 @@
+{
+  "ticket_id": "2025-12-12-Communication-2",
+  "date": "2025-12-12",
+  "feature_bucket": "Communication",
+  "priority": 2,
+  "title": "[Communication] Customer wants the executive to send something via WhatsApp from her personal number. (1 reports)",
+  "description": "Auto-generated ticket for Communication feature.\n\nProblem: Customer wants the executive to send something via WhatsApp from her personal number.\nReports: 1\nAffected Sellers: 3\nDate: 2025-12-12\n\nThis issue was identified from 4 total reports in the Communication category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Customer wants the executive to send something via WhatsApp from her personal number.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "IndiaMART should train executives to prioritize actual resolution over positive feedback requests and ensure the customer's issue is fully addressed before soliciting feedback.",
+    "The executive should send the requested information from her personal number after closing the ticket as promised.",
+    "Ensure all previous tickets are addressed and resolved promptly to avoid customer frustration."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T12:00:34.482760266+05:30"
+}

@@ -28,12 +28,14 @@ func main() {
 	// Initialize service
 	svc := NewService(ai)
 
-	// Create cancellable context for background tasks
-	ctx, cancel := context.WithCancel(context.Background())
+	// Create cancellable context for shutdown
+	_, cancel := context.WithCancel(context.Background())
 	defer cancel()
 
-	// Start aggregation ticker (runs periodically)
-	svc.StartAggregationTicker(ctx)
+	// Start transcript watcher (event-driven analysis)
+	watcher := NewTranscriptWatcher(svc, TRANSCRIPTS_DIR)
+	watcher.Start()
+	defer watcher.Stop()
 
 	// Initialize router
 	router := NewRouter(svc)
@@ -45,6 +47,7 @@ func main() {
 		signal.Notify(sigChan, syscall.SIGINT, syscall.SIGTERM)
 		<-sigChan
 		log.Println("Shutting down...")
+		watcher.Stop()
 		cancel()
 		os.Exit(0)
 	}()
@@ -55,6 +58,11 @@ func main() {
 	fmt.Println("=========================================")
 	fmt.Printf("Server running on http://localhost%s\n", SERVER_LISTEN_ADDR)
 	fmt.Println()
+	fmt.Println("🤖 EVENT-DRIVEN AUTOMATED FLOW:")
+	fmt.Println("   1. New transcript in data/transcripts/ → Auto-analyze")
+	fmt.Println("   2. Analysis saved as gluser_{id}.analysis.json")
+	fmt.Println("   3. After 10 new analyses → Auto-aggregate + tickets")
+	fmt.Println()
 	fmt.Println("API Endpoints:")
 	fmt.Println("  POST /ingest              - Ingest call transcript")
 	fmt.Println("  POST /analyze             - Analyze transcript directly")
@@ -62,7 +70,7 @@ func main() {
 	fmt.Println("  GET  /calls/{id}          - Get call analysis")
 	fmt.Println("  GET  /aggregates          - List aggregates")
 	fmt.Println("  GET  /aggregates/{date}   - Get daily aggregate")
-	fmt.Println("  POST /aggregates/trigger  - Run aggregation")
+	fmt.Println("  POST /aggregates/trigger  - Run aggregation manually")
 	fmt.Println("  GET  /tickets             - List ticket dates")
 	fmt.Println("  GET  /tickets/{date}      - Get tickets for date")
 	fmt.Println("  GET  /dashboard?date=...  - Get daily dashboard")

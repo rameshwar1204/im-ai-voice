@@ -1,0 +1,23 @@
+{
+  "ticket_id": "2025-12-12-Lead_Management-2",
+  "date": "2025-12-12",
+  "feature_bucket": "Lead Management",
+  "priority": 6,
+  "title": "[Lead Management] Customer wants to remove/cut 20 names from something, unclear what. (1 reports)",
+  "description": "Auto-generated ticket for Lead Management feature.\n\nProblem: Customer wants to remove/cut 20 names from something, unclear what.\nReports: 1\nAffected Sellers: 2\nDate: 2025-12-12\n\nThis issue was identified from 2 total reports in the Lead Management category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Customer wants to remove/cut 20 names from something, unclear what.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "Educate the customer on the importance of responding promptly to leads and suggest using the PNS (Preferred Number Service) to forward calls to multiple numbers to avoid missing opportunities.",
+    "The agent needs to understand what the customer means by 'cut those 20 names' and address the underlying issue. Investigate the customer's account to understand the context of the 20 names."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T12:00:34.482771823+05:30"
+}

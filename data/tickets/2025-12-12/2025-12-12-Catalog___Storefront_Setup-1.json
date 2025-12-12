@@ -2,21 +2,21 @@
   "ticket_id": "2025-12-12-Catalog___Storefront_Setup-1",
   "date": "2025-12-12",
   "feature_bucket": "Catalog / Storefront Setup",
-  "priority": 4,
-  "title": "[Catalog / Storefront Setup] Customer needs help updating product images. (1 reports)",
-  "description": "Auto-generated ticket for Catalog / Storefront Setup feature.\n\nProblem: Customer needs help updating product images.\nReports: 1\nAffected Sellers: 1\nDate: 2025-12-12\n\nThis issue was identified from 1 total reports in the Catalog / Storefront Setup category on 2025-12-12.",
+  "priority": 17,
+  "title": "[Catalog / Storefront Setup] Customer needs assistance with updating product images in their catalog. (1 reports)",
+  "description": "Auto-generated ticket for Catalog / Storefront Setup feature.\n\nProblem: Customer needs assistance with updating product images in their catalog.\nReports: 1\nAffected Sellers: 1\nDate: 2025-12-12\n\nThis issue was identified from 1 total reports in the Catalog / Storefront Setup category on 2025-12-12.",
   "top_problems": [
     {
-      "problem": "Customer needs help updating product images.",
+      "problem": "Customer needs assistance with updating product images in their catalog.",
       "count": 1,
       "severity": "medium"
     }
   ],
   "affected_count": 1,
   "examples": [
-    "Ensure the customer receives prompt assistance with updating their product images as promised by the agent."
+    "Ensure the images are updated promptly and according to IndiaMART's guidelines. Follow up to confirm the images have been updated to the customer's satisfaction."
   ],
   "severity": "low",
   "status": "open",
-  "created_at": "2025-12-12T11:10:31.085648468+05:30"
+  "created_at": "2025-12-12T12:00:34.482924798+05:30"
 }

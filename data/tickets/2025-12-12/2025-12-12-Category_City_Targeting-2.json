@@ -1,0 +1,23 @@
+{
+  "ticket_id": "2025-12-12-Category_City_Targeting-2",
+  "date": "2025-12-12",
+  "feature_bucket": "Category-City Targeting",
+  "priority": 14,
+  "title": "[Category-City Targeting] Customer has negatively marked categories (glass tumbler, lemon set) that they actually deal in, potentially reducing relevant lead flow. (1 reports)",
+  "description": "Auto-generated ticket for Category-City Targeting feature.\n\nProblem: Customer has negatively marked categories (glass tumbler, lemon set) that they actually deal in, potentially reducing relevant lead flow.\nReports: 1\nAffected Sellers: 2\nDate: 2025-12-12\n\nThis issue was identified from 2 total reports in the Category-City Targeting category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Customer has negatively marked categories (glass tumbler, lemon set) that they actually deal in, potentially reducing relevant lead flow.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "Explore options for more granular city-level targeting or partnerships with logistics providers to offer discounted shipping rates for IndiaMART sellers.",
+    "Guide the customer on how to restore these categories in their business preferences settings. Offer assistance if the customer is unable to do it themselves."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T12:00:34.482918026+05:30"
+}

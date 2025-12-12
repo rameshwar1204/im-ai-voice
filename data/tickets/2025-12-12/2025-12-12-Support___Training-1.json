@@ -1,0 +1,23 @@
+{
+  "ticket_id": "2025-12-12-Support___Training-1",
+  "date": "2025-12-12",
+  "feature_bucket": "Support / Training",
+  "priority": 11,
+  "title": "[Support / Training] Customer wants to know the next steps in the legal process. (1 reports)",
+  "description": "Auto-generated ticket for Support / Training feature.\n\nProblem: Customer wants to know the next steps in the legal process.\nReports: 1\nAffected Sellers: 2\nDate: 2025-12-12\n\nThis issue was identified from 2 total reports in the Support / Training category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Customer wants to know the next steps in the legal process.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "The support team needs to provide the customer with information about the next steps in the legal process and connect him with the relevant team.",
+    "Provide the customer with realistic expectations regarding the ramp-up time for a new service and offer training resources."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T12:00:34.48291156+05:30"
+}

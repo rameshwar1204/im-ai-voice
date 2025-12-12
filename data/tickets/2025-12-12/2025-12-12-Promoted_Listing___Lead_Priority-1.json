@@ -1,0 +1,22 @@
+{
+  "ticket_id": "2025-12-12-Promoted_Listing___Lead_Priority-1",
+  "date": "2025-12-12",
+  "feature_bucket": "Promoted Listing / Lead Priority",
+  "priority": 16,
+  "title": "[Promoted Listing / Lead Priority] Delay in receiving buylead notifications, with notifications arriving an hour after the buylead is posted. (1 reports)",
+  "description": "Auto-generated ticket for Promoted Listing / Lead Priority feature.\n\nProblem: Delay in receiving buylead notifications, with notifications arriving an hour after the buylead is posted.\nReports: 1\nAffected Sellers: 1\nDate: 2025-12-12\n\nThis issue was identified from 1 total reports in the Promoted Listing / Lead Priority category on 2025-12-12.",
+  "top_problems": [
+    {
+      "problem": "Delay in receiving buylead notifications, with notifications arriving an hour after the buylead is posted.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 1,
+  "examples": [
+    "Investigate the notification delivery system to ensure timely delivery of buylead alerts. Explore options for prioritizing notification delivery for paid subscribers."
+  ],
+  "severity": "low",
+  "status": "open",
+  "created_at": "2025-12-12T12:00:34.482922732+05:30"
+}
