@@ -1,0 +1,44 @@
+{
+  "ticket_id": "2025-12-12-Communication-01",
+  "date": "2025-12-12",
+  "feature_bucket": "Communication",
+  "priority": 2,
+  "title": "[Communication] The executive explains the company's unique number system... (5 issues from 4 sellers)",
+  "description": "Auto-generated ticket for **Communication** issues.\n\n## Summary\n- **Total Issues:** 5\n- **Affected Sellers:** 4\n- **Recurring Across Sellers:** true\n- **Severity:** high\n- **Date:** 2025-12-12\n\n## Top Problems in This Category\n• The executive explains the company's unique number system, suggesting potential confusion or frustration from the customer regarding previous calls and contact information. (x1)\n• Seller's representative may have called with an issue, but the seller is unaware of the details. (x1)\n• Customer unavailable for immediate assistance and rescheduled for the next day. (x1)\n\n## Severity Breakdown\n- Critical: 0\n- High: 0\n- Medium: 3\n- Low: 4\n\n_This ticket groups all Communication issues together. Review individual analyses for details._",
+  "top_problems": [
+    {
+      "problem": "The executive explains the company's unique number system, suggesting potential confusion or frustration from the customer regarding previous calls and contact information.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Seller's representative may have called with an issue, but the seller is unaware of the details.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Customer unavailable for immediate assistance and rescheduled for the next day.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Customer is unable to contact the sales representatives involved in the initial subscription agreement.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "The customer had to call multiple times to schedule a catalog update meeting.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 5,
+  "examples": [
+    "The IndiaMART representative should follow up with the seller's representative (Nivedita) to determine the nature of the issue and resolve it.",
+    "Ensure the executive follows up with the customer as scheduled to address their concerns and provide assistance.",
+    "IndiaMART should provide the customer with alternative contact information for someone in the Guwahati office who can address his concerns. The executive should not just promise to look into it, but actively find and provide the contact information during the call or immediately after."
+  ],
+  "severity": "high",
+  "status": "open",
+  "created_at": "2025-12-12T16:56:51.230783195+05:30"
+}

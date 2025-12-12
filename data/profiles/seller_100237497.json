@@ -1,0 +1,226 @@
+{
+  "gluser_id": "100237497",
+  "customer_type": "CATALOG",
+  "city_name": "Kadakola",
+  "vertical": "Tele Annual CSD",
+  "vintage_months": 3,
+  "current_status": {
+    "health_score": 34,
+    "health_label": "Critical",
+    "churn_risk": "low",
+    "churn_probability": 0.7,
+    "sentiment": "Neutral",
+    "satisfaction_score": 6,
+    "open_issue_count": 5,
+    "upsell_potential": "medium",
+    "needs_attention": true,
+    "attention_reason": "Critical health score"
+  },
+  "total_calls": 2,
+  "call_history": [
+    {
+      "call_id": "672143218",
+      "timestamp": "2025-12-12T16:54:41.518275047+05:30",
+      "duration_seconds": 450,
+      "direction": "Outgoing",
+      "summary": "The customer called to complain about low inquiry volume, specifically for customized and bulk orders. The executive helped the customer navigate the BuyLeads section of the IndiaMART platform to find relevant leads, focusing on a Karnataka-based lead for paper cups.",
+      "sentiment": "Neutral",
+      "issues_raised": 3,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    },
+    {
+      "call_id": "672069097",
+      "timestamp": "2025-12-12T16:54:32.606152031+05:30",
+      "duration_seconds": 188,
+      "direction": "Outgoing",
+      "summary": "An IndiaMART representative called the seller, Mr. Raj, to follow up on a previous discussion about TrustSEAL services. Mr. Raj stated that he is not interested in TrustSEAL at the moment due to recent investments in machinery but might consider it later. The representative also inquired about a call made by the seller earlier that day to address any potential issues.",
+      "sentiment": "Neutral",
+      "issues_raised": 2,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    }
+  ],
+  "active_issues": [
+    {
+      "issue_id": "100237497-672069097-0",
+      "problem": "Seller is not interested in TrustSEAL due to recent investments.",
+      "bucket": "Other",
+      "severity": "low",
+      "action_required": "Note the seller's timeline (February/March next year) for potential future interest in TrustSEAL and follow up then.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:54:41.517208863+05:30",
+      "last_mentioned_at": "2025-12-12T16:54:41.517208863+05:30",
+      "mention_count": 1,
+      "call_ids": [
+        "672069097"
+      ],
+      "is_recurring": false
+    },
+    {
+      "issue_id": "100237497-672069097-1",
+      "problem": "Seller's representative may have called with an issue, but the seller is unaware of the details.",
+      "bucket": "Communication",
+      "severity": "medium",
+      "action_required": "The IndiaMART representative should follow up with the seller's representative (Nivedita) to determine the nature of the issue and resolve it.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:54:41.517208863+05:30",
+      "last_mentioned_at": "2025-12-12T16:54:41.517208863+05:30",
+      "mention_count": 1,
+      "call_ids": [
+        "672069097"
+      ],
+      "is_recurring": false
+    },
+    {
+      "issue_id": "100237497-672143218-2",
+      "problem": "Low inquiry volume, particularly for customized and bulk orders.",
+      "bucket": "Lead Quantity",
+      "severity": "medium",
+      "action_required": "Investigate the lead distribution algorithm to ensure relevant leads are being delivered to the seller. Consider adjusting category-city targeting to improve lead relevance.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:54:59.238290374+05:30",
+      "last_mentioned_at": "2025-12-12T16:54:59.238290374+05:30",
+      "mention_count": 1,
+      "call_ids": [
+        "672143218"
+      ],
+      "is_recurring": false
+    },
+    {
+      "issue_id": "100237497-672143218-3",
+      "problem": "Difficulty finding relevant leads within the IndiaMART platform (BuyLeads section).",
+      "bucket": "App / Platform Usability",
+      "severity": "medium",
+      "action_required": "Simplify the BuyLeads filtering process and provide clearer instructions on how to find specific types of leads (e.g., customized, bulk orders). Offer personalized training on using the platform effectively.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:54:59.238290374+05:30",
+      "last_mentioned_at": "2025-12-12T16:54:59.238290374+05:30",
+      "mention_count": 1,
+      "call_ids": [
+        "672143218"
+      ],
+      "is_recurring": false
+    },
+    {
+      "issue_id": "100237497-672143218-4",
+      "problem": "Transportation costs from other states are a concern.",
+      "bucket": "Category-City Targeting",
+      "severity": "low",
+      "action_required": "Optimize category-city targeting to prioritize leads from nearby locations to reduce transportation costs. Explore options for offering transportation solutions or partnerships.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:54:59.238290374+05:30",
+      "last_mentioned_at": "2025-12-12T16:54:59.238290374+05:30",
+      "mention_count": 1,
+      "call_ids": [
+        "672143218"
+      ],
+      "is_recurring": false
+    }
+  ],
+  "resolved_issues": [],
+  "issue_stats": {
+    "total_issues_ever": 5,
+    "current_open_count": 5,
+    "resolved_count": 0,
+    "recurring_count": 0,
+    "avg_resolution_days": 0,
+    "top_buckets": [
+      {
+        "bucket": "Other",
+        "count": 1
+      },
+      {
+        "bucket": "Communication",
+        "count": 1
+      },
+      {
+        "bucket": "Lead Quantity",
+        "count": 1
+      },
+      {
+        "bucket": "App / Platform Usability",
+        "count": 1
+      },
+      {
+        "bucket": "Category-City Targeting",
+        "count": 1
+      }
+    ],
+    "severity_breakdown": {
+      "low": 2,
+      "medium": 3
+    }
+  },
+  "trends": {
+    "sentiment_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "672069097"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "672143218"
+      }
+    ],
+    "satisfaction_history": [
+      {
+        "date": "2025-12-12",
+        "value": 6,
+        "call_id": "672069097"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 6,
+        "call_id": "672143218"
+      }
+    ],
+    "issue_history": [
+      {
+        "date": "2025-12-12",
+        "value": 2,
+        "call_id": "672069097"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 3,
+        "call_id": "672143218"
+      }
+    ],
+    "sentiment_trend": "stable",
+    "satisfaction_trend": "stable",
+    "overall_trend": "declining",
+    "churn_risk_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "low",
+        "call_id": "672069097"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "low",
+        "call_id": "672143218"
+      }
+    ]
+  },
+  "seller_categories": [
+    "Printed Paper Cup",
+    "Paper Tea Cup",
+    "Paper Cups",
+    "Paper Coffee Cup",
+    "Paper Ice Cream Cup"
+  ],
+  "created_at": "2025-12-12T16:54:41.517203031+05:30",
+  "updated_at": "2025-12-12T16:54:59.23831715+05:30",
+  "last_call_at": "2025-12-12T16:54:41.518275047+05:30"
+}

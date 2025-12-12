@@ -1,0 +1,34 @@
+{
+  "ticket_id": "2025-12-12-Lead_Quality-01",
+  "date": "2025-12-12",
+  "feature_bucket": "Lead Quality",
+  "priority": 4,
+  "title": "[Lead Quality] Customer is not fully satisfied with the conversion rate ... (3 issues from 2 sellers)",
+  "description": "Auto-generated ticket for **Lead Quality** issues.\n\n## Summary\n- **Total Issues:** 3\n- **Affected Sellers:** 2\n- **Recurring Across Sellers:** true\n- **Severity:** medium\n- **Date:** 2025-12-12\n\n## Top Problems in This Category\n• Customer is not fully satisfied with the conversion rate of the leads they are receiving. (x1)\n• Customer believes that paid members should only receive leads from other paid members. (x1)\n• Customer believes that paid members should only receive leads from other paid members, highlighting a misunderstanding of the lead distribution system and a desire for higher-quality leads. (x1)\n\n## Severity Breakdown\n- Critical: 0\n- High: 0\n- Medium: 3\n- Low: 0\n\n_This ticket groups all Lead Quality issues together. Review individual analyses for details._",
+  "top_problems": [
+    {
+      "problem": "Customer is not fully satisfied with the conversion rate of the leads they are receiving.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Customer believes that paid members should only receive leads from other paid members.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Customer believes that paid members should only receive leads from other paid members, highlighting a misunderstanding of the lead distribution system and a desire for higher-quality leads.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 3,
+  "examples": [
+    "Analyze the quality of leads being provided to the customer and ensure they are relevant and likely to convert. Consider filtering out low-quality leads.",
+    "IndiaMART needs to educate the customer on the value of leads from verified buyers, regardless of their subscription status, and emphasize the TrustSeal verification as a sign of credibility.",
+    "Provide clearer communication and training to the customer regarding the lead distribution system, emphasizing the criteria used to determine lead relevance and quality, regardless of the buyer's subscription status.  Offer examples of successful conversions from 'free' buyer leads."
+  ],
+  "severity": "medium",
+  "status": "open",
+  "created_at": "2025-12-12T16:56:51.230799348+05:30"
+}

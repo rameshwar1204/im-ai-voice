@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"encoding/json"
+	"fmt"
 	"log"
 	"os"
 	"path/filepath"
@@ -203,11 +204,14 @@ func (w *TranscriptWatcher) processTranscript(fpath, fileID string) {
 		},
 	}
 
-	// Run analysis
+	// Build seller context from existing profile
+	sellerContext := BuildSellerContextFromProfile(ht.GluserID)
+
+	// Run analysis with seller context
 	ctx, cancel := context.WithTimeout(w.ctx, 2*time.Minute)
 	defer cancel()
 
-	analysis, err := w.service.ai.AnalyzeTranscript(ctx, rt)
+	analysis, err := w.service.ai.AnalyzeTranscriptWithContext(ctx, rt, sellerContext)
 	if err != nil {
 		log.Printf("   ❌ Analysis failed: %v", err)
 		return
@@ -216,10 +220,17 @@ func (w *TranscriptWatcher) processTranscript(fpath, fileID string) {
 	// Enrich analysis with user info
 	w.enrichAnalysis(analysis, &ht)
 
-	// Save analysis with gluser_id as filename
-	if err := SaveAnalysisWithGluserID(*analysis, ht.GluserID); err != nil {
-		log.Printf("   ❌ Failed to save analysis: %v", err)
+	// Update seller profile (creates if new, updates if existing)
+	profile, err := UpdateSellerProfile(ht.GluserID, analysis, &ht)
+	if err != nil {
+		log.Printf("   ❌ Failed to update seller profile: %v", err)
 		return
+	}
+
+	// Also save individual analysis for aggregation purposes
+	if err := SaveAnalysisWithGluserID(*analysis, ht.GluserID, ht.ClickToCallID); err != nil {
+		log.Printf("   ⚠️ Failed to save individual analysis: %v", err)
+		// Don't return - profile was saved successfully
 	}
 
 	// Mark as processed
@@ -229,7 +240,8 @@ func (w *TranscriptWatcher) processTranscript(fpath, fileID string) {
 	currentCount := w.analysisCount
 	w.mu.Unlock()
 
-	log.Printf("   ✅ Analysis complete: gluser_%s", ht.GluserID)
+	log.Printf("   ✅ Analysis complete: gluser_%s (call #%d, health: %d%%)",
+		ht.GluserID, profile.TotalCalls, profile.CurrentStatus.HealthScore)
 	log.Printf("   📊 New analyses since last aggregate: %d/%d", currentCount, w.aggregateThreshold)
 
 	// Check if we should trigger aggregation
@@ -295,13 +307,20 @@ func (w *TranscriptWatcher) triggerAggregation() {
 		agg.TotalCalls, agg.TotalIssues, agg.UpsellOpportunities)
 }
 
-// SaveAnalysisWithGluserID saves analysis with gluser_id as filename
-func SaveAnalysisWithGluserID(ar AnalysisResult, gluserID string) error {
+// SaveAnalysisWithGluserID saves analysis with gluser_id and call_id as filename
+// Format: gluser_{gluser_id}_call_{call_id}.analysis.json
+func SaveAnalysisWithGluserID(ar AnalysisResult, gluserID string, callID string) error {
 	if gluserID == "" {
 		gluserID = ar.SellerID
 	}
 	if gluserID == "" {
-		gluserID = ar.CallID
+		gluserID = "unknown"
+	}
+	if callID == "" {
+		callID = ar.CallID
+	}
+	if callID == "" {
+		callID = "unknown"
 	}
 
 	b, err := json.MarshalIndent(ar, "", "  ")
@@ -309,9 +328,96 @@ func SaveAnalysisWithGluserID(ar AnalysisResult, gluserID string) error {
 		return err
 	}
 
-	// Use gluser_id as filename for easy lookup
-	filename := "gluser_" + gluserID + ".analysis.json"
+	// Use gluser_id and call_id as filename for preserving all call analyses
+	filename := fmt.Sprintf("gluser_%s_call_%s.analysis.json", gluserID, callID)
 	path := filepath.Join(ANALYSIS_DIR, filename)
 
-	return os.WriteFile(path, b, 0644)
+	if err := os.WriteFile(path, b, 0644); err != nil {
+		return err
+	}
+
+	// Sync to MongoDB (async)
+	SyncAnalysis(&ar)
+	return nil
+}
+
+// LoadAnalysesForGluser loads all previous analyses for a specific gluser ID
+func LoadAnalysesForGluser(gluserID string) ([]AnalysisResult, error) {
+	pattern := filepath.Join(ANALYSIS_DIR, fmt.Sprintf("gluser_%s_call_*.analysis.json", gluserID))
+	files, err := filepath.Glob(pattern)
+	if err != nil {
+		return nil, err
+	}
+
+	var analyses []AnalysisResult
+	for _, f := range files {
+		b, err := os.ReadFile(f)
+		if err != nil {
+			continue
+		}
+
+		var ar AnalysisResult
+		if err := json.Unmarshal(b, &ar); err != nil {
+			continue
+		}
+		analyses = append(analyses, ar)
+	}
+
+	return analyses, nil
+}
+
+// BuildSellerContext creates a context summary of previous interactions for a seller
+func BuildSellerContext(gluserID string) string {
+	analyses, err := LoadAnalysesForGluser(gluserID)
+	if err != nil || len(analyses) == 0 {
+		return ""
+	}
+
+	var sb strings.Builder
+	sb.WriteString(fmt.Sprintf("\n=== SELLER HISTORY (Previous %d calls) ===\n", len(analyses)))
+
+	// Collect all previous issues
+	issueFrequency := make(map[string]int)
+	var unresolvedIssues []string
+	sentimentTrend := []string{}
+
+	for _, a := range analyses {
+		for _, issue := range a.Issues {
+			issueFrequency[issue.Bucket]++
+			// Use severity as proxy - high/critical issues may be unresolved
+			if issue.Severity == "high" || issue.Severity == "critical" {
+				unresolvedIssues = append(unresolvedIssues, issue.Problem)
+			}
+		}
+		sentimentTrend = append(sentimentTrend, a.Intent.Sentiment)
+	}
+
+	sb.WriteString(fmt.Sprintf("Total Previous Calls: %d\n", len(analyses)))
+
+	if len(issueFrequency) > 0 {
+		sb.WriteString("Recurring Issue Categories:\n")
+		for bucket, count := range issueFrequency {
+			if count > 1 {
+				sb.WriteString(fmt.Sprintf("  - %s: %d times\n", bucket, count))
+			}
+		}
+	}
+
+	if len(unresolvedIssues) > 0 {
+		sb.WriteString(fmt.Sprintf("Critical/High Severity Issues from Past: %d\n", len(unresolvedIssues)))
+		for i, issue := range unresolvedIssues {
+			if i >= 3 { // Limit to 3 examples
+				sb.WriteString(fmt.Sprintf("  ... and %d more\n", len(unresolvedIssues)-3))
+				break
+			}
+			sb.WriteString(fmt.Sprintf("  - %s\n", issue))
+		}
+	}
+
+	if len(sentimentTrend) > 0 {
+		sb.WriteString(fmt.Sprintf("Sentiment History: %s\n", strings.Join(sentimentTrend, " → ")))
+	}
+
+	sb.WriteString("=== END SELLER HISTORY ===\n")
+	return sb.String()
 }

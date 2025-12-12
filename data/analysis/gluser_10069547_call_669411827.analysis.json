@@ -1,0 +1,61 @@
+{
+  "call_id": "669411827",
+  "seller_id": "10069547",
+  "timestamp": "2025-12-12T16:58:13.984834229+05:30",
+  "transcript_en": "Customer: Hello.\nExecutive: Hello? Hello?\nCustomer: Ji good evening, good afternoon.\nExecutive: Haan ji madam aapka call nahi lag raha shayad.\nCustomer: Hello? Aapka ji aapka. Maine aapko photos bhej diye the.\nExecutive: Main packing machine wala se bol raha hu ji.\nCustomer: Ji ji ji.\nCustomer: Haan theek hai, main ek bari dekh leti hu.",
+  "original_language": "hi-en",
+  "issues": [],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "None apparent",
+    "renewal_probability": 0.7
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 2,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "No clear indication of upsell opportunity"
+  },
+  "call_summary": "The customer is checking on photos she sent related to packing machines. The executive confirms he is the packing machine contact.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer is following up on previously sent photos.",
+      "The call seems to be a follow-up on a specific request."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- Customer sent photos.\\n\n\\n\nResolution:\\n\n- Executive confirmed from packing machine department.\\n\n\\n\nNext Steps: \\n\n- None\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- photos, packing machine\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Food Dehydrators",
+      "Foil Sealing Machine",
+      "Vegetable Dehydration Machine",
+      "Tray Sealer Machine",
+      "Roasting Machine"
+    ],
+    "user_info": {
+      "bl_dau_oct": 16,
+      "call_duration_seconds": 46,
+      "call_entered_on": "11/10/2025",
+      "call_status": "Answered",
+      "city_name": "New Delhi",
+      "customer_type": "TEMPBLOCK",
+      "flag_in_out": "Incoming",
+      "gluser_id": "10069547",
+      "iil_vertical_name": "Tele Annual KCD",
+      "is_ticket_repeat60d": "Yes",
+      "vintage_months": 123
+    }
+  },
+  "analyzed_at": "2025-12-12T16:58:17.482914568+05:30"
+}

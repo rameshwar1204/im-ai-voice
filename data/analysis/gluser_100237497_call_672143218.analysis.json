@@ -1,0 +1,80 @@
+{
+  "call_id": "672143218",
+  "seller_id": "100237497",
+  "timestamp": "2025-12-12T16:54:41.518275047+05:30",
+  "transcript_en": "Customer: Hello\nExecutive: Hello. Ma'am good evening.\nCustomer: Good evening.\nExecutive: Ma'am are you comfortable in Hindi language or English language?\nCustomer: Hindi.\nExecutive: Okay fine. We can talk in Hindi, no issue.\nCustomer: Talk slowly. I... It's okay. Yes. Now I will talk slowly, okay?\nExecutive: Yes.\nCustomer: Yes. Ma'am, see, I'll tell you one thing, if you have any concern or any issue, save my number. We are connected on WhatsApp and you have my number directly. So, call me directly if you have any concern. Our 969696 number is the customer care number. So, if you call there for any concern, the call first goes to the helpline number, then you tell them your issue, then the call is forwarded to me, then they tell me the issue. It's time-taking for you, the process becomes lengthy. Better you call me directly.\nExecutive: Hmm. Okay.\nCustomer: What was your problem?\nExecutive: No problem.\nCustomer: No problem. Hmm, no problem. I directly call your number.\nExecutive: Exactly, exactly. Don't call the customer care number.\nCustomer: Yes, yes, you don't need to call the customer care number. You can contact me directly, okay?\nCustomer: Right. Okay. Hmm.\nExecutive: Yes. So, why did you call now? What is your concern, tell me.\nCustomer: Oh, inquiries are very less. Oh, a little bit, the quantity of inquiries is more. I want bulk orders in 1000 pieces, 200 pieces. Bulk order. 50,000, 1 lakh cups. 2 lakh, oh, I want more customized print orders. Good. Okay. Yes, not normal cups, these are customized. I want customized requirements. Yes, I want customized. Okay. Those are less, inquiries for customized are less. The other one is less, the 1000 piece, 200 piece, 2000 piece, those are more. Order. Yes, bulk order is less, completely less.\nExecutive: Okay. Ma'am, I'll do one thing, for the full call related, I'll try to get you more... Yes...\nCustomer: Yes, yes, I check in the app for bulk orders. I click and check, it's less in Karnataka.\nExecutive: Other states.\nCustomer: Other states more. Transportation is very difficult for me. Yes, yes. Dispatch is a big problem.\nExecutive: Okay. Yes. So, I have searched for your product now, I have applied a filter, and there is a requirement for plain paper cups of 25,000, 25,000 pieces. So, how will this inquiry be? Is it a Karnataka lead, ma'am?\nCustomer: Hmm hmm.\nExecutive: Is it useful or not?\nCustomer: That is Bengaluru, Bengaluru, Bengaluru order.\nExecutive: Did you talk? And I'm checking for 25,000, 25,000 cups in IndiaMART.\nCustomer: You check it. I want a bigger size, a bigger size. 210, 250, 300 ml, I don't want 90 ml, 80 ml, I want a bigger size inquiry. No ma'am, 100 ml requirement is mentioned in it.\nCustomer: Yes, yes. They want it in 100 ml only. One minute.\nExecutive: Where are you checking?\nCustomer: Ma'am, come to BuyLeads, I'll tell you. Yes, BuyLeads. And then there will be an option for recent at the top, click on recent.\nCustomer: Hmm. Multi color paper cup 500 piece.\nExecutive: No, no, I'm telling you, first apply the filter. You have come to recent, after that make the location India.\nCustomer: Location all all location click. Okay select all India select all India.\nExecutive: Hmm. Okay after that you click on order value. Select order value 10000 above 10000.\nCustomer: Oh where where is order value?\nExecutive: Ma'am are you running it on the system now? Mobile mobile check.\nCustomer: Mobile. See, where the option for location etc. is coming, just below that line you will see bulk 25000 plus written. Yes bulk 25 yes. Click on it. Click yes click. Now this is Gujarat but transportation is more for me. Money is more for transportation.\nCustomer: Ma'am one second. Yes. See, you are running it there, on the laptop, on the mobile. Here, the Gujarat inquiry, okay, you must be seeing this paper tea cup one from Gujarat Radhanpur. Yes. Okay, before this you are not seeing this Kumta Karnataka inquiry. This Karnataka inquiry. Are you seeing that one, the 25000 pieces one? Is it showing to you or not? Yes Kumta Karnataka. Yes. Those areca leaf plates, I won't do that. Only paper cups. No problem, ma'am, that is their additional requirement. Meaning they also want paper cups and also areca leaf plates. So, if you don't deal in plates, leave it but at least talk to them regarding the cup. Yes yes yes. Consume this lead and call and talk to them about the cup, okay? 100 ml requirement, they want it in 100 ml size. 25000 pieces and the deal value is up to 50000, so maybe your deal will work out with this. Hmm hmm. Madam I'll call you now, it's time for me to go home. Okay. Okay plus yes. I'll call you in the morning. Madam madam listen okay regarding your concern I'll call you tomorrow morning and connect a video meeting and we'll discuss the price, product and quality in a better way, okay? And one more thing, now that your concern is resolved, I'll close it. You will receive a feedback on your mail id that is registered with Power Cup regarding the solution I gave, so click on the satisfied or yes option, okay?\nCustomer: Okay okay. Thank you. The rest, we'll contact directly in the morning ma'am, okay?\nExecutive: Yes yes ma'am yes. Okay okay. Thank you. Thank you hmm.\nExecutive: Yes.\nExecutive: Okay ma'am.",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Low inquiry volume, particularly for customized and bulk orders.",
+      "bucket": "Lead Quantity",
+      "severity": "medium",
+      "actionable_summary": "Investigate the lead distribution algorithm to ensure relevant leads are being delivered to the seller. Consider adjusting category-city targeting to improve lead relevance."
+    },
+    {
+      "problem": "Difficulty finding relevant leads within the IndiaMART platform (BuyLeads section).",
+      "bucket": "App / Platform Usability",
+      "severity": "medium",
+      "actionable_summary": "Simplify the BuyLeads filtering process and provide clearer instructions on how to find specific types of leads (e.g., customized, bulk orders). Offer personalized training on using the platform effectively."
+    },
+    {
+      "problem": "Transportation costs from other states are a concern.",
+      "bucket": "Category-City Targeting",
+      "severity": "low",
+      "actionable_summary": "Optimize category-city targeting to prioritize leads from nearby locations to reduce transportation costs. Explore options for offering transportation solutions or partnerships."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 6,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "None explicitly stated, but low lead volume is a potential concern.",
+    "renewal_probability": 0.7
+  },
+  "upsell": {
+    "has_opportunity": true,
+    "score": 5,
+    "willingness_to_invest": "medium",
+    "is_growth_oriented": true,
+    "upsell_reason": "The seller is actively seeking more leads and is focused on bulk/customized orders, suggesting a potential interest in services that provide higher visibility and lead volume, such as IM Star Pro or IM Leader Pro."
+  },
+  "call_summary": "The customer called to complain about low inquiry volume, specifically for customized and bulk orders. The executive helped the customer navigate the BuyLeads section of the IndiaMART platform to find relevant leads, focusing on a Karnataka-based lead for paper cups.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "The customer is actively using the IndiaMART platform but needs assistance in finding relevant leads.",
+      "The executive provided helpful guidance on using the BuyLeads section, but a more proactive approach to addressing the underlying issue of low lead volume is needed."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- Customer needs bulk customized print orders.\\n\n- Enquiries are less for customized orders.\\n\n- Transportation costs are high for other states.\\n\n\\n\nResolution:\\n\n- Executive explained how to filter buyleads.\\n\n- Executive suggested contacting the Karnataka lead.\\n\n- Executive offered a video meeting to discuss further.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow morning.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- buyleads, customized orders, transportation, filter\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Printed Paper Cup",
+      "Paper Tea Cup",
+      "Paper Cups",
+      "Paper Coffee Cup",
+      "Paper Ice Cream Cup"
+    ],
+    "user_info": {
+      "bl_dau_oct": 23,
+      "call_duration_seconds": 450,
+      "call_entered_on": "11/17/2025",
+      "call_status": "Answered",
+      "city_name": "Kadakola",
+      "customer_type": "CATALOG",
+      "flag_in_out": "Outgoing",
+      "gluser_id": "100237497",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "Yes",
+      "vintage_months": 3
+    }
+  },
+  "analyzed_at": "2025-12-12T16:54:59.238005985+05:30"
+}

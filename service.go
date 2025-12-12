@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"sort"
+	"strings"
 	"time"
 )
 
@@ -122,12 +123,17 @@ func (s *Service) RunAggregation(ctx context.Context, date string) (*DailyAggreg
 	if err := SaveAggregate(*agg); err != nil {
 		return nil, fmt.Errorf("failed to save aggregate: %w", err)
 	}
+	// Sync aggregate to MongoDB
+	SyncAggregate(agg)
 
 	// Generate tickets
 	tickets := s.generateTickets(date, agg)
 	for _, ticket := range tickets {
 		if err := SaveTicket(ticket); err != nil {
 			log.Printf("Failed to save ticket %s: %v", ticket.TicketID, err)
+		} else {
+			// Sync ticket to MongoDB
+			SyncTicket(&ticket)
 		}
 	}
 
@@ -257,77 +263,121 @@ func (s *Service) buildAggregate(date string, analyses []AnalysisResult) *DailyA
 	return agg
 }
 
-// generateTickets creates tickets from aggregated data (2 per bucket with issues)
+// generateTickets creates tickets from aggregated data - smarter version
+// Groups similar problems by bucket and creates tickets for significant buckets
+// Maximum 5 tickets per aggregation to reduce noise
 func (s *Service) generateTickets(date string, agg *DailyAggregate) []Ticket {
 	var tickets []Ticket
 	priority := 1
+	maxTickets := 5
+	minBucketCount := 3 // Only create tickets for buckets with 3+ total issues
 
-	// Sort buckets by total count
+	// Collect buckets with significant issue counts
 	type bucketEntry struct {
-		name    string
+		bucket  string
 		summary BucketSummary
 	}
-	var sortedBuckets []bucketEntry
-	for name, summary := range agg.FeatureBuckets {
-		if summary.TotalCount > 0 {
-			sortedBuckets = append(sortedBuckets, bucketEntry{name, summary})
+	var significantBuckets []bucketEntry
+
+	for bucket, summary := range agg.FeatureBuckets {
+		// Use bucket's TOTAL count (groups all similar problems together)
+		if summary.TotalCount >= minBucketCount {
+			significantBuckets = append(significantBuckets, bucketEntry{
+				bucket:  bucket,
+				summary: summary,
+			})
 		}
 	}
-	sort.Slice(sortedBuckets, func(i, j int) bool {
-		return sortedBuckets[i].summary.TotalCount > sortedBuckets[j].summary.TotalCount
+
+	// Sort by total count (highest first) to prioritize most impactful buckets
+	sort.Slice(significantBuckets, func(i, j int) bool {
+		return significantBuckets[i].summary.TotalCount > significantBuckets[j].summary.TotalCount
 	})
 
-	for _, entry := range sortedBuckets {
-		bucket := entry.name
-		summary := entry.summary
-
-		if len(summary.TopProblems) == 0 {
-			continue
+	for _, entry := range significantBuckets {
+		// Stop if we've reached max tickets
+		if len(tickets) >= maxTickets {
+			break
 		}
 
-		// Create up to 2 tickets per bucket (for top 2 problems)
-		for i := 0; i < 2 && i < len(summary.TopProblems); i++ {
-			problem := summary.TopProblems[i]
-			ticketNum := i + 1
-
-			severity := "medium"
-			if problem.Count >= 10 {
-				severity = "critical"
-			} else if problem.Count >= 5 {
-				severity = "high"
-			} else if problem.Count <= 2 {
-				severity = "low"
-			}
-
-			ticket := Ticket{
-				TicketID:      fmt.Sprintf("%s-%s-%d", date, sanitize(bucket), ticketNum),
-				Date:          date,
-				FeatureBucket: bucket,
-				Priority:      priority,
-				Title:         fmt.Sprintf("[%s] %s (%d reports)", bucket, problem.Problem, problem.Count),
-				Description: fmt.Sprintf(
-					"Auto-generated ticket for %s feature.\n\n"+
-						"Problem: %s\n"+
-						"Reports: %d\n"+
-						"Affected Sellers: %d\n"+
-						"Date: %s\n\n"+
-						"This issue was identified from %d total reports in the %s category on %s.",
-					bucket, problem.Problem, problem.Count,
-					summary.AffectedSellers, date,
-					summary.TotalCount, bucket, date,
-				),
-				TopProblems:   []ProblemCount{problem},
-				AffectedCount: problem.Count,
-				Examples:      summary.Examples,
-				Severity:      severity,
-				Status:        "open",
-				CreatedAt:     time.Now(),
-			}
-
-			tickets = append(tickets, ticket)
-			priority++
+		// Determine severity based on total count in bucket
+		severity := "medium"
+		if entry.summary.TotalCount >= 10 {
+			severity = "critical"
+		} else if entry.summary.TotalCount >= 5 {
+			severity = "high"
 		}
+
+		// Check if it's a recurring issue (appears across multiple sellers)
+		isRecurring := entry.summary.AffectedSellers > 1
+
+		// Build a consolidated problem summary from all problems in this bucket
+		var problemSummaries []string
+		for i, p := range entry.summary.TopProblems {
+			if i >= 3 { // Limit to top 3 problems in description
+				break
+			}
+			problemSummaries = append(problemSummaries, fmt.Sprintf("• %s (x%d)", p.Problem, p.Count))
+		}
+		consolidatedProblems := strings.Join(problemSummaries, "\n")
+
+		// Use most common problem as title
+		titleProblem := "Multiple issues reported"
+		if len(entry.summary.TopProblems) > 0 {
+			titleProblem = entry.summary.TopProblems[0].Problem
+			// Truncate if too long
+			if len(titleProblem) > 60 {
+				titleProblem = titleProblem[:57] + "..."
+			}
+		}
+
+		ticket := Ticket{
+			TicketID:      fmt.Sprintf("%s-%s-01", date, sanitize(entry.bucket)),
+			Date:          date,
+			FeatureBucket: entry.bucket,
+			Priority:      priority,
+			Title: fmt.Sprintf("[%s] %s (%d issues from %d sellers)",
+				entry.bucket, titleProblem, entry.summary.TotalCount, entry.summary.AffectedSellers),
+			Description: fmt.Sprintf(
+				"Auto-generated ticket for **%s** issues.\n\n"+
+					"## Summary\n"+
+					"- **Total Issues:** %d\n"+
+					"- **Affected Sellers:** %d\n"+
+					"- **Recurring Across Sellers:** %v\n"+
+					"- **Severity:** %s\n"+
+					"- **Date:** %s\n\n"+
+					"## Top Problems in This Category\n%s\n\n"+
+					"## Severity Breakdown\n"+
+					"- Critical: %d\n"+
+					"- High: %d\n"+
+					"- Medium: %d\n"+
+					"- Low: %d\n\n"+
+					"_This ticket groups all %s issues together. Review individual analyses for details._",
+				entry.bucket,
+				entry.summary.TotalCount, entry.summary.AffectedSellers,
+				isRecurring, severity, date,
+				consolidatedProblems,
+				entry.summary.SeverityBreakdown["critical"],
+				entry.summary.SeverityBreakdown["high"],
+				entry.summary.SeverityBreakdown["medium"],
+				entry.summary.SeverityBreakdown["low"],
+				entry.bucket,
+			),
+			TopProblems:   entry.summary.TopProblems,
+			AffectedCount: entry.summary.TotalCount,
+			Examples:      entry.summary.Examples,
+			Severity:      severity,
+			Status:        "open",
+			CreatedAt:     time.Now(),
+		}
+
+		tickets = append(tickets, ticket)
+		priority++
 	}
+
+	// Log ticket summary
+	log.Printf("🎫 Generated %d tickets (from %d buckets with %d+ issues)",
+		len(tickets), len(significantBuckets), minBucketCount)
 
 	return tickets
 }

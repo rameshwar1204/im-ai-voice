@@ -27,6 +27,10 @@ func (r *Router) RegisterRoutes() {
 	// Calls
 	http.HandleFunc("/calls/", r.handleCalls)
 
+	// Seller Profiles (Dashboard-ready)
+	http.HandleFunc("/sellers", r.handleListSellers)
+	http.HandleFunc("/sellers/", r.handleSellerProfile)
+
 	// Aggregates
 	http.HandleFunc("/aggregates", r.handleAggregates)
 	http.HandleFunc("/aggregates/", r.handleAggregateByDate)
@@ -173,6 +177,102 @@ func (r *Router) handleCalls(w http.ResponseWriter, req *http.Request) {
 	}
 
 	jsonResponse(w, analysis)
+}
+
+// ==================== SELLER PROFILES ====================
+
+// GET /sellers - List all seller profiles with summary
+func (r *Router) handleListSellers(w http.ResponseWriter, req *http.Request) {
+	if req.Method != http.MethodGet {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	ids, err := ListSellerProfiles()
+	if err != nil {
+		jsonError(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	// Load summaries for each seller
+	type SellerSummary struct {
+		GluserID       string `json:"gluser_id"`
+		CustomerType   string `json:"customer_type"`
+		TotalCalls     int    `json:"total_calls"`
+		HealthScore    int    `json:"health_score"`
+		HealthLabel    string `json:"health_label"`
+		ChurnRisk      string `json:"churn_risk"`
+		OpenIssues     int    `json:"open_issues"`
+		NeedsAttention bool   `json:"needs_attention"`
+		LastCallAt     string `json:"last_call_at"`
+	}
+
+	var sellers []SellerSummary
+	var needsAttentionCount int
+
+	for _, id := range ids {
+		profile, err := LoadSellerProfile(id)
+		if err != nil || profile == nil {
+			continue
+		}
+
+		lastCall := ""
+		if !profile.LastCallAt.IsZero() {
+			lastCall = profile.LastCallAt.Format("2006-01-02 15:04")
+		}
+
+		summary := SellerSummary{
+			GluserID:       profile.GluserID,
+			CustomerType:   profile.CustomerType,
+			TotalCalls:     profile.TotalCalls,
+			HealthScore:    profile.CurrentStatus.HealthScore,
+			HealthLabel:    profile.CurrentStatus.HealthLabel,
+			ChurnRisk:      profile.CurrentStatus.ChurnRisk,
+			OpenIssues:     profile.CurrentStatus.OpenIssueCount,
+			NeedsAttention: profile.CurrentStatus.NeedsAttention,
+			LastCallAt:     lastCall,
+		}
+		sellers = append(sellers, summary)
+
+		if profile.CurrentStatus.NeedsAttention {
+			needsAttentionCount++
+		}
+	}
+
+	jsonResponse(w, map[string]any{
+		"sellers":               sellers,
+		"total_count":           len(sellers),
+		"needs_attention_count": needsAttentionCount,
+	})
+}
+
+// GET /sellers/{gluser_id} - Get full seller profile (dashboard-ready)
+func (r *Router) handleSellerProfile(w http.ResponseWriter, req *http.Request) {
+	if req.Method != http.MethodGet {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	// Extract gluser_id from path
+	gluserID := strings.TrimPrefix(req.URL.Path, "/sellers/")
+	if gluserID == "" {
+		jsonError(w, "gluser_id is required", http.StatusBadRequest)
+		return
+	}
+
+	profile, err := LoadSellerProfile(gluserID)
+	if err != nil {
+		jsonError(w, "Error loading profile: "+err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	if profile == nil {
+		jsonError(w, "Seller not found", http.StatusNotFound)
+		return
+	}
+
+	// Return full profile - it's already dashboard-ready
+	jsonResponse(w, profile)
 }
 
 // ==================== AGGREGATES ====================

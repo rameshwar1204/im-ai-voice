@@ -1,0 +1,227 @@
+{
+  "gluser_id": "100424701",
+  "customer_type": "CATALOG",
+  "city_name": "Palasbari",
+  "vertical": "Tele Annual CSD",
+  "vintage_months": 2,
+  "current_status": {
+    "health_score": 5,
+    "health_label": "Critical",
+    "churn_risk": "medium",
+    "churn_probability": 0.5,
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "open_issue_count": 3,
+    "upsell_potential": "low",
+    "needs_attention": true,
+    "attention_reason": "Critical health score"
+  },
+  "total_calls": 3,
+  "call_history": [
+    {
+      "call_id": "668180825",
+      "timestamp": "2025-12-12T16:56:19.039666242+05:30",
+      "duration_seconds": 98,
+      "direction": "Outgoing",
+      "summary": "The executive called the customer to confirm that their issue was resolved with Nidhi and to request a positive response on the feedback email. The executive also set a reminder to call the customer tomorrow morning.",
+      "sentiment": "Neutral",
+      "issues_raised": 3,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    },
+    {
+      "call_id": "668172239",
+      "timestamp": "2025-12-12T16:55:55.634712565+05:30",
+      "duration_seconds": 510,
+      "direction": "Outgoing",
+      "summary": "The customer is upset about a broken promise from two IndiaMART sales representatives in Guwahati regarding a 2000 INR cash refund. He wants contact information for their manager to resolve the issue and clear his name in his office. The executive schedules a catalog update meeting for the next day and promises to look into the Guwahati contact request.",
+      "sentiment": "Negative",
+      "issues_raised": 4,
+      "issues_resolved": 0,
+      "agent_performance": "Poor",
+      "was_escalated": true,
+      "follow_up_needed": true
+    },
+    {
+      "call_id": "668161490",
+      "timestamp": "2025-12-12T16:55:50.041676173+05:30",
+      "duration_seconds": 123,
+      "direction": "Incoming",
+      "summary": "The customer called inquiring about purchasing an IndiaMART subscription. The executive took the customer's WhatsApp number to follow up later after checking details and due to lunch time.",
+      "sentiment": "Neutral",
+      "issues_raised": 0,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    }
+  ],
+  "active_issues": [
+    {
+      "issue_id": "100424701-668172239-0",
+      "problem": "Sales representatives promised a 2000 INR cash refund that was never delivered, causing the customer embarrassment and questioning of his integrity within his own company.",
+      "bucket": "Billing \u0026 Renewal",
+      "severity": "high",
+      "action_required": "IndiaMART needs to investigate the sales representatives' actions, ensure the promised refund is provided (potentially as a credit to the account), and formally apologize to the customer for the inconvenience and reputational damage. Escalate this to a regional sales manager for immediate action.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:56:19.038142382+05:30",
+      "last_mentioned_at": "2025-12-12T16:56:19.038142382+05:30",
+      "mention_count": 1,
+      "call_ids": [
+        "668172239"
+      ],
+      "is_recurring": false
+    },
+    {
+      "issue_id": "100424701-668172239-1",
+      "problem": "Customer is unable to contact the sales representatives involved in the initial subscription agreement.",
+      "bucket": "Communication",
+      "severity": "medium",
+      "action_required": "IndiaMART should provide the customer with alternative contact information for someone in the Guwahati office who can address his concerns. The executive should not just promise to look into it, but actively find and provide the contact information during the call or immediately after.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:56:19.038142382+05:30",
+      "last_mentioned_at": "2025-12-12T16:56:27.881285566+05:30",
+      "mention_count": 3,
+      "call_ids": [
+        "668172239",
+        "668172239",
+        "668180825"
+      ],
+      "is_recurring": true
+    },
+    {
+      "issue_id": "100424701-668172239-2",
+      "problem": "Customer raised a ticket with customer care, which is now redundant.",
+      "bucket": "Support / Training",
+      "severity": "medium",
+      "action_required": "The executive should ensure the customer care ticket is closed to avoid duplicate efforts and confusion.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:56:19.038142382+05:30",
+      "last_mentioned_at": "2025-12-12T16:56:27.881285566+05:30",
+      "mention_count": 3,
+      "call_ids": [
+        "668172239",
+        "668180825",
+        "668180825"
+      ],
+      "is_recurring": true
+    }
+  ],
+  "resolved_issues": [],
+  "issue_stats": {
+    "total_issues_ever": 3,
+    "current_open_count": 3,
+    "resolved_count": 0,
+    "recurring_count": 2,
+    "avg_resolution_days": 0,
+    "top_buckets": [
+      {
+        "bucket": "Billing \u0026 Renewal",
+        "count": 1
+      },
+      {
+        "bucket": "Communication",
+        "count": 1
+      },
+      {
+        "bucket": "Support / Training",
+        "count": 1
+      }
+    ],
+    "severity_breakdown": {
+      "high": 1,
+      "medium": 2
+    }
+  },
+  "trends": {
+    "sentiment_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "668161490"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "Negative",
+        "call_id": "668172239"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "668180825"
+      }
+    ],
+    "satisfaction_history": [
+      {
+        "date": "2025-12-12",
+        "value": 5,
+        "call_id": "668161490"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 3,
+        "call_id": "668172239"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 5,
+        "call_id": "668180825"
+      }
+    ],
+    "issue_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "call_id": "668161490"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 4,
+        "call_id": "668172239"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 3,
+        "call_id": "668180825"
+      }
+    ],
+    "sentiment_trend": "declining",
+    "satisfaction_trend": "declining",
+    "overall_trend": "declining",
+    "churn_risk_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "low",
+        "call_id": "668161490"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "medium",
+        "call_id": "668172239"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "medium",
+        "call_id": "668180825"
+      }
+    ]
+  },
+  "seller_categories": [
+    "RCC Hume Pipes",
+    "RCC Pipes",
+    "Precast Compound Wall",
+    "Precast U Drain",
+    "Cement Pipes"
+  ],
+  "created_at": "2025-12-12T16:55:55.633667443+05:30",
+  "updated_at": "2025-12-12T16:56:27.881306303+05:30",
+  "last_call_at": "2025-12-12T16:56:19.039666242+05:30"
+}

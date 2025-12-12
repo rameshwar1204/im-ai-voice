@@ -1,0 +1,84 @@
+{
+  "call_id": "672037700",
+  "seller_id": "100263215",
+  "timestamp": "2025-12-12T16:55:19.328088611+05:30",
+  "transcript_en": "Customer: Hello.\nExecutive: Hello, ji, is Kisaan ji speaking?\nCustomer: Hello.\nExecutive: Hello.\nCustomer: Hello.\nExecutive: Hello.\nExecutive: Hello, ji, is Kisaan ji speaking? Ji, I am calling from IndiaMART.\nCustomer: Ji, tell me, madam.\nExecutive: Sir, we were checking your review, Kisaan Kalyan Krishi Kendra.\nExecutive: It's slow right now, madam, not down yet.\nExecutive: What are you saying, what are you saying, sir?\nCustomer: Not down yet, madam.\nExecutive: So sir, as I can see, you have a total of 16 products, 16 products. How many products are you currently doing?\nCustomer: Hmm.\nExecutive: So sir, as I can see, as you are saying that you are not getting business. I will tell you why you are not getting it because the categories you have matched for your product Mahindra tractor. Can you connect on video sometime?\nCustomer: Hello.\nCustomer: Hello.\nCustomer: Madam, I have just come outside.\nExecutive: Hello, so yes sir, after how long can I connect with you?\nCustomer: Hello.\nCustomer: Not possible today.\nCustomer: Not possible today.\nExecutive: So tomorrow, tomorrow, hello.\nCustomer: Yes, we will do it tomorrow.\nExecutive: O- okay sir, we will connect with you tomorrow. Okay, okay.\nCustomer: Yes, okay.",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Customer is not getting enough business through IndiaMART.",
+      "bucket": "Lead Quantity",
+      "severity": "medium",
+      "actionable_summary": "Investigate the customer's product listings and category matching to identify areas for improvement. Ensure the customer is receiving the appropriate number of leads based on their subscription."
+    },
+    {
+      "problem": "Potential mismatch of product categories affecting business.",
+      "bucket": "Catalog / Storefront Setup",
+      "severity": "medium",
+      "actionable_summary": "Review the customer's product catalog and ensure the categories are accurately matched to the products. Offer assistance with catalog optimization."
+    },
+    {
+      "problem": "Customer unavailable for immediate assistance and rescheduled for the next day.",
+      "bucket": "Communication",
+      "severity": "low",
+      "actionable_summary": "Ensure the executive follows up with the customer as scheduled to address their concerns and provide assistance."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "medium",
+    "renewal_at_risk": true,
+    "dissatisfaction_level": "medium",
+    "churn_reason": "Lack of business and potential catalog issues.",
+    "renewal_probability": 0.5
+  },
+  "upsell": {
+    "has_opportunity": true,
+    "score": 6,
+    "willingness_to_invest": "medium",
+    "is_growth_oriented": true,
+    "interested_features": [
+      "Catalog Optimization",
+      "Category-City Targeting"
+    ],
+    "upsell_reason": "Customer is looking to improve their business through IndiaMART and may be open to additional services to achieve this."
+  },
+  "call_summary": "The IndiaMART executive called the customer to review their account and address the lack of business. The executive identified potential issues with product category matching and suggested a video call to discuss further, but the customer was unavailable and scheduled a call for the next day.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer is experiencing a lack of business, potentially due to catalog issues.",
+      "Executive identified potential category mismatch and scheduled a follow-up call."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- Customer is not getting enough business.\\n\n- Customer says the portal is down.\\n\n\\n\nResolution:\\n\n- Executive said the portal is slow, not down.\\n\n- Executive offered a video call to fix categories.\\n\n\\n\nNext Steps: \\n\n- Executive will call the customer tomorrow.\\n\n\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- business, products, categories, video call\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Mahindra Tractor",
+      "Rotavator Blades",
+      "Tractor Front End Loader",
+      "Mahindra Engine Oil",
+      "Mahindra Rotavator"
+    ],
+    "user_info": {
+      "bl_dau_oct": 0,
+      "call_duration_seconds": 84,
+      "call_entered_on": "11/17/2025",
+      "call_status": "Answered",
+      "city_name": "Tonk",
+      "customer_type": "CATALOG",
+      "flag_in_out": "Outgoing",
+      "gluser_id": "100263215",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 3
+    }
+  },
+  "analyzed_at": "2025-12-12T16:55:27.533946278+05:30"
+}

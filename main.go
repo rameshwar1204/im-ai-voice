@@ -17,6 +17,15 @@ func main() {
 	}
 	log.Println("Storage directories initialized")
 
+	// Initialize MongoDB (optional - if MONGODB_URI is set)
+	if err := InitMongoDB(); err != nil {
+		log.Printf("Warning: MongoDB initialization failed: %v", err)
+		log.Println("Continuing without MongoDB sync...")
+	}
+	if MongoDB != nil && MongoDB.enabled {
+		defer MongoDB.Close()
+	}
+
 	// Initialize AI client (Gemini)
 	ai, err := NewAIClientFromEnv()
 	if err != nil {
@@ -60,14 +69,30 @@ func main() {
 	fmt.Println()
 	fmt.Println("🤖 EVENT-DRIVEN AUTOMATED FLOW:")
 	fmt.Println("   1. New transcript in data/transcripts/ → Auto-analyze")
-	fmt.Println("   2. Analysis saved as gluser_{id}.analysis.json")
+	fmt.Println("   2. Seller profile updated (data/profiles/seller_{id}.json)")
 	fmt.Println("   3. After 10 new analyses → Auto-aggregate + tickets")
 	fmt.Println()
+
+	// MongoDB status
+	if MongoDB != nil && MongoDB.enabled {
+		fmt.Println("💾 MongoDB: ✅ CONNECTED")
+		fmt.Printf("   Database: %s\n", DB_NAME)
+		fmt.Println("   Collections: seller_profiles, call_analyses, tickets, daily_aggregates")
+	} else {
+		fmt.Println("💾 MongoDB: ❌ DISABLED (set MONGODB_URI to enable)")
+	}
+	fmt.Println()
+
 	fmt.Println("API Endpoints:")
 	fmt.Println("  POST /ingest              - Ingest call transcript")
 	fmt.Println("  POST /analyze             - Analyze transcript directly")
 	fmt.Println("  POST /analyze/trigger     - Process all unprocessed")
 	fmt.Println("  GET  /calls/{id}          - Get call analysis")
+	fmt.Println()
+	fmt.Println("  📊 SELLER PROFILES (Dashboard-Ready):")
+	fmt.Println("  GET  /sellers             - List all sellers with status")
+	fmt.Println("  GET  /sellers/{gluser_id} - Get full seller profile")
+	fmt.Println()
 	fmt.Println("  GET  /aggregates          - List aggregates")
 	fmt.Println("  GET  /aggregates/{date}   - Get daily aggregate")
 	fmt.Println("  POST /aggregates/trigger  - Run aggregation manually")

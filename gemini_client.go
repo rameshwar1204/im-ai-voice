@@ -120,8 +120,14 @@ func (a *AIClient) AnalyzeText(ctx context.Context, text string) (string, error)
 	return a.sendRequest(ctx, "You are an AI model that analyzes call transcripts.", text)
 }
 
+// AnalyzeTranscript analyzes a transcript, optionally with seller history context
 func (a *AIClient) AnalyzeTranscript(ctx context.Context, rt RawTranscript) (*AnalysisResult, error) {
-	prompt := buildAnalysisPrompt(rt.Transcript)
+	return a.AnalyzeTranscriptWithContext(ctx, rt, "")
+}
+
+// AnalyzeTranscriptWithContext analyzes a transcript with seller history context
+func (a *AIClient) AnalyzeTranscriptWithContext(ctx context.Context, rt RawTranscript, sellerContext string) (*AnalysisResult, error) {
+	prompt := buildAnalysisPrompt(rt.Transcript, sellerContext)
 	systemPrompt := buildSystemPrompt()
 	response, err := a.sendRequest(ctx, systemPrompt, prompt)
 	if err != nil {
@@ -154,13 +160,29 @@ ANALYSIS GUIDELINES:
 4. Identify upsell opportunities based on seller needs and business signals
 5. Evaluate agent performance against IndiaMART standards
 6. Provide actionable recommendations specific to IndiaMART's solutions
+7. If seller history is provided, consider recurring patterns and unresolved issues
 
 IMPORTANT: Respond with ONLY valid JSON. No markdown, no code blocks, no explanations.`, IndiaMARTContext)
 }
 
-func buildAnalysisPrompt(transcript string) string {
+func buildAnalysisPrompt(transcript string, sellerContext string) string {
 	bucketList := strings.Join(FeatureBuckets, ", ")
-	return fmt.Sprintf(`ANALYZE THIS CALL TRANSCRIPT:
+
+	contextSection := ""
+	if sellerContext != "" {
+		contextSection = fmt.Sprintf(`
+SELLER CONTEXT (Previous Interactions):
+%s
+
+Consider the seller's history when analyzing. Look for:
+- Recurring issues that need systemic fixes
+- Worsening sentiment trends indicating high churn risk
+- Repeated escalations suggesting service failures
+
+`, sellerContext)
+	}
+
+	return fmt.Sprintf(`%sANALYZE THIS CALL TRANSCRIPT:
 
 %s
 
@@ -203,7 +225,7 @@ RESPOND WITH THIS EXACT JSON STRUCTURE:
   "key_insights": ["insight1", "insight2"],
   "follow_up_needed": true/false,
   "escalation_required": true/false
-}`, transcript, bucketList)
+}`, contextSection, transcript, bucketList)
 }
 
 func parseAnalysisResponse(response string, rt RawTranscript) (*AnalysisResult, error) {

@@ -1,0 +1,90 @@
+{
+  "gluser_id": "10069547",
+  "customer_type": "TEMPBLOCK",
+  "city_name": "New Delhi",
+  "vertical": "Tele Annual KCD",
+  "vintage_months": 123,
+  "current_status": {
+    "health_score": 65,
+    "health_label": "At Risk",
+    "churn_risk": "low",
+    "churn_probability": 0.7,
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "open_issue_count": 0,
+    "upsell_potential": "low",
+    "needs_attention": false
+  },
+  "total_calls": 1,
+  "call_history": [
+    {
+      "call_id": "669411827",
+      "timestamp": "2025-12-12T16:58:13.984834229+05:30",
+      "duration_seconds": 46,
+      "direction": "Incoming",
+      "summary": "The customer is checking on photos she sent related to packing machines. The executive confirms he is the packing machine contact.",
+      "sentiment": "Neutral",
+      "issues_raised": 0,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    }
+  ],
+  "active_issues": [],
+  "resolved_issues": [],
+  "issue_stats": {
+    "total_issues_ever": 0,
+    "current_open_count": 0,
+    "resolved_count": 0,
+    "recurring_count": 0,
+    "avg_resolution_days": 0,
+    "top_buckets": [],
+    "severity_breakdown": {}
+  },
+  "trends": {
+    "sentiment_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "669411827"
+      }
+    ],
+    "satisfaction_history": [
+      {
+        "date": "2025-12-12",
+        "value": 5,
+        "call_id": "669411827"
+      }
+    ],
+    "issue_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "call_id": "669411827"
+      }
+    ],
+    "sentiment_trend": "stable",
+    "satisfaction_trend": "stable",
+    "overall_trend": "stable",
+    "churn_risk_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "low",
+        "call_id": "669411827"
+      }
+    ]
+  },
+  "seller_categories": [
+    "Food Dehydrators",
+    "Foil Sealing Machine",
+    "Vegetable Dehydration Machine",
+    "Tray Sealer Machine",
+    "Roasting Machine"
+  ],
+  "created_at": "2025-12-12T16:58:17.483080267+05:30",
+  "updated_at": "2025-12-12T16:58:17.483128856+05:30",
+  "last_call_at": "2025-12-12T16:58:13.984834229+05:30"
+}

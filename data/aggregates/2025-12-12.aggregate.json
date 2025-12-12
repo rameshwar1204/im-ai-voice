@@ -1,39 +1,15 @@
 {
   "date": "2025-12-12",
-  "total_calls": 8,
-  "total_issues": 19,
+  "total_calls": 20,
+  "total_issues": 29,
   "feature_buckets": {
     "App / Platform Usability": {
       "bucket": "App / Platform Usability",
-      "total_count": 2,
-      "affected_sellers": 2,
-      "top_problems": [
-        {
-          "problem": "Customer is primarily using a mobile phone and only occasionally uses a laptop, potentially missing out on features or information available on the desktop platform (e.g., the 10,000 piece lead).",
-          "count": 1,
-          "severity": "medium"
-        },
-        {
-          "problem": "Customer is having difficulty using the BuyLeads filters in the mobile app.",
-          "count": 1,
-          "severity": "medium"
-        }
-      ],
-      "severity_breakdown": {
-        "low": 2
-      },
-      "examples": [
-        "Provide better in-app guidance or tutorials on using the BuyLeads filters, especially on mobile devices. Consider simplifying the filter interface.",
-        "Encourage the customer to use the laptop more frequently to access all platform features. Ensure the mobile app has feature parity with the desktop version. Provide training on using both platforms effectively."
-      ]
-    },
-    "Buyer Interaction": {
-      "bucket": "Buyer Interaction",
       "total_count": 1,
       "affected_sellers": 1,
       "top_problems": [
         {
-          "problem": "Buyer not responding after legal notice.",
+          "problem": "Difficulty finding relevant leads within the IndiaMART platform (BuyLeads section).",
           "count": 1,
           "severity": "medium"
         }
@@ -42,16 +18,75 @@
         "medium": 1
       },
       "examples": [
-        "IndiaMART should investigate why the buyer is not responding and provide the customer with an update on the legal options."
+        "Simplify the BuyLeads filtering process and provide clearer instructions on how to find specific types of leads (e.g., customized, bulk orders). Offer personalized training on using the platform effectively."
       ]
     },
-    "Catalog / Storefront Setup": {
-      "bucket": "Catalog / Storefront Setup",
+    "Billing \u0026 Renewal": {
+      "bucket": "Billing \u0026 Renewal",
       "total_count": 1,
       "affected_sellers": 1,
       "top_problems": [
         {
+          "problem": "Sales representatives promised a 2000 INR cash refund that was never delivered, causing the customer embarrassment and questioning of his integrity within his own company.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "high": 1
+      },
+      "examples": [
+        "IndiaMART needs to investigate the sales representatives' actions, ensure the promised refund is provided (potentially as a credit to the account), and formally apologize to the customer for the inconvenience and reputational damage. Escalate this to a regional sales manager for immediate action."
+      ]
+    },
+    "Catalog / Storefront Setup": {
+      "bucket": "Catalog / Storefront Setup",
+      "total_count": 5,
+      "affected_sellers": 3,
+      "top_problems": [
+        {
           "problem": "Customer needs assistance with updating product images in their catalog.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Potential mismatch of product categories affecting business.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Products (Vitcall gel and SV Call DS calcium) are not showing up on IndiaMART.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Incorrect price for Shialo animal syrup.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Customer is following up on sending product photos via WhatsApp, indicating a previous request or issue related to catalog setup.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "low": 3,
+        "medium": 2
+      },
+      "examples": [
+        "Assist the customer with updating the product images as requested. Ensure the images are high-quality and accurately represent the products.",
+        "Review the customer's product catalog and ensure the categories are accurately matched to the products. Offer assistance with catalog optimization.",
+        "Ensure all products are properly indexed and searchable on the platform. Investigate why the products were not visible and prevent recurrence."
+      ]
+    },
+    "Category-City Targeting": {
+      "bucket": "Category-City Targeting",
+      "total_count": 1,
+      "affected_sellers": 1,
+      "top_problems": [
+        {
+          "problem": "Transportation costs from other states are a concern.",
           "count": 1,
           "severity": "medium"
         }
@@ -60,116 +95,78 @@
         "low": 1
       },
       "examples": [
-        "Ensure the images are updated promptly and according to IndiaMART's guidelines. Follow up to confirm the images have been updated to the customer's satisfaction."
-      ]
-    },
-    "Category-City Targeting": {
-      "bucket": "Category-City Targeting",
-      "total_count": 2,
-      "affected_sellers": 2,
-      "top_problems": [
-        {
-          "problem": "Customer finds transportation costs from other states too high, limiting their potential leads.",
-          "count": 1,
-          "severity": "medium"
-        },
-        {
-          "problem": "Customer has negatively marked categories (glass tumbler, lemon set) that they actually deal in, potentially reducing relevant lead flow.",
-          "count": 1,
-          "severity": "medium"
-        }
-      ],
-      "severity_breakdown": {
-        "medium": 2
-      },
-      "examples": [
-        "Explore options for more granular city-level targeting or partnerships with logistics providers to offer discounted shipping rates for IndiaMART sellers.",
-        "Guide the customer on how to restore these categories in their business preferences settings. Offer assistance if the customer is unable to do it themselves."
+        "Optimize category-city targeting to prioritize leads from nearby locations to reduce transportation costs. Explore options for offering transportation solutions or partnerships."
       ]
     },
     "Communication": {
       "bucket": "Communication",
-      "total_count": 4,
-      "affected_sellers": 3,
+      "total_count": 5,
+      "affected_sellers": 4,
       "top_problems": [
         {
-          "problem": "Executive is asking for positive feedback before ensuring the issue is actually resolved.",
+          "problem": "The executive explains the company's unique number system, suggesting potential confusion or frustration from the customer regarding previous calls and contact information.",
           "count": 1,
           "severity": "medium"
         },
         {
-          "problem": "Customer wants the executive to send something via WhatsApp from her personal number.",
+          "problem": "Seller's representative may have called with an issue, but the seller is unaware of the details.",
           "count": 1,
           "severity": "medium"
         },
         {
-          "problem": "The customer may have previously called and not received a call back, resulting in a ticket being raised.",
+          "problem": "Customer unavailable for immediate assistance and rescheduled for the next day.",
           "count": 1,
           "severity": "medium"
         },
         {
-          "problem": "Delay in update regarding the complaint.",
+          "problem": "Customer is unable to contact the sales representatives involved in the initial subscription agreement.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "The customer had to call multiple times to schedule a catalog update meeting.",
           "count": 1,
           "severity": "medium"
         }
       ],
       "severity_breakdown": {
-        "low": 2,
-        "medium": 2
+        "low": 4,
+        "medium": 3
       },
       "examples": [
-        "IndiaMART should train executives to prioritize actual resolution over positive feedback requests and ensure the customer's issue is fully addressed before soliciting feedback.",
-        "The executive should send the requested information from her personal number after closing the ticket as promised.",
-        "Ensure all previous tickets are addressed and resolved promptly to avoid customer frustration."
-      ]
-    },
-    "Lead Management": {
-      "bucket": "Lead Management",
-      "total_count": 2,
-      "affected_sellers": 2,
-      "top_problems": [
-        {
-          "problem": "Customer is missing leads because they are not always available, resulting in leads expiring or being sold out to other suppliers.",
-          "count": 1,
-          "severity": "medium"
-        },
-        {
-          "problem": "Customer wants to remove/cut 20 names from something, unclear what.",
-          "count": 1,
-          "severity": "medium"
-        }
-      ],
-      "severity_breakdown": {
-        "low": 1,
-        "medium": 1
-      },
-      "examples": [
-        "Educate the customer on the importance of responding promptly to leads and suggest using the PNS (Preferred Number Service) to forward calls to multiple numbers to avoid missing opportunities.",
-        "The agent needs to understand what the customer means by 'cut those 20 names' and address the underlying issue. Investigate the customer's account to understand the context of the 20 names."
+        "The IndiaMART representative should follow up with the seller's representative (Nivedita) to determine the nature of the issue and resolve it.",
+        "Ensure the executive follows up with the customer as scheduled to address their concerns and provide assistance.",
+        "IndiaMART should provide the customer with alternative contact information for someone in the Guwahati office who can address his concerns. The executive should not just promise to look into it, but actively find and provide the contact information during the call or immediately after."
       ]
     },
     "Lead Quality": {
       "bucket": "Lead Quality",
-      "total_count": 2,
+      "total_count": 3,
       "affected_sellers": 2,
       "top_problems": [
         {
-          "problem": "Low conversion rate of leads, buyers not ready to pay due to trust issues.",
+          "problem": "Customer is not fully satisfied with the conversion rate of the leads they are receiving.",
           "count": 1,
           "severity": "medium"
         },
         {
-          "problem": "Customer is receiving leads with low order quantities (20-50 sets) and needs leads with a minimum of 500 sets, worth at least 1.5 lakh.",
+          "problem": "Customer believes that paid members should only receive leads from other paid members.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Customer believes that paid members should only receive leads from other paid members, highlighting a misunderstanding of the lead distribution system and a desire for higher-quality leads.",
           "count": 1,
           "severity": "medium"
         }
       ],
       "severity_breakdown": {
-        "medium": 2
+        "medium": 3
       },
       "examples": [
-        "Investigate lead quality in the cashew nut category and provide resources or training to the seller on building trust with potential buyers (e.g., leveraging TrustSEAL).",
-        "Adjust the customer's lead filters to prioritize leads with higher order quantities. Ensure the category-city targeting is correctly configured to attract relevant buyers."
+        "Analyze the quality of leads being provided to the customer and ensure they are relevant and likely to convert. Consider filtering out low-quality leads.",
+        "IndiaMART needs to educate the customer on the value of leads from verified buyers, regardless of their subscription status, and emphasize the TrustSeal verification as a sign of credibility.",
+        "Provide clearer communication and training to the customer regarding the lead distribution system, emphasizing the criteria used to determine lead relevance and quality, regardless of the buyer's subscription status.  Offer examples of successful conversions from 'free' buyer leads."
       ]
     },
     "Lead Quantity": {
@@ -178,12 +175,12 @@
       "affected_sellers": 2,
       "top_problems": [
         {
-          "problem": "Customer is receiving a low quantity of bulk order inquiries, especially for customized cups.",
+          "problem": "Low inquiry volume, particularly for customized and bulk orders.",
           "count": 1,
           "severity": "medium"
         },
         {
-          "problem": "Customer states that leads are not coming properly and the expected work is not happening, especially since before Diwali.",
+          "problem": "Customer is not getting enough business through IndiaMART.",
           "count": 1,
           "severity": "medium"
         }
@@ -192,17 +189,17 @@
         "medium": 2
       },
       "examples": [
-        "Investigate the customer's current plan and category settings to ensure they are receiving the appropriate number of leads. Optimize category targeting for customized cups.",
-        "Monitor lead delivery for the customer's account over the next week to ensure the promised lead volume is met. Investigate why leads stopped coming before Diwali."
+        "Investigate the lead distribution algorithm to ensure relevant leads are being delivered to the seller. Consider adjusting category-city targeting to improve lead relevance.",
+        "Investigate the customer's product listings and category matching to identify areas for improvement. Ensure the customer is receiving the appropriate number of leads based on their subscription."
       ]
     },
-    "Promoted Listing / Lead Priority": {
-      "bucket": "Promoted Listing / Lead Priority",
+    "Other": {
+      "bucket": "Other",
       "total_count": 1,
       "affected_sellers": 1,
       "top_problems": [
         {
-          "problem": "Delay in receiving buylead notifications, with notifications arriving an hour after the buylead is posted.",
+          "problem": "Seller is not interested in TrustSEAL due to recent investments.",
           "count": 1,
           "severity": "medium"
         }
@@ -211,43 +208,90 @@
         "low": 1
       },
       "examples": [
-        "Investigate the notification delivery system to ensure timely delivery of buylead alerts. Explore options for prioritizing notification delivery for paid subscribers."
+        "Note the seller's timeline (February/March next year) for potential future interest in TrustSEAL and follow up then."
       ]
     },
-    "Support / Training": {
-      "bucket": "Support / Training",
-      "total_count": 2,
+    "Promoted Listing / Lead Priority": {
+      "bucket": "Promoted Listing / Lead Priority",
+      "total_count": 3,
       "affected_sellers": 2,
       "top_problems": [
         {
-          "problem": "Customer wants to know the next steps in the legal process.",
+          "problem": "Customer feels that the buylead notifications are delayed and not for the most recent leads.",
           "count": 1,
           "severity": "medium"
         },
         {
-          "problem": "Customer seems to be expecting immediate results from a newly activated service.",
+          "problem": "Customer is unhappy about receiving leads from free members despite being a paid subscriber.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Customer is consistently unhappy about receiving leads from free members despite being a paid subscriber, indicating a perceived lack of value for their subscription.",
           "count": 1,
           "severity": "medium"
         }
       ],
       "severity_breakdown": {
-        "low": 1,
-        "medium": 1
+        "medium": 3
       },
       "examples": [
-        "The support team needs to provide the customer with information about the next steps in the legal process and connect him with the relevant team.",
-        "Provide the customer with realistic expectations regarding the ramp-up time for a new service and offer training resources."
+        "Investigate the notification system to ensure timely delivery of buylead notifications. Prioritize sending notifications for the newest leads first.",
+        "IndiaMART should clarify the lead distribution policy to paid members during onboarding and consider offering a filtering option for paid leads only in the future, potentially as a premium feature.",
+        "IndiaMART should investigate the lead filtering logic and consider prioritizing leads from paid members for paid subscribers.  Explore options for exclusive lead pools for higher-tier subscriptions."
+      ]
+    },
+    "Support / Training": {
+      "bucket": "Support / Training",
+      "total_count": 5,
+      "affected_sellers": 2,
+      "top_problems": [
+        {
+          "problem": "Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility, suggesting a need for better education and promotion of this feature.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "Customer raised a ticket with customer care, which is now redundant.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "The customer was asked to provide positive feedback on a survey to close the ticket, which could be seen as pressuring the customer and not genuinely addressing the underlying issues.",
+          "count": 1,
+          "severity": "medium"
+        },
+        {
+          "problem": "The customer has an ongoing issue that required scheduling a meeting with Nidhi, suggesting the initial problem was not immediately resolved.",
+          "count": 1,
+          "severity": "medium"
+        }
+      ],
+      "severity_breakdown": {
+        "low": 3,
+        "medium": 2
+      },
+      "examples": [
+        "The agent needs to provide a more detailed explanation of the TrustSeal benefits and how it can increase buyer confidence and lead to successful transactions.",
+        "Proactively provide the customer with detailed information and training materials on the benefits of TrustSeal, including its impact on buyer trust, search ranking, and conversion rates.  Showcase success stories of other TrustSeal users.",
+        "The executive should ensure the customer care ticket is closed to avoid duplicate efforts and confusion."
       ]
     }
   },
   "sentiment_breakdown": {
-    "Neutral": 8
+    "Negative": 3,
+    "Neutral": 17
   },
   "churn_risk_breakdown": {
-    "low": 6,
-    "medium": 2
+    "low": 11,
+    "medium": 9
   },
-  "upsell_opportunities": 2,
-  "avg_satisfaction_score": 5.5,
-  "generated_at": "2025-12-12T12:00:34.4824686+05:30"
+  "upsell_opportunities": 4,
+  "avg_satisfaction_score": 5,
+  "generated_at": "2025-12-12T16:56:51.23008749+05:30"
 }

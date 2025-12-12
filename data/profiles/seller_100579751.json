@@ -1,0 +1,172 @@
+{
+  "gluser_id": "100579751",
+  "customer_type": "TSCATALOG",
+  "city_name": "Panipat",
+  "vertical": "Tele Annual CSD",
+  "vintage_months": 1,
+  "current_status": {
+    "health_score": 53,
+    "health_label": "At Risk",
+    "churn_risk": "low",
+    "churn_probability": 0.7,
+    "sentiment": "Neutral",
+    "satisfaction_score": 7,
+    "open_issue_count": 2,
+    "upsell_potential": "low",
+    "needs_attention": true,
+    "attention_reason": "2 recurring unresolved issues"
+  },
+  "total_calls": 2,
+  "call_history": [
+    {
+      "call_id": "673660554",
+      "timestamp": "2025-12-12T16:56:45.745382201+05:30",
+      "duration_seconds": 53,
+      "direction": "Incoming",
+      "summary": "The customer is following up on sending product photos via WhatsApp. The executive explains the company's unique number system and assures the customer that she will send the photos from her direct number after closing the ticket.",
+      "sentiment": "Neutral",
+      "issues_raised": 2,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    },
+    {
+      "call_id": "673652013",
+      "timestamp": "2025-12-12T16:56:27.882409111+05:30",
+      "duration_seconds": 456,
+      "direction": "Outgoing",
+      "summary": "The seller called regarding products (Vitcall gel and SV Call DS calcium) not showing up on IndiaMART. The customer service executive added the Vitcall gel to the seller's catalog and requested the seller to send product photos via WhatsApp. The seller also inquired about an incorrect price for Shialo animal syrup, which the executive promised to address after 3 pm due to being on duty.",
+      "sentiment": "Neutral",
+      "issues_raised": 3,
+      "issues_resolved": 0,
+      "agent_performance": "Average",
+      "was_escalated": false,
+      "follow_up_needed": true
+    }
+  ],
+  "active_issues": [
+    {
+      "issue_id": "100579751-673652013-0",
+      "problem": "Products (Vitcall gel and SV Call DS calcium) are not showing up on IndiaMART.",
+      "bucket": "Catalog / Storefront Setup",
+      "severity": "medium",
+      "action_required": "Ensure all products are properly indexed and searchable on the platform. Investigate why the products were not visible and prevent recurrence.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:56:45.744057425+05:30",
+      "last_mentioned_at": "2025-12-12T16:56:51.224998242+05:30",
+      "mention_count": 3,
+      "call_ids": [
+        "673652013",
+        "673652013",
+        "673660554"
+      ],
+      "is_recurring": true
+    },
+    {
+      "issue_id": "100579751-673652013-1",
+      "problem": "Seller had a previous negative experience with the executive (getting angry).",
+      "bucket": "Communication",
+      "severity": "low",
+      "action_required": "Review the executive's previous interaction with the seller and provide coaching on maintaining a professional and courteous demeanor.",
+      "status": "open",
+      "first_reported_at": "2025-12-12T16:56:45.744057425+05:30",
+      "last_mentioned_at": "2025-12-12T16:56:51.224998242+05:30",
+      "mention_count": 2,
+      "call_ids": [
+        "673652013",
+        "673660554"
+      ],
+      "is_recurring": true
+    }
+  ],
+  "resolved_issues": [],
+  "issue_stats": {
+    "total_issues_ever": 2,
+    "current_open_count": 2,
+    "resolved_count": 0,
+    "recurring_count": 2,
+    "avg_resolution_days": 0,
+    "top_buckets": [
+      {
+        "bucket": "Communication",
+        "count": 1
+      },
+      {
+        "bucket": "Catalog / Storefront Setup",
+        "count": 1
+      }
+    ],
+    "severity_breakdown": {
+      "low": 1,
+      "medium": 1
+    }
+  },
+  "trends": {
+    "sentiment_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "673652013"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0.5,
+        "label": "Neutral",
+        "call_id": "673660554"
+      }
+    ],
+    "satisfaction_history": [
+      {
+        "date": "2025-12-12",
+        "value": 6,
+        "call_id": "673652013"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 7,
+        "call_id": "673660554"
+      }
+    ],
+    "issue_history": [
+      {
+        "date": "2025-12-12",
+        "value": 3,
+        "call_id": "673652013"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 2,
+        "call_id": "673660554"
+      }
+    ],
+    "sentiment_trend": "stable",
+    "satisfaction_trend": "improving",
+    "overall_trend": "improving",
+    "churn_risk_history": [
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "low",
+        "call_id": "673652013"
+      },
+      {
+        "date": "2025-12-12",
+        "value": 0,
+        "label": "low",
+        "call_id": "673660554"
+      }
+    ]
+  },
+  "seller_categories": [
+    "Mineral Mixture",
+    "Liquid Calcium",
+    "Chelated Minerals",
+    "Veterinary Liver Tonic",
+    "Animal Feed Supplement"
+  ],
+  "created_at": "2025-12-12T16:56:45.744037124+05:30",
+  "updated_at": "2025-12-12T16:56:51.225015921+05:30",
+  "last_call_at": "2025-12-12T16:56:45.745382201+05:30"
+}

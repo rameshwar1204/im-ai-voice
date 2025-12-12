@@ -1,0 +1,74 @@
+{
+  "call_id": "673660554",
+  "seller_id": "100579751",
+  "timestamp": "2025-12-12T16:56:45.745382201+05:30",
+  "transcript_en": "Customer: Hello\nExecutive: Hello, yes, hello. Yes, ma'am, the one you put on WhatsApp, yes, yes, sorry, I'll put it. Actually, the number you see, sir, is not my number, it's the company's unique number, so now, like if you have called before and it wasn't received, it becomes the customer care number, so a ticket is raised. Now, if I close your ticket, you will see my original number, okay?\nCustomer: Okay, madam, please put it from your number now.\nExecutive: Yes, yes, okay.",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Customer is following up on sending product photos via WhatsApp, indicating a previous request or issue related to catalog setup.",
+      "bucket": "Catalog / Storefront Setup",
+      "severity": "low",
+      "actionable_summary": "Ensure the executive sends the product photos from her direct number as promised and confirms receipt with the customer. Verify the photos are correctly uploaded to the catalog."
+    },
+    {
+      "problem": "The executive explains the company's unique number system, suggesting potential confusion or frustration from the customer regarding previous calls and contact information.",
+      "bucket": "Communication",
+      "severity": "low",
+      "actionable_summary": "IndiaMART should review its communication processes to minimize customer confusion regarding contact numbers and ensure consistent communication from the same executive when possible."
+    }
+  ],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 7,
+    "prompt_resolution": true,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "churn_reason": "None apparent in this call",
+    "renewal_probability": 0.7
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 2,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "No clear signals in this call."
+  },
+  "call_summary": "The customer is following up on sending product photos via WhatsApp. The executive explains the company's unique number system and assures the customer that she will send the photos from her direct number after closing the ticket.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "The customer is actively working on updating their catalog.",
+      "Communication regarding contact numbers needs improvement."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- Customer wants executive to send something via WhatsApp to her number.\\n\n\\n\nResolution:\\n\n- Executive will send via WhatsApp to customer’s number.\\n\n- Executive clarified the number displayed is a company number and will share her original number after closing the ticket.\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nwhatsapp, number\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Mineral Mixture",
+      "Liquid Calcium",
+      "Chelated Minerals",
+      "Veterinary Liver Tonic",
+      "Animal Feed Supplement"
+    ],
+    "user_info": {
+      "bl_dau_oct": 19,
+      "call_duration_seconds": 53,
+      "call_entered_on": "11/21/2025",
+      "call_status": "Answered",
+      "city_name": "Panipat",
+      "customer_type": "TSCATALOG",
+      "flag_in_out": "Incoming",
+      "gluser_id": "100579751",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 1
+    }
+  },
+  "analyzed_at": "2025-12-12T16:56:51.224704355+05:30"
+}

@@ -1,0 +1,80 @@
+{
+  "call_id": "666728888",
+  "seller_id": "100263215",
+  "timestamp": "2025-12-12T16:54:59.239817598+05:30",
+  "transcript_en": "Customer: Hello.\nExecutive: Good afternoon sir, I am calling from IndiaMART. My name is Ankita. Am I speaking with Shree Balaji Metal?\nCustomer: Yes, speak.\nExecutive: Sir, you raised a query regarding a buylead for S S three hundred four pipe.\nCustomer: Yes, yes.\nExecutive: Sir, can you tell me the buylead ID?\nCustomer: Yes, write it down. Two three zero eight two five zero zero zero zero one.\nExecutive: Okay. Two three zero eight two five, five times zero, one. This buylead is for S S three hundred four pipe, right sir?\nCustomer: Yes.\nExecutive: Okay. Sir, for verification, please confirm your company name, Shree Balaji Metal?\nCustomer: Shree Balaji Metal, yes.\nExecutive: And your registered mobile number is the one you are speaking from?\nCustomer: Yes.\nExecutive: Okay. Sir, I can see that this buylead is from Sanjay Kumar ji, S K Enterprises, Delhi.\nCustomer: Is he a paid member or a free member?\nExecutive: Sir, one minute, let me check. Sir, he is a free member.\nCustomer: So madam, being a paid member, why are you giving us leads from free members? We want leads from paid members.\nExecutive: Sir, see, on IndiaMART, there are both paid and free buyers. The lead that we provide you is given based on the genuineness of the requirement. The buyer's requirement is genuine.\nCustomer: No, madam, we are paying money, so we should only get leads from paid members.\nExecutive: Sir, I understand your point, but the system does not work that way. The system forwards leads based on the requirement, not on the buyer's membership status. And sir, they also have TrustSeal.\nCustomer: What is this TrustSeal?\nExecutive: Sir, TrustSeal means that the buyer has verified their company documents, such as GST, PAN card, etc., with IndiaMART. This increases their credibility.\nCustomer: Okay, but we want business. We only want to deal with paid members.\nExecutive: Sir, please try contacting them once. The requirement is absolutely genuine. Maybe your deal will be finalized.\nCustomer: Can you guarantee that he will buy the goods?\nExecutive: Sir, I cannot guarantee the purchase. It depends on the negotiation between you and the buyer. Our job is to connect you with genuine buyers.\nCustomer: Hmm, okay. Alright.\nExecutive: Can I help you with anything else, sir?\nCustomer: No, that's all.\nExecutive: Thank you for calling IndiaMART. Have a good day.\nCustomer: Okay.",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Customer is unhappy about receiving leads from free members despite being a paid subscriber.",
+      "bucket": "Promoted Listing / Lead Priority",
+      "severity": "medium",
+      "actionable_summary": "IndiaMART should clarify the lead distribution policy to paid members during onboarding and consider offering a filtering option for paid leads only in the future, potentially as a premium feature."
+    },
+    {
+      "problem": "Customer believes that paid members should only receive leads from other paid members.",
+      "bucket": "Lead Quality",
+      "severity": "medium",
+      "actionable_summary": "IndiaMART needs to educate the customer on the value of leads from verified buyers, regardless of their subscription status, and emphasize the TrustSeal verification as a sign of credibility."
+    },
+    {
+      "problem": "Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility.",
+      "bucket": "Support / Training",
+      "severity": "low",
+      "actionable_summary": "The agent needs to provide a more detailed explanation of the TrustSeal benefits and how it can increase buyer confidence and lead to successful transactions."
+    }
+  ],
+  "intent": {
+    "sentiment": "Negative",
+    "satisfaction_score": 4,
+    "prompt_resolution": false,
+    "overall_experience": "Poor"
+  },
+  "churn": {
+    "is_likely_to_churn": "medium",
+    "renewal_at_risk": true,
+    "dissatisfaction_level": "medium",
+    "churn_reason": "Dissatisfaction with lead quality and perceived value of paid subscription.",
+    "renewal_probability": 0.5
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "Customer is currently focused on resolving their existing concerns about lead quality and value."
+  },
+  "call_summary": "The customer is a paid member complaining about receiving a buylead from a free member and wants only paid member leads. The executive explains the system's lead distribution logic based on requirement genuineness and mentions the buyer has TrustSeal.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer's perception of value is tied to receiving leads from other paid members.",
+      "There is a need for better communication regarding the lead distribution policy and the benefits of TrustSeal."
+    ],
+    "original_summary": "\\n\\nConcerns:\\n\\n- Inquired about a buylead for SS 304 pipe.\\n- Unhappy about receiving a lead from a free member.\\n- Believes paid members should only get leads from other paid members.\\n- Asked for the meaning of TrustSeal.\\n\\nResolution:\\n\\n- Provided buylead details (Buyer: Sanjay Kumar, S K Enterprises, Delhi).\\n- Confirmed the buyer is a free member with a TrustSeal.\\n- Explained leads are sent based on requirement genuineness, not buyer's membership status.\\n- Clarified TrustSeal means the buyer's company documents are verified.\\n- Stated that a purchase cannot be guaranteed.\\n\\nNext Steps: \\nNone\\n\\nAlert (If Any):\\nNone\\n\\n@@@Sentiment:\\n- Neutral -\u003e Annoyed -\u003e Neutral\\n\\n@@@Key Topics:\\n- buylead, paid membership, free member, TrustSeal, lead quality, verification\\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Mahindra Tractor",
+      "Rotavator Blades",
+      "Tractor Front End Loader",
+      "Mahindra Engine Oil",
+      "Mahindra Rotavator"
+    ],
+    "user_info": {
+      "bl_dau_oct": 0,
+      "call_duration_seconds": 25,
+      "call_entered_on": "11/3/2025",
+      "call_status": "Answered",
+      "city_name": "Tonk",
+      "customer_type": "CATALOG",
+      "flag_in_out": "Outgoing",
+      "gluser_id": "100263215",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 3
+    }
+  },
+  "analyzed_at": "2025-12-12T16:55:09.467692085+05:30"
+}

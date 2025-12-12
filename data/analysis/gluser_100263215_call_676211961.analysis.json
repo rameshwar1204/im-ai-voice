@@ -1,0 +1,56 @@
+{
+  "call_id": "676211961",
+  "seller_id": "100263215",
+  "timestamp": "2025-12-12T16:55:46.646374971+05:30",
+  "transcript_en": "Caller: [inaudible] Hello\nAgent: Is Ishant Kalyan Doctor there?\nCaller: Yes, speaking.\nAgent: Good morning, I'm calling from IndiaMART.com, Senior Manager. You had called IndiaMART, sir?\nCaller: A call came on the 22nd, sir, it must have been connected here.\nAgent: Okay, okay.",
+  "original_language": "hi-en",
+  "issues": [],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "renewal_probability": 0.5
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false
+  },
+  "call_summary": "The agent is calling the seller back regarding a previous inquiry. The seller confirms receiving a call on the 22nd.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [],
+    "original_summary": "\\n\nConcerns:\\n\n- Call from IndiaMART.com regarding a call made on the 22nd.\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\nNeutral\\n\n\\n\n@@@Key Topics:\\nindiamart, call\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Mahindra Tractor",
+      "Rotavator Blades",
+      "Tractor Front End Loader",
+      "Mahindra Engine Oil",
+      "Mahindra Rotavator"
+    ],
+    "user_info": {
+      "bl_dau_oct": 0,
+      "call_duration_seconds": 35,
+      "call_entered_on": "11/28/2025",
+      "call_status": "Answered",
+      "city_name": "Tonk",
+      "customer_type": "CATALOG",
+      "flag_in_out": "Outgoing",
+      "gluser_id": "100263215",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 3
+    }
+  },
+  "analyzed_at": "2025-12-12T16:55:50.039551687+05:30"
+}

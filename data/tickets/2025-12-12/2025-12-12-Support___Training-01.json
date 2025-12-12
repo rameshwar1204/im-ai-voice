@@ -1,0 +1,44 @@
+{
+  "ticket_id": "2025-12-12-Support___Training-01",
+  "date": "2025-12-12",
+  "feature_bucket": "Support / Training",
+  "priority": 1,
+  "title": "[Support / Training] Customer is not fully aware of the benefits of TrustSeal ... (5 issues from 2 sellers)",
+  "description": "Auto-generated ticket for **Support / Training** issues.\n\n## Summary\n- **Total Issues:** 5\n- **Affected Sellers:** 2\n- **Recurring Across Sellers:** true\n- **Severity:** high\n- **Date:** 2025-12-12\n\n## Top Problems in This Category\n• Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility. (x1)\n• Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility, suggesting a need for better education and promotion of this feature. (x1)\n• Customer raised a ticket with customer care, which is now redundant. (x1)\n\n## Severity Breakdown\n- Critical: 0\n- High: 0\n- Medium: 2\n- Low: 3\n\n_This ticket groups all Support / Training issues together. Review individual analyses for details._",
+  "top_problems": [
+    {
+      "problem": "Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Customer is not fully aware of the benefits of TrustSeal and its impact on buyer credibility, suggesting a need for better education and promotion of this feature.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "Customer raised a ticket with customer care, which is now redundant.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "The customer was asked to provide positive feedback on a survey to close the ticket, which could be seen as pressuring the customer and not genuinely addressing the underlying issues.",
+      "count": 1,
+      "severity": "medium"
+    },
+    {
+      "problem": "The customer has an ongoing issue that required scheduling a meeting with Nidhi, suggesting the initial problem was not immediately resolved.",
+      "count": 1,
+      "severity": "medium"
+    }
+  ],
+  "affected_count": 5,
+  "examples": [
+    "The agent needs to provide a more detailed explanation of the TrustSeal benefits and how it can increase buyer confidence and lead to successful transactions.",
+    "Proactively provide the customer with detailed information and training materials on the benefits of TrustSeal, including its impact on buyer trust, search ranking, and conversion rates.  Showcase success stories of other TrustSeal users.",
+    "The executive should ensure the customer care ticket is closed to avoid duplicate efforts and confusion."
+  ],
+  "severity": "high",
+  "status": "open",
+  "created_at": "2025-12-12T16:56:51.230775148+05:30"
+}

@@ -1,0 +1,58 @@
+{
+  "call_id": "670430259",
+  "seller_id": "100195284",
+  "timestamp": "2025-12-12T16:54:17.463325201+05:30",
+  "transcript_en": "Hello?\nHello?\nHello yes.",
+  "original_language": "hi-en",
+  "issues": [],
+  "intent": {
+    "sentiment": "Neutral",
+    "satisfaction_score": 5,
+    "prompt_resolution": false,
+    "overall_experience": "Average"
+  },
+  "churn": {
+    "is_likely_to_churn": "low",
+    "renewal_at_risk": false,
+    "dissatisfaction_level": "low",
+    "renewal_probability": 0.5
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 1,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false
+  },
+  "call_summary": "The call consists of only greetings and no actual conversation took place. It's impossible to determine the purpose or outcome of the call.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": false,
+    "key_insights": [
+      "Insufficient data to analyze the call."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- None\\n\n\\n\nResolution:\\n\n- None\\n\n\\n\nNext Steps: \\n\nNone\\n\nAlert (If Any):\\n\nNone\\n\n@@@Sentiment:\\n\nNeutral\\n\n\\n\n@@@Key Topics:\\n\nnone\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Sunflower Seeds",
+      "Split Cashew Nut",
+      "California Almond",
+      "Cashew Nuts",
+      "W180 Cashew Nuts"
+    ],
+    "user_info": {
+      "bl_dau_oct": 26,
+      "call_duration_seconds": 31,
+      "call_entered_on": "11/12/2025",
+      "call_status": "Answered",
+      "city_name": "Moodbidri",
+      "customer_type": "CATALOG",
+      "flag_in_out": "Outgoing",
+      "gluser_id": "100195284",
+      "iil_vertical_name": "Tele Annual CSD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 16
+    }
+  },
+  "analyzed_at": "2025-12-12T16:54:20.627188388+05:30"
+}

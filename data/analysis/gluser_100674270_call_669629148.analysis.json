@@ -1,0 +1,80 @@
+{
+  "call_id": "669629148",
+  "seller_id": "100674270",
+  "timestamp": "2025-12-12T16:57:29.045726415+05:30",
+  "transcript_en": "Customer: Hello\nExecutive: Yes. Hello. Yes sir.\nCustomer: Yes.\nExecutive: Sir, I am Rujesh calling from IndiaMART head office.\nCustomer: Yes.\nExecutive: I called you yesterday.\nCustomer: Yes sir, actually yesterday I was not in the office, I was somewhere, I mean something fraud happened with me because of that I was a little busy, that's why I couldn't pick up the call. So tell me sir what.\nExecutive: I will call after reaching the office, I will call in an hour. I will call you in an hour. Sir, what were your issues, tell me a little sir.\nCustomer: I don't know anything about the profile, leads, etc.\nExecutive: Leads are not coming.\nCustomer: What sir? There is no relevancy, sir, I don't know what is happening, there is no lead issue, I don't know what type of lead. Leads are not coming. Leads are not coming. They are coming sir but that's it, I want 10 types, I want 20 types, it is less sir. Okay, I will call you after an hour. You check. Sir, do one thing, you come to the office.\nExecutive: I will do a video meeting with you. Let's discuss in a video meeting. Okay?\nCustomer:",
+  "original_language": "hi-en",
+  "issues": [
+    {
+      "problem": "Customer states they don't understand their profile and are not receiving relevant leads.",
+      "bucket": "Lead Quality",
+      "severity": "medium",
+      "actionable_summary": "Investigate lead quality and relevancy for the customer's profile. Ensure proper category and city targeting."
+    },
+    {
+      "problem": "Customer states leads are not coming or are insufficient in quantity.",
+      "bucket": "Lead Quantity",
+      "severity": "medium",
+      "actionable_summary": "Check the customer's lead quota and delivery settings. Verify that the promised number of leads is being delivered."
+    },
+    {
+      "problem": "Customer is questioning the value of their subscription due to lead issues.",
+      "bucket": "Communication",
+      "severity": "medium",
+      "actionable_summary": "Proactively address the customer's concerns and demonstrate the value of their subscription through improved lead quality and quantity."
+    }
+  ],
+  "intent": {
+    "sentiment": "Negative",
+    "satisfaction_score": 4,
+    "prompt_resolution": false,
+    "overall_experience": "Poor"
+  },
+  "churn": {
+    "is_likely_to_churn": "medium",
+    "renewal_at_risk": true,
+    "dissatisfaction_level": "medium",
+    "churn_reason": "Lack of relevant leads and perceived value from the subscription.",
+    "renewal_probability": 0.4
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 3,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "Customer is currently focused on resolving existing lead issues and is unlikely to be receptive to upsell offers."
+  },
+  "call_summary": "The customer reports not understanding their profile and a lack of relevant leads. The executive proposes a video meeting to discuss the issues further and postpones the call.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": false,
+    "follow_up_needed": true,
+    "key_insights": [
+      "The customer is experiencing recurring issues with lead quality and quantity.",
+      "The customer's sentiment is negative, and they are questioning the value of their subscription."
+    ],
+    "original_summary": "\\n\nConcerns:\\n\n- Customer says fraud happened with him.\\n\n- Doesn't know about profile, leads etc.\\n\n- States leads are not relevant.\\n\n\\n\nResolution:\\n\n- Executive offered a video meeting to discuss.\\n\n\\n\nNext Steps: \\n\n- Executive will schedule a video meeting.\\n\n\\n\nAlert (If Any):\\n\nfraud\\n\n@@@Sentiment:\\n\n- Neutral -\u003e Neutral\\n\n\\n\n@@@Key Topics:\\n\n- leads, profile, video meeting, fraud\\n\n\\n",
+    "parsed": true,
+    "seller_categories": [
+      "Tea Cup Set",
+      "Gift Sets",
+      "Glass Bowls",
+      "Pudding Set",
+      "Glass Pudding Set"
+    ],
+    "user_info": {
+      "bl_dau_oct": 24,
+      "call_duration_seconds": 74,
+      "call_entered_on": "11/11/2025",
+      "call_status": "Answered",
+      "city_name": "Firozabad",
+      "customer_type": "TSCATALOG",
+      "flag_in_out": "Incoming",
+      "gluser_id": "100674270",
+      "iil_vertical_name": "Tele Annual KCD",
+      "is_ticket_repeat60d": "No",
+      "vintage_months": 68
+    }
+  },
+  "analyzed_at": "2025-12-12T16:57:36.112604572+05:30"
+}
