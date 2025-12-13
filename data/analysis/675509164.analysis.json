@@ -1,0 +1,72 @@
+{
+  "call_id": "675509164",
+  "seller_id": "256558984",
+  "timestamp": "2025-12-13T10:25:08.707321782+05:30",
+  "transcript_en": "Customer: Hello\nExecutive: Hello\nCustomer: Yes\nExecutive: Sir, I have taken your paid service under the name Vraj consultancy.\nCustomer: Yes, tell me sir, good afternoon.\nExecutive: Good afternoon.\nExecutive: Yes sir.\nCustomer: I want to cancel that package and get a refund.\nExecutive: You want to cancel it? When did you take it?\nCustomer: It's been about a week.\nExecutive: Just a moment, I just came back from lunch. Give me some time, I will check and call you back at 3 pm, sir. Okay?\nCustomer: Okay, cancel it. I am not getting leads relevant to my service. I sit on the system all day.\nExecutive: Okay.\nExecutive: I will check it once because it might not be a problem. I will get the catalog checked.\nCustomer: Cancel it, sir. I don't want to work with you. Refund it.\nExecutive: Sir, there is no refund. That's why I am saying, let me check it once. Give me some time.\nCustomer: I got looted the first time. I will be careful from next time. I got looted once. Be careful from next time. What do you want to say?\nExecutive: Sir, I want to tell you one thing. If IndiaMART has been in the market for 30 years and lakhs of suppliers are connected, then it's not like everyone is getting looted.\nCustomer: People are connected in products, they stay connected in products. We are providing a service. There are many service providers here, not just thousands but lakhs. I am not getting a single inquiry. We can give you any time of the day. Your daily inquiry is going to waste.\nExecutive: Sir, will you give me a chance to check, please?\nCustomer: Yes, I will.\nExecutive: Because I am not exactly on the system right now, sir. I am on lunch. Our lunch is from 2 to 3. That's why I am saying, I will go to the system at 3 pm and call you. If you call from the front, I will call myself, sir. I will get it done by your account manager. I will do it myself. You don't have to worry about it. You don't need to call. The call will be from here, sir.\nCustomer: Yes.\nExecutive: Please don't worry, sir. I am getting it checked.\nCustomer: Sir, business is not coming, inquiry is not coming. If there is an inquiry, we will click on it.\nExecutive: I understand, sir. It might be that the catalog... Give me some time, sir. I will clear all your doubts. I am not going to say anything wrong to you, sir. It's not like I am asking for money, sir. I am saying regarding the service that if there is any scope for improvement.\nCustomer: Sir, tell the truth. The money is gone for a year.\nExecutive: Sir, tell me one thing. Like you complained to customer care today, okay?\nCustomer: Yes.\nExecutive: Did you talk to your account manager?\nCustomer: No.\nExecutive: Sir, you should have done this first. Have you ever talked to your account manager?\nCustomer: Yes, they called once or twice and said that I told them yesterday that I am not free today, I will explain tomorrow. So, he said that I will call you from the front tomorrow, but nothing has come yet.\nExecutive: No problem, I will get it checked and done, sir. Don't panic, sir. It doesn't happen like that. All your problems will be resolved, sir. Please don't worry, sir.\nCustomer: Inquiry, sir, inquiry is not generated. You will generate fake inquiry now.\nExecutive: What, sir?\nCustomer: The problem is that inquiry is not coming. I am not saying that work is not happening, we are not working. If inquiry is not coming, then will you generate fake inquiry now?\nExecutive: What did I say? There will be some shortcomings, categories are not added. I didn't say that I will generate fake inquiry for you.\nExecutive: I have told you five times, sir. What did I tell you five times? I am on lunch. There is no system in front of me, so I cannot check and tell you, sir. Give me time until 3 pm. I am getting it checked and calling you. I will resolve everything at that time. Then you are saying the same thing, sir. How can I help you now? I don't have a computer in front of me, sir. So, please give me an hour.\nCustomer: Okay, okay sir.\nExecutive: Yes sir, thank you sir.",
+  "original_language": "",
+  "issues": [
+    {
+      "problem": "Customer is not receiving relevant leads after purchasing a paid service.",
+      "bucket": "Lead Quantity",
+      "severity": "high",
+      "actionable_summary": "Investigate why the customer is not receiving leads. Check category-city targeting, catalog optimization, and competition. Ensure the customer's catalog is properly set up and optimized for relevant keywords. Escalate to the relevant team if necessary."
+    },
+    {
+      "problem": "Customer requested cancellation and refund due to lack of leads.",
+      "bucket": "Billing \u0026 Renewal",
+      "severity": "critical",
+      "actionable_summary": "Attempt to resolve the lead issue before processing the cancellation and refund. Offer alternative solutions or compensation if possible to retain the customer. If cancellation is unavoidable, follow the proper refund procedure."
+    },
+    {
+      "problem": "Customer suspects fake inquiries might be generated.",
+      "bucket": "Lead Quality",
+      "severity": "medium",
+      "actionable_summary": "Reassure the customer that IndiaMART does not generate fake inquiries. Explain the lead generation process and the measures taken to ensure lead quality. Offer to review the leads received and filter out any irrelevant ones."
+    },
+    {
+      "problem": "Customer's account manager has not been proactive in resolving the issue.",
+      "bucket": "Communication",
+      "severity": "medium",
+      "actionable_summary": "Ensure the account manager follows up with the customer as promised. Review the account manager's performance and provide coaching if necessary. Improve communication protocols to ensure timely and effective customer support."
+    },
+    {
+      "problem": "Customer feels 'looted' due to lack of results from paid service.",
+      "bucket": "Communication",
+      "severity": "high",
+      "actionable_summary": "Acknowledge the customer's frustration and apologize for the poor experience. Emphasize IndiaMART's commitment to providing value to its customers. Offer a sincere and empathetic response to rebuild trust."
+    }
+  ],
+  "intent": {
+    "sentiment": "Negative",
+    "satisfaction_score": 2,
+    "prompt_resolution": false,
+    "overall_experience": "Poor"
+  },
+  "churn": {
+    "is_likely_to_churn": "high",
+    "renewal_at_risk": true,
+    "dissatisfaction_level": "high",
+    "churn_reason": "Lack of relevant leads and perceived lack of value from paid service.",
+    "renewal_probability": 0.1
+  },
+  "upsell": {
+    "has_opportunity": false,
+    "score": 1,
+    "willingness_to_invest": "low",
+    "is_growth_oriented": false,
+    "upsell_reason": "Customer is highly dissatisfied and focused on cancellation and refund."
+  },
+  "call_summary": "The customer called to complain about not receiving any relevant leads and requested a cancellation and refund of their paid service, which they had purchased a week ago. The executive, who was on lunch break, promised to investigate the issue and call the customer back at 3 pm.",
+  "agent_performance": "Average",
+  "llm_raw_response": {
+    "escalation_required": true,
+    "follow_up_needed": true,
+    "key_insights": [
+      "Customer is highly dissatisfied and at high risk of churning.",
+      "Lack of relevant leads is the primary driver of dissatisfaction.",
+      "Account manager follow-up is lacking."
+    ],
+    "parsed": true
+  },
+  "analyzed_at": "2025-12-13T10:25:22.371302665+05:30"
+}

@@ -507,6 +507,156 @@ function filterSellers() {
     renderSellersList(filtered);
 }
 
+// ===== Show Call Analysis Modal =====
+async function showCallAnalysis(callId, sellerId) {
+    const modal = document.getElementById('callAnalysisModal');
+    const modalBody = document.getElementById('callModalBody');
+    
+    modal.style.display = 'flex';
+    modalBody.innerHTML = `
+        <div class="loading-state">
+            <div class="spinner"></div>
+            <p>Loading call analysis...</p>
+        </div>
+    `;
+    
+    try {
+        const response = await fetch(`/calls/${callId}`);
+        if (!response.ok) throw new Error('Call analysis not found');
+        
+        const analysis = await response.json();
+        
+        // Extract nested fields
+        const intent = analysis.intent || {};
+        const churn = analysis.churn || {};
+        const upsell = analysis.upsell || {};
+        const issues = analysis.issues || [];
+        
+        modalBody.innerHTML = `
+            <div class="call-analysis-detail">
+                <!-- Call Info -->
+                <div class="analysis-section">
+                    <h4>📋 Call Information</h4>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <span class="label">Call ID</span>
+                            <span class="value">${analysis.call_id || callId}</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="label">Seller ID</span>
+                            <span class="value">${analysis.seller_id || sellerId}</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="label">Analyzed At</span>
+                            <span class="value">${formatDate(analysis.analyzed_at)}</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="label">Language</span>
+                            <span class="value">${analysis.original_language || 'N/A'}</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Key Metrics -->
+                <div class="analysis-section">
+                    <h4>📊 Key Metrics</h4>
+                    <div class="metrics-row">
+                        <div class="metric sentiment-${(intent.sentiment || 'neutral').toLowerCase()}">
+                            <span class="metric-value">${intent.sentiment || 'Unknown'}</span>
+                            <span class="metric-label">Sentiment</span>
+                        </div>
+                        <div class="metric churn-${(churn.is_likely_to_churn || 'low').toLowerCase()}">
+                            <span class="metric-value">${churn.is_likely_to_churn || 'Unknown'}</span>
+                            <span class="metric-label">Churn Risk</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-value">${intent.satisfaction_score || 'N/A'}/5</span>
+                            <span class="metric-label">Satisfaction</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-value">${upsell.score || 0}/10</span>
+                            <span class="metric-label">Upsell Score</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Call Summary -->
+                <div class="analysis-section">
+                    <h4>📝 Call Summary</h4>
+                    <p class="summary-text">${analysis.call_summary || 'No summary available'}</p>
+                </div>
+                
+                <!-- Issues Found -->
+                ${issues.length > 0 ? `
+                <div class="analysis-section">
+                    <h4>⚠️ Issues Found (${issues.length})</h4>
+                    <div class="issues-detail-list">
+                        ${issues.map(issue => `
+                            <div class="issue-detail-item severity-${(issue.severity || 'medium').toLowerCase()}">
+                                <div class="issue-detail-header">
+                                    <span class="issue-bucket-tag">${issue.bucket || 'General'}</span>
+                                    <span class="issue-severity-tag ${(issue.severity || 'medium').toLowerCase()}">${issue.severity || 'Medium'}</span>
+                                </div>
+                                <p class="issue-problem-text">${issue.problem}</p>
+                                ${issue.actionable_summary ? `<p class="issue-action-text">💡 ${issue.actionable_summary}</p>` : ''}
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+                ` : '<div class="analysis-section"><h4>✅ No Issues Found</h4><p>This call had no significant issues.</p></div>'}
+                
+                <!-- Churn Analysis -->
+                ${churn.churn_reason ? `
+                <div class="analysis-section">
+                    <h4>📉 Churn Analysis</h4>
+                    <div class="churn-details">
+                        <p><strong>Renewal at Risk:</strong> ${churn.renewal_at_risk ? '⚠️ Yes' : '✅ No'}</p>
+                        <p><strong>Renewal Probability:</strong> ${churn.renewal_probability ? Math.round(churn.renewal_probability * 100) + '%' : 'N/A'}</p>
+                        <p><strong>Reason:</strong> ${churn.churn_reason}</p>
+                    </div>
+                </div>
+                ` : ''}
+                
+                <!-- Upsell Opportunity -->
+                ${upsell.has_opportunity ? `
+                <div class="analysis-section">
+                    <h4>💰 Upsell Opportunity</h4>
+                    <div class="upsell-details">
+                        <p><strong>Willingness to Invest:</strong> ${upsell.willingness_to_invest || 'N/A'}</p>
+                        ${upsell.interested_features && upsell.interested_features.length > 0 ? `
+                            <p><strong>Interested In:</strong></p>
+                            <div class="tags">${upsell.interested_features.map(f => `<span class="tag action">${f}</span>`).join('')}</div>
+                        ` : ''}
+                        ${upsell.upsell_reason ? `<p><strong>Reason:</strong> ${upsell.upsell_reason}</p>` : ''}
+                    </div>
+                </div>
+                ` : ''}
+            </div>
+        `;
+        
+    } catch (e) {
+        modalBody.innerHTML = `
+            <div class="empty-state">
+                <div class="empty-icon">❌</div>
+                <h3>Error Loading Analysis</h3>
+                <p>${e.message}</p>
+            </div>
+        `;
+    }
+}
+
+function closeCallModal() {
+    document.getElementById('callAnalysisModal').style.display = 'none';
+}
+
+// Close modal when clicking outside
+document.addEventListener('click', (e) => {
+    const modal = document.getElementById('callAnalysisModal');
+    if (modal && e.target === modal) {
+        closeCallModal();
+    }
+});
+
 // ===== Select Seller =====
 async function selectSeller(sellerId) {
     selectedSeller = sellerId;
@@ -588,18 +738,31 @@ function displaySellerDetail(seller) {
         <!-- Recent Calls -->
         <div class="call-history">
             <h4>📞 Recent Calls (${callHistory.length})</h4>
-            ${callHistory.length > 0 ? callHistory.slice(-5).reverse().map(call => `
-                <div class="call-item">
+            ${callHistory.length > 0 ? callHistory.slice(-10).reverse().map(call => `
+                <div class="call-item clickable" onclick="showCallAnalysis('${call.call_id}', '${seller.gluser_id}')">
                     <div>
-                        <strong>${call.call_id || 'Unknown'}</strong>
+                        <strong class="call-link">🔍 ${call.call_id || 'Unknown'}</strong>
                         <span style="color: var(--gray-500); margin-left: 8px;">${formatDate(call.date)}</span>
                     </div>
                     <div class="tags">
-                        <span class="tag">${call.sentiment || 'Unknown'}</span>
-                        <span class="tag">${call.category || 'N/A'}</span>
+                        <span class="tag ${(call.sentiment || '').toLowerCase()}">${call.sentiment || 'Unknown'}</span>
+                        <span class="tag">${call.churn_risk || 'N/A'}</span>
                     </div>
                 </div>
             `).join('') : '<p>No call history available</p>'}
+        </div>
+        
+        <!-- Call Analysis Modal -->
+        <div id="callAnalysisModal" class="call-modal" style="display: none;">
+            <div class="call-modal-content">
+                <div class="call-modal-header">
+                    <h3>📞 Call Analysis</h3>
+                    <button class="close-btn" onclick="closeCallModal()">✕</button>
+                </div>
+                <div class="call-modal-body" id="callModalBody">
+                    Loading...
+                </div>
+            </div>
         </div>
     `;
 }
